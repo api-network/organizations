@@ -1,0 +1,23 @@
+---
+name: Everything2
+description: Everything2 is a community for fiction, nonfiction, poetry, reviews,
+  and more. Get writing help or enjoy nearly a half million pieces of original writing.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "145855"
+url: https://raw.githubusercontent.com/api-network/organizations/main/everything2.yaml
+tags:
+- Encyclopedias
+apis: []
+x-common:
+- type: x-website
+  url: https://www.everything2.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

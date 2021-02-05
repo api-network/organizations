@@ -1,0 +1,48 @@
+---
+name: SiteMile.com - WordPress Premium Themes
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "123101"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sitemile-com--wordpress-premium-themes.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-blog
+  url: https://sitemile.com/all-blog-posts
+- type: x-blog
+  url: https://sitemile.com/all-blog-posts/
+- type: x-contact
+  url: https://sitemile.com/contact-us
+- type: x-contact
+  url: https://sitemile.com/contact-us/
+- type: x-documentation
+  url: https://sitemile.com/docs/documentation-codex/
+- type: x-facebook
+  url: http://facebook.com/sitemile/
+- type: x-forum
+  url: https://sitemile.com/forums/
+- type: x-login
+  url: https://sitemile.com/member-login
+- type: x-press
+  url: https://sitemile.com/wordpress-themes-showcase/
+- type: x-privacy
+  url: https://sitemile.com/privacy-policy/
+- type: x-status
+  url: https://sitemile.com/theme-release-status/
+- type: x-terms-of-service
+  url: https://sitemile.com/terms-and-conditions
+- type: x-twitter
+  url: http://twitter.com/sitemile/
+- type: x-website
+  url: https://sitemile.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

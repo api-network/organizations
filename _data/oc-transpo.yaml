@@ -1,0 +1,66 @@
+---
+name: OC Transpo
+description: "Public transit in Canada\u2019s Capital. Service updates: @OCTranspoLive.
+  Transport en commun dans la capitale du Canada. Mises \xE0 jour du service: @OCTranspoDirect."
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/oc-transpo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/oc-transpo.yaml
+tags:
+- Have API
+- Canada
+- Bus
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.octranspo.com
+- type: x-about
+  url: https://www.octranspo.com/en/alerts/about-alerts
+- type: x-about
+  url: https://www.octranspo.com/en/alerts/about-alerts/
+- type: x-about
+  url: https://www.octranspo.com/en/about-us/
+- type: x-base
+  url: https://api.octranspo1.com/
+- type: x-contact
+  url: https://www.octranspo.com/en/contact-us/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/oc-transpo-corporation
+- type: x-developers
+  url: http://www.octranspo1.com/developers
+- type: x-email
+  url: accessibility@octranspo.com
+- type: x-facebook
+  url: https://www.facebook.com/OCTranspo
+- type: x-feed
+  url: https://www.octranspo.com/en/website-feedback/
+- type: x-website
+  url: http://www.octranspo1.com
+- type: x-news
+  url: https://www.octranspo.com/en/news/category/lrt
+- type: x-news
+  url: https://www.octranspo.com/en/news/category/services
+- type: x-news
+  url: https://www.octranspo.com/en/news/category/safety
+- type: x-news
+  url: https://www.octranspo.com/en/news/
+- type: x-support
+  url: https://www.octranspo.com/en/help/
+- type: x-terms-of-service
+  url: https://www.octranspo.com/en/legal-notices/
+- type: x-twitter
+  url: https://twitter.com/#!/oc_transpo
+- type: x-twitter
+  url: https://twitter.com/oc_transpo
+- type: x-youtube
+  url: https://www.youtube.com/user/OCTranspoVideos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,32 @@
+---
+name: Tech Support Guy
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "62766"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tech-support-guy.yaml
+tags:
+- Chats And Forums
+apis: []
+x-common:
+- type: x-forum
+  url: https://forums.techguy.org/
+- type: x-forum
+  url: https://forums.techguy.org/members/
+- type: x-forum
+  url: https://forums.techguy.org/link-forums/rules.103/
+- type: x-forum
+  url: https://forums.techguy.org/link-forums/help.107/
+- type: x-forum
+  url: https://forums.techguy.org/link-forums/donate.104/
+- type: x-website
+  url: https://forums.techguy.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

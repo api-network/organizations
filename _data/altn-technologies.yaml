@@ -1,0 +1,56 @@
+---
+name: Alt-N Technologies
+description: MDaemon Technologies develops easy to use Private Email Server and Email
+  Security software for the SMB market worldwide.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "179203"
+url: https://raw.githubusercontent.com/api-network/organizations/main/altn-technologies.yaml
+tags:
+- Windows Mail Server Software
+- Windows Email Server Software
+- Securitygateway
+- Private Cloud
+- Outlook Connector
+- Messaging Server Software
+- MDaemon
+- Mail Server
+- Mail
+- Hosed Email
+- Fax Server Manager Software
+- Email Spam Firewall
+- Email Server Software
+- Email Server
+- Email Security
+- Email
+- Cloud Email
+- Antivirus
+apis: []
+x-common:
+- type: x-website
+  url: http://www.mdaemon.com/
+- type: x-blog
+  url: http://blogs.mdaemon.com/
+- type: x-facebook
+  url: https://www.facebook.com/MDaemon.Technologies/
+- type: x-feed
+  url: http://feedback.altn.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/mdaemon-technologies
+- type: x-security
+  url: https://www.securitygatewayforemail.com
+- type: x-twitter
+  url: https://twitter.com/MDaemon_Email
+- type: x-website
+  url: https://www.altn.com
+- type: x-youtube
+  url: https://www.youtube.com/c/MDaemonTechnologies
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

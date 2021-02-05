@@ -1,0 +1,39 @@
+---
+name: Nominum
+description: Akamai is the leading content delivery network (CDN) services provider
+  for media and software delivery, and cloud security solutions.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nominum.yaml
+tags:
+- Service Providers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.akamai.com/
+- type: x-blog
+  url: https://blogs.akamai.com/
+- type: x-customers
+  url: https://community.akamai.com/customers/s/support
+- type: x-developer
+  url: https://developer.akamai.com
+- type: x-facebook
+  url: https://www.facebook.com/AkamaiTechnologies/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/akamai-technologies
+- type: x-twitter
+  url: https://twitter.com/Akamai
+- type: x-website
+  url: https://www.nominum.com
+- type: x-youtube
+  url: https://www.youtube.com/user/akamaitechnologies
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,46 @@
+---
+name: Aviary
+description: The world's best photo editor. Get the app now for iOS and Android -
+  it's free! http://www.aviary.com
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/696-aviary.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "83001"
+url: https://raw.githubusercontent.com/api-network/organizations/main/aviary.yaml
+tags:
+- Photos
+- Photos
+- IPhone
+- Have API
+- Editing
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.aviary.com
+- type: x-base
+  url: http://feather.aviary.com
+- type: x-blog
+  url: http://aviary.com/blog
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/Aviary
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/aviary
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/aviary
+- type: x-developers
+  url: https://developers.aviary.com/
+- type: x-github
+  url: https://github.com/AviaryInc
+- type: x-twitter
+  url: https://twitter.com/aviary
+- type: x-website
+  url: https://aviary.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

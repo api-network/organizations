@@ -1,0 +1,161 @@
+---
+name: 'OpenStack Docs: Clustering API'
+description: ""
+image: http://docs.openstack.org
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "32778"
+url: https://raw.githubusercontent.com/api-network/organizations/main/openstack-docs-clustering-api.yaml
+tags: []
+apis: []
+x-common:
+- type: x-code
+  url: https://www.openstack.org/software/sourcecode/
+- type: x-documentation
+  url: https://docs.openstack.org/
+- type: x-documentation
+  url: https://docs.openstack.org/ussuri/index.html
+- type: x-documentation
+  url: https://docs.openstack.org/stein/index.html
+- type: x-documentation
+  url: https://docs.openstack.org/rocky/index.html
+- type: x-documentation
+  url: https://docs.openstack.org/queens/index.html
+- type: x-documentation
+  url: https://docs.openstack.org/pike/index.html
+- type: x-documentation
+  url: https://docs.openstack.org/ocata/index.html
+- type: x-documentation
+  url: https://docs.openstack.org/newton/index.html
+- type: x-documentation
+  url: https://docs.openstack.org/mitaka/index.html
+- type: x-documentation
+  url: https://docs.openstack.org/liberty/index.html
+- type: x-documentation
+  url: https://docs.openstack.org/kilo/index.html
+- type: x-documentation
+  url: https://docs.openstack.org/juno/index.html
+- type: x-documentation
+  url: https://docs.openstack.org/icehouse/index.html
+- type: x-documentation
+  url: https://docs.openstack.org/havana/index.html
+- type: x-documentation
+  url: https://docs.openstack.org/grizzly/index.html
+- type: x-documentation
+  url: https://docs.openstack.org/folsom/index.html
+- type: x-documentation
+  url: https://docs.openstack.org/essex/index.html
+- type: x-documentation
+  url: https://docs.openstack.org/diablo/index.html
+- type: x-documentation
+  url: https://docs.openstack.org/cactus/index.html
+- type: x-documentation
+  url: https://docs.openstack.org/bexar/index.html
+- type: x-documentation
+  url: https://docs.openstack.org/austin/index.html
+- type: x-documentation
+  url: https://docs.openstack.org
+- type: x-facebook
+  url: https://www.facebook.com/openstack
+- type: x-marketplace
+  url: https://www.openstack.org/marketplace/
+- type: x-marketplace
+  url: https://www.openstack.org/marketplace/training/
+- type: x-marketplace
+  url: https://www.openstack.org/marketplace/training
+- type: x-news
+  url: https://www.openstack.org/news/
+- type: x-open-source
+  url: https://www.openstack.org/software/
+- type: x-open-source
+  url: https://www.openstack.org/software/sample-configs/
+- type: x-open-source
+  url: https://www.openstack.org/software/start/
+- type: x-open-source
+  url: https://www.openstack.org/software/roadmap/
+- type: x-open-source
+  url: https://www.openstack.org/software/latest-release/
+- type: x-open-source
+  url: https://www.openstack.org/user-stories/
+- type: x-open-source
+  url: https://www.openstack.org/telecoms-and-nfv/
+- type: x-open-source
+  url: https://www.openstack.org/enterprise/
+- type: x-open-source
+  url: https://www.openstack.org/appdev/
+- type: x-open-source
+  url: https://www.openstack.org/surveys/landing
+- type: x-open-source
+  url: https://www.openstack.org/community/
+- type: x-open-source
+  url: https://www.openstack.org/foundation/
+- type: x-open-source
+  url: https://wiki.openstack.org
+- type: x-open-source
+  url: https://groups.openstack.org
+- type: x-open-source
+  url: https://www.openstack.org/community/speakers/
+- type: x-open-source
+  url: https://www.openstack.org/foundation/companies/
+- type: x-open-source
+  url: https://www.openstack.org/community/jobs/
+- type: x-open-source
+  url: https://www.openstack.org/join/
+- type: x-open-source
+  url: https://www.openstack.org/events/
+- type: x-open-source
+  url: https://www.openstack.org/community/events/
+- type: x-open-source
+  url: https://www.openstack.org/summit/
+- type: x-open-source
+  url: https://www.openstack.org/learn/
+- type: x-open-source
+  url: https://www.openstack.org/coa/
+- type: x-open-source
+  url: https://www.openstack.org/videos/
+- type: x-open-source
+  url: https://www.openstack.org/analysts/
+- type: x-open-source
+  url: https://www.openstack.org/blog/
+- type: x-open-source
+  url: https://www.openstack.org/join/#sponsor
+- type: x-open-source
+  url: https://www.openstack.org/Security/login/
+- type: x-open-source
+  url: https://releases.openstack.org/train/index.html
+- type: x-open-source
+  url: https://developer.openstack.org
+- type: x-open-source
+  url: https://governance.openstack.org/tc/
+- type: x-open-source
+  url: http://specs.openstack.org/
+- type: x-open-source
+  url: https://www.openstack.org/user-survey/
+- type: x-open-source
+  url: https://www.openstack.org/projects/
+- type: x-open-source
+  url: https://www.openstack.org/projects/openstack-faq/
+- type: x-open-source
+  url: https://www.openstack.org/store
+- type: x-open-source
+  url: https://www.openstack.org/brand/
+- type: x-open-source
+  url: https://www.openstack.org/privacy/
+- type: x-open-source
+  url: https://www.linkedin.com/company/openstack
+- type: x-security
+  url: https://www.openstack.org/software/security/
+- type: x-twitter
+  url: https://twitter.com/OpenStack
+- type: x-website
+  url: http://docs.openstack.org
+- type: x-youtube
+  url: https://www.youtube.com/user/OpenStackFoundation
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

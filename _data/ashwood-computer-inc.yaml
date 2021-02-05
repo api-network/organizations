@@ -1,0 +1,38 @@
+---
+name: Ashwood Computer, Inc
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ashwood-computer-inc.yaml
+tags:
+- Products And Services
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ashwoodcomputer.com
+- type: x-about
+  url: https://www.ashwoodcomputer.com/about-us/
+- type: x-blog
+  url: https://www.ashwoodcomputer.com/blog/
+- type: x-careers
+  url: https://www.ashwoodcomputer.com/careers/
+- type: x-contact
+  url: https://www.ashwoodcomputer.com/contact/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/ashwood-computer-inc-
+- type: x-open-source
+  url: https://www.openqm-zumasys.com/
+- type: x-twitter
+  url: https://twitter.com/ASHWOODCOMPUTER
+- type: x-website
+  url: https://www.ashwoodcomputer.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

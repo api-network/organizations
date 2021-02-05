@@ -1,0 +1,34 @@
+---
+name: Dojo
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "262065"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dojo.yaml
+tags:
+- Frameworks
+apis: []
+x-common:
+- type: x-website
+  url: https://dojo.io/
+- type: x-facebook
+  url: https://www.facebook.com/groups/4375511291/
+- type: x-github
+  url: https://github.com/dojo/dojo
+- type: x-github
+  url: https://github.com/dojo
+- type: x-support
+  url: http://www.sitepen.com/support/index.html
+- type: x-twitter
+  url: http://twitter.com/dojo
+- type: x-website
+  url: https://dojotoolkit.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

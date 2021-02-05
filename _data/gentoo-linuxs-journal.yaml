@@ -1,0 +1,26 @@
+---
+name: Gentoo Linux's Journal
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gentoo-linuxs-journal.yaml
+tags:
+- Gentoo
+apis: []
+x-common:
+- type: x-login
+  url: https://www.livejournal.com/login.bml
+- type: x-support
+  url: https://www.livejournal.com/support/
+- type: x-website
+  url: https://gentoo.livejournal.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

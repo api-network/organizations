@@ -1,0 +1,32 @@
+---
+name: Teledata Communications, Inc.
+description: 'Offering consumer loan origination solutions for direct, indirect, online
+  lending, & account opening. Select your institution: Bank, Credit Union or Finance
+  Company.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1664939"
+url: https://raw.githubusercontent.com/api-network/organizations/main/teledata-communications-inc-.yaml
+tags:
+- Credit And Collection
+apis: []
+x-common:
+- type: x-blog
+  url: https://tcicredit.com/blog/
+- type: x-contact
+  url: https://tcicredit.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/teledatacommunications/
+- type: x-twitter
+  url: https://twitter.com/DecisionLender
+- type: x-website
+  url: https://www.tcicredit.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

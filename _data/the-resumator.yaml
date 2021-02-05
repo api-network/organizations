@@ -1,0 +1,73 @@
+---
+name: The Resumator
+description: <p>The Resumator designs the leading recruiting platform that enables
+  you to swiftly find the best talent ideally suited to your business and position.
+  With our innovative tools, scalable workflows and real-time insights, SMBs and fast-growing
+  businesses can now hire with confidence. &nbsp;The right talent is hard to find,
+  and while you may not hire every day, you want to grow every day in big and small
+  ways. As the pioneer of recruiting platforms and having helped businesses for over
+  five years, The Resumator is primed to deliver what your require to accomplish your
+  corporate goal &ndash; the talent to grow</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/resumator-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "163547"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-resumator.yaml
+tags:
+- Has API
+apis: []
+x-common:
+- type: x-about
+  url: https://www.jazzhr.com/about-jazzhr/
+- type: x-careers
+  url: https://www.jazzhr.com/jazzhr-careers/
+- type: x-case-studies
+  url: https://www.jazzhr.com/case-studies/
+- type: x-contact
+  url: https://www.jazzhr.com/contact-us/
+- type: x-customers
+  url: https://www.jazzhr.com/customers/
+- type: x-documentation
+  url: http://www.resumatorapi.com/v1/
+- type: x-facebook
+  url: https://www.facebook.com/jazzdotco/
+- type: x-integrations
+  url: https://www.jazzhr.com/integrations/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/jazz-dot-co/
+- type: x-login
+  url: https://app.jazz.co/app/v2/login
+- type: x-marketplace
+  url: https://marketplace.jazzhr.com/
+- type: x-marketplace
+  url: https://marketplace.jazzhr.com
+- type: x-partner
+  url: https://www.jazzhr.com/partner-program/
+- type: x-partner
+  url: https://www.jazzhr.com/partner/service-partners/
+- type: x-plans
+  url: https://www.jazzhr.com/plans/jazzhr-hero/
+- type: x-plans
+  url: https://www.jazzhr.com/plans/plus/
+- type: x-plans
+  url: https://www.jazzhr.com/plans/pro/
+- type: x-pricing
+  url: https://www.jazzhr.com/pricing/
+- type: x-privacy
+  url: https://www.jazzhr.com/privacy-policy/
+- type: x-support
+  url: https://support.jazzhr.com/
+- type: x-twitter
+  url: https://twitter.com/TheResumator
+- type: x-twitter
+  url: https://twitter.com/JazzDotCo/
+- type: x-website
+  url: https://theresumator.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

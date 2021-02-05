@@ -1,0 +1,44 @@
+---
+name: Project Manager
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "814363"
+url: https://raw.githubusercontent.com/api-network/organizations/main/project-manager.yaml
+tags:
+- Hosted
+apis: []
+x-common:
+- type: x-website
+  url: http://projectmanager.com.au
+- type: x-about
+  url: https://projectmanager.com.au/about-2/
+- type: x-contact
+  url: https://projectmanager.com.au/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/ProjectManagerOnline
+- type: x-feed
+  url: https://projectmanager.com.au/feed/
+- type: x-news
+  url: https://projectmanager.com.au/category/news/
+- type: x-terms-of-service
+  url: https://projectmanager.com.au/legal/
+- type: x-terms-of-service
+  url: https://projectmanager.com.au/terms-conditions/
+- type: x-twitter
+  url: http://twitter.com/ProjectMgr_au
+- type: x-website
+  url: https://www.projectmanager.com.au
+- type: x-white-papers
+  url: https://projectmanager.com.au/category/whitepapers/
+- type: x-white-papers
+  url: https://projectmanager.com.au/submit-white-paper/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

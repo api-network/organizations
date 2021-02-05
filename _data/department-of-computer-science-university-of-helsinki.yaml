@@ -1,0 +1,48 @@
+---
+name: Department of Computer Science, University of Helsinki
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10651"
+url: https://raw.githubusercontent.com/api-network/organizations/main/department-of-computer-science-university-of-helsinki.yaml
+tags:
+- Finland
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/cs.helsinki.fi/
+- type: x-facebook
+  url: https://www.facebook.com/HelsinkiUniversity
+- type: x-feed
+  url: https://www.helsinki.fi/en/give-feedback
+- type: x-instagram
+  url: https://www.instagram.com/universityofhelsinki
+- type: x-press
+  url: https://www.helsinki.fi/en/news/press-and-media
+- type: x-support
+  url: https://www.helsinki.fi/en/support-us
+- type: x-twitter
+  url: https://twitter.com/UnivHelsinkiCS
+- type: x-twitter
+  url: https://www.twitter.com/KumpulaScience
+- type: x-twitter
+  url: https://www.twitter.com/haba_tt
+- type: x-twitter
+  url: https://www.twitter.com/lauraruotsa
+- type: x-twitter
+  url: https://www.twitter.com/ahonkela
+- type: x-twitter
+  url: https://www.twitter.com/helsinkiuni
+- type: x-website
+  url: https://www.cs.helsinki.fi
+- type: x-youtube
+  url: https://www.youtube.com/universityofhelsinki
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

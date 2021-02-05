@@ -1,0 +1,45 @@
+---
+name: National Transportation Safety Board (NTSB)
+description: <p><span>The National Transportation Safety Board is an independent U.S.
+  government investigative agency responsible for civil transportation accident investigation.</span></p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/national-transportation-safety-board-ntsb.yaml
+tags:
+- Federal Government
+- Data Provider
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ntsb.gov
+- type: x-data
+  url: https://www.ntsb.gov/investigations/data/Pages/Data_Stats.aspx
+- type: x-facebook
+  url: https://www.facebook.com/NTSBgov/
+- type: x-facebook
+  url: http://facebook.com/NTSBgov
+- type: x-flickr
+  url: https://www.flickr.com/photos/ntsb
+- type: x-instagram
+  url: https://www.instagram.com/ntsbgov/
+- type: x-twitter
+  url: https://twitter.com/ntsb_newsroom
+- type: x-twitter
+  url: https://twitter.com/NTSB
+- type: x-twitter
+  url: http://twitter.com/ntsb
+- type: x-youtube
+  url: https://www.youtube.com/user/NTSBgov
+- type: x-youtube
+  url: http://youtube.com/NTSBgov
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

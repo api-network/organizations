@@ -1,0 +1,44 @@
+---
+name: Teamphotoshop
+description: Photoshop tutorial and help website with current photoshop related news
+  and forum
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1151905"
+url: https://raw.githubusercontent.com/api-network/organizations/main/teamphotoshop.yaml
+tags:
+- Photoshop Tutorials
+- Photoshop
+- News
+- Layouts
+- Graphics
+- Graphic Design
+- CS3
+- CS2 Tutorials
+apis: []
+x-common:
+- type: x-about
+  url: http://www.teamphotoshop.com/about-us
+- type: x-forum
+  url: http://forum.teamphotoshop.com/
+- type: x-forum
+  url: http://forum.teamphotoshop.com/55/26708/clone-yourself
+- type: x-login
+  url: http://www.teamphotoshop.com/login/
+- type: x-news
+  url: http://www.teamphotoshop.com/news
+- type: x-self-service-registration
+  url: http://www.teamphotoshop.com/register/
+- type: x-tutorials
+  url: http://www.teamphotoshop.com/tutorials
+- type: x-website
+  url: https://www.teamphotoshop.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

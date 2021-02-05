@@ -1,0 +1,31 @@
+---
+name: StatTrackr
+description: Make every shot count.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Stattrackr-api.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/stattrackr.yaml
+tags:
+- Have API
+- Basketball
+apis: []
+x-common:
+- type: x-website
+  url: http://www.stattrackr.com
+- type: x-base
+  url: http://api.stattrackr.com
+- type: x-developers
+  url: http://developer.stattrackr.com
+- type: x-twitter
+  url: https://twitter.com/thestattrackr
+- type: x-website
+  url: http://stattrackr.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

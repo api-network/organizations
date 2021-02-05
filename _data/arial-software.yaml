@@ -1,0 +1,33 @@
+---
+name: Arial Software
+description: Email Marketing Software programs you install on your own PC or server,
+  no monthly fees, connects to your database. Newsletters, admin using browser.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2861260"
+url: https://raw.githubusercontent.com/api-network/organizations/main/arial-software.yaml
+tags:
+- Software
+- Promotion
+- Newsletters
+- Mass Email Software
+- Marketing Email Software
+- Marketing
+- Email Marketing Software
+- Email Marketing Director
+- Email
+- Campaign Enterprise
+- Bulk Email Software
+apis: []
+x-common:
+- type: x-website
+  url: https://www.arialsoftware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

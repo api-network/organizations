@@ -1,0 +1,45 @@
+---
+name: SparkFun Electronics
+description: SparkFun is an online retail store that sells the bits and pieces to
+  make your electronics projects possible.
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/api-butterfly.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "6377"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sparkfun-electronics.yaml
+tags:
+- Devices
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/seeed-studio
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/sparkfun-electronics
+- type: x-email
+  url: cservice@sparkfun.com
+- type: x-email
+  url: sales@sparkfun.com
+- type: x-email
+  url: privacy@sparkfun.com
+- type: x-email
+  url: support@sparkfun.com
+- type: x-email
+  url: ar@sparkfun.com
+- type: x-email
+  url: customerservice@sparkfun.com
+- type: x-email
+  url: website@sparkfun.com
+- type: x-twitter
+  url: https://twitter.com/sparkfun
+- type: x-website
+  url: http://seeedstudio.com
+- type: x-website
+  url: http://sparkfun.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

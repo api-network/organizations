@@ -1,0 +1,38 @@
+---
+name: 'eASIC: The configurable logic company'
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/easic-the-configurable-logic-company.yaml
+tags:
+- ASICs And Chips
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/Intel
+- type: x-instagram
+  url: https://www.instagram.com/intel/
+- type: x-investor
+  url: https://www.intc.com/investor-relations/default.aspx
+- type: x-linkedin
+  url: https://www.linkedin.com/company/intel-corporation
+- type: x-news
+  url: https://newsroom.intel.com/
+- type: x-support
+  url: https://support.apple.com/downloads/safari
+- type: x-support
+  url: https://support.google.com/chrome/answer/95346?hl=en
+- type: x-twitter
+  url: https://twitter.com/intel
+- type: x-website
+  url: https://www.easic.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

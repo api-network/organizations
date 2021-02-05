@@ -1,0 +1,26 @@
+---
+name: CADTool Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9766006"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cadtool-software.yaml
+tags:
+- Productivity Utilities
+apis: []
+x-common:
+- type: x-about
+  url: https://www.hotdoor.com/cadtools?about
+- type: x-support
+  url: https://www.hotdoor.com/cadtools?support
+- type: x-website
+  url: https://www.cadtool.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

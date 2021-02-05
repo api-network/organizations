@@ -1,0 +1,30 @@
+---
+name: Soarcoin
+description: Soarcoin is a highly-secured, non-mineable digital currency which provides
+  easy and fast transactions in a private way.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26886-soarlabs-org.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "2926586"
+url: https://raw.githubusercontent.com/api-network/organizations/main/soarcoin.yaml
+tags:
+- Marketplaces
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://soarlabs.org/
+- type: x-email
+  url: SUPPORT@SOARLABS.ORG
+- type: x-twitter
+  url: https://twitter.com/soarcoin
+- type: x-website
+  url: http://soarlabs.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

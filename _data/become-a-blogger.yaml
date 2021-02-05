@@ -1,0 +1,50 @@
+---
+name: Become A Blogger
+description: Leslie Samuel teaches you how to Become A Blogger and Create Content,
+  Inspire Others and Change The World with a blog.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "287033"
+url: https://raw.githubusercontent.com/api-network/organizations/main/become-a-blogger.yaml
+tags: []
+apis: []
+x-common:
+- type: x-about
+  url: https://becomeablogger.com/about-page/
+- type: x-about
+  url: https://becomeablogger.com/about-leslie-samuel/
+- type: x-blog
+  url: https://becomeablogger.com/
+- type: x-blog
+  url: https://becomeablogger.com/bloggingwithleslie/
+- type: x-blog
+  url: https://becomeablogger.com/category/content-creation/
+- type: x-blog
+  url: https://becomeablogger.com/category/podcasting/
+- type: x-blog
+  url: https://becomeablogger.com/category/video/
+- type: x-blog
+  url: https://www.becomeablogger.com/club/
+- type: x-blog
+  url: https://www.becomeablogger.com/idea2blog/
+- type: x-blog
+  url: https://www.becomeablogger.com/start-a-blog/
+- type: x-blog
+  url: https://becomeablogger.com/28483/blogging-for-seo/
+- type: x-blog
+  url: https://becomeablogger.com/author/becomeablogger/
+- type: x-blog
+  url: https://becomeablogger.com/page/2/?et_blog
+- type: x-contact
+  url: https://becomeablogger.com/contact/
+- type: x-website
+  url: https://www.becomeablogger.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

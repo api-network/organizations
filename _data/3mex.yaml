@@ -1,0 +1,38 @@
+---
+name: 3MEX
+description: Delivering IT assurance to the banking and financial services community
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/3mex.yaml
+tags:
+- United Kingdom
+apis: []
+x-common:
+- type: x-about
+  url: https://www.3mex.com/about-us/
+- type: x-about
+  url: http://www.3mex.com/about-us/
+- type: x-case-studies
+  url: https://www.3mex.com/case-studies/
+- type: x-contact
+  url: https://www.3mex.com/contact-us/
+- type: x-developer
+  url: http://developer.3mex.com
+- type: x-linkedin
+  url: https://uk.linkedin.com/company/3mex
+- type: x-partner
+  url: https://www.3mex.com/partners/
+- type: x-privacy
+  url: https://www.3mex.com/privacy-policy/
+- type: x-website
+  url: https://www.3mex.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

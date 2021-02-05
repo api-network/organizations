@@ -1,0 +1,48 @@
+---
+name: Stanford HCI
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1153"
+url: https://raw.githubusercontent.com/api-network/organizations/main/stanford-hci.yaml
+tags:
+- Academic
+apis: []
+x-common:
+- type: x-forum
+  url: http://forum.stanford.edu/
+- type: x-github
+  url: https://github.com/infoled
+- type: x-github
+  url: https://dhkim16.github.io/text-table-ref/
+- type: x-github
+  url: https://estrasnick.github.io/Scanalog/
+- type: x-website
+  url: https://hci.stanford.edu
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=lU1epg9ccfQ
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=TVdtoasnGqU
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=xL6_CTiD2DU
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=Jw5UFprEZ88
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=dzffBsy8pDw
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=-Jewb-Mrzz0
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=o3rBuA_te3E
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=uRpjYcFgR10
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=zhZwkTbmulk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

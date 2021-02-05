@@ -1,0 +1,31 @@
+---
+name: Icon Seeker
+description: The IconSeeker.com is the best icon search engine on web, it contents
+  about 50,000+ high quaility icons and each icon has PNG, ICO and ICNS formats for
+  Windows, Macintosh and Linux Systems.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1353760"
+url: https://raw.githubusercontent.com/api-network/organizations/main/icon-seeker.yaml
+tags:
+- Widows Icon
+- PNG
+- Icons
+- Icon Search Engine
+- Icon
+- ICO
+- Free Download
+- Desktop Icon
+apis: []
+x-common:
+- type: x-website
+  url: https://www.iconseeker.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

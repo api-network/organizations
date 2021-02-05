@@ -1,0 +1,42 @@
+---
+name: Anne van Kesteren
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2659586"
+url: https://raw.githubusercontent.com/api-network/organizations/main/anne-van-kesteren.yaml
+tags:
+- Weblogs
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.whatwg.org/improving-interoperability
+- type: x-github
+  url: https://github.com/whatwg/html/pull/3499
+- type: x-github
+  url: https://github.com/w3c/webcomponents/issues/113
+- type: x-github
+  url: https://github.com/w3c/webcomponents/issues/624
+- type: x-github
+  url: https://github.com/whatwg/dom/issues/510
+- type: x-github
+  url: https://github.com/tc39/test262
+- type: x-github
+  url: https://github.com/notifications
+- type: x-github
+  url: https://github.com/whatwg/fetch/issues/234
+- type: x-github
+  url: https://github.com/whatwg/mimesniff/issues/30
+- type: x-platform
+  url: https://github.com/w3c/web-platform-tests
+- type: x-website
+  url: https://annevankesteren.nl
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,55 @@
+---
+name: Spring Studios
+description: Agency. Studios. Production. Events.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29435-springstudios-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "917694"
+url: https://raw.githubusercontent.com/api-network/organizations/main/spring-studios.yaml
+tags: []
+apis: []
+x-common:
+- type: x-about
+  url: https://www.springstudios.com/about/
+- type: x-careers
+  url: https://www.springstudios.com/careers/
+- type: x-contact
+  url: https://www.springstudios.com/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/spring-studio
+- type: x-email
+  url: infony@springstudios.com
+- type: x-email
+  url: info@springstudios.com
+- type: x-email
+  url: info_italy@springstudios.com
+- type: x-email
+  url: shoots-ny@springstudios.com
+- type: x-email
+  url: eventsales-ny@springstudios.com
+- type: x-email
+  url: nyhr@springstudios.com
+- type: x-email
+  url: partnerships@springstudios.com
+- type: x-email
+  url: studios@springstudios.com
+- type: x-email
+  url: infoproduction@springstudios.com
+- type: x-events
+  url: https://www.springstudios.com/events/
+- type: x-instagram
+  url: https://www.instagram.com/springstudios/
+- type: x-privacy
+  url: https://www.springstudios.com/privacy/
+- type: x-twitter
+  url: https://twitter.com/SpringStudios
+- type: x-website
+  url: http://springstudios.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

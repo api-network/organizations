@@ -1,0 +1,42 @@
+---
+name: AutoResponse Plus
+description: Run unlimited targeted email marketing campaigns. Autoresponder software
+  with no monthly fees
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/autoresponse-plus.yaml
+tags:
+- Self Hosted
+- Response Tools
+- Marketing Automation Software
+- Email Marketing
+- Autoresponder
+- ArpReach
+apis: []
+x-common:
+- type: x-about
+  url: https://arpreach.com/about
+- type: x-contact
+  url: https://arpreach.com/contact
+- type: x-pricing
+  url: https://arpreach.com/pricing
+- type: x-privacy
+  url: https://www.mutualadvantage.co.uk/privacy-notice/
+- type: x-support
+  url: http://support.arpreach.com
+- type: x-support
+  url: https://arpreach.com/supportplan
+- type: x-terms-of-service
+  url: https://arpreach.com/terms
+- type: x-website
+  url: https://www.autoresponseplus.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

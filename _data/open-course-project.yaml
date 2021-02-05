@@ -1,0 +1,33 @@
+---
+name: Open Course Project
+description: <p>The Open in Open Course Project means devotion to free information
+  and Open Source technologies. The data that is compiled to service this website
+  is regularly extracted directly from various CNU websites, but it's provided centrally
+  using RESTful API standards to any interested students or third parties. If you
+  are creating your own service or even a personal application using course, term,
+  or instructor data, you are welcomed to use the API detailed on this page. General
+  API endpoints are keyless and anonymous for now. If you're interested in using it
+  for your projects, please don't abuse it. Otherwise I'll have to buy a bike lock.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/opencourse-full.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/open-course-project.yaml
+tags:
+- Has API
+apis: []
+x-common:
+- type: x-base-url
+  url: opencourseproject.com
+- type: x-developers
+  url: https://opencourseproject.com/api/
+- type: x-website
+  url: https://opencourseproject.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

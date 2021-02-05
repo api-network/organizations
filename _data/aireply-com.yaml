@@ -1,0 +1,27 @@
+---
+name: AI-Reply.Com
+description: Affordable, fast, lightweight and good-looking helpdesk ticketing system.
+  On-premise option available. Free to try.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/aireply-com.yaml
+tags:
+- Browser Based
+apis: []
+x-common:
+- type: x-integrations
+  url: https://www.jitbit.com/helpdesk/integrations/
+- type: x-support
+  url: https://www.jitbit.com/helpdesk/support-ticket-system/
+- type: x-website
+  url: https://www.ai-reply.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

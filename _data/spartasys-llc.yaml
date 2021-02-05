@@ -1,0 +1,24 @@
+---
+name: Spartasys LLC
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/spartasys-llc.yaml
+tags:
+- Billing
+apis: []
+x-common:
+- type: x-signup
+  url: https://cherrypc.com/signup.html
+- type: x-website
+  url: https://ezofficetech.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,48 @@
+---
+name: Oregon State University
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7289"
+url: https://raw.githubusercontent.com/api-network/organizations/main/oregon-state-university.yaml
+tags:
+- Oregon
+apis: []
+x-common:
+- type: x-website
+  url: http://eecs.oregonstate.edu
+- type: x-about
+  url: https://eecs.oregonstate.edu/about-eecs
+- type: x-about
+  url: https://eecs.oregonstate.edu/about-eecs/our-building
+- type: x-about
+  url: https://eecs.oregonstate.edu/about-eecs/visit-us
+- type: x-about
+  url: https://eecs.oregonstate.edu/about-eecs/accreditation
+- type: x-contact
+  url: https://eecs.oregonstate.edu/people/contact-us
+- type: x-facebook
+  url: https://www.facebook.com/osueecs/
+- type: x-instagram
+  url: https://www.instagram.com/osueecs/
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/136054
+- type: x-news
+  url: http://blogs.oregonstate.edu/eecsnews/feed/rss2
+- type: x-news
+  url: https://eecs.oregonstate.edu/news
+- type: x-twitter
+  url: http://twitter.com/OSUEECS
+- type: x-website
+  url: https://eecs.oregonstate.edu
+- type: x-youtube
+  url: http://www.youtube.com/user/OSUEECS
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

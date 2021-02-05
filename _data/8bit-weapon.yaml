@@ -1,0 +1,44 @@
+---
+name: 8-Bit Weapon
+description: Chipmusic for the masses
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/8bit-weapon.yaml
+tags:
+- Remix And Retro
+apis: []
+x-common:
+- type: x-website
+  url: https://linktr.ee/8bitweapon
+- type: x-about
+  url: https://8bitweapon.com/about/
+- type: x-developer
+  url: http://developer.8bitweapon.com
+- type: x-facebook
+  url: https://www.facebook.com/outlaweditor
+- type: x-facebook
+  url: http://www.facebook.com/8bitweapon
+- type: x-news
+  url: https://8bitweapon.com/news/
+- type: x-news
+  url: https://8bitweapon.com/news-archive-2005-2013/
+- type: x-news
+  url: https://8bitweapon.com/category/news/
+- type: x-open-source
+  url: https://open.spotify.com/artist/51JpfHFiLbosZ8AN77QrV5
+- type: x-press
+  url: https://wordpress.com/music/?ref=vertical_footer
+- type: x-twitter
+  url: http://www.twitter.com/8bitweapon
+- type: x-website
+  url: https://www.8bitweapon.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,35 @@
+---
+name: Magsoft International LLC
+description: "bob\u4F53\u80B2\u4E0B\u8F7D\u5730\u5740\u662F\u4E00\u6B3E\u4E13\u4E3A\u8DB3\u7403\u8FF7\u63D0\u4F9B\u7684\u5B98\u65B9\u624B\u673A\u5E73\u53F0,bob\u4F53\u80B2app\u5B98\u65B9\u7F51\u7AD9\u6709\u7CBE\u5F69\u7684\u8FCE\u5956\u91D1\u4F18\u60E0\u6D3B\u52A8,bob\u4F53\u80B2app\u5B98\u65B9\u7F51\u7AD9\u6709\u7ECF\u5E38\u7684\u9996\u5B58\u6D3B\u52A8,\u5B98\u7F51\u63D0\u4F9Bpc\u5BA2\u6237\u7AEF,\u4EE5\u53CA\u624B\u673A\u7248\u4E0B\u8F7D,\u8D76\u5FEB\u6765\u4F53\u9A8C\u3002BOB\u7535\u7ADE\u767B\u5F55\u5B98\u7F51\u662F\u52A0\u62FF\u5927(CSC)\u8BBE\u8BA1\u987E\u95EE\u516C\u53F8\u5728\u4E2D\u56FD\u8BBE\u7ACB\u7684\u4E13\u4E1A\u666F\u89C2\u5DE5\u7A0B\u8BBE\u8BA1\u673A\u6784,bob\u4F53\u80B2\u4E0B\u8F7D\u5730\u5740\u8BA9\u4F60\u771F\u6B63\u4EAB\u53D7\u5230\u5A31\u4E50,\u5E76\u4E14\u6709\u5F88\u591A\u7684\u798F\u5229\u548C\u4E00\u6D41\u7684\u670D\u52A1"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/magsoft-international-llc.yaml
+tags:
+- Sales And Marketing Productivity
+- "Bob\u4F53\u80B2\u4E0B\u8F7D\u5730\u5740"
+- "Bob\u4F53\u80B2app\u5B98\u65B9\u7F51\u7AD9"
+- "BOB\u7535\u7ADE\u767B\u5F55\u5B98\u7F51"
+apis: []
+x-common:
+- type: x-feed
+  url: https://e-magsoft.com/feed
+- type: x-feed
+  url: https://e-magsoft.com/comments/feed
+- type: x-login
+  url: https://e-magsoft.com/wp-login.php
+- type: x-press
+  url: https://cn.wordpress.org/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-website
+  url: https://www.e-magsoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

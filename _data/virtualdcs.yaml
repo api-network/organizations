@@ -1,0 +1,57 @@
+---
+name: VirtualDCS
+description: World-leading, innovative cloud computing, software hosting (SaaS), Backup
+  as a Service (BaaS) and Disaster Recovery solutions (DRaaS) from UK Data Centres.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8972037"
+url: https://raw.githubusercontent.com/api-network/organizations/main/virtualdcs.yaml
+tags:
+- Service Providers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.virtualdcs.co.uk
+- type: x-blog
+  url: https://www.virtualdcs.co.uk/blog
+- type: x-careers
+  url: https://www.virtualdcs.co.uk/careers
+- type: x-case-studies
+  url: https://www.virtualdcs.co.uk/case-studies
+- type: x-contact
+  url: https://www.virtualdcs.co.uk/contact-us
+- type: x-facebook
+  url: https://facebook.com/virtualDCS
+- type: x-facebook
+  url: http://www.facebook.com/virtualDCS
+- type: x-linkedin
+  url: https://www.linkedin.com/company/virtualdcs/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/virtualdcs/
+- type: x-partner
+  url: https://www.virtualdcs.co.uk/partner-programme
+- type: x-privacy
+  url: https://www.virtualDCS.co.uk/privacy/
+- type: x-privacy
+  url: https://www.virtualdcs.co.uk/privacy
+- type: x-support
+  url: https://www.virtualdcs.co.uk/support
+- type: x-terms-of-service
+  url: https://www.virtualdcs.co.uk/terms
+- type: x-twitter
+  url: https://twitter.com/virtualdcs
+- type: x-twitter
+  url: http://www.twitter.com/virtualDCS
+- type: x-website
+  url: https://www.virtualdcs.co.uk
+- type: x-youtube
+  url: https://www.youtube.com/user/virtualDCS
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

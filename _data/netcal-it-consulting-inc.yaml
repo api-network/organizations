@@ -1,0 +1,36 @@
+---
+name: NetCal IT Consulting Inc
+description: Managed IT services and IT Support in the SF Bay Area and Los Angeles
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9383518"
+url: https://raw.githubusercontent.com/api-network/organizations/main/netcal-it-consulting-inc.yaml
+tags:
+- California
+apis: []
+x-common:
+- type: x-website
+  url: http://www.netcal.com
+- type: x-about
+  url: https://www.netcal.com/about-us/
+- type: x-blog
+  url: https://www.netcal.com/blog/
+- type: x-facebook
+  url: https://www.facebook.com/netcal/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/netcal
+- type: x-support
+  url: https://www.netcal.com/support-services/
+- type: x-twitter
+  url: https://twitter.com/netcalit
+- type: x-website
+  url: https://www.netcal.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

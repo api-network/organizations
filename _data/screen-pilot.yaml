@@ -1,0 +1,42 @@
+---
+name: Screen Pilot
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1061671"
+url: https://raw.githubusercontent.com/api-network/organizations/main/screen-pilot.yaml
+tags:
+- Wireless Data
+apis: []
+x-common:
+- type: x-website
+  url: http://www.screenpilot.com
+- type: x-about
+  url: https://screenpilot.com/hotel-marketing-agency-about/
+- type: x-blog
+  url: https://screenpilot.com/digital-marketing-blog/
+- type: x-careers
+  url: https://screenpilot.com/marketing-agency-careers/
+- type: x-contact
+  url: https://screenpilot.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/screenpilotgroup/
+- type: x-instagram
+  url: https://www.instagram.com/screenpilotdenver/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/screen-pilot/
+- type: x-privacy
+  url: https://screenpilot.com/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/screenpilot
+- type: x-website
+  url: https://www.screenpilot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

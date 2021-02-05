@@ -1,0 +1,32 @@
+---
+name: Embedded Planet
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2938385"
+url: https://raw.githubusercontent.com/api-network/organizations/main/embedded-planet.yaml
+tags:
+- Embedded
+apis: []
+x-common:
+- type: x-about
+  url: https://www.embeddedplanet.com/about-us/
+- type: x-blog
+  url: https://www.embeddedplanet.com/blog/
+- type: x-contact
+  url: https://www.embeddedplanet.com/contact-us/
+- type: x-partner
+  url: https://www.embeddedplanet.com/company/partners/
+- type: x-press
+  url: https://wordpress.org/plugins/gdpr-cookie-compliance
+- type: x-website
+  url: https://www.embeddedplanet.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

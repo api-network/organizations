@@ -1,0 +1,61 @@
+---
+name: Vincents Forensic Technology
+description: Our Forensic Technology specialists provide clients with the expert application
+  of computer forensic technology to Acquire, recover & analyse digital data
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/vincents-forensic-technology.yaml
+tags:
+- Forensics And Incident Response
+apis: []
+x-common:
+- type: x-about
+  url: https://vincents.com.au/about/
+- type: x-about
+  url: https://vincents.com.au/about/our-story/
+- type: x-about
+  url: https://vincents.com.au/about/awards-recognition/
+- type: x-about
+  url: https://vincents.com.au/about/our-community/
+- type: x-about
+  url: https://vincents.com.au/about/our-mission-and-values/
+- type: x-about
+  url: https://vincents.com.au/about/backyard-sessions/
+- type: x-careers
+  url: https://vincents.com.au/careers/
+- type: x-careers
+  url: https://vincents.com.au/careers/vacancies/
+- type: x-careers
+  url: https://vincents.com.au/careers/lifestyle/
+- type: x-contact
+  url: https://vincents.com.au/contact/
+- type: x-facebook
+  url: https://www.facebook.com/VincentsCA/
+- type: x-feed
+  url: https://vincents.com.au/help-feedback/
+- type: x-privacy
+  url: https://vincents.com.au/privacy-3/
+- type: x-twitter
+  url: http://twitter.com/Vincents_CA
+- type: x-twitter
+  url: http://www.twitter.com/FinancialReview
+- type: x-twitter
+  url: https://twitter.com/search?q=%23SocialMedia&src=hash
+- type: x-twitter
+  url: https://twitter.com/Vincents_CA
+- type: x-webinars
+  url: https://vincents.com.au/tools-resources/webinars/
+- type: x-website
+  url: https://www.vdiscovery.net.au
+- type: x-youtube
+  url: https://www.youtube.com/user/VincentsAccountants
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

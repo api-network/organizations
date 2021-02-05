@@ -1,0 +1,23 @@
+---
+name: louiscroberts.wordpress.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/louiscroberts-wordpress-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: https://louiscroberts.wordpress.com/2016/06/04/your-api-could-get-you-sued-by-the-ftc/
+- type: x-website
+  url: http://louiscroberts.wordpress.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

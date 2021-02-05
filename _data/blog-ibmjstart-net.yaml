@@ -1,0 +1,23 @@
+---
+name: blog.ibmjstart.net
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blog-ibmjstart-net.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://blog.ibmjstart.net/2015/10/21/taking-voice-technology-beyond-commands/
+- type: x-website
+  url: http://blog.ibmjstart.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

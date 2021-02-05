@@ -1,0 +1,36 @@
+---
+name: Eastern Data Processing
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/eastern-data-processing.yaml
+tags:
+- Handheld Computers
+apis: []
+x-common:
+- type: x-about
+  url: https://www.easterndata.co.uk/aboutus/
+- type: x-about
+  url: https://www.easterndata.co.uk/aboutus/company-history/
+- type: x-about
+  url: https://www.easterndata.co.uk/aboutus/our-partners/
+- type: x-case-studies
+  url: https://www.easterndata.co.uk/category/case-studies/
+- type: x-contact
+  url: https://www.easterndata.co.uk/contact-us/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/easterndatagroup/
+- type: x-privacy
+  url: https://www.easterndata.co.uk/privacypolicy/
+- type: x-website
+  url: https://www.easterndata.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

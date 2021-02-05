@@ -1,0 +1,59 @@
+---
+name: Esri
+description: Esri has cultivated collaborative relationships with partners who share
+  our commitment to solving Earth???s most pressing challenges with geographic expertise
+  and rational resolve.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28271-developers-arcgis-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "3231"
+url: https://raw.githubusercontent.com/api-network/organizations/main/esri.yaml
+tags:
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-about
+  url: https://www.esri.com/about-esri/
+- type: x-blog
+  url: https://blogs.esri.com/esri/arcgis/category/developer/
+- type: x-careers
+  url: https://www.esri.com/careers/
+- type: x-contact
+  url: https://www.esri.com/about-esri/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/esri
+- type: x-developer
+  url: https://developers.arcgis.com
+- type: x-events
+  url: https://www.esri.com/about/events/uc
+- type: x-events
+  url: https://www.esri.com/events/devsummit
+- type: x-facebook
+  url: https://www.facebook.com/esrigis/
+- type: x-github
+  url: https://esri.github.io/
+- type: x-marketplace
+  url: https://marketplace.arcgis.com
+- type: x-news
+  url: https://www.esri.com/about/newsroom/blog/
+- type: x-terms-of-service
+  url: https://www.esri.com/legal/copyright-trademarks
+- type: x-terms-of-service
+  url: https://www.esri.com/legal/privacy
+- type: x-terms-of-service
+  url: https://www.esri.com/legal/software-license
+- type: x-twitter
+  url: https://twitter.com/Esri
+- type: x-twitter
+  url: https://twitter.com/Esri/
+- type: x-website
+  url: https://developers.arcgis.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

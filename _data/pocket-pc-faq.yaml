@@ -1,0 +1,129 @@
+---
+name: Pocket PC FAQ
+description: "Windows CE Website for Handheld PCs, Palm-size PCs, Pocket PCs.  Includes
+  support FAQs on \nEthernet, RAS, Modem, IrDA, Battery, Maps, Telnet, Infrared, Wireless,
+  Printing and comparisons, \nscreen shots, and pictures."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2832772"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pocket-pc-faq.yaml
+tags:
+- Wireless
+- Windowsce
+- Windows-based Terminal
+- Windows Embedded
+- Windows CE News
+- Windows CE 3.0
+- Windows CE 2.1 Windows CE 2.11
+- Windows CE 2.0
+- Windows Ce
+- WinCE
+- Velo
+- Vadem
+- Upgrade
+- Update
+- Technical Support
+- System
+- Support
+- Stylus
+- Sharp
+- RAS
+- PSPC
+- Programming
+- Program
+- Printing
+- Ppc
+- Portable
+- Philips
+- Perspectives
+- PDA
+- PC Companion
+- Patches
+- Palmpc
+- Palm-sized PC
+- Palm PC
+- Palm
+- P/PC
+- News
+- Modem
+- Mobilon
+- MobilePro
+- Mobile Computing
+- Microsoft
+- ISP Settings
+- Internet
+- Hydra
+- HPCs
+- |-
+  HPC Pro
+  WBT
+- HPC News
+- Hpc
+- Hewlett Packard
+- Handwriting
+- Handheld Computer
+- H/PC
+- Feedback
+- Ethernet
+- Embedded System
+- Ego Note
+- E-mail
+- Database
+- Companion
+- CompactFlash
+- Compact Flash
+- Communication
+- Clio
+- CE 2.0 Windows Ce
+- CE
+- Cassiopeia
+- Casio
+- Card
+- Battery
+- Auto PC
+- ActiveSync
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.pocketpcfaq.com
+- type: x-forum
+  url: http://forums.pocketpcfaq.com
+- type: x-forum
+  url: http://forums.pocketpcfaq.com/
+- type: x-forum
+  url: http://forums.pocketpcfaq.com/viewforum.php?f=58
+- type: x-forum
+  url: http://forums.pocketpcfaq.com/viewtopic.php?t=23185
+- type: x-forum
+  url: http://forums.pocketpcfaq.com/viewtopic.php?t=23117
+- type: x-forum
+  url: http://forums.pocketpcfaq.com/viewtopic.php?t=23107
+- type: x-forum
+  url: http://forums.pocketpcfaq.com/viewtopic.php?t=23106
+- type: x-forum
+  url: http://forums.pocketpcfaq.com/viewtopic.php?t=23064
+- type: x-forum
+  url: http://forums.pocketpcfaq.com/viewtopic.php?t=22975
+- type: x-forum
+  url: http://forums.pocketpcfaq.com/viewtopic.php?t=22538
+- type: x-forum
+  url: http://forums.pocketpcfaq.com/viewtopic.php?t=22441
+- type: x-forum
+  url: http://forums.pocketpcfaq.com/viewtopic.php?t=22392
+- type: x-news
+  url: http://www.pocketpctalk.com/submitnews.html
+- type: x-news
+  url: https://www.pocketpcfaq.com/newspro/news.xml
+- type: x-support
+  url: http://mvp.support.microsoft.com/
+- type: x-website
+  url: https://www.pocketpcfaq.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

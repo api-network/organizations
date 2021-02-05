@@ -1,0 +1,23 @@
+---
+name: ravinote.blogspot.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ravinote-blogspot-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://ravinote.blogspot.com/2013/07/rest-api-resource-versus-api-throttling.html
+- type: x-website
+  url: http://ravinote.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

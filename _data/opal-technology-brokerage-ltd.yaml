@@ -1,0 +1,40 @@
+---
+name: Opal Technology Brokerage Ltd
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6614971"
+url: https://raw.githubusercontent.com/api-network/organizations/main/opal-technology-brokerage-ltd.yaml
+tags:
+- Barcode
+apis: []
+x-common:
+- type: x-website
+  url: http://www.opaltechnology.com
+- type: x-about
+  url: https://opaltechnology.com/about/
+- type: x-blog
+  url: https://opaltechnology.com/blog/
+- type: x-contact
+  url: https://opaltechnology.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/OpalTecUK/
+- type: x-feed
+  url: https://opaltechnology.com/feedback/
+- type: x-partner
+  url: https://opaltechnology.com/partner_page/
+- type: x-support
+  url: https://opaltechnology.com/helpdesk/
+- type: x-twitter
+  url: https://twitter.com/@OpalTecUK
+- type: x-website
+  url: https://www.opaltechnology.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

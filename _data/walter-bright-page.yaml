@@ -1,0 +1,50 @@
+---
+name: Walter Bright Page
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10341495"
+url: https://raw.githubusercontent.com/api-network/organizations/main/walter-bright-page.yaml
+tags:
+- Zortek
+- Zortech
+- Zortec
+- Zorland
+- Wargame Of The Century
+- Walter Bright
+- Empire
+- Digital Mars
+- Datalite
+- Datalight
+- D
+- Chromescript
+- C++ Compiler
+- C Compiler
+- Abel
+apis: []
+x-common:
+- type: x-website
+  url: http://www.walterbright.com
+- type: x-code
+  url: https://www.codeeurope.pl/en/speakers/walter-bright
+- type: x-github
+  url: https://github.com/walterbright
+- type: x-twitter
+  url: https://twitter.com/WalterBright
+- type: x-website
+  url: https://www.walterbright.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=p22MM1wc7xQ
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=IkwaV6k6BmM
+- type: x-youtube
+  url: http://www.youtube.com/watch?v=0cX1f41Fnkc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

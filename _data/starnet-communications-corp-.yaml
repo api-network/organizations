@@ -1,0 +1,32 @@
+---
+name: StarNet Communications Corp.
+description: "Remote Linux / Unix desktop tools. StarNet's tools for PC X \r\n    server,
+  X Windows, and X11 emulation are fast, secure, affordable, even cheap. Free \r\n
+  \   download."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "571763"
+url: https://raw.githubusercontent.com/api-network/organizations/main/starnet-communications-corp-.yaml
+tags:
+- X11 Emulation
+- X-Win32
+- X Windows
+- StarNet Enterprise
+- Servers
+- Remote Unix Desktop
+- Remote Linux Desktop
+- PC X Server
+- FastX
+apis: []
+x-common:
+- type: x-website
+  url: https://www.starnet.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

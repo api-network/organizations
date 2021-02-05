@@ -1,0 +1,65 @@
+---
+name: Compose
+description: <p>Build Your Best with MongoDB and Elasticsearch. Compose is a fully-managed
+  platform used by developers to deploy, host and scale databases. Compose deployments
+  scale seamlessly as your data grows. Spend more time on your data model, less time
+  capacity planning. This is how everyone should run databases. Backups, replication,
+  complete monitoring. Three essentials of a production database deployment. Spend
+  your time building apps, let us worry about production operations.</p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "201409"
+url: https://raw.githubusercontent.com/api-network/organizations/main/compose.yaml
+tags:
+- Have API
+- Databases
+- API Provider
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.compose.io/
+- type: x-blog-rss
+  url: https://www.compose.com/articles/rss/
+- type: x-blog-rss
+  url: https://blog.compose.io/feed/
+- type: x-developers
+  url: https://help.compose.com/
+- type: x-documentation
+  url: https://help.compose.com/docs/the-compose-api
+- type: x-documentation
+  url: https://help.compose.com/docs/compose-email-support
+- type: x-email
+  url: support@compose.io
+- type: x-facebook
+  url: https://www.facebook.com/composeio/
+- type: x-github
+  url: https://github.com/compose
+- type: x-linkedin
+  url: https://www.linkedin.com/company/composeio/
+- type: x-pricing
+  url: https://www.compose.com/pricing/
+- type: x-privacy
+  url: https://www.ibm.com/privacy/us/en/
+- type: x-status
+  url: https://status.compose.com/
+- type: x-status
+  url: https://status.compose.com
+- type: x-support
+  url: https://help.compose.com
+- type: x-twitter
+  url: https://twitter.com/composeio
+- type: x-twitter
+  url: https://twitter.com/composeio/
+- type: x-website
+  url: https://www.compose.io
+- type: x-youtube
+  url: https://www.youtube.com/composeio/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

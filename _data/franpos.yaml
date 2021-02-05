@@ -1,0 +1,59 @@
+---
+name: Franpos
+description: <p>Franpos is a cloud-based Point of Sale application that runs on Apple
+  and Windows devices. It was designed to help single and multi-location businesses
+  sell more and better connect with their loyal customers. iConnect combines a sexy
+  front end experience with sophisticated back office marketing and management tools.
+  The company&rsquo;s passion is to empower growing businesses with simple, beautiful
+  software.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/franpos.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/franpos.yaml
+tags:
+- Profile
+- POS
+- Point Of Sale
+- Have API
+- Contacts
+apis: []
+x-common:
+- type: x-website
+  url: http://www.franpos.com
+- type: x-about
+  url: https://www.franpos.com/about
+- type: x-customers
+  url: https://www.franpos.com/customers
+- type: x-developers
+  url: http://www.geticonnectpos.com/api
+- type: x-facebook
+  url: https://www.facebook.com/franposinc
+- type: x-linkedin
+  url: https://www.linkedin.com/company/franpos
+- type: x-news
+  url: https://www.franpos.com/pos-news
+- type: x-partner
+  url: https://www.franpos.com/partner
+- type: x-support
+  url: http://support.franpos.com
+- type: x-support
+  url: https://support.franpos.com
+- type: x-twitter
+  url: https://twitter.com/franposusa
+- type: x-website
+  url: http://www.geticonnectpos.com
+- type: x-youtube
+  url: https://www.youtube.com/embed/vLR2jcUWm0E
+- type: x-youtube
+  url: https://www.youtube.com/embed/VY45Z50zRGM
+- type: x-youtube
+  url: https://www.youtube.com/embed/rNp9YFJrN2g
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

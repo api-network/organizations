@@ -1,0 +1,56 @@
+---
+name: The Data Administration Newsletter (TDAN)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "297459"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-data-administration-newsletter-tdan.yaml
+tags:
+- Data Administration
+apis: []
+x-common:
+- type: x-about
+  url: http://tdan.com/about
+- type: x-about
+  url: http://tdan.com/about-submitting-articles
+- type: x-about
+  url: http://www.dataversity.net/about-dataversity-net/
+- type: x-blog
+  url: https://tdan.com/category/data-education/data-blogs
+- type: x-blog
+  url: http://tdan.com/category/data-education/data-blogs
+- type: x-blog
+  url: http://www.dataversity.net/category/discussion/blogs/
+- type: x-careers
+  url: http://jobs.dataversity.net/jobboard.php
+- type: x-contact
+  url: http://tdan.com/contact-us
+- type: x-contact
+  url: http://www.dataversity.net/contact-us/
+- type: x-events
+  url: https://tdan.com/events
+- type: x-events
+  url: http://tdan.com/events
+- type: x-gdpr
+  url: https://tdan.com/tag/gdpr
+- type: x-news
+  url: https://tdan.com/news
+- type: x-news
+  url: http://www.dataversity.net/category/news/daily-data/
+- type: x-privacy
+  url: https://tdan.com/tag/privacy
+- type: x-twitter
+  url: http://twitter.com/TDAN_com
+- type: x-website
+  url: https://www.tdan.com
+- type: x-white-papers
+  url: http://whitepapers.dataversity.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

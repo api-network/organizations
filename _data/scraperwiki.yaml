@@ -1,0 +1,49 @@
+---
+name: ScraperWiki
+description: ScraperWiki the company is now called @sensiblecodeio. ScraperWiki the
+  product is https://t.co/k0MbgXFINE. Also try our other product https://t.co/gp7nY2c3w5.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/798px-ScraperWiki_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1245215"
+url: https://raw.githubusercontent.com/api-network/organizations/main/scraperwiki.yaml
+tags:
+- Wiki
+- Scraping
+- Have API
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.scraperwiki.com/blog/
+- type: x-blog-rss
+  url: https://blog.scraperwiki.com/feed/
+- type: x-code
+  url: https://quickcode.io
+- type: x-code
+  url: http://sensiblecode.io/
+- type: x-code
+  url: http://quickcode.io/
+- type: x-code
+  url: http://sensiblecode.io
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/scraperwiki
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/scraperwiki
+- type: x-email
+  url: hello@scraperwiki.com
+- type: x-github
+  url: https://github.com/scraperwiki
+- type: x-press
+  url: http://www.wordpress.org
+- type: x-twitter
+  url: https://twitter.com/scraperwiki
+- type: x-website
+  url: https://scraperwiki.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

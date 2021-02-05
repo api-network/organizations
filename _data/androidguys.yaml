@@ -1,0 +1,45 @@
+---
+name: AndroidGuys
+description: Your trusted Android source for news and opinion since 2007. Updated
+  daily, AndroidGuys aims to give readers the tools and insight to take advantage
+  of their favorite mobile tech. In addition to news and hot rumors, we provide reviews,
+  tutorials, and other guides to ensure you get the most from your handset.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "84790"
+url: https://raw.githubusercontent.com/api-network/organizations/main/androidguys.yaml
+tags:
+- News And Media
+apis: []
+x-common:
+- type: x-website
+  url: http://www.androidguys.com
+- type: x-about
+  url: https://www.androidguys.com/about/
+- type: x-careers
+  url: https://www.androidguys.com/jobs/
+- type: x-contact
+  url: https://www.androidguys.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/androidguys
+- type: x-feed
+  url: https://www.androidguys.com/feed
+- type: x-instagram
+  url: https://www.instagram.com/androidguys
+- type: x-news
+  url: https://www.androidguys.com/category/news/
+- type: x-news
+  url: https://www.androidguys.com/news/best-of-ces-2020/
+- type: x-twitter
+  url: https://www.twitter.com/androidguys
+- type: x-website
+  url: https://www.androidguys.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

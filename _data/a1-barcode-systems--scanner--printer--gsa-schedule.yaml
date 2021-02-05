@@ -1,0 +1,50 @@
+---
+name: A1 Barcode Systems - Scanner - Printer - GSA Schedule
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/a1-barcode-systems--scanner--printer--gsa-schedule.yaml
+tags:
+- Barcode
+apis: []
+x-common:
+- type: x-code
+  url: https://a1barcode.com/
+- type: x-code
+  url: https://a1barcode.com/about/
+- type: x-code
+  url: https://a1barcode.com/blog/
+- type: x-code
+  url: https://a1barcode.com/faqs/
+- type: x-code
+  url: https://a1barcode.com/gallery/
+- type: x-code
+  url: https://a1barcode.com/gsa-schedule/
+- type: x-code
+  url: https://a1barcode.com/manufacturers/
+- type: x-code
+  url: https://a1barcode.com/portfolio/
+- type: x-code
+  url: https://www.facebook.com/a1barcodesystems
+- type: x-code
+  url: https://plus.google.com/+A1barcode1
+- type: x-code
+  url: https://www.linkedin.com/company/a1-barcode-systems/
+- type: x-code
+  url: https://www.yelp.com/biz/a1-barcode-systems-daphne-5
+- type: x-code
+  url: https://www.pinterest.com/a1barcode
+- type: x-contact
+  url: https://a1barcode.com/contact/
+- type: x-website
+  url: https://www.a1barcode.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

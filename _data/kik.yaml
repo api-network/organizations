@@ -1,0 +1,29 @@
+---
+name: Kik
+description: Kik is a chat network with more than 300 million registered users where
+  people can chat with friends and connect with chat-based services. What's your Kik?
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26745-kin-kik-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "37799"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kik.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://kik.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/kik-interactive
+- type: x-twitter
+  url: https://twitter.com/Kik
+- type: x-website
+  url: https://kin.kik.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

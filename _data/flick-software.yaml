@@ -1,0 +1,41 @@
+---
+name: Flick Software
+description: Flick provides software team extension services for organizations looking
+  to grow their team while cutting the risk of hiring on full time employees. Flick
+  has the developers, so you can focus on growing your business.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5428908"
+url: https://raw.githubusercontent.com/api-network/organizations/main/flick-software.yaml
+tags:
+- Software Team Extension
+- Software Recruiting Firm
+- Software Recruiting
+- Software Development Services
+- Software Developers For Hire
+- Software Developers
+- Software Contractors
+- Software Consulting
+- Embedded Systems
+- Custom Software
+apis: []
+x-common:
+- type: x-website
+  url: http://www.flicksoftware.com
+- type: x-facebook
+  url: https://www.facebook.com/FlickSoftware/
+- type: x-linkedin
+  url: http://linkedin.com/company/flick-software-inc-/
+- type: x-twitter
+  url: https://twitter.com/flick_sw
+- type: x-website
+  url: https://www.flicksoftware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

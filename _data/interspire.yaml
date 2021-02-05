@@ -1,0 +1,31 @@
+---
+name: Interspire
+description: Our all-in-one email marketing software includes everything you need
+  to create, send, track and profit from email marketing.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "62264"
+url: https://raw.githubusercontent.com/api-network/organizations/main/interspire.yaml
+tags:
+- Content Management
+apis: []
+x-common:
+- type: x-pricing
+  url: https://www.interspire.com/pricing
+- type: x-signup
+  url: https://getdpd.com/programsignup/31259
+- type: x-support
+  url: https://www.interspire.com/support
+- type: x-support
+  url: https://www.interspire.com/support/kb
+- type: x-website
+  url: https://www.interspire.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

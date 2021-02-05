@@ -1,0 +1,84 @@
+---
+name: JS beautifier
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9871012"
+url: https://raw.githubusercontent.com/api-network/organizations/main/js-beautifier.yaml
+tags:
+- Obfuscators
+apis: []
+x-common:
+- type: x-code
+  url: https://code.visualstudio.com/
+- type: x-code
+  url: https://github.com/codeinchaos/rest-console
+- type: x-code
+  url: http://codecaddy.net/
+- type: x-code
+  url: http://codemirror.net
+- type: x-github
+  url: https://github.com/MakingOddEdit/CodeBeautify
+- type: x-github
+  url: https://github.com/benmmurphy/jsdeminifier_xpi/
+- type: x-github
+  url: http://spadin.github.com/js-beautify-safari-extension
+- type: x-github
+  url: https://github.com/Dither/readable-javascript
+- type: x-github
+  url: https://github.com/victorporof/Sublime-HTMLPrettify
+- type: x-github
+  url: https://github.com/jdc0589/JsFormat
+- type: x-github
+  url: https://github.com/michalliu/sourcebeautify.vim
+- type: x-github
+  url: https://github.com/maksimr/vim-jsbeautify
+- type: x-github
+  url: https://github.com/yasuyk/web-beautify
+- type: x-github
+  url: https://github.com/babobski/Beautify-js
+- type: x-github
+  url: https://github.com/ghost6991/Jsbeautifier
+- type: x-github
+  url: https://github.com/ditashi/jsbeautifier-go
+- type: x-github
+  url: https://github.com/HookyQR/VSCodeBeautify
+- type: x-github
+  url: https://github.com/nagaozen/gedit-tunnings/
+- type: x-github
+  url: https://github.com/ajaxorg/cloud9
+- type: x-github
+  url: https://github.com/cortesi/mitmproxy
+- type: x-github
+  url: https://github.com/irsdl/BurpSuiteJSBeautifier/
+- type: x-github
+  url: https://github.com/drewhjava/netbeans-jsbeautify
+- type: x-github
+  url: https://github.com/drewhjava/brackets-beautify
+- type: x-github
+  url: https://github.com/vkadam/grunt-jsbeautifier
+- type: x-github
+  url: https://github.com/einars
+- type: x-github
+  url: https://github.com/bitwiseman/
+- type: x-github
+  url: https://github.com/esseks
+- type: x-github
+  url: https://github.com/evocateur
+- type: x-github
+  url: https://github.com/beautify-web/js-beautify
+- type: x-github
+  url: https://github.com/tomimick/chrome-ext-view-src
+- type: x-github
+  url: https://github.com/rixth/jsbeautify-for-chrome
+- type: x-website
+  url: https://jsbeautifier.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

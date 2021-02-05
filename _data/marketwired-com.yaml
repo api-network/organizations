@@ -1,0 +1,26 @@
+---
+name: marketwired.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: ""
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/marketwired-com.yaml
+tags:
+- Press Release Services
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.marketwired.com/press-release/cypherpath-quali-partnership-provides-portable-containerized-infrastructures-that-support-2152626.htm
+- type: x-website
+  url: http://marketwired.com
+- type: x-website
+  url: https://www.marketwired.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

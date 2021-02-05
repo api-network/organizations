@@ -1,0 +1,48 @@
+---
+name: The Breached Database Directory
+description: <p><span>Vigilante.pw</span><span>&nbsp;aims to raise awareness regarding
+  database breaches by providing as much necessary information as possible regarding
+  security breaches. We aim to inform and teach people about the importance of maintaining
+  your privacy on the internet, as well as keeping your own personal information safe.</span></p>
+image: "http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Vigilante_pw_\u2010_The_Breached_Database_Directory.png"
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1325079"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-breached-database-directory.yaml
+tags:
+- Vulnerabilities
+- No API
+apis: []
+x-common:
+- type: x-blog
+  url: https://myspace.com/pages/blog
+- type: x-blog
+  url: https://www.dacgroup.com/blog/dac-group-data-breach/
+- type: x-forum
+  url: http://www.mpgh.net/forum/showthread.php?t=1042586
+- type: x-forum
+  url: https://www.funimation.com/forum/post/107452
+- type: x-forum
+  url: http://forum.onverse.com/index.html
+- type: x-forum
+  url: https://truewow.org/forum/viewtopic.php?f=50&t=39319
+- type: x-forum
+  url: https://gflclan.com/forums/topic/27-the-future-of-gfl/
+- type: x-news
+  url: https://stockx.com/news/update-on-data-security-issue/
+- type: x-news
+  url: https://www.nexusmods.com/games/news/12675/?
+- type: x-security
+  url: https://www.coinmama.com/blog/account-security-faq
+- type: x-twitter
+  url: https://twitter.com/Vigilante_pw
+- type: x-website
+  url: https://vigilante.pw/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

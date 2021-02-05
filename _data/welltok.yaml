@@ -1,0 +1,54 @@
+---
+name: Welltok
+description: Welltok is the leading enterprise Software as a Service company for consumer
+  health. We make it easy and rewarding for consumer to optimize their health.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29426-welltok-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "534203"
+url: https://raw.githubusercontent.com/api-network/organizations/main/welltok.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.welltok.com
+- type: x-about
+  url: https://www.welltok.com/about/
+- type: x-about
+  url: https://www.welltok.com/about/#Offices
+- type: x-blog
+  url: https://blog.welltok.com/
+- type: x-blog
+  url: http://blog.welltok.com/
+- type: x-careers
+  url: https://www.welltok.com/careers/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/welltok
+- type: x-email
+  url: optimizedhealth@welltok.com
+- type: x-email
+  url: DMCA@welltok.com
+- type: x-facebook
+  url: https://www.facebook.com/welltok
+- type: x-linkedin
+  url: https://linkedin.com/company/welltok-inc-/
+- type: x-press
+  url: https://www.welltok.com/press-releases/
+- type: x-privacy
+  url: https://www.welltok.com/privacy/
+- type: x-terms-of-service
+  url: https://www.welltok.com/terms-of-use/
+- type: x-terms-of-service
+  url: https://www.welltok.com/terms/
+- type: x-twitter
+  url: https://twitter.com/Welltok
+- type: x-website
+  url: http://welltok.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

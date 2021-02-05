@@ -1,0 +1,35 @@
+---
+name: HostSearch.com
+description: Search for web hosts, view the best web hosting deals and read hosting
+  reviews, news, interviews, articles and more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "44268"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hostsearch-com.yaml
+tags:
+- Directories
+apis: []
+x-common:
+- type: x-website
+  url: http://www.hostsearch.com/
+- type: x-facebook
+  url: http://www.facebook.com/hostsearch
+- type: x-forum
+  url: https://forums.hostsearch.com/
+- type: x-login
+  url: https://secure.hostsearch.com/webhostcenter/login.asp
+- type: x-news
+  url: http://daily-hosting-news.hostsearch.com/
+- type: x-twitter
+  url: http://twitter.com/hostsearch
+- type: x-website
+  url: https://www.hostsearch.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

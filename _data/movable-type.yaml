@@ -1,0 +1,38 @@
+---
+name: Movable Type
+description: Build your website with the powerful content management system Movable
+  Type. Our blogging software and static publishing platform makes site management
+  easy and effective.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "50511"
+url: https://raw.githubusercontent.com/api-network/organizations/main/movable-type.yaml
+tags:
+- Publishers
+apis: []
+x-common:
+- type: x-news
+  url: https://movabletype.org/news/../author/daiji-hirata/
+- type: x-news
+  url: https://movabletype.org/news/mt-newsbox/
+- type: x-news
+  url: https://movabletype.org/news/../author/yuji-takayama/
+- type: x-news
+  url: https://movabletype.org/news/releases/
+- type: x-open-source
+  url: https://plugins.movabletype.org/googleopenidconnect/
+- type: x-press
+  url: https://plugins.movabletype.org/picasa-express/
+- type: x-privacy
+  url: http://www.movabletype.com/privacy/
+- type: x-website
+  url: https://www.movabletype.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

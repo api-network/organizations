@@ -1,0 +1,77 @@
+---
+name: Pivotal
+description: "Pivotal transforms how the world builds software. Pivotal combines the
+  Silicon Valley state of mind, modern approach, and infrastructure with organizations\u2019
+  core expertise and values.     We enable the leading companies in the world to innovate
+  by empl..."
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/pivotal-logo.jpeg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "37316"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pivotal.yaml
+tags:
+- Platform As A Service Providers
+- Has API
+- Applications
+apis: []
+x-common:
+- type: x-blog-rss
+  url: https://content.pivotal.io/h/c/309420-featured-news-stories.rss
+- type: x-github
+  url: https://github.com/pivotal
+- type: x-website
+  url: http://pivotal.io
+- type: x-blog
+  url: https://content.pivotal.io/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/pivotal
+- type: x-documentation
+  url: https://docs.pivotal.io
+- type: x-documentation
+  url: https://docs.pivotal.io/
+- type: x-email
+  url: TRACKER@PIVOTAL.IO
+- type: x-email
+  url: act@pivotal.io
+- type: x-email
+  url: info@pivotal.io
+- type: x-email
+  url: legal@pivotal.io
+- type: x-email
+  url: privacy@pivotal.io
+- type: x-email
+  url: accounting@pivotal.io
+- type: x-email
+  url: customer-service@pivotal.io
+- type: x-email
+  url: korea-marketing@pivotal.io
+- type: x-email
+  url: support@pivotal.io
+- type: x-facebook
+  url: https://www.facebook.com/pivotalsoftware
+- type: x-instagram
+  url: https://www.instagram.com/pivotalsoftware/
+- type: x-investor
+  url: https://investors.pivotal.io
+- type: x-linkedin
+  url: https://www.linkedin.com/company/3048967
+- type: x-login
+  url: https://login.run.pivotal.io
+- type: x-twitter
+  url: https://twitter.com/pivotal
+- type: x-webinars
+  url: https://content.pivotal.io/webinars
+- type: x-website
+  url: http://pivotal.io/
+- type: x-website
+  url: https://pivotal.io
+- type: x-youtube
+  url: https://www.youtube.com/c/pivotal
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,40 @@
+---
+name: Pay Per Click Search Engines Reviewed
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pay-per-click-search-engines-reviewed.yaml
+tags:
+- Webmaster Resources
+apis: []
+x-common:
+- type: x-about
+  url: https://speedppc.com/about-us/
+- type: x-blog
+  url: https://speedppc.com/blog/
+- type: x-contact
+  url: https://speedppc.com/contact-us/
+- type: x-partner
+  url: https://speedppc.com/partner-program/
+- type: x-pricing
+  url: https://speedppc.com/pricing/
+- type: x-privacy
+  url: https://speedppc.com/privacy-policy/
+- type: x-signup
+  url: https://build.speedppc.com/signup
+- type: x-support
+  url: https://support.speedppc.com
+- type: x-terms-of-service
+  url: https://speedppc.com/terms-and-conditions/
+- type: x-website
+  url: https://www.payperclicksearchengines.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

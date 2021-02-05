@@ -1,0 +1,22 @@
+---
+name: Das Technology
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6250773"
+url: https://raw.githubusercontent.com/api-network/organizations/main/das-technology.yaml
+tags:
+- Software
+apis: []
+x-common:
+- type: x-website
+  url: https://www.das.com.tw
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

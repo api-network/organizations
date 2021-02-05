@@ -1,0 +1,77 @@
+---
+name: Pipedrive API v1 Reference
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5467"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pipedrive-api-v1-reference.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.pipedrive.com
+- type: x-about
+  url: https://www.pipedrive.com/en/about
+- type: x-blog
+  url: https://www.pipedrive.com/en/blog
+- type: x-careers
+  url: https://www.pipedrive.com/jobs
+- type: x-careers
+  url: https://www.pipedrive.com/en/jobs
+- type: x-developer
+  url: https://developers.pipedrive.com/
+- type: x-documentation
+  url: https://developers.pipedrive.com/docs/api/v1/
+- type: x-documentation
+  url: https://pipedrive.readme.io/docs
+- type: x-facebook
+  url: https://www.facebook.com/pipedrive
+- type: x-github
+  url: https://github.com/pipedrive/client-nodejs
+- type: x-github
+  url: https://github.com/IsraelOrtuno/pipedrive
+- type: x-github
+  url: https://github.com/jscott1989/python-pipedrive
+- type: x-github
+  url: https://github.com/DavidRouyer/pipedrive-dotnet
+- type: x-github
+  url: https://github.com/daniti/pipedrive-laravel
+- type: x-github
+  url: https://github.com/pipedrive/FiftyFifty
+- type: x-integrations
+  url: https://www.pipedrive.com/en/features/integrations
+- type: x-linkedin
+  url: https://www.linkedin.com/company/pipedrive
+- type: x-marketplace
+  url: https://marketplace.pipedrive.com
+- type: x-marketplace
+  url: https://www.pipedrive.com/en/marketplace
+- type: x-partner
+  url: https://www.pipedrive.com/en/partner
+- type: x-plans
+  url: https://www.pipedrive.com/en/plans
+- type: x-privacy
+  url: https://www.pipedrive.com/en/privacy
+- type: x-self-service-registration
+  url: https://www.pipedrive.com/en/register
+- type: x-status
+  url: https://www.pipedrive.com/en/status
+- type: x-support
+  url: https://support.pipedrive.com/hc/en-us
+- type: x-terms-of-service
+  url: https://www.pipedrive.com/en/terms-of-service
+- type: x-twitter
+  url: https://twitter.com/PipedriveDev/
+- type: x-twitter
+  url: https://twitter.com/pipedrive
+- type: x-website
+  url: http://developers.pipedrive.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

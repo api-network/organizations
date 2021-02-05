@@ -1,0 +1,45 @@
+---
+name: General Services Administration
+description: <p>The General Services Administration (GSA) is an independent agency
+  of the United States government, established in 1949 to help manage and support
+  the basic functioning of federal agencies. The GSA supplies products and communications
+  for U.S. government offices, provides transportation and office space to federal
+  employees, and develops government-wide cost-minimizing policies, and other management
+  tasks.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/280px-US-GeneralServicesAdministration-Seal-Alt.svg.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "28029"
+url: https://raw.githubusercontent.com/api-network/organizations/main/general-services-administration.yaml
+tags:
+- Have API
+- Federal Government
+- Federal Government
+- Data JSON
+- API Provider
+apis: []
+x-common:
+- type: x-data
+  url: https://www.gsa.gov/governmentwide-initiatives/open-data-at-gsa
+- type: x-developers
+  url: http://www.gsa.gov/developers/
+- type: x-facebook
+  url: https://www.facebook.com/gsa
+- type: x-instagram
+  url: https://www.instagram.com/usgsa
+- type: x-twitter
+  url: https://twitter.com/usgsa
+- type: x-website
+  url: http://www.gsa.gov
+- type: x-wikipedia
+  url: http://en.wikipedia.org/wiki/General_Services_Administration
+- type: x-youtube
+  url: https://www.youtube.com/usgsa
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

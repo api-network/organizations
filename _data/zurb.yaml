@@ -1,0 +1,56 @@
+---
+name: Zurb
+description: ZURB, creating unique customer and user experiences. We are brand engineers
+  that provide companies with strategic marketing, design and branding solutions.
+  Work includes identity, branding, information design, web design, illustration,
+  software design, icon design, and multimedia work.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/794_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "22996"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zurb.yaml
+tags:
+- Zurb
+- Webdesign
+- Programming
+- Interaction Design
+- Have API
+- Graphic Design
+- Design Thinking
+- Design Strategy
+- Coding
+- Agency
+apis: []
+x-common:
+- type: x-website
+  url: https://zurb.com/talent#design-lead
+- type: x-website
+  url: https://zurb.com/
+- type: x-blog
+  url: http://zurb.com/blog/
+- type: x-blog-rss
+  url: http://zurb.com/blog/rss
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/zurb
+- type: x-developer
+  url: http://dev.zurb.com
+- type: x-email
+  url: getstarted@zurb.com
+- type: x-email
+  url: foundation@zurb.com
+- type: x-facebook
+  url: https://facebook.com/ZURB/
+- type: x-twitter
+  url: https://twitter.com/ZURB
+- type: x-website
+  url: http://zurb.com/
+- type: x-youtube
+  url: https://youtube.com/user/zurb
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

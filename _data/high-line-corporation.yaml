@@ -1,0 +1,38 @@
+---
+name: High Line Corporation
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6116785"
+url: https://raw.githubusercontent.com/api-network/organizations/main/high-line-corporation.yaml
+tags:
+- Business Applications
+apis: []
+x-common:
+- type: x-about
+  url: https://www.highlinecorp.com/about-us/
+- type: x-careers
+  url: https://www.highlinecorp.com/about-us/careers/
+- type: x-contact
+  url: https://www.highlinecorp.com/contact-us/
+- type: x-login
+  url: https://www.highlinecorp.com/login/
+- type: x-news
+  url: https://www.highlinecorp.com/news-and-events/
+- type: x-partner
+  url: https://www.highlinecorp.com/about-us/partners/
+- type: x-privacy
+  url: https://www.highlinecorp.com/privacy-policy/
+- type: x-support
+  url: https://www.highlinecorp.com/support/
+- type: x-website
+  url: https://www.highlinecorp.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

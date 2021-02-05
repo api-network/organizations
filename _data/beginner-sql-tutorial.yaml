@@ -1,0 +1,28 @@
+---
+name: Beginner SQL Tutorial
+description: This sql tutorial website can be used as a guide in learning SQL or as
+  a SQL reference
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "228568"
+url: https://raw.githubusercontent.com/api-network/organizations/main/beginner-sql-tutorial.yaml
+tags:
+- Tutorial
+- Sql Tutorial
+- Sql Programming
+- SQL
+- Learning Sql
+- Beginner Sql Tutorial
+apis: []
+x-common:
+- type: x-website
+  url: https://beginner-sql-tutorial.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

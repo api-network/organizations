@@ -1,0 +1,44 @@
+---
+name: Touchpad Blocker
+description: Free software automatically blocks accidental taps and clicks when the
+  user is typing text on a notebook keyboard.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1927620"
+url: https://raw.githubusercontent.com/api-network/organizations/main/touchpad-blocker.yaml
+tags:
+- Touchpad
+- Touch-pad
+- Touch Pad
+- System
+- Lock Touchpad
+- Enable Touchpad
+- Disable Touchpad
+- Block Touchpad
+apis: []
+x-common:
+- type: x-contact
+  url: https://touchpad-blocker.com/contact/
+- type: x-facebook
+  url: http://www.facebook.com/TouchpadBlocker
+- type: x-linkedin
+  url: http://ua.linkedin.com/in/karpolan
+- type: x-news
+  url: https://touchpad-blocker.com/news/
+- type: x-terms-of-service
+  url: https://touchpad-blocker.com/category/legal/
+- type: x-twitter
+  url: http://twitter.com/TouchpadBlocker
+- type: x-website
+  url: https://touchpad-blocker.com
+- type: x-youtube
+  url: http://www.youtube.com/user/karpolan
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

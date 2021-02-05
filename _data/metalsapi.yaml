@@ -1,0 +1,78 @@
+---
+name: Metals-API
+description: <p>The Metals-API API is capable of delivering real-time precious metals  data
+  via API at an accuracy of 2 decimal points and a frequency as high  as every 60
+  seconds. Metals-API is built on top of a powerful back-end  infrastructure allowing
+  for high availability and response times below  50ms for specific API requests.
+  Capabilities include delivering exchange  rates for Precious Metals, converting
+  single currencies, returning  Time-Series data and fluctuation data.</p>
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "2361225"
+url: https://raw.githubusercontent.com/api-network/organizations/main/metalsapi.yaml
+tags:
+- Profile
+- Precious Metals Rates
+- Precious Metals
+- PHP
+- Metals
+- JSON API
+- Historical Rates
+- Historical Precious Metals Rates
+- Historical Data
+- Have API Paths
+- Endpoints
+- Currency Conversion
+- Currency
+- Currencies
+- API Key
+- API
+apis: []
+x-common:
+- type: x-selfservice-registration
+  url: https://metals-api.com/pricing
+- type: x-about
+  url: https://metals-api.com/about
+- type: x-contact
+  url: https://metals-api.com/contact
+- type: x-developer
+  url: https://metals-api.com
+- type: x-developer
+  url: https://metals-api.com/faq
+- type: x-developer
+  url: https://metals-api.com/currencies
+- type: x-developer
+  url: https://metals-api.com/sitemap
+- type: x-developer
+  url: https://metals-api.com/password/reset
+- type: x-developer
+  url: https://metals-api.com/cookies
+- type: x-developer
+  url: https://metals-api.com/agreement
+- type: x-documentation
+  url: https://metals-api.com/documentation
+- type: x-faq
+  url: https://metals-api.com/faq
+- type: x-login
+  url: https://metals-api.com/login
+- type: x-pricing
+  url: https://metals-api.com/pricing
+- type: x-privacy
+  url: https://metals-api.com/privacy
+- type: x-self-service-registration
+  url: https://metals-api.com/register
+- type: x-service-level-agreements
+  url: https://metals-api.com/agreement
+- type: x-terms-of-service
+  url: https://metals-api.com/terms
+- type: x-website
+  url: http://metals-api.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

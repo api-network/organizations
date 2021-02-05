@@ -1,0 +1,23 @@
+---
+name: techfinancials.co.za
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/techfinancials-co-za.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://techfinancials.co.za/2016/06/is-this-the-next-step-in-software/
+- type: x-website
+  url: http://techfinancials.co.za
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

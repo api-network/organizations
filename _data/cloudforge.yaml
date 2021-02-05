@@ -1,0 +1,57 @@
+---
+name: CloudForge
+description: Unlimited Users, Unlimited Projects for FREE! CloudForge delivers Agile
+  tools and services for developing and deploying in the C
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "412670"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cloudforge.yaml
+tags:
+- Tools
+apis: []
+x-common:
+- type: x-about
+  url: http://www.collab.net/about
+- type: x-blog
+  url: http://blogs.collab.net/cloudforge/
+- type: x-blog
+  url: http://blog.collab.net/cloudforge/
+- type: x-careers
+  url: http://www.collab.net/about/careers
+- type: x-facebook
+  url: https://www.facebook.com/CollabNetVersionOne
+- type: x-linkedin
+  url: https://www.linkedin.com/company/collabnetversionone
+- type: x-news
+  url: http://www.collab.net/news-and-events/events
+- type: x-open-source
+  url: http://www.youtube.com/user/openCollabNet1
+- type: x-pricing
+  url: http://cloudforge.com/pricing#details?opt=tab2
+- type: x-privacy
+  url: http://www.collab.net/privacy
+- type: x-signup
+  url: https://app.cloudforge.com/trial_signup/new/
+- type: x-status
+  url: http://status.cloudforge.com/
+- type: x-support
+  url: https://help.cloudforge.com/
+- type: x-terms-of-service
+  url: http://www.collab.net/terms
+- type: x-twitter
+  url: http://twitter.com/#!/CloudForgeHQ
+- type: x-twitter
+  url: https://twitter.com/CloudForgeHQ
+- type: x-twitter
+  url: http://www.twitter.com/collabnetv1
+- type: x-website
+  url: https://cloudforge.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

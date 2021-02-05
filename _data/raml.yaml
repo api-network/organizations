@@ -1,0 +1,41 @@
+---
+name: RAML
+description: Design, Build, Test, Document, and Share Your APIs all with an easy to
+  use, human-readable Spec.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/raml-logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "636263"
+url: https://raw.githubusercontent.com/api-network/organizations/main/raml.yaml
+tags:
+- Profile
+- Markdown
+- Integration Landscape
+- Have API
+- Definitions
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-website
+  url: http://raml.org
+- type: x-blog
+  url: http://open-raml.blogspot.com/
+- type: x-blog-rss
+  url: http://open-raml.blogspot.com/feeds/posts/default?alt=rss
+- type: x-email
+  url: info@raml.org
+- type: x-forum
+  url: https://forum.raml.org
+- type: x-github
+  url: https://github.com/search?utf8=%E2%9C%93&q=RAML
+- type: x-twitter
+  url: https://twitter.com/ramlapi
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

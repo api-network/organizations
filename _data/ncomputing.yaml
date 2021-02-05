@@ -1,0 +1,32 @@
+---
+name: Ncomputing
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "177769"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ncomputing.yaml
+tags:
+- Thin Clients
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ncomputing.com
+- type: x-facebook
+  url: https://www.facebook.com/NComputing.official
+- type: x-linkedin
+  url: https://www.linkedin.com/company/ncomputing
+- type: x-twitter
+  url: https://twitter.com/NComputing
+- type: x-website
+  url: https://www.ncomputing.com
+- type: x-youtube
+  url: http://www.youtube.com/NComputingVideos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,25 @@
+---
+name: Coos County Area Transit
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/coos-county-area-transit.yaml
+tags: []
+apis: []
+x-common:
+- type: x-gtfs-feed
+  url: http://oregon-gtfs.com/gtfs_data/cooscounty-or-us/cooscounty-or-us.zip
+- type: x-licensing
+  url: ""
+- type: x-website
+  url: http://www.coostransit.org/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,35 @@
+---
+name: Aviordata.com
+description: Avior Data provides a modern tax platform designed for resellers to streamline
+  their tax processing and filing with all 51 states.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/aviordata-com.yaml
+tags:
+- Sales And Use Tax
+apis: []
+x-common:
+- type: x-website
+  url: http://tobtax.com
+- type: x-contact
+  url: https://www.aviordata.com/contact
+- type: x-linkedin
+  url: https://www.linkedin.com/company/aviordata
+- type: x-twitter
+  url: https://twitter.com/@tobtax
+- type: x-twitter
+  url: https://twitter.com/aviordata
+- type: x-website
+  url: https://www.aviordata.com
+- type: x-youtube
+  url: https://www.youtube.com/aviordata
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

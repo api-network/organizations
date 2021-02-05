@@ -1,0 +1,22 @@
+---
+name: QuakeHold Industrial
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7134490"
+url: https://raw.githubusercontent.com/api-network/organizations/main/quakehold-industrial.yaml
+tags:
+- Vendors
+apis: []
+x-common:
+- type: x-website
+  url: https://www.quakeholdindustrial.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

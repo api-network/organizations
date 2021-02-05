@@ -1,0 +1,68 @@
+---
+name: PBS Works
+description: Altair PBS Works is a global leader in HPC workload management, with
+  comprehensive products for job submission, monitoring, remote visualization, reporting
+  and SAO.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4653363"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pbs-works.yaml
+tags:
+- Service Providers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.altair.com
+- type: x-about
+  url: https://www.altair.com/about/
+- type: x-blog
+  url: https://blog.altair.com/
+- type: x-careers
+  url: https://www.altair.com/careers/
+- type: x-contact
+  url: https://www.altair.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/altairengineering/
+- type: x-forum
+  url: https://forum.altair.com/
+- type: x-instagram
+  url: https://www.instagram.com/altairengineering/
+- type: x-investor
+  url: http://investor.altair.com
+- type: x-linkedin
+  url: http://www.linkedin.com/company/8323
+- type: x-news
+  url: https://www.altair.com/email-newsletter/
+- type: x-news
+  url: https://www.altair.com/news-list/
+- type: x-partner
+  url: https://www.altair.com/partners/
+- type: x-partner
+  url: https://www.oracle.com/cloud/partners/altair.html
+- type: x-privacy
+  url: https://www.altair.com/popup_privacy.htm
+- type: x-showcase
+  url: https://www.altair.com/product-showcase
+- type: x-support
+  url: https://www.altair.com/customer-support/
+- type: x-twitter
+  url: https://twitter.com/altair_inc
+- type: x-webinars
+  url: https://www.altair.com/resources/webinars
+- type: x-webinars
+  url: https://www.altair.com/resource/awswebinar
+- type: x-webinars
+  url: https://web.altair.com/2019-webinar-osnl-hwul
+- type: x-website
+  url: https://www.pbsworks.com
+- type: x-youtube
+  url: http://www.youtube.com/user/InnovationSimulation
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,26 @@
+---
+name: J. Bailey & Company
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7031973"
+url: https://raw.githubusercontent.com/api-network/organizations/main/j--bailey-company.yaml
+tags:
+- Great Plains
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.jbaileyinc.com/contact-j-bailey-company/
+- type: x-support
+  url: https://www.jbaileyinc.com/technical-support/
+- type: x-website
+  url: https://www.jbaileyinc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

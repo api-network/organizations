@@ -1,0 +1,26 @@
+---
+name: Telos EDV Systementwicklung GmbH
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/telos-edv-systementwicklung-gmbh.yaml
+tags:
+- Test Equipment
+apis: []
+x-common:
+- type: x-platform
+  url: https://www.telos.de/l/universal-windows-platform/
+- type: x-press
+  url: https://www.telos.de/telos/impressum/
+- type: x-website
+  url: https://www.telos.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

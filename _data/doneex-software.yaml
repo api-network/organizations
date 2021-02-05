@@ -1,0 +1,31 @@
+---
+name: DoneEx Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2962676"
+url: https://raw.githubusercontent.com/api-network/organizations/main/doneex-software.yaml
+tags:
+- Libraries
+- Add-Ins
+apis: []
+x-common:
+- type: x-code
+  url: https://doneex.com/protect-vba-code/
+- type: x-code
+  url: https://doneex.com/how-to-protect-vba-code/
+- type: x-contact
+  url: https://doneex.com/contact-us/
+- type: x-news
+  url: https://doneex.com/news/
+- type: x-website
+  url: https://www.doneex.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

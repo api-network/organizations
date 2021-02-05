@@ -1,0 +1,65 @@
+---
+name: Profidia
+description: PROFIDA is software developed by Computer Science Software for the financial
+  services industry. It offers portfolio management, financial planning, full policy
+  insurance administration, financial accounting, commission administration as well
+  as money collection
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/profidia.yaml
+tags:
+- Unit Trust
+- Underwriting
+- Underwriter
+- Software
+- Short-term
+- Security
+- Profida
+- Portfolio Management
+- Policy
+- Non-life
+- Medical
+- Life
+- Investment
+- Intermediary
+- Insurance
+- Health
+- Funeral
+- Financial Service
+- Financial Planning
+- FICA
+- Fais
+- Debit Run
+- Debit Order
+- Compliance
+- Commission
+- Call Centre
+- Brokers
+- Brokerage
+- Astute
+- Assurance
+- Asset
+- Agents
+- Agency Management
+- Advisors
+- Advisers
+- Administrator
+- Administration
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.profida.co.za/contact.htm
+- type: x-developer
+  url: http://developer.profida.co.za
+- type: x-website
+  url: https://www.profida.co.za
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,39 @@
+---
+name: SourceTec Software
+description: Sothink provides perfect Flash software and web design software, such
+  as SWF Decompiler, SWF Editor, Flash Maker, Flash Banner Maker, Drop Down Menu,
+  Flash Menu Creator, Logo Maker and etc.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "54033"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sourcetec-software.yaml
+tags:
+- SWF To HTML5
+- SWF Editor
+- SWF Decompiler
+- Software
+- Logo Template
+- Logo Resources
+- Logo Maker
+- Flash To HTML5
+- Flash Software
+- Flash Menu Creator
+- Flash Decompiler
+- Flash Animation Maker
+- Drop Down Menu
+- Create Logo
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/sothinkmedia
+- type: x-website
+  url: https://www.sothink.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

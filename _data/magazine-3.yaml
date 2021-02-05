@@ -1,0 +1,61 @@
+---
+name: Magazine 3
+description: Premium WordPress Magazine Theme for online Magazines & blogs at affordable
+  price with great customer support.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "148759"
+url: https://raw.githubusercontent.com/api-network/organizations/main/magazine-3.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-website
+  url: http://magazine3.com
+- type: x-blog
+  url: http://magazine3.com/blog/
+- type: x-careers
+  url: http://magazine3.com/jobs/
+- type: x-contact
+  url: http://magazine3.com/contact/
+- type: x-contact
+  url: http://magazine3.company/contact/#form
+- type: x-customers
+  url: http://magazine3.com/customers/
+- type: x-developer
+  url: http://developer.magazine3.com
+- type: x-facebook
+  url: https://www.facebook.com/m3themes/
+- type: x-news
+  url: http://magazine3.com/webnews/
+- type: x-news
+  url: http://magazine3.com/newsdesk/
+- type: x-pricing
+  url: http://magazine3.com/pricing/
+- type: x-pricing
+  url: http://magazine3.com/pricing
+- type: x-privacy
+  url: http://magazine3.com/privacy-policy/
+- type: x-support
+  url: http://magazine3.com/help/
+- type: x-support
+  url: http://magazine3.com/helpdesk/
+- type: x-terms-of-service
+  url: http://magazine3.com/terms-and-conditions/
+- type: x-terms-of-service
+  url: https://magazine3.com/terms-and-conditions/
+- type: x-tutorials
+  url: http://magazine3.com/help/tutorials/1157
+- type: x-twitter
+  url: http://twitter.com/m3themes
+- type: x-website
+  url: https://magazine3.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

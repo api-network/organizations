@@ -1,0 +1,58 @@
+---
+name: Unitrends
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "291091"
+url: https://raw.githubusercontent.com/api-network/organizations/main/unitrends.yaml
+tags:
+- Backup
+apis: []
+x-common:
+- type: x-website
+  url: http://www.unitrends.com
+- type: x-about
+  url: https://www.unitrends.com/about
+- type: x-blog
+  url: https://www.unitrends.com/blog/category/ransomware
+- type: x-blog
+  url: https://www.unitrends.com/blog/category/draas
+- type: x-blog
+  url: https://www.unitrends.com/blog/category/dr
+- type: x-careers
+  url: https://www.unitrends.com/careers
+- type: x-events
+  url: https://www.unitrends.com/events
+- type: x-facebook
+  url: https://www.facebook.com/unitrends
+- type: x-instagram
+  url: https://www.instagram.com/unitrends/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/unitrends
+- type: x-login
+  url: https://support.unitrends.com/UnitrendsBackup/s/login/
+- type: x-partner
+  url: https://www.unitrends.com/partners
+- type: x-partner
+  url: https://partners.unitrends.com/English/
+- type: x-partner
+  url: https://partners.unitrends.com
+- type: x-press
+  url: https://www.unitrends.com/news-press-release
+- type: x-support
+  url: https://support.unitrends.com/UnitrendsBackup/s/
+- type: x-twitter
+  url: https://twitter.com/Unitrends
+- type: x-website
+  url: https://www.unitrends.com
+- type: x-youtube
+  url: https://www.youtube.com/user/UnitrendsInc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

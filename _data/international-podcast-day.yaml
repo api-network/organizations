@@ -1,0 +1,39 @@
+---
+name: International Podcast Day
+description: 'International Podcast Day is September 30 and is an international celebration
+  of the power of podcasts! #InternationalPodcastDay'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3494843"
+url: https://raw.githubusercontent.com/api-network/organizations/main/international-podcast-day.yaml
+tags:
+- Podcasts
+apis: []
+x-common:
+- type: x-about
+  url: https://internationalpodcastday.com/about/
+- type: x-contact
+  url: https://internationalpodcastday.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/internationalpodcastday/
+- type: x-instagram
+  url: https://www.instagram.com/internationalpodcastday/
+- type: x-news
+  url: https://internationalpodcastday.com/in-the-news/
+- type: x-signup
+  url: https://internationalpodcastday.com/signup
+- type: x-twitter
+  url: https://twitter.com/intlpodcastday
+- type: x-website
+  url: https://internationalpodcastday.com
+- type: x-youtube
+  url: https://youtube.com/c/InternationalPodcastDay
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

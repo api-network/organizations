@@ -1,0 +1,43 @@
+---
+name: AIG
+description: 'With roots that trace back to 1919, we''re a global insurance company
+  with operations in more than 80 countries and jurisdictions. We provide a range
+  of insurance products to support our clients in business and in life, including:
+  general property/casualty, life insurance, and retirement and financial services
+  through our General Insurance, Life and Retirement and Investments business units.'
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/AIG_logo.svg/1200px-AIG_logo.svg.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "42715"
+url: https://raw.githubusercontent.com/api-network/organizations/main/aig.yaml
+tags:
+- Travel Insurance
+- Sanction
+- Profile
+- No API Definition
+- Insurance Claims
+- Has API
+apis: []
+x-common:
+- type: x-blog
+  url: https://preprod.developers.aig.com/blog
+- type: x-contact-form
+  url: https://preprod.developers.aig.com/contact
+- type: x-linkedin
+  url: https://www.linkedin.com/company/aig/
+- type: x-privacy
+  url: https://preprod.developers.aig.com/privacy
+- type: x-support
+  url: https://preprod.developers.aig.com/support
+- type: x-terms-of-service
+  url: https://preprod.developers.aig.com/termsofuse
+- type: x-website
+  url: http://preprod.developers.aig.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,35 @@
+---
+name: e-planning
+description: "Full Stack Adserver y Programmatic Hub. Administra todas tus campa\xF1as
+  y monetizaci\xF3n con una sola herramienta."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "24651"
+url: https://raw.githubusercontent.com/api-network/organizations/main/eplanning.yaml
+tags:
+- Remotely Hosted
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.e-planning.net
+- type: x-facebook
+  url: https://www.facebook.com/eplanning
+- type: x-instagram
+  url: https://www.instagram.com/eplanningnet
+- type: x-linkedin
+  url: https://www.linkedin.com/company/e-planning.net
+- type: x-support
+  url: https://support.e-planning.net/access/normal
+- type: x-twitter
+  url: https://www.twitter.com/eplanningnet
+- type: x-website
+  url: https://www.e-planning.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

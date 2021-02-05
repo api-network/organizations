@@ -1,0 +1,30 @@
+---
+name: Cepstral Speech Synthesis
+description: Discover the world's premium and affordable text to speech provider for
+  personal and business use at Cepstral. Find multiple languages, accents, and personalities
+  that work on servers, desktops, laptops, and mobile devices.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "295168"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cepstral-speech-synthesis.yaml
+tags:
+- Speech Synthesis Cores
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cepstral.com
+- type: x-facebook
+  url: https://www.facebook.com/cepstral
+- type: x-twitter
+  url: https://www.twitter.com/cepstral_llc
+- type: x-website
+  url: https://www.cepstral.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

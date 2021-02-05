@@ -1,0 +1,23 @@
+---
+name: x.naveen.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/x-naveen-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://x.naveen.com/post/51808692792/a-personal-api
+- type: x-website
+  url: http://x.naveen.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

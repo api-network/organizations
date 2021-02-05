@@ -1,0 +1,57 @@
+---
+name: Coverity, Inc.
+description: Build high-quality, secure software faster with our application security
+  testing tools and services. We are a Gartner Magic Quadrant leader in appsec.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4294476"
+url: https://raw.githubusercontent.com/api-network/organizations/main/coverity-inc-.yaml
+tags:
+- Products And Tools
+apis: []
+x-common:
+- type: x-website
+  url: http://www.synopsys.com/community
+- type: x-blog
+  url: https://blogs.synopsys.com/viewfromtop/
+- type: x-blog
+  url: https://blogs.synopsys.com/hittingthemark/
+- type: x-blog
+  url: https://blogs.synopsys.com/informal-chat/
+- type: x-blog
+  url: https://blogs.synopsys.com/vip-central/
+- type: x-blog
+  url: https://blogs.synopsys.com/looking-past-the-horizon/
+- type: x-blog
+  url: https://blogs.synopsys.com/tousbornottousb/
+- type: x-blog
+  url: https://blogs.synopsys.com/committedtomemory/
+- type: x-facebook
+  url: https://www.facebook.com/Synopsys/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/synopsys
+- type: x-news
+  url: https://news.synopsys.com/
+- type: x-press
+  url: https://blogs.synopsys.com/expressyourself/
+- type: x-security
+  url: https://www.synopsys.com/blogs/software-security/
+- type: x-security
+  url: https://securitylearning.synopsys.com/
+- type: x-twitter
+  url: https://twitter.com/synopsys
+- type: x-website
+  url: https://www.coverity.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=5KCr6CIsaFg
+- type: x-youtube
+  url: https://www.youtube.com/user/synopsys
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

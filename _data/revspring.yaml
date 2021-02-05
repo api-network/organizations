@@ -1,0 +1,72 @@
+---
+name: RevSpring
+description: RevSpring is a leading provider of consumer communications, billing,
+  and payments solutions that maximize revenue opportunities for healthcare providers,
+  revenue cycle management organizations, and account receivables management companies.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "474981"
+url: https://raw.githubusercontent.com/api-network/organizations/main/revspring.yaml
+tags:
+- Billing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.revspringinc.com
+- type: x-about
+  url: https://revspringinc.com/about/
+- type: x-about
+  url: https://revspringinc.com/about/media-center/
+- type: x-about
+  url: https://revspringinc.com/about/leadership/
+- type: x-blog
+  url: https://revspringinc.com/blog/
+- type: x-careers
+  url: https://revspringinc.com/about/careers/
+- type: x-case-studies
+  url: https://revspringinc.com/resources/case-studies/
+- type: x-contact
+  url: https://revspringinc.com/about/contact/
+- type: x-events
+  url: https://revspringinc.com/resources/events/
+- type: x-facebook
+  url: https://www.facebook.com/RevSpringInc/
+- type: x-integrations
+  url: https://revspringinc.com/healthcare/ehr-integrations/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/revspring/
+- type: x-login
+  url: https://revspringinc.com/login/
+- type: x-partner
+  url: https://revspringinc.com/partners/rcm-partners/
+- type: x-partner
+  url: https://revspringinc.com/about/partner-with-revspring/
+- type: x-privacy
+  url: https://revspringinc.com/privacy-policy/
+- type: x-security
+  url: https://revspringinc.com/about/security-compliance/
+- type: x-security
+  url: https://revspringinc.com/security-system-description/
+- type: x-support
+  url: https://revspringinc.com/support/
+- type: x-terms-of-service
+  url: https://revspringinc.com/terms-of-use/
+- type: x-terms-of-service
+  url: https://revspringinc.com/terms-and-conditions/
+- type: x-twitter
+  url: https://twitter.com/RevSpringInc
+- type: x-webinars
+  url: https://revspringinc.com/resources/webinars/
+- type: x-website
+  url: https://revspringinc.com
+- type: x-white-papers
+  url: https://revspringinc.com/resources/white-papers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,72 @@
+---
+name: YAML Ain't Markup Language (YAML)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "273891"
+url: https://raw.githubusercontent.com/api-network/organizations/main/yaml-aint-markup-language-yaml.yaml
+tags:
+- Markup Languages
+apis: []
+x-common:
+- type: x-code
+  url: http://www.codeplex.com/yaml/
+- type: x-code
+  url: http://code.google.com/p/yaml-cpp/
+- type: x-developer
+  url: https://crystal-lang.org/api/latest/YAML.html
+- type: x-developer
+  url: https://jvyaml.dev.java.net
+- type: x-developer
+  url: http://jvyaml.dev.java.net
+- type: x-github
+  url: https://github.com/yaml/yaml/issues
+- type: x-github
+  url: https://github.com/yaml/yaml-test-suite
+- type: x-github
+  url: https://github.com/pantoniou/libfyaml
+- type: x-github
+  url: https://github.com/tlsa/libcyaml
+- type: x-github
+  url: https://github.com/jbeder/yaml-cpp/
+- type: x-github
+  url: http://github.com/tenderlove/psych
+- type: x-github
+  url: https://www.github.com/decorators-squad/camel
+- type: x-github
+  url: https://github.com/go-yaml/yaml
+- type: x-github
+  url: https://github.com/kylelemons/go-gypsy
+- type: x-github
+  url: https://github.com/mustangostang/spyc
+- type: x-github
+  url: https://github.com/nodeca/js-yaml
+- type: x-github
+  url: http://nodeca.github.com/js-yaml/
+- type: x-github
+  url: https://github.com/chyh1990/yaml-rust
+- type: x-github
+  url: https://github.com/dtolnay/serde-yaml
+- type: x-github
+  url: https://github.com/neslib/Neslib.Yaml
+- type: x-github
+  url: http://github.com/trans/yaml_vim/tree/master
+- type: x-github
+  url: https://github.com/ixti
+- type: x-github
+  url: https://github.com/puzrin
+- type: x-github
+  url: http://github.com/tenderlove
+- type: x-github
+  url: https://github.com/yaml/www.yaml.org
+- type: x-website
+  url: https://yaml.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

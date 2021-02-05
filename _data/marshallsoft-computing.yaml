@@ -1,0 +1,30 @@
+---
+name: MarshallSoft Computing
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6130969"
+url: https://raw.githubusercontent.com/api-network/organizations/main/marshallsoft-computing.yaml
+tags:
+- Libraries
+apis: []
+x-common:
+- type: x-about
+  url: http://www.marshallsoft.com/about.htm
+- type: x-contact
+  url: http://www.marshallsoft.com/contact.htm
+- type: x-news
+  url: http://www.marshallsoft.com/news.htm
+- type: x-support
+  url: http://www.marshallsoft.com/support.htm
+- type: x-website
+  url: https://www.marshallsoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

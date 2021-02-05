@@ -1,0 +1,50 @@
+---
+name: Zima Media
+description: Zima Media is a digital agency, powered by digital nomads operating remotely.
+  We cut our overhead to pass the savings on to our SEO clients. Let's talk.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29390-zimamedia-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "468899"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zima-media.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: https://zimamedia.com/
+- type: x-about
+  url: https://zimamedia.com/about-us
+- type: x-about
+  url: https://zimamedia.com/about-us/
+- type: x-blog
+  url: https://zimamedia.com/blog
+- type: x-blog
+  url: https://zimamedia.com/blog/
+- type: x-case-studies
+  url: https://zimamedia.com/case-studies
+- type: x-case-studies
+  url: https://zimamedia.com/case-studies/
+- type: x-contact
+  url: https://zimamedia.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/zimamediallc/
+- type: x-instagram
+  url: https://www.instagram.com/zimamedia/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/zima-media/
+- type: x-privacy
+  url: https://zimamedia.com/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/Zima_Media
+- type: x-website
+  url: http://zimamedia.com
+- type: x-youtube
+  url: https://www.youtube.com/c/ZimaMedia
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

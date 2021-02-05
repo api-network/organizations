@@ -1,0 +1,35 @@
+---
+name: Broderbund
+description: The best known brand in consumer software for over 30 years. Make greeting
+  cards at home, learn typing, do a newsletter, create a scrapbook, start a business,
+  get clip art or fix your computer, we have the right software for you. Our products
+  can make things easier and help you to improve your life.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "417676"
+url: https://raw.githubusercontent.com/api-network/organizations/main/broderbund.yaml
+tags:
+- Retailers
+apis: []
+x-common:
+- type: x-about
+  url: https://www.broderbund.com/about-us/
+- type: x-blog
+  url: https://www.broderbund.com/blog
+- type: x-contact
+  url: https://www.broderbund.com/contact-us/
+- type: x-privacy
+  url: https://www.broderbund.com/privacy-policy
+- type: x-terms-of-service
+  url: https://www.broderbund.com/terms-of-use
+- type: x-website
+  url: https://www.broderbund.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

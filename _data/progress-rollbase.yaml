@@ -1,0 +1,53 @@
+---
+name: Progress Rollbase
+description: Progress offers the leading platform for developing and deploying mission-critical,
+  cognitive-first business applications for competitive advantage.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/914_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6730750"
+url: https://raw.githubusercontent.com/api-network/organizations/main/progress-rollbase.yaml
+tags:
+- Office
+- Have API
+- Applications
+apis: []
+x-common:
+- type: x-website
+  url: https://www.rollbase.com/integration.shtml
+- type: x-blog
+  url: http://blog.rollbase.com
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/rollbase
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/progress-software
+- type: x-email
+  url: copyrights@progress.com
+- type: x-email
+  url: trademarks@progress.com
+- type: x-email
+  url: bod@progress.com
+- type: x-email
+  url: legal@progress.com
+- type: x-email
+  url: Privacy@progress.com
+- type: x-email
+  url: unsubscribe@progress.com
+- type: x-email
+  url: pr@progress.com
+- type: x-email
+  url: pperez@progress.com
+- type: x-email
+  url: ssheehan@progress.com
+- type: x-twitter
+  url: https://twitter.com/rollbase
+- type: x-twitter
+  url: https://twitter.com/ProgressSW
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

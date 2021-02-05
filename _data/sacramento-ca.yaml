@@ -1,0 +1,28 @@
+---
+name: Sacramento, CA
+description: Welcome to City of Sacramento open data portal. Our mission is to promote
+  the openness, transparency and accountability of city government by providing high-value
+  government data. This site is dedicated to providing citizens with access and insight
+  into the city's information in standards compliant, machine readable and an easy
+  to use format. This will serve as the basis for the creation of useful civic applications
+  by third party developers.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "110208"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sacramento-ca.yaml
+tags:
+- No API
+- City Government
+apis: []
+x-common:
+- type: x-website
+  url: http://data.cityofsacramento.org/home/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

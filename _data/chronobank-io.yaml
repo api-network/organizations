@@ -1,0 +1,30 @@
+---
+name: Chronobank.io
+description: ChronoBank.io is an ambitious and wide-ranging blockchain project aimed
+  at disrupting the HR/recruitment/finance industries in a similar way to how Uber
+  disrupted the taxi business and UpWork represented an evolution in freelancing.     Despite
+  soaring...
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26948-chronobank-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "236064"
+url: https://raw.githubusercontent.com/api-network/organizations/main/chronobank-io.yaml
+tags:
+- Marketplaces
+- Blockchain
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/chronobank
+- type: x-twitter
+  url: https://twitter.com/ChronobankNews
+- type: x-website
+  url: https://chronobank.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

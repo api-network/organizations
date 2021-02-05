@@ -1,0 +1,68 @@
+---
+name: 'Software Diversified Services: SDS'
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2411226"
+url: https://raw.githubusercontent.com/api-network/organizations/main/software-diversified-services-sds.yaml
+tags:
+- Software
+apis: []
+x-common:
+- type: x-website
+  url: http://www.sdsusa.com
+- type: x-about
+  url: https://www.sdsusa.com/about/
+- type: x-blog
+  url: https://www.sdsusa.com/blog/
+- type: x-careers
+  url: https://www.sdsusa.com/about/careers/
+- type: x-contact
+  url: https://www.sdsusa.com/contact/
+- type: x-documentation
+  url: https://support.sdsusa.com/support/documentation/
+- type: x-documentation
+  url: https://www.sdsusa.com/productdocs/EBS-datasheet.pdf
+- type: x-documentation
+  url: https://www.sdsusa.com/productdocs/VSA-datasheet.pdf
+- type: x-documentation
+  url: https://www.sdsusa.com/productdocs/VWA-datasheet.pdf
+- type: x-events
+  url: https://www.sdsusa.com/events/
+- type: x-privacy
+  url: https://www.sdsusa.com/privacy/
+- type: x-security
+  url: https://www.sdsusa.com/mainframe-security-compliance/
+- type: x-security
+  url: https://www.sdsusa.com/security-software/vftp-ssh/
+- type: x-security
+  url: https://www.sdsusa.com/security-software/tectia-ssh/
+- type: x-security
+  url: https://cybersecurityventures.com/cybersecurity-500
+- type: x-support
+  url: https://www.sdsusa.com/support/
+- type: x-support
+  url: https://support.sdsusa.com/issues/
+- type: x-support
+  url: https://support.sdsusa.com/products/?qry=versions
+- type: x-support
+  url: https://support.sdsusa.com/support/keys/
+- type: x-support
+  url: https://support.sdsusa.com/downloads/
+- type: x-support
+  url: https://support.sdsusa.com/support/dictionary/
+- type: x-twitter
+  url: https://twitter.com/sdsusa1
+- type: x-webinars
+  url: https://www.sdsusa.com/resources/webinars/
+- type: x-website
+  url: https://www.sdsusa.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,74 @@
+---
+name: Department of Labor
+description: <p>The United States Department of Labor (DOL) is a cabinet-level department
+  of the U.S. federal government responsible for occupational safety, wage and hour
+  standards, unemployment insurance benefits, re-employment services, and some economic
+  statistics; many U.S. states also have such departments. The department is headed
+  by the U.S. Secretary of Labor.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/DOL_Seal_with_Hammer.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "10"
+x-alexaRank: "20806"
+url: https://raw.githubusercontent.com/api-network/organizations/main/department-of-labor.yaml
+tags:
+- Have API
+- Federal Government
+- Federal Government
+- Data JSON
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.dol.gov
+- type: x-about
+  url: https://www.dol.gov/general/aboutdol
+- type: x-about
+  url: https://www.dol.gov/general/aboutdol/file-formats
+- type: x-about
+  url: https://www.dol.gov/general/aboutdol/accessibility
+- type: x-about
+  url: https://www.dol.gov/general/aboutdol/website-policies
+- type: x-about
+  url: https://www.dol.gov/general/aboutdol/plug-ins
+- type: x-blog
+  url: https://blog.dol.gov/
+- type: x-contact
+  url: https://www.dol.gov/general/contact
+- type: x-contact
+  url: https://www.dol.gov/general/contact-phonecallcenter
+- type: x-data
+  url: https://www.bls.gov/data/
+- type: x-developer
+  url: http://developer.dol.gov
+- type: x-developers
+  url: http://developer.dol.gov/
+- type: x-facebook
+  url: https://www.facebook.com/departmentoflabor
+- type: x-facebook
+  url: http://www.facebook.com/departmentoflabor
+- type: x-instagram
+  url: https://www.instagram.com/USDOL/
+- type: x-news
+  url: https://www.dol.gov/newsroom/releases/whd/whd20200112
+- type: x-news
+  url: https://www.dol.gov/newsroom/newsletter
+- type: x-privacy
+  url: https://www.dol.gov/general/privacynotice
+- type: x-twitter
+  url: https://twitter.com/USDOL
+- type: x-twitter
+  url: https://twitter.com/SecGeneScalia
+- type: x-website
+  url: http://dol.gov
+- type: x-wikipedia
+  url: http://en.wikipedia.org/wiki/United_States_Department_of_Labor
+- type: x-youtube
+  url: https://www.youtube.com/user/USDepartmentofLabor
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

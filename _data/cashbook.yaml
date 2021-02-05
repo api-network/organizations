@@ -1,0 +1,45 @@
+---
+name: Cashbook
+description: Achieve unprecedented levels of automation for accounts receivable, accounts
+  payable & bank reconciliation processes with Cashbook cash management software.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1441257"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cashbook.yaml
+tags:
+- ERP
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cashbook.com
+- type: x-about
+  url: https://www.cashbook.com/about/
+- type: x-careers
+  url: https://www.cashbook.com/careers/
+- type: x-contact
+  url: https://www.cashbook.com/contact/
+- type: x-events
+  url: https://www.cashbook.com/events/himss20/
+- type: x-facebook
+  url: https://www.facebook.com/CashbookLimited/
+- type: x-forum
+  url: https://www.cashbook.com/events/inforum-2020/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/cashbook-limited
+- type: x-news
+  url: https://www.cashbook.com/news/
+- type: x-partner
+  url: https://www.cashbook.com/partners/
+- type: x-twitter
+  url: https://twitter.com/CashbookLtd
+- type: x-website
+  url: https://www.cashbook.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

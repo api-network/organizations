@@ -1,0 +1,36 @@
+---
+name: Olimex
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "189874"
+url: https://raw.githubusercontent.com/api-network/organizations/main/olimex.yaml
+tags:
+- Open Source
+apis: []
+x-common:
+- type: x-website
+  url: http://www.olimex.com
+- type: x-facebook
+  url: http://www.facebook.com/pages/Olimex/284513994899126
+- type: x-github
+  url: https://github.com/OLIMEX
+- type: x-press
+  url: http://olimex.wordpress.com/
+- type: x-press
+  url: http://olimex.wordpress.com
+- type: x-twitter
+  url: http://twitter.com/Olimex
+- type: x-website
+  url: https://www.olimex.com
+- type: x-youtube
+  url: http://www.youtube.com/tsvetanusunov
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

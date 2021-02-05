@@ -1,0 +1,32 @@
+---
+name: MBZ Distributing
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1828926"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mbz-distributing.yaml
+tags:
+- Pointing Devices
+apis: []
+x-common:
+- type: x-about
+  url: https://mouseballz.com/about/
+- type: x-contact
+  url: https://mouseballz.com/contact/
+- type: x-feed
+  url: http://techmeme.com/feed.xml
+- type: x-news
+  url: https://mouseballz.com/tech-news-updates/
+- type: x-privacy
+  url: https://mouseballz.com/privacy/
+- type: x-website
+  url: https://www.mouseballz.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

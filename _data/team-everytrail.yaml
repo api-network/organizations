@@ -1,0 +1,59 @@
+---
+name: Team EveryTrail
+description: Search over 100,000 trails with trail info, maps, detailed reviews, and
+  photos curated by millions of hikers, campers, and nature lovers like you.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/778_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1535058"
+url: https://raw.githubusercontent.com/api-network/organizations/main/team-everytrail.yaml
+tags:
+- Trip Planning
+- Trails
+- Locations
+- Have API
+- Geotagging
+apis: []
+x-common:
+- type: x-website
+  url: http://www.alltrails.com
+- type: x-base
+  url: http://www.everytrail.com/api/
+- type: x-blog
+  url: http://blog.everytrail.com/
+- type: x-blog-rss
+  url: http://blog.everytrail.com/?feed=rss2
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/everytrail
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/alltrails-com
+- type: x-developers
+  url: http://www.everytrail.com/developer
+- type: x-email
+  url: api@GlobalMotion.com.
+- type: x-email
+  url: support@alltrails.com
+- type: x-facebook
+  url: https://www.facebook.com/AllTrails
+- type: x-instagram
+  url: https://www.instagram.com/alltrails
+- type: x-support
+  url: https://support.alltrails.com?ref=header
+- type: x-support
+  url: https://support.alltrails.com/hc/en-us
+- type: x-twitter
+  url: https://www.twitter.com/alltrails
+- type: x-twitter
+  url: https://twitter.com/#!/everytrail
+- type: x-twitter
+  url: https://twitter.com/AllTrails
+- type: x-website
+  url: http://www.everytrail.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

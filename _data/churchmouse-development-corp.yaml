@@ -1,0 +1,40 @@
+---
+name: ChurchMouse Development Corp
+description: ChurchMouse Development Corp. provides Church Accounting program, Church
+  Management Software and Homeowners Association Accounting program
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6096127"
+url: https://raw.githubusercontent.com/api-network/organizations/main/churchmouse-development-corp.yaml
+tags:
+- Not For Profit
+- Homeowners Association Budgeting
+- Homeowners Association Accounting Program
+- Church Membership
+- Church Management Software
+- Church Mailings
+- Church Accounting Program
+- Apartments Record Keeping
+- Apartments Budgeting
+- Apartement Account Program
+apis: []
+x-common:
+- type: x-about
+  url: https://chmouse.com/about-us/
+- type: x-about
+  url: https://plus.google.com/113989186661602708641/about
+- type: x-contact
+  url: https://chmouse.com/contact-us/
+- type: x-feed
+  url: http://chmouse.com/feed/
+- type: x-website
+  url: https://www.chmouse.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

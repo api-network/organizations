@@ -1,0 +1,64 @@
+---
+name: Semantics3
+description: Semantics3 offers the world's most extensive UPC and Product Lookup API.
+  Get product data solutions to power the next generation of ecommerce.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1473_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "399435"
+url: https://raw.githubusercontent.com/api-network/organizations/main/semantics3.yaml
+tags:
+- Target
+- Meta
+- Have API
+- Commerce
+apis: []
+x-common:
+- type: x-website
+  url: http://www.semantics3.com
+- type: x-base
+  url: https://api.semantics3.com/
+- type: x-blog
+  url: http://blog.semantics3.com
+- type: x-blog
+  url: https://www.semantics3.com/blog
+- type: x-blog-rss
+  url: https://www.semantics3.com/blog/rss/
+- type: x-code
+  url: https://www.semantics3.com/hscode/united-states
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/semantics3
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/semantics3
+- type: x-documentation
+  url: https://docs.semantics3.com/reference
+- type: x-email
+  url: support@semantics3.com
+- type: x-email
+  url: contact@semantics3.com
+- type: x-email
+  url: contactus@semantics3.com
+- type: x-facebook
+  url: https://www.facebook.com/Semantics3/
+- type: x-github
+  url: https://github.com/Semantics3
+- type: x-login
+  url: https://dashboard.semantics3.com/login
+- type: x-status
+  url: https://semantics3.statuspage.io
+- type: x-twitter
+  url: https://twitter.com/Semantics3
+- type: x-twitter
+  url: https://twitter.com/@semantics3
+- type: x-website
+  url: https://www.semantics3.com/
+- type: x-website
+  url: https://www.semantics3.com/pricing
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

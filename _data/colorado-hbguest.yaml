@@ -1,0 +1,29 @@
+---
+name: Colorado HBGuest
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "3"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/colorado-hbguest.yaml
+tags:
+- Watershed
+- Water Management
+- Profile
+- Have API
+- Data Provider
+- Colorado
+- Campaigns
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://water.state.co.us/DataMaps/WebServices/Pages/WebServices.aspx
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,24 @@
+---
+name: Magnetic Island Ferry GTFS
+description: Transit authority located in Magnetic Island, Queensland, Australia<br
+  />
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/magnetic-island-ferry-gtfs.yaml
+tags: []
+apis: []
+x-common:
+- type: x-gtfs-feed
+  url: https://gtfsrt.api.translink.com.au/GTFS/sealink.zip
+- type: x-website
+  url: https://data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-qconnect/resource/a7a3282c-ce87-4b4e-8b7b-70a4cc081ed6
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

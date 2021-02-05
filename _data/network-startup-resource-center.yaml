@@ -1,0 +1,38 @@
+---
+name: Network Startup Resource Center
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "401016"
+url: https://raw.githubusercontent.com/api-network/organizations/main/network-startup-resource-center.yaml
+tags:
+- Organizations
+apis: []
+x-common:
+- type: x-about
+  url: https://nsrc.org/about
+- type: x-facebook
+  url: https://www.facebook.com/nsrc.org
+- type: x-news
+  url: https://nsrc.org/news
+- type: x-news
+  url: https://www.internet2.edu/news/detail/17050/
+- type: x-status
+  url: https://nsrc.org/networkstatus
+- type: x-support
+  url: https://nsrc.org/supporters
+- type: x-twitter
+  url: https://twitter.com/nsrcworld
+- type: x-website
+  url: https://www.nsrc.org
+- type: x-youtube
+  url: https://www.youtube.com/user/NSRCworld
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

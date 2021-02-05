@@ -1,0 +1,42 @@
+---
+name: Acorn News Service (ANS)
+description: A fortnightly email newsletter with RISC OS related news and information.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/acorn-news-service-ans.yaml
+tags:
+- RSS
+- RISCPC
+- Risc PC
+- RISC OS
+- Omega
+- Newsletter
+- News And Media
+- News
+- Main
+- Mailing List
+- Iyonix
+- Introduction
+- Index
+- Homepage
+- Home
+- Frontpage
+- Archimedes
+- Ans
+- Acorn News Service
+apis: []
+x-common:
+- type: x-open-source
+  url: http://www.riscosopen.org/
+- type: x-website
+  url: https://www.ans.org.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

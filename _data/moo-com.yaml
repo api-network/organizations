@@ -1,0 +1,79 @@
+---
+name: moo.com
+description: MOO makes great design and print for customers worldwide. Design and
+  print products for marketing and/or promotional use. | MOO (United States)
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/appery.io_logo_green_rgb_300dpi_1.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "10061"
+url: https://raw.githubusercontent.com/api-network/organizations/main/moo-com.yaml
+tags:
+- Print
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.moo.com
+- type: x-base
+  url: http://www.moo.com/api/
+- type: x-blog
+  url: https://www.moo.com/blog/inspiration/gold-foil-business-card-designs
+- type: x-blog
+  url: https://www.moo.com/blog/category/inspiration
+- type: x-blog
+  url: https://www.moo.com/blog/category/interviews
+- type: x-blog
+  url: https://www.moo.com/blog/category/business-tips
+- type: x-blog
+  url: http://www.moo.com/blog/
+- type: x-blog-rss
+  url: http://www.moo.com/feed/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/moo
+- type: x-developers
+  url: http://us.moo.com/api/
+- type: x-email
+  url: community@moo.com
+- type: x-email
+  url: support@moo.com
+- type: x-email
+  url: pr@moo.com
+- type: x-email
+  url: data.privacymanager@moo.com
+- type: x-facebook
+  url: https://www.facebook.com/moo
+- type: x-instagram
+  url: https://www.instagram.com/moo/
+- type: x-news
+  url: https://www.moo.com/blog/category/news
+- type: x-privacy
+  url: https://www.moo.com/about/privacy-policy
+- type: x-support
+  url: https://support.moo.com/hc/en-us
+- type: x-support
+  url: https://support.moo.com/hc/en-us/sections/200572464
+- type: x-support
+  url: https://support.moo.com/hc/en-us/sections/200585404
+- type: x-support
+  url: https://support.moo.com/hc/en-us/articles/204288414
+- type: x-support
+  url: https://support.moo.com/hc/en-gb/articles/204288414
+- type: x-support
+  url: https://support.moo.com/hc/en-gb
+- type: x-support
+  url: https://support.moo.com/hc/en-gb/sections/200572464
+- type: x-twitter
+  url: https://twitter.com/MOO
+- type: x-twitter
+  url: https://twitter.com/overheardatmoo
+- type: x-website
+  url: http://us.moo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

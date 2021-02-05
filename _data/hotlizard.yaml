@@ -1,0 +1,79 @@
+---
+name: HotLizard
+description: HotLizard design and build recruitment websites and job board solutions.
+  These recruitment platforms are fully responsive and designed to meet client and
+  candidate needs. The jobboard solutions have e-commerce inbuilt and allow customisation.
+  GDPR compliant recruitment website design
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2953668"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hotlizard.yaml
+tags:
+- Recruitment Management
+apis: []
+x-common:
+- type: x-website
+  url: https://www.tilton.co
+- type: x-careers
+  url: https://careers.makepositive.com/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/143402/
+- type: x-twitter
+  url: https://twitter.com/archsonline
+- type: x-twitter
+  url: https://twitter.com/hashtag/architects
+- type: x-twitter
+  url: https://twitter.com/hashtag/architectsalarysurvey
+- type: x-twitter
+  url: https://twitter.com/FindApprentices
+- type: x-twitter
+  url: https://twitter.com/talentnexus
+- type: x-twitter
+  url: https://twitter.com/ukrecruiter
+- type: x-twitter
+  url: https://twitter.com/hashtag/recruitmentwebsite
+- type: x-twitter
+  url: https://twitter.com/HotLizard_News
+- type: x-twitter
+  url: https://twitter.com/GradSWJobs
+- type: x-twitter
+  url: https://twitter.com/hashtag/graduate
+- type: x-twitter
+  url: https://twitter.com/hashtag/GraduateRecruitment
+- type: x-twitter
+  url: https://twitter.com/hashtag/SME
+- type: x-twitter
+  url: https://twitter.com/The_AFF
+- type: x-twitter
+  url: https://twitter.com/RAFAssociation
+- type: x-twitter
+  url: https://twitter.com/UPS
+- type: x-twitter
+  url: https://twitter.com/hashtag/jobboard
+- type: x-twitter
+  url: https://twitter.com/hashtag/UserExperience
+- type: x-twitter
+  url: https://twitter.com/OzzlePrintJobs
+- type: x-twitter
+  url: https://twitter.com/networkedtalent
+- type: x-twitter
+  url: https://twitter.com/DwrCymru
+- type: x-twitter
+  url: https://twitter.com/hashtag/apprenticeship
+- type: x-twitter
+  url: https://twitter.com/hashtag/print
+- type: x-twitter
+  url: https://twitter.com/hashtag/packaging
+- type: x-twitter
+  url: https://twitter.com/hashtag/design
+- type: x-website
+  url: https://hotlizard.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

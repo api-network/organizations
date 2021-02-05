@@ -1,0 +1,32 @@
+---
+name: ASR Gooyesh Pardaz Co.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "300323"
+url: https://raw.githubusercontent.com/api-network/organizations/main/asr-gooyesh-pardaz-co-.yaml
+tags:
+- Speech Technology
+apis: []
+x-common:
+- type: x-careers
+  url: http://asr-gooyesh.com/fa/jobs/
+- type: x-contact
+  url: http://asr-gooyesh.com/fa/contact-us/
+- type: x-customers
+  url: http://asr-gooyesh.com/fa/customers/
+- type: x-instagram
+  url: https://instagram.com/asrgooyesh
+- type: x-news
+  url: http://asr-gooyesh.com/fa/category/news/
+- type: x-website
+  url: https://www.asr-gooyesh.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

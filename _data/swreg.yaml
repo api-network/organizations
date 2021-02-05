@@ -1,0 +1,22 @@
+---
+name: SWREG
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "94741"
+url: https://raw.githubusercontent.com/api-network/organizations/main/swreg.yaml
+tags:
+- Merchant Services
+apis: []
+x-common:
+- type: x-website
+  url: https://swreg.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

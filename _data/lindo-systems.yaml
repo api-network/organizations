@@ -1,0 +1,82 @@
+---
+name: Lindo Systems
+description: LINDO Systems develops software tools for optimization modeling. We offer
+  solvers and a featured environment for Linear Programming, Nonlinear Programming,
+  Integer Programming and Global Optimization models. Our products include Lindo API,
+  LINGO, and What'sBest for Excel.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "432694"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lindo-systems.yaml
+tags:
+- What'sBest!
+- Unbounded Models
+- Transportation
+- Spreadsheet Optimization
+- Solvers
+- Solver
+- Software
+- Scheduling
+- Routines
+- Resource Allocation
+- Quadratically Constrained
+- Quadratic
+- Programming
+- Production Planning
+- Portfolio Allocation
+- Optimization Tools
+- Optimization Environment
+- Optimization
+- Nonlinear
+- Models
+- Maximize Profit
+- MATLAB Optimization
+- MATLAB Function
+- Matlab
+- Mathematical Programming
+- Mathematical
+- Lingo
+- Linear
+- Lindoglobal
+- LINDO Global Optimization
+- Lindo API
+- Lindo
+- Inventory
+- Integer Optimization
+- Integer
+- Global Optimization
+- Financial Models
+- Finance
+- Excel Optimization
+- Excel Add-in
+- Downloads
+- Database
+- Customized Optimization Applications
+- Custom
+- Cost Reduction
+- Cost Minimization
+- Convex  Nonconvex
+- Capital Budgeting
+- Business Application
+- Built-in Solvers
+- Blending
+- Application Programming Interface
+- API
+- Add-Ins
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.lindo.com
+- type: x-twitter
+  url: https://twitter.com/lindosystems?lang=en
+- type: x-website
+  url: https://www.lindo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

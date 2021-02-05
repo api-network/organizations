@@ -1,0 +1,59 @@
+---
+name: Planet Open Knowledge Foundation
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "212055"
+url: https://raw.githubusercontent.com/api-network/organizations/main/planet-open-knowledge-foundation.yaml
+tags:
+- Has API
+- API LIfeycle
+apis: []
+x-common:
+- type: x-about
+  url: https://planet.okfn.org/about/
+- type: x-documentation
+  url: http://docs.openreferral.org/en/latest/hsds/
+- type: x-documentation
+  url: https://nes.readthedocs.io/en/latest/
+- type: x-feed
+  url: https://planet.okfn.org/feed/
+- type: x-feed
+  url: https://planet.okfn.org/comments/feed/
+- type: x-github
+  url: https://github.com/neuromat/nes
+- type: x-github
+  url: https://github.com/frictionlessdata/goodtables-py
+- type: x-login
+  url: https://planet.okfn.org/wp-login.php
+- type: x-open-source
+  url: https://planet.okfn.org/category/open-knowledge/
+- type: x-open-source
+  url: https://openreferral.org/
+- type: x-open-source
+  url: https://github.com/openreferral/hsds-transformer
+- type: x-open-source
+  url: https://openreferral.github.io/hsds-transformer/
+- type: x-open-source
+  url: https://opendata.ch/2020/01/annual-plan-2020/
+- type: x-blog-rss
+  url: http://planet.okfn.org/feed/
+- type: x-platform
+  url: https://planet.okfn.org/tag/platform/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-privacy
+  url: https://okfn.org/privacy-policy/
+- type: x-terms-of-service
+  url: https://okfn.org/terms-of-use/
+- type: x-website
+  url: https://planet.okfn.org/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

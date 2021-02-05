@@ -1,0 +1,62 @@
+---
+name: Proleit AG
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2903934"
+url: https://raw.githubusercontent.com/api-network/organizations/main/proleit-ag.yaml
+tags:
+- Manufacturing
+apis: []
+x-common:
+- type: x-about
+  url: https://www.proleit.com/about-us/
+- type: x-about
+  url: https://www.proleit.com/about-us/proleit-ag/
+- type: x-about
+  url: https://www.proleit.com/about-us/proleit-group/
+- type: x-about
+  url: https://www.proleit.com/about-us/mission-statement/
+- type: x-about
+  url: https://www.proleit.com/about-us/references/
+- type: x-about
+  url: https://www.proleit.com/about-us/history/
+- type: x-contact
+  url: https://www.proleit.com/contact/
+- type: x-contact
+  url: https://www.proleit.com/contact/contact-proleit-corp/
+- type: x-contact
+  url: https://www.proleit.com/contact/contact-proleit-ag/
+- type: x-contact
+  url: https://www.proleit.com/contact/contact-proleit-group/
+- type: x-events
+  url: https://www.proleit.com/career/recruiting-events/
+- type: x-facebook
+  url: https://www.facebook.com/ProLeiTGroup/
+- type: x-instagram
+  url: https://www.instagram.com/proleit/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/proleit
+- type: x-news
+  url: https://www.proleit.com/training/proleit-academy-news/
+- type: x-news
+  url: https://www.proleit.com/news-events/newsletter/
+- type: x-partner
+  url: https://www.proleit.com/about-us/partners/
+- type: x-press
+  url: https://www.proleit.com/news-events/press-releases/
+- type: x-support
+  url: https://www.proleit.com/support/
+- type: x-website
+  url: https://www.proleit.com
+- type: x-youtube
+  url: https://www.youtube.com/proleitag
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

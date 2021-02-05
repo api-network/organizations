@@ -1,0 +1,41 @@
+---
+name: Synapse Audio Software
+description: 'Welcome to Synapse Audio Software, we made the best VST Synthesizers:
+  DUNE 3, EKS Pro, Hydra, and Rack Extensions: Antidote, GQ-7 and more'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "513820"
+url: https://raw.githubusercontent.com/api-network/organizations/main/synapse-audio-software.yaml
+tags:
+- VSTi
+- Vst Synthesizers
+- Vst
+- Synthesizers
+- Software
+- Plugin
+- Orion
+- Music
+- EKS Pro
+- DUNE 3
+- DAW
+apis: []
+x-common:
+- type: x-website
+  url: http://www.synapse-audio.com
+- type: x-facebook
+  url: https://www.facebook.com/SynapseAudioOfficial
+- type: x-forum
+  url: https://forum.synapse-audio.com
+- type: x-twitter
+  url: https://twitter.com/SynapseAudio
+- type: x-website
+  url: https://www.synapse-audio.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

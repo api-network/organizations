@@ -1,0 +1,40 @@
+---
+name: Saba Software, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "119979"
+url: https://raw.githubusercontent.com/api-network/organizations/main/saba-software-inc-.yaml
+tags:
+- Delivery And Management Systems
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/SabaSoftware
+- type: x-instagram
+  url: https://www.instagram.com/sabasoftware/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/saba
+- type: x-marketplace
+  url: http://marketplace.lumesse.com/
+- type: x-marketplace
+  url: https://marketplace.saba.com
+- type: x-slideshare
+  url: http://www.slideshare.net/SabaSoftware/
+- type: x-support
+  url: https://support.saba.com
+- type: x-twitter
+  url: https://twitter.com/SabaSoftware
+- type: x-website
+  url: https://www.saba.com
+- type: x-youtube
+  url: https://www.youtube.com/user/sabasoftwaretv
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,51 @@
+---
+name: Intranet Connections
+description: Source by IC Thrive intranet software (previously intranet connections)
+  empowers your employees with tools and expertise to build a thriving workplace.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/intranet-connections.yaml
+tags:
+- Intranet
+apis: []
+x-common:
+- type: x-blog
+  url: https://icthrive.com/resources/blog/
+- type: x-blog
+  url: https://icthrive.com/blog/author/karen/
+- type: x-blog
+  url: https://icthrive.com/blog/author/erin/
+- type: x-case-studies
+  url: https://icthrive.com/use-cases/hr-intranet
+- type: x-case-studies
+  url: https://icthrive.com/use-cases/it-intranet/
+- type: x-case-studies
+  url: https://icthrive.com/use-cases/for-marketers/
+- type: x-case-studies
+  url: https://icthrive.com/resources/case-studies/
+- type: x-facebook
+  url: https://www.facebook.com/icthrive/
+- type: x-instagram
+  url: https://www.instagram.com/icthrive
+- type: x-linkedin
+  url: https://ca.linkedin.com/company/ic-thrive
+- type: x-pricing
+  url: https://icthrive.com/pricing
+- type: x-support
+  url: https://support.icthrive.com/hc/en-us
+- type: x-twitter
+  url: https://twitter.com/intranettips?lang=en
+- type: x-website
+  url: https://www.intranetconnections.com
+- type: x-white-papers
+  url: https://icthrive.com/resources/ebooks-whitepapers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

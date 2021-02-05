@@ -1,0 +1,30 @@
+---
+name: JoomlaShack
+description: Joomla extensions and templates to make your Joomla sites better!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "37481"
+url: https://raw.githubusercontent.com/api-network/organizations/main/joomlashack.yaml
+tags:
+- Extensions And Templates
+apis: []
+x-common:
+- type: x-website
+  url: http://www.joomlashack.com
+- type: x-facebook
+  url: https://www.facebook.com/Joomlashack
+- type: x-twitter
+  url: https://twitter.com/joomlashack
+- type: x-website
+  url: https://www.joomlashack.com
+- type: x-youtube
+  url: https://www.youtube.com/user/Joomlashack
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

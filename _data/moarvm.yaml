@@ -1,0 +1,28 @@
+---
+name: MoarVM
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/moarvm.yaml
+tags:
+- Perl
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/MoarVM/MoarVM
+- type: x-github
+  url: https://github.com/perl6/nqp/
+- type: x-github
+  url: http://fortawesome.github.io/Font-Awesome/
+- type: x-website
+  url: https://www.moarvm.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,38 @@
+---
+name: TheVoipGuide.org
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/thevoipguide-org.yaml
+tags:
+- Telephony
+apis: []
+x-common:
+- type: x-website
+  url: http://www.whichvoip.com/
+- type: x-about
+  url: https://www.whichvoip.com/common/about_us.htm
+- type: x-contact
+  url: https://www.whichvoip.com/common/contact_us.htm
+- type: x-facebook
+  url: https://www.facebook.com/WhichVoIP
+- type: x-linkedin
+  url: https://www.linkedin.com/company/whichvoip-com
+- type: x-privacy
+  url: https://www.whichvoip.com/common/privacy.htm
+- type: x-terms-of-service
+  url: https://www.whichvoip.com/common/terms_of_use.htm
+- type: x-twitter
+  url: https://twitter.com/WhichVoIP
+- type: x-website
+  url: https://www.thevoipguide.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

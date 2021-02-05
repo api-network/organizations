@@ -1,0 +1,62 @@
+---
+name: The Lone Sysadmin
+description: Rounding Up IT Outlaws
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1758078"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-lone-sysadmin.yaml
+tags:
+- Weblogs
+apis: []
+x-common:
+- type: x-website
+  url: http://blog.codinghorror.com
+- type: x-about
+  url: https://lonesysadmin.net/about/
+- type: x-about
+  url: https://lonesysadmin.net/about/disclosures/
+- type: x-blog
+  url: https://funnelfiasco.com/blog/
+- type: x-blog
+  url: https://lonesysadmin.net/category/blog-action-day/
+- type: x-blog
+  url: https://lonesysadmin.net/category/blogs/
+- type: x-code
+  url: https://lonesysadmin.net/2018/11/06/code-keyboard/
+- type: x-code
+  url: https://codekeyboards.com/
+- type: x-code
+  url: http://www.wasdkeyboards.com
+- type: x-documentation
+  url: https://lonesysadmin.net/category/documentation/
+- type: x-feed
+  url: https://lonesysadmin.net/feed/
+- type: x-privacy
+  url: https://lonesysadmin.net/about/privacy/
+- type: x-security
+  url: https://lonesysadmin.net/category/security-2/
+- type: x-security
+  url: https://lonesysadmin.net/tag/security/
+- type: x-support
+  url: https://support.dell.com
+- type: x-twitter
+  url: https://twitter.com/plankers
+- type: x-twitter
+  url: https://twitter.com/funnelfiasco
+- type: x-twitter
+  url: https://twitter.com/millardjk
+- type: x-twitter
+  url: https://twitter.com/vcixnv
+- type: x-twitter
+  url: https://twitter.com/codinghorror
+- type: x-website
+  url: https://lonesysadmin.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

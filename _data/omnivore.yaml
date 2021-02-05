@@ -1,0 +1,53 @@
+---
+name: Omnivore
+description: Omnivore allows developers to integrate with the leading POS systems,
+  and connects restaurants to the latest technologies.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28747-omnivore-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "551566"
+url: https://raw.githubusercontent.com/api-network/organizations/main/omnivore.yaml
+tags:
+- POS
+- Point Of Sale
+- No API
+- Have Swagger
+- Have API Paths
+apis: []
+x-common:
+- type: x-website
+  url: http://omnivore.io
+- type: x-blog
+  url: https://blog.omnivore.io/
+- type: x-careers
+  url: https://jobs.omnivore.io/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/positronics-io
+- type: x-customers
+  url: https://omnivore.io/customers/
+- type: x-developers
+  url: https://omnivore.io/developers/
+- type: x-facebook
+  url: https://www.facebook.com/omnivore.io/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/omnivore-io/
+- type: x-login
+  url: https://panel.omnivore.io/login
+- type: x-self-service-registration
+  url: https://panel.omnivore.io/register
+- type: x-terms-of-service
+  url: https://panel.omnivore.io/legal/terms-of-service
+- type: x-terms-of-service
+  url: https://panel.omnivore.io/legal/privacy-policy
+- type: x-twitter
+  url: https://twitter.com/OmnivoreIO
+- type: x-website
+  url: https://omnivore.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

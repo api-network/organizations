@@ -1,0 +1,41 @@
+---
+name: Total Resource Management
+description: Total Resource Management, Inc. (TRM) is the leading provider of innovative
+  Enterprise Asset Management (EAM) solutions that improve asset & business performance.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6240807"
+url: https://raw.githubusercontent.com/api-network/organizations/main/total-resource-management.yaml
+tags:
+- Asset Management
+apis: []
+x-common:
+- type: x-about
+  url: https://www.trmnet.com/about-trm/why-trm/
+- type: x-about
+  url: https://www.trmnet.com/about-trm/trm-leadership/
+- type: x-careers
+  url: https://www.trmnet.com/about-trm/careers/
+- type: x-contact
+  url: https://www.trmnet.com/about-trm/contact-us/
+- type: x-events
+  url: https://www.trmnet.com/events/distributech-2020/
+- type: x-news
+  url: https://www.trmnet.com/news/
+- type: x-news
+  url: https://www.trmnet.com/category/news/trm-blog/
+- type: x-support
+  url: https://www.trmnet.com/eam-software/lifeline-support/
+- type: x-webinars
+  url: https://www.trmnet.com/resources/webinars/
+- type: x-website
+  url: https://www.trmnet.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,43 @@
+---
+name: G-Lock Software
+description: "Business Email Marketing software solution for Windows \u25BA G-Lock
+  EasyMail7, E-mail Verifier, Email Processor, WPNewsman, SpamCombat. Download for
+  Free Today!"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "472153"
+url: https://raw.githubusercontent.com/api-network/organizations/main/glock-software.yaml
+tags:
+- Shareware
+- Security
+apis: []
+x-common:
+- type: x-website
+  url: http://glockapps.com
+- type: x-blog
+  url: https://www.glocksoft.com/blog/
+- type: x-facebook
+  url: https://www.facebook.com/GLockEasymail
+- type: x-linkedin
+  url: https://www.linkedin.com/company/g-lock-software
+- type: x-news
+  url: https://www.glocksoft.com/wpnewsman/
+- type: x-signup
+  url: http://app.glockapps.com/signup
+- type: x-signup
+  url: http://glockanalytics.com/signup/free
+- type: x-support
+  url: https://www.glocksoft.com/support/
+- type: x-twitter
+  url: https://twitter.com/glocksoft
+- type: x-website
+  url: https://www.glocksoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

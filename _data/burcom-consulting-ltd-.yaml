@@ -1,0 +1,54 @@
+---
+name: Burcom Consulting Ltd.
+description: ERP, CRM, HRMS, BI, Cloud Consultants - Edmonton, Calgary, Winnipeg
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/burcom-consulting-ltd-.yaml
+tags:
+- Winnipeg
+- Server Cloud Canada
+- Sage X3
+- Sage Hrms
+- Sage CRM
+- Sage Accpac
+- Sage 300
+- Sage
+- Microsoft
+- Manitoba
+- HR
+- ERP
+- Edmonton
+- Dell
+- CRM
+- Canada
+- Calgary
+- Business Intelligence
+- Bi
+- Alberta
+- ACCPAC
+apis: []
+x-common:
+- type: x-website
+  url: http://www.theanswerco.com
+- type: x-careers
+  url: http://www.theanswerco.com/careers/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/the-answer-company
+- type: x-support
+  url: https://www.fastsupport.com
+- type: x-twitter
+  url: https://twitter.com/theanswerco
+- type: x-website
+  url: https://www.burcomconsulting.com
+- type: x-youtube
+  url: https://www.youtube.com/user/TheAnswerCo
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

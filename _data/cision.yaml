@@ -1,0 +1,58 @@
+---
+name: Cision
+description: From engaging influencers and sharing news to comprehensive media and
+  analytics, Cision  provides an all-in-one solution to help you build awareness,
+  earn publicity and measure results.    Cision monitors millions of social conversations
+  per day on Twi...
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28679-24-7-press-release-newswire.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "56636"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cision.yaml
+tags:
+- No API Found
+- Have API
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/24-7-press-release-newswire
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/forbes
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/cision
+- type: x-press
+  url: https://www.facebook.com/247pressrelease
+- type: x-press
+  url: http://mediadesk.24-7pressrelease.com
+- type: x-press
+  url: http://blog.24-7pressrelease.com
+- type: x-press
+  url: https://www.24-7pressrelease.com/register
+- type: x-press
+  url: https://www.24-7pressrelease.com/login
+- type: x-press
+  url: http://www.pinterest.com/247pressrelease
+- type: x-press
+  url: https://www.instagram.com/247pressrelease/
+- type: x-press
+  url: https://www.rebelmouse.com/247pressrelease
+- type: x-twitter
+  url: https://twitter.com/247pressrelease
+- type: x-twitter
+  url: https://twitter.com/Forbes
+- type: x-twitter
+  url: https://twitter.com/Cision
+- type: x-website
+  url: http://24-7pressrelease.com
+- type: x-website
+  url: http://forbes.com
+- type: x-website
+  url: http://cision.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

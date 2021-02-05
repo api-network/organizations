@@ -1,0 +1,26 @@
+---
+name: ACL Services
+description: We are Galvanize
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "794745"
+url: https://raw.githubusercontent.com/api-network/organizations/main/acl-services.yaml
+tags:
+- Galvanize
+- Audit
+- ACL
+apis: []
+x-common:
+- type: x-login
+  url: https://accounts.highbond.com/login
+- type: x-website
+  url: https://www.acl.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

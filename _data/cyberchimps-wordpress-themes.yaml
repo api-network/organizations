@@ -1,0 +1,49 @@
+---
+name: CyberChimps WordPress Themes
+description: Get premium WordPress themes & templates that are customizable, fast
+  & mobile-friendly by CyberChimps. Home of the popular Responsive WordPress theme.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "70925"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cyberchimps-wordpress-themes.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-blog
+  url: https://cyberchimps.com/blog/
+- type: x-contact
+  url: https://cyberchimps.com/contact/
+- type: x-documentation
+  url: https://docs.cyberchimps.com/responsive
+- type: x-documentation
+  url: https://docs.cyberchimps.com/responsive/
+- type: x-facebook
+  url: https://www.facebook.com/groups/2680377988687238
+- type: x-forum
+  url: https://cyberchimps.com/help/forum/
+- type: x-gdpr
+  url: https://cyberchimps.com/gdpr-privacy-policy/
+- type: x-gdpr
+  url: https://cyberchimps.com/gdpr-cookie-policy/
+- type: x-press
+  url: https://cyberchimps.com/premium-wordpress-themes/blog/
+- type: x-press
+  url: https://wordpress.org/themes/responsive/
+- type: x-pricing
+  url: https://cyberchimps.com/responsive-pricing/
+- type: x-showcase
+  url: https://cyberchimps.com/showcase/
+- type: x-terms-of-service
+  url: https://cyberchimps.com/terms-of-service/
+- type: x-website
+  url: https://cyberchimps.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

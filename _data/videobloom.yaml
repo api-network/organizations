@@ -1,0 +1,68 @@
+---
+name: VideoBloom
+description: Connect, tell, sell and share your stories and products with the power
+  of socially smart video solutions from VideoBloom.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/518_logo..png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/videobloom.yaml
+tags:
+- Website Video
+- Web Video
+- Video Training
+- Video Tours
+- Video Profiles
+- Video Jingles
+- Video Hosting
+- Video Emails
+- Video Ecommerce
+- Video Ebusiness
+- Online Video
+- Net Video
+- Internet Video
+- Have API
+- Free Video Streaming
+- Free Video Publishing
+- Distribution
+- Broadband Video
+apis: []
+x-common:
+- type: x-website
+  url: http://www.videobloom.com
+- type: x-blog
+  url: http://videobloom.com/blog
+- type: x-blog-rss
+  url: http://www.videobloom.com/?feed=rss
+- type: x-contact
+  url: http://www.videobloom.com/contact-us/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/videobloom
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/videobloom
+- type: x-customers
+  url: http://www.videobloom.com/customers/
+- type: x-email
+  url: sales@videobloom.com
+- type: x-feed
+  url: http://www.videobloom.com/?feed=rss
+- type: x-linkedin
+  url: http://www.linkedin.com/company/videobloom
+- type: x-platform
+  url: http://www.videobloom.com/platform-pricing/
+- type: x-privacy
+  url: http://www.videobloom.com/privacy-policy/
+- type: x-terms-of-service
+  url: http://www.videobloom.com/terms-of-service/
+- type: x-twitter
+  url: http://twitter.com/videobloom
+- type: x-twitter
+  url: https://twitter.com/videobloom
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,33 @@
+---
+name: 12Ghosts Windows Extensions
+description: This team of good ghosts optimizes and automates Windows. They backup
+  documents, clean up free space, and protect your privacy. They streamline your daily
+  tasks and save you time and nerves.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/12ghosts-windows-extensions.yaml
+tags:
+- Windows
+- Utilities
+- Tools
+- Software
+- Shareware
+- Power Tools
+- Extensions
+- 12Ghosts
+apis: []
+x-common:
+- type: x-support
+  url: http://12Ghosts.com/support/awards.htm
+- type: x-website
+  url: https://12ghosts.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

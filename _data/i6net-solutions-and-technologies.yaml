@@ -1,0 +1,72 @@
+---
+name: i6net Solutions and Technologies
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/i6net-solutions-and-technologies.yaml
+tags:
+- VoiceXML
+apis: []
+x-common:
+- type: x-about
+  url: http://www.i6net.com/company/about-i6net/
+- type: x-about
+  url: https://www.i6net.com/company/about-i6net/
+- type: x-blog
+  url: https://www.i6net.com/blog/
+- type: x-contact
+  url: https://www.i6net.com/company/contact/
+- type: x-contact
+  url: https://www.i6net.com/support/contact-support/
+- type: x-contact
+  url: https://www.i6net.com/2019/06/05/i6net-expocontact19/
+- type: x-facebook
+  url: http://www.facebook.com/i6net2
+- type: x-login
+  url: https://www.i6net.com/wp-login.php?action=register
+- type: x-partner
+  url: https://www.i6net.com/company/partners/
+- type: x-press
+  url: https://www.i6net.com/company/press-media/
+- type: x-privacy
+  url: https://www.i6net.com/privacy-policy/
+- type: x-privacy
+  url: http://www.i6net.com/privacy-policy/
+- type: x-support
+  url: http://support.i6net.com
+- type: x-support
+  url: http://www.i6net.com/services/#technical-support
+- type: x-support
+  url: http://www.i6net.com/services/#sales-support
+- type: x-support
+  url: http://www.i6net.com/services#technical-support
+- type: x-support
+  url: http://www.i6net.com/services#sales-support
+- type: x-support
+  url: https://www.i6net.com/support/ticketing/
+- type: x-terms-of-service
+  url: https://www.i6net.com/legal-notice/
+- type: x-twitter
+  url: http://twitter.com/i6net
+- type: x-twitter
+  url: https://twitter.com/search?q=VoiceTechParis
+- type: x-twitter
+  url: https://twitter.com/search?q=Voxibot
+- type: x-twitter
+  url: http://twitter.com/i6net/statuses/1199090685107945474
+- type: x-twitter
+  url: http://twitter.com/i6net/statuses/1196482126687936515
+- type: x-twitter
+  url: http://twitter.com/i6net/statuses/1136222663796502529
+- type: x-website
+  url: https://www.i6net.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

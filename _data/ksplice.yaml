@@ -1,0 +1,44 @@
+---
+name: Ksplice
+description: 'Linux security fixes without rebooting: Oracle Ksplice provides fast,
+  secure kernel and userspace patching.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10367194"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ksplice.yaml
+tags:
+- Userspace
+- Ubuntu
+- Security
+- Red Hat Enterprise Linux
+- Reboot
+- Patch
+- Oracle Linux
+- Linux
+- Ksplice
+- Kernel
+- Fedora
+- Don't Reboot
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.oracle.com/corporate/contact/index.html
+- type: x-privacy
+  url: https://www.oracle.com/html/privacy.html
+- type: x-status
+  url: https://status-ksplice.oracle.com/
+- type: x-support
+  url: https://support.oracle.com/
+- type: x-terms-of-service
+  url: https://www.oracle.com/html/terms.html
+- type: x-website
+  url: https://www.ksplice.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

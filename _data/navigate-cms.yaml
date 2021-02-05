@@ -1,0 +1,48 @@
+---
+name: Navigate CMS
+description: A powerful and intuitive open source content management system for everybody.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5116625"
+url: https://raw.githubusercontent.com/api-network/organizations/main/navigate-cms.yaml
+tags:
+- Themes
+- Publishing Platform
+- Plugins
+- Open Source
+- Extensions
+- Content Management System
+- Content Management
+- CMS
+- Blog
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.navigatecms.com/en/blog
+- type: x-documentation
+  url: https://www.navigatecms.com/en/documentation
+- type: x-facebook
+  url: http://www.facebook.com/navigatecms
+- type: x-instagram
+  url: https://www.instagram.com/navigatecms
+- type: x-marketplace
+  url: https://www.navigatecms.com/en/marketplace
+- type: x-privacy
+  url: https://www.navigatecms.com/en/privacy_policy
+- type: x-support
+  url: https://www.navigatecms.com/en/support
+- type: x-terms-of-service
+  url: https://www.navigatecms.com/en/terms_and_conditions
+- type: x-twitter
+  url: https://twitter.com/NavigateCMS
+- type: x-website
+  url: https://www.navigatecms.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,27 @@
+---
+name: Australian Printer Services
+description: Printer Service Melbourne - Onsite laser printer repairs sales & service
+  in Melbourne Metro - Kyocera Fuji Xerox - Printer Repairs Melbourne
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/australian-printer-services.yaml
+tags:
+- Printers
+- Printer Repairs
+- Oceania
+- Kyocera
+- Fuji Xerox
+apis: []
+x-common:
+- type: x-website
+  url: https://www.printerservices.com.au
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

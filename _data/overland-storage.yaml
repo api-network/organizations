@@ -1,0 +1,46 @@
+---
+name: Overland Storage
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1681722"
+url: https://raw.githubusercontent.com/api-network/organizations/main/overland-storage.yaml
+tags:
+- Storage
+apis: []
+x-common:
+- type: x-website
+  url: http://www.overlandstorage.com
+- type: x-about
+  url: http://www.overlandstorage.com/company/about-us.aspx
+- type: x-careers
+  url: http://www.overlandstorage.com/company/careers.aspx
+- type: x-contact
+  url: http://support.overlandstorage.com/support/contact.htm
+- type: x-facebook
+  url: https://www.facebook.com/OverlandTandberg/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/overlandtandberg/
+- type: x-partner
+  url: http://overlandstorage.force.com/partnerregistration
+- type: x-privacy
+  url: http://www.overlandstorage.com/site/privacy.aspx
+- type: x-support
+  url: http://support.overlandstorage.com/
+- type: x-support
+  url: http://support.overlandstorage.com/touchpoint/main/
+- type: x-terms-of-service
+  url: http://www.overlandstorage.com/site/terms-of-use.aspx
+- type: x-twitter
+  url: https://twitter.com/ovltb
+- type: x-website
+  url: https://www.overlandstorage.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

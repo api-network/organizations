@@ -1,0 +1,23 @@
+---
+name: jobs.bnymellon.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jobs-bnymellon-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: https://jobs.bnymellon.com/job/Palo-Alto-API-Principal-Product-Manager-Job-CA-94301/252576800/
+- type: x-website
+  url: http://jobs.bnymellon.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

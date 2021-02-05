@@ -1,0 +1,76 @@
+---
+name: Portland Macintosh User Group
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/portland-macintosh-user-group.yaml
+tags:
+- Oregon
+apis: []
+x-common:
+- type: x-about
+  url: https://www.pmug.org/blog/about/
+- type: x-blog
+  url: https://www.pmug.org/blog/
+- type: x-blog
+  url: https://www.pmug.org/blog/activities/
+- type: x-blog
+  url: https://www.pmug.org/blog/calendar/
+- type: x-blog
+  url: https://www.pmug.org/blog/follow-pmug/
+- type: x-blog
+  url: https://www.pmug.org/blog/generalmeeting/
+- type: x-blog
+  url: https://www.pmug.org/blog/mac-links/
+- type: x-blog
+  url: https://www.pmug.org/blog/maccamp-fall-2019/
+- type: x-blog
+  url: https://www.pmug.org/blog/membership/
+- type: x-blog
+  url: https://www.pmug.org/blog/membership/join-us/
+- type: x-blog
+  url: https://www.pmug.org/blog/membership/on-line/
+- type: x-blog
+  url: https://www.pmug.org/blog/membership/services/
+- type: x-blog
+  url: https://www.pmug.org/blog/mouse-tracks/
+- type: x-blog
+  url: https://www.pmug.org/blog/pmug-college-at-gfo/
+- type: x-blog
+  url: https://www.pmug.org/blog/category/general-meetings/
+- type: x-blog
+  url: https://www.pmug.org/blog/category/top-post/
+- type: x-blog
+  url: https://www.pmug.org/blog/tag/ios/
+- type: x-blog
+  url: https://www.pmug.org/blog/tag/macos/
+- type: x-blog
+  url: https://www.pmug.org/blog/tag/iphone/
+- type: x-blog
+  url: https://www.pmug.org/blog/tag/macintosh/
+- type: x-blog
+  url: https://www.pmug.org/blog/category/pmug-college/
+- type: x-blog
+  url: https://www.pmug.org/blog/page/2/
+- type: x-code
+  url: http://ahren.org/code/ahimsa
+- type: x-contact
+  url: https://www.pmug.org/blog/contact-pmug/
+- type: x-forum
+  url: https://www.pmug.org/blog/forums/
+- type: x-news
+  url: https://www.pmug.org/blog/category/pmug_news/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-website
+  url: https://www.pmug.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

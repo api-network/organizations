@@ -1,0 +1,50 @@
+---
+name: KIREnet Communications
+description: KIRE, a leading linux hosting provider since 1997. Linux shell accounts,
+  eggdrop bots, ZNC bouncers, ircd hosting, vanity IRC hosts, spam-free email, and
+  much more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kirenet-communications.yaml
+tags:
+- ZNC
+- Vhosts
+- Unix Shell Providers
+- Unix Shell Account
+- Unix
+- Telnet
+- Shells
+- Shell Providers
+- Shell Accounts
+- Service Provider
+- Psybnc
+- Linux Shell
+- Linux
+- Ircd Hosting
+- IRCd
+- Irc Server
+- FTP
+- Eggdrop Bot
+- Eggdrop
+- Efnet
+- Bots
+- Bncs
+- BNC Hosting
+apis: []
+x-common:
+- type: x-privacy
+  url: http://www.kire.net/privacy.php
+- type: x-support
+  url: http://help.kire.net
+- type: x-website
+  url: https://www.kirenet.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

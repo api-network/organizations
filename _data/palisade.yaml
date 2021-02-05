@@ -1,0 +1,39 @@
+---
+name: Palisade
+description: Software for risk and decision analysis, including @RISK and the DecisionTools
+  Suite.  Manage risk in your business decisions by using Monte Carlo Simulation...
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "250149"
+url: https://raw.githubusercontent.com/api-network/organizations/main/palisade.yaml
+tags:
+- Risk Analysis
+apis: []
+x-common:
+- type: x-website
+  url: http://www.palisade.com
+- type: x-blog
+  url: https://blog.palisade.com
+- type: x-facebook
+  url: https://www.facebook.com/palisadecorporation/
+- type: x-instagram
+  url: https://www.instagram.com/palisadecorporation/
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/4309053/profile
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/4309053
+- type: x-twitter
+  url: https://twitter.com/palisadecorp
+- type: x-website
+  url: https://www.palisade.com
+- type: x-youtube
+  url: https://www.youtube.com/user/palisadecorp
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

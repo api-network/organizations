@@ -1,0 +1,36 @@
+---
+name: NE Key
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4798337"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ne-key.yaml
+tags:
+- CAD Systems
+apis: []
+x-common:
+- type: x-website
+  url: http://nekey.com
+- type: x-about
+  url: https://nekey.com/about-us/
+- type: x-contact
+  url: https://nekey.com/contact-us-receive-assessment/
+- type: x-facebook
+  url: https://www.facebook.com/nekeydotcom/
+- type: x-instagram
+  url: https://www.instagram.com/nekey_com/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/nekey/
+- type: x-twitter
+  url: https://twitter.com/nekeyllc
+- type: x-website
+  url: https://www.nekey.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,23 @@
+---
+name: GrapeLine GTFS
+description: Transit authority located in Lodi, CA, USA<br />
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/grapeline-gtfs.yaml
+tags: []
+apis: []
+x-common:
+- type: x-gtfs-feed
+  url: http://www.mjcaction.com/MJC_GTFS_Public/lodi_google_transit.zip
+- type: x-website
+  url: http://www.mjcaction.com/clients_gtfs.html
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

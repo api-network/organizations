@@ -1,0 +1,32 @@
+---
+name: Propeller Health
+description: Propeller helps you understand your symptoms, stick to your medication
+  plan and build a stronger connection to your doctor. It's never been easier to manage
+  chronic conditions like asthma and COPD.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29040-developer-propellerhealth-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "680645"
+url: https://raw.githubusercontent.com/api-network/organizations/main/propeller-health.yaml
+tags:
+- Medicine
+apis: []
+x-common:
+- type: x-website
+  url: http://propellerhealth.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/propellerhealth
+- type: x-twitter
+  url: https://twitter.com/PropellerHealth
+- type: x-webhooks
+  url: https://developer.propellerhealth.com/hc/en-us/articles/115003124626-Hello-Webhooks
+- type: x-website
+  url: https://developer.propellerhealth.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

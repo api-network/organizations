@@ -1,0 +1,27 @@
+---
+name: redmonk.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/redmonk-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-blog
+  url: http://redmonk.com/jgovernor/
+- type: x-curated-source
+  url: http://redmonk.com/dberkholz/2015/04/03/react-and-polymer-arising-among-javascript-mv-frameworks/
+- type: x-website
+  url: http://redmonk.com
+- type: x-twitter
+  url: https://twitter.com/redmonk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

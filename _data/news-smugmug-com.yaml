@@ -1,0 +1,23 @@
+---
+name: news.smugmug.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: ""
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/news-smugmug-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: https://news.smugmug.com/2016/08/17/smugmug-rescues-nearly-200-million-priceless-memories-from-picturelife/
+- type: x-website
+  url: http://news.smugmug.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

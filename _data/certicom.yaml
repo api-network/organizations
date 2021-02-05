@@ -1,0 +1,36 @@
+---
+name: Certicom
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3195142"
+url: https://raw.githubusercontent.com/api-network/organizations/main/certicom.yaml
+tags:
+- Products And Tools
+apis: []
+x-common:
+- type: x-about
+  url: https://blackberry.certicom.com/en/about-us
+- type: x-case-studies
+  url: https://blackberry.certicom.com/en/use-cases.html
+- type: x-code
+  url: https://blackberry.certicom.com/en/products/sdk.html
+- type: x-contact
+  url: https://blackberry.certicom.com/en/contact-us.html
+- type: x-news
+  url: https://www.blackberry.com/us/en/company/newsroom
+- type: x-terms-of-service
+  url: https://us.blackberry.com/legal/privacy-policy
+- type: x-terms-of-service
+  url: http://www.certicom.com/content/certicom/en/legal.html
+- type: x-website
+  url: https://www.certicom.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

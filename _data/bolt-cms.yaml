@@ -1,0 +1,39 @@
+---
+name: Bolt CMS
+description: "Bolt is an open source Content Management Tool, which strives to be
+  as simple and straightforward as possible. It is quick to set up, easy to configure,
+  \u2026"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "221418"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bolt-cms.yaml
+tags:
+- Symfony
+- Silex
+- Publishers
+- PHP
+- CMS
+- "\u2026"
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.bolt.cm
+- type: x-documentation
+  url: http://docs.bolt.cm
+- type: x-github
+  url: https://github.com/bolt/bolt
+- type: x-github
+  url: http://github.com
+- type: x-twitter
+  url: http://twitter.com/boltcm
+- type: x-website
+  url: https://bolt.cm
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,35 @@
+---
+name: Frank Projects
+description: Frank Projects is a collection and portfolio website of Frank Schreuder
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/frank-projects.yaml
+tags:
+- Ultimate-Warfare
+- Ultimate Warfare
+- Personal Pages
+- Mijn Kladblok
+- Marakia Online
+- Frank Schreuder
+- Frank Projects
+- Eternal War
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/FrankProjects/UltimateWarfare
+- type: x-github
+  url: https://github.com/FrankProjects/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/frank-schreuder/
+- type: x-website
+  url: https://www.frankprojects.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

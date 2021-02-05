@@ -1,0 +1,122 @@
+---
+name: Texas Barcode Systems
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/texas-barcode-systems.yaml
+tags:
+- Barcode
+apis: []
+x-common:
+- type: x-code
+  url: https://www.texasbarcode.com/
+- type: x-code
+  url: https://texasbarcode.com/
+- type: x-code
+  url: https://texasbarcode.com/#
+- type: x-code
+  url: https://www.texasbarcode.com/site-map/
+- type: x-code
+  url: https://www.texasbarcode.com/printers/
+- type: x-code
+  url: https://www.texasbarcode.com/printers/card-printers/
+- type: x-code
+  url: https://www.texasbarcode.com/printers/color-printers/
+- type: x-code
+  url: https://www.texasbarcode.com/printers/kiosk-printers/
+- type: x-code
+  url: https://www.texasbarcode.com/printers/print-engine/
+- type: x-code
+  url: https://www.texasbarcode.com/printers/rfid/
+- type: x-code
+  url: https://www.texasbarcode.com/printers/rfid/intermec/
+- type: x-code
+  url: https://www.texasbarcode.com/printers/rfid/zebra/
+- type: x-code
+  url: https://www.texasbarcode.com/printers/ticket-printers/
+- type: x-code
+  url: https://www.texasbarcode.com/printers/impact/
+- type: x-code
+  url: https://www.texasbarcode.com/printers/mobile/
+- type: x-code
+  url: https://www.texasbarcode.com/printers/mobile/citizen/
+- type: x-code
+  url: https://www.texasbarcode.com/printers/mobile/epson/
+- type: x-code
+  url: https://www.texasbarcode.com/printers/mobile/intermec/
+- type: x-code
+  url: https://www.texasbarcode.com/printers/mobile/sato/
+- type: x-code
+  url: https://www.texasbarcode.com/printers/mobile/zebra/
+- type: x-code
+  url: https://www.texasbarcode.com/printers/mobile/tsc/
+- type: x-code
+  url: https://www.texasbarcode.com/scanners/
+- type: x-code
+  url: https://www.texasbarcode.com/scanners/rugged-scanners/
+- type: x-code
+  url: https://www.texasbarcode.com/service/
+- type: x-code
+  url: https://www.texasbarcode.com/terminals/
+- type: x-code
+  url: https://www.texasbarcode.com/terminals/rf-terminals/
+- type: x-code
+  url: https://www.texasbarcode.com/terminals/rfid-terminals/
+- type: x-code
+  url: https://www.texasbarcode.com/terminals/health-care/
+- type: x-code
+  url: https://www.texasbarcode.com/vehicle-terminals/
+- type: x-code
+  url: https://www.texasbarcode.com/vehicle-terminals/vh10/
+- type: x-code
+  url: https://www.texasbarcode.com/vehicle-terminals/vc80/
+- type: x-code
+  url: https://www.texasbarcode.com/systems/
+- type: x-code
+  url: https://www.texasbarcode.com/other-hardware/
+- type: x-code
+  url: https://www.texasbarcode.com/media/
+- type: x-code
+  url: https://www.texasbarcode.com/all-products/
+- type: x-code
+  url: https://www.texasbarcode.com/all-products/keyboards/
+- type: x-code
+  url: https://www.texasbarcode.com/all-products/rfid-tags/
+- type: x-code
+  url: https://www.texasbarcode.com/mobile-computers/
+- type: x-code
+  url: https://www.texasbarcode.com/mobile-computers/zebra/
+- type: x-code
+  url: https://www.texasbarcode.com/our-company/
+- type: x-code
+  url: https://www.texasbarcode.com/our-company/about-us/
+- type: x-code
+  url: https://www.texasbarcode.com/bar-code-systems/
+- type: x-code
+  url: https://www.texasbarcode.com/asset-tracking/
+- type: x-code
+  url: https://www.texasbarcode.com/point-of-sale/
+- type: x-code
+  url: https://www.texasbarcode.com/asset-track/
+- type: x-code
+  url: https://texasbarcode.com/intermec-page/
+- type: x-code
+  url: http://texasbarcode.com/
+- type: x-contact
+  url: https://www.texasbarcode.com/contact-us/
+- type: x-contact
+  url: https://www.texasbarcode.com/contact-us/sales/
+- type: x-news
+  url: https://www.texasbarcode.com/news/
+- type: x-website
+  url: https://www.texasbarcode.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

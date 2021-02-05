@@ -1,0 +1,38 @@
+---
+name: RetailWare (an SRP Company)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/retailware-an-srp-company.yaml
+tags:
+- Products And Services
+apis: []
+x-common:
+- type: x-website
+  url: http://www.retailware.net/
+- type: x-about
+  url: https://www.retailware.net/about-srp/
+- type: x-contact
+  url: https://www.retailware.net/contact-us/
+- type: x-contact
+  url: http://retailware.net/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/RWOPOS
+- type: x-news
+  url: https://www.retailware.net/news/
+- type: x-twitter
+  url: https://twitter.com/RWOPOS
+- type: x-website
+  url: https://www.retailware.net
+- type: x-youtube
+  url: http://www.youtube.com/user/rwopos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,42 @@
+---
+name: Cleveland Digital Publishing Users Group (CDPUG)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cleveland-digital-publishing-users-group-cdpug.yaml
+tags:
+- Desktop Publishing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cdpug.org
+- type: x-about
+  url: https://cdpug.org/about-cdpug/
+- type: x-about
+  url: http://cdpug.org/about-cdpug/
+- type: x-blog
+  url: https://cdpug.org/cdpug_blog/
+- type: x-blog
+  url: http://cdpug.org/cdpug_blog/
+- type: x-careers
+  url: https://cdpug.org/job-bank/search-jobs/
+- type: x-contact
+  url: https://cdpug.org/about-cdpug/contact-us/
+- type: x-contact
+  url: http://cdpug.org/about-cdpug/contact-us/
+- type: x-login
+  url: https://cdpug.org/login/
+- type: x-twitter
+  url: http://www.twitter.com/cdpug
+- type: x-website
+  url: https://www.cdpug.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

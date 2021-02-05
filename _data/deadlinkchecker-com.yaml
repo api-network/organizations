@@ -1,0 +1,35 @@
+---
+name: Deadlinkchecker.com
+description: Check for broken links on your website with our free online tool. Sign
+  up to schedule automatic checks - keep your website fresh and boost SEO.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "39205"
+url: https://raw.githubusercontent.com/api-network/organizations/main/deadlinkchecker-com.yaml
+tags:
+- Url Checker
+- Site Link
+- Site Checker
+- Linkchecker
+- Link Checking
+- Link Checker
+- Dead Link
+- Check Url
+- Broken Links
+- Broken Link Checker
+- Broken Link
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.deadlinkchecker.com
+- type: x-website
+  url: https://deadlinkchecker.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

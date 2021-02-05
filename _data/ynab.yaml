@@ -1,0 +1,71 @@
+---
+name: YNAB
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6340"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ynab.yaml
+tags:
+- Have Swagger
+- Have API Paths
+apis: []
+x-common:
+- type: x-code
+  url: https://github.com/ynab/ynab-sdk-js
+- type: x-code
+  url: https://github.com/ynab/ynab-sdk-ruby
+- type: x-code
+  url: https://github.com/Jorijn/ynab-sdk-php
+- type: x-code
+  url: https://github.com/daviddietz/ynab-sdk
+- type: x-code
+  url: https://github.com/jaboc83/ynab-sdk-dotnetcore
+- type: x-developer
+  url: https://api.youneedabudget.com/v1
+- type: x-documentation
+  url: https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
+- type: x-documentation
+  url: https://www.kajiba.io/docs/sheets-for-ynab/
+- type: x-feed
+  url: https://www.budgetfeeder.com
+- type: x-github
+  url: https://github.com/ynab/ynab-api-starter-kit
+- type: x-github
+  url: https://github.com/deanmcgregor/ynab-python
+- type: x-github
+  url: https://github.com/davidsteinsland/ynab-go
+- type: x-github
+  url: https://github.com/brunomvsouza/ynab.go
+- type: x-github
+  url: https://github.com/ConnorGriffin/Posh-YNAB
+- type: x-github
+  url: https://github.com/MarkNenadov/kYNAB
+- type: x-github
+  url: https://github.com/tonyrubak/ynab-tools
+- type: x-github
+  url: https://github.com/Phrohdoh/ynab-rs
+- type: x-github
+  url: https://github.com/andrebocchini/swiftynab
+- type: x-github
+  url: https://tomcheng.github.io/budget-reports
+- type: x-github
+  url: https://ardimaunahan.github.io/FIRMBudget
+- type: x-status
+  url: https://status.youneedabudget.com
+- type: x-support
+  url: https://support.youneedabudget.com/category/api
+- type: x-terms-of-service
+  url: https://www.youneedabudget.com/terms/
+- type: x-terms-of-service
+  url: https://www.youneedabudget.com/terms/#trademarks
+- type: x-website
+  url: http://api.youneedabudget.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

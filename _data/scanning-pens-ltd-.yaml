@@ -1,0 +1,36 @@
+---
+name: Scanning Pens Ltd.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1601297"
+url: https://raw.githubusercontent.com/api-network/organizations/main/scanning-pens-ltd-.yaml
+tags:
+- Portable
+apis: []
+x-common:
+- type: x-website
+  url: http://www.scanningpens.com
+- type: x-blog
+  url: http://www.scanningpens.blog
+- type: x-facebook
+  url: https://www.facebook.com/ScanningPensGlobal/
+- type: x-instagram
+  url: http://www.instagram.com/scanningpens
+- type: x-linkedin
+  url: https://www.linkedin.com/company/scanning-pens-ltd
+- type: x-twitter
+  url: https://twitter.com/scanningpens
+- type: x-website
+  url: https://www.scanningpens.co.uk
+- type: x-youtube
+  url: http://www.youtube.com/user/scanningpenshop
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

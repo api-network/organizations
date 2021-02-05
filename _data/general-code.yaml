@@ -1,0 +1,61 @@
+---
+name: General Code
+description: Informing and empowering communities and their citizens through the creation
+  of online municipal codes that are clear, enforceable and user friendly.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1324807"
+url: https://raw.githubusercontent.com/api-network/organizations/main/general-code.yaml
+tags:
+- Document Management
+apis: []
+x-common:
+- type: x-code
+  url: https://www.generalcode.com/resources/about-icc/
+- type: x-code
+  url: https://www.generalcode.com
+- type: x-code
+  url: https://www.generalcode.com/codification/
+- type: x-code
+  url: https://www.generalcode.com/code-updates/
+- type: x-code
+  url: https://www.generalcode.com/zoning/
+- type: x-code
+  url: https://www.generalcode.com/maplink/
+- type: x-code
+  url: https://www.generalcode.com/enhancedgraphics/
+- type: x-code
+  url: https://www.generalcode.com/online-services/
+- type: x-code
+  url: https://www.generalcode.com/resources/
+- type: x-code
+  url: https://www.generalcode.com/resources/blog/
+- type: x-code
+  url: https://www.generalcode.com/about-us/
+- type: x-code
+  url: https://www.generalcode.com/about-us/our-team/
+- type: x-code
+  url: https://www.generalcode.com/resources/careers/
+- type: x-code
+  url: http://cms.generalcode.com
+- type: x-code
+  url: https://www.facebook.com/generalcode
+- type: x-code
+  url: https://www.linkedin.com/company/general-code
+- type: x-code
+  url: https://www.pinterest.com/generalcode
+- type: x-contact
+  url: https://www.generalcode.com/contact-us/
+- type: x-webinars
+  url: https://www.generalcode.com/resources/webinars/
+- type: x-website
+  url: https://www.generalcode.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,35 @@
+---
+name: Open Threat Exchange (OTX) | AlienVault
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "75083"
+url: https://raw.githubusercontent.com/api-network/organizations/main/open-threat-exchange-otx--alienvault.yaml
+tags: []
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/ATTCyber/
+- type: x-marketplace
+  url: https://aws.amazon.com/marketplace/pp/B074WG62XJ
+- type: x-security
+  url: https://www.linkedin.com/company/attcybersecurity/
+- type: x-security
+  url: https://www.youtube.com/c/attcybersecurity
+- type: x-security
+  url: https://www.instagram.com/attcybersecurity/
+- type: x-slideshare
+  url: http://www.slideshare.net/alienvault
+- type: x-twitter
+  url: https://www.twitter.com/attcyber/
+- type: x-website
+  url: http://www.alienvault.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

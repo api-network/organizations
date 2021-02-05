@@ -1,0 +1,51 @@
+---
+name: Eurobase Insurance Solutions
+description: Eurobase Banking, Insurance Software, IT Consultancy, IT Recruitment.
+  IT Specialists Banking, Insurance, FX Trading, Treasury Management, IT Solutions
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2565924"
+url: https://raw.githubusercontent.com/api-network/organizations/main/eurobase-insurance-solutions.yaml
+tags:
+- Underwriting
+apis: []
+x-common:
+- type: x-website
+  url: http://www.eurobase.com/
+- type: x-about
+  url: https://www.eurobase.com/about-us
+- type: x-blog
+  url: https://blog.eurobase.com
+- type: x-blog
+  url: https://blog.eurobase.com/videos
+- type: x-blog
+  url: https://blog.eurobase.com/product-brochures
+- type: x-careers
+  url: https://www.eurobase.com/careers
+- type: x-case-studies
+  url: https://www.eurobase.com/case-studies
+- type: x-contact
+  url: https://www.eurobase.com/contact-us
+- type: x-events
+  url: https://www.eurobase.com/events
+- type: x-linkedin
+  url: https://www.linkedin.com/company/272254
+- type: x-news
+  url: https://blog.eurobase.com/news
+- type: x-privacy
+  url: https://info.eurobase.com/privacy-policy
+- type: x-twitter
+  url: https://twitter.com/eurobase
+- type: x-website
+  url: https://www.eurobase.com
+- type: x-white-papers
+  url: https://blog.eurobase.com/whitepapers
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

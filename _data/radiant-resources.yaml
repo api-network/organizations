@@ -1,0 +1,49 @@
+---
+name: Radiant Resources
+description: IT Services for Mid-Market Enterprises in NY, NJ and PA who need virtualization,
+  storage, back up, data protection, disaster recovery, servers or security.  Radiant
+  provides value, excellent customer service and reliable, on-budget and timely project
+  delivery.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/radiant-resources.yaml
+tags:
+- Virtualized Environment
+- Technical Services
+- Sun
+- Storage
+- Servers
+- Security
+- ROI
+- Networking
+- Migration And Deployment
+- IT Services
+- Hypervisor
+- Disaster Recovery
+- Desktops
+- Data Protection
+- Data Center
+- Backup
+- Assessments
+apis: []
+x-common:
+- type: x-website
+  url: http://www.radiantresources.com
+- type: x-facebook
+  url: https://www.facebook.com/RadiantResourcesInc/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/jennifer-naughton-03b6011/
+- type: x-twitter
+  url: https://twitter.com/RadiantResourc1
+- type: x-website
+  url: https://www.radiantresources.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

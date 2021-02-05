@@ -1,0 +1,28 @@
+---
+name: AbleBits
+description: 100+ professional tools for Excel, Outlook, Google Sheets and Docs. Download
+  any add-in for free and accomplish your tasks quickly and impeccably.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5507"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ablebits.yaml
+tags:
+- Microsoft Office
+- Add-Ins
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/ablebits
+- type: x-website
+  url: https://www.ablebits.com
+- type: x-youtube
+  url: https://www.youtube.com/Ablebits
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

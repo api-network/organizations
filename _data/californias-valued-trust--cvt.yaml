@@ -1,0 +1,43 @@
+---
+name: California's Valued Trust - CVT
+description: Established in 1984, California's Valued Trust (CVT) remains today as
+  one of California's largest self-funded public schools trust, specializing in healthcare
+  benefits for the education community.  CVT serves 228 districts and 144,000 members
+  across th...
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/api-butterfly.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "6"
+x-alexaRank: "1206457"
+url: https://raw.githubusercontent.com/api-network/organizations/main/californias-valued-trust--cvt.yaml
+tags:
+- Marketplaces
+apis: []
+x-common:
+- type: x-email
+  url: memberservices@cvtrust.org
+- type: x-email
+  url: changeofaddress@cvtrust.org
+- type: x-email
+  url: trustees@cvtrust.org
+- type: x-email
+  url: kymberlyg@cvtrust.org
+- type: x-email
+  url: ashleya@cvtrust.org
+- type: x-email
+  url: loisc@cvtrust.org
+- type: x-email
+  url: charoc@cvtrust.org
+- type: x-email
+  url: cherieh@cvtrust.org
+- type: x-email
+  url: deniseb@cvtrust.org
+- type: x-website
+  url: http://cvtrust.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

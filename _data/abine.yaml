@@ -1,0 +1,58 @@
+---
+name: Abine
+description: Blur protects your private info and helps you stay anonymous online with
+  masked, burner cards (virtual cards), ad blocking, masked emails, and masked phones.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Abine_About_Us___Protect_your_privacy_with_DoNotTrackMe_from_Abine.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "82793"
+url: https://raw.githubusercontent.com/api-network/organizations/main/abine.yaml
+tags:
+- Privacy
+- API Not Found
+apis: []
+x-common:
+- type: x-blog
+  url: http://www.abine.com/blog/
+- type: x-blog-rss
+  url: https://www.abine.com/blog/feed/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/abine
+- type: x-email
+  url: info@abine.com
+- type: x-email
+  url: jobs@abine.com
+- type: x-email
+  url: reportlostcard@abine.com
+- type: x-email
+  url: blur-support@abine.com
+- type: x-email
+  url: deleteme@abine.com
+- type: x-facebook
+  url: https://www.facebook.com/AbineInc
+- type: x-github
+  url: https://github.com/Abine
+- type: x-login
+  url: https://dnt.abine.com/#/login
+- type: x-login
+  url: https://joindeleteme.com/delete-me/login
+- type: x-self-service-registration
+  url: https://dnt.abine.com/#register
+- type: x-self-service-registration
+  url: https://dnt.abine.com/#/register
+- type: x-support
+  url: https://abine.com/support.html
+- type: x-support
+  url: https://joindeleteme.com/support.php
+- type: x-twitter
+  url: https://twitter.com/Abine
+- type: x-website
+  url: https://www.abine.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

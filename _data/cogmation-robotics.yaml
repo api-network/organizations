@@ -1,0 +1,24 @@
+---
+name: Cogmation Robotics
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7094385"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cogmation-robotics.yaml
+tags:
+- Simulation
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.virtualroboticstoolkit.com/blog/
+- type: x-website
+  url: https://cogmation.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

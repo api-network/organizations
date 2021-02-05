@@ -1,0 +1,47 @@
+---
+name: Work Schedule
+description: The Leader in Online Employee Scheduling Software since 2000! Optimized
+  Automatic Employee Scheduling, Availability, Time Tracking, Attendance & more!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5520953"
+url: https://raw.githubusercontent.com/api-network/organizations/main/work-schedule.yaml
+tags:
+- Personnel Scheduling
+apis: []
+x-common:
+- type: x-website
+  url: http://www.workschedule.net
+- type: x-blog
+  url: https://www.workschedule.net/blog/
+- type: x-blog
+  url: https://www.workschedule.net/blog/version-8-205/
+- type: x-contact
+  url: https://www.workschedule.net/contact/
+- type: x-developer
+  url: http://developer.workschedule.net
+- type: x-facebook
+  url: https://www.facebook.com/WorkScheduleDN
+- type: x-pricing
+  url: https://www.workschedule.net/pricing/
+- type: x-security
+  url: https://www.workschedule.net/features/security/
+- type: x-support
+  url: https://www.workschedule.net/support/
+- type: x-tutorials
+  url: https://www.workschedule.net/tutorials/
+- type: x-twitter
+  url: http://www.twitter.com/WorkScheduleDN
+- type: x-website
+  url: https://www.workschedule.net
+- type: x-youtube
+  url: http://www.youtube.com/WorkScheduleDN
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

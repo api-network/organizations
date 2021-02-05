@@ -1,0 +1,49 @@
+---
+name: Bank Innovation
+description: 'Visa doesn''t see much use for blockchain in its core business, which
+  is transactions at scale, according to CEO Alfred Kelly. At the JPMorgan Technology,
+  Media and Communications conference in Boston yesterday, Kelly said: Remember blockchain
+  actually ...'
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/bank-innovation.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "213840"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bank-innovation.yaml
+tags:
+- Have API
+- Banking
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.bankinnovation.net
+- type: x-about
+  url: https://bankinnovation.net/about-us/
+- type: x-blog
+  url: http://www.bankinnovation.net/recent-posts/
+- type: x-blog-rss
+  url: http://www.bankinnovation.net/feed/
+- type: x-contact
+  url: https://bankinnovation.net/contact-us/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/bank-innovation
+- type: x-linkedin
+  url: https://www.linkedin.com/company/bankinnovation/
+- type: x-news
+  url: https://bankinnovation.net/author/bloomberg-news/
+- type: x-terms-of-service
+  url: https://royalmedia.com/legal/
+- type: x-twitter
+  url: https://twitter.com/bankinnovation
+- type: x-twitter
+  url: http://twitter.com/bankinnovation
+- type: x-website
+  url: http://www.bankinnovation.net/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

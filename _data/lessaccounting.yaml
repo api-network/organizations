@@ -1,0 +1,61 @@
+---
+name: LessAccounting
+description: Home - Simple Accounting Software for Business Owners
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/less-accounting.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "178040"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lessaccounting.yaml
+tags:
+- Invoices
+- Have API
+- API Provider
+- Accounting
+apis: []
+x-common:
+- type: x-about
+  url: https://www.lessaccounting.com/about/
+- type: x-base-url
+  url: https://lessaccounting.com
+- type: x-blog
+  url: https://lessaccounting.com/blog/
+- type: x-blog
+  url: https://www.lessaccounting.com/blog/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/lessaccounting
+- type: x-developer
+  url: https://www.lessaccounting.com/api/
+- type: x-developer
+  url: http://developer.lessaccounting.com
+- type: x-developers
+  url: http://lessaccounting.com/api
+- type: x-email
+  url: support@lessaccounting.com
+- type: x-facebook
+  url: https://www.facebook.com/LessAccounting/
+- type: x-login
+  url: https://welcome.lessaccounting.com/login
+- type: x-partner
+  url: https://www.lessaccounting.com/partners/
+- type: x-pricing
+  url: https://www.lessaccounting.com/la-pricing/
+- type: x-privacy
+  url: https://www.lessaccounting.com/privacy
+- type: x-security
+  url: https://www.lessaccounting.com/security
+- type: x-signup
+  url: https://welcome.lessaccounting.com/signup
+- type: x-terms-of-service
+  url: https://www.lessaccounting.com/terms
+- type: x-twitter
+  url: https://twitter.com/LessAccounting
+- type: x-website
+  url: http://lessaccounting.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

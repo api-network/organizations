@@ -1,0 +1,30 @@
+---
+name: NeoProducts
+description: NEO Products is Australia's premier supplier of Self Service Kiosk Solutions
+  to a variety of Industries including, Retail, Wagering, Healthcare, Education, Hospitality,
+  Events, Transport, Mining, Entertainment and Finance
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6354505"
+url: https://raw.githubusercontent.com/api-network/organizations/main/neoproducts.yaml
+tags:
+- Self Service Kiosks
+- Kiosks
+- Custom Designed Kiosks
+apis: []
+x-common:
+- type: x-facebook
+  url: https://facebook.com/Kiosks.NeoProducts/
+- type: x-linkedin
+  url: http://linkedin.com/company/neoproducts/
+- type: x-website
+  url: https://www.neoproductsgroup.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

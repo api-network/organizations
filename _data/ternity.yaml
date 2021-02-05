@@ -1,0 +1,137 @@
+---
+name: "\xE6ternity"
+description: "\xE6ternity is a new blockchain technology, designed to deliver unmatched
+  efficiency, transparent governance and global scalability."
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26672-www-aeternity-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "389220"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ternity.yaml
+tags:
+- Security
+- Python
+- Proof-of-Work
+- Proof-of-Stake
+- Profile
+- Privacy
+- P2P
+- Oracle
+- Networks
+- Cryptocurrencies
+- C++
+- Blockchain
+- API
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.aeternity.com/
+- type: x-blog
+  url: https://blog.aeternity.com
+- type: x-careers
+  url: https://angel.co/aeternity-blockchain/jobs
+- type: x-code
+  url: https://github.com/aeternity/aepp-sdk-js
+- type: x-code
+  url: https://github.com/aeternity/aepp-sdk-python
+- type: x-code
+  url: https://github.com/aeternity/aepp-sdk-go
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/aeternity
+- type: x-developer
+  url: https://dev.aepps.com
+- type: x-documentation
+  url: http://aeternity.com/documentation-hub/
+- type: x-facebook
+  url: https://www.facebook.com/aeternityproject/
+- type: x-facebook
+  url: https://www.facebook.com/aeternityproject
+- type: x-faq
+  url: https://blog.aeternity.com/%C3%A6ternity-frequently-asked-questions-faq-9cb0e34e0740#.qgh2p49ho
+- type: x-forum
+  url: https://forum.aeternity.com/
+- type: x-github
+  url: https://github.com/aeternity/protocol
+- type: x-github
+  url: https://github.com/aeternity/aeternity/releases
+- type: x-github
+  url: https://github.com/keypair
+- type: x-github
+  url: https://github.com/ThomasArts
+- type: x-github
+  url: https://github.com/hanssv
+- type: x-github
+  url: https://github.com/michalzajda
+- type: x-github
+  url: https://github.com/lucafavatella
+- type: x-github
+  url: https://github.com/dincho
+- type: x-github
+  url: https://tromp.github.io/
+- type: x-github
+  url: https://github.com/domhaobaobao
+- type: x-github
+  url: https://github.com/aeternity
+- type: x-github
+  url: https://github.com/aeternity/aeternity
+- type: x-linkedin
+  url: https://www.linkedin.com/in/marionvogel/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/thomasarts/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/JohnHughes/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/mzajda/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/dramaliev/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/stoyanvasilev/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/rayjacobs-designer/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/dincho/
+- type: x-linkedin
+  url: https://de.linkedin.com/in/jantinederksen
+- type: x-linkedin
+  url: https://linkedin.com/in/erikvollstaedt
+- type: x-linkedin
+  url: https://linkedin.com/in/bozhidar-nikolov
+- type: x-linkedin
+  url: https://linkedin.com/in/d-velev
+- type: x-linkedin
+  url: https://linkedin.com/in/daniela-pavlinova
+- type: x-linkedin
+  url: https://linkedin.com/in/kristian-kirov
+- type: x-linkedin
+  url: https://linkedin.com/in/nikolaykolev82
+- type: x-linkedin
+  url: https://linkedin.com/in/kratt-artur
+- type: x-linkedin
+  url: https://www.linkedin.com/company/aeternity
+- type: x-tutorials
+  url: https://dev.aepps.com/tutorials/README.html
+- type: x-twitter
+  url: https://twitter.com/aetrnty
+- type: x-twitter
+  url: https://twitter.com/@noyyy
+- type: x-twitter
+  url: https://twitter.com/marionmiaume
+- type: x-twitter
+  url: https://twitter.com/vanegl12
+- type: x-twitter
+  url: https://twitter.com/Nasdaq/status/996416994651131906
+- type: x-twitter
+  url: https://twitter.com/aeternity
+- type: x-website
+  url: http://www.aeternity.com
+- type: x-website
+  url: https://www.aeternity.com
+- type: x-white-papers
+  url: https://aeternity.com/en//#whitepaper
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

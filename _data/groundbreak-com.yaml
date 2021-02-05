@@ -1,0 +1,23 @@
+---
+name: Groundbreak.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "11059696"
+url: https://raw.githubusercontent.com/api-network/organizations/main/groundbreak-com.yaml
+tags:
+- Scripts And Programs
+- E-commerce
+apis: []
+x-common:
+- type: x-website
+  url: https://www.groundbreak.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

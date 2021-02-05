@@ -1,0 +1,66 @@
+---
+name: LogSat
+description: Spam Filter ISP is an Anti-spam server software for Windows that acts
+  as a gateway/proxy to your existing SMTP server (MTA). Spam Filter filters email
+  based on MAPS RBL and DNS based ORBS and SURBL blacklists, Greylisting, Bayesian
+  statistical filtering and SPF filters. An antivirus plugin is available for anti
+  virus support. A web interface for end-user access to the spam quarantine is available.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9899620"
+url: https://raw.githubusercontent.com/api-network/organizations/main/logsat.yaml
+tags:
+- Windows
+- Virus
+- Unsolicited
+- SURBL
+- SPF
+- Spam Software
+- Spam Server
+- Spam Proxy
+- Spam Gateway
+- Spam Filtering Software
+- Spam Filtering
+- Spam Filter Server
+- Spam Filter ISP
+- Spam Filter Gateway
+- Spam Filter
+- Spam Blacklist
+- Spam
+- Software
+- Smtp Spam
+- SMTP
+- Server
+- Sender Policy Framework
+- Reverse DNS
+- Relay
+- MTA
+- Mail Server
+- Mail
+- Honeypot
+- Greylist
+- Gateway
+- Filter
+- Email Spam Filter
+- Email Filter
+- DNS
+- Bayesian Filtering
+- Anti-spam
+- Anti Spam Server
+apis: []
+x-common:
+- type: x-news
+  url: http://www.wftv.com/news/21107724/detail.html
+- type: x-website
+  url: https://www.logsat.com
+- type: x-youtube
+  url: http://www.youtube.com/watch?v=Wazr4r_J8Ec
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,46 @@
+---
+name: Dallas Oracle Users Group
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dallas-oracle-users-group.yaml
+tags:
+- User Groups
+apis: []
+x-common:
+- type: x-about
+  url: https://doug.org/about-doug/
+- type: x-blog
+  url: https://doug.org/page/2/?et_blog
+- type: x-contact
+  url: https://doug.org/contact/
+- type: x-events
+  url: https://doug.org/events/
+- type: x-events
+  url: https://doug.org/category/events-doug/
+- type: x-events
+  url: https://doug.org/category/events-oracle/
+- type: x-events
+  url: https://doug.org/past-events/
+- type: x-feed
+  url: https://doug.org/feed/
+- type: x-forum
+  url: https://doug.org/forums/
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/73728
+- type: x-login
+  url: https://doug.org/wp-login.php?action=lostpassword
+- type: x-login
+  url: https://doug.org/member-login-old/
+- type: x-website
+  url: https://www.doug.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,28 @@
+---
+name: BitComet
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "28743"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bitcomet.yaml
+tags:
+- Bittorrent
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.bitcomet.com/en/contact
+- type: x-forum
+  url: http://www.cometforums.com/
+- type: x-privacy
+  url: https://www.bitcomet.com/en/privacy-policy
+- type: x-website
+  url: https://www.bitcomet.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

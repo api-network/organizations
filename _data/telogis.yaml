@@ -1,0 +1,68 @@
+---
+name: Telogis
+description: Our GPS fleet management software can help your business reduce fuel
+  costs, improve productivity and customer service. Learn more about how our easy
+  to use dashboards can help you monitor vehicle and driver performance, organize
+  your fieldworkers with ...
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1362_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "697726"
+url: https://raw.githubusercontent.com/api-network/organizations/main/telogis.yaml
+tags:
+- Tracking
+- Optimization
+- Logistics
+- JavaScript
+- Have API
+- Fleet
+apis: []
+x-common:
+- type: x-website
+  url: http://www.verizonconnect.com
+- type: x-website
+  url: http://www.telogis.com/solutions/geobase/geostream-silverstream/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/telogis
+- type: x-developer
+  url: http://developer.telogis.com
+- type: x-email
+  url: reveal.support@fleetmatics.com
+- type: x-email
+  url: support@telogis.com
+- type: x-email
+  url: work.support@fleetmatics.com
+- type: x-email
+  url: supportAUS@fleetmatics.com
+- type: x-email
+  url: ehsupport@telogis.com
+- type: x-email
+  url: infoFRA@fleetmatics.com
+- type: x-email
+  url: supportfr@fleetmatics.com
+- type: x-email
+  url: infoNL@fleetmatics.com
+- type: x-email
+  url: supportNL@fleetmatics.com
+- type: x-email
+  url: infoIRL@fleetmatics.com
+- type: x-facebook
+  url: https://www.facebook.com/verizonconnect/
+- type: x-github
+  url: https://github.com/telogis
+- type: x-linkedin
+  url: https://www.linkedin.com/company/verizon-connect/
+- type: x-login
+  url: https://payments.tprosecure.com/Telogis/login.aspx
+- type: x-twitter
+  url: https://twitter.com/VerizonConnect
+- type: x-twitter
+  url: https://twitter.com/telogis
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

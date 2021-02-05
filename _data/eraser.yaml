@@ -1,0 +1,32 @@
+---
+name: Eraser
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "105504"
+url: https://raw.githubusercontent.com/api-network/organizations/main/eraser.yaml
+tags:
+- Deletion
+apis: []
+x-common:
+- type: x-website
+  url: https://eraser.heidi.ie/
+- type: x-blog
+  url: https://eraser.heidi.ie/blog/
+- type: x-forum
+  url: http://eraser.heidi.ie/forum/
+- type: x-support
+  url: https://eraser.heidi.ie/help/
+- type: x-twitter
+  url: https://twitter.com/heidi_eraser
+- type: x-website
+  url: https://eraser.heidi.ie
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

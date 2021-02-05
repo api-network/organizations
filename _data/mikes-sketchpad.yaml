@@ -1,0 +1,33 @@
+---
+name: Mike's Sketchpad
+description: Free Photoshop tutorials, free fonts, QuarkXPress and many other graphics
+  tutorials including Photoshop, FreeHand, Desktop Publishing, Canvas, Adobe Illustrator
+  are offered at Mike's Sketchpad.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2120965"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mikes-sketchpad.yaml
+tags:
+- Quarkxpress Tutorials
+- Quarkxpress
+- Quark Express
+- Photoshop Tutorials
+- Graphics Tutorials
+- Freehand Tutorials
+- Free Fonts
+- Desktop Publishing
+- Deneba Canvas
+- Adobe Illustrator
+apis: []
+x-common:
+- type: x-website
+  url: https://www.sketchpad.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

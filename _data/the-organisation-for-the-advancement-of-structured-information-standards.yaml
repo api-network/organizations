@@ -1,0 +1,64 @@
+---
+name: The Organisation for the advancement of Structured Information Standards
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "191931"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-organisation-for-the-advancement-of-structured-information-standards.yaml
+tags:
+- Standards
+apis: []
+x-common:
+- type: x-facebook
+  url: http://facebook.com/oasis.open
+- type: x-linkedin
+  url: https://www.linkedin.com/company/oasis/
+- type: x-open-source
+  url: http://www.oasis-open.org/members/
+- type: x-open-source
+  url: https://oasis-open-projects.org/
+- type: x-open-source
+  url: http://openmobilityfoundation.org
+- type: x-open-source
+  url: https://www.oasis-open.org/committees
+- type: x-open-source
+  url: https://oasis-open-projects.org/projects/
+- type: x-open-source
+  url: https://www.oasis-open.org/committees/tc_cat.php
+- type: x-open-source
+  url: https://www.oasis-open.org/events
+- type: x-open-source
+  url: https://www.oasis-open.org/events/interops
+- type: x-open-source
+  url: https://www.oasis-open.org/events/H2OingHole
+- type: x-open-source
+  url: https://www.oasis-open.org/presentations
+- type: x-open-source
+  url: https://lists.oasis-open.org/archives/
+- type: x-open-source
+  url: http://blogs.oasis-open.org/
+- type: x-open-source
+  url: https://www.oasis-open.org/board/committee-charters
+- type: x-open-source
+  url: https://www.oasis-open.org/board/minutes.php
+- type: x-open-source
+  url: https://www.oasis-open.org/committees/tab
+- type: x-open-source
+  url: http://www.youtube.com/oasisopen
+- type: x-open-source
+  url: https://plus.google.com/+Oasis-openOrg
+- type: x-security
+  url: https://opencybersecurityalliance.org
+- type: x-webinars
+  url: https://www.oasis-open.org/events/webinars
+- type: x-website
+  url: https://www.oasis-open.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

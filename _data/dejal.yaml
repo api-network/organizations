@@ -1,0 +1,65 @@
+---
+name: Dejal
+description: 'Dejal: indie apps for macOS and iOS, including Simon, Time Out, Pack,
+  Date Stamp, Chicken GIFs, and more.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1509880"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dejal.yaml
+tags:
+- Software
+- Shareware
+- Osx
+- OS X
+- Macos
+- Macintosh
+- Mac
+- Freeware
+- Free Downloads
+- Free
+- Dejal Userware
+- Dejal Systems LLC
+- Dejal Systems
+- Dejal
+- Commercial
+apis: []
+x-common:
+- type: x-website
+  url: https://dejal.com/
+- type: x-blog
+  url: https://micro.blog/dejal
+- type: x-blog
+  url: https://micro.blog/dejus
+- type: x-developer
+  url: http://developer.dejal.com
+- type: x-facebook
+  url: http://www.facebook.com/dejalcom
+- type: x-support
+  url: http://help.dejal.com/timeout/
+- type: x-support
+  url: http://help.dejal.com/simon/
+- type: x-twitter
+  url: http://twitter.com/dejal
+- type: x-twitter
+  url: http://twitter.com/dejus
+- type: x-twitter
+  url: http://twitter.com/DejalSimon
+- type: x-twitter
+  url: http://twitter.com/DejalTimeOut
+- type: x-twitter
+  url: http://twitter.com/DejalPack
+- type: x-twitter
+  url: http://twitter.com/DejalBlog
+- type: x-twitter
+  url: http://twitter.com/DejalOpen
+- type: x-website
+  url: https://www.dejal.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

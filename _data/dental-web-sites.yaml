@@ -1,0 +1,24 @@
+---
+name: Dental Web Sites
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4682130"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dental-web-sites.yaml
+tags:
+- Health And Medical
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.dentalwebsites.com
+- type: x-website
+  url: https://www.dentalwebsites.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

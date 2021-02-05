@@ -1,0 +1,58 @@
+---
+name: Madrid Skyline Webcam
+description: A high definition (HD1080) view over the rooftops of Madrid together
+  with weather info.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5174694"
+url: https://raw.githubusercontent.com/api-network/organizations/main/madrid-skyline-webcam.yaml
+tags:
+- Windsor Building
+- Windsor
+- Webcam
+- Weather
+- Velazquez Sky
+- Velazquez
+- Velasquez Sky
+- Velasquez
+- Torres KIO
+- Temperature
+- Spain
+- Sky
+- Railway Station
+- Plaza De Castilla
+- Outdoors
+- METAR
+- Madrid
+- High Definition
+- Hd1080
+- Hd
+- Espana
+- Edificio Windsor
+- Cuatro Torres Business Area
+- CTBA
+- Chamartin
+- 1920 By 1080
+apis: []
+x-common:
+- type: x-website
+  url: https://www.madridskyline.net
+- type: x-youtube
+  url: https://www.youtube.com/avendagneau/
+- type: x-youtube
+  url: https://www.youtube.com/user/avendagneau
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=dzLqg-Z2Cmo
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=xnLtuF-cBMg
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=X9t6V9sMUAM
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

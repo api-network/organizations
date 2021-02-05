@@ -1,0 +1,29 @@
+---
+name: ICS MotifZone
+description: ICS MotifZone is the home for all things Motif - GUI builders, testing
+  tools, forums, wikis, and Motif itself.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "651183"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ics-motifzone.yaml
+tags:
+- UIM/X
+- Replay Xcessory
+- Open Motif
+- Motif
+- ICS
+- BX PRO
+- Builder Xcessory
+apis: []
+x-common:
+- type: x-website
+  url: https://motif.ics.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

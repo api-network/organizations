@@ -1,0 +1,27 @@
+---
+name: Food and Nutrition Service (FNS)
+description: <p><span>The Food and Nutrition Service is an agency of the United States
+  Department of Agriculture. The FNS is the federal agency responsible for administering
+  the nation&rsquo;s domestic nutrition assistance programs. The service helps to
+  address the issue of hunger in the United States.</span></p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/food-and-nutrition-service-fns.yaml
+tags:
+- Federal Government
+apis: []
+x-common:
+- type: x-website
+  url: http://www.fns.usda.gov/
+- type: x-data
+  url: https://www.fns.usda.gov/data-research
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

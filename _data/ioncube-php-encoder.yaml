@@ -1,0 +1,32 @@
+---
+name: ionCube PHP Encoder
+description: Secure and license PHP scripts with the new ionCube PHP Encoder 10.2.
+  Encrypt and protect files with PHP encoding, encryption, obfuscation and licensing
+  capabilities.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "48387"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ioncube-php-encoder.yaml
+tags:
+- Obfuscation And Encryption
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.ioncube.com
+- type: x-code
+  url: https://www.ioncube.com/sa_encoder.php?page=support
+- type: x-forum
+  url: http://forum.ioncube.com
+- type: x-support
+  url: http://support.ioncube.com
+- type: x-website
+  url: https://www.ioncube.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

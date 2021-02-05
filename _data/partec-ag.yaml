@@ -1,0 +1,42 @@
+---
+name: ParTec AG
+description: ParTec's Cluster Competence Center delivers the software, consultancy
+  and support services necessary to achieve new heights in productivity and availability
+  on todays commodity based supercomputers.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/partec-ag.yaml
+tags:
+- Vendors
+- Single System View
+- Petaflop Computing
+- Parastationv5
+- Parastationmpi
+- Parastation
+- Parallel Computing
+- Open Source Cluster Manager
+- Mpi-2
+- Hpc
+- High Performance Computing
+- Gridmonitor
+- Commodity Based Supercomputing
+- Cluster Service Oriented
+- Cluster Research.
+- Cluster Operating System
+- Cluster Competence
+apis: []
+x-common:
+- type: x-documentation
+  url: http://docs.par-tec.com/
+- type: x-website
+  url: https://www.par-tec.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

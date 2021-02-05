@@ -1,0 +1,13 @@
+---
+layout: none
+---
+[{% for org in site.data %}
+{
+   "name": "{{ org[1].name | strip_html }}",
+   "description": "{{ org[1].description | strip_html }}",
+   "image": "{{ org[1].image }}",
+   "tags": {{ org[1].tags | jsonify }},
+   "created": "{{ org[1].created }}",
+   "modified": "{{ org[1].modified }}"
+}{% if forloop.last == true %}{% else %},{% endif %}
+{% endfor %}]

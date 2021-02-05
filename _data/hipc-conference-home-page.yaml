@@ -1,0 +1,36 @@
+---
+name: HiPC Conference Home Page
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3076373"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hipc-conference-home-page.yaml
+tags:
+- Conferences
+apis: []
+x-common:
+- type: x-website
+  url: http://www.hipc.org/
+- type: x-contact
+  url: https://hipc.org/contact/
+- type: x-facebook
+  url: https://www.facebook.com/hipc.conference
+- type: x-instagram
+  url: https://www.instagram.com/hipcconf
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/53197/
+- type: x-tutorials
+  url: https://hipc.org/tutorials/
+- type: x-twitter
+  url: https://twitter.com/hipcconf
+- type: x-website
+  url: https://www.hipc.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

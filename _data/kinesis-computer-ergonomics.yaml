@@ -1,0 +1,46 @@
+---
+name: Kinesis Computer Ergonomics
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "400386"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kinesis-computer-ergonomics.yaml
+tags:
+- Peripherals
+apis: []
+x-common:
+- type: x-website
+  url: http://www.kinesis.com
+- type: x-about
+  url: https://kinesis-ergo.com/about-kinesis/
+- type: x-contact
+  url: https://kinesis-ergo.com/support/contact-a-technician/
+- type: x-contact
+  url: https://kinesis-ergo.com/contact-us/
+- type: x-instagram
+  url: https://instagram.com/kinesisergo/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/kinesis-corporation
+- type: x-signup
+  url: https://signup.e2ma.net/signup/2485/2279/
+- type: x-support
+  url: https://kinesis-ergo.com/support/ordering-faqs/
+- type: x-support
+  url: https://kinesis-ergo.com/support/warranty/
+- type: x-support
+  url: https://kinesis-ergo.com/support/returns/
+- type: x-terms-of-service
+  url: https://kinesis-ergo.com/terms-of-use-and-legal/
+- type: x-twitter
+  url: https://twitter.com/kinesisergo
+- type: x-website
+  url: https://www.kinesis-ergo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

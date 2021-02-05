@@ -1,0 +1,25 @@
+---
+name: LANDesk
+description: Ivanti provides solutions for IT asset management, IT service management,
+  endpoint security, supply chain management & more. Discover the power of unified
+  IT management when you get in touch with us today.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/landesk.yaml
+tags:
+- Network Management
+- It Management Software
+apis: []
+x-common:
+- type: x-website
+  url: https://www.landesk.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

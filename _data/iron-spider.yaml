@@ -1,0 +1,49 @@
+---
+name: Iron Spider
+description: HTML tutorials with no technobabble. Learn how to make a web page quick
+  and easy at the Iron Spider Web Design and Resource Center...
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "383987"
+url: https://raw.githubusercontent.com/api-network/organizations/main/iron-spider.yaml
+tags:
+- Web Hosting
+- Registering A Domain Name
+- Launch A Website
+- Ironspider
+- Iron Spider
+- Insert Graphics
+- Html Tutorials
+- HOW TO MAKE A WEB PAGE
+- Format Text
+- Css Tutorials
+- Codes
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ironspider.ca/
+- type: x-blog
+  url: http://blog.ironspider.ca/
+- type: x-feed
+  url: http://blog.ironspider.ca/2006/10/01/feedback/
+- type: x-terms-of-service
+  url: http://twitter.ironspider.ca/terms.htm
+- type: x-twitter
+  url: http://twitter.ironspider.ca/index.htm
+- type: x-twitter
+  url: http://twitter.com/#!/Iron_Spider
+- type: x-twitter
+  url: http://twitter.ironspider.ca/index.htm
+- type: x-website
+  url: https://www.ironspider.ca
+- type: x-youtube
+  url: http://www.youtube.com/IronSpiderVideos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

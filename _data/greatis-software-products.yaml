@@ -1,0 +1,43 @@
+---
+name: Greatis Software Products
+description: Greatis Software creates teh great apps for users and beatiful apps for
+  software developers
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "164314"
+url: https://raw.githubusercontent.com/api-network/organizations/main/greatis-software-products.yaml
+tags:
+- Utilities
+- Unhackme
+- Regrun
+- Desktop Secret Lock
+- Bootracer Stopupdates10
+apis: []
+x-common:
+- type: x-blog
+  url: https://greatis.com/blog/
+- type: x-blog
+  url: https://greatis.com/blog/what-is-gwx-gwx-exe
+- type: x-facebook
+  url: https://www.facebook.com/remove.malware.with.unhackme/
+- type: x-security
+  url: http://greatis.com/security/
+- type: x-security
+  url: https://greatis.com/security/reanimator.html
+- type: x-security
+  url: https://www.greatis.com/security/edge-reset-button.htm
+- type: x-security
+  url: https://www.greatis.com/security/bootrescue.htm
+- type: x-support
+  url: https://greatis.com/support
+- type: x-website
+  url: https://greatis.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,22 @@
+---
+name: UNA '08
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8686"
+url: https://raw.githubusercontent.com/api-network/organizations/main/una-08.yaml
+tags:
+- "2008"
+apis: []
+x-common:
+- type: x-website
+  url: https://una.cs.ucc.ie
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,31 @@
+---
+name: Creative Commons Search
+description: A new Creative Commons search tool for creators seeking to discover and
+  reuse free resources with greater ease.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6210"
+url: https://raw.githubusercontent.com/api-network/organizations/main/creative-commons-search.yaml
+tags:
+- Specialized
+apis: []
+x-common:
+- type: x-contact
+  url: https://creativecommons.org/about/contact/
+- type: x-github
+  url: https://github.com/creativecommons/cccatalog-frontend
+- type: x-privacy
+  url: https://creativecommons.org/privacy/
+- type: x-terms-of-service
+  url: https://creativecommons.org/terms/
+- type: x-website
+  url: https://search.creativecommons.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

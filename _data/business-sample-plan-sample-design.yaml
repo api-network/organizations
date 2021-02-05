@@ -1,0 +1,49 @@
+---
+name: Business Sample Plan Sample Design
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "265381"
+url: https://raw.githubusercontent.com/api-network/organizations/main/business-sample-plan-sample-design.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.newthinktank.com
+- type: x-about
+  url: https://www.newthinktank.com/about/
+- type: x-about
+  url: http://www.newthinktank.com/about/
+- type: x-blog
+  url: https://www.newthinktank.com/web-design/blog-plugins/
+- type: x-facebook
+  url: http://www.facebook.com/newthinktank
+- type: x-feed
+  url: http://feeds2.feedburner.com/NewThinkTank
+- type: x-feed
+  url: https://www.newthinktank.com/feed/
+- type: x-feed
+  url: https://www.newthinktank.com/feed/atom/
+- type: x-feed
+  url: https://www.newthinktank.com/comments/feed/
+- type: x-feed
+  url: https://www.newthinktank.com/feed/rdf/
+- type: x-linkedin
+  url: http://www.linkedin.com/in/derekbanas
+- type: x-press
+  url: http://www.wordpress.com
+- type: x-twitter
+  url: http://www.twitter.com/newthinktank
+- type: x-website
+  url: https://www.newthinktank.com
+- type: x-youtube
+  url: http://www.youtube.com/derekbanas
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

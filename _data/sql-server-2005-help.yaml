@@ -1,0 +1,66 @@
+---
+name: SQL Server 2005 Help
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sql-server-2005-help.yaml
+tags:
+- Microsoft SQL Server
+apis: []
+x-common:
+- type: x-blog
+  url: https://sql2005ted.blogspot.com/2017/03/stocks.html
+- type: x-blog
+  url: https://www.blogger.com/profile/16876114767286535250
+- type: x-blog
+  url: https://sql2005ted.blogspot.com/
+- type: x-blog
+  url: https://sql2005ted.blogspot.com/2017/
+- type: x-blog
+  url: https://sql2005ted.blogspot.com/2017/03/
+- type: x-blog
+  url: https://sql2005ted.blogspot.com/2013/
+- type: x-blog
+  url: https://sql2005ted.blogspot.com/2013/01/
+- type: x-blog
+  url: https://sql2005ted.blogspot.com/2012/
+- type: x-blog
+  url: https://sql2005ted.blogspot.com/2012/07/
+- type: x-blog
+  url: https://sql2005ted.blogspot.com/2012/04/
+- type: x-blog
+  url: https://sql2005ted.blogspot.com/2012/03/
+- type: x-blog
+  url: https://sql2005ted.blogspot.com/2012/02/
+- type: x-blog
+  url: https://sql2005ted.blogspot.com/2010/
+- type: x-blog
+  url: https://sql2005ted.blogspot.com/2010/12/
+- type: x-blog
+  url: https://sql2005ted.blogspot.com/2010/06/
+- type: x-blog
+  url: https://sql2005ted.blogspot.com/2010/05/
+- type: x-blog
+  url: https://sql2005ted.blogspot.com/2010/04/
+- type: x-blog
+  url: https://sql2005ted.blogspot.com/2009/
+- type: x-blog
+  url: https://sql2005ted.blogspot.com/2009/06/
+- type: x-blog
+  url: https://sql2005ted.blogspot.com/2009/01/
+- type: x-feed
+  url: https://sql2005ted.blogspot.com/feeds/posts/default
+- type: x-tutorials
+  url: http://tutorials.iwebtool.com/
+- type: x-website
+  url: https://sql2005ted.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

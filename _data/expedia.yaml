@@ -1,0 +1,176 @@
+---
+name: Expedia
+description: EPS's next-generation hotel API! EPS's API offers a suite of RESTful
+  web services that will allow you to customise your own booking experience
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Expedia_logo.svg.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "911"
+x-alexaRank: "508120"
+url: https://raw.githubusercontent.com/api-network/organizations/main/expedia.yaml
+tags:
+- Reservations
+- Relative Data
+- Networks
+- Hotels
+- Have API Paths
+- Have API
+- General Data
+- Flights
+- Bookings
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://expediapartnersolutions.com
+- type: x-base
+  url: http://api.ean.com
+- type: x-careers
+  url: https://lifeatexpedia.com/jobs?keyword=marketing&company=Expedia%20Partner%20Solutions
+- type: x-contact
+  url: https://www.ean.com/contact-us
+- type: x-contact
+  url: https://expediapartnersolutions.com/contact-us
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/expedia
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/ean-upc-codes-com
+- type: x-documentation
+  url: https://www.expedia.com/static/mobile/swaggerui/
+- type: x-email
+  url: support@ean.com
+- type: x-email
+  url: support@expediapartnersolutions.com
+- type: x-github
+  url: https://github.com/Expedia
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/about/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/about/how-it-all-works/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/getting-started/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/launch-requirements/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/changelog/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/documentation/rapid-geography-docs-2-3/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/reference/geography-reference-lists-2-3/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/documentation/rapid-content-docs-2-3/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/reference/content-reference-lists-2-3/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/reference/country-to-destination-language-mapping/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/documentation/rapid-shopping-docs-2-3/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/reference/constructing-cancellation-policies/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/reference/eps-checkout-2-2/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/reference/rapid-shopping-test-request/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/documentation/rapid-booking-docs-2-3/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/reference/accepted-credit-cards/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/reference/hold-resume/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/reference/credit-card-guide/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/reference/currency-options/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/reference/rapid-booking-test-request/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/reference/psd2-regulation/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/reference/property-collect/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/reference/supported-points-of-sale/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/documentation/rapid-manage-booking-docs-2-3/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/reference/eps-conversations/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/documentation/rapid-recommendations-2-3/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/reference/recommendations-api-user-journey-2-3/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/documentation/notifications/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/reference/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/reference/rapid-error-responses/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/reference/eps-rapid-versioning-schedule/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/reference/language-options/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/reference/rate-limiting-api-traffic/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/reference/signature-authentication/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/tools/ean-signature-generator/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/tools/notification-service-tester/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/es_es
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/ko
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/ja
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/zh_cn
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/zh_tw
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/pt_br
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/documentation/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/documentation/rapid-geography-docs/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/documentation/rapid-content-docs-2-1/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/documentation/rapid-shopping-docs-2-1/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/documentation/rapid-booking-docs-2-1/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/documentation/rapid-manage-booking-docs-2-1/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/documentation/preview-2-4/
+- type: x-partner
+  url: https://developer.expediapartnersolutions.com/eps-rapid-changelog-2-4-preview/
+- type: x-partner
+  url: http://www.expediapartnersolutions.com/sign-in
+- type: x-partner
+  url: https://join.expediapartnercentral.com/LangCode/1033/
+- type: x-partner
+  url: https://expediapartnersolutions.com/resources/news
+- type: x-partner
+  url: https://expediapartnersolutions.com/privacy-policy
+- type: x-partner
+  url: https://expediapartnersolutions.com/cookie-policy
+- type: x-support
+  url: https://support.ean.com/hc/en-us/sections/115001536329-EPS-V3-API-Documentation
+- type: x-swagger--original
+  url: https://www.expedia.com/static/mobile/swaggerui/swagger.json
+- type: x-twitter
+  url: https://twitter.com/expediapartners
+- type: x-twitter
+  url: https://twitter.com/ExpediaEAN
+- type: x-website
+  url: http://developer.ean.com/
+- type: x-website
+  url: http://expedia.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

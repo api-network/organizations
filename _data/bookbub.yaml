@@ -1,0 +1,58 @@
+---
+name: BookBub
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9040"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bookbub.yaml
+tags:
+- Titles
+apis: []
+x-common:
+- type: x-website
+  url: http://www.bookbub.com/twitter
+- type: x-about
+  url: https://www.bookbub.com/home/about.php
+- type: x-blog
+  url: https://www.bookbub.com/blog
+- type: x-blog
+  url: https://www.bookbub.com/blog/what-should-i-read-next
+- type: x-blog
+  url: https://www.bookbub.com/blog/best-novels-of-all-time
+- type: x-blog
+  url: https://www.bookbub.com/blog/must-read-books-for-teens
+- type: x-careers
+  url: https://www.bookbub.com/careers
+- type: x-contact
+  url: https://www.bookbub.com/contact/new
+- type: x-facebook
+  url: http://www.facebook.com/BookBub
+- type: x-instagram
+  url: https://www.instagram.com/bookbub
+- type: x-news
+  url: https://www.bookbub.com/home/in_the_news
+- type: x-partner
+  url: https://www.bookbub.com/partners/overview
+- type: x-partner
+  url: https://www.bookbub.com/partners/faq
+- type: x-press
+  url: https://www.bookbub.com/for-the-press
+- type: x-privacy
+  url: https://www.bookbub.com/home/privacy.php
+- type: x-support
+  url: https://help.bookbub.com/
+- type: x-terms-of-service
+  url: https://www.bookbub.com/home/terms.php
+- type: x-twitter
+  url: http://twitter.com/BookBub
+- type: x-website
+  url: https://www.bookbub.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

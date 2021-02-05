@@ -1,0 +1,40 @@
+---
+name: NetManners.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "828524"
+url: https://raw.githubusercontent.com/api-network/organizations/main/netmanners-com.yaml
+tags:
+- Etiquette
+apis: []
+x-common:
+- type: x-website
+  url: http://www.NetManners.com
+- type: x-blog
+  url: https://www.netmanners.com/the-blog/
+- type: x-blog
+  url: https://www.netmanners.com/email-etiquette-blog/
+- type: x-contact
+  url: https://www.netmanners.com/contact-judith/
+- type: x-facebook
+  url: https://www.facebook.com/netmanners
+- type: x-feed
+  url: https://www.netmanners.com/feed/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/theistudio
+- type: x-security
+  url: https://www.netmanners.com/privacy-security/
+- type: x-twitter
+  url: https://twitter.com/netmanners
+- type: x-website
+  url: https://www.netmanners.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

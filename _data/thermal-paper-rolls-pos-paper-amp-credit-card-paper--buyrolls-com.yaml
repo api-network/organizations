@@ -1,0 +1,42 @@
+---
+name: Thermal Paper Rolls, POS Paper &amp; Credit Card Paper @ Buyrolls.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5238258"
+url: https://raw.githubusercontent.com/api-network/organizations/main/thermal-paper-rolls-pos-paper-amp-credit-card-paper--buyrolls-com.yaml
+tags:
+- Thermal
+apis: []
+x-common:
+- type: x-about
+  url: https://www.buyrolls.com/about-us.html
+- type: x-blog
+  url: https://www.buyrolls.com/blog
+- type: x-contact
+  url: https://www.buyrolls.com/contact-us.html
+- type: x-facebook
+  url: https://www.facebook.com/Buyrollscom-377808878986651/
+- type: x-instagram
+  url: https://www.instagram.com/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/jim-jones-7a5514
+- type: x-login
+  url: https://www.buyrolls.com/customer/account/login/
+- type: x-terms-of-service
+  url: https://www.buyrolls.com/shipping-terms.html
+- type: x-twitter
+  url: https://twitter.com/BuyRolls
+- type: x-website
+  url: https://www.buyrolls.com
+- type: x-youtube
+  url: https://www.youtube.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

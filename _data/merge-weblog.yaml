@@ -1,0 +1,36 @@
+---
+name: Merge Weblog
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1664730"
+url: https://raw.githubusercontent.com/api-network/organizations/main/merge-weblog.yaml
+tags:
+- Drupal
+apis: []
+x-common:
+- type: x-feed
+  url: https://blog.merge.nl/feed
+- type: x-feed
+  url: http://blog.merge.nl/feed
+- type: x-github
+  url: https://github.com/lhangea/experiment
+- type: x-github
+  url: https://github.com/PolymerElements/polymer-starter-kit
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-twitter
+  url: http://twitter.com/askibinski
+- type: x-website
+  url: https://blog.merge.nl
+- type: x-youtube
+  url: https://www.youtube.com/embed/fD2As5RmM8Q
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

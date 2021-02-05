@@ -1,0 +1,28 @@
+---
+name: Brillig Systems
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/brillig-systems.yaml
+tags:
+- Automation
+apis: []
+x-common:
+- type: x-about
+  url: https://brilligsys.com/about-us/
+- type: x-contact
+  url: https://brilligsys.com/contact/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-website
+  url: https://www.brilligsys.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

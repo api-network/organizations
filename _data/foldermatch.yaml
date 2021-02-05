@@ -1,0 +1,29 @@
+---
+name: FolderMatch
+description: FolderMatch is a program that compares directories and files showing
+  the differences clearly.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "717018"
+url: https://raw.githubusercontent.com/api-network/organizations/main/foldermatch.yaml
+tags:
+- Windows
+apis: []
+x-common:
+- type: x-pricing
+  url: http://www.saltybrine.com/saltybrine_pricing.pdf
+- type: x-privacy
+  url: http://www.saltybrine.com/privacy.htm#privacy
+- type: x-self-service-registration
+  url: http://www.foldermatch.com/fmregister.htm
+- type: x-website
+  url: https://www.foldermatch.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

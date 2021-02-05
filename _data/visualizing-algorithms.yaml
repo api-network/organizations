@@ -1,0 +1,55 @@
+---
+name: Visualizing Algorithms
+description: '<p>Algorithms are a fascinating use case for visualization. To visualize
+  an algorithm, we don&rsquo;t merely fit data to a chart; there is no primary dataset.
+  Instead there are logical rules that describe behavior. This may be why algorithm
+  visualizations are so unusual, as designers experiment with novel forms to better
+  communicate. This is reason enough to study them. But algorithms are also a reminder
+  that visualization is more than a tool for finding patterns in data. Visualization
+  leverages the human visual system to augment human intellect: we can use it to better
+  understand these important abstract processes, and perhaps other things, too.</p>'
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Visualizing_Algorithms.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "33807"
+url: https://raw.githubusercontent.com/api-network/organizations/main/visualizing-algorithms.yaml
+tags:
+- Visualizations
+apis: []
+x-common:
+- type: x-website
+  url: https://observablehq.com/@mbostock
+- type: x-blog
+  url: http://nullprogram.com/blog/2014/06/22/
+- type: x-blog
+  url: http://blog.vctr.me/posts/central-limit-theorem.html
+- type: x-blog
+  url: http://acko.net/blog/how-to-fold-a-julia-fractal/
+- type: x-code
+  url: https://en.wikipedia.org/wiki/Pseudocode
+- type: x-code
+  url: http://corte.si/posts/code/visualisingsorting/
+- type: x-github
+  url: https://pmneila.github.io/jsexp/grayscott/
+- type: x-twitter
+  url: https://twitter.com/archietse
+- type: x-twitter
+  url: https://twitter.com/mbostock
+- type: x-website
+  url: https://bost.ocks.org/mike/algorithms/
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=PUv66718DII
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=t8g-iYGHpEA
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=KJe9H6qS82I
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=-0Pe30Zz3a0
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

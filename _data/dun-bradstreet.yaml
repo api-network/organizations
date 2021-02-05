@@ -1,0 +1,62 @@
+---
+name: Dun & Bradstreet
+description: 'Dun & Bradstreet (NYSE: DNB) grows the most valuable relationships in
+  business. We help our customers and partners make better business decisions. Many
+  global companies rely on our data, insights, and analytics for success. Find out
+  how Dun & Bradstree...'
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/dunn-bradstreet.jpeg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "14819"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dun-bradstreet.yaml
+tags:
+- Risk Management
+- Have API Paths
+- Have API
+- Business Intelligence
+- Business
+- API Provider
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-github
+  url: https://github.com/dandb
+- type: x-postman-collection
+  url: https://app.getpostman.com/run-collection/5f896b56651f25806d07
+- type: x-website
+  url: http://www.dnb.com
+- type: x-base
+  url: https://maxcvservices.dnb.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/the-dun-bradstreet-corporation
+- type: x-documentation
+  url: http://docs.dnb.com/EA.html
+- type: x-documentation
+  url: http://docs.dnb.com/direct/2.0/
+- type: x-documentation
+  url: https://developer.dnb.com/docs/v1/rest
+- type: x-documentation
+  url: https://developer.dnb.com/docs/v1/sms
+- type: x-documentation
+  url: https://directplus.documentation.dnb.com/
+- type: x-facebook
+  url: https://www.facebook.com/DunBradstreet
+- type: x-linkedin
+  url: http://www.linkedin.com/company/2385
+- type: x-privacy
+  url: https://www.dnb.com/utility-pages/privacy-policy.html
+- type: x-twitter
+  url: https://twitter.com/DnBUS
+- type: x-website
+  url: http://developer.dnb.com
+- type: x-youtube
+  url: http://www.youtube.com/user/DunandBrad
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

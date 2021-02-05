@@ -1,0 +1,56 @@
+---
+name: Kloud9
+description: Kloud9 IT, Inc. specializes in Business IT Support, providing Cloud Computing
+  Solutions and Network Services in Cleveland, Westlake, Beachwood, Akron, Elyria,
+  and Medina
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6948767"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kloud9.yaml
+tags:
+- Service Providers
+apis: []
+x-common:
+- type: x-about
+  url: https://www.kloud9it.com/about-us/
+- type: x-about
+  url: https://www.kloud9it.com/about-us/meet-the-team/
+- type: x-blog
+  url: https://www.kloud9it.com/blog/
+- type: x-contact
+  url: https://www.kloud9it.com/contact-us/
+- type: x-contact
+  url: https://www.kloud9it.com/contact-us/careers/
+- type: x-contact
+  url: https://www.kloud9it.com/contact-us/client-logins/
+- type: x-facebook
+  url: https://www.facebook.com/kloud9it
+- type: x-feed
+  url: https://www.kloud9it.com/feed/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/kloud9
+- type: x-news
+  url: https://www.kloud9it.com/resources/newsletter/
+- type: x-privacy
+  url: https://www.kloud9it.com/privacy-policy/
+- type: x-security
+  url: https://www.kloud9it.com/services/network-security/
+- type: x-support
+  url: https://www.kloud9it.com/services/business-it-support/
+- type: x-support
+  url: https://www.kloud9it.com/services/helpdesk/
+- type: x-twitter
+  url: https://twitter.com/kloud9it
+- type: x-website
+  url: https://www.kloud9it.com
+- type: x-youtube
+  url: https://www.youtube.com/user/kloud9it
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

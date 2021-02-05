@@ -1,0 +1,74 @@
+---
+name: Bing Maps
+description: "The Bing Maps Account Center allows you to create a Bing Maps Developer
+  Account and obtain\r\n     Bing Maps API keys to use the Bing Maps AJAX Control,
+  the Bing Maps Silverlight Control, and the Bing Maps Web Services."
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/354_logo..png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "259809"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bing-maps.yaml
+tags:
+- Weblogs
+- Virtual Earth Web Services
+- Virtual Earth API
+- Virtual Earth
+- Translations
+- Translations
+- Traffic
+- Static
+- Silverlight Map Control
+- Search
+- Search
+- Maps
+- Have API
+- Geo
+- Geo
+- Directions
+- Bing Maps Web Services
+- Bing Maps Developer Account
+- Bing Maps API
+- Bing Maps
+- Bing Map Control SDK
+- API Provider
+- AJAX Map Control
+apis: []
+x-common:
+- type: x-website
+  url: http://www.bing.com/maps/
+- type: x-blog
+  url: http://blogs.bing.com/maps/
+- type: x-blog
+  url: http://blogs.msdn.com/b/bingdevcenter/
+- type: x-blog-rss
+  url: http://blogs.msdn.com/b/bingdevcenter/rss.aspx
+- type: x-code
+  url: https://www.bing.com/api/maps/sdkrelease/mapcontrol/isdk
+- type: x-code
+  url: http://code.msdn.microsoft.com/site/search?f[0].Type=SearchText&f[0].Value=bing%20maps
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/bing-maps
+- type: x-customers
+  url: https://customers.microsoft.com/en-us/search?sq=%22Bing%20Maps%22&ff=&p=0&so=story_publish_date%20desc
+- type: x-licensing
+  url: https://www.microsoft.com/maps/Licensing/licensing.aspx
+- type: x-marketplace
+  url: http://azure.microsoft.com/en-us/marketplace/partners/bingmaps/mapapis/
+- type: x-support
+  url: https://support.microsoft.com/en-us/supportforbusiness/productselection?sapId=a2a88740-f135-42df-37d0-430a1b6cffc1
+- type: x-terms-of-service
+  url: http://www.microsoft.com/maps/product/terms.html
+- type: x-twitter
+  url: https://twitter.com/bingmaps
+- type: x-website
+  url: https://www.bingmapsportal.com/
+- type: x-website
+  url: https://blogs.msdn.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

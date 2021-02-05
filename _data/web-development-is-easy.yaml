@@ -1,0 +1,38 @@
+---
+name: Web Development is Easy
+description: Frameworks, Tools and Tips for Web Developers.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3099819"
+url: https://raw.githubusercontent.com/api-network/organizations/main/web-development-is-easy.yaml
+tags:
+- Personal Pages
+- News
+- JavaScript
+- HTML
+- Articles
+apis: []
+x-common:
+- type: x-news
+  url: https://www.webdeveasy.com/category/news/html/
+- type: x-news
+  url: https://www.webdeveasy.com/category/news/javascript/
+- type: x-news
+  url: https://www.webdeveasy.com/category/news/
+- type: x-news
+  url: https://www.webdeveasy.com/news/electron-1-0/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-press
+  url: http://presscustomizr.com/hueman/
+- type: x-website
+  url: https://www.webdeveasy.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

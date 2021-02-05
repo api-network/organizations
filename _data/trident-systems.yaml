@@ -1,0 +1,37 @@
+---
+name: Trident Systems
+description: TSItouch is a US-based manufacturer of custom touch screens, protective
+  overlays, and video wall solutions for commercial grade displays
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/trident-systems.yaml
+tags:
+- Touch Screen
+apis: []
+x-common:
+- type: x-website
+  url: http://www.tsitouch.com
+- type: x-facebook
+  url: https://www.facebook.com/tsitouch/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/tsitouch-inc
+- type: x-news
+  url: https://www.tsitouch.com/touch-news/bsc-enclosures
+- type: x-self-service-registration
+  url: http://dse2020.nvytes.co/dse20/register/414F88.html
+- type: x-twitter
+  url: https://www.twitter.com/tsitouch
+- type: x-website
+  url: https://www.tsitouch.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=efrlAOWeVig
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

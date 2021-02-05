@@ -1,0 +1,44 @@
+---
+name: Skyward
+description: Welcome to a better experience. Featuring a K-12 student information
+  system and financial / human resources solutions for school districts and municipalities.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "61737"
+url: https://raw.githubusercontent.com/api-network/organizations/main/skyward.yaml
+tags:
+- Student Information System
+- SIS
+- Human Resources
+- Financial Software
+- ERP
+- Administration And School Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.skyward.com
+- type: x-facebook
+  url: https://www.facebook.com/Skyward.Inc/
+- type: x-forum
+  url: http://forum.skyward.com
+- type: x-instagram
+  url: https://www.instagram.com/skyward_inc/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/skyward
+- type: x-support
+  url: https://support.skyward.com
+- type: x-twitter
+  url: https://twitter.com/skyward_inc
+- type: x-website
+  url: https://www.skyward.com
+- type: x-youtube
+  url: https://www.youtube.com/skywardk12
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

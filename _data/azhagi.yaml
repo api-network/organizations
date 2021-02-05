@@ -1,0 +1,40 @@
+---
+name: Azhagi
+description: "Portable Indian languages transliteration software Azhagi+ (\u0B85\u0BB4\u0B95\u0BBF+),
+  with an extraordinary Tamil fonts converter. Android version exists too (with voice
+  recognition). Transliterate or type in Hindi, Tamil, Sanskrit, Telugu, Kannada,
+  Malayalam, Gujarati, Bengali, Punjabi, Oriya, Assamese, Sourashtra, Grantha, etc.
+  in ANY Windows application like MS-Word, Excel, Powerpoint, Facebook, Twitter, Skype,
+  Gmail, Outlook, PageMaker, Photoshop, etc. Extendable to type or transliterate in
+  ANY world language. Extendable to effect transliteration in ANY Tamil font, including
+  STMZH. In effect, Type, Print, Email, Chat, Blog, Write in Facebook/Twitter/Etc.
+  and Build websites in Tamil, Hindi, Sanskrit, Telugu, Kannada, Malayalam, Marathi,
+  Gujarati, Bengali, Punjabi, Oriya, Assamese, etc. - with EASE. 100% free download
+  with 100% free support."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "187584"
+url: https://raw.githubusercontent.com/api-network/organizations/main/azhagi.yaml
+tags:
+- Language Specific
+apis: []
+x-common:
+- type: x-website
+  url: http://www.azhagi.com
+- type: x-facebook
+  url: https://www.facebook.com/groups/Azhagi
+- type: x-facebook
+  url: https://www.facebook.com/AzhagiSoftware
+- type: x-twitter
+  url: https://twitter.com/AzhagiViswanath
+- type: x-website
+  url: https://www.azhagi.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

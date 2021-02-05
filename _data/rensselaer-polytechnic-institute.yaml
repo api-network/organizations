@@ -1,0 +1,59 @@
+---
+name: Rensselaer Polytechnic Institute
+description: <p>Rensselaer Polytechnic Institute just has an API coming out of the
+  student union. I found evidence of other possible APIs, but nothing that student
+  out like this student led one.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Rensselaer-Polytechnic-Institute-Logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "15418"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rensselaer-polytechnic-institute.yaml
+tags:
+- University In Progress
+- Has API
+apis: []
+x-common:
+- type: x-about
+  url: http://rpi.edu/about/index.html
+- type: x-about
+  url: http://rpi.edu/about
+- type: x-about
+  url: http://rpi.edu/about/heoa/index.html
+- type: x-contact
+  url: http://info.rpi.edu/contactus
+- type: x-developers
+  url: https://clubs.union.rpi.edu/?content_id=260
+- type: x-feed
+  url: https://webforms.rpi.edu/rensselaer-web-site-feedback
+- type: x-news
+  url: http://president.rpi.edu/news
+- type: x-news
+  url: http://president.rpi.edu/news/community-notes
+- type: x-news
+  url: https://news.rpi.edu/
+- type: x-news
+  url: https://news.rpi.edu/tagged2016/research
+- type: x-news
+  url: https://news.rpi.edu/tagged2016/academic
+- type: x-news
+  url: https://news.rpi.edu/tagged2016/faculty
+- type: x-news
+  url: https://news.rpi.edu/tagged2016/community
+- type: x-news
+  url: https://news.rpi.edu/tagged2016/arts
+- type: x-privacy
+  url: https://info.rpi.edu/web-privacy-statement
+- type: x-support
+  url: http://rpi.edu/student-experience/index.html#support
+- type: x-website
+  url: http://rpi.edu/
+- type: x-youtube
+  url: https://www.youtube.com/user/rpirensselaer/featured
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

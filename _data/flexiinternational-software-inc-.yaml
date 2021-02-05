@@ -1,0 +1,44 @@
+---
+name: FlexiInternational Software, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1329538"
+url: https://raw.githubusercontent.com/api-network/organizations/main/flexiinternational-software-inc-.yaml
+tags:
+- Accounting
+apis: []
+x-common:
+- type: x-about
+  url: https://www.flexi.com/about/
+- type: x-blog
+  url: https://www.flexi.com/category/blog/
+- type: x-careers
+  url: https://www.flexi.com/careers/
+- type: x-contact
+  url: https://www.flexi.com/contact-us/
+- type: x-customers
+  url: https://www.flexi.com/customers/
+- type: x-news
+  url: https://www.flexi.com/news/
+- type: x-news
+  url: https://www.flexi.com/news/#events
+- type: x-partner
+  url: https://www.flexi.com/partners/
+- type: x-privacy
+  url: https://www.flexi.com/privacy-policy/
+- type: x-support
+  url: https://www.flexi.com/support/
+- type: x-twitter
+  url: https://twitter.com/Flexi_Software?lang=en
+- type: x-website
+  url: https://www.flexi.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

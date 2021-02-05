@@ -1,0 +1,40 @@
+---
+name: JoomlArt
+description: Best of the Joomla templates since 2005. Offering responsive free Joomla
+  templates & premium Joomla templates, RTL layouts for Joomla 3. 300K+ happy members
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "22028"
+url: https://raw.githubusercontent.com/api-network/organizations/main/joomlart.yaml
+tags:
+- Joomla Templates
+- Joomla Responsive Templates
+- Joomla Free Templates
+- Extensions And Templates
+apis: []
+x-common:
+- type: x-website
+  url: http://www.joomlart.com
+- type: x-facebook
+  url: http://www.facebook.com/joomlart
+- type: x-forum
+  url: https://www.joomlart.com/forums/
+- type: x-forum
+  url: https://www.joomlart.com/forums/archive/
+- type: x-pricing
+  url: https://www.joomlart.com/pricing/
+- type: x-twitter
+  url: https://twitter.com/joomlart
+- type: x-website
+  url: https://www.joomlart.com
+- type: x-youtube
+  url: http://www.youtube.com/user/JoomlArt
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

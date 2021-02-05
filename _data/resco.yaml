@@ -1,0 +1,83 @@
+---
+name: Resco
+description: Resco helps you to mobilize your business with highly customizable solutions
+  for MS Dynamics 365, Salesforce & more. Download free 30-day trial today.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "428851"
+url: https://raw.githubusercontent.com/api-network/organizations/main/resco.yaml
+tags:
+- Software
+apis: []
+x-common:
+- type: x-about
+  url: https://www.resco.net/about-us/intro/
+- type: x-about
+  url: https://www.resco.net/about-us/
+- type: x-blog
+  url: https://blog.resco.net/
+- type: x-case-studies
+  url: https://www.resco.net/case-studies
+- type: x-case-studies
+  url: https://www.resco.net/case-studies/
+- type: x-contact
+  url: https://www.resco.net/contact-us/
+- type: x-developer
+  url: http://developer.resco.net
+- type: x-events
+  url: https://www.resco.net/about-us/events/
+- type: x-facebook
+  url: https://www.facebook.com/RescoMobileCRM/
+- type: x-instagram
+  url: https://instagram.com/resconet/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/resco-net
+- type: x-news
+  url: https://www.resco.net/about-us/newsroom/
+- type: x-partner
+  url: http://partners.resco.net/
+- type: x-platform
+  url: https://www.resco.net/roadmap/platform/
+- type: x-security
+  url: https://www.resco.net/support/security/
+- type: x-security
+  url: https://www.resco.net/products/device-security/
+- type: x-support
+  url: https://www.resco.net/support/faq/
+- type: x-support
+  url: https://www.resco.net/support/salesforce-faq/
+- type: x-support
+  url: https://www.resco.net/support/guides/
+- type: x-support
+  url: https://www.resco.net/support/video/
+- type: x-support
+  url: https://www.resco.net/support/downloads/
+- type: x-support
+  url: https://www.resco.net/support/other-resources/
+- type: x-support
+  url: https://www.resco.net/support/glossary/
+- type: x-twitter
+  url: https://twitter.com/search?q=%23Resco&src=hash
+- type: x-twitter
+  url: https://twitter.com/i/web/status/1217114191456358404
+- type: x-twitter
+  url: https://twitter.com/i/web/status/1216750041555185665
+- type: x-twitter
+  url: https://twitter.com/i/web/status/1215282872459956224
+- type: x-twitter
+  url: https://twitter.com/i/web/status/1213049659054313472
+- type: x-twitter
+  url: https://twitter.com/rescomobilecrm?lang=en
+- type: x-website
+  url: https://resco.net
+- type: x-youtube
+  url: https://www.youtube.com/user/RescoDevelopers
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,26 @@
+---
+name: androidcommunity.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/androidcommunity-com.yaml
+tags:
+- News And Media
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://androidcommunity.com/googles-project-glass-hackathon-attendees-cant-share-the-details-20130125/
+- type: x-website
+  url: http://androidcommunity.com
+- type: x-website
+  url: https://androidcommunity.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

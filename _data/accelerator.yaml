@@ -1,0 +1,26 @@
+---
+name: Accelerator
+description: Ethereum is the future of the internet & Accelerator supports it with
+  green renewable energy. Mine ethereum and other alt coins with us now, get started
+  today!
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27211-accelerator-network.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "442367"
+url: https://raw.githubusercontent.com/api-network/organizations/main/accelerator.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/Accelerator_Net
+- type: x-website
+  url: https://accelerator.network
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

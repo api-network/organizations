@@ -1,0 +1,31 @@
+---
+name: PDF Tools AG
+description: PDF tools for PDF conversion, validation, rendering, manipulation, optimization,
+  security and signature
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "376127"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pdf-tools-ag.yaml
+tags:
+- Software
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.pdf-tools.com/
+- type: x-blog
+  url: http://blog.pdf-tools.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/pdf-tools-ag
+- type: x-twitter
+  url: https://twitter.com/pdftoolscom
+- type: x-website
+  url: https://www.pdf-tools.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

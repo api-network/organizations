@@ -1,0 +1,83 @@
+---
+name: Adafruit Industries
+description: <p>Adafruit was founded in 2005 by MIT hacker &amp; engineer, Limor "Ladyada"
+  Fried. Her goal was to create the best place online for learning electronics and
+  making the best designed products for makers of all ages and skill levels.&nbsp;</p>
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "8835"
+url: https://raw.githubusercontent.com/api-network/organizations/main/adafruit-industries.yaml
+tags:
+- Profile
+- Maker
+- Internet Of Things
+- Have Swagger
+- Have OpenAPI
+- Have API Paths
+- Have API
+- Electronics
+- Devices
+- API Provider
+apis: []
+x-common:
+- type: x-about
+  url: https://adafruit.com/about
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-about
+  url: https://www.adafruit.com/about
+- type: x-twitter
+  url: https://twitter.com/adafruit
+- type: x-blog
+  url: https://blog.adafruit.com
+- type: x-blog
+  url: https://blog.adafruit.com/?s={{query}}
+- type: x-blog
+  url: https://adafruit.com/blog/?s=3dthursday
+- type: x-blog
+  url: https://blog.adafruit.com/
+- type: x-blog-rss
+  url: https://blog.adafruit.com/feed/
+- type: x-careers
+  url: https://jobs.adafruit.com
+- type: x-developers
+  url: https://www.adafruit.com/products_api
+- type: x-documentation
+  url: https://io.adafruit.com/api/docs/#adafruit-io-http-api
+- type: x-documentation
+  url: https://www.adafruit.com/products_api
+- type: x-facebook
+  url: https://www.facebook.com/adafruitindustries
+- type: x-faq
+  url: https://io.adafruit.com/faq
+- type: x-forum
+  url: https://forums.adafruit.com
+- type: x-forums
+  url: https://forums.adafruit.com/
+- type: x-github
+  url: https://github.com/adafruit
+- type: x-login
+  url: https://www.adafruit.com/login
+- type: x-news
+  url: https://io.adafruit.com/blog/
+- type: x-pricing
+  url: https://io.adafruit.com/plus
+- type: x-privacy
+  url: https://www.adafruit.com/privacy
+- type: x-self-service-registration
+  url: https://accounts.adafruit.com/users/sign_up/
+- type: x-terms-of-service
+  url: https://io.adafruit.com/terms
+- type: x-website
+  url: https://www.adafruit.com/
+- type: x-youtube
+  url: https://www.youtube.com/adafruit
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

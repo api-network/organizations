@@ -1,0 +1,32 @@
+---
+name: Chapter Three
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "802588"
+url: https://raw.githubusercontent.com/api-network/organizations/main/chapter-three.yaml
+tags:
+- Commercial Services
+apis: []
+x-common:
+- type: x-website
+  url: http://www.chapterthree.com
+- type: x-facebook
+  url: https://www.facebook.com/Ch.Three
+- type: x-instagram
+  url: https://www.instagram.com/chapter_three_sf/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/648249
+- type: x-twitter
+  url: https://twitter.com/chapter_three
+- type: x-website
+  url: https://www.chapterthree.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

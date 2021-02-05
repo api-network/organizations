@@ -1,0 +1,40 @@
+---
+name: Good Display
+description: Good Display is a professional E-ink Display (E-paper display) and OLED
+  display factory in China, as market leading supplier,we have more than 10 years'
+  products experience for both Standard and Custom Products.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/good-display.yaml
+tags:
+- Manufacturers
+- E-paper Supplier
+- E-ink Factory
+- E-ink Display Manufacturer
+- China E-ink Supplier
+apis: []
+x-common:
+- type: x-website
+  url: http://www.e-paper-display.com
+- type: x-facebook
+  url: https://www.facebook.com/gooddisplay
+- type: x-linkedin
+  url: https://www.linkedin.com/in/boris-jen-6963657a
+- type: x-press
+  url: https://goodisplay.aliexpress.com/store/600281
+- type: x-twitter
+  url: https://twitter.com/GoodDisplayCN
+- type: x-website
+  url: https://www.good-display.com
+- type: x-youtube
+  url: https://www.youtube.com/user/dlgoodlcd/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

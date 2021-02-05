@@ -1,0 +1,33 @@
+---
+name: SoftAmbulance
+description: Download data recovery software from SoftAmbulance. Software we provide
+  is professional grade yet simple to use and backed up by high quality support. Free
+  to try.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4733505"
+url: https://raw.githubusercontent.com/api-network/organizations/main/softambulance.yaml
+tags:
+- Tools
+- Data Recovery Software Download
+apis: []
+x-common:
+- type: x-website
+  url: http://softambulance.com/
+- type: x-facebook
+  url: http://www.facebook.com/SoftAmbulance
+- type: x-twitter
+  url: https://twitter.com/SoftAmbulance
+- type: x-twitter
+  url: https://twitter.com/SoftAmbulance/
+- type: x-website
+  url: https://softambulance.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

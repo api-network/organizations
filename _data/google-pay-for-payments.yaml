@@ -1,0 +1,77 @@
+---
+name: Google Pay for Payments
+description: <p>Google Pay lets your customers pay with the press of a button &mdash;
+  using payment methods saved to their Google Account.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/google-pay.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1"
+url: https://raw.githubusercontent.com/api-network/organizations/main/google-pay-for-payments.yaml
+tags:
+- Payments
+- No API Definition
+- Has API
+apis: []
+x-common:
+- type: x-documentation
+  url: https://developers.google.com/pay/api/web/overview
+- type: x-tutorials
+  url: https://developers.google.com/pay/api/web/guides/tutorial
+- type: x-website
+  url: https://developers.google.com/pay/api/
+- type: x-code
+  url: https://www.tappaysdk.com/google-pay
+- type: x-developer
+  url: https://developers.google.com/pay/api/web
+- type: x-developer
+  url: https://developers.google.com/pay/api/android
+- type: x-developer
+  url: http://developers.payu.com/en/google_pay.html
+- type: x-developer
+  url: https://developers.google.com/
+- type: x-documentation
+  url: https://developers.bluesnap.com/docs/google-pay
+- type: x-documentation
+  url: https://docs.checkout.com/docs/google-pay
+- type: x-documentation
+  url: https://cdn.easypay.ua/docs/googlepay.pdf
+- type: x-documentation
+  url: https://docs.cloudpayments.io/docs/google-pay
+- type: x-documentation
+  url: https://docs.fondy.eu/docs/page/google-pay/
+- type: x-documentation
+  url: https://docs.mundipagg.com/docs/google-pay-tm
+- type: x-documentation
+  url: https://payler.com/docs/googlepay.html
+- type: x-documentation
+  url: https://docs.portmone.com.ua/docs/GPay/
+- type: x-documentation
+  url: https://docs.przelewy24.pl/Google_Pay
+- type: x-documentation
+  url: https://developer.rbk.money/docs/payments/googlepay/
+- type: x-documentation
+  url: https://docs.spreedly.com/guides/google-pay/
+- type: x-documentation
+  url: https://stripe.com/docs/google-pay
+- type: x-github
+  url: https://braspag.github.io/manual/google-pay
+- type: x-open-source
+  url: https://opencart.com/
+- type: x-support
+  url: https://www.payu.pl/en/help
+- type: x-support
+  url: https://support.cardconnect.com/google-pay
+- type: x-terms-of-service
+  url: https://payments.developers.google.com/terms/aup
+- type: x-terms-of-service
+  url: https://payments.developers.google.com/terms/sellertos
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=rP_UAPcIG4I
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,86 @@
+---
+name: TRUSTe
+description: <p>TRUSTe is the leading global Data Privacy Management (DPM) company
+  and powers privacy compliance and trust by enabling businesses to safely collect
+  and use customer data across their customer, employee, and vendor channels. Our
+  team of 150+ professionals is dedicated to solving emerging privacy challenges and
+  provides a unique combination of privacy expertise, methodology, and technology.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/truste-logo-square_9df7f469-7d21-42d3-a904-fe5c942baf4b_400x400.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "60240"
+url: https://raw.githubusercontent.com/api-network/organizations/main/truste.yaml
+tags:
+- Privacy Seal Programs
+- Privacy
+- Has API
+apis: []
+x-common:
+- type: x-website
+  url: http://trustarc.com
+- type: x-about
+  url: https://www.trustarc.com/about/
+- type: x-blog
+  url: http://www.truste.com/blog/
+- type: x-blog
+  url: https://www.trustarc.com/blog/
+- type: x-blog-rss
+  url: http://www.truste.com/blog/feed/
+- type: x-careers
+  url: https://www.trustarc.com/careers/
+- type: x-contact
+  url: https://www.trustarc.com/about/contact/
+- type: x-contact
+  url: https://www.trustarc.com/ccpa-rfp-contact/
+- type: x-contact
+  url: https://www.trustarc.com/gdpr-rfp-contact/
+- type: x-events
+  url: https://www.trustarc.com/events/workshops-schedule/
+- type: x-gdpr
+  url: https://www.trustarc.com/products/gdpr-compliance/
+- type: x-gdpr
+  url: https://www.trustarc.com/products/gdpr-implementation/
+- type: x-gdpr
+  url: https://www.trustarc.com/resources/gdpr/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/21121
+- type: x-press
+  url: https://www.trustarc.com/press/
+- type: x-privacy
+  url: https://www.trustarc.com/products/privacy-consulting/
+- type: x-privacy
+  url: https://www.trustarc.com/products/privacy-training/
+- type: x-privacy
+  url: https://www.trustarc.com/products/privacy-assessments/
+- type: x-privacy
+  url: https://www.trustarc.com/products/privacy-management/
+- type: x-privacy
+  url: https://www.trustarc.com/privacy-insight-series/
+- type: x-privacy
+  url: https://www.trustarc.com/resources/privacy-datasheets/
+- type: x-privacy
+  url: https://www.trustarc.com/resources/privacy-research/
+- type: x-privacy
+  url: https://www.trustarc.com/resources/privacy-videos/
+- type: x-privacy
+  url: https://www.trustarc.com/privacy-intelligence/
+- type: x-twitter
+  url: https://twitter.com/TRUSTe
+- type: x-twitter
+  url: https://twitter.com/trustarc
+- type: x-webinars
+  url: https://www.trustarc.com/events/webinar-schedule/
+- type: x-website
+  url: https://www.truste.com
+- type: x-website
+  url: https://www.truste.com/
+- type: x-youtube
+  url: https://www.youtube.com/c/TrustArc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

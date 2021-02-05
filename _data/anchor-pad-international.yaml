@@ -1,0 +1,41 @@
+---
+name: Anchor Pad International
+description: AnchorPad's Theft Resistant Products are the most versatile, attractive
+  and easy to install and remove, and they cause no damage to furniture work surfaces
+  when removed by an authorized user.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6537586"
+url: https://raw.githubusercontent.com/api-network/organizations/main/anchor-pad-international.yaml
+tags:
+- Varien
+- Tracking, Prevention And Recovery
+- Magento
+- E-commerce
+apis: []
+x-common:
+- type: x-about
+  url: https://anchorpad.com/about-us/?___store=default
+- type: x-contact
+  url: https://anchorpad.com/contacts/
+- type: x-login
+  url: https://anchorpad.com/customer/account/login/
+- type: x-privacy
+  url: https://anchorpad.com/privacy-policy/?___store=default
+- type: x-security
+  url: https://anchorpad.com/laptop-security.html
+- type: x-security
+  url: https://anchorpad.com/computer-security-cable.html
+- type: x-security
+  url: https://anchorpad.com/laptop-security-stand.html
+- type: x-website
+  url: https://www.anchorpad.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,58 @@
+---
+name: Comark
+description: Welcome to comark, where you can get your industrial computer and display
+  solutions taken care of from trained professionals.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1047676"
+url: https://raw.githubusercontent.com/api-network/organizations/main/comark.yaml
+tags:
+- Industrial Computer And Display Solutions
+- Industrial
+apis: []
+x-common:
+- type: x-website
+  url: http://www.comarkcorp.com
+- type: x-about
+  url: http://comarkcorp.com/company/#about-comark
+- type: x-careers
+  url: http://comarkcorp.com/company/#careers
+- type: x-contact
+  url: https://comarkcorp.com/contact/
+- type: x-events
+  url: https://comarkcorp.com/category/events/
+- type: x-facebook
+  url: http://www.facebook.com/comarkcorp
+- type: x-linkedin
+  url: https://www.linkedin.com/company/comark
+- type: x-news
+  url: https://comarkcorp.com/category/product-news/
+- type: x-news
+  url: https://comarkcorp.com/news/
+- type: x-support
+  url: http://comarkcorp.com/support/#drivers-and-downloads
+- type: x-support
+  url: http://comarkcorp.com/support/#custom-engineering
+- type: x-support
+  url: http://comarkcorp.com/support/#warranty
+- type: x-support
+  url: https://comarkcorp.com/support/#Mobility
+- type: x-support
+  url: http://comarkcorp.com/support/#faq
+- type: x-terms-of-service
+  url: https://comarkcorp.com/terms-conditions/
+- type: x-twitter
+  url: https://twitter.com/ComarkCorp
+- type: x-website
+  url: https://www.comarkcorp.com
+- type: x-youtube
+  url: https://www.youtube.com/user/comarkcorp?feature=mhum
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

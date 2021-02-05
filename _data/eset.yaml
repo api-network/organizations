@@ -1,0 +1,43 @@
+---
+name: ESET
+description: "ESET\xAE protects more than 110 million users worldwide. Trusted by
+  businesses & individuals across the globe. Give ESET\xAE a try today!"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1866"
+url: https://raw.githubusercontent.com/api-network/organizations/main/eset.yaml
+tags:
+- Detection And Removal Tools
+apis: []
+x-common:
+- type: x-website
+  url: http://www.eset.com
+- type: x-facebook
+  url: https://www.facebook.com/usaeset
+- type: x-forum
+  url: http://forum.eset.com
+- type: x-instagram
+  url: https://www.instagram.com/eset
+- type: x-linkedin
+  url: https://www.linkedin.com/company/esetnorthamerica
+- type: x-support
+  url: https://support.eset.com/?segment=home&locale=en_EN
+- type: x-support
+  url: https://support.eset.com/?segment=home
+- type: x-support
+  url: https://support.eset.com/?segment=business
+- type: x-twitter
+  url: https://twitter.com/eset
+- type: x-website
+  url: https://www.eset.com
+- type: x-youtube
+  url: https://www.youtube.com/user/esetusa
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

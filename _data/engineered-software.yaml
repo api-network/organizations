@@ -1,0 +1,32 @@
+---
+name: Engineered Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1431271"
+url: https://raw.githubusercontent.com/api-network/organizations/main/engineered-software.yaml
+tags:
+- CAD
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.engsw.com/contact/
+- type: x-support
+  url: https://www.engsw.com/support/
+- type: x-support
+  url: https://www.engsw.com/support/faq/
+- type: x-support
+  url: https://www.engsw.com/support/hints-tips/
+- type: x-support
+  url: https://www.engsw.com/support/bullpen/
+- type: x-website
+  url: https://www.engsw.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

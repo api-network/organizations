@@ -1,0 +1,36 @@
+---
+name: Textures.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "14257"
+url: https://raw.githubusercontent.com/api-network/organizations/main/textures-com.yaml
+tags:
+- Textures
+apis: []
+x-common:
+- type: x-about
+  url: https://www.textures.com/about
+- type: x-blog
+  url: https://blog.textures.com
+- type: x-contact
+  url: https://www.textures.com/contact
+- type: x-facebook
+  url: https://www.facebook.com/texturescom
+- type: x-privacy
+  url: https://www.textures.com/privacy.html
+- type: x-support
+  url: https://www.textures.com/support.html
+- type: x-terms-of-service
+  url: https://www.textures.com/terms-of-use.html
+- type: x-website
+  url: https://www.textures.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,104 @@
+---
+name: Facebook
+description: Facebook, Inc. is an American online social media and social networking
+  service company based in Menlo Park, California.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "711"
+x-alexaRank: "4"
+url: https://raw.githubusercontent.com/api-network/organizations/main/facebook.yaml
+tags:
+- Relative Data
+- Payments
+- My API Stack
+- Issues Example
+- Historical Data API
+- Have Swagger
+- Have OpenAPI
+- Have API Paths
+- Have API
+- General Data
+- Facebook
+- API Provider
+apis: []
+x-common:
+- type: x-android-sdk
+  url: https://developers.facebook.com/docs/android/share
+- type: x-apigee-console
+  url: https://api.apigee.com/v1/consoles/facebook/apidescription?format=internal&ver=1386216190000
+- type: x-application-gallery
+  url: https://developers.facebook.com/docs/showcase/
+- type: x-base
+  url: https://graph.facebook.com
+- type: x-best-practices
+  url: https://developers.facebook.com/docs/sharing/best-practices
+- type: x-blog
+  url: http://blog.facebook.com
+- type: x-blog-rss
+  url: https://www.facebook.com/business/news/rss/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/facebook
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/facebook
+- type: x-developer
+  url: http://developer.facebook.com
+- type: x-developers
+  url: https://developers.facebook.com/
+- type: x-facebook
+  url: https://www.facebook.com/coupasoftware
+- type: x-facebook
+  url: https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.google.com%2Fchrome%2Fbrowser%2F&h=AT05cgD-msFJR7QbXCjUfEWBbme9r8a8OHr1V0kjcNEtAJQ-ptEXHq2l2Z5GrHV2m5hrip9HLH29xrjwSJrWeNu5m3DV6p2wGO-BxmLvgnLD6ToOsWeieiaoPNWTl8pbZktrx4Gm8IHqX_FR
+- type: x-facebook
+  url: https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.mozilla.org%2Ffirefox%2Fnew%2F%3Futm_source%3Dfacebook%26utm_medium%3Dreferral%26utm_campaign%3Dunsupported-browser-notification&h=AT3tRFpCj7_Ai6_S0BFQenBBhXZbphjvb2HuxotZwVDrC5mwYdUtJturzhEK0C_-pjs-Vi0lHAanj2l1HKqSxf3qp3D2-1vM78TIFQzfL72ZEWs3BnNmxy3AeXXugysNIHUSygw1aRT9qHru
+- type: x-forums
+  url: https://www.facebook.com/groups/fbdevelopers
+- type: x-github
+  url: https://github.com/facebook
+- type: x-ios-sdk
+  url: https://developers.facebook.com/docs/ios/share
+- type: x-issues
+  url: https://developers.facebook.com/status/issues/
+- type: x-javascript-library
+  url: https://developers.facebook.com/docs/reference/javascript/
+- type: x-partners
+  url: https://facebookmarketingpartners.com/
+- type: x-php-sdk
+  url: https://developers.facebook.com/docs/reference/php/
+- type: x-plugins
+  url: https://developers.facebook.com/docs/plugins/
+- type: x-privacy
+  url: https://www.facebook.com/settings?tab=privacy
+- type: x-road-map
+  url: https://developers.facebook.com/docs/apps/migrations
+- type: x-status
+  url: https://developers.facebook.com/status/
+- type: x-terms-of-service
+  url: https://www.facebook.com/terms
+- type: x-terms-of-service
+  url: https://developers.facebook.com/policy
+- type: x-transparency-report
+  url: https://www.facebook.com/about/government_requests
+- type: x-twitter
+  url: https://twitter.com/facebook
+- type: x-webhooks
+  url: https://developers.facebook.com/docs/messenger-platform/webhook/
+- type: x-website
+  url: https://www.facebook.com
+- type: x-website
+  url: https://developers.facebook.com
+- type: x-website
+  url: https://blog.facebook.com
+- type: x-website
+  url: http:///business
+- type: x-website
+  url: http://facebook.com
+- type: x-website
+  url: https://facebook.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

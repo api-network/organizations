@@ -1,0 +1,78 @@
+---
+name: QuickBlox
+description: QuickBlox is backend communication platform providing messenger API and
+  SDK for websites and apps. Try our live chat APIs and video chat APIs in your iOS,
+  Android, and Web solutions.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/quickblox-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "114209"
+url: https://raw.githubusercontent.com/api-network/organizations/main/quickblox.yaml
+tags:
+- Profile
+- Networks
+- Have API
+- Chats
+- API United Kingdom
+apis: []
+x-common:
+- type: x-website
+  url: https://quickblox.com/
+- type: x-about
+  url: https://quickblox.com/about/
+- type: x-blog
+  url: https://quickblox.com/blog/
+- type: x-blog
+  url: http://quickblox.com/blog/
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/QuickbloxBlog
+- type: x-contact
+  url: https://quickblox.com/contact/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/quickblox
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/quickblox
+- type: x-documentation
+  url: https://docs.quickblox.com/docs/react-native-quick-start
+- type: x-documentation
+  url: https://docs.quickblox.com/docs/flutter-quick-start
+- type: x-email
+  url: enterprise@quickblox.com
+- type: x-email
+  url: assist@quickblox.com
+- type: x-email
+  url: contact@QuickBlox.com
+- type: x-facebook
+  url: https://www.facebook.com/quickblox
+- type: x-github
+  url: https://github.com/QuickBlox
+- type: x-linkedin
+  url: https://www.linkedin.com/company/quickblox/
+- type: x-marketplace
+  url: https://quickblox.com/solutions/marketplaces-ecommerce/
+- type: x-plans
+  url: https://quickblox.com/plans/
+- type: x-press
+  url: https://quickblox.com/press/
+- type: x-privacy
+  url: https://quickblox.com/privacy/
+- type: x-self-service-registration
+  url: https://admin.quickblox.com/register/
+- type: x-signup
+  url: https://admin.quickblox.com/signup
+- type: x-status
+  url: http://status.quickblox.com/
+- type: x-terms
+  url: https://quickblox.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/QuickBlox
+- type: x-website
+  url: http://quickblox.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

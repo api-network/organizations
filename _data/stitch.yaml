@@ -1,0 +1,40 @@
+---
+name: Stitch
+description: <p>Stitch evolved out of RJMetrics, a widely used business intelligence
+  platform. Data consolidation was always central to the RJMetrics product, and the
+  team repeatedly heard requests from customers looking for ETL as a standalone service.
+  We listened.&nbsp;</p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/stitch.yaml
+tags:
+- IPaaS
+- Integrations
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.stitchdata.com/
+- type: x-blog-rss
+  url: https://blog.stitchdata.com/feed
+- type: x-github
+  url: https://github.com/stitchdata
+- type: x-integrations
+  url: https://www.stitchdata.com/integrations/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/stitch-data
+- type: x-pricing
+  url: https://www.stitchdata.com/pricing/
+- type: x-twitter
+  url: https://twitter.com/stitch_data
+- type: x-website
+  url: https://www.stitchdata.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

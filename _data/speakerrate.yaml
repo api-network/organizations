@@ -1,0 +1,39 @@
+---
+name: SpeakerRate
+description: SpeakerRate is a site built to find speakers, provide constructive feedback
+  for talks, and research upcoming events.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/937_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1085453"
+url: https://raw.githubusercontent.com/api-network/organizations/main/speakerrate.yaml
+tags:
+- Polls
+- Marketplaces
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://speakerrate.com/
+- type: x-website
+  url: http://speakerrate.com
+- type: x-blog
+  url: http://blog.speakerrate.com
+- type: x-blog-rss
+  url: http://blog.speakerrate.com/rss
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/speakerrate
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/speakerrate
+- type: x-login
+  url: https://speakerrate.com/login
+- type: x-twitter
+  url: https://twitter.com/speakerrate
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

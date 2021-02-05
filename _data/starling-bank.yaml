@@ -1,0 +1,37 @@
+---
+name: Starling Bank
+description: Apply for and open a current account all within the app. Our mobile app
+  has been built to help you manage your money better - detailed spending insights,
+  24/7 customer support, and more control over your account security.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28146-developer-starlingbank-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "205149"
+url: https://raw.githubusercontent.com/api-network/organizations/main/starling-bank.yaml
+tags:
+- UK Banks
+- Banking
+apis: []
+x-common:
+- type: x-website
+  url: http://www.starlingbank.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/starling-3
+- type: x-documentation
+  url: https://developer.starlingbank.com/docs
+- type: x-getting-started
+  url: https://developer.starlingbank.com/get-started
+- type: x-partners
+  url: https://developer.starlingbank.com/partner
+- type: x-twitter
+  url: https://twitter.com/StarlingBank
+- type: x-website
+  url: https://developer.starlingbank.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

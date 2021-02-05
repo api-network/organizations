@@ -1,0 +1,87 @@
+---
+name: Wireless Review
+description: A free library of IT white papers, webcasts and product information to
+  help with your IT purchase decisions.  Research the latest tools, technologies and
+  techniques and compare offerings from thousands to technology companies.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "143260"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wireless-review.yaml
+tags:
+- Wireless Security
+- Wireless Lan
+- Wireless Internet
+- Wifi
+- Wi-Fi
+- WHITEPAPERS
+- White Papers
+- Webinars
+- Webcasts
+- Web Software
+- Web Application Development
+- Vulnerability
+- VPN
+- VOIP
+- Voice Over IP
+- Telephony
+- Supply Chain
+- Storage Area Network
+- Storage
+- Software Development Tools
+- Software Development
+- Software Architecture
+- Software
+- San
+- Resources
+- Programming Languages
+- PDA Software
+- Office Productivity Software
+- Network Security
+- Network Management
+- NAS
+- Middleware
+- Management Software
+- Intrusion Detection
+- HR Software
+- Hardware
+- Groupware
+- ERP
+- EBusiness
+- Diagnostic Software
+- DBMS
+- Datamart
+- Databases
+- Data Warehouse
+- Data Recovery
+- Data Network
+- Data Mining
+- CRM
+- Converged Networks
+- Communications Software
+- Communications Hardware
+- Cable
+- Business Intelligence
+- Blade Servers
+- Authentication
+- "802.11"
+apis: []
+x-common:
+- type: x-about
+  url: https://www.techtarget.com/about-us/
+- type: x-contact
+  url: https://www.techtarget.com/contact-us/
+- type: x-events
+  url: https://www.techtarget.com/events/
+- type: x-privacy
+  url: https://www.techtarget.com/privacy-policy/
+- type: x-website
+  url: https://wirelessreview.bitpipe.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

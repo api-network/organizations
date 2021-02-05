@@ -1,0 +1,22 @@
+---
+name: BAE SYSTEMS
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "87779"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bae-systems.yaml
+tags:
+- Industrial And Financial Systems-IFS
+apis: []
+x-common:
+- type: x-website
+  url: https://www.baesystems.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

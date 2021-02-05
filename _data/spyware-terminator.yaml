@@ -1,0 +1,47 @@
+---
+name: Spyware Terminator
+description: Download Spyware Terminator 2015, a free spyware removal and spyware
+  protection program with integrated antivirus. Remove spyware, adware, viruses, trojans,
+  keyloggers, home page hijackers and malware threats.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "410681"
+url: https://raw.githubusercontent.com/api-network/organizations/main/spyware-terminator.yaml
+tags:
+- Virus
+- Spyware Terminator 2015
+- Spyware
+- Remove
+- Removal
+- Protection
+- Program
+- Free
+- Detection And Removal Tools
+- Antivirus
+- Antispyware
+- Anti-spyware
+apis: []
+x-common:
+- type: x-news
+  url: https://www.spywareterminator.com/news/news.aspx
+- type: x-partner
+  url: https://www.spywareterminator.com/addpartner.aspx
+- type: x-privacy
+  url: https://www.spywareterminator.com/Legal/privacy.aspx
+- type: x-support
+  url: https://www.spywareterminator.com/support/help.aspx
+- type: x-terms-of-service
+  url: https://www.spywareterminator.com/Legal/terms.aspx
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-website
+  url: https://www.spywareterminator.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

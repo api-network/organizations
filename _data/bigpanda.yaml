@@ -1,0 +1,30 @@
+---
+name: BigPanda
+description: "Your organization is counting on your IT Ops, NOC and DevOps teams to
+  delight customers 24\xD77 without incidents or outages. But overwhelming IT noise,
+  thousands of changes and ever-shifting topologies mean that your teams are constantly
+  fighting fires. There is tremendous risk to your business from headline-grabbing
+  outages and vocal, unhappy users, not to mention the risk to your digital transformation
+  initiatives."
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bigpanda.yaml
+tags:
+- Profile
+- Notifications
+- Integration Landscape
+- Alerts
+apis: []
+x-common:
+- type: x-website
+  url: http://www.bigpanda.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

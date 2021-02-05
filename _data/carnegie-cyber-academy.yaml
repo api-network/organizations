@@ -1,0 +1,22 @@
+---
+name: Carnegie Cyber Academy
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1852122"
+url: https://raw.githubusercontent.com/api-network/organizations/main/carnegie-cyber-academy.yaml
+tags:
+- Child Safety
+apis: []
+x-common:
+- type: x-website
+  url: https://www.carnegiecyberacademy.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

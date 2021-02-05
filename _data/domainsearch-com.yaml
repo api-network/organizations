@@ -1,0 +1,33 @@
+---
+name: DomainSearch.com
+description: The original domain search tool allows you to quickly search com/net/org
+  and country domains all at once in real time. Find available domain names to register
+  or view WHOIS iformation for registered domains.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "451639"
+url: https://raw.githubusercontent.com/api-network/organizations/main/domainsearch-com.yaml
+tags:
+- Whois Search
+- Whois
+- Name Search
+- Free Domain Search
+- Domin Search
+- Domian Search
+- Domainsearch
+- Domain Serach
+- Domain Search Tool
+- Domain Search
+apis: []
+x-common:
+- type: x-website
+  url: https://www.domainsearch.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

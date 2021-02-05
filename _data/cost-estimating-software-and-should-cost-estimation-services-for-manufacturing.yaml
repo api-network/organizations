@@ -1,0 +1,30 @@
+---
+name: Cost Estimating Software and Should Cost Estimation Services for Manufacturing
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2123587"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cost-estimating-software-and-should-cost-estimation-services-for-manufacturing.yaml
+tags:
+- Discrete
+apis: []
+x-common:
+- type: x-website
+  url: http://www.mtisystems.com
+- type: x-facebook
+  url: http://www.facebook.com/Costimator
+- type: x-twitter
+  url: http://twitter.com/costimator
+- type: x-website
+  url: https://www.mtisystems.com
+- type: x-youtube
+  url: http://www.youtube.com/user/MTISystems?feature=mhee
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

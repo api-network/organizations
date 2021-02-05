@@ -1,0 +1,26 @@
+---
+name: hometoys.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hometoys-com.yaml
+tags:
+- Vendors
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.hometoys.com/news/2015/02/26/neurio-launches-to-make-the-whole-home-smart-with-only-one-sensor/20007103
+- type: x-website
+  url: http://hometoys.com
+- type: x-website
+  url: https://www.hometoys.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,38 @@
+---
+name: POS Profits
+description: POS Profits is your Aldelo POS Point of Sale Solutions Provider for Aldelo
+  Point of sale
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10125845"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pos-profits.yaml
+tags:
+- Point Of Sale
+- Aldelo Tech Support Aldelo For Restaurants
+- Aldelo Support
+- Aldelo Pos
+- Aldelo Edc
+- Aldelo
+apis: []
+x-common:
+- type: x-about
+  url: http://posprofits.com/about-us/
+- type: x-code
+  url: http://posprofits.com/barcode-scanning/
+- type: x-code
+  url: http://posprofits.com/zebra-ds3678-barcode-scanner/
+- type: x-code
+  url: http://posprofits.com/zebra-ls2208-barcode-scanner/
+- type: x-contact
+  url: http://posprofits.com/contact-us/
+- type: x-website
+  url: https://www.posprofits.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

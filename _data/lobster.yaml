@@ -1,0 +1,46 @@
+---
+name: Lobster
+description: <p>Lobster is a marketplace to find and license photos on social media.
+  We connect media professionals to users on Instagram, Flickr and more.We are building
+  the world&rsquo;s honest place to find and source affordable social media content.
+  In real time from anywhere in the world. A rewarding experience for everyone, with
+  75% of earnings going to a contributor on Instagram, Flickr, Deviantart as well
+  as many more services in the near future.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/lobster-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4087504"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lobster.yaml
+tags:
+- Profile
+- Have API
+- Content
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://lobster.media
+- type: x-blog
+  url: https://blog.lobster.media
+- type: x-developers
+  url: http://api.lobster.media/
+- type: x-facebook
+  url: https://www.facebook.com/ilobster.it/
+- type: x-facebook
+  url: https://www.facebook.com/ilobster.it
+- type: x-instagram
+  url: https://www.instagram.com/ilobsterit/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/lobster
+- type: x-twitter
+  url: https://twitter.com/Lobster_it
+- type: x-website
+  url: https://lobster.media
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

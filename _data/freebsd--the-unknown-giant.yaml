@@ -1,0 +1,98 @@
+---
+name: FreeBSD - The Unknown Giant
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1088411"
+url: https://raw.githubusercontent.com/api-network/organizations/main/freebsd--the-unknown-giant.yaml
+tags:
+- FreeBSD
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.freebsdnews.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/FreeBSDNews/
+- type: x-feed
+  url: http://feeds.feedburner.com/FreeBSDNewscom
+- type: x-news
+  url: https://www.freebsdnews.com/
+- type: x-news
+  url: https://www.freebsdnews.com
+- type: x-news
+  url: https://www.freebsdnews.com/submit/
+- type: x-news
+  url: https://www.freebsdnews.com/about/
+- type: x-news
+  url: https://www.freebsdnews.com/author/cao/
+- type: x-news
+  url: https://www.freebsdnews.com/category/freebsd/tutorial/
+- type: x-news
+  url: https://www.freebsdnews.com/category/freebsd/
+- type: x-news
+  url: https://www.freebsdnews.com/category/hardware/
+- type: x-news
+  url: https://www.freebsdnews.com/page/2/?et_blog
+- type: x-news
+  url: https://www.freebsdnews.com/page/3/?et_blog
+- type: x-news
+  url: https://www.freebsdnews.com/page/4/?et_blog
+- type: x-news
+  url: https://www.freebsdnews.com/page/5/?et_blog
+- type: x-news
+  url: https://www.freebsdnews.com/page/10/?et_blog
+- type: x-news
+  url: https://www.freebsdnews.com/page/20/?et_blog
+- type: x-news
+  url: https://www.freebsdnews.com/page/30/?et_blog
+- type: x-news
+  url: https://www.freebsdnews.com/page/159/?et_blog
+- type: x-news
+  url: https://www.freebsdnews.com/category/hardware/amd/
+- type: x-news
+  url: https://www.freebsdnews.com/category/archbsd/
+- type: x-news
+  url: https://www.freebsdnews.com/category/hardware/arm/
+- type: x-news
+  url: https://www.freebsdnews.com/category/freebsd/bafug/
+- type: x-news
+  url: https://www.freebsdnews.com/category/freebsd/bhyve/
+- type: x-news
+  url: https://www.freebsdnews.com/category/freebsd/bsdtalk/
+- type: x-news
+  url: https://www.freebsdnews.com/category/freenas-corral/
+- type: x-news
+  url: https://www.freebsdnews.com/category/hardware/intel/
+- type: x-news
+  url: https://www.freebsdnews.com/category/jabirbsd/
+- type: x-news
+  url: https://www.freebsdnews.com/category/miscellaneous/
+- type: x-news
+  url: https://www.freebsdnews.com/category/freebsd/nuttx/
+- type: x-news
+  url: https://www.freebsdnews.com/category/hardware/nvidia/
+- type: x-news
+  url: https://www.freebsdnews.com/category/freebsd/print/
+- type: x-news
+  url: https://www.freebsdnews.com/category/hardware/router/
+- type: x-news
+  url: https://www.freebsdnews.com/category/freebsd/software/
+- type: x-news
+  url: https://www.freebsdnews.com/category/software-2/
+- type: x-news
+  url: https://www.freebsdnews.com/category/vmware/
+- type: x-news
+  url: https://www.freebsdnews.com/category/freebsd/x-vs-y/
+- type: x-news
+  url: https://www.freebsdnews.com/category/hardware/zfs/
+- type: x-website
+  url: https://www.freebsdnews.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

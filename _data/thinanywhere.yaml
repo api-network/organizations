@@ -1,0 +1,85 @@
+---
+name: ThinAnywhere
+description: ThinAnywhere enables remote access to 3D OpenGL applications under Linux
+  and Windows while leveraging the power of the server-side GPU for rendering.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4748304"
+url: https://raw.githubusercontent.com/api-network/organizations/main/thinanywhere.yaml
+tags:
+- Xwindows
+- X Windows
+- Web Enable
+- VirtualGL
+- Virtual Desktop Delivery 3D
+- True Color
+- Thinanywhere
+- Thin Clients
+- Thin Client OpenGL
+- Thin Client 3D
+- Terminal Emulators
+- Supercomputing
+- Remote Workstation
+- Remote Visualization
+- Remote OpenGL
+- Remote 3D
+- RDSH
+- RDPSH
+- PC X Server
+- Opengl RDSH
+- Opengl RDPSH
+- OpenGL
+- Open Gl Workstation
+- Nice
+- Network Computers
+- Multiple Monitor Support
+- Multiple GPU Support
+- Linux Remote Access
+- Linux Enterprise
+- Linux Cloud
+- Linux 3d Collaboration
+- Hpc
+- HP RGS Alternative
+- HP RGS
+- Hp Remote Graphics Software
+- High Performance Computing
+- Exceed OpenText
+- Exceed OnDemand
+- Exceed
+- Cluster Rendering Of 3D
+- Cluster Computing
+- Cloud Portal
+- 3D Xen
+- 3D Terminal Services
+- 3D Software For Remote Desktop
+- 3D Software As A Service
+- 3D Remote Desktop
+- 3D Rdsh
+- 3d Rdpsh
+- 3D RDP Solutions
+- 3D RDP
+- 3D In The Cloud
+- 3D Data Center
+- 3D Collaboration
+- 3D Cloud Computing
+- 3D Cloud
+- 3D Cae
+- 3d Cad
+- 3D Application Management
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.thinanywhere.com/contact-us/
+- type: x-support
+  url: https://www.thinanywhere.com/support/
+- type: x-website
+  url: https://www.thinanywhere.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

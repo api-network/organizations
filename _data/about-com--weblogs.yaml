@@ -1,0 +1,93 @@
+---
+name: About.com - Weblogs
+description: If you've got things to say, it's your time to start a website or blog.
+  Thanks to modern tools, it's easier than ever to make your mark on the world.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6952"
+url: https://raw.githubusercontent.com/api-network/organizations/main/about-com--weblogs.yaml
+tags:
+- Resources
+apis: []
+x-common:
+- type: x-about
+  url: https://www.lifewire.com/about-us
+- type: x-about
+  url: https://www.lifewire.com/about-us#EditorialGuidelines
+- type: x-about
+  url: https://www.lifewire.com/about-us#ContactUs
+- type: x-blog
+  url: https://www.lifewire.com/blogging-websites-4102605
+- type: x-blog
+  url: https://www.lifewire.com/find-blogs-on-the-web-3971954
+- type: x-blog
+  url: https://www.lifewire.com/video-on-your-blog-1082275
+- type: x-blog
+  url: https://www.lifewire.com/develop-team-blog-3476734
+- type: x-blog
+  url: https://www.lifewire.com/write-blog-in-5-steps-3476854
+- type: x-blog
+  url: https://www.lifewire.com/create-blog-home-page-3476562
+- type: x-blog
+  url: https://www.lifewire.com/free-blog-promotion-3476464
+- type: x-blog
+  url: https://www.lifewire.com/what-is-a-blog-3476707
+- type: x-blog
+  url: https://www.lifewire.com/start-blog-on-blogger-1616408
+- type: x-blog
+  url: https://www.lifewire.com/overview-blog-post-3476563
+- type: x-blog
+  url: https://www.lifewire.com/what-is-blogroll-3476580
+- type: x-blog
+  url: https://www.lifewire.com/top-blogging-rules-3476268
+- type: x-blog
+  url: https://www.lifewire.com/how-to-delete-a-blog-1616406
+- type: x-blog
+  url: https://www.lifewire.com/add-widget-to-blogger-3486219
+- type: x-blog
+  url: https://www.lifewire.com/video-blog-websites-1082183
+- type: x-blog
+  url: https://www.lifewire.com/free-blogging-tools-3476332
+- type: x-blog
+  url: https://www.lifewire.com/sell-blog-for-money-3476535
+- type: x-blog
+  url: https://www.lifewire.com/ideas-for-blog-posts-3476726
+- type: x-blog
+  url: https://www.lifewire.com/what-is-blog-host-3476271
+- type: x-blog
+  url: https://www.lifewire.com/what-is-blog-widget-3476276
+- type: x-blog
+  url: https://www.lifewire.com/job-board-for-blog-3476541
+- type: x-blog
+  url: https://www.lifewire.com/offline-blog-editors-3476559
+- type: x-blog
+  url: https://www.lifewire.com/how-to-find-blogs-3476351
+- type: x-blog
+  url: https://www.lifewire.com/blog-design-cost-3476207
+- type: x-blog
+  url: https://www.lifewire.com/what-is-blog-sidebar-3476579
+- type: x-careers
+  url: https://www.dotdash.com/careers/
+- type: x-facebook
+  url: http://www.facebook.com/lifewire
+- type: x-privacy
+  url: https://www.lifewire.com/safety-privacy-4102606
+- type: x-support
+  url: https://www.lifewire.com/getting-more-help-4102762
+- type: x-terms-of-service
+  url: https://www.lifewire.com/legal#privacy
+- type: x-terms-of-service
+  url: https://www.lifewire.com/legal#cookies-disclosure
+- type: x-terms-of-service
+  url: https://www.lifewire.com/legal#terms
+- type: x-website
+  url: https://weblogs.about.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

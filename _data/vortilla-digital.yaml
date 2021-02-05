@@ -1,0 +1,36 @@
+---
+name: Vortilla Digital
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/vortilla-digital.yaml
+tags:
+- Software
+apis: []
+x-common:
+- type: x-about
+  url: https://opcentral.com.au/about-us/
+- type: x-blog
+  url: http://au.opcentral.com.au/blog
+- type: x-contact
+  url: https://opcentral.com.au/contact-us/
+- type: x-integrations
+  url: https://opcentral.com.au/integrations/
+- type: x-pricing
+  url: https://opcentral.com.au/pricing/
+- type: x-privacy
+  url: https://opcentral.com.au/privacy-policy/
+- type: x-support
+  url: https://op-central.groovehq.com/help
+- type: x-website
+  url: https://www.vortilla.com.au
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

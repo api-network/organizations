@@ -1,0 +1,32 @@
+---
+name: AlternativeTo
+description: AlternativeTo lets you find apps and software for Windows, Mac, Linux,
+  iPhone, iPad, Android, Android Tablets, Web Apps, Online, Windows Tablets and more
+  by recommending alternatives to apps you already know.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4056"
+url: https://raw.githubusercontent.com/api-network/organizations/main/alternativeto.yaml
+tags:
+- Specialized
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.alternativeto.net
+- type: x-facebook
+  url: https://www.facebook.com/AlternativeTo
+- type: x-signup
+  url: https://alternativeto.net/account/signup
+- type: x-twitter
+  url: https://twitter.com/alternativeto
+- type: x-website
+  url: https://alternativeto.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

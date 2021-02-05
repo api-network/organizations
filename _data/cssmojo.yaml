@@ -1,0 +1,33 @@
+---
+name: cssmojo
+description: A blog about HTML, CSS, JavaScript, Web Standards, and Accessibility.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "11268304"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cssmojo.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.crocodilesbag.com
+- type: x-about
+  url: https://cssmojo.com/about-me
+- type: x-code
+  url: https://www.cssmojo.com/how_to_style_a_code_listing/
+- type: x-github
+  url: http://github.com/thierryk
+- type: x-linkedin
+  url: http://www.linkedin.com/profile/view?id=6501257
+- type: x-twitter
+  url: https://twitter.com/thierrykoblentz
+- type: x-website
+  url: https://www.cssmojo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

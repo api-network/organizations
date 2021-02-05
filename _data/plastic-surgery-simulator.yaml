@@ -1,0 +1,36 @@
+---
+name: Plastic surgery simulator
+description: The official Plastic Surgery Simulator is a simple but powerful application
+  that will let you modify photos to simulate plastic surgery results on anyone's
+  face and body.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3044977"
+url: https://raw.githubusercontent.com/api-network/organizations/main/plastic-surgery-simulator.yaml
+tags:
+- Virtual Plastic Surgery
+- Rhinoplasty Simulation
+- Plastic Surgery Simulator
+- Editing
+- Breast Augmentation
+apis: []
+x-common:
+- type: x-about
+  url: https://www.plastic-surgery-simulator.com/en/about/
+- type: x-privacy
+  url: https://www.plastic-surgery-simulator.com/en/privacy/
+- type: x-support
+  url: https://www.plastic-surgery-simulator.com/en/ios/help/
+- type: x-support
+  url: https://www.plastic-surgery-simulator.com/en/support/
+- type: x-website
+  url: https://www.plastic-surgery-simulator.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

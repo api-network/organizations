@@ -1,0 +1,24 @@
+---
+name: MathWeb Search
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7448033"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mathweb-search.yaml
+tags:
+- OpenMath
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/KWARC/mws
+- type: x-website
+  url: https://search.mathweb.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

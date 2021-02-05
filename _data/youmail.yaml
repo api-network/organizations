@@ -1,0 +1,70 @@
+---
+name: YouMail
+description: YouMail visual voicemail for your iPhone or Android device. Get better
+  caller ID, call blocking, voicemail-to-text, voicemail by email and more!
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1225_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "31979"
+url: https://raw.githubusercontent.com/api-network/organizations/main/youmail.yaml
+tags:
+- Twitter
+- Telecommunications
+- Telecommunications
+- Networks
+- Messages
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: https://www.youmail.com
+- type: x-website
+  url: http://www.youmail.com
+- type: x-about
+  url: https://www.youmail.com/home/corp/about
+- type: x-blog
+  url: http://www.youmail.com/home/corp/blogs.do
+- type: x-blog
+  url: https://blog.youmail.com
+- type: x-blog-rss
+  url: http://blog.youmail.com/rss
+- type: x-careers
+  url: https://www.youmail.com/home/jobs/list
+- type: x-contact
+  url: https://www.youmail.com/home/corp/contact
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/youmail
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/youmail
+- type: x-facebook
+  url: https://www.facebook.com/youmail
+- type: x-instagram
+  url: https://www.instagram.com/youmail
+- type: x-linkedin
+  url: https://www.linkedin.com/company/youmail-inc
+- type: x-login
+  url: https://www.youmail.com/login/signin
+- type: x-login
+  url: https://www.youmail.com/login/signup?src=get-free-v2
+- type: x-plans
+  url: https://www.youmail.com/home/plans
+- type: x-privacy
+  url: https://www.youmail.com/privacy
+- type: x-support
+  url: https://support.youmail.com
+- type: x-terms-of-service
+  url: https://www.youmail.com/terms
+- type: x-twitter
+  url: https://twitter.com/#!/youmail
+- type: x-twitter
+  url: https://www.twitter.com/youmail
+- type: x-youtube
+  url: https://www.youtube.com/youmailofficial
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

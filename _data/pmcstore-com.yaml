@@ -1,0 +1,24 @@
+---
+name: PMC-Store.Com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pmcstore-com.yaml
+tags:
+- Embedded
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.pmc-store.com
+- type: x-website
+  url: https://www.pmc-store.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

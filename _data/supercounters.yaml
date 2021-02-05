@@ -1,0 +1,54 @@
+---
+name: SuperCounters
+description: free hit counter,users online counter flag counter visitor map for website
+  blog and tumblr
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "30339"
+url: https://raw.githubusercontent.com/api-network/organizations/main/supercounters.yaml
+tags:
+- Webtracker
+- Webcounter
+- Web Tracker
+- Web Stats
+- Visits
+- Visitor Tracker
+- Visitor Reports
+- Visit Reports
+- Tumblr Hit Counter
+- Traffic
+- Statistics Log
+- Site Traffic
+- Site Statistics
+- Pagemill Counter
+- Page Views
+- Log Files
+- Log Analyzer
+- JavaScript
+- Ip Address Widget
+- Ip Address Lookup
+- Hits
+- Frontpage Web Counter
+- Frontpage Counter
+- Free Web Tracker
+- Free Web Counter
+- Free Online Counter
+- Free Hit Counter
+- Free
+- Flag Counter
+- Dreamweaver Counter
+apis: []
+x-common:
+- type: x-privacy
+  url: http://www.supercounters.com/privacy
+- type: x-website
+  url: https://www.supercounters.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

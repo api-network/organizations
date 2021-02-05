@@ -1,0 +1,81 @@
+---
+name: Campaign Monitor
+description: Drive business with email marketing and automation. Gain loyal customers
+  using powerful personalization, ecommerce, and customer journey tools.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/383_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "811"
+x-alexaRank: "17492"
+url: https://raw.githubusercontent.com/api-network/organizations/main/campaign-monitor.yaml
+tags:
+- Target
+- Online Tools
+- Marketing Automation Software
+- Have Swagger
+- Have API Paths
+- Have API
+- Email Marketing
+- CRM
+- Campaignmonitor.com
+- Campaign Monitor
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: https://bit.ly/2Vsqvka
+- type: x-base
+  url: https://api.createsend.com/
+- type: x-blog
+  url: http://www.campaignmonitor.com/blog/
+- type: x-blog-rss
+  url: http://campaignmonitor.com/feeds/blog
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/campaign-monitor
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/campaign-monitor
+- type: x-developer
+  url: http://developer.campaignmonitor.com
+- type: x-developers
+  url: https://www.campaignmonitor.com/api/
+- type: x-email
+  url: info@campaignmonitor.com
+- type: x-facebook
+  url: https://www.facebook.com/campaignmonitor
+- type: x-github
+  url: https://github.com/campaignmonitor
+- type: x-instagram
+  url: https://www.instagram.com/campaign.monitor/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/campaign-monitor
+- type: x-login
+  url: https://login.createsend.com/l
+- type: x-privacy
+  url: https://www.campaignmonitor.com/cmcpolicies/#privacy-notice
+- type: x-support
+  url: https://help.campaignmonitor.com/
+- type: x-support
+  url: https://help.commerce.campaignmonitor.com/
+- type: x-support
+  url: https://help.campaignmonitor.com
+- type: x-support
+  url: https://help.commerce.campaignmonitor.com/s/
+- type: x-terms-of-service
+  url: https://www.campaignmonitor.com/cmcpolicies/#terms-of-use
+- type: x-terms-of-service
+  url: https://myemma.s3.amazonaws.com/assets/pdf/legal/cm-group-modern-slavery-statement.pdf
+- type: x-twitter
+  url: https://twitter.com/campaignmonitor
+- type: x-webhooks
+  url: https://www.campaignmonitor.com/api/webhooks/
+- type: x-website
+  url: http://www.campaignmonitor.com/
+- type: x-website
+  url: https://www.campaignmonitor.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

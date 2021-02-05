@@ -1,0 +1,38 @@
+---
+name: RTmetrics
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6766109"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rtmetrics.yaml
+tags:
+- Commercial
+apis: []
+x-common:
+- type: x-about
+  url: https://auriq.com/about-us/
+- type: x-contact
+  url: https://auriq.com/contact/
+- type: x-documentation
+  url: http://auriq.com/documentation
+- type: x-facebook
+  url: https://www.facebook.com/auriqsystems/
+- type: x-feed
+  url: https://auriq.com/?feed=rss2
+- type: x-github
+  url: https://github.com/auriq
+- type: x-github
+  url: https://github.com/auriq/cjpath
+- type: x-linkedin
+  url: https://www.linkedin.com/company/auriq-systems-inc-/
+- type: x-website
+  url: https://www.auriq.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,34 @@
+---
+name: Harbour ATS
+description: "In a world where decisions are increasingly driven by data, the human
+  touch can so easily be lost. We\u2019re different. We are HARBOUR. And we dare to
+  care."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/harbour-ats.yaml
+tags:
+- Recruitment Software
+- Recruitment Management
+- Onboarding
+- Harbour
+- Ats
+- Applicant Tracking System
+- 3dmarcomms
+apis: []
+x-common:
+- type: x-linkedin
+  url: https://www.linkedin.com/company/3d-marcomms
+- type: x-twitter
+  url: https://twitter.com/3dmarcomms
+- type: x-website
+  url: https://www.harbour-ats.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

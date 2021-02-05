@@ -1,0 +1,55 @@
+---
+name: Thought Development
+description: "Thought Development Corp. is the premier authority in developing workflow
+  systems for the media promotions industry. \nWe maintain a focused concern for user
+  efficiency and total department integration at every step of the on-air promo production
+  process."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6458186"
+url: https://raw.githubusercontent.com/api-network/organizations/main/thought-development.yaml
+tags:
+- Broadcast
+apis: []
+x-common:
+- type: x-contact
+  url: https://thought-dev.com/company/contact-us/
+- type: x-developer
+  url: https://thought-dev.com/
+- type: x-developer
+  url: https://thought-dev.com/products/
+- type: x-developer
+  url: https://thought-dev.com/services/
+- type: x-developer
+  url: https://thought-dev.com/industries/tv-networks/
+- type: x-developer
+  url: https://thought-dev.com/company/
+- type: x-developer
+  url: https://thought-dev.com/company/our-team/
+- type: x-developer
+  url: https://thought-dev.com/company/our-history/
+- type: x-developer
+  url: https://thought-dev.com/company/industry-links/
+- type: x-developer
+  url: https://thought-dev.com/company/industry-partners/
+- type: x-developer
+  url: https://thought-dev.com
+- type: x-facebook
+  url: http://www.facebook.com/onairpro
+- type: x-news
+  url: https://thought-dev.com/news/
+- type: x-twitter
+  url: http://twitter.com/thoughtdev
+- type: x-website
+  url: https://www.thought-dev.com
+- type: x-youtube
+  url: http://www.youtube.com/user/thoughtdev
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

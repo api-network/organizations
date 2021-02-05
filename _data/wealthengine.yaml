@@ -1,0 +1,82 @@
+---
+name: WealthEngine
+description: <p>WealthEngine.com is the leading wealth research services firm for
+  nonprofit organizations and financial services companies. Recognizing the value
+  of wealth indicators and identifying links to prospects, WealthEngine gathers information
+  to assist wealth managers, marketers and development professionals to create strategies
+  for up-selling, cross-selling or fundraising.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/wealthengine-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "274550"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wealthengine.yaml
+tags:
+- Financial
+apis: []
+x-common:
+- type: x-website
+  url: https://linktr.ee/wealthengine
+- type: x-about
+  url: https://www.wealthengine.com/about/
+- type: x-about
+  url: https://www.wealthengine.com/about/management-team/
+- type: x-about
+  url: https://www.wealthengine.com/about/board-of-directors/
+- type: x-blog
+  url: https://www.wealthengine.com/resources/blogs/
+- type: x-blog
+  url: http://www.wealthengine.com/resources/blogs
+- type: x-careers
+  url: https://www.wealthengine.com/our-careers/
+- type: x-case-studies
+  url: https://www.wealthengine.com/developer-api/use-cases/
+- type: x-contact
+  url: https://go.wealthengine.com/wesite-demo-contact-us
+- type: x-contact
+  url: https://go.wealthengine.com/website-demo-contact-us
+- type: x-contact
+  url: https://www.wealthengine.com/about/contact/
+- type: x-developers
+  url: http://dev.wealthengine.com/
+- type: x-documentation
+  url: https://apidocs.wealthengine.com/
+- type: x-events
+  url: https://www.wealthengine.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/WealthEngine
+- type: x-integrations
+  url: https://www.wealthengine.com/features/integrations/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/wealthengine
+- type: x-login
+  url: https://apikey.wealthengine.com/#/login
+- type: x-login
+  url: https://we9.wealthengine.com/#/login
+- type: x-login
+  url: http://dev.wealthengine.com/app/index.html#/login
+- type: x-news
+  url: https://www.wealthengine.com/about/news/
+- type: x-platform
+  url: https://www.wealthengine.com/platform/
+- type: x-security
+  url: https://www.wealthengine.com/about/security-overview/
+- type: x-self-service-registration
+  url: https://apikey.wealthengine.com/#/register
+- type: x-twitter
+  url: https://twitter.com/WealthEngine
+- type: x-webinars
+  url: http://www.wealthengine.com/resources/webinars
+- type: x-webinars
+  url: https://www.wealthengine.com/webinars/
+- type: x-website
+  url: http://wealthengine.com
+- type: x-youtube
+  url: https://www.youtube.com/user/WealthEngineInc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

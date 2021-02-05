@@ -1,0 +1,23 @@
+---
+name: The Mothership
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7899448"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-mothership.yaml
+tags:
+- History
+- Apple
+apis: []
+x-common:
+- type: x-website
+  url: https://www.macmothership.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,60 @@
+---
+name: Clearbit
+description: Clearbit provides powerful products and data APIs to help your business
+  grow. Contact enrichment, lead generation, financial compliance, and more...
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/clearbit-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/clearbit.yaml
+tags:
+- Target
+- Have Swagger
+- Have API Paths
+- Have API
+- General Data
+- Business Intelligence
+- Business
+- API Provider
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.clearbit.co/
+- type: x-blog-rss
+  url: http://blog.clearbit.co/feed
+- type: x-curated-source
+  url: http://blog.clearbit.com/segment-integration/
+- type: x-website
+  url: http://blog.clearbit.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/clearbit
+- type: x-email
+  url: success@clearbit.com
+- type: x-email
+  url: support@clearbit.com
+- type: x-facebook
+  url: https://www.facebook.com/clearbitinc
+- type: x-github
+  url: https://github.com/clearbit
+- type: x-pricing
+  url: https://clearbit.com/pricing
+- type: x-status
+  url: https://clearbit.statuspage.io
+- type: x-support
+  url: http://help.clearbit.com
+- type: x-twitter
+  url: https://twitter.com/clearbit
+- type: x-website
+  url: http://clearbit.com
+- type: x-website
+  url: https://clearbit.com
+- type: x-website
+  url: https://clearbit.co
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

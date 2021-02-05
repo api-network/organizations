@@ -1,0 +1,71 @@
+---
+name: Business Component Gallery
+description: 'BCGSoft: professional GUI controls for MFC/.NET/WinForms development.
+  The GUI toolkits include Ribbon, Toolbars, Docking Panes, Grid, Chart, Calendar,
+  Gauges, Skins and more.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4388240"
+url: https://raw.githubusercontent.com/api-network/organizations/main/business-component-gallery.yaml
+tags:
+- Winforms
+- Windows 8
+- Visual Studio 2012
+- Visual Studio
+- Visual C++ 6.0
+- Vista
+- Touch
+- Toolkit
+- Toolbox
+- Theme
+- Syntax Highlighting
+- Surface
+- Stas Levin
+- Source Code
+- Skins
+- Ribbon Editor
+- Ribbon
+- Report
+- Office 2016
+- Office 2013
+- Office 2010
+- MFC Feature Pack
+- MFC
+- Metro UI
+- Live Tiles
+- IntelliSense
+- GUI
+- Grid
+- Gesture
+- Gauge
+- Editor
+- Dashboard
+- Customization
+- ControlBar
+- Control
+- Component
+- Color Picker
+- Chart
+- Calendar
+- BCGSoft
+- BCGControlBar
+- Backstage
+apis: []
+x-common:
+- type: x-forum
+  url: http://www.bcgsoft.com/cgi-bin/forum/
+- type: x-support
+  url: https://support.bcgsoft.com/
+- type: x-support
+  url: http://help.bcgsoft.com/
+- type: x-website
+  url: https://www.bcgsoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

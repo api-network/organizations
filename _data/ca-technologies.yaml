@@ -1,0 +1,38 @@
+---
+name: CA Technologies
+description: Transform digital business with CA Technologies. Software and expertise
+  to create a Modern Software Factory built on agility, automation, insights and security.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/ca_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "58712"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ca-technologies.yaml
+tags: []
+apis: []
+x-common:
+- type: x-blog
+  url: http://blogs.ca.com/?intcmp=footernav
+- type: x-blog-rss
+  url: http://blogs.ca.com/feed/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/ca
+- type: x-email
+  url: cainfo@ca.com
+- type: x-email
+  url: CAEducation@ca.com
+- type: x-email
+  url: Team-AgileBU-AgileSales@ca.com
+- type: x-twitter
+  url: https://twitter.com/CAInc
+- type: x-website
+  url: https://www.ca.com
+- type: x-website
+  url: http://www.ca.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

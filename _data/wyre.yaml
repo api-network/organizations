@@ -1,0 +1,42 @@
+---
+name: Wyre
+description: Wyre is a secure and compliant bridge between fiat currencies and cryptocurrency.
+  Exchange crypto safely and securely.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28969-www-sendwyre-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "118101"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wyre.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.sendwyre.com
+- type: x-blog
+  url: https://blog.sendwyre.com/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/wyre
+- type: x-documentation
+  url: https://docs.sendwyre.com/
+- type: x-documentation
+  url: https://www.sendwyre.com/docs
+- type: x-facebook
+  url: https://www.facebook.com/sendwyre/
+- type: x-login
+  url: https://dash.sendwyre.com/sign-in
+- type: x-partner
+  url: https://www.sendwyre.com/partner-testimonials
+- type: x-support
+  url: http://support.sendwyre.com/
+- type: x-twitter
+  url: https://twitter.com/sendwyre
+- type: x-website
+  url: https://www.sendwyre.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

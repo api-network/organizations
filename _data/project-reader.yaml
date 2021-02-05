@@ -1,0 +1,28 @@
+---
+name: Project Reader
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7751368"
+url: https://raw.githubusercontent.com/api-network/organizations/main/project-reader.yaml
+tags:
+- Viewers And Companion Products
+- MPP Viewer
+- Microsoft Project Viewer
+apis: []
+x-common:
+- type: x-login
+  url: https://www.projectreader.com/secure/logineng.asp
+- type: x-privacy
+  url: http://www.k-sol.it/privacy.asp?lang=eng
+- type: x-website
+  url: https://www.projectreader.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

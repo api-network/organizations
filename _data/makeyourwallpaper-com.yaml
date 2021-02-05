@@ -1,0 +1,43 @@
+---
+name: MakeYourWallPaper.com
+description: MakeYourWallpaper,  use your own tocreate wallpapers all the resolutions
+  available.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/makeyourwallpaper-com.yaml
+tags:
+- Wallpaper
+- Resolutions
+- Desktop
+- Background
+- 1280x800
+apis: []
+x-common:
+- type: x-about
+  url: https://www.makeyourwallpaper.com/about/help/
+- type: x-about
+  url: https://www.makeyourwallpaper.com/about/
+- type: x-about
+  url: https://www.makeyourwallpaper.com/about/faq/
+- type: x-about
+  url: https://www.makeyourwallpaper.com/about/roadmap/
+- type: x-blog
+  url: https://www.makeyourwallpaper.com/blog/
+- type: x-contact
+  url: https://www.makeyourwallpaper.com/contact/
+- type: x-privacy
+  url: https://www.makeyourwallpaper.com/privacy-policy/
+- type: x-support
+  url: https://www.makeyourwallpaper.com/help-corporate/
+- type: x-website
+  url: https://www.makeyourwallpaper.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

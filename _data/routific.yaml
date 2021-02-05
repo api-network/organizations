@@ -1,0 +1,57 @@
+---
+name: Routific
+description: We provide a solution to automate and optimize your routing and scheduling
+  operations. Whether you deliver groceries, distribute compost bins, or pick up laundry
+  ??? any Vehicle Routing Problem for that matter ??? we got your back
+image: https://www.routific.com/images/logo.svg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "281896"
+url: https://raw.githubusercontent.com/api-network/organizations/main/routific.yaml
+tags:
+- Routes
+- Profile
+- Maps
+- Have API
+- Directions
+- APIs.io Import
+apis: []
+x-common:
+- type: x-api-json--authoritative
+  url: https://raw.githubusercontent.com/picsoung/apis.json/master/routific.json
+- type: x-blog
+  url: https://blog.routific.com
+- type: x-blog
+  url: https://blog.routific.com/
+- type: x-blog-rss
+  url: https://blog.routific.com/feed
+- type: x-careers
+  url: https://angel.co/company/routific/jobs
+- type: x-developer
+  url: https://dev.routific.com
+- type: x-developer
+  url: http://dev.routific.com
+- type: x-facebook
+  url: http://www.facebook.com/routific
+- type: x-github
+  url: https://github.com/routific
+- type: x-instagram
+  url: https://www.instagram.com/routific
+- type: x-linkedin
+  url: https://www.linkedin.com/company/routific
+- type: x-status
+  url: http://status.routific.com
+- type: x-twitter
+  url: http://twitter.com/Routific
+- type: x-twitter
+  url: https://twitter.com/routific
+- type: x-website
+  url: https://routific.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

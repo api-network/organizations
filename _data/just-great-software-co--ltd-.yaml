@@ -1,0 +1,46 @@
+---
+name: Just Great Software Co. Ltd.
+description: Welcome to Just Great Software, home of fine applications such as EditPad,
+  AceText, RegexBuddy, PowerGREP, HelpScribble and DeployMaster.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2609688"
+url: https://raw.githubusercontent.com/api-network/organizations/main/just-great-software-co--ltd-.yaml
+tags:
+- WinHelp
+- Text Editors
+- Text Editor
+- Setup
+- Personal Pages
+- Just Great Software
+- Jan Goyvaerts
+- Installation
+- Html Help
+- HTML
+- HelpScribble
+- Help Authoring
+- Help
+- EditPad
+- DeployMaster
+- Deploy
+apis: []
+x-common:
+- type: x-support
+  url: http://www.helpscribble.com/
+- type: x-support
+  url: http://www.helpscribble.com/usercomm.html
+- type: x-support
+  url: http://www.helpscribble.com/download.html
+- type: x-support
+  url: http://www.helpscribble.com/buynow.html
+- type: x-website
+  url: https://www.just-great-software.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,37 @@
+---
+name: Zooz Payments
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "728552"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zooz-payments.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: https://www.zooz.com/
+- type: x-website
+  url: http://www.zooz.com
+- type: x-careers
+  url: https://careers.zooz.com/
+- type: x-documentation
+  url: https://developers.paymentsos.com/docs/api/
+- type: x-documentation
+  url: https://developers.paymentsos.com/docs/providers.html
+- type: x-facebook
+  url: https://www.facebook.com/ZooZpayments
+- type: x-linkedin
+  url: https://il.linkedin.com/company/zooz?trk=ppro_cprof
+- type: x-login
+  url: https://control.paymentsos.com/login
+- type: x-twitter
+  url: https://twitter.com/ZooZpayments
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

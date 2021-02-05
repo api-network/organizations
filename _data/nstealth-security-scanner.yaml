@@ -1,0 +1,55 @@
+---
+name: N-Stealth Security Scanner
+description: N-Stalker Web Application Security Scanner - security assessment tool
+  that incorporates N-Stealth HTTP Security Scanner. Allows to scan web applications
+  against SQL XSS injection, buffer overflow, parameter tampering, cross-site scripting,
+  CWE Top 25, PCI, OWASP Top 10 and more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2858754"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nstealth-security-scanner.yaml
+tags:
+- Web Vulnerability Scanner
+- Web Site Security
+- Web Application Security
+- Vulnerability Scanner
+- SQL XSS Injection
+- Security Scanners
+- Security Scanner
+- PCI
+- OWASP
+- N-stealth
+- Http Security
+- Cross-site Scripting
+- Apache Security
+apis: []
+x-common:
+- type: x-about
+  url: https://www.nstalker.com/about/career/
+- type: x-about
+  url: https://www.nstalker.com/about/nstalker/
+- type: x-blog
+  url: https://nstalker.com/blog
+- type: x-contact
+  url: https://www.nstalker.com/about/contact/
+- type: x-customers
+  url: https://www.nstalker.com/about/customers/
+- type: x-investor
+  url: https://www.nstalker.com/about/investors/
+- type: x-partner
+  url: https://nstalker.com/partner
+- type: x-press
+  url: https://www.nstalker.com/about/press-releases/
+- type: x-terms-of-service
+  url: https://www.nstalker.com/about/legal-notes/
+- type: x-website
+  url: https://www.nstalker.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

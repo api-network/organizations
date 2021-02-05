@@ -1,0 +1,65 @@
+---
+name: Percolate
+description: Percolate is the leading Content Marketing Platform for the enterprise.
+  Percolate offers solutions to manage the production of campaigns and content.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1781_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "123341"
+url: https://raw.githubusercontent.com/api-network/organizations/main/percolate.yaml
+tags:
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://percolate.com
+- type: x-about
+  url: https://percolate.com/about
+- type: x-blog
+  url: https://blog.percolate.com
+- type: x-blog
+  url: http://blog.percolate.com/
+- type: x-blog-rss
+  url: http://blog.percolate.com/feed/rss/
+- type: x-careers
+  url: https://percolate.com/careers/
+- type: x-contact
+  url: https://percolate.com/contact
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/percolate
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/percolate
+- type: x-documentation
+  url: https://percolate.com/docs/api/
+- type: x-email
+  url: media@percolate.com
+- type: x-email
+  url: privacy@percolate.com
+- type: x-email
+  url: hello@percolate.com
+- type: x-events
+  url: https://percolate.com/events
+- type: x-integrations
+  url: https://percolate.com/ecosystem/integrations
+- type: x-login
+  url: https://percolate.com/app/login
+- type: x-plans
+  url: https://percolate.com/product/marketing-plans
+- type: x-press
+  url: https://percolate.com/press
+- type: x-privacy
+  url: https://percolate.com/privacy
+- type: x-terms-of-service
+  url: https://percolate.com/terms
+- type: x-twitter
+  url: https://twitter.com/percolate
+- type: x-website
+  url: http://percolate.com/features/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

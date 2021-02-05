@@ -1,0 +1,54 @@
+---
+name: FindMyHost.com - Web Hosting Reviews
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1725103"
+url: https://raw.githubusercontent.com/api-network/organizations/main/findmyhost-com--web-hosting-reviews.yaml
+tags:
+- Directories
+apis: []
+x-common:
+- type: x-website
+  url: http://www.FindMyHost.com
+- type: x-facebook
+  url: https://www.facebook.com/FindMyHost
+- type: x-forum
+  url: http://www.hostdiscussion.com/forum.php
+- type: x-linkedin
+  url: https://www.linkedin.com/in/richardguzzo
+- type: x-news
+  url: http://www.myhostnews.com
+- type: x-news
+  url: http://myhostnews.com/category/web-hosting-awards/
+- type: x-news
+  url: http://myhostnews.com/category/web-hosting-coupons/
+- type: x-news
+  url: http://myhostnews.com/category/web-hosting-events/
+- type: x-news
+  url: http://myhostnews.com/category/web-hosting-interviews/
+- type: x-news
+  url: http://myhostnews.com/category/web-hosting-news/
+- type: x-news
+  url: http://myhostnews.com/category/web-hosting-reviews/
+- type: x-plans
+  url: https://www.uptimespy.com/plans.html
+- type: x-press
+  url: http://myhostnews.com/press-release-submission/
+- type: x-self-service-registration
+  url: http://www.hostdiscussion.com/register.php
+- type: x-signup
+  url: https://www.uptimespy.com/signup.html
+- type: x-twitter
+  url: http://twitter.com/findmyhost
+- type: x-website
+  url: https://www.findmyhost.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

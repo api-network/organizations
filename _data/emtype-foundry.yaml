@@ -1,0 +1,67 @@
+---
+name: Emtype Foundry
+description: Emtype is a small Barcelona based foundry that produces original typefaces
+  of high quality, as much for display as for text use.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2650428"
+url: https://raw.githubusercontent.com/api-network/organizations/main/emtype-foundry.yaml
+tags:
+- Webfonts
+- Typefaces From Barcelona
+- Trial Fonts
+- "Tipograf\xEDa"
+- Test Fonts
+- Sunday Times
+- Stencil
+- Slab
+- Rounded
+- Relato Sans
+- Relato
+- Mac
+- Geogrotesque
+- Fuentes
+- Free Trials
+- Foundry
+- Foundries
+- Fonts
+- Emtype
+- Eduardo Manso
+- Custom Fonts
+- Ciutadella
+- Camber
+- Barcelona
+- Apps
+apis: []
+x-common:
+- type: x-website
+  url: http://www.emtype.net
+- type: x-about
+  url: https://emtype.net/about-us
+- type: x-contact
+  url: https://emtype.net/about-us#contact
+- type: x-facebook
+  url: https://www.facebook.com/emtype.net
+- type: x-instagram
+  url: https://www.instagram.com/emtype/
+- type: x-news
+  url: https://emtype.net/custom/abc-newspaper
+- type: x-news
+  url: https://emtype.net/news
+- type: x-support
+  url: https://emtype.net/support
+- type: x-terms-of-service
+  url: https://emtype.net/terms-and-conditions
+- type: x-twitter
+  url: http://www.twitter.com/emtype
+- type: x-website
+  url: https://www.emtype.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,54 @@
+---
+name: Copper Project
+description: Project management software for agile teams. Manage Projects, Tasks,
+  To Dos, Files with Drag & Drop Timelines, Xero integration and more. Free 30 Day
+  Trial.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "459557"
+url: https://raw.githubusercontent.com/api-network/organizations/main/copper-project.yaml
+tags:
+- Web Based Project Management
+- Web Based
+- Project Management Software Online
+- Project Management Software
+- Project Management Service
+apis: []
+x-common:
+- type: x-website
+  url: http://www.copperproject.com
+- type: x-blog
+  url: https://www.copperproject.com/blog/
+- type: x-contact
+  url: https://www.copperproject.com/contact/
+- type: x-developer
+  url: https://www.copperproject.com/api/
+- type: x-facebook
+  url: http://www.facebook.com/CopperProject
+- type: x-linkedin
+  url: http://www.linkedin.com/company/copper-project
+- type: x-login
+  url: https://www.copperproject.com/login/
+- type: x-partner
+  url: https://www.copperproject.com/partners/
+- type: x-pricing
+  url: https://www.copperproject.com/pricing/
+- type: x-privacy
+  url: https://www.copperproject.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.copperproject.com/terms-conditions/
+- type: x-twitter
+  url: http://twitter.com/copperproject
+- type: x-website
+  url: https://copperproject.com
+- type: x-youtube
+  url: http://www.youtube.com/watch?v=hOzuCe5yDmo
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

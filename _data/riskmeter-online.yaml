@@ -1,0 +1,30 @@
+---
+name: RiskMeter Online
+description: RiskMeter Online is an on-demand insurance platform, delivering natural
+  hazard risk data that empowers underwriters, agents and brokers to make quick and
+  accurate property risk determinations.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5195017"
+url: https://raw.githubusercontent.com/api-network/organizations/main/riskmeter-online.yaml
+tags:
+- E-Business
+apis: []
+x-common:
+- type: x-contact
+  url: https://riskmeter.com/ContactPage/contact-form.aspx
+- type: x-contact
+  url: http://riskmeter.com/ContactPage/contact-form.aspx
+- type: x-support
+  url: https://support.riskmeter.com/
+- type: x-website
+  url: https://www.riskmeter.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

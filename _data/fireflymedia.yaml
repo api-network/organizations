@@ -1,0 +1,29 @@
+---
+name: Fireflymedia
+description: I am a highly motivated, versatile Learning Designer with twenty years
+  experience working in roles such as Instructional Designer, Project Manager and
+  Producer. I have extensive experience of managing teams in virtual environments.
+  I
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fireflymedia.yaml
+tags:
+- United Kingdom
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.fireflymedia.co.uk/contact/
+- type: x-press
+  url: http://wordpress.org/
+- type: x-website
+  url: https://www.fireflymedia.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

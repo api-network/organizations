@@ -1,0 +1,48 @@
+---
+name: Def Con
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "218015"
+url: https://raw.githubusercontent.com/api-network/organizations/main/def-con.yaml
+tags:
+- Conventions
+apis: []
+x-common:
+- type: x-website
+  url: http://oooverflow.io
+- type: x-facebook
+  url: https://www.facebook.com/defcon
+- type: x-forum
+  url: https://forum.defcon.org
+- type: x-forum
+  url: https://forum.defcon.org/node/229975
+- type: x-forum
+  url: https://forum.defcon.org/node/229993?p=230032
+- type: x-forum
+  url: https://forum.defcon.org/node/229985
+- type: x-forum
+  url: https://forum.defcon.org/node/229621?view=thread
+- type: x-github
+  url: https://github.com/brent-stone/CAN_Reverse_Engineering
+- type: x-instagram
+  url: https://www.instagram.com/wearedefcon/
+- type: x-twitter
+  url: https://twitter.com/defcon
+- type: x-twitter
+  url: https://twitter.com/oooverflow
+- type: x-website
+  url: https://www.defcon.org
+- type: x-youtube
+  url: https://www.youtube.com/user/DEFCONConference
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=BnJT3wdhGFc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

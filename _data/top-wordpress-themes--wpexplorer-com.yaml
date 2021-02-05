@@ -1,0 +1,60 @@
+---
+name: Top Wordpress Themes - WPExplorer.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "26439"
+url: https://raw.githubusercontent.com/api-network/organizations/main/top-wordpress-themes--wpexplorer-com.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-website
+  url: http://www.wpexplorer.com
+- type: x-about
+  url: https://www.wpexplorer.com/about/
+- type: x-blog
+  url: https://www.wpexplorer.com/blog/
+- type: x-contact
+  url: https://www.wpexplorer.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/wpexplorer-themes
+- type: x-press
+  url: https://www.wpexplorer.com/wordpress-themes/
+- type: x-press
+  url: https://www.wpexplorer.com/wordpress-plugins/
+- type: x-press
+  url: https://www.wpexplorer.com/free-wordpress-themes/
+- type: x-press
+  url: https://www.wpexplorer.com/wordpress-hosting/
+- type: x-press
+  url: https://www.wpexplorer.com/wordpress-seo/
+- type: x-press
+  url: https://www.wpexplorer.com/how-to-speed-up-wordpress/
+- type: x-press
+  url: https://www.wpexplorer.com/wordpress-security/
+- type: x-press
+  url: https://www.wpexplorer.com/make-money-wordpress/
+- type: x-press
+  url: https://www.wpexplorer.com/recycle-wordpress-posts/
+- type: x-press
+  url: https://www.wpexplorer.com/best-wordpress-themes/
+- type: x-press
+  url: https://www.wpexplorer.com/best-wordpress-plugins/
+- type: x-press
+  url: https://www.wpexplorer.com/new-york-wordpress-theme/
+- type: x-privacy
+  url: https://www.wpexplorer.com/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/wpexplorer
+- type: x-website
+  url: https://www.wpexplorer.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

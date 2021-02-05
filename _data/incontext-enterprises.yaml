@@ -1,0 +1,36 @@
+---
+name: Incontext Enterprises
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/incontext-enterprises.yaml
+tags:
+- Companies And Consultants
+apis: []
+x-common:
+- type: x-website
+  url: http://www.incontextdesign.com
+- type: x-about
+  url: https://www.incontextdesign.com/aboutus/
+- type: x-facebook
+  url: http://facebook.com/kholtzblatt
+- type: x-linkedin
+  url: https://linkedin.com/in/kholtzblatt
+- type: x-linkedin
+  url: http://linkedin.com/in/karenholtzblatt
+- type: x-twitter
+  url: http://twitter.com/kholtzblatt
+- type: x-website
+  url: https://incontextdesign.com
+- type: x-youtube
+  url: http://www.youtube.com/user/InContextDesign
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

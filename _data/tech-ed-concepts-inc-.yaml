@@ -1,0 +1,47 @@
+---
+name: Tech Ed Concepts, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4410504"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tech-ed-concepts-inc-.yaml
+tags: []
+apis: []
+x-common:
+- type: x-about
+  url: https://tecedu.com/about-us/
+- type: x-about
+  url: https://tecedu.com/about-us/corporate-profile/
+- type: x-contact
+  url: https://tecedu.com/contact/
+- type: x-events
+  url: https://tecedu.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/TECedu/
+- type: x-news
+  url: https://tecedu.com/news-events/
+- type: x-news
+  url: https://tecedu.com/news/
+- type: x-press
+  url: https://tecedu.com/hotronix-heat-presses/
+- type: x-privacy
+  url: https://tecedu.com/about-us/privacy/
+- type: x-support
+  url: https://tecedu.com/technical-support/
+- type: x-support
+  url: https://tecedu.com/technical-support-2/
+- type: x-support
+  url: https://tecedu.com/technical-support/free-files/
+- type: x-support
+  url: https://www.rolanddga.com/support/products/milling
+- type: x-website
+  url: https://www.tecedu.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

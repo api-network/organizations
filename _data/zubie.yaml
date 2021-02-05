@@ -1,0 +1,62 @@
+---
+name: Zubie
+description: A cool new service connecting you to your car to help you monitor your
+  vehicles, diagnose repair problems and take the hassle out of daily driving. The
+  Zubie Key is a matchbox-sized device that plugs in under your car's dash. It works
+  with the Zubie Sm...
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29039-zubie-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "758986"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zubie.yaml
+tags: []
+apis: []
+x-common:
+- type: x-about
+  url: https://zubie.com/about
+- type: x-careers
+  url: https://zubie.com/jobs/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/zubie
+- type: x-email
+  url: partnerships@zubie.com
+- type: x-email
+  url: business@zubie.com
+- type: x-email
+  url: insights@zubiecar.com
+- type: x-email
+  url: support@zubiecar.com
+- type: x-email
+  url: support@zubie.com
+- type: x-facebook
+  url: https://www.facebook.com/gozubie
+- type: x-linkedin
+  url: https://www.linkedin.com/company/zubie
+- type: x-plans
+  url: https://zubie.com/fleet-management-plans/
+- type: x-press
+  url: https://zubie.com/press-releases/
+- type: x-pricing
+  url: https://zubie.com/pricing
+- type: x-privacy
+  url: https://zubie.com/privacy/
+- type: x-support
+  url: http://help.zubiecar.com
+- type: x-support
+  url: http://help.zubiecar.com/anonymous_requests/new
+- type: x-support
+  url: https://help.zubiecar.com
+- type: x-twitter
+  url: https://twitter.com/GoZubie
+- type: x-webhooks
+  url: http://zubie.com/developer/webhooks/
+- type: x-website
+  url: http://zubie.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

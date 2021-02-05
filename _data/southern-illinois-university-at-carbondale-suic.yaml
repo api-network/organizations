@@ -1,0 +1,36 @@
+---
+name: Southern Illinois University at Carbondale (SUIC)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "42594"
+url: https://raw.githubusercontent.com/api-network/organizations/main/southern-illinois-university-at-carbondale-suic.yaml
+tags:
+- Illinois
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cs.siu.edu
+- type: x-contact
+  url: https://siu.edu/contact-us/index.php
+- type: x-facebook
+  url: https://www.facebook.com/cssaluki
+- type: x-news
+  url: https://news.siu.edu/2016/06/062716tjc16035.php
+- type: x-news
+  url: https://news.siu.edu/2015/05/051115tjc15021.php
+- type: x-privacy
+  url: https://policies.siu.edu/policies/webprivacy.php
+- type: x-twitter
+  url: https://twitter.com/cs_siuc
+- type: x-website
+  url: https://www.cs.siu.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

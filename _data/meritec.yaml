@@ -1,0 +1,89 @@
+---
+name: Meritec
+description: Meritec is a leading supplier of custom high-performance interconnect
+  systems. Custom Cable Assemblies, Connectors, Sockets, Adapters, FFC, VPX+, Micro
+  Coax
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/meritec.yaml
+tags:
+- VPX
+- Sub-d Mini
+- Sub-d
+- Sim Card
+- Sfp
+- Sata Cable
+- RJ45
+- Pogo Pin Connectors
+- Pogo Pin Connector
+- Nx
+- Molex
+- Mini Usb
+- Mini DisplayPort
+- Manufacturers
+- Ipass
+- Interconnect
+- Infiniband
+- High-frequency
+- High Speed Cable
+- High
+- Hercules
+- HDMI
+- Frequency
+- Fiber Optic
+- Ethernet
+- Elma
+- Electrical
+- Dvi Cable
+- Distributor
+- Display Port
+- Custom
+- Connectors
+- Connector
+- Connection
+- Cables
+- Cable
+- Backplane
+- Assembly
+- Assemblies
+- Active Optical Module
+- 2mm
+- 10 Connector Pin
+apis: []
+x-common:
+- type: x-about
+  url: https://meritec.com/about-us/
+- type: x-careers
+  url: https://meritec.com/about-us/careers/
+- type: x-connectors
+  url: https://meritec.com/connectors-adapters-sockets/
+- type: x-connectors
+  url: https://meritec.com/meritec-battery-connectors/
+- type: x-connectors
+  url: https://meritec.com/connectors-unlimited/
+- type: x-contact
+  url: https://meritec.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/Meritecconnect/
+- type: x-news
+  url: https://meritec.com/news/
+- type: x-self-service-registration
+  url: https://meritec.com/register-2/
+- type: x-showcase
+  url: https://meritec.com/solution-showcase-form/
+- type: x-terms-of-service
+  url: https://meritec.com/terms-conditions/
+- type: x-website
+  url: https://www.meritec.com
+- type: x-youtube
+  url: https://www.youtube.com/user/MeritecInterconnect
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

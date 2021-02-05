@@ -1,0 +1,108 @@
+---
+name: The CPAN Search Site
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "79836"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-cpan-search-site.yaml
+tags:
+- Modules
+apis: []
+x-common:
+- type: x-about
+  url: https://github.com/about
+- type: x-blog
+  url: https://github.blog
+- type: x-contact
+  url: https://enterprise.github.com/contact
+- type: x-contact
+  url: https://github.com/contact
+- type: x-developer
+  url: https://fastapi.metacpan.org
+- type: x-developer
+  url: https://fastapi.metacpan.org/v1/author/_mapping
+- type: x-developer
+  url: https://fastapi.metacpan.org/v1/distribution/_mapping
+- type: x-developer
+  url: https://fastapi.metacpan.org/v1/favorite/_mapping
+- type: x-developer
+  url: https://fastapi.metacpan.org/v1/file/_mapping
+- type: x-developer
+  url: https://fastapi.metacpan.org/v1/module/_mapping
+- type: x-developer
+  url: https://fastapi.metacpan.org/v1/rating/_mapping
+- type: x-developer
+  url: https://fastapi.metacpan.org/v1/release/_mapping
+- type: x-developer
+  url: https://fastapi.metacpan.org/v1/author/_search
+- type: x-developer
+  url: https://fastapi.metacpan.org/v1/distribution/_search
+- type: x-developer
+  url: https://fastapi.metacpan.org/v1/favorite/_search
+- type: x-developer
+  url: https://fastapi.metacpan.org/v1/file/_search
+- type: x-developer
+  url: https://fastapi.metacpan.org/v1/rating/_search
+- type: x-developer
+  url: https://fastapi.metacpan.org/v1/release/_search
+- type: x-developer
+  url: https://fastapi.metacpan.org/v1/distribution/Moose
+- type: x-developer
+  url: https://fastapi.metacpan.org/v1/release/Moose
+- type: x-developer
+  url: https://fastapi.metacpan.org/v1/author/DOY
+- type: x-developer
+  url: https://fastapi.metacpan.org/v1/module/Moose
+- type: x-developer
+  url: https://fastapi.metacpan.org/author/_search?q=*
+- type: x-developer
+  url: https://fastapi.metacpan.org/v1/changes/Test-Simple
+- type: x-events
+  url: https://github.com/events
+- type: x-github
+  url: https://github.com/metacpan/metacpan-web/issues
+- type: x-github
+  url: https://github.com/metacpan/metacpan-web
+- type: x-github
+  url: https://github.com/
+- type: x-github
+  url: https://lab.github.com/
+- type: x-github
+  url: https://github.community
+- type: x-github
+  url: https://education.github.com
+- type: x-github
+  url: https://github.com/metacpan/metacpan-examples
+- type: x-github
+  url: https://github.com
+- type: x-github
+  url: https://developer.github.com
+- type: x-github
+  url: https://training.github.com
+- type: x-open-source
+  url: https://opensource.guide
+- type: x-pricing
+  url: https://github.com/pricing
+- type: x-privacy
+  url: https://github.com/site/privacy
+- type: x-security
+  url: https://github.com/security
+- type: x-status
+  url: https://githubstatus.com/
+- type: x-support
+  url: https://help.github.com
+- type: x-terms-of-service
+  url: https://github.com/site/terms
+- type: x-website
+  url: https://search.cpan.org
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=J8ymBuFlHQg
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

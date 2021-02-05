@@ -1,0 +1,78 @@
+---
+name: Riverbed Technology
+description: <p>In our cloud-mobile world, digital performance defines business success.
+  Riverbed delivers digital performance solutions - such as our cloud monitoring SD-WAN
+  solution - that help you reach new levels of performance and gain a competitive
+  edge.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28292-support-riverbed-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "115231"
+url: https://raw.githubusercontent.com/api-network/organizations/main/riverbed-technology.yaml
+tags:
+- Networks
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.riverbed.com
+- type: x-about
+  url: http://www.riverbed.com/about/awards/
+- type: x-about
+  url: http://www.riverbed.com/about/document-repository/
+- type: x-blog
+  url: http://www.riverbed.com/blogs.html
+- type: x-blog
+  url: https://www.riverbed.com/blogs.html
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/riverbed-technology
+- type: x-documentation
+  url: https://support.riverbed.com/apis/
+- type: x-events
+  url: http://www.riverbed.com/about/events/
+- type: x-facebook
+  url: http://www.facebook.com/riverbed
+- type: x-github
+  url: https://github.com/riverbed
+- type: x-instagram
+  url: https://www.instagram.com/riverbedtechnology
+- type: x-linkedin
+  url: https://www.linkedin.com/company/riverbed-technology
+- type: x-news
+  url: http://www.riverbed.com/about/news-articles/
+- type: x-news
+  url: https://www.riverbed.com/newsletter/index.html
+- type: x-partner
+  url: http://partnerlocator.riverbed.com
+- type: x-partner
+  url: https://www.riverbed.com/partner-blogs.html
+- type: x-partner
+  url: http://partnerlocator.riverbed.com/?type=VAR
+- type: x-support
+  url: https://support.riverbed.com
+- type: x-support
+  url: https://support.riverbed.com/
+- type: x-terms-of-service
+  url: http://www.riverbed.com/legal/privacy-policy/
+- type: x-terms-of-service
+  url: http://www.riverbed.com/legal/legal-notices/
+- type: x-terms-of-service
+  url: http://www.riverbed.com/legal/dispute-policy/
+- type: x-terms-of-service
+  url: https://www.riverbed.com/legal/privacy-policy.html
+- type: x-twitter
+  url: https://twitter.com/riverbed
+- type: x-twitter
+  url: http://twitter.com/RIVERBED
+- type: x-website
+  url: https://riverbed.com
+- type: x-youtube
+  url: https://www.youtube.com/user/RiverbedTechnology
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,65 @@
+---
+name: Harrington Group International
+description: Harrington Group International delivers quality management software and
+  quality management systems for enterprise process improvement.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1761480"
+url: https://raw.githubusercontent.com/api-network/organizations/main/harrington-group-international.yaml
+tags:
+- Regulatory Compliance
+apis: []
+x-common:
+- type: x-website
+  url: http://hgint.com
+- type: x-about
+  url: https://hgint.com/about-us/
+- type: x-blog
+  url: https://hgint.com/blog-4/
+- type: x-blog
+  url: https://hgint.com/blog/
+- type: x-careers
+  url: https://hgint.com/careers/
+- type: x-contact
+  url: https://hgint.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/HarringtonGroup
+- type: x-login
+  url: https://hgint.com/login
+- type: x-news
+  url: https://hgint.com/news-events/
+- type: x-partner
+  url: https://hgint.com/partners/
+- type: x-privacy
+  url: https://hgint.com/privacy/
+- type: x-support
+  url: https://hgint.com/hgisupport/
+- type: x-support
+  url: https://hgint.com/online-support/
+- type: x-support
+  url: https://hgint.com/caweb-online-support-request/
+- type: x-support
+  url: https://hgint.com/sqs-online-support-request/
+- type: x-support
+  url: https://hgint.com/audit-master-online-support-request
+- type: x-support
+  url: https://hgint.com/calibration-recall-online-support/
+- type: x-terms-of-service
+  url: https://hgint.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/hgint
+- type: x-website
+  url: https://hgint.com
+- type: x-white-papers
+  url: https://hgint.com/white-papers/
+- type: x-youtube
+  url: https://www.youtube.com/user/TheHarringtonGroup
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,24 @@
+---
+name: Lyx - The Document Processor
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "347787"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lyx--the-document-processor.yaml
+tags:
+- Editors
+apis: []
+x-common:
+- type: x-news
+  url: https://www.lyx.org/misc/rss/lyx_news_feed.xml
+- type: x-website
+  url: https://www.lyx.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

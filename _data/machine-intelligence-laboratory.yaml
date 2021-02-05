@@ -1,0 +1,24 @@
+---
+name: Machine Intelligence Laboratory
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4460"
+url: https://raw.githubusercontent.com/api-network/organizations/main/machine-intelligence-laboratory.yaml
+tags:
+- Research
+apis: []
+x-common:
+- type: x-privacy
+  url: http://www.cam.ac.uk/about-this-site/privacy-policy
+- type: x-website
+  url: https://mi.eng.cam.ac.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

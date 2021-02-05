@@ -1,0 +1,90 @@
+---
+name: JavaRanch
+description: Source code generated using layoutit.com
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "829283"
+url: https://raw.githubusercontent.com/api-network/organizations/main/javaranch.yaml
+tags:
+- Resources
+apis: []
+x-common:
+- type: x-code
+  url: http://www.coderanch.com
+- type: x-code
+  url: http://www.coderanch.com/t/660001/Wiki/
+- type: x-code
+  url: http://www.coderanch.com/t/660089/Wiki/Java
+- type: x-code
+  url: http://www.coderanch.com/t/659883/Wiki/Ocjp-Faq
+- type: x-code
+  url: http://www.coderanch.com/t/659724/Wiki/OCMJEA-FAQ
+- type: x-code
+  url: https://coderanch.com/f/26/javaArchitect(OCMJEA)
+- type: x-code
+  url: https://coderanch.com/f/1/java
+- type: x-code
+  url: https://coderanch.com/f/18/javaWebComponentOCEJWCD
+- type: x-code
+  url: https://coderanch.com/f/50/JSP
+- type: x-code
+  url: https://coderanch.com/f/56/Tomcat
+- type: x-code
+  url: https://coderanch.com/f/33/java
+- type: x-code
+  url: https://coderanch.com/f/73/macos
+- type: x-code
+  url: https://coderanch.com/f/7/Servlets
+- type: x-code
+  url: https://coderanch.com/wiki/660243/Wiki//Contact
+- type: x-code
+  url: https://coderanch.com/f/153/Wiki
+- type: x-code
+  url: https://coderanch.com/t/659064/java/java/Java-Notepad
+- type: x-code
+  url: https://coderanch.com/f/24/javaprogrammerOCPJP
+- type: x-code
+  url: https://coderanch.com/f/8/sockets
+- type: x-code
+  url: https://coderanch.com/f/3/JDBC
+- type: x-code
+  url: http://www.coderanch.com/t/659748/Wiki/ActiveStaff
+- type: x-code
+  url: https://coderanch.com/t/660243/Wiki/Contact
+- type: x-code
+  url: https://www.facebook.com/coderanch/
+- type: x-forum
+  url: http://www.coderanch.com/forums/user/login
+- type: x-forum
+  url: http://www.coderanch.com/forums
+- type: x-forum
+  url: http://www.coderanch.com/forums/f-50/JSP
+- type: x-forum
+  url: http://www.coderanch.com/forums/f-7/Servlets
+- type: x-forum
+  url: http://www.coderanch.com/forums/f-82/JSF
+- type: x-forum
+  url: http://www.coderanch.com/forums/f-78/ORM
+- type: x-forum
+  url: http://www.coderanch.com/forums/f-3/JDBC
+- type: x-forum
+  url: http://www.coderanch.com/forums/f-56/Tomcat
+- type: x-forum
+  url: http://www.coderanch.com/forums/f-63/JBoss
+- type: x-forum
+  url: http://www.coderanch.com/forums/f-96/Spring
+- type: x-forum
+  url: http://www.coderanch.com/forums/f-11/EJB-JEE
+- type: x-forum
+  url: http://www.coderanch.com/forums/forums/allForums
+- type: x-website
+  url: https://www.javaranch.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

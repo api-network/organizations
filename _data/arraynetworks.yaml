@@ -1,0 +1,45 @@
+---
+name: ArrayNetworks
+description: Array is a leader in application delivery networking with over 5000 worldwide
+  customer deployments addressing secure delivery of applications to end users.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4688717"
+url: https://raw.githubusercontent.com/api-network/organizations/main/arraynetworks.yaml
+tags:
+- Array Networks
+- Application Delivery Networking
+- Appliances
+apis: []
+x-common:
+- type: x-website
+  url: http://www.arraynetworks.com
+- type: x-blog
+  url: https://blog.arraynetworks.com
+- type: x-blog
+  url: https://blog.arraynetworks.com/
+- type: x-connectors
+  url: https://dataconnectors.com/events/vancouver2019/
+- type: x-facebook
+  url: https://www.facebook.com/ArrayNetworks
+- type: x-feed
+  url: https://feeds.feedburner.com/feedburner/kMxu
+- type: x-linkedin
+  url: https://www.linkedin.com/company-beta/18414/
+- type: x-partner
+  url: https://partners.arraynetworks.com/aspx/Home
+- type: x-twitter
+  url: https://twitter.com/arraynetworks
+- type: x-website
+  url: https://www.arraynetworks.net
+- type: x-youtube
+  url: https://www.youtube.com/user/ArrayTV
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

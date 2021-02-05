@@ -1,0 +1,32 @@
+---
+name: The Ocean X
+description: The premier 0x-based relayer and liquidity pool.  Trade ERC20 tokens
+  with dramatically lower fees.  Integrate with your product and service.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28168-theoceanx-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-ocean-x.yaml
+tags:
+- Have API
+- Blockchain
+apis: []
+x-common:
+- type: x-documentation
+  url: https://docs.theoceanx.com/#introduction
+- type: x-email
+  url: hello@theoceanx.com
+- type: x-registration
+  url: https://beta.theoceanx.com/login
+- type: x-twitter
+  url: https://twitter.com/the0ceandotcom
+- type: x-website
+  url: https://theoceanx.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

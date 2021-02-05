@@ -1,0 +1,22 @@
+---
+name: Croatian Web Archive
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "156119"
+url: https://raw.githubusercontent.com/api-network/organizations/main/croatian-web-archive.yaml
+tags:
+- Archives
+apis: []
+x-common:
+- type: x-website
+  url: https://haw.nsk.hr
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

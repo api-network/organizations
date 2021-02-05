@@ -1,0 +1,37 @@
+---
+name: Adlib Software
+description: Adlib's industry leading solutions enhance business processes by unlocking
+  the value of unstructured content through Advanced Rendering technology
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "688376"
+url: https://raw.githubusercontent.com/api-network/organizations/main/adlib-software.yaml
+tags:
+- Windows Tools And Drivers
+- Data Extraction
+- Content Standardization
+- Content Classification
+- Advanced Rendering
+apis: []
+x-common:
+- type: x-website
+  url: https://www.adlibsoftware.com/adlibelevate.aspx
+- type: x-facebook
+  url: http://facebook.com/adlibsoftware
+- type: x-linkedin
+  url: http://www.linkedin.com/companies/adlib-software
+- type: x-twitter
+  url: http://twitter.com/adlibsoftware
+- type: x-website
+  url: https://www.adlibsoftware.com
+- type: x-youtube
+  url: http://www.youtube.com/adlibsoftware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

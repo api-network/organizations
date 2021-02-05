@@ -1,0 +1,44 @@
+---
+name: EasyNews
+description: Easynews is the original, web-based usenet provider offering the best
+  newsgroups with the fastest speeds and service. Sign up today for a free 14 day
+  trial.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "26609"
+url: https://raw.githubusercontent.com/api-network/organizations/main/easynews.yaml
+tags:
+- Feed Services
+apis: []
+x-common:
+- type: x-news
+  url: https://signup.easynews.com/
+- type: x-news
+  url: https://help.easynews.com/kb/section/18/
+- type: x-news
+  url: https://help.easynews.com/
+- type: x-news
+  url: https://help.easynews.com
+- type: x-news
+  url: https://members.easynews.com/login/
+- type: x-news
+  url: https://account.easynews.com
+- type: x-news
+  url: https://account.easynews.com/referafriend.php?pg=11
+- type: x-news
+  url: https://www.facebook.com/easynewsusenet
+- type: x-news
+  url: http://www.youtube.com/easynewsusenet
+- type: x-news
+  url: https://www.easynews.com/announce.phtml
+- type: x-website
+  url: https://www.easynews.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

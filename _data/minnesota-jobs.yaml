@@ -1,0 +1,23 @@
+---
+name: minnesota.jobs
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/minnesota-jobs.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://minnesota.jobs/minneapolis-mn/api-security-engineer/66506CD8C35D4820A7242158BC3859F0/job/
+- type: x-website
+  url: http://minnesota.jobs
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

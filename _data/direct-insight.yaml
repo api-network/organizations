@@ -1,0 +1,40 @@
+---
+name: Direct Insight
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4072063"
+url: https://raw.githubusercontent.com/api-network/organizations/main/direct-insight.yaml
+tags:
+- Embedded
+apis: []
+x-common:
+- type: x-website
+  url: http://www.directinsight.co.uk
+- type: x-about
+  url: https://www.directinsight.co.uk/about/
+- type: x-blog
+  url: http://blogs.directinsight.co.uk
+- type: x-blog
+  url: https://blogs.directinsight.co.uk/
+- type: x-events
+  url: https://www.directinsight.co.uk/events-2/
+- type: x-login
+  url: https://www.directinsight.co.uk/customer-login/
+- type: x-news
+  url: https://www.directinsight.co.uk/news/
+- type: x-privacy
+  url: https://www.directinsight.co.uk/privacy-notice/
+- type: x-twitter
+  url: https://twitter.com/DirectInsight
+- type: x-website
+  url: https://www.directinsight.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

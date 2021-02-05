@@ -1,0 +1,37 @@
+---
+name: Listary
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "256327"
+url: https://raw.githubusercontent.com/api-network/organizations/main/listary.yaml
+tags:
+- System
+- Software
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.listary.com/contact
+- type: x-documentation
+  url: https://www.listary.com/docs
+- type: x-support
+  url: https://www.listary.com/support
+- type: x-website
+  url: https://www.listary.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=9Yo-Asib2Sg
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=qiGQDvf69nc
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=9T9-OtRVeUw
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=e_gzDH-7ZLA
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,33 @@
+---
+name: XO Group
+description: ""
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/2709_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xo-group.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: https://big-pokey.tumblr.com/
+- type: x-about
+  url: https://www.theknotww.com/about-us/
+- type: x-careers
+  url: https://www.theknotww.com/careers/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/xo-group
+- type: x-press
+  url: https://www.theknotww.com/press-room/
+- type: x-twitter
+  url: https://twitter.com/xogroupinc
+- type: x-website
+  url: http://www.xogroupinc.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

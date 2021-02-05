@@ -1,0 +1,26 @@
+---
+name: E. Crane Computing
+description: E. Crane Computing provides innovative, practical add-ons that enhance
+  and extend the capabilities of PowerBuilder through our flagship product PowerGen,
+  the essential tool for generating PowerBuilder applications.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/e--crane-computing.yaml
+tags:
+- PowerGen
+- PowerBuilder
+- Companies
+apis: []
+x-common:
+- type: x-website
+  url: https://ecrane.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

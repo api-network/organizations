@@ -1,0 +1,58 @@
+---
+name: ZDNet Software Library
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3257"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zdnet-software-library.yaml
+tags:
+- Directories
+apis: []
+x-common:
+- type: x-about
+  url: http://www.zdnet.com/about/
+- type: x-blog
+  url: http://www.zdnet.com/blog/
+- type: x-facebook
+  url: https://www.facebook.com/pages/ZDNet/5953112932
+- type: x-feed
+  url: http://www.zdnet.com/rssfeeds/
+- type: x-forum
+  url: https://www.techrepublic.com/forums/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/zdnet-com
+- type: x-news
+  url: http://www.zdnet.com/newsletters/
+- type: x-news
+  url: http://www.zdnet.com/members/newsletters/
+- type: x-privacy
+  url: https://ca.privacy.cbs
+- type: x-privacy
+  url: https://ca.privacy.cbs/donotsell
+- type: x-security
+  url: http://www.zdnet.com/topic/security/
+- type: x-terms-of-service
+  url: http://www.cbsinteractive.com/legal/cbsi/terms-of-use
+- type: x-terms-of-service
+  url: http://legalterms.cbsinteractive.com/privacy
+- type: x-terms-of-service
+  url: http://legalterms.cbsinteractive.com/cookies
+- type: x-terms-of-service
+  url: http://legalterms.cbsinteractive.com/adchoice
+- type: x-terms-of-service
+  url: http://legalterms.cbsinteractive.com/terms-of-use
+- type: x-terms-of-service
+  url: http://legalterms.cbsinteractive.com/eula
+- type: x-twitter
+  url: http://twitter.com/zdnet
+- type: x-website
+  url: https://downloads.zdnet.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

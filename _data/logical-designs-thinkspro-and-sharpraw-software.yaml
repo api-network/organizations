@@ -1,0 +1,22 @@
+---
+name: 'Logical Designs: ThinksPro and SharpRaw Software'
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/logical-designs-thinkspro-and-sharpraw-software.yaml
+tags:
+- Image Editing
+apis: []
+x-common:
+- type: x-website
+  url: https://www.logicaldesigns.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

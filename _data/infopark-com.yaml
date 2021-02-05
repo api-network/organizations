@@ -1,0 +1,36 @@
+---
+name: Infopark.com
+description: Infopark has been accompanying its customers in the digital transformation
+  for more than 25 years and has helped their customers to become enthusiastic about
+  the web. Companies and organizations from every field put their faith in our solutions.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1797052"
+url: https://raw.githubusercontent.com/api-network/organizations/main/infopark-com.yaml
+tags:
+- Content Management
+apis: []
+x-common:
+- type: x-website
+  url: https://www.infopark.com
+- type: x-facebook
+  url: https://www.facebook.com/infopark
+- type: x-linkedin
+  url: https://www.linkedin.com/company/infopark
+- type: x-privacy
+  url: https://www.iubenda.com/privacy-policy/88708331
+- type: x-twitter
+  url: https://twitter.com/infopark
+- type: x-website
+  url: https://infopark.com
+- type: x-youtube
+  url: https://www.youtube.com/user/infoparkag
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,23 @@
+---
+name: fish4.co.uk
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fish4-co-uk.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.fish4.co.uk/job/4095235/senior-java-developer-greenfield-api-development-/
+- type: x-website
+  url: http://fish4.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

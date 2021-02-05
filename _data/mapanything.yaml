@@ -1,0 +1,81 @@
+---
+name: MapAnything
+description: MapAnything is a geo-productivity platform in Salesforce that helps sales,
+  service, and marketing teams increase revenue and boost productivity. Available
+  on the AppExchange.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29473-mapanything-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "307960"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mapanything.yaml
+tags:
+- Maps
+- Has API
+apis: []
+x-common:
+- type: x-blog
+  url: https://mapanything.com/resources/blog
+- type: x-contact
+  url: https://developer.mapanything.com/contact-us/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/cloudbilt
+- type: x-customers
+  url: https://mapanything.com/customers/
+- type: x-developer
+  url: https://developer.mapanything.com
+- type: x-developer
+  url: https://developer.mapanything.com/introduction/
+- type: x-developer
+  url: https://developer.mapanything.com/overview/
+- type: x-developer
+  url: https://developer.mapanything.com/distance-matrix/
+- type: x-developer
+  url: https://developer.mapanything.com/constraint-library/
+- type: x-developer
+  url: https://developer.mapanything.com/changelog/
+- type: x-developer
+  url: http://developer.mapanything.com
+- type: x-documentation
+  url: https://developer.mapanything.com/docs-matrix/
+- type: x-documentation
+  url: https://developer.mapanything.com/docs-routing/
+- type: x-email
+  url: results@mapanything.com
+- type: x-email
+  url: sales@mapanything.com
+- type: x-events
+  url: https://mapanything.com/resources/events
+- type: x-facebook
+  url: https://www.facebook.com/SalesforceMaps/
+- type: x-instagram
+  url: https://www.instagram.com/salesforcemaps/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/mapanything-inc/
+- type: x-privacy
+  url: https://www.salesforce.com/company/privacy
+- type: x-privacy
+  url: https://mapanything.com/trust/privacy-policy
+- type: x-support
+  url: https://developer.mapanything.com/support
+- type: x-support
+  url: https://mapanything.force.com/support/s/
+- type: x-terms-of-service
+  url: https://www.salesforce.com/company/legal/intellectual/
+- type: x-terms-of-service
+  url: https://www.salesforce.com/company/legal/
+- type: x-twitter
+  url: https://twitter.com/SalesforceMaps
+- type: x-twitter
+  url: https://twitter.com/MapAnything
+- type: x-webinars
+  url: https://mapanything.com/resources/webinars
+- type: x-website
+  url: http://mapanything.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

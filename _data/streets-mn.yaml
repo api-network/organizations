@@ -1,0 +1,23 @@
+---
+name: streets.mn
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/streets-mn.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://streets.mn/2015/02/16/improvements-necessary-in-order-for-minneapolis-open-data-portal-to-thrive/
+- type: x-website
+  url: http://streets.mn
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

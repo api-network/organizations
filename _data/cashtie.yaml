@@ -1,0 +1,49 @@
+---
+name: Cashtie
+description: Provide new payment solutions to your client base and integrate cash
+  payments into your existing applications with just a few lines of code.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1993_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cashtie.yaml
+tags:
+- Payments
+- Payments
+- Payments
+- Have API
+- Commerce
+- Cash
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cashtie.com
+- type: x-base
+  url: https://testapi.cashtie.com
+- type: x-blog
+  url: http://blog.cashtie.com
+- type: x-blog-rss
+  url: http://devblog.cashtie.com/archive
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/incomm
+- type: x-developers
+  url: https://www.cashtie.com/developers
+- type: x-pricing
+  url: https://www.cashtie.com/plans
+- type: x-terms-of-service
+  url: https://vanilladirect.com/pay/terms
+- type: x-twitter
+  url: https://twitter.com/Cashtieapi
+- type: x-twitter
+  url: https://twitter.com/inComm
+- type: x-website
+  url: https://www.cashtie.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

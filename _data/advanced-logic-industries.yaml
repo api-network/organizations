@@ -1,0 +1,51 @@
+---
+name: Advanced Logic Industries
+description: We help clients navigate the increasing complexity and risk of IT to
+  deliver services that positively impact organizational outcomes.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/advanced-logic-industries.yaml
+tags:
+- Related Software And Services
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ali-inc.com
+- type: x-about
+  url: https://www.ali-inc.com/about-us
+- type: x-about
+  url: https://www.ali-inc.com/about-us/work-at-ali
+- type: x-about
+  url: https://www.ali-inc.com/about-us/executive-leadership
+- type: x-about
+  url: https://www.ali-inc.com/about-us/work-at-ali/
+- type: x-blog
+  url: https://www.ali-inc.com/category/blog/
+- type: x-blog
+  url: https://www.ali-inc.com/category/blog/executive/
+- type: x-events
+  url: https://www.ali-inc.com/category/events/
+- type: x-events
+  url: https://www.ali-inc.com/events/launch-luncheon/
+- type: x-facebook
+  url: https://www.facebook.com/AdvancedLogic.main
+- type: x-news
+  url: https://www.ali-inc.com/news-blog
+- type: x-privacy
+  url: https://www.ali-inc.com/privacy-policy/
+- type: x-security
+  url: https://www.ali-inc.com/nproject-category/security/
+- type: x-twitter
+  url: https://twitter.com/AdvancedLogicVA
+- type: x-website
+  url: https://www.ali-inc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

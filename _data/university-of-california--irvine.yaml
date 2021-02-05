@@ -1,0 +1,48 @@
+---
+name: University of California - Irvine
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4110"
+url: https://raw.githubusercontent.com/api-network/organizations/main/university-of-california--irvine.yaml
+tags:
+- California
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ics.uci.edu
+- type: x-about
+  url: https://www.ics.uci.edu/about/search/index.php
+- type: x-about
+  url: https://www.ics.uci.edu/about/kfflab/index.php
+- type: x-about
+  url: https://www.ics.uci.edu/about/facilities/index.php
+- type: x-about
+  url: https://www.ics.uci.edu/about/visit/index.php
+- type: x-about
+  url: https://www.ics.uci.edu/about/about_safety.php
+- type: x-contact
+  url: https://www.ics.uci.edu/about/about_contact.php
+- type: x-facebook
+  url: http://facebook.com/UCIBrenICS
+- type: x-instagram
+  url: http://instagram.com/ucibrenics/
+- type: x-news
+  url: https://www.ics.uci.edu/community/news/
+- type: x-privacy
+  url: https://uci.edu/privacy/index.php
+- type: x-twitter
+  url: http://twitter.com/UCIbrenICS
+- type: x-website
+  url: https://www.ics.uci.edu
+- type: x-youtube
+  url: http://youtube.com/UCIBrenICS
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,32 @@
+---
+name: Virtual Reality Tours Australia
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/virtual-reality-tours-australia.yaml
+tags:
+- Companies
+apis: []
+x-common:
+- type: x-website
+  url: http://www.vrtours.com.au
+- type: x-facebook
+  url: http://www.facebook.com/vrtours
+- type: x-linkedin
+  url: http://www.linkedin.com/company/vr-tours
+- type: x-twitter
+  url: http://www.twitter.com/vr_tours
+- type: x-website
+  url: https://www.vrtours.com.au
+- type: x-youtube
+  url: http://www.youtube.com/user/360vrtours
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

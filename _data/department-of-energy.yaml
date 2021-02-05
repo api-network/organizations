@@ -1,0 +1,59 @@
+---
+name: Department of Energy
+description: Building the new clean energy economy. Reducing nuclear dangers & environmental
+  risks. Expanding the frontiers of knowledge via scientific research.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/US-DeptOfEnergy-Seal.svg.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "14601"
+url: https://raw.githubusercontent.com/api-network/organizations/main/department-of-energy.yaml
+tags:
+- Have API
+- Federal Government
+- Data JSON
+- API Provider
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://energy.gov
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/us-department-of-energy
+- type: x-data
+  url: https://www.energy.gov/data/open-energy-data
+- type: x-developers
+  url: http://www.energy.gov/developers
+- type: x-email
+  url: The.Secretary@hq.doe.gov
+- type: x-email
+  url: DOENews@hq.doe.gov
+- type: x-email
+  url: clearinghouse@oro.doe.gov
+- type: x-email
+  url: DOE.Webmaster@hq.doe.gov
+- type: x-email
+  url: DOEOCIOInfo@hq.doe.gov
+- type: x-email
+  url: askNEPA@hq.doe.gov
+- type: x-email
+  url: HQSafetyandHealth@hq.doe.gov
+- type: x-email
+  url: GTNFacOpsHelpdesk@hq.doe.gov
+- type: x-email
+  url: ForFacOpsHelpdesk@hq.doe.gov
+- type: x-email
+  url: tim.smith@hq.doe.gov
+- type: x-twitter
+  url: https://twitter.com/ENERGY
+- type: x-website
+  url: http://www.energy.gov
+- type: x-wikipedia
+  url: http://en.wikipedia.org/wiki/United_States_Department_of_Energy
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

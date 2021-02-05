@@ -1,0 +1,62 @@
+---
+name: SecurityProNews
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/securitypronews.yaml
+tags:
+- News And Media
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.webpronews.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/WebProNews/
+- type: x-news
+  url: https://www.webpronews.com/
+- type: x-news
+  url: https://www.webpronews.com/category/advertising/
+- type: x-news
+  url: https://www.webpronews.com/category/business/
+- type: x-news
+  url: https://www.webpronews.com/category/developer/
+- type: x-news
+  url: https://www.webpronews.com/category/developer/devnews/
+- type: x-news
+  url: https://www.webpronews.com/category/ecommerce/
+- type: x-news
+  url: https://www.webpronews.com/category/technology/
+- type: x-news
+  url: https://www.webpronews.com/category/emergingtrends/
+- type: x-news
+  url: https://www.linkedin.com/company/webpronews
+- type: x-news
+  url: https://www.webpronews.com/advertise/
+- type: x-news
+  url: https://www.webpronews.com/privacy-policy/
+- type: x-news
+  url: https://www.webpronews.com/sitemap_index.xml
+- type: x-news
+  url: https://www.webpronews.com/author/mattmilano/
+- type: x-news
+  url: https://www.webpronews.com/author/brian-wallace/
+- type: x-news
+  url: https://www.webpronews.com/darktrace-cloud-security/
+- type: x-news
+  url: https://www.webpronews.com/author/rich/
+- type: x-news
+  url: https://www.webpronews.com/subscribe/
+- type: x-twitter
+  url: https://twitter.com/WebProNews
+- type: x-website
+  url: https://www.securitypronews.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

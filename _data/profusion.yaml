@@ -1,0 +1,36 @@
+---
+name: Profusion
+description: ProFUSION Embedded Systems is a software services company doing consulting,
+  training and development focused on Linux for embedded systems and Internet of Things.
+  Open source experts.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3653356"
+url: https://raw.githubusercontent.com/api-network/organizations/main/profusion.yaml
+tags:
+- Embedded
+apis: []
+x-common:
+- type: x-website
+  url: http://profusion.mobi
+- type: x-facebook
+  url: https://facebook.github.io/react-native/
+- type: x-facebook
+  url: https://www.facebook.com/profusion.mobi/
+- type: x-github
+  url: https://github.com/solettaproject/soletta/
+- type: x-github
+  url: https://github.com/profusion
+- type: x-twitter
+  url: https://twitter.com/profusionembed
+- type: x-website
+  url: https://profusion.mobi
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

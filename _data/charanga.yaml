@@ -1,0 +1,33 @@
+---
+name: Charanga
+description: Primary music curriculum, secondary and instrumental music resources
+  for teachers and students.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "680473"
+url: https://raw.githubusercontent.com/api-network/organizations/main/charanga.yaml
+tags:
+- Educational
+apis: []
+x-common:
+- type: x-contact
+  url: https://charanga.com/site/contact-us/
+- type: x-login
+  url: https://charanga.com/yumu/login
+- type: x-news
+  url: https://charanga.com/site/news/
+- type: x-partner
+  url: https://charanga.com/site/partnerships/
+- type: x-twitter
+  url: https://twitter.com/CharangaMusic
+- type: x-website
+  url: https://www.charanga.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

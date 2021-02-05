@@ -1,0 +1,22 @@
+---
+name: Atari 800 Emulator for Windows
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8225932"
+url: https://raw.githubusercontent.com/api-network/organizations/main/atari-800-emulator-for-windows.yaml
+tags:
+- Atari
+apis: []
+x-common:
+- type: x-website
+  url: https://ataridogdaze.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

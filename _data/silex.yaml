@@ -1,0 +1,22 @@
+---
+name: Silex
+description: <p><span>Silex is a PHP microframework for PHP 5.3. It is built on the
+  shoulders of Symfony2 and Pimple and also inspired by sinatra.</span></p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/silex-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: ""
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/silex.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://silex.sensiolabs.org/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

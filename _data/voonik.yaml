@@ -1,0 +1,33 @@
+---
+name: Voonik
+description: Voonik is an online marketplace operating in products for women's fashion.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29662-voonik-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "79576"
+url: https://raw.githubusercontent.com/api-network/organizations/main/voonik.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.voonik.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/voonik-com
+- type: x-facebook
+  url: https://facebook.com/voonik
+- type: x-instagram
+  url: https://instagram.com/voonikdotcom
+- type: x-support
+  url: http://voonik.freshdesk.com/support/home
+- type: x-twitter
+  url: https://twitter.com/Voonik
+- type: x-website
+  url: http://voonik.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

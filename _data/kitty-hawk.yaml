@@ -1,0 +1,36 @@
+---
+name: Kitty Hawk
+description: The Kitty Hawk Corporation is an American aircraft manufacturer producing
+  electric aircraft.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29427-kittyhawk-aero.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "504202"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kitty-hawk.yaml
+tags: []
+apis: []
+x-common:
+- type: x-careers
+  url: https://kittyhawk.aero/careers/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/kitty-hawk
+- type: x-email
+  url: hello@kittyhawk.aero
+- type: x-email
+  url: privacy@kittyhawk.aero
+- type: x-facebook
+  url: https://www.facebook.com/kittyhawkaero
+- type: x-press
+  url: https://kittyhawk.aero/press/
+- type: x-twitter
+  url: https://twitter.com/kittyhawkcorp
+- type: x-website
+  url: http://kittyhawk.aero
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

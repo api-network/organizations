@@ -1,0 +1,31 @@
+---
+name: Ipdata
+description: <p><span>Get the Geolocation, Organisation, Currency, Timezone, Calling
+  Code, Flag, Proxy, Carrier Detection, Tor and Threat intelligence data from any
+  IPv4 or IPv6 address.</span></p>
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28788-ipdata-co.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "5"
+x-alexaRank: "540185"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ipdata.yaml
+tags:
+- Networks
+- IP Addresses
+- IP Address
+- Have API Paths
+apis: []
+x-common:
+- type: x-email
+  url: support@ipdata.co
+- type: x-twitter
+  url: https://twitter.com/ipdata_co
+- type: x-website
+  url: https://ipdata.co
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

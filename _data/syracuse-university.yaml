@@ -1,0 +1,86 @@
+---
+name: Syracuse University
+description: <p>Syracuse University has the APIs, but just not exposed. They have
+  a single page talking about, without much other detail. Work to be done.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/syracuse-university.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "14062"
+url: https://raw.githubusercontent.com/api-network/organizations/main/syracuse-university.yaml
+tags:
+- University In Progress
+- Has API
+apis: []
+x-common:
+- type: x-website
+  url: http://syracuse.edu
+- type: x-about
+  url: https://www.syracuse.edu/about/
+- type: x-about
+  url: https://www.syracuse.edu/about/leadership/
+- type: x-about
+  url: https://www.syracuse.edu/about/vision-mission/
+- type: x-about
+  url: https://www.syracuse.edu/about/consumer-information/
+- type: x-about
+  url: https://www.syracuse.edu/about/facts-figures-rankings/
+- type: x-about
+  url: https://www.syracuse.edu/about/visit/
+- type: x-about
+  url: https://www.syracuse.edu/about/map/
+- type: x-about
+  url: https://www.syracuse.edu/about/campus-shuttle/
+- type: x-about
+  url: https://www.syracuse.edu/about/history/
+- type: x-about
+  url: https://www.syracuse.edu/about/work-at-syracuse/
+- type: x-about
+  url: https://www.syracuse.edu/about/social-media/
+- type: x-about
+  url: https://www.syracuse.edu/about/bookstore/
+- type: x-about
+  url: https://www.syracuse.edu/about/brand/
+- type: x-contact
+  url: https://www.syracuse.edu/about/contact/
+- type: x-contact
+  url: https://www.syracuse.edu/about/contact/emergencies/
+- type: x-developers
+  url: http://onlineplatforms.syr.edu/services/web-services-api/
+- type: x-events
+  url: https://www.syracuse.edu/life/events-calendar/
+- type: x-events
+  url: https://calendar.syracuse.edu/events/
+- type: x-facebook
+  url: https://www.facebook.com/syracuseuniversity/
+- type: x-feed
+  url: https://www.syracuse.edu/about/site/feedback/
+- type: x-instagram
+  url: https://www.instagram.com/syracuseu/
+- type: x-login
+  url: https://www.syracuse.edu/login/
+- type: x-news
+  url: https://www.syracuse.edu/about/news/
+- type: x-news
+  url: https://news.syr.edu/topics/alumni/
+- type: x-news
+  url: https://news.syr.edu/
+- type: x-partner
+  url: https://www.syracuse.edu/about/partnerships/
+- type: x-privacy
+  url: https://www.syracuse.edu/about/site/privacy-policy/
+- type: x-support
+  url: https://www.syracuse.edu/life/services-support/
+- type: x-twitter
+  url: https://twitter.com/SyracuseU
+- type: x-website
+  url: http://syr.edu/
+- type: x-youtube
+  url: https://www.youtube.com/user/Syracuse
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,75 @@
+---
+name: Director MX Blog
+description: Director MX Software Blog
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/director-mx-blog.yaml
+tags:
+- Weblogs
+- Director MX Software Blog
+apis: []
+x-common:
+- type: x-blog
+  url: http://btartar.blogspot.com/
+- type: x-blog
+  url: http://astapjasta.blogspot.com/
+- type: x-blog
+  url: http://btartar.blogspot.com/2002_04_21_archive.html
+- type: x-blog
+  url: http://btartar.blogspot.com/2002_04_28_archive.html
+- type: x-blog
+  url: http://btartar.blogspot.com/2002_05_05_archive.html
+- type: x-blog
+  url: http://btartar.blogspot.com/2002_05_12_archive.html
+- type: x-blog
+  url: http://btartar.blogspot.com/2002_05_19_archive.html
+- type: x-blog
+  url: http://btartar.blogspot.com/2002_05_26_archive.html
+- type: x-blog
+  url: http://btartar.blogspot.com/2002_06_02_archive.html
+- type: x-blog
+  url: http://btartar.blogspot.com/2002_06_09_archive.html
+- type: x-blog
+  url: http://btartar.blogspot.com/2002_06_16_archive.html
+- type: x-blog
+  url: http://btartar.blogspot.com/2002_06_23_archive.html
+- type: x-blog
+  url: http://btartar.blogspot.com/2002_07_07_archive.html
+- type: x-blog
+  url: http://btartar.blogspot.com/2002_07_14_archive.html
+- type: x-blog
+  url: http://btartar.blogspot.com/2002_07_28_archive.html
+- type: x-blog
+  url: http://btartar.blogspot.com/2002_08_04_archive.html
+- type: x-blog
+  url: http://btartar.blogspot.com/2002_08_11_archive.html
+- type: x-blog
+  url: http://btartar.blogspot.com/2002_08_18_archive.html
+- type: x-blog
+  url: http://btartar.blogspot.com/2002_08_25_archive.html
+- type: x-blog
+  url: http://btartar.blogspot.com/2002_09_01_archive.html
+- type: x-blog
+  url: http://btartar.blogspot.com/2002_09_08_archive.html
+- type: x-blog
+  url: http://btartar.blogspot.com/2002_09_15_archive.html
+- type: x-blog
+  url: http://btartar.blogspot.com/2002_11_17_archive.html
+- type: x-blog
+  url: http://btartar.blogspot.com/2003_01_05_archive.html
+- type: x-blog
+  url: http://btartar.blogspot.com/2003_02_02_archive.html
+- type: x-blog
+  url: http://btartar.blogspot.com/2003_02_09_archive.html
+- type: x-website
+  url: https://btartar.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

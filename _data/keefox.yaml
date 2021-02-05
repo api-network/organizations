@@ -1,0 +1,28 @@
+---
+name: KeeFox
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/keefox.yaml
+tags:
+- Add-Ons
+apis: []
+x-common:
+- type: x-forum
+  url: https://forum.kee.pm/t/installing-kee-instructions/23
+- type: x-forum
+  url: https://forum.kee.pm
+- type: x-forum
+  url: https://forum.kee.pm/t/help-and-support/24
+- type: x-website
+  url: https://keefox.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

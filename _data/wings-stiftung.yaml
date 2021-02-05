@@ -1,0 +1,24 @@
+---
+name: WINGS Stiftung
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/api-butterfly.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "247074"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wings-stiftung.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/wings-foundation
+- type: x-website
+  url: https://wings.ai
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

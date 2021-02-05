@@ -1,0 +1,41 @@
+---
+name: PDF Helper
+description: 'PDF Helper official site. We focus on PDF converters PC software production.
+  Products: PDF to X, PDF to DOC, PDF to JPG, PDF to HTML, PDF to Text.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1074526"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pdf-helper.yaml
+tags:
+- Software
+apis: []
+x-common:
+- type: x-website
+  url: http://www.pdf-helper.com/
+- type: x-about
+  url: https://www.trisunsoft.com/about.htm
+- type: x-privacy
+  url: https://www.trisunsoft.com/privacy.htm
+- type: x-support
+  url: https://www.pdf-helper.com/de/
+- type: x-support
+  url: https://www.pdf-helper.com/fr/
+- type: x-support
+  url: https://www.pdf-helper.com/sc/
+- type: x-support
+  url: https://www.pdf-helper.com/tc/
+- type: x-terms-of-service
+  url: https://www.trisunsoft.com/legal.htm
+- type: x-twitter
+  url: https://twitter.com/PDFHelper
+- type: x-website
+  url: https://www.pdf-helper.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

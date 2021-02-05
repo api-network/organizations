@@ -1,0 +1,40 @@
+---
+name: Hacking Linux Exposed
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9036454"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hacking-linux-exposed.yaml
+tags:
+- Security
+apis: []
+x-common:
+- type: x-security
+  url: http://www.securityfocus.com/infocus/1593
+- type: x-security
+  url: http://www.securityfocus.com/infocus/1598
+- type: x-security
+  url: http://www.securityfocus.com/infocus/1606
+- type: x-security
+  url: http://www.securityfocus.com/infocus/1611
+- type: x-security
+  url: http://www.securityfocus.com/
+- type: x-security
+  url: http://www.securityfocus.com/infocus/1496
+- type: x-security
+  url: http://www.securityfocus.com/infocus/1502
+- type: x-security
+  url: http://www.securityfocus.com/infocus/1510
+- type: x-security
+  url: http://www.securityfocus.com/infocus/1517
+- type: x-website
+  url: https://www.hackinglinuxexposed.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

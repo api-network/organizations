@@ -1,0 +1,38 @@
+---
+name: MacNN Forums
+description: This is a discussion forum about Macs, Apple, iPod, and other Mac-related
+  news, events, tips, etc.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1232344"
+url: https://raw.githubusercontent.com/api-network/organizations/main/macnn-forums.yaml
+tags:
+- Power Mac
+- News
+- Macnn
+- Macintosh
+- Mac News Network
+- Mac
+- Ipod News Network
+- Ipod Accessories
+- IPod
+- IPhone
+- IMac
+- G5
+- Chats And Forums
+- Apple
+apis: []
+x-common:
+- type: x-privacy
+  url: http://www.macnn.com/privacy/
+- type: x-website
+  url: https://forums.macnn.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

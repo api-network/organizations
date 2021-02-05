@@ -1,0 +1,39 @@
+---
+name: Fractal
+description: <p>Fractal provides a presentation and transformation layer for complex
+  data output, the like found in RESTful APIs, and works really well with JSON. Think
+  of this as a view layer for your JSON/YAML/etc. When building an API it is common
+  for people to just grab stuff from the database and pass it to json_encode(). This
+  might be passable for &ldquo;trivial&rdquo; APIs but if they are in use by the public,
+  or used by mobile applications then this will quickly lead to inconsistent output.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/fractal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "152037"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fractal.yaml
+tags:
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://jasonlewis.me
+- type: x-github
+  url: https://github.com/thephpleague/fractal
+- type: x-github
+  url: https://github.com/thephpleague/fractal/releases
+- type: x-twitter
+  url: https://twitter.com/philsturgeon
+- type: x-twitter
+  url: https://twitter.com/greydnls
+- type: x-twitter
+  url: https://twitter.com/jasonclewis
+- type: x-website
+  url: http://fractal.thephpleague.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

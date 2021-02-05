@@ -1,0 +1,56 @@
+---
+name: thinktecture
+description: Thinktecture - we help software developers!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "712030"
+url: https://raw.githubusercontent.com/api-network/organizations/main/thinktecture.yaml
+tags:
+- Commercial Services
+apis: []
+x-common:
+- type: x-website
+  url: https://christianliebel.com
+- type: x-twitter
+  url: https://twitter.com/christianweyer
+- type: x-twitter
+  url: https://twitter.com/ingorammer
+- type: x-twitter
+  url: https://twitter.com/boriswilhelms
+- type: x-twitter
+  url: https://twitter.com/christianliebel
+- type: x-twitter
+  url: https://twitter.com/goeranhomberg
+- type: x-twitter
+  url: https://twitter.com/kdenerz
+- type: x-twitter
+  url: https://twitter.com/manuelrauber
+- type: x-twitter
+  url: https://twitter.com/marcofrodl
+- type: x-twitter
+  url: https://twitter.com/MaxOSchulte
+- type: x-twitter
+  url: https://twitter.com/patrickjahr
+- type: x-twitter
+  url: https://twitter.com/pawelgerr
+- type: x-twitter
+  url: https://twitter.com/phoenixhawk
+- type: x-twitter
+  url: https://twitter.com/steffenjahr
+- type: x-twitter
+  url: https://twitter.com/hilzendegent
+- type: x-twitter
+  url: https://twitter.com/thorstenhans
+- type: x-twitter
+  url: https://twitter.com/yannick_baron
+- type: x-website
+  url: https://www.thinktecture.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

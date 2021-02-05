@@ -1,0 +1,24 @@
+---
+name: Walden Personnel Testing &amp; Consulting, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7876324"
+url: https://raw.githubusercontent.com/api-network/organizations/main/walden-personnel-testing-amp-consulting-inc-.yaml
+tags:
+- Testing And Evaluation
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/aptitudetesting
+- type: x-website
+  url: https://www.waldentesting.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

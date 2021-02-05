@@ -1,0 +1,29 @@
+---
+name: Iowa 511
+description: <p>Iowa 511 service.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+  Shot 2017-12-31 at 9.05.54 PM.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/iowa-511.yaml
+tags:
+- "511"
+apis: []
+x-common:
+- type: x-website
+  url: https://www.511ia.org/
+- type: x-twitter
+  url: https://twitter.com/statewideia511
+- type: x-website
+  url: https://iowadot.gov/511/iowa-s-511-websites-and-apps
+- type: x-xml-feeds
+  url: https://iowadot.gov/511/xml-data-feed-access
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

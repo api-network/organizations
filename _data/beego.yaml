@@ -1,0 +1,38 @@
+---
+name: Beego
+description: <p>With RESTful support, MVC model, and use bee tool to build your apps
+  quickly with features including code hot compile, automated testing, and automated
+  packing and deploying. With intelligent routing and monitoring, it's able to monitor
+  your QPS, memory and CPU usages, and goroutine status. It provides you the fully
+  control of your online apps. With powerful built-in modules including session control,
+  caching, logging, configuration parsing, performance supervising, context handling,
+  ORM supporting, and requests simulating. You get the powerful foundation for any
+  type of applications. With native Go http package to handle the requests and the
+  efficient concurrence of goroutine. Your beego applications can handle massive trafic
+  as beego are doing in many productions.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/beego_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "292933"
+url: https://raw.githubusercontent.com/api-network/organizations/main/beego.yaml
+tags:
+- Have API
+- Go
+- Framework
+- API Tools
+apis: []
+x-common:
+- type: x-blog
+  url: http://beego.me/blog
+- type: x-github
+  url: https://github.com/astaxie/beego
+- type: x-website
+  url: http://beego.me/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

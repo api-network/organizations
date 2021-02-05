@@ -1,0 +1,47 @@
+---
+name: Technology's Edge
+description: Are you looking for a reliable IT Services Provider for your business?
+  Technology's Edge is dedicated to the success of your Orange County small business!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/technologys-edge.yaml
+tags:
+- California
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.techedge.com/blog
+- type: x-careers
+  url: https://www.techedge.com/careers
+- type: x-contact
+  url: https://www.techedge.com/contact
+- type: x-facebook
+  url: https://www.facebook.com/technologysedge/
+- type: x-facebook
+  url: http://www.facebook.com/technologysedge/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/technology%27s-edge
+- type: x-news
+  url: https://www.techedge.com/it-security-news
+- type: x-security
+  url: https://www.techedge.com/solutions/network-security
+- type: x-security
+  url: https://www.techedge.com/cyber-security-checklist
+- type: x-security
+  url: https://www.techedge.com/category/network-security
+- type: x-security
+  url: https://www.techedge.com/category/internet-security
+- type: x-support
+  url: https://www.techedge.com/it-services-support-brea-ca/
+- type: x-website
+  url: https://www.techedge.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

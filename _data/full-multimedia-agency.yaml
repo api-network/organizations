@@ -1,0 +1,53 @@
+---
+name: Full Multimedia Agency
+description: Serving Castle Rock with website design and graphic design services,
+  we know and understand the Castle Rock businesses community.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3478969"
+url: https://raw.githubusercontent.com/api-network/organizations/main/full-multimedia-agency.yaml
+tags:
+- Services
+apis: []
+x-common:
+- type: x-website
+  url: http://www.gopixel.com
+- type: x-blog
+  url: https://www.gopixel.com/blog/
+- type: x-blog
+  url: https://www.gopixel.com/blog
+- type: x-contact
+  url: https://www.gopixel.com/contact/
+- type: x-facebook
+  url: http://www.facebook.com/gopixel
+- type: x-feed
+  url: https://www.gopixel.com/feed=rss2
+- type: x-linkedin
+  url: http://www.linkedin.com/in/gopixel
+- type: x-linkedin
+  url: http://www.linkedin.com/company/gopixel-com/products
+- type: x-logos
+  url: https://www.gopixel.com/home-page-top/logos-identity/
+- type: x-privacy
+  url: https://www.gopixel.com/privacy-policy/
+- type: x-support
+  url: https://www.gopixel.com/start-up-business-help/
+- type: x-support
+  url: https://www.gopixel.com/start-up-business-help
+- type: x-twitter
+  url: http://www.twitter.com/gopixel
+- type: x-twitter
+  url: https://twitter.com/gopixel
+- type: x-website
+  url: https://www.gopixel.com
+- type: x-youtube
+  url: http://www.youtube.com/gopixeldesigns
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

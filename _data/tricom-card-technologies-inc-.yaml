@@ -1,0 +1,23 @@
+---
+name: TriCom Card Technologies, Inc.
+description: ID Scanners, ID scanners for Bars, Night Clubs, C-stores, Liquor stores,
+  and Casinos. Age Verification for Age restricted products or services.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tricom-card-technologies-inc-.yaml
+tags:
+- Readers
+apis: []
+x-common:
+- type: x-website
+  url: https://id-escanner.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

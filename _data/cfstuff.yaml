@@ -1,0 +1,188 @@
+---
+name: CFStuff
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cfstuff.yaml
+tags:
+- Weblogs
+apis: []
+x-common:
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/subversion
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/android
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/javascript
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/casting
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/tipps
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/cfimage
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/facebook
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/coldfusion
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/java
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/railo
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/wddx
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/xml
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/setup
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/ant
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/amazon
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/ec2
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/fun
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/ie
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/json
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/apache
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/mac%20os
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/database
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/h2
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/mysql
+- type: x-blog
+  url: http://www.bennadel.com/index.cfm?dax=blog:618.view
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/feature
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/rss
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/jdbc
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/sqlite
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/cfquery
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/primer
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/tutorial
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/cgi
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/cffile
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/scopes
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/webdeveloper
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/jrun
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/linux
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/hints
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/webservice
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/cfhttp
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/jvm
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/memory
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/update
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/cf8
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/jquery
+- type: x-blog
+  url: https://cfstuff.blogspot.com/
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/machii
+- type: x-blog
+  url: https://cfstuff.blogspot.com/search/label/transfer
+- type: x-blog
+  url: http://www.bennadel.com/blog/
+- type: x-blog
+  url: https://cfstuff.blogspot.com/2011/
+- type: x-blog
+  url: https://cfstuff.blogspot.com/2011/02/
+- type: x-blog
+  url: https://cfstuff.blogspot.com/2010/
+- type: x-blog
+  url: https://cfstuff.blogspot.com/2010/09/
+- type: x-blog
+  url: https://cfstuff.blogspot.com/2010/07/
+- type: x-blog
+  url: https://cfstuff.blogspot.com/2010/05/
+- type: x-blog
+  url: https://cfstuff.blogspot.com/2010/02/
+- type: x-blog
+  url: https://cfstuff.blogspot.com/2010/01/
+- type: x-blog
+  url: https://cfstuff.blogspot.com/2009/
+- type: x-blog
+  url: https://cfstuff.blogspot.com/2009/12/
+- type: x-blog
+  url: https://cfstuff.blogspot.com/2009/11/
+- type: x-blog
+  url: https://cfstuff.blogspot.com/2009/08/
+- type: x-blog
+  url: https://cfstuff.blogspot.com/2009/06/
+- type: x-blog
+  url: https://cfstuff.blogspot.com/2009/04/
+- type: x-blog
+  url: https://cfstuff.blogspot.com/2009/02/
+- type: x-blog
+  url: https://cfstuff.blogspot.com/2009/01/
+- type: x-blog
+  url: https://cfstuff.blogspot.com/2008/
+- type: x-blog
+  url: https://cfstuff.blogspot.com/2008/10/
+- type: x-blog
+  url: https://cfstuff.blogspot.com/2008/08/
+- type: x-blog
+  url: https://cfstuff.blogspot.com/2008/06/
+- type: x-blog
+  url: https://cfstuff.blogspot.com/2008/05/
+- type: x-blog
+  url: https://cfstuff.blogspot.com/2008/04/
+- type: x-blog
+  url: https://cfstuff.blogspot.com/2008/03/
+- type: x-blog
+  url: https://cfstuff.blogspot.com/2008/02/
+- type: x-blog
+  url: https://cfstuff.blogspot.com/2008/01/
+- type: x-blog
+  url: https://cfstuff.blogspot.com/2007/
+- type: x-blog
+  url: https://cfstuff.blogspot.com/2007/11/
+- type: x-blog
+  url: https://cfstuff.blogspot.com/2007/10/
+- type: x-blog
+  url: https://cfstuff.blogspot.com/2007/09/
+- type: x-documentation
+  url: http://livedocs.adobe.com/coldfusion/8/Tags_i_02.html
+- type: x-feed
+  url: https://cfstuff.blogspot.com/feeds/posts/default
+- type: x-forum
+  url: http://forum.xda-developers.com/forumdisplay.php?f=628
+- type: x-forum
+  url: http://forums.adobe.com/thread/53705
+- type: x-website
+  url: https://cfstuff.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

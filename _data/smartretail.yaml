@@ -1,0 +1,33 @@
+---
+name: SmartRetail
+description: The smartest Point of Sale, POS, to price and manage stock, keep your
+  customers happy, and stay on top of your business.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5461838"
+url: https://raw.githubusercontent.com/api-network/organizations/main/smartretail.yaml
+tags:
+- Billing
+apis: []
+x-common:
+- type: x-about
+  url: https://smartretail.co.za/about-us/
+- type: x-contact
+  url: https://smartretail.co.za/contact-us/
+- type: x-contact
+  url: http://smartretail.co.za/contact-us/
+- type: x-login
+  url: https://smartretail.co.za/login/
+- type: x-privacy
+  url: https://smartretail.co.za/privacy-policy/
+- type: x-website
+  url: https://www.smartretail.co.za
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

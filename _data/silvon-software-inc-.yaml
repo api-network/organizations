@@ -1,0 +1,46 @@
+---
+name: Silvon Software Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1109144"
+url: https://raw.githubusercontent.com/api-network/organizations/main/silvon-software-inc-.yaml
+tags:
+- Decision Support Tools
+apis: []
+x-common:
+- type: x-website
+  url: http://www.silvon.com
+- type: x-blog
+  url: https://www.silvon.com/blog/
+- type: x-careers
+  url: https://www.silvon.com/careers.php
+- type: x-contact
+  url: https://www.silvon.com/contact.php
+- type: x-customers
+  url: https://www.silvon.com/customers.php
+- type: x-forum
+  url: https://forum.silvon.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/22588
+- type: x-news
+  url: https://www.silvon.com/news.php
+- type: x-privacy
+  url: https://www.silvon.com/privacy.php
+- type: x-support
+  url: https://www.silvon.com/service-support-overview.php
+- type: x-support
+  url: https://www.silvon.com/support.php
+- type: x-twitter
+  url: https://twitter.com/SilvonSoftware
+- type: x-website
+  url: https://www.silvon.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

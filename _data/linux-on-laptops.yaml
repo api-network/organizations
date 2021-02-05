@@ -1,0 +1,36 @@
+---
+name: Linux on Laptops
+description: 'Linux Laptops: Resource for installing Linux on laptop and notebook
+  computers. What laptop and which distribution combines well.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3151172"
+url: https://raw.githubusercontent.com/api-network/organizations/main/linux-on-laptops.yaml
+tags:
+- Which Laptop
+- What Laptop
+- Unix
+- Notebooks
+- Notebook
+- Linux
+- Laptops
+- Laptop
+- Lap Tops
+- Lap Top
+- Computers
+- Computer
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.linux-laptop.net
+- type: x-website
+  url: https://www.linux-laptop.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,55 @@
+---
+name: Zemondo Design
+description: design for artists, musicians, and entrepreneurs, website maintenance
+  and updating, fast service and reasonable prices
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zemondo-design.yaml
+tags:
+- Zemondo
+- Ze Daluz
+- Web Site
+- Web
+- Updates
+- Site Maintenance
+- Site Creation
+- Services
+- Quick Turn Around
+- Proofreading
+- Product Photos
+- Print On Demand
+- Photography
+- Photographer
+- Newsletters
+- New Orleans
+- Musicians
+- Louisiana
+- Layout
+- Internet
+- Hourly Rate
+- Graphics
+- Entrepreneurs
+- Editing
+- Digital Art
+- Brochures
+- Books
+- Artists And Galleries
+- Artists
+apis: []
+x-common:
+- type: x-about
+  url: http://www.zemondo.com/aboutzemondodesign.html
+- type: x-contact
+  url: http://www.zemondo.com/contactzemondodesign.html
+- type: x-website
+  url: https://www.zemondo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

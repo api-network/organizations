@@ -1,0 +1,42 @@
+---
+name: ManagedMethods
+description: ManagedMethods makes cloud security easy with tools that provide visibility
+  and control of Google G Suite, Office 365 and many other popular cloud apps.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/managed-methods-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1307674"
+url: https://raw.githubusercontent.com/api-network/organizations/main/managedmethods.yaml
+tags:
+- Security
+- Have API
+apis: []
+x-common:
+- type: x-blog
+  url: https://managedmethods.com/blog/
+- type: x-case-studies
+  url: https://managedmethods.com/use-cases/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/managed-methods
+- type: x-crunchbase
+  url: http://www.crunchbase.com/organization/managed-methods
+- type: x-email
+  url: info@managedmethods.com
+- type: x-email
+  url: sales@managedmethods.com
+- type: x-instagram
+  url: https://www.instagram.com/managedmethods/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/managed-methods-inc
+- type: x-twitter
+  url: https://twitter.com/managedmethods
+- type: x-website
+  url: http://managedmethods.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

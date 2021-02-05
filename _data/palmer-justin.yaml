@@ -1,0 +1,30 @@
+---
+name: Palmer, Justin
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/palmer-justin.yaml
+tags:
+- People
+apis: []
+x-common:
+- type: x-website
+  url: http://labratrevenge.com
+- type: x-feed
+  url: http://feeds.feedburner.com/dealloc
+- type: x-github
+  url: http://github.com/caged
+- type: x-twitter
+  url: http://twitter.com/caged
+- type: x-website
+  url: https://dealloc.me
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

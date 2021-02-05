@@ -1,0 +1,23 @@
+---
+name: personal-data.okfn.org
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/personaldata-okfn-org.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://personal-data.okfn.org/2015/02/25/looking-back-our-year-in-open-data-and-privacy-work/
+- type: x-website
+  url: http://personal-data.okfn.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

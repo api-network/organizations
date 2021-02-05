@@ -1,0 +1,37 @@
+---
+name: Payoneer
+description: "Payoneer\u2019s mission is to empower businesses to go beyond \u2013
+  beyond borders, limits and expectations. In today\u2019s digital world, Payoneer\u2019s
+  platform streamlines global commerce for millions of small businesses, marketplaces
+  and enterprises from 200 countries and territories. Leveraging its robust technology,
+  compliance, and banking infrastructure, Payoneer delivers a suite of services that
+  includes cross-border payments, working capital, tax solutions and risk management.
+  Powering growth for customers ranging from entrepreneurs in emerging markets to
+  the world\u2019s leading digital brands like Airbnb, Amazon, Google and Upwork,
+  Payoneer makes global commerce easy and secure."
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "940"
+url: https://raw.githubusercontent.com/api-network/organizations/main/payoneer.yaml
+tags:
+- Profile
+- Payments
+- No API Definition
+- Has API
+apis: []
+x-common:
+- type: x-website
+  url: https://www.payoneer.com/
+- type: x-twitter
+  url: https://twitter.com/Payoneer
+- type: x-website
+  url: http://register.payoneer.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

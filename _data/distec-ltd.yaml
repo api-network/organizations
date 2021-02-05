@@ -1,0 +1,57 @@
+---
+name: Distec Ltd
+description: Distec work with industry-leading vendors to provide our customers in
+  Industrial Automation, Transportation, Healthcare & Digital Signage markets with
+  world-class technology solutions.  We help customers increase uptime and efficiencies,
+  cut costs, and ensure a safe working environment.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/distec-ltd.yaml
+tags:
+- Touchscreen
+- Touch Screen
+- Technology
+- Solutions
+- PC
+- Industrial
+- Healthcare
+- Distec
+- Displays
+- Digital Signage
+- Computer
+apis: []
+x-common:
+- type: x-about
+  url: https://www.distec.co.uk/about/
+- type: x-contact
+  url: https://www.distec.co.uk/contact/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/distec-limited
+- type: x-login
+  url: https://www.distec.co.uk/customer/account/login/
+- type: x-news
+  url: https://www.distec.co.uk/news/
+- type: x-privacy
+  url: https://www.distec.co.uk/privacy/
+- type: x-privacy
+  url: https://www.distec.co.uk/privacy
+- type: x-support
+  url: https://www.distec.co.uk/support/
+- type: x-terms-of-service
+  url: https://www.distec.co.uk/terms/
+- type: x-twitter
+  url: https://twitter.com/disteclimited?ref_src=twsrc%5Etfw
+- type: x-twitter
+  url: https://twitter.com/#!/disteclimited
+- type: x-website
+  url: https://www.distec.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

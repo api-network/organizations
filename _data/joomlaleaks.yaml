@@ -1,0 +1,35 @@
+---
+name: JoomlaLeaks
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/joomlaleaks.yaml
+tags:
+- Joomla
+- Finances
+- Directors
+- Developers
+- Coding
+- Board
+- Blog
+- '''Open Source Matters'''
+apis: []
+x-common:
+- type: x-website
+  url: http://www.joomlaleaks.com
+- type: x-feed
+  url: https://www.joomlaleaks.com/&format=feed&Itemid=102
+- type: x-twitter
+  url: https://twitter.com/Joomla_Leaks
+- type: x-website
+  url: https://www.joomlaleaks.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

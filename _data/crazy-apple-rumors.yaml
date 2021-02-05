@@ -1,0 +1,30 @@
+---
+name: Crazy Apple Rumors
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6586939"
+url: https://raw.githubusercontent.com/api-network/organizations/main/crazy-apple-rumors.yaml
+tags:
+- Humor
+apis: []
+x-common:
+- type: x-website
+  url: http://verynicewebsite.net
+- type: x-press
+  url: https://wordpress.org/
+- type: x-twitter
+  url: http://twitter.com/carumors
+- type: x-twitter
+  url: http://twitter.com/Moltz
+- type: x-website
+  url: https://www.crazyapplerumors.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

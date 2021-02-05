@@ -1,0 +1,53 @@
+---
+name: STEM Lending
+description: "STEM Lending is the new way to mortgage, enabling you to\_compare dozens
+  of mortgage options, lock in the best rate with a concierge service till closing."
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29335-stemlending-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2114120"
+url: https://raw.githubusercontent.com/api-network/organizations/main/stem-lending.yaml
+tags:
+- Marketplaces
+apis: []
+x-common:
+- type: x-about
+  url: https://www.stemlending.com/about-us/
+- type: x-contact
+  url: https://www.stemlending.com/contact-us/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/stem-lending
+- type: x-email
+  url: help@stemlending.com
+- type: x-facebook
+  url: https://www.facebook.com/stemlending/
+- type: x-instagram
+  url: https://www.instagram.com/stemlending/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/stem-lending
+- type: x-login
+  url: https://www.stemlending.com/login
+- type: x-press
+  url: https://www.stemlending.com/press/
+- type: x-privacy
+  url: https://www.stemlending.com/privacy/
+- type: x-self-service-registration
+  url: https://apply.stemlending.com/register
+- type: x-terms-of-service
+  url: https://www.stemlending.com/terms/
+- type: x-terms-of-service
+  url: https://www.stemlending.com/legal/
+- type: x-twitter
+  url: https://twitter.com/STEMLending
+- type: x-website
+  url: http://stemlending.com
+- type: x-youtube
+  url: https://www.youtube.com/embed/VpJRXCNmtj0?autoplay=1
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

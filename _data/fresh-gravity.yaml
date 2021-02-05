@@ -1,0 +1,46 @@
+---
+name: Fresh Gravity
+description: We are an exciting new business and technology consulting firm that drives
+  success for our clients by enabling them to adopt transformative technologies
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29074-www-freshgravity-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2039377"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fresh-gravity.yaml
+tags:
+- Profile
+- Agency
+apis: []
+x-common:
+- type: x-about
+  url: https://www.freshgravity.com/about/clients/
+- type: x-about
+  url: https://www.freshgravity.com/about/board-of-directors/
+- type: x-blog
+  url: https://www.freshgravity.com/category/blogs/
+- type: x-contact
+  url: https://www.freshgravity.com/contact-us/
+- type: x-email
+  url: info@freshgravity.com
+- type: x-facebook
+  url: https://www.facebook.com/freshgravity/
+- type: x-instagram
+  url: https://www.instagram.com/freshgravity/
+- type: x-news
+  url: https://www.freshgravity.com/category/news/
+- type: x-open-source
+  url: https://www.freshgravity.com/join-us/current-openings/
+- type: x-partner
+  url: https://www.freshgravity.com/about/partners/
+- type: x-twitter
+  url: https://twitter.com/FreshGravity
+- type: x-website
+  url: http://www.freshgravity.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

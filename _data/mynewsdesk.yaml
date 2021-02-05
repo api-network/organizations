@@ -1,0 +1,98 @@
+---
+name: Mynewsdesk
+description: Discover the impact of Digital PR! Monitor what is being said about your
+  brand, create your story, identify and engage your audience and analyze the results
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/mynewsdesk.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "32815"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mynewsdesk.yaml
+tags:
+- Relative Data
+- News API
+- News
+- News
+- Have API Paths
+- Have API
+- General Data
+- API Provider
+apis: []
+x-common:
+- type: x-base
+  url: http://www.mynewsdesk.com/services/
+- type: x-blog
+  url: http://www.mynewsdesk.com/us/mynewsdesk/blog_posts
+- type: x-contact
+  url: https://www.mynewsdesk.com/us/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/mynewsdesk
+- type: x-developers
+  url: http://www.mynewsdesk.com/docs
+- type: x-documentation
+  url: http://www.mynewsdesk.com/docs/webservice_pressroom
+- type: x-facebook
+  url: https://www.facebook.com/MyNewsdesk
+- type: x-github
+  url: https://github.com/mynewsdesk
+- type: x-news
+  url: https://www.mynewsdesk.com/us/
+- type: x-news
+  url: https://www.mynewsdesk.com/us/stories
+- type: x-news
+  url: https://www.mynewsdesk.com/us/tour/
+- type: x-news
+  url: https://www.mynewsdesk.com/us/pricing/
+- type: x-news
+  url: https://www.mynewsdesk.com/us/journalist/
+- type: x-news
+  url: https://www.mynewsdesk.com/us/blog/
+- type: x-news
+  url: https://www.mynewsdesk.com/us/library/
+- type: x-news
+  url: https://www.mynewsdesk.com/us/about/
+- type: x-news
+  url: https://www.mynewsdesk.com/uk/mynewsdesk
+- type: x-news
+  url: https://help.mynewsdesk.com/en/
+- type: x-news
+  url: https://careers.mynewsdesk.com/
+- type: x-news
+  url: https://www.mynewsdesk.com/us/updates/
+- type: x-news
+  url: https://learn.mynewsdesk.com/en/academy/
+- type: x-news
+  url: https://www.mynewsdesk.com
+- type: x-news
+  url: https://www.mynewsdesk.com/se/
+- type: x-news
+  url: https://www.mynewsdesk.com/no/
+- type: x-news
+  url: https://www.mynewsdesk.com/dk/
+- type: x-news
+  url: https://www.mynewsdesk.com/fi/
+- type: x-news
+  url: https://www.mynewsdesk.com/de/
+- type: x-news
+  url: https://www.mynewsdesk.com/uk/
+- type: x-news
+  url: https://www.linkedin.com/company/mynewsdesk
+- type: x-terms-of-service
+  url: http://www.mynewsdesk.com/about/terms-and-conditions?locale=en
+- type: x-twitter
+  url: https://twitter.com/mynewsdesk
+- type: x-website
+  url: http://www.mynewsdesk.com
+- type: x-website
+  url: http://mynewsdesk.com
+- type: x-widget-builder
+  url: http://www.mynewsdesk.com/us/widget/settings
+- type: x-wikipedia-
+  url: http://en.wikipedia.org/wiki/Mynewsdesk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

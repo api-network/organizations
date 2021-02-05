@@ -1,0 +1,29 @@
+---
+name: HowToForge
+description: HowtoForge - Linux Howtos and Tutorials.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "12629"
+url: https://raw.githubusercontent.com/api-network/organizations/main/howtoforge.yaml
+tags: []
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/howtoforge
+- type: x-feed
+  url: https://www.howtoforge.com/feed
+- type: x-news
+  url: https://news.ycombinator.com/
+- type: x-twitter
+  url: https://twitter.com/howtoforgecom
+- type: x-website
+  url: https://www.howtoforge.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

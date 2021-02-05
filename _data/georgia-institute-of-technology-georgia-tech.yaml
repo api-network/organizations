@@ -1,0 +1,48 @@
+---
+name: Georgia Institute of Technology (Georgia Tech)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5226"
+url: https://raw.githubusercontent.com/api-network/organizations/main/georgia-institute-of-technology-georgia-tech.yaml
+tags:
+- Georgia
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cc.gatech.edu
+- type: x-careers
+  url: http://www.careers.gatech.edu
+- type: x-contact
+  url: http://cc.gatech.edu/contact-us
+- type: x-developer
+  url: http://dev.cs.gatech.edu
+- type: x-events
+  url: http://www.cc.gatech.edu/events
+- type: x-events
+  url: http://www.specialevents.gatech.edu
+- type: x-facebook
+  url: https://www.facebook.com/gtcomputing
+- type: x-instagram
+  url: http://instagram.com/gtcomputing
+- type: x-news
+  url: http://www.news.gatech.edu
+- type: x-support
+  url: http://www.lawn.gatech.edu/help/GTvisitor.html
+- type: x-terms-of-service
+  url: http://www.gatech.edu/legal/
+- type: x-twitter
+  url: https://twitter.com/gtcomputing
+- type: x-website
+  url: https://www.cs.gatech.edu
+- type: x-youtube
+  url: http://www.youtube.com/ccgatech
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

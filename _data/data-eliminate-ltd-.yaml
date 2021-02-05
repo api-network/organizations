@@ -1,0 +1,33 @@
+---
+name: Data Eliminate Ltd.
+description: MOD/HM Government Approved Data Destruction, Shredding and Disposal for
+  Hard Drives and Computer Storage Media, based in London UK
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/data-eliminate-ltd-.yaml
+tags:
+- Forensics And Anti-Forensic Degaussers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.dataeliminate.com
+- type: x-blog
+  url: https://www.iso27001blog.com/
+- type: x-gdpr
+  url: https://www.secure-data-destruction.co.uk/gdpr/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/data-eliminate
+- type: x-twitter
+  url: https://twitter.com/DataEliminate
+- type: x-website
+  url: https://www.secure-data-destruction.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

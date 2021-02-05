@@ -1,0 +1,54 @@
+---
+name: Gainsight
+description: ""
+image: http://support.gainsight.com
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "58219"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gainsight.yaml
+tags:
+- Revenue Optimization
+- Profile
+- Has API
+- Feedback
+- Analytics
+apis: []
+x-common:
+- type: x-website
+  url: http://www.gainsight.com/
+- type: x-about
+  url: https://www.gainsight.com/company/#about-us
+- type: x-blog
+  url: https://www.gainsight.com/customer-success-management/
+- type: x-customers
+  url: https://www.gainsight.com/customers/
+- type: x-developers
+  url: https://support.gainsight.com/SFDC_Edition/API_and_Developer_Docs/About/API_Documentation_Overview
+- type: x-facebook
+  url: https://www.facebook.com/gainsight/
+- type: x-instagram
+  url: https://www.instagram.com/gainsight
+- type: x-linkedin
+  url: https://www.linkedin.com/company/gainsight
+- type: x-partners
+  url: https://www.gainsight.com/partners/
+- type: x-pricing
+  url: https://www.gainsight.com/pricing/
+- type: x-support
+  url: https://support.gainsight.com/
+- type: x-support
+  url: https://support.gainsight.com/API_and_Developer_Docs
+- type: x-twitter
+  url: https://twitter.com/gainsighthq
+- type: x-webinars
+  url: https://www.gainsight.com/customer-success-management/?type=webinars
+- type: x-website
+  url: http://gainsight.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,38 @@
+---
+name: 'pool.ntp.org: The Internet Time Network'
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "90069"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pool-ntp-org-the-internet-time-network.yaml
+tags:
+- NTP
+apis: []
+x-common:
+- type: x-github
+  url: http://github.com/abh/ntppool
+- type: x-news
+  url: https://www.ntppool.org/en/#news
+- type: x-news
+  url: https://news.ntppool.org/atom.xml
+- type: x-news
+  url: https://news.ntppool.org/2019/09/new-account-features/
+- type: x-news
+  url: https://news.ntppool.org/2019/04/gps-rollover/
+- type: x-news
+  url: https://news.ntppool.org/archives.html
+- type: x-news
+  url: news:comp.protocols.time.ntp
+- type: x-status
+  url: http://status.ntppool.org/
+- type: x-website
+  url: https://www.pool.ntp.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

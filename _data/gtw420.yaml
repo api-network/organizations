@@ -1,0 +1,35 @@
+---
+name: GTW420
+description: VT420 terminal emulator with SSH support, with integrated e-mail and
+  current interface
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gtw420.yaml
+tags:
+- Vt400
+- Vt320
+- Vt220
+- Vt100
+- Vista Telnet
+- Terminal Emulator
+- Telnet
+- SSH
+- GTW420
+apis: []
+x-common:
+- type: x-contact
+  url: http://www.gtw420.com/contact.html
+- type: x-support
+  url: http://www.gtw420.com/terminal_emulation_support.html
+- type: x-website
+  url: https://www.gtw420.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

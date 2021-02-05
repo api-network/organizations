@@ -1,0 +1,40 @@
+---
+name: UK Oracle Users Group
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5571838"
+url: https://raw.githubusercontent.com/api-network/organizations/main/uk-oracle-users-group.yaml
+tags:
+- User Groups
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ukoug.org
+- type: x-contact
+  url: https://ukoug.site-ym.com/general/?type=contact
+- type: x-events
+  url: https://ukoug.site-ym.com/page/events2020
+- type: x-facebook
+  url: https://www.facebook.com/ukoug1983/
+- type: x-instagram
+  url: https://www.instagram.com/ukoug1983
+- type: x-linkedin
+  url: https://www.linkedin.com/company/ukoug/
+- type: x-news
+  url: https://ukoug.site-ym.com/page/news
+- type: x-twitter
+  url: https://twitter.com/UKOUG?ref_src=twsrc%5Etfw
+- type: x-twitter
+  url: https://twitter.com/ukoug
+- type: x-website
+  url: https://www.ukoug.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

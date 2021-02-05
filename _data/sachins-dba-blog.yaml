@@ -1,0 +1,72 @@
+---
+name: Sachin's DBA Blog
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "720444"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sachins-dba-blog.yaml
+tags:
+- Data Administration
+apis: []
+x-common:
+- type: x-blog
+  url: https://satya-dba.blogspot.com/
+- type: x-blog
+  url: http://satya-dba.blogspot.com/2009/05/datapump.html
+- type: x-blog
+  url: http://satya-dba.blogspot.com/2009/02/views.html
+- type: x-blog
+  url: http://satya-dba.blogspot.com/2009/02/flashback.html
+- type: x-blog
+  url: http://satya-dba.blogspot.com/2009/01/nid-utility.html
+- type: x-blog
+  url: http://satya-dba.blogspot.com/2011/07/oracle12c.html
+- type: x-blog
+  url: http://satya-dba.blogspot.com/2009/02/profiles.html
+- type: x-blog
+  url: http://satya-dba.blogspot.com/2009/02/recycle-bin.html
+- type: x-blog
+  url: http://satya-dba.blogspot.com/2009/06/sqlloader.html
+- type: x-blog
+  url: http://statcounter.com/blogger/
+- type: x-blog
+  url: https://satya-dba.blogspot.com/search/label/12.1.0
+- type: x-blog
+  url: https://satya-dba.blogspot.com/search/label/12.2.0
+- type: x-blog
+  url: https://satya-dba.blogspot.com/search/label/18c
+- type: x-blog
+  url: https://satya-dba.blogspot.com/search/label/ASM
+- type: x-blog
+  url: https://satya-dba.blogspot.com/search/label/asmcmd
+- type: x-blog
+  url: https://satya-dba.blogspot.com/search/label/Flashback
+- type: x-blog
+  url: https://satya-dba.blogspot.com/search/label/ggsci
+- type: x-blog
+  url: https://satya-dba.blogspot.com/search/label/MySQL
+- type: x-blog
+  url: https://satya-dba.blogspot.com/search/label/opatchauto
+- type: x-blog
+  url: https://satya-dba.blogspot.com/search/label/oracleasm
+- type: x-blog
+  url: https://satya-dba.blogspot.com/search/label/PostgreSQL
+- type: x-blog
+  url: https://satya-dba.blogspot.com/search/label/Profiles
+- type: x-blog
+  url: https://satya-dba.blogspot.com/search/label/Statspack
+- type: x-blog
+  url: https://www.blogger.com
+- type: x-feed
+  url: https://satya-dba.blogspot.com/feeds/posts/default
+- type: x-website
+  url: https://satya-dba.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

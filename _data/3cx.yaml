@@ -1,0 +1,87 @@
+---
+name: 3CX
+description: "Save time and money and boost profits with 3CX\u2019s easy to use communications
+  solution. Get the free edition today and try it on-premise or in the cloud."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "22157"
+url: https://raw.githubusercontent.com/api-network/organizations/main/3cx.yaml
+tags:
+- SIP
+apis: []
+x-common:
+- type: x-website
+  url: http://www.3CX.com
+- type: x-about
+  url: https://www.3cx.com/company/about/
+- type: x-blog
+  url: https://www.3cx.com/blog/event-trainings/
+- type: x-blog
+  url: https://www.3cx.com/blog/
+- type: x-blog
+  url: https://www.3cx.com/blog/category/releases/
+- type: x-blog
+  url: https://www.3cx.com/blog/category/voip-howto/
+- type: x-blog
+  url: https://www.3cx.com/blog/category/vlog/
+- type: x-blog
+  url: https://www.3cx.com/blog/category/wp-live-chat/
+- type: x-careers
+  url: https://www.3cx.com/jobs/
+- type: x-case-studies
+  url: https://www.3cx.com/case-studies/
+- type: x-contact
+  url: https://www.3cx.com/phone-system/contact-call-center/
+- type: x-contact
+  url: https://www.3cx.com/company/contact/
+- type: x-documentation
+  url: https://www.3cx.com/docs/manual/
+- type: x-documentation
+  url: https://www.3cx.com/docs/cloud-pbx-providers/
+- type: x-documentation
+  url: https://www.3cx.com/blog/category/docs/
+- type: x-documentation
+  url: https://www.3cx.com/docs/
+- type: x-events
+  url: https://www.3cx.com/blog/category/events/
+- type: x-facebook
+  url: https://www.facebook.com/3CX
+- type: x-linkedin
+  url: https://www.linkedin.com/company/3cx
+- type: x-news
+  url: https://www.3cx.com/blog/category/news/
+- type: x-news
+  url: https://www.3cx.com/blog/news/3cxpert-partner-network/
+- type: x-partner
+  url: https://www.3cx.com/partners/key-selling-points/
+- type: x-partner
+  url: https://www.3cx.com/partners/sip-trunks/
+- type: x-partner
+  url: https://www.3cx.com/partners/
+- type: x-partner
+  url: https://www.3cx.com/partners/channel-partner-program/
+- type: x-partner
+  url: https://www.3cx.com/partners/apply/
+- type: x-partner
+  url: https://www.3cx.com/partners/hosted-pbx-providers/
+- type: x-plans
+  url: https://www.3cx.com/ordering/plans-pricing/
+- type: x-privacy
+  url: https://www.3cx.com/company/privacy/
+- type: x-support
+  url: https://www.3cx.com/support/
+- type: x-support
+  url: https://helpdesk.3cx.com/
+- type: x-twitter
+  url: https://twitter.com/3CX
+- type: x-website
+  url: https://www.3cx.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

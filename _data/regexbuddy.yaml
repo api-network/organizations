@@ -1,0 +1,24 @@
+---
+name: RegexBuddy
+description: RegexBuddy is your perfect companion for working with regular expressions.  Learning,
+  creating, understanding, testing, using and saving regular expressions has never
+  been easier.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "504747"
+url: https://raw.githubusercontent.com/api-network/organizations/main/regexbuddy.yaml
+tags:
+- Tools
+apis: []
+x-common:
+- type: x-website
+  url: https://www.regexbuddy.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

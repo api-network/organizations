@@ -1,0 +1,64 @@
+---
+name: Tablet PC Talk
+description: The source for news, reviews and FAQs on Tablet PCS
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6001580"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tablet-pc-talk.yaml
+tags:
+- Windows XP
+- Viewsonic
+- Versa Lite
+- TravelMate 100
+- Toshiba
+- TC 1000
+- Tangy
+- TabletPC
+- Tablet PC
+- Scribbler
+- Samwell
+- Research Machines
+- Portege 3505
+- Panasonic Toughbook
+- News And Media
+- News
+- Nec
+- Motion Computing
+- Legend
+- HP
+- Handwriting Recognition
+- Fujisu ST 4000
+- FAQ
+- Electrovaya
+- Compaq
+- Aplux
+- Acer
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.tabletpctalk.com/contact.shtml
+- type: x-developer
+  url: http://developer.tabletpctalk.com
+- type: x-forum
+  url: http://forums.tabletpctalk.com
+- type: x-forum
+  url: http://forums.tabletpctalk.com/viewforum.php?f=18
+- type: x-news
+  url: https://www.tabletpctalk.com/newsportal/
+- type: x-news
+  url: https://www.tabletpctalk.com/scripts/newspro/news.xml
+- type: x-news
+  url: http://www.tabletpctalk.com/submitnews.html
+- type: x-support
+  url: http://mvp.support.microsoft.com/
+- type: x-website
+  url: https://www.tabletpctalk.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

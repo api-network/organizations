@@ -1,0 +1,81 @@
+---
+name: InRule .NET Rule Engine
+description: The InRule Decision Platform helps IT and business automate decision
+  logic - without code - for increased productivity, revenue and customer service.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "520434"
+url: https://raw.githubusercontent.com/api-network/organizations/main/inrule--net-rule-engine.yaml
+tags:
+- Components
+apis: []
+x-common:
+- type: x-website
+  url: http://www.inrule.com
+- type: x-about
+  url: https://www.inrule.com/about-inrule/
+- type: x-about
+  url: https://www.inrule.com/about-inrule/vision/
+- type: x-about
+  url: https://www.inrule.com/about-inrule/leadership/
+- type: x-blog
+  url: https://www.inrule.com/resource/blog/
+- type: x-blog
+  url: https://www.inrule.com/resource/blog/blog-authors/
+- type: x-careers
+  url: https://www.inrule.com/about-inrule/careers/
+- type: x-case-studies
+  url: https://www.inrule.com/resource/case-studies/
+- type: x-case-studies
+  url: https://www.inrule.com/resources/case-studies/ok-hca/
+- type: x-case-studies
+  url: https://www.inrule.com/resources/case-studies/aon/
+- type: x-contact
+  url: https://www.inrule.com/contact-us/
+- type: x-customers
+  url: https://www.inrule.com/industries-customers/
+- type: x-customers
+  url: https://www.inrule.com/industries-customers/insurance/
+- type: x-customers
+  url: https://www.inrule.com/industries-customers/oem/
+- type: x-feed
+  url: https://www.inrule.com/inrule-rss-feed
+- type: x-github
+  url: https://github.com/InRule
+- type: x-integrations
+  url: https://www.inrule.com/integrate/other-integrations/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/inrule-technology/
+- type: x-news
+  url: https://www.inrule.com/news-events/
+- type: x-partner
+  url: https://www.inrule.com/partner-programs/
+- type: x-platform
+  url: https://www.inrule.com/inrule/why-a-decision-platform/
+- type: x-support
+  url: https://support.inrule.com
+- type: x-terms-of-service
+  url: https://www.inrule.com/about-inrule/legal-notices/
+- type: x-twitter
+  url: https://twitter.com/inrule
+- type: x-twitter
+  url: https://twitter.com/inrule/status/1218260267009806338
+- type: x-twitter
+  url: https://twitter.com/inrule/status/1217542136045940736
+- type: x-twitter
+  url: https://twitter.com/inrule/status/1217119317160013824
+- type: x-webinars
+  url: https://www.inrule.com/resource/on-demand-webinars/
+- type: x-website
+  url: https://www.inrule.com
+- type: x-white-papers
+  url: https://www.inrule.com/resource/white-papers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

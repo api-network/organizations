@@ -1,0 +1,78 @@
+---
+name: SportsSignup
+description: ""
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/2690_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "70486"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sportssignup.yaml
+tags:
+- No API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.sportssignup.com
+- type: x-about
+  url: https://www.sportsengine.com/solutions/about
+- type: x-careers
+  url: https://www.sportsengine.com/solutions/careers
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/sportssignup
+- type: x-events
+  url: https://www.advancedeventsystems.com/events
+- type: x-facebook
+  url: https://www.facebook.com/sportsengine
+- type: x-instagram
+  url: https://www.instagram.com/nbcsportsengine/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/405889/
+- type: x-news
+  url: https://www.sportsengine.com/solutions/news
+- type: x-signup
+  url: https://sportssignup.com/
+- type: x-signup
+  url: https://sportssignup.com/mobile-app
+- type: x-signup
+  url: https://sportssignup.com/leagues
+- type: x-signup
+  url: https://sportssignup.com/leagues/registration
+- type: x-signup
+  url: https://sportssignup.com/leagues/websites
+- type: x-signup
+  url: https://sportssignup.com/leagues/scheduling
+- type: x-signup
+  url: https://sportssignup.com/leagues/communications
+- type: x-signup
+  url: https://sportssignup.com/leagues/reporting
+- type: x-signup
+  url: https://sportssignup.com/leagues/scoring-stats
+- type: x-signup
+  url: https://sportssignup.com/leagues/plans-pricing
+- type: x-signup
+  url: https://sportssignup.com/leagues/get-started
+- type: x-signup
+  url: https://sportssignup.com/tournaments
+- type: x-signup
+  url: https://sportssignup.com/blog
+- type: x-signup
+  url: https://sportssignup.com/additional-services
+- type: x-signup
+  url: https://sportssignup.com/blog/author/miweb
+- type: x-signup
+  url: https://www.sportssignup.com/
+- type: x-twitter
+  url: https://www.twitter.com/sportsengine
+- type: x-twitter
+  url: https://twitter.com/SportsSignup
+- type: x-website
+  url: http://www.sportssignup.com/
+- type: x-youtube
+  url: https://www.youtube.com/user/sportngin/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

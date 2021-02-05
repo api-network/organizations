@@ -1,0 +1,31 @@
+---
+name: InboxRULES
+description: InboxRULES is MS Outlook add-in which is purposed for automating the
+  process of handling incoming and outgoing email messages. It can automatically process
+  delivered and/or sent email messages and attachments and run various actions (e.g.
+  save and print emails, extract and save forms, ...). In addition InboxRULES for
+  Outlook has also an option to process these actions manually on messages in selected
+  folders.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/inboxrules.yaml
+tags:
+- Outlook Add-in
+- E-mail
+- Automatic Saving Emails
+- Automatic Printing Emails
+- Automatic Extracting Data From Emails
+apis: []
+x-common:
+- type: x-website
+  url: https://www.ornicusa.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

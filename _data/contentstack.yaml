@@ -1,0 +1,51 @@
+---
+name: Contentstack
+description: Contentstack is an API first, headless CMS giving developers development
+  freedom and marketers a way to engage audiences in real time across multiple channels.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28991-www-contentstack-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "151700"
+url: https://raw.githubusercontent.com/api-network/organizations/main/contentstack.yaml
+tags:
+- Headless
+- Has API
+- CMS
+apis: []
+x-common:
+- type: x-website
+  url: http://www.contentstack.com
+- type: x-documentation
+  url: https://www.contentstack.com/docs/apis
+- type: x-email
+  url: privacy@contentstack.com
+- type: x-email
+  url: support@contentstack.com
+- type: x-facebook
+  url: https://www.facebook.com/contentstack
+- type: x-github
+  url: https://github.com/contentstack
+- type: x-linkedin
+  url: https://www.linkedin.com/company/contentstack
+- type: x-login
+  url: https://app.contentstack.com/#!/login
+- type: x-platform
+  url: https://www.contentstack.com/docs/platforms
+- type: x-status
+  url: https://status.contentstack.com/
+- type: x-twitter
+  url: https://twitter.com/Contentstack
+- type: x-webhooks
+  url: https://www.contentstack.com/docs/guide/webhooks
+- type: x-website
+  url: https://www.contentstack.com
+- type: x-youtube
+  url: https://www.youtube.com/contentstack
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

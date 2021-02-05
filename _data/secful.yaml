@@ -1,0 +1,71 @@
+---
+name: SECful
+description: SECful is a cloud-based security, providing detection of the attackers
+  at the beginning of their research stage and preventing APTs and zero-day attacks
+  by securing web and mobile application's APIs specifically.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/secful-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/secful.yaml
+tags:
+- Security
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://secful.com
+- type: x-careers
+  url: https://www.comeet.co/jobs/secful/12.00B
+- type: x-contact
+  url: https://salt.security/contact-us/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/secful
+- type: x-customers
+  url: https://salt.security/customers/
+- type: x-facebook
+  url: https://www.facebook.com/SaltAPIProtectionInc/
+- type: x-github
+  url: https://github.com/SECful
+- type: x-partner
+  url: https://salt.security/partners/
+- type: x-press
+  url: https://salt.security/press/
+- type: x-security
+  url: https://salt.security
+- type: x-security
+  url: https://salt.security/
+- type: x-security
+  url: http://salt.security/blog/
+- type: x-security
+  url: https://salt.security/resources/
+- type: x-security
+  url: https://salt.security/about/
+- type: x-security
+  url: https://salt.security/demo/
+- type: x-security
+  url: https://salt.security/customer-page/
+- type: x-security
+  url: https://www.linkedin.com/company/saltsecurity/
+- type: x-security
+  url: https://www.instagram.com/saltsecurity/
+- type: x-security
+  url: https://salt.security/privacy-policy
+- type: x-security
+  url: https://salt.security/datasheet/
+- type: x-security
+  url: https://salt.security/blog/
+- type: x-twitter
+  url: https://twitter.com/SaltSecurity
+- type: x-twitter
+  url: https://twitter.com/Secful
+- type: x-website
+  url: http://www.secful.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

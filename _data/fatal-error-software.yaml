@@ -1,0 +1,51 @@
+---
+name: Fatal Error Software
+description: Unlike many shareware developers, Fatal Error Software puts in the extra
+  time required to make software as easy to use as possible. This includes simple
+  applications that are easy to navigate, containing comprehensive help files and
+  online support.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fatal-error-software.yaml
+tags:
+- Windows
+- Time
+- Software
+- SMS
+- Sharing
+- Shareware
+- Share
+- Schedule
+- Reminder
+- Program
+- Phone
+- Office
+- Message
+- Mate
+- Instant
+- Home
+- File
+- Email
+- Cellular
+- Cell
+- Calendar
+- Base
+- Appointments
+- Appointment
+- Application
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.fatalerrorsoftware.com
+- type: x-website
+  url: https://www.fatalerrorsoftware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

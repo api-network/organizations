@@ -1,0 +1,33 @@
+---
+name: Computer Resources, Inc.
+description: A Memphis area Mid-South VAR of Microsoft Dynamics GP Accounting Software
+  and Microsoft Dynamics CRM integrated eBusiness solutions.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/computer-resources-inc-.yaml
+tags:
+- Great Plains
+apis: []
+x-common:
+- type: x-about
+  url: https://compresourcesinc.com/about/
+- type: x-careers
+  url: https://compresourcesinc.com/careers/
+- type: x-contact
+  url: https://compresourcesinc.com/contact/
+- type: x-support
+  url: https://compresourcesinc.com/support/
+- type: x-support
+  url: https://compresourcesinc.com/online-support/
+- type: x-website
+  url: https://www.compresourcesinc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

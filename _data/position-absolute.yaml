@@ -1,0 +1,88 @@
+---
+name: 'position: absolute'
+description: A collection of useful design resources and inspiration for webdesigners
+  and graphic artists.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/position-absolute.yaml
+tags:
+- Weblogs
+- Webdesign
+- Typography
+- Style
+- Resources
+- Magazine
+- Inspiration
+- Fonts
+- Creativity
+- Art
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.parasight.de/archive/
+- type: x-blog
+  url: https://blog.parasight.de/archive/trees-can-draw-too
+- type: x-blog
+  url: https://blog.parasight.de/archive/category/art
+- type: x-blog
+  url: https://blog.parasight.de/archive/category/css
+- type: x-blog
+  url: https://blog.parasight.de/archive/category/flash
+- type: x-blog
+  url: https://blog.parasight.de/archive/category/photography
+- type: x-blog
+  url: https://blog.parasight.de/archive/category/scripting
+- type: x-blog
+  url: https://blog.parasight.de/archive/category/semantics
+- type: x-blog
+  url: https://blog.parasight.de/archive/category/seo
+- type: x-blog
+  url: https://blog.parasight.de/archive/category/resources
+- type: x-blog
+  url: https://blog.parasight.de/archive/category/videos
+- type: x-blog
+  url: http://www.e-commerce-blog.de
+- type: x-blog
+  url: https://blog.parasight.de
+- type: x-blog
+  url: https://blog.parasight.de/archive/i-heart-german-blogs
+- type: x-blog
+  url: https://stylespion.de/ein-fuer-blogs/3889/
+- type: x-blog
+  url: https://blog.parasight.de/archive/category/design
+- type: x-blog
+  url: https://blog.parasight.de/archive/category/browsers
+- type: x-blog
+  url: https://blog.parasight.de/archive/category/usability
+- type: x-blog
+  url: https://blog.parasight.de/archive/category/typography
+- type: x-blog
+  url: https://blog.parasight.de/page/2
+- type: x-events
+  url: https://ddtu.mixxt.de/networks/events/show_event.4090
+- type: x-feed
+  url: https://blog.parasight.de/subscribe-to-the-rss-feed/
+- type: x-news
+  url: http://www.thatsoldnews.net/
+- type: x-press
+  url: http://www.draftmedia.de/wordpress/
+- type: x-privacy
+  url: https://blog.parasight.de/privacy
+- type: x-signup
+  url: https://www.getdropbox.com/#signup
+- type: x-twitter
+  url: https://twitter.com/ddtu
+- type: x-twitter
+  url: https://twitter.com/parasight
+- type: x-website
+  url: https://blog.parasight.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

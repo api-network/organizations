@@ -1,0 +1,80 @@
+---
+name: Paddle
+description: We provide everything you need to sell software in one integration, with
+  advanced solutions to help you grow and optimize your software business.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29001-paddle-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "19807"
+url: https://raw.githubusercontent.com/api-network/organizations/main/paddle.yaml
+tags: []
+apis: []
+x-common:
+- type: x-about
+  url: https://paddle.com/about/
+- type: x-about
+  url: https://paddle.com/about/values/
+- type: x-blog
+  url: https://paddle.com/blog/succeed-at-recurring-billing/
+- type: x-blog
+  url: https://paddle.com/blog/
+- type: x-careers
+  url: https://paddle.com/careers/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/paddle-2
+- type: x-customers
+  url: https://paddle.com/about/our-customers/
+- type: x-developer
+  url: https://developer.paddle.com/
+- type: x-developer
+  url: https://developer.paddle.com/webhook-reference/intro
+- type: x-developer
+  url: https://developer.paddle.com
+- type: x-developer
+  url: http://developer.paddle.com
+- type: x-documentation
+  url: https://paddle.com/docs/introduction/
+- type: x-email
+  url: help@paddle.com
+- type: x-email
+  url: press@paddle.com
+- type: x-facebook
+  url: https://facebook.com/PaddleHQ
+- type: x-facebook
+  url: https://www.facebook.com/paddlehq/
+- type: x-github
+  url: https://github.com/PaddleHQ
+- type: x-instagram
+  url: https://www.instagram.com/paddleteam/
+- type: x-linkedin
+  url: https://linkedin.com/company/paddle
+- type: x-linkedin
+  url: https://www.linkedin.com/company/paddle/
+- type: x-login
+  url: https://vendors.paddle.com/login
+- type: x-privacy
+  url: https://paddle.com/privacy/
+- type: x-status
+  url: https://paddle.status.io/
+- type: x-support
+  url: https://paddle.com/support/welcome/
+- type: x-terms-of-service
+  url: https://paddle.com/legal/
+- type: x-twitter
+  url: https://twitter.com/PaddleHQ
+- type: x-webhooks
+  url: https://paddle.com/docs/api-webhook-history/
+- type: x-webhooks
+  url: https://paddle.com/docs/reference-using-webhooks/
+- type: x-webinars
+  url: https://info.paddle.com/webinar-moving-to-new-markets
+- type: x-website
+  url: https://paddle.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

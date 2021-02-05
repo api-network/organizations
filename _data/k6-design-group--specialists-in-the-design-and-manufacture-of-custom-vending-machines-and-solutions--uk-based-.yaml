@@ -1,0 +1,37 @@
+---
+name: K6 Design Group - Specialists in the design and manufacture of custom vending
+  machines and solutions. UK based.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/k6-design-group--specialists-in-the-design-and-manufacture-of-custom-vending-machines-and-solutions--uk-based-.yaml
+tags:
+- Kiosks
+apis: []
+x-common:
+- type: x-website
+  url: http://www.k6.co.uk
+- type: x-about
+  url: https://www.k6.co.uk/about
+- type: x-contact
+  url: https://www.k6.co.uk/contact
+- type: x-facebook
+  url: https://www.facebook.com/k6designgroup
+- type: x-instagram
+  url: http://instagram.com/wix/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/gavin-barnett-a75a316/
+- type: x-twitter
+  url: https://twitter.com/K6design
+- type: x-website
+  url: https://www.k6.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

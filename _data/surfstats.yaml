@@ -1,0 +1,47 @@
+---
+name: SurfStats
+description: Website statistics and web analytics reports of standard, proxy and streaming
+  media server log files with SurfStats Website Website Analytics and SurfStatsLive
+  reporing Server
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6936176"
+url: https://raw.githubusercontent.com/api-network/organizations/main/surfstats.yaml
+tags:
+- Website Website Analytics
+- Website Traffic Statistics
+- Website Statistics Software
+- Website Statistics
+- Website Analyzer
+- Website Analytics
+- Web Website Analytics
+- Surfstatslive
+- Surfstats
+- Reporting Server
+- Proxy Website Analytics
+- Pix Website Analytics
+- Page Rank Tool
+- Isa Website Analytics
+- Free Statistics
+- Conversion Tracking
+- Commercial
+- Apache Website Analytics
+apis: []
+x-common:
+- type: x-website
+  url: http://www.money-pal.com
+- type: x-contact
+  url: https://surfstats.com/contact-us.asp
+- type: x-twitter
+  url: https://www.twitter.com/moneypal2
+- type: x-website
+  url: https://www.surfstats.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

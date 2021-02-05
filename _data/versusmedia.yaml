@@ -1,0 +1,43 @@
+---
+name: VersusMedia
+description: VersusMedia offers a wide range of films and episodes by emerging filmmakers.
+  Watch the best independent movies and music videos by upcoming artists for free.
+  Independent films on Roku and Apple TV.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5774710"
+url: https://raw.githubusercontent.com/api-network/organizations/main/versusmedia.yaml
+tags:
+- Xiaomi
+- Streaming
+- Roku
+- Opera Tv
+- Music Videos
+- Music
+- Mi Box
+- License Films
+- Independent Films
+- Apple Tv
+- Android Tv
+- Amazon Fire Tv
+apis: []
+x-common:
+- type: x-website
+  url: http://www.versusmedia.com
+- type: x-facebook
+  url: https://www.facebook.com/versusmediadotcom/
+- type: x-instagram
+  url: https://www.instagram.com/versusmediatv/
+- type: x-twitter
+  url: https://twitter.com/versusmedia
+- type: x-website
+  url: https://www.versusmedia.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

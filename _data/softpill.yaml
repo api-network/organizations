@@ -1,0 +1,32 @@
+---
+name: Softpill
+description: SoftPill Joomla/Wordpress/Drupal  extensions, components, modules, plugins,
+  web development. Security solutions. Payment methods for ecommerce extensions and
+  standalone payment solutions.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6772720"
+url: https://raw.githubusercontent.com/api-network/organizations/main/softpill.yaml
+tags:
+- Extensions And Templates
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.softpill.eu/
+- type: x-facebook
+  url: https://www.facebook.com/SoftPillExtensions
+- type: x-twitter
+  url: https://twitter.com/SoftPilleu
+- type: x-website
+  url: https://www.softpill.eu
+- type: x-youtube
+  url: https://www.youtube.com/user/SoftPilleu/videos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

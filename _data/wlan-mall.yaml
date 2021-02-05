@@ -1,0 +1,66 @@
+---
+name: WLAN Mall
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1447329"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wlan-mall.yaml
+tags:
+- Distributors
+apis: []
+x-common:
+- type: x-about
+  url: https://www.wlanmall.com/about-us/
+- type: x-blog
+  url: https://www.wlanmall.com/blog/
+- type: x-code
+  url: https://www.wlanmall.com/video-encoders/
+- type: x-code
+  url: https://www.wlanmall.com/encoder-chassis/
+- type: x-connectors
+  url: https://www.wlanmall.com/connectors-install-kits/
+- type: x-contact
+  url: https://www.wlanmall.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/wlanmall
+- type: x-login
+  url: https://www.wlanmall.com/login.php
+- type: x-press
+  url: https://www.wlanmall.com/press/
+- type: x-privacy
+  url: https://www.wlanmall.com/privacy-notice/
+- type: x-privacy
+  url: https://www.wlanmall.com/privacy-notice
+- type: x-security
+  url: https://www.wlanmall.com/security-control/
+- type: x-security
+  url: https://www.wlanmall.com/surveillance-security/
+- type: x-security
+  url: https://www.wlanmall.com/security-editors-choice/
+- type: x-security
+  url: https://www.wlanmall.com/ip-security-cameras/
+- type: x-security
+  url: https://www.wlanmall.com/security-cable-power/
+- type: x-security
+  url: https://www.wlanmall.com/security-accessories/
+- type: x-security
+  url: https://www.wlanmall.com/security-lighting/
+- type: x-support
+  url: https://www.wlanmall.com/wireless-support-contracts/
+- type: x-support
+  url: https://www.wlanmall.com/support-contracts/
+- type: x-twitter
+  url: https://twitter.com/ask_wlanmall
+- type: x-website
+  url: https://www.wlanmall.com
+- type: x-youtube
+  url: https://www.youtube.com/user/wlanmall
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

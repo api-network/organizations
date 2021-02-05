@@ -1,0 +1,28 @@
+---
+name: Drivers & Downloads - Service & Support, Software for Windows 7, Vista and XP
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4203507"
+url: https://raw.githubusercontent.com/api-network/organizations/main/drivers-downloads--service-support-software-for-windows-7-vista-and-xp.yaml
+tags:
+- Device Drivers
+apis: []
+x-common:
+- type: x-about
+  url: https://driverswin.com/about/
+- type: x-contact
+  url: https://driverswin.com/contact/
+- type: x-privacy
+  url: https://driverswin.com/privacy-policies/
+- type: x-website
+  url: https://driverswin.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,52 @@
+---
+name: The Open Cognition Project
+description: <p>OpenCog is a unique and ambitious open-source software project. Our
+  aim is to create an open source framework for Artificial General Intelligence, intended
+  to one day express general intelligence at the human level and beyond.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/opencog-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "832580"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-open-cognition-project.yaml
+tags:
+- Has API
+- Artificial Intelligence
+- Artificial Intelligence
+apis: []
+x-common:
+- type: x-documentation
+  url: http://opencog.github.io/rest-api-documentation/
+- type: x-feed
+  url: http://opencog.org/feed/
+- type: x-github
+  url: https://github.com/opencog
+- type: x-open-source
+  url: https://github.com/opencog
+- type: x-open-source
+  url: https://opencog.slack.com
+- type: x-open-source
+  url: https://opencog-slack-invite.herokuapp.com
+- type: x-open-source
+  url: http://webchat.freenode.net/?channels=opencog
+- type: x-open-source
+  url: http://groups.google.com/group/opencog
+- type: x-open-source
+  url: https://github.com/opencog/
+- type: x-open-source
+  url: http://blog.opencog.org/
+- type: x-open-source
+  url: https://github.com/opencog/opencog/commits/master.atom
+- type: x-open-source
+  url: http://opencog.org
+- type: x-swagger--original
+  url: http://opencog.github.io/rest-api-documentation/spec.json
+- type: x-website
+  url: http://wiki.opencog.org/w/The_Open_Cognition_Project
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

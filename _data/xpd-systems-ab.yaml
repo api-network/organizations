@@ -1,0 +1,42 @@
+---
+name: xpd systems ab
+description: XPD AB is an independent security consulting and research firm, with
+  a focus on security and perimeter security solutions.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xpd-systems-ab.yaml
+tags:
+- White Box
+- "Titti S\xF6derblom"
+- Robbin Afverberg
+- Review
+- Post Mortem Analysis
+- Peter Norin
+- Oracle Installations
+- OpenBSD
+- Network Solutions
+- Logging
+- Linux
+- IPv6
+- Implementation
+- HP-UX
+- "Fredrik S\xF6derblom"
+- Firewall Solutions
+- Europe
+- DNSSEC
+- Cecilia Spiik
+- Audit
+apis: []
+x-common:
+- type: x-website
+  url: https://xpd.se
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

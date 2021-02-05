@@ -1,0 +1,41 @@
+---
+name: Blog Basics
+description: Level up your blogging skills and become a successful blogger. This includes
+  information on how to start, run, and grow your blog.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blog-basics.yaml
+tags:
+- Blogging Tips And Tricks
+apis: []
+x-common:
+- type: x-website
+  url: http://firstsiteguide.com
+- type: x-blog
+  url: https://firstsiteguide.com/blog/
+- type: x-blog
+  url: https://firstsiteguide.com/category/blogging/
+- type: x-blog
+  url: https://firstsiteguide.com/blog-setup-service/
+- type: x-facebook
+  url: https://www.facebook.com/firstsiteguide
+- type: x-feed
+  url: https://feeds.feedburner.com/firstsiteguide
+- type: x-press
+  url: https://firstsiteguide.com/category/wordpress/
+- type: x-twitter
+  url: https://twitter.com/firstsiteguide
+- type: x-website
+  url: https://www.blogbasics.com
+- type: x-youtube
+  url: https://www.youtube.com/user/firstsiteguide
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,64 @@
+---
+name: Canadian Internet Policy and Public Interest Clinic
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2561894"
+url: https://raw.githubusercontent.com/api-network/organizations/main/canadian-internet-policy-and-public-interest-clinic.yaml
+tags:
+- Policy
+apis: []
+x-common:
+- type: x-website
+  url: http://vlex.com
+- type: x-about
+  url: http://www.cippic.ca/about-us#location
+- type: x-about
+  url: https://cippic.ca/en/about-us
+- type: x-twitter
+  url: https://twitter.com/cippic
+- type: x-twitter
+  url: http://twitter.com/cippic
+- type: x-twitter
+  url: http://twitter.com/cippic/status/1217455802279190533
+- type: x-twitter
+  url: http://twitter.com/SCC_eng
+- type: x-twitter
+  url: http://twitter.com/cippic/status/1207706071093133313
+- type: x-twitter
+  url: http://twitter.com/msft_businessCA
+- type: x-twitter
+  url: http://twitter.com/AnnCavoukian
+- type: x-twitter
+  url: http://twitter.com/cippic/status/1204921245533384709
+- type: x-twitter
+  url: http://twitter.com/mediamorphis
+- type: x-twitter
+  url: http://twitter.com/cippic/status/1204758334076837888
+- type: x-twitter
+  url: http://twitter.com/vlex
+- type: x-twitter
+  url: http://twitter.com/LawFoundationOn
+- type: x-twitter
+  url: http://twitter.com/cippic/status/1204417310724968448
+- type: x-twitter
+  url: http://twitter.com/APC_News
+- type: x-twitter
+  url: http://twitter.com/anriette
+- type: x-twitter
+  url: http://twitter.com/cippic/status/1204066006928429056
+- type: x-twitter
+  url: http://twitter.com/cippic/status/1203082457458921473
+- type: x-twitter
+  url: http://twitter.com/cippic/status/1199692304770097152
+- type: x-website
+  url: https://www.cippic.ca
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,38 @@
+---
+name: SecuriTeam
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "598476"
+url: https://raw.githubusercontent.com/api-network/organizations/main/securiteam.yaml
+tags:
+- News And Media
+apis: []
+x-common:
+- type: x-about
+  url: https://securiteam.com/aboutus/
+- type: x-news
+  url: https://securiteam.com/category/securitynews/
+- type: x-security
+  url: http://www.beyondsecurity.com/ssd.html
+- type: x-security
+  url: http://www.beyondsecurity.com/legal.html
+- type: x-security
+  url: http://www.beyondsecurity.com/privacy.html
+- type: x-security
+  url: https://www.beyondsecurity.com/
+- type: x-security
+  url: https://securiteam.com/category/securityreviews/
+- type: x-security
+  url: http://www.beyondsecurity.com/
+- type: x-website
+  url: https://www.securiteam.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

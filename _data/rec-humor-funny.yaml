@@ -1,0 +1,28 @@
+---
+name: rec.humor.funny
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2511085"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rec-humor-funny.yaml
+tags:
+- Individual Newsgroup Pages
+apis: []
+x-common:
+- type: x-news
+  url: news:rec.humor.funny.reruns
+- type: x-news
+  url: news:rec.humor.funny
+- type: x-privacy
+  url: http://www.templetons.com/etc/privacy.html
+- type: x-website
+  url: https://www.netfunny.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

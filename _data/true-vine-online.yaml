@@ -1,0 +1,37 @@
+---
+name: True Vine Online
+description: |-
+  True Vine Online is a Christian
+        Internet Filter company that has protected families from offensive
+        content since 1999. Take out the trash with our Internet filter.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/true-vine-online.yaml
+tags:
+- Web Filter
+- Internet Safety
+- Internet Filter
+- Filter For Windows
+- Filter For Android
+- |-
+  Family
+        Friendly Internet
+- Christian Web Site
+- Christian Filter
+- Christian
+apis: []
+x-common:
+- type: x-support
+  url: https://safe.truevine.net/support-request.html
+- type: x-website
+  url: https://truevine.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,54 @@
+---
+name: OpenAPI Spec
+description: <p>The Open API Initiative (OAI) was created by a consortium of forward-looking
+  industry experts who recognize the immense value of standardizing on how REST APIs
+  are described. As an open governance structure under the Linux Foundation, the OAI
+  is focused on creating, evolving and promoting a vendor neutral description format.
+  SmartBear Software is donating the Swagger Specification directly to the OAI as
+  the basis of this Open Specification. &nbsp;</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/oai-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "342069"
+url: https://raw.githubusercontent.com/api-network/organizations/main/openapi-spec.yaml
+tags:
+- Profile
+- Integration Landscape
+- Have API
+- Definitions
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-blog
+  url: https://openapis.org/news-faq/blog
+- type: x-blog-rss
+  url: https://www.openapis.org/feed
+- type: x-developer
+  url: https://aapi.io/
+- type: x-github
+  url: https://github.com/OAI
+- type: x-issues
+  url: https://github.com/OAI/OpenAPI-Specification/issues
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/8556951
+- type: x-linkedin-group
+  url: https://www.linkedin.com/groups/8556951
+- type: x-open-source
+  url: https://www.openapis.org/specification/repo
+- type: x-privacy
+  url: http://www.linuxfoundation.org/privacy
+- type: x-terms-of-service
+  url: http://www.linuxfoundation.org/terms
+- type: x-twitter
+  url: https://twitter.com/openapispec
+- type: x-website
+  url: https://openapis.org/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

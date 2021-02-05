@@ -1,0 +1,36 @@
+---
+name: Collins Dictionary
+description: 'Online Dictionary and Thesaurus from Collins with over 1 million words:
+  Definitions, synonyms, pronunciations, translations, origin and examples.'
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/collins-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1436"
+url: https://raw.githubusercontent.com/api-network/organizations/main/collins-dictionary.yaml
+tags:
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-about
+  url: https://www.collinsdictionary.com/about
+- type: x-contact
+  url: https://www.collinsdictionary.com/contact-us
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/collins
+- type: x-developers
+  url: http://www.collinsdictionary.com/api/
+- type: x-facebook
+  url: https://www.facebook.com/collinsdictionary
+- type: x-twitter
+  url: https://twitter.com/collinsdict
+- type: x-website
+  url: http://www.collinsdictionary.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

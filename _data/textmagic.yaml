@@ -1,0 +1,68 @@
+---
+name: TextMagic
+description: 'TextMagic is a bulk SMS marketing service provider founded in 2001.
+  Our tools are: Email to SMS, online SMS, Email to SMS Gateway & SMS API. FREE TRIAL!'
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "19677"
+url: https://raw.githubusercontent.com/api-network/organizations/main/textmagic.yaml
+tags:
+- Telecommunications
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.textmagic.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/textmagic
+- type: x-developers
+  url: http://api.textmagic.com/
+- type: x-documentation
+  url: https://www.textmagic.com/docs/api/
+- type: x-email
+  url: support@textmagic.com
+- type: x-facebook
+  url: https://www.facebook.com/TextMagic
+- type: x-gdpr
+  url: https://www.textmagic.com/gdpr/
+- type: x-getting-started
+  url: http://api.textmagic.com/buy-sms-credits
+- type: x-linkedin
+  url: https://www.linkedin.com/company/textmagic
+- type: x-login
+  url: https://my.textmagic.com/login
+- type: x-pricing
+  url: https://www.textmagic.com/sms-pricing/
+- type: x-privacy
+  url: https://www.textmagic.com/privacy-policy/
+- type: x-self-service-registration
+  url: https://my.textmagic.com/register/
+- type: x-status
+  url: https://status.textmagic.com
+- type: x-support
+  url: https://support.textmagic.com
+- type: x-support
+  url: https://support.textmagic.com/
+- type: x-support
+  url: https://support.textmagic.com/faq/
+- type: x-support
+  url: https://support.textmagic.com/page-video/
+- type: x-support
+  url: https://support.textmagic.com/page-faq/
+- type: x-terms-of-service
+  url: https://www.textmagic.com/terms-of-service/
+- type: x-twitter
+  url: https://twitter.com/textmagic
+- type: x-tutorials
+  url: https://support.textmagic.com/video-tutorials/
+- type: x-website
+  url: https://www.textmagic.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

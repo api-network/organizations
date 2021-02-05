@@ -1,0 +1,32 @@
+---
+name: QRTECH
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/qrtech.yaml
+tags:
+- Embedded Systems
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.qrtech.se/company/contacts/
+- type: x-platform
+  url: https://www.qrtech.se/products/development-platforms/
+- type: x-privacy
+  url: https://www.qrtech.se/company/privacy-policy/
+- type: x-support
+  url: https://www.qrtech.se/products/product-support/
+- type: x-support
+  url: https://www.qrtech.se/products/product-support/faq/
+- type: x-website
+  url: https://www.qrtech.se
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

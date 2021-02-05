@@ -1,0 +1,24 @@
+---
+name: Blazecoin
+description: Blazecoin - Digital Currency that Supports Volunteer Fire Departments
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27482-blazeco-in.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "4096763"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blazecoin.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/blazecoin
+- type: x-website
+  url: http://blazeco.in
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

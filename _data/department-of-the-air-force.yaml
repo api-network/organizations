@@ -1,0 +1,106 @@
+---
+name: Department of the Air Force
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/department-of-the-air-force.yaml
+tags:
+- Usairforce
+- Usaf
+- Total Force
+- Services
+- Secretary
+- Personnel
+- OpenSource
+- Onetotalforce
+- Manpower
+- Iowa
+- Federal Government
+- Federal Government
+- Dover Air Force Base
+- Des Moines
+- Delaware National Guard
+- Daf
+- Code
+- API Provider
+- Airmen
+- Airforce
+- Air National Guard
+- Afpc
+- 436th Airlift Wing
+- 166th Airlift Wing
+- 132nd Fw
+apis: []
+x-common:
+- type: x-website
+  url: http://www.afpc.af.mil
+- type: x-website
+  url: http://www.af.mil/
+- type: x-facebook
+  url: https://www.facebook.com/143dairliftwing
+- type: x-facebook
+  url: https://www.facebook.com/325FWTyndall
+- type: x-facebook
+  url: https://www.facebook.com/512thAW
+- type: x-facebook
+  url: https://www.facebook.com/capnhq
+- type: x-facebook
+  url: http://facebook.com/Deborah.Lee.James
+- type: x-facebook
+  url: http://facebook.com/NatCapWing
+- type: x-facebook
+  url: http://facebook.com/436AirliftWing
+- type: x-facebook
+  url: http://facebook.com/AirmanMagazine
+- type: x-facebook
+  url: http://facebook.com/132ndFighterWingDesMoinesIowa
+- type: x-facebook
+  url: http://facebook.com/usairforce
+- type: x-facebook
+  url: http://facebook.com/166thAirliftWing
+- type: x-flickr
+  url: https://www.flickr.com/photos/civilairpatrol/
+- type: x-flickr
+  url: http://flickr.com/photos/natcapwing
+- type: x-flickr
+  url: http://flickr.com/photos/usairforce
+- type: x-github
+  url: http://github.com/afrl
+- type: x-instagram
+  url: http://www.instagram.com/512airliftwing
+- type: x-instagram
+  url: https://www.instagram.com/civil__air__patrol/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/civil-air-patrol
+- type: x-slideshare
+  url: http://slideshare.net/55mdg
+- type: x-storify
+  url: https://storify.com/CivilAirPatrol
+- type: x-twitter
+  url: https://twitter.com/512airliftwing
+- type: x-twitter
+  url: https://twitter.com/civilairpatrol
+- type: x-twitter
+  url: http://twitter.com/NatCapWing
+- type: x-twitter
+  url: http://twitter.com/usairforce
+- type: x-twitter
+  url: http://twitter.com/onetotalforce
+- type: x-twitter
+  url: http://twitter.com/afcareers
+- type: x-youtube
+  url: https://www.youtube.com/user/CAPMember
+- type: x-youtube
+  url: http://youtube.com/NatCapWing
+- type: x-youtube
+  url: http://youtube.com/afbluetube
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

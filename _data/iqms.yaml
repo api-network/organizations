@@ -1,0 +1,72 @@
+---
+name: IQMS
+description: IQMS offers a comprehensive manufacturing, MES and ERP software system
+  to help manufacturers increase efficiency and drive more profitable revenue growth.
+  Come experience the IQMS way.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "272601"
+url: https://raw.githubusercontent.com/api-network/organizations/main/iqms.yaml
+tags:
+- Supply Chain Software
+- Manufacturing Software
+- Manufacturing Erp System
+- Manufacturing ERP Software
+- IQMS
+- Erp Solution
+- Erp Software
+- Enterpriseiq Erp
+- Discrete
+apis: []
+x-common:
+- type: x-blog
+  url: https://erpblog.iqms.com
+- type: x-blog
+  url: https://erpblog.iqms.com/2020-manufacturing-trends/
+- type: x-blog
+  url: https://erpblog.iqms.com/tax-compliance-challenges/
+- type: x-careers
+  url: https://careers.3ds.com/
+- type: x-contact
+  url: https://www.iqms.com/contact-iqms/
+- type: x-contact
+  url: https://www.iqms.com/company/contact.html
+- type: x-facebook
+  url: http://www.facebook.com/pages/IQMS/353551780860
+- type: x-linkedin
+  url: http://www.linkedin.com/company/iqms
+- type: x-news
+  url: https://www.iqms.com/news/
+- type: x-news
+  url: https://www.iqms.com/news/iqms-tradeshows.html
+- type: x-news
+  url: https://www.iqms.com/news/iqms_in_news.html
+- type: x-news
+  url: https://www.iqms.com/company/newsletter.html
+- type: x-partner
+  url: https://www.iqms.com/company/partners.html
+- type: x-self-service-registration
+  url: https://www.iqms.com/training/register/
+- type: x-support
+  url: https://www.iqms.com/services/tech_support.html
+- type: x-support
+  url: https://www.iqms.com/services/erp-enterprise-support
+- type: x-twitter
+  url: http://www.twitter.com/IQMSERP
+- type: x-webinars
+  url: https://www.iqms.com/erp-mes-webinars/
+- type: x-website
+  url: https://www.iqms.com
+- type: x-white-papers
+  url: https://www.iqms.com/products/whitepapers/
+- type: x-youtube
+  url: https://www.youtube.com/user/IQMSerp
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,100 @@
+---
+name: XDA-Developers
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1332"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xdadevelopers.yaml
+tags:
+- Handhelds
+apis: []
+x-common:
+- type: x-about
+  url: https://www.xda-developers.com/about/
+- type: x-contact
+  url: https://www.xda-developers.com/contact/
+- type: x-developer
+  url: https://www.xda-developers.com/
+- type: x-developer
+  url: https://www.xda-developers.com/search2/
+- type: x-developer
+  url: https://www.xda-developers.com/xda-labs/
+- type: x-developer
+  url: https://www.xda-developers.com/the-team/
+- type: x-developer
+  url: https://www.xda-developers.com/tip-us/
+- type: x-developer
+  url: https://www.xda-developers.com/author/mishaalrahman/
+- type: x-developer
+  url: https://www.xda-developers.com/author/joefedewa/
+- type: x-developer
+  url: https://www.xda-developers.com/author/arol-wright/
+- type: x-developer
+  url: https://www.xda-developers.com/author/xdacommerce/
+- type: x-developer
+  url: https://www.xda-developers.com/author/aamirsiddiqui/
+- type: x-developer
+  url: https://www.xda-developers.com/sony-mwc-2020-invites/
+- type: x-developer
+  url: https://www.xda-developers.com/author/pranobmehrotra/
+- type: x-developer
+  url: https://www.xda-developers.com/author/tusharmehta/
+- type: x-developer
+  url: https://www.xda-developers.com/page/2/
+- type: x-developer
+  url: https://www.xda-developers.com/page/3/
+- type: x-developer
+  url: https://www.xda-developers.com/page/2022/
+- type: x-developer
+  url: https://www.xda-developers.com/xda-tos/
+- type: x-developer
+  url: https://www.xda-developers.com/advertise-with-xda/
+- type: x-developer
+  url: https://www.xda-developers.com/suggest-content/
+- type: x-developer
+  url: https://www.xda-developers.com/xda-disclosure-policy/
+- type: x-developer
+  url: https://www.xda-developers.com/root/
+- type: x-developer
+  url: https://www.xda-developers.com/redmi-note-8-pro/
+- type: x-facebook
+  url: https://www.facebook.com/xda.developers
+- type: x-feed
+  url: https://data.xda-developers.com/portal-feed
+- type: x-forum
+  url: https://forum.xda-developers.com
+- type: x-forum
+  url: https://forum.xda-developers.com/login.php?do=lostpw
+- type: x-forum
+  url: https://forum.xda-developers.com/register.php
+- type: x-forum
+  url: https://forum.xda-developers.com/usercp.php
+- type: x-forum
+  url: https://forum.xda-developers.com/rp/
+- type: x-forum
+  url: https://forum.xda-developers.com/announcement.php?a=81
+- type: x-forum
+  url: https://forum.xda-developers.com/ad-free
+- type: x-instagram
+  url: https://www.instagram.com/xdasocial/
+- type: x-news
+  url: https://www.xda-developers.com/newsletter-signup/
+- type: x-privacy
+  url: https://policies.google.com/privacy
+- type: x-terms-of-service
+  url: https://policies.google.com/terms
+- type: x-twitter
+  url: https://twitter.com/xdadevelopers
+- type: x-website
+  url: https://www.xda-developers.com
+- type: x-youtube
+  url: https://www.youtube.com/pocketnow
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

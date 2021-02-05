@@ -1,0 +1,55 @@
+---
+name: WorkForce Software, Inc.
+description: WorkForce meets all your unique time and attendance, scheduling, and
+  compliance needs for every employee globally in a single cloud solution.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "464430"
+url: https://raw.githubusercontent.com/api-network/organizations/main/workforce-software-inc-.yaml
+tags:
+- Time Keeping Systems
+apis: []
+x-common:
+- type: x-website
+  url: https://www.workforcesoftware.com/
+- type: x-about
+  url: https://www.workforcesoftware.com/about-us/
+- type: x-blog
+  url: https://www.workforcesoftware.com/blogs/
+- type: x-careers
+  url: https://www.workforcesoftware.com/careers/
+- type: x-contact
+  url: https://www.workforcesoftware.com/contact-us/
+- type: x-customers
+  url: https://workforcesoftware.force.com/customers/login
+- type: x-customers
+  url: https://www.workforcesoftware.com/customers/
+- type: x-events
+  url: https://www.workforcesoftware.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/workforcesoftware/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/workforce-software
+- type: x-partner
+  url: https://www.workforcesoftware.com/partners/
+- type: x-press
+  url: https://www.workforcesoftware.com/press-releases/
+- type: x-privacy
+  url: https://www.workforcesoftware.com/privacy-policy/
+- type: x-support
+  url: https://www.workforcesoftware.com/support/
+- type: x-twitter
+  url: https://twitter.com/WorkForceSW
+- type: x-website
+  url: https://www.workforcesoftware.com
+- type: x-youtube
+  url: https://www.youtube.com/c/workforcesoftware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,29 @@
+---
+name: Florida 511
+description: <p>State of Florida 511.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+  Shot 2017-12-31 at 8.53.47 PM.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/florida-511.yaml
+tags:
+- "511"
+apis: []
+x-common:
+- type: x-website
+  url: http://www.fl511.com
+- type: x-incidents
+  url: https://fl511.com/list/events/traffic?start=0&length=25&order%5Bi%5D=4&order%5Bdir%5D=asc
+- type: x-twitter
+  url: https://twitter.com/FL511_state
+- type: x-website
+  url: https://fl511.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

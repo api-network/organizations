@@ -1,0 +1,35 @@
+---
+name: Realty Tools, Inc.
+description: ToolkitCMA - Real Estate CMA Software - Interfaces to ANY MLS System
+  |Mobile Friendly - Easy To Use | Beautiful Presentations
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2799302"
+url: https://raw.githubusercontent.com/api-network/organizations/main/realty-tools-inc-.yaml
+tags:
+- Real Estate
+apis: []
+x-common:
+- type: x-about
+  url: https://www.realtytools.com/cma/about-us/
+- type: x-contact
+  url: https://www.realtytools.com/cma/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/toolkitcma/
+- type: x-press
+  url: http://wordpress.org
+- type: x-twitter
+  url: https://twitter.com/toolkitcma
+- type: x-webinars
+  url: https://www.realtytools.com/cma/webinars/
+- type: x-website
+  url: https://www.realtytools.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

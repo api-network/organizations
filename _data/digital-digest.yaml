@@ -1,0 +1,46 @@
+---
+name: Digital Digest
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "333307"
+url: https://raw.githubusercontent.com/api-network/organizations/main/digital-digest.yaml
+tags:
+- Digital Video
+apis: []
+x-common:
+- type: x-about
+  url: http://www.digital-digest.com/page.php?file=about
+- type: x-blog
+  url: http://www.digital-digest.com/blog/DVDGuy/
+- type: x-facebook
+  url: http://www.facebook.com/DDigest
+- type: x-facebook
+  url: https://www.facebook.com/ddigest/
+- type: x-feed
+  url: http://feeds.feedburner.com/DigitalDigestLatestNews
+- type: x-forum
+  url: http://forum.digital-digest.com/
+- type: x-news
+  url: http://www.digital-digest.com/newsletter/
+- type: x-news
+  url: http://www.digital-digest.com/news/
+- type: x-news
+  url: http://www.newsnow.co.uk/h/Technology
+- type: x-support
+  url: http://www.digital-digest.com/help.php
+- type: x-twitter
+  url: http://twitter.com/ddigest
+- type: x-website
+  url: https://www.digital-digest.com
+- type: x-youtube
+  url: https://www.youtube.com/c/DigitalDigestTrailers
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

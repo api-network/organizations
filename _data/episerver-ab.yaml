@@ -1,0 +1,49 @@
+---
+name: EPiServer AB
+description: "This Customer Centric Digital Experience Platform combines content,
+  commerce, multi-channel marketing and predictive analytics in a single platform
+  to work full-circle for businesses online \u2013 from intelligent optimization and
+  lead-generat \u2026"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "59346"
+url: https://raw.githubusercontent.com/api-network/organizations/main/episerver-ab.yaml
+tags:
+- Content Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.episerver.com
+- type: x-documentation
+  url: https://world.episerver.com/documentation/
+- type: x-events
+  url: https://www.episerver.com/expertise/events/
+- type: x-facebook
+  url: https://www.facebook.com/episerver
+- type: x-linkedin
+  url: https://www.linkedin.com/company/episerver-ab/
+- type: x-marketplace
+  url: https://marketplace.episerver.com/
+- type: x-marketplace
+  url: http://marketplace.episerver.com/
+- type: x-partner
+  url: https://www.episerver.com/partner-network/
+- type: x-support
+  url: https://www.episerver.com/service-support/
+- type: x-support
+  url: https://webhelp.episerver.com/latest/en/home.htm
+- type: x-twitter
+  url: https://twitter.com/episerver
+- type: x-website
+  url: https://www.episerver.com
+- type: x-youtube
+  url: https://www.youtube.com/episerver
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

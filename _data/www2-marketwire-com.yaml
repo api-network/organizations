@@ -1,0 +1,23 @@
+---
+name: www2.marketwire.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/www2-marketwire-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www2.marketwire.com/mw/cpass/uid=CA4D368E7354CF10&url=http%3A%2F%2Fwww2.marketwire.com%2Fmw%2Frelease_html_b1%3Frelease_id%3D1071019%26tsource%3D3%26hitscounted%3DN
+- type: x-website
+  url: http://www2.marketwire.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

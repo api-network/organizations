@@ -1,0 +1,24 @@
+---
+name: AdaGIDE (Ada GNAT Integrated Development Environment)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1120190"
+url: https://raw.githubusercontent.com/api-network/organizations/main/adagide-ada-gnat-integrated-development-environment.yaml
+tags:
+- Tools
+apis: []
+x-common:
+- type: x-feed
+  url: http://www.martincarlisle.com/rss_feed.xml
+- type: x-website
+  url: https://adagide.martincarlisle.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

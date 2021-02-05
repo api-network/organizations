@@ -1,0 +1,54 @@
+---
+name: aPriori Product Cost Management
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1511979"
+url: https://raw.githubusercontent.com/api-network/organizations/main/apriori-product-cost-management.yaml
+tags:
+- Discrete
+apis: []
+x-common:
+- type: x-website
+  url: http://www.apriori.com/
+- type: x-about
+  url: https://www.apriori.com/about-us/
+- type: x-blog
+  url: https://www.apriori.com/blog/
+- type: x-careers
+  url: https://www.apriori.com/careers/
+- type: x-contact
+  url: https://www.apriori.com/contact-us/
+- type: x-customers
+  url: https://www.apriori.com/customers/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/39932
+- type: x-news
+  url: https://www.apriori.com/news-events/
+- type: x-partner
+  url: https://www.apriori.com/partner-community/
+- type: x-privacy
+  url: https://www.apriori.com/privacy-policy/
+- type: x-support
+  url: https://support.apriori.com/
+- type: x-support
+  url: https://www.apriori.com/product/cad-support/
+- type: x-support
+  url: https://support.apriori.com/hc/en-us/community/topics
+- type: x-terms-of-service
+  url: https://www.apriori.com/legal-notice/
+- type: x-twitter
+  url: https://twitter.com/aPriori_Inc
+- type: x-website
+  url: https://www.apriori.com
+- type: x-white-papers
+  url: https://resources.apriori.com/whitepapers
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

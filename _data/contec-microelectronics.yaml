@@ -1,0 +1,32 @@
+---
+name: Contec Microelectronics
+description: With over 30 years successful track records in meeting diverse needs
+  of demanding industrial customers, CONTEC offers an extensive line of industrial
+  computers, DAQ (data acquisition) and measurement devices for factory automation.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "331410"
+url: https://raw.githubusercontent.com/api-network/organizations/main/contec-microelectronics.yaml
+tags:
+- PC-based Control
+- PC-base Measurement
+- Industrial PC
+- Industrial Computer
+- Industrial
+- Embedded PC
+- Data Acquisition
+- Daq
+- CONTEC
+apis: []
+x-common:
+- type: x-website
+  url: https://www.contec.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

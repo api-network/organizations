@@ -1,0 +1,56 @@
+---
+name: iCohere, Inc.
+description: "The iCohere Unified Learning\u2122 System provides a cloud-hosted software
+  platform for professional online collaboration, education, and events. It's an \"all-in-one\"
+  integrated learning management system LMS used for webinars, self-paced courses,
+  instructor-led courses, learning communities, and online community portals."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "869429"
+url: https://raw.githubusercontent.com/api-network/organizations/main/icohere-inc-.yaml
+tags:
+- Online LMS Software
+- LMS Software
+- Learning Management System Software
+- Collaborative Learning
+apis: []
+x-common:
+- type: x-website
+  url: http://www.iCohere.com
+- type: x-about
+  url: https://www.icohere.com/about/
+- type: x-blog
+  url: https://www.icohere.com/blog/
+- type: x-contact
+  url: https://www.icohere.com/contact-us/
+- type: x-developer
+  url: http://developer.icohere.com
+- type: x-facebook
+  url: https://www.facebook.com/iCohere/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/icohere-inc
+- type: x-login
+  url: https://www.icohere.com/login/
+- type: x-privacy
+  url: https://www.icohere.com/privacy-policy/
+- type: x-support
+  url: https://www.icohere.com/lms-support-services/
+- type: x-terms-of-service
+  url: https://www.icohere.com/terms-conditions/
+- type: x-terms-of-service
+  url: https://www.icohere.com/product-terms/
+- type: x-twitter
+  url: https://twitter.com/iCohere
+- type: x-website
+  url: https://www.icohere.com
+- type: x-youtube
+  url: https://www.youtube.com/user/icoherevideo
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

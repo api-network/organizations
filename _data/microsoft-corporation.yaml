@@ -1,0 +1,80 @@
+---
+name: Microsoft Corporation
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "33"
+url: https://raw.githubusercontent.com/api-network/organizations/main/microsoft-corporation.yaml
+tags:
+- Product Support
+apis: []
+x-common:
+- type: x-about
+  url: https://onedrive.live.com/about/en-us/
+- type: x-about
+  url: https://www.microsoft.com/en-us/about
+- type: x-careers
+  url: https://careers.microsoft.com/
+- type: x-contact
+  url: https://support.microsoft.com/en-us/contactus
+- type: x-developer
+  url: https://developer.microsoft.com/en-us/windows/iot
+- type: x-developer
+  url: https://developer.microsoft.com/en-us/mixed-reality
+- type: x-developer
+  url: https://developer.microsoft.com/en-us/games
+- type: x-developer
+  url: https://developer.microsoft.com/en-us/web
+- type: x-developer
+  url: https://developer.microsoft.com/en-us/windows/samples
+- type: x-developer
+  url: https://developer.microsoft.com/locale
+- type: x-developer
+  url: https://developer.microsoft.com/en-us/windows
+- type: x-developer
+  url: https://developer.microsoft.com/en-us/office
+- type: x-documentation
+  url: https://docs.microsoft.com/en-us/windows/apps/desktop/
+- type: x-documentation
+  url: https://docs.microsoft.com/en-us/windows/uwp/
+- type: x-documentation
+  url: https://docs.microsoft.com/en-us/windows/apps
+- type: x-documentation
+  url: https://docs.microsoft.com/en-us/
+- type: x-events
+  url: https://events.microsoft.com/
+- type: x-investor
+  url: https://www.microsoft.com/investor/default.aspx
+- type: x-marketplace
+  url: https://azuremarketplace.microsoft.com/marketplace/
+- type: x-news
+  url: https://news.microsoft.com/
+- type: x-partner
+  url: https://partner.microsoft.com/dashboard
+- type: x-partner
+  url: https://partner.microsoft.com/
+- type: x-partner
+  url: https://partnercenter.microsoft.com/partner/home
+- type: x-privacy
+  url: https://privacy.microsoft.com/en-us
+- type: x-security
+  url: https://www.microsoft.com/security/
+- type: x-security
+  url: https://www.microsoft.com/en-us/security/default.aspx
+- type: x-self-service-registration
+  url: https://developer.microsoft.com/en-us/store/register
+- type: x-support
+  url: https://developer.microsoft.com/en-us/windows/support
+- type: x-support
+  url: https://support.microsoft.com/en-us
+- type: x-website
+  url: https://support.microsoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

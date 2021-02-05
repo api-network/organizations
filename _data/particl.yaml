@@ -1,0 +1,49 @@
+---
+name: Particl
+description: Particl is an open source, decentralized privacy platform. Built for
+  global person to person and business to person eCommerce.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26711-particl-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "345128"
+url: https://raw.githubusercontent.com/api-network/organizations/main/particl.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: https://particl.io/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/particle-3
+- type: x-email
+  url: gerlof@particl.io
+- type: x-email
+  url: shazzy@particl.io
+- type: x-email
+  url: paul@particl.io
+- type: x-email
+  url: henk@particl.io
+- type: x-email
+  url: nick@particl.io
+- type: x-email
+  url: martin@particl.io
+- type: x-email
+  url: juha@particl.io
+- type: x-email
+  url: pciavald@particl.io
+- type: x-email
+  url: kewde@particl.io
+- type: x-email
+  url: imran@particl.io
+- type: x-twitter
+  url: https://twitter.com/ParticlProject
+- type: x-website
+  url: http://particl.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

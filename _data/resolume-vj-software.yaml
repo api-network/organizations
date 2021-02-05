@@ -1,0 +1,38 @@
+---
+name: Resolume VJ Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "107532"
+url: https://raw.githubusercontent.com/api-network/organizations/main/resolume-vj-software.yaml
+tags:
+- Software
+apis: []
+x-common:
+- type: x-website
+  url: http://resolume.com
+- type: x-developer
+  url: http://developer.resolume.com
+- type: x-facebook
+  url: https://facebook.com/resolume
+- type: x-facebook
+  url: http://facebook.com/resolume
+- type: x-instagram
+  url: https://www.instagram.com/resolume
+- type: x-twitter
+  url: https://twitter.com/resolume
+- type: x-twitter
+  url: http://twitter.com/resolume
+- type: x-website
+  url: https://www.resolume.com
+- type: x-youtube
+  url: https://www.youtube.com/user/resolumevjsoftware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

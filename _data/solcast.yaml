@@ -1,0 +1,51 @@
+---
+name: Solcast
+description: <p>Solcast delivers operational solar energy modeling and forecasting
+  technologies, based on a fusion of unique and disparate data sources. We work directly
+  with the energy industry to remove the uncertainty associated with behind the meter
+  PV generation and large utility scale sites. Our data is global, with increased
+  detail and update frequency in satellite coverage areas - currently Australia, North
+  and Central America and East Asia.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/solcast.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2394696"
+url: https://raw.githubusercontent.com/api-network/organizations/main/solcast.yaml
+tags:
+- Solar
+- Satellites
+- Have Swagger
+- Have API Paths
+- Has API
+apis: []
+x-common:
+- type: x-website
+  url: http://solcast.com/solar-radiation-map/
+- type: x-developers
+  url: https://solcast.com.au/api/
+- type: x-faq
+  url: https://solcast.com.au/api/faq/
+- type: x-forum
+  url: https://forums.solcast.com.au/
+- type: x-github
+  url: https://github.com/solcast
+- type: x-linkedin
+  url: https://au.linkedin.com/company/solcast
+- type: x-self-service-registration
+  url: https://toolkit.solcast.com.au/register
+- type: x-self-service-registration
+  url: https://toolkit.solcast.com.au/register/
+- type: x-status
+  url: https://status.solcast.com.au/
+- type: x-twitter
+  url: https://twitter.com/solcastAPI
+- type: x-website
+  url: https://solcast.com.au
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

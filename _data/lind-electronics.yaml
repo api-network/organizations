@@ -1,0 +1,44 @@
+---
+name: Lind Electronics
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3227742"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lind-electronics.yaml
+tags:
+- Peripherals
+apis: []
+x-common:
+- type: x-about
+  url: https://lindelectronics.com/about/
+- type: x-contact
+  url: https://lindelectronics.com/contact-lind-headquarters/
+- type: x-contact
+  url: https://lindelectronics.com/contact-lind-tech-support/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/lind-electronics
+- type: x-login
+  url: https://lindelectronics.com/login/
+- type: x-news
+  url: https://lindelectronics.com/recent-news/
+- type: x-support
+  url: https://lindelectronics.com/support/
+- type: x-support
+  url: https://lindelectronics.com/support/#product-catalogs
+- type: x-support
+  url: https://lindelectronics.com/support/#product-manuals
+- type: x-terms-of-service
+  url: https://lindelectronics.com/terms-of-credit/
+- type: x-twitter
+  url: https://twitter.com/LindElectronics
+- type: x-website
+  url: https://www.lindelectronics.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

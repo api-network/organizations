@@ -1,0 +1,51 @@
+---
+name: Hogan Assessment Systems
+description: The leader in personality tests. Reduce turnover & increase productivity
+  by hiring the right people, developing talent, and evaluating leadership potential.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "375903"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hogan-assessment-systems.yaml
+tags:
+- Testing And Evaluation
+apis: []
+x-common:
+- type: x-website
+  url: http://www.hoganassessments.com
+- type: x-about
+  url: https://www.hoganassessments.com/about/what-we-do
+- type: x-about
+  url: https://www.hoganassessments.com/about/
+- type: x-about
+  url: https://www.hoganassessments.com/about
+- type: x-blog
+  url: https://www.hoganassessments.com/blog/
+- type: x-careers
+  url: https://www.hoganassessments.com/about/careers
+- type: x-contact
+  url: https://www.hoganassessments.com/contact/
+- type: x-contact
+  url: https://www.hoganassessments.com/contact
+- type: x-facebook
+  url: https://www.facebook.com/hoganassessments
+- type: x-news
+  url: https://www.hoganassessments.com/news-events/
+- type: x-partner
+  url: https://www.hoganassessments.com/partner
+- type: x-partner
+  url: https://www.hoganassessments.com/partner/
+- type: x-twitter
+  url: https://twitter.com/HoganAssessment
+- type: x-website
+  url: https://www.hoganassessments.com
+- type: x-youtube
+  url: https://www.youtube.com/user/hoganassessments/featured
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

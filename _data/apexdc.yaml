@@ -1,0 +1,48 @@
+---
+name: ApexDC++
+description: ApexDC++ is an innovative DC++ program based on StrongDC++.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1744754"
+url: https://raw.githubusercontent.com/api-network/organizations/main/apexdc.yaml
+tags:
+- StrongDC++
+- Strongdc
+- PWDC++
+- PeerWeb DC++
+- P2p Software
+- P2p Sharing
+- P2p Program
+- P2P
+- Frostwire
+- Free P2p Software
+- Free P2p Program
+- Free P2p
+- File Sharing
+- Fast P2p
+- Fast Downloads
+- Direct Connect
+- Dcplusplus
+- Dc++
+- Dc Client
+- Ares
+- ApexDC++
+- ApexDC
+- Apex Dc
+apis: []
+x-common:
+- type: x-forum
+  url: https://forums.apexdc.net/
+- type: x-news
+  url: https://community.apexdc.net/categories/news
+- type: x-website
+  url: https://www.apexdc.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

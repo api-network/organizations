@@ -1,0 +1,49 @@
+---
+name: Jinni
+description: "For the past seven years the company has been providing a robust discovery
+  service to pay TV and OTT providers and also offers\_a targeted advertising taste-based
+  audience buying solution for entertainment brands."
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1081_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "73608"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jinni.yaml
+tags:
+- Tags
+- Recommendations
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.jinni.com
+- type: x-blog
+  url: http://blog.jinni.com
+- type: x-blog-rss
+  url: http://blog.jinni.com/?feed=rss2
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/jinni
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/jinni
+- type: x-email
+  url: sales@jinni.com
+- type: x-email
+  url: press@jinni.com
+- type: x-events
+  url: http://www.jinni.com/events/dspdemo
+- type: x-github
+  url: https://github.com/jinni
+- type: x-twitter
+  url: https://twitter.com/#!/jinnidotcom
+- type: x-twitter
+  url: https://twitter.com/JinniDotCom_PR
+- type: x-website
+  url: http://www.jinni.com/api.html
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

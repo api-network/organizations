@@ -1,0 +1,117 @@
+---
+name: DevExpress
+description: DevExpress provides best-in-class UI controls for WinForms, ASP.NET,
+  MVC, Blazor, ASP.NET Core, WPF, VCL and JavaScript developers.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9172"
+url: https://raw.githubusercontent.com/api-network/organizations/main/devexpress.yaml
+tags:
+- Winforms
+- Web Development
+- Visual Studio Controls
+- Third-party Controls
+- Reporting
+- Mobile Development
+- Devexpress
+- Components
+- .net Ui Controls
+- .net Reporting
+- .net Controls
+apis: []
+x-common:
+- type: x-press
+  url: https://www.devexpress.com/
+- type: x-press
+  url: https://www.devexpress.com/Products/Try/
+- type: x-press
+  url: https://www.devexpress.com/subscriptions/universal.xml
+- type: x-press
+  url: https://www.devexpress.com/products/net/controls/wpf/
+- type: x-press
+  url: https://www.devexpress.com/products/vcl/
+- type: x-press
+  url: https://www.devexpress.com/subscriptions/reporting/
+- type: x-press
+  url: https://www.devexpress.com/products/net/dashboard/
+- type: x-press
+  url: https://www.devexpress.com/products/net/report-server/
+- type: x-press
+  url: https://www.devexpress.com/logify/crash-reporting.xml
+- type: x-press
+  url: https://www.devexpress.com/products/testcafestudio
+- type: x-press
+  url: https://www.devexpress.com/products/net/controls/asp/
+- type: x-press
+  url: https://js.devexpress.com/
+- type: x-press
+  url: https://www.devexpress.com/blazor/
+- type: x-press
+  url: https://www.devexpress.com/products/net/orm/
+- type: x-press
+  url: https://www.devexpress.com/products/coderush/
+- type: x-press
+  url: https://www.devexpress.com/xamarin/
+- type: x-press
+  url: https://www.devexpress.com/products/native/chart/
+- type: x-press
+  url: https://www.devexpress.com/dotnet-core-3/
+- type: x-press
+  url: https://www.devexpress.com/support/demos/
+- type: x-press
+  url: https://www.devexpress.com/buy/
+- type: x-press
+  url: https://www.devexpress.com/Support/Center/
+- type: x-press
+  url: https://www.devexpress.com/Support/Center/Example/List
+- type: x-press
+  url: https://localization.devexpress.com/
+- type: x-press
+  url: https://www.devexpress.com/Support/Versions.xml
+- type: x-press
+  url: https://www.devexpress.com/support/documentation/
+- type: x-press
+  url: https://www.devexpress.com/trainingcenter/
+- type: x-press
+  url: https://community.devexpress.com/blogs/
+- type: x-press
+  url: https://www.devexpress.com/aboutus/events/
+- type: x-press
+  url: https://www.devexpress.com/aboutus/
+- type: x-press
+  url: https://www.devexpress.com/aboutus/newsreviews/
+- type: x-press
+  url: https://www.devexpress.com/aboutus/testimonials/
+- type: x-press
+  url: https://www.devexpress.com/aboutus/awards/
+- type: x-press
+  url: https://www.devexpress.com/aboutus/mvp/
+- type: x-press
+  url: https://www.facebook.com/DevExpress
+- type: x-press
+  url: https://www.youtube.com/user/DeveloperExpress
+- type: x-press
+  url: https://www.devexpress.com/aboutus/#logos
+- type: x-press
+  url: https://www.devexpress.com/support/eulas/
+- type: x-press
+  url: https://www.devexpress.com/support/order/
+- type: x-press
+  url: https://js.devexpress.com
+- type: x-press
+  url: https://www.devexpress.com/aboutus/legal.xml
+- type: x-press
+  url: https://www.devexpress.com/aboutus/privacy-policy.xml
+- type: x-webinars
+  url: https://www.devexpress.com/support/webinars/
+- type: x-website
+  url: https://www.devexpress.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

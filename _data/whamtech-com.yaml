@@ -1,0 +1,38 @@
+---
+name: WhamTech.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8601968"
+url: https://raw.githubusercontent.com/api-network/organizations/main/whamtech-com.yaml
+tags:
+- Databases
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.whamtech.com/blog/
+- type: x-contact
+  url: https://www.whamtech.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/whamtech/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/whamtech/
+- type: x-partner
+  url: https://www.whamtech.com/partners/
+- type: x-support
+  url: https://www.whamtech.com/support/
+- type: x-support
+  url: https://www.whamtech.com/eiq_product_suite_help/
+- type: x-twitter
+  url: https://twitter.com/WhamTech_Inc
+- type: x-website
+  url: https://www.whamtech.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

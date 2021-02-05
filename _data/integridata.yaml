@@ -1,0 +1,36 @@
+---
+name: IntegriData
+description: "Tenemos las soluciones integrales para la seguridad de la informaci\xF3n
+  y continuidad de su negocio. M\xE1s de 20 a\xF1os de experiencia en la consultor\xEDa
+  inform\xE1tica."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1351465"
+url: https://raw.githubusercontent.com/api-network/organizations/main/integridata.yaml
+tags:
+- Backup
+apis: []
+x-common:
+- type: x-website
+  url: http://www.integridata.com.mx
+- type: x-blog
+  url: https://integridata.com.mx/blog/
+- type: x-contact
+  url: https://integridata.com.mx/contacto/
+- type: x-contact
+  url: http://integridata.com.mx/contacto/
+- type: x-login
+  url: https://integridata.com.mx/login/
+- type: x-twitter
+  url: https://twitter.com/integridatamx
+- type: x-website
+  url: https://www.integridata.com.mx
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

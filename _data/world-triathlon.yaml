@@ -1,0 +1,48 @@
+---
+name: World Triathlon
+description: The official triathlon resource. Triathlon event information, news, results,
+  rankings, rules, education, and more from the International Triathlon Union.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28185-developers-triathlon-org.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "159084"
+url: https://raw.githubusercontent.com/api-network/organizations/main/world-triathlon.yaml
+tags:
+- Triathalons
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.triathlon.org
+- type: x-developer
+  url: https://developers.triathlon.org
+- type: x-developer
+  url: https://developers.triathlon.org/discuss
+- type: x-developer
+  url: https://apps.api.triathlon.org
+- type: x-developer
+  url: https://apps.api.triathlon.org/password/reset
+- type: x-developers
+  url: https://developers.triathlon.org/
+- type: x-login
+  url: https://apps.api.triathlon.org/login
+- type: x-self-service-registration
+  url: https://apps.api.triathlon.org/register
+- type: x-status
+  url: http://status.api.triathlon.org/
+- type: x-status
+  url: http://status.api.triathlon.org
+- type: x-support
+  url: https://developers.triathlon.org/v1/page/support
+- type: x-twitter
+  url: https://twitter.com/worldtriathlon
+- type: x-website
+  url: https://developers.triathlon.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

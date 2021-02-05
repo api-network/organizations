@@ -1,0 +1,29 @@
+---
+name: STOX
+description: Stox is designed, first and foremost, as a practical framework for the
+  mainstream prediction market. Powering Stox is the STX Digital ETH token.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26870-www-stox-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "226477"
+url: https://raw.githubusercontent.com/api-network/organizations/main/stox.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://stox.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/stox
+- type: x-twitter
+  url: https://twitter.com/stx_coin
+- type: x-website
+  url: https://www.stox.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

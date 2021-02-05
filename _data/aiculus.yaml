@@ -1,0 +1,24 @@
+---
+name: AiCULUS
+description: <p>AiCULUS is a grand ambition to create the world&rsquo;s most adaptive
+  cyber business platform. We build smart platforms that enable organisations to realise
+  and securely leverage the full benefits of modern technology.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/aiculus.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "5"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/aiculus.yaml
+tags:
+- Operations
+apis: []
+x-common:
+- type: x-website
+  url: https://aiculus.co
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

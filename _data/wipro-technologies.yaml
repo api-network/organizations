@@ -1,0 +1,36 @@
+---
+name: Wipro Technologies
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6857"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wipro-technologies.yaml
+tags:
+- ERP
+apis: []
+x-common:
+- type: x-website
+  url: http://www.wipro.com
+- type: x-careers
+  url: https://careers.wipro.com/
+- type: x-careers
+  url: http://careers.wipro.com/
+- type: x-facebook
+  url: https://www.facebook.com/WiproLimited
+- type: x-linkedin
+  url: https://www.linkedin.com/company/wipro/
+- type: x-twitter
+  url: https://twitter.com/wipro
+- type: x-website
+  url: https://www.wipro.com
+- type: x-youtube
+  url: https://www.youtube.com/user/Wiprovideos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

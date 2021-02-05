@@ -1,0 +1,69 @@
+---
+name: IPSentry
+description: IPSentry provides monitoring of all aspects of your network 24/7 and
+  alerts you when there is a potential problem.  Visit http://www.ipsentry.com
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ipsentry.yaml
+tags:
+- Website Monitoring
+- Web Site Monitoring
+- WAN Monitoring
+- Systems Administration
+- System Administration
+- SNMP
+- SMS
+- Service
+- Server Monitoring
+- Ping Test
+- Performance Management
+- Pager
+- ODBC
+- Ntpt
+- Npt
+- Network Time
+- Network Testing
+- Network Performance
+- Network Monitoring Software
+- Network Monitoring
+- Network Monitor
+- Network Management
+- Network Administration
+- MRTG
+- Monitoring Tools
+- Monitoring Software
+- Monitoring Server
+- Management Tools
+- Mail Server
+- Lan Monitoring Software
+- LAN Monitoring
+- IP Utilities
+- GPRMS
+- Fault Management
+- Eventlog
+- Event Log
+- Drive Space
+- Disk Space
+- Database Monitoring
+- Cell Phone
+- Alert
+apis: []
+x-common:
+- type: x-forum
+  url: http://forum.ipsentry.com/
+- type: x-forum
+  url: http://forum.ipsentry.com/tt.aspx?forumid=30
+- type: x-forum
+  url: http://forum.ipsentry.com/tt.aspx?forumid=31
+- type: x-website
+  url: https://www.ipsentry.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

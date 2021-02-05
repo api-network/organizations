@@ -1,0 +1,176 @@
+---
+name: Codefresh
+description: Docker Automation and Collaboration for Agile Teams. Codefresh lets dev,
+  QA and product work together on Docker compositions, including CI/CD, manual testing
+  and feature previews.Codefresh enables you to instantly leverage all the benefits
+  of Docker, w...
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28738-codefresh-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "98360"
+url: https://raw.githubusercontent.com/api-network/organizations/main/codefresh.yaml
+tags:
+- Relative Data
+- Orchestration
+- Have API Paths
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.codefresh.io
+- type: x-blog
+  url: https://codefresh.io/blog/
+- type: x-case-studies
+  url: https://codefresh.io/case-studies
+- type: x-case-studies
+  url: https://codefresh.io/case-studies/
+- type: x-code
+  url: https://codefresh.io
+- type: x-code
+  url: https://codefresh.io/features
+- type: x-code
+  url: https://codefresh.io/pricing
+- type: x-code
+  url: https://codefresh.io/events
+- type: x-code
+  url: https://codefresh.io/steps
+- type: x-code
+  url: http://status.codefresh.io/
+- type: x-code
+  url: https://codefresh.io/blog
+- type: x-code
+  url: https://community.codefresh.io
+- type: x-code
+  url: https://codefresh.io/enterprise
+- type: x-code
+  url: https://codefresh.io/request-a-demo
+- type: x-code
+  url: https://g.codefresh.io/login
+- type: x-code
+  url: https://codefresh.io/codefresh-signup
+- type: x-code
+  url: https://codefresh.io/kubernetes-deploy
+- type: x-code
+  url: https://codefresh.io/events/
+- type: x-code
+  url: https://codefresh.io/codefresh-signup/
+- type: x-code
+  url: https://codefresh.io/request-a-demo/
+- type: x-code
+  url: https://steps.codefresh.io/plugin/cf-plugin-serverless
+- type: x-code
+  url: https://steps.codefresh.io
+- type: x-code
+  url: https://codefresh.io/steps/step/codefresh-run
+- type: x-code
+  url: https://codefresh.io/steps/step/freestyle
+- type: x-code
+  url: https://codefresh.io/steps/step/twilio
+- type: x-code
+  url: https://codefresh.io/steps/step/webhook
+- type: x-code
+  url: https://codefresh.io/steps/step/push
+- type: x-code
+  url: https://codefresh.io/steps/step/lambda
+- type: x-code
+  url: https://codefresh.io/steps/step/npm-publish
+- type: x-code
+  url: https://codefresh.io/steps/step/twistlock
+- type: x-code
+  url: https://codefresh.io/steps/step/build
+- type: x-code
+  url: https://codefresh.io/steps/step/slack-message-sender
+- type: x-code
+  url: https://codefresh.io/steps/step/helm
+- type: x-code
+  url: https://codefresh.io/steps/step/scp
+- type: x-code
+  url: https://codefresh.io/steps/step/bintray
+- type: x-code
+  url: https://codefresh.io/steps/step/aqua
+- type: x-code
+  url: https://codefresh.io/steps/step/github-pr
+- type: x-code
+  url: https://codefresh.io/steps/step/deploy
+- type: x-code
+  url: https://codefresh.io/steps/step/composition
+- type: x-code
+  url: https://codefresh.io/steps/step/k8s-canary-deployment
+- type: x-code
+  url: https://codefresh.io/steps/step/vault
+- type: x-code
+  url: https://codefresh.io/steps/step/gke
+- type: x-code
+  url: https://codefresh.io/steps/step/ecs-deploy
+- type: x-code
+  url: https://codefresh.io/kubernetes-deploy/
+- type: x-code
+  url: https://codefresh.io/pricing/
+- type: x-code
+  url: http://status.codefresh.io
+- type: x-code
+  url: https://codefresh.io/features/#DockerCI
+- type: x-code
+  url: https://codefresh.io/features/#KubernetsCD
+- type: x-code
+  url: https://codefresh.io/features/#Helm
+- type: x-code
+  url: https://codefresh.io/codefresh-plugins/
+- type: x-code
+  url: https://github.com/codefresh-io
+- type: x-code
+  url: https://codefresh.io/about/
+- type: x-code
+  url: https://codefresh.io/careers/
+- type: x-code
+  url: https://codefresh.io/blog/
+- type: x-code
+  url: https://www.facebook.com/codefresh.io
+- type: x-code
+  url: https://www.linkedin.com/company/codefresh
+- type: x-command-line-interface
+  url: https://codefresh-io.github.io/cli/
+- type: x-contact
+  url: https://codefresh.io/contact-us/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/code-fresh
+- type: x-documentation
+  url: https://docs.codefresh.io
+- type: x-documentation
+  url: https://codefresh.io/docs
+- type: x-documentation
+  url: https://codefresh.io/docs/docs/integration-tests
+- type: x-documentation
+  url: https://codefresh.io/docs/docs/codefresh-registry
+- type: x-documentation
+  url: https://docs.codefresh.io/
+- type: x-documentation
+  url: https://codefresh.io/docs/docs/testing/unit-tests/
+- type: x-documentation
+  url: https://codefresh.io/docs/
+- type: x-github
+  url: https://github.com/codefresh-io
+- type: x-plugins
+  url: https://github.com/codefresh-io/plugins
+- type: x-pricing
+  url: https://codefresh.io/pricing/
+- type: x-privacy-policy
+  url: https://codefresh.io/docs/docs/terms-and-privacy-policy/privacy-policy/
+- type: x-status
+  url: http://status.codefresh.io/
+- type: x-support
+  url: https://videojs.com/html5-video-support/
+- type: x-terms-of-service
+  url: https://codefresh.io/docs/docs/terms-and-privacy-policy/terms-of-service/
+- type: x-twitter
+  url: https://twitter.com/codefresh
+- type: x-website
+  url: https://codefresh.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,35 @@
+---
+name: Alive Text to Speech
+description: A Professional Flipbook Software to create flipbook with page flip effect.
+  Alive Text to Speech is a text-to-speech software to read text in any application,
+  and convert Text to MP3, WAV, OGG or VOX files. This Text to Speech software lets
+  you listen to the Text in Emails, web pages, news articles, PDF, Word or Excel Documents
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/alive-text-to-speech.yaml
+tags:
+- Text To Wav
+- Text To Vox
+- Text To Speech Software
+- Text To Speech Reader
+- Text To Speech
+- Text To Mp3
+- Text Reader
+- Flipbook Softwae
+- Flipbook Maker
+- Flipbook Creator
+- Desktop Readers
+apis: []
+x-common:
+- type: x-website
+  url: https://www.text-speech.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,52 @@
+---
+name: BASF Catalysts - Metal Prices
+description: "Welcome to The BASF Catalysts LLC Refinery Profile Portal\n \nBASF Catalysts
+  LLC has a long history of providing fluid catalytic cracking catalysts and moving
+  bed catalysts. As a service to our customers, BASF Catalysts LLC provides extensive
+  analysis of equilibrium catalysts from the field as well as characterization of
+  our customers' feedstocks.\n\nOur Refinery Profile site provides an independent
+  means for refineries to track the performance of their catalyst unit. When customers
+  log on, it gives them a wealth of information such as real-time data, graphics capabilities,
+  and much more."
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "29002"
+url: https://raw.githubusercontent.com/api-network/organizations/main/basf-catalysts--metal-prices.yaml
+tags:
+- Sustainability
+- Profile
+- Precious Metals
+- Precious Metal Recycling
+- PGM Recycling
+- Petrochemicals
+- London Platinum And Palladium Market
+- Chemicals
+- Catalysts
+- Catalyst Recycling
+apis: []
+x-common:
+- type: x-website
+  url: https://www.catalysts.basf.com
+- type: x-contact-form
+  url: https://catalysts.basf.com/about-us/contact
+- type: x-github
+  url: https://github.com/basf
+- type: x-linkedin
+  url: https://www.linkedin.com/company/basf
+- type: x-news
+  url: https://catalysts.basf.com/news
+- type: x-privacy
+  url: https://catalysts.basf.com/legal/data-protection
+- type: x-twitter
+  url: https://twitter.com/BASF_Catalysts
+- type: x-website
+  url: http://apps.catalysts.basf.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

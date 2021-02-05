@@ -1,0 +1,45 @@
+---
+name: Sigma Data Systems, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6218153"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sigma-data-systems-inc-.yaml
+tags:
+- Consultants
+- Commercial Services
+apis: []
+x-common:
+- type: x-about
+  url: https://sigmadatainc.com/about/
+- type: x-contact
+  url: https://sigmadatainc.com/contact/
+- type: x-events
+  url: https://sigmadatainc.com/events/
+- type: x-news
+  url: https://sigmadatainc.com/news/
+- type: x-partner
+  url: https://sigmadatainc.com/partnerships/
+- type: x-privacy
+  url: https://sigmadatainc.com/privacy-statement/
+- type: x-security
+  url: https://sigmadatainc.com/cybersecurity/
+- type: x-security
+  url: https://sigmadatainc.com/cybersecurity/email-security/
+- type: x-security
+  url: https://sigmadatainc.com/cyber-security-offer/
+- type: x-security
+  url: https://sigmadatainc.com/cyber-security/
+- type: x-terms-of-service
+  url: https://sigmadatainc.com/terms-of-use/
+- type: x-website
+  url: https://www.sigmadatainc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

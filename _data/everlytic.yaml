@@ -1,0 +1,53 @@
+---
+name: Everlytic
+description: "Everlytic is a digital messaging platform that helps your business communicate
+  personally, reliably, and automatically using bulk email,\_SMS, and\_voice broadcasting."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "121447"
+url: https://raw.githubusercontent.com/api-network/organizations/main/everlytic.yaml
+tags:
+- Online Tools
+apis: []
+x-common:
+- type: x-website
+  url: http://www.everlytic.co.za
+- type: x-about
+  url: https://www.everlytic.co.za/about-us/
+- type: x-blog
+  url: https://www.everlytic.co.za/category/blog/
+- type: x-blog
+  url: https://www.everlytic.co.za/category/blog
+- type: x-careers
+  url: https://www.everlytic.co.za/careers/
+- type: x-case-studies
+  url: https://www.everlytic.co.za/case-studies/
+- type: x-contact
+  url: https://www.everlytic.co.za/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/Everlytic
+- type: x-plans
+  url: https://www.everlytic.co.za/everlytic-pricing-plans/
+- type: x-privacy
+  url: https://www.everlytic.co.za/privacy-policy/
+- type: x-security
+  url: https://www.everlytic.co.za/private-security/
+- type: x-support
+  url: https://www.everlytic.co.za/everlytic-support/
+- type: x-terms-of-service
+  url: https://www.everlytic.co.za/website-legal-notice/
+- type: x-twitter
+  url: https://twitter.com/Everlytic
+- type: x-website
+  url: https://www.everlytic.co.za
+- type: x-white-papers
+  url: https://www.everlytic.co.za/research-whitepapers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

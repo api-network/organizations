@@ -1,0 +1,53 @@
+---
+name: PrintJet Corporation
+description: PrintJet offers a full range of quality equipment, inks, parts, and service
+  for all industrial coding applications. Need more information? Call 1-815-877-7511.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5329881"
+url: https://raw.githubusercontent.com/api-network/organizations/main/printjet-corporation.yaml
+tags:
+- Labels And Equipment
+apis: []
+x-common:
+- type: x-website
+  url: http://www.printjet.net
+- type: x-blog
+  url: http://blog.printjet.net/
+- type: x-blog
+  url: http://blog.printjet.net/downloads-and-resources/
+- type: x-blog
+  url: http://blog.printjet.net/downloads/
+- type: x-code
+  url: https://printjet.net/printers-coders/
+- type: x-code
+  url: https://printjet.net/printer-coder-accessories/
+- type: x-contact
+  url: https://printjet.net/contact-print-jet/
+- type: x-facebook
+  url: http://www.facebook.com/pages/PrintJet/227588960603707
+- type: x-linkedin
+  url: https://www.linkedin.com/company/2862402?trk=tyah
+- type: x-linkedin
+  url: http://www.linkedin.com/company/2862402?trk=tyah
+- type: x-login
+  url: https://printjet.net/login.php
+- type: x-login
+  url: https://printjet.net/login.php?action=create_account
+- type: x-twitter
+  url: https://twitter.com/PrintJetCorp
+- type: x-website
+  url: https://www.printjet.net
+- type: x-youtube
+  url: https://www.youtube.com/user/ThePrintjet
+- type: x-youtube
+  url: http://www.youtube.com/user/ThePrintjet
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

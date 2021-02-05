@@ -1,0 +1,82 @@
+---
+name: Better WP
+description: A WordPress-dedicated website developed in the hope for a better WordPress
+  world. You can find easy tips, in-depth articles and useful WordPress plugins!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "603543"
+url: https://raw.githubusercontent.com/api-network/organizations/main/better-wp.yaml
+tags:
+- Wordpress Tips
+- Wordpress Reviews
+- Wordpress Plugins
+- Wordpress Ideas
+- Wordpress Bugs
+- WordPress
+apis: []
+x-common:
+- type: x-website
+  url: http://betterwp.net
+- type: x-about
+  url: http://betterwp.net/about/
+- type: x-code
+  url: https://betterwp.net/category/codex-demystified/
+- type: x-contact
+  url: http://betterwp.net/contact/
+- type: x-news
+  url: https://betterwp.net/category/news/
+- type: x-press
+  url: http://betterwp.net/wordpress-plugins/
+- type: x-press
+  url: http://betterwp.net/wordpress-tips/
+- type: x-press
+  url: https://betterwp.net/wordpress-minify-javascript-css/
+- type: x-press
+  url: https://betterwp.net/category/wordpress-ideas/
+- type: x-press
+  url: https://betterwp.net/useful-wordpress-plugins/
+- type: x-press
+  url: https://betterwp.net/category/wordpress-reviews/
+- type: x-press
+  url: https://betterwp.net/wordpress-constants/
+- type: x-press
+  url: https://betterwp.net/wordpress-constants/#comments
+- type: x-press
+  url: https://betterwp.net/wordpress-bugs-2011-part-two/
+- type: x-press
+  url: https://betterwp.net/category/wordpress-bugs/
+- type: x-press
+  url: https://betterwp.net/wordpress-dummy-data/
+- type: x-press
+  url: https://betterwp.net/wordpress-dummy-data/#comments
+- type: x-press
+  url: https://betterwp.net/wordpress-plugins/bwp-polldaddy/
+- type: x-press
+  url: http://codex.wordpress.org/
+- type: x-press
+  url: http://wordpress.org/news/
+- type: x-press
+  url: http://wordpress.org/extend/ideas/
+- type: x-press
+  url: http://wordpress.org/support/
+- type: x-press
+  url: http://wordpress.org/extend/plugins/
+- type: x-press
+  url: http://wordpress.org/extend/themes/
+- type: x-press
+  url: http://wordpress.org/
+- type: x-privacy
+  url: http://betterwp.net/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/0dd0ne0ut
+- type: x-website
+  url: https://betterwp.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

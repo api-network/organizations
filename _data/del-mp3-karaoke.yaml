@@ -1,0 +1,37 @@
+---
+name: DEL MP3 Karaoke
+description: "Bienvenue sur DEL MP3 Karaoke. Welcome to DEL MP3 Karaoke. Chanter sur
+  votre air pr\xE9f\xE9r\xE9 avec notre logiciel de karaoke. Sing along on your favorites
+  with our karaoke software."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/del-mp3-karaoke.yaml
+tags:
+- Songs
+- Software
+- Paroles
+- Musique
+- Music
+- MP3
+- MIDI
+- Lyrics
+- Logiciel
+- Karaoke
+- Kar
+- DJ And Karaoke
+- Del
+- Chansons
+apis: []
+x-common:
+- type: x-website
+  url: https://www.delmp3karaoke.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

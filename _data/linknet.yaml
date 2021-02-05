@@ -1,0 +1,47 @@
+---
+name: LinkNet
+description: Welcome to the LinkNet internet relay chat network. We pride ourselves
+  on the overall quality of the IRC network we have built. This includes everything
+  from the qualified, competent server administrators, our custom coded IRC daemon
+  (hybrid based) including server-to-server and server-to-client encryption, all the
+  way down to our network committees, who are always here to help our users with whatever
+  situation may arise. It's easy to see that we are serious about bringing the best
+  network we can to our users, so make LinkNet your new home today!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5631246"
+url: https://raw.githubusercontent.com/api-network/organizations/main/linknet.yaml
+tags:
+- Webhosting
+- Unix
+- Tech
+- Shells
+- RedHat
+- Networks
+- Network
+- MIRC
+- Linux
+- Linknet
+- Link-net
+- IRC
+- Internet
+- Help
+- Fun
+- Free
+- Encryption
+- Connection
+- Computer
+- Colocation
+apis: []
+x-common:
+- type: x-website
+  url: https://www.link-net.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

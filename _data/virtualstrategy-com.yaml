@@ -1,0 +1,26 @@
+---
+name: virtual-strategy.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/virtualstrategy-com.yaml
+tags:
+- Intel X86 Architecture
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.virtual-strategy.com/2015/12/07/new-api-makes-it-easy-integrate-secure-document-encryption-workflows
+- type: x-website
+  url: http://virtual-strategy.com
+- type: x-website
+  url: https://www.virtual-strategy.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

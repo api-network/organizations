@@ -1,0 +1,29 @@
+---
+name: SavvyTheme
+description: 'Sharing Best WordPress Resources: Themes & Plugins, Reviews, Collections
+  and much more. Offers best WordPress deals and discount in the Market.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1475586"
+url: https://raw.githubusercontent.com/api-network/organizations/main/savvytheme.yaml
+tags:
+- News And Media
+apis: []
+x-common:
+- type: x-about
+  url: https://www.savvytheme.com/about/
+- type: x-press
+  url: https://www.savvytheme.com/category/wordpress-themes/
+- type: x-press
+  url: https://wordpress.org
+- type: x-website
+  url: https://www.savvytheme.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,65 @@
+---
+name: CrossWare
+description: Crossware Mail Signature is the world's most powerful email signature
+  solution for organisations. Works seamlessly with Office 365, Exchange and Domino.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "442636"
+url: https://raw.githubusercontent.com/api-network/organizations/main/crossware.yaml
+tags:
+- Business Partners
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.crossware.co.nz/blog/
+- type: x-blog
+  url: https://www.crossware.co.nz/blog/category/new-tech/
+- type: x-careers
+  url: https://www.crossware.co.nz/crossware-careers/
+- type: x-case-studies
+  url: https://www.crossware.co.nz/case-studies/
+- type: x-case-studies
+  url: http://www.crossware.co.nz/case-studies/sharp/
+- type: x-contact
+  url: https://www.crossware.co.nz/contact-crossware/
+- type: x-events
+  url: https://www.crossware.co.nz/events/
+- type: x-facebook
+  url: https://www.facebook.com/crossware
+- type: x-instagram
+  url: https://www.instagram.com/crossware/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/crossware-ltd
+- type: x-login
+  url: https://www.crossware.co.nz/login/
+- type: x-partner
+  url: https://www.crossware.co.nz/partner-map/
+- type: x-pricing
+  url: https://www.crossware.co.nz/pricing/
+- type: x-privacy
+  url: https://www.crossware.co.nz/privacy-policy/
+- type: x-security
+  url: https://www.crossware.co.nz/datasecurity/
+- type: x-support
+  url: https://www.crossware.co.nz/email-support/
+- type: x-support
+  url: https://www.crossware.co.nz/support-reviews/
+- type: x-twitter
+  url: https://www.twitter.com/teamcrossware
+- type: x-webinars
+  url: https://www.crossware.co.nz/demos-and-webinars/
+- type: x-website
+  url: https://www.crossware.co.nz
+- type: x-white-papers
+  url: https://www.crossware.co.nz/white-papers/
+- type: x-youtube
+  url: https://www.youtube.com/user/TeamCrossware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

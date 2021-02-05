@@ -1,0 +1,76 @@
+---
+name: CodeCrunch
+description: Web development tutorials and lessons geared towards webmasters & developers
+  of all levels. Learn server management, WordPress, PHP, MySQL & marketing.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/codecrunch.yaml
+tags: []
+apis: []
+x-common:
+- type: x-code
+  url: https://codecrunch.com/
+- type: x-code
+  url: https://codecrunch.com/business/
+- type: x-code
+  url: https://codecrunch.com/code/
+- type: x-code
+  url: https://codecrunch.com/computing/
+- type: x-code
+  url: https://codecrunch.com/design/
+- type: x-code
+  url: https://codecrunch.com/off-the-path/
+- type: x-code
+  url: https://codecrunch.com/open-source/
+- type: x-code
+  url: https://codecrunch.com/tech-reviews/
+- type: x-code
+  url: https://codecrunch.com/no-child-theme-be-careful/
+- type: x-code
+  url: https://codecrunch.com/change-coming-year/
+- type: x-code
+  url: https://codecrunch.com/coffeecup-html-editor-review/
+- type: x-code
+  url: https://codecrunch.com/bye-bye-archive/
+- type: x-code
+  url: https://codecrunch.com/contributor/twc-patrick/
+- type: x-code
+  url: https://codecrunch.com/featured/
+- type: x-code
+  url: https://codecrunch.com/freebies/
+- type: x-code
+  url: https://codecrunch.com/photoshop-magic-marker-effect/
+- type: x-code
+  url: https://codecrunch.com/create-yahoo-smiley-photoshop/
+- type: x-code
+  url: https://codecrunch.com/odesk-time-to-freelance/
+- type: x-code
+  url: http://instagram.com/thecodecrunch
+- type: x-code
+  url: https://codecrunch.com/privacy-policy/
+- type: x-contact
+  url: http://www.codecrunch.com/contact/
+- type: x-news
+  url: https://codecrunch.com/site-news/
+- type: x-press
+  url: https://codecrunch.com/wordpress-gems-screen-options/
+- type: x-press
+  url: https://codecrunch.com/tutorials/wordpress/
+- type: x-tutorials
+  url: https://codecrunch.com/tutorials/
+- type: x-tutorials
+  url: https://codecrunch.com/tutorials/beginner/
+- type: x-twitter
+  url: http://twitter.com/#
+- type: x-website
+  url: https://www.codecrunch.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

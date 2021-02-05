@@ -1,0 +1,50 @@
+---
+name: Legit Reviews
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "136880"
+url: https://raw.githubusercontent.com/api-network/organizations/main/legit-reviews.yaml
+tags:
+- Reviews
+apis: []
+x-common:
+- type: x-website
+  url: http://www.legitreviews.com
+- type: x-about
+  url: https://www.legitreviews.com/about-us
+- type: x-contact
+  url: https://www.legitreviews.com/contact-us
+- type: x-events
+  url: https://www.legitreviews.com/events
+- type: x-feed
+  url: https://www.legitreviews.com/feed
+- type: x-forum
+  url: https://forums.legitreviews.com/
+- type: x-news
+  url: https://www.legitreviews.com/news
+- type: x-news
+  url: https://www.legitreviews.com/news/page/2
+- type: x-press
+  url: https://www.legitreviews.com/press-releases
+- type: x-press
+  url: https://www.legitreviews.com/press-releases/page/2
+- type: x-privacy
+  url: https://www.legitreviews.com/privacy-policy
+- type: x-twitter
+  url: https://twitter.com/LegitReviews?ref_src=twsrc%5Etfw
+- type: x-twitter
+  url: https://twitter.com/legitreviews
+- type: x-website
+  url: https://www.legitreviews.com
+- type: x-youtube
+  url: https://www.youtube.com/legitreview
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

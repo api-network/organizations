@@ -1,0 +1,23 @@
+---
+name: ZTE Soft
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zte-soft.yaml
+tags: []
+apis: []
+x-common:
+- type: x-blog
+  url: http://www.ztesoft.com/en/pressCenter/news_152.html
+- type: x-website
+  url: http://www.ztesoft.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

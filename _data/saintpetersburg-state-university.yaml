@@ -1,0 +1,22 @@
+---
+name: Saint-Petersburg State University
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "11225"
+url: https://raw.githubusercontent.com/api-network/organizations/main/saintpetersburg-state-university.yaml
+tags:
+- Research Groups
+apis: []
+x-common:
+- type: x-website
+  url: https://meta.math.spbu.ru
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

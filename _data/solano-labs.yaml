@@ -1,0 +1,30 @@
+---
+name: Solano Labs
+description: A hosted or private CI Solution.  Our scheduler optimizes the run time
+  of your builds-- sets up in minutes and runs your tests up to 80x faster.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29055-docs-solanolabs-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "3"
+x-alexaRank: "1276980"
+url: https://raw.githubusercontent.com/api-network/organizations/main/solano-labs.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://solanolabs.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/solano-labs
+- type: x-twitter
+  url: https://twitter.com/SolanoLabs
+- type: x-webhooks
+  url: http://docs.solanolabs.com/Setup/webhooks/
+- type: x-website
+  url: http://docs.solanolabs.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

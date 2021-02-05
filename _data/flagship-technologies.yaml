@@ -1,0 +1,65 @@
+---
+name: Flagship Technologies
+description: Flagship Tech is a premier reseller of refurbished, used and custom built
+  servers, data storage, networking and replacement spare parts for IBM, Printronix,
+  Dell, HP, HPE, Intel, Compaq, Sun Microsystems, Oracle, Seagate, Cisco, Lenovo,
+  Kingston, EMC, Hitachi, Netgear, Spectralink, etc.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "495935"
+url: https://raw.githubusercontent.com/api-network/organizations/main/flagship-technologies.yaml
+tags:
+- Used Servers
+- Used Computer Servers
+- Sun Microsystems
+- Sun
+- Storage
+- Spare Parts
+- Servers
+- Server Spare Parts
+- Server Hardware
+- Seagate
+- Replacement Parts
+- Refurbished Servers
+- Refurbished Computer Servers
+- Oracle
+- Networking
+- Lenovo
+- IT Hardware
+- IBM
+- HP
+- Hitachi
+- Dell
+- Data Storage
+- Computer Hardware
+- Computer Equipment
+- Cisco
+apis: []
+x-common:
+- type: x-website
+  url: https://store.FlagshipTech.com
+- type: x-blog
+  url: https://store.flagshiptech.com/blog/
+- type: x-contact
+  url: https://store.flagshiptech.com/contact-us
+- type: x-instagram
+  url: https://www.instagram.com/flagshiptechnologies/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/flagship-tech
+- type: x-privacy
+  url: https://store.flagshiptech.com/privacy-policy/
+- type: x-security
+  url: https://store.flagshiptech.com/security/
+- type: x-twitter
+  url: https://twitter.com/Flagship_Tech
+- type: x-website
+  url: https://www.flagshiptech.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

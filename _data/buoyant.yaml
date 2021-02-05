@@ -1,0 +1,51 @@
+---
+name: Buoyant
+description: Buoyant helps you deploy and run Linkerd, the fully open source, ultralight
+  service mesh.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27927-buoyant-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "750273"
+url: https://raw.githubusercontent.com/api-network/organizations/main/buoyant.yaml
+tags:
+- Service Mesh
+- Profile
+- Has API
+apis: []
+x-common:
+- type: x-about
+  url: https://buoyant.io/about-us/
+- type: x-blog
+  url: https://buoyant.io/blog/
+- type: x-careers
+  url: https://jobs.lever.co/buoyant
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/buoyant
+- type: x-documentation
+  url: https://linkerd.io/2/overview/
+- type: x-email
+  url: hello@buoyant.io
+- type: x-faq
+  url: https://linkerd.io/2/faq/
+- type: x-getting-started
+  url: https://linkerd.io/2/getting-started/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/buoyantio/
+- type: x-platform
+  url: https://linkerd.io/choose-your-platform/
+- type: x-twitter
+  url: https://twitter.com/BuoyantIO
+- type: x-website
+  url: https://buoyant.io
+- type: x-website
+  url: http://buoyant.io
+- type: x-youtube
+  url: https://www.youtube.com/c/buoyantio
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

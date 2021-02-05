@@ -1,0 +1,43 @@
+---
+name: Jumpseller
+description: "We founded Jumpseller.com in 2009 in Europe \u2014 we called it Vendder
+  back then \u2014 and released our first version of the Jumpseller product in September
+  2010. After releasing the product we quickly grew to thousands of customers. In
+  November 2010, we recei..."
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28432-jumpseller-api.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "39698"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jumpseller.yaml
+tags:
+- Stores
+- Relative Data
+- Have Swagger
+- Have API Paths
+- Have API
+- General Data
+- Commerce
+- API Provider
+- Affiliates
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/vendder
+- type: x-email
+  url: info@jumpseller.com
+- type: x-email
+  url: support@jumpseller.com
+- type: x-twitter
+  url: https://twitter.com/Jumpseller
+- type: x-website
+  url: http://jumpseller.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

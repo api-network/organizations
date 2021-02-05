@@ -1,0 +1,25 @@
+---
+name: Davebush.com
+description: Niagara web designer, providing digital design, print design and marketing
+  services.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/davebush-com.yaml
+tags:
+- Arts And Entertainment
+apis: []
+x-common:
+- type: x-linkedin
+  url: https://www.linkedin.com/in/dave-bush/
+- type: x-website
+  url: https://www.davebush.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

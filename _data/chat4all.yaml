@@ -1,0 +1,30 @@
+---
+name: Chat4All
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/chat4all.yaml
+tags:
+- Networks
+apis: []
+x-common:
+- type: x-forum
+  url: http://forum.chat4all.net/
+- type: x-forum
+  url: http://forum.chat4all.net
+- type: x-support
+  url: http://support.chat4all.net
+- type: x-support
+  url: http://support.chat4all.net/
+- type: x-website
+  url: https://www.chat4all.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

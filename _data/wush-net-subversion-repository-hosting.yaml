@@ -1,0 +1,42 @@
+---
+name: Wush.net Subversion Repository Hosting
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "630349"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wush-net-subversion-repository-hosting.yaml
+tags:
+- Subversion
+apis: []
+x-common:
+- type: x-about
+  url: https://wush.net/wn/aboutus
+- type: x-contact
+  url: https://wush.net/wn/contact
+- type: x-login
+  url: https://wush.net/wn/login
+- type: x-plans
+  url: https://wush.net/wn/plans
+- type: x-plans
+  url: https://wush.net/wn/plans/subversion
+- type: x-plans
+  url: https://wush.net/wn/plans/git
+- type: x-plans
+  url: https://wush.net/wn/plans/trac
+- type: x-plans
+  url: https://wush.net/wn/plans/bugzilla
+- type: x-plans
+  url: https://wush.net/wn/plans/atlassian
+- type: x-status
+  url: http://status.wush.net/
+- type: x-website
+  url: https://wush.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

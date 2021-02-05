@@ -1,0 +1,52 @@
+---
+name: Windows 2008 Forums
+description: TheEmailShop UK is the best place to buy cheap & Secure Email and Web
+  Hosting, VPS, Domain Name that is suitable for Small, Medium and Large businesses.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/windows-2008-forums.yaml
+tags:
+- Web Hosting
+- "Domain Name \u2013 Theemailshop"
+- Chats And Forums
+- Buy Cheap & Best Email
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.theemailshop.co.uk/category/blog/
+- type: x-contact
+  url: https://www.theemailshop.co.uk/portal/contact.php
+- type: x-contact
+  url: https://www.theemailshop.co.uk/contact-us/
+- type: x-forum
+  url: https://www.theemailshop.co.uk/forum
+- type: x-forum
+  url: https://theemailshop.co.uk/forum/how-to/
+- type: x-forum
+  url: https://theemailshop.co.uk/forum/knowledge-base/
+- type: x-forum
+  url: https://theemailshop.co.uk/forum/system-status-2/
+- type: x-news
+  url: https://www.theemailshop.co.uk/news/
+- type: x-press
+  url: https://www.theemailshop.co.uk/wordpress-hosting-uk/
+- type: x-privacy
+  url: https://www.theemailshop.co.uk/cookie-privacy-policy/
+- type: x-self-service-registration
+  url: http://portal.theemailshop.co.uk/register.php
+- type: x-support
+  url: https://www.theemailshop.co.uk/help-center/
+- type: x-terms-of-service
+  url: https://www.theemailshop.co.uk/terms/
+- type: x-website
+  url: https://www.windows2008forums.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

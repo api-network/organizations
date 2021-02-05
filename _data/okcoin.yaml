@@ -1,0 +1,31 @@
+---
+name: OKCoin
+description: OKCoin is the leading global bitcoin exchange. Secured with bank-level
+  SSL encryption and cold storage. Distributed servers for high-speed bitcoin trading
+  based on real-time data. OKCoin provides top level digital currency trading services
+  for bitcoin,...
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26520-okcoin.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "37521"
+url: https://raw.githubusercontent.com/api-network/organizations/main/okcoin.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://www.okcoin.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/okcoin
+- type: x-twitter
+  url: https://twitter.com/OKCoin
+- type: x-website
+  url: http://okcoin.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

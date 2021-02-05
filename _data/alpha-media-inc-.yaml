@@ -1,0 +1,46 @@
+---
+name: Alpha Media, Inc.
+description: 'PinkNotes: Serious Business Instant Messaging!'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/alpha-media-inc-.yaml
+tags:
+- Shared Business To-Do List
+- Shared Business Task List
+- Shared Business Calendar
+- Secure Enterpise IM
+- Secure Cloud Instant Messaging
+- Secure Cloud IM
+- Secure Business To-Do List
+- Secure Business Task List
+- Secure Business Instant Messaging
+- Secure Business IM
+- PinkNotes Home
+- PinkNotes
+- PinkNote
+- Online Collaboration
+- Enterpise Instant Messaging
+- Enterpise IM
+- Business To-Do List
+- Business Task List
+- Business Instant Messaging
+- Business IM
+- Business Collaboration
+- Business Calendar
+- Business And Finance
+apis: []
+x-common:
+- type: x-facebook
+  url: http://www.facebook.com/PinkNotesIM
+- type: x-website
+  url: https://www.pinknotes.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

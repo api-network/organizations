@@ -1,0 +1,28 @@
+---
+name: Larson Software Technology, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8705940"
+url: https://raw.githubusercontent.com/api-network/organizations/main/larson-software-technology-inc-.yaml
+tags:
+- Drawing Exchange And Interoperability
+apis: []
+x-common:
+- type: x-website
+  url: https://register.gotowebinar.com/register/1010832022266279682
+- type: x-slideshare
+  url: https://www.slideshare.net/donlarson1
+- type: x-twitter
+  url: https://twitter.com/cgmlarson
+- type: x-website
+  url: https://www.cgmlarson.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

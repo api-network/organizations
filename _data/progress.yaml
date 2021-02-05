@@ -1,0 +1,43 @@
+---
+name: Progress
+description: ""
+image: http://www.progress.com
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "23728"
+url: https://raw.githubusercontent.com/api-network/organizations/main/progress.yaml
+tags:
+- Progress
+- Profile
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/progresssw
+- type: x-investor
+  url: http://investors.progress.com/
+- type: x-investor
+  url: http://investors.progress.com/releases.cfm
+- type: x-investor
+  url: http://investors.progress.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/progress-software
+- type: x-partner
+  url: https://partnerlink.progress.com
+- type: x-support
+  url: https://secure.progress.com/profile/sec/custsupport
+- type: x-twitter
+  url: https://twitter.com/progresssw
+- type: x-website
+  url: https://www.progress.com
+- type: x-website
+  url: http://www.progress.com
+- type: x-youtube
+  url: https://www.youtube.com/user/ProgressSW
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

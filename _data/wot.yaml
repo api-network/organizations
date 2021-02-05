@@ -1,0 +1,24 @@
+---
+name: WOT
+description: Check website safety and enjoy safe browsing online with the No.1 website
+  security extension and app, powered by a community of over 140 million users and
+  available on desktop and mobile
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "15719"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wot.yaml
+tags:
+- Add-Ons
+apis: []
+x-common:
+- type: x-website
+  url: https://www.mywot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

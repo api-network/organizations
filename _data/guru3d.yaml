@@ -1,0 +1,39 @@
+---
+name: Guru3D
+description: 'Guru of 3D: Computer PC Hardware and Consumer Electronics reviews'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6787"
+url: https://raw.githubusercontent.com/api-network/organizations/main/guru3d.yaml
+tags:
+- Videocard
+- Tweak Your Own PC
+- Test
+- Review
+- Radeon
+- Processor
+- Hardware
+- Geforce
+- Computer
+- Catalyst
+- Benchmark
+- Ati
+- AMD
+- 3D Accelerators
+apis: []
+x-common:
+- type: x-forum
+  url: http://forums.guru3d.com
+- type: x-news
+  url: https://newsletter.guru3d.com/lists/?p=subscribe&id=1
+- type: x-website
+  url: https://www.guru3d.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

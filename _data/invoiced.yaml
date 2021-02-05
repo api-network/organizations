@@ -1,0 +1,42 @@
+---
+name: Invoiced
+description: Invoiced helps your business put accounts receivable on autopilot in
+  order to get paid faster, reduce DSO, and streamline your billing process.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "53710"
+url: https://raw.githubusercontent.com/api-network/organizations/main/invoiced.yaml
+tags:
+- Subscription Billing
+- Payments
+- Invoices
+- Billing
+apis: []
+x-common:
+- type: x-website
+  url: http://invoiced.com
+- type: x-blog
+  url: https://blog.invoiced.com
+- type: x-blog
+  url: https://blog.invoiced.com/why-is-dso-important
+- type: x-facebook
+  url: https://facebook.com/invoicedapp
+- type: x-linkedin
+  url: https://linkedin.com/company/invoiced
+- type: x-status
+  url: http://status.invoiced.com
+- type: x-support
+  url: https://support.invoiced.com
+- type: x-twitter
+  url: https://twitter.com/invoicedapp
+- type: x-website
+  url: https://www.invoiced.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

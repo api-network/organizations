@@ -1,0 +1,68 @@
+---
+name: Vircom
+description: Vircom provides email security solutions for businesses, with cloud or
+  on-premise protection, archiving, secure encryption, spam filtering, continuity,
+  email threat protection and more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "609578"
+url: https://raw.githubusercontent.com/api-network/organizations/main/vircom.yaml
+tags:
+- Spam Filtering
+apis: []
+x-common:
+- type: x-website
+  url: http://www.vircom.com
+- type: x-about
+  url: https://www.vircom.com/about-us/
+- type: x-blog
+  url: https://www.vircom.com/blog/
+- type: x-code
+  url: https://www.vircom.com/urldefensedecoder/
+- type: x-contact
+  url: https://www.vircom.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/vircom/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/vircom
+- type: x-login
+  url: https://moduscloud.cloud-protect.net/app/login.php
+- type: x-login
+  url: https://moduscloudEU.cloud-protect.net/app/login.php
+- type: x-partner
+  url: https://www.vircom.com/partners/
+- type: x-privacy
+  url: https://www.vircom.com/privacy-policy/
+- type: x-security
+  url: https://www.vircom.com/email-security-products/
+- type: x-security
+  url: https://www.vircom.com/office-365-email-security/
+- type: x-security
+  url: https://www.vircom.com/email-security-threats/
+- type: x-security
+  url: http://emailsecuritygrader.com/
+- type: x-security
+  url: https://www.emailsecurityawareness.com/
+- type: x-status
+  url: https://vircom.statusy.co/
+- type: x-support
+  url: https://www.vircom.com/support/
+- type: x-terms-of-service
+  url: https://www.vircom.com/legal-real-estate/
+- type: x-twitter
+  url: https://twitter.com/vircom_inc
+- type: x-website
+  url: https://www.vircom.com
+- type: x-white-papers
+  url: https://www.vircom.com/whitepapers/
+- type: x-youtube
+  url: https://www.youtube.com/user/VircomSecurity
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

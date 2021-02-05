@@ -1,0 +1,75 @@
+---
+name: Micro-Press.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1900303"
+url: https://raw.githubusercontent.com/api-network/organizations/main/micropress-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.micro-press.com/contact_us
+- type: x-facebook
+  url: https://www.facebook.com/peter.mann.73157
+- type: x-linkedin
+  url: https://ca.linkedin.com/in/petermann3
+- type: x-press
+  url: https://www.micro-press.com/
+- type: x-press
+  url: https://www.micro-press.com
+- type: x-press
+  url: https://www.micro-press.com/microstation_level_1
+- type: x-press
+  url: https://www.micro-press.com/microstation_level_2
+- type: x-press
+  url: https://www.micro-press.com/microstation_level_3
+- type: x-press
+  url: https://www.micro-press.com/videos
+- type: x-press
+  url: https://www.micro-press.com/powerdraft
+- type: x-press
+  url: https://www.micro-press.com/acrobat_files
+- type: x-press
+  url: https://www.micro-press.com/resources-2
+- type: x-press
+  url: https://www.micro-press.com/blueprint
+- type: x-press
+  url: https://www.micro-press.com/contents_blueprint
+- type: x-press
+  url: https://www.micro-press.com/illustrated
+- type: x-press
+  url: https://www.micro-press.com/contents_illustrated
+- type: x-press
+  url: https://www.micro-press.com/site_map
+- type: x-press
+  url: https://www.micro-press.com/about_us
+- type: x-press
+  url: https://www.micro-press.com/e-books
+- type: x-press
+  url: https://www.micro-press.com/colleges
+- type: x-press
+  url: https://www.micro-press.com/trainers_resellers-2
+- type: x-press
+  url: https://www.micro-press.com/privacy-policy-3
+- type: x-press
+  url: https://www.micro-press.com/shipping_information
+- type: x-press
+  url: https://www.micro-press.com/special_offers
+- type: x-press
+  url: https://www.micro-press.com/review_books
+- type: x-press
+  url: http://www.micro-press.com/microstation
+- type: x-press
+  url: https://www.micro-press.com/microstation
+- type: x-website
+  url: https://www.micro-press.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

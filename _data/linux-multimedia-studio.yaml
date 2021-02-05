@@ -1,0 +1,39 @@
+---
+name: Linux MultiMedia Studio
+description: LMMS is a free, open source, multiplatform digital audio workstation.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "73021"
+url: https://raw.githubusercontent.com/api-network/organizations/main/linux-multimedia-studio.yaml
+tags:
+- Sequencers
+- Music And Audio
+apis: []
+x-common:
+- type: x-website
+  url: http://lmms.io
+- type: x-facebook
+  url: http://facebook.com/makefreemusic
+- type: x-facebook
+  url: https://facebook.com/makefreemusic
+- type: x-github
+  url: http://github.com/lmms/lmms
+- type: x-github
+  url: https://github.com/LMMS/lmms
+- type: x-github
+  url: https://github.com/LMMS
+- type: x-twitter
+  url: https://twitter.com/lmmsio
+- type: x-website
+  url: https://lmms.io
+- type: x-youtube
+  url: https://www.youtube.com/user/LMMSOfficial
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

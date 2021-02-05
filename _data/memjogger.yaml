@@ -1,0 +1,36 @@
+---
+name: Memjogger
+description: <p>Memjogger automates your learning process so you can memorize &amp;
+  retain large amount of information easier. Crafted for pupils, students, professionals
+  - anyone coping with high volume of learning material</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/memjogger-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/memjogger.yaml
+tags:
+- Have API
+- Flashcards
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://memjogger.com
+- type: x-pricing
+  url: http://memjogger.com/free-trial
+- type: x-twitter
+  url: https://twitter.com/memjogger
+- type: x-twitter
+  url: http://twitter.com/memjogger
+- type: x-developers
+  url: http://memjogger.com/help/api
+- type: x-website
+  url: https://memjogger.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

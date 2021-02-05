@@ -1,0 +1,48 @@
+---
+name: Bynd
+description: Bynd is a customizable system of web and mobile apps that engages customers
+  with great design, increases revenues and distributes your brand.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/2064-bynd.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bynd.yaml
+tags:
+- Locations
+- Have API
+- Backend
+- API Provider
+apis: []
+x-common:
+- type: x-blog
+  url: http://byndlabs.com/blog/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/bynd-labs
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/bynd-labs
+- type: x-email
+  url: legal@byndlabs.com
+- type: x-email
+  url: support@byndlabs.com
+- type: x-email
+  url: privacy@byndlabs.com
+- type: x-email
+  url: hello@byndlabs.com
+- type: x-facebook
+  url: https://www.facebook.com/byndlabs
+- type: x-linkedin
+  url: http://www.linkedin.com/company/bynd-labs
+- type: x-twitter
+  url: http://twitter.com/byndlabs
+- type: x-twitter
+  url: https://twitter.com/byndlabs
+- type: x-website
+  url: http://byndlabs.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

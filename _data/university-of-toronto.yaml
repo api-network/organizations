@@ -1,0 +1,65 @@
+---
+name: University of Toronto
+description: Established in 1827, the University of Toronto has one of the strongest
+  research and teaching faculties in North America, presenting top students at all
+  levels with an intellectual environment unmatched in depth and breadth on any other
+  Canadian campus...
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/University-of-Toronto-Logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2566"
+url: https://raw.githubusercontent.com/api-network/organizations/main/university-of-toronto.yaml
+tags:
+- University In Progress
+- Higher Education
+- Has API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.utoronto.ca
+- type: x-careers
+  url: http://www.hrandequity.utoronto.ca/careers.htm
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/university-of-toronto
+- type: x-developers
+  url: http://www.sis.utoronto.ca/web_services/
+- type: x-email
+  url: gradschool@utoronto.ca
+- type: x-email
+  url: jog.help@utoronto.ca
+- type: x-email
+  url: helpdesk.utm@utoronto.ca
+- type: x-email
+  url: helpdesk@utsc.utoronto.ca
+- type: x-email
+  url: uoftnews@utoronto.ca
+- type: x-email
+  url: noreen.ahmed.ullah@utoronto.ca
+- type: x-email
+  url: romi.levine@utoronto.ca
+- type: x-email
+  url: christopher.sorensen@utoronto.ca
+- type: x-email
+  url: geoffrey.vendeville@utoronto.ca
+- type: x-facebook
+  url: https://www.facebook.com/universitytoronto
+- type: x-instagram
+  url: https://instagram.com/uoft/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/university-of-toronto
+- type: x-twitter
+  url: http://twitter.com/uoft
+- type: x-twitter
+  url: https://twitter.com/UofT
+- type: x-website
+  url: http://utoronto.ca
+- type: x-youtube
+  url: https://www.youtube.com/user/universitytoronto
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

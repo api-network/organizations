@@ -1,0 +1,84 @@
+---
+name: "Sk\xE5ne/Sj\xE6lland Linux Users Group"
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4038347"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sknesjlland-linux-users-group.yaml
+tags:
+- Europe
+apis: []
+x-common:
+- type: x-website
+  url: http://sslug.dk
+- type: x-blog
+  url: https://sslug.dk/blog/category/projekter/
+- type: x-blog
+  url: https://sslug.dk/blog/category/projekter/sslug-remix/
+- type: x-blog
+  url: https://sslug.dk/blog/category/galleri/
+- type: x-blog
+  url: https://sslug.dk/blog/category/ikke-kategoriseret/
+- type: x-blog
+  url: https://sslug.dk/blog/2016/08/15/sslug-er-tilbage/
+- type: x-blog
+  url: https://sslug.dk/blog/category/nyheder/
+- type: x-blog
+  url: https://sslug.dk/blog/category/sslug-moeder/
+- type: x-blog
+  url: https://sslug.dk/blog/category/vedtaegter/
+- type: x-blog
+  url: https://sslug.dk/blog/2017/11/
+- type: x-blog
+  url: https://sslug.dk/blog/2017/02/
+- type: x-blog
+  url: https://sslug.dk/blog/2016/09/
+- type: x-blog
+  url: https://sslug.dk/blog/2016/08/
+- type: x-blog
+  url: https://sslug.dk/blog/2016/07/
+- type: x-blog
+  url: https://sslug.dk/blog/2016/05/
+- type: x-blog
+  url: https://sslug.dk/blog/2016/04/
+- type: x-blog
+  url: https://sslug.dk/blog/2016/03/
+- type: x-blog
+  url: https://sslug.dk/blog/2013/12/
+- type: x-blog
+  url: https://sslug.dk/blog/2013/11/
+- type: x-blog
+  url: https://sslug.dk/blog/2004/11/
+- type: x-events
+  url: https://sslug.dk/events/
+- type: x-events
+  url: https://sslug.dk/events/kategori/
+- type: x-events
+  url: https://sslug.dk/events/lokationer/
+- type: x-events
+  url: https://sslug.dk/blog/category/eksterne-events/
+- type: x-events
+  url: https://sslug.dk/events/2020-01-20/
+- type: x-facebook
+  url: https://www.facebook.com/sslug.dk/
+- type: x-feed
+  url: https://sslug.dk/feed/
+- type: x-feed
+  url: https://sslug.dk/comments/feed/
+- type: x-login
+  url: https://sslug.dk/wp-login.php
+- type: x-press
+  url: https://wordpress.org/
+- type: x-twitter
+  url: https://twitter.com/sslugdk
+- type: x-website
+  url: https://www.sslug.dk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

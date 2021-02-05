@@ -1,0 +1,105 @@
+---
+name: Mad Mimi
+description: Mad Mimi makes it simple to send HTML email newsletters, grow your subscribers
+  and manage your email list. Sign up today!
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/434_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9799"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mad-mimi.yaml
+tags:
+- Unsubscribe
+- Templates
+- Subscription
+- Subscribe
+- Stats
+- Social Media Tools
+- Sign Up
+- Send
+- Opt-in
+- Newsletter Templates
+- Listserv
+- HTML Newsletters
+- HTML Email
+- Have API
+- Free Email Newsletters
+- Free Email Marketing
+- Form
+- Email Newsletter
+- Email Marketing
+- Email List
+- Email
+- Campaign
+- API Provider
+apis: []
+x-common:
+- type: x-base
+  url: https://api.madmimi.com
+- type: x-blog
+  url: http://blog.madmimi.com
+- type: x-blog-rss
+  url: http://blog.madmimi.com/feed/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/mad-mimi
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/mad-mimi
+- type: x-developer
+  url: http://developer.madmimi.com
+- type: x-developer
+  url: http://developer.madmimi.com/language/da
+- type: x-developer
+  url: http://developer.madmimi.com/language/de
+- type: x-developer
+  url: http://developer.madmimi.com/language/el
+- type: x-developer
+  url: http://developer.madmimi.com/language/en
+- type: x-developer
+  url: http://developer.madmimi.com/language/es
+- type: x-developer
+  url: http://developer.madmimi.com/language/fi
+- type: x-developer
+  url: http://developer.madmimi.com/language/fr
+- type: x-developer
+  url: http://developer.madmimi.com/language/id
+- type: x-developer
+  url: http://developer.madmimi.com/language/it
+- type: x-developer
+  url: http://developer.madmimi.com/language/nb
+- type: x-developer
+  url: http://developer.madmimi.com/language/nl
+- type: x-developer
+  url: http://developer.madmimi.com/language/pl
+- type: x-developer
+  url: http://developer.madmimi.com/language/pt
+- type: x-developer
+  url: http://developer.madmimi.com/language/pt-PT
+- type: x-developer
+  url: http://developer.madmimi.com/language/ru
+- type: x-developer
+  url: http://developer.madmimi.com/language/sv
+- type: x-developer
+  url: http://developer.madmimi.com/language/th
+- type: x-developer
+  url: http://developer.madmimi.com/language/tr
+- type: x-developer
+  url: http://developer.madmimi.com/language/uk
+- type: x-developers
+  url: https://madmimi.com/developer
+- type: x-email
+  url: support@madmimi.com
+- type: x-facebook
+  url: https://facebook.com/madmimi
+- type: x-support
+  url: http://help.madmimi.com
+- type: x-twitter
+  url: https://twitter.com/madmimi
+- type: x-website
+  url: https://madmimi.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

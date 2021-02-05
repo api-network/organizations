@@ -1,0 +1,44 @@
+---
+name: NetHelpDesk
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1730172"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nethelpdesk.yaml
+tags:
+- Help Desk
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.nethelpdesk.com/contact.htm
+- type: x-developer
+  url: http://developer.nethelpdesk.com
+- type: x-facebook
+  url: https://www.facebook.com/nethelpdesk
+- type: x-support
+  url: https://www.nethelpdesk.com
+- type: x-support
+  url: https://www.nethelpdesk.com/features.htm
+- type: x-support
+  url: https://www.nethelpdesk.com/prices.htm
+- type: x-support
+  url: https://www.nethelpdesk.com/faq.htm
+- type: x-support
+  url: https://www.nethelpdesk.com/links.htm
+- type: x-support
+  url: https://www.linkedin.com/company/nethelpdesk
+- type: x-support
+  url: https://plus.google.com/+Nethelpdesk
+- type: x-website
+  url: https://www.nethelpdesk.com
+- type: x-youtube
+  url: https://www.youtube.com/c/Nethelpdesk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

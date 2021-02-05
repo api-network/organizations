@@ -1,0 +1,59 @@
+---
+name: Securities and Exchange Commission (SEC)
+description: <p><span>The U.S. Securities and Exchange Commission is a large independent
+  agency of the United States federal government that was created following the stock
+  market crash in the 1920s to protect investors and the national banking system.</span></p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/securities-and-exchange-commission-sec.yaml
+tags:
+- YouTube
+- Videos
+- SEC
+- Open Meetings
+- Oiea
+- Litigation
+- Investor Information
+- Investor Education
+- Federal Government
+- Enforcement
+- Careers
+- Business
+apis: []
+x-common:
+- type: x-website
+  url: http://sec.gov
+- type: x-website
+  url: http://www.sec.gov
+- type: x-data
+  url: https://www.sec.gov/data
+- type: x-facebook
+  url: http://facebook.com/SECEnforcement
+- type: x-facebook
+  url: http://facebook.com/SECJobs
+- type: x-facebook
+  url: http://facebook.com/SECInvestorEducation
+- type: x-flickr
+  url: http://flickr.com/photos/us_sec
+- type: x-pinterest
+  url: https://www.pinterest.com/secgov/
+- type: x-twitter
+  url: http://twitter.com/SEC_Investor_Ed
+- type: x-twitter
+  url: http://twitter.com/SEC_Enforcement
+- type: x-twitter
+  url: http://twitter.com/SEC_news
+- type: x-twitter
+  url: http://twitter.com/SEC_Careers
+- type: x-youtube
+  url: http://youtube.com/SECViews
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

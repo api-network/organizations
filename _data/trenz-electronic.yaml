@@ -1,0 +1,29 @@
+---
+name: Trenz Electronic
+description: "Trenz Electronic GmbH entwickelt, fertigt, integriert und vertreibt
+  FPGA- und SoC-Module f\xFCr Unternehmen und Forschung."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "698657"
+url: https://raw.githubusercontent.com/api-network/organizations/main/trenz-electronic.yaml
+tags:
+- Boards
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/trenzelectronicgmbh
+- type: x-forum
+  url: http://forum.trenz-electronic.de
+- type: x-twitter
+  url: https://twitter.com/TrenzElectronic
+- type: x-website
+  url: https://www.trenz-electronic.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

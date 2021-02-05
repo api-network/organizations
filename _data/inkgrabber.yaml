@@ -1,0 +1,41 @@
+---
+name: Inkgrabber
+description: InkGrabber carries a full line of compatible, remanufactured, and OEM
+  inkjets and toner cartridges for top brands like Brother, Canon, Dell, Epson, HP,
+  Kodak, Lexmark, Xerox + More!  Save on printer ink today with InkGrabber.com
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/inkgrabber.yaml
+tags:
+- Toner Cartridges
+- Supplies
+- Printer Supplies
+- Printer Ink
+- Inkjet Cartridges
+- InkGrabber
+- InkGrab
+- Drum Cartridges
+apis: []
+x-common:
+- type: x-press
+  url: https://www.inkgrab.com/Epson/Epson-Expression
+- type: x-press
+  url: https://www.inkgrab.com/Samsung/Samsung-ProXpress
+- type: x-press
+  url: https://www.inkgrab.com/Samsung/Samsung-Xpress
+- type: x-press
+  url: https://inkgrabber.wordpress.com/
+- type: x-support
+  url: http://www.cartridge-support.com/
+- type: x-website
+  url: https://www.inkgrabber.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

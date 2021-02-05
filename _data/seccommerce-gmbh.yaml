@@ -1,0 +1,29 @@
+---
+name: SecCommerce GmbH
+description: Sichern Sie Ihre Prozesse und Infrastrukturen durch starke Zwei-Faktor-Authentifizierung
+  und digitale (qualifizierte oder fortgeschrittene) Signaturen ab.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/seccommerce-gmbh.yaml
+tags:
+- Tools And Services
+apis: []
+x-common:
+- type: x-careers
+  url: https://seccommerce.com/jobs/
+- type: x-contact
+  url: https://seccommerce.com/kontakt#contact_form
+- type: x-login
+  url: https://seccommerce.info/de/login.html
+- type: x-website
+  url: https://www.seccommerce.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

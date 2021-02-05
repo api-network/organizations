@@ -1,0 +1,48 @@
+---
+name: Cosmos Enterprises
+description: Cosmos Enterprises is a full service Online Branding, Internet, Inbound
+  & Social Media Marketing, Website Design and Search Engine Optimization (SEO) Company.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/3700-cosmos-enterprises.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cosmos-enterprises.yaml
+tags:
+- Have API
+- Dev Shop
+apis: []
+x-common:
+- type: x-blog
+  url: http://cosmosenterprises.com/blog/
+- type: x-facebook
+  url: https://www.facebook.com/CosmosEnterprisesLLC
+- type: x-website
+  url: http://www.CosmosEnterprises.com
+- type: x-about
+  url: https://cosmosdigitalmedia.com/about-us/
+- type: x-contact
+  url: https://cosmosdigitalmedia.com/contact-us/
+- type: x-contact
+  url: http://cosmosdigitalmedia.com/contact-us/
+- type: x-twitter
+  url: https://twitter.com/CosmosEntprises
+- type: x-email
+  url: Info@CosmosEnterprises.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/cosmos-enterprises
+- type: x-privacy
+  url: https://cosmosenterprises.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://cosmosenterprises.com/terms-of-use/
+- type: x-website
+  url: http://cosmosenterprises.com/
+- type: x-youtube
+  url: https://www.youtube.com/user/CosmosEnterprises
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

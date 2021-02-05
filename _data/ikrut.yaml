@@ -1,0 +1,35 @@
+---
+name: iKrut
+description: iKrut is a free applicant tracking system with all the functionality
+  you need to manage your hiring. Post jobs now for free in under 1 minute.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "699788"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ikrut.yaml
+tags:
+- Recruitment Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ikrut.com
+- type: x-blog
+  url: http://ikrutblog1.wix.com/the-hiring-edge
+- type: x-careers
+  url: http://www.docutechcareers.com
+- type: x-facebook
+  url: http://www.facebook.com/WeLoveIKrut
+- type: x-linkedin
+  url: http://www.linkedin.com/groups/we-love-iKrut-2733178
+- type: x-twitter
+  url: https://twitter.com/#!/weloveiKrut
+- type: x-website
+  url: https://www.ikrut.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

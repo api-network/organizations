@@ -1,0 +1,45 @@
+---
+name: Ingate
+description: Ingate Systems develops technology and products - firewalls and SIParators
+  - that enable global VoIP for the enterprise while maintaining control and security
+  at the network edge
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1841643"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ingate.yaml
+tags:
+- VOIP
+- SIParators
+- SIParator
+- SIP Trunks
+- SIP Trunking
+- SIP Firewalls
+- SIP
+- Session Border Controller
+- Remote SIP Connectivity
+- Network Security
+- NAT Traversal
+- IP Telephony
+- Ingate
+- Fuego
+- Firewalls
+- Appliances
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ingate.com
+- type: x-privacy
+  url: https://www.ingate.com/files/privacy_policy.pdf
+- type: x-twitter
+  url: https://twitter.com/IngateSystems
+- type: x-website
+  url: https://www.ingate.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

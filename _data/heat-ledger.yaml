@@ -1,0 +1,27 @@
+---
+name: Heat Ledger
+description: HEAT Ledger is 3rd generation cryptocurrency with high frequency trading,
+  instant messaging, custom assets, hybrid PoS reward system and more.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26846-heatledger-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1539057"
+url: https://raw.githubusercontent.com/api-network/organizations/main/heat-ledger.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/heat-ledger
+- type: x-twitter
+  url: https://twitter.com/heatcrypto
+- type: x-website
+  url: http://heatledger.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

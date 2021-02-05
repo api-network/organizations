@@ -1,0 +1,23 @@
+---
+name: Tideline Water Taxi GTFS
+description: Transit authority located in San Francisco, CA, USA<br />
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tideline-water-taxi-gtfs.yaml
+tags: []
+apis: []
+x-common:
+- type: x-gtfs-feed
+  url: http://trilliumtransit.com/transit_feeds/tidelinewatertaxi-ca-us/tidelinewatertaxi-ca-us.zip
+- type: x-website
+  url: http://trilliumtransit.com/transit_feeds/tidelinewatertaxi-ca-us/tidelinewatertaxi-ca-us.zip
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

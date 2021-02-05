@@ -1,0 +1,52 @@
+---
+name: Fallible
+description: Fallible secures your API endpoints and protects you from data breaches.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Fallible_-_Secure_your_startup.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1552958"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fallible.yaml
+tags:
+- Security
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: https://fallible.co
+- type: x-blog
+  url: https://fallible.co/blog/
+- type: x-blog
+  url: https://fallible.co/blog
+- type: x-blog-rss
+  url: https://fallible.co/atom.xml
+- type: x-contact
+  url: https://www.olark.com/site/4350-869-10-6474/contact
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/fallible
+- type: x-facebook
+  url: https://www.facebook.com/fallible.co
+- type: x-github
+  url: https://github.com/FallibleInc
+- type: x-linkedin
+  url: https://www.linkedin.com/company/fallible
+- type: x-login
+  url: https://dashboard.fallible.co/login
+- type: x-news
+  url: https://www.bbc.com/news/technology-39265282
+- type: x-pricing
+  url: https://fallible.co/pricing
+- type: x-signup
+  url: https://dashboard.fallible.co/signup
+- type: x-twitter
+  url: https://twitter.com/fallible_inc
+- type: x-website
+  url: https://fallible.co/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

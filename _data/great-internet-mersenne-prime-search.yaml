@@ -1,0 +1,30 @@
+---
+name: Great Internet Mersenne Prime Search
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "189563"
+url: https://raw.githubusercontent.com/api-network/organizations/main/great-internet-mersenne-prime-search.yaml
+tags:
+- Cryptography
+apis: []
+x-common:
+- type: x-forum
+  url: http://www.mersenneforum.org/
+- type: x-forum
+  url: https://mersenneforum.org/forumdisplay.php?f=161
+- type: x-press
+  url: https://www.mersenne.org/primes/?press=M77232917
+- type: x-website
+  url: https://www.mersenne.org
+- type: x-youtube
+  url: https://www.youtube.com/user/standupmaths
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

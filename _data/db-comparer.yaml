@@ -1,0 +1,30 @@
+---
+name: DB Comparer
+description: Free Compare database tool - DBComparer 3.0 is a professional compare
+  database tool for comparing Microsoft SQL Server 2008 (and 2005) database structure.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1347068"
+url: https://raw.githubusercontent.com/api-network/organizations/main/db-comparer.yaml
+tags:
+- Tools
+- SQL Compare
+- Schema Comparison
+- MSSQL Database Comparison
+- Free Database Structure Compare
+- DBComparer
+- Compare Sql
+- Compare Database
+apis: []
+x-common:
+- type: x-website
+  url: https://www.dbcomparer.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

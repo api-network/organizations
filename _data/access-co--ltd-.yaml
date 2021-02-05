@@ -1,0 +1,42 @@
+---
+name: Access Co. Ltd.
+description: "ACCESS\u306F\u3001\u30E2\u30D0\u30A4\u30EB\u3001\u30AF\u30E9\u30A6\u30C9\u3001\u30D6\u30E9\u30A6\u30B6\u3001\u30D3\u30FC\u30B3\u30F3\u306A\u3069IoT\u6642\u4EE3\u3092\u30EA\u30FC\u30C9\u3059\u308B\u5148\u9032\u6280\u8853\u306E\u4F01\u753B\u30FB\u958B\u767A\u30FB\u63D0\u4F9B\u3092\u901A\u3058\u3066\u3001\u3088\u308A\u8C4A\u304B\u306A\u793E\u4F1A\u3068\u66AE\u3089\u3057\u306E\u5275\u9020\u3092\u76EE\u6307\u3057\u307E\u3059\u3002"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "59930"
+url: https://raw.githubusercontent.com/api-network/organizations/main/access-co--ltd-.yaml
+tags:
+- I-Mode Internet
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.access-company.com/contactus/
+- type: x-investor
+  url: https://www.access-company.com/investors/
+- type: x-investor
+  url: https://www.access-company.com/investors/library/
+- type: x-investor
+  url: https://www.access-company.com/investors/highlight/
+- type: x-investor
+  url: https://www.access-company.com/investors/stock_quote/
+- type: x-investor
+  url: https://www.access-company.com/investors/faq/
+- type: x-news
+  url: https://www.access-company.com/news_event/
+- type: x-security
+  url: https://www.access-company.com/company/security/
+- type: x-terms-of-service
+  url: https://www.access-company.com/info/legal/
+- type: x-terms-of-service
+  url: https://www.access-company.com/info/legal/policy/
+- type: x-website
+  url: https://www.access-company.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

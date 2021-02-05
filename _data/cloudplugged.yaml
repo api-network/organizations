@@ -1,0 +1,42 @@
+---
+name: CloudPlugged
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cloudplugged.yaml
+tags:
+- Cloud Computing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cloudplugged.com
+- type: x-about
+  url: https://www.cloudplugged.com/about/
+- type: x-blog
+  url: https://www.cloudplugged.com/guest-post-blog
+- type: x-contact
+  url: https://www.cloudplugged.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/CloudPlugged
+- type: x-feed
+  url: https://feeds.feedburner.com/cloudplugged
+- type: x-privacy
+  url: https://www.cloudplugged.com/privacy-policy/
+- type: x-security
+  url: https://www.cloudplugged.com/category/cloud_security/
+- type: x-terms-of-service
+  url: https://www.cloudplugged.com/copyright-terms/
+- type: x-twitter
+  url: https://twitter.com/CloudPlugged
+- type: x-website
+  url: https://www.cloudplugged.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,38 @@
+---
+name: Spotfire
+description: "TIBCO Spotfire\xAE is a smart, secure, governed, enterprise-class analytics
+  platform with built-in immersive data wrangling that delivers AI-driven visual analytics,
+  predictive analytics, geoanalytics, and streaming analytics."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "39604"
+url: https://raw.githubusercontent.com/api-network/organizations/main/spotfire.yaml
+tags:
+- Tool Vendors
+apis: []
+x-common:
+- type: x-documentation
+  url: https://docs.tibco.com
+- type: x-facebook
+  url: https://www.facebook.com/TIBCO
+- type: x-linkedin
+  url: https://www.linkedin.com/company/tibco/
+- type: x-partner
+  url: https://partners.tibco.com/s/partners
+- type: x-support
+  url: https://support.tibco.com
+- type: x-twitter
+  url: https://twitter.com/tibco
+- type: x-website
+  url: https://spotfire.tibco.com
+- type: x-youtube
+  url: https://www.youtube.com/user/TIBCOSoftware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

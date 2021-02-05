@@ -1,0 +1,64 @@
+---
+name: Calgary Linux User Group (CLUG)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7499261"
+url: https://raw.githubusercontent.com/api-network/organizations/main/calgary-linux-user-group-clug.yaml
+tags:
+- Alberta
+apis: []
+x-common:
+- type: x-press
+  url: http://clug.ca/wordpress/
+- type: x-press
+  url: https://clug.ca/wordpress/about/
+- type: x-press
+  url: https://clug.ca/wordpress/mailing-lists/
+- type: x-press
+  url: https://clug.ca/wordpress/membershi/
+- type: x-press
+  url: https://clug.ca/wordpress/category/events/
+- type: x-press
+  url: https://clug.ca/wordpress/2019/05/may15meeting/
+- type: x-press
+  url: https://clug.ca/wordpress/category/articles/
+- type: x-press
+  url: https://clug.ca/wordpress/2018/10/896/
+- type: x-press
+  url: https://clug.ca/wordpress/2018/10/896/#respond
+- type: x-press
+  url: https://clug.ca/wordpress/page/2/
+- type: x-press
+  url: https://clug.ca/wordpress/category/meeting-minutes/
+- type: x-press
+  url: https://clug.ca/wordpress/category/news/
+- type: x-press
+  url: https://clug.ca/wordpress/category/reviews/
+- type: x-press
+  url: http://codex.wordpress.org/
+- type: x-press
+  url: http://wordpress.org/extend/plugins/
+- type: x-press
+  url: http://wordpress.org/support/
+- type: x-press
+  url: http://wordpress.org/extend/themes/
+- type: x-press
+  url: http://wordpress.org/news/
+- type: x-press
+  url: http://planet.wordpress.org/
+- type: x-press
+  url: https://clug.ca/wordpress/wp-login.php
+- type: x-press
+  url: http://wordpress.org/
+- type: x-website
+  url: https://clug.ca
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

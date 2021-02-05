@@ -1,0 +1,27 @@
+---
+name: Themehall
+description: Free and Premium Responsive WordPress Themes, simplified. All themes
+  are created with Omega WordPress Theme Framework, downloaded over 350,000 times
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1621192"
+url: https://raw.githubusercontent.com/api-network/organizations/main/themehall.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-blog
+  url: https://themehall.com/blog
+- type: x-contact
+  url: https://themehall.com/contact
+- type: x-website
+  url: https://themehall.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

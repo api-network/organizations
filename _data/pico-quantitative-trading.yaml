@@ -1,0 +1,62 @@
+---
+name: Pico Quantitative Trading
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/api-butterfly.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pico-quantitative-trading.yaml
+tags:
+- Trading
+- Profile
+- Market Data
+- Have API
+- Financial
+apis: []
+x-common:
+- type: x-careers
+  url: https://www.picotrading.com/careers/
+- type: x-contact
+  url: https://www.picotrading.com/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/pico-quantitative-trading
+- type: x-email
+  url: careers.sales@picotrading.com
+- type: x-email
+  url: careers@picotrading.com
+- type: x-email
+  url: careers.hr@picotrading.com
+- type: x-email
+  url: careers.infrastructure@picotrading.com
+- type: x-email
+  url: careers.network@picotrading.com
+- type: x-email
+  url: careers.uk@picotrading.com
+- type: x-email
+  url: careers.development@picotrading.com
+- type: x-email
+  url: careers.serviceops@picotrading.com
+- type: x-email
+  url: careers.legal@picotrading.com
+- type: x-email
+  url: careers.marketdata@picotrading.com
+- type: x-github
+  url: https://github.com/picotrading
+- type: x-news
+  url: https://www.picotrading.com/news/
+- type: x-partner
+  url: https://www.picotrading.com/partners/
+- type: x-support
+  url: https://www.picotrading.com/client-support/
+- type: x-terms-of-service
+  url: https://www.picotrading.com/terms-conditions/
+- type: x-website
+  url: https://www.picotrading.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

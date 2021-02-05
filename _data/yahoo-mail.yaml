@@ -1,0 +1,25 @@
+---
+name: Yahoo! Mail
+description: "Take a trip into an upgraded, more organized inbox. Sign in and start
+  exploring all the free, organizational tools for your email. Check out new themes,
+  send GIFs, find every photo you\xE2\x80\x99ve ever sent or received, and search
+  your account faster than ever."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "11"
+url: https://raw.githubusercontent.com/api-network/organizations/main/yahoo-mail.yaml
+tags:
+- Yahoo Mail
+apis: []
+x-common:
+- type: x-website
+  url: https://mail.yahoo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

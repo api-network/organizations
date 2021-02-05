@@ -1,0 +1,35 @@
+---
+name: Office of Government Ethics (USOGE)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/office-of-government-ethics-usoge.yaml
+tags:
+- Www.oge.gov
+- Twitter
+- Oge
+- Federal Government
+- Ethics Training Videos
+- Astrogeology
+apis: []
+x-common:
+- type: x-website
+  url: http://www.oge.gov
+- type: x-website
+  url: http://www.usoge.gov
+- type: x-twitter
+  url: https://twitter.com/OfficeGovEthics
+- type: x-twitter
+  url: http://twitter.com/OfficeGovEthics
+- type: x-youtube
+  url: https://www.youtube.com/user/OGEInstitute
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

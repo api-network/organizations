@@ -1,0 +1,38 @@
+---
+name: Ladder
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "128383"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ladder.yaml
+tags:
+- Insurance
+apis: []
+x-common:
+- type: x-website
+  url: https://www.ladderlife.com
+- type: x-website
+  url: http://bit.ly/ladderlife-home
+- type: x-blog
+  url: https://blog.ladderlife.com
+- type: x-facebook
+  url: https://www.facebook.com/ladderlife/
+- type: x-instagram
+  url: https://www.instagram.com/ladder/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/ladderlife
+- type: x-support
+  url: https://support.ladderlife.com/hc/en-us
+- type: x-support
+  url: https://support.ladderlife.com/hc/en-us/requests/new
+- type: x-twitter
+  url: https://twitter.com/ladder
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

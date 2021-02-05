@@ -1,0 +1,83 @@
+---
+name: Intuit
+description: See how the power of Intuit Giants can work for you by joining the over
+  ~50 million people already using TurboTax, QuickBooks and Mint to power their financial
+  prosperity.
+image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "228"
+url: https://raw.githubusercontent.com/api-network/organizations/main/intuit.yaml
+tags:
+- Turbotax
+- Turbo
+- Tax Software
+- Small Business
+- Quickbooks
+- Proconnect
+- Powering Prosperity
+- Personal Finance
+- Organization And Productivity
+- New
+- Mint
+- Intuit
+- Individual Tax
+- Have OpenAPI
+- Have API Paths
+- Accounting
+apis: []
+x-common:
+- type: x-website
+  url: http://www.intuit.com
+- type: x-blog
+  url: http://www.intuit.com/blog/
+- type: x-blog
+  url: http://blog.turbotax.intuit.com/
+- type: x-blog
+  url: http://quickbooks.intuit.com/blog/
+- type: x-careers
+  url: https://careers.intuit.com
+- type: x-careers
+  url: http://careers.intuit.com
+- type: x-developer
+  url: http://developer.intuit.com
+- type: x-facebook
+  url: https://www.facebook.com/intuit
+- type: x-gdpr
+  url: https://quickbooks.intuit.com/eu/gdpr/
+- type: x-investor
+  url: https://investors.intuit.com/
+- type: x-investor
+  url: http://investors.intuit.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/intuit
+- type: x-privacy
+  url: https://www.intuit.com/privacy/
+- type: x-privacy
+  url: https://www.intuit.com/privacy/protect-your-privacy/
+- type: x-privacy
+  url: https://www.intuit.com/privacy/statement/
+- type: x-privacy
+  url: https://accounts-help.lc.intuit.com/privacy
+- type: x-security
+  url: https://security.intuit.com/
+- type: x-security
+  url: http://security.intuit.com/
+- type: x-support
+  url: https://quickbooks.intuit.com/learn-support/
+- type: x-terms-of-service
+  url: https://accounts.intuit.com/terms-of-service
+- type: x-twitter
+  url: https://twitter.com/Intuit
+- type: x-website
+  url: https://www.intuit.com
+- type: x-youtube
+  url: https://www.youtube.com/user/intuit
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

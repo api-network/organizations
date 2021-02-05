@@ -1,0 +1,36 @@
+---
+name: Corporate Montage, Pty. Ltd.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/corporate-montage-pty--ltd-.yaml
+tags:
+- MicroStation
+apis: []
+x-common:
+- type: x-website
+  url: http://www.altivasoft.com
+- type: x-contact
+  url: https://www.corporatemontage.com.au/contact/
+- type: x-press
+  url: https://wordpress.org
+- type: x-press
+  url: https://presscustomizr.com/customizr
+- type: x-support
+  url: https://www.corporatemontage.com.au/support-2/
+- type: x-twitter
+  url: http://www.twitter.com/CADconform
+- type: x-website
+  url: https://www.corporatemontage.com.au
+- type: x-youtube
+  url: http://www.youtube.com/altivasoftware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,38 @@
+---
+name: JoomPlace - Joomla Extensions, Joomla components and modules
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1421176"
+url: https://raw.githubusercontent.com/api-network/organizations/main/joomplace--joomla-extensions-joomla-components-and-modules.yaml
+tags:
+- Extensions And Templates
+apis: []
+x-common:
+- type: x-website
+  url: http://joomplace.com
+- type: x-blog
+  url: https://www.joomplace.com/blog/
+- type: x-blog
+  url: https://joomplace.com/blog/happy-new-year-2020.html
+- type: x-facebook
+  url: http://facebook.com/joomplace
+- type: x-feed
+  url: http://feeds.feedburner.com/joomplace/wnvJ
+- type: x-linkedin
+  url: http://www.linkedin.com/company/joomplace
+- type: x-support
+  url: http://www.joomplace.com/joomla-support-services.html
+- type: x-twitter
+  url: https://twitter.com/joomplace
+- type: x-website
+  url: https://www.joomplace.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

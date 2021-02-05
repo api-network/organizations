@@ -1,0 +1,63 @@
+---
+name: IntaForensics
+description: IntaForensics - Provides Computer Forensics, Mobile Device Forensics,
+  Forensic Data Recovery, Cyber Security, PCI/DSS and Expert Witness services.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8064975"
+url: https://raw.githubusercontent.com/api-network/organizations/main/intaforensics.yaml
+tags:
+- Forensics And Incident Response
+apis: []
+x-common:
+- type: x-about
+  url: https://www.intaforensics.com/about-us/
+- type: x-careers
+  url: https://www.intaforensics.com/careers/
+- type: x-contact
+  url: https://www.intaforensics.com/cyber-security/contact/
+- type: x-contact
+  url: https://www.intaforensics.com/lima/contact/
+- type: x-contact
+  url: https://www.intaforensics.com/contact/
+- type: x-events
+  url: https://www.intaforensics.com/about-us/events/
+- type: x-facebook
+  url: https://www.facebook.com/intaforensics
+- type: x-linkedin
+  url: https://www.linkedin.com/company/lima-case-management/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/intaforensics-ltd
+- type: x-news
+  url: https://www.intaforensics.com/digital-forensics/news/
+- type: x-news
+  url: https://www.intaforensics.com/cyber-security/news/
+- type: x-news
+  url: https://www.intaforensics.com/lima/news/
+- type: x-privacy
+  url: https://www.intaforensics.com/privacy/
+- type: x-security
+  url: https://www.intaforensics.com/cyber-security/
+- type: x-security
+  url: https://www.intaforensics.com/cyber-security/qsa/
+- type: x-security
+  url: https://www.intaforensics.com/security/
+- type: x-support
+  url: https://limasupport.intaforensics.com/
+- type: x-terms-of-service
+  url: https://www.intaforensics.com/terms-conditions/
+- type: x-twitter
+  url: http://www.twitter.com/limaforensics
+- type: x-twitter
+  url: https://www.twitter.com/intaforensics
+- type: x-website
+  url: https://www.intaforensics.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

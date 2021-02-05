@@ -1,0 +1,30 @@
+---
+name: GSam battery
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8510719"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gsam-battery.yaml
+tags:
+- Apps
+apis: []
+x-common:
+- type: x-about
+  url: https://www.gsamlabs.com/about-gsam-labs
+- type: x-blog
+  url: http://blogger.gsamlabs.com
+- type: x-privacy
+  url: https://www.iubenda.com/privacy-policy/8067823
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-website
+  url: https://www.gsamlabs.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

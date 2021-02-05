@@ -1,0 +1,37 @@
+---
+name: ESLint
+description: A pluggable and configurable linter tool for identifying and reporting
+  on patterns in JavaScript. Maintain your code quality with ease.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "31931"
+url: https://raw.githubusercontent.com/api-network/organizations/main/eslint.yaml
+tags:
+- Pluggable
+- Lints
+- Linting
+- Linter
+- JavaScript
+- Configurable
+- Code Quality
+apis: []
+x-common:
+- type: x-facebook
+  url: https://opensource.facebook.com
+- type: x-github
+  url: https://github.com/eslint/eslint
+- type: x-open-source
+  url: https://opencollective.com/eslint
+- type: x-twitter
+  url: https://twitter.com/geteslint
+- type: x-website
+  url: https://eslint.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,37 @@
+---
+name: LinuxLookup
+description: Linux hardware Reviews, Linux software Reviews, Linux benchmarks and
+  Linux HowTo Guides.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "529742"
+url: https://raw.githubusercontent.com/api-network/organizations/main/linuxlookup.yaml
+tags:
+- Ubuntu
+- Support
+- Open Source
+- Linux Tutorials
+- Linux Software
+- Linux Security
+- Linux ISO
+- Linux HowTo
+- Linux Hardware Reviews
+- Linux Distribution
+- Linux Commands
+- Linux Benchmarks
+- Kernel
+- Desktop Linux
+- Debian
+apis: []
+x-common:
+- type: x-website
+  url: https://www.linuxlookup.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,30 @@
+---
+name: Pandora Archive
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "20514"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pandora-archive.yaml
+tags:
+- Archives
+apis: []
+x-common:
+- type: x-about
+  url: http://pandora.nla.gov.au/about.html
+- type: x-contact
+  url: http://pandora.nla.gov.au/contact.html
+- type: x-news
+  url: http://pandora.nla.gov.au/pandoranews.html
+- type: x-partner
+  url: http://pandora.nla.gov.au/partners.html
+- type: x-website
+  url: https://pandora.nla.gov.au
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

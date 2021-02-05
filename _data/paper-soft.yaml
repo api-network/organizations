@@ -1,0 +1,31 @@
+---
+name: Paper Soft
+description: PaperSoft is dedicated to providing software for the paper converting
+  industry. For a complete software solution, visit today.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6597213"
+url: https://raw.githubusercontent.com/api-network/organizations/main/paper-soft.yaml
+tags:
+- Supply Chain Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.papersoft.com
+- type: x-facebook
+  url: https://www.facebook.com/Papersoft
+- type: x-support
+  url: http://199.71.210.74:8080/portal/support
+- type: x-twitter
+  url: https://twitter.com/paper_soft
+- type: x-website
+  url: https://www.papersoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

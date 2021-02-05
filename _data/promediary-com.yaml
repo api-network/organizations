@@ -1,0 +1,42 @@
+---
+name: Promediary.com
+description: Promediary brokers the resale of premium and ultra-premium client domains
+  to major corporations and and independent companies, eager to fortify their Web
+  identities.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2841907"
+url: https://raw.githubusercontent.com/api-network/organizations/main/promediary-com.yaml
+tags:
+- Sell Domains
+- General Brokers
+- Domains For Sale
+- Domains
+- Domain Sales
+- Domain Names
+- Domain Brokerage
+- Domain Broker
+- Corporate Branding
+- Buy Domains
+- Branding
+apis: []
+x-common:
+- type: x-about
+  url: http://www.promediary.com/about.html
+- type: x-contact
+  url: http://www.promediary.com/contact.html
+- type: x-news
+  url: http://www.newsbureau.net
+- type: x-privacy
+  url: http://www.promediary.com/privacy.html
+- type: x-website
+  url: https://www.promediary.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

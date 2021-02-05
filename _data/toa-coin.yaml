@@ -1,0 +1,28 @@
+---
+name: TOA Coin
+description: '#toa2coinomi'
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27021-www-toacoin-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1120182"
+url: https://raw.githubusercontent.com/api-network/organizations/main/toa-coin.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-email
+  url: support@toacoin.com
+- type: x-email
+  url: info@toacoin.com
+- type: x-twitter
+  url: https://twitter.com/ToaCoin
+- type: x-website
+  url: http://www.toacoin.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,25 @@
+---
+name: Function Fox
+description: Easily track online timesheets, simplify project management, and stay
+  on top of estimates, invoices and every detail in between. FunctionFox is cleverly
+  designed for the way creative teams work. Easy to set up, intuitive to use & trusted
+  by creative professionals around the world.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "58794"
+url: https://raw.githubusercontent.com/api-network/organizations/main/function-fox.yaml
+tags:
+- Time Tracking
+apis: []
+x-common:
+- type: x-website
+  url: https://www.functionfox.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

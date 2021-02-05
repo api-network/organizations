@@ -1,0 +1,52 @@
+---
+name: Safran
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1537531"
+url: https://raw.githubusercontent.com/api-network/organizations/main/safran.yaml
+tags:
+- Project Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.safran.com
+- type: x-about
+  url: https://www.safran.com/about-us
+- type: x-blog
+  url: https://www.safran.com/blog
+- type: x-careers
+  url: https://www.safran.com/careers
+- type: x-case-studies
+  url: https://www.safran.com/case-studies
+- type: x-contact
+  url: https://www.safran.com/contact-us
+- type: x-events
+  url: https://www.safran.com/upcoming-events-safran
+- type: x-facebook
+  url: https://www.facebook.com/SafranSoftwareSolutions/
+- type: x-forum
+  url: https://www.safran.com/forum-safran-2019-presentations
+- type: x-partner
+  url: https://www.safran.com/partners
+- type: x-privacy
+  url: https://www.safran.com/privacy-policy
+- type: x-support
+  url: http://support.safran.com/
+- type: x-terms-of-service
+  url: https://www.safran.com/terms-and-conditions
+- type: x-twitter
+  url: https://twitter.com/safransoftware
+- type: x-webinars
+  url: https://www.safran.com/webinars
+- type: x-website
+  url: https://www.safran.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,90 @@
+---
+name: Harvest
+description: Simple time tracking, fast online invoicing, and powerful reporting software.
+  Simplify employee timesheets and billing. Get started for free.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/421_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "18497"
+url: https://raw.githubusercontent.com/api-network/organizations/main/harvest.yaml
+tags:
+- Tasks
+- Target
+- Projects
+- Profile
+- Have API
+- Contacts
+- API Provider
+- Accounting
+apis: []
+x-common:
+- type: x-about
+  url: https://www.getharvest.com/about
+- type: x-base
+  url: https://www.getharvest.com/api/
+- type: x-blog
+  url: http://www.getharvest.com/blog
+- type: x-blog
+  url: https://blog.getharvest.com
+- type: x-blog-rss
+  url: http://feeds2.feedburner.com/harvest
+- type: x-careers
+  url: https://www.getharvest.com/careers
+- type: x-contact
+  url: https://www.getharvest.com/contact
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/harvest
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/harvest
+- type: x-customers
+  url: https://www.getharvest.com/customers/happy-cog
+- type: x-customers
+  url: https://www.getharvest.com/customers
+- type: x-developers
+  url: http://www.getharvest.com/api/
+- type: x-email
+  url: support@harvestapp.com
+- type: x-email
+  url: sales@harvestapp.com
+- type: x-email
+  url: privacy@getharvest.com
+- type: x-email
+  url: tos@getharvest.com
+- type: x-email
+  url: press@getharvest.com
+- type: x-github
+  url: https://github.com/harvesthq
+- type: x-integrations
+  url: https://www.getharvest.com/apps-and-integrations
+- type: x-linkedin
+  url: https://www.linkedin.com/company/harvest_2
+- type: x-login
+  url: https://id.getharvest.com/harvest/sign_in
+- type: x-press
+  url: https://www.getharvest.com/about/press
+- type: x-pricing
+  url: https://www.getharvest.com/pricing
+- type: x-security
+  url: https://www.getharvest.com/security
+- type: x-signup
+  url: https://www.getharvest.com/signup
+- type: x-support
+  url: http://help.getharvest.com/harvest/
+- type: x-support
+  url: http://help.getharvest.com/api-v2/
+- type: x-terms-of-service
+  url: https://www.getharvest.com/services/terms-of-service
+- type: x-twitter
+  url: https://twitter.com/harvest
+- type: x-webinars
+  url: https://www.getharvest.com/webinars
+- type: x-website
+  url: http://www.getharvest.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

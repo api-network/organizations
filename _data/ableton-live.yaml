@@ -1,0 +1,44 @@
+---
+name: Ableton Live
+description: "Ableton makes Push and Live, hardware and software for music production,
+  creation and performance. Ableton\xC2\xB4s products are made to inspire creative
+  music-making."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6292"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ableton-live.yaml
+tags:
+- Sequencers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ableton.com
+- type: x-facebook
+  url: http://facebook.com/ableton
+- type: x-instagram
+  url: http://instagram.com/ableton
+- type: x-twitter
+  url: http://twitter.com/ableton
+- type: x-website
+  url: https://www.ableton.com
+- type: x-youtube
+  url: http://www.youtube.com/watch?v=YlV7MN7CyuI
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=mTfIvm6V3XE
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=8lNhA8K3tNU
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=lYwzbCdmwxg
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=Cp0rtLaXBio
+- type: x-youtube
+  url: http://youtube.com/ableton
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

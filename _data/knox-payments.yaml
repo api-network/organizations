@@ -1,0 +1,46 @@
+---
+name: Knox Payments
+description: Knox connects your bank to merchants so you can pay with your online
+  banking without the merchant getting any of your personal info.
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/api-butterfly.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4958006"
+url: https://raw.githubusercontent.com/api-network/organizations/main/knox-payments.yaml
+tags:
+- Profile
+- Payments
+- No API Definition
+- Have API
+- Has API
+- API Provider
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/knox-payments
+- type: x-documentation
+  url: http://knoxpayments.com/docs
+- type: x-email
+  url: support@knoxpayments.com
+- type: x-email
+  url: abhinav@knoxpayments.com
+- type: x-facebook
+  url: https://facebook.com/knoxpayments
+- type: x-instagram
+  url: https://instagram.com/knoxpayments
+- type: x-sandbox
+  url: http://knoxpayments.com/docs
+- type: x-support
+  url: http://knoxpayments.com/support
+- type: x-twitter
+  url: https://twitter.com/knoxpayments
+- type: x-website
+  url: http://knoxpayments.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

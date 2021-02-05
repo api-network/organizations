@@ -1,0 +1,24 @@
+---
+name: Android Apps for Chromecast
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1163654"
+url: https://raw.githubusercontent.com/api-network/organizations/main/android-apps-for-chromecast.yaml
+tags:
+- Reviews
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.en.apps4chromecast.com
+- type: x-website
+  url: https://en.apps4chromecast.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

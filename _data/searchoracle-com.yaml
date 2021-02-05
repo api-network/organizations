@@ -1,0 +1,56 @@
+---
+name: SearchOracle.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2297"
+url: https://raw.githubusercontent.com/api-network/organizations/main/searchoracle-com.yaml
+tags:
+- News And Media
+apis: []
+x-common:
+- type: x-website
+  url: https://searchoracle.techtarget.com/
+- type: x-about
+  url: https://searchoracle.techtarget.com/about
+- type: x-about
+  url: https://searchoracle.techtarget.com/about/editors
+- type: x-about
+  url: https://searchoracle.techtarget.com/about/advertising
+- type: x-about
+  url: https://searchoracle.techtarget.com/about/copyright
+- type: x-contact
+  url: https://searchoracle.techtarget.com/about/contact
+- type: x-events
+  url: https://searchoracle.techtarget.com/events
+- type: x-facebook
+  url: https://www.facebook.com/TechTargetEnterpriseSoftware/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/3069051?trk=tyah
+- type: x-news
+  url: https://searchoracle.techtarget.com/info/news
+- type: x-partner
+  url: https://searchoracle.techtarget.com/about/partners
+- type: x-privacy
+  url: https://www.techtarget.com/privacy-policy/
+- type: x-privacy
+  url: https://www.techtarget.com/privacy-partners/
+- type: x-privacy
+  url: https://www.techtarget.com/privacy-policy-may25/
+- type: x-terms-of-service
+  url: https://www.techtarget.com/terms-of-use/
+- type: x-tutorials
+  url: https://searchoracle.techtarget.com/tutorials
+- type: x-twitter
+  url: https://twitter.com/searchoracle
+- type: x-website
+  url: https://searchoracle.techtarget.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

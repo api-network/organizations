@@ -1,0 +1,98 @@
+---
+name: Capital One DevExchange
+description: <p><span>What unites us all is a desire to create better end customer
+  experiences. We're building a full suite of tools and technology that make essential
+  things in peoples' everyday life &ndash; money, finances, identity &ndash; simpler
+  for you. Now is the time to join our beta program, and help us shape the future.</span></p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/capitalone-devexchange.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "266"
+url: https://raw.githubusercontent.com/api-network/organizations/main/capital-one-devexchange.yaml
+tags:
+- Relative Data
+- Payments
+- Have API Paths
+- Have API
+- Banking
+- API Provider
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-about
+  url: https://www.capitalone.com/about/
+- type: x-authentication
+  url: https://developer.capitalone.com/platform-documentation/authorization-with-oauth-20/
+- type: x-blog
+  url: https://developer.capitalone.com/blogs/
+- type: x-careers
+  url: https://www.capitalonecareers.com/
+- type: x-contact
+  url: https://www.capitalone.com/contact/
+- type: x-developer
+  url: http://developer.capitalone.com
+- type: x-developers
+  url: https://developer.capitalone.com/
+- type: x-documentation
+  url: https://developer.capitalone.com/platform-documentation/
+- type: x-errors
+  url: https://developer.capitalone.com/platform-documentation/errors/
+- type: x-facebook
+  url: https://www.facebook.com/capitalone/
+- type: x-getting-started
+  url: https://developer.capitalone.com/platform-documentation/getting-started/
+- type: x-github
+  url: https://github.com/capitalone
+- type: x-instagram
+  url: https://www.instagram.com/capitalone/
+- type: x-website
+  url: http://capitalone.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/capital-one/
+- type: x-login
+  url: https://verified.capitalone.com/auth/signin
+- type: x-news
+  url: https://www.capitalone.com/about/newsroom
+- type: x-open-source
+  url: https://developer.capitalone.com/open-source/
+- type: x-privacy
+  url: https://www.capitalone.com/identity-protection/privacy
+- type: x-sandbox
+  url: https://developer.capitalone.com/platform-documentation/using-the-sandbox/
+- type: x-login
+  url: https://developer.capitalone.com/sign-in/
+- type: x-registration
+  url: https://developer.capitalone.com/sign-up
+- type: x-support
+  url: http://www.capitalone.com/support-center/
+- type: x-support
+  url: https://www.capitalone.com/support-center/
+- type: x-support
+  url: https://developer.capitalone.com/support/
+- type: x-privacy-policy
+  url: https://www.capitalone.com/identity-protection/privacy/statement
+- type: x-terms-of-service
+  url: https://www.capitalone.com/legal/subpoena-policy/
+- type: x-terms-of-service
+  url: https://www.capitalone.com/legal/disclosures
+- type: x-terms-of-service
+  url: https://www.capitalone.com/legal/terms-conditions
+- type: x-terms-of-service
+  url: https://developer.capitalone.com/single/terms-and-conditions/
+- type: x-twitter
+  url: https://twitter.com/CapitalOneDevEx
+- type: x-twitter
+  url: https://twitter.com/capitalone
+- type: x-twitter
+  url: https://twitter.com/askcapitalone
+- type: x-youtube
+  url: https://www.youtube.com/user/capitalone/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

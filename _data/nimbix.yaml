@@ -1,0 +1,94 @@
+---
+name: nimbix
+description: High Performance Computing and Supercomputing Platform
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1343_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "826478"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nimbix.yaml
+tags:
+- Have API
+- Computing
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: https://www.nimbix.net
+- type: x-about
+  url: https://www.nimbix.net/about-us
+- type: x-blog
+  url: http://www.nimbix.net/blog/
+- type: x-blog
+  url: https://www.nimbix.net/blog
+- type: x-careers
+  url: https://www.nimbix.net/careers
+- type: x-case-studies
+  url: https://www.nimbix.net/hpc-use-cases-cloud
+- type: x-contact
+  url: https://www.nimbix.net/contact-us#get-started
+- type: x-contact
+  url: https://www.nimbix.net/contact-us/
+- type: x-contact
+  url: https://www.nimbix.net/contact-us
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/nimbix
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/nimbix
+- type: x-documentation
+  url: https://www.nimbix.net/nimbix-support-documentation/
+- type: x-documentation
+  url: https://nimbix.net/nimbix-support-documentation/
+- type: x-email
+  url: sales@nimbix.net
+- type: x-email
+  url: info@nimbix.net
+- type: x-email
+  url: support@nimbix.net
+- type: x-events
+  url: https://www.nimbix.net/events/
+- type: x-events
+  url: https://www.nimbix.net/events
+- type: x-facebook
+  url: https://www.facebook.com/nimbix
+- type: x-instagram
+  url: https://www.instagram.com/nimbix/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/nimbix
+- type: x-news
+  url: https://www.nimbix.net/newsletter/
+- type: x-partner
+  url: https://www.nimbix.net/partner-program/
+- type: x-platform
+  url: https://platform.jarvice.com
+- type: x-platform
+  url: https://www.nimbix.net/platform
+- type: x-platform
+  url: https://www.nimbix.net/platform/security
+- type: x-platform
+  url: https://www.nimbix.net/events/next-fpga-platform-2020
+- type: x-platform
+  url: https://nimbix.net/platform/
+- type: x-press
+  url: https://www.nimbix.net/press
+- type: x-privacy
+  url: https://www.nimbix.net/privacy-policy
+- type: x-support
+  url: https://www.nimbix.net/get-support/
+- type: x-terms-of-service
+  url: https://www.nimbix.net/terms-conditions
+- type: x-twitter
+  url: https://twitter.com/Nimbix
+- type: x-website
+  url: http://www.nimbix.net/
+- type: x-white-papers
+  url: https://www.nimbix.net/case-studies-white-papers/
+- type: x-youtube
+  url: https://www.youtube.com/user/nimbixinc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

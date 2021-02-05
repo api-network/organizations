@@ -1,0 +1,45 @@
+---
+name: How To Make My Blog
+description: "I\u2019m a digital marketer who grows startups and traffic using content,
+  search and social media marketing. Here I share my marketing advice and lessons
+  learned."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/how-to-make-my-blog.yaml
+tags: []
+apis: []
+x-common:
+- type: x-about
+  url: https://markosaric.com/#a-bit-more-about-me
+- type: x-blog
+  url: https://markosaric.com/how-start-blog/
+- type: x-blog
+  url: https://markosaric.com/blog/
+- type: x-blog
+  url: https://markosaric.com/best-blog-sites/
+- type: x-blog
+  url: https://markosaric.com/promote-your-blog/
+- type: x-contact
+  url: https://markosaric.com/#contact
+- type: x-linkedin
+  url: https://www.linkedin.com/in/markosaric/
+- type: x-press
+  url: https://markosaric.com/speed-up-wordpress/
+- type: x-press
+  url: https://markosaric.com/install-wordpress/
+- type: x-press
+  url: https://markosaric.com/best-wordpress-hosting/
+- type: x-privacy
+  url: https://markosaric.com/#ethics-and-privacy
+- type: x-website
+  url: https://www.howtomakemyblog.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

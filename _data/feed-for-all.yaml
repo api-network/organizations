@@ -1,0 +1,75 @@
+---
+name: Feed for All
+description: Edit and create RSS feeds with easy to use RSS software. FeedForAll allows
+  you to open existing rss feeds, repair news feeds, export feeds as HTML, and syndicate
+  your content with just a few steps..
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "267690"
+url: https://raw.githubusercontent.com/api-network/organizations/main/feed-for-all.yaml
+tags:
+- Xml Rss Feed
+- Syndication
+- Syndicate
+- Rss Xml
+- Rss Specifications
+- Rss Specification
+- Rss Software
+- Rss News Feed
+- Rss News
+- RSS Feeds
+- RSS Feed
+- RSS
+- Reader Rss
+- Newsfeeds
+- Newsfeed
+- News Feed
+- Make Rss
+- Generators
+- Feeds
+- Feed Rss
+- Feed
+- Edit Rss Feeds
+- Edit Rss
+- Download Rss
+- Create Rss
+- Aggregator
+apis: []
+x-common:
+- type: x-feed
+  url: http://www.feedforall.com/order.htm
+- type: x-feed
+  url: http://www.feedforall.com/download/ffasetup.exe
+- type: x-feed
+  url: http://www.feedforall.com/feedforall.htm
+- type: x-feed
+  url: http://www.feedforall.com/download/FeedForAllMac.zip
+- type: x-feed
+  url: http://www.feedforall.com/rss-education-center.htm
+- type: x-feed
+  url: http://www.feedforall.com/rss-videos.htm
+- type: x-feed
+  url: http://www.feedforall.com/free-php-script.htm
+- type: x-feed
+  url: http://www.feedforall.com/rssfilter.htm
+- type: x-feed
+  url: http://www.feedforall.com/autodiscovery.htm
+- type: x-feed
+  url: http://www.feedforall.com/sql2rss.htm
+- type: x-feed
+  url: http://www.feedforall.com/rss2html/index.htm
+- type: x-feed
+  url: http://www.feedforall.com/rssmesh.htm
+- type: x-feed
+  url: http://www.feedforall.com
+- type: x-website
+  url: https://www.feedforall.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

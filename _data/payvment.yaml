@@ -1,0 +1,66 @@
+---
+name: Payvment
+description: Ecwid E-commerce Shopping Cart is Fast and Easy to Use! Set up an Online
+  Store for WordPress, Drupal, Facebook and Much More! Start Selling Now with Ecwid.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/452_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4450493"
+url: https://raw.githubusercontent.com/api-network/organizations/main/payvment.yaml
+tags:
+- Shopping
+- Profile
+- No API Definition
+- Have API
+- Has API
+- Commerce
+apis: []
+x-common:
+- type: x-website
+  url: http://www.Payvment.com
+- type: x-blog
+  url: http://www.payvment.com/blog/
+- type: x-blog
+  url: https://www.ecwid.com/blog
+- type: x-blog-rss
+  url: http://www.payvment.com/blog/?feed=rss2
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/payvment
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/ecwid
+- type: x-email
+  url: PR@ecwid.com
+- type: x-email
+  url: investors@ecwid.com
+- type: x-email
+  url: join@ecwid.com
+- type: x-email
+  url: copyright@ecwid.com
+- type: x-email
+  url: privacy@ecwid.com
+- type: x-email
+  url: legal@ecwid.com
+- type: x-email
+  url: info@ecwid.com
+- type: x-email
+  url: shopapp@ecwid.com
+- type: x-email
+  url: billing@ecwid.com
+- type: x-email
+  url: bizdev@ecwid.com
+- type: x-github
+  url: https://github.com/payvment
+- type: x-twitter
+  url: https://twitter.com/Payvment
+- type: x-twitter
+  url: https://twitter.com/ecwid
+- type: x-website
+  url: http://open.payvment.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

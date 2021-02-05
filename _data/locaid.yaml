@@ -1,0 +1,53 @@
+---
+name: Locaid
+description: LocationSmart provides Cloud Location Services with a trusted enterprise
+  mobility platform to optimize efficiencies, track assets and verify transactions.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/locaid_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/locaid.yaml
+tags:
+- Wifi
+- Networks
+- Locations
+- Locations
+- Have API
+- Cellular
+- API Provider
+apis: []
+x-common:
+- type: x-blog
+  url: http://www.loc-aid.com/blog/
+- type: x-blog-rss
+  url: http://www.loc-aid.com/blog/rss.php
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/locationsmart
+- type: x-email
+  url: info@locationsmart.com
+- type: x-email
+  url: support@locationsmart.com
+- type: x-email
+  url: legal@locationsmart.com
+- type: x-facebook
+  url: https://www.facebook.com/LocationSmart
+- type: x-linkedin
+  url: https://www.linkedin.com/company/locationsmart
+- type: x-twitter
+  url: https://twitter.com/locaid
+- type: x-terms-of-service
+  url: https://www.locationsmart.com/terms/exhibit-a-patents
+- type: x-twitter
+  url: https://twitter.com/locationsmart
+- type: x-website
+  url: http://www.loc-aid.com/
+- type: x-youtube
+  url: https://www.youtube.com/user/LocationSmart
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

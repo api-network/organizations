@@ -1,0 +1,42 @@
+---
+name: DIcentral
+description: DiCentral is a global EDI software service provider helping organizations
+  of all sizes optimize their supply chain. Call today to schedule a demo or visit
+  our website to learn more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "231535"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dicentral.yaml
+tags:
+- Application Service Providers
+apis: []
+x-common:
+- type: x-website
+  url: https://linktr.ee/dicentral_edi
+- type: x-case-studies
+  url: https://learn.dicentral.com/case-studies-testimonials
+- type: x-facebook
+  url: http://facebook.com/DiCentral
+- type: x-instagram
+  url: https://www.instagram.com/dicentral_edi/?hl=en
+- type: x-integrations
+  url: https://www.dicentral.com/integrations/erp-solutions
+- type: x-linkedin
+  url: https://www.linkedin.com/company/dicentral
+- type: x-login
+  url: http://www.dicentral.com/login/Login.aspx
+- type: x-twitter
+  url: http://twitter.com/dicentral_edi
+- type: x-website
+  url: https://www.dicentral.com
+- type: x-youtube
+  url: https://www.youtube.com/user/dicentralcorp
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

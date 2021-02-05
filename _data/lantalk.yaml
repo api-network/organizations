@@ -1,0 +1,45 @@
+---
+name: LanTalk
+description: Network LAN messenger for office intranet networks and netsend / net
+  send / winpopup messenger replacement software for LAN networks
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1701836"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lantalk.yaml
+tags:
+- Winpopup
+- Win Pop
+- Real Popup
+- Network Messaging
+- Netsend
+- Net Send Command
+- Net Send
+- Mesasging Software
+- Lanmessenger
+- Lan Talk
+- Lan Messenger
+- Lan Messaging
+- Lan Instant Messenger
+- Lan Instanet Messenger
+- Lan Im
+- Intranet Messaging
+- Intranet Im
+- Intra-office Messaging
+- Internet
+- Inter-office Messaging
+- Instant Messaging
+apis: []
+x-common:
+- type: x-about
+  url: https://www.lantalk.net/about-us/
+- type: x-website
+  url: https://www.lantalk.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

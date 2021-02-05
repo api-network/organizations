@@ -1,0 +1,38 @@
+---
+name: phpBB3 Styles
+description: 'free phpBB 3.3.0 Themes for the phpBB3 forum software, Styles Demo included.
+  Update: phpBB 3.2, 3.3 Styles'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/phpbb3-styles.yaml
+tags:
+- Themes
+- Templates
+- Skins
+- PhpBB3 Templates
+- PhpBB3 Styles
+- PhpBB3
+- PhpBB 3.3
+- PhpBB
+- Online Demo
+- Free
+apis: []
+x-common:
+- type: x-code
+  url: https://download.phpbb3styles.net/codechanges/
+- type: x-forum
+  url: https://forums.phpbb-fr.com/
+- type: x-twitter
+  url: https://twitter.com/phpBB3styles
+- type: x-website
+  url: https://www.phpbb3styles.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

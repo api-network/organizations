@@ -1,0 +1,23 @@
+---
+name: haaretz.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/haaretz-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.haaretz.com/haaretz-labels/1.633526
+- type: x-website
+  url: http://haaretz.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

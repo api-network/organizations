@@ -1,0 +1,56 @@
+---
+name: Mention
+description: Get the easy-to-use media monitoring tool that lets you track social
+  mentions, analyze competitors, find influencers, and generate leads.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Mention.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "171496"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mention.yaml
+tags:
+- Notifications
+- Media Monitoring
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-base
+  url: https://web.mention.net/
+- type: x-blog
+  url: https://mention.com/en/blog/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/mention
+- type: x-customers
+  url: https://mention.com/en/customers/
+- type: x-developers
+  url: https://dev.mention.net/
+- type: x-email
+  url: support@mention.com
+- type: x-facebook
+  url: https://www.facebook.com/mentionapp
+- type: x-instagram
+  url: https://www.instagram.com/mention_app
+- type: x-linkedin
+  url: https://www.linkedin.com/company/mention
+- type: x-pricing
+  url: https://mention.com/en/pricing/
+- type: x-support
+  url: https://en.support.mention.com
+- type: x-terms-of-service
+  url: https://mention.com/en/terms-and-conditions/
+- type: x-twitter
+  url: https://twitter.com/mention
+- type: x-webinars
+  url: https://mention.com/en/webinars/
+- type: x-website
+  url: https://mention.net/
+- type: x-youtube
+  url: https://www.youtube.com/mentionapp
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

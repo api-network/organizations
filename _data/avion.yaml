@@ -1,0 +1,46 @@
+---
+name: Avi-On
+description: <p>Avi-on&rsquo;s vision for Simple Bluetooth Lighting Controls combines
+  the perfect mix of simple, reliable devices, state of the art enterprise-grade remote
+  management and easy configuration with any smart phone or tablet. The vibrant Avi-on
+  ecosystem is growing with new products and partners every day, providing easy to
+  use solutions for warehouse, manufacturing, office, education, architectural, residential,
+  landscape, outdoor, and more.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/avi-on-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1551599"
+url: https://raw.githubusercontent.com/api-network/organizations/main/avion.yaml
+tags:
+- Warehouse
+- Postman Doc Search
+- New
+- Internet Of Things
+- Have API
+- API Not Found
+apis: []
+x-common:
+- type: x-about
+  url: https://avi-on.com/about-us/
+- type: x-facebook
+  url: http://www.facebook.com/avionlabs
+- type: x-linkedin
+  url: https://www.linkedin.com/company/avi-on-labs/
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/6065583/RzfmEmUY
+- type: x-support
+  url: http://support.avi-on.com
+- type: x-twitter
+  url: https://twitter.com/avi_onlabs
+- type: x-website
+  url: http://avi-on.com
+- type: x-website
+  url: http://avi-on.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

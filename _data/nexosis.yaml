@@ -1,0 +1,36 @@
+---
+name: Nexosis
+description: The Nexosis API makes it easy to add machine learning to your application.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28874-docs-nexosis-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "974464"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nexosis.yaml
+tags:
+- Machine Learning
+apis: []
+x-common:
+- type: x-postman-collection
+  url: https://raw.githubusercontent.com/Nexosis/nexosis-api-postman/master/nexosis-api-postman-collection.json
+- type: x-website
+  url: https://content.nexosis.com/blog/nexosis-acquired-by-datarobot
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/nexosis
+- type: x-developers
+  url: https://docs.nexosis.com/
+- type: x-documentation
+  url: https://developers.nexosis.com/docs/services/98847a3fbbe64f73aa959d3cededb3af/operations/datasets-add-data
+- type: x-email
+  url: info@nexosis.com
+- type: x-twitter
+  url: https://twitter.com/Nexosis
+- type: x-website
+  url: https://nexosis.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,64 @@
+---
+name: ReadWrite
+description: The Blog of Things
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/129_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "26210"
+url: https://raw.githubusercontent.com/api-network/organizations/main/readwrite.yaml
+tags:
+- Weblogs
+- Profile
+- API LIfeycle
+apis: []
+x-common:
+- type: x-website
+  url: http://www.readwrite.com
+- type: x-about
+  url: https://readwrite.com/about/
+- type: x-code
+  url: https://readwrite.com/category/code/
+- type: x-contact
+  url: https://readwrite.com/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/readwrite
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/readwrite
+- type: x-email
+  url: advertising@readwrite.com
+- type: x-email
+  url: tips@readwrite.com
+- type: x-email
+  url: privacy@readwrite.com
+- type: x-events
+  url: https://readwrite.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/ReadWrite
+- type: x-instagram
+  url: https://www.instagram.com/readwritedotcom/
+- type: x-investor
+  url: https://readwrite.com/2020/01/13/insights-from-the-most-active-investor-in-silicon-valley/
+- type: x-platform
+  url: https://readwrite.com/category/platforms/
+- type: x-privacy
+  url: https://readwrite.com/privacy/
+- type: x-security
+  url: https://readwrite.com/category/data-and-security/
+- type: x-security
+  url: https://readwrite.com/2020/01/09/blurams-outdoor-pro-an-all-weather-security-camera-solution/
+- type: x-twitter
+  url: https://twitter.com/rww
+- type: x-website
+  url: http://readwrite.com/
+- type: x-website
+  url: https://readwrite.com
+- type: x-youtube
+  url: https://www.youtube.com/channel/UClMPvTStrcn829w34OWNEPw
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,70 @@
+---
+name: Snipcart
+description: Add a shopping cart to your site in minutes. Works with any site builder,
+  CMS, and framework. 6500+ e-commerce merchants trust our shopping cart solution.
+  Join them!
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/2025_logo..png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "50057"
+url: https://raw.githubusercontent.com/api-network/organizations/main/snipcart.yaml
+tags:
+- Target
+- Shopping Carts
+- Shopping
+- Have API
+- Commerce
+apis: []
+x-common:
+- type: x-website
+  url: https://snipcart.com/
+- type: x-base
+  url: https://app.snipcart.com/api
+- type: x-blog
+  url: https://snipcart.com/blog/jamstack
+- type: x-blog
+  url: https://snipcart.com/blog
+- type: x-blog-rss
+  url: https://snipcart.com/blog/rss
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/snipcart
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/snipcart
+- type: x-developers
+  url: http://docs.snipcart.com/
+- type: x-documentation
+  url: https://docs.snipcart.com/
+- type: x-email
+  url: geeks+suggestions@snipcart.com
+- type: x-email
+  url: geeks@snipcart.com
+- type: x-facebook
+  url: https://www.facebook.com/Snipcart
+- type: x-github
+  url: https://github.com/snipcart
+- type: x-login
+  url: https://app.snipcart.com/account/login
+- type: x-pricing
+  url: https://snipcart.com/pricing
+- type: x-self-service-registration
+  url: https://app.snipcart.com/account/register
+- type: x-tutorials
+  url: https://docs.snipcart.com/v3/tutorials
+- type: x-twitter
+  url: https://twitter.com/snipcart
+- type: x-webhooks
+  url: https://docs.snipcart.com/webhooks/introduction
+- type: x-website
+  url: http://snipcart.com
+- type: x-website
+  url: https://snipcart.com
+- type: x-website
+  url: https://docs.snipcart.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,40 @@
+---
+name: Embark
+description: The leading provider of admissions software for schools, universities,
+  fellowships, and music programs. Free FAFSA help for students seeking federal financial
+  aid.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "97664"
+url: https://raw.githubusercontent.com/api-network/organizations/main/embark.yaml
+tags:
+- Administration And School Management
+apis: []
+x-common:
+- type: x-about
+  url: https://embark.com/about-us/our-story/
+- type: x-about
+  url: https://embark.com/about-us/team/
+- type: x-careers
+  url: https://embark.com/about-us/careers/
+- type: x-contact
+  url: https://embark.com/contact/
+- type: x-contact
+  url: https://www.embark.com/contact
+- type: x-facebook
+  url: https://www.facebook.com/embarkadmissions/
+- type: x-privacy
+  url: https://embark.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.embark.com/terms-of-use/
+- type: x-website
+  url: https://www.embark.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

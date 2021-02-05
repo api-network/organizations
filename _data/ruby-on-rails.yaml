@@ -1,0 +1,37 @@
+---
+name: Ruby on Rails
+description: A web-application framework that includes everything needed to create
+  database-backed web applications according to the Model-View-Controller (MVC) pattern.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "18557"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ruby-on-rails.yaml
+tags:
+- Rails
+apis: []
+x-common:
+- type: x-website
+  url: http://rubyonrails.org
+- type: x-blog
+  url: https://weblog.rubyonrails.org/
+- type: x-developer
+  url: https://api.rubyonrails.org/
+- type: x-github
+  url: https://github.com/rails/rails
+- type: x-github
+  url: https://github.com
+- type: x-open-source
+  url: http://opensource.org/licenses/MIT
+- type: x-twitter
+  url: https://twitter.com/rails
+- type: x-website
+  url: https://rubyonrails.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

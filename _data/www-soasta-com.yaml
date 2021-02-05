@@ -1,0 +1,24 @@
+---
+name: www.soasta.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: ""
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/www-soasta-com.yaml
+tags:
+- Products And Tools
+apis: []
+x-common:
+- type: x-website
+  url: https://www.soasta.com
+- type: x-blog-rss
+  url: http://www.soasta.com/blog/?feed=rss2
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

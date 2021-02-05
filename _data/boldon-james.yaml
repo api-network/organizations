@@ -1,0 +1,54 @@
+---
+name: Boldon James
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "969175"
+url: https://raw.githubusercontent.com/api-network/organizations/main/boldon-james.yaml
+tags:
+- Communications
+apis: []
+x-common:
+- type: x-about
+  url: https://www.boldonjames.com/about-boldon-james/
+- type: x-blog
+  url: https://www.boldonjames.com/blog/
+- type: x-careers
+  url: https://www.boldonjames.com/careers/
+- type: x-contact
+  url: https://www.boldonjames.com/contact/
+- type: x-customers
+  url: https://www.boldonjames.com/customers/
+- type: x-events
+  url: https://www.boldonjames.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/boldonjames/
+- type: x-gdpr
+  url: https://www.boldonjames.com/regulations-eu-gdpr/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/boldon-james
+- type: x-news
+  url: https://www.boldonjames.com/category/news/
+- type: x-privacy
+  url: https://www.boldonjames.com/australian-privacy-act/
+- type: x-privacy
+  url: https://www.boldonjames.com/privacy-notice/
+- type: x-security
+  url: https://www.boldonjames.com/cloud-security/
+- type: x-security
+  url: https://www.boldonjames.com/chinese-cybersecurity-law/
+- type: x-terms-of-service
+  url: https://www.boldonjames.com/industries-legal/
+- type: x-terms-of-service
+  url: https://www.boldonjames.com/terms-and-conditions/
+- type: x-website
+  url: https://www.boldonjames.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,57 @@
+---
+name: ET(emerging theats) Intelligence API Reference
+description: Cloud apps are changing the way people collaborate and run their businesses.
+  But this new architecture introduces new cloud app security risk. With Proofpoint
+  Cloud App Security solutions, you can detect, investigate, and defend against cybercriminals
+  accessing your sensitive data and trusted accounts.
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "265786"
+url: https://raw.githubusercontent.com/api-network/organizations/main/etemerging-theats-intelligence-api-reference.yaml
+tags:
+- White Papers
+- User Protection
+- Threat Protection
+- Shell
+- Security
+- Python
+- Profile
+- JSON
+- Ids
+- Compliance
+- Cloud Platform
+- API Keys
+- API
+apis: []
+x-common:
+- type: x-about
+  url: https://www.proofpoint.com/us/company/about
+- type: x-authentication
+  url: http://apidocs.emergingthreats.net/?python#authentication
+- type: x-blog
+  url: https://www.proofpoint.com/us/blog
+- type: x-github
+  url: http://github.com/tripit/slate
+- type: x-linkedin
+  url: https://www.linkedin.com/company/proofpoint
+- type: x-privacy
+  url: https://www.proofpoint.com/us/privacy-policy
+- type: x-terms-of-service
+  url: https://www.proofpoint.com/us/license
+- type: x-twitter
+  url: https://twitter.com/proofpoint
+- type: x-webinars
+  url: https://www.proofpoint.com/us/resources/webinar
+- type: x-website
+  url: http://apidocs.emergingthreats.net
+- type: x-white-papers
+  url: https://www.proofpoint.com/us/resources/white-paper
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

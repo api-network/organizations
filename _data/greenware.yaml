@@ -1,0 +1,34 @@
+---
+name: Greenware
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4153804"
+url: https://raw.githubusercontent.com/api-network/organizations/main/greenware.yaml
+tags:
+- Thin Clients
+apis: []
+x-common:
+- type: x-about
+  url: https://www.greenware.co.il/about-us/
+- type: x-about
+  url: https://www.greenware.co.il/about-us-2/
+- type: x-blog
+  url: https://www.greenware.co.il/blog-medium/
+- type: x-facebook
+  url: https://www.facebook.com/greenwaretech
+- type: x-linkedin
+  url: https://www.linkedin.com/in/greenwaretechnologies
+- type: x-website
+  url: https://www.greenware.co.il
+- type: x-youtube
+  url: https://www.youtube.com/user/MrGreenware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

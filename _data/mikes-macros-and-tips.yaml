@@ -1,0 +1,25 @@
+---
+name: Mike's Macros and Tips
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mikes-macros-and-tips.yaml
+tags:
+- WordPerfect
+- Utilities
+- Macros
+- InfoCentral
+apis: []
+x-common:
+- type: x-website
+  url: https://www.macros.koenecke.us
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

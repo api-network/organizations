@@ -1,0 +1,43 @@
+---
+name: Search Engine Journal
+description: Search Engine Journal is dedicated to producing the latest search news,
+  the best guides and how-tos for the SEO and marketer community.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "12120"
+url: https://raw.githubusercontent.com/api-network/organizations/main/search-engine-journal.yaml
+tags:
+- Weblogs
+apis: []
+x-common:
+- type: x-website
+  url: https://SearchEngineJournal.com
+- type: x-careers
+  url: http://jobs.searchenginejournal.com/
+- type: x-facebook
+  url: https://www.facebook.com/SearchEngineJournal
+- type: x-facebook
+  url: http://www.facebook.com/SearchEngineJournal
+- type: x-instagram
+  url: https://www.instagram.com/sejournal/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/search-engine-journal
+- type: x-news
+  url: https://www.searchenginejournal.com/category/news/
+- type: x-twitter
+  url: https://twitter.com/sejournal
+- type: x-twitter
+  url: http://twitter.com/sejournal
+- type: x-website
+  url: https://www.searchenginejournal.com
+- type: x-youtube
+  url: http://www.youtube.com/user/searchenginejournal/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

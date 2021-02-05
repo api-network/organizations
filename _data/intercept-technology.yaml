@@ -1,0 +1,42 @@
+---
+name: Intercept Technology
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2913686"
+url: https://raw.githubusercontent.com/api-network/organizations/main/intercept-technology.yaml
+tags:
+- Printed Circuit Board Design
+apis: []
+x-common:
+- type: x-website
+  url: http://www.intercept.com
+- type: x-facebook
+  url: https://www.facebook.com/Intercepttechnology
+- type: x-twitter
+  url: https://twitter.com/intent/user?screen_name=Intercept2
+- type: x-twitter
+  url: http://twitter.com/search?q=%23pcbdesign
+- type: x-twitter
+  url: http://twitter.com/intercept2
+- type: x-twitter
+  url: http://twitter.com/search?q=%23CAE
+- type: x-twitter
+  url: http://twitter.com/YouTube
+- type: x-twitter
+  url: http://twitter.com/PCBDesign007
+- type: x-twitter
+  url: http://twitter.com/search?q=%23EDA
+- type: x-twitter
+  url: https://twitter.com/@intercept2
+- type: x-website
+  url: https://www.intercept.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

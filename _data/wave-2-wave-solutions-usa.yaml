@@ -1,0 +1,41 @@
+---
+name: Wave 2 Wave Solutions USA
+description: Automation for physical optical connectivity enables applications with
+  benefits beyond CAPEX and OPEX savings. Through their own orchestration software,
+  data center operators and telco providers can now provision a circuit within seconds
+  instead of days.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4141673"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wave-2-wave-solutions-usa.yaml
+tags:
+- Manufacturers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.fibersmart.net
+- type: x-about
+  url: https://www.wave-2-wave.com/about
+- type: x-contact
+  url: https://www.wave-2-wave.com/contact
+- type: x-events
+  url: https://www.wave-2-wave.com/events
+- type: x-linkedin
+  url: https://www.linkedin.com/company/wave-2-wave-solution
+- type: x-press
+  url: https://www.wave-2-wave.com/press
+- type: x-twitter
+  url: https://twitter.com/w2wsolution
+- type: x-webinars
+  url: https://www.wave-2-wave.com/webinars
+- type: x-website
+  url: https://www.wave-2-wave.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

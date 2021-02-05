@@ -1,0 +1,41 @@
+---
+name: AceShells
+description: Short run lathe cut vinyl records from one off to short runs available.
+  We transfer your music on to classic vinyl record, in different formats, from digital
+  master to vinyl.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9676323"
+url: https://raw.githubusercontent.com/api-network/organizations/main/aceshells.yaml
+tags:
+- Your Music On Vinyl
+- Vinyl Record Pressing
+- Vinyl Record Cutting
+- Vinyl On Demand
+- Unix Shell Providers
+- Short Run
+- Shell Providers
+- Lathe Record Cutting
+- Lathe Cut Vinyl
+- Lathe Cut
+apis: []
+x-common:
+- type: x-website
+  url: http://www.AceShells.com
+- type: x-facebook
+  url: https://www.facebook.com/AceShells/
+- type: x-facebook
+  url: https://www.facebook.com/AceShells
+- type: x-twitter
+  url: https://twitter.com/aceshells
+- type: x-website
+  url: https://www.aceshells.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

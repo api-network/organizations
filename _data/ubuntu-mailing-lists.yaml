@@ -1,0 +1,28 @@
+---
+name: Ubuntu Mailing Lists
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2510"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ubuntu-mailing-lists.yaml
+tags:
+- Ubuntu
+apis: []
+x-common:
+- type: x-careers
+  url: http://lists.ubuntu.com/mailman/listinfo/Ubuntu-jobs
+- type: x-contact
+  url: http://lists.ubuntu.com/mailman/listinfo/loco-contacts
+- type: x-news
+  url: http://lists.ubuntu.com/mailman/listinfo/ubuntu-news
+- type: x-website
+  url: https://lists.ubuntu.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

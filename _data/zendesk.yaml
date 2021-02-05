@@ -1,0 +1,116 @@
+---
+name: Zendesk
+description: Our customer service and sales CRM software is designed to create better
+  customer relationships. Build the best customer experiences with Zendesk.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/283_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "172"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zendesk.yaml
+tags:
+- Relative Data
+- Postman Doc Search
+- Interent
+- Helpdesk
+- Have API
+- API LIfeycle
+apis: []
+x-common:
+- type: x-website
+  url: http://www.zendesk.com
+- type: x-base
+  url: https://zendesk.com/api/
+- type: x-blog
+  url: http://www.zendesk.com/blog
+- type: x-blog-rss
+  url: http://www.zendesk.com/feed
+- type: x-careers
+  url: https://www.zendesk.com/company/careers
+- type: x-careers
+  url: https://jobs.zendesk.com/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/zendesk
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/zendesk
+- type: x-developer
+  url: https://developer.zendesk.com
+- type: x-developer
+  url: http://developer.zendesk.com
+- type: x-developers
+  url: https://developer.zendesk.com/
+- type: x-email
+  url: support@zendesk.com
+- type: x-email
+  url: legal@zendesk.com
+- type: x-email
+  url: ip@zendesk.com
+- type: x-email
+  url: privacy@zendesk.com
+- type: x-email
+  url: press@zendesk.com
+- type: x-facebook
+  url: https://www.facebook.com/zendesk
+- type: x-faq
+  url: https://gemini24.zendesk.com/hc/en-us
+- type: x-github
+  url: https://github.com/zendesk
+- type: x-investor
+  url: https://investor.zendesk.com/
+- type: x-investor
+  url: https://investor.zendesk.com
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/3477289/RztoNUhL
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/3484128/SVmwwy7g
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/6385615/SVS
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/6385615/SVSHr9db
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/1022086/testimonialtree-api/2LNYbH#46a2bfb1-df90-9149-ee43-c543a15d2a84
+- type: x-pricing
+  url: https://www.zendesk.com/product/pricing/
+- type: x-privacy
+  url: https://www.zendesk.com/company/privacy
+- type: x-status
+  url: https://status.zendesk.com
+- type: x-support
+  url: https://genexus.zendesk.com/hc/en-us
+- type: x-support
+  url: https://support.zendesk.com/hc/en-us/
+- type: x-support
+  url: https://help.zendesk.com/hc/en-us
+- type: x-support
+  url: https://relate.zendesk.com/articles/shit-support-agents-say/
+- type: x-support
+  url: https://gemini24.zendesk.com/hc/en-us/requests/new
+- type: x-terms-of-service
+  url: https://www.zendesk.com/company/terms
+- type: x-terms-of-service
+  url: https://www.zendesk.com/legal
+- type: x-twitter
+  url: https://www.twitter.com/zendesk
+- type: x-twitter
+  url: https://twitter.com/zendesk
+- type: x-website
+  url: http://appsbypixhelp.zendesk.com
+- type: x-website
+  url: http://loex.zendesk.com
+- type: x-website
+  url: http://www.zendesk.com/
+- type: x-website
+  url: http://desk.com
+- type: x-website
+  url: http://propelplm.zendesk.com
+- type: x-website
+  url: http://testimonialtree.zendesk.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=wPtnoRqQa5U
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

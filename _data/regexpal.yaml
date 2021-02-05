@@ -1,0 +1,53 @@
+---
+name: RegexPal
+description: Test your Javascript and PCRE regular expressions online.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "249921"
+url: https://raw.githubusercontent.com/api-network/organizations/main/regexpal.yaml
+tags:
+- Validator
+- Tools
+- Tester
+- Test
+- REgular Expressions
+- Regular Expression
+- Regular
+- Regexpal
+- Regexp
+- Regex101
+- Regex Tester
+- Regex Test
+- Regex Editor
+- RegEx
+- PHP
+- Perl
+- PCRE
+- Online
+- JavaScript
+- Expression
+apis: []
+x-common:
+- type: x-website
+  url: http://www.danstools.com
+- type: x-code
+  url: http://www.cleancss.com/base64-decode
+- type: x-code
+  url: http://www.cleancss.com/base64-encode
+- type: x-code
+  url: http://www.url-encode-decode.com
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-twitter
+  url: https://twitter.com/danstools00
+- type: x-website
+  url: https://www.regexpal.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

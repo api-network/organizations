@@ -1,0 +1,63 @@
+---
+name: Kafka Summit
+description: <p>As streaming platforms become central to data strategies, companies
+  both small and large are re-thinking their architecture with real-time context at
+  the forefront. Monoliths are evolving into Microservices. Datacenters are moving
+  to the cloud. What was once a &lsquo;batch&rsquo; mindset is quickly being replaced
+  with stream processing as the demands of the business impose more and more real-time
+  requirements on developers and architects. This revolution is transforming industries.
+  What started at companies like LinkedIn, Uber, Netflix and Yelp has made its way
+  to countless others in a variety of sectors. Today, thousands of companies across
+  the globe build their businesses on top of Apache Kafka&reg;. The developers responsible
+  for this revolution need a place to share their experiences on this journey. Kafka
+  Summit is the premier event for data architects, engineers, devops professionals,
+  and developers who want to learn about streaming data. It brings the Apache Kafka
+  community together to share best practices, write code, and discuss the future of
+  streaming technologies.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/kafk-summit.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "842241"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kafka-summit.yaml
+tags:
+- No API
+apis: []
+x-common:
+- type: x-twitter-search
+  url: '#kafkasummit'
+- type: x-website
+  url: http://confluent.io
+- type: x-website
+  url: https://kafka-summit.org/
+- type: x-about
+  url: https://kafka-summit.org/about-apache-kafka/
+- type: x-code
+  url: https://kafka-summit.org/code-of-conduct/
+- type: x-events
+  url: https://kafka-summit.org/past-events/
+- type: x-events
+  url: https://kafka-summit.org/events/kafka-summit-sf/
+- type: x-events
+  url: https://kafka-summit.org/events/kafka-summit-ny/
+- type: x-events
+  url: https://kafka-summit.org/events/kafka-summit-2016/
+- type: x-events
+  url: https://myeventi.events/kafka20/gb/
+- type: x-facebook
+  url: https://www.facebook.com/confluentinc/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/confluent
+- type: x-privacy
+  url: https://www.confluent.io/privacy
+- type: x-terms-of-service
+  url: https://www.confluent.io/terms-of-use
+- type: x-twitter
+  url: https://twitter.com/ConfluentInc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

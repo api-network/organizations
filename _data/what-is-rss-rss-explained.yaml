@@ -1,0 +1,21 @@
+---
+name: What is RSS? RSS Explained
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1616771"
+url: https://raw.githubusercontent.com/api-network/organizations/main/what-is-rss-rss-explained.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: https://www.whatisrss.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,23 @@
+---
+name: netcarreiras.com.br
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/netcarreiras-com-br.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.netcarreiras.com.br/vaga-software-engineer-72095.html#.VP-u1JMdfwU.twitter
+- type: x-website
+  url: http://netcarreiras.com.br
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

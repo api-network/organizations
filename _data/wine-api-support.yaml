@@ -1,0 +1,43 @@
+---
+name: Wine API Support
+description: Shop the world's largest wine store with thousands of domestic and imported
+  wines delivered right to your door. Chat online with wine experts 7 days a week.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/wine-com-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "17299"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wine-api-support.yaml
+tags:
+- Wine
+- Shopping
+- Drink
+apis: []
+x-common:
+- type: x-api-json--authoritative
+  url: http://apis.io/apisdef/winedotcom.json
+- type: x-website
+  url: http://www.wine.com/
+- type: x-base
+  url: http://api.wine.com/
+- type: x-base
+  url: http://services.wine.com/api/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/wine-com
+- type: x-email
+  url: privacy@wine.com
+- type: x-email
+  url: cs@wine.com
+- type: x-twitter
+  url: http://twitter.com/winedev
+- type: x-twitter
+  url: https://twitter.com/Wine_com
+- type: x-website
+  url: http://wine.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

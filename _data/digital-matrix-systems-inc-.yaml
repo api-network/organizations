@@ -1,0 +1,32 @@
+---
+name: Digital Matrix Systems, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1684548"
+url: https://raw.githubusercontent.com/api-network/organizations/main/digital-matrix-systems-inc-.yaml
+tags:
+- Credit And Collection
+apis: []
+x-common:
+- type: x-about
+  url: https://www.dms.net/about-us/
+- type: x-careers
+  url: https://www.dms.net/careers/
+- type: x-contact
+  url: https://www.dms.net/contact-us/
+- type: x-privacy
+  url: http://www.dms.net/privacy-policy/
+- type: x-security
+  url: https://www.dms.net/security/
+- type: x-website
+  url: https://www.dms.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

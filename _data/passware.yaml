@@ -1,0 +1,38 @@
+---
+name: Passware
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/passware.yaml
+tags:
+- Password Recovery
+apis: []
+x-common:
+- type: x-website
+  url: http://www.passware.com
+- type: x-blog
+  url: http://blog.passware.com
+- type: x-blog
+  url: https://blog.passware.com/passware-kit-2020-v1/
+- type: x-facebook
+  url: https://www.facebook.com/passware
+- type: x-instagram
+  url: https://instagram.com/passware.inc
+- type: x-support
+  url: http://support.passware.com/home
+- type: x-twitter
+  url: https://twitter.com/passware
+- type: x-website
+  url: https://www.lostpassword.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=DKQn-q2BgpM
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

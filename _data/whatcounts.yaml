@@ -1,0 +1,60 @@
+---
+name: WhatCounts
+description: "WhatCounts has built the best email marketing software out there\u2026
+  and we help you use it. See results with our awesome platform and agency services
+  team."
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/527_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "64380"
+url: https://raw.githubusercontent.com/api-network/organizations/main/whatcounts.yaml
+tags:
+- Email Marketing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.whatcounts.com/
+- type: x-blog
+  url: http://www.whatcounts.com/blog
+- type: x-blog
+  url: https://www.whatcounts.com/blog/
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/whatcountsblog
+- type: x-careers
+  url: https://www.whatcounts.com/company/careers/
+- type: x-case-studies
+  url: https://www.whatcounts.com/resources/casestudies/
+- type: x-contact
+  url: https://www.whatcounts.com/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/whatcounts
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/whatcounts
+- type: x-facebook
+  url: https://www.facebook.com/sendWhatCounts/
+- type: x-instagram
+  url: https://instagram.com/whatcounts
+- type: x-linkedin
+  url: https://www.linkedin.com/company/whatcounts
+- type: x-news
+  url: https://www.whatcounts.com/resources/newsletter/
+- type: x-platform
+  url: https://www.whatcounts.com/products/emailplatform/
+- type: x-platform
+  url: https://www.whatcounts.com/products/fullstackplatform/
+- type: x-support
+  url: https://support.whatcounts.com/hc/en-us
+- type: x-twitter
+  url: https://www.twitter.com/whatcounts
+- type: x-twitter
+  url: https://twitter.com/whatcounts
+- type: x-website
+  url: http://www.whatcounts.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

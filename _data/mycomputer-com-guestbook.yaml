@@ -1,0 +1,36 @@
+---
+name: MyComputer.com GuestBook
+description: "MyComputer\u2122.com provides small businesses and web site owners with
+  innovative search engine marketing services including search engine submission and
+  search engine optimization as well as web site intelligence and community building
+  tools."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2999231"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mycomputer-com-guestbook.yaml
+tags:
+- Webmaster Tools
+- Web Site Statistics
+- Web Site Marketing
+- Web Page Hit Counters
+- "Superstats\xAE"
+- Superstats.com
+- Search Engine Submission
+- Networksolutions.com
+- Network Solutions
+- "Mycomputer\u2122.com"
+- Hit Counter
+- Guestbooks
+apis: []
+x-common:
+- type: x-website
+  url: https://guestbook.mycomputer.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,34 @@
+---
+name: iStockist
+description: The best eCommerce platform for wholesale. Start for Free Now! Save time
+  & money guaranteed! Easy to order, Sell 24/7 & Increase your revenue.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28901-trade-istockist-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "5114972"
+url: https://raw.githubusercontent.com/api-network/organizations/main/istockist.yaml
+tags:
+- Stocks
+- Have API Paths
+apis: []
+x-common:
+- type: x-website
+  url: https://www.istockist.com/
+- type: x-email
+  url: sales@istockist.com
+- type: x-email
+  url: support@istockist.com
+- type: x-email
+  url: partner@istockist.com
+- type: x-twitter
+  url: https://twitter.com/iStockist
+- type: x-website
+  url: http://trade.istockist.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

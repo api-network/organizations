@@ -1,0 +1,43 @@
+---
+name: Select Strategy, Inc.
+description: Boston management consultants in MA - Business consulting for all size
+  businesses that is data driven, analytical and includes practical implementation.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/select-strategy-inc-.yaml
+tags:
+- Testing And Evaluation
+- South Africa
+- Quotations
+- Performance Management
+- Online Business Solutions And Consulting
+- New England
+- Massachusetts
+- Mass
+- Management Consulting
+- MA
+- Global
+- Free
+- Consulting
+- Consultation
+- Consultants
+- Business Strategy
+- Business Analytics
+- Business
+- Boston
+apis: []
+x-common:
+- type: x-login
+  url: http://www.selectstrategy.com/training/login.asp
+- type: x-website
+  url: https://www.selectstrategy.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

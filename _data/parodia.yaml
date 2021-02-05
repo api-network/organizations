@@ -1,0 +1,33 @@
+---
+name: Parodia
+description: Job board website designers - we can custom build an online recruitment
+  website to your specifications
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5271889"
+url: https://raw.githubusercontent.com/api-network/organizations/main/parodia.yaml
+tags:
+- Applications
+apis: []
+x-common:
+- type: x-careers
+  url: http://jobs.telecoms.com
+- type: x-careers
+  url: https://www.allcruiselinejobs.com
+- type: x-facebook
+  url: https://www.facebook.com/cactusoft
+- type: x-linkedin
+  url: https://www.linkedin.com/company/cactusoft/
+- type: x-twitter
+  url: https://twitter.com/cactusoftcom
+- type: x-website
+  url: https://www.parodia.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

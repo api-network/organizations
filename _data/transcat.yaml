@@ -1,0 +1,34 @@
+---
+name: Transcat
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "198210"
+url: https://raw.githubusercontent.com/api-network/organizations/main/transcat.yaml
+tags:
+- Test Equipment
+apis: []
+x-common:
+- type: x-website
+  url: http://Transcat.com
+- type: x-facebook
+  url: https://www.facebook.com/TRANSCAT
+- type: x-linkedin
+  url: https://www.linkedin.com/company/transcat/
+- type: x-login
+  url: https://www.transcat.com/customer/account/login/
+- type: x-press
+  url: https://www.transcat.com/products/pressure-measurement
+- type: x-twitter
+  url: https://twitter.com/TranscatNews
+- type: x-website
+  url: https://www.transcat.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

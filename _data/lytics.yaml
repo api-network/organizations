@@ -1,0 +1,92 @@
+---
+name: Lytics
+description: Understand who your customers are, how they engage with your content,
+  and deliver unified experiences across channels, building trust in your brand.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1443_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1647510"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lytics.yaml
+tags:
+- Recruiting
+- Have API
+- API Provider
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.lytics.com
+- type: x-about
+  url: https://www.lytics.com/about
+- type: x-blog
+  url: https://www.lytics.com/blog
+- type: x-careers
+  url: https://www.lytics.com/careers
+- type: x-case-studies
+  url: https://learn.lytics.com/marketing/use-cases
+- type: x-contact
+  url: https://www.lytics.com/contact
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/lytics
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/lytics
+- type: x-customers
+  url: https://www.lytics.com/solutions/acquire-new-customers
+- type: x-customers
+  url: https://www.lytics.com/solutions/upsell-customers
+- type: x-customers
+  url: https://www.lytics.com/solutions/renew-customers
+- type: x-customers
+  url: https://www.lytics.com/customers/aeg-presents
+- type: x-customers
+  url: https://www.lytics.com/customers/industry-dive
+- type: x-customers
+  url: https://www.lytics.com/customers/entercom
+- type: x-documentation
+  url: https://learn.lytics.com/understanding/product-docs
+- type: x-documentation
+  url: https://learn.lytics.com/developing/api-docs
+- type: x-facebook
+  url: https://www.facebook.com/Lytics/
+- type: x-gdpr
+  url: https://www.lytics.com/solutions/data-privacy-and-gdpr
+- type: x-github
+  url: https://github.com/lytics
+- type: x-integrations
+  url: https://www.lytics.com/integrations
+- type: x-linkedin
+  url: https://www.linkedin.com/company/lytics
+- type: x-news
+  url: https://www.lytics.com/newsroom
+- type: x-partner
+  url: https://www.lytics.com/partnerships
+- type: x-platform
+  url: https://www.lytics.com/platform
+- type: x-platform
+  url: https://www.lytics.com/products/customer-data-platform
+- type: x-pricing
+  url: https://www.lytics.com/pricing
+- type: x-support
+  url: https://support.lytics.com/hc/en-us
+- type: x-terms-of-service
+  url: https://learn.lytics.com/legal/terms-of-service
+- type: x-terms-of-service
+  url: https://learn.lytics.com/legal/privacy-policy
+- type: x-twitter
+  url: https://twitter.com/Lyticsio
+- type: x-twitter
+  url: https://twitter.com/lytics
+- type: x-webinars
+  url: https://www.lytics.com/webinars
+- type: x-website
+  url: http://lytics.io/
+- type: x-white-papers
+  url: https://www.lytics.com/white-papers
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

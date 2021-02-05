@@ -1,0 +1,23 @@
+---
+name: optimizesmart.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/optimizesmart-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.optimizesmart.com/how-to-use-google-analytics-api-without-any-coding/
+- type: x-website
+  url: http://optimizesmart.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

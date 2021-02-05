@@ -1,0 +1,31 @@
+---
+name: Open WebMail
+description: Open WebMail
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1785333"
+url: https://raw.githubusercontent.com/api-network/organizations/main/open-webmail.yaml
+tags:
+- Web-Based
+- Web Applications
+apis: []
+x-common:
+- type: x-open-source
+  url: http://openwebmail.org
+- type: x-open-source
+  url: http://openwebmail.amcpl.net/
+- type: x-open-source
+  url: http://openwebmail.org/mirrors
+- type: x-open-source
+  url: http://openwebmail.org/support
+- type: x-website
+  url: https://openwebmail.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

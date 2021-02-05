@@ -1,0 +1,55 @@
+---
+name: Jamroom
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "325130"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jamroom.yaml
+tags:
+- Social Media Script
+- Social Media Platform
+- Social Media CMS
+- Social Media
+- Content Management
+- Community Web Content Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.jamroom.net
+- type: x-blog
+  url: https://www.jamroom.net/blog
+- type: x-blog
+  url: https://www.jamroom.net/the-jamroom-network/blog
+- type: x-contact
+  url: https://www.jamroom.net/form/contact_us
+- type: x-facebook
+  url: https://www.facebook.com/Jamroomdotnet
+- type: x-forum
+  url: https://www.jamroom.net/the-jamroom-network/forum
+- type: x-login
+  url: https://www.jamroom.net/user/login
+- type: x-privacy
+  url: https://www.jamroom.net/page/1/privacy-policy
+- type: x-showcase
+  url: https://www.jamroom.net/showcase
+- type: x-signup
+  url: https://www.jamroom.net/user/signup
+- type: x-support
+  url: https://www.jamroom.net/support_options
+- type: x-terms-of-service
+  url: https://www.jamroom.net/page/2/terms-of-service
+- type: x-twitter
+  url: https://twitter.com/Jamroom
+- type: x-website
+  url: https://www.jamroom.net
+- type: x-youtube
+  url: https://www.youtube.com/user/jamroomdotnet
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

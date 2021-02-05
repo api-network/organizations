@@ -1,0 +1,60 @@
+---
+name: WinShell
+description: LaTeX User Front End, WinShell is a free integrated development environment
+  (IDE) for easy working with LaTeX or TeX. It includes a text editor, different tool
+  bars and user configuration options. It is NOT a LaTeX system. An additional LaTeX
+  package for Windows is needed.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/winshell.yaml
+tags:
+- Wsw2ltx
+- Word2tex
+- Word2latex
+- Word To Tex
+- Word To LaTeX Converter
+- Word To Latex
+- Word Latex Converter
+- Word Latex Convert
+- WinShell
+- W2tex
+- W2ltx
+- W2latex
+- Tex IDE
+- Tex GUI
+- Tex Editor For Windows
+- "Tex Editor F\xFCr Windows"
+- Tex Editor
+- Portable WinShell
+- Portable Latex Editor
+- MS Word To LaTeX Converter
+- Latex-editor
+- LaTeX User Front End
+- Latex IDE
+- Latex GUI
+- Latex Editor For Windows
+- "Latex Editor F\xFCr Windows"
+- Latex Editor
+- LaTeX
+- Integrated Development Environment
+- Ingo H. De Boer
+- IDE
+- GUI
+- Editors And IDEs
+- Editor
+- Converter Word Latex
+- Convert Word Latex
+apis: []
+x-common:
+- type: x-website
+  url: https://www.winshell.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,46 @@
+---
+name: Planisware
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "522338"
+url: https://raw.githubusercontent.com/api-network/organizations/main/planisware.yaml
+tags:
+- Project Management
+apis: []
+x-common:
+- type: x-website
+  url: http://planisware.com
+- type: x-about
+  url: https://www.planisware.com/planisware/about-planisware
+- type: x-blog
+  url: https://www.planisware.com/hub/blog
+- type: x-careers
+  url: https://www.planisware.com/careers
+- type: x-linkedin
+  url: http://www.linkedin.com/company/planisware
+- type: x-news
+  url: https://www.planisware.com/news-events?category=332
+- type: x-news
+  url: https://www.planisware.com/news-events?category=466
+- type: x-news
+  url: https://www.planisware.com/news-events
+- type: x-privacy
+  url: https://www.planisware.com/planisware-privacy-policy
+- type: x-slideshare
+  url: http://www.slideshare.net/planisware
+- type: x-twitter
+  url: http://twitter.com/planisware
+- type: x-website
+  url: https://www.planisware.com
+- type: x-youtube
+  url: https://www.youtube.com/c/Planisware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

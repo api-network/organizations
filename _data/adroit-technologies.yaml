@@ -1,0 +1,49 @@
+---
+name: Adroit Technologies
+description: Automation software and hardware, SCADA, HMI and Machine2Machine, Mitsubishi,
+  Factory Automation which includes VSD's PLC's and Low Voltage Switchgear.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4336741"
+url: https://raw.githubusercontent.com/api-network/organizations/main/adroit-technologies.yaml
+tags:
+- Automation
+apis: []
+x-common:
+- type: x-website
+  url: http://www.adroit.co.za
+- type: x-about
+  url: https://adroittech.co.za/about-adroit-technologies/
+- type: x-contact
+  url: https://adroittech.co.za/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/AdroitSA/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/adroit-technologies/
+- type: x-news
+  url: https://adroittech.co.za/newsletter-subscription/
+- type: x-platform
+  url: https://adroittech.co.za/adroit-m2m-and-iot-platform/
+- type: x-platform
+  url: https://adroittech.co.za/scada-platform/
+- type: x-support
+  url: http://www.mymitsubishisupport.co.za
+- type: x-support
+  url: https://adroittech.co.za/remote-support/
+- type: x-support
+  url: https://adroittech.co.za/support-request-form/
+- type: x-terms-of-service
+  url: https://adroittech.co.za/terms-conditions/
+- type: x-twitter
+  url: https://twitter.com/AdroitTechnolog
+- type: x-website
+  url: https://adroittech.co.za
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

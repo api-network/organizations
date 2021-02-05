@@ -1,0 +1,38 @@
+---
+name: Soliton Associates
+description: Soliton has developed breakthrough science for tattoo removal using Rapid
+  Acoustic Pulse (RAP) technology, which when combined with existing laser technology
+  can rapidly accelerate tattoo removal.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4426460"
+url: https://raw.githubusercontent.com/api-network/organizations/main/soliton-associates.yaml
+tags:
+- Vendors
+apis: []
+x-common:
+- type: x-about
+  url: https://www.soliton.com/about/
+- type: x-contact
+  url: https://www.soliton.com/contact/
+- type: x-facebook
+  url: https://facebook.com/solitoninc
+- type: x-instagram
+  url: https://www.instagram.com/soliton_rap
+- type: x-news
+  url: https://ir.soliton.com/news-events
+- type: x-privacy
+  url: https://www.soliton.com/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/soliton_rap
+- type: x-website
+  url: https://www.soliton.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

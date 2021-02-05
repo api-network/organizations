@@ -1,0 +1,35 @@
+---
+name: B3C Newswire
+description: The biotech press release distribution service with the largest reach
+  in biotech/pharma trade media worldwide.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2339094"
+url: https://raw.githubusercontent.com/api-network/organizations/main/b3c-newswire.yaml
+tags:
+- Trade Media
+- Press Release Services
+- Press Release
+- Pharmaceutical
+- Pharma
+- Newswire
+- News Release
+- Distribution
+- Biotechnology
+- Biotech
+- B3C Newswire
+apis: []
+x-common:
+- type: x-news
+  url: https://www.b3cnewswire.com/?rCH=2
+- type: x-website
+  url: https://www.b3cnewswire.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

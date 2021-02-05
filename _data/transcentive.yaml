@@ -1,0 +1,26 @@
+---
+name: Transcentive
+description: Do you need help with your Shareworks account? Find answers here.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/transcentive.yaml
+tags:
+- Compensation And Benefits
+apis: []
+x-common:
+- type: x-privacy
+  url: http://www.shareworks.com/privacy-statement/
+- type: x-support
+  url: https://support.solium.com/hc/en-us
+- type: x-website
+  url: https://www.transcentive.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

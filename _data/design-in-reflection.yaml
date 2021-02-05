@@ -1,0 +1,62 @@
+---
+name: Design in Reflection
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/design-in-reflection.yaml
+tags:
+- Web
+apis: []
+x-common:
+- type: x-feed
+  url: https://www.designinreflection.com/?feed=rss2
+- type: x-feed
+  url: https://www.designinreflection.com/?feed=comments-rss2
+- type: x-login
+  url: https://www.designinreflection.com/?page_id=2
+- type: x-login
+  url: https://www.designinreflection.com/
+- type: x-login
+  url: https://www.designinreflection.com/?p=3600
+- type: x-login
+  url: https://www.designinreflection.com/?cat=49
+- type: x-login
+  url: https://www.designinreflection.com/?cat=51
+- type: x-login
+  url: https://www.designinreflection.com/?author=1
+- type: x-login
+  url: https://www.designinreflection.com/?cat=31
+- type: x-login
+  url: https://www.designinreflection.com/?p=3555
+- type: x-login
+  url: https://www.designinreflection.com/?p=3448
+- type: x-login
+  url: https://www.designinreflection.com/?cat=35
+- type: x-login
+  url: https://www.designinreflection.com/?cat=2
+- type: x-login
+  url: https://www.designinreflection.com/?m=201901
+- type: x-login
+  url: https://www.designinreflection.com/?m=201812
+- type: x-login
+  url: https://www.designinreflection.com/?m=201704
+- type: x-login
+  url: https://www.designinreflection.com/?lang=it
+- type: x-login
+  url: https://www.designinreflection.com/?lang=lv
+- type: x-login
+  url: https://www.designinreflection.com/wp-login.php
+- type: x-press
+  url: https://wordpress.org/
+- type: x-website
+  url: https://www.designinreflection.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

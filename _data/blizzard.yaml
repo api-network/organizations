@@ -1,0 +1,42 @@
+---
+name: Blizzard
+description: This is the documentation for the RESTful APIs exposed through the World
+  of Warcraft community site as a service to the World of Warcraft community.
+image: http://upload.wikimedia.org/wikipedia/en/3/34/BattleNet.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "1036"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blizzard.yaml
+tags:
+- Relative Data
+- Have API Paths
+- Have API
+- General Data
+- APIs.io Import
+- API Provider
+apis: []
+x-common:
+- type: x-api-json--authoritative
+  url: http://apis.io/apisdef/legacy/blizzard.json
+- type: x-website
+  url: http://Blizzard.com
+- type: x-developers
+  url: https://dev.battle.net/
+- type: x-github
+  url: https://github.com/Blizzard
+- type: x-twitter
+  url: Blizzard_Ent
+- type: x-twitter
+  url: Blizzard_Ent
+- type: x-website
+  url: http://battle.net
+- type: x-website
+  url: https://www.blizzard.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

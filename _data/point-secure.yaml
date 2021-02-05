@@ -1,0 +1,37 @@
+---
+name: Point Secure
+description: OpenVMS Security and Auditing solutions. Our solutions secure OpenVMS
+  systems and enable compliance with internal and government regulations
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/point-secure.yaml
+tags:
+- Software
+apis: []
+x-common:
+- type: x-about
+  url: https://pointsecure.com/about-us/
+- type: x-contact
+  url: https://pointsecure.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/PointSecure
+- type: x-linkedin
+  url: http://www.linkedin.com/company/PointSecure/
+- type: x-partner
+  url: https://pointsecure.com/partners/
+- type: x-support
+  url: https://pointsecure.com/support/
+- type: x-terms-of-service
+  url: https://pointsecure.com/terms-of-use/
+- type: x-website
+  url: https://www.pointsecure.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

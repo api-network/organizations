@@ -1,0 +1,62 @@
+---
+name: AJAX Sample
+description: asp.net, asp.net ajax, .net interview questions, ajax interview questions
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ajax-sample.yaml
+tags:
+- AJAX
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.crowe.co.nz/archive/2006/05/10/622.aspx
+- type: x-blog
+  url: https://ajaxsample.blogspot.com/
+- type: x-blog
+  url: http://voiptechnlogy.blogspot.com
+- type: x-blog
+  url: http://aspnet2008.blogspot.com
+- type: x-blog
+  url: http://ajaxsample.blogspot.com
+- type: x-blog
+  url: http://freedownload12.blogspot.com
+- type: x-blog
+  url: http://bugtrace.blogspot.com
+- type: x-blog
+  url: http://mssqlinterview.blogspot.com
+- type: x-blog
+  url: http://javascriptinterview.blogspot.com
+- type: x-blog
+  url: http://worldstopten.blogspot.com
+- type: x-blog
+  url: http://VisualStudio2010.blogspot.com
+- type: x-blog
+  url: http://tech-InterviewQuestion.blogspot.com
+- type: x-blog
+  url: https://www.blogger.com
+- type: x-code
+  url: http://www.codeproject.com/Ajax/AtlasDragNDrop.asp
+- type: x-feed
+  url: https://ajaxsample.blogspot.com/feeds/posts/default
+- type: x-forum
+  url: http://forums.asp.net/thread/1440058.aspx
+- type: x-forum
+  url: http://forums.asp.net/thread/1445844.aspx
+- type: x-forum
+  url: http://forums.asp.net/1007/ShowForum.aspx
+- type: x-forum
+  url: http://forums.asp.net/1008/ShowForum.aspx
+- type: x-forum
+  url: http://forums.asp.net/1009/ShowForum.aspx
+- type: x-website
+  url: https://ajaxsample.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

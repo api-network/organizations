@@ -1,0 +1,28 @@
+---
+name: Data.Brace.io
+description: <p>Use Google Spreadsheets as your CMS. Display your spreadsheet data
+  however you like right on your static site. Connect your Google Spreadsheet to Brace
+  Data. Then you can use mustache templates to display your data, or post new data
+  with a form.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/data-brace-io.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "2"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/data-brace-io.yaml
+tags: []
+apis: []
+x-common:
+- type: x-base
+  url: https://data.brace.io/ss/
+- type: x-developers
+  url: https://data.brace.io/
+- type: x-website
+  url: https://brace.io/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

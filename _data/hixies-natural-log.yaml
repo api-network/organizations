@@ -1,0 +1,32 @@
+---
+name: Hixie's Natural Log
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "885445"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hixies-natural-log.yaml
+tags:
+- Weblogs
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.caelum.com.br/css3-e-o-futuro-da-web/
+- type: x-press
+  url: http://noticiastech.com/wordpress/?p=29403
+- type: x-privacy
+  url: http://dbaron.org/mozilla/visited-privacy
+- type: x-twitter
+  url: http://twitter.com/#!/3rdEden/status/26439629963
+- type: x-website
+  url: https://ln.hixie.ch
+- type: x-youtube
+  url: http://www.youtube.com/watch?v=eNzrn8-JFSE
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

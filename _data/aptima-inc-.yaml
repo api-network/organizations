@@ -1,0 +1,48 @@
+---
+name: Aptima, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "332244"
+url: https://raw.githubusercontent.com/api-network/organizations/main/aptima-inc-.yaml
+tags:
+- Companies And Consultants
+apis: []
+x-common:
+- type: x-about
+  url: https://www.aptima.com/about/
+- type: x-about
+  url: https://www.aptima.com/about/our-people/
+- type: x-about
+  url: https://www.aptima.com/about/government-contracts/
+- type: x-about
+  url: https://www.aptima.com/about/aptima-alumni/
+- type: x-careers
+  url: https://www.aptima.com/careers-2/
+- type: x-careers
+  url: https://www.aptima.com/careers-2/benefits/
+- type: x-careers
+  url: https://www.aptima.com/careers/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/aptima-inc.
+- type: x-twitter
+  url: https://twitter.com/intent/user?screen_name=Aptima
+- type: x-twitter
+  url: https://twitter.com/Aptima
+- type: x-twitter
+  url: https://twitter.com/ModMilTraining
+- type: x-twitter
+  url: https://twitter.com/Aptima/status/1202636968196280321
+- type: x-twitter
+  url: https://twitter.com/Aptima/status/1202271304285593602
+- type: x-website
+  url: https://www.aptima.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,32 @@
+---
+name: PC Pitstop
+description: PC Pitstop is now PC Matic.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "276604"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pc-pitstop.yaml
+tags:
+- Web Security
+- Unauthorized Access
+- Secure
+- PC Pitstop
+- PC Matic PRO
+- Internet Security
+- Independent Tech Support
+- Hacking
+- Endpoint
+apis: []
+x-common:
+- type: x-about
+  url: https://www.pcmatic.com/about/
+- type: x-website
+  url: https://www.pcpitstop.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,36 @@
+---
+name: Gift Cards India
+description: "GCI drives value for its retailers by providing a single point of entry
+  to GCI\u2019s exclusive distribution network consisting of b2b, b2c sales channels
+  and the GCI Pre paid Super Card.    GCI provides a full solution to resellers and
+  bulk buyers providin..."
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28928-sandbox-giftcardsindia-in.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "2"
+x-alexaRank: "765872"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gift-cards-india.yaml
+tags:
+- Have API Paths
+- Gift Cards
+apis: []
+x-common:
+- type: x-website
+  url: http://www.giftcardsindia.in
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/giftcardsindia-in
+- type: x-email
+  url: info@giftcardsindia.in
+- type: x-email
+  url: cs@giftcardsindia.in
+- type: x-twitter
+  url: https://twitter.com/giftcardsindia
+- type: x-website
+  url: http://sandbox.giftcardsindia.in
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

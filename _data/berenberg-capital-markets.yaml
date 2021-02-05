@@ -1,0 +1,44 @@
+---
+name: Berenberg Capital Markets
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/api-butterfly.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "539125"
+url: https://raw.githubusercontent.com/api-network/organizations/main/berenberg-capital-markets.yaml
+tags:
+- EU Bank
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/berenberg
+- type: x-email
+  url: ComplianceAML@berenberg.de
+- type: x-email
+  url: amelie.eichblatt@berenberg.de
+- type: x-email
+  url: info@berenberg.de
+- type: x-email
+  url: presse@berenberg.de
+- type: x-email
+  url: security@berenberg.de
+- type: x-email
+  url: michael.engelhardt@berenberg.de
+- type: x-email
+  url: joerg.bunse@berenberg.com
+- type: x-email
+  url: lars.andersen@berenberg.de
+- type: x-email
+  url: oliver.diehl@berenberg.com
+- type: x-email
+  url: david.mortlock@berenberg.com
+- type: x-website
+  url: https://www.berenberg.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,57 @@
+---
+name: Dimensional Insight
+description: 'Analytics, data management, and performance management solutions: data
+  integration, modeling, sophisticated reporting, analytics, & dashboards.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "742378"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dimensional-insight.yaml
+tags:
+- OLAP
+apis: []
+x-common:
+- type: x-about
+  url: https://www.dimins.com/about/
+- type: x-blog
+  url: https://www.dimins.com/blog-home-page/
+- type: x-careers
+  url: https://www.dimins.com/business-intelligence-jobs/
+- type: x-case-studies
+  url: https://www.dimins.com/case-studies/
+- type: x-documentation
+  url: https://www.technology.dimins.com/documentation/
+- type: x-events
+  url: https://www.dimins.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/diminsdiver/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/dimensional-insight/
+- type: x-login
+  url: https://www.dimins.com/signin/
+- type: x-press
+  url: https://www.dimins.com/press-coverage/
+- type: x-press
+  url: https://www.dimins.com/press-releases/
+- type: x-privacy
+  url: https://www.dimins.com/privacy-policy/
+- type: x-support
+  url: https://www.dimins.com/dimensional-insight-support/
+- type: x-twitter
+  url: https://twitter.com/DI_tweet/
+- type: x-webinars
+  url: https://www.dimins.com/webinars/
+- type: x-website
+  url: https://www.dimins.com
+- type: x-white-papers
+  url: https://www.dimins.com/white-papers/
+- type: x-youtube
+  url: https://www.youtube.com/user/DimInsDiver/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

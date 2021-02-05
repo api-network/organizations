@@ -1,0 +1,69 @@
+---
+name: Indico
+description: indico turns raw text and image data into human insights. We???re lowering
+  the barriers to the development, integration, and customization of machine learning
+  algorithms by providing developer-friendly tools and APIs for building smarter software
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28243-indico-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "866018"
+url: https://raw.githubusercontent.com/api-network/organizations/main/indico.yaml
+tags:
+- Machine Learning
+- Have API
+- Artificial Intelligence
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://indico.io
+- type: x-about
+  url: https://indico.io/about/
+- type: x-blog
+  url: https://indico.io/blog/
+- type: x-careers
+  url: https://indico.io/careers/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/indico-data-solutions
+- type: x-developers
+  url: https://docs.getindico.io/en/stable/
+- type: x-documentation
+  url: https://indico.io/docs
+- type: x-email
+  url: contact@indico.io
+- type: x-facebook
+  url: https://www.facebook.com/indicoDataSolutions/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/indico-data-solutions
+- type: x-news
+  url: https://indico.io/news-events/
+- type: x-pricing
+  url: https://indico.io/product/pricing/
+- type: x-self-service-registration
+  url: https://auth.indico.io/register
+- type: x-support
+  url: https://indico.io/usecases/sales-support/
+- type: x-support
+  url: https://indico.io/support/
+- type: x-terms-of-service
+  url: https://indico.io/usecases/legal-compliance/
+- type: x-terms-of-service
+  url: https://indico.io/terms
+- type: x-terms-of-service
+  url: https://indico.io/terms/#privacy
+- type: x-twitter
+  url: https://twitter.com/indicoData
+- type: x-webinars
+  url: http://info.indico.io/webinar-everest-recording
+- type: x-website
+  url: https://indico.io
+- type: x-white-papers
+  url: http://info.indico.io/everest-whitepaper
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

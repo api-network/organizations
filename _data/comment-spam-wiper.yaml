@@ -1,0 +1,75 @@
+---
+name: Comment SPAM Wiper
+description: Comment SPAM Wiper - Comment SPAM protection and blog SPAM protection
+  for your site.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/comment-spam-wiper.yaml
+tags:
+- Wordpress Comment Spam
+- WordPress
+- Spamwipe
+- Spam Protection
+- Spam Protect
+- Spam Comments
+- Spam Blocker
+- Spam
+- Service
+- Preventing Comment Spam
+- Plugin
+- Free
+- Forum Spam
+- Filter
+- Csw
+- Commetn Spam
+- Comment Spam Wiper
+- Comment Spam Protection
+- Comment Spam Plugin
+- Comment Spam Module
+- Comment Spam
+- Blog Spam
+- Blog Comment Spam
+- Blocker
+- Antispam
+- Anti-spam
+- Anti Spam
+apis: []
+x-common:
+- type: x-about
+  url: http://www.spamwipe.com/about.html
+- type: x-about
+  url: http://www.spamwipe.com/about.html#Comment-SPAM
+- type: x-about
+  url: http://www.spamwipe.com/about.html#How-CSW-works
+- type: x-contact
+  url: http://www.spamwipe.com/contact.html
+- type: x-developer
+  url: http://www.spamwipe.com/api.html
+- type: x-facebook
+  url: http://www.facebook.com/CSWSocialProtect
+- type: x-facebook
+  url: http://www.facebook.com/commentspamwiper
+- type: x-news
+  url: http://www.spamwipe.com/news.html
+- type: x-pricing
+  url: http://www.spamwipe.com/pricing.html
+- type: x-privacy
+  url: http://www.spamwipe.com/privacy.html
+- type: x-signup
+  url: http://www.spamwipe.com/signup.html
+- type: x-terms-of-service
+  url: http://www.spamwipe.com/terms.html
+- type: x-twitter
+  url: http://www.twitter.com/CommentSPAMWipe
+- type: x-website
+  url: https://www.spamwipe.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

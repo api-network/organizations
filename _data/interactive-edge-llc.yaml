@@ -1,0 +1,37 @@
+---
+name: Interactive Edge, LLC
+description: "Interactive Edge\u2019s XP3 software allows multiple data source integration
+  in Microsoft PowerPoint and Excel to generate dynamic presentations and dashboards."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4386397"
+url: https://raw.githubusercontent.com/api-network/organizations/main/interactive-edge-llc.yaml
+tags:
+- Decision Support Tools
+apis: []
+x-common:
+- type: x-about
+  url: https://www.interactiveedge.com/about/
+- type: x-blog
+  url: https://www.interactiveedge.com/blog/
+- type: x-contact
+  url: https://www.interactiveedge.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/InteractiveEdgeNY/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/interactive-edge
+- type: x-twitter
+  url: https://twitter.com/interactiveedge?lang=en
+- type: x-website
+  url: https://www.interactiveedge.com
+- type: x-white-papers
+  url: https://www.interactiveedge.com/resources/whitepapers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

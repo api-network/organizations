@@ -1,0 +1,32 @@
+---
+name: Operations Management Consultants, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/operations-management-consultants-inc-.yaml
+tags:
+- Business Systems
+apis: []
+x-common:
+- type: x-about
+  url: https://bottomlinefix.com/about-omc/
+- type: x-blog
+  url: https://bottomlinefix.com/blog/
+- type: x-case-studies
+  url: https://bottomlinefix.com/case-studies/
+- type: x-case-studies
+  url: https://bottomlinefix.com/home/case-studies/
+- type: x-contact
+  url: https://bottomlinefix.com/contact-us/
+- type: x-website
+  url: https://www.bottomlinefix.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

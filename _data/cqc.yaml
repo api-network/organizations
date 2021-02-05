@@ -1,0 +1,24 @@
+---
+name: CQC
+description: ""
+image: https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2015-12-15/16743088437_3ea8641e4f7eca4ff8fc_512.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3108148"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cqc.yaml
+tags:
+- Software
+apis: []
+x-common:
+- type: x-forum
+  url: https://www.charmedquark.com/vb_forums/index.php
+- type: x-website
+  url: https://www.charmedquark.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

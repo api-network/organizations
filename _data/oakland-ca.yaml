@@ -1,0 +1,32 @@
+---
+name: Oakland, CA
+description: We make tools. They increase access to public information. Some help
+  Oaklanders engage more effectively with local government and with each other. We
+  collaborate with Oakland???s civic stakeholders. We help civic-minded volunteers
+  make a difference in their city.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/pull_image_10-12-2019-03-27-pm.gif
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/oakland-ca.yaml
+tags:
+- Profile
+- Have API
+- City Government
+- API Provider
+apis: []
+x-common:
+- type: x-code
+  url: https://brigade.codeforamerica.org
+- type: x-open-source
+  url: https://github.com/openoakland
+- type: x-website
+  url: https://www.openoakland.org/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

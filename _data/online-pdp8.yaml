@@ -1,0 +1,80 @@
+---
+name: Online PDP-8
+description: Run a PDP-8 online. Information on the Digital PDP-8 computer and peripherals.  Blinking
+  lights, core, paper tape, what more could you want?
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10401738"
+url: https://raw.githubusercontent.com/api-network/organizations/main/online-pdp8.yaml
+tags:
+- Vintage
+- TU56
+- TU55
+- Teletype
+- Straight-8
+- RX02
+- RX01
+- RK05
+- PT08
+- Pdp8i
+- Pdp8e
+- Pdp8/e Pdp8/i
+- Pdp8
+- PDP-8M
+- PDP-8I
+- PDP-8E
+- PDP-8A
+- PDP-8/I
+- PDP-8/E
+- Pdp-8
+- PDP
+- PC05
+- PC04
+- PC0
+- Paper Tape
+- Pal
+- Os/8
+- Minicomputer
+- Mini
+- Macro-8
+- M8655
+- M8650
+- LAB-8
+- Highgate
+- H747
+- H740
+- Fortran
+- Focal
+- FLIPCHIP
+- FLIP CHIP
+- Equipment
+- Disk Monitor
+- Disk File
+- Digital
+- DF32-D
+- DF32
+- DF-32
+- DECTAPE
+- DEC
+- CR01
+- Corporation
+- Core Memory
+- Computer Collection
+- Classic-8
+- ASR33
+- ASR-33
+apis: []
+x-common:
+- type: x-documentation
+  url: http://highgate.comm.sfu.ca/~djg/htdocs/index.shtml
+- type: x-website
+  url: https://www.pdp8.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

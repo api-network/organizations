@@ -1,0 +1,26 @@
+---
+name: The Northwest of Us
+description: "\u7F8E\u5BB9\u306B\u6C17\u3092\u9063\u3044\u59CB\u3081\u308B\u3068\u3001\u81EA\u5206\u306E\u30B3\u30F3\u30D7\u30EC\u30C3\u30AF\u30B9\u304C\u3060\u3093\u3060\u3093\u3068\u6C17\u306B\u306A\u308B\u3088\u3046\u306B\u306A\u3063\u3066\u304D\u307E\u305B\u3093\u304B\uFF1F\u30E1\u30B8\u30E3\u30FC\u306B\u306A\u3063\u305F\u3068\u306F\u3044\u3048\u6574\u5F62\u306F\u6016\u3044\u2026\u305D\u3093\u306A\u65B9\u306F\u624B\u8EFD\u306B\u3067\u304D\u308B\u307E\u3064\u6BDB\u80B2\u6BDB\u304B\u3089\u59CB\u3081\u3066\u307F\u307E\u3057\u3087\u3046\uFF01\u307E\u3064\u6BDB\u80B2\u6BDB\u306F\u7C21\u5358\u306B\u59CB\u3081\u3089\u308C\u307E\u3059\u3057\u3001\u5370\u8C61\u3082\u5927\u304D\u304F\u5909\u308F\u308A\u307E\u3059\u3088\uFF01"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-northwest-of-us.yaml
+tags:
+- Illinois
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.nwou.org/contact/
+- type: x-news
+  url: https://www.newsaskew.com/eyelash/product-739/
+- type: x-website
+  url: https://www.nwou.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,33 @@
+---
+name: Entry Software
+description: Developers of TeamHeadquarters Help Desk and Project Management Software.  Reduce
+  the number of apps, streamline your business, and save money.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3178553"
+url: https://raw.githubusercontent.com/api-network/organizations/main/entry-software.yaml
+tags:
+- Hosted
+apis: []
+x-common:
+- type: x-website
+  url: http://www.entry.com
+- type: x-blog
+  url: https://entry.com/blog/
+- type: x-documentation
+  url: https://entry-software.helpdocsonline.com/home
+- type: x-facebook
+  url: https://www.facebook.com/entrysoftware/
+- type: x-twitter
+  url: https://twitter.com/entrysoftware
+- type: x-website
+  url: https://www.entry.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

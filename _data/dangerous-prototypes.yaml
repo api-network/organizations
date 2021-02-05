@@ -1,0 +1,120 @@
+---
+name: Dangerous Prototypes
+description: Dangerous Prototypes makes open source hardware.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28346-dangerous-prototypes.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "345026"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dangerous-prototypes.yaml
+tags:
+- Tech Blog
+- Internet Of Things
+- Have API
+apis: []
+x-common:
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/category/arduino/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/category/wireless/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/category/usb/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/tag/power-hub/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/tag/usb-c/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/page/2/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/page/3/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/page/585/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/author/dp/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/tag/app-note/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/tag/bourns/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/tag/usb-type-c/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/category/rf/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/category/sdr/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/tag/rf/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/category/avr/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/category/sensors/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/tag/atmega/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/tag/ptc/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/category/diy/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/tag/diy/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/category/clock/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/tag/analog-clock/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/tag/holiday/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/tag/new-year/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/author/ian/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/tag/bus-pirate/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/tag/buttons/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/tag/lcd/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/tag/magnetometer/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/tag/nxp/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/tag/rs-485/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/category/hacks/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/tag/atari/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/tag/esp32/
+- type: x-blog
+  url: http://dangerousprototypes.com/blog/tag/rtl-sdr/
+- type: x-contact
+  url: http://dangerousprototypes.com/contact
+- type: x-documentation
+  url: http://dangerousprototypes.com/docs/Main_Page
+- type: x-documentation
+  url: http://dangerousprototypes.com/docs/Bus_Pirate
+- type: x-facebook
+  url: https://www.facebook.com/DangerousPrototypes/
+- type: x-forum
+  url: http://dangerousprototypes.com/forum
+- type: x-forum
+  url: http://dangerousprototypes.com/forum/
+- type: x-github
+  url: https://github.com/DangerousPrototypes
+- type: x-github
+  url: https://github.com/nootropicdesign/wx-ground-station
+- type: x-press
+  url: https://wordpress.org/
+- type: x-tutorials
+  url: http://dangerousprototypes.com/blog/tag/tutorials/
+- type: x-twitter
+  url: https://twitter.com/dangerousproto
+- type: x-website
+  url: http://dangerousprototypes.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

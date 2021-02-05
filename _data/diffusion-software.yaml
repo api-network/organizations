@@ -1,0 +1,47 @@
+---
+name: Diffusion Software
+description: Home of Airomate the software based Stereo Encoder and RDS generator
+  that digital generates a stereo MPX signal with RDS for FM radio stations with your
+  soundcard. Also many freeware utilities available.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8697431"
+url: https://raw.githubusercontent.com/api-network/organizations/main/diffusion-software.yaml
+tags:
+- Transmitters
+- Stereocoder
+- Stereo Coder
+- Stereo
+- Software
+- RDS
+- Rbds
+- Radio
+- Program
+- Pre
+- Mpx
+- Khz
+- Generator
+- Freeware
+- Fm
+- Encoder
+- Emphasis
+- Digital
+- Diffusion
+- Coder
+- Broadcast
+- Application
+- Airomate
+- "192"
+apis: []
+x-common:
+- type: x-website
+  url: https://www.diffusionsoftware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

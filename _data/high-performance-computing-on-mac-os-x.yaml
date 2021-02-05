@@ -1,0 +1,22 @@
+---
+name: High Performance Computing on Mac OS X
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "430"
+url: https://raw.githubusercontent.com/api-network/organizations/main/high-performance-computing-on-mac-os-x.yaml
+tags:
+- Mac OS X
+apis: []
+x-common:
+- type: x-website
+  url: https://hpc.sourceforge.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

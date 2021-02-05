@@ -1,0 +1,54 @@
+---
+name: KMR Consulting
+description: Welcome to KMR Consulting, home of Personal Timeclock<sup>TM</sup> (for
+  keeping track of the time you spend on your computer), SudoKoach<sup>TM</sup> (the
+  program that takes the tedium out of Sudoku puzzles) and Crypto!<sup>TM</sup> (a
+  cryptogram puzzle game for Windows), free utility software, and fine nature photography!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kmr-consulting.yaml
+tags:
+- Utility
+- Utilities
+- Usage
+- Tracking
+- Time Records
+- Time Management
+- Time Clock
+- Time
+- Taxes
+- Sudoku
+- Shareware
+- Reporting
+- Puzzle
+- Punch Clock
+- Photography
+- Nature Photography
+- Gas Price Calculator
+- Game
+- Free
+- Fine Art Photography
+- Daily Sudoku
+- Daily Puzzle
+- Daily Cryptogram
+- Cyclic Redundancy Check
+- Cryptogram
+- Crypto
+- CRC
+- Client Billing
+- Client
+- Billing
+apis: []
+x-common:
+- type: x-website
+  url: https://www.kmrconsulting.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

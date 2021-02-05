@@ -1,0 +1,55 @@
+---
+name: Markify
+description: Markify is the world's most accurate full trademark search. We help you
+  avoid all confusingly similar marks.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1024_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "445396"
+url: https://raw.githubusercontent.com/api-network/organizations/main/markify.yaml
+tags:
+- Trademarks
+- Legal
+- Legal
+- Have API
+- Domains
+- Content
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://markify.com
+- type: x-base
+  url: http://www.markify.com/api/
+- type: x-blog
+  url: http://markify.com/blog
+- type: x-blog-rss
+  url: http://www.markify.com/blog/feed/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/markify
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/markify
+- type: x-developers
+  url: http://www.markify.com/dev/api.html
+- type: x-developers
+  url: https://www.markify.com/dev/api.html
+- type: x-email
+  url: support@markify.com
+- type: x-email
+  url: feedback@markify.com
+- type: x-email
+  url: info@markify.com
+- type: x-twitter
+  url: https://twitter.com/3dvMarkifyia
+- type: x-twitter
+  url: https://twitter.com/Markify
+- type: x-website
+  url: http://www.markify.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

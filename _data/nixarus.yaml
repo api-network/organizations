@@ -1,0 +1,39 @@
+---
+name: Nixarus
+description: Nixarus is the market leader in the design, implementation and support
+  of Enterprise Linux IT Infrastructures for medium to large business.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nixarus.yaml
+tags:
+- Companies
+apis: []
+x-common:
+- type: x-about
+  url: https://www.nixarus.com/about-us/
+- type: x-blog
+  url: https://www.nixarus.com/blog/
+- type: x-careers
+  url: https://www.nixarus.com/careers/
+- type: x-contact
+  url: https://www.nixarus.com/contact-us/
+- type: x-open-source
+  url: https://www.nixarus.com/nixarus-open/
+- type: x-security
+  url: https://www.nixarus.com/security/
+- type: x-support
+  url: http://nixarus.com/infrastructure-support/
+- type: x-support
+  url: https://www.nixarus.com/infrastructure-support/
+- type: x-website
+  url: https://www.nixarus.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

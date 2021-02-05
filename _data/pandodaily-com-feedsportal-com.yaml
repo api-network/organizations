@@ -1,0 +1,23 @@
+---
+name: pandodaily.com.feedsportal.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pandodaily-com-feedsportal-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://pandodaily.com.feedsportal.com/c/35141/f/650422/s/46a89519/sc/15/l/0Lpando0N0C20A150C0A50C260Cthe0Esecret0Eto0Esnapchats0Esuccess0Eintuition0Enot0Edata0C/story01.htm
+- type: x-website
+  url: http://pandodaily.com.feedsportal.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

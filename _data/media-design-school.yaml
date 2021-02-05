@@ -1,0 +1,38 @@
+---
+name: Media Design School
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "688612"
+url: https://raw.githubusercontent.com/api-network/organizations/main/media-design-school.yaml
+tags:
+- Professional Education
+apis: []
+x-common:
+- type: x-facebook
+  url: https://facebook.com/mediadesignschool/
+- type: x-instagram
+  url: https://instagram.com/mediadesignschool/
+- type: x-instagram
+  url: https://www.instagram.com/p/B7PtNMFJVXn
+- type: x-instagram
+  url: https://www.instagram.com/p/B7ExdDsJU27
+- type: x-instagram
+  url: https://www.instagram.com/p/B6OzwfjJpL7
+- type: x-instagram
+  url: https://www.instagram.com/p/B5qpEgLJppO
+- type: x-twitter
+  url: https://twitter.com/mdsnz/
+- type: x-website
+  url: https://www.mediadesignschool.com
+- type: x-youtube
+  url: https://www.youtube.com/user/MediaDesignSchool
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

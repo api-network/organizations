@@ -1,0 +1,24 @@
+---
+name: General Digital
+description: Rugged military, industrial, marine monitors; display enhancements and
+  optical bonding; software development and IV&V testing; Connecticut-based General
+  Digital Corporation.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2773652"
+url: https://raw.githubusercontent.com/api-network/organizations/main/general-digital.yaml
+tags:
+- Ruggedized
+apis: []
+x-common:
+- type: x-website
+  url: https://www.generaldigital.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

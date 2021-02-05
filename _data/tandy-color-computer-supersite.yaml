@@ -1,0 +1,30 @@
+---
+name: Tandy Color Computer SuperSite
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2968510"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tandy-color-computer-supersite.yaml
+tags:
+- Tandy
+apis: []
+x-common:
+- type: x-feed
+  url: https://www.coco3.com/feed/
+- type: x-feed
+  url: https://www.coco3.com/comments/feed/
+- type: x-login
+  url: https://www.coco3.com/wp-login.php
+- type: x-press
+  url: https://wordpress.org/
+- type: x-website
+  url: https://www.coco3.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

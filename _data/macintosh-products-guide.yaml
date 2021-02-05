@@ -1,0 +1,22 @@
+---
+name: Macintosh Products Guide
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "48"
+url: https://raw.githubusercontent.com/api-network/organizations/main/macintosh-products-guide.yaml
+tags:
+- Macintosh
+apis: []
+x-common:
+- type: x-website
+  url: https://guide.apple.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

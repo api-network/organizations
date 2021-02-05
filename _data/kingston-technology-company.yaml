@@ -1,0 +1,36 @@
+---
+name: Kingston Technology Company
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "19726"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kingston-technology-company.yaml
+tags:
+- Solid State
+- Memory
+- Manufacturers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.kingston.com
+- type: x-facebook
+  url: https://www.facebook.com/kingstontechnology
+- type: x-instagram
+  url: http://instagram.com/kingstontechnology
+- type: x-linkedin
+  url: http://www.linkedin.com/company/164609?trk=tyah
+- type: x-twitter
+  url: http://twitter.com/kingstontech
+- type: x-website
+  url: https://kingston.com
+- type: x-youtube
+  url: http://www.youtube.com/kingstontechmemory
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

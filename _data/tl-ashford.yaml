@@ -1,0 +1,38 @@
+---
+name: TL Ashford
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tl-ashford.yaml
+tags:
+- Labeling
+apis: []
+x-common:
+- type: x-code
+  url: https://www.facebook.com/Barcode400
+- type: x-linkedin
+  url: https://www.linkedin.com/company/tl-ashford
+- type: x-news
+  url: http://www.tlashford.com/TLA2/pages/news/news.html
+- type: x-self-service-registration
+  url: https://www.tlashford.com/TLA2/Forms/register.html
+- type: x-self-service-registration
+  url: http://www.tlashford.com/TLA2/Forms/register.html
+- type: x-support
+  url: http://www.tlashford.com/TLA2/pages/support/smp.html
+- type: x-twitter
+  url: https://twitter.com/TLAshford?lang=en
+- type: x-website
+  url: https://www.tlashford.com
+- type: x-youtube
+  url: https://www.youtube.com/user/TLAshford
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

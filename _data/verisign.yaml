@@ -1,0 +1,52 @@
+---
+name: Verisign
+description: Global leader in domain names and internet security.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1496-verisign.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "455818"
+url: https://raw.githubusercontent.com/api-network/organizations/main/verisign.yaml
+tags:
+- Networks
+- ISP
+- Have API
+- Domains
+- Communications
+apis: []
+x-common:
+- type: x-website
+  url: http://domaincountdown.verisignlabs.com/public/apidocs.html
+- type: x-website
+  url: http://www.Verisign.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/verisign
+- type: x-email
+  url: websales@verisign.com
+- type: x-email
+  url: customerservice@verisign.com
+- type: x-email
+  url: pr@verisign.com
+- type: x-email
+  url: abuse@verisign.com
+- type: x-email
+  url: legal@verisign.com
+- type: x-email
+  url: privacystatement@verisign.com
+- type: x-email
+  url: vidnsupport@verisign.com
+- type: x-email
+  url: mdnshelp@verisign.com
+- type: x-email
+  url: MakeYourMark@verisign.com
+- type: x-email
+  url: dcpolicy@verisign.com
+- type: x-twitter
+  url: https://twitter.com/VERISIGN
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

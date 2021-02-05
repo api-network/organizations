@@ -1,0 +1,31 @@
+---
+name: Disney Wallpapers
+description: Download free images of disney pictures,disney wallpapers, disney images,
+  disney picture, mickey mouse wallpapers, disney princess wallpapers, disney princess.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9903544"
+url: https://raw.githubusercontent.com/api-network/organizations/main/disney-wallpapers.yaml
+tags:
+- Pictures Of Disney
+- Disney Wallpapers
+- Disney Wallpaper
+- Disney Pictures
+- Disney Images
+- Disney
+- Children
+apis: []
+x-common:
+- type: x-blog
+  url: http://eskisehircilingir.blogspot.com.tr/
+- type: x-website
+  url: https://www.disneywallpaper.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

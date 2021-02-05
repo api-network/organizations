@@ -1,0 +1,43 @@
+---
+name: CAST
+description: CAST Software intelligence creates understanding into software architecture,
+  end to end transaction flows, data access patterns and more, helping teams work
+  confidently and faster.
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "238438"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cast.yaml
+tags:
+- SQL Databases
+- Software Intelligence
+- Software Architecture
+- Have OpenAPI
+- Have API Paths
+- Digital Leaders
+apis: []
+x-common:
+- type: x-website
+  url: http://www.castsoftware.com/blog
+- type: x-facebook
+  url: http://www.facebook.com/castonquality
+- type: x-linkedin
+  url: http://www.linkedin.com/company/cast
+- type: x-slideshare
+  url: http://www.slideshare.net/castsoftware
+- type: x-support
+  url: https://help.castsoftware.com/
+- type: x-support
+  url: https://help.castsoftware.com/hc/en-us/
+- type: x-twitter
+  url: http://twitter.com/onquality
+- type: x-website
+  url: https://www.castsoftware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

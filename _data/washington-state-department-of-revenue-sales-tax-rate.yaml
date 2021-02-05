@@ -1,0 +1,45 @@
+---
+name: Washington State Department of Revenue Sales Tax Rate
+description: "The Employment Security Department helps Washington state\u2019s workers
+  and employers succeed in the global economy by delivering superior employment services,
+  timely unemployment benefits, and a fair and stable unemployment-benefits system."
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/669-washington-state-department-of-revenue-sales-tax-rate.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4171"
+url: https://raw.githubusercontent.com/api-network/organizations/main/washington-state-department-of-revenue-sales-tax-rate.yaml
+tags:
+- Washington
+- Taxes
+- State Government
+- SalesSales
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.wsdot.wa.gov
+- type: x-website
+  url: http://dor.wa.gov/Content/FindTaxesAndRates/RetailSalesTax/DestinationBased/ClientInterface.aspx
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/access-washington
+- type: x-email
+  url: AccessWA@des.wa.gov
+- type: x-email
+  url: publicdisclosure@cts.wa.gov
+- type: x-facebook
+  url: https://www.facebook.com/WARevenue/
+- type: x-twitter
+  url: https://twitter.com/WAStateDOR
+- type: x-twitter
+  url: https://twitter.com/wsdot
+- type: x-youtube
+  url: https://www.youtube.com/user/WashingtonStateDOR
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

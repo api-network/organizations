@@ -1,0 +1,50 @@
+---
+name: Ebiexperts
+description: Agile Source Control, Version Management Quality Control, Agile Version
+  Management, Agile Lifecycle Management Solutions, QlikView Source Control, Qlik
+  Sense Source Control, SAPAnalytics Source Control Lifecycle Management, Version
+  Management, Quality Control, Deployment Management, Publication Management, Administration
+  and Audit Solution
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ebiexperts.yaml
+tags:
+- Consultants
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ebiexperts.com
+- type: x-about
+  url: https://www.ebiexperts.com/about-us/
+- type: x-contact
+  url: https://www.ebiexperts.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/ebiexperts/
+- type: x-login
+  url: https://www.ebiexperts.com/login/
+- type: x-news
+  url: https://www.ebiexperts.com/news/
+- type: x-partner
+  url: https://www.ebiexperts.com/partnership/
+- type: x-privacy
+  url: https://www.ebiexperts.com/privacy-policy/
+- type: x-support
+  url: https://support.ebiexperts.com/
+- type: x-support
+  url: https://support.ebiexperts.com
+- type: x-terms-of-service
+  url: https://www.ebiexperts.com/terms-conditions/
+- type: x-twitter
+  url: https://twitter.com/hashtag/ebiexperts
+- type: x-website
+  url: https://www.ebiexperts.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

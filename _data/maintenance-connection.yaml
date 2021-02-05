@@ -1,0 +1,29 @@
+---
+name: Maintenance Connection
+description: Maintenance Connection is a leading computerized maintenance management
+  system (CMMS) trusted by hundreds of professionals. Get a free demo and price quote!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "232599"
+url: https://raw.githubusercontent.com/api-network/organizations/main/maintenance-connection.yaml
+tags:
+- Asset Management
+apis: []
+x-common:
+- type: x-contact
+  url: https://website.maintenanceconnection.com/contact/
+- type: x-customers
+  url: https://website.maintenanceconnection.com/customers/
+- type: x-partner
+  url: https://website.maintenanceconnection.com/partners/
+- type: x-website
+  url: https://www.maintenanceconnection.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

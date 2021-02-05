@@ -1,0 +1,57 @@
+---
+name: Lester Ingber's Archive
+description: 'ASA: Adaptive Simulated Annealing, Optimization, Importance Sampling,
+  Nonlinear Stochastic Systems. COMBAT: Statistical Mechanics of Combat. KARATE: Art
+  and Science, Applications to Learning. MARKETS: Statistical Mechanics of Equities,
+  Futures, Options, Risk, Portfolios, Trading. NEOCORTEX: Statistical Mechanics of
+  Neocortex, Applications to Memory, EEG. NUCLEAR: Nucleons, Nuclear Matter, Riemannian
+  Interactions. PATH-INTEGRAL: Path Integrals in Nonlinear Stochastic Systems.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7640294"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lester-ingbers-archive.yaml
+tags:
+- Trading
+- Stochastic
+- Statistical
+- Risk
+- Physics
+- Options
+- Optimization
+- Nuclear
+- Nonlinear
+- Neocortex
+- Karate
+- Intelligence
+- Finance
+- Companies
+- Combat
+apis: []
+x-common:
+- type: x-code
+  url: https://www.ingber.com/utils_code.html
+- type: x-code
+  url: https://code.google.com/p/adaptive-simulated-annealing
+- type: x-facebook
+  url: https://www.facebook.com/ingber.lester
+- type: x-github
+  url: https://github.com/ingber/adaptive-simulated-annealing
+- type: x-linkedin
+  url: https://www.linkedin.com/in/ingber
+- type: x-terms-of-service
+  url: https://www.ingber.com/ingber_terms.html
+- type: x-twitter
+  url: https://twitter.com/ingber
+- type: x-website
+  url: https://www.ingber.com
+- type: x-youtube
+  url: https://www.youtube.com/ingber
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

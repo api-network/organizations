@@ -1,0 +1,39 @@
+---
+name: Action Tad
+description: "PlanetHoster solutions d'h\xE9bergement web, que ce soit des h\xE9bergements
+  mutualis\xE9s, des plans revendeurs, des serveurs d\xE9di\xE9s, des serveurs virtuels
+  ou de l'h\xE9bergement E-commerce"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/action-tad.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: https://www.planethoster.com/
+- type: x-about
+  url: https://plus.google.com/104430898324979608625/about
+- type: x-documentation
+  url: https://docs.planethoster.com/
+- type: x-facebook
+  url: https://www.facebook.com/PlanetHoster
+- type: x-instagram
+  url: https://www.instagram.com/planethoster/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/planethoster
+- type: x-support
+  url: https://go.planethoster.net/youtube-support/
+- type: x-twitter
+  url: https://twitter.com/planethoster
+- type: x-website
+  url: https://www.actiontad.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

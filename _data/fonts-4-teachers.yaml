@@ -1,0 +1,41 @@
+---
+name: Fonts 4 Teachers
+description: Primary and high school fonts for teachers. 57 teachers fonts in 8 cute
+  and fun families for just $10. PC & Mac. Handwriting, Dot and Traceable Fonts.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1870696"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fonts-4-teachers.yaml
+tags:
+- Repositories
+apis: []
+x-common:
+- type: x-website
+  url: http://www.tpt-fonts4teachers.blogspot.com
+- type: x-about
+  url: https://fonts4teachers.com/about-the-company/
+- type: x-contact
+  url: https://fonts4teachers.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/Fonts4Teachers
+- type: x-privacy
+  url: https://fonts4teachers.com/privacy-policy/
+- type: x-support
+  url: https://fonts4teachers.com/tech-support/
+- type: x-terms-of-service
+  url: https://fonts4teachers.com/terms-and-conditions/
+- type: x-twitter
+  url: http://twitter.com/#!/Fonts4Teachers
+- type: x-website
+  url: https://www.fonts4teachers.com
+- type: x-youtube
+  url: http://www.youtube.com/watch?v=Ji0lKtjA7Vk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

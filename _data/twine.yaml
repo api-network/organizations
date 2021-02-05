@@ -1,0 +1,38 @@
+---
+name: Twine
+description: '<p>Twine Health is a cloud-based collaborative care platform for chronic
+  disease management. It consists of a patient engagement portal, a peer support network,
+  a care management solution, and an outcome analytics tool. The platform enables
+  users to co-create personalized care plans that serve as common ground for collaboration
+  with their care team: their own providers such as physicians and nurse practitioners;
+  their family and friends; and coaches such as nurses, pharmacists, health coaches,
+  and more.</p>'
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/twinehealth.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "3"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/twine.yaml
+tags:
+- Wearables
+- Relative Data
+- Profile
+- Healthcare
+- Have Swagger
+- Have API Paths
+- Have API
+apis: []
+x-common:
+- type: x-authentication
+  url: http://developer.twinehealth.com/#section/Authentication
+- type: x-developers
+  url: http://developer.twinehealth.com/
+- type: x-website
+  url: http://twinehealth.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

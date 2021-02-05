@@ -1,0 +1,35 @@
+---
+name: Ekardo
+description: Create beautiful eCards featuring your company logo using our eCard templates.
+  Your eCards are guaranteed to look amazing every time.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1293095"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ekardo.yaml
+tags:
+- Online Tools
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ekarda.com/
+- type: x-facebook
+  url: https://www.facebook.com/ekarda.ecards
+- type: x-login
+  url: https://my.ekarda.com/users/login
+- type: x-signup
+  url: https://my.ekarda.com/users/signup
+- type: x-support
+  url: https://support.ekarda.com
+- type: x-twitter
+  url: https://twitter.com/ekarda_eCards
+- type: x-website
+  url: https://ekarda.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

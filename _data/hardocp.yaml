@@ -1,0 +1,28 @@
+---
+name: '[H]ardOCP'
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3389125"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hardocp.yaml
+tags:
+- Tweak Your Own PC
+- Reviews
+- Performance Tuning
+apis: []
+x-common:
+- type: x-forum
+  url: https://hardforum.com/
+- type: x-forum
+  url: https://hardforum.com/members/
+- type: x-website
+  url: https://www.hardocp.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

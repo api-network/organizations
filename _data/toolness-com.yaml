@@ -1,0 +1,23 @@
+---
+name: toolness.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/toolness-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.toolness.com/wp/2013/01/building-bridges-between-guis-and-code-with-markup-apis/
+- type: x-website
+  url: http://toolness.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

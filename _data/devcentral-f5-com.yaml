@@ -1,0 +1,23 @@
+---
+name: devcentral.f5.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: ""
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/devcentral-f5-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: https://devcentral.f5.com/articles/what-ops-needs-to-know-about-apis-and-compression-21477
+- type: x-website
+  url: http://devcentral.f5.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

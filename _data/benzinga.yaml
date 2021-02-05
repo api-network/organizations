@@ -1,0 +1,41 @@
+---
+name: Benzinga
+description: Stock Market Quotes, Business News, Financial News, Trading Ideas, and
+  Stock Research by Professionals.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/21536-cloud-benzinga-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "30411"
+url: https://raw.githubusercontent.com/api-network/organizations/main/benzinga.yaml
+tags:
+- Financial
+apis: []
+x-common:
+- type: x-website
+  url: http://www.benzinga.com/
+- type: x-website
+  url: http://cloud.benzinga.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/benzinga
+- type: x-email
+  url: licensing@benzinga.com
+- type: x-email
+  url: ads@benzinga.com
+- type: x-email
+  url: newsdesk@benzinga.com
+- type: x-email
+  url: info@benzinga.com
+- type: x-email
+  url: support@benzinga.com
+- type: x-email
+  url: vipaccounts@benzinga.com
+- type: x-twitter
+  url: https://twitter.com/Benzinga
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

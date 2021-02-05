@@ -1,0 +1,36 @@
+---
+name: Hong Kong University of Science and Technology
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "16365"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hong-kong-university-of-science-and-technology.yaml
+tags:
+- Hong Kong
+apis: []
+x-common:
+- type: x-about
+  url: https://www.ust.hk/about-hkust
+- type: x-careers
+  url: https://hkustcareers.ust.hk/
+- type: x-facebook
+  url: https://www.facebook.com/hkust/
+- type: x-instagram
+  url: https://www.instagram.com/hkust/
+- type: x-news
+  url: https://www.ust.hk/news
+- type: x-news
+  url: https://pgnews.ust.hk/feb-2017-feature-stories-part-2
+- type: x-privacy
+  url: https://www.ust.hk/privacy-policy
+- type: x-website
+  url: https://www.cse.ust.hk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

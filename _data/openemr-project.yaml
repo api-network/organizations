@@ -1,0 +1,47 @@
+---
+name: OpenEMR Project
+description: The world's leading open-source electronic medical record and practice
+  management software.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "184205"
+url: https://raw.githubusercontent.com/api-network/organizations/main/openemr-project.yaml
+tags:
+- Health Care
+apis: []
+x-common:
+- type: x-open-source
+  url: https://www.open-emr.org/
+- type: x-open-source
+  url: https://www.open-emr.org/demo
+- type: x-open-source
+  url: https://www.open-emr.org/blog
+- type: x-open-source
+  url: https://www.open-emr.org/wiki
+- type: x-open-source
+  url: https://community.open-emr.org/
+- type: x-open-source
+  url: https://www.open-emr.org/chat
+- type: x-open-source
+  url: https://www.open-emr.org/donate
+- type: x-open-source
+  url: https://github.com/openemr
+- type: x-open-source
+  url: https://www.open-emr.org/support
+- type: x-open-source
+  url: https://community.open-emr.org
+- type: x-open-source
+  url: http://github.com/openemr/openemr/issues
+- type: x-open-source
+  url: http://github.com/openemr/openemr
+- type: x-website
+  url: https://open-emr.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,32 @@
+---
+name: ZeusTemplates.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zeustemplates-com.yaml
+tags:
+- Membership
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.zeustemplates.com/contact-us/
+- type: x-news
+  url: https://www.zeustemplates.com/news/
+- type: x-press
+  url: http://www.zeustemplates.com/expression-web-templates/
+- type: x-press
+  url: https://www.zeustemplates.com/category/expression-web/
+- type: x-security
+  url: https://www.zeustemplates.com/tag/security/
+- type: x-website
+  url: https://www.zeustemplates.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

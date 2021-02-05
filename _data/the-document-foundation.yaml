@@ -1,0 +1,36 @@
+---
+name: The Document Foundation
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "67904"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-document-foundation.yaml
+tags:
+- LibreOffice
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.documentfoundation.org
+- type: x-facebook
+  url: https://www.facebook.com/libreoffice.org
+- type: x-privacy
+  url: https://www.libreoffice.org/privacy
+- type: x-twitter
+  url: https://twitter.com/tdforg
+- type: x-twitter
+  url: https://twitter.com/libreoffice
+- type: x-twitter
+  url: https://twitter.com/AskLibreOffice
+- type: x-twitter
+  url: https://twitter.com/LibreOfficeBugs
+- type: x-website
+  url: https://www.documentfoundation.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

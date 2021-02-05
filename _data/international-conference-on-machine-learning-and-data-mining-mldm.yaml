@@ -1,0 +1,22 @@
+---
+name: International Conference on Machine Learning and Data Mining (MLDM)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6275232"
+url: https://raw.githubusercontent.com/api-network/organizations/main/international-conference-on-machine-learning-and-data-mining-mldm.yaml
+tags:
+- Events
+apis: []
+x-common:
+- type: x-website
+  url: https://www.mldm.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

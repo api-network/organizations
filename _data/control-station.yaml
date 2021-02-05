@@ -1,0 +1,54 @@
+---
+name: Control Station
+description: Control Station is the premium Process Control Solutions Provider of
+  CLPM and tuning solutions. Do you need a solution for monitoring or tuning your
+  plant?
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1365370"
+url: https://raw.githubusercontent.com/api-network/organizations/main/control-station.yaml
+tags:
+- Process
+apis: []
+x-common:
+- type: x-website
+  url: http://www.controlstation.com
+- type: x-about
+  url: https://controlstation.com/about-control-station/
+- type: x-blog
+  url: https://controlstation.com/category/blog/
+- type: x-blog
+  url: http://controlstation.com/category/blog/
+- type: x-careers
+  url: https://controlstation.com/company/careers/
+- type: x-contact
+  url: https://controlstation.com/contact/
+- type: x-customers
+  url: https://controlstation.com/company/customers/
+- type: x-events
+  url: https://controlstation.com/events/category/training/
+- type: x-facebook
+  url: https://www.facebook.com/controlstationinc/
+- type: x-feed
+  url: http://www.plantservices.com/blogs/the-feedback-loop/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/control-station-inc-
+- type: x-news
+  url: https://controlstation.com/category/company-news/
+- type: x-news
+  url: http://controlstation.com/category/company-news/
+- type: x-twitter
+  url: https://twitter.com/control_station
+- type: x-website
+  url: https://www.controlstation.com
+- type: x-white-papers
+  url: https://controlstation.com/category/white-papers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

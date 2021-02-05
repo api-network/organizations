@@ -1,0 +1,80 @@
+---
+name: Merck
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "69344"
+url: https://raw.githubusercontent.com/api-network/organizations/main/merck.yaml
+tags:
+- No API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.merck.com/privacy
+- type: x-careers
+  url: https://jobs.merck.com
+- type: x-careers
+  url: https://jobs.merck.com/us/en/search-results
+- type: x-careers
+  url: https://jobs.merck.com/us/en/research-laboratories
+- type: x-careers
+  url: https://jobs.merck.com/us/en/manufacturing
+- type: x-careers
+  url: https://jobs.merck.com/us/en/human-health
+- type: x-careers
+  url: https://jobs.merck.com/us/en/animal-health
+- type: x-careers
+  url: https://jobs.merck.com/us/en/global-support-functions
+- type: x-careers
+  url: https://jobs.merck.com/us/en/hiring-process
+- type: x-careers
+  url: https://jobs.msd.com/gb/en/home
+- type: x-careers
+  url: https://jobs.merck.com/us/en/events
+- type: x-facebook
+  url: https://www.facebook.com/MerckInvents/
+- type: x-instagram
+  url: https://www.instagram.com/merck/
+- type: x-investor
+  url: https://investors.merck.com/home/default.aspx
+- type: x-investor
+  url: https://investors.merck.com/governance/default.aspx
+- type: x-linkedin
+  url: https://www.linkedin.com/company/merck
+- type: x-news
+  url: http://www.mrknewsroom.com
+- type: x-news
+  url: http://www.mrknewsroom.com/news-releases/all/all/all
+- type: x-news
+  url: http://www.mrknewsroom.com/#
+- type: x-news
+  url: http://www.mrknewsroom.com/diabetes-infocenter
+- type: x-news
+  url: http://www.mrknewsroom.com/ebola-infocenter
+- type: x-news
+  url: http://www.mrknewsroom.com/oncology-infocenter
+- type: x-news
+  url: http://www.mrknewsroom.com/#MediaCenter
+- type: x-news
+  url: http://www.mrknewsroom.com/#CompanySnapshot
+- type: x-news
+  url: http://www.mrknewsroom.com/#SocialMedia
+- type: x-news
+  url: https://www.mrknewsroom.com
+- type: x-privacy
+  url: https://www.msdprivacy.com/us/en/index.html
+- type: x-support
+  url: https://www.merckhelps.com
+- type: x-twitter
+  url: https://twitter.com/merck
+- type: x-website
+  url: http://www.merck.com/index.html
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

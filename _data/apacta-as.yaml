@@ -1,0 +1,27 @@
+---
+name: Apacta A/S
+description: "Snyd ikke dig selv \u2013 registr\xE9r din tid! Apacta er danmarks nemmeste
+  registrering af tid og materialer til bl.a. h\xE5ndv\xE6rkere. Nemt, simpelt og
+  h\xE5ndv\xE6rker-venligt. Forbedre din oms\xE6tning og likviditet bl.a. ved timeregistrering."
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28367-apacta.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "4"
+x-alexaRank: "2128473"
+url: https://raw.githubusercontent.com/api-network/organizations/main/apacta-as.yaml
+tags:
+- Have Swagger
+- Have API Paths
+apis: []
+x-common:
+- type: x-email
+  url: kontakt@apacta.com
+- type: x-website
+  url: http://apacta.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

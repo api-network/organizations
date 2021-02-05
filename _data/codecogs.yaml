@@ -1,0 +1,63 @@
+---
+name: CodeCogs
+description: Interactive Open Source Numerical Library of C/C++ functions for Engineering,
+  Finance, Maths, Science and Statistics. With Online Calculators for Numerical Components
+  and Excel Add-ins.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "66576"
+url: https://raw.githubusercontent.com/api-network/organizations/main/codecogs.yaml
+tags:
+- Worked Examples
+- Scientific
+- References
+- Physics
+- Numerical Library
+- Instant Calculators
+- Free Open Source
+- Financial
+- Excel
+- Engineering
+- Documentation System
+- Class Libraries
+- C++
+- C#
+- C
+- .NET
+apis: []
+x-common:
+- type: x-code
+  url: http://www.codecogs.com/index.php
+- type: x-code
+  url: http://www.codecogs.com/library.php
+- type: x-code
+  url: http://www.codecogs.com/products.php
+- type: x-code
+  url: https://www.codecogs.com/cart.php
+- type: x-code
+  url: https://www.codecogs.com/pages/email/sendmail.php?cc=1
+- type: x-code
+  url: https://www.codecogs.com/general.php?subindex=2
+- type: x-code
+  url: https://www.codecogs.com/general.php?subindex=1
+- type: x-code
+  url: https://fxrender.codecogs.com
+- type: x-code
+  url: https://latex.codecogs.com
+- type: x-code
+  url: http://www.linkedin.com/company/codecogs
+- type: x-facebook
+  url: http://www.facebook.com/CodeCogs
+- type: x-forum
+  url: http://www.codecogs.com/forum.php
+- type: x-website
+  url: https://www.codecogs.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

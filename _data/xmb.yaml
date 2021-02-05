@@ -1,0 +1,31 @@
+---
+name: XMB
+description: Forum Software Scripts from XMB2 using PHP and MySQL, translations, themes,
+  modifications, and general support.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3155024"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xmb.yaml
+tags:
+- Forums
+apis: []
+x-common:
+- type: x-forum
+  url: https://docs.xmbforum2.com/
+- type: x-forum
+  url: https://sourceforge.net/p/xmb-forum/code/HEAD/tree/
+- type: x-forum
+  url: https://bugs.xmbforum2.com/
+- type: x-forum
+  url: https://forums.xmbforum2.com/
+- type: x-website
+  url: https://www.xmbforum2.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

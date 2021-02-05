@@ -1,0 +1,35 @@
+---
+name: Music Teacher's Office
+description: Orchestrating the business of music lessons
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/music-teachers-office.yaml
+tags:
+- Teachers
+- Students
+- Registrations
+- Parents
+- Music Studio
+- Music School
+- Music
+- Lessons
+- Invoices
+- Educational
+apis: []
+x-common:
+- type: x-login
+  url: https://musicteachersoffice.com/login
+- type: x-self-service-registration
+  url: https://musicteachersoffice.com/register
+- type: x-website
+  url: https://www.musicteachersoffice.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

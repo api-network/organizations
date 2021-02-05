@@ -1,0 +1,29 @@
+---
+name: XTRABYTES
+description: XTRABYTES (XBY) is a modular blockchain platform designed to provide
+  significant increases in security, scalability and decentralization opportunities
+  over current blockchain technologies.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26749-www-xtrabytes-global.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "324185"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xtrabytes.yaml
+tags:
+- Networks
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: https://xtrabytes.global
+- type: x-twitter
+  url: https://twitter.com/XTRABYTES
+- type: x-website
+  url: https://www.xtrabytes.global
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

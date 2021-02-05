@@ -1,0 +1,68 @@
+---
+name: BitTitan
+description: <p>BitTitan is the IT change automation expert, delivering end-to-end
+  solutions for migration and onboarding challenges. Our world renowned flagship product,
+  MigrationWiz, is the leading cloud-based data migration service, enabling companies
+  around the globe to easily migrate mailboxes and data to other systems and platforms.
+  We remove the barriers to change, enabling companies of all sizes to consistently
+  be current with their technology and have a choice, while eliminating the chaos,
+  risk and costs associated with change. We strive for innovative solutions to complex
+  problems.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/BitTitan_100.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "65506"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bittitan.yaml
+tags:
+- Have API
+- API Crap
+apis: []
+x-common:
+- type: x-website
+  url: http://www.BitTitan.com
+- type: x-blog
+  url: https://blog.bittitan.com/
+- type: x-blog
+  url: http://blog.bittitan.com/
+- type: x-blog-rss
+  url: http://blog.bittitan.com/feed/
+- type: x-careers
+  url: http://www.bittitan.com/our-story/careers/
+- type: x-contact
+  url: http://www.bittitan.com/contact/
+- type: x-facebook
+  url: http://facebook.com/bittitan
+- type: x-linkedin
+  url: http://linkedin.com/company/bittitan
+- type: x-login
+  url: https://www.bittitan.com/account/login
+- type: x-news
+  url: http://www.bittitan.com/newsroom/news-articles/
+- type: x-news
+  url: http://www.bittitan.com/newsroom/
+- type: x-pricing
+  url: http://www.bittitan.com/pricing/
+- type: x-security
+  url: http://www.bittitan.com/security/
+- type: x-support
+  url: http://www.bittitan.com/support/
+- type: x-support
+  url: https://help.bittitan.com
+- type: x-terms-of-service
+  url: https://www.bittitan.com/legal/cookie-policy/
+- type: x-terms-of-service
+  url: http://www.bittitan.com/legal/
+- type: x-twitter
+  url: http://twitter.com/bittitan
+- type: x-twitter
+  url: https://twitter.com/bittitan
+- type: x-website
+  url: https://www.bittitan.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,31 @@
+---
+name: Windows Server Training
+description: Free Windows Server Training shows video training for windows 2008 servers
+  and clients. From installation to configuration with clear video and article how-to's.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/windows-server-training.yaml
+tags:
+- Windows Server 2003
+apis: []
+x-common:
+- type: x-login
+  url: https://windows-server-training.com/wp-login.php
+- type: x-press
+  url: https://my.studiopress.com/themes/genesis/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-twitter
+  url: http://twitter.com/#!/Dave_lawlor
+- type: x-website
+  url: https://windows-server-training.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

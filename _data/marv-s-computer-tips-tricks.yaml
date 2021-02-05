@@ -1,0 +1,37 @@
+---
+name: Marv s Computer Tips & Tricks
+description: Welcome to Marvs Windows Tips & Tricks web site.  Tips & Tricks for Windows,
+  Windows Operating Systems, Internet Explorer, etc.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4896995"
+url: https://raw.githubusercontent.com/api-network/organizations/main/marv-s-computer-tips-tricks.yaml
+tags:
+- Windows XP
+- Windows Tweaks
+- Windows Computers
+- Windows 7
+- Windows 10
+- Registry Edits
+- Pc Computers
+- Outlook
+- Laptop Computer
+- Internet Explorer
+- HOSTS Files
+- Desktop Computer
+- Computer Help
+- Clean Up My Computer
+- Blocking Parasites
+apis: []
+x-common:
+- type: x-website
+  url: https://www.marvswindowstips.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

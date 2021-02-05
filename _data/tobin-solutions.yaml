@@ -1,0 +1,68 @@
+---
+name: Tobin Solutions
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tobin-solutions.yaml
+tags:
+- Wisconsin
+apis: []
+x-common:
+- type: x-website
+  url: http://www.tobinsolutions.com
+- type: x-blog
+  url: https://tobinsolutions.com/category/blog/
+- type: x-careers
+  url: https://tobinsolutions.com/careers/
+- type: x-contact
+  url: https://tobinsolutions.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/TobinSolutions
+- type: x-feed
+  url: https://www.tobinsolutions.com/feed
+- type: x-instagram
+  url: https://www.instagram.com/tobinsolutions/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/tobin-solutions-inc
+- type: x-news
+  url: https://tobinsolutions.com/newsletter/
+- type: x-security
+  url: https://tobinsolutions.com/it-security/
+- type: x-security
+  url: https://tobinsolutions.com/security/
+- type: x-support
+  url: https://tobinsolutions.com/it-helpdesk/
+- type: x-support
+  url: https://tobinsolutions.com/network-support/
+- type: x-support
+  url: https://tobinsolutions.com/remote-it-support/
+- type: x-support
+  url: https://tobinsolutions.com/technology-we-support/
+- type: x-support
+  url: https://connect.tobinsolutions.com/support
+- type: x-support
+  url: https://tobinsolutions.com/services/it-help-desk/
+- type: x-support
+  url: https://tobinsolutions.com/services/network-support/
+- type: x-support
+  url: http://tobinsolutions.com/it-helpdesk/
+- type: x-support
+  url: http://tobinsolutions.com/network-support/
+- type: x-support
+  url: http://tobinsolutions.com/remote-it-support/
+- type: x-twitter
+  url: https://twitter.com/TobinSolutions
+- type: x-webinars
+  url: https://tobinsolutions.com/team-tobins-webinar/
+- type: x-website
+  url: https://tobinsolutions.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

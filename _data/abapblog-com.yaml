@@ -1,0 +1,36 @@
+---
+name: ABAPBlog.com
+description: "ABAP Blog - Tips & Tricks for ABAP language. A blog founded by \u0141ukasz
+  P\u0119giel in 2013 to provide code samples and ways of using ABAP hidden functions."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1537345"
+url: https://raw.githubusercontent.com/api-network/organizations/main/abapblog-com.yaml
+tags:
+- Programming
+- ABAP SAP
+apis: []
+x-common:
+- type: x-blog
+  url: https://abapblog.com/
+- type: x-blog
+  url: http://abapblog.com/eclipse/plugin/ABAPFavorites/
+- type: x-feed
+  url: http://abapblog.com/?format=feed&type=rss
+- type: x-github
+  url: https://github.com/fidley/Customers
+- type: x-support
+  url: https://launchpad.support.sap.com/#/notes/2526405
+- type: x-support
+  url: https://launchpad.support.sap.com/#/notes/2629179
+- type: x-website
+  url: https://abapblog.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,35 @@
+---
+name: Fine Point Technologies, Inc.
+description: MountainView device-agnostic TR-069 ACS and ServPoET BMS 1000. Fine Point
+  develops software tools that connect network operators to their customers.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6536115"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fine-point-technologies-inc-.yaml
+tags:
+- Customer Provisioning
+apis: []
+x-common:
+- type: x-about
+  url: https://finepoint.com/about/
+- type: x-contact
+  url: https://finepoint.com/contact/
+- type: x-partner
+  url: https://finepoint.com/partners/
+- type: x-press
+  url: https://finepoint.com/press-releases/
+- type: x-privacy
+  url: https://finepoint.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://finepoint.com/legal-notice/
+- type: x-website
+  url: https://www.finepoint.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

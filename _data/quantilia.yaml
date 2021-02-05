@@ -1,0 +1,46 @@
+---
+name: Quantilia
+description: Access comprehensive quantitative indice data from leading global providers.
+  Make informed investment decisions thanks to analytics for portfolio managers
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28209-www-quantilia-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1763592"
+url: https://raw.githubusercontent.com/api-network/organizations/main/quantilia.yaml
+tags:
+- No API
+- API Not Found
+apis: []
+x-common:
+- type: x-website
+  url: http://www.quantilia.com
+- type: x-about
+  url: http://www.aboutcookies.org/
+- type: x-blog
+  url: https://www.quantilia.com/blog
+- type: x-blog
+  url: https://www.quantilia.com/blog/
+- type: x-case-studies
+  url: https://www.quantilia.com/solutions-use-cases/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/quantilia-
+- type: x-login
+  url: https://app.quantilia.com/#!/users/signin
+- type: x-platform
+  url: https://www.quantilia.com/white-branded-platforms/
+- type: x-signup
+  url: https://app.quantilia.com/#!/users/signup
+- type: x-terms-of-service
+  url: https://www.quantilia.com/terms-and-conditions/
+- type: x-twitter
+  url: https://twitter.com/quantilia_web
+- type: x-website
+  url: https://www.quantilia.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

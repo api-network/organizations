@@ -1,0 +1,84 @@
+---
+name: Cobot
+description: Cobot is the leading management software for coworking spaces, office
+  hubs, and flexible workspaces around the world.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/cobot.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "67332"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cobot.yaml
+tags:
+- Schedules
+- Projects
+- Office
+- Have API
+- CRM
+- Coworking
+- API Provider
+- Accounting
+apis: []
+x-common:
+- type: x-website
+  url: http://cobot.me
+- type: x-about
+  url: https://www.cobot.me/about
+- type: x-base
+  url: https://:*.cobot.me/api/
+- type: x-blog
+  url: http://blog.cobot.me/
+- type: x-blog
+  url: https://blog.cobot.me/
+- type: x-blog-rss
+  url: http://blog.cobot.me/rss
+- type: x-careers
+  url: https://www.cobot.me/jobs
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/cobot
+- type: x-developers
+  url: https://www.cobot.me/pages/api/
+- type: x-documentation
+  url: https://www.cobot.me/api-docs
+- type: x-email
+  url: info@cobot.me
+- type: x-email
+  url: support@cobot.me
+- type: x-facebook
+  url: https://www.facebook.com/cobot.me
+- type: x-github
+  url: https://github.com/cobot
+- type: x-instagram
+  url: https://www.instagram.com/cobot_me/
+- type: x-integrations
+  url: https://www.cobot.me/integrations
+- type: x-news
+  url: https://www.cobot.me/newsletter
+- type: x-press
+  url: https://www.cobot.me/press
+- type: x-pricing
+  url: https://www.cobot.me/pricing
+- type: x-pricing
+  url: https://www.cobot.me/pricing#discount-policy
+- type: x-privacy
+  url: https://www.cobot.me/privacy-policy
+- type: x-status
+  url: https://status.cobot.me
+- type: x-support
+  url: https://www.cobot.me/support#guides
+- type: x-support
+  url: https://www.cobot.me/support
+- type: x-support
+  url: https://www.cobot.me/support#faq
+- type: x-terms-of-service
+  url: https://www.cobot.me/terms
+- type: x-twitter
+  url: https://twitter.com/cobot_me
+- type: x-website
+  url: https://www.cobot.me
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

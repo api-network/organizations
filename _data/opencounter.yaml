@@ -1,0 +1,41 @@
+---
+name: OpenCounter
+description: OpenCounter helps entrepreneurs to get their businesses up and running
+  more quickly and easily by providing an online interface to the permitting process
+  at City Hall.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29308-opencounter-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2861699"
+url: https://raw.githubusercontent.com/api-network/organizations/main/opencounter.yaml
+tags:
+- Has API
+- City Government
+apis: []
+x-common:
+- type: x-code
+  url: https://www.codeforamerica.org
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/opencounter
+- type: x-email
+  url: hello@opencounter.com
+- type: x-email
+  url: privacy@opencounter.com
+- type: x-email
+  url: support@opencounter.com
+- type: x-open-source
+  url: http://blog.opencounter.com
+- type: x-open-source
+  url: http://help.opencounter.com
+- type: x-twitter
+  url: https://twitter.com/OpenCounter
+- type: x-website
+  url: http://opencounter.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

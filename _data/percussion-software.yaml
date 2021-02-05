@@ -1,0 +1,33 @@
+---
+name: Percussion Software
+description: Percussion CMS makes it easy to create and manage content-rich, SEO friendly
+  websites.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1032039"
+url: https://raw.githubusercontent.com/api-network/organizations/main/percussion-software.yaml
+tags:
+- Content Management
+apis: []
+x-common:
+- type: x-about
+  url: https://plus.google.com/+PercussionSoft/about
+- type: x-facebook
+  url: https://www.facebook.com/percussionsoftware
+- type: x-linkedin
+  url: https://www.linkedin.com/company/percussion-software
+- type: x-support
+  url: https://support.percussion.com
+- type: x-twitter
+  url: https://twitter.com/percussion
+- type: x-website
+  url: https://www.percussion.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

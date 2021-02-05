@@ -1,0 +1,36 @@
+---
+name: Ubuntu GNOME
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1807074"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ubuntu-gnome.yaml
+tags:
+- Derivatives
+apis: []
+x-common:
+- type: x-blog
+  url: https://ubuntugnome.org/blog/
+- type: x-contact
+  url: https://ubuntugnome.org/contact-us/
+- type: x-documentation
+  url: https://ubuntugnome.org/documentation/
+- type: x-documentation
+  url: https://ubuntugnome.org/documentation/faq/
+- type: x-documentation
+  url: https://ubuntugnome.org/documentation/wiki/
+- type: x-press
+  url: http://wordpress.org/
+- type: x-terms-of-service
+  url: http://www.gnome.org/foundation/legal-and-trademarks/
+- type: x-website
+  url: https://ubuntugnome.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

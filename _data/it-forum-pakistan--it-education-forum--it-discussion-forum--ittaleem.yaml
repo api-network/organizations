@@ -1,0 +1,66 @@
+---
+name: IT Forum Pakistan  IT Education Forum  IT Discussion Forum  ITTaleem
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "834200"
+url: https://raw.githubusercontent.com/api-network/organizations/main/it-forum-pakistan--it-education-forum--it-discussion-forum--ittaleem.yaml
+tags:
+- Chats And Forums
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.ittaleem.com/blogs/
+- type: x-blog
+  url: https://www.ittaleem.com/blogs/all/
+- type: x-blog
+  url: https://www.ittaleem.com/blogs/recent-entries/
+- type: x-blog
+  url: https://www.ittaleem.com/blogs/latest-entries/
+- type: x-blog
+  url: https://www.ittaleem.com/blogs/silly-angel/
+- type: x-careers
+  url: https://www.ittaleem.com/jobs-corner/
+- type: x-events
+  url: https://www.ittaleem.com/sports-events/
+- type: x-forum
+  url: https://www.ittaleem.com/forum.php
+- type: x-forum
+  url: https://www.ittaleem.com/forum.php#main-category
+- type: x-forum
+  url: https://www.ittaleem.com/forum.php#mera-deen-islam
+- type: x-forum
+  url: https://www.ittaleem.com/open-forum/
+- type: x-forum
+  url: https://www.ittaleem.com/open-forum/260561-a.html
+- type: x-forum
+  url: https://www.ittaleem.com/forum.php#cafe
+- type: x-forum
+  url: https://www.ittaleem.com/forum.php#students-corner
+- type: x-forum
+  url: https://www.ittaleem.com/forum.php#urdu-poetry
+- type: x-forum
+  url: https://www.ittaleem.com/forum.php#general-forum
+- type: x-login
+  url: https://www.ittaleem.com/webdesigning/
+- type: x-news
+  url: https://www.ittaleem.com/latest-news/
+- type: x-news
+  url: https://www.ittaleem.com/students-news/
+- type: x-news
+  url: https://www.ittaleem.com/biz-news/
+- type: x-self-service-registration
+  url: https://www.ittaleem.com/register.php
+- type: x-tutorials
+  url: https://www.ittaleem.com/urdu-tutorials/
+- type: x-website
+  url: https://www.ittaleem.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,34 @@
+---
+name: Planet-99.net
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/planet99-net.yaml
+tags:
+- TI-99 4A
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.plesk.com/blog
+- type: x-developer
+  url: http://developer.planet-99.net
+- type: x-facebook
+  url: https://www.facebook.com/Plesk
+- type: x-linkedin
+  url: https://www.linkedin.com/company/plesk
+- type: x-support
+  url: https://support.plesk.com
+- type: x-twitter
+  url: https://twitter.com/Plesk
+- type: x-website
+  url: https://www.planet-99.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,28 @@
+---
+name: GLFW
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "458294"
+url: https://raw.githubusercontent.com/api-network/organizations/main/glfw.yaml
+tags:
+- Add-on Libraries
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/glfw/glfw
+- type: x-github
+  url: https://github.com/glfw
+- type: x-open-source
+  url: https://www.opengl.org/wiki/Related_toolkits_and_APIs
+- type: x-website
+  url: https://www.glfw.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,25 @@
+---
+name: Fincoin
+description: FinCoin is a new cryptocurrency, technically more sophisticated than
+  Bitcoin. The advantage of FinCoin is its high investment attractiveness.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27238-fincoin-co.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "3742871"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fincoin.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/FinCoinCash
+- type: x-website
+  url: http://fincoin.co
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

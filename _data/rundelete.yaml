@@ -1,0 +1,43 @@
+---
+name: R-Undelete
+description: R-Undelete is a powerful file undelete and file recovery software to
+  find and restore lost files on a disk, USB, memory stick, SD card. Free version
+  for Home users.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "456200"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rundelete.yaml
+tags:
+- Restore Data
+- Free Undelete
+- File Undelete
+- File Recovery
+- Error Checking And Repair
+- Easy Recovery
+- Disk Image
+- Data Recovery Software
+apis: []
+x-common:
+- type: x-website
+  url: http://www.r-tt.com
+- type: x-forum
+  url: https://forum.r-tt.com/
+- type: x-login
+  url: https://secure.r-tt.com/distributor/login/
+- type: x-press
+  url: https://rtoolstechnology.wordpress.com/
+- type: x-security
+  url: https://www.r-tt.com/data_security_software/
+- type: x-twitter
+  url: https://twitter.com/RTT_Inc
+- type: x-website
+  url: https://www.r-undelete.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

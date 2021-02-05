@@ -1,0 +1,41 @@
+---
+name: IToris Inc.
+description: At ITORIS we provide a Joomla and Magento marketplace for extensions,
+  templates and other applications, and offer full-service customization options for
+  our customers.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "347562"
+url: https://raw.githubusercontent.com/api-network/organizations/main/itoris-inc-.yaml
+tags:
+- Magento Modules
+- Magento Marketplace
+- Magento Extensions
+- Consultants
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.itoris.com/blog/
+- type: x-blog
+  url: https://www.itoris.com/blog/videos/
+- type: x-contact
+  url: https://www.itoris.com/contact-us.html
+- type: x-partner
+  url: https://www.itoris.com/partner-program.html
+- type: x-privacy
+  url: https://www.itoris.com/privacy-policy.html
+- type: x-self-service-registration
+  url: https://www.itoris.com/register.html
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-website
+  url: https://www.itoris.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

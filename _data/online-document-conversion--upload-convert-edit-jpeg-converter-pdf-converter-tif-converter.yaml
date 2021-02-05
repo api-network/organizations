@@ -1,0 +1,29 @@
+---
+name: Online Document Conversion - Upload, Convert Edit Jpeg converter, PDF Converter,
+  Tif converter
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7677007"
+url: https://raw.githubusercontent.com/api-network/organizations/main/online-document-conversion--upload-convert-edit-jpeg-converter-pdf-converter-tif-converter.yaml
+tags:
+- Conversion
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/onlinedocumentconversion
+- type: x-instagram
+  url: https://instagram.com/onlinedocumentconversion/
+- type: x-twitter
+  url: https://twitter.com/OCRConversion
+- type: x-website
+  url: https://www.onlinedocumentconversion.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

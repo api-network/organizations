@@ -1,0 +1,54 @@
+---
+name: CoveritLive
+description: 'CoveritLive: Live Blogging 2.0 - CoveritLive.com is a web based Live
+  Blogging tool that allows you to broadcast live commentary to your readers. Instead
+  of waiting for tomorrow to read what you have to say, they hear from you live...right
+  now! If your ...'
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1257-coveritlive.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5125204"
+url: https://raw.githubusercontent.com/api-network/organizations/main/coveritlive.yaml
+tags:
+- News
+- Live Blogging
+- Have API
+- Entertainment
+- Blogging
+- API Provider
+apis: []
+x-common:
+- type: x-base
+  url: https://api.coveritlive.com/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/coveritlive
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/coveritlive
+- type: x-developers
+  url: http://www.coveritlive.com/resources/api
+- type: x-email
+  url: support@coveritlive.com
+- type: x-facebook
+  url: https://www.facebook.com/ScribbleLive
+- type: x-linkedin
+  url: https://www.linkedin.com/company/scribblelive
+- type: x-pricing
+  url: https://wwwssl.coveritlive.com/pricing
+- type: x-terms-of-service
+  url: https://www.scribblelive.com/legal/
+- type: x-twitter
+  url: https://twitter.com/coveritlive
+- type: x-twitter
+  url: https://twitter.com/scribblelive
+- type: x-website
+  url: http://www.coveritlive.com
+- type: x-youtube
+  url: https://www.youtube.com/user/scribblelive
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

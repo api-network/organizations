@@ -1,0 +1,41 @@
+---
+name: Creating Killer Web Sites
+description: Web Design and Developer training and tutorials.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "158835"
+url: https://raw.githubusercontent.com/api-network/organizations/main/creating-killer-web-sites.yaml
+tags:
+- Web Design
+- PHP
+- JavaScript
+- HTML5
+- Development
+- CSS3
+apis: []
+x-common:
+- type: x-website
+  url: https://www.studioweb.com
+- type: x-about
+  url: https://www.killersites.com/about/
+- type: x-blog
+  url: https://www.killersites.com/blog/
+- type: x-blog
+  url: https://www.killersites.com/blog/2020/you-can-do-this/
+- type: x-contact
+  url: https://www.killersites.com/contact/
+- type: x-twitter
+  url: https://twitter.com/killersites
+- type: x-website
+  url: https://www.killersites.com
+- type: x-youtube
+  url: https://www.youtube.com/user/killerphp
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

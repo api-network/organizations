@@ -1,0 +1,64 @@
+---
+name: Candid
+description: "For a combined 88 years, Foundation Center and GuideStar each helped
+  change the world by giving people the information they needed to do good. But the
+  world faces growing challenges: polarization, climate change, technological revolution,
+  and poverty and inequality. That\u2019s why we combined our talent, technology,
+  data, and leadership to become a new organization, Candid. Now, it\u2019s easier
+  than ever to get the information you need to create change."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "160267"
+url: https://raw.githubusercontent.com/api-network/organizations/main/candid.yaml
+tags:
+- Technological Revolution
+- Social Good
+- Profile
+- Poverty
+- Inequality
+- Has API
+- Grants
+- Donations
+- Climate Change
+- Charitable
+apis: []
+x-common:
+- type: x-website
+  url: http://candid.org
+- type: x-about
+  url: https://candid.org/about
+- type: x-blog
+  url: https://blog.candid.org
+- type: x-contact
+  url: https://candid.org/contact-us
+- type: x-developers
+  url: https://candid.org/use-our-data/foundation-center-apis
+- type: x-facebook
+  url: https://www.facebook.com/CandidDotOrg
+- type: x-instagram
+  url: https://www.instagram.com/CandidDotOrg/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/candiddotorg/
+- type: x-news
+  url: https://philanthropynewsdigest.org
+- type: x-news
+  url: https://philanthropynewsdigest.org/rfps
+- type: x-news
+  url: https://philanthropynewsdigest.org/
+- type: x-news
+  url: http://philanthropynewsdigest.org/
+- type: x-twitter
+  url: https://www.twitter.com/CandidDotOrg
+- type: x-website
+  url: https://candid.org
+- type: x-youtube
+  url: https://www.youtube.com/c/CandidDotOrg
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,31 @@
+---
+name: TOSBack
+description: "<p><span>TOSBack is a collaboration between the&nbsp;</span><a href=\"https://www.eff.org/\">EFF</a><span>,
+  the&nbsp;</span><a href=\"http://www.internetsociety.org/\">Internet Society</a><span>,
+  and&nbsp;</span><a href=\"http://tosdr.org/\">ToS;DR</a><span>. Every day, we check
+  the Terms and Policies of many online services to see if any of them have changed.
+  The project is currently in beta as we are working on some improvements to ensure
+  greater reliability and coverage. For now, please double check any results with\tthe
+  website operator before relying on them for important legal or journalistic purposes.</span></p>"
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/tosback-logo-2.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3917915"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tosback.yaml
+tags:
+- Terms Of Service
+- Has API
+apis: []
+x-common:
+- type: x-press
+  url: http://tosdr.org#wordpress-com
+- type: x-website
+  url: https://tosback.org/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,52 @@
+---
+name: Squirrelcart
+description: PHP shopping cart software that is easy to use, affordable and customizable
+  - Squirrelcart. Sell online with our e-commerce solution for your store or entire
+  site.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3647634"
+url: https://raw.githubusercontent.com/api-network/organizations/main/squirrelcart.yaml
+tags:
+- Shopping Carts
+- Shopping Cart Software
+- Shopping Cart
+- Php Shopping Cart
+- ECommerce
+apis: []
+x-common:
+- type: x-website
+  url: http://www.squirrelcart.com
+- type: x-contact
+  url: https://www.squirrelcart.com/index.php/contact/
+- type: x-forum
+  url: http://www.squirrelcart.com/shopping-cart-forums
+- type: x-news
+  url: https://www.squirrelcart.com/index.php/news
+- type: x-pricing
+  url: https://www.squirrelcart.com/index.php/pricing
+- type: x-privacy
+  url: https://www.squirrelcart.com/index.php/privacy-policy
+- type: x-support
+  url: https://www.squirrelcart.com/index.php/support
+- type: x-support
+  url: https://www.squirrelcart.com/help
+- type: x-support
+  url: https://helpdesk.squirrelcart.com
+- type: x-support
+  url: https://www.squirrelcart.com/help/?Endicia.html
+- type: x-support
+  url: https://www.squirrelcart.com/help/?Fastway.html
+- type: x-twitter
+  url: https://twitter.com/Squirrelcart
+- type: x-website
+  url: https://squirrelcart.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

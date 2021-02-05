@@ -1,0 +1,44 @@
+---
+name: 4shared
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1095"
+url: https://raw.githubusercontent.com/api-network/organizations/main/4shared.yaml
+tags:
+- Free
+apis: []
+x-common:
+- type: x-website
+  url: http://www.4shared.com
+- type: x-about
+  url: https://www.4shared.com/aboutus.jsp
+- type: x-blog
+  url: http://blog.4shared.com/
+- type: x-contact
+  url: https://www.4shared.com/contact.jsp
+- type: x-facebook
+  url: https://www.facebook.com/official.4shared
+- type: x-press
+  url: https://www.4shared.com/press_room/
+- type: x-privacy
+  url: https://www.4shared.com/privacy.jsp
+- type: x-security
+  url: https://www.4shared.com/security.jsp
+- type: x-support
+  url: https://www.4shared.com/web/helpCenter
+- type: x-terms-of-service
+  url: https://www.4shared.com/terms.jsp
+- type: x-twitter
+  url: https://twitter.com/4shared
+- type: x-website
+  url: https://www.4shared.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

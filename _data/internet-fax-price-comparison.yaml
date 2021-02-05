@@ -1,0 +1,26 @@
+---
+name: Internet Fax Price Comparison
+description: An unbiased price comparison tool for Internet fax services. Compares
+  more than 80 faxing plans based on your usage levels and feature needs.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5327560"
+url: https://raw.githubusercontent.com/api-network/organizations/main/internet-fax-price-comparison.yaml
+tags:
+- Internet Fax Service Price Comparison
+- Guides And Directories
+- Fax Services
+- Compare E-faxing Services
+apis: []
+x-common:
+- type: x-website
+  url: https://faxprices.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

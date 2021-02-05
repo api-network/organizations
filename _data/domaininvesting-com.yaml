@@ -1,0 +1,41 @@
+---
+name: DomainInvesting.com
+description: Award winning source of domain name news, domain sales and auction reports,
+  and industry analysis. Authority in the domain investment business.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "93613"
+url: https://raw.githubusercontent.com/api-network/organizations/main/domaininvesting-com.yaml
+tags:
+- Resources
+apis: []
+x-common:
+- type: x-website
+  url: https://DomainInvesting.com
+- type: x-about
+  url: https://domaininvesting.com/about/
+- type: x-contact
+  url: https://domaininvesting.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/DInvesting/
+- type: x-feed
+  url: http://feeds.feedburner.com/DomainInvesting
+- type: x-news
+  url: https://domaininvesting.com/category/legal-news/
+- type: x-news
+  url: https://domaininvesting.com/category/marketing-news/
+- type: x-privacy
+  url: https://domaininvesting.com/privacy/
+- type: x-twitter
+  url: https://twitter.com/dinvesting
+- type: x-website
+  url: https://www.domaininvesting.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

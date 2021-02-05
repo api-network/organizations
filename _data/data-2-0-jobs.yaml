@@ -1,0 +1,23 @@
+---
+name: Data 2.0 Jobs
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/data-2-0-jobs.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://data2con.com/
+- type: x-twitter
+  url: https://twitter.com/data2conjobs
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

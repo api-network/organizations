@@ -1,0 +1,44 @@
+---
+name: S3 Browser
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "182182"
+url: https://raw.githubusercontent.com/api-network/organizations/main/s3-browser.yaml
+tags:
+- File Sharing
+apis: []
+x-common:
+- type: x-website
+  url: http://s3browser.com
+- type: x-code
+  url: http://netsdk.com
+- type: x-code
+  url: http://netsdk.com/terms.html
+- type: x-code
+  url: http://netsdk.com/privacy.html
+- type: x-contact
+  url: https://s3browser.com/contactus.aspx
+- type: x-facebook
+  url: https://facebook.com/S3Browser
+- type: x-facebook
+  url: https://www.facebook.com/S3Browser
+- type: x-news
+  url: https://s3browser.com/news.aspx
+- type: x-press
+  url: https://s3browser.com/compression-encryption.aspx
+- type: x-support
+  url: https://s3browser.com/help.aspx
+- type: x-twitter
+  url: https://twitter.com/s3browser
+- type: x-website
+  url: https://s3browser.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

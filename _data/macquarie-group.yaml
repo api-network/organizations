@@ -1,0 +1,30 @@
+---
+name: Macquarie Group
+description: We are a global provider of banking, advisory, trading, asset management
+  and retail financial services. Discover what we offer and our latest news.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27993-www-macquarie-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "60725"
+url: https://raw.githubusercontent.com/api-network/organizations/main/macquarie-group.yaml
+tags:
+- EU Bank
+- Assets
+apis: []
+x-common:
+- type: x-website
+  url: http://www.macquarie.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/macquarie-capital-advisers
+- type: x-twitter
+  url: https://twitter.com/Macquarie
+- type: x-website
+  url: https://www.macquarie.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

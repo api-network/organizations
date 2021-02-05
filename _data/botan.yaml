@@ -1,0 +1,36 @@
+---
+name: Botan
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8361574"
+url: https://raw.githubusercontent.com/api-network/organizations/main/botan.yaml
+tags:
+- Class Libraries
+apis: []
+x-common:
+- type: x-code
+  url: https://codecov.io/github/randombit/botan
+- type: x-github
+  url: https://github.com/randombit/botan/wiki/Users
+- type: x-github
+  url: https://github.com/randombit/botan
+- type: x-github
+  url: https://github.com/randombit/botan/issues
+- type: x-github
+  url: https://github.com/randombit/botan/wiki/Distros
+- type: x-news
+  url: https://botan.randombit.net/news.html
+- type: x-security
+  url: https://botan.randombit.net/security.html
+- type: x-website
+  url: https://botan.randombit.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,60 @@
+---
+name: Ashling Microsystems
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ashling-microsystems.yaml
+tags:
+- Embedded Systems
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ashlingsys.com
+- type: x-about
+  url: https://www.ashling.com/about-ashling/
+- type: x-careers
+  url: https://www.ashling.com/careers/
+- type: x-contact
+  url: https://www.ashling.com/contact-ashling-support/
+- type: x-contact
+  url: https://www.ashling.com/contact-ashling/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/ashlingsystems
+- type: x-news
+  url: https://www.ashling.com/ashling-news-media/
+- type: x-privacy
+  url: https://www.ashling.com/privacy-notice/
+- type: x-privacy
+  url: https://policies.google.com/privacy
+- type: x-security
+  url: https://www.ashling.com/ashling-security/
+- type: x-support
+  url: https://www.ashling.com/support-arc/
+- type: x-support
+  url: https://www.ashling.com/support-arm/
+- type: x-support
+  url: https://www.ashling.com/support-mips/
+- type: x-support
+  url: https://www.ashling.com/support-nxp-power/
+- type: x-support
+  url: https://www.ashling.com/support-nxp-gateway/
+- type: x-support
+  url: https://www.ashling.com/support-nxp-smart-card-ic/
+- type: x-support
+  url: https://www.ashling.com/support-riscfree/
+- type: x-terms-of-service
+  url: https://policies.google.com/terms
+- type: x-twitter
+  url: http://twitter.com/ashlingsystems
+- type: x-website
+  url: https://www.ashling.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

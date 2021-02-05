@@ -1,0 +1,75 @@
+---
+name: Barcodestore
+description: "Barcodestore.co.uk is the UK\u2019s leading provider of barcode products
+  and solutions. Trading for over 45 years, we are one of the very best."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10244057"
+url: https://raw.githubusercontent.com/api-network/organizations/main/barcodestore.yaml
+tags:
+- Barcode
+apis: []
+x-common:
+- type: x-code
+  url: https://www.barcodestore.co.uk/account
+- type: x-code
+  url: https://www.barcodestore.co.uk/barcode-scanners
+- type: x-code
+  url: https://www.barcodestore.co.uk/barcode-label-printers
+- type: x-code
+  url: https://www.barcodestore.co.uk/labels-ribbons
+- type: x-code
+  url: https://www.barcodestore.co.uk/mobile-computers
+- type: x-code
+  url: https://www.barcodestore.co.uk/barcode-software
+- type: x-code
+  url: https://www.barcodestore.co.uk/armor
+- type: x-code
+  url: https://www.barcodestore.co.uk/axicon
+- type: x-code
+  url: https://www.barcodestore.co.uk/barcodestorecouk
+- type: x-code
+  url: https://www.barcodestore.co.uk/brother
+- type: x-code
+  url: https://www.barcodestore.co.uk/citizen
+- type: x-code
+  url: https://www.barcodestore.co.uk/datalogic
+- type: x-code
+  url: https://www.barcodestore.co.uk/honeywell
+- type: x-code
+  url: https://www.barcodestore.co.uk/opticon
+- type: x-code
+  url: https://www.barcodestore.co.uk/panasonic
+- type: x-code
+  url: https://www.barcodestore.co.uk/sato
+- type: x-code
+  url: https://www.barcodestore.co.uk/seagull-scientific
+- type: x-code
+  url: https://www.barcodestore.co.uk/toshiba-tec
+- type: x-code
+  url: https://www.barcodestore.co.uk/tsc
+- type: x-code
+  url: https://www.barcodestore.co.uk/zebra-technologies
+- type: x-code
+  url: https://www.barcodestore.co.uk/epson
+- type: x-code
+  url: https://www.barcodestore.co.uk/nicelabel
+- type: x-code
+  url: https://www.barcodestore.co.uk/unitech
+- type: x-code
+  url: https://www.barcodestore.co.uk/about-us
+- type: x-code
+  url: https://www.barcodestore.co.uk/sitemap
+- type: x-contact
+  url: https://www.barcodestore.co.uk/contact-us
+- type: x-website
+  url: https://www.barcodestore.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

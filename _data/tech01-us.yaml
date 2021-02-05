@@ -1,0 +1,23 @@
+---
+name: tech01.us
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tech01-us.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://tech01.us/gaming/eyefluence-controlling-ar-with-your-eyes-2016-08-01
+- type: x-website
+  url: http://tech01.us
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

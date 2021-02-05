@@ -1,0 +1,29 @@
+---
+name: Cognitec Systems
+description: Home - The face recognition company - Cognitec develops market-leading
+  face recognition technology and applications for facial image database search, recorded
+  video investigation, real-time video screening and people analytics, border control,
+  and biometric photo capturing.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "978456"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cognitec-systems.yaml
+tags:
+- Companies
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cognitec.com
+- type: x-twitter
+  url: https://twitter.com/cognitec
+- type: x-website
+  url: https://www.cognitec.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

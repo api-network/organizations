@@ -1,0 +1,63 @@
+---
+name: CMstat
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10137329"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cmstat.yaml
+tags:
+- Tools
+- Product Data Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cmstat.com
+- type: x-about
+  url: https://cmstat.com/about/testimonials/
+- type: x-about
+  url: https://cmstat.com/about
+- type: x-about
+  url: https://cmstat.com/about/cmstat-history/
+- type: x-about
+  url: https://cmstat.com/about/cmstat-management-team/
+- type: x-about
+  url: https://cmstat.com/about/
+- type: x-blog
+  url: https://www.cmstat.com/blog/
+- type: x-blog
+  url: https://www.cmstat.com/blog
+- type: x-blog
+  url: https://cmstat.com/blog/
+- type: x-careers
+  url: https://cmstat.com/about/cmstat-careers/
+- type: x-contact
+  url: https://cmstat.com/about/contact/
+- type: x-customers
+  url: https://cmstat.com/about/customers/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/tom-tesmer-4b6599b/
+- type: x-partner
+  url: https://cmstat.com/about/partners/
+- type: x-plans
+  url: https://cmstat.com/consulting-training/cm-plans/
+- type: x-privacy
+  url: https://cmstat.com/privacy-policy/
+- type: x-support
+  url: http://demo.cmstat.com/support/Login.po
+- type: x-support
+  url: https://cmstat.com/consulting-training/user-support/
+- type: x-terms-of-service
+  url: https://cmstat.com/terms-use/
+- type: x-twitter
+  url: https://twitter.com/cmstat
+- type: x-website
+  url: https://www.cmstat.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

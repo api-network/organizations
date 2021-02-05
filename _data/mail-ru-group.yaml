@@ -1,0 +1,28 @@
+---
+name: Mail.Ru Group
+description: "Ru Group, \u041E\u041E\u041E is a Russian Internet company."
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29498-mail-ru.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "40"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mail-ru-group.yaml
+tags:
+- ISP
+apis: []
+x-common:
+- type: x-website
+  url: http://corp.mail.ru/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/mail-ru
+- type: x-twitter
+  url: https://twitter.com/mailru
+- type: x-website
+  url: http://mail.ru
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

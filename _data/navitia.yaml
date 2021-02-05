@@ -1,0 +1,35 @@
+---
+name: Navitia
+description: Discover our API to build cool stuff with public transport
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/ZsiskwYQ_400x400.jpeg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5027889"
+url: https://raw.githubusercontent.com/api-network/organizations/main/navitia.yaml
+tags:
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.navitia.io
+- type: x-base
+  url: https://api.navitia.io
+- type: x-email
+  url: navitia@googlegroups.com
+- type: x-forum
+  url: https://groups.google.com/forum/#!forum/navitia
+- type: x-github
+  url: http://canaltp.github.io/navitia/
+- type: x-twitter
+  url: https://twitter.com/navitia
+- type: x-website
+  url: http://www.navitia.io/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

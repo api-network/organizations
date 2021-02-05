@@ -1,0 +1,77 @@
+---
+name: Outlook Web App
+description: Exchange 2007 Outlook Web Access  knowledge base, including OWA 2007
+  articles, white papers, tips, frequently asked questions and software links
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5668876"
+url: https://raw.githubusercontent.com/api-network/organizations/main/outlook-web-app.yaml
+tags:
+- OWA 2007
+- Outlook Web Access 2007
+- Exchange 2007
+apis: []
+x-common:
+- type: x-blog
+  url: http://blogs.technet.com/steve_lamb/default.aspx
+- type: x-blog
+  url: http://briandesmond.com/blog/Default.aspx
+- type: x-blog
+  url: http://blogs.msdn.com/dgoldman/
+- type: x-blog
+  url: http://blogs.officezealot.com/legault/
+- type: x-blog
+  url: http://blogs.msdn.com/exchangedev/default.aspx
+- type: x-blog
+  url: http://exchange2007blog.blogspot.com/
+- type: x-blog
+  url: http://blog.flaphead.dns2go.com/
+- type: x-blog
+  url: http://gsexdev.blogspot.com/
+- type: x-blog
+  url: http://mostlyexchange.blogspot.com/
+- type: x-blog
+  url: http://blogs.msdn.com/jonathanh/
+- type: x-blog
+  url: http://blogs.technet.com/kclemson/default.aspx
+- type: x-blog
+  url: http://theessentialexchange.com/blogs/michael/
+- type: x-blog
+  url: http://msexchangetips.blogspot.ca/
+- type: x-blog
+  url: http://msgoodies.blogspot.com/
+- type: x-blog
+  url: http://www.blankmanblog.com/
+- type: x-blog
+  url: http://smtp25.blogspot.ca/
+- type: x-blog
+  url: http://msmvps.com/blogs/ehlo/
+- type: x-blog
+  url: http://blog.lithiumblue.com/
+- type: x-blog
+  url: http://blog.scottlowe.org/
+- type: x-blog
+  url: http://blog.sembee.co.uk/
+- type: x-feed
+  url: http://feeds.feedburner.com/TenBrinkTech
+- type: x-news
+  url: http://www.news.wisc.edu/23479
+- type: x-press
+  url: http://exchangeshare.wordpress.com/
+- type: x-press
+  url: http://paulrobichaux.wordpress.com/
+- type: x-support
+  url: http://support.microsoft.com/kb/2962872
+- type: x-support
+  url: http://support.microsoft.com/kb/2938053/en-us
+- type: x-website
+  url: https://www.outlook-web-app.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

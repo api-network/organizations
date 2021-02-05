@@ -1,0 +1,48 @@
+---
+name: API Restlet
+description: Restlet provides tools for developers (and non-developers, too) to design,
+  create, run and manage APIs that provide access to any data or application.
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/api-restlet.yaml
+tags:
+- REST
+- Profile
+- JSON
+- Have Swagger
+- Have API Paths
+- API
+apis: []
+x-common:
+- type: x-website
+  url: http://restlet.com
+- type: x-about
+  url: https://restlet.com/company/about-us
+- type: x-website
+  url: http://cadastro.restlet.io
+- type: x-blog
+  url: http://restlet.com/company/blog/
+- type: x-documentation
+  url: https://restlet.com/documentation/
+- type: x-github
+  url: https://github.com/restlet/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/restlet
+- type: x-privacy
+  url: https://restlet.com/pricing/
+- type: x-twitter
+  url: https://twitter.com/restlet
+- type: x-webinars
+  url: https://restlet.com/company/webinars/
+- type: x-white-papers
+  url: https://restlet.com/company/whitepapers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

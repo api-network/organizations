@@ -1,0 +1,45 @@
+---
+name: PyData
+description: PyData is a forum for the international community of users and developers
+  of data analysis tools to share and learn together. A nonprofit NumFOCUS program.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5612"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pydata.yaml
+tags:
+- Conferences
+apis: []
+x-common:
+- type: x-website
+  url: http://pydata.org
+- type: x-about
+  url: https://pydata.org/about/
+- type: x-code
+  url: https://pydata.org/code-of-conduct/
+- type: x-events
+  url: https://pydata.org/past-events/
+- type: x-events
+  url: https://pydata.org/events/pydata-amsterdam-2020/
+- type: x-events
+  url: https://pydata.org/events/pydata-berlin-2020/
+- type: x-events
+  url: https://pydata.org/events/pydata-warsaw-2020/
+- type: x-press
+  url: http://www.wordpress.org
+- type: x-privacy
+  url: https://www.numfocus.org/privacy-policy
+- type: x-twitter
+  url: https://twitter.com/PyData
+- type: x-website
+  url: https://pydata.org
+- type: x-youtube
+  url: https://www.youtube.com/user/PyDataTV
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

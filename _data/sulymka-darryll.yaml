@@ -1,0 +1,26 @@
+---
+name: Sulymka, Darryll
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sulymka-darryll.yaml
+tags:
+- Personal Pages
+apis: []
+x-common:
+- type: x-code
+  url: http://arduino.googlecode.com
+- type: x-github
+  url: https://github.com/hexbright/samples
+- type: x-website
+  url: https://depg.ca
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

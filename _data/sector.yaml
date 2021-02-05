@@ -1,0 +1,90 @@
+---
+name: SecTor
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1202477"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sector.yaml
+tags:
+- Conferences
+apis: []
+x-common:
+- type: x-website
+  url: http://sector.ca
+- type: x-about
+  url: https://sector.ca/about/
+- type: x-blog
+  url: https://sector.ca/category/blog/
+- type: x-blog
+  url: http://sector.ca/category/blog
+- type: x-code
+  url: https://sector.ca/code-of-conduct/
+- type: x-code
+  url: https://sector.ca/exhibitors/veracode/
+- type: x-contact
+  url: https://sector.ca/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/SecTorConference
+- type: x-facebook
+  url: http://www.facebook.com/SecTorConference
+- type: x-linkedin
+  url: https://www.linkedin.com/company/sectorca/
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/941897/
+- type: x-plans
+  url: https://sector.ca/sector-2020-plans-begin/
+- type: x-privacy
+  url: https://tech.informa.com/privacy-policy
+- type: x-security
+  url: https://sector.ca/exhibitors/compass-security/
+- type: x-security
+  url: https://sector.ca/exhibitors/corero-network-security/
+- type: x-security
+  url: https://sector.ca/exhibitors/kenna-security/
+- type: x-security
+  url: https://sector.ca/exhibitors/menlo-security/
+- type: x-security
+  url: https://sector.ca/exhibitors/rsa-security/
+- type: x-security
+  url: https://sector.ca/exhibitors/securityscorecard/
+- type: x-self-service-registration
+  url: https://sector.ca/register/
+- type: x-terms-of-service
+  url: https://tech.informa.com/terms-and-conditions
+- type: x-twitter
+  url: https://twitter.com/sectorca
+- type: x-twitter
+  url: http://twitter.com/sectorca
+- type: x-twitter
+  url: http://twitter.com/sectorca/status/1217557078887235586
+- type: x-twitter
+  url: http://twitter.com/search?q=%23fridayfacepalm.
+- type: x-twitter
+  url: http://twitter.com/search?q=%23wednesdayWTH?
+- type: x-twitter
+  url: http://twitter.com/sectorca/status/1217513142835654656
+- type: x-twitter
+  url: http://twitter.com/sectorca/status/1217511770916605952
+- type: x-twitter
+  url: http://twitter.com/search?q=%23Huawei
+- type: x-twitter
+  url: http://twitter.com/search?q=%235G
+- type: x-twitter
+  url: http://twitter.com/sectorca/status/1217194688282865664
+- type: x-twitter
+  url: http://twitter.com/search?q=%23responsibledisclosure
+- type: x-twitter
+  url: http://twitter.com/search?q=%23bugbounty
+- type: x-website
+  url: https://www.sector.ca
+- type: x-youtube
+  url: http://youtube.com/sectorca
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

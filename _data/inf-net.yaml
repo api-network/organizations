@@ -1,0 +1,24 @@
+---
+name: Inf.net
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4790819"
+url: https://raw.githubusercontent.com/api-network/organizations/main/inf-net.yaml
+tags:
+- Chatterbots
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.inf.net
+- type: x-website
+  url: https://www.inf.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

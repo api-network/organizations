@@ -1,0 +1,55 @@
+---
+name: Doshii
+description: <p>App &amp; POS Integration - Streamlining the connection between POS
+  and your ordering, payment, reservation, data, &amp; loyalty apps.&nbsp;</p>
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28750-doshii-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "662044"
+url: https://raw.githubusercontent.com/api-network/organizations/main/doshii.yaml
+tags:
+- POS
+- Point Of Sale
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.doshii.io/
+- type: x-about
+  url: https://doshii.io/about/
+- type: x-blog
+  url: https://doshii.io/api-integration-blog/
+- type: x-contact
+  url: https://doshii.io/contact-doshii/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/doshii-pty-ltd
+- type: x-email
+  url: info@doshii.io
+- type: x-facebook
+  url: https://www.facebook.com/doshiiAPI/
+- type: x-github
+  url: https://github.com/doshii-io
+- type: x-login
+  url: https://dashboard.doshii.io/login
+- type: x-open-source
+  url: https://doshii.io/connect-app/opentable/
+- type: x-pricing
+  url: https://doshii.io/venue-owners/#pricing
+- type: x-privacy
+  url: https://doshii.io/privacy-policy-2019/
+- type: x-terms-of-service
+  url: https://doshii.io/download/doshii-merchant-terms/
+- type: x-twitter
+  url: https://twitter.com/DoshiiAPI
+- type: x-website
+  url: https://doshii.io
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=B7ED-UYtofg
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

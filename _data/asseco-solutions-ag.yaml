@@ -1,0 +1,40 @@
+---
+name: Asseco Solutions AG
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8942277"
+url: https://raw.githubusercontent.com/api-network/organizations/main/asseco-solutions-ag.yaml
+tags:
+- Manufacturing
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/AssecoSolutions
+- type: x-linkedin
+  url: https://www.linkedin.com/company/asseco-germany-ag
+- type: x-news
+  url: https://www.applus-erp.de/asseco-solutions/news/
+- type: x-news
+  url: https://www.applus-erp.de/asseco-solutions/newsletter/
+- type: x-partner
+  url: https://www.applus-erp.de/asseco-solutions/partner/
+- type: x-support
+  url: https://support.applus-erp.de/
+- type: x-twitter
+  url: https://twitter.com/Asseco_DACH
+- type: x-website
+  url: https://www.applus-erp.de
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=zSPUjZFb4FM
+- type: x-youtube
+  url: https://www.youtube.com/user/AssecoGermany
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

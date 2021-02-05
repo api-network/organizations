@@ -1,0 +1,161 @@
+---
+name: Miracle Tutorials
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "444235"
+url: https://raw.githubusercontent.com/api-network/organizations/main/miracle-tutorials.yaml
+tags: []
+apis: []
+x-common:
+- type: x-news
+  url: https://www.miracletutorials.com/newsletter/
+- type: x-press
+  url: https://www.miracletutorials.com/tag/wordpress/
+- type: x-press
+  url: https://www.miracletutorials.com/tag/compression/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/member-area/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/recommended-products/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/glossaries/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/about/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/about/privacy-policy/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/about/terms-of-use/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/subtitles-facebook/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/category/blog-stuff/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/subtitles/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/embed-html5-video/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/cloudfront/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/embedding/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/html5/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/s3-amazon/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/video/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/audacity/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/audio/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/bitrate-hls-video/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/gdpr-myths-dispelled/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/autoplay/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/sound-generator/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/rtmp-hls-aws-2/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/rtmp-hls-aws-1/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/streaming-video/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/jw-player/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/captions/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/software-reviews/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/youtube/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/joomla/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/video-channel/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/vimeo/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/stock-audio/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/stock-video/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/blogs/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/google/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/page/2/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/page/6/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/category/great-video/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/category/products/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/artifacts/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/aspect-ratio/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/audio-service/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/avs-converter/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/aws/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/brightcove/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/camcorder/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/firefox/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/flash/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/flash-video/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/flv/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/hd/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/hdv/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/high-definition/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/podcasting/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/publishpod/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/quicktime/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/s3/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/s3-browser/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/skype/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/tubemogul/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/upload/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/videocast/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/video-format/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/tag/xlr/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/howto-embed-vimeo/
+- type: x-tutorials
+  url: https://www.miracletutorials.com/howto-vimeo-hubnut/
+- type: x-website
+  url: https://www.miracletutorials.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

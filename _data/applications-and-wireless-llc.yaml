@@ -1,0 +1,22 @@
+---
+name: Applications and Wireless LLC
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/applications-and-wireless-llc.yaml
+tags:
+- 3G
+apis: []
+x-common:
+- type: x-website
+  url: https://www.appswireless.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

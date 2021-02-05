@@ -1,0 +1,23 @@
+---
+name: TTI Success Insights
+description: TTI Success Insights is the world leader in the assessment industry.
+  As an indicator, somewhere in the world a report is generated every 10.1 seconds.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1082654"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tti-success-insights.yaml
+tags:
+- Testing And Evaluation
+apis: []
+x-common:
+- type: x-website
+  url: https://www.ttisuccessinsights.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

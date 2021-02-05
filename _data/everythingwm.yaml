@@ -1,0 +1,33 @@
+---
+name: EverythingWM
+description: 'Offers the latest Windows Phone news, reviews, apps, wallpapers, accessories
+  and the #1 Windows Phone forums.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8005334"
+url: https://raw.githubusercontent.com/api-network/organizations/main/everythingwm.yaml
+tags:
+- Windows Phone
+apis: []
+x-common:
+- type: x-website
+  url: http://www.everythingwm.com
+- type: x-facebook
+  url: http://www.facebook.com/everythingwm
+- type: x-forum
+  url: http://www.everythingwm.com/forum/
+- type: x-privacy
+  url: http://www.everythingwm.com/privacy/
+- type: x-twitter
+  url: https://twitter.com/everythingwm
+- type: x-website
+  url: https://www.everythingwm.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

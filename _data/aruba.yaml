@@ -1,0 +1,27 @@
+---
+name: Aruba
+description: Discover Aruba Cloud, the Cloud for you! Usage-based Cloud Computing,
+  Cloud PRO & VPS, Private Cloud, Storage, Backup and Monitoring Services.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "76192"
+url: https://raw.githubusercontent.com/api-network/organizations/main/aruba.yaml
+tags:
+- Infrastructure As A Service Providers
+apis: []
+x-common:
+- type: x-about
+  url: https://www.aruba.it/en/about-us.aspx
+- type: x-code
+  url: https://cispe.cloud/code-of-conduct/
+- type: x-website
+  url: https://www.arubacloud.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

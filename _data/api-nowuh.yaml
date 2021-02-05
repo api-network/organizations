@@ -1,0 +1,34 @@
+---
+name: API.nowuh
+description: <p>Today we have an amazing amount of data being collected. As more and
+  more of us are connecting our every move to the internet, API.nowuh attempts to
+  show how much data is currently being collected for an average person with a fair
+  amount of IoT devices. This project serves two purposes, and neither are to make
+  you afraid of the future. This first purpose is simply awareness; it's always important
+  to understand how much information on you is possibly out in the ether. The second
+  is for whatever the heck you want. As I continue to build this out, more and more
+  data points will become available. You're free to do whatever you want with it,
+  go nuts. Anyone is able to use V1 of the API but your IP address may be blocked
+  if suspicious activity is detected.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/api-nowuh.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "5"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/api-nowuh.yaml
+tags:
+- Self
+- Personal
+- Me
+- Have API Paths
+apis: []
+x-common:
+- type: x-website
+  url: http://api.noahkoch.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

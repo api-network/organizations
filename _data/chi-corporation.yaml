@@ -1,0 +1,95 @@
+---
+name: Chi Corporation
+description: Chi Corporation is a leading networking and storage solutions provider
+  that specializes in security, disaster recovery, storage, backup and virtualization.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4398087"
+url: https://raw.githubusercontent.com/api-network/organizations/main/chi-corporation.yaml
+tags:
+- Tape Drives
+apis: []
+x-common:
+- type: x-website
+  url: http://chicorporation.com
+- type: x-blog
+  url: https://chicorporation.com/blog/
+- type: x-careers
+  url: https://chicorporation.com/company/careers/
+- type: x-contact
+  url: https://chicorporation.com/contact-us/
+- type: x-contact
+  url: http://chicorporation.com/contact-us/
+- type: x-events
+  url: https://chicorporation.com/company/special-events/
+- type: x-gdpr
+  url: https://chicorporation.com/gdpr-statement/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/chi-corporation
+- type: x-partner
+  url: https://chicorporation.com/partners/
+- type: x-partner
+  url: https://chicorporation.com/partners/arcserve/
+- type: x-partner
+  url: https://chicorporation.com/partners/arctic-wolf/
+- type: x-partner
+  url: https://chicorporation.com/partners/aruba_networks/
+- type: x-partner
+  url: https://chicorporation.com/partners/barracuda/
+- type: x-partner
+  url: https://chicorporation.com/partners/brocade/
+- type: x-partner
+  url: https://chicorporation.com/partners/commvault/
+- type: x-partner
+  url: https://chicorporation.com/partners/crowdstrike/
+- type: x-partner
+  url: https://chicorporation.com/partners/cylance/
+- type: x-partner
+  url: https://chicorporation.com/partners/dell/
+- type: x-partner
+  url: https://chicorporation.com/partners/extreme-networks/
+- type: x-partner
+  url: https://chicorporation.com/partners/kaminario/
+- type: x-partner
+  url: https://chicorporation.com/partners/nexsan/
+- type: x-partner
+  url: https://chicorporation.com/partners/nimble-storage/
+- type: x-partner
+  url: https://chicorporation.com/partners/nutanix/
+- type: x-partner
+  url: https://chicorporation.com/partners/overland-storage/
+- type: x-partner
+  url: https://chicorporation.com/partners/quantum/
+- type: x-partner
+  url: https://chicorporation.com/partners/quest/
+- type: x-partner
+  url: https://chicorporation.com/partners/storagecraft/
+- type: x-partner
+  url: https://chicorporation.com/partners/unitrends/
+- type: x-partner
+  url: https://chicorporation.com/partners/veeam/
+- type: x-partner
+  url: https://chicorporation.com/partners/violin
+- type: x-partner
+  url: https://chicorporation.com/partners/vmware/
+- type: x-partner
+  url: https://chicorporation.com/partners/western-digital/
+- type: x-security
+  url: https://chicorporation.com/solutions/security/
+- type: x-security
+  url: http://chicorporation.com/solutions/security/
+- type: x-terms-of-service
+  url: https://chicorporation.com/industries/legal/
+- type: x-twitter
+  url: https://twitter.com/ChiCorporation
+- type: x-website
+  url: https://www.chicorporation.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

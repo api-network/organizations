@@ -1,0 +1,36 @@
+---
+name: Runtime Solutions
+description: This Page is a place for our Fans. However, we do need to have certain
+  rules. Please be aware that we do not accept or consider unsolicited idea submissions
+  and, also, we must reserve the right to remove any posting or other material that
+  we find off-t...
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29320-runtime-solutions-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1346887"
+url: https://raw.githubusercontent.com/api-network/organizations/main/runtime-solutions.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.runtime-solutions.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/runtime-io
+- type: x-email
+  url: people@runtime-solutions.com
+- type: x-email
+  url: info@runtime-solutions.com
+- type: x-email
+  url: hr@runtime-solutions.com
+- type: x-twitter
+  url: https://twitter.com/Runtime_Tweets
+- type: x-website
+  url: http://runtime-solutions.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

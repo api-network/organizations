@@ -1,0 +1,68 @@
+---
+name: LDAPSoft Corporation
+description: Browse, Edit, Query, view Reports and Export from Active Directory or
+  LDAP. Windows and Linux GUI Tools by LDAPSoft to manage LDAP and Active Directory
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1480985"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ldapsoft-corporation.yaml
+tags:
+- Tivoli Browser
+- Sun One Browser
+- Sqlldap
+- Slapd
+- Open Ldap Browser
+- Ldap Windows
+- Ldap Viewer
+- Ldap V3
+- Ldap V2
+- Ldap Tools
+- Ldap Tool
+- Ldap Servers
+- Ldap Search Filter
+- Ldap Search
+- Ldap Query
+- Ldap Master
+- Ldap Manager
+- Ldap Management Tool
+- Ldap Linux
+- Ldap Explorer
+- Ldap Editor
+- Ldap Download
+- Ldap Directory Server Tools
+- Ldap Directory Client
+- Ldap Directory
+- Ldap Client
+- Ldap Browser
+- Ldap Bind
+- Ldap Authentication
+- Ldap Administration
+- Ldap Admin
+- LDAP
+- Iplanet Browser
+- Edirectory Browser
+- Domino Browser
+- Browse Ldap
+- Adam Ldap Client
+- Adam Client
+- Adam Browswer
+- Active Directory Browser
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/ldapsoft
+- type: x-forum
+  url: http://www.ldapsoft.com/forum/forums/list.page
+- type: x-twitter
+  url: https://twitter.com/ldapsoft
+- type: x-website
+  url: https://www.ldapsoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,25 @@
+---
+name: Bolide Software
+description: Bolide Software Company. The developer of All My Movies, All My Books
+  and other programs. Download Bolide apps here.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "243471"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bolide-software.yaml
+tags:
+- Collection
+apis: []
+x-common:
+- type: x-feed
+  url: https://feeds.feedburner.com/BolideSoftwareEng
+- type: x-website
+  url: https://www.bolidesoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

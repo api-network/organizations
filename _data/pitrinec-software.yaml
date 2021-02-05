@@ -1,0 +1,38 @@
+---
+name: Pitrinec Software
+description: Macro software that feature macro recorder (mouse recorder), task scheduler,
+  autocomplete, autofill web forms, and many commands for any task automation.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1015309"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pitrinec-software.yaml
+tags:
+- Type Fast
+- Task Scheduler
+- Mouse Recorder
+- Mouse Macro
+- Macros
+- Macro Software
+- Macro Recorder
+- Fill Forms
+- Data Entry
+- Automation Software
+- Automation
+- Autocomplete
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.pitrinec.com
+- type: x-developer
+  url: http://developer.pitrinec.com/
+- type: x-website
+  url: https://www.pitrinec.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

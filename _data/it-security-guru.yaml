@@ -1,0 +1,72 @@
+---
+name: IT Security Guru
+description: ""
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/itsecurityguru.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "725723"
+url: https://raw.githubusercontent.com/api-network/organizations/main/it-security-guru.yaml
+tags:
+- Security Blogs
+- Profile
+- Blogs
+apis: []
+x-common:
+- type: x-blog-rss
+  url: http://www.itsecurityguru.org/feed/
+- type: x-contact
+  url: https://www.itsecurityguru.org/category/contactless/
+- type: x-forum
+  url: https://www.itsecurityanalystforum.com/
+- type: x-forum
+  url: https://www.itsecurityanalystforum.com
+- type: x-news
+  url: https://www.itsecurityguru.org/category/hacking-news/
+- type: x-news
+  url: https://www.itsecurityguru.org/category/malware-news/
+- type: x-news
+  url: https://www.itsecurityguru.org/category/news/
+- type: x-security
+  url: https://www.itsecurityguru.org/about-us/
+- type: x-security
+  url: https://www.itsecurityguru.org/
+- type: x-security
+  url: https://www.itsecurityguru.org/category/compliance/
+- type: x-security
+  url: https://www.itsecurityguru.org/category/cyber-bites/
+- type: x-security
+  url: https://www.itsecurityguru.org/category/ddos/
+- type: x-security
+  url: https://www.itsecurityguru.org/category/featured/
+- type: x-security
+  url: https://www.itsecurityguru.org/category/gurus-picks/
+- type: x-security
+  url: https://www.itsecurityguru.org/category/security/
+- type: x-security
+  url: https://www.itsecurityguru.org/guru-reviews/
+- type: x-security
+  url: https://www.itsecurityguru.org/author/sam/
+- type: x-security
+  url: https://www.itsecurityguru.org/author/sabina/
+- type: x-security
+  url: https://www.itsecurityguru.org/author/beth/
+- type: x-security
+  url: https://www.itsecurityguru.org/author/alicia/
+- type: x-security
+  url: https://www.itsecurityguru.org/author/thegurus/
+- type: x-twitter
+  url: https://twitter.com/IT_SecGuru
+- type: x-twitter
+  url: https://twitter.com/@it_secguru
+- type: x-website
+  url: http://www.itsecurityguru.org/
+- type: x-youtube
+  url: https://www.youtube.com/user/ITSecurityGuru
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

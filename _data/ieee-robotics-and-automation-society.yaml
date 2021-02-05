@@ -1,0 +1,36 @@
+---
+name: IEEE Robotics and Automation Society
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "160334"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ieee-robotics-and-automation-society.yaml
+tags:
+- Organizations
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ieee-ras.org
+- type: x-about
+  url: https://www.ieee-ras.org/about-ras/ras-calendar
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/1888416/profile
+- type: x-news
+  url: https://www.ieee-ras.org/about-ras/latest-news/
+- type: x-security
+  url: http://www.ieee.org/security_privacy.html
+- type: x-terms-of-service
+  url: http://www.ieee.org/site_terms_conditions.html
+- type: x-twitter
+  url: http://twitter.com/ieeeras
+- type: x-website
+  url: https://www.ieee-ras.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

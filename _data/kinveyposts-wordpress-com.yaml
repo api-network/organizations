@@ -1,0 +1,23 @@
+---
+name: kinveyposts.wordpress.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kinveyposts-wordpress-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: https://kinveyposts.wordpress.com/2013/07/09/how-to-build-an-app-html5-mobile-edition/
+- type: x-website
+  url: http://kinveyposts.wordpress.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

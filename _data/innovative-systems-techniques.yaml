@@ -1,0 +1,58 @@
+---
+name: Innovative Systems Techniques
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/innovative-systems-techniques.yaml
+tags:
+- Databases
+apis: []
+x-common:
+- type: x-website
+  url: http://www.factset.com
+- type: x-about
+  url: https://www.factset.com/about-our-company
+- type: x-careers
+  url: https://www.factset.com/careers
+- type: x-contact
+  url: https://www.factset.com/contact-us
+- type: x-events
+  url: https://www.factset.com/company/events
+- type: x-facebook
+  url: https://www.facebook.com/FactSet
+- type: x-instagram
+  url: https://www.instagram.com/factsetresearchsystems/
+- type: x-investor
+  url: https://investor.factset.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/163755
+- type: x-news
+  url: https://www.factset.com/products-data/news-research
+- type: x-news
+  url: https://www.factset.com/news
+- type: x-open-source
+  url: https://open.factset.com/
+- type: x-open-source
+  url: https://open.factset.com/en-us
+- type: x-partner
+  url: https://www.factset.com/company/partners
+- type: x-privacy
+  url: https://www.factset.com/privacy
+- type: x-status
+  url: https://www.factset.com/status
+- type: x-support
+  url: https://www.factset.com/support-numbers
+- type: x-twitter
+  url: https://twitter.com/FactSet
+- type: x-website
+  url: https://www.insytenet.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

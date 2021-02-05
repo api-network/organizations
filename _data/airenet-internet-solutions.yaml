@@ -1,0 +1,32 @@
+---
+name: Airenet Internet Solutions
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6796002"
+url: https://raw.githubusercontent.com/api-network/organizations/main/airenet-internet-solutions.yaml
+tags:
+- Alberta
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.airenet.com/contact-us
+- type: x-customers
+  url: https://www.airenet.com/seasonal-customers
+- type: x-plans
+  url: https://www.airenet.com/prices-plans
+- type: x-plans
+  url: https://www.airenet.com/prices-plans/corporate
+- type: x-plans
+  url: https://www.airenet.com/prices-plans/voip
+- type: x-website
+  url: https://www.airenet.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

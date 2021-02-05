@@ -1,0 +1,141 @@
+---
+name: AvidXchange
+description: AvidXchange is the largest B2B payment network in the US, serving more
+  than 5,500 customers & 400,000 suppliers nationwide. Try our accounts payable software!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "233708"
+url: https://raw.githubusercontent.com/api-network/organizations/main/avidxchange.yaml
+tags:
+- Billing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.avidxchange.com
+- type: x-about
+  url: https://www.avidxchange.com/about/avidfoundation/
+- type: x-about
+  url: https://www.avidxchange.com/about/
+- type: x-about
+  url: https://www.avidxchange.com/about/leadership/
+- type: x-about
+  url: https://www.avidxchange.com/about/history/
+- type: x-blog
+  url: https://www.avidxchange.com/blog/
+- type: x-careers
+  url: https://www.avidxchange.com/careers/
+- type: x-contact
+  url: https://www.avidxchange.com/contact/
+- type: x-events
+  url: https://www.avidxchange.com/events/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/cinc-systems/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/cmic/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/coins/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/condomanager/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/cti/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/data-plus/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/computerease/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/ebs/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/entrata/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/fast/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/foundation/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/fund-e-z/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/harland-fms/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/ibs/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/info-tracker/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/lawson-2/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/amsi-2/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/core-logic/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/mds-2/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/mri/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/netsuite/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/ogsys/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/open-systems/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/quickbooks/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/realpage-2/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/rent-manager/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/resman/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/sage/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/sage-300-cre/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/intacct-2/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/sap-2/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/skyline/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/sos-2/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/spectrum-2/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/tops-2/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/viewpoint/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/vms/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/yardi/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/abcoa/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/accountmate/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/acumatica/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/appfolio/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/blackbaud/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/c3/
+- type: x-integrations
+  url: https://www.avidxchange.com/integrations/centersoft/
+- type: x-login
+  url: https://www.avidxchange.com/login/
+- type: x-news
+  url: https://www.avidxchange.com/news/
+- type: x-partner
+  url: https://www.avidxchange.com/partners/
+- type: x-twitter
+  url: https://twitter.com/AvidXchange
+- type: x-website
+  url: https://www.avidxchange.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

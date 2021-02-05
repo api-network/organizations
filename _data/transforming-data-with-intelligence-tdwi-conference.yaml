@@ -1,0 +1,71 @@
+---
+name: Transforming Data With Intelligence (TDWI) Conference
+description: <p>For 20 years, TDWI has been helping data professionals get smarter
+  so the companies they work for can innovate and grow faster. TDWI provides individuals
+  and teams with a comprehensive portfolio of business and technical education and
+  research to acquire the knowledge and skills they need, when and where they need
+  them. The in-depth, best-practices-based information TDWI offers can be quickly
+  applied to develop world-class talent across your organization&rsquo;s business
+  and IT functions to enhance analytical, data-driven decision making and performance.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/tdwi-logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "135030"
+url: https://raw.githubusercontent.com/api-network/organizations/main/transforming-data-with-intelligence-tdwi-conference.yaml
+tags:
+- No API
+- Data Warehousing
+apis: []
+x-common:
+- type: x-linkedin
+  url: https://www.linkedin.com/company/the-data-warehousing-institute-tdwi-/
+- type: x-twitter
+  url: https://twitter.com/TDWI
+- type: x-twitter-search
+  url: '#TDWI'
+- type: x-website
+  url: https://tdwi.org/
+- type: x-website
+  url: http://www.tdwi.org
+- type: x-careers
+  url: https://jobs.tdwi.org
+- type: x-events
+  url: https://na.eventscloud.com/lv2020
+- type: x-events
+  url: https://tdwi.org/events/seminars/houston.aspx
+- type: x-events
+  url: https://tdwi.org/events/seminars/phoenix.aspx
+- type: x-events
+  url: https://tdwi.org/events/upcoming.aspx
+- type: x-events
+  url: https://tdwi.org/events/conferences/upcoming.aspx
+- type: x-events
+  url: https://tdwi.org/events/strategy-summits/upcoming.aspx
+- type: x-events
+  url: https://tdwi.org/events/seminars/upcoming.aspx
+- type: x-events
+  url: https://tdwi.org/events/conferences/las-vegas.aspx
+- type: x-login
+  url: http://tdwi.org/membership/login
+- type: x-login
+  url: https://tdwi.org/online-learning/login
+- type: x-open-source
+  url: https://opentext.com
+- type: x-pricing
+  url: https://tdwi.org/pages/education/onsite/pricing.aspx
+- type: x-privacy
+  url: https://1105media.com/privacy.aspx
+- type: x-privacy
+  url: https://www.1105media.com/privacy.aspx
+- type: x-webinars
+  url: https://tdwi.org/webcasts/list/all-webinars.aspx
+- type: x-website
+  url: https://www.tdwi.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

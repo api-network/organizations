@@ -1,0 +1,34 @@
+---
+name: Trading Central
+description: <p>Markets never sleep&reg;, and with offices in Paris, London, Cyprus,
+  New York, Ottawa, Sydney, Hong Kong and Shanghai, Trading Central is always there
+  to support your decisions and drive action among investors.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/trading-central.jpeg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/trading-central.yaml
+tags:
+- Financial
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.tradingcentral.com/blog/
+- type: x-blog-rss
+  url: http://blog.tradingcentral.com/blog/rss.xml
+- type: x-twitter
+  url: https://twitter.com/tradingcentral
+- type: x-website
+  url: https://investor.tradingcentral.com/
+- type: x-website
+  url: https://www.tradingcentral.com/
+- type: x-website
+  url: http://tradingcentral.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

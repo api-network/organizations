@@ -1,0 +1,38 @@
+---
+name: Verbosus
+description: Write scientific documents in LaTeX and perform mathematical calculations
+  in Octave. Visualize the result in a PDF (LaTeX) or in a plot (Octave)
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1370293"
+url: https://raw.githubusercontent.com/api-network/organizations/main/verbosus.yaml
+tags:
+- Web Applications
+- Tools
+- Pdf Generation
+- Online Octave
+- Online Latex Editor
+- Online Latex
+- Online Applications
+- Online
+- Octave
+- Matlab
+- Latex To Pdf
+- Latex Editor
+- LaTeX
+- Browser Based Latex Editor
+- Browser Based Latex
+- Browser
+apis: []
+x-common:
+- type: x-website
+  url: https://www.verbosus.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

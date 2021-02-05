@@ -1,0 +1,26 @@
+---
+name: Shavlik Technologies, LLC
+description: How would you rate your patch management effectiveness? If you haven't
+  implemented database security controls and measures now is the time. Learn more
+  about our security software to manage OS and third-party application patch compliance.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/shavlik-technologies-llc.yaml
+tags:
+- Security Scanners
+- Security
+- Patch Compliance
+apis: []
+x-common:
+- type: x-website
+  url: https://www.shavlik.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

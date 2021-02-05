@@ -1,0 +1,41 @@
+---
+name: Source Technologies
+description: Are you looking for MICR or Self-Service Kiosk solutions? Source Technologies
+  offer a wide variety of hardware and software solutions to help your business. Find
+  our more today!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1302381"
+url: https://raw.githubusercontent.com/api-network/organizations/main/source-technologies.yaml
+tags:
+- Supplies
+- Kiosks
+apis: []
+x-common:
+- type: x-website
+  url: http://www.sourcetech.com
+- type: x-about
+  url: https://www.sourcetech.com/about-us
+- type: x-blog
+  url: https://www.sourcetech.com/blog
+- type: x-case-studies
+  url: https://www.sourcetech.com/case-studies
+- type: x-contact
+  url: https://www.sourcetech.com/contact-us
+- type: x-facebook
+  url: https://www.facebook.com/SourceTechnologiesLLC
+- type: x-linkedin
+  url: http://www.linkedin.com/company/source-technologies
+- type: x-twitter
+  url: https://twitter.com/source_tech
+- type: x-website
+  url: https://www.sourcetech.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

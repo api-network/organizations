@@ -1,0 +1,51 @@
+---
+name: OutBlaze
+description: Outblaze develops and provides various digital media products and services
+  including smartphone games and apps.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2883115"
+url: https://raw.githubusercontent.com/api-network/organizations/main/outblaze.yaml
+tags:
+- Webmaster Providers
+- Smartphone
+- Outblaze
+- IT
+- Games
+- Digital Media
+- Apps
+apis: []
+x-common:
+- type: x-website
+  url: http://www.outblaze.com
+- type: x-about
+  url: https://www.outblaze.com/about
+- type: x-careers
+  url: https://www.outblaze.com/careers
+- type: x-contact
+  url: https://www.outblaze.com/contact
+- type: x-facebook
+  url: https://www.facebook.com/OutblazeCorp
+- type: x-linkedin
+  url: https://www.linkedin.com/company/outblaze
+- type: x-news
+  url: https://www.outblaze.com/news
+- type: x-partner
+  url: https://www.outblaze.com/partner
+- type: x-privacy
+  url: https://www.outblaze.com/privacy-policy
+- type: x-terms-of-service
+  url: https://www.outblaze.com/terms-of-use
+- type: x-twitter
+  url: https://twitter.com/outblazecorp
+- type: x-website
+  url: https://www.outblaze.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

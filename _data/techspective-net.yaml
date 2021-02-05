@@ -1,0 +1,23 @@
+---
+name: techspective.net
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/techspective-net.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://techspective.net/2016/07/21/microsoft-launches-azure-security-center/
+- type: x-website
+  url: http://techspective.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

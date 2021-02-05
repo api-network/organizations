@@ -1,0 +1,54 @@
+---
+name: ILIAS
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1032331"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ilias.yaml
+tags:
+- Web Applications
+apis: []
+x-common:
+- type: x-blog
+  url: https://docu.ilias.de/goto_docu_blog_3439.html
+- type: x-blog
+  url: https://docu.ilias.de/goto_docu_blog_5000.html
+- type: x-blog
+  url: https://docu.ilias.de/goto_docu_blog_3439_630.html
+- type: x-blog
+  url: https://docu.ilias.de/goto_docu_blog_3439_627.html
+- type: x-blog
+  url: https://docu.ilias.de/goto_docu_blog_3439_624.html
+- type: x-blog
+  url: https://docu.ilias.de/goto_docu_blog_3439_622.html
+- type: x-blog
+  url: https://docu.ilias.de/goto_docu_blog_3439_621.html
+- type: x-facebook
+  url: http://www.facebook.com/ilias.elearning
+- type: x-github
+  url: https://github.com/ILIAS-eLearning/ILIAS
+- type: x-open-source
+  url: https://www.ilias.de/open-source-lms-ilias/
+- type: x-open-source
+  url: https://www.ilias.de/ilias-open-source-verein/
+- type: x-open-source
+  url: https://www.openup-oer.de/
+- type: x-support
+  url: https://www.ilias.de/hilfe-support-ilias/
+- type: x-support
+  url: https://www.ilias.de/lms-ilias-profi-support/
+- type: x-support
+  url: https://2018.ilias.de/hilfe-support-ilias/
+- type: x-twitter
+  url: http://www.twitter.com/ILIASeLearning
+- type: x-website
+  url: https://www.ilias.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

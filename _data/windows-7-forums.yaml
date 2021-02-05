@@ -1,0 +1,31 @@
+---
+name: Windows 7 Forums
+description: Come visit the Windows 7 forums, dedicated to friendly discussion and
+  helpful tutorials on the new Microsoft Windows 7 Operating System.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "882511"
+url: https://raw.githubusercontent.com/api-network/organizations/main/windows-7-forums.yaml
+tags:
+- Windows 7
+apis: []
+x-common:
+- type: x-forum
+  url: https://www.w7forums.com/forums/windows-7-support.7/
+- type: x-forum
+  url: https://www.w7forums.com/articles/
+- type: x-forum
+  url: https://www.win8forums.com
+- type: x-forum
+  url: https://www.windows10forums.com
+- type: x-website
+  url: https://www.w7forums.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

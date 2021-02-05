@@ -1,0 +1,23 @@
+---
+name: Calgary Transit Service Alerts
+description: Transit authority located in Calgary, AB, Canada<br />
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/calgary-transit-service-alerts.yaml
+tags: []
+apis: []
+x-common:
+- type: x-gtfs-feed
+  url: http://transitdata.calgary.ca/ctransit/alerts.pb
+- type: x-website
+  url: https://data.calgary.ca/stories/s/u45n-7awa/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

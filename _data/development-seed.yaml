@@ -1,0 +1,47 @@
+---
+name: Development Seed
+description: <p><span>We help empower citizens and organizations with tools and data
+  to solve complex issues and make better decisions. As a small team we have implemented
+  some of the largest development&nbsp;</span><a href="http://www.developmentseed.org/projects">projects</a><span>.
+  Our agile approach has been refined&nbsp;</span><a href="http://www.developmentseed.org/about/history">over
+  years</a><span>&nbsp;of experience building open source and highly performant web
+  applications.</span></p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/DevelopmentSeed.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1103246"
+url: https://raw.githubusercontent.com/api-network/organizations/main/development-seed.yaml
+tags:
+- Have API
+apis: []
+x-common:
+- type: x-about
+  url: https://developmentseed.org/about
+- type: x-blog
+  url: http://www.developmentseed.org/blog/
+- type: x-blog-rss
+  url: http://www.developmentseed.org/blog.rss
+- type: x-careers
+  url: https://developmentseed.org/careers/jobs
+- type: x-careers
+  url: https://developmentseed.org/careers/jobs/
+- type: x-contact
+  url: https://developmentseed.org/contacts
+- type: x-email
+  url: info@developmentseed.org
+- type: x-github
+  url: https://github.com/developmentseed
+- type: x-twitter
+  url: https://twitter.com/developmentseed
+- type: x-twitter
+  url: https://twitter.com/developmentseed/
+- type: x-website
+  url: http://www.developmentseed.org/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

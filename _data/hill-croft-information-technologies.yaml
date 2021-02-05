@@ -1,0 +1,22 @@
+---
+name: Hill Croft Information Technologies
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hill-croft-information-technologies.yaml
+tags:
+- Databases
+apis: []
+x-common:
+- type: x-website
+  url: https://www.hcit.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

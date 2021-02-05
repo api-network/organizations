@@ -1,0 +1,53 @@
+---
+name: Quttera
+description: Free online heuristic URL scanning and malware detection. Scan websites
+  for malware, exploits and other infections with quttera detection engine to check
+  if the site is safe to browse. Check website for malicious pages and online threats.
+  Monitor websi...
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1783_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "93296"
+url: https://raw.githubusercontent.com/api-network/organizations/main/quttera.yaml
+tags:
+- Security
+- Malware
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://quttera.com/quttera-web-malware-scanner-api
+- type: x-blog
+  url: https://blog.quttera.com
+- type: x-blog
+  url: https://blog.quttera.com/
+- type: x-blog
+  url: http://blog.quttera.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/quttera
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/quttera
+- type: x-email
+  url: sales@quttera.com
+- type: x-email
+  url: support@quttera.com
+- type: x-email
+  url: contactus@quttera.com
+- type: x-facebook
+  url: https://www.facebook.com/Quttera
+- type: x-linkedin
+  url: https://www.linkedin.com/company/quttera/
+- type: x-privacy
+  url: https://quttera.com/privacy
+- type: x-twitter
+  url: https://twitter.com/quttera
+- type: x-youtube
+  url: https://www.youtube.com/c/quttera
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

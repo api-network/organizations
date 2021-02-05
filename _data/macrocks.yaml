@@ -1,0 +1,54 @@
+---
+name: MacRocks
+description: MacRocks is devoted to the promotion of everything and everyone that
+  rocks with a Mac! Mac Audio News, Reviews, helpful articles and links to Hardware
+  and Software for the new user of Mac's & Music are published every month.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/macrocks.yaml
+tags:
+- USB-to-MIDI Serial Adapter
+- USB Studio D
+- USB
+- Swissonic
+- Roland
+- Rock And Roll
+- PowerPC
+- NAMM
+- Musical Equipment
+- Music
+- MP3
+- MIDI
+- MacRocks
+- Macintosh
+- Mac
+- Keyboards
+- IPort
+- Imacs
+- IMac
+- IBook
+- Home Recording
+- Griffin NE Mic Adapter
+- G4
+- G3
+- Firewire
+- Digital Mixers
+- Digital Audio
+- Computers
+- Audio
+- ASIO
+- Apple
+apis: []
+x-common:
+- type: x-website
+  url: https://www.macrocks.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

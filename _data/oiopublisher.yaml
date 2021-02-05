@@ -1,0 +1,48 @@
+---
+name: OIOpublisher
+description: Control your ad space with the OIOpublisher ad manager. Serve advertising
+  on your blog or website and keep 100% of the revenue.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "294974"
+url: https://raw.githubusercontent.com/api-network/organizations/main/oiopublisher.yaml
+tags:
+- Website Monetization
+- Rotate Ads
+- Online Advertising
+- Manage Ads
+- Make Money Online
+- Advertising Platform
+- Ad Server
+- Ad Manager
+apis: []
+x-common:
+- type: x-about
+  url: https://www.oiopublisher.com/about.php
+- type: x-documentation
+  url: https://docs.oiopublisher.com
+- type: x-documentation
+  url: https://docs.oiopublisher.com/install/
+- type: x-documentation
+  url: https://docs.oiopublisher.com/configure/
+- type: x-documentation
+  url: https://docs.oiopublisher.com/customise/
+- type: x-marketplace
+  url: https://docs.oiopublisher.com/marketplace/
+- type: x-press
+  url: https://docs.oiopublisher.com/wordpress-compatibility/
+- type: x-privacy
+  url: https://www.oiopublisher.com/privacy.php
+- type: x-self-service-registration
+  url: https://www.oiopublisher.com/register.php
+- type: x-website
+  url: https://www.oiopublisher.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

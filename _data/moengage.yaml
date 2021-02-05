@@ -1,0 +1,30 @@
+---
+name: MoEngage
+description: MoEngage is a Targeted Marketing platform for Mobile App companies, who
+  can use our solution to send targeted messaging to their users, driving engagement.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29323-moengage-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "98596"
+url: https://raw.githubusercontent.com/api-network/organizations/main/moengage.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.moengage.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/moengage
+- type: x-email
+  url: privacy@moengage.com
+- type: x-twitter
+  url: https://twitter.com/moengage
+- type: x-website
+  url: http://moengage.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

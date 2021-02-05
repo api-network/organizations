@@ -1,0 +1,49 @@
+---
+name: NetSupport Manager
+description: NetSupport Manager Remote Control and Remote Access software - Remotely
+  Support any PC, Mac, ChromeOS or Linux system across LAN, WAN or internet from your
+  Windows PC, Apple Mac, iOS or Android device
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2276871"
+url: https://raw.githubusercontent.com/api-network/organizations/main/netsupport-manager.yaml
+tags:
+- Remote Systems Management
+- Remote Desktop
+- Remote Access Software
+- Remote Access
+- NetSupport Remote Access
+- NetSupport Manager
+- Multi-platform Remote Control Software
+- Desktop Management
+apis: []
+x-common:
+- type: x-about
+  url: https://www.netsupportsoftware.com/about.asp
+- type: x-careers
+  url: https://www.netsupportsoftware.com/jobs.asp
+- type: x-contact
+  url: https://www.netsupportsoftware.com/contact.asp
+- type: x-privacy
+  url: https://www.netsupportsoftware.com/privacy.asp
+- type: x-support
+  url: https://www.netsupportsoftware.com/quote/
+- type: x-support
+  url: https://www.netsupportsoftware.com/book-a-demo/
+- type: x-support
+  url: https://www.netsupportdna.com/corporate/
+- type: x-support
+  url: https://www.netsupportmanager.com/m_site/index.html
+- type: x-support
+  url: https://www.netsupportmanager.com/eula.asp
+- type: x-website
+  url: https://www.netsupportmanager.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

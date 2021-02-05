@@ -1,0 +1,29 @@
+---
+name: National Australia Bank
+description: "We\u2019re NAB. For 160 years, we\u2019ve been helping customers with
+  their money.  Today, we have over 30,000 people serving over 9 million customers
+  at more than 800 locations in Australia, New Zealand and around the world. We know
+  that to be Australia and New Zealand\u2019s most respected bank, we need to be more
+  than good with money.  We need to be just as good with people too."
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "2420"
+url: https://raw.githubusercontent.com/api-network/organizations/main/national-australia-bank.yaml
+tags:
+- Profile
+- Banks
+apis: []
+x-common:
+- type: x-privacy
+  url: http://www.nab.com.au/common/privacy-policy
+- type: x-website
+  url: http://developer.nab.com.au
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

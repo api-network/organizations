@@ -1,0 +1,48 @@
+---
+name: Katun
+description: Katun provides high-quality compatible toners, drums & parts for a wide
+  range of imaging equipment, including printers, copiers and MFPs, at very competitive
+  prices.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "516004"
+url: https://raw.githubusercontent.com/api-network/organizations/main/katun.yaml
+tags:
+- Manufacturers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.katun.com
+- type: x-about
+  url: http://www.katun.com/about-us/
+- type: x-about
+  url: http://www.katun.com/about-us/the-company/
+- type: x-about
+  url: http://www.katun.com/about-us/service-support/
+- type: x-about
+  url: http://www.katun.com/about-us/environment/
+- type: x-careers
+  url: http://www.katun.com/about-us/careers/
+- type: x-contact
+  url: http://www.katun.com/about-us/contact-katun/
+- type: x-facebook
+  url: https://www.facebook.com/Katun-152312884802146/?ref=hl
+- type: x-linkedin
+  url: https://www.linkedin.com/company/katun-corporation
+- type: x-news
+  url: http://www.katun.com/about-us/news/
+- type: x-twitter
+  url: https://twitter.com/katun
+- type: x-website
+  url: https://www.katun.com
+- type: x-youtube
+  url: https://www.youtube.com/user/KatunCorporation
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

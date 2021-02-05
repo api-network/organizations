@@ -1,0 +1,53 @@
+---
+name: Softpedia
+description: A library of over 1,000,000 free and free-to-try applications for Windows,
+  Mac, Linux and Smartphones, Games and Drivers plus tech-focused news and reviews
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2492"
+url: https://raw.githubusercontent.com/api-network/organizations/main/softpedia.yaml
+tags:
+- Windows
+- Trial
+- Software
+- Softpedia
+- Shareware
+- Security
+- Programs
+- PDA
+- OpenSource
+- Open Source
+- News
+- Microsoft
+- Mac OS
+- Mac
+- Linux
+- Handheld
+- Freeware
+- Download
+- Directories
+- Demo
+- Apple
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.softpedia.com/user/contact.php
+- type: x-news
+  url: https://news.softpedia.com/
+- type: x-news
+  url: https://news.softpedia.com/cat/Reviews/
+- type: x-news
+  url: https://news.softpedia.com/newsRSS/Global-0.xml
+- type: x-privacy
+  url: https://www.softpedia.com/user/privacy.shtml
+- type: x-website
+  url: https://www.softpedia.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

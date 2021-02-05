@@ -1,0 +1,42 @@
+---
+name: Airspan Networks Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "840687"
+url: https://raw.githubusercontent.com/api-network/organizations/main/airspan-networks-inc-.yaml
+tags:
+- Wireless
+apis: []
+x-common:
+- type: x-about
+  url: https://www.airspan.com/about-airspan/
+- type: x-careers
+  url: https://www.airspan.com/careers/
+- type: x-contact
+  url: https://www.airspan.com/contact/
+- type: x-events
+  url: https://www.airspan.com/category/events/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/airspan-networks/
+- type: x-news
+  url: https://www.airspan.com/news/
+- type: x-news
+  url: https://www.airspan.com/news
+- type: x-privacy
+  url: https://www.airspan.com/privacy-policy/
+- type: x-support
+  url: https://www.airspan.com/support/
+- type: x-twitter
+  url: https://twitter.com/AirspanNetworks?lang=en
+- type: x-website
+  url: https://www.airspan.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

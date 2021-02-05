@@ -1,0 +1,27 @@
+---
+name: Machinecoin
+description: '#FireUpTheMachine &lt;3 #Cryptocurrency.   Paper: https://t.co/YF7Af8mAsP
+  Explorer: https://t.co/G0Lt1TxDRi'
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27231-www-machinecoin-org.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "2935859"
+url: https://raw.githubusercontent.com/api-network/organizations/main/machinecoin.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: https://machinecoin.io
+- type: x-twitter
+  url: https://twitter.com/Machinecoin
+- type: x-website
+  url: http://www.machinecoin.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

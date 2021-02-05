@@ -1,0 +1,59 @@
+---
+name: Webreader
+description: With WebReader News RSS Reader you can subscribe to your favorite sites
+  and blogs for new content. WebReader is the most popular cross platform best rss
+  reader and is a full featured Google Reader desktop client.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9131835"
+url: https://raw.githubusercontent.com/api-network/organizations/main/webreader.yaml
+tags:
+- Webreader
+- Web Reader
+- Rss Reader
+- Handhelds
+- Google Reader Desktop Client
+- Desktop Rss Reader Software
+apis: []
+x-common:
+- type: x-blog
+  url: http://www.getwebreader.com/blog/
+- type: x-blog
+  url: https://www.getwebreader.com/blog/
+- type: x-contact
+  url: http://www.getwebreader.com/contact
+- type: x-developer
+  url: http://developer.getwebreader.com
+- type: x-feed
+  url: http://www.getwebreader.com/feedback/
+- type: x-news
+  url: http://www.getwebreader.com/news-rss-reader-playbook
+- type: x-news
+  url: http://www.getwebreader.com/news-rss-reader-android/
+- type: x-news
+  url: http://www.getwebreader.com/news-rss-reader-playbook/
+- type: x-news
+  url: https://www.getwebreader.com/news-rss-reader-android/
+- type: x-news
+  url: https://www.getwebreader.com/news-rss-reader-playbook/
+- type: x-press
+  url: http://www.getwebreader.com/press
+- type: x-press
+  url: http://www.getwebreader.com/press/
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-twitter
+  url: http://www.twitter.com/webreader
+- type: x-website
+  url: https://www.getwebreader.com
+- type: x-youtube
+  url: http://www.youtube.com/user/SoftArtists
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

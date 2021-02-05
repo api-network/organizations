@@ -1,0 +1,37 @@
+---
+name: RoboWhois
+description: RoboWhois is a web service that provides a RESTful whois API to access
+  whois records and domain related information with a unified, consistent interface.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/robo-whois.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6271724"
+url: https://raw.githubusercontent.com/api-network/organizations/main/robowhois.yaml
+tags:
+- Whois
+- HTTP POST
+- Have API
+- Domains
+- Domains
+apis: []
+x-common:
+- type: x-base
+  url: https://api.robowhois.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/product/robowhois
+- type: x-developers
+  url: https://www.robowhois.com/docs/api/
+- type: x-github
+  url: https://github.com/robowhois
+- type: x-twitter
+  url: https://twitter.com/robowhois
+- type: x-website
+  url: http://www.robowhois.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

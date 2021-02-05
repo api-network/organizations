@@ -1,0 +1,22 @@
+---
+name: Monkeying Around Systems
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10315169"
+url: https://raw.githubusercontent.com/api-network/organizations/main/monkeying-around-systems.yaml
+tags:
+- FreeBSD
+apis: []
+x-common:
+- type: x-website
+  url: https://scratching.psybermonkey.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

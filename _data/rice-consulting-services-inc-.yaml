@@ -1,0 +1,36 @@
+---
+name: Rice Consulting Services, Inc.
+description: Rice Consulting Services specializes in software testing training and
+  software testing consulting. We offer ISTQB Certification Training courses and e-learning
+  courses in software testing.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1579288"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rice-consulting-services-inc-.yaml
+tags:
+- United States
+- Software Testing Training Courses Online
+- Software Testing Consulting
+- Software Testing
+- ISTQB
+- Certification
+- Assessments
+apis: []
+x-common:
+- type: x-website
+  url: http://www.riceconsulting.com
+- type: x-blog
+  url: http://randallrice.blogspot.com
+- type: x-twitter
+  url: http://www.twitter.com/rricetester
+- type: x-website
+  url: https://www.riceconsulting.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

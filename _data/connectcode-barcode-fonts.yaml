@@ -1,0 +1,32 @@
+---
+name: ConnectCode Barcode Fonts
+description: Barcode Resource develops and markets barcode software, barcode fonts,
+  barcode software sdk, label printing app and MICR fonts that adheres strictly to
+  industry specifications.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "406754"
+url: https://raw.githubusercontent.com/api-network/organizations/main/connectcode-barcode-fonts.yaml
+tags:
+- Micr E13b Fonts
+- Gs1-128 Barcode
+- Ean13 Barcode
+- Code 128 Barcode
+- Barcode Software Sdk
+- Barcode Software
+- Barcode Fonts
+- Barcode Font
+- Barcode
+apis: []
+x-common:
+- type: x-website
+  url: https://www.barcoderesource.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

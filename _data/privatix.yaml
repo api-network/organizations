@@ -1,0 +1,40 @@
+---
+name: Privatix
+description: Unblock any blocked websites, protect WiFi and ensure online security.
+  Real privacy protection with free and unlimited access
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27098-privatix-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "93443"
+url: https://raw.githubusercontent.com/api-network/organizations/main/privatix.yaml
+tags:
+- Networks
+- Blockchain
+apis: []
+x-common:
+- type: x-email
+  url: dima@privatix.io
+- type: x-email
+  url: rubtsov@privatix.io
+- type: x-email
+  url: vitaliy@privatix.io
+- type: x-email
+  url: slava@privatix.io
+- type: x-email
+  url: viktor@privatix.io
+- type: x-email
+  url: timur@privatix.io
+- type: x-email
+  url: alex@privatix.io
+- type: x-twitter
+  url: https://twitter.com/Privatix1
+- type: x-website
+  url: https://privatix.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

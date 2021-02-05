@@ -1,0 +1,23 @@
+---
+name: Antiword
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3865076"
+url: https://raw.githubusercontent.com/api-network/organizations/main/antiword.yaml
+tags:
+- Software
+- DTP
+apis: []
+x-common:
+- type: x-website
+  url: https://www.winfield.demon.nl
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

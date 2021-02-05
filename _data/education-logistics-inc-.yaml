@@ -1,0 +1,46 @@
+---
+name: Education Logistics, Inc.
+description: Transportation software for schools.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3537560"
+url: https://raw.githubusercontent.com/api-network/organizations/main/education-logistics-inc-.yaml
+tags:
+- Administration And School Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.edulog.com
+- type: x-blog
+  url: https://www.edulog.com/blog/
+- type: x-case-studies
+  url: https://www.edulog.com/edulog-case-studies/
+- type: x-facebook
+  url: https://www.facebook.com/educationlogistics/
+- type: x-instagram
+  url: https://www.instagram.com/educationlogistics/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/educationlogistics/
+- type: x-news
+  url: https://www.edulog.com/edulog-in-the-news/
+- type: x-press
+  url: https://www.edulog.com/press-releases/
+- type: x-pricing
+  url: https://www.edulog.com/2020-pricing/
+- type: x-privacy
+  url: https://www.edulog.com/privacy-policy/
+- type: x-support
+  url: https://www.edulog.com/support/
+- type: x-twitter
+  url: https://twitter.com/EDULOG_US
+- type: x-website
+  url: https://www.edulog.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

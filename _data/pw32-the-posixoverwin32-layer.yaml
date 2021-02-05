@@ -1,0 +1,22 @@
+---
+name: PW32 the POSIX-over-Win32 layer
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "430"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pw32-the-posixoverwin32-layer.yaml
+tags:
+- Win32
+apis: []
+x-common:
+- type: x-website
+  url: https://pw32.sourceforge.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

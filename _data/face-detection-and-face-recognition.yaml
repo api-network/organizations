@@ -1,0 +1,48 @@
+---
+name: Face Detection and Face Recognition
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "927417"
+url: https://raw.githubusercontent.com/api-network/organizations/main/face-detection-and-face-recognition.yaml
+tags:
+- Face Recognition
+apis: []
+x-common:
+- type: x-contact
+  url: http://149.202.120.157/wpa/index.php/contact
+- type: x-contact
+  url: https://www.betafaceapi.com/wpa/index.php/contact
+- type: x-contact
+  url: https://www.betaface.com/wpa/index.php/contact
+- type: x-developer
+  url: https://www.betafaceapi.com/wpa/
+- type: x-developer
+  url: https://www.betafaceapi.com/wpa
+- type: x-developer
+  url: https://www.betafaceapi.com/wpa/index.php/demo
+- type: x-developer
+  url: https://www.betafaceapi.com/demo.html
+- type: x-developer
+  url: https://betafaceapi.com/Betaface_Face_Recognition.html
+- type: x-developer
+  url: https://www.betafaceapi.com/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/betaface
+- type: x-pricing
+  url: https://www.betafaceapi.com/wpa/index.php/pricing
+- type: x-twitter
+  url: http://twitter.com/betaface
+- type: x-twitter
+  url: http://twitter.com/betaface/
+- type: x-website
+  url: https://www.betaface.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

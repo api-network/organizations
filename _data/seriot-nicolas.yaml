@@ -1,0 +1,57 @@
+---
+name: Seriot, Nicolas
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1162431"
+url: https://raw.githubusercontent.com/api-network/organizations/main/seriot-nicolas.yaml
+tags:
+- Source
+- Software
+- Seriot
+- Python
+- Objective-C
+- Nicolas Seriot
+- Nicolas
+- Mac OS X
+- Mac OS
+- Engineering
+- Engineer
+- Code
+- Cocoa
+- Apple
+apis: []
+x-common:
+- type: x-website
+  url: http://seriot.ch
+- type: x-code
+  url: http://seriot.ch/unicode/poster.png
+- type: x-developer
+  url: http://seriot.ch/abusing_twitter_api.php
+- type: x-developer
+  url: http://developer.seriot.ch
+- type: x-facebook
+  url: http://www.facebook.com/profile.php?id=581380035
+- type: x-github
+  url: https://github.com/nst
+- type: x-github
+  url: https://github.com/nst/RuntimeBrowser
+- type: x-github
+  url: https://github.com/nst/STTwitter
+- type: x-linkedin
+  url: http://www.linkedin.com/in/nseriot
+- type: x-twitter
+  url: http://www.twitter.com/nst021
+- type: x-website
+  url: https://www.seriot.ch
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=MhB1zSsF1vs
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

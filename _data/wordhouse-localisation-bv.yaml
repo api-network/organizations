@@ -1,0 +1,27 @@
+---
+name: WordHouse localisation bv
+description: Zakelijk vertaalbureau WordHouse in Amsterdam biedt u professionele vertalingen
+  in diverse talen en vakgebieden. Vraag online een vrijblijvende offerte aan.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wordhouse-localisation-bv.yaml
+tags:
+- Localization And Internationalization
+apis: []
+x-common:
+- type: x-contact
+  url: https://wordhouse.com/contact/
+- type: x-open-source
+  url: https://wordhouse.com/over-ons/open-sollicitaties/
+- type: x-website
+  url: https://www.wordhouse.nl
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,38 @@
+---
+name: Volksbank Tirol Innsbruck-Schwaz AG
+description: Die Homepage der Volksbank Tirol AG bietet Informationen zu allen Finanzdienstleistungen
+  der Bank (Veranlagen, Vorsorgen, Konto & Karten, Finanzierung, Internet-Banking
+  uvm.) sowie aktuelle Services (Immobilien, Tickets, Jobangebote) und News zu Untern...
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28011-www-volksbank-tirol.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "217910"
+url: https://raw.githubusercontent.com/api-network/organizations/main/volksbank-tirol-innsbruckschwaz-ag.yaml
+tags:
+- EU Bank
+apis: []
+x-common:
+- type: x-email
+  url: office@volksbank.tirol
+- type: x-email
+  url: roland.gampe@volksbank.tirol
+- type: x-email
+  url: thomas.hammerle@volksbank.tirol
+- type: x-email
+  url: alexander.klinger@volksbank.tirol
+- type: x-email
+  url: sabrina.strobl@volksbank.tirol
+- type: x-email
+  url: bernhard.hauser@volksbank.tirol
+- type: x-email
+  url: angela.hupf@volksbank.tirol
+- type: x-website
+  url: https://www.volksbank.tirol
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

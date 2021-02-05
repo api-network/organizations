@@ -1,0 +1,38 @@
+---
+name: Stochos Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/stochos-inc-.yaml
+tags:
+- Stochos
+- Statistical Process Control
+- Statistical Analysis
+- Spc Training
+- Spc Direct
+- Spc
+- Software
+- Quality Software
+- Quality Control
+- Qc
+- Process Improvement
+- Process
+- Proactive
+- Ppi
+- Key Variable Identification
+- Custom Qc
+- Cqc
+apis: []
+x-common:
+- type: x-website
+  url: https://www.stochos.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

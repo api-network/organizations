@@ -1,0 +1,44 @@
+---
+name: TourCMS Marketplace
+description: Web based reservation & distribution system for specialist tour operators
+  & activity companies
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/501-tourcms-marketplace.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "316916"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tourcms-marketplace.yaml
+tags:
+- Tour
+- Reservations
+- Reservations
+- Marketplaces
+- Have API
+- Bookings
+apis: []
+x-common:
+- type: x-website
+  url: http://www.tourcms.com/support/api/mp/
+- type: x-website
+  url: http://www.TourCMS.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/tourcms
+- type: x-feed
+  url: http://feeds.tourcms.com/tourcms
+- type: x-partner
+  url: http://www.tourcms.com/mp/partners.php
+- type: x-partner
+  url: http://www.tourcms.com/signup/partner.php
+- type: x-support
+  url: http://www.tourcms.com/support/
+- type: x-twitter
+  url: http://twitter.com/tourcms
+- type: x-twitter
+  url: https://twitter.com/TourCMS
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,38 @@
+---
+name: SotoNets
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7341321"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sotonets.yaml
+tags:
+- Backup
+apis: []
+x-common:
+- type: x-website
+  url: http://www.SotoNets.com
+- type: x-facebook
+  url: https://www.facebook.com/sotonets
+- type: x-instagram
+  url: https://www.instagram.com/sotonets/
+- type: x-news
+  url: https://www.sotonets.com/cloud-news/
+- type: x-press
+  url: http://wordpress.org
+- type: x-security
+  url: https://www.sotonets.com/cybersecurity-videos/
+- type: x-showcase
+  url: https://www.linkedin.com/showcase/6433477/
+- type: x-twitter
+  url: https://twitter.com/SotoNets
+- type: x-website
+  url: https://www.sotonets.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

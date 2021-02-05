@@ -1,0 +1,83 @@
+---
+name: Shipwire
+description: The cloud-based platform to power your global logistics network, The
+  Shipwire Platform includes tools for you to grow and manage your business.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/478_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "16791"
+url: https://raw.githubusercontent.com/api-network/organizations/main/shipwire.yaml
+tags:
+- Shipping Stac
+- Shipping
+- Have API
+apis: []
+x-common:
+- type: x-about
+  url: https://www.ingrammicrocommerce.com/about
+- type: x-base
+  url: https://api.shipwire.com
+- type: x-blog
+  url: http://www.shipwire.com/w/blog/
+- type: x-blog
+  url: https://www.ingrammicrocommerce.com/blog
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/shipwire
+- type: x-contact
+  url: https://www.shipwire.com/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/shipwire
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/shipwire
+- type: x-developers
+  url: http://www.shipwire.com/developers/
+- type: x-email
+  url: info@shipwire.com
+- type: x-email
+  url: security@shipwire.com
+- type: x-email
+  url: customercare@shipwire.com
+- type: x-email
+  url: Legal@shipwire.com
+- type: x-github
+  url: https://github.com/shipwire
+- type: x-linkedin
+  url: https://www.linkedin.com/company/shipwire-inc-
+- type: x-platform
+  url: https://www.shipwire.com/platform/overview/
+- type: x-platform
+  url: https://www.shipwire.com/platform/sell-multichannel/
+- type: x-platform
+  url: https://www.shipwire.com/platform/ship-anywhere/
+- type: x-platform
+  url: https://www.shipwire.com/platform/automate-optimize/
+- type: x-platform
+  url: https://www.shipwire.com/platform/manage-data/
+- type: x-platform
+  url: https://www.shipwire.com/platform/empower-developers/
+- type: x-press
+  url: https://www.ingrammicrocommerce.com/press/
+- type: x-pricing
+  url: https://www.shipwire.com/pricing/
+- type: x-pricing
+  url: https://www.ingrammicrocommerce.com/shipwire-pricing/
+- type: x-road-map
+  url: https://www.shipwire.com/w/developers/roadmap/
+- type: x-twitter
+  url: https://www.twitter.com/shipwire
+- type: x-twitter
+  url: https://twitter.com/shipwire
+- type: x-webhooks
+  url: https://www.shipwire.com/w/developers/webhook/
+- type: x-website
+  url: http://www.shipwire.com
+- type: x-website
+  url: http://www.shipwire.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

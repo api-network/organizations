@@ -1,0 +1,44 @@
+---
+name: Crispin
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6824680"
+url: https://raw.githubusercontent.com/api-network/organizations/main/crispin.yaml
+tags:
+- Broadcast
+apis: []
+x-common:
+- type: x-website
+  url: http://www.crispincorp.com
+- type: x-about
+  url: https://www.crispincorp.com/about-us/
+- type: x-about
+  url: https://www.crispincorp.com/about-us/history/
+- type: x-contact
+  url: https://www.crispincorp.com/contact-us/
+- type: x-contact
+  url: https://www.crispincorp.com/contact-us/careers/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/crispin-corporation
+- type: x-news
+  url: https://www.crispincorp.com/solutions/news/
+- type: x-news
+  url: https://www.crispincorp.com/december-2019-newsletter/
+- type: x-news
+  url: https://www.crispincorp.com/november-2019-newsletter/
+- type: x-partner
+  url: https://www.crispincorp.com/partners/
+- type: x-twitter
+  url: https://twitter.com/crispincorp
+- type: x-website
+  url: https://www.crispincorp.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

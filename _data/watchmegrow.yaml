@@ -1,0 +1,64 @@
+---
+name: WatchMeGrow
+description: 'WatchMeGrow is the #1 Streaming Video Service for childcare centers,
+  daycare and schools. Delight your parents, increase enrollment and improve retention
+  with our secure webcams.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "271184"
+url: https://raw.githubusercontent.com/api-network/organizations/main/watchmegrow.yaml
+tags:
+- Daycare
+apis: []
+x-common:
+- type: x-about
+  url: https://watchmegrow.com/about
+- type: x-blog
+  url: https://watchmegrow.com/blog
+- type: x-developer
+  url: http://developer.watchmegrow.com
+- type: x-facebook
+  url: https://www.facebook.com/watchmegrowstreamingvideo/
+- type: x-instagram
+  url: https://www.instagram.com/watchmegrowstreamingvideo/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/watchmegrow/
+- type: x-pricing
+  url: https://watchmegrow.com/schools/how-it-works/pricing
+- type: x-privacy
+  url: https://watchmegrow.com/privacy-policy
+- type: x-support
+  url: https://watchmegrow.com/support
+- type: x-terms-of-service
+  url: https://watchmegrow.com/terms-of-use
+- type: x-website
+  url: https://www.watchmegrow.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=flIbLIz1NVw
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=BKo7USTFEaw
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=uuCQj0W0xsI
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=8G1d0rvHd3c
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=7t4wO3ZpGjU
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=jNIZuhYu1-o
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=zaMHlUvNBU0
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=Zr3GyhmxA9U
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=PEJgg5vqgC0
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=vVtNrSD7rAg
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

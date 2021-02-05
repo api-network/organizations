@@ -1,0 +1,50 @@
+---
+name: IEEE Computer Society
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "56951"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ieee-computer-society.yaml
+tags:
+- Professional
+- Organizations
+- IEEE
+apis: []
+x-common:
+- type: x-website
+  url: http://computer.org
+- type: x-careers
+  url: https://jobs.computer.org/
+- type: x-careers
+  url: https://jobs.computer.org
+- type: x-careers
+  url: https://jobs.computer.org/jobs/rss/13259865/sr-cnslnt
+- type: x-facebook
+  url: https://www.facebook.com/ieeecomputersociety
+- type: x-instagram
+  url: https://www.instagram.com/ieee_computer_society/
+- type: x-login
+  url: https://ieeecps.org/#!/auth/login
+- type: x-news
+  url: https://www.computer.org/publications/tech-news
+- type: x-security
+  url: https://www.ieee.org/security-privacy.html
+- type: x-support
+  url: https://supportcenter.ieee.org
+- type: x-terms-of-service
+  url: http://www.ieee.org/site_terms_conditions.html
+- type: x-twitter
+  url: https://www.twitter.com/computersociety
+- type: x-website
+  url: https://www.computer.org
+- type: x-youtube
+  url: http://www.youtube.com/user/ieeeComputerSociety
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

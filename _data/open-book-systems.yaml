@@ -1,0 +1,38 @@
+---
+name: Open Book Systems
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2023791"
+url: https://raw.githubusercontent.com/api-network/organizations/main/open-book-systems.yaml
+tags:
+- Content Management
+apis: []
+x-common:
+- type: x-about
+  url: https://www.obs.com/about/
+- type: x-about
+  url: https://www.obs.com/about/our-history/
+- type: x-about
+  url: https://www.obs.com/about/client-list/
+- type: x-about
+  url: https://www.obs.com/about/archives/
+- type: x-case-studies
+  url: https://www.obs.com/about/case-studies/
+- type: x-contact
+  url: https://www.obs.com/contact-us/
+- type: x-developer
+  url: http://dev.obs.com
+- type: x-news
+  url: https://www.obs.com/category/whats-new/obs-news/
+- type: x-website
+  url: https://www.obs.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

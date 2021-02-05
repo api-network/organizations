@@ -1,0 +1,44 @@
+---
+name: MauroNewMedia
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4594930"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mauronewmedia.yaml
+tags:
+- Companies And Consultants
+apis: []
+x-common:
+- type: x-website
+  url: http://www.mauronewmedia.com/blog/
+- type: x-about
+  url: https://www.mauronewmedia.com/about/clients/
+- type: x-about
+  url: https://www.mauronewmedia.com/about/founders/
+- type: x-about
+  url: https://www.mauronewmedia.com/about/about-us/
+- type: x-about
+  url: https://www.mauronewmedia.com/about/major-awards/
+- type: x-blog
+  url: https://www.mauronewmedia.com/blog/
+- type: x-careers
+  url: https://www.mauronewmedia.com/about/careers/
+- type: x-contact
+  url: https://www.mauronewmedia.com/contact/
+- type: x-developer
+  url: http://developer.mauronewmedia.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/maurousabilityscience
+- type: x-twitter
+  url: https://twitter.com/PulseUX
+- type: x-website
+  url: https://www.mauronewmedia.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

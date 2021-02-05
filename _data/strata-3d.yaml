@@ -1,0 +1,59 @@
+---
+name: Strata 3d
+description: Strata is a 3D/VR/AR Developer and Studio that creates powerful 3D modeling
+  software and solutions. Start a free trial and bring your project to life!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "455766"
+url: https://raw.githubusercontent.com/api-network/organizations/main/strata-3d.yaml
+tags:
+- 3D
+apis: []
+x-common:
+- type: x-website
+  url: http://www.strata.com
+- type: x-blog
+  url: https://www.strata.com/3d-power-blog/
+- type: x-case-studies
+  url: https://www.strata.com/category/case-studies/
+- type: x-contact
+  url: https://www.strata.com/contact-strata/
+- type: x-events
+  url: https://www.strata.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/Strata3D
+- type: x-forum
+  url: https://www.strata.com/forums-2/
+- type: x-instagram
+  url: https://www.instagram.com/strata3d/
+- type: x-login
+  url: https://www.strata.com/sign-in/
+- type: x-login
+  url: https://www.strata.com/designers-login/
+- type: x-pricing
+  url: https://www.strata.com/academic-government-pricing/
+- type: x-privacy
+  url: https://www.strata.com/privacy-policy/
+- type: x-showcase
+  url: https://www.strata.com/gallery/strata-showcase/
+- type: x-support
+  url: https://www.strata.com/support-home-page/
+- type: x-support
+  url: http://support.strata.com/
+- type: x-terms-of-service
+  url: https://www.strata.com/terms-use/
+- type: x-terms-of-service
+  url: https://www.strata.com/subscription-terms/
+- type: x-twitter
+  url: https://twitter.com/strata3DDesign
+- type: x-website
+  url: https://www.strata.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

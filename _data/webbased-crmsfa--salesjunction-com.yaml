@@ -1,0 +1,36 @@
+---
+name: Web-Based CRM/SFA - SalesJunction.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5686172"
+url: https://raw.githubusercontent.com/api-network/organizations/main/webbased-crmsfa--salesjunction-com.yaml
+tags:
+- Contact Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.salesjunction.com
+- type: x-about
+  url: https://plus.google.com/101833020750044661017/about
+- type: x-linkedin
+  url: http://www.linkedin.com/company/silvercloud-partners
+- type: x-pricing
+  url: http://www.salesjunction.net/pricing-features/
+- type: x-signup
+  url: http://www.salesjunction.net/signup/
+- type: x-twitter
+  url: https://twitter.com/SalesJunction
+- type: x-website
+  url: https://www.salesjunction.com
+- type: x-youtube
+  url: http://www.youtube.com/user/SalesJunction
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,32 @@
+---
+name: XCart Mods, X-Cart Addons, XCart Customization - WebsiteCM
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xcart-mods-xcart-addons-xcart-customization--websitecm.yaml
+tags:
+- E-commerce
+apis: []
+x-common:
+- type: x-website
+  url: http://www.smackdigital.com
+- type: x-linkedin
+  url: https://www.linkedin.com/in/smackdigital
+- type: x-login
+  url: https://www.smackdigital.com/login.php
+- type: x-self-service-registration
+  url: https://www.smackdigital.com/register.php
+- type: x-twitter
+  url: https://twitter.com/SmackDigital
+- type: x-website
+  url: https://www.websitecm.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

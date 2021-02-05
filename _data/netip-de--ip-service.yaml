@@ -1,0 +1,43 @@
+---
+name: NetIP.de - IP Service
+description: Determines the server location of an internet address. It shows you the
+  country, the region and the city from a network name or address. Here you get more
+  information about this server address.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "11004682"
+url: https://raw.githubusercontent.com/api-network/organizations/main/netip-de--ip-service.yaml
+tags:
+- Whois
+- Transmission Control Protocol
+- Tracert
+- Traceroute
+- TCP
+- Subnetmask
+- Routing
+- Ping
+- Network
+- Netclass
+- Lookup
+- Ip
+- Internet Protocol
+- Hostname
+- DNS
+- Address
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.netip.de/contact
+- type: x-press
+  url: https://www.netip.de/impressum.htm
+- type: x-website
+  url: https://www.netip.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

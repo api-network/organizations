@@ -1,0 +1,56 @@
+---
+name: Energid Technologies
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1429061"
+url: https://raw.githubusercontent.com/api-network/organizations/main/energid-technologies.yaml
+tags:
+- Companies
+apis: []
+x-common:
+- type: x-website
+  url: http://www.energid.com
+- type: x-about
+  url: https://www.energid.com/about
+- type: x-about
+  url: https://www.energid.com/about/meet-the-team
+- type: x-blog
+  url: https://www.energid.com/blog
+- type: x-blog
+  url: https://www.energid.com/blog?hsLang=en-us
+- type: x-careers
+  url: https://www.energid.com/about/careers
+- type: x-contact
+  url: https://www.energid.com/about/contact
+- type: x-customers
+  url: https://www.energid.com/about/customers
+- type: x-documentation
+  url: https://www.energid.com/resources#documentation
+- type: x-facebook
+  url: https://www.facebook.com/757329567735519
+- type: x-instagram
+  url: https://www.instagram.com/energid_technologies
+- type: x-linkedin
+  url: https://www.linkedin.com/company/74306
+- type: x-news
+  url: https://www.energid.com/about/newsroom
+- type: x-news
+  url: https://www.energid.com/company-news
+- type: x-partner
+  url: https://www.energid.com/about/partners
+- type: x-twitter
+  url: https://twitter.com/energid
+- type: x-website
+  url: https://www.energid.com
+- type: x-white-papers
+  url: https://www.energid.com/resources#white-papers
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

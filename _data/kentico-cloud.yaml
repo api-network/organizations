@@ -1,0 +1,70 @@
+---
+name: Kentico Cloud
+description: 'Kentico Cloud is the #1 CMS that enables digital teams to collaborate
+  quickly to create engaging personalized experiences across any device. Free 30-day
+  trial!'
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28870-kenticocloud-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "5"
+x-alexaRank: "3907808"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kentico-cloud.yaml
+tags:
+- Relative Data
+- Have API Paths
+- Have API
+apis: []
+x-common:
+- type: x-blog-rss
+  url: https://kenticocloud.com/rss
+- type: x-github
+  url: https://github.com/kentico
+- type: x-postman-collection
+  url: https://app.getpostman.com/run-collection/519dd5697b81ba7336a3
+- type: x-website
+  url: https://kenticocloud.com/
+- type: x-website
+  url: http://kontent.ai
+- type: x-about
+  url: https://kontent.ai/about
+- type: x-blog
+  url: https://kenticocloud.com/blog
+- type: x-careers
+  url: https://jobs.kentico.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/kentico
+- type: x-documentation
+  url: https://docs.kontent.ai/
+- type: x-facebook
+  url: https://www.facebook.com/kenticokontent
+- type: x-github
+  url: https://github.com/Domitnator/kenticocloud-nuxt-module
+- type: x-github
+  url: https://kentico.github.io/
+- type: x-github
+  url: https://github.com/topics/kentico-kontent
+- type: x-partners
+  url: https://kenticocloud.com/partners
+- type: x-pricing
+  url: https://kenticocloud.com/pricing
+- type: x-showcase
+  url: https://www.linkedin.com/showcase/kenticokontent
+- type: x-status
+  url: https://status.kontent.ai/
+- type: x-twitter
+  url: https://twitter.com/kenticokontent
+- type: x-twitter
+  url: https://twitter.com/kenticocloud
+- type: x-webhooks
+  url: https://developer.kenticocloud.com/docs/webhooks
+- type: x-website
+  url: https://kenticocloud.com
+- type: x-youtube
+  url: https://youtube.com/c/kenticokontent
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

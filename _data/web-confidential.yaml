@@ -1,0 +1,31 @@
+---
+name: Web Confidential
+description: Web Confidential for Macintosh, Palm, and Windows. The most powerful
+  password manager around. Uses very strong encryption.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/web-confidential.yaml
+tags:
+- Security
+- Privacy
+- Password Manager
+- Macintosh
+- Internet
+- Encryption
+- Cryptography
+- Confidential
+- Conduit
+apis: []
+x-common:
+- type: x-website
+  url: https://www.web-confidential.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

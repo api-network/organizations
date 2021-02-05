@@ -1,0 +1,59 @@
+---
+name: FilesAnywhere.com
+description: A secure platform to share, sync, and store your data, all while maintaining
+  industry compliance. Hosted in our Cloud or with Microsoft Azure.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "233123"
+url: https://raw.githubusercontent.com/api-network/organizations/main/filesanywhere-com.yaml
+tags:
+- Storage
+apis: []
+x-common:
+- type: x-website
+  url: http://www.filesanywhere.com/
+- type: x-contact
+  url: https://www.filesanywhere.com/contact-us/
+- type: x-customers
+  url: https://www.filesanywhere.com/customers/
+- type: x-customers
+  url: https://www.filesanywhere.com/customers/finance/
+- type: x-customers
+  url: https://www.filesanywhere.com/customers/healthcare/
+- type: x-customers
+  url: https://www.filesanywhere.com/customers/industrial/
+- type: x-customers
+  url: https://www.filesanywhere.com/customers/legal/
+- type: x-customers
+  url: https://www.filesanywhere.com/customers/retail/
+- type: x-facebook
+  url: https://www.facebook.com/filesanywhere/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/filesanywhere.com
+- type: x-login
+  url: https://login.filesanywhere.com/Login.aspx
+- type: x-news
+  url: https://mailchi.mp/filesanywhere/newsletter
+- type: x-privacy
+  url: https://www.filesanywhere.com/privacy/
+- type: x-security
+  url: https://www.filesanywhere.com/resources/data-security/
+- type: x-support
+  url: https://support.filesanywhere.com/hc/en-us
+- type: x-support
+  url: http://support.filesanywhere.com/hc/en-us/requests/new
+- type: x-terms-of-service
+  url: https://www.filesanywhere.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/FilesAnywhere
+- type: x-website
+  url: https://www.filesanywhere.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,39 @@
+---
+name: Century Systems, Inc.
+description: Century Systems specializes in distributing barcode printers, barcode
+  label software, thermal ribbons, barcode printer parts, rewinders, printer repair
+  service, thermal labels, and other accessories.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7205050"
+url: https://raw.githubusercontent.com/api-network/organizations/main/century-systems-inc-.yaml
+tags:
+- Thermal
+- Systems
+- Software
+- Service
+- Ribbon
+- Rewinders
+- Repair
+- Printers
+- Printer
+- Parts
+- Label
+- Distributor
+- Century
+- Barcode
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.centurysystems.com/csblog/
+- type: x-website
+  url: https://www.centurysystems.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,75 @@
+---
+name: Spellchecker.net
+description: Professional spell- and grammar checking tools for web applications.
+  Easily integrated with CKEditor, Froala Editor, TinyMCE, WordPress, Confluence.
+  168 languages plus professional lexicons.Learn more.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/939_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6066988"
+url: https://raw.githubusercontent.com/api-network/organizations/main/spellchecker-net.yaml
+tags:
+- Spelling
+- Spelling
+- Have API
+- Content
+apis: []
+x-common:
+- type: x-website
+  url: http://www.webspellchecker.com
+- type: x-about
+  url: https://webspellchecker.com/about-us/
+- type: x-base
+  url: http://www.webspellchecker.net/spellcheck3/
+- type: x-blog
+  url: http://www.webspellchecker.net/blog/
+- type: x-blog-rss
+  url: http://www.webspellchecker.net/blog/?feed=rss2
+- type: x-contact
+  url: https://webspellchecker.com/contact-us/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/spellchecker-net
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/spellchecker-net
+- type: x-developer
+  url: http://dev.webspellchecker.net
+- type: x-developers
+  url: http://wiki.webspellchecker.net/doku.php?id=installationandconfiguration:web_service
+- type: x-documentation
+  url: https://docs.webspellchecker.net
+- type: x-documentation
+  url: https://docs.webspellchecker.net/
+- type: x-email
+  url: support@webspellchecker.net
+- type: x-email
+  url: Info@webspellchecker.net
+- type: x-facebook
+  url: https://www.facebook.com/webspellchecker/
+- type: x-github
+  url: https://github.com/WebSpellChecker
+- type: x-linkedin
+  url: https://www.linkedin.com/company/webspellchecker-ltd./
+- type: x-open-source
+  url: http://www.opentext.com/
+- type: x-partner
+  url: https://webspellchecker.com/partners/
+- type: x-press
+  url: https://wordpress.org/plugins/webspellchecker/
+- type: x-pricing
+  url: https://webspellchecker.com/pricing/
+- type: x-status
+  url: https://status.webspellchecker.net/
+- type: x-terms-of-service
+  url: https://webspellchecker.com/legal/
+- type: x-twitter
+  url: https://twitter.com/SpellCheckerNet
+- type: x-website
+  url: http://webspellchecker.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

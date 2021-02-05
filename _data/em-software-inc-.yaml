@@ -1,0 +1,76 @@
+---
+name: Em Software, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "559551"
+url: https://raw.githubusercontent.com/api-network/organizations/main/em-software-inc-.yaml
+tags:
+- Publishing And Fonts
+apis: []
+x-common:
+- type: x-website
+  url: http://emsoftware.com/
+- type: x-about
+  url: http://emsoftware.com/about/
+- type: x-about
+  url: http://emsoftware.com/about/taxes/
+- type: x-case-studies
+  url: http://emsoftware.com/category/case-studies/
+- type: x-documentation
+  url: http://emsoftware.com/products/docsflow/
+- type: x-documentation
+  url: http://emsoftware.com/products/docsflow/user-guide/
+- type: x-news
+  url: http://emsoftware.com/category/news/
+- type: x-news
+  url: http://emsoftware.com/category/news/general/
+- type: x-news
+  url: http://emsoftware.com/category/news/wordsflow/
+- type: x-news
+  url: http://emsoftware.com/category/news/docsflow/
+- type: x-news
+  url: http://emsoftware.com/category/news/emdata/
+- type: x-news
+  url: http://emsoftware.com/category/news/emdata/indata/
+- type: x-news
+  url: http://emsoftware.com/category/news/emdata/xdata/
+- type: x-news
+  url: http://emsoftware.com/category/news/emcatalog/
+- type: x-news
+  url: http://emsoftware.com/category/news/emtags/
+- type: x-news
+  url: http://emsoftware.com/category/news/emtags/intags/
+- type: x-news
+  url: http://emsoftware.com/category/news/emtags/xtags/
+- type: x-news
+  url: http://emsoftware.com/products/latest-news/
+- type: x-news
+  url: https://feeds.feedburner.com/em-software-news
+- type: x-press
+  url: https://wordpress.org
+- type: x-pricing
+  url: http://emsoftware.com/sales/pricing/
+- type: x-privacy
+  url: http://emsoftware.com/about/privacy-policy/
+- type: x-support
+  url: http://emsoftware.com/support/
+- type: x-support
+  url: http://emsoftware.com/support/keeping-in-touch/
+- type: x-support
+  url: http://emsoftware.com/support/installation/
+- type: x-support
+  url: http://emsoftware.com/support/evaluation/
+- type: x-twitter
+  url: https://twitter.com/emsoftware
+- type: x-website
+  url: https://www.emsoftware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

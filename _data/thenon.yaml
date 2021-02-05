@@ -1,0 +1,29 @@
+---
+name: Thenon
+description: Thenon, founded in 1992, is one of the largest suppliers of Change Management
+  / Lifecycle Management and Automated Testing software for the IBM i platform.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/thenon.yaml
+tags:
+- Systems Management
+apis: []
+x-common:
+- type: x-contact
+  url: https://thenon.net/contact-us/
+- type: x-news
+  url: https://thenon.net/latest-news/
+- type: x-privacy
+  url: https://thenon.net/cookies-and-privacy-policy/
+- type: x-website
+  url: https://www.thenon.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

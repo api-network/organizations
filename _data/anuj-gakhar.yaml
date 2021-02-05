@@ -1,0 +1,43 @@
+---
+name: Anuj Gakhar
+description: ColdFusion / Web / Mobile / Javascript / CSS3 Programmer with ecommerce
+  and web development expertise.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1262834"
+url: https://raw.githubusercontent.com/api-network/organizations/main/anuj-gakhar.yaml
+tags:
+- Personal Pages
+- JavaScript
+- HTML5
+- Frontend
+- CSS3
+- ColdFusion
+- AngularJS
+apis: []
+x-common:
+- type: x-website
+  url: http://about.me/anujgakhar
+- type: x-about
+  url: https://www.anujgakhar.com/about/
+- type: x-code
+  url: https://www.anujgakhar.com/tag/xcode/
+- type: x-contact
+  url: https://www.anujgakhar.com/contact-me/
+- type: x-feed
+  url: https://www.anujgakhar.com/feed/
+- type: x-linkedin
+  url: http://uk.linkedin.com/in/anujgakhar
+- type: x-twitter
+  url: https://twitter.com/#!/anujgakhar
+- type: x-website
+  url: https://anujgakhar.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

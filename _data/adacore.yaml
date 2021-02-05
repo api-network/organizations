@@ -1,0 +1,45 @@
+---
+name: AdaCore
+description: "AdaCore is the leading provider of commercial software solutions for
+  Ada, C and C++ \u2014 helping developers build safe and secure software that matters."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "488297"
+url: https://raw.githubusercontent.com/api-network/organizations/main/adacore.yaml
+tags:
+- Compilers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.adacore.com
+- type: x-blog
+  url: http://blog.adacore.com
+- type: x-code
+  url: https://www.adacore.com/codepeer
+- type: x-github
+  url: https://github.com/AdaCore
+- type: x-linkedin
+  url: https://www.linkedin.com/company/39996
+- type: x-news
+  url: https://www.adacore.com/news
+- type: x-platform
+  url: https://www.adacore.com/products/platforms
+- type: x-press
+  url: https://www.windriver.com/news/press/pr.html?ID=22444
+- type: x-support
+  url: https://www.adacore.com/support
+- type: x-twitter
+  url: http://twitter.com/AdaCoreCompany
+- type: x-website
+  url: https://www.adacore.com
+- type: x-youtube
+  url: https://www.youtube.com/user/AdaCore05
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

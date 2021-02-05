@@ -1,0 +1,72 @@
+---
+name: Bitrise
+description: Bringing back the joy of iOS & Android development through automating
+  build, testing and support cycles.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28819-www-bitrise-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "711"
+x-alexaRank: "55958"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bitrise.yaml
+tags:
+- Workflow
+- Test
+- Profile
+- Notification
+- Installer
+- Have Swagger
+- Have API Paths
+- Have API
+- Deploy
+- Dependency
+- Code Sign
+- Build
+- Artifact Info
+- Access Controls
+apis: []
+x-common:
+- type: x-website
+  url: http://www.bitrise.io/
+- type: x-blog
+  url: https://blog.bitrise.io/
+- type: x-command-line-interface
+  url: https://devcenter.bitrise.io/bitrise-cli/index/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/bitrise
+- type: x-developers
+  url: https://devcenter.bitrise.io/
+- type: x-documentation
+  url: https://devcenter.bitrise.io/
+- type: x-documentation
+  url: https://devcenter.bitrise.io/api/api-index/
+- type: x-documentation
+  url: https://devcenter.bitrise.io/api/v0.1/
+- type: x-facebook
+  url: https://facebook.com/bitrise.io
+- type: x-faq
+  url: https://devcenter.bitrise.io/faq/faq-index/
+- type: x-getting-started
+  url: https://devcenter.bitrise.io/getting-started/index/
+- type: x-github
+  url: https://github.com/bitrise-io
+- type: x-integrations
+  url: https://www.bitrise.io/integrations/steps
+- type: x-login
+  url: https://app.bitrise.io/users/sign_in
+- type: x-login
+  url: https://discuss.bitrise.io/login
+- type: x-pricing
+  url: https://www.bitrise.io/pricing
+- type: x-self-service-registration
+  url: https://app.bitrise.io/users/sign_up
+- type: x-twitter
+  url: https://twitter.com/bitrise
+- type: x-website
+  url: https://www.bitrise.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

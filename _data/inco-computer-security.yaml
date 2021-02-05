@@ -1,0 +1,38 @@
+---
+name: INCO Computer Security
+description: INCO Security specialises in Computer Security, AudioVisual Security,
+  Access Control Systems, Cyber Security, GDPR Consultancy, Safeguarding and Close
+  Protection.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/inco-computer-security.yaml
+tags:
+- Tracking, Prevention And Recovery
+- Safeguarding
+- PC Security
+- GDPR Consultancy
+- Cyber Security
+- Computer Security
+- Close Protection
+- Audio Visual Security
+- Access Control Systems
+apis: []
+x-common:
+- type: x-website
+  url: https://www.inco-uk.com/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/inco-uk/
+- type: x-twitter
+  url: https://twitter.com/inco_tweets
+- type: x-website
+  url: https://www.inco-security.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,28 @@
+---
+name: Random Pattern Generator - UZII
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/random-pattern-generator--uzii.yaml
+tags:
+- Vector Based
+apis: []
+x-common:
+- type: x-self-service-registration
+  url: http://www.brainriver.com/register.htm?pid=P3652469754
+- type: x-self-service-registration
+  url: http://www.brainriver.com/register.htm?pid=P3652461521
+- type: x-self-service-registration
+  url: http://www.brainriver.com/register.htm?pid=P365246967
+- type: x-website
+  url: https://uzii.narod.ru
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,32 @@
+---
+name: Daniel's XL Toolbox
+description: 'Daniel''s XL Toolbox is a free Add-In for Excel(R): Provides high-res
+  graphic export, improved ANOVA with posthoc testing, smart custom error bars, spread
+  scatter, formula builder, stratification, and much more.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2480394"
+url: https://raw.githubusercontent.com/api-network/organizations/main/daniels-xl-toolbox.yaml
+tags:
+- Add-Ins
+apis: []
+x-common:
+- type: x-facebook
+  url: http://www.facebook.com/xltoolbox
+- type: x-github
+  url: https://github.com/bovender/XLToolbox
+- type: x-github
+  url: https://bovender.github.io/XLToolbox
+- type: x-twitter
+  url: https://twitter.com/xltoolbox
+- type: x-website
+  url: https://www.xltoolbox.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

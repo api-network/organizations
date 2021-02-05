@@ -1,0 +1,89 @@
+---
+name: RiskIQ
+description: Whether you are investigating threats, monitoring your attack surface,
+  or mitigating brand abuse - arm yourself with digital security intelligence from
+  RiskIQ.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/RiskIQ-Logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "76157"
+url: https://raw.githubusercontent.com/api-network/organizations/main/riskiq.yaml
+tags:
+- Security
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.riskiq.com
+- type: x-about
+  url: https://www.riskiq.com/about/
+- type: x-about
+  url: https://www.riskiq.com/about/team/
+- type: x-blog
+  url: https://www.riskiq.com/blog/
+- type: x-blog-rss
+  url: https://www.riskiq.com/feed/
+- type: x-careers
+  url: https://www.riskiq.com/about/careers/
+- type: x-contact
+  url: https://www.riskiq.com/contact/
+- type: x-contact
+  url: https://www.riskiq.com/contact
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/riskiq
+- type: x-customers
+  url: https://www.riskiq.com/customers/
+- type: x-email
+  url: sales@riskiq.net
+- type: x-email
+  url: support@riskiq.net
+- type: x-email
+  url: info@riskiq.net
+- type: x-facebook
+  url: https://www.facebook.com/pages/RiskIQ/555939994512820
+- type: x-feed
+  url: https://www.riskiq.com/feed/
+- type: x-github
+  url: https://github.com/RiskIQ
+- type: x-linkedin
+  url: https://www.linkedin.com/company/riskiq_2
+- type: x-news
+  url: https://www.riskiq.com/news-and-events/news/
+- type: x-news
+  url: https://www.riskiq.com/news-and-events/events/
+- type: x-partner
+  url: https://www.riskiq.com/partners/
+- type: x-partner
+  url: https://www.riskiq.com/partners/channel-partners/
+- type: x-partner
+  url: https://www.riskiq.com/partners/technology-partners/
+- type: x-partner
+  url: https://www.riskiq.com/partners/mssp-partners/
+- type: x-partner
+  url: https://www.riskiq.com/partners/alliances/
+- type: x-platform
+  url: https://www.riskiq.com/platform/
+- type: x-press
+  url: https://www.riskiq.com/news-and-events/press/
+- type: x-press
+  url: https://www.riskiq.com/press-releases/
+- type: x-privacy
+  url: https://www.riskiq.com/privacy-policy/
+- type: x-support
+  url: https://www.riskiq.com/resources/support/
+- type: x-terms-of-service
+  url: https://www.riskiq.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/riskiq
+- type: x-webinars
+  url: https://www.riskiq.com/resources/?type=webinar
+- type: x-website
+  url: https://www.riskiq.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

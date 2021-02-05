@@ -1,0 +1,57 @@
+---
+name: Adtran
+description: We are a leading global provider of networking and communications equipment.
+  Our products enable voice, data, video and Internet communications across a variety
+  of network infrastructures. Our solutions are currently in use by service providers,
+  private enterprises, government organizations and millions of individual users worldwide.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "292915"
+url: https://raw.githubusercontent.com/api-network/organizations/main/adtran.yaml
+tags:
+- Wi-Fi
+- Vendors
+- Network
+- Manufacturers
+- Gigabit
+- Fiber Optics
+- Cloud Connectivity
+- Broadband
+- ADTRAN
+apis: []
+x-common:
+- type: x-website
+  url: http://www.adtran.com
+- type: x-blog
+  url: https://www.adtran.com/index.php/blog
+- type: x-facebook
+  url: https://www.facebook.com/adtran.inc/
+- type: x-forum
+  url: https://supportforums.adtran.com/welcome
+- type: x-forum
+  url: http://supportforums.adtran.com/
+- type: x-instagram
+  url: https://www.instagram.com/adtraninc/
+- type: x-investor
+  url: http://investors.adtran.com/overview/default.aspx
+- type: x-investor
+  url: http://investors.adtran.com/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/adtran
+- type: x-terms-of-service
+  url: https://www.adtran.com/index.php/website-terms-of-use
+- type: x-twitter
+  url: https://twitter.com/ADTRAN
+- type: x-website
+  url: https://www.adtran.com
+- type: x-youtube
+  url: https://www.youtube.com/user/ADTRANinc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,28 @@
+---
+name: Knockout
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "155384"
+url: https://raw.githubusercontent.com/api-network/organizations/main/knockout.yaml
+tags:
+- Frameworks
+apis: []
+x-common:
+- type: x-github
+  url: http://github.com/SteveSanderson/knockout
+- type: x-github
+  url: http://github.com/SteveSanderson/knockout/
+- type: x-open-source
+  url: http://www.opensource.org/licenses/mit-license.php
+- type: x-website
+  url: https://knockoutjs.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

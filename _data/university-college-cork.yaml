@@ -1,0 +1,22 @@
+---
+name: University College Cork
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8885"
+url: https://raw.githubusercontent.com/api-network/organizations/main/university-college-cork.yaml
+tags:
+- Ireland
+apis: []
+x-common:
+- type: x-website
+  url: https://www.cuc.ucc.ie
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

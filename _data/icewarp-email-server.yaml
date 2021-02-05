@@ -1,0 +1,51 @@
+---
+name: IceWarp Email Server
+description: Secure hosted email with custom domain. Shared calendars, chat, storage,
+  documents & apps. The only solution integrated and working together in one screen.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "214226"
+url: https://raw.githubusercontent.com/api-network/organizations/main/icewarp-email-server.yaml
+tags:
+- TeamChat
+- Servers
+- Online Collaboration
+- Office 365 Alternative
+- Merak Server
+- Mail
+- Linux Mailserver
+- Hosted Email
+- Group Chat
+- Exchange Alternative
+- Email With Own Domain
+- Email Server
+- Email Hosting
+- Collaboration Tool
+- Collaboration
+- Cloud Email
+- Business Email
+apis: []
+x-common:
+- type: x-website
+  url: http://www.icewarp.com
+- type: x-blog
+  url: https://blog.icewarp.com/
+- type: x-facebook
+  url: https://www.facebook.com/IceWarpInc
+- type: x-support
+  url: https://support.icewarp.com
+- type: x-twitter
+  url: https://twitter.com/icewarp
+- type: x-website
+  url: https://www.icewarp.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=eCu14H0dp9s
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,37 @@
+---
+name: KUKA Robot Group
+description: KUKA Aktiengesellschaft is one of the world's leading suppliers of robotics
+  as well plant manufacturing and system technology and a pioneer in Industrie 4.0
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "143034"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kuka-robot-group.yaml
+tags:
+- Industrial
+apis: []
+x-common:
+- type: x-website
+  url: http://www.kuka-ag.de/de/press/
+- type: x-facebook
+  url: https://www.facebook.com/KUKAGlobal/
+- type: x-instagram
+  url: https://www.instagram.com/kuka_americas/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/kukaglobal
+- type: x-privacy
+  url: https://www.kuka.com/privacy
+- type: x-twitter
+  url: https://twitter.com/KUKA_Press
+- type: x-website
+  url: https://www.kuka.com
+- type: x-youtube
+  url: https://www.youtube.com/KukaRobotGroup
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

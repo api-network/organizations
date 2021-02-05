@@ -1,0 +1,32 @@
+---
+name: The Learning Manager
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2586514"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-learning-manager.yaml
+tags:
+- Delivery And Management Systems
+apis: []
+x-common:
+- type: x-website
+  url: http://www.winlearning.com
+- type: x-facebook
+  url: https://www.facebook.com/winlearning/
+- type: x-instagram
+  url: https://www.instagram.com/winlearning/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/winlearning/
+- type: x-twitter
+  url: https://twitter.com/winlearning_
+- type: x-website
+  url: https://www.winlearning.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

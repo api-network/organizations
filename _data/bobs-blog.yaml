@@ -1,0 +1,122 @@
+---
+name: Bob's Blog
+description: Digital Experience at its best with CoreMedia Content Cloud
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bobs-blog.yaml
+tags:
+- Personal Pages
+apis: []
+x-common:
+- type: x-about
+  url: https://bobbalfe.blog/about-me/
+- type: x-blog
+  url: https://bobbalfe.blog/
+- type: x-blog
+  url: https://bobbalfe.blog/category/demojams/
+- type: x-blog
+  url: https://bobbalfe.blog/demos/
+- type: x-blog
+  url: https://bobbalfe.blog/currently-reading/
+- type: x-blog
+  url: https://bobbalfe.blog/page/2/
+- type: x-blog
+  url: https://bobbalfe.blog/2020/01/14/914am/
+- type: x-blog
+  url: https://bobbalfe.blog/author/bobbalfe/
+- type: x-blog
+  url: https://bobbalfe.blog/2020/01/14/914am/#comments
+- type: x-blog
+  url: https://bobbalfe.blog/2020/01/14/914am/?share=facebook
+- type: x-blog
+  url: https://bobbalfe.blog/2020/01/14/914am/?share=linkedin
+- type: x-blog
+  url: https://bobbalfe.blog/2020/01/14/914am/?share=twitter
+- type: x-blog
+  url: https://bobbalfe.blog/category/commerce/
+- type: x-blog
+  url: https://bobbalfe.blog/category/coremedia/
+- type: x-blog
+  url: https://bobbalfe.blog/tag/b2b/
+- type: x-blog
+  url: https://bobbalfe.blog/tag/hcl/
+- type: x-blog
+  url: https://bobbalfe.blog/tag/ibm/
+- type: x-blog
+  url: https://bobbalfe.blog/tag/sap/
+- type: x-blog
+  url: https://bobbalfe.blog/tag/sfcc/
+- type: x-blog
+  url: https://bobbalfe.blog/tag/cms/
+- type: x-blog
+  url: https://bobbalfe.blog/tag/dmexco/
+- type: x-blog
+  url: https://bobbalfe.blog/tag/virtual-reality/
+- type: x-blog
+  url: https://bobbalfe.blog/tag/cloud/
+- type: x-blog
+  url: https://bobbalfe.blog/tag/coremedia/
+- type: x-blog
+  url: https://bobbalfe.blog/tag/marketing/
+- type: x-blog
+  url: https://bobbalfe.blog/tag/personalization/
+- type: x-blog
+  url: https://bobbalfe.blog/tag/sfmc/
+- type: x-blog
+  url: https://bobbalfe.blog/tag/commerce/
+- type: x-blog
+  url: https://bobbalfe.blog/tag/druid/
+- type: x-blog
+  url: https://bobbalfe.blog/tag/dynamic/
+- type: x-blog
+  url: https://bobbalfe.blog/tag/shelves/
+- type: x-blog
+  url: https://bobbalfe.blog/tag/ancient-aliens/
+- type: x-blog
+  url: https://bobbalfe.blog/tag/time-travel/
+- type: x-blog
+  url: https://bobbalfe.blog/tag/extension/
+- type: x-blog
+  url: https://bobbalfe.blog/tag/studio/
+- type: x-blog
+  url: https://bobbalfe.blog/tag/twitter/
+- type: x-documentation
+  url: https://druid.apache.org/docs/latest/design/
+- type: x-documentation
+  url: https://druid.apache.org/docs/latest/querying/sql
+- type: x-facebook
+  url: https://www.facebook.com/bobbalfe/
+- type: x-feed
+  url: https://bobbalfe.blog/feed/
+- type: x-feed
+  url: https://bobbalfe.blog/comments/feed/
+- type: x-instagram
+  url: https://www.instagram.com/bobbalfe/
+- type: x-linkedin
+  url: https://ptdrv.linkedin.com/jdkzuze
+- type: x-linkedin
+  url: https://www.linkedin.com/in/andrew-bowers-dc/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/bobbalfe/
+- type: x-login
+  url: https://bobbalfe.blog/wp-login.php
+- type: x-press
+  url: https://wordpress.org/
+- type: x-twitter
+  url: https://twitter.com/bobbalfe/
+- type: x-twitter
+  url: https://twitter.com/bobbalfe
+- type: x-website
+  url: https://blog.balfes.net
+- type: x-youtube
+  url: https://www.youtube.com/user/bobbalfe/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

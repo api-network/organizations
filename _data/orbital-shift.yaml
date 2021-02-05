@@ -1,0 +1,29 @@
+---
+name: Orbital Shift
+description: Online employee scheduling and time clock software that simplifies creating
+  work schedules, tracking labor costs, and enhances employee communication.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "910644"
+url: https://raw.githubusercontent.com/api-network/organizations/main/orbital-shift.yaml
+tags:
+- Personnel Scheduling
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.orbitalshift.com/blog
+- type: x-blog
+  url: https://www.orbitalshift.com/blog/staff-message-center
+- type: x-pricing
+  url: https://www.orbitalshift.com/pricing
+- type: x-website
+  url: https://www.orbitalshift.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

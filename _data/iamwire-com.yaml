@@ -1,0 +1,23 @@
+---
+name: iamwire.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/iamwire-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.iamwire.com/2013/08/feedly-launched-premium-subscription-usd-5-month
+- type: x-website
+  url: http://iamwire.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

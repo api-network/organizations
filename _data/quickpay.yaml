@@ -1,0 +1,45 @@
+---
+name: QuickPay
+description: 'Our mission is quite simply to create the best possible payment service.
+  Our philosophy is less is more - the simplest solution is almost always the best.
+  Our goals are defined by, and measured against, three words that are imprinted in
+  the back of our minds: Secure, Reliable, Dynamic.'
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "48410"
+url: https://raw.githubusercontent.com/api-network/organizations/main/quickpay.yaml
+tags:
+- Scrape Documentation
+- Profile
+- Payments
+- No API Definition
+- Has API
+apis: []
+x-common:
+- type: x-website
+  url: https://quickpay.net
+- type: x-blog
+  url: https://learn.quickpay.net/blog
+- type: x-github
+  url: https://github.com/QuickPay
+- type: x-linkedin
+  url: http://www.linkedin.com/company/quickpay-psp
+- type: x-status
+  url: https://status.quickpay.net
+- type: x-support
+  url: https://learn.quickpay.net/helpdesk/en
+- type: x-twitter
+  url: https://twitter.com/quickpayfunding
+- type: x-twitter
+  url: https://twitter.com/QuickPayPSP
+- type: x-website
+  url: http://quickpay.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

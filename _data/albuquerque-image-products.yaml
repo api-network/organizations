@@ -1,0 +1,28 @@
+---
+name: Albuquerque Image Products
+description: At ABQ Image Products, we use technology to build workplace efficiencies
+  through digitization, document management, and workflow streaming. Learn more about
+  how our services can help streamline your business.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/albuquerque-image-products.yaml
+tags:
+- Supplies
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/albimage/
+- type: x-privacy
+  url: https://albimage.com/privacy-policy/
+- type: x-website
+  url: https://www.albimage.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

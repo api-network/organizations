@@ -1,0 +1,44 @@
+---
+name: SUPERAntiSpyware.com
+description: Superantispyware protects you against malware, ransomware, and spyware.
+  Get started today with free trial and remove Spyware, Rootkits, Spyware, Adware,
+  Worms, Parasite!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "55026"
+url: https://raw.githubusercontent.com/api-network/organizations/main/superantispyware-com.yaml
+tags:
+- Detection And Removal Tools
+apis: []
+x-common:
+- type: x-website
+  url: http://www.superantispyware.com
+- type: x-blog
+  url: https://blog.superantispyware.com/
+- type: x-blog
+  url: https://blog.superantispyware.com/scranos/
+- type: x-blog
+  url: https://blog.superantispyware.com/trickbot/
+- type: x-blog
+  url: https://blog.superantispyware.com/anatova/
+- type: x-blog
+  url: https://blog.superantispyware.com/hancitor/
+- type: x-blog
+  url: https://blog.superantispyware.com/loki/
+- type: x-facebook
+  url: https://www.facebook.com/SUPERAntiSpyware/
+- type: x-forum
+  url: https://forums.superantispyware.com/
+- type: x-twitter
+  url: https://twitter.com/superantispy
+- type: x-website
+  url: https://www.superantispyware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

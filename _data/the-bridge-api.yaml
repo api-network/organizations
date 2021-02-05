@@ -1,0 +1,48 @@
+---
+name: The Bridge API
+description: <p>Smart Financial Technology. Our technologies allow you to aggregate
+  and process financial data in your applications. We make smart financial data. With
+  our API, you benefit from standardized mapping on all data from more than 350 financial
+  institutions in Europe. Aggregation of financial data. Bridge is the most reliable
+  and secure financial aggregation solution in Europe. Easily retrieve current account,
+  savings, credit, life insurance and PEA data in seconds from individual or pro accounts.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/the-bridge-api.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8535471"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-bridge-api.yaml
+tags:
+- Have API
+- Financial
+- Banking
+- API Provider
+apis: []
+x-common:
+- type: x-developer
+  url: https://connect.bridgeapi.io/pdf/cgs_EN.pdf
+- type: x-documentation
+  url: https://docs.bridgeapi.io
+- type: x-documentation
+  url: https://docs.bridgeapi.io/reference#user-resource
+- type: x-documentation
+  url: https://docs.bridgeapi.io/
+- type: x-documentation
+  url: https://docs.bridgeapi.io/docs
+- type: x-documentation
+  url: https://docs.bridgeapi.io/reference
+- type: x-documentation
+  url: https://docs.bridgeapi.io/v2/docs
+- type: x-pricing
+  url: https://bankin.typeform.com/to/OaruF7?from=pricing
+- type: x-pricing
+  url: https://bankin.typeform.com/to/OaruF7/?from=pricing
+- type: x-website
+  url: https://bridgeapi.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

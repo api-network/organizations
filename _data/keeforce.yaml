@@ -1,0 +1,39 @@
+---
+name: KeeFORCE
+description: KeeFORCE is a full service corporate technology support firm. We work
+  with you to ensure that as you evolve your technology keeps pace with your objectives.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/keeforce.yaml
+tags:
+- United States
+apis: []
+x-common:
+- type: x-careers
+  url: https://keeforce.com/careers/
+- type: x-contact
+  url: https://keeforce.com/contact/
+- type: x-developer
+  url: http://developer.keeforce.com
+- type: x-facebook
+  url: https://www.facebook.com/keeforceIT
+- type: x-linkedin
+  url: https://www.linkedin.com/company/keeforce
+- type: x-news
+  url: https://keeforce.com/category/news/
+- type: x-press
+  url: http://www.wordpress.org
+- type: x-twitter
+  url: https://twitter.com/KeeFORCEXS
+- type: x-website
+  url: https://www.keeforce.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

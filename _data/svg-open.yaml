@@ -1,0 +1,22 @@
+---
+name: SVG Open
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3163740"
+url: https://raw.githubusercontent.com/api-network/organizations/main/svg-open.yaml
+tags:
+- SVG
+apis: []
+x-common:
+- type: x-website
+  url: https://www.svgopen.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

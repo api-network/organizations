@@ -1,0 +1,56 @@
+---
+name: Frugal Brothers
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/frugal-brothers.yaml
+tags:
+- Products And Tools
+apis: []
+x-common:
+- type: x-security
+  url: https://fbsecuritygroup.com/
+- type: x-security
+  url: https://fbsecuritygroup.com/products/languard/
+- type: x-security
+  url: https://fbsecuritygroup.com/products/unlimited/
+- type: x-security
+  url: https://fbsecuritygroup.com/products/kerio-control/
+- type: x-security
+  url: https://fbsecuritygroup.com/products/vipre-eps-cloud/
+- type: x-security
+  url: https://fbsecuritygroup.com/products/vipre-eps-server/
+- type: x-security
+  url: https://fbsecuritygroup.com/products/archiver/
+- type: x-security
+  url: https://fbsecuritygroup.com/products/faxmaker/
+- type: x-security
+  url: https://fbsecuritygroup.com/products/faxmaker-online/
+- type: x-security
+  url: https://fbsecuritygroup.com/products/mailessentials/
+- type: x-security
+  url: https://fbsecuritygroup.com/products/kerio-connect/
+- type: x-security
+  url: https://fbsecuritygroup.com/services/
+- type: x-security
+  url: https://fbsecuritygroup.com/quote/
+- type: x-security
+  url: https://fbsecuritygroup.com/blog/
+- type: x-security
+  url: https://fbsecuritygroup.com/security/unlimited-power/
+- type: x-security
+  url: https://fbsecuritygroup.com/security/security-or-bust/
+- type: x-security
+  url: https://fbsecuritygroup.com/security/zero-day/
+- type: x-website
+  url: https://www.frugalbrothers.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

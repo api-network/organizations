@@ -1,0 +1,40 @@
+---
+name: Exemplars
+description: Exemplars offers rich performance tasks for assessment & instruction
+  in math, science & writing. Rubrics & student anchor papers are included. Free samples.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "460499"
+url: https://raw.githubusercontent.com/api-network/organizations/main/exemplars.yaml
+tags:
+- Teachers Help
+- Problem Solving Lesson Plans
+- Performance Tasks
+- Math Problem Solving
+- Math Enrichment
+- Inquiry Based Science
+- Inqui
+- Formative Assessment Strategies
+- DOK3 Math
+- Differentiated Math Problems
+- Differentiated Instruction Strategies
+- 21st Century Math Skills
+apis: []
+x-common:
+- type: x-website
+  url: http://www.exemplars.com
+- type: x-facebook
+  url: https://facebook.com/exemplarsinc
+- type: x-twitter
+  url: https://twitter.com/exemplars
+- type: x-website
+  url: https://www.exemplars.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

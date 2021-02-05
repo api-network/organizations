@@ -1,0 +1,49 @@
+---
+name: Recursion Software, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4243022"
+url: https://raw.githubusercontent.com/api-network/organizations/main/recursion-software-inc-.yaml
+tags:
+- Development Tools
+- Companies
+apis: []
+x-common:
+- type: x-website
+  url: http://www.recursionsw.com
+- type: x-about
+  url: https://plus.google.com/110544526316197400142/about
+- type: x-blog
+  url: https://www.recursionsw.com/blog/
+- type: x-contact
+  url: https://www.recursionsw.com/contact-us/
+- type: x-contact
+  url: http://www.recursionsw.com/contact-us/
+- type: x-contact
+  url: http://www.recursionsw.com/contact-us
+- type: x-facebook
+  url: https://www.facebook.com/RecursionSoftware
+- type: x-news
+  url: http://www.recursionsw.com/september-newsletter/
+- type: x-twitter
+  url: https://twitter.com/RecursionSftwre
+- type: x-website
+  url: https://www.recursionsw.com
+- type: x-white-papers
+  url: https://www.recursionsw.com/white-papers/
+- type: x-white-papers
+  url: https://www.recursionsw.com/voyager-whitepapers/
+- type: x-white-papers
+  url: https://www.recursionsw.com/jgl-toolkit-white-papers/
+- type: x-white-papers
+  url: https://www.recursionsw.com/thirdparty-whitepapers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

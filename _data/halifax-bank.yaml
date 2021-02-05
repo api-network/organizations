@@ -1,0 +1,48 @@
+---
+name: Halifax Bank
+description: <p>Halifax is a British bank operating as a trading division of Bank
+  of Scotland, itself a wholly owned subsidiary of Lloyds Banking Group. It is named
+  after the town of Halifax, West Yorkshire where it was founded as a building society
+  in 1853</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Halifax_Logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "17565"
+url: https://raw.githubusercontent.com/api-network/organizations/main/halifax-bank.yaml
+tags:
+- UK Banks
+- Services
+- Relative Data
+- Have API Paths
+- Have API
+- General Data
+- Banking
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.halifax.co.uk
+- type: x-careers
+  url: http://www.lloydsbankinggroup.com/careers/halifax/
+- type: x-developers
+  url: http://openbankingapis.io/uk/halifax
+- type: x-documentation
+  url: https://openbanking.atlassian.net/wiki/spaces/DZ/pages/54919225/Open+Data+API+Dashboard#
+- type: x-facebook
+  url: https://www.facebook.com/halifax
+- type: x-twitter
+  url: https://twitter.com/HalifaxBank
+- type: x-website
+  url: https://www.halifax.co.uk/
+- type: x-website
+  url: https://fax.co.uk
+- type: x-youtube
+  url: https://www.youtube.com/user/Halifax
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

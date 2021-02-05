@@ -1,0 +1,43 @@
+---
+name: Findgift.net
+description: List your products with our gift finding service.  We put you in touch
+  with gift shoppers that are looking for your products.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3339554"
+url: https://raw.githubusercontent.com/api-network/organizations/main/findgift-net.yaml
+tags:
+- Traffic
+- Targeted Marketing
+- Targeted
+- Ppc
+- PPB
+- Pay Per Click Advertising
+- Pay Per Click
+- Pay Per Bid
+- Pay For Traffic
+- Marketing
+- Market
+- Gifts
+- Gift Shops
+- Gift Shop
+- Gift Search Engine
+- Gift Ideas
+- CPC
+- Cost Per Click
+- Advertise
+apis: []
+x-common:
+- type: x-terms-of-service
+  url: https://www.internetbrands.com/ibterms/
+- type: x-website
+  url: https://www.findgift.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

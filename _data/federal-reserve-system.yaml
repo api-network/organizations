@@ -1,0 +1,56 @@
+---
+name: Federal Reserve System
+description: <p><span>The Federal Reserve System is the central banking system of
+  the United States of America. It was created on December 23, 1913, with the enactment
+  of the Federal Reserve Act, after a series of financial panics led to the desire
+  for central control of the monetary system in order to alleviate financial crises.</span></p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/federal-reserve-system.yaml
+tags:
+- Us Currency
+- New Design
+- Money
+- Financial
+- Federal Reserve
+- Federal Government
+- Dollar
+- Credit
+- Consumers
+- Consumer Safety
+- Cash
+- Careers
+- Banking
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.federalreserve.gov/careers/default.htm
+- type: x-website
+  url: http://www.federalreserve.gov
+- type: x-data
+  url: https://www.federalreserve.gov/data.htm
+- type: x-facebook
+  url: http://facebook.com/uscurrency
+- type: x-flickr
+  url: http://flickr.com/photos/federalreserve
+- type: x-github
+  url: http://github.com/cfpb
+- type: x-twitter
+  url: http://twitter.com/federalreserve
+- type: x-twitter
+  url: http://twitter.com/fed_careers
+- type: x-ustream
+  url: http://ustream.tv/federalreserve
+- type: x-youtube
+  url: http://youtube.com/FedReserveBoard
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

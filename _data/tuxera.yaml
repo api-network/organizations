@@ -1,0 +1,59 @@
+---
+name: Tuxera
+description: "We create software that\xC2\_improves data handling, and storage lifetime
+  and reliability in connected cars, smartphones, routers, and much more."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "202225"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tuxera.yaml
+tags:
+- NTFS
+apis: []
+x-common:
+- type: x-website
+  url: http://www.tuxera.com
+- type: x-about
+  url: https://www.tuxera.com/about-us/
+- type: x-blog
+  url: https://www.tuxera.com/blog/
+- type: x-careers
+  url: https://www.tuxera.com/company/careers/
+- type: x-careers
+  url: https://www.tuxera.com/careers/
+- type: x-contact
+  url: https://www.tuxera.com/company/contact/
+- type: x-developer
+  url: https://www.a1dev.com
+- type: x-facebook
+  url: https://www.facebook.com/Tuxera.filesystem/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/tuxera/
+- type: x-open-source
+  url: https://www.tuxera.com/community/open-source-ntfs-3g/
+- type: x-open-source
+  url: https://www.tuxera.com/community/open-source-tufs/
+- type: x-open-source
+  url: https://www.tuxera.com/community/open-source-posix/
+- type: x-partner
+  url: https://www.tuxera.com/community/partners/
+- type: x-partner
+  url: https://www.tuxera.com/partners/
+- type: x-press
+  url: https://www.tuxera.com/company/press/
+- type: x-terms-of-service
+  url: https://www.tuxera.com/legal-and-privacy/
+- type: x-twitter
+  url: https://twitter.com/Tuxera
+- type: x-website
+  url: https://www.tuxera.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=hMovnnay7cA
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,43 @@
+---
+name: HVAC-Talk
+description: 'The #1 HVACR Community'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "115832"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hvactalk.yaml
+tags:
+- Trades
+- Jobs
+- Job
+- Industry
+- Hvac-talk
+- Hvac Forums
+- Hvac Community
+- HVAC
+- Hosted
+- Hiring
+- Hire
+- Forums
+- Community
+- Bulletin Board
+apis: []
+x-common:
+- type: x-forum
+  url: http://hvac-talk.com/vbb/forum.php
+- type: x-privacy
+  url: https://engage.informa.com/privacy-statement/
+- type: x-self-service-registration
+  url: http://hvac-talk.com/vbb/register.php
+- type: x-signup
+  url: http://www.hvac-talk.com/vbb/member.php?action=signup
+- type: x-website
+  url: https://hvac-talk.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

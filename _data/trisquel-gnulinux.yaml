@@ -1,0 +1,42 @@
+---
+name: Trisquel GNU/Linux
+description: Trisquel GNU/Linux is a fully free operating system for home users, small
+  enterprises and educational centers.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "386167"
+url: https://raw.githubusercontent.com/api-network/organizations/main/trisquel-gnulinux.yaml
+tags:
+- Trisquel
+- Software
+- Linux
+- Libre
+- GNU/Linux
+- Gnu
+- Free Software
+- Distro
+- Distribution
+- Derivatives
+apis: []
+x-common:
+- type: x-feed
+  url: https://trisquel.info/en/node/feed
+- type: x-forum
+  url: https://trisquel.info/en/forum/trisquel-9-needs-name
+- type: x-open-source
+  url: http://openedjam.org
+- type: x-open-source
+  url: http://openedjam.org/speakers
+- type: x-plans
+  url: https://trisquel.info/en/trisquel-90-development-plans
+- type: x-website
+  url: https://trisquel.info
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

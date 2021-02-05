@@ -1,0 +1,56 @@
+---
+name: United States Postal Service (USPS)
+description: <p><span>The United States Postal Service is an independent agency of
+  the executive branch of the United States federal government responsible for providing
+  postal service in the United States, including its insular areas and associated
+  states.</span></p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/united-states-postal-service-usps.yaml
+tags:
+- Usps Stamps
+- USPS
+- Sustainability
+- Postal Service
+- Oig
+- Inspector General
+- Federal Government
+- Compliance Assistance
+apis: []
+x-common:
+- type: x-website
+  url: http://www.uspsoig.gov
+- type: x-website
+  url: http://www.usps.com
+- type: x-data
+  url: https://facts.usps.com/table-facts/
+- type: x-facebook
+  url: https://www.facebook.com/fedcenter
+- type: x-facebook
+  url: http://facebook.com/usps
+- type: x-facebook
+  url: http://facebook.com/oig.usps
+- type: x-linkedin
+  url: http://linkedin.com/company/usps
+- type: x-linkedin
+  url: http://linkedin.com/company/usps-oig
+- type: x-pinterest
+  url: http://pinterest.com/uspsstamps/
+- type: x-twitter
+  url: http://twitter.com/USPS
+- type: x-twitter
+  url: http://twitter.com/fedcenter
+- type: x-twitter
+  url: http://twitter.com/OIGUSPS
+- type: x-youtube
+  url: http://youtube.com/oigusps
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,44 @@
+---
+name: mashable.com
+description: Mashable is a global, multi-platform media and entertainment company.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/20726-mashable-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1641"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mashable-com.yaml
+tags:
+- Have API
+apis: []
+x-common:
+- type: x-careers
+  url: https://www.j2global.com/careers/jobs/?brand=Mashable
+- type: x-careers
+  url: http://jobs.mashable.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/mashable
+- type: x-email
+  url: paul@mashable.com
+- type: x-facebook
+  url: https://www.facebook.com/mashable/
+- type: x-feed
+  url: http://feeds.mashable.com/Mashable
+- type: x-linkedin
+  url: https://www.linkedin.com/company/mashable
+- type: x-curated-source
+  url: http://mashable.com/2016/04/04/revolv-smart-home-shutdown/#aErcmixl4PqQ
+- type: x-website
+  url: http://mashable.com
+- type: x-twitter
+  url: https://twitter.com/mashable
+- type: x-website
+  url: https://mashable.com
+- type: x-youtube
+  url: https://www.youtube.com/user/mashable
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

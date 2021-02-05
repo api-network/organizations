@@ -1,0 +1,25 @@
+---
+name: GoldReward Official
+description: GRX is a multipurpose cryptocurrency based on the Ethereum blockchain
+  framework used in fulfilling any form of reward including but not limited to gamification.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27644-goldreward-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "29016"
+url: https://raw.githubusercontent.com/api-network/organizations/main/goldreward-official.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/GoldReward_GRX
+- type: x-website
+  url: https://goldreward.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,40 @@
+---
+name: OrgSync
+description: OrgSync is a Campus Engagement Network that connects your students to
+  organizations, programs, and departments on campus in a private online community.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/org-sync-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "88855"
+url: https://raw.githubusercontent.com/api-network/organizations/main/orgsync.yaml
+tags:
+- Target
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.OrgSync.com
+- type: x-blog
+  url: http://blog.orgsync.com/
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/OrgsyncBlog
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/orgsync
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/orgsync
+- type: x-github
+  url: https://github.com/orgsync
+- type: x-pricing
+  url: http://www.orgsync.com/what_is_orgsync/pricing
+- type: x-twitter
+  url: https://twitter.com/OrgSync
+- type: x-website
+  url: https://api.orgsync.com/api/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

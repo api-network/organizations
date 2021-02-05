@@ -1,0 +1,56 @@
+---
+name: GavickPro
+description: Best Joomla templates and WordPress themes are now available! Try our
+  professional templates for Joomla and WordPress and build a business website using
+  well-designed themes.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "39720"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gavickpro.yaml
+tags:
+- Extensions And Templates
+apis: []
+x-common:
+- type: x-website
+  url: http://www.gavick.com
+- type: x-about
+  url: https://www.gavick.com/about-us
+- type: x-blog
+  url: https://www.gavick.com/blog/
+- type: x-code
+  url: https://www.gavick.com/coupon-codes
+- type: x-documentation
+  url: https://www.gavick.com/documentation/
+- type: x-facebook
+  url: https://www.facebook.com/gavickpro
+- type: x-forum
+  url: https://www.joomlart.com/forums/
+- type: x-forum
+  url: https://www.joomlart.com/forums/gavick
+- type: x-forum
+  url: https://www.gavick.com/forums
+- type: x-forum
+  url: https://www.joomlart.com/forums/t/questions
+- type: x-login
+  url: https://www.gavick.com/login-form
+- type: x-press
+  url: https://www.gavick.com/wordpress-themes
+- type: x-privacy
+  url: https://www.gavick.com/privacy-policy
+- type: x-support
+  url: https://joomlart.com/member/helpdesk
+- type: x-terms-of-service
+  url: https://www.gavick.com/terms-and-conditions
+- type: x-twitter
+  url: https://twitter.com/gavickpro
+- type: x-website
+  url: https://www.gavick.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

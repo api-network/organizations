@@ -1,0 +1,27 @@
+---
+name: Subscription DNA
+description: Subscription DNA | Save time, save money, and more with our enterprise
+  cloud billing and membership management software. Business has never been easier.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1117079"
+url: https://raw.githubusercontent.com/api-network/organizations/main/subscription-dna.yaml
+tags:
+- Billing
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.subscriptiondna.com/subscription-dna-blog/
+- type: x-contact
+  url: https://www.subscriptiondna.com/contact/
+- type: x-website
+  url: https://www.subscriptiondna.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

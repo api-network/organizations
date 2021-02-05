@@ -1,0 +1,81 @@
+---
+name: The Tunnel - Demoscene blog
+description: da tunnel - demoscene blog
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-tunnel--demoscene-blog.yaml
+tags:
+- Scene
+- PC
+- Party
+- Music
+- Intro
+- Graphics
+- Demoscene
+- Demo
+- Code
+- Blog
+- Art
+- 96k
+- 8k
+- 64k
+- 64b
+- 4K
+- 32b
+- 256b
+- 1k
+- 128b
+apis: []
+x-common:
+- type: x-blog
+  url: http://datunnel.blogspot.com
+- type: x-blog
+  url: http://www2.blogger.com/profile/14410194277456644612
+- type: x-blog
+  url: http://datunnel.blogspot.com/2017/04/4k-vs-64k.html
+- type: x-blog
+  url: https://datunnel.blogspot.com/search/label/4k
+- type: x-blog
+  url: https://datunnel.blogspot.com/search/label/flares
+- type: x-blog
+  url: https://datunnel.blogspot.com/search/label/hexagonal
+- type: x-blog
+  url: https://datunnel.blogspot.com/search/label/history
+- type: x-blog
+  url: https://datunnel.blogspot.com/search/label/lens
+- type: x-blog
+  url: https://datunnel.blogspot.com/2017/04/4k-vs-64k.html
+- type: x-blog
+  url: https://datunnel.blogspot.com/search/label/64k
+- type: x-blog
+  url: https://datunnel.blogspot.com/search/label/comparison
+- type: x-blog
+  url: https://datunnel.blogspot.com/search/label/mercury
+- type: x-blog
+  url: https://datunnel.blogspot.com/search/label/sucks
+- type: x-blog
+  url: http://blackpawn.com/blog/
+- type: x-blog
+  url: http://nervedemosystem.blogspot.com/
+- type: x-press
+  url: http://trixter.wordpress.com/
+- type: x-press
+  url: http://fgiesen.wordpress.com/
+- type: x-press
+  url: http://directtovideo.wordpress.com/
+- type: x-press
+  url: https://democyclopedia.wordpress.com/
+- type: x-website
+  url: https://datunnel.blogspot.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=x_izwOdGFlk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

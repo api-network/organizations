@@ -1,0 +1,44 @@
+---
+name: EditiX
+description: EditiX is a quality Open Source XML Editor and XSLT Editor for Windows,
+  Mac OS X and Linux. Test for Free with our 30-day Trial !
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "647633"
+url: https://raw.githubusercontent.com/api-network/organizations/main/editix.yaml
+tags:
+- XSLT Editor
+- XSLT Debugger
+- XSLT
+- XSL-FO
+- Xsl Editor
+- XML Tool
+- XML IDE
+- XML Editor
+- XML
+- Schema Editor
+- Mac OS X
+- Editors
+- DTD Editor
+- Dtd
+apis: []
+x-common:
+- type: x-website
+  url: http://www.editix.com
+- type: x-blog
+  url: http://www.editix.com/blog2
+- type: x-twitter
+  url: http://www.twitter.com/@editix_xml
+- type: x-website
+  url: https://www.editix.com
+- type: x-youtube
+  url: http://www.youtube.com/japisoftpodcast
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

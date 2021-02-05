@@ -1,0 +1,53 @@
+---
+name: WeoGeo Status
+description: Get the data you need, how you want it. Find, order, and download geospatial
+  data from Trimble Data Marketplace
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/674_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/weogeo-status.yaml
+tags:
+- Utilties
+- Telecommunications
+- Locations
+- Have API
+- GIS
+- Construction
+- Agriculture
+apis: []
+x-common:
+- type: x-website
+  url: http://www.weogeo.com/developer_doc/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/trimble
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/weogeo
+- type: x-developer
+  url: http://developer.weogeo.com
+- type: x-email
+  url: investor_relations@trimble.com
+- type: x-email
+  url: webmaster@trimble.com
+- type: x-email
+  url: dmca@trimble.com
+- type: x-email
+  url: privacy@trimble.com
+- type: x-email
+  url: jack_patton@trimble.com
+- type: x-email
+  url: James_Todd@trimble.com
+- type: x-github
+  url: https://github.com/WeoGeo
+- type: x-twitter
+  url: https://twitter.com/#!/WeoGeoStatus
+- type: x-twitter
+  url: https://twitter.com/TrimbleCorpNews
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

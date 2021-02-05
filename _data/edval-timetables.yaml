@@ -1,0 +1,54 @@
+---
+name: Edval Timetables
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/edval-timetables.yaml
+tags:
+- Scheduling Utilities
+apis: []
+x-common:
+- type: x-website
+  url: http://www.edval.education
+- type: x-about
+  url: https://www.edval.education/about-us/
+- type: x-about
+  url: https://www.edval.education/about-us/integration/
+- type: x-about
+  url: https://www.edval.education/about-us/testimonials/
+- type: x-case-studies
+  url: https://www.edval.education/resources/case-studies/
+- type: x-contact
+  url: https://www.edval.education/contact-us/
+- type: x-events
+  url: https://www.edval.education/events/
+- type: x-facebook
+  url: https://www.facebook.com/edvaltimetables1
+- type: x-linkedin
+  url: https://au.linkedin.com/company/edval-timetables
+- type: x-logos
+  url: https://www.edval.education/logos/
+- type: x-news
+  url: https://www.edval.education/resources/news/
+- type: x-press
+  url: https://www.edval.education/resources/press/
+- type: x-support
+  url: https://help.edval.com.au/portal/home
+- type: x-support
+  url: http://help.edval.com.au/
+- type: x-terms-of-service
+  url: https://www.edval.education/legal/
+- type: x-twitter
+  url: https://twitter.com/edvaltimetables
+- type: x-website
+  url: https://www.edval.com.au
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

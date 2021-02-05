@@ -1,0 +1,57 @@
+---
+name: XRefresh
+description: XRefresh is a browser plugin which will refresh current web page due
+  to file change in selected folders
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "256631"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xrefresh.yaml
+tags:
+- Xrefresh
+- Software
+- Refresh
+- Productivity
+- Internet
+- Firefox
+- Browser
+- Binaryage
+- Addon
+apis: []
+x-common:
+- type: x-about
+  url: https://www.binaryage.com/about
+- type: x-code
+  url: http://xrefresh.googlecode.com/files/xrefresh-1.5.msi
+- type: x-code
+  url: http://code.google.com/p/fbug/issues/detail?id=179
+- type: x-code
+  url: http://www.codeproject.com/KB/list/XPTable.aspx
+- type: x-code
+  url: http://www.codeproject.com/KB/menus/MozBar.aspx
+- type: x-forum
+  url: http://forums.mozillazine.org/viewtopic.php?p=3001440
+- type: x-github
+  url: http://gist.github.com/158851
+- type: x-github
+  url: http://github.com/binaryage/xrefresh/tree/master/test
+- type: x-github
+  url: https://github.com/mockko/livereload
+- type: x-github
+  url: http://github.com/binaryage/xrefresh/issues#issue/7
+- type: x-github
+  url: http://github.com/binaryage/xrefresh/issues#issue/4
+- type: x-github
+  url: http://github.com/blackout
+- type: x-github
+  url: http://github.com/binaryage/xrefresh/issues#issue/3
+- type: x-website
+  url: https://xrefresh.binaryage.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

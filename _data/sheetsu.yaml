@@ -1,0 +1,51 @@
+---
+name: Sheetsu
+description: Turn Google Sheets into API with Sheetsu in just 5 minutes.        Access
+  Google Spreadsheets via REST API and use it as a data store or CMS. No???deploy,
+  no???maintenance.        Without setup, one click away. Check it out.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/sheetsu-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "431717"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sheetsu.yaml
+tags:
+- Spreadsheets
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://sheetsu.com
+- type: x-blog
+  url: https://blog.sheetsu.com/
+- type: x-blog
+  url: https://blog.sheetsu.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/sheetsu-com
+- type: x-documentation
+  url: https://docs.sheetsu.com
+- type: x-documentation
+  url: https://docs.sheetsu.com?utm_source=landing-page
+- type: x-documentation
+  url: https://docs.sheetsu.com/
+- type: x-email
+  url: team@sheetsu.com
+- type: x-email
+  url: support@sheetsu.com
+- type: x-github
+  url: https://github.com/sheetsu
+- type: x-status
+  url: http://status.sheetsu.com
+- type: x-support
+  url: https://help.sheetsu.com
+- type: x-twitter
+  url: https://twitter.com/sheetsuhq
+- type: x-website
+  url: http://sheetsu.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,35 @@
+---
+name: Boston Dynamics
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "115267"
+url: https://raw.githubusercontent.com/api-network/organizations/main/boston-dynamics.yaml
+tags:
+- Companies
+- Animation
+apis: []
+x-common:
+- type: x-website
+  url: http://www.bostondynamics.com
+- type: x-facebook
+  url: https://www.facebook.com/BostonDynamicsOfficial/
+- type: x-instagram
+  url: https://www.instagram.com/bostondynamicsofficial/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/boston-dynamics/
+- type: x-twitter
+  url: https://twitter.com/BostonDynamics
+- type: x-website
+  url: https://www.bostondynamics.com
+- type: x-youtube
+  url: https://www.youtube.com/user/BostonDynamics
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,26 @@
+---
+name: University of Toronto Dynamic Graphics Project
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "26898"
+url: https://raw.githubusercontent.com/api-network/organizations/main/university-of-toronto-dynamic-graphics-project.yaml
+tags:
+- Computer Graphics
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.dgp.toronto.edu/contact-us
+- type: x-news
+  url: https://www.dgp.toronto.edu/news
+- type: x-website
+  url: https://www.dgp.toronto.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

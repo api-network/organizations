@@ -1,0 +1,30 @@
+---
+name: "Caf\xE9 59"
+description: Cafe 59 Food and Spirits at 62 Allen St. A full service restaurant and
+  bar. Daily lunch, dinner and bar specials. A casual friendly atmosphere with great
+  food.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/caf-59.yaml
+tags:
+- New York
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/grindhauscafe/
+- type: x-facebook
+  url: https://www.facebook.com/pages/Cafe-59/169884066388127
+- type: x-press
+  url: https://wordpress.org/
+- type: x-website
+  url: https://www.cafe59.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,30 @@
+---
+name: BioComp Systems, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/biocomp-systems-inc-.yaml
+tags:
+- Companies
+apis: []
+x-common:
+- type: x-website
+  url: http://www.biocompsystems.com
+- type: x-blog
+  url: http://intelli-community.com/blog/
+- type: x-facebook
+  url: http://www.facebook.com/BioCompSystems
+- type: x-twitter
+  url: http://twitter.com/BioCompSystems
+- type: x-website
+  url: https://www.bio-comp.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

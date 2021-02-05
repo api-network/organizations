@@ -1,0 +1,68 @@
+---
+name: Brown Paper Tickets
+description: Brown Paper Tickets - The first and only fair trade ticketing company!
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/716-brown-paper-tickets.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "43685"
+url: https://raw.githubusercontent.com/api-network/organizations/main/brown-paper-tickets.yaml
+tags:
+- Tickets
+- Ticket Buy Sell Tickets Events Event Registration
+- Marketplaces
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-about
+  url: https://www.brownpapertickets.com/about
+- type: x-base
+  url: https://www.brownpapertickets.com/api2/
+- type: x-blog
+  url: http://community.brownpapertickets.com/wp/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/brown-paper-tickets
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/brown-paper-tickets
+- type: x-developer
+  url: http://developer.brownpapertickets.com
+- type: x-developers
+  url: http://www.brownpapertickets.com/apidocs/index.html
+- type: x-email
+  url: support@brownpapertickets.com
+- type: x-email
+  url: Legal@BrownPaperTickets.com
+- type: x-email
+  url: jobs@brownpapertickets.com
+- type: x-email
+  url: support@brownpapertickets.co.uk
+- type: x-facebook
+  url: https://www.brownpapertickets.com/followfacebook.html
+- type: x-instagram
+  url: https://www.brownpapertickets.com/followinstagram.html
+- type: x-login
+  url: https://www.brownpapertickets.com/login.html
+- type: x-pricing
+  url: https://www.brownpapertickets.com/pricing.html
+- type: x-pricing
+  url: http://www.brownpapertickets.com/pricing.html
+- type: x-support
+  url: https://help.brownpapertickets.com/hc/en
+- type: x-twitter
+  url: https://www.brownpapertickets.com/followtwitter.html
+- type: x-twitter
+  url: https://www.brownpapertickets.com/followtwitter.html
+- type: x-twitter
+  url: https://twitter.com/bptickets
+- type: x-website
+  url: http://www.brownpapertickets.com/
+- type: x-youtube
+  url: https://www.brownpapertickets.com/followyoutube.html
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

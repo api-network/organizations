@@ -1,0 +1,66 @@
+---
+name: Staffing Optics
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/staffing-optics.yaml
+tags:
+- Recruitment Management
+apis: []
+x-common:
+- type: x-about
+  url: https://istaff.io/blog/about/
+- type: x-blog
+  url: https://istaff.io/blog
+- type: x-blog
+  url: https://istaff.io/blog/
+- type: x-blog
+  url: https://istaff.io/blog/author/markkcross/
+- type: x-blog
+  url: https://istaff.io/blog/category/staffing-agency-sales/
+- type: x-blog
+  url: https://istaff.io/blog/tag/business-development/
+- type: x-blog
+  url: https://istaff.io/blog/tag/business-intelligence/
+- type: x-blog
+  url: https://istaff.io/blog/tag/client-relationships/
+- type: x-blog
+  url: https://istaff.io/blog/tag/data-protection/
+- type: x-blog
+  url: https://istaff.io/blog/tag/disaster-recovery/
+- type: x-blog
+  url: https://istaff.io/blog/tag/efficiency-methods/
+- type: x-blog
+  url: https://istaff.io/blog/tag/paycards/
+- type: x-blog
+  url: https://istaff.io/blog/tag/payroll/
+- type: x-blog
+  url: https://istaff.io/blog/tag/sales-prospecting/
+- type: x-blog
+  url: https://istaff.io/blog/tag/sales-techniques/
+- type: x-blog
+  url: https://istaff.io/blog/tag/six-sigma/
+- type: x-blog
+  url: https://istaff.io/blog/tag/solution-selling/
+- type: x-blog
+  url: https://istaff.io/blog/tag/staffing-agency-metrics/
+- type: x-blog
+  url: https://istaff.io/blog/tag/staffing-agency-technology/
+- type: x-contact
+  url: https://istaff.io/blog/contact/
+- type: x-facebook
+  url: https://www.facebook.com/staffingoptics/
+- type: x-twitter
+  url: https://twitter.com/staffingoptics/
+- type: x-website
+  url: https://staffingoptics.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

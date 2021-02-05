@@ -1,0 +1,50 @@
+---
+name: CAD-1
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cad1.yaml
+tags:
+- CAD Systems
+apis: []
+x-common:
+- type: x-website
+  url: http://www.asti.com
+- type: x-about
+  url: https://www.asti.com/about/
+- type: x-blog
+  url: https://www.asti.com/blog/
+- type: x-careers
+  url: https://www.asti.com/about/careers/
+- type: x-contact
+  url: https://www.asti.com/about/contact-us/
+- type: x-customers
+  url: https://www.asti.com/about/customerstories/
+- type: x-facebook
+  url: https://www.facebook.com/AppliedSoftwareTechnologyInc/
+- type: x-instagram
+  url: https://www.instagram.com/appliedsoftware/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/applied-software/
+- type: x-support
+  url: https://www.asti.com/support/
+- type: x-support
+  url: https://www.asti.com/support/remote-technical-support/
+- type: x-support
+  url: https://www.asti.com/support/download/
+- type: x-twitter
+  url: https://twitter.com/Applied_SW
+- type: x-website
+  url: https://www.cad-1.com
+- type: x-youtube
+  url: https://www.youtube.com/c/appliedsoftware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,77 @@
+---
+name: Act-On
+description: Act-On marketing automation software helps you attract better prospects,
+  nurture leads at scale, close opportunities faster, and prove ROI with analytics.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "46964"
+url: https://raw.githubusercontent.com/api-network/organizations/main/acton.yaml
+tags:
+- Online Tools
+apis: []
+x-common:
+- type: x-website
+  url: https://www.act-on.com/
+- type: x-about
+  url: https://act-on.com/about-us/
+- type: x-about
+  url: https://act-on.com/about-us/leadership/
+- type: x-about
+  url: https://act-on.com/about-us/board-of-directors/
+- type: x-blog
+  url: https://act-on.com/blog/
+- type: x-blog
+  url: https://www.act-on.com/blog/
+- type: x-careers
+  url: https://act-on.com/careers/
+- type: x-customers
+  url: https://act-on.com/convert-leads-into-customers/
+- type: x-customers
+  url: https://act-on.com/customers/industries/
+- type: x-customers
+  url: https://act-on.com/customers/industries/manufacturing/
+- type: x-customers
+  url: https://act-on.com/customers/industries/technology/
+- type: x-customers
+  url: https://act-on.com/customers/agencies/
+- type: x-developer
+  url: http://developer.act-on.com
+- type: x-events
+  url: https://act-on.com/about-us/events/
+- type: x-facebook
+  url: https://www.facebook.com/actonsoftware
+- type: x-instagram
+  url: https://instagram.com/actonsoftware/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/act-on-software-inc./
+- type: x-partner
+  url: https://act-on.com/partners/find/
+- type: x-press
+  url: https://act-on.com/press/
+- type: x-pricing
+  url: https://www.act-on.com/pricing/
+- type: x-pricing
+  url: https://act-on.com/pricing/
+- type: x-privacy
+  url: https://act-on.com/privacy-policy/
+- type: x-privacy
+  url: https://www.act-on.com/privacy-policy-summary/
+- type: x-support
+  url: https://act-on.com/services/support/
+- type: x-terms-of-service
+  url: https://www.act-on.com/terms-of-service/
+- type: x-terms-of-service
+  url: https://www.act-on.com/support-terms/
+- type: x-twitter
+  url: https://twitter.com/actonsoftware
+- type: x-website
+  url: https://www.act-on.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

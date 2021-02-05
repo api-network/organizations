@@ -1,0 +1,56 @@
+---
+name: Qtools Software
+description: Qtools Website
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5881360"
+url: https://raw.githubusercontent.com/api-network/organizations/main/qtools-software.yaml
+tags:
+- TWC
+- Quickbooks
+- Qtools
+- Qslip
+- Print Deposit
+- Pre-printed Deposit
+- Payroll Report
+- Payroll
+- NYS45
+- NYS-45
+- Deposit Ticket
+- Deposit Slip
+- DE9C
+- DE9
+- DE7
+- DE6
+- DE-9C
+- DE-9
+- DE-7
+- DE-6
+- DE 7
+- DE 6
+- C4
+- C3
+- C-4
+- C-3
+- 941B
+- 941 Schedule B
+- 941 B
+apis: []
+x-common:
+- type: x-website
+  url: http://qtools.com
+- type: x-facebook
+  url: https://www.facebook.com/Qtools
+- type: x-twitter
+  url: https://twitter.com/QtoolsSoft
+- type: x-website
+  url: https://www.qtools.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

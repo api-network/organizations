@@ -1,0 +1,28 @@
+---
+name: PragmaDev
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9407998"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pragmadev.yaml
+tags:
+- Embedded Systems
+apis: []
+x-common:
+- type: x-developer
+  url: https://www.pragmadev.com/downloads/index.html
+- type: x-feed
+  url: https://www.pragmadev.com/pragmadev_feed.xml
+- type: x-forum
+  url: http://sdl-forum.org/Events/SAM2019/index.htm
+- type: x-website
+  url: https://www.pragmadev.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

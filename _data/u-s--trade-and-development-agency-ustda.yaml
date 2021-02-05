@@ -1,0 +1,37 @@
+---
+name: U.S. Trade and Development Agency (USTDA)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/u-s--trade-and-development-agency-ustda.yaml
+tags:
+- Ustda
+- Federal Government
+- Exports
+- Business
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ustda.gov
+- type: x-facebook
+  url: http://facebook.com/USTDA
+- type: x-facebook
+  url: http://facebook.com/tradeanddevelopmentagency
+- type: x-flickr
+  url: http://flickr.com/photos/ustdaphotos
+- type: x-linkedin
+  url: http://linkedin.com/company/u.s.-trade-and-development-agency
+- type: x-twitter
+  url: http://twitter.com/USTDA
+- type: x-youtube
+  url: http://youtube.com/USTDAvideo
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

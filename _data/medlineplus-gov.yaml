@@ -1,0 +1,56 @@
+---
+name: MedlinePlus.gov
+description: Official website of the National Institutes of Health (NIH). NIH is one
+  of the world's foremost medical research centers. An agency of the U.S. Department
+  of Health and Human Services, the NIH is the Federal focal point for health and
+  medical research....
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/medline-plus-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "115"
+url: https://raw.githubusercontent.com/api-network/organizations/main/medlineplus-gov.yaml
+tags:
+- Healthcare
+- Healthcare
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-base
+  url: http://wsearch.nlm.nih.gov/ws/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/national-institutes-of-health
+- type: x-email
+  url: healthinformation@mail.nih.gov
+- type: x-email
+  url: grantsinfo@nih.gov
+- type: x-email
+  url: olib@od.nih.gov
+- type: x-email
+  url: preguntas@nih.gov
+- type: x-email
+  url: execsec1@od.nih.gov
+- type: x-email
+  url: olib@mail.nih.gov
+- type: x-email
+  url: logo@nih.gov
+- type: x-email
+  url: NIHinfo@od.nih.gov
+- type: x-email
+  url: 2020@nei.nih.gov
+- type: x-email
+  url: nhlbiinfo@nhlbi.nih.gov
+- type: x-twitter
+  url: https://twitter.com/medlineplus
+- type: x-twitter
+  url: https://twitter.com/NIH
+- type: x-website
+  url: http://www.nlm.nih.gov/medlineplus/webservices.html
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

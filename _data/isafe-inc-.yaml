@@ -1,0 +1,48 @@
+---
+name: i-SAFE, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2272335"
+url: https://raw.githubusercontent.com/api-network/organizations/main/isafe-inc-.yaml
+tags:
+- Child Safety
+apis: []
+x-common:
+- type: x-website
+  url: http://www.isafeventures.com
+- type: x-about
+  url: http://www.isafeventures.com/about/
+- type: x-contact
+  url: https://isafedirect.com/webform/contact-us
+- type: x-developer
+  url: http://developer.isafe.org
+- type: x-documentation
+  url: https://auth.isafe.org/docs/new_lessons.pdf
+- type: x-facebook
+  url: https://www.facebook.com/isafe.org
+- type: x-instagram
+  url: http://www.instagram.com/idrive_live/
+- type: x-login
+  url: https://auth.isafe.org/user/login
+- type: x-login
+  url: http://www.isafeventures.com/serviceslogin/
+- type: x-news
+  url: http://www.isafeventures.com/subscribe-to-newsletter/
+- type: x-privacy
+  url: http://www.isafeventures.com/privacypolicy/
+- type: x-terms-of-service
+  url: http://www.isafeventures.com/termsofservice/
+- type: x-twitter
+  url: http://www.twitter.com/iSAFEVentures
+- type: x-website
+  url: https://www.isafe.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

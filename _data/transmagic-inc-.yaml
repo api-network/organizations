@@ -1,0 +1,56 @@
+---
+name: TransMagic, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "603628"
+url: https://raw.githubusercontent.com/api-network/organizations/main/transmagic-inc-.yaml
+tags:
+- Drawing Exchange And Interoperability
+apis: []
+x-common:
+- type: x-website
+  url: http://www.TransMagic.com
+- type: x-about
+  url: https://transmagic.com/company/about-transmagic/
+- type: x-blog
+  url: https://transmagic.com/blog/
+- type: x-blog
+  url: https://transmagic.com/blog-list/
+- type: x-blog
+  url: https://transmagic.com/blog-index/blog-index/
+- type: x-case-studies
+  url: https://transmagic.com/industry-use-cases/
+- type: x-contact
+  url: https://transmagic.com/company/contact-us/
+- type: x-customers
+  url: https://transmagic.com/company/customers/
+- type: x-news
+  url: https://transmagic.com/news
+- type: x-privacy
+  url: https://transmagic.com/privacy-policy
+- type: x-support
+  url: https://support.transmagic.com/
+- type: x-support
+  url: https://support.transmagic.com/hc/en-us
+- type: x-support
+  url: https://support.transmagic.com/hc/en-us/requests/new
+- type: x-terms-of-service
+  url: https://transmagic.com/terms-of-use
+- type: x-tutorials
+  url: https://transmagic.com/support/video-tutorials/
+- type: x-tutorials
+  url: https://transmagic.com/catia-tutorials/
+- type: x-twitter
+  url: https://twitter.com/Team_TransMagic
+- type: x-website
+  url: https://www.transmagic.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

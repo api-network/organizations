@@ -1,0 +1,37 @@
+---
+name: TapCrowd
+description: Mobile Event App Solution. Create, manage & launch great event apps that
+  engage your audience. Apps for Corporate events, conference apps & associations.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1235_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5427191"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tapcrowd.yaml
+tags:
+- Have API
+- Elearning
+- Applications
+apis: []
+x-common:
+- type: x-website
+  url: http://tapcrowd.com/
+- type: x-blog-rss
+  url: http://tapcrowd.com/feed/
+- type: x-blog-rss
+  url: http://www.tapcrowd.com/news.xml
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/tapcrowd
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/tapcrowd
+- type: x-email
+  url: hello@tapcrowd.com
+- type: x-twitter
+  url: https://twitter.com/#!/tapcrowd
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

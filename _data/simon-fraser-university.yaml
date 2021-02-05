@@ -1,0 +1,38 @@
+---
+name: Simon Fraser University
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5307"
+url: https://raw.githubusercontent.com/api-network/organizations/main/simon-fraser-university.yaml
+tags:
+- Canada
+apis: []
+x-common:
+- type: x-website
+  url: http://www.sfu.ca/fas
+- type: x-facebook
+  url: https://www.facebook.com/FAS.SFU
+- type: x-instagram
+  url: https://www.instagram.com/sfuappliedsciences/
+- type: x-news
+  url: http://www.sfu.ca/computing/newsandevents/events.html
+- type: x-security
+  url: http://www.sfu.ca/security/sfuroadconditions/
+- type: x-twitter
+  url: https://twitter.com/FAS_SFU
+- type: x-website
+  url: https://www.cs.sfu.ca
+- type: x-youtube
+  url: http://www.youtube.com/fascomms
+- type: x-youtube
+  url: https://www.youtube.com/user/fascomms
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,22 @@
+---
+name: Innovative Computing Laboratory
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "15498"
+url: https://raw.githubusercontent.com/api-network/organizations/main/innovative-computing-laboratory.yaml
+tags:
+- Research Institutes
+apis: []
+x-common:
+- type: x-website
+  url: https://icl.cs.utk.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

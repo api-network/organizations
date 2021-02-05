@@ -1,0 +1,68 @@
+---
+name: PaperCut
+description: PaperCut provides simple and affordable print management software for
+  Windows, Mac, and Linux. Our print control software helps keep track of all your
+  print accounting and print quotas for your business or educational facility.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "76015"
+url: https://raw.githubusercontent.com/api-network/organizations/main/papercut.yaml
+tags:
+- File And Print Sharing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.papercut.com/
+- type: x-about
+  url: https://www.papercut.com/about/
+- type: x-about
+  url: https://www.papercut.com/about/life-at-papercut/
+- type: x-about
+  url: https://www.papercut.com/about/team/
+- type: x-blog
+  url: https://blog.papercut.com
+- type: x-blog
+  url: https://blog.papercut.com/your-workplace/
+- type: x-blog
+  url: https://blog.papercut.com/things-we-make/
+- type: x-blog
+  url: https://blog.papercut.com/trends/
+- type: x-blog
+  url: https://blog.papercut.com/tech-and-dev/
+- type: x-blog
+  url: https://blog.papercut.com/inside-papercut/
+- type: x-blog
+  url: https://blog.papercut.com/
+- type: x-contact
+  url: https://www.papercut.com/contact/
+- type: x-facebook
+  url: https://facebook.com/papercutsoftware
+- type: x-linkedin
+  url: https://www.linkedin.com/company/papercut-software
+- type: x-login
+  url: https://portal.papercut.com/login/
+- type: x-privacy
+  url: https://www.papercut.com/privacy-policy/
+- type: x-security
+  url: https://www.papercut.com/discover/print-security/
+- type: x-support
+  url: https://www.papercut.com/support/
+- type: x-terms-of-service
+  url: https://www.papercut.com/industry/legal/
+- type: x-terms-of-service
+  url: https://www.papercut.com/industry/legal
+- type: x-twitter
+  url: https://twitter.com/papercutdev
+- type: x-website
+  url: https://www.papercut.com
+- type: x-youtube
+  url: https://youtube.com/papercutsoftware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

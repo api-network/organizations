@@ -1,0 +1,87 @@
+---
+name: Comtech Systems, Inc.
+description: Collect! is an Ultra-flexible debt collection software built to integrate
+  and to be easily customized as your agency grows.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2615775"
+url: https://raw.githubusercontent.com/api-network/organizations/main/comtech-systems-inc-.yaml
+tags:
+- Web Access
+- Multi-user Contact Management
+- Integrated Web Server
+- Flexible Reporting
+- Financial Tracking
+- Document Linking
+- Debt Management Software
+- Debt Collection Software
+- Data Import/export
+- Credit Management Software
+- Credit Bureau Reporting
+- Credit And Collection Software
+- Credit And Collection
+- Collection Strategies
+- Collection Software
+- Collection Management System
+- Collection Agency Software
+- Client Billing
+- Batch And Ad Hoc Letter Series
+apis: []
+x-common:
+- type: x-website
+  url: http://www.collect.org
+- type: x-about
+  url: http://www.collect.org/about-comtech.html
+- type: x-careers
+  url: http://www.collect.org/careers.html
+- type: x-contact
+  url: http://www.collect.org/contact-us.html
+- type: x-developer
+  url: http://dev.collect.org
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/2312480
+- type: x-login
+  url: http://www.collect.org/member-login.html
+- type: x-news
+  url: http://www.collect.org/show-all-news.html
+- type: x-partner
+  url: http://www.collect.org/partners.html#Dialers
+- type: x-partner
+  url: http://www.collect.org/partners.html#TextMessaging
+- type: x-partner
+  url: http://www.collect.org/partners.html#CreditBureaus
+- type: x-partner
+  url: http://www.collect.org/partners.html#OffSiteBackup
+- type: x-partner
+  url: http://www.collect.org/partners.html#ExternalReporting
+- type: x-partner
+  url: http://www.collect.org/partners.html#Consultants
+- type: x-partner
+  url: http://www.collect.org/partners.html#PaymentProcessing
+- type: x-partner
+  url: http://www.collect.org/partners.html#SkipTracing
+- type: x-partner
+  url: http://www.collect.org/partners.html#DocumentImaging
+- type: x-privacy
+  url: http://www.collect.org/privacy.html
+- type: x-showcase
+  url: https://www.nexmo.com/partners/showcase
+- type: x-support
+  url: http://www.collect.org/support-training-overview.html
+- type: x-support
+  url: http://www.collect.org/whatissupport.html
+- type: x-terms-of-service
+  url: http://www.collect.org/legal.html
+- type: x-twitter
+  url: http://twitter.com/collectsoftware
+- type: x-website
+  url: https://www.collect.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

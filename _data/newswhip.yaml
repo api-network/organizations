@@ -1,0 +1,142 @@
+---
+name: NewsWhip
+description: Understand what social media content resonates with audiences. Centralize
+  your social media monitoring and analytics to discover what's driving engagement.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/newswhip-logo.jpeg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "56319"
+url: https://raw.githubusercontent.com/api-network/organizations/main/newswhip.yaml
+tags:
+- Target
+- Relative Data
+- News
+- News
+- Have API Paths
+- Have API
+- General Data
+- API Provider
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-authentication
+  url: http://www.newswhip.com/api-widgets#authentication
+- type: x-base
+  url: https://api.newswhip.com
+- type: x-blog
+  url: http://blog.newswhip.com/
+- type: x-blog-rss
+  url: http://blog.newswhip.com/index.php/feed
+- type: x-case-studies
+  url: https://www.newswhip.com/case-studies/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/newswhip
+- type: x-crunchbase
+  url: http://www.crunchbase.com/organization/newswhip
+- type: x-developer
+  url: http://developer.newswhip.com
+- type: x-email
+  url: contact@newswhip.com
+- type: x-faq
+  url: https://spike.newswhip.com/faq
+- type: x-news
+  url: https://www.newswhip.com/
+- type: x-news
+  url: https://www.newswhip.com/pr-agency-solutions/
+- type: x-news
+  url: https://www.newswhip.com/brand-solutions/
+- type: x-news
+  url: https://www.newswhip.com/media-solutions/
+- type: x-news
+  url: https://www.newswhip.com/misinformation/
+- type: x-news
+  url: https://www.newswhip.com/blog/
+- type: x-news
+  url: https://www.newswhip.com/newswhip-analytics/
+- type: x-news
+  url: https://www.newswhip.com/newswhip-api/
+- type: x-news
+  url: https://www.newswhip.com/newswhip-applications/
+- type: x-news
+  url: https://go.newswhip.com/Demo-Request.html
+- type: x-news
+  url: http://go.newswhip.com/Demo-Request.html
+- type: x-news
+  url: https://www.newswhip.com/facebook-analytics/
+- type: x-news
+  url: https://www.newswhip.com/snapchat-analytics/
+- type: x-news
+  url: https://www.newswhip.com/pinterest-analytics/
+- type: x-news
+  url: https://www.newswhip.com/instagram-monitoring/
+- type: x-news
+  url: https://www.newswhip.com/youtube-analytics/
+- type: x-news
+  url: https://www.newswhip.com/twitter-analytics/
+- type: x-news
+  url: https://www.newswhip.com/web-content-analytics/
+- type: x-news
+  url: https://help.newswhip.com/hc/en-us
+- type: x-news
+  url: https://www.newswhip.com/newswhip-about-us/
+- type: x-news
+  url: https://www.newswhip.com/careers/
+- type: x-news
+  url: https://www.newswhip.com/meet-our-team/
+- type: x-news
+  url: https://www.newswhip.com/data-and-ethics/
+- type: x-news
+  url: http://forum.newswhip.com
+- type: x-news
+  url: https://developer.newswhip.com/blog/tag/blog
+- type: x-news
+  url: http://go.newswhip.com/API-Demo.html
+- type: x-news
+  url: https://developer.newswhip.com/v1/docs/filtering-tips
+- type: x-news
+  url: https://developer.newswhip.com/v1/docs/query-defaults
+- type: x-news
+  url: https://developer.newswhip.com/v1/docs/time-ranges
+- type: x-news
+  url: http://forum.newswhip.com/c/questions
+- type: x-news
+  url: http://forum.newswhip.com/c/research
+- type: x-news
+  url: http://forum.newswhip.com/c/feature-requests
+- type: x-news
+  url: http://go.newswhip.com/API-Access-Request.html
+- type: x-news
+  url: https://developer.newswhip.com/reference#articles
+- type: x-news
+  url: http://newswhip.com/
+- type: x-news
+  url: http://newswhip.com/newswhip-terms-conditions/
+- type: x-news
+  url: http://newswhip.com/newswhip-privacy-policy/
+- type: x-news
+  url: http://newswhip.com/newswhip-cookie-policy/
+- type: x-press
+  url: https://www.newswhip.com/press/
+- type: x-pricing
+  url: https://spike.newswhip.com/pricing/team
+- type: x-terms-of-service
+  url: http://www.newswhip.com/PrivacyAndLegal
+- type: x-twitter
+  url: https://twitter.com/NewsWhip
+- type: x-website
+  url: https://www.newswhip.com/
+- type: x-website
+  url: http://newswhip.com
+- type: x-widgets
+  url: http://www.newswhip.com/widgetabout#widget
+- type: x-wikipedia-
+  url: http://en.wikipedia.org/wiki/NewsWhip
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

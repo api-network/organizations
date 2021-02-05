@@ -1,0 +1,37 @@
+---
+name: Noteflight
+description: Noteflight is an online music writing application that lets you create,
+  view, print and hear professional quality music notation right in your web browser.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/871_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "17792"
+url: https://raw.githubusercontent.com/api-network/organizations/main/noteflight.yaml
+tags:
+- Has API
+apis: []
+x-common:
+- type: x-email
+  url: info@noteflight.com
+- type: x-website
+  url: http://www.noteflight.com/
+- type: x-blog
+  url: http://blog.noteflight.com/
+- type: x-blog-rss
+  url: http://blog.noteflight.com/feed/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/noteflight
+- type: x-github
+  url: https://github.com/noteflight
+- type: x-support
+  url: https://support.noteflight.com
+- type: x-twitter
+  url: https://twitter.com/noteflight
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,30 @@
+---
+name: Crescendo Speech Recognition, Digital Dictation Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "11034608"
+url: https://raw.githubusercontent.com/api-network/organizations/main/crescendo-speech-recognition-digital-dictation-software.yaml
+tags:
+- Medical Transcription
+apis: []
+x-common:
+- type: x-website
+  url: http://www.crescendo.com
+- type: x-facebook
+  url: https://www.facebook.com/crescendo.systems/
+- type: x-instagram
+  url: https://www.instagram.com/crescendosystems/
+- type: x-twitter
+  url: https://twitter.com/CrescendoCorp
+- type: x-website
+  url: https://www.crescendo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

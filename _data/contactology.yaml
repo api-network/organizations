@@ -1,0 +1,47 @@
+---
+name: Contactology
+description: Performance-driven email marketing for better ROI. Easily integrate with
+  our API and generate revenue with white label.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2078394"
+url: https://raw.githubusercontent.com/api-network/organizations/main/contactology.yaml
+tags:
+- Online Tools
+apis: []
+x-common:
+- type: x-website
+  url: http://www.campaigner.com
+- type: x-contact
+  url: http://help.contactology.com/
+- type: x-contact
+  url: http://status.contactology.com/
+- type: x-contact
+  url: https://try.campaigner.com/contactology/
+- type: x-facebook
+  url: http://www.facebook.com/campaigneremail
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/2033599
+- type: x-news
+  url: https://www.campaigner.com/about/news-room/
+- type: x-terms-of-service
+  url: https://www.campaigner.com/legal/privacy.aspx
+- type: x-terms-of-service
+  url: https://www.campaigner.com/legal/anti-spam.aspx
+- type: x-terms-of-service
+  url: https://www.campaigner.com/legal/terms.aspx
+- type: x-twitter
+  url: http://twitter.com/CampaignerEmail
+- type: x-website
+  url: https://www.contactology.com
+- type: x-youtube
+  url: https://www.youtube.com/user/CampaignerEmail
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,23 @@
+---
+name: about.sofia2.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/about-sofia2-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: https://about.sofia2.com/2015/01/23/iot-protocols-mqtt-restcoap-xmpp-and-sofia2/
+- type: x-website
+  url: http://about.sofia2.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

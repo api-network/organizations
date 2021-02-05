@@ -1,0 +1,65 @@
+---
+name: Red Oxygen
+description: Tools to send & receive text messages from Outlook, Gmail, web browser,
+  & API. Message one recipient or many. Unlimited customer support. Free trial!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "693256"
+url: https://raw.githubusercontent.com/api-network/organizations/main/red-oxygen.yaml
+tags:
+- Short Messaging Service
+apis: []
+x-common:
+- type: x-website
+  url: http://redoxygen.com
+- type: x-contact
+  url: https://redoxygen.com/support/contact-us/
+- type: x-developer
+  url: http://developer.redoxygen.com
+- type: x-facebook
+  url: https://www.facebook.com/RedOxygenSMS/
+- type: x-feed
+  url: https://www.redoxygen.com/desktop-texting/?feed=rss2
+- type: x-gdpr
+  url: https://redoxygen.com/gdpr-compliance/
+- type: x-instagram
+  url: https://www.instagram.com/redoxygen_sms/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/red-oxygen
+- type: x-plans
+  url: https://redoxygen.com/pricing/plans/
+- type: x-press
+  url: http://www.wonderplugin.com/wordpress-lightbox/
+- type: x-pricing
+  url: https://redoxygen.com/pricing/dedicated-numbers/
+- type: x-pricing
+  url: https://redoxygen.com/pricing/
+- type: x-pricing
+  url: https://redoxygen.com/pricing/plan-details/
+- type: x-privacy
+  url: https://redoxygen.com/privacy-policy/
+- type: x-support
+  url: https://redoxygen.com/support/software-downloads/
+- type: x-support
+  url: https://redoxygen.com/support/wiki/doku.php
+- type: x-support
+  url: https://redoxygen.com/support/web-administrator/
+- type: x-support
+  url: https://redoxygen.com/support/faq/
+- type: x-support
+  url: https://redoxygen.com/support/video-guides/
+- type: x-twitter
+  url: https://twitter.com/Red_Oxygen_SMS
+- type: x-website
+  url: https://www.redoxygen.com
+- type: x-youtube
+  url: https://www.youtube.com/user/redoxygen2007/videos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

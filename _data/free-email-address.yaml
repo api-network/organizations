@@ -1,0 +1,35 @@
+---
+name: Free Email Address
+description: In-depth reviews of free web-based email accounts.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/free-email-address.yaml
+tags:
+- Service
+- POP3
+- Guides And Directories
+- Free Email Account
+- Free E-mail
+- Email
+- E-mail
+- Addresses
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.free-email-address.com
+- type: x-login
+  url: https://login.yahoo.com/config/mail
+- type: x-privacy
+  url: http://www.free-email-address.com/privacy.html
+- type: x-website
+  url: https://www.free-email-address.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

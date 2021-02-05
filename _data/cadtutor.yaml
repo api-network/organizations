@@ -1,0 +1,31 @@
+---
+name: CADTutor
+description: CADTutor provides free video tutorials, articles, downloads and a busy
+  community forum for users of AutoCAD and associated software.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "129431"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cadtutor.yaml
+tags:
+- Digital Design
+- Bryce
+- Autodesk
+- AutoCAD Tutorials
+- AutoCAD Blogs
+- AutoCAD Articles
+- 3DS MAX
+apis: []
+x-common:
+- type: x-website
+  url: https://www.cadtutor.net
+- type: x-youtube
+  url: https://www.youtube.com/mrcadtutor
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

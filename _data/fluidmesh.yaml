@@ -1,0 +1,71 @@
+---
+name: FluidMesh
+description: Outdoor Wireless Ethernet Radio Networks and Solutions for point-to-point
+  wireless links, point-to-multipoint wireless networks, wireless mesh network
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/fluid-mesh.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "897099"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fluidmesh.yaml
+tags:
+- Networks
+- Mesh Networks
+- ISP
+- Have API
+- API Not Found
+apis: []
+x-common:
+- type: x-website
+  url: http://www.fluidmesh.com
+- type: x-about
+  url: https://www.fluidmesh.com/about/
+- type: x-blog
+  url: https://www.fluidmesh.com/blog/
+- type: x-careers
+  url: https://www.fluidmesh.com/careers/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/fluidmesh-networks
+- type: x-email
+  url: africa@fluidmesh.com
+- type: x-email
+  url: middle.east@fluidmesh.com
+- type: x-email
+  url: australia@fluidmesh.com
+- type: x-email
+  url: europe@fluidmesh.com
+- type: x-email
+  url: latin.america@fluidmesh.com
+- type: x-email
+  url: north.america@fluidmesh.com
+- type: x-email
+  url: sales@fluidmesh.com
+- type: x-email
+  url: asia@fluidmesh.com
+- type: x-email
+  url: info@fluidmesh.com
+- type: x-email
+  url: support@fluidmesh.com
+- type: x-facebook
+  url: https://www.facebook.com/fluidmesh
+- type: x-linkedin
+  url: http://www.linkedin.com/company/fluidmesh-networks
+- type: x-partner
+  url: https://partners.fluidmesh.com/
+- type: x-privacy
+  url: https://www.iubenda.com/privacy-policy/13901123
+- type: x-security
+  url: https://www.fluidmesh.com/solutions/video-security/
+- type: x-support
+  url: https://www.fluidmesh.com/support/
+- type: x-twitter
+  url: https://twitter.com/fluidmesh
+- type: x-website
+  url: https://www.fluidmesh.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

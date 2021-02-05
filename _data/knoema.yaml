@@ -1,0 +1,84 @@
+---
+name: Knoema
+description: Knoema is the free to use public and open data platform for users with
+  interests in statistics and data analysis, visual storytelling and making infographics
+  and data-driven presentations
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/logo_knoema.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "5"
+x-alexaRank: "42473"
+url: https://raw.githubusercontent.com/api-network/organizations/main/knoema.yaml
+tags:
+- Sign In With LinkedIn
+- Sign In With Google
+- Sign In With Facebook
+- REST
+- Market Data
+- Have API Paths
+- Have API
+- General Data
+- Free Tier
+- Financial
+- Financial
+- Data Provider
+- API Provider
+apis: []
+x-common:
+- type: x-authentication
+  url: https://knoema.com/dev/apps/authentication
+- type: x-blog
+  url: http://blog.knoema.com/
+- type: x-blog-rss
+  url: http://blog.knoema.com/feeds/posts/default?alt=rss
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/knoema
+- type: x-developers
+  url: http://knoema.com/dev
+- type: x-documentation
+  url: https://knoema.com/dev/docs
+- type: x-email
+  url: jobs@knoema.com
+- type: x-email
+  url: veskin@knoema.com
+- type: x-email
+  url: jkasputys@knoema.com
+- type: x-email
+  url: vb@knoema.com
+- type: x-email
+  url: sales@knoema.com
+- type: x-email
+  url: info@knoema.com
+- type: x-email
+  url: support@knoema.com
+- type: x-facebook
+  url: https://www.facebook.com/knoema.co
+- type: x-getting-started
+  url: https://knoema.com/signup
+- type: x-getting-started
+  url: http://feedback.knoema.com/
+- type: x-github
+  url: https://github.com/knoema
+- type: x-linkedin
+  url: https://www.linkedin.com/company/knoema/
+- type: x-login
+  url: https://knoema.com/sys/login/signup?returnUrl=%2F
+- type: x-login
+  url: https://knoema.com/sys/login?returnUrl=%2F
+- type: x-registration
+  url: https://knoema.com/sys/login?returnUrl=%2Fdev%2Fdocs%2Fmeta%2Fdatasets
+- type: x-support
+  url: http://help.knoema.com
+- type: x-terms-of-service
+  url: https://knoema.com/legal/termsofuse
+- type: x-twitter
+  url: https://twitter.com/knoema
+- type: x-website
+  url: https://knoema.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

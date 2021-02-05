@@ -1,0 +1,23 @@
+---
+name: asmarterplanet.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/asmarterplanet-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://asmarterplanet.com/blog/2015/06/spark-revolution-comes-data-analytics.html
+- type: x-website
+  url: http://asmarterplanet.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

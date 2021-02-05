@@ -1,0 +1,46 @@
+---
+name: eOption
+description: '<p>eOption takes pride in supporting investors and their efforts buying
+  and selling options. Our goal is to provide an intuitive, convenient service that
+  allows for users to maximize their experience with stocks, options and many other
+  investment products. How you ask? By offering some of the lowest fees for online
+  brokers allowing investors to keep more capital.<span style="white-space: pre;">
+  </span></p>'
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28331-www-eoption-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "583660"
+url: https://raw.githubusercontent.com/api-network/organizations/main/eoption.yaml
+tags:
+- Trading
+- Marketplaces
+- Have API
+- API Not Found
+apis: []
+x-common:
+- type: x-website
+  url: http://eoption.com
+- type: x-contact
+  url: https://www.eoption.com/contact/
+- type: x-email
+  url: support@eoption.com
+- type: x-facebook
+  url: https://www.facebook.com/eOption
+- type: x-linkedin
+  url: https://www.linkedin.com/company/eoption
+- type: x-login
+  url: https://www.eoption.com/client-login-2/
+- type: x-platform
+  url: https://www.eoption.com/trading-platform-2/
+- type: x-twitter
+  url: https://twitter.com/eOption
+- type: x-website
+  url: http://www.eoption.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

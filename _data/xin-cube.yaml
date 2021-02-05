@@ -1,0 +1,28 @@
+---
+name: Xin Cube
+description: Xin Cube is a software provider that provide low cost quality software
+  including invoice software, quotation software and stock control software
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xin-cube.yaml
+tags:
+- Quotation Software
+- Invoice Software
+- Inventory Control Software
+- Billing
+apis: []
+x-common:
+- type: x-support
+  url: http://support.xincube.com
+- type: x-website
+  url: https://www.xincube.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

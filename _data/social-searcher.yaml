@@ -1,0 +1,43 @@
+---
+name: Social Searcher
+description: Start real-time mentions monitoring in social media and web. Quickly
+  analyze what people are saying about your company, brand, product, or service in
+  one easy to use dashboard.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "97844"
+url: https://raw.githubusercontent.com/api-network/organizations/main/social-searcher.yaml
+tags:
+- Web Monitoring
+- Twitter Search
+- Specialized
+- Social Search
+- Social Monitoring
+- Social Mention
+- Social Media Tracker
+- Social Media Search
+- Social Media Monitoring
+- Social Listening
+- Media Monitoring
+- Instagram Search
+- Hashtag Tracking
+- Hashtag Search
+- Facebook Search
+- Brand Monitoring
+apis: []
+x-common:
+- type: x-facebook
+  url: http://www.facebook.com/socialsearcher
+- type: x-twitter
+  url: http://twitter.com/social_searcher
+- type: x-website
+  url: https://www.social-searcher.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

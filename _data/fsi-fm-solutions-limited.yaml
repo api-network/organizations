@@ -1,0 +1,50 @@
+---
+name: FSI (FM Solutions) Limited
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1485561"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fsi-fm-solutions-limited.yaml
+tags:
+- Facility Management
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.fsi.co.uk/blog.html
+- type: x-careers
+  url: https://www.fsi.co.uk/careers.html
+- type: x-case-studies
+  url: https://www.fsi.co.uk/case-studies.html
+- type: x-contact
+  url: https://www.fsi.co.uk/contact-information.html
+- type: x-events
+  url: https://www.fsi.co.uk/events-gallery.html
+- type: x-gdpr
+  url: https://www.fsi.co.uk/gdpr-toolkit-mid120.html
+- type: x-gdpr
+  url: https://www.fsi.co.uk/gdpr.html
+- type: x-instagram
+  url: https://www.instagram.com/fsifm
+- type: x-linkedin
+  url: http://www.linkedin.com/company/1186241?trk=tyah
+- type: x-news
+  url: https://www.fsi.co.uk/latest-news.html
+- type: x-support
+  url: https://supportportal.fsifm.com
+- type: x-support
+  url: https://www.fsi.co.uk/support/supporthomepage.html
+- type: x-twitter
+  url: https://twitter.com/ConceptCAFM/
+- type: x-website
+  url: https://www.fsi.co.uk
+- type: x-white-papers
+  url: https://www.fsi.co.uk/whitepapers.html
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

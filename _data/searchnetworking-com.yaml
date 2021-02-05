@@ -1,0 +1,48 @@
+---
+name: SearchNetworking.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2256"
+url: https://raw.githubusercontent.com/api-network/organizations/main/searchnetworking-com.yaml
+tags:
+- Networking
+apis: []
+x-common:
+- type: x-about
+  url: https://searchnetworking.techtarget.com/about
+- type: x-about
+  url: https://searchnetworking.techtarget.com/about/editors
+- type: x-contact
+  url: https://searchnetworking.techtarget.com/about/contact
+- type: x-events
+  url: https://searchnetworking.techtarget.com/events
+- type: x-linkedin
+  url: https://www.linkedin.com/company/3082174?trk=tyah
+- type: x-news
+  url: https://searchnetworking.techtarget.com/info/news
+- type: x-partner
+  url: https://searchnetworking.techtarget.com/about/partners
+- type: x-privacy
+  url: https://www.techtarget.com/privacy-policy/
+- type: x-privacy
+  url: https://www.techtarget.com/privacy-partners/
+- type: x-privacy
+  url: https://www.techtarget.com/privacy-policy-may25/
+- type: x-terms-of-service
+  url: https://www.techtarget.com/terms-of-use/
+- type: x-tutorials
+  url: https://searchnetworking.techtarget.com/tutorials
+- type: x-twitter
+  url: https://twitter.com/networkingtt
+- type: x-website
+  url: https://searchnetworking.techtarget.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

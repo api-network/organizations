@@ -1,0 +1,68 @@
+---
+name: Karl's PC Help
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/karls-pc-help.yaml
+tags:
+- Device Drivers
+apis: []
+x-common:
+- type: x-code
+  url: http://www.codeteacher.com/
+- type: x-forum
+  url: http://www.karlsforums.com/forums/
+- type: x-forum
+  url: http://www.karlsforums.com/cgi-bin/click.cgi?id=255
+- type: x-forum
+  url: http://www.karlsforums.com/
+- type: x-forum
+  url: http://www.karlsforums.com/downloads.htm
+- type: x-forum
+  url: http://www.karlsforums.com/retirement.htm
+- type: x-forum
+  url: http://www.karlsforums.com/forums/register.php
+- type: x-forum
+  url: http://karlsforums.com/cgi-bin/click.cgi?id=220
+- type: x-forum
+  url: http://www.karlsforums.co.uk/guestbook/
+- type: x-forum
+  url: http://www.karlsforums.com/cgi-bin/click.cgi?id=267
+- type: x-forum
+  url: http://karlsforums.com/cgi-bin/click.cgi?id=222
+- type: x-forum
+  url: http://www.karlsforums.com/forums/advertise.php
+- type: x-forum
+  url: http://findme.karlsforums.com/
+- type: x-forum
+  url: http://xmb-forum.com/
+- type: x-forum
+  url: http://www.karlsforums.com/forums/index.php?gid=2
+- type: x-forum
+  url: http://karlsforums.com/cgi-bin/click.cgi?id=227
+- type: x-news
+  url: http://www.langa.com/newsletter.htm
+- type: x-open-source
+  url: http://www.opensourcecms.com/
+- type: x-self-service-registration
+  url: http://www.theregister.co.uk/
+- type: x-self-service-registration
+  url: http://www.theregister.co.uk/content/6/26676.html
+- type: x-status
+  url: http://homepage.ntlworld.com/karl.davis2/status.htm
+- type: x-support
+  url: http://www.pchelp4free.com/
+- type: x-support
+  url: http://support.microsoft.com/default.aspx?pr=kbinfo&
+- type: x-website
+  url: https://www.karlsforums.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

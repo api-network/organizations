@@ -1,0 +1,40 @@
+---
+name: Phandroid
+description: The world's first Android News Source, Phandroid.com covers Android news
+  and reviews for phones, tablets, apps, games, and accessories along with, tips,
+  tricks, and buying guides.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "47228"
+url: https://raw.githubusercontent.com/api-network/organizations/main/phandroid.yaml
+tags:
+- News And Media
+apis: []
+x-common:
+- type: x-website
+  url: http://phandroid.com
+- type: x-about
+  url: https://phandroid.com/about/
+- type: x-facebook
+  url: http://www.facebook.com/phandroid
+- type: x-feed
+  url: http://feeds2.feedburner.com/AndroidPhoneFans
+- type: x-forum
+  url: http://androidforums.com/
+- type: x-news
+  url: https://phandroid.com/news/
+- type: x-twitter
+  url: https://twitter.com/phandroid
+- type: x-website
+  url: https://phandroid.com
+- type: x-youtube
+  url: https://www.youtube.com/phandroid
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

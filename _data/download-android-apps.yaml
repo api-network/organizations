@@ -1,0 +1,55 @@
+---
+name: Download Android Apps
+description: Download android apps, games, themes and live wallpapers direct APK for
+  all android smartphones, tablets and other devices from AppsApk.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "85992"
+url: https://raw.githubusercontent.com/api-network/organizations/main/download-android-apps.yaml
+tags:
+- Markets
+apis: []
+x-common:
+- type: x-website
+  url: http://www.appsapk.com
+- type: x-blog
+  url: https://www.appsapk.com/blog/
+- type: x-code
+  url: https://www.appsapk.com/barcode-scanner/
+- type: x-contact
+  url: https://www.appsapk.com/android/call-contacts-apps/
+- type: x-contact
+  url: https://www.appsapk.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/AppsApkcom
+- type: x-instagram
+  url: https://www.instagram.com/appsapk2/
+- type: x-news
+  url: https://www.appsapk.com/android/news-weather-apps/
+- type: x-open-source
+  url: https://www.appsapk.com/volume-control-opensource/
+- type: x-platform
+  url: https://www.appsapk.com/android/fun-games/platform/
+- type: x-privacy
+  url: https://www.appsapk.com/privacy-policy/
+- type: x-privacy
+  url: https://www.appsapk.com/app-privacy-policy/
+- type: x-security
+  url: https://www.appsapk.com/android/security-privacy-apps/
+- type: x-terms-of-service
+  url: https://www.appsapk.com/terms-of-use/
+- type: x-tutorials
+  url: https://www.appsapk.com/android/tutorials/
+- type: x-twitter
+  url: https://www.twitter.com/AppsApkcom
+- type: x-website
+  url: https://www.appsapk.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

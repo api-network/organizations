@@ -1,0 +1,45 @@
+---
+name: New York Federal Reserve Foreign Exchange
+description: The Federal Reserve Bank of New York plays a leadership role in monetary
+  policy, financial supervision and the payments system.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Fed-Logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "91407"
+url: https://raw.githubusercontent.com/api-network/organizations/main/new-york-federal-reserve-foreign-exchange.yaml
+tags:
+- International
+- Have API
+- Financial
+- Financial
+- Exchange
+- Currencies
+- API Provider
+apis: []
+x-common:
+- type: x-base
+  url: http://www.newyorkfed.org/xml/data/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/federal-reserve-bank-of-new-york
+- type: x-developers
+  url: http://www.newyorkfed.org/xml/fx.html
+- type: x-facebook
+  url: https://www.facebook.com/newyorkfed
+- type: x-website
+  url: http://www.newyorkfed.org
+- type: x-slideshare
+  url: http://www.slideshare.net/NewYorkFed
+- type: x-twitter
+  url: https://twitter.com/NewYorkFed
+- type: x-twitter
+  url: http://twitter.com/NewYorkFed
+- type: x-youtube
+  url: http://www.youtube.com/user/TheNewYorkFed
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

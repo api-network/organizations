@@ -1,0 +1,41 @@
+---
+name: Purely Themes
+description: Free WordPress Themes are readily available for download from our site,
+  and we also run an established blog featuring topics for both WordPress and Technology
+  in general. We cover a variety of subjects, including AR, VR, AI, ML, programming,
+  webdesign and more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "504579"
+url: https://raw.githubusercontent.com/api-network/organizations/main/purely-themes.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-about
+  url: https://www.purelythemes.com/about/
+- type: x-blog
+  url: https://www.purelythemes.com/category/blog/
+- type: x-blog
+  url: https://www.bloggingvision.com/
+- type: x-contact
+  url: https://www.purelythemes.com/contact/
+- type: x-press
+  url: https://presspioneer.com
+- type: x-press
+  url: https://www.purelythemes.com/category/wordpress-tips/
+- type: x-privacy
+  url: https://www.purelythemes.com/privacy-cookies/
+- type: x-terms-of-service
+  url: https://www.purelythemes.com/category/legal/
+- type: x-website
+  url: https://www.purelythemes.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

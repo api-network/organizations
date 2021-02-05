@@ -1,0 +1,44 @@
+---
+name: Application Programming Interface (API) Project
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9050"
+url: https://raw.githubusercontent.com/api-network/organizations/main/application-programming-interface-api-project.yaml
+tags:
+- OpenOffice.org
+apis: []
+x-common:
+- type: x-blog
+  url: https://blogs.apache.org/ooo/
+- type: x-code
+  url: https://download.openoffice.org/sdk.html
+- type: x-forum
+  url: https://user.openoffice.org/en/forum
+- type: x-open-source
+  url: https://openoffice.apache.org/get-involved.html
+- type: x-open-source
+  url: https://wiki.openoffice.org/wiki/API/To-Dos
+- type: x-open-source
+  url: https://wiki.openoffice.org/wiki/API
+- type: x-open-source
+  url: https://wiki.openoffice.org/wiki/Uno
+- type: x-open-source
+  url: https://wiki.openoffice.org/wiki/Extensions
+- type: x-open-source
+  url: http://extensions.openoffice.org
+- type: x-open-source
+  url: https://wiki.openoffice.org/wiki/API/Samples
+- type: x-open-source
+  url: https://wiki.openoffice.org/wiki/API/Tutorials
+- type: x-website
+  url: https://api.openoffice.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

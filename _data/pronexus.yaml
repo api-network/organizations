@@ -1,0 +1,32 @@
+---
+name: Pronexus
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7095956"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pronexus.yaml
+tags:
+- Telephony
+apis: []
+x-common:
+- type: x-website
+  url: http://www.pronexus.com
+- type: x-facebook
+  url: https://www.facebook.com/PronexusVBVoice/
+- type: x-linkedin
+  url: https://ca.linkedin.com/company/pronexus
+- type: x-twitter
+  url: https://twitter.com/vbvoice
+- type: x-website
+  url: https://www.pronexus.com
+- type: x-youtube
+  url: https://www.youtube.com/user/TheIVRtube
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

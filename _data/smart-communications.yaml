@@ -1,0 +1,44 @@
+---
+name: SMART Communications
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/smart-communications.yaml
+tags:
+- Translations
+- Technical Writing
+- STE
+- Software And Tools
+- Six Sigma
+- Simplified Technical English
+- Simplification
+- S1000D
+- Poka Yoke
+- Plain English
+- Natural Language Processing
+- MAXit
+- Machine Learning
+- Globalization
+- Elearning
+- Controlled English
+- Controlled Engish
+- Artificial Intelligence
+- AI. NLP
+apis: []
+x-common:
+- type: x-website
+  url: http://www.smartny.com
+- type: x-twitter
+  url: https://twitter.com/smartny
+- type: x-website
+  url: https://www.smartny.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,52 @@
+---
+name: ThinPrint
+description: ThinPrint significantly increases print performance, eases the strain
+  on the IT and enables lucrative cost savings in any environment. Get started for
+  free!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "990842"
+url: https://raw.githubusercontent.com/api-network/organizations/main/thinprint.yaml
+tags:
+- Microsoft Terminal Services
+apis: []
+x-common:
+- type: x-website
+  url: http://www.thinprint.com
+- type: x-blog
+  url: https://blog.thinprint.com/
+- type: x-careers
+  url: https://www.cortado-holding.com/en/careers/
+- type: x-case-studies
+  url: https://download.thinprint.com/case-studies/
+- type: x-contact
+  url: https://www.thinprint.com/en/contact/
+- type: x-facebook
+  url: https://www.facebook.com/ThinPrint/
+- type: x-feed
+  url: https://www.thinprint.com/en/feed/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/thinprint
+- type: x-partner
+  url: https://www.thinprint.com/en/partners/
+- type: x-press
+  url: https://press.thinprint.com/
+- type: x-support
+  url: https://help.thinprint.com/support/
+- type: x-terms-of-service
+  url: https://www.thinprint.com/en/legal-notes/
+- type: x-twitter
+  url: https://twitter.com/ThinPrint
+- type: x-website
+  url: https://www.thinprint.com
+- type: x-youtube
+  url: https://www.youtube.com/user/thinprint
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

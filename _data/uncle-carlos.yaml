@@ -1,0 +1,26 @@
+---
+name: Uncle Carlos
+description: Honest, loyal, seasoned software engineer, looking to make a real difference
+  by putting people first.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29381-kylehq-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "5"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/uncle-carlos.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.kylehq.com
+- type: x-twitter
+  url: https://twitter.com/kylehqcom
+- type: x-website
+  url: http://kylehq.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

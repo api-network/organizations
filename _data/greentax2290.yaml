@@ -1,0 +1,31 @@
+---
+name: Greentax2290
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2808848"
+url: https://raw.githubusercontent.com/api-network/organizations/main/greentax2290.yaml
+tags:
+- Sales And Use Tax
+- Individual Tax
+apis: []
+x-common:
+- type: x-website
+  url: http://greentax2290.com
+- type: x-facebook
+  url: https://www.facebook.com/2290form
+- type: x-linkedin
+  url: https://www.linkedin.com/company/greentax2290/
+- type: x-twitter
+  url: https://twitter.com/greentax2290
+- type: x-website
+  url: https://www.greentax2290.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

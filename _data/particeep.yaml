@@ -1,0 +1,36 @@
+---
+name: Particeep
+description: <p>Particeep provides the leading SaaS solution to create a marketplace
+  dedicated to investment. We offer an online customizable technology and a Rest application
+  programming interface (API) that allows organizations to create their custom-made
+  financial product distribution or crowdfunding platform. Use Particeep enables organizations
+  to easily create their investment platform. Particeep offers a financial features
+  engine that limits the creation of an investing platform to the development of the
+  user experience.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/particeep-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/particeep.yaml
+tags:
+- Investment
+apis: []
+x-common:
+- type: x-website
+  url: https://www.particeep.com/?utm_source=twitter
+- type: x-blog
+  url: http://blog.particeep.com/
+- type: x-blog-rss
+  url: http://blog.particeep.com/en/feed/
+- type: x-twitter
+  url: https://twitter.com/particeep
+- type: x-website
+  url: https://www.particeep.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

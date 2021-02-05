@@ -1,0 +1,62 @@
+---
+name: Swiss Network Operators Group - SwiNOG
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/swiss-network-operators-group--swinog.yaml
+tags:
+- Organizations
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.swinog.ch/contact/
+- type: x-facebook
+  url: https://facebook.com/491843410889120
+- type: x-facebook
+  url: https://www.facebook.com/swinog/posts/2652477654804959
+- type: x-facebook
+  url: https://www.facebook.com/swinog/posts/2652471331472258
+- type: x-facebook
+  url: http://facebook.com/swinog
+- type: x-linkedin
+  url: http://www.linkedin.com/groups?gid=123285
+- type: x-news
+  url: https://www.swinog.ch/news/
+- type: x-open-source
+  url: https://www.swinog.ch/swinog-36-registration-is-open/
+- type: x-open-source
+  url: https://www.swinog.ch/swinog-35-registration-is-open/
+- type: x-press
+  url: https://www.swinog.ch/swinog-in-the-press/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-privacy
+  url: https://www.swinog.ch/privacy-policy/
+- type: x-self-service-registration
+  url: https://register.swinog.ch
+- type: x-support
+  url: https://www.swinog.ch/supporters/
+- type: x-twitter
+  url: http://twitter.com/letsencrypt
+- type: x-twitter
+  url: http://twitter.com/ripencc
+- type: x-twitter
+  url: http://twitter.com/nnimpuno
+- type: x-twitter
+  url: http://twitter.com/valross2
+- type: x-twitter
+  url: http://twitter.com/swinog
+- type: x-website
+  url: https://www.swinog.ch
+- type: x-youtube
+  url: https://www.youtube.com/c/SwiNOG
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,145 @@
+---
+name: Zoom
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "302"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zoom.yaml
+tags:
+- Have Swagger
+- Have API Paths
+apis: []
+x-common:
+- type: x-website
+  url: https://www.zoom.us
+- type: x-about
+  url: https://api.zoom.us/about
+- type: x-blog
+  url: https://blog.zoom.us/
+- type: x-blog
+  url: http://blog.zoom.us/
+- type: x-careers
+  url: https://api.zoom.us/careers
+- type: x-contact
+  url: https://api.zoom.us/contactsales
+- type: x-contact
+  url: https://api.zoom.us/contact
+- type: x-developer
+  url: https://api.zoom.us/livedemo
+- type: x-developer
+  url: https://api.zoom.us/download#client_4meeting
+- type: x-developer
+  url: https://api.zoom.us/livetraining
+- type: x-developer
+  url: https://api.zoom.us/join
+- type: x-developer
+  url: https://api.zoom.us/
+- type: x-developer
+  url: https://api.zoom.us/meetings
+- type: x-developer
+  url: https://api.zoom.us/zoomrooms
+- type: x-developer
+  url: https://api.zoom.us/phonesystem
+- type: x-developer
+  url: https://api.zoom.us/education
+- type: x-developer
+  url: https://api.zoom.us/finance
+- type: x-developer
+  url: https://api.zoom.us/government
+- type: x-developer
+  url: https://api.zoom.us/healthcare
+- type: x-developer
+  url: https://api.zoom.us/voice
+- type: x-developer
+  url: https://api.zoom.us/feature/messaging
+- type: x-developer
+  url: https://api.zoom.us/whyzoom
+- type: x-developer
+  url: https://api.zoom.us/customer/all
+- type: x-developer
+  url: https://api.zoom.us/buy?plan=pro&from=pro
+- type: x-developer
+  url: https://api.zoom.us/team
+- type: x-developer
+  url: https://api.zoom.us/zoomisbetter
+- type: x-developer
+  url: https://api.zoom.us/feature
+- type: x-developer
+  url: https://api.zoom.us/media-kit
+- type: x-developer
+  url: https://api.zoom.us/resources
+- type: x-developer
+  url: https://api.zoom.us/download
+- type: x-developer
+  url: https://api.zoom.us/download#room_client
+- type: x-developer
+  url: https://api.zoom.us/download#chrome_ext
+- type: x-developer
+  url: https://api.zoom.us/download#outlook_plugin
+- type: x-developer
+  url: https://api.zoom.us/download#lync_plugin
+- type: x-developer
+  url: https://api.zoom.us/download#client_iphone
+- type: x-developer
+  url: https://api.zoom.us/download#mobile_app
+- type: x-developer
+  url: https://api.zoom.us/test
+- type: x-developer
+  url: https://api.zoom.us/account
+- type: x-developer
+  url: https://api.zoom.us/accessibility
+- type: x-events
+  url: https://api.zoom.us/events
+- type: x-facebook
+  url: http://www.facebook.com/zoomvideocommunications
+- type: x-feed
+  url: https://api.zoom.us/feed
+- type: x-integrations
+  url: https://api.zoom.us/integrations
+- type: x-investor
+  url: https://investors.zoom.us/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/2532259
+- type: x-login
+  url: https://api.zoom.us/signin
+- type: x-marketplace
+  url: https://marketplace.zoom.us/
+- type: x-marketplace
+  url: https://api.zoom.us/redirect_marketplace
+- type: x-partner
+  url: https://api.zoom.us/partners
+- type: x-press
+  url: https://api.zoom.us/press
+- type: x-pricing
+  url: https://api.zoom.us/pricing
+- type: x-privacy
+  url: https://policies.google.com/privacy
+- type: x-privacy
+  url: https://api.zoom.us/privacy
+- type: x-signup
+  url: https://api.zoom.us/signup
+- type: x-support
+  url: http://support.zoom.us
+- type: x-support
+  url: https://support.zoom.us/hc/en-us
+- type: x-terms-of-service
+  url: https://policies.google.com/terms
+- type: x-terms-of-service
+  url: https://api.zoom.us/legal
+- type: x-twitter
+  url: http://www.twitter.com/zoom_us
+- type: x-webinars
+  url: https://api.zoom.us/webinar
+- type: x-youtube
+  url: http://www.youtube.com/zoommeetings
+- type: x-website
+  url: http://api.zoom.us
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,89 @@
+---
+name: FedoraForum.org
+description: FedoraForum.org is a Support forum for Fedora Linux.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "53728"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fedoraforum-org.yaml
+tags:
+- Xorg
+- Xmms
+- Xine
+- Torrent
+- Samba
+- Mplayer
+- Mozilla
+- Linux Wallpaper
+- Linux Tutorial
+- Linux Support
+- Linux Software
+- Linux Server
+- Linux Security
+- Linux Reviews
+- Linux Operating System
+- Linux Kernel
+- Linux Hosting
+- Linux Help
+- Linux Gallery
+- Linux Driver
+- Linux Distribution
+- Linux Command
+- Linux
+- Learn Linux
+- Konqueror
+- Kernel
+- KDE
+- Install
+- GNOME
+- Forums
+- Forum
+- Firefox
+- Fedoraforum
+- Fedora Tech
+- Fedora Support
+- Fedora Project
+- Fedora Linux
+- Fedora Help
+- Fedora Forums
+- Fedora Discussions
+- Fedora Core
+- Fedora
+- Fc9
+- Fc8
+- Fc12
+- Fc11
+- Fc10
+- F9
+- F8
+- F17
+- F16
+- F15
+- F14
+- F13
+- F12
+- F11
+- F10
+- Core
+- Bluecurve
+- Bittorrent
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/#
+- type: x-forum
+  url: https://forums.fedoraforum.org
+- type: x-instagram
+  url: http://instagram.com/#
+- type: x-twitter
+  url: https://twitter.com/#
+- type: x-website
+  url: https://www.fedoraforum.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

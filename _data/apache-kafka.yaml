@@ -1,0 +1,27 @@
+---
+name: Apache Kafka
+description: <p>Kafka is used for building real-time data pipelines and streaming
+  apps. It is horizontally scalable, fault-tolerant, wicked fast, and runs in production
+  in thousands of companies.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/apache-kafka.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/apache-kafka.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://kafka.apache.org
+- type: x-twitter
+  url: https://twitter.com/apachekafka
+- type: x-website
+  url: https://kafka.apache.org/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

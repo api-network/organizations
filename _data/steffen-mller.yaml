@@ -1,0 +1,29 @@
+---
+name: "Steffen M\xFCller"
+description: "Personal blog by Steffen M\xFCller about web, software development and
+  TYPO3"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2613266"
+url: https://raw.githubusercontent.com/api-network/organizations/main/steffen-mller.yaml
+tags:
+- TYPO3
+apis: []
+x-common:
+- type: x-website
+  url: https://stmllr.net/
+- type: x-github
+  url: https://github.com/stmllr
+- type: x-twitter
+  url: https://twitter.com/stmllr
+- type: x-website
+  url: https://stmllr.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

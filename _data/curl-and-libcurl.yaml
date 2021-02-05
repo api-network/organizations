@@ -1,0 +1,78 @@
+---
+name: Curl and Libcurl
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "26119"
+url: https://raw.githubusercontent.com/api-network/organizations/main/curl-and-libcurl.yaml
+tags:
+- Clients
+apis: []
+x-common:
+- type: x-code
+  url: https://curl.haxx.se/dev/code-style.html
+- type: x-documentation
+  url: https://curl.haxx.se/docs/
+- type: x-documentation
+  url: https://curl.haxx.se/docs/projdocs.html
+- type: x-documentation
+  url: https://curl.haxx.se/docs/bugbounty.html
+- type: x-documentation
+  url: https://curl.haxx.se/docs/help-us.html
+- type: x-documentation
+  url: https://curl.haxx.se/docs/knownbugs.html
+- type: x-documentation
+  url: https://curl.haxx.se/docs/todo.html
+- type: x-documentation
+  url: https://curl.haxx.se/docs/protdocs.html
+- type: x-documentation
+  url: https://curl.haxx.se/docs/caextract.html
+- type: x-documentation
+  url: https://curl.haxx.se/docs/http-cookies.html
+- type: x-documentation
+  url: https://curl.haxx.se/docs/http2.html
+- type: x-documentation
+  url: https://curl.haxx.se/docs/sslcerts.html
+- type: x-documentation
+  url: https://curl.haxx.se/docs/reldocs.html
+- type: x-documentation
+  url: https://curl.haxx.se/docs/versions.html
+- type: x-documentation
+  url: https://curl.haxx.se/docs/vulnerabilities.html
+- type: x-documentation
+  url: https://curl.haxx.se/docs/tooldocs.html
+- type: x-documentation
+  url: https://curl.haxx.se/docs/manpage.html
+- type: x-documentation
+  url: https://curl.haxx.se/docs/manual.html
+- type: x-documentation
+  url: https://curl.haxx.se/docs/httpscripting.html
+- type: x-documentation
+  url: https://curl.haxx.se/docs/whodocs.html
+- type: x-documentation
+  url: https://curl.haxx.se/docs/videos/
+- type: x-documentation
+  url: https://curl.haxx.se/docs/releases.html
+- type: x-github
+  url: https://github.com/curl/curl
+- type: x-github
+  url: https://github.com/curl/curl/issues
+- type: x-news
+  url: https://curl.haxx.se/news.html
+- type: x-security
+  url: https://curl.haxx.se/docs/security.html
+- type: x-support
+  url: https://curl.haxx.se/gethelp.html
+- type: x-support
+  url: https://curl.haxx.se/support.html
+- type: x-website
+  url: https://curl.haxx.se
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

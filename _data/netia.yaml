@@ -1,0 +1,110 @@
+---
+name: NETIA
+description: "NETIA est un fournisseur mondial de solutions logicielles performantes
+  d'automation radio et de gestion et diffusion de contenus vers l'ensemble des plateformes
+  m\xE9dia actuelles. Les solutions NETIA ont \xE9t\xE9 adopt\xE9es par plus de 20
+  000 utilisateurs, \xE0 travers 200 installations r\xE9parties sur plus de 40 pays.\r\nCes
+  solutions permettent aux producteurs et aux d\xE9tenteurs de contenus de g\xE9rer
+  leurs m\xE9dias, de l'acquisition jusqu'\xE0 la diffusion, en ciblant les supports
+  multi-plateformes comme internet, la VOD, les services IPTV, et la t\xE9l\xE9phonie
+  mobile.\r\nNETIA propose ses solutions de gestion de contenus aux principaux groupes
+  de radio et de t\xE9l\xE9vision partout dans le monde, et plusieurs succ\xE8s r\xE9cents
+  font \xE9galement de l'entreprise un acteur incontournable dans le domaine des t\xE9l\xE9communications."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3409561"
+url: https://raw.githubusercontent.com/api-network/organizations/main/netia.yaml
+tags:
+- Warehouse
+- VO-IP
+- Video-Over-IP
+- Video
+- "Vid\xE9o"
+- Ushare
+- U-share
+- TV
+- Transcoding
+- Terrestrial
+- Television
+- System
+- Sound
+- Son
+- Software
+- Share
+- Servers
+- Scheduling
+- RTL
+- Rfo
+- Rai
+- Radio-assist
+- Radio
+- Platforms
+- Opennet
+- Nodal Master
+- Netia
+- Multisupport
+- Multichannel
+- Mobiles
+- Medias
+- Media Logging
+- Media
+- Manreo
+- Logiciel
+- Ip
+- Internet
+- Hypercast
+- Hertzien
+- Gestion
+- France
+- Encoding Service
+- Editor
+- Editing
+- Dragster
+- Digital
+- Diffusion
+- Diffuseur
+- Devices
+- Delivery
+- Contribution
+- Contenus
+- Contenu
+- Content
+- Chronos
+- Channel
+- Cafe
+- "Caf\xE9"
+- Broadcasting
+- Broadcaster
+- Broadcast
+- BBC
+- Automation
+- Audiovisuel
+- Audiovisual
+- Audio
+- ASSIST
+- Asset
+- Archiving
+- Application
+- Acquisition
+- Abc
+apis: []
+x-common:
+- type: x-website
+  url: http://www.netia.com
+- type: x-facebook
+  url: https://www.facebook.com/netia.media.software
+- type: x-twitter
+  url: https://twitter.com/NETIA_software
+- type: x-website
+  url: https://www.netia.com
+- type: x-youtube
+  url: https://www.youtube.com/user/NETIAcompany/videos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

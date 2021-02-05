@@ -1,0 +1,35 @@
+---
+name: Atalasoft
+description: Provider of developer SDKs to enable applications to work with all document
+  formats that need document viewing, capture, conversion, and processing.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "528916"
+url: https://raw.githubusercontent.com/api-network/organizations/main/atalasoft.yaml
+tags:
+- Companies
+apis: []
+x-common:
+- type: x-website
+  url: http://www.atalasoft.com
+- type: x-case-studies
+  url: http://content.atalasoft.com/h/c/181018-case-studies
+- type: x-code
+  url: http://content.atalasoft.com/release-notes-net-sdks
+- type: x-contact
+  url: https://www.olark.com/site/9506-425-10-2680/contact
+- type: x-facebook
+  url: https://www.facebook.com/Atalasoft
+- type: x-twitter
+  url: https://twitter.com/atalasoft
+- type: x-website
+  url: https://www.atalasoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

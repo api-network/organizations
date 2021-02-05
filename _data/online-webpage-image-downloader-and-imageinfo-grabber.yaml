@@ -1,0 +1,26 @@
+---
+name: Online Webpage Image Downloader and ImageInfo Grabber
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "972849"
+url: https://raw.githubusercontent.com/api-network/organizations/main/online-webpage-image-downloader-and-imageinfo-grabber.yaml
+tags:
+- Specialized
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/pages/Owidig/137227276391172
+- type: x-website
+  url: https://www.owidig.com
+- type: x-youtube
+  url: https://www.youtube.com/user/moleyard
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

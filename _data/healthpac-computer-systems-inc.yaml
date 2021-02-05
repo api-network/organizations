@@ -1,0 +1,36 @@
+---
+name: Healthpac Computer Systems, Inc
+description: Healthpac's cutting-edge medical billing, office schedule, medical coding
+  & practice management software can revolutionize any practice. Call for a free,
+  live demo!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1308484"
+url: https://raw.githubusercontent.com/api-network/organizations/main/healthpac-computer-systems-inc.yaml
+tags:
+- Products And Services
+apis: []
+x-common:
+- type: x-events
+  url: https://www.healthpac.net/healthpac-events/
+- type: x-facebook
+  url: https://www.facebook.com/Healthpac/
+- type: x-forum
+  url: https://www.healthpac.net/users-forum/
+- type: x-privacy
+  url: https://www.healthpac.net/privacy-policy/
+- type: x-support
+  url: https://www.healthpac.net/client-support/
+- type: x-webinars
+  url: https://www.healthpac.net/medical-billing-webinars/
+- type: x-website
+  url: https://www.healthpac.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

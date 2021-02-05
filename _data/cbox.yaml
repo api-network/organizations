@@ -1,0 +1,25 @@
+---
+name: Cbox
+description: Cbox live chat is an embeddable chat app for online communities, groups,
+  and live-streaming events.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "18294"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cbox.yaml
+tags:
+- Commenting
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.cbox.ws
+- type: x-website
+  url: https://cbox.ws
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

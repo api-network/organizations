@@ -1,0 +1,41 @@
+---
+name: IP2Location
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "17020"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ip2location.yaml
+tags:
+- Location
+- IP Address
+- Have OpenAPI
+- Have API Paths
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-website
+  url: http://www.ip2location.com
+- type: x-blog
+  url: https://blog.ip2location.com/
+- type: x-blog
+  url: https://blog.ip2location.com
+- type: x-facebook
+  url: https://www.facebook.com/ip2location
+- type: x-github
+  url: https://github.com/ip2location/ip2location-iata-icao
+- type: x-github
+  url: https://github.com/ip2location/
+- type: x-twitter
+  url: https://twitter.com/ip2location
+- type: x-website
+  url: https://www.ip2location.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

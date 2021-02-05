@@ -1,0 +1,24 @@
+---
+name: Ingenuity Microsystems
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9457850"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ingenuity-microsystems.yaml
+tags:
+- Small Business
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.ingenuity.com.my
+- type: x-website
+  url: https://www.ingenuity.com.my
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

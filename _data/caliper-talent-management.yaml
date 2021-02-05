@@ -1,0 +1,51 @@
+---
+name: Caliper Talent Management
+description: The Caliper Profile assessments leverages 60 years of science to predict
+  future performance, coach leaders, and develop high performing teams.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "837692"
+url: https://raw.githubusercontent.com/api-network/organizations/main/caliper-talent-management.yaml
+tags:
+- Testing And Evaluation
+apis: []
+x-common:
+- type: x-website
+  url: http://www.calipercorp.com
+- type: x-about
+  url: https://calipercorp.com/about-caliper/
+- type: x-blog
+  url: https://calipercorp.com/blog/
+- type: x-careers
+  url: https://calipercorp.com/careers/
+- type: x-contact
+  url: https://calipercorp.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/CaliperCorp/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/caliper/
+- type: x-login
+  url: https://portal.calipercorp.com/users/sign_in
+- type: x-login
+  url: https://portal.74.121.194.178/users/sign_in
+- type: x-press
+  url: https://calipercorp.com/press/
+- type: x-privacy
+  url: https://calipercorp.com/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/CaliperCorp
+- type: x-webinars
+  url: https://calipercorp.com/webinars/
+- type: x-website
+  url: https://www.calipercorp.com
+- type: x-youtube
+  url: https://www.youtube.com/user/CaliperAdmin
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

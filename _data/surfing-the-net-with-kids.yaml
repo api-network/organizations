@@ -1,0 +1,50 @@
+---
+name: Surfing the Net with Kids
+description: Educational website recommendations by nationally syndicated newspaper
+  columnist Barbara J. Feldman, along with games, puzzles, coloring, tech tips.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "338922"
+url: https://raw.githubusercontent.com/api-network/organizations/main/surfing-the-net-with-kids.yaml
+tags:
+- Reviews
+- Family Friendly
+apis: []
+x-common:
+- type: x-website
+  url: http://www.feldmanpublishing.com
+- type: x-facebook
+  url: https://www.facebook.com/barbara.feldman/
+- type: x-feed
+  url: http://feeds.surfnetkids.com/SurfingTheNetWithKids
+- type: x-feed
+  url: http://feeds.surfnetkids.com/SurfNetKidsGames
+- type: x-feed
+  url: http://www.surfnetkids.com/rss-feeds/
+- type: x-instagram
+  url: https://www.instagram.com/barbarafeldman
+- type: x-linkedin
+  url: https://www.linkedin.com/in/barbarafeldman/
+- type: x-news
+  url: https://www.surfnetkids.com/newsletters/sign-up/
+- type: x-news
+  url: https://www.surfnetkids.com/newsletters/
+- type: x-news
+  url: http://www.surfnetkids.com/newsletters/feed/
+- type: x-privacy
+  url: https://www.surfnetkids.com/privacy/
+- type: x-twitter
+  url: https://twitter.com/barbarafeldman
+- type: x-website
+  url: https://www.surfnetkids.com
+- type: x-youtube
+  url: https://www.youtube.com/wordher
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

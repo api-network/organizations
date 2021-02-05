@@ -1,0 +1,93 @@
+---
+name: IOS-Blog
+description: 'An iOS Resource for: Swift Tutorials, Objective-C Tutorials and watchOS
+  tutorials.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5426006"
+url: https://raw.githubusercontent.com/api-network/organizations/main/iosblog.yaml
+tags:
+- IOS
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.ios-blog.com/request
+- type: x-blog
+  url: https://www.ios-blog.com/resources
+- type: x-blog
+  url: https://www.ios-blog.com/questions
+- type: x-blog
+  url: https://www.ios-blog.com/questions/ask
+- type: x-blog
+  url: https://www.ios-blog.com/user/admin
+- type: x-blog
+  url: https://www.ios-blog.com/tag/iota/
+- type: x-blog
+  url: https://www.ios-blog.com/tag/virtual-currency/
+- type: x-blog
+  url: https://www.ios-blog.com/tag/gpx/
+- type: x-blog
+  url: https://www.ios-blog.com/tag/location/
+- type: x-blog
+  url: https://www.ios-blog.com/tag/pokemon-go/
+- type: x-blog
+  url: https://www.ios-blog.com/tag/errors/
+- type: x-blog
+  url: https://www.ios-blog.com/tag/extensions/
+- type: x-blog
+  url: https://www.ios-blog.com/tag/placeholder/
+- type: x-blog
+  url: https://www.ios-blog.com/tag/uicolor/
+- type: x-blog
+  url: https://www.ios-blog.com/tag/basic/
+- type: x-blog
+  url: https://www.ios-blog.com/tag/gcd/
+- type: x-blog
+  url: https://www.ios-blog.com/tag/grand-central-dispatch/
+- type: x-blog
+  url: https://www.ios-blog.com/tag/multithreading/
+- type: x-blog
+  url: https://www.ios-blog.com/tag/nstimer/
+- type: x-blog
+  url: https://www.ios-blog.com/tag/swift-timer/
+- type: x-blog
+  url: https://www.ios-blog.com/tag/simulator/
+- type: x-blog
+  url: https://www.ios-blog.com/tag/low-power-mode/
+- type: x-blog
+  url: https://www.ios-blog.com/tag/nsprocessinfo/
+- type: x-blog
+  url: https://www.ios-blog.com/tag/powermodechanged/
+- type: x-blog
+  url: https://www.ios-blog.com/page/2/
+- type: x-blog
+  url: https://www.ios-blog.com/page/3/
+- type: x-blog
+  url: https://www.ios-blog.com/page/31/
+- type: x-careers
+  url: https://www.ios-blog.com/jobs
+- type: x-careers
+  url: https://www.ios-blog.com/jobs/post-a-job
+- type: x-code
+  url: https://www.ios-blog.com/tag/xcode/
+- type: x-developer
+  url: http://developer.ios-blog.co.uk
+- type: x-tutorials
+  url: https://www.ios-blog.com/tutorials
+- type: x-tutorials
+  url: https://www.ios-blog.com/tutorials/all
+- type: x-tutorials
+  url: https://www.ios-blog.com/tutorials/swift
+- type: x-tutorials
+  url: https://www.ios-blog.com/tutorials/objective-c
+- type: x-website
+  url: https://ios-blog.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

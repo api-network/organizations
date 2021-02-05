@@ -1,0 +1,104 @@
+---
+name: SpeakerText
+description: SpeakerText is partnering exclusively with cielo24, an industry leader
+  in the transcription, translation, and captioning space.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/speakertext-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "3"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/speakertext.yaml
+tags:
+- Transcripts
+- Relative Data
+- Indexing
+- Have API Paths
+- Have API
+- General Data
+apis: []
+x-common:
+- type: x-website
+  url: http://cloudfactory.com
+- type: x-about
+  url: https://cielo24.com/about/
+- type: x-base
+  url: https://api.speakertext.com
+- type: x-blog
+  url: https://cielo24.com/blog/
+- type: x-careers
+  url: https://cielo24.com/careers/
+- type: x-case-studies
+  url: https://cielo24.com/resources/case-studies/
+- type: x-contact
+  url: https://cielo24.com/contact/
+- type: x-contact-form
+  url: http://speakertext.com/contact
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/speakertext
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/cielo24
+- type: x-developers
+  url: http://speakertext.com/api
+- type: x-facebook
+  url: https://www.facebook.com/cielo24sb
+- type: x-faq
+  url: http://speakertext.com/faq
+- type: x-feed
+  url: https://cielo24.com/feed/
+- type: x-github
+  url: https://github.com/speakertext
+- type: x-linkedin
+  url: https://www.linkedin.com/company/cielo24
+- type: x-login
+  url: https://portfolio.cielo24.com/login?next=/
+- type: x-login
+  url: https://ssp.cielo24.com/login/
+- type: x-login
+  url: https://cielo24.com/login
+- type: x-partner
+  url: https://cielo24.com/partners/
+- type: x-plans
+  url: https://cielo24.com/plans/
+- type: x-platform
+  url: https://cielo24.com/video-platform-integrations/
+- type: x-press
+  url: https://cielo24.com/press/
+- type: x-pricing
+  url: http://speakertext.com/pricing
+- type: x-privacy
+  url: https://cielo24.com/privacy-policy/
+- type: x-privacy
+  url: http://speakertext.com/privacy
+- type: x-support
+  url: https://cielo24.com/support/developers/
+- type: x-support
+  url: https://cielo24.com/support/faq/
+- type: x-terms-of-service
+  url: http://speakertext.com/tos
+- type: x-terms-of-service
+  url: https://cielo24.com/terms/
+- type: x-tutorials
+  url: https://cielo24.com/support/portfolio-tutorials/
+- type: x-twitter
+  url: https://twitter.com/cielo24
+- type: x-twitter
+  url: http://www.twitter.com/cielo24
+- type: x-twitter
+  url: https://twitter.com/speakertext
+- type: x-webinars
+  url: https://cielo24.com/resources/webinar-recordings/
+- type: x-website
+  url: http://speakertext.com/
+- type: x-website
+  url: http://speakertext.com
+- type: x-white-papers
+  url: https://cielo24.com/resources/ebooks-white-papers/
+- type: x-wordpress-plugin
+  url: http://speakertext.com/captionbox/wordpress
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

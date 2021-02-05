@@ -1,0 +1,23 @@
+---
+name: ASPPlayground Forum
+description: "Power of Content & Online Community in one affordable package, without
+  SaaS monthly fees. \r\n        Free 2020 E-course"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3553926"
+url: https://raw.githubusercontent.com/api-network/organizations/main/aspplayground-forum.yaml
+tags:
+- Message Boards
+apis: []
+x-common:
+- type: x-website
+  url: https://www.aspplayground.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

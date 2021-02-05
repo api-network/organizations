@@ -1,0 +1,89 @@
+---
+name: SAP Yard
+description: SAP ABAP, BI/BW, Web Dynpro, Adobe Forms, Workflow, Personas, OOPs ABAP,
+  SAP HANA, HANA ABAP, SAPUI5, Fiori, SAP Netweaver Gateway and OData Services.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "112607"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sap-yard.yaml
+tags:
+- Programming
+apis: []
+x-common:
+- type: x-website
+  url: http://www.sapyard.com
+- type: x-about
+  url: https://sapyard.com/know-the-yard-men/about/
+- type: x-careers
+  url: https://sapyard.com/category/jobs/
+- type: x-careers
+  url: https://sapyard.com/category/jobs/find/
+- type: x-careers
+  url: https://sapyard.com/category/jobs/apply/
+- type: x-code
+  url: https://sapyard.com/code-snippets/
+- type: x-code
+  url: https://sapyard.com/category/code-snippets/
+- type: x-contact
+  url: https://sapyard.com/know-the-yard-men/contact/
+- type: x-facebook
+  url: https://www.facebook.com/sapyard
+- type: x-forum
+  url: https://sapyard.com/forums/
+- type: x-instagram
+  url: http://instagram.com/sapyard#
+- type: x-login
+  url: https://sapyard.com/login/
+- type: x-privacy
+  url: https://sapyard.com/privacy-policy/
+- type: x-support
+  url: https://sapyard.com/sap-help/
+- type: x-support
+  url: https://sapyard.com/help-us/
+- type: x-tutorials
+  url: https://sapyard.com/all-sap-tutorials/
+- type: x-tutorials
+  url: https://sapyard.com/tutorials-on-sap-abap/
+- type: x-tutorials
+  url: https://sapyard.com/tutorials-on-ariba/
+- type: x-tutorials
+  url: https://sapyard.com/tutorials-on-sap-abap-on-hana/
+- type: x-tutorials
+  url: https://sapyard.com/tutorials-on-apis-in-sap/
+- type: x-tutorials
+  url: https://sapyard.com/tutorials-on-sap-bi-bw/
+- type: x-tutorials
+  url: https://sapyard.com/tutorials-on-sap-work-flow/
+- type: x-tutorials
+  url: https://sapyard.com/tutorials-on-sap-fiori/
+- type: x-tutorials
+  url: https://sapyard.com/tutorials-on-hana/
+- type: x-tutorials
+  url: https://sapyard.com/tutorials-on-abap-objects/
+- type: x-tutorials
+  url: https://sapyard.com/tutorials-on-sap-screen-personas/
+- type: x-tutorials
+  url: https://sapyard.com/tutorials-on-s-4-hana/
+- type: x-tutorials
+  url: https://sapyard.com/tutorials-on-sap-hybris/
+- type: x-tutorials
+  url: https://sapyard.com/tutorials-on-sapui5/
+- type: x-tutorials
+  url: https://sapyard.com/tutorials-on-vistex/
+- type: x-tutorials
+  url: https://sapyard.com/tutorials-on-web-dynpro-abap/
+- type: x-twitter
+  url: https://twitter.com/sapyard
+- type: x-website
+  url: https://www.sapyard.com
+- type: x-youtube
+  url: http://www.youtube.com/sapyard
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

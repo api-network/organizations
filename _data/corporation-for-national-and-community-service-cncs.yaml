@@ -1,0 +1,93 @@
+---
+name: Corporation for National and Community Service (CNCS)
+description: <p><span>The Corporation for National and Community Service is an independent
+  agency of the United States government that engages more than five million Americans
+  in service through AmeriCorps, Senior Corps, the Volunteer Generation Fund, and
+  other national service initiatives.</span></p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/corporation-for-national-and-community-service-cncs.yaml
+tags:
+- Waste
+- Volunteers
+- Service
+- Oig
+- Fraud
+- Federal Government
+- CNS
+- Cncs
+- Abuse
+apis: []
+x-common:
+- type: x-website
+  url: http://www.nationalservice.gov
+- type: x-website
+  url: http://www.mlkday.gov
+- type: x-data
+  url: https://www.nationalservice.gov/about/open-government-initiative/transparency/data-sources
+- type: x-facebook
+  url: http://facebook.com/cncsoig
+- type: x-facebook
+  url: https://www.facebook.com/serve
+- type: x-facebook
+  url: https://www.facebook.com/americorps
+- type: x-facebook
+  url: https://www.facebook.com/nationalservice
+- type: x-facebook
+  url: https://www.facebook.com/SeniorCorps
+- type: x-facebook
+  url: https://www.facebook.com/mlkday
+- type: x-facebook
+  url: https://www.facebook.com/PresidentsHonorRoll
+- type: x-facebook
+  url: https://www.facebook.com/AmeriCorpsNCCC
+- type: x-facebook
+  url: https://www.facebook.com/AmeriCorpsVISTA
+- type: x-facebook
+  url: http://facebook.com/americorps
+- type: x-facebook
+  url: http://facebook.com/servedotgov
+- type: x-facebook
+  url: http://facebook.com/nationalservice
+- type: x-instagram
+  url: https://www.instagram.com/nationalservice
+- type: x-linkedin
+  url: https://www.linkedin.com/company/americorps
+- type: x-tumblr
+  url: http://nationalservice.tumblr.com/
+- type: x-tumblr
+  url: http://americorpsnccc.tumblr.com
+- type: x-twitter
+  url: https://twitter.com/SIFund
+- type: x-twitter
+  url: https://twitter.com/AmeriCorpsNCCC
+- type: x-twitter
+  url: https://twitter.com/AmeriCorpsVISTA
+- type: x-twitter
+  url: https://twitter.com/WendyCNCS
+- type: x-twitter
+  url: https://twitter.com/nationalservice
+- type: x-twitter
+  url: https://twitter.com/americorps
+- type: x-twitter
+  url: https://twitter.com/seniorcorps
+- type: x-twitter
+  url: https://twitter.com/MLKDay
+- type: x-twitter
+  url: https://twitter.com/ServeDotGov
+- type: x-twitter
+  url: http://twitter.com/cncsoig
+- type: x-twitter
+  url: http://twitter.com/nationalservice
+- type: x-youtube
+  url: http://youtube.com/nationalservice
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

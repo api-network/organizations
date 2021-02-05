@@ -1,0 +1,72 @@
+---
+name: Pardot
+description: Pardot offers powerful marketing automation to help marketing and sales
+  teams find and nurture the best leads, close more deals, and maximize ROI.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/884_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "17251"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pardot.yaml
+tags:
+- Have API
+- Automation
+apis: []
+x-common:
+- type: x-website
+  url: http://www.pardot.com
+- type: x-about
+  url: https://www.pardot.com/about-pardot/
+- type: x-blog
+  url: http://blog.pardot.com
+- type: x-blog
+  url: https://www.pardot.com/blog/
+- type: x-blog-rss
+  url: http://www.pardot.com/feed/
+- type: x-careers
+  url: https://www.salesforce.com/company/careers/
+- type: x-contact
+  url: https://www.pardot.com/about-pardot/contact-us/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/pardot
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/pardot
+- type: x-customers
+  url: https://www.pardot.com/customers/
+- type: x-developer
+  url: http://developer.pardot.com/
+- type: x-developer
+  url: http://developer.pardot.com
+- type: x-documentation
+  url: https://github.com/Pardot/api-docs/
+- type: x-documentation
+  url: https://github.com/Pardot/api-docs/issues
+- type: x-documentation
+  url: https://github.com/Pardot/api-docs/pulls
+- type: x-facebook
+  url: http://www.facebook.com/pardot
+- type: x-github
+  url: https://github.com/Crim/pardot-java-client
+- type: x-github
+  url: https://www.github.com/Pardot/ruby-pardot
+- type: x-github
+  url: https://github.com/mneedham91/PyPardot4
+- type: x-linkedin
+  url: http://www.linkedin.com/company/pardot
+- type: x-privacy
+  url: https://www.salesforce.com/company/privacy/
+- type: x-twitter
+  url: http://twitter.com/Pardot
+- type: x-twitter
+  url: https://twitter.com/Pardot
+- type: x-webinars
+  url: https://www.pardot.com/resources/webinars-and-events/
+- type: x-website
+  url: http://www.pardot.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

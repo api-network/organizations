@@ -1,0 +1,36 @@
+---
+name: Stockwatch
+description: 'Real-time stock market news and quotes, plus analytical tools, foreign
+  exchange and specialty information. Professional-grade #MarketData services, since
+  1995.'
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28312-www-stockwatch-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "39078"
+url: https://raw.githubusercontent.com/api-network/organizations/main/stockwatch.yaml
+tags:
+- Stocks
+- Have API
+- Financial
+apis: []
+x-common:
+- type: x-website
+  url: http://www.stockwatch.com
+- type: x-email
+  url: news@stockwatch.com
+- type: x-email
+  url: webmaster@stockwatch.com
+- type: x-press
+  url: http://stockwatch.pressreader.com
+- type: x-twitter
+  url: https://twitter.com/Stockwatch
+- type: x-website
+  url: https://www.stockwatch.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

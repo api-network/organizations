@@ -1,0 +1,40 @@
+---
+name: The Hire Talent
+description: The Hire Talent's Pre Employment Testing is a predictive hiring tool,
+  that helps you hire a team full of A-players. Get to know your candidate before
+  hiring
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1531603"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-hire-talent.yaml
+tags:
+- Testing And Evaluation
+apis: []
+x-common:
+- type: x-website
+  url: http://www.TheHireTalent.com
+- type: x-blog
+  url: https://www.preemploymentassessments.com/blog/
+- type: x-contact
+  url: https://www.preemploymentassessments.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/TheHiretalent/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/the-hire-talent/
+- type: x-pricing
+  url: https://www.preemploymentassessments.com/pricing/
+- type: x-privacy
+  url: https://www.preemploymentassessments.com/privacy/
+- type: x-twitter
+  url: https://twitter.com/TheHireTalent
+- type: x-website
+  url: https://preemploymentassessments.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

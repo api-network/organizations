@@ -1,0 +1,32 @@
+---
+name: Trapeze Software
+description: Trapeze provides transportation software solutions for transit agencies
+  providing fixed route, rail and paratransit transportation. Request a demo!
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26602-www-trapezegroup-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "816960"
+url: https://raw.githubusercontent.com/api-network/organizations/main/trapeze-software.yaml
+tags: []
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/trapeze
+- type: x-email
+  url: cc@trapezegroup.com
+- type: x-email
+  url: info@trapezegroup.com
+- type: x-email
+  url: privacy@trapezegroup.com
+- type: x-twitter
+  url: https://twitter.com/trapezegroup
+- type: x-website
+  url: http://www.trapezegroup.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

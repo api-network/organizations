@@ -1,0 +1,22 @@
+---
+name: The Ipe Extensible Drawing Editor
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1330237"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-ipe-extensible-drawing-editor.yaml
+tags:
+- Tools
+apis: []
+x-common:
+- type: x-website
+  url: https://ipe.otfried.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

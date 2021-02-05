@@ -1,0 +1,38 @@
+---
+name: Coinigy
+description: Looking for professional Bitcoin and cryptocurrency trading tools? Coinigy
+  lets you trade on every Bitcoin exchange through one account. Bitcoin price, Bitcoin
+  charts, Bitcoin trading and more!
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28074-www-coinigy-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "4850"
+url: https://raw.githubusercontent.com/api-network/organizations/main/coinigy.yaml
+tags:
+- Have Swagger
+- Have API Paths
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://coinigy.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/coinigy
+- type: x-email
+  url: CPO@coinigy.com
+- type: x-email
+  url: support@coinigy.com
+- type: x-email
+  url: founders@coinigy.com
+- type: x-twitter
+  url: https://twitter.com/Coinigy
+- type: x-website
+  url: https://www.coinigy.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

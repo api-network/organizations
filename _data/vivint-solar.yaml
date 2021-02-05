@@ -1,0 +1,45 @@
+---
+name: Vivint Solar
+description: Vivint, Inc. is a private smart home services provider in the United
+  States and Canada.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29470-vivintsolar-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "191497"
+url: https://raw.githubusercontent.com/api-network/organizations/main/vivint-solar.yaml
+tags:
+- Marketplaces
+- Energy
+- Automation
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/vivint-solar
+- type: x-email
+  url: transfers@vivintsolar.com
+- type: x-email
+  url: filings@vivintsolar.com
+- type: x-email
+  url: help@vivintsolar.com
+- type: x-email
+  url: support@vivintsolar.com
+- type: x-facebook
+  url: https://www.facebook.com/VivintSolar
+- type: x-investor
+  url: http://investors.vivintsolar.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/vivintsolar
+- type: x-twitter
+  url: https://twitter.com/VivintSolar
+- type: x-website
+  url: http://vivintsolar.com
+- type: x-youtube
+  url: https://www.youtube.com/vivintsolar
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,38 @@
+---
+name: Minitab
+description: "Minitab Inc. is the leading provider of software for Lean, Six Sigma\u2122
+  and quality improvement projects."
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/2669-minitab.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "20065"
+url: https://raw.githubusercontent.com/api-network/organizations/main/minitab.yaml
+tags:
+- Have API
+- API Not Found
+apis: []
+x-common:
+- type: x-website
+  url: http://www.minitab.com
+- type: x-blog
+  url: http://blog.minitab.com/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/minitab
+- type: x-facebook
+  url: http://www.facebook.com/minitab
+- type: x-linkedin
+  url: http://www.linkedin.com/company/minitab/
+- type: x-twitter
+  url: http://www.twitter.com/minitab
+- type: x-twitter
+  url: https://twitter.com/minitab
+- type: x-website
+  url: http://www.minitab.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

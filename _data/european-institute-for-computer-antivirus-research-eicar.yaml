@@ -1,0 +1,24 @@
+---
+name: European Institute for Computer Anti-Virus Research (EICAR)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "344210"
+url: https://raw.githubusercontent.com/api-network/organizations/main/european-institute-for-computer-antivirus-research-eicar.yaml
+tags:
+- Viruses
+apis: []
+x-common:
+- type: x-website
+  url: https://www.eicar.org
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=7Zwu1N8h3s8
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

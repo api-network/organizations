@@ -1,0 +1,29 @@
+---
+name: Spam Safe Mail
+description: Network Spam Filter and Network Virus Filter Spam Safe Mail is a low
+  cost easy to use and setup network spam filter with a network virus filter built
+  in for any mail server and scans incoming emails at network level before any spam
+  or virus reaches a client's mail server.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/spam-safe-mail.yaml
+tags:
+- Filtering
+apis: []
+x-common:
+- type: x-gdpr
+  url: https://www.spamsafemail.com/gdpr-compliance/
+- type: x-press
+  url: http://wordpress.org
+- type: x-website
+  url: https://www.spamsafemail.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

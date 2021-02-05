@@ -1,0 +1,31 @@
+---
+name: Open Design Alliance
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1047261"
+url: https://raw.githubusercontent.com/api-network/organizations/main/open-design-alliance.yaml
+tags:
+- Open Standards
+- Development
+apis: []
+x-common:
+- type: x-forum
+  url: https://forum.opendesign.com/
+- type: x-open-source
+  url: https://cloud.opendesign.com
+- type: x-open-source
+  url: https://www.linkedin.com/company/open-design-alliance/
+- type: x-website
+  url: https://www.opendesign.com
+- type: x-youtube
+  url: https://www.youtube.com/OpenDesignAlliance
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

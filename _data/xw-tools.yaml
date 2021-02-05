@@ -1,0 +1,22 @@
+---
+name: XW Tools
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xw-tools.yaml
+tags:
+- Printing
+apis: []
+x-common:
+- type: x-website
+  url: https://xwtools.automatix.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

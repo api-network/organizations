@@ -1,0 +1,89 @@
+---
+name: ABBYY
+description: '<p>ABBYY is a leading provider of document conversion, data capture,
+  and linguistic software and services. The key areas of ABBYY???s research and development
+  include document recognition and linguistic technologies. ABBYY???s recognition
+  technologies and products help people manage the increasing amount of information
+  delivering powerful instruments which enable them to: unlock information from paper
+  and images, automatically acquire data, and process and store valuable information.
+  Using recognition and data capture products, people save money and effort typically
+  spent on data entry, and benefit from the ability to access information in new,
+  more efficient ways. Our linguistic products help break down language barriers,
+  facilitating easier and clearer communication.</p>'
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/298_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "313789"
+url: https://raw.githubusercontent.com/api-network/organizations/main/abbyy.yaml
+tags:
+- Text Recognition
+- Profile
+- OCR
+- No API Definition
+- Multi-platform Support
+- Have API
+- Documents
+- Document Conversion
+- Data Location
+- Data Extraction
+- API Provider
+apis: []
+x-common:
+- type: x-base
+  url: https://cloud.ocrsdk.com
+- type: x-blog
+  url: http://blog.ocrsdk.com/
+- type: x-blog-rss
+  url: http://blog.ocrsdk.com/feed/
+- type: x-code
+  url: https://cloud.ocrsdk.com/Account/Register/?skipIfLoggedIn=true
+- type: x-code
+  url: https://cloud.ocrsdk.com/account/login/?skipIfLoggedIn=true
+- type: x-code
+  url: https://cloud.ocrsdk.com/demo/
+- type: x-code
+  url: https://knowledgebase.ocrsdk.com/?page=knowledgebase&productId=1466
+- type: x-code
+  url: http://blog.ocrsdk.com/
+- type: x-code
+  url: https://www.ocrsdk.com/developer-agreement/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/abbyy
+- type: x-facebook
+  url: https://facebook.com/ABBYYsoft/
+- type: x-faq
+  url: https://www.ocrsdk.com/documentation/faq/
+- type: x-forum
+  url: https://forum.ocrsdk.com/
+- type: x-github
+  url: https://github.com/abbyysdk
+- type: x-linkedin
+  url: https://www.linkedin.com/company/abbyy/
+- type: x-pricing
+  url: http://ocrsdk.com/plans-and-pricing/
+- type: x-pricing
+  url: https://www.ocrsdk.com/plans-and-pricing/
+- type: x-privacy
+  url: https://www.abbyy.com/privacy/
+- type: x-service-level-agreements
+  url: https://www.ocrsdk.com/sla/
+- type: x-status
+  url: https://www.ocrsdk.com/status/
+- type: x-terms-of-service
+  url: https://www.abbyy.com/legal/
+- type: x-twitter
+  url: https://twitter.com/OCRSDKcom
+- type: x-twitter
+  url: https://twitter.com/ABBYY_Software/
+- type: x-website
+  url: http://ocrsdk.com/
+- type: x-youtube
+  url: https://www.youtube.com/user/ABBYYVIDEOS/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,52 @@
+---
+name: Open Eligibility
+description: <p>The Open Eligibility Project is a collaborative for a better human
+  service taxonomy. The taxonomy is a simple way to categorize human services and
+  human situations. With these common categories, we, as service providers, navigators,
+  and people in need, can find human services quickly and easily. This is an API setup
+  and operated by API Evangelist to support the evolution of the specification, and
+  use across many different human services API projects.</p>
+image: https://s3.amazonaws.com/kinlane-productions2/adopta-agency/adopta-agency-primary.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "384980"
+url: https://raw.githubusercontent.com/api-network/organizations/main/open-eligibility.yaml
+tags:
+- Human Services
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.auntbertha.com
+- type: x-about
+  url: https://company.auntbertha.com/about/
+- type: x-blog
+  url: https://company.auntbertha.com/blog/
+- type: x-careers
+  url: https://www.indeed.com/cmp/Aunt-Bertha-2/jobs
+- type: x-customers
+  url: https://company.auntbertha.com/for-customers/
+- type: x-facebook
+  url: https://www.facebook.com/auntbertha/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/aunt-bertha-inc./
+- type: x-open-source
+  url: https://github.com/auntbertha/openeligibility
+- type: x-privacy
+  url: https://company.auntbertha.com/privacy/
+- type: x-support
+  url: https://support.auntbertha.com/hc/en-us/requests/new
+- type: x-terms-of-service
+  url: https://company.auntbertha.com/terms/
+- type: x-twitter
+  url: https://twitter.com/AuntBertha
+- type: x-website
+  url: https://about.auntbertha.com/openeligibility
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

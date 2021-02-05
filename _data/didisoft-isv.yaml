@@ -1,0 +1,46 @@
+---
+name: DidiSoft ISV
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1582679"
+url: https://raw.githubusercontent.com/api-network/organizations/main/didisoft-isv.yaml
+tags:
+- Software
+apis: []
+x-common:
+- type: x-open-source
+  url: https://www.didisoft.com/net-openpgp/
+- type: x-open-source
+  url: https://www.didisoft.com/openssl-net/
+- type: x-open-source
+  url: https://www.didisoft.com/java-openpgp/
+- type: x-open-source
+  url: https://www.didisoft.com/android-openpgp/
+- type: x-open-source
+  url: https://www.didisoft.com/net-openpgp/examples/
+- type: x-open-source
+  url: https://www.didisoft.com/openssl-net/examples/
+- type: x-open-source
+  url: https://www.didisoft.com/java-openpgp/examples/
+- type: x-open-source
+  url: https://www.didisoft.com/android-openpgp/examples/
+- type: x-open-source
+  url: https://www.didisoft.com/category/net-openpgp-library/
+- type: x-privacy
+  url: https://www.didisoft.com/privacy-policy/
+- type: x-support
+  url: https://www.didisoft.com/support/
+- type: x-terms-of-service
+  url: https://www.didisoft.com/terms-of-use/
+- type: x-website
+  url: https://www.didisoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

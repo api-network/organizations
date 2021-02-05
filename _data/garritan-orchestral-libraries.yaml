@@ -1,0 +1,43 @@
+---
+name: Garritan Orchestral Libraries
+description: Award-winning, world-class virtual instruments and sample libraries including
+  the CFX Concert Grand recorded at Abbey Road Studios.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "813249"
+url: https://raw.githubusercontent.com/api-network/organizations/main/garritan-orchestral-libraries.yaml
+tags:
+- Synthesizers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.garritan.com
+- type: x-about
+  url: https://www.garritan.com/about/
+- type: x-blog
+  url: https://www.garritan.com/blog/
+- type: x-blog
+  url: https://www.garritan.com/blog
+- type: x-facebook
+  url: https://www.facebook.com/garritan
+- type: x-privacy
+  url: https://www.makemusic.com/privacy/
+- type: x-support
+  url: https://www.garritan.com/support/
+- type: x-terms-of-service
+  url: http://www.makemusic.com/terms-conditions/
+- type: x-twitter
+  url: https://www.twitter.com/garritan
+- type: x-website
+  url: https://www.garritan.com
+- type: x-youtube
+  url: https://www.youtube.com/user/Garritan
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

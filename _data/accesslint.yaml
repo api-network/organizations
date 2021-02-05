@@ -1,0 +1,32 @@
+---
+name: AccessLint
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6936783"
+url: https://raw.githubusercontent.com/api-network/organizations/main/accesslint.yaml
+tags:
+- Accessibility
+apis: []
+x-common:
+- type: x-website
+  url: https://www.accesslint.com/
+- type: x-login
+  url: https://app.accesslint.com/login
+- type: x-marketplace
+  url: https://github.com/marketplace/accesslint
+- type: x-support
+  url: https://help.accesslint.com
+- type: x-twitter
+  url: https://twitter.com/accesslint
+- type: x-website
+  url: https://accesslint.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,58 @@
+---
+name: HSBC
+description: <p>HSBC Holdings plc is a British multinational banking and financial
+  services holding company, tracing its origin to a hong in Hong Kong. It is the world's
+  seventh largest bank by total assets and the largest in Europe with total assets
+  of US$2.374 trillion (as of December 2016). It was established in its present form
+  in London in 1991 by The Hongkong and Shanghai Banking Corporation to act as a new
+  group holding company. The origins of the bank lie mainly in Hong Kong and to a
+  lesser extent in Shanghai, where branches were first opened in 1865. The HSBC name
+  is derived from the initials of the Hongkong and Shanghai Banking Corporation. The
+  company was first formally incorporated in 1866. The company continues to see both
+  the United Kingdom and Hong Kong as its "home markets".</p>
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28105-developer-hsbc-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "6030"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hsbc.yaml
+tags:
+- UK Banks
+- Relative Data
+- Have Swagger
+- Have API Paths
+- Have API
+- General Data
+- Banking
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.hsbc.com/terms-and-conditions#socialmedia
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/hsbc
+- type: x-developer
+  url: http://developer.hsbc.com
+- type: x-facebook
+  url: https://www.facebook.com/HSBC/
+- type: x-instagram
+  url: https://www.instagram.com/hsbc/
+- type: x-investor
+  url: https://www.about.hsbc.com.hk/zh-hk/investor-relations
+- type: x-linkedin
+  url: https://www.linkedin.com/company/hsbc
+- type: x-twitter
+  url: https://twitter.com/HSBC
+- type: x-developers
+  url: https://developer.hsbc.com
+- type: x-website
+  url: https://hsbc.com
+- type: x-youtube
+  url: https://www.youtube.com/HSBC
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

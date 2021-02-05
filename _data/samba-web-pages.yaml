@@ -1,0 +1,29 @@
+---
+name: SAMBA Web Pages
+description: Home of Samba, the SMB file server
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "127446"
+url: https://raw.githubusercontent.com/api-network/organizations/main/samba-web-pages.yaml
+tags:
+- Samba SMB CIFS
+- Projects
+- Printing
+- Network
+- File System
+- CIFS
+apis: []
+x-common:
+- type: x-events
+  url: https://www.snia.org/events/storage-developer
+- type: x-website
+  url: https://www.samba.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

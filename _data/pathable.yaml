@@ -1,0 +1,71 @@
+---
+name: Pathable
+description: Award-winning event apps and websites for conferences, meetings & trade
+  shows. User-friendly back end which integrates with most registration software.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1462_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "154865"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pathable.yaml
+tags:
+- Projects
+- Planning
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.pathable.com/developer-api/
+- type: x-website
+  url: http://bit.ly/2JumHZj
+- type: x-about
+  url: https://pathable.com/about-pathable/
+- type: x-blog
+  url: http://www.pathable.com/category/blog/
+- type: x-blog
+  url: https://event-blog.pathable.com/
+- type: x-blog-rss
+  url: http://blog.pathable.com/feeds/posts/default?alt=rss
+- type: x-case-studies
+  url: https://pathable.com/case-studies/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/pathable
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/pathable
+- type: x-developers
+  url: http://docs.pathable.apiary.io
+- type: x-email
+  url: info@pathable.com
+- type: x-email
+  url: jordan@pathable.com
+- type: x-email
+  url: peter@pathable.com
+- type: x-email
+  url: account-removal@pathable.com
+- type: x-email
+  url: privacy@pathable.com
+- type: x-email
+  url: support@pathable.com
+- type: x-github
+  url: https://github.com/pathable
+- type: x-partner
+  url: https://pathable.com/partners/
+- type: x-pricing
+  url: https://pathable.com/packages/
+- type: x-privacy
+  url: https://pathable.com/privacy-policy/
+- type: x-privacy
+  url: http://pathable.com/privacy
+- type: x-terms-of-service
+  url: https://pathable.com/terms-conditions/
+- type: x-twitter
+  url: https://twitter.com/pathable
+- type: x-webinars
+  url: https://pathable.com/webinars/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

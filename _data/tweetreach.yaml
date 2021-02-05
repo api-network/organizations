@@ -1,0 +1,39 @@
+---
+name: TweetReach
+description: Powerful Twitter analytics for smart marketers, built by Union Metrics.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1304-tweetreach.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "97341"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tweetreach.yaml
+tags:
+- Twitter
+- Tracking
+- Reports
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://apidocs.tweetreach.com/wiki/API_Overview
+- type: x-website
+  url: https://tweetreach.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/product/zitefeed/press
+- type: x-pricing
+  url: https://unionmetrics.com/pricing/
+- type: x-privacy
+  url: https://unionmetrics.com/privacy
+- type: x-terms-of-service
+  url: http://tweetreach.com/terms
+- type: x-terms-of-service
+  url: https://unionmetrics.com/terms
+- type: x-twitter
+  url: https://twitter.com/tweetreachapp
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

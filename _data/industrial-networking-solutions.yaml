@@ -1,0 +1,28 @@
+---
+name: Industrial Networking Solutions
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "809962"
+url: https://raw.githubusercontent.com/api-network/organizations/main/industrial-networking-solutions.yaml
+tags:
+- Distributors
+apis: []
+x-common:
+- type: x-blog
+  url: http://ins-knowledge.blogspot.com/
+- type: x-blog
+  url: http://blog.industrialnetworking.com
+- type: x-blog
+  url: http://blog.industrialnetworking.com/
+- type: x-website
+  url: https://www.industrialnetworking.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

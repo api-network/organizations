@@ -1,0 +1,30 @@
+---
+name: FontGod
+description: Handwriting fonts and signature fonts custom made from your personal
+  handwriting style. From US$19.95
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fontgod.yaml
+tags:
+- Wedding Fonts
+- Signature Fonts
+- Handwriting Fonts
+- Free Fonts
+- Foundries
+- Cursive Fonts
+apis: []
+x-common:
+- type: x-twitter
+  url: http://twitter.com/share
+- type: x-website
+  url: https://www.fontgod.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

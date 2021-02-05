@@ -1,0 +1,51 @@
+---
+name: C3 IoT
+description: C3 IoT provides a next-generation enterprise platform (PaaS) for the
+  rapid design, development, and deployment of large-scale big data, AI, and IoT applications.
+  By leveraging telemetry, elastic cloud computing, analytics, and machine learning,
+  C3 Io...
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28225-c3iot-ai.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4233119"
+url: https://raw.githubusercontent.com/api-network/organizations/main/c3-iot.yaml
+tags:
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: https://c3.ai
+- type: x-blog
+  url: https://c3iot.ai/blog/
+- type: x-careers
+  url: https://c3iot.ai/careers/
+- type: x-contact
+  url: https://c3iot.ai/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/c3
+- type: x-customers
+  url: https://c3iot.ai/customers/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/c3-ai/
+- type: x-news
+  url: https://c3iot.ai/news/
+- type: x-partner
+  url: https://c3iot.ai/partners/
+- type: x-terms-of-service
+  url: https://c3iot.ai/legal/privacy-policy/
+- type: x-terms-of-service
+  url: https://c3iot.ai/legal/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/C3_AI
+- type: x-twitter
+  url: https://twitter.com/C3IoT
+- type: x-website
+  url: https://c3iot.ai
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,33 @@
+---
+name: Childcare Sage
+description: Childcare Sage is professional and affordable childcare and preschool
+  management software that will automate your center and free up your time.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/childcare-sage.yaml
+tags:
+- Www.childcaresage.com
+- Preschool
+- Daycare Software
+- Daycare Management Software
+- Daycare
+- Childcare Sage
+- Childcare Management Software
+apis: []
+x-common:
+- type: x-forum
+  url: http://www.bandisoftware.com/forums
+- type: x-login
+  url: http://www.bandisoftware.com/amember/login.php
+- type: x-website
+  url: https://www.childcaresage.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

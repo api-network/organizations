@@ -1,0 +1,47 @@
+---
+name: FasterThemes
+description: Faster Themes offers a wide range of Premium Wordpress Themes for Business
+  Professionals designed and developed especially with responsive layout to load faster.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "217862"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fasterthemes.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-blog
+  url: https://fasterthemes.com/blog/
+- type: x-contact
+  url: https://fasterthemes.com/contact/
+- type: x-press
+  url: https://fasterthemes.com/demo/a1pro-wordpress-theme/
+- type: x-press
+  url: https://fasterthemes.com/wordpress-themes/a1pro/
+- type: x-press
+  url: https://fasterthemes.com/wordpress-themes/legalpro/
+- type: x-press
+  url: https://fasterthemes.com/wordpress-themes/multishop/
+- type: x-press
+  url: https://fasterthemes.com/wordpress-themes/jobile/
+- type: x-press
+  url: https://fasterthemes.com/wordpress-themes/mywikipro/
+- type: x-press
+  url: https://fasterthemes.com/wordpress-themes/riderpro/
+- type: x-privacy
+  url: https://fasterthemes.com/privacy-policy
+- type: x-support
+  url: https://fasterthemes.com/support/
+- type: x-terms-of-service
+  url: https://fasterthemes.com/terms-and-conditions/
+- type: x-website
+  url: https://fasterthemes.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

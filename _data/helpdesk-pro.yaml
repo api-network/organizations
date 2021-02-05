@@ -1,0 +1,32 @@
+---
+name: HelpDesk Pro
+description: HelpDesk Software, 'HelpDesk Pro' -  the SIMPLEST help desk web-based
+  solution on the planet!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/helpdesk-pro.yaml
+tags:
+- Web-enabled Helpdesk
+- Web Based Helpdesk Software
+- Simple Help Desk Program
+- Help Desk Software
+- Customer Relationship Management
+- Cloud Helpdesk
+- Browser Based
+- Asset Management
+apis: []
+x-common:
+- type: x-contact
+  url: http://www.helpdeskpro.net/contactus.htm
+- type: x-website
+  url: https://www.helpdeskpro.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

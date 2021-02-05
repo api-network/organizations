@@ -1,0 +1,38 @@
+---
+name: Ambassador API Gateway
+description: Ambassador, open source, Kubernetes-native API Gateway for microservices
+  built on Envoy
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29187-www-getambassador-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "511955"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ambassador-api-gateway.yaml
+tags:
+- Kubernetes
+- Has API
+- Gateway
+- API Service Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.getambassador.io
+- type: x-blog
+  url: https://blog.getambassador.io
+- type: x-github
+  url: https://github.com/datawire/ambassador
+- type: x-github
+  url: https://github.com/datawire/ambassador/fork
+- type: x-twitter
+  url: http://www.twitter.com/getambassadorio
+- type: x-twitter
+  url: https://twitter.com/getambassadorio
+- type: x-website
+  url: https://www.getambassador.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

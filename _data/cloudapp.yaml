@@ -1,0 +1,73 @@
+---
+name: CloudApp
+description: CloudApp screen recorder software for Mac & PC. Record video, webcam,
+  GIFs, capture your screen and share it instantly to the cloud, all in one easy-to-use
+  app.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/559_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "24595"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cloudapp.yaml
+tags:
+- Sharing
+- Have API
+- Backups
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: https://www.getcloudapp.com
+- type: x-base
+  url: http://my.cl.ly
+- type: x-blog
+  url: https://www.getcloudapp.com/blog/ios-app-release
+- type: x-blog
+  url: http://blog.getcloudapp.com
+- type: x-blog-rss
+  url: http://blog.getcloudapp.com/feed.xml
+- type: x-contact
+  url: https://www.getcloudapp.com/contact
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/cloudapp
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/cloudapp
+- type: x-developers
+  url: https://github.com/cloudapp/api/blob/master/README.md#the-cloudapp-api
+- type: x-developers
+  url: https://developer.getcloudapp.com/
+- type: x-email
+  url: sales@getcloudapp.com
+- type: x-email
+  url: support@getcloudapp.com
+- type: x-email
+  url: copyright@getcloudapp.com
+- type: x-facebook
+  url: https://www.facebook.com/getcloudapp/
+- type: x-github
+  url: https://github.com/cloudapp
+- type: x-instagram
+  url: https://www.instagram.com/get_cloudapp
+- type: x-integrations
+  url: https://www.getcloudapp.com/integrations
+- type: x-linkedin
+  url: https://www.linkedin.com/company/getcloudapp/
+- type: x-pricing
+  url: https://www.getcloudapp.com/pricing
+- type: x-status
+  url: http://status.getcloudapp.com/
+- type: x-support
+  url: https://support.getcloudapp.com
+- type: x-support
+  url: https://support.getcloudapp.com/
+- type: x-twitter
+  url: https://twitter.com/cloudapp
+- type: x-website
+  url: http://getcloudapp.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

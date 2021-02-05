@@ -1,0 +1,36 @@
+---
+name: Vantage
+description: Unsere lokal verwurzelten und national profilierten Bildungsinstitutionen
+  zeichnen sich durch qualitativ hochstehende Programme und Dienstleistungen in der
+  praxisorientierten Grundbildung, Weiterbildung und im akademischen Bereich aus.
+  Mit der Integration weiterer Bildungspartner steigern wir unsere Gestaltungskraft
+  und schaffen gemeinsam die vorteilhaftesten Perspektiven zur kontinuierlichen Weiterentwicklung
+  unserer Studierenden und Anspruchsgruppen.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/vantage.yaml
+tags:
+- Vantage Education
+- Vantage
+- K.m.z. Kaderschule
+- Invision
+- Hso Witschaftsschule Schweiz
+- HMZ Academy
+- H.b.ss Schulen
+- Groups
+- BVS St. Gallen
+- Bildung
+apis: []
+x-common:
+- type: x-website
+  url: https://www.vantage.ch
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

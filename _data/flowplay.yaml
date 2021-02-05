@@ -1,0 +1,53 @@
+---
+name: FlowPlay
+description: Flowplayer is the video player for your website.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1416-flowplay.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "80273"
+url: https://raw.githubusercontent.com/api-network/organizations/main/flowplay.yaml
+tags:
+- Streaming
+- Scripts
+- JavaScript
+- HTML5
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://flowplay.com
+- type: x-base
+  url: http://flowplayer.org/docs/api.html
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/flowplayer
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/flowplay
+- type: x-email
+  url: sales@flowplayer.com
+- type: x-email
+  url: support@flowplayer.com
+- type: x-email
+  url: legal@flowplayer.com
+- type: x-facebook
+  url: https://www.facebook.com/flowplayer
+- type: x-github
+  url: https://github.com/flowplayer
+- type: x-linkedin
+  url: https://www.linkedin.com/company/flowplayer
+- type: x-twitter
+  url: https://twitter.com/flowplayer
+- type: x-twitter
+  url: https://twitter.com/FlowPlay
+- type: x-website
+  url: http://flowplayer.org
+- type: x-website
+  url: https://flowplayer.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

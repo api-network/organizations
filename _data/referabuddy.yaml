@@ -1,0 +1,31 @@
+---
+name: Refer-a-Buddy
+description: Refer-a-buddy is an easy to use 'tell a friend' viral marketing widget
+  that you can 'copy & paste' into your web pages
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/referabuddy.yaml
+tags:
+- Widget
+- Viral
+- Tell
+- Service
+- Refer
+- Marketing
+- Hosted Components And Services
+- Friend
+- Buddy
+apis: []
+x-common:
+- type: x-website
+  url: https://refer-a-buddy.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

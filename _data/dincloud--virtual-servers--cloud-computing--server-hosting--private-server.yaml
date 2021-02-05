@@ -1,0 +1,64 @@
+---
+name: DinCloud  Virtual Servers  Cloud Computing  Server Hosting  Private Server
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "628709"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dincloud--virtual-servers--cloud-computing--server-hosting--private-server.yaml
+tags:
+- Service Providers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.dincloud.com
+- type: x-about
+  url: https://www.dincloud.com/about-us
+- type: x-blog
+  url: https://www.dincloud.com/blog
+- type: x-blog
+  url: https://www.dincloud.com/blog/
+- type: x-blog
+  url: https://www.dincloud.com/category/blog/cloud/
+- type: x-blog
+  url: https://www.dincloud.com/blog/what-is-dark-web
+- type: x-case-studies
+  url: https://www.dincloud.com/cloud-case-studies
+- type: x-facebook
+  url: https://www.facebook.com/dinCloud
+- type: x-linkedin
+  url: https://www.linkedin.com/company/dincloud?trk=tyah
+- type: x-login
+  url: https://shop.dincloud.com/users/login/
+- type: x-news
+  url: https://www.dincloud.com/latestnews
+- type: x-news
+  url: https://www.dincloud.com/newsletter-sign
+- type: x-news
+  url: https://www.dincloud.com/news-category/news/
+- type: x-partner
+  url: https://www.dincloud.com/partner-directory
+- type: x-security
+  url: https://www.dincloud.com/security/DNS
+- type: x-support
+  url: https://support.dincloud.com/
+- type: x-support
+  url: https://support.dincloud.com/portal/home
+- type: x-terms-of-service
+  url: https://www.dincloud.com/cloud-for-legal-industry
+- type: x-terms-of-service
+  url: https://shop.dincloud.com/terms/
+- type: x-twitter
+  url: https://twitter.com/dinCloud
+- type: x-website
+  url: https://dincloud.com
+- type: x-youtube
+  url: https://www.youtube.com/user/dinCloud
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,36 @@
+---
+name: Apache C++ Standard Library
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1865"
+url: https://raw.githubusercontent.com/api-network/organizations/main/apache-c-standard-library.yaml
+tags:
+- Class Libraries
+apis: []
+x-common:
+- type: x-documentation
+  url: http://webstore.ansi.org/ansidocstore/
+- type: x-documentation
+  url: http://docs.hp.com/en/oshpux11.0.html
+- type: x-documentation
+  url: http://docs.hp.com/en/oshpux11i.html
+- type: x-documentation
+  url: http://docs.hp.com/en/oshpux11iv2.html
+- type: x-documentation
+  url: http://docs.hp.com/en/hpuxos11iv1.5.html
+- type: x-documentation
+  url: http://docs.hp.com/en/oshpux11iv1.6.html
+- type: x-status
+  url: http://stdcxx.apache.org/status/
+- type: x-website
+  url: https://stdcxx.apache.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,28 @@
+---
+name: Picget Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5252318"
+url: https://raw.githubusercontent.com/api-network/organizations/main/picget-software.yaml
+tags:
+- Editing
+apis: []
+x-common:
+- type: x-contact
+  url: http://www.picget.net/magicphoto/contact.html
+- type: x-partner
+  url: http://www.picget.net/partner.html
+- type: x-partner
+  url: http://www.picget.net/partners.html
+- type: x-website
+  url: https://www.picget.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

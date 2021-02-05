@@ -1,0 +1,22 @@
+---
+name: Distributed revision control with Mercurial
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "280868"
+url: https://raw.githubusercontent.com/api-network/organizations/main/distributed-revision-control-with-mercurial.yaml
+tags:
+- Mercurial
+apis: []
+x-common:
+- type: x-website
+  url: https://hgbook.red-bean.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

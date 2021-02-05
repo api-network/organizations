@@ -1,0 +1,44 @@
+---
+name: Plum Solutions
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "773706"
+url: https://raw.githubusercontent.com/api-network/organizations/main/plum-solutions.yaml
+tags:
+- Consultants
+apis: []
+x-common:
+- type: x-website
+  url: http://www.plumsolutions.com.au
+- type: x-about
+  url: https://plumsolutions.com.au/about-plum-solutions/
+- type: x-contact
+  url: https://plumsolutions.com.au/contact/
+- type: x-facebook
+  url: https://www.facebook.com/financialmodelling/
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/1724487/profile
+- type: x-login
+  url: https://plumsolutions.com.au/wp-login.php
+- type: x-news
+  url: https://plumsolutions.com.au/newsletter-subscription/
+- type: x-privacy
+  url: https://plumsolutions.com.au/privacy-policy/
+- type: x-terms-of-service
+  url: https://plumsolutions.com.au/terms-and-conditions/
+- type: x-tutorials
+  url: https://plumsolutions.com.au/tutorials/
+- type: x-twitter
+  url: https://twitter.com/dsteinfairhurst
+- type: x-website
+  url: https://www.plumsolutions.com.au
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

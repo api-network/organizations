@@ -1,0 +1,72 @@
+---
+name: Rediker Software, Inc.
+description: Rediker Software's integrated student information system improves data
+  management, streamlines administrative tasks and maximizes school-to-home communication.
+  Trusted by schools in all 50 states and over 115 countries.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "253157"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rediker-software-inc-.yaml
+tags:
+- Student Information System
+- Student Data Management System
+- School Administrative Software
+- Scheduling Utilities
+- Administration And School Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.rediker.com
+- type: x-about
+  url: https://www.rediker.com/about-us
+- type: x-about
+  url: https://www.rediker.com/about-us/about
+- type: x-about
+  url: https://www.rediker.com/about-us/meet_our_team
+- type: x-about
+  url: https://www.rediker.com/about-us/rediker-cares
+- type: x-about
+  url: https://www.rediker.com/about-us/request-information
+- type: x-careers
+  url: https://www.rediker.com/about-us/careers
+- type: x-contact
+  url: https://www.rediker.com/support/contact-support
+- type: x-contact
+  url: https://www.rediker.com/about-us/contact
+- type: x-documentation
+  url: https://docs.rediker.com/
+- type: x-events
+  url: https://www.rediker.com/events
+- type: x-events
+  url: https://www.rediker.com/events/just-in-time
+- type: x-events
+  url: https://www.rediker.com/events/conferences
+- type: x-facebook
+  url: https://www.facebook.com/redikersoftware
+- type: x-instagram
+  url: https://www.instagram.com/redikersoftware
+- type: x-linkedin
+  url: https://www.linkedin.com/company/rediker-software
+- type: x-news
+  url: https://www.rediker.com/about/news
+- type: x-support
+  url: https://www.rediker.com/support
+- type: x-support
+  url: https://support.rediker.com
+- type: x-support
+  url: https://www.rediker.com/support/training
+- type: x-twitter
+  url: https://twitter.com/redikersoftware
+- type: x-website
+  url: https://www.rediker.com
+- type: x-youtube
+  url: https://www.youtube.com/rediker
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

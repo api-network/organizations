@@ -1,0 +1,22 @@
+---
+name: Link Popularity Linktree.info
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10595568"
+url: https://raw.githubusercontent.com/api-network/organizations/main/link-popularity-linktree-info.yaml
+tags:
+- Link Popularity
+apis: []
+x-common:
+- type: x-website
+  url: https://www.linktree.info
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

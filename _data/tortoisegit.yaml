@@ -1,0 +1,28 @@
+---
+name: TortoiseGit
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "192910"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tortoisegit.yaml
+tags:
+- Windows
+- TortoiseGit
+- ShellExtension
+- Git
+- Download
+apis: []
+x-common:
+- type: x-twitter
+  url: https://www.twitter.com/TortoiseGit
+- type: x-website
+  url: https://tortoisegit.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

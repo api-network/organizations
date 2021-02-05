@@ -1,0 +1,38 @@
+---
+name: QR Stuff
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "40183"
+url: https://raw.githubusercontent.com/api-network/organizations/main/qr-stuff.yaml
+tags:
+- Barcodes
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.qrstuff.com/
+- type: x-code
+  url: https://blog.qrstuff.com/2018/02/03/text-qr-codes
+- type: x-code
+  url: https://blog.qrstuff.com/2012/08/12/dynamic-qr-codes
+- type: x-code
+  url: https://blog.qrstuff.com/2018/04/06/twitter-qr-codes
+- type: x-code
+  url: https://blog.qrstuff.com/2018/03/25/facebook-qr-codes
+- type: x-code
+  url: https://blog.qrstuff.com/2018/01/17/wifi-qr-codes
+- type: x-code
+  url: https://blog.qrstuff.com/2018/02/26/qr-codes-for-video
+- type: x-code
+  url: https://blog.qrstuff.com/2017/07/23/qr-codes-generator
+- type: x-website
+  url: https://qrstuff.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

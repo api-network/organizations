@@ -1,0 +1,79 @@
+---
+name: api.video
+description: api.video is a scalable webservice able to encode on the go to facilitate
+  immediate playback, enhancing viewer experiences across multiple devices and platforms.
+  Start within minutes with a well-documented API.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28779-api-video.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "711"
+x-alexaRank: "819079"
+url: https://raw.githubusercontent.com/api-network/organizations/main/api-video.yaml
+tags:
+- Videos
+- Videos
+- Relative Data
+- Postman Collections
+- Have API Paths
+- Have API
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-about
+  url: https://api.video/about
+- type: x-blog
+  url: https://blog.api.video/
+- type: x-careers
+  url: https://jobs.api.video/
+- type: x-developer
+  url: https://community.api.video/
+- type: x-developer
+  url: https://community.api.video/t/some-clarifications/64
+- type: x-developer
+  url: https://medium.com/@api.video
+- type: x-developer
+  url: https://community.api.video/categories
+- type: x-developer
+  url: https://community.api.video/latest
+- type: x-developer
+  url: https://community.api.video/top
+- type: x-developer
+  url: https://api.video/
+- type: x-developers
+  url: https://docs.api.video/5.1/introduction/api-conventions
+- type: x-documentation
+  url: https://docs.api.video/
+- type: x-documentation
+  url: https://docs.api.video/5.1/live
+- type: x-email
+  url: hello@api.video
+- type: x-email
+  url: legal@api.video
+- type: x-github
+  url: https://github.com/ApiVideo
+- type: x-login
+  url: https://my.api.video/login
+- type: x-pricing
+  url: https://api.video/pricing
+- type: x-privacy
+  url: https://api.video/privacy-policy
+- type: x-self-service-registration
+  url: http://my.api.video/register/community
+- type: x-self-service-registration
+  url: https://my.api.video/register/community
+- type: x-status
+  url: https://status.api.video/
+- type: x-terms-of-service
+  url: https://api.video/terms-and-conditions
+- type: x-twitter
+  url: https://twitter.com/api_video
+- type: x-website
+  url: https://api.video
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

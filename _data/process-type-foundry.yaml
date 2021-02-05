@@ -1,0 +1,33 @@
+---
+name: Process Type Foundry
+description: The Process Type Foundry is a small, internationally recognized typeface
+  design studio based in the Twin Cities of Minneapolis and St. Paul, Minnesota.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1111759"
+url: https://raw.githubusercontent.com/api-network/organizations/main/process-type-foundry.yaml
+tags:
+- Foundries
+apis: []
+x-common:
+- type: x-website
+  url: http://processtypefoundry.com
+- type: x-facebook
+  url: https://www.facebook.com/ProcessType/
+- type: x-instagram
+  url: https://www.instagram.com/process_type/
+- type: x-support
+  url: https://processtypefoundry.com/help/base/overview/
+- type: x-twitter
+  url: https://twitter.com/processtype
+- type: x-website
+  url: https://www.processtypefoundry.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

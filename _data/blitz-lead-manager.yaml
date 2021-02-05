@@ -1,0 +1,53 @@
+---
+name: Blitz Lead Manager
+description: Sales CRM software to accelerate your contact management. Blitz is built
+  to help close more deals faster and build long term relationships.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3511288"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blitz-lead-manager.yaml
+tags:
+- Rentable
+apis: []
+x-common:
+- type: x-about
+  url: https://www.nowblitz.com/about-us/
+- type: x-blog
+  url: https://www.nowblitz.com/blog/
+- type: x-blog
+  url: https://www.nowblitz.com/blog/category/software/crm/
+- type: x-blog
+  url: https://www.nowblitz.com/blog/category/software/
+- type: x-blog
+  url: https://www.nowblitz.com/blog/category/tips/
+- type: x-careers
+  url: http://www.doubleasolutions.net/careers/
+- type: x-contact
+  url: https://www.nowblitz.com/contact-us/
+- type: x-news
+  url: https://www.nowblitz.com/newsletters/
+- type: x-partner
+  url: https://www.nowblitz.com/partners/
+- type: x-plans
+  url: https://www.nowblitz.com/plans-pricing/
+- type: x-press
+  url: https://www.nowblitz.com/press-releases/
+- type: x-privacy
+  url: https://www.nowblitz.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.nowblitz.com/terms-and-conditions/
+- type: x-webinars
+  url: https://www.nowblitz.com/webinars/
+- type: x-website
+  url: https://www.blitzleadmanager.com
+- type: x-white-papers
+  url: https://www.nowblitz.com/whitepapers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

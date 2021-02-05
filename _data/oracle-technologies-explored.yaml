@@ -1,0 +1,69 @@
+---
+name: Oracle Technologies Explored
+description: 'Blog about all Oracle products and features :  EBS 12.2 12.1.3 , database
+  11i 12c 18c 19c  OEM EM Enterprise manager 12c, 13c'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/oracle-technologies-explored.yaml
+tags:
+- Weblogs
+apis: []
+x-common:
+- type: x-blog
+  url: https://ora-x2.blogspot.com/search/label/13c.OMS
+- type: x-blog
+  url: https://ora-x2.blogspot.com/search/label/Em12c
+- type: x-blog
+  url: https://ora-x2.blogspot.com/search/label/OEM.%20oracle
+- type: x-blog
+  url: https://www.blogger.com/profile/14405920822290313355
+- type: x-blog
+  url: https://ora-x2.blogspot.com/2019/
+- type: x-blog
+  url: https://ora-x2.blogspot.com/2019/10/
+- type: x-blog
+  url: https://ora-x2.blogspot.com/2019/09/
+- type: x-blog
+  url: https://ora-x2.blogspot.com/2019/08/
+- type: x-blog
+  url: https://ora-x2.blogspot.com/2015/
+- type: x-blog
+  url: https://ora-x2.blogspot.com/2015/05/
+- type: x-blog
+  url: https://ora-x2.blogspot.com/2012/
+- type: x-blog
+  url: https://ora-x2.blogspot.com/2012/10/
+- type: x-blog
+  url: https://ora-x2.blogspot.com/2011/
+- type: x-blog
+  url: https://ora-x2.blogspot.com/2011/07/
+- type: x-blog
+  url: https://ora-x2.blogspot.com/2011/05/
+- type: x-blog
+  url: https://ora-x2.blogspot.com/search/label/18c
+- type: x-blog
+  url: https://ora-x2.blogspot.com/search/label/19c
+- type: x-blog
+  url: https://ora-x2.blogspot.com/search/label/Cloning
+- type: x-blog
+  url: https://ora-x2.blogspot.com/search/label/Exadata
+- type: x-blog
+  url: https://ora-x2.blogspot.com/search/label/Oracle%20ASM
+- type: x-blog
+  url: https://ora-x2.blogspot.com/search/label/Redo%20Logs
+- type: x-blog
+  url: https://www.blogger.com/go/report-abuse
+- type: x-blog
+  url: https://www.blogger.com
+- type: x-website
+  url: https://ora-x2.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

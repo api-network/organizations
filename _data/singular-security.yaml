@@ -1,0 +1,66 @@
+---
+name: Singular Security
+description: Prepare for and pass your next IT security compliance audit with network
+  services from Southern CA-based Singular Security. PCI-DSS, SOX, HIPAA, more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7449096"
+url: https://raw.githubusercontent.com/api-network/organizations/main/singular-security.yaml
+tags:
+- SOX
+- Southern CA
+- Singular Security
+- PCI-DSS
+- Pass IT Compliance Audit
+- OC
+- LA
+- HIPAA
+- Cyber-security
+- Companies
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.singularsecurity.com/contactus/
+- type: x-security
+  url: https://www.singularsecurity.com/incident-response/
+- type: x-security
+  url: https://www.singularsecurity.com/siem/
+- type: x-security
+  url: https://www.singularsecurity.com/manage-security-risk/
+- type: x-security
+  url: https://www.singularsecurity.com/log-management/
+- type: x-security
+  url: https://www.singularsecurity.com/singularready/
+- type: x-security
+  url: https://www.singularsecurity.com/security-training/
+- type: x-security
+  url: https://www.singularsecurity.com/gdpr/
+- type: x-security
+  url: https://www.singularsecurity.com/soc2/
+- type: x-security
+  url: https://www.singularsecurity.com/cybersecurity-rule/
+- type: x-security
+  url: https://www.singularsecurity.com/industries/
+- type: x-security
+  url: https://www.singularsecurity.com/articles/blog/
+- type: x-security
+  url: https://www.singularsecurity.com/
+- type: x-security
+  url: https://www.singularsecurity.com/company/
+- type: x-security
+  url: https://www.singularsecurity.com/customercare/
+- type: x-security
+  url: https://www.singularsecurity.com/vendor-management/
+- type: x-twitter
+  url: https://twitter.com/SingularReady
+- type: x-website
+  url: https://www.singularsecurity.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

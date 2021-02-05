@@ -1,0 +1,40 @@
+---
+name: TRACKTIO
+description: Tracktio RTLS solutions are developed to help you increase efficiency,
+  cut costs and improve profits you get from your core and day-to-day activities.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29329-tracktio-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7817152"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tracktio.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.tracktio.com
+- type: x-about
+  url: https://tracktio.com/about-us/
+- type: x-case-studies
+  url: https://tracktio.com/case-studies/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/traction
+- type: x-email
+  url: info@tracktio.com
+- type: x-login
+  url: http://support.tracktio.com/login_page.php
+- type: x-partner
+  url: https://tracktio.com/partners/
+- type: x-privacy
+  url: https://tracktio.com/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/tracktio
+- type: x-website
+  url: http://tracktio.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

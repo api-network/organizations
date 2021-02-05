@@ -1,0 +1,47 @@
+---
+name: Standards-oriented, cross-platform software tools for content authoring and
+  electronic publishing with XML/HTML and PDF
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3498279"
+url: https://raw.githubusercontent.com/api-network/organizations/main/standardsoriented-crossplatform-software-tools-for-content-authoring-and-electronic-publishing-with-xmlhtml-and-pdf.yaml
+tags:
+- Applets
+apis: []
+x-common:
+- type: x-website
+  url: http://www.realobjects.com
+- type: x-contact
+  url: https://www.realobjects.com/contact-us/
+- type: x-customers
+  url: https://www.realobjects.com/customers/
+- type: x-documentation
+  url: http://www.nimbudocs.com
+- type: x-feed
+  url: https://www.realobjects.com/feed/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/realobjects-gmbh
+- type: x-partner
+  url: https://www.realobjects.com/partners/
+- type: x-privacy
+  url: https://www.realobjects.com/privacy-policy/
+- type: x-support
+  url: https://support.realobjects.com/support/home
+- type: x-terms-of-service
+  url: https://www.realobjects.com/terms-use/
+- type: x-twitter
+  url: https://twitter.com/RealObjects
+- type: x-website
+  url: https://www.realobjects.com
+- type: x-youtube
+  url: http://www.youtube.com/RealObjectsSoftware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

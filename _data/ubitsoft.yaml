@@ -1,0 +1,52 @@
+---
+name: Ubitsoft
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2938385"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ubitsoft.yaml
+tags:
+- Tools
+apis: []
+x-common:
+- type: x-blog
+  url: https://sqlenlight.com/blog/
+- type: x-blog
+  url: https://sqlenlight.com/blog/category/analysis-rules/
+- type: x-blog
+  url: https://sqlenlight.com/blog/category/sql-enlight/
+- type: x-blog
+  url: https://sqlenlight.com/blog/category/t-sql-analyzer/
+- type: x-blog
+  url: https://sqlenlight.com/blog/category/t-sql-beautifier/
+- type: x-blog
+  url: https://sqlenlight.com/blog/category/troubleshooting/
+- type: x-contact
+  url: https://sqlenlight.com/contact-us/
+- type: x-feed
+  url: https://ubitsoft.com/feed
+- type: x-news
+  url: https://sqlenlight.com/blog/category/news-events/
+- type: x-privacy
+  url: https://sqlenlight.com/privacy-policy/
+- type: x-support
+  url: https://sqlenlight.com/sql-enlight/support/
+- type: x-terms-of-service
+  url: https://sqlenlight.com/terms-and-conditions/
+- type: x-tutorials
+  url: https://sqlenlight.com/blog/category/tutorials/
+- type: x-twitter
+  url: http://twitter.com/sqlenlight/
+- type: x-website
+  url: https://www.ubitsoft.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=ICsVHpJNphU
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

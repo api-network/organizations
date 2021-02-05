@@ -1,0 +1,42 @@
+---
+name: The Atomic Learning Library
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "604639"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-atomic-learning-library.yaml
+tags:
+- Online Training
+apis: []
+x-common:
+- type: x-about
+  url: https://hoonuit.com/about-us/about/
+- type: x-about
+  url: https://hoonuit.com/about-us/leadership/
+- type: x-blog
+  url: https://hoonuit.com/resources/blog/
+- type: x-careers
+  url: https://hoonuit.com/about-us/careers/
+- type: x-contact
+  url: http://hoonuit.wpengine.com/contact-us/
+- type: x-integrations
+  url: https://hoonuit.com/why-hoonuit/integrations/
+- type: x-news
+  url: https://hoonuit.com/about-us/news/
+- type: x-partner
+  url: https://hoonuit.com/why-hoonuit/partnerships/
+- type: x-privacy
+  url: http://hoonuit.wpengine.com/hoonuit-privacy-policy/
+- type: x-terms-of-service
+  url: http://hoonuit.wpengine.com/terms-conditions/
+- type: x-website
+  url: https://www.atomiclearning.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

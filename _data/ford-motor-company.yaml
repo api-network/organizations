@@ -1,0 +1,46 @@
+---
+name: Ford Motor Company
+description: Go further than you ever imagined in a new Ford vehicle, built just for
+  you. See our full lineup.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/202-ford-motor-company.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "800"
+x-alexaRank: "3233"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ford-motor-company.yaml
+tags:
+- Have Swagger
+- Have API Paths
+- Have API
+- Automobiles
+- API Provider
+- API LIfeycle
+apis: []
+x-common:
+- type: x-blog
+  url: https://developer.ford.com/community/blogs/
+- type: x-blog-rss
+  url: https://media.ford.com/content/fordmedia/fna/us/en/news.safety-and-technology.rss
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/ford
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/ford
+- type: x-partner
+  url: https://developer.ford.com/post/2019/10/sdl-forddev-are-partnering-up-for-the-music-that-moves-you-challenge-at-the-2019-capitol-royale-hack-join-us
+- type: x-privacy
+  url: https://www.ford.com/help/privacy/
+- type: x-twitter
+  url: https://twitter.com/Ford
+- type: x-twitter
+  url: https://twitter.com/FordDevTeam
+- type: x-website
+  url: https://developer.ford.com/
+- type: x-youtube
+  url: https://www.youtube.com/user/DevFordProgram
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

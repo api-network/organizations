@@ -1,0 +1,40 @@
+---
+name: Politecnico di Milano
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5072"
+url: https://raw.githubusercontent.com/api-network/organizations/main/politecnico-di-milano.yaml
+tags:
+- Italy
+apis: []
+x-common:
+- type: x-privacy
+  url: https://www.polimi.it/privacy/
+- type: x-website
+  url: https://www.deib.polimi.it
+- type: x-youtube
+  url: http://www.youtube.com/deipolimi
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=NN6ZrF-k85c
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=uvo_xumq_8w
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=JqFmLrwOgC0
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=sKOuxWR9kg0
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=ydjSBcZ6YNg
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=ZCx3P69jmYA
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=j1P_Af5tXKU
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,36 @@
+---
+name: MidnightBSD Project
+description: MidnightBSD is a desktop operating system for x86 and x86-64 based PCs.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3124523"
+url: https://raw.githubusercontent.com/api-network/organizations/main/midnightbsd-project.yaml
+tags:
+- BSD
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/midnightbsd/
+- type: x-forum
+  url: http://forum.midnightbsd.org/
+- type: x-open-source
+  url: http://www.midnightbsd.org/opengrok/
+- type: x-open-source
+  url: https://www.openhub.net/p/mnbsd
+- type: x-press
+  url: http://www.cafepress.com/midnightbsd
+- type: x-twitter
+  url: https://twitter.com/#!/midnightbsd
+- type: x-twitter
+  url: https://twitter.com/midnightbsd
+- type: x-website
+  url: https://www.midnightbsd.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

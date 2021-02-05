@@ -1,0 +1,41 @@
+---
+name: Joy of Android
+description: Android Tips, How-to, News & Reviews
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "59334"
+url: https://raw.githubusercontent.com/api-network/organizations/main/joy-of-android.yaml
+tags: []
+apis: []
+x-common:
+- type: x-about
+  url: https://joyofandroid.com/about-us/
+- type: x-contact
+  url: https://joyofandroid.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/JoyofAndroid
+- type: x-facebook
+  url: https://facebook.com/joyofandroid/
+- type: x-facebook
+  url: https://facebook.com/joyofandroid
+- type: x-login
+  url: https://joyofandroid.com/wp-login.php?action=register
+- type: x-privacy
+  url: https://joyofandroid.com/privacy/
+- type: x-twitter
+  url: https://twitter.com/joyofandroid
+- type: x-twitter
+  url: https://twitter.com/joyofandroid/
+- type: x-website
+  url: https://joyofandroid.com
+- type: x-youtube
+  url: https://youtube.com/c/joyofandroid/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

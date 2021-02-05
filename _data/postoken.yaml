@@ -1,0 +1,26 @@
+---
+name: PoSToken
+description: PoSToken is the world's first Proof-of-Stake smart contract token on
+  Ethereum platform. It's based on the ERC20 Token Standard and implements all standard
+  methods.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27270-postoken-org.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "159607"
+url: https://raw.githubusercontent.com/api-network/organizations/main/postoken.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/PoSToken
+- type: x-website
+  url: https://postoken.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

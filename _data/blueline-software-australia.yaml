@@ -1,0 +1,50 @@
+---
+name: Blueline Software Australia
+description: Welcome to the Blueline Software first established in 1989 to provide
+  high quality affordable software to the mainframe community. Our goal is to provide
+  you with useful information about our company and products so you will have the
+  most recent and relevant information at hand.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blueline-software-australia.yaml
+tags:
+- Software
+- Quickref
+- Mvs/quickref
+- Melbourne
+- Mainframe
+- Freesoft
+- Free Soft
+- Development
+- Cca Software Pty Ltd
+- Cca
+- Blueline
+- Australia
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.blueline.com.au/contact-us/
+- type: x-open-source
+  url: https://www.blueline.com.au/open-soft-tech/
+- type: x-open-source
+  url: https://www.blueline.com.au/open-soft-tech/rtor/
+- type: x-open-source
+  url: https://www.blueline.com.au/open-soft-tech/memocast/
+- type: x-partner
+  url: https://www.blueline.com.au/partners/
+- type: x-privacy
+  url: http://blueline.com.au/privacy-policy
+- type: x-support
+  url: https://www.blueline.com.au/easy-help-for-cics/
+- type: x-website
+  url: https://www.blueline.com.au
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

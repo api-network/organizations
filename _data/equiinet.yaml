@@ -1,0 +1,42 @@
+---
+name: Equiinet
+description: Equiinet - Business Phone System and VoIP Service Provider in las vegas
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/equiinet.yaml
+tags:
+- VOIP
+- SIP Trunking
+- Las Vegas
+- Internet Appliances
+- Business Phone
+apis: []
+x-common:
+- type: x-website
+  url: http://equiinet.com
+- type: x-customers
+  url: https://www.equiinet.com/customers
+- type: x-facebook
+  url: https://www.facebook.com/equiinet
+- type: x-linkedin
+  url: https://www.linkedin.com/company/equiinet
+- type: x-platform
+  url: https://www.equiinet.com/sms-platform
+- type: x-support
+  url: https://www.equiinet.com/support
+- type: x-twitter
+  url: https://www.twitter.com/equiinet
+- type: x-website
+  url: https://www.equiinet.com
+- type: x-youtube
+  url: https://www.youtube.com/user/Equiinetusa
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

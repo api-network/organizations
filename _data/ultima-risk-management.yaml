@@ -1,0 +1,62 @@
+---
+name: Ultima Risk Management
+description: URM is dedicated to providing high quality, cost-effective, tailored
+  consultancy and training in the areas of infosec...risk specialists
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ultima-risk-management.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.urmconsulting.com
+- type: x-about
+  url: https://www.urmconsulting.com/about-urm/testimonials/
+- type: x-about
+  url: https://www.urmconsulting.com/about-urm/
+- type: x-about
+  url: https://www.urmconsulting.com/about-urm/subscribe/
+- type: x-blog
+  url: https://www.urmconsulting.com/category/blog/
+- type: x-careers
+  url: https://www.urmconsulting.com/about-urm/careers/
+- type: x-case-studies
+  url: https://www.urmconsulting.com/case-studies/
+- type: x-contact
+  url: https://www.urmconsulting.com/about-urm/contact-urm/
+- type: x-documentation
+  url: https://sfp.urmdocs.com/
+- type: x-facebook
+  url: https://www.facebook.com/URMConsulting/
+- type: x-feed
+  url: https://www.urmconsulting.com/feed/
+- type: x-feed
+  url: https://www.urmconsulting.com/comments/feed/
+- type: x-gdpr
+  url: https://www.urmconsulting.com/training/gdpr/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/urm-consulting/
+- type: x-login
+  url: https://www.urmconsulting.com/wp-login.php
+- type: x-news
+  url: https://www.urmconsulting.com/category/latest-news/
+- type: x-news
+  url: https://www.urmconsulting.com/category/seminar-news/
+- type: x-press
+  url: https://www.urmconsulting.com/category/press-release/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-twitter
+  url: https://twitter.com/URMConsulting
+- type: x-website
+  url: https://www.ultimariskmanagement.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

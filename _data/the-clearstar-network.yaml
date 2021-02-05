@@ -1,0 +1,50 @@
+---
+name: The ClearStar Network
+description: Background Screening Software - ClearStar - ClearStar Industry leading
+  employment background screening software and services by ClearStar are important
+  steps your company needs to make sure you're getting the right
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "789531"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-clearstar-network.yaml
+tags:
+- Credit And Collection
+apis: []
+x-common:
+- type: x-website
+  url: http://www.clearstar.net
+- type: x-about
+  url: https://www.clearstar.net/about-us/
+- type: x-contact
+  url: https://www.clearstar.net/clearid-clearcontact/
+- type: x-contact
+  url: https://www.clearstar.net/contact/
+- type: x-facebook
+  url: http://www.facebook.com/clearstarinc
+- type: x-investor
+  url: https://www.clearstar.net/investors/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/113716
+- type: x-login
+  url: https://www.clearstar.net/client-login/
+- type: x-news
+  url: https://www.clearstar.net/news/
+- type: x-news
+  url: https://www.clearstar.net/category/news/
+- type: x-privacy
+  url: https://www.clearstar.net/privacy-policy/
+- type: x-security
+  url: https://www.clearstar.net/security/
+- type: x-twitter
+  url: https://twitter.com/ClearStarInc
+- type: x-website
+  url: https://www.clearstar.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,62 @@
+---
+name: Accelo
+description: Simplify project, retainer, sales, and service management. Gain visibility
+  across your client database, improve processes and spend more time on your expertise.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+  Shot 2017-05-02 at 8.20.10 PM.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "56214"
+url: https://raw.githubusercontent.com/api-network/organizations/main/accelo.yaml
+tags:
+- Projects
+- Projects
+- Politics
+- No API Definition
+- Invoices
+- Have API
+- Customers
+- CRM
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.accelo.com
+- type: x-blog
+  url: https://www.accelo.com/resources/blog/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/affinitylive
+- type: x-developer
+  url: http://dev.accelo.com
+- type: x-developers
+  url: https://api.accelo.com/docs/?_ga=2.33722019.342188080.1527277082-882498665.1527277082
+- type: x-developers
+  url: https://www.accelo.com/resources/apis/
+- type: x-email
+  url: support@accelo.com
+- type: x-email
+  url: sales@accelo.com
+- type: x-facebook
+  url: https://www.facebook.com/acceloinc
+- type: x-github
+  url: https://github.com/accelo
+- type: x-linkedin
+  url: https://www.linkedin.com/company/6652457/
+- type: x-login
+  url: https://login.accelo.com/login
+- type: x-signup
+  url: https://signup.accelo.com/
+- type: x-twitter
+  url: https://twitter.com/accelo
+- type: x-twitter
+  url: https://www.twitter.com/accelo
+- type: x-website
+  url: https://www.accelo.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

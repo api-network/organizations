@@ -1,0 +1,60 @@
+---
+name: 'GdP Software: watchDirectory'
+description: Monitor directory and start any command when its contents change. Easy
+  to use and automate.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5665802"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gdp-software-watchdirectory.yaml
+tags:
+- Windows
+- Watch Folders
+- Watch Folder
+- Watch Directory
+- Watch Directories
+- Watch
+- Start Program
+- Start Command
+- Start Bat
+- Software
+- Shareware
+- Monitor Folders
+- Monitor Folder
+- Monitor Directory Change
+- Monitor Directory
+- Monitor Directories
+- Monitor
+- Folder Change
+- Folder
+- File Managers
+- Download
+- Directory Watch Software
+- Directory Monitor Software
+- Directory Change
+- Directory
+- Automatic Zip File
+- Automatic Ftp File
+- Automatic Compress File
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog-en.gdpsoftware.com/
+- type: x-contact
+  url: https://www.gdpsoftware.com/en/contact.html?from=wd
+- type: x-forum
+  url: https://www.watchdirectory.net/forum/
+- type: x-privacy
+  url: https://www.watchdirectory.net/privacy.html
+- type: x-support
+  url: https://www.watchdirectory.net/wdhelp/help/wdcc.html
+- type: x-website
+  url: https://www.watchdirectory.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

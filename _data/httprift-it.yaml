@@ -1,0 +1,21 @@
+---
+name: http://rift.it
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "2"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/httprift-it.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://rift.it
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

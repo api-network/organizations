@@ -1,0 +1,28 @@
+---
+name: University of Warsaw
+description: <p>The University of Warsaw API is a very robust model for APIs in higher
+  education. The platform is about being reused at multiple organization, and provides
+  an interesting blueprint to compare with others.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/university-of-warsaw-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "1479149"
+url: https://raw.githubusercontent.com/api-network/organizations/main/university-of-warsaw.yaml
+tags:
+- University Service
+- University Portal
+- University Leader
+apis: []
+x-common:
+- type: x-developers
+  url: http://apps.usos.edu.pl/developers/api/
+- type: x-website
+  url: https://usos.edu.pl
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

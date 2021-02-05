@@ -1,0 +1,45 @@
+---
+name: Tenrox
+description: Services automation software that puts the spotlight on your customer,
+  combining traditional PSA with proposal automation, knowledge and customer sentiment.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tenrox.yaml
+tags:
+- Web Based
+apis: []
+x-common:
+- type: x-website
+  url: https://uplandsoftware.com/psa
+- type: x-about
+  url: https://uplandsoftware.com/about-upland/
+- type: x-about
+  url: https://uplandsoftware.com/about-upland/upland-one/
+- type: x-blog
+  url: https://uplandsoftware.com/psa/psa-resources/blog/
+- type: x-careers
+  url: https://uplandsoftware.com/about-upland/careers/
+- type: x-contact
+  url: https://uplandsoftware.com/psa/contact/
+- type: x-integrations
+  url: https://uplandsoftware.com/psa/product/integrations/
+- type: x-investor
+  url: https://investor.uplandsoftware.com/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/uplandpsa
+- type: x-news
+  url: https://investor.uplandsoftware.com/news
+- type: x-twitter
+  url: https://twitter.com/UplandPSA
+- type: x-website
+  url: https://www.tenrox.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

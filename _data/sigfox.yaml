@@ -1,0 +1,39 @@
+---
+name: SIGFOX
+description: Imagine a world where Things can communicate with us. The internet of
+  things will transform our lives in the next 25 years. Driven by simplicity we unlock
+  the power of the IoT and give life to the physical world
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28254-www-sigfox-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "210545"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sigfox.yaml
+tags:
+- Telecommunications
+- Networks
+- ISP
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.sigfox.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/sigfox-2
+- type: x-developers
+  url: https://resources.sigfox.com/
+- type: x-developers
+  url: https://www.sigfox.com/en/sigfox-developers
+- type: x-documentation
+  url: https://resources.sigfox.com/document/callbacks-documentation
+- type: x-twitter
+  url: https://twitter.com/sigfox
+- type: x-website
+  url: https://www.sigfox.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

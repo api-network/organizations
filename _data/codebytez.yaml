@@ -1,0 +1,76 @@
+---
+name: Codebytez
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/codebytez.yaml
+tags:
+- Anonymous
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.blogger.com/profile/00205606370921389742
+- type: x-blog
+  url: https://www.blogger.com
+- type: x-code
+  url: https://codebytez.blogspot.com/
+- type: x-code
+  url: https://codebytez.blogspot.com/feeds/posts/default
+- type: x-code
+  url: https://codebytez.blogspot.com/2016/
+- type: x-code
+  url: https://codebytez.blogspot.com/2016/05/
+- type: x-code
+  url: https://codebytez.blogspot.com/2013/
+- type: x-code
+  url: https://codebytez.blogspot.com/2013/03/
+- type: x-code
+  url: https://codebytez.blogspot.com/2012/
+- type: x-code
+  url: https://codebytez.blogspot.com/2012/05/
+- type: x-code
+  url: https://codebytez.blogspot.com/2012/04/
+- type: x-code
+  url: https://codebytez.blogspot.com/2012/02/
+- type: x-code
+  url: https://codebytez.blogspot.com/2011/
+- type: x-code
+  url: https://codebytez.blogspot.com/2011/10/
+- type: x-code
+  url: https://codebytez.blogspot.com/2011/08/
+- type: x-code
+  url: https://codebytez.blogspot.com/2011/07/
+- type: x-code
+  url: https://codebytez.blogspot.com/2011/06/
+- type: x-code
+  url: https://codebytez.blogspot.com/2011/05/
+- type: x-code
+  url: https://codebytez.blogspot.com/2005/
+- type: x-code
+  url: https://codebytez.blogspot.com/2005/08/
+- type: x-code
+  url: https://codebytez.blogspot.com/2005/02/
+- type: x-code
+  url: https://codebytez.blogspot.com/2005/01/
+- type: x-code
+  url: https://codebytez.blogspot.com/2004/
+- type: x-code
+  url: https://codebytez.blogspot.com/2004/12/
+- type: x-code
+  url: https://codebytez.blogspot.com/2004/09/
+- type: x-code
+  url: https://codebytez.blogspot.com/2004/07/
+- type: x-code
+  url: https://codebytez.blogspot.com/2004/02/
+- type: x-website
+  url: https://codebytez.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

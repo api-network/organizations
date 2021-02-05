@@ -1,0 +1,62 @@
+---
+name: Travelocity
+description: Wander Wisely with the Price Match Guarantee, Free Changes & Cancellations,
+  24/7 Personal Assistance only with Travelocity's Customer First Guarantee. Book
+  & Save on Packages, Hotels, Flights, Cars, Cruises & more Today!
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1183_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3464"
+url: https://raw.githubusercontent.com/api-network/organizations/main/travelocity.yaml
+tags:
+- Vacations
+- Trip Planning
+- Rental Cars
+- Marketplaces
+- Hotels
+- Hotels
+- Have API
+- Flights
+- Flights
+- Customers
+- Bookings
+- Airlines
+- Airlines
+apis: []
+x-common:
+- type: x-website
+  url: http://travelocity.com
+- type: x-blog
+  url: http://windowseat.travelocity.com/
+- type: x-blog-rss
+  url: http://windowseatblog.com/rss.xml
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/travelocity
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/preview-travel
+- type: x-documentation
+  url: http://connect.travelocity.com/docs/home
+- type: x-email
+  url: privacy@travelocity.com
+- type: x-github
+  url: https://github.com/travelocity
+- type: x-self-service-registration
+  url: http://connect.lastminute.com/member/register
+- type: x-self-service-registration
+  url: http://connect.travelocity.com/member/register
+- type: x-twitter
+  url: https://twitter.com/RoamingGnome
+- type: x-twitter
+  url: https://twitter.com/travelocity
+- type: x-twitter
+  url: http://www.twitter.com/lastminute_com
+- type: x-website
+  url: http://connect.travelocity.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

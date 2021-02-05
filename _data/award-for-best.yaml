@@ -1,0 +1,46 @@
+---
+name: Award For Best
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/award-for-best.yaml
+tags:
+- Directories
+apis: []
+x-common:
+- type: x-website
+  url: https://www.awardforbest.com/
+- type: x-blog
+  url: https://www.awardforbest.com/blog
+- type: x-contact
+  url: https://www.awardforbest.com/legal/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/awardforbest/
+- type: x-feed
+  url: https://www.awardforbest.com/feed/
+- type: x-instagram
+  url: https://www.instagram.com/awardforbest/
+- type: x-press
+  url: https://wordpress.org/plugins/gdpr-cookie-compliance
+- type: x-terms-of-service
+  url: https://www.awardforbest.com/legal/about-us/
+- type: x-terms-of-service
+  url: https://www.awardforbest.com/legal/disclaimer/
+- type: x-terms-of-service
+  url: https://www.awardforbest.com/legal/disclosure/
+- type: x-terms-of-service
+  url: https://www.awardforbest.com/legal/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/awardforbestcom
+- type: x-website
+  url: https://www.awardforbest.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,58 @@
+---
+name: Dataprobe Inc.
+description: Dataprobe's mission is to minimize the high cost of downtime in critical
+  networks. Minimize truck rolls with managed PDUs and remote monitoring and control
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2979276"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dataprobe-inc-.yaml
+tags:
+- Web Power Switch
+- Switching Devices
+- Remote Reboot
+- Redundancy Switching
+- OEM
+- Network Reliability
+- Network Control
+- Minimize Downtime
+- Ipio
+- Iboot
+- Gpio
+- Ethernet Power Control
+apis: []
+x-common:
+- type: x-about
+  url: http://dataprobe.com/about/
+- type: x-about
+  url: https://dataprobe.com/category/about-dataprobe/
+- type: x-about
+  url: https://dataprobe.com/about/
+- type: x-contact
+  url: http://dataprobe.com/contact/
+- type: x-contact
+  url: https://dataprobe.com/contact/
+- type: x-news
+  url: http://dataprobe.com/news/
+- type: x-news
+  url: https://dataprobe.com/category/industry-news/
+- type: x-news
+  url: https://dataprobe.com/category/product-news/
+- type: x-privacy
+  url: https://dataprobe.com/privacy-policy/
+- type: x-support
+  url: http://dataprobe.com/support/
+- type: x-support
+  url: http://dataprobe.com/support
+- type: x-terms-of-service
+  url: https://dataprobe.com/terms/
+- type: x-website
+  url: https://www.dataprobe.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

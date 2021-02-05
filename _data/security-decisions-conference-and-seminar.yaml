@@ -1,0 +1,36 @@
+---
+name: Security Decisions Conference and Seminar
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2234"
+url: https://raw.githubusercontent.com/api-network/organizations/main/security-decisions-conference-and-seminar.yaml
+tags:
+- Conferences
+apis: []
+x-common:
+- type: x-facebook
+  url: http://www.facebook.com/SearchSecurity.com
+- type: x-linkedin
+  url: http://www.linkedin.com/company/3084615
+- type: x-privacy
+  url: http://www.techtarget.com/html/privacy_policy.html
+- type: x-security
+  url: http://searchsecurity.com/
+- type: x-security
+  url: http://searchcloudsecurity.com/
+- type: x-security
+  url: http://www.searchmidmarketsecurity.com/
+- type: x-twitter
+  url: http://www.twitter.com/SearchSecurity
+- type: x-website
+  url: https://infosecurityconference.techtarget.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

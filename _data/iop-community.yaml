@@ -1,0 +1,27 @@
+---
+name: IoP Community
+description: Internet of People (IoP) I open ??? free social graph ??? access to people
+  ??? direct device to device communication (P2P-Apps) ??? Blockchain Project
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26892-iop-global.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "594652"
+url: https://raw.githubusercontent.com/api-network/organizations/main/iop-community.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://www.iop.global
+- type: x-twitter
+  url: https://twitter.com/IoP_community
+- type: x-website
+  url: http://iop.global
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

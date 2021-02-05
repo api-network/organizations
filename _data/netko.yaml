@@ -1,0 +1,25 @@
+---
+name: Netko
+description: 'CryptoCurrency for customer #Loyalty and #InternetOfThings #blockchain
+  #Slovenia #Netko #NetkoIT https://t.co/C7CqDi52H0'
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27191-netko-tech.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "3190358"
+url: https://raw.githubusercontent.com/api-network/organizations/main/netko.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/NetkoCoin
+- type: x-website
+  url: http://netko.tech
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

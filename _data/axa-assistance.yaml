@@ -1,0 +1,37 @@
+---
+name: AXA Assistance
+description: AXA Assistance is a worldwide specialist for car insurance, travel, health
+  and home services. Trust in Axa Assistance for your insurance!
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28187-www-axa-assistance-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "5646010"
+url: https://raw.githubusercontent.com/api-network/organizations/main/axa-assistance.yaml
+tags:
+- Relative Data
+- Have API Paths
+- Have API
+- General Data
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: https://www.axa-assistance.com/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/axa-assitance
+- type: x-developers
+  url: https://developers.axa-assistance.com/
+- type: x-documentation
+  url: https://developers.axa-assistance.com/docs
+- type: x-twitter
+  url: https://twitter.com/AXA_Assistance
+- type: x-website
+  url: https://www.axa-assistance.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

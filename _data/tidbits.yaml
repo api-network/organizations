@@ -1,0 +1,49 @@
+---
+name: TidBITS
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "127538"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tidbits.yaml
+tags:
+- News And Media
+- Magazines And E-zines
+apis: []
+x-common:
+- type: x-website
+  url: http://www.tidbits.com/
+- type: x-about
+  url: https://tidbits.com/about/
+- type: x-about
+  url: https://tidbits.com/about/advertise/
+- type: x-about
+  url: https://tidbits.com/about/copyright/
+- type: x-code
+  url: https://tidbits.com/about/code-of-conduct/
+- type: x-contact
+  url: https://tidbits.com/watchlist/busycontacts-1-4-3/
+- type: x-contact
+  url: https://tidbits.com/about/contact/
+- type: x-facebook
+  url: http://www.facebook.com/pages/TidBITS/195314925519
+- type: x-feed
+  url: https://tidbits.com/feed/
+- type: x-news
+  url: https://apple.news/TjCWZPx-CS2u2x6rWr-PwkQ
+- type: x-privacy
+  url: https://tidbits.com/about/privacy/
+- type: x-security
+  url: https://tidbits.com/category/security/
+- type: x-twitter
+  url: http://www.twitter.com/TidBITS
+- type: x-website
+  url: https://www.tidbits.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

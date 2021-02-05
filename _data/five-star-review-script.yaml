@@ -1,0 +1,38 @@
+---
+name: Five Star Review Script
+description: 'This Amazon-style review script allows users to rank a product or item
+  on a scale of 1-5 stars and make comments related to the product for other users
+  to read.  Email notification will allow the administrator to approve comments before
+  being added to the website.  Admin panel allows the following:  Approve a Review
+  before it is listed, Delete a Review, Delete all Unapproved Reviews and Add Item
+  for Review.  Can be used to rate books, videos, music, websites....the sky''s the
+  limit!  Fast mysql backend.  One template file controls the entire site/script layout.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6643562"
+url: https://raw.githubusercontent.com/api-network/organizations/main/five-star-review-script.yaml
+tags:
+- Scripts
+- Review Scripts
+- Review Script
+- Rating
+- Product Review Script
+- Php Review Script
+- PHP
+- Five Star Review
+- Amazon Review Script
+- Amazon
+- AJAX
+apis: []
+x-common:
+- type: x-website
+  url: https://www.review-script.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,68 @@
+---
+name: PickJobs
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pickjobs.yaml
+tags:
+- Employment
+apis: []
+x-common:
+- type: x-careers
+  url: https://www.pickjobs.net/useful-links/
+- type: x-careers
+  url: https://www.pickjobs.net/about-us/
+- type: x-careers
+  url: https://www.pickjobs.net/submit-job/
+- type: x-careers
+  url: https://www.pickjobs.net
+- type: x-careers
+  url: https://www.pickjobs.net/jobs/universe-engineer-5/
+- type: x-careers
+  url: https://www.pickjobs.net/author/hrrecruiter/
+- type: x-careers
+  url: https://www.pickjobs.net/author/wle358/
+- type: x-careers
+  url: https://www.pickjobs.net/author/stegram-pharm/
+- type: x-careers
+  url: https://www.pickjobs.net/author/admin/
+- type: x-careers
+  url: https://www.pickjobs.net/jobs/developers/
+- type: x-careers
+  url: https://www.pickjobs.net/author/elkie-holland/
+- type: x-careers
+  url: https://www.pickjobs.net/jobs/developer-2/
+- type: x-careers
+  url: https://www.pickjobs.net/jobs/support-consultant/
+- type: x-careers
+  url: https://www.pickjobs.net/jobs/contractors/
+- type: x-careers
+  url: https://www.pickjobs.net/jobs/pick-basic-programmer-2/
+- type: x-careers
+  url: https://www.pickjobs.net/author/itsfalconi/
+- type: x-careers
+  url: https://www.pickjobs.net/page/2/
+- type: x-careers
+  url: https://www.pickjobs.net/page/3/
+- type: x-careers
+  url: https://www.pickjobs.net/page/9/
+- type: x-contact
+  url: https://www.pickjobs.net/contact/
+- type: x-feed
+  url: https://www.pickjobs.net/feed/?post_type=job_listing
+- type: x-login
+  url: https://www.pickjobs.net/wp-login.php
+- type: x-press
+  url: http://wordpress.org
+- type: x-website
+  url: https://www.pickjobs.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

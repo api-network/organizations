@@ -1,0 +1,39 @@
+---
+name: ClearPC
+description: ClearPC manufacturing game console lock boxes, secure cases, boxes, cages
+  for XBOX One S and X, PS4, Nintendo and more!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/clearpc.yaml
+tags:
+- Cases
+apis: []
+x-common:
+- type: x-contact
+  url: https://clearpc.ca/contact/
+- type: x-contact
+  url: https://clearpc.ca/contact
+- type: x-press
+  url: https://clearpc.ca/company-overview/press-center/
+- type: x-press
+  url: https://clearpc.ca/company-overview/press-center
+- type: x-privacy
+  url: https://clearpc.ca/company-overview/privacy-notice/
+- type: x-privacy
+  url: https://clearpc.ca/company-overview/privacy
+- type: x-status
+  url: https://clearpc.ca/store/order-status/
+- type: x-terms-of-service
+  url: https://clearpc.ca/how-to-order/legal-disclaimer
+- type: x-website
+  url: https://www.clearpc.ca
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

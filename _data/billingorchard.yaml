@@ -1,0 +1,55 @@
+---
+name: BillingOrchard
+description: BillingOrchard by Payscape is an online billing and invoicing software
+  designed to simplify the billing process and get you paid faster. BillingOrchard
+  is a perfect solution for businesses of all sizes - especially individual contractors
+  and freelancer...
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/billing-orchard.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1009931"
+url: https://raw.githubusercontent.com/api-network/organizations/main/billingorchard.yaml
+tags:
+- Target
+- Have API
+- Financial
+- Billing
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.billingorchard.com
+- type: x-base
+  url: https://billingorchardapi.com/webservice/
+- type: x-case-studies
+  url: https://billingorchard.com/case-studies/
+- type: x-contact
+  url: https://billingorchard.com/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/billingorchard
+- type: x-developers
+  url: https://billingorchard.com/developers/
+- type: x-pricing
+  url: https://billingorchard.com/pricing/
+- type: x-privacy
+  url: https://billingorchard.com/privacy.cfm
+- type: x-support
+  url: http://help.billingorchard.com/support/home
+- type: x-support
+  url: http://help.billingorchard.com
+- type: x-support
+  url: http://help.billingorchard.com/
+- type: x-twitter
+  url: https://twitter.com/billingorchard
+- type: x-website
+  url: http://www.billingorchard.com/
+- type: x-youtube
+  url: https://www.youtube.com/embed/Xfwu5paKJy4
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

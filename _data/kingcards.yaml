@@ -1,0 +1,56 @@
+---
+name: KingCards
+description: Send free greeting Ecards by email - Birthday - Holiday - Everyday -
+  a smile - a laugh - some love - today - to friends and family
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kingcards.yaml
+tags:
+- Xmas
+- Valentine
+- Thank You
+- Special Occasion
+- Postcards
+- Postcard
+- Love
+- Internet E-greetings
+- Holidays
+- Holiday
+- Greetings Pages
+- Greeting
+- Getwell
+- Friend
+- Free
+- Feel Better
+- Everyday Wishes
+- Email Greeting E-cards
+- Ecards
+- Ecard Greeting Cards
+- E-postcard
+- Christmas Cards
+- Birthday
+- Belated Birthday
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/BirthdayHighway/?ref=settings
+- type: x-feed
+  url: https://kingcards.com/emaxcard//feedback.html
+- type: x-login
+  url: https://kingcards.com/emaxcard//sign-in.html
+- type: x-support
+  url: https://kingcards.com/emaxcard//help.html
+- type: x-twitter
+  url: https://twitter.com/CuriousSon?lang=en
+- type: x-website
+  url: https://www.kingcards.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

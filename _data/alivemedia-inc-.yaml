@@ -1,0 +1,53 @@
+---
+name: AliveMedia, Inc.
+description: AliveMedia - Provides multimedia software for the conversion, recording,
+  ripping, burning and editing of various audio and video formats. They are Video
+  Converter, DVD Ripper, MP4 Converter, iPod Converter, iPad video converter, iPhone
+  video converter, HD video converter, Zune Video Converter, 3GP Converter, PSP video
+  Converter, Video to Flash Converter, MP3 Recorder, MP3 Converter, Video Joiner
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9996938"
+url: https://raw.githubusercontent.com/api-network/organizations/main/alivemedia-inc-.yaml
+tags:
+- Zune Video Converter
+- WMV To MPEG
+- WMV To DivX
+- WMV To AVI
+- WMA To MP3
+- Wma Converter
+- Wav Recorder
+- Vox Recorder
+- Video Converter
+- Text To Speech
+- Streaming Radio
+- Software
+- Record Streaming Audio
+- Psp Video Converter
+- MPEG To DivX
+- Mp4 Converter
+- Mp3 To Wav
+- Mp3 Recorder
+- Mp3 Converter
+- Ipod Converter
+- DVD To VCD
+- DVD To MPEG
+- DVD To DivX
+- DVD To AVI
+- Dvd Ripper
+- Cd Ripper
+- AVI To MPEG
+- 3gp Converter
+apis: []
+x-common:
+- type: x-website
+  url: https://www.alivemedia.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

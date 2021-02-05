@@ -1,0 +1,52 @@
+---
+name: Emtec
+description: Emtec is a global IT consultancy providing outstanding IT Strategy, Digital
+  Transformation, Implementation and Support Services for Applications (Mobile, on-premise,
+  Cloud), Analytics and IT Infrastructure to drive business agility and growth.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "527975"
+url: https://raw.githubusercontent.com/api-network/organizations/main/emtec.yaml
+tags:
+- Consultants
+apis: []
+x-common:
+- type: x-careers
+  url: https://www.emtecinc.com/careers/
+- type: x-careers
+  url: https://www.emtecinc.com/careers/benefits-rewards/
+- type: x-careers
+  url: https://www.emtecinc.com/careers/benefit-details/
+- type: x-careers
+  url: https://www.emtecinc.com/careers/our-culture/
+- type: x-careers
+  url: https://careers-emtecinc.icims.com/jobs/intro?hashed=0
+- type: x-contact
+  url: https://www.emtecinc.com/contact/
+- type: x-events
+  url: https://www.emtecinc.com/resources/events/
+- type: x-facebook
+  url: https://www.facebook.com/EmtecInc
+- type: x-investor
+  url: https://www.emtecinc.com/company/investor-relations/
+- type: x-login
+  url: https://share.emtecinc.com/_login/default.aspx
+- type: x-news
+  url: https://www.emtecinc.com/resources/news/
+- type: x-partner
+  url: https://www.emtecinc.com/company/partners/
+- type: x-support
+  url: https://www.emtecinc.com/support/
+- type: x-twitter
+  url: https://twitter.com/Emtecinc/
+- type: x-website
+  url: https://www.emtecinc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

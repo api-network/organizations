@@ -1,0 +1,52 @@
+---
+name: ProgeCAD Srl Uninominale
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "706459"
+url: https://raw.githubusercontent.com/api-network/organizations/main/progecad-srl-uninominale.yaml
+tags:
+- IntelliCAD
+apis: []
+x-common:
+- type: x-website
+  url: http://www.progesoft.com
+- type: x-about
+  url: https://www.progesoft.com/about
+- type: x-about
+  url: https://www.progesoft.com/about/testimonials
+- type: x-about
+  url: https://www.progesoft.com/about/about-progesoft
+- type: x-about
+  url: https://www.progesoft.com/about-progesoft
+- type: x-contact
+  url: https://www.progesoft.com/about/contact-us
+- type: x-contact
+  url: https://www.progesoft.com/contact-us
+- type: x-facebook
+  url: https://www.facebook.com/progeCADofficial/
+- type: x-instagram
+  url: https://www.instagram.com/progesoft_cad/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/progesoft/
+- type: x-news
+  url: http://news.progesoft.com/en/
+- type: x-privacy
+  url: https://www.progesoft.com/privacy/
+- type: x-support
+  url: https://www.progesoft.com/support
+- type: x-terms-of-service
+  url: https://www.progesoft.com/legal-notes
+- type: x-twitter
+  url: https://twitter.com/ProgeSOFT
+- type: x-website
+  url: https://www.progesoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

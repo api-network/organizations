@@ -1,0 +1,36 @@
+---
+name: The ZPS Store
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2747516"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-zps-store.yaml
+tags:
+- Thermal
+apis: []
+x-common:
+- type: x-login
+  url: https://www.zpsstore.com/login.asp
+- type: x-privacy
+  url: https://www.zpsstore.com/Terms_privacy.asp
+- type: x-support
+  url: http://www.zpsstore.com/help_answer.asp?ID=21
+- type: x-support
+  url: https://www.zpsstore.com/help.asp
+- type: x-support
+  url: http://www.zpsstore.com/help_answer.asp?ID=13#21
+- type: x-support
+  url: https://www.zpsstore.com/help_answer.asp?ID=20#257
+- type: x-terms-of-service
+  url: https://www.zpsstore.com/terms.asp
+- type: x-website
+  url: https://www.zpsstore.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

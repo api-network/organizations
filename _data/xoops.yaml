@@ -1,0 +1,62 @@
+---
+name: XOOPS
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "501891"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xoops.yaml
+tags:
+- Xoops
+apis: []
+x-common:
+- type: x-website
+  url: http://www.xoops.org
+- type: x-contact
+  url: https://github.com/myxoops/contact/releases/
+- type: x-developer
+  url: http://dev.xoops.org
+- type: x-facebook
+  url: https://www.facebook.com/XOOPS-96578889373/
+- type: x-facebook
+  url: https://www.facebook.com/groups/xoops/
+- type: x-github
+  url: https://github.com/XOOPS
+- type: x-github
+  url: https://github.com/XoopsModules25x/publisher/releases
+- type: x-github
+  url: https://github.com/GregMage/xmcontent/releases
+- type: x-github
+  url: https://github.com/XoopsModules25x/newbb/releases/
+- type: x-github
+  url: https://github.com/XOOPS/XoopsCore25/releases
+- type: x-github
+  url: https://github.com/XoopsModules25x
+- type: x-github
+  url: https://github.com/Xoopsthemes
+- type: x-github
+  url: https://github.com/XoopsLanguages
+- type: x-github
+  url: https://github.com/orgs/XOOPS/people
+- type: x-github
+  url: https://github.com/XOOPS/XoopsCore25/issues
+- type: x-linkedin
+  url: http://www.linkedin.com/groups?gid=43552
+- type: x-open-source
+  url: https://www.openhub.net/p/xoops
+- type: x-twitter
+  url: https://twitter.com/XoopsProject
+- type: x-twitter
+  url: https://twitter.com/xoopsgithub
+- type: x-website
+  url: https://www.xoops.org
+- type: x-youtube
+  url: https://www.youtube.com/results?search_query=xoops
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,44 @@
+---
+name: PowerInbox
+description: Chargify is the best online billing software for all of your Recurring
+  Billing needs. Learn more about simplifying your Subscription Billing today.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/385_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "3"
+x-alexaRank: "58585"
+url: https://raw.githubusercontent.com/api-network/organizations/main/powerinbox.yaml
+tags:
+- Subscriptions
+- Shopping
+- Payments
+- Invoices
+- Have API
+- Coupons
+apis: []
+x-common:
+- type: x-blog
+  url: https://chargify.com/blog/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/chargify
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/chargify
+- type: x-email
+  url: support@chargify.com
+- type: x-github
+  url: https://github.com/chargify
+- type: x-twitter
+  url: https://twitter.com/Chargify
+- type: x-twitter
+  url: https://twitter.com/powerinbox
+- type: x-webhooks
+  url: https://help.chargify.com/webhooks/introduction.html
+- type: x-website
+  url: http://docs.chargify.com/api-introduction
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

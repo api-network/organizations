@@ -1,0 +1,40 @@
+---
+name: Tridium Home Page
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "864697"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tridium-home-page.yaml
+tags:
+- Embedded Systems
+apis: []
+x-common:
+- type: x-website
+  url: http://tridium.com
+- type: x-documentation
+  url: https://docs.niagara-community.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/tridium
+- type: x-login
+  url: https://www.tridium.com:443/en/login
+- type: x-login
+  url: https://www.niagara-central.com/service/login
+- type: x-marketplace
+  url: https://www.niagaramarketplace.com/marketplace_home
+- type: x-self-service-registration
+  url: https://www.tridium.com:443/en/register
+- type: x-twitter
+  url: https://www.twitter.com/tridiuminc
+- type: x-website
+  url: https://www.tridium.com
+- type: x-youtube
+  url: https://www.youtube.com/user/TridiumInc/featured
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

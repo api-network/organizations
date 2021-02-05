@@ -1,0 +1,46 @@
+---
+name: Online Privacy Foundation
+description: <p>We set up The Online Privacy Foundation so that we could do something
+  useful for society on a topic that we&rsquo;re passionate about.&nbsp;</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/OPF-logo_bar_v3Sized.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10079976"
+url: https://raw.githubusercontent.com/api-network/organizations/main/online-privacy-foundation.yaml
+tags:
+- Privacy
+- No API
+apis: []
+x-common:
+- type: x-blog-rss
+  url: https://www.onlineprivacyfoundation.org/feed/
+- type: x-contact
+  url: https://www.onlineprivacyfoundation.org/about/contact/
+- type: x-facebook
+  url: https://facebook.com/onlineprivacyfoundation/
+- type: x-privacy
+  url: https://www.onlineprivacyfoundation.org
+- type: x-privacy
+  url: https://www.onlineprivacyfoundation.org/
+- type: x-privacy
+  url: https://www.onlineprivacyfoundation.org/opf-research/
+- type: x-privacy
+  url: https://www.onlineprivacyfoundation.org/research/
+- type: x-privacy
+  url: https://www.onlineprivacyfoundation.org/about/
+- type: x-privacy
+  url: http://www.onlineprivacyfoundation.org/media/
+- type: x-twitter
+  url: https://twitter.com/The_OPF
+- type: x-twitter
+  url: https://twitter.com/The_OPF/
+- type: x-website
+  url: https://www.onlineprivacyfoundation.org/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

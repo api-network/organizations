@@ -1,0 +1,40 @@
+---
+name: CyberTechHelp.com
+description: Free computer help with a vast variety of downloads, tutorials and articles
+  combined with a vibrant helpful community. Cyber Tech Help is the perfect online
+  companion for all your computing needs.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "641344"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cybertechhelp-com.yaml
+tags:
+- Windows Problems
+- Technical Support And Troubleshooting
+- Technical Support
+- Tech Help
+- Tech Dictionary
+- Support Forums
+- Pc Help
+- Pc Downloads
+- Macintosh Problems
+- Help Forums
+- Free Computer Help
+- Computing Tutorials
+- Computer Support
+- Computer Software
+- Computer Help
+- Computer Hardware
+- Ask Question
+apis: []
+x-common:
+- type: x-website
+  url: https://www.cybertechhelp.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

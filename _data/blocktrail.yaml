@@ -1,0 +1,33 @@
+---
+name: Blocktrail
+description: sign up for new Bitcoin Wallet by BlockTrail, and regain control of your
+  bitcoin
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26415-www-blocktrail-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "443303"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blocktrail.yaml
+tags:
+- Have API
+- Blockchain
+- API Provider
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/blocktrail
+- type: x-email
+  url: support@blocktrail.com
+- type: x-email
+  url: careers@blocktrail.com
+- type: x-twitter
+  url: https://twitter.com/blocktrail
+- type: x-website
+  url: https://www.blocktrail.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

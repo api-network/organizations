@@ -1,0 +1,61 @@
+---
+name: Opal Kelly Incorporated
+description: We provide a range of powerful USB and PCI Express FPGA modules that
+  deliver the critical interconnection between a PC and many electronic devices.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2033068"
+url: https://raw.githubusercontent.com/api-network/organizations/main/opal-kelly-incorporated.yaml
+tags:
+- Boards
+apis: []
+x-common:
+- type: x-website
+  url: http://www.opalkelly.com
+- type: x-about
+  url: https://opalkelly.com/about-us/
+- type: x-about
+  url: https://opalkelly.com/about-us/sitemap/
+- type: x-blog
+  url: https://opalkelly.com/blog/
+- type: x-customers
+  url: https://opalkelly.com/customers/
+- type: x-customers
+  url: https://opalkelly.com/customers/vanserum/
+- type: x-customers
+  url: https://opalkelly.com/customers/optiphase/
+- type: x-customers
+  url: https://opalkelly.com/customers/usps/
+- type: x-customers
+  url: https://opalkelly.com/customers/fibics/
+- type: x-customers
+  url: https://opalkelly.com/customers/plexon/
+- type: x-documentation
+  url: https://docs.opalkelly.com/display/PINS/Pins
+- type: x-forum
+  url: http://forums.opalkelly.com/
+- type: x-github
+  url: https://github.com/syzygyfpga
+- type: x-open-source
+  url: https://github.com/opalkelly-opensource
+- type: x-privacy
+  url: https://opalkelly.com/about-us/privacy-policy/
+- type: x-support
+  url: https://opalkelly.com/support/
+- type: x-support
+  url: https://opalkelly.com/support/ordering/
+- type: x-terms-of-service
+  url: https://opalkelly.com/about-us/terms-conditions/
+- type: x-twitter
+  url: https://twitter.com/opalkelly
+- type: x-website
+  url: https://www.opalkelly.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

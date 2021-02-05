@@ -1,0 +1,44 @@
+---
+name: Philippine Web Designers Organization
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8825101"
+url: https://raw.githubusercontent.com/api-network/organizations/main/philippine-web-designers-organization.yaml
+tags:
+- Organizations
+apis: []
+x-common:
+- type: x-website
+  url: http://pwdo.org
+- type: x-blog
+  url: http://blog.pwdo.org
+- type: x-facebook
+  url: https://www.facebook.com/webdesigners.org.ph/events
+- type: x-facebook
+  url: https://www.facebook.com/groups/webdesigners.org.ph/
+- type: x-facebook
+  url: https://www.facebook.com/webdesigners.org.ph
+- type: x-github
+  url: https://github.com/pwdo/Logo
+- type: x-github
+  url: https://github.com/pwdo
+- type: x-instagram
+  url: https://instagram.com/pwdo
+- type: x-open-source
+  url: https://open.spotify.com/user/formfunctionclass
+- type: x-twitter
+  url: https://twitter.com/pwdo
+- type: x-website
+  url: https://www.pwdo.org
+- type: x-youtube
+  url: https://www.youtube.com/user/formfunctionclass
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

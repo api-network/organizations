@@ -1,0 +1,23 @@
+---
+name: aucouranton.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/aucouranton-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://aucouranton.com/2015/10/03/microservices-an-architecture-from-scratch-using-docker-swarm-compose-consul-facter-and-flocker/
+- type: x-website
+  url: http://aucouranton.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

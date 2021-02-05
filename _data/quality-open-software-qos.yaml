@@ -1,0 +1,22 @@
+---
+name: Quality Open Software (QOS)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "564355"
+url: https://raw.githubusercontent.com/api-network/organizations/main/quality-open-software-qos.yaml
+tags:
+- Logging
+apis: []
+x-common:
+- type: x-website
+  url: https://qos.ch
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

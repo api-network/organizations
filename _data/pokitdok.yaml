@@ -1,0 +1,86 @@
+---
+name: PokitDok
+description: <p><span>PokitDok Platform (www.pokitdok.com) is delivering the business
+  of health, to developers.  We have gathered the best healthcare data available,
+  and invested heavily in cleaning it, integrating it, and putting it behind a simple
+  API. Now your apps can benefit from our best in class provider data, cash and insurance
+  based pricing, eligibility checks and X12 processing. Sign up today to gain access
+  to JSON based API endpoints and EDI support, and real-time activity tracking.</span></p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/pokitdok.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "502959"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pokitdok.yaml
+tags:
+- Target
+- Healthcare
+- Healthcare
+- Have API
+- Digital Health
+- Claims
+apis: []
+x-common:
+- type: x-website
+  url: http://pokitdok.com
+- type: x-about
+  url: https://pokitdok.com/about/
+- type: x-base
+  url: https://platform.pokitdok.com/api/
+- type: x-blog
+  url: https://pokitdok.com/blog/
+- type: x-blog-rss
+  url: http://blog.pokitdok.com/feed
+- type: x-contact
+  url: https://pokitdok.com/contact/
+- type: x-customers
+  url: https://pokitdok.com/customers/
+- type: x-developer
+  url: https://pokitdok.com/developers/api/
+- type: x-facebook
+  url: https://www.facebook.com/pokitdok
+- type: x-github
+  url: https://github.com/pokitdok
+- type: x-linkedin
+  url: https://www.linkedin.com/company/pokitdok
+- type: x-news
+  url: https://pokitdok.com/news/
+- type: x-platform
+  url: https://platform.pokitdok.com
+- type: x-platform
+  url: https://platform.pokitdok.com/tradingpartners
+- type: x-platform
+  url: https://platform.pokitdok.com/support/search?q=era
+- type: x-platform
+  url: https://platform.pokitdok.com/tradingpartners#/
+- type: x-platform
+  url: https://platform.pokitdok.com/documentation/v4/#claims
+- type: x-platform
+  url: https://platform.pokitdok.com/documentation/v4/
+- type: x-pricing
+  url: https://www.pokitdok.com/developers/pricing
+- type: x-pricing
+  url: https://pokitdok.com/developers/pricing/
+- type: x-privacy
+  url: https://pokitdok.com/privacy
+- type: x-security
+  url: https://pokitdok.com/security/
+- type: x-status
+  url: https://pokitdok.com/status/
+- type: x-support
+  url: https://pokitdok.com/support
+- type: x-terms-of-service
+  url: https://pokitdok.com/terms
+- type: x-twitter
+  url: https://twitter.com/PokitDok
+- type: x-website
+  url: https://platform.pokitdok.com
+- type: x-white-papers
+  url: https://pokitdok.com/reports-and-whitepapers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

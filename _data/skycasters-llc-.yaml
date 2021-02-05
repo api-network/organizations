@@ -1,0 +1,42 @@
+---
+name: Skycasters, LLC.
+description: Skycasters is a satellite Internet broadband service provider offering
+  satellite equipment and a number of solutions for your internet needs. Contact us
+  today!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1820096"
+url: https://raw.githubusercontent.com/api-network/organizations/main/skycasters-llc-.yaml
+tags:
+- Satellite
+apis: []
+x-common:
+- type: x-customers
+  url: https://www.skycasters.com/our-customers/
+- type: x-facebook
+  url: https://www.facebook.com/skycasters
+- type: x-linkedin
+  url: https://www.linkedin.com/company/skycasters
+- type: x-plans
+  url: https://www.skycasters.com/cwi/lte-cwi-service-plans/
+- type: x-privacy
+  url: https://www.skycasters.com/privacy-policy/
+- type: x-support
+  url: https://www.skycasters.com/support/
+- type: x-support
+  url: https://www.skycasters.com/support-request-form/
+- type: x-terms-of-service
+  url: https://www.skycasters.com/website-usage-terms/
+- type: x-twitter
+  url: https://www.twitter.com/skycasters
+- type: x-website
+  url: https://www.skycasters.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,58 @@
+---
+name: Blogelina
+description: Blogging for mothers, females, mompreneneurs. Start and grow your online
+  blog - Blog design & set up, fixes, blog transfers, online blogging classes and
+  all things WordPress.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "201728"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blogelina.yaml
+tags:
+- Starting A Blog
+- Resources
+- Make Money From Blogging
+- How To Start A Blog
+- How Do You Make Money Blogging
+- Home Blogging Businesses
+- Blog Transfer Service
+- Blog Starter Kit
+- Blog Design
+apis: []
+x-common:
+- type: x-blog
+  url: https://blogelina.com/
+- type: x-blog
+  url: https://blogelina.com/blogsetup
+- type: x-blog
+  url: https://blogelina.com/newblogstarterkit
+- type: x-blog
+  url: https://shop.blogelina.com/beautifulblogdesign/
+- type: x-blog
+  url: https://blogelina.com/blog/
+- type: x-blog
+  url: http://www.pinterest.com/blogelina/
+- type: x-blog
+  url: http://blogelina.com/?page_id=11942
+- type: x-blog
+  url: https://shop.blogelina.com/affiliate-area/
+- type: x-blog
+  url: http://blogelina.com/?page_id=66
+- type: x-blog
+  url: http://blogelina.com/?page_id=22
+- type: x-blog
+  url: https://blogelina.com/over-3850-blog-topic-ideas/
+- type: x-feed
+  url: http://feeds.feedburner.com/blogelina/DCfL
+- type: x-press
+  url: http://blogelina.com/wordpress-training/
+- type: x-website
+  url: https://blogelina.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

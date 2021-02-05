@@ -1,0 +1,96 @@
+---
+name: OpenDaylight
+description: OpenDaylight is a community-led, open, industry-supported platform, consisting
+  of code and blueprints for accelerating adoption, fostering new innovation, reducing
+  risk and creating a more transparent approach to Software-Defined Networking.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/opendaylight-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "481203"
+url: https://raw.githubusercontent.com/api-network/organizations/main/opendaylight.yaml
+tags:
+- Networks
+- Internet Of Things
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://opendaylight.org
+- type: x-blog
+  url: http://www.opendaylight.org/blog
+- type: x-blog-rss
+  url: http://www.opendaylight.org/blog/feed
+- type: x-case-studies
+  url: https://www.opendaylight.org/use-cases-and-users
+- type: x-contact
+  url: https://www.opendaylight.org/about/contacts
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/opendaylight
+- type: x-documentation
+  url: http://docs.opendaylight.org/en/latest/downloads.html
+- type: x-documentation
+  url: https://docs.opendaylight.org/en/latest/downloads.html
+- type: x-email
+  url: pr@opendaylight.org
+- type: x-email
+  url: webmaster@opendaylight.org
+- type: x-email
+  url: info@opendaylight.org
+- type: x-email
+  url: security@lists.opendaylight.org
+- type: x-email
+  url: inbound@opendaylight.org
+- type: x-github
+  url: https://github.com/opendaylight
+- type: x-news
+  url: https://www.opendaylight.org/about/news
+- type: x-news
+  url: https://www.opendaylight.org/about/news/blogs
+- type: x-news
+  url: https://www.opendaylight.org/about/news/in-the-news
+- type: x-news
+  url: https://www.opendaylight.org/category/in-the-news
+- type: x-open-source
+  url: https://www.opendaylight.org
+- type: x-open-source
+  url: https://www.opendaylight.org/about
+- type: x-open-source
+  url: https://www.opendaylight.org/about/join
+- type: x-open-source
+  url: https://www.opendaylight.org/about/governance
+- type: x-open-source
+  url: https://www.opendaylight.org/about/governance/tsc
+- type: x-open-source
+  url: https://www.opendaylight.org/what-we-do
+- type: x-open-source
+  url: https://www.opendaylight.org/what-we-do/what-is-sdn
+- type: x-open-source
+  url: https://www.opendaylight.org/?page_id=47
+- type: x-open-source
+  url: https://www.opendaylight.org/ecosystem-solutions
+- type: x-open-source
+  url: https://www.opendaylight.org/technical-community
+- type: x-open-source
+  url: https://www.opendaylight.org/support
+- type: x-open-source
+  url: https://www.opendaylight.org/support/ambassadors
+- type: x-open-source
+  url: https://www.linkedin.com/company/opendaylight-project
+- type: x-open-source
+  url: https://www.youtube.com/user/opendaylightproject
+- type: x-open-source
+  url: https://wiki.opendaylight.org
+- type: x-open-source
+  url: https://www.opendaylight.org/category/announcement
+- type: x-twitter
+  url: https://twitter.com/OpenDaylightSDN
+- type: x-website
+  url: http://www.opendaylight.org/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

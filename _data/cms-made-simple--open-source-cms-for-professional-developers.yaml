@@ -1,0 +1,80 @@
+---
+name: "CMS Made Simple\u2122 - Open Source CMS for professional developers"
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "216660"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cms-made-simple--open-source-cms-for-professional-developers.yaml
+tags:
+- Content Management
+apis: []
+x-common:
+- type: x-website
+  url: http://cms.ms/org
+- type: x-about
+  url: https://www.cmsmadesimple.org/about/cms-made-simple
+- type: x-about
+  url: https://www.cmsmadesimple.org/about/foundation
+- type: x-about
+  url: https://www.cmsmadesimple.org/about/team
+- type: x-about
+  url: https://www.cmsmadesimple.org/about/about-this-website
+- type: x-about
+  url: https://www.cmsmadesimple.org/about/trademark-policy
+- type: x-blog
+  url: https://www.cmsmadesimple.org/blog
+- type: x-code
+  url: https://www.cmsmadesimple.org/about/code-of-conduct
+- type: x-developer
+  url: http://dev.cmsmadesimple.org/bug/list/6
+- type: x-developer
+  url: http://dev.cmsmadesimple.org/feature_request/list/6
+- type: x-developer
+  url: http://dev.cmsmadesimple.org/project/list/module
+- type: x-developer
+  url: http://dev.cmsmadesimple.org/project/list/plugin
+- type: x-developer
+  url: http://dev.cmsmadesimple.org/projects/messages
+- type: x-developer
+  url: http://dev.cmsmadesimple.org/projects/faq
+- type: x-developer
+  url: http://dev.cmsmadesimple.org/projects/gallery
+- type: x-developer
+  url: http://dev.cmsmadesimple.org/projects/presence
+- type: x-developer
+  url: http://dev.cmsmadesimple.org
+- type: x-documentation
+  url: https://docs.cmsmadesimple.org
+- type: x-documentation
+  url: http://docs.cmsmadesimple.org/
+- type: x-facebook
+  url: https://www.facebook.com/cmsmadesimple
+- type: x-forum
+  url: https://forum.cmsmadesimple.org
+- type: x-forum
+  url: http://forum.cmsmadesimple.org/
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/1139537/
+- type: x-logos
+  url: https://www.cmsmadesimple.org/downloads/logos
+- type: x-news
+  url: https://www.cmsmadesimple.org/community/newsletter
+- type: x-partner
+  url: https://www.cmsmadesimple.org/partners
+- type: x-support
+  url: https://www.cmsmadesimple.org/support/options
+- type: x-support
+  url: https://www.cmsmadesimple.org/support/hire-a-dev
+- type: x-twitter
+  url: https://twitter.com/cmsms
+- type: x-website
+  url: https://www.cmsmadesimple.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

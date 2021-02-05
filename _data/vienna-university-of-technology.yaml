@@ -1,0 +1,30 @@
+---
+name: Vienna University of Technology
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "16406"
+url: https://raw.githubusercontent.com/api-network/organizations/main/vienna-university-of-technology.yaml
+tags:
+- Austria
+apis: []
+x-common:
+- type: x-careers
+  url: https://jobs.tuwien.ac.at/
+- type: x-facebook
+  url: https://www.facebook.com/TUWienInformatics
+- type: x-login
+  url: https://www.informatik.tuwien.ac.at/login
+- type: x-terms-of-service
+  url: https://informatics.tuwien.ac.at/legal
+- type: x-website
+  url: https://www.informatik.tuwien.ac.at
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

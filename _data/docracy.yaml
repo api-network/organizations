@@ -1,0 +1,27 @@
+---
+name: Docracy
+description: <p>Using Docracy's unique document change analysis, we are now tracking
+  terms of service and privacy policies for hundreds of the world's top sites. See
+  below for summaries of recent changes, or to see the complete terms for any of the
+  sites we track.&nbsp;</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/9d324a915db5158ac92b461b29761a08_400x400.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/docracy.yaml
+tags:
+- Terms Of Service
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/tostracker
+- type: x-website
+  url: https://www.docracy.com/tos/changes
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

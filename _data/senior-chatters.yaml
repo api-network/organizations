@@ -1,0 +1,31 @@
+---
+name: Senior Chatters
+description: 'Build genuine, worldwide friendships with 1000''s of over 50''s safely.
+  From Senior Chat Rooms to Blogs & Groups, join the #1 senior chat community today'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8049113"
+url: https://raw.githubusercontent.com/api-network/organizations/main/senior-chatters.yaml
+tags:
+- Chat Rooms
+apis: []
+x-common:
+- type: x-about
+  url: https://seniorchatters.co.uk/about-us/
+- type: x-contact
+  url: https://seniorchatters.co.uk/contact-us/
+- type: x-login
+  url: https://seniorchatters.co.uk/wp-login.php
+- type: x-terms-of-service
+  url: https://seniorchatters.co.uk/terms/
+- type: x-website
+  url: https://www.seniorchatters.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

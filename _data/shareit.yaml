@@ -1,0 +1,39 @@
+---
+name: Share*It!
+description: MyCommerce offers a self-service SaaS ecommerce platform to support software
+  sales for B2B or B2C, allowing you to start selling software online today!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "16267"
+url: https://raw.githubusercontent.com/api-network/organizations/main/shareit.yaml
+tags:
+- Merchant Services
+apis: []
+x-common:
+- type: x-about
+  url: https://www.mycommerce.com/about-us/
+- type: x-blog
+  url: https://www.mycommerce.com/blog/
+- type: x-careers
+  url: https://www.digitalriver.com/careers/
+- type: x-facebook
+  url: https://www.facebook.com/DigitalRiverInc/
+- type: x-privacy
+  url: https://www.mycommerce.com/privacy-policy/
+- type: x-support
+  url: https://www.mycommerce.com/support/
+- type: x-terms-of-service
+  url: https://www.mycommerce.com/legal-notice/
+- type: x-twitter
+  url: https://www.twitter.com/digitalriverinc
+- type: x-website
+  url: https://www.shareit.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,74 @@
+---
+name: Telstra Country Wide
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4292"
+url: https://raw.githubusercontent.com/api-network/organizations/main/telstra-country-wide.yaml
+tags:
+- Cable
+apis: []
+x-common:
+- type: x-website
+  url: http://www.telstra.com.au
+- type: x-about
+  url: https://www.telstra.com.au/aboutus
+- type: x-careers
+  url: https://careers.telstra.com/home
+- type: x-contact
+  url: https://www.telstra.com.au/contact-us
+- type: x-contact
+  url: https://www.telstra.com.au/contact-us/account-billing
+- type: x-contact
+  url: https://www.telstra.com.au/contact-us/plans-products
+- type: x-facebook
+  url: https://www.facebook.com/Telstra24x7
+- type: x-instagram
+  url: https://www.instagram.com/telstra/
+- type: x-investor
+  url: https://www.telstra.com.au/aboutus/investors
+- type: x-marketplace
+  url: https://marketplace.telstra.com/signup?
+- type: x-partner
+  url: https://www.telstra.com.au/partners-and-causes
+- type: x-plans
+  url: https://www.telstra.com.au/home-phone/plans-rates
+- type: x-plans
+  url: https://www.telstra.com.au/internet/plans
+- type: x-privacy
+  url: https://www.telstra.com.au/privacy
+- type: x-support
+  url: https://www.telstra.com.au/platinum-technical-support
+- type: x-support
+  url: https://www.telstra.com.au/support/category/smart-home
+- type: x-support
+  url: https://www.telstra.com.au/support
+- type: x-support
+  url: https://www.telstra.com.au/support/category/broadband
+- type: x-support
+  url: https://www.telstra.com.au/support/category/email
+- type: x-support
+  url: https://www.telstra.com.au/support/category/home-phone
+- type: x-support
+  url: https://enterprise-support.telstra.com.au
+- type: x-support
+  url: https://crowdsupport.telstra.com.au/
+- type: x-terms-of-service
+  url: https://www.telstra.com.au/customer-terms
+- type: x-terms-of-service
+  url: https://www.telstra.com.au/terms-of-use
+- type: x-twitter
+  url: https://twitter.com/telstra
+- type: x-website
+  url: https://www.telstra.com.au
+- type: x-youtube
+  url: https://www.youtube.com/user/TelstraCorp
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

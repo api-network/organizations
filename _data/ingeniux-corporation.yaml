@@ -1,0 +1,32 @@
+---
+name: Ingeniux Corporation
+description: Ingeniux provides Web Experience Management and collaboration software
+  for connected customer experiences. 100% ASP.NET MVC CMS platform.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "546190"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ingeniux-corporation.yaml
+tags:
+- XML
+- Content Management
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/ingeniuxcorp
+- type: x-linkedin
+  url: https://www.linkedin.com/company/ingeniux-corporation
+- type: x-support
+  url: http://support.ingeniux.com
+- type: x-twitter
+  url: https://twitter.com/ingeniux
+- type: x-website
+  url: https://www.ingeniux.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

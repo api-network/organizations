@@ -1,0 +1,48 @@
+---
+name: Substance Abuse and Mental Health Services Administration
+description: <p>The Substance Abuse and Mental Health Services Administration (SAMHSA)
+  is a branch of the U.S. Department of Health and Human Services. It is charged with
+  improving the quality and availability of prevention, treatment, and rehabilitative
+  services in order to reduce illness, death, disability, and cost to society resulting
+  from substance abuse and mental illnesses. The Administrator of SAMHSA reports directly
+  to the Secretary of the U.S. Department of Health and Human Services. SAMHSA's headquarters
+  building is located in Rockville, Maryland.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/mastheadMay2011.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "32755"
+url: https://raw.githubusercontent.com/api-network/organizations/main/substance-abuse-and-mental-health-services-administration.yaml
+tags:
+- Has API
+apis: []
+x-common:
+- type: x-about
+  url: https://www.samhsa.gov/data/about-us
+- type: x-about
+  url: https://www.samhsa.gov/data/about-us/our-mission
+- type: x-base
+  url: http://content.samhsa.gov/ext/api/
+- type: x-blog
+  url: https://blog.samhsa.gov
+- type: x-developers
+  url: http://store.samhsa.gov/developer
+- type: x-facebook
+  url: https://www.facebook.com/samhsa
+- type: x-twitter
+  url: https://twitter.com/samhsagov
+- type: x-website
+  url: http://samhsa.gov
+- type: x-wikipedia
+  url: http://en.wikipedia.org/wiki/Substance_Abuse_and_Mental_Health_Services_Administration
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=Hb7pPHuRNMA
+- type: x-youtube
+  url: https://www.youtube.com/samhsa
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,39 @@
+---
+name: Source Recovery Company
+description: The Source Recovery Company (SRC) is recognized as the ONLY company in
+  the world who recovers COBOL or Assembler source code from IBM MVS or VSE executable
+  programs.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/source-recovery-company.yaml
+tags:
+- Source Recovery
+- Source Code Recovery
+- Resource
+- IBM VSE
+- IBM MVS
+- Decompile
+- Compiled Source
+- Commercial Products And Services
+- COBOL Source
+- Cobol
+- Assembler Source
+- Assembler
+apis: []
+x-common:
+- type: x-blog
+  url: http://codasaurus.blogspot.com/
+- type: x-website
+  url: https://www.source-recovery.com
+- type: x-white-papers
+  url: http://www.source-recovery.com/whitepaper.html
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

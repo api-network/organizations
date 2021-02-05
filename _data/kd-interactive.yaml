@@ -1,0 +1,31 @@
+---
+name: K&D Interactive
+description: Operating from the heart of San Fancisco with over a decade of experience
+  in mid-sized consumer applications online. The web is our platform.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29310-kdi-co.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "2"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kd-interactive.yaml
+tags:
+- Profile
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/k-d-interactive
+- type: x-email
+  url: admin@kdi.co
+- type: x-email
+  url: support@kdi.co
+- type: x-twitter
+  url: https://twitter.com/kdiweb
+- type: x-website
+  url: http://kdi.co
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

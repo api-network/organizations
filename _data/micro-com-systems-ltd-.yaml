@@ -1,0 +1,31 @@
+---
+name: Micro Com Systems Ltd.
+description: Scanning services in Vancouver & BC since 1975. Our Digitization Services
+  includes document scanning, records management, as well as scan capture equipment.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/micro-com-systems-ltd-.yaml
+tags:
+- Document Imaging
+apis: []
+x-common:
+- type: x-website
+  url: http://www.microcomsys.com
+- type: x-linkedin
+  url: https://www.linkedin.com/in/mcsvancouver/
+- type: x-twitter
+  url: https://twitter.com/MCSVancouver
+- type: x-website
+  url: https://www.microcomsys.com
+- type: x-youtube
+  url: https://m.youtube.com/channel/UC_g7ymvHylSvZrEFOAfiSbg
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

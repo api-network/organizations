@@ -1,0 +1,36 @@
+---
+name: DAKCS Software Systems, Inc.
+description: Our comprehensive debt collection software provides companies solutions
+  to simplify the accounts receivable management and collection process. Call DAKCS
+  at (800) 873-2527.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1332586"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dakcs-software-systems-inc-.yaml
+tags:
+- Credit And Collection
+apis: []
+x-common:
+- type: x-website
+  url: http://www.dakcs.com
+- type: x-developer
+  url: http://developer.dakcs.com
+- type: x-facebook
+  url: https://www.facebook.com/DAKCS/
+- type: x-instagram
+  url: http://instagram.com/dakcssoftware
+- type: x-twitter
+  url: https://twitter.com/DAKCS_Software
+- type: x-website
+  url: https://www.dakcs.com
+- type: x-youtube
+  url: https://www.youtube.com/user/DAKCSWEB
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,58 @@
+---
+name: MyBB-Plugins
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "968880"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mybbplugins.yaml
+tags:
+- MyBB
+apis: []
+x-common:
+- type: x-contact
+  url: https://forums.mybb-plugins.com/contact.php
+- type: x-forum
+  url: https://forums.mybb-plugins.com
+- type: x-forum
+  url: https://forums.mybb-plugins.com/search.php
+- type: x-forum
+  url: https://forums.mybb-plugins.com/Forum-Custom-Plugins
+- type: x-forum
+  url: https://forums.mybb-plugins.com/upgrade.php
+- type: x-forum
+  url: https://forums.mybb-plugins.com/memberlist.php
+- type: x-forum
+  url: https://forums.mybb-plugins.com/index.php
+- type: x-forum
+  url: https://forums.mybb-plugins.com/User-FGHFGHFGHFGHFGHFG
+- type: x-forum
+  url: https://forums.mybb-plugins.com/User-Diogo-Parrinha
+- type: x-forum
+  url: https://forums.mybb-plugins.com/User-NicoleStudios
+- type: x-forum
+  url: https://forums.mybb-plugins.com/User-Makk
+- type: x-forum
+  url: https://forums.mybb-plugins.com/User-LeeMan
+- type: x-forum
+  url: https://forums.mybb-plugins.com/User-ks123
+- type: x-forum
+  url: https://forums.mybb-plugins.com/User-MuffinHatbvv
+- type: x-forum
+  url: https://forums.mybb-plugins.com/User-bananoke
+- type: x-forum
+  url: https://forums.mybb-plugins.com/User-DaNnIbOi
+- type: x-forum
+  url: https://forums.mybb-plugins.com/User-scope1
+- type: x-forum
+  url: https://forums.mybb-plugins.com/archive/index.php
+- type: x-website
+  url: https://forums.mybb-plugins.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

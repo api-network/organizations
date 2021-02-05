@@ -1,0 +1,27 @@
+---
+name: Federal Student Aid (FAFSA)
+description: <p><span>The U.S. Department of Education's office of Federal Student
+  Aid provides more than $120 billion in financial aid to help pay for college or
+  career school each year.</span></p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/federal-student-aid-fafsa.yaml
+tags:
+- Federal Government
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.fafsa.ed.gov/
+- type: x-data
+  url: https://studentaid.gov/data-center
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

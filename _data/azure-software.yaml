@@ -1,0 +1,32 @@
+---
+name: Azure Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3669048"
+url: https://raw.githubusercontent.com/api-network/organizations/main/azure-software.yaml
+tags:
+- Embedded Systems
+apis: []
+x-common:
+- type: x-about
+  url: https://www.azuresys.com/about-us/
+- type: x-contact
+  url: https://www.azuresys.com/contact/
+- type: x-contact
+  url: https://www.azuresys.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/azuresoftware
+- type: x-linkedin
+  url: https://www.linkedin.com/company/azuresoftware/
+- type: x-website
+  url: https://www.azuresys.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,58 @@
+---
+name: Shortcuts Software
+description: Shortcuts lets you streamline your business with leading appointment
+  booking & management software for salon, spa & barbershop owners in US & Canada.
+  Call us!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1639282"
+url: https://raw.githubusercontent.com/api-network/organizations/main/shortcuts-software.yaml
+tags:
+- Salon Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.shortcuts.net/
+- type: x-about
+  url: https://www.shortcuts.net/about/
+- type: x-about
+  url: https://www.shortcuts.net/about/our-story/
+- type: x-about
+  url: https://www.shortcuts.net/about/alliances/
+- type: x-about
+  url: https://www.shortcuts.net/about/resellers/
+- type: x-careers
+  url: https://www.shortcuts.net/about/careers/
+- type: x-contact
+  url: https://www.shortcuts.net/contact/
+- type: x-facebook
+  url: https://www.facebook.com/shortcutsnorthamerica/
+- type: x-instagram
+  url: https://www.instagram.com/shortcutsnorthamerica/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/22735/
+- type: x-login
+  url: https://www.shortcuts.net/software-support/logins/
+- type: x-pricing
+  url: https://www.shortcuts.net/pricing/
+- type: x-support
+  url: https://www.shortcuts.net/services/247-support/
+- type: x-support
+  url: https://www.shortcuts.net/software-support/
+- type: x-terms-of-service
+  url: https://www.shortcuts.net/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/ShortcutsUSA
+- type: x-webinars
+  url: https://www.shortcuts.net/resource-types/webinar/
+- type: x-website
+  url: https://www.shortcuts.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

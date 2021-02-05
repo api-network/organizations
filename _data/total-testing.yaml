@@ -1,0 +1,39 @@
+---
+name: Total Testing
+description: Total Testing can help you hire the right candidate with our pre-employment
+  testing products. Sign up today, get a free demo, or contact us to learn more!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "857668"
+url: https://raw.githubusercontent.com/api-network/organizations/main/total-testing.yaml
+tags:
+- Testing And Evaluation
+apis: []
+x-common:
+- type: x-about
+  url: https://totaltesting.com/about-us/
+- type: x-blog
+  url: https://totaltesting.com/blog/
+- type: x-contact
+  url: https://totaltesting.com/contact/
+- type: x-linkedin
+  url: https://linkedin.com/
+- type: x-pricing
+  url: https://totaltesting.com/pricing/
+- type: x-privacy
+  url: https://totaltesting.com/privacy-policy-2/
+- type: x-support
+  url: https://totaltesting.com/support-request/
+- type: x-terms-of-service
+  url: https://totaltesting.com/terms-of-service/
+- type: x-website
+  url: https://www.totaltesting.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

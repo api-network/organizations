@@ -1,0 +1,47 @@
+---
+name: MoodleDocs
+description: Moodle is a learning platform designed to provide educators, administrators
+  and learners with a single robust, secure and integrated system to create personalised
+  learning environments. You can download the software onto your own web server or
+  ask one of our knowledgeable Moodle Partners to assist you.
+image: http://docs.moodle.org
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/moodledocs.yaml
+tags:
+- Profile
+- Open Source
+- API
+apis: []
+x-common:
+- type: x-website
+  url: http://moodle.com/getstarted
+- type: x-about
+  url: https://docs.moodle.org/37/en/MoodleDocs:About
+- type: x-documentation
+  url: https://docs.moodle.org/37/en/Main_page
+- type: x-forums
+  url: https://moodle.org/mod/forum/view.php?id=55
+- type: x-github
+  url: https://github.com/moodle/moodle
+- type: x-linkedin
+  url: https://www.linkedin.com/company/moodle
+- type: x-login
+  url: https://moodle.org/login/index.php
+- type: x-privacy
+  url: https://docs.moodle.org/dev/MoodleDocs:Privacy_policy
+- type: x-tutorials
+  url: https://moodle.org/demo/
+- type: x-twitter
+  url: https://twitter.com/@moodle
+- type: x-website
+  url: http://docs.moodle.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

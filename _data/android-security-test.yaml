@@ -1,0 +1,70 @@
+---
+name: Android Security Test
+description: Logging Test App for Android verifies you're opted into the programs
+  you think you are. It exposes hidden logs&services, apps/spyware/malware running
+  and more!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/android-security-test.yaml
+tags:
+- Wireless Security
+- Test Security
+- Security App
+- Security
+- Mobile Security App
+- Mobile Security
+- Mobile App
+- Logging Test App
+- Apps
+- App
+- Android Security App
+- Android Security
+- Android
+apis: []
+x-common:
+- type: x-code
+  url: http://code.google.com/p/android-wifi-tether
+- type: x-contact
+  url: https://androidsecuritytest.com/contact/
+- type: x-security
+  url: https://androidsecuritytest.com/
+- type: x-security
+  url: https://androidsecuritytest.com/features/
+- type: x-security
+  url: https://androidsecuritytest.com/features/system-tools/
+- type: x-security
+  url: https://androidsecuritytest.com/downloads/
+- type: x-security
+  url: https://androidsecuritytest.com/faqs/
+- type: x-security
+  url: https://androidsecuritytest.com/privacy-policy/
+- type: x-security
+  url: https://androidsecuritytest.com/version-14-5-released/
+- type: x-security
+  url: https://androidsecuritytest.com/author/treve/
+- type: x-security
+  url: https://androidsecuritytest.com/version-14-released/
+- type: x-security
+  url: https://androidsecuritytest.com/server-crash/
+- type: x-security
+  url: https://androidsecuritytest.com/godaddy-issues/
+- type: x-security
+  url: https://androidsecuritytest.com/version-13-released/
+- type: x-security
+  url: https://androidsecuritytest.com/version-12-released/
+- type: x-security
+  url: https://androidsecuritytest.com/why-i-love-the-eff/
+- type: x-security
+  url: https://androidsecuritytest.com/welcome/
+- type: x-website
+  url: https://androidsecuritytest.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

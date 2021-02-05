@@ -1,0 +1,41 @@
+---
+name: Annapolis Micro Systems
+description: FPGA-Based High Performance Processing Boards & Systems & FPGA Application
+  Development for High Performance Computing & Digital Signal Processing
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "343940"
+url: https://raw.githubusercontent.com/api-network/organizations/main/annapolis-micro-systems.yaml
+tags:
+- Boards
+apis: []
+x-common:
+- type: x-website
+  url: http://www.annapmicro.com
+- type: x-blog
+  url: https://www.annapmicro.com/blog/
+- type: x-contact
+  url: https://www.annapmicro.com/contact-us/
+- type: x-open-source
+  url: https://www.annapmicro.com/product_tags/openvpx/
+- type: x-open-source
+  url: https://www.opengroup.org/sosa
+- type: x-privacy
+  url: https://www.annapmicro.com/privacy-policy/
+- type: x-support
+  url: https://www.annapmicro.com/services-support/
+- type: x-support
+  url: https://www.annapmicro.com/services-support/training/
+- type: x-twitter
+  url: https://twitter.com/Annapolis_Micro
+- type: x-website
+  url: https://www.annapmicro.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

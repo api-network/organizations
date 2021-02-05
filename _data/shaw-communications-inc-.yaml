@@ -1,0 +1,41 @@
+---
+name: Shaw Communications Inc.
+description: Shaw Home Services, sign up today for High Speed Internet, Cable Digital
+  HDTV &amp; Home Phone Bundles.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7420"
+url: https://raw.githubusercontent.com/api-network/organizations/main/shaw-communications-inc-.yaml
+tags:
+- Cable
+apis: []
+x-common:
+- type: x-website
+  url: https://www.shaw.ca/
+- type: x-documentation
+  url: https://community.shaw.ca/docs/DOC-11922
+- type: x-documentation
+  url: https://community.shaw.ca/docs/DOC-1843
+- type: x-facebook
+  url: https://www.facebook.com/shaw
+- type: x-instagram
+  url: https://www.instagram.com/shaw/
+- type: x-login
+  url: https://www.messenger.com/login
+- type: x-news
+  url: https://newsroom.shaw.ca/
+- type: x-twitter
+  url: https://twitter.com/ShawInfo
+- type: x-website
+  url: https://www.shaw.ca
+- type: x-youtube
+  url: https://www.youtube.com/user/ShawCommunication
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

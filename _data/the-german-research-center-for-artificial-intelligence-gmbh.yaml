@@ -1,0 +1,46 @@
+---
+name: The German Research Center for Artificial Intelligence GmbH
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "278117"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-german-research-center-for-artificial-intelligence-gmbh.yaml
+tags:
+- Academic Departments
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/DFKI.GmbH
+- type: x-news
+  url: https://www.dfki.de/web/news-media/
+- type: x-news
+  url: https://www.dfki.de/web/news-media/news-events/
+- type: x-news
+  url: https://www.dfki.de/web/news-media/news-events/events/
+- type: x-news
+  url: https://www.dfki.de/web/news-media/mediathek/
+- type: x-news
+  url: https://www.dfki.de/web/news-media/mediathek/videos/
+- type: x-news
+  url: https://www.dfki.de/web/news-media/mediathek/fotos/
+- type: x-news
+  url: https://www.dfki.de/web/news-media/social-media/
+- type: x-press
+  url: https://www.dfki.de/web/news-media/presse/
+- type: x-press
+  url: https://www.dfki.de/web/impressum/
+- type: x-twitter
+  url: https://twitter.com/DFKI
+- type: x-website
+  url: https://www.dfki.de
+- type: x-youtube
+  url: https://www.youtube.com/user/dfkivideo
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

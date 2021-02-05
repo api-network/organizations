@@ -1,0 +1,46 @@
+---
+name: JomSocial
+description: Open Source Community Software | Social Networking with Joomla
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "58577"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jomsocial.yaml
+tags:
+- Social Networking
+- Open Source Community Software
+- Joomla
+- JomSocial
+- Extensions And Templates
+apis: []
+x-common:
+- type: x-website
+  url: http://www.jomsocial.com
+- type: x-documentation
+  url: https://documentation.jomsocial.com/wiki/Main_Page
+- type: x-documentation
+  url: http://documentation.jomsocial.com/wiki/Main_Page
+- type: x-facebook
+  url: https://facebook.com/jomsocial
+- type: x-forum
+  url: https://www.joomlart.com/forums/jomsocial
+- type: x-forum
+  url: https://www.joomlart.com/forums/t/sales-billing
+- type: x-forum
+  url: https://www.joomlart.com/forums/t/jomsocial
+- type: x-forum
+  url: https://member.joomlart.com/forums/t/sales-billing
+- type: x-twitter
+  url: https://twitter.com/jomsocial
+- type: x-website
+  url: https://www.jomsocial.com
+- type: x-youtube
+  url: https://youtube.com/jomsocial
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

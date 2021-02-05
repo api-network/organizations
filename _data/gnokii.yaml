@@ -1,0 +1,32 @@
+---
+name: gnokii
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9331742"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gnokii.yaml
+tags:
+- Xgnokii
+- Smsd
+- Nokia
+- Mobile Phone
+- MBUS
+- IR
+- Gnokii
+- Gnocky
+- Gnapplet
+- FBUS
+- Cellular
+apis: []
+x-common:
+- type: x-website
+  url: https://gnokii.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

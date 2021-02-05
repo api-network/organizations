@@ -1,0 +1,43 @@
+---
+name: BiT Marine Software
+description: BiT's marine dealership software manages and tracks inventory, marina
+  and slips, sales and service centers for marinas, repair shops and boat dealerships.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bit-marine-software.yaml
+tags:
+- Products And Services
+apis: []
+x-common:
+- type: x-about
+  url: https://www.bitdms.com/about/
+- type: x-careers
+  url: https://www.bitdms.com/careers/
+- type: x-contact
+  url: https://www.bitdms.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/BiTDMS/
+- type: x-integrations
+  url: https://www.bitdms.com/integrations/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/bit-dms
+- type: x-pricing
+  url: https://www.bitdms.com/pricing/
+- type: x-privacy
+  url: https://bitdms.com/privacy-policy/
+- type: x-support
+  url: https://www.bitdms.com/support/
+- type: x-twitter
+  url: https://twitter.com/BiT_DMS
+- type: x-website
+  url: https://www.bitmarine.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,36 @@
+---
+name: Nomitech
+description: "By combining traditional estimating methods with BIM 3D, 2D and GIS.
+  CostOS is a powerful cost estimating software which allows you to be more efficient,
+  more accurate and win more profitable work.\_"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7014847"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nomitech.yaml
+tags:
+- Construction
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.nomitech.eu/contact
+- type: x-contact
+  url: http://nomitech.eu/contact-information/
+- type: x-facebook
+  url: https://www.facebook.com/nomitechLTD/?ref=ts&fref=ts
+- type: x-linkedin
+  url: https://www.linkedin.com/company/nomitech
+- type: x-news
+  url: https://www.nomitech.eu/news-and-events
+- type: x-website
+  url: https://www.nomitech.eu
+- type: x-youtube
+  url: https://www.youtube.com/user/Nomitech1
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

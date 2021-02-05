@@ -1,0 +1,32 @@
+---
+name: Homestead Software
+description: Software designed for the antique mall, craft mall or flea market for
+  recording, tracking and reporting mall sales by dealer and for the mall.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/homestead-software.yaml
+tags:
+- POS
+- Point Of Sale
+- Flea Market Software
+- Flea Market
+- Craft Mall Software
+- Craft Mall
+- Consignment Store
+- Consignment Software
+- Antique Mall Software
+- Antique Mall
+apis: []
+x-common:
+- type: x-website
+  url: https://www.homesteadsoftware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

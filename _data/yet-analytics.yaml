@@ -1,0 +1,55 @@
+---
+name: Yet Analytics
+description: <p>Collect, connect, and analyze your learning and training data, from
+  any source, in real-time, in the cloud. The Yet Core is our Experience-API (xAPI)
+  data analytics platform, comprised of an immutable and massively scalable xAPI LRS
+  and our proprietary xAPI data analytics engine. Through the use of xAPI and our
+  own data analytics tools, the Yet Core enables organizations to collect, standardize,
+  and analyze experiential learning and training data from any source.</p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4591707"
+url: https://raw.githubusercontent.com/api-network/organizations/main/yet-analytics.yaml
+tags:
+- Have API
+- Analytics
+- Analysis
+apis: []
+x-common:
+- type: x-website
+  url: http://www.yetanalytics.com
+- type: x-about
+  url: https://www.yetanalytics.com/about-yet
+- type: x-blog
+  url: https://www.yetanalytics.com/blog
+- type: x-blog
+  url: http://www.yetanalytics.com/blog/
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/Blog-YetAnalytics
+- type: x-contact
+  url: https://www.yetanalytics.com/contact-us
+- type: x-email
+  url: info@yetanalytics.com
+- type: x-facebook
+  url: https://www.facebook.com/YetAnalyticsInc/
+- type: x-github
+  url: https://github.com/yetanalytics
+- type: x-linkedin
+  url: https://www.linkedin.com/company/4825438
+- type: x-login
+  url: https://auth.yetanalytics.io/login
+- type: x-privacy
+  url: https://www.yetanalytics.com/tos-privacy-policy
+- type: x-twitter
+  url: https://twitter.com/YetAnalytics
+- type: x-website
+  url: http://www.yetanalytics.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

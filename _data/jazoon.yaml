@@ -1,0 +1,71 @@
+---
+name: Jazoon
+description: DevOps conference for developers in Bern 2018
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9772153"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jazoon.yaml
+tags:
+- Workshops
+- Tech Conference
+- Talks
+- Switzerland
+- Sre
+- Software
+- Site Reliability
+- Senior Software Engineer
+- Schweiz
+- Netflix
+- Kubernetes
+- Konferenz
+- Know How
+- Java
+- IoT
+- Ingeneur
+- Indutrie 4.0
+- Entwickler
+- Engineer
+- Docker
+- Devops Conference Conference
+- Devops
+- Developer
+- Continuous Integration
+- Continuous Deployment
+- Container Solutions
+- Container
+- Conferences
+- Conference 2018
+- Cicd
+- Ci
+- Chaos Engineering
+- Chaos
+- CD
+- Bern
+- Automatisation
+apis: []
+x-common:
+- type: x-careers
+  url: https://www.adnovum.ch/en/careers_entrypoint/careers
+- type: x-code
+  url: http://jazoon.com/autumn2018/code-of-conduct/
+- type: x-events
+  url: https://www.devopsdays.org/events/2018-zurich/welcome/
+- type: x-twitter
+  url: http://twitter.com//statuses/1139185271050776576
+- type: x-twitter
+  url: http://twitter.com//statuses/1123466776178720769
+- type: x-twitter
+  url: http://twitter.com//statuses/1051176275300237312
+- type: x-twitter
+  url: http://twitter.com/jazoon
+- type: x-website
+  url: https://jazoon.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

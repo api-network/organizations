@@ -1,0 +1,27 @@
+---
+name: DIBCOIN
+description: '{ "asset_ids": [ "ATaJuCgpH2ok6sgiS8TpZ4fpX8GjCPZjeX" ], "contract_url":
+  "https://dibcoin.us/home", "name_short": "DIBA", "name": "DIBAS'
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27544-dibcoin-us.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "5291660"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dibcoin.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-email
+  url: support@dibcoin.us
+- type: x-twitter
+  url: https://twitter.com/TheRealDIBCOIN
+- type: x-website
+  url: https://dibcoin.us
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

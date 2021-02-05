@@ -1,0 +1,75 @@
+---
+name: Conferma
+description: Redefining corporate payment technology with Virtual Card Numbers. Experts
+  in corporate travel and expense, extending VCNs into B2B payments
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/561-conferma.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "793491"
+url: https://raw.githubusercontent.com/api-network/organizations/main/conferma.yaml
+tags:
+- Payments
+- No API Definition
+- Marketplaces
+- Hotels
+- Hotels
+- Have API
+- Has API
+- Bookings
+- API Not Found
+apis: []
+x-common:
+- type: x-website
+  url: http://www.conferma.com/
+- type: x-about
+  url: https://www.conferma.com/about-conferma
+- type: x-about
+  url: https://www.conferma.com/about-conferma/who-we-are
+- type: x-about
+  url: https://www.conferma.com/about-conferma/ourecosystem
+- type: x-blog
+  url: http://confermation.blogspot.com/
+- type: x-blog-rss
+  url: http://www.conferma.com/AboutUs/Press/PressRss.ashx
+- type: x-contact
+  url: https://www.conferma.com/contact
+- type: x-contact
+  url: https://www.conferma.com/contact-1
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/confirma
+- type: x-email
+  url: support@conferma.com
+- type: x-email
+  url: sales@conferma.com
+- type: x-email
+  url: careers@conferma.com
+- type: x-email
+  url: enquiries@conferma.com
+- type: x-email
+  url: Darren.Blair@conferma.com
+- type: x-email
+  url: desmond.chong@conferma.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/conferma
+- type: x-news
+  url: https://www.conferma.com/about-conferma/news
+- type: x-partners
+  url: https://www.conferma.com/about-conferma/our-partners
+- type: x-privacy
+  url: https://www.conferma.com/privacy
+- type: x-security
+  url: https://www.conferma.com/enhance-security
+- type: x-terms-of-service
+  url: https://www.conferma.com/terms-conditions
+- type: x-twitter
+  url: https://twitter.com/Conferma
+- type: x-website
+  url: http://www.conferma.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

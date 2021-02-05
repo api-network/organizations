@@ -1,0 +1,24 @@
+---
+name: ICFP 2002
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10482"
+url: https://raw.githubusercontent.com/api-network/organizations/main/icfp-2002.yaml
+tags:
+- Functional
+apis: []
+x-common:
+- type: x-contact
+  url: http://pli2002.cs.brown.edu/contact.html
+- type: x-website
+  url: https://icfp2002.cs.brown.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

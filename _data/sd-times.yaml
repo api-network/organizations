@@ -1,0 +1,40 @@
+---
+name: SD Times
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "139839"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sd-times.yaml
+tags:
+- Magazines And E-zines
+apis: []
+x-common:
+- type: x-about
+  url: https://d2emerge.com/about/
+- type: x-developer
+  url: http://whatthedev.buzzsprout.com/673192
+- type: x-developer
+  url: https://sdtimes.com/tag/api/
+- type: x-facebook
+  url: https://www.facebook.com/SDTimesD2
+- type: x-privacy
+  url: https://sdtimes.com/privacy-policy/
+- type: x-twitter
+  url: http://www.twitter.com/sdtimes
+- type: x-twitter
+  url: https://twitter.com/sdtimes
+- type: x-webinars
+  url: https://sdtimes.com/sections/webinars/
+- type: x-website
+  url: https://www.sdtimes.com
+- type: x-white-papers
+  url: https://sdtimes.com/sections/white-papers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,23 @@
+---
+name: blog.developwithpassion.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blog-developwithpassion-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://blog.developwithpassion.com/2013/05/28/simple-strategy-for-resolving-new-automation-scripts/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+JPBoodhoo+%28Develop+With+Passion%C2%AE+-+Jean-Paul+S.+Boodhoo%29
+- type: x-website
+  url: http://blog.developwithpassion.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

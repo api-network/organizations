@@ -1,0 +1,43 @@
+---
+name: IVR Technology Group
+description: We help you increase revenue and customer delight by eliminating waste
+  and inefficiencies from your customer service operations. Self-serve IVR and call
+  automation builder. IVR payments by phone and text. Hosted IVR and call deflection
+  management. Outbound automated voice and text broadcasts.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1300065"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ivr-technology-group.yaml
+tags:
+- Voice Response Systems
+apis: []
+x-common:
+- type: x-website
+  url: https://www.ivrtechgroup.com/
+- type: x-about
+  url: https://www.ivrtechgroup.com/about_us_deliver_wow
+- type: x-blog
+  url: https://www.ivrtechgroup.com/blog
+- type: x-facebook
+  url: https://www.facebook.com/IVRTechnologyGroup/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/ivr-technology-group
+- type: x-login
+  url: https://secure.cloud2ivr.com/login.php
+- type: x-platform
+  url: https://www.ivrtechgroup.com/platform
+- type: x-platform
+  url: https://www.ivrtechgroup.com/platform/custom-ivr
+- type: x-twitter
+  url: https://twitter.com/IVRTechGroup
+- type: x-website
+  url: https://www.ivrtechgroup.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

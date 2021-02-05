@@ -1,0 +1,42 @@
+---
+name: U.S. Army Cyber Command and Second Army
+description: <p>United States Cyber Command (USCYBERCOM) is an armed forces sub-unified
+  command subordinate to United States Strategic Command. The command is located in
+  Fort Meade, Maryland, and centralizes command of cyberspace operations, organizes
+  existing cyber resources and synchronizes defense of U.S. military networks.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/United_States_Cyber_Command.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "8567"
+url: https://raw.githubusercontent.com/api-network/organizations/main/u-s--army-cyber-command-and-second-army.yaml
+tags:
+- Surveillance
+- No API
+- Military
+- Cybersecurity
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.army.mil/armycyber
+- type: x-linkedin
+  url: https://www.linkedin.com/company/10791785/
+- type: x-terms-of-service
+  url: https://www.army.mil/terms/
+- type: x-twitter
+  url: https://twitter.com/ARCYBER
+- type: x-twitter
+  url: https://twitter.com/uscybercom
+- type: x-twitter
+  url: https://www.twitter.com/ARCYBER
+- type: x-twitter
+  url: https://twitter.com/intent/follow?screen_name=ARCYBER
+- type: x-website
+  url: http://www.arcyber.army.mil/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,32 @@
+---
+name: Fireshot
+description: The best way to make full Web page Screenshots and Annotations
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7280"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fireshot.yaml
+tags:
+- Web Page Screenshot
+- Full
+- FireShot
+- Edit
+- Capture Screenshot
+- Annotate
+- Add-Ons
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/WebpageCapture
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-website
+  url: https://getfireshot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,35 @@
+---
+name: Data Sonic
+description: Datasonics Home Page on the Datasonics website. Datasonics supplier of
+  Music Software, Music Master Professional, VS Pro and Mastering Music.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4594144"
+url: https://raw.githubusercontent.com/api-network/organizations/main/data-sonic.yaml
+tags:
+- VS Pro
+- Teachers
+- Students
+- Sequencers
+- Self-study
+- Returns Policy
+- Refund Policy
+- Music Software
+- Music Master Professional
+- Mastering Music
+- International Students
+- Educators
+- E-Learning
+apis: []
+x-common:
+- type: x-website
+  url: https://www.datasonics.com.au
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

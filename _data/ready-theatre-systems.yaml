@@ -1,0 +1,28 @@
+---
+name: Ready Theatre Systems
+description: RTS Website
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4657323"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ready-theatre-systems.yaml
+tags:
+- Sales And Support
+apis: []
+x-common:
+- type: x-website
+  url: http://www.rts-solutions.com
+- type: x-instagram
+  url: http://instagram.com/rts_ticketing
+- type: x-twitter
+  url: https://twitter.com/RTS_Ticketing
+- type: x-website
+  url: https://rts-solutions.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

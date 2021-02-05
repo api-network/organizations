@@ -1,0 +1,72 @@
+---
+name: GoSquared
+description: GoSquared Documentation
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/209_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "70781"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gosquared.yaml
+tags:
+- Websites
+- Target
+- Have API
+- API United Kingdom
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: https://www.gosquared.com/
+- type: x-base
+  url: https://api.gosquared.com/
+- type: x-blog
+  url: http://www.gosquared.com/blog/
+- type: x-blog-rss
+  url: feed://feeds2.feedburner.com/liquidicity
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/gosquared
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/gosquared
+- type: x-developers
+  url: https://www.gosquared.com/developer
+- type: x-email
+  url: support@gosquared.com
+- type: x-email
+  url: dpo@gosquared.com
+- type: x-facebook
+  url: https://www.facebook.com/GoSquared
+- type: x-github
+  url: https://github.com/gosquared
+- type: x-github
+  url: https://github.com/gosquared/ruby-client
+- type: x-github
+  url: https://github.com/gosquared/gosquared-rails
+- type: x-github
+  url: https://github.com/gosquared/gosquared-ios
+- type: x-instagram
+  url: https://www.instagram.com/gosquaredteam/
+- type: x-partner
+  url: https://segment.com/?utm_source=partners&utm_medium=docs&utm_campaign=gosquared.com
+- type: x-partner
+  url: https://segment.com/docs/libraries/?utm_source=partners&utm_medium=docs&utm_campaign=gosquared.com
+- type: x-platform
+  url: https://segment.com/docs/platforms/?utm_source=partners&utm_medium=docs&utm_campaign=gosquared.com
+- type: x-status
+  url: https://status.gosquared.com
+- type: x-status
+  url: https://status.gosquared.com/
+- type: x-twitter
+  url: https://twitter.com/GoSquared
+- type: x-webhooks
+  url: https://www.gosquared.com/support/articles/1996494-webhooks
+- type: x-website
+  url: https://www.gosquared.com/developer/
+- type: x-website
+  url: https://www.gosquared.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

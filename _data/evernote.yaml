@@ -1,0 +1,105 @@
+---
+name: Evernote
+description: Our note taking app helps you capture and prioritize ideas, projects
+  and to-do lists, so nothing falls through the cracks. Start your free trial today!
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/194-evernote-developers.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "309"
+url: https://raw.githubusercontent.com/api-network/organizations/main/evernote.yaml
+tags:
+- Notes
+- Notes
+- Memory
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-about
+  url: http://appcenter.evernote.com/about
+- type: x-base
+  url: https://evernoteHost/
+- type: x-blog
+  url: https://blog.evernote.com/tech/
+- type: x-blog
+  url: https://evernote.com/blog
+- type: x-blog
+  url: http://blog.evernote.com/tech/
+- type: x-blog-rss
+  url: http://blog.evernote.com/tech/feed/
+- type: x-careers
+  url: http://evernote.com/careers
+- type: x-careers
+  url: https://evernote.com/careers/
+- type: x-contact
+  url: https://evernote.com/contact/support/
+- type: x-contact
+  url: https://evernote.com/contact/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/evernote
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/evernote
+- type: x-developer
+  url: https://dev.evernote.com/
+- type: x-developer
+  url: http://dev.evernote.com
+- type: x-developers
+  url: https://dev.evernote.com/
+- type: x-email
+  url: legalnotice@evernote.com
+- type: x-email
+  url: compliance@evernote.com
+- type: x-email
+  url: privacy@evernote.com
+- type: x-events
+  url: https://events.evernote.com/
+- type: x-facebook
+  url: https://facebook.com/evernote/
+- type: x-facebook
+  url: https://www.facebook.com/evernote/
+- type: x-github
+  url: https://github.com/evernote/
+- type: x-github
+  url: https://github.com/evernote
+- type: x-instagram
+  url: https://www.instagram.com/evernote
+- type: x-linkedin
+  url: https://www.linkedin.com/company/evernote
+- type: x-pricing
+  url: https://evernote.com/pricing/
+- type: x-compete
+  url: evernote.com
+- type: x-security
+  url: https://evernote.com/security/
+- type: x-support
+  url: https://help.evernote.com/hc
+- type: x-support
+  url: https://help.evernote.com/hc/
+- type: x-support
+  url: https://help.evernote.com/hc/categories/200001917-Troubleshooting
+- type: x-terms-of-service
+  url: https://evernote.com/legal/
+- type: x-terms-of-service
+  url: https://evernote.com/legal/tos.php
+- type: x-terms-of-service
+  url: https://evernote.com/legal/privacy.php
+- type: x-transparency-report
+  url: https://evernote.com/legal/transparency/
+- type: x-twitter
+  url: https://twitter.com/evernote
+- type: x-twitter
+  url: https://twitter.com/evernote_dev
+- type: x-website
+  url: http://evernote.com/
+- type: x-youtube
+  url: https://www.youtube.com/user/EvernoteVideos
+- type: x-youtube
+  url: https://www.youtube.com/channel/UCr_JcNR6slxFcTtDZ8t6F0A
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

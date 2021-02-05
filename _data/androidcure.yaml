@@ -1,0 +1,39 @@
+---
+name: AndroidCure
+description: At AndroidCure, we publish latest Android news, Custom Roms, and useful
+  how to guides to make it more better, and enhance usability, and user experience.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "630642"
+url: https://raw.githubusercontent.com/api-network/organizations/main/androidcure.yaml
+tags:
+- News And Media
+apis: []
+x-common:
+- type: x-about
+  url: https://androidcure.com/about/
+- type: x-facebook
+  url: https://www.facebook.com/androidcure
+- type: x-feed
+  url: https://androidcure.com/category/guides/feed/
+- type: x-feed
+  url: https://androidcure.com/category/featured/feed/
+- type: x-feed
+  url: https://androidcure.com/category/applications/feed/
+- type: x-news
+  url: https://androidcure.com/category/news/
+- type: x-news
+  url: https://androidcure.com/category/news/feed/
+- type: x-twitter
+  url: https://twitter.com/hateman20
+- type: x-website
+  url: https://androidcure.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

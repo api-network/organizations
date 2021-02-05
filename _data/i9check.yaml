@@ -1,0 +1,24 @@
+---
+name: i9Check
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4489545"
+url: https://raw.githubusercontent.com/api-network/organizations/main/i9check.yaml
+tags:
+- Human Resources
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.i9check.com
+- type: x-website
+  url: https://www.i9check.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

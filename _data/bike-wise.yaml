@@ -1,0 +1,32 @@
+---
+name: Bike Wise
+description: <p>Bikewise is a place to learn about and report bike crashes, hazards,
+  and thefts. You can help by reporting issues you see. By sharing our experiences
+  with each other and with researchers and relevant agencies, we can make bicycling
+  safer and more fun.</p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bike-wise.yaml
+tags:
+- Have API Paths
+- Bikes
+- Bicycles
+- API Provider
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-documentation
+  url: https://bikewise.org/documentation/api_v2
+- type: x-website
+  url: http://bikewise.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

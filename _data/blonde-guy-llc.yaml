@@ -1,0 +1,33 @@
+---
+name: Blonde Guy, LLC
+description: Neil Waldhauer, expert consulting for OS/2, eComStation and ArcaOS.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blonde-guy-llc.yaml
+tags:
+- Warp
+- Software Developer
+- Software
+- Os2
+- Os/2
+- Java
+- Ecomstation
+- Consulting
+- Consultant
+- Blue Lion
+- ArcaOS
+- Arca Noae
+apis: []
+x-common:
+- type: x-website
+  url: https://www.blondeguy.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,52 @@
+---
+name: Bruce Perens
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1602698"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bruce-perens.yaml
+tags:
+- Personal Pages
+apis: []
+x-common:
+- type: x-about
+  url: https://perens.com/about-bruce-perens/
+- type: x-about
+  url: http://www.akashvukoti.com/about.html
+- type: x-documentation
+  url: https://www.nxp.com/docs/en/data-sheet/A71CH-SDS.pdf
+- type: x-feed
+  url: https://perens.com/feed/
+- type: x-feed
+  url: https://perens.com/comments/feed/
+- type: x-github
+  url: https://github.com/996icu/996.ICU/blob/master/LICENSE
+- type: x-github
+  url: https://github.com/richardeoin/ax
+- type: x-github
+  url: https://github.com/BrandenburgTech/DigitalTxRxRPi
+- type: x-github
+  url: https://github.com/waviot/NBFi_AX5043
+- type: x-github
+  url: https://github.com/jacobjohnson-ON/AX5043_mbed_Demo
+- type: x-github
+  url: https://github.com/Luke9978/RoverController
+- type: x-login
+  url: https://perens.com/wp-login.php
+- type: x-open-source
+  url: https://opensource.org/osd
+- type: x-open-source
+  url: https://openresearch.institute/itar-and-ear-strategy/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-website
+  url: https://perens.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

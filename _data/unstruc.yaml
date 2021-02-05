@@ -1,0 +1,66 @@
+---
+name: Unstruc
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7878428"
+url: https://raw.githubusercontent.com/api-network/organizations/main/unstruc.yaml
+tags:
+- Weblogs
+apis: []
+x-common:
+- type: x-website
+  url: http://dionhinchcliffe.com
+- type: x-about
+  url: https://about.me/danielabarbosa
+- type: x-about
+  url: http://anitaborg.org/about/who-we-are/maja-mataric/
+- type: x-about
+  url: http://anitaborg.org/about/who-we-are/vicki-hanson/
+- type: x-blog
+  url: http://pennyherscher.blogspot.com/
+- type: x-blog
+  url: https://danielabarbosa.blogspot.com/
+- type: x-blog
+  url: https://www.blogger.com/profile/13017233266605018199
+- type: x-blog
+  url: http://mybloggerthemes.com/
+- type: x-instagram
+  url: http://instagram.com/p/OuTqKCqdLe/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/danielabarbosa
+- type: x-linkedin
+  url: http://www.linkedin.com/in/dhinchcliffe
+- type: x-platform
+  url: http://www.salesforce.com/platform/touchplatform
+- type: x-twitter
+  url: https://twitter.com/sexandstartups
+- type: x-twitter
+  url: https://twitter.com/edyson/status/861252879981719552
+- type: x-twitter
+  url: https://twitter.com/fabmissc/status/239896316182941697
+- type: x-twitter
+  url: https://twitter.com/FirstRain
+- type: x-twitter
+  url: https://twitter.com/pennyherscher
+- type: x-twitter
+  url: https://twitter.com/ryanpwarren
+- type: x-twitter
+  url: https://twitter.com/danielabarbosa
+- type: x-twitter
+  url: http://www.twitter.com/thisisyy
+- type: x-twitter
+  url: https://twitter.com/thisisyy/status/236554274140725249
+- type: x-twitter
+  url: https://twitter.com/dhinchcliffe
+- type: x-website
+  url: https://danielabarbosa.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,31 @@
+---
+name: FindingPotential
+description: FindingPotential maked assessment easy - proven science, leading edge
+  technology & world class design.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3402040"
+url: https://raw.githubusercontent.com/api-network/organizations/main/findingpotential.yaml
+tags:
+- Testing And Evaluation
+apis: []
+x-common:
+- type: x-about
+  url: https://www.findingpotential.com/about/
+- type: x-contact
+  url: https://www.findingpotential.com/contact/
+- type: x-pricing
+  url: https://www.findingpotential.com/pricing/
+- type: x-signup
+  url: https://www.findingpotential.com/signup
+- type: x-website
+  url: https://www.findingpotential.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

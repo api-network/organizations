@@ -1,0 +1,46 @@
+---
+name: Software Engineering Radio
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "768138"
+url: https://raw.githubusercontent.com/api-network/organizations/main/software-engineering-radio.yaml
+tags:
+- Software Engineering
+apis: []
+x-common:
+- type: x-website
+  url: http://www.se-radio.net/
+- type: x-blog
+  url: http://blog.ieeesoftware.org
+- type: x-contact
+  url: https://www.se-radio.net/contact/
+- type: x-facebook
+  url: https://www.facebook.com/softwareengineeringradio/
+- type: x-feed
+  url: http://feeds.feedburner.com/se-radio
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/8209035/
+- type: x-news
+  url: https://www.se-radio.net/tag/news/
+- type: x-open-source
+  url: https://open.spotify.com/show/6UO3XQclSuNnGxB39QdAnL
+- type: x-open-source
+  url: https://www.se-radio.net/tag/open-source/
+- type: x-security
+  url: https://www.se-radio.net/tag/security/
+- type: x-terms-of-service
+  url: https://www.se-radio.net/legal/
+- type: x-twitter
+  url: https://twitter.com/seradio
+- type: x-website
+  url: https://www.se-radio.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

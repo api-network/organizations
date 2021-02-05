@@ -1,0 +1,68 @@
+---
+name: Polhemus
+description: Polhemus is the premier motion measurement technology company, with best-in-class
+  6 Degree-Of-Freedom (6DOF) electromagnetic tracking systems for over 40 years. Our
+  product line includes the latest technology for motion tracking, 3D laser scanning,
+  and eye tracking. Polhemus caters to healthcare, military, and research and technology
+  markets, and our products are used in a wide variety of applications, including
+  training and simulation, university research, biomechanics and sports motion analysis,
+  and even on live military aircraft.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2541818"
+url: https://raw.githubusercontent.com/api-network/organizations/main/polhemus.yaml
+tags:
+- Animation
+apis: []
+x-common:
+- type: x-website
+  url: http://polhemus.com
+- type: x-about
+  url: https://polhemus.com/company/about-us/
+- type: x-blog
+  url: https://polhemus.com/company/blog/
+- type: x-case-studies
+  url: https://polhemus.com/motion-tracking/case-studies/
+- type: x-case-studies
+  url: https://polhemus.com/scanning-digitizing/case-studies/
+- type: x-contact
+  url: https://polhemus.com/contact-us/
+- type: x-events
+  url: https://polhemus.com/company/events/
+- type: x-facebook
+  url: https://www.facebook.com/polhemus3d/
+- type: x-linkedin
+  url: https://www.linkedin.com/company-beta/1041988/
+- type: x-news
+  url: https://polhemus.com/company/news/
+- type: x-partner
+  url: https://polhemus.com/partners/oem-vars/
+- type: x-partner
+  url: https://polhemus.com/partners/distributors/
+- type: x-privacy
+  url: https://polhemus.com/privacy-policy
+- type: x-self-service-registration
+  url: https://polhemus.com/support/register-your-product/
+- type: x-support
+  url: https://polhemus.com/support/technical-support/
+- type: x-support
+  url: https://polhemus.com/support/product-downloads/
+- type: x-support
+  url: https://polhemus.com/support/product-manuals/
+- type: x-support
+  url: https://polhemus.com/support/third-party-plug-ins/
+- type: x-twitter
+  url: https://twitter.com/polhemus3d
+- type: x-website
+  url: https://www.polhemus.com
+- type: x-youtube
+  url: http://www.youtube.com/user/polhemus3d
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

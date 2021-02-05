@@ -1,0 +1,46 @@
+---
+name: OpenEJB
+description: Apache TomEE is a lightweight, yet powerful, JavaEE Application server
+  with feature rich tooling.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1867"
+url: https://raw.githubusercontent.com/api-network/organizations/main/openejb.yaml
+tags:
+- Tomee
+- Test
+- Shade
+- Open Source
+- Maven
+- Junit
+- Jee
+- Javaee
+- Embedded
+- Asf
+- Arquillian
+- Applicationcomposer
+- Application Servers
+- Apache
+apis: []
+x-common:
+- type: x-website
+  url: http://tomee.apache.org
+- type: x-facebook
+  url: https://www.facebook.com/ApacheTomEE/
+- type: x-security
+  url: http://apache.org/security
+- type: x-security
+  url: http://apache.org/security/projects.html
+- type: x-twitter
+  url: https://twitter.com/apachetomee
+- type: x-website
+  url: https://openejb.apache.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

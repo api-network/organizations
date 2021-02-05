@@ -1,0 +1,47 @@
+---
+name: Anvil Studio
+description: Free Windows multi-track MIDI/Audio recording & editing, VST Effects
+  & Instruments, automation. Options for Sheet Music printing, music theory, ear training.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1055236"
+url: https://raw.githubusercontent.com/api-network/organizations/main/anvil-studio.yaml
+tags:
+- Wave
+- Vst
+- Sheet Music Printing
+- Sheet Music
+- Sequencers
+- Sequence
+- Score
+- Record
+- Notation
+- Music
+- Multitrack
+- Multi-track
+- Mixing
+- MIDI Clock Divide
+- MIDI
+- Home-studio
+- Home-recording
+- Free
+- Effects
+- DirectX
+- Composition
+- Compose
+- Audio Recording Software
+- 24bit
+- 24-bit
+apis: []
+x-common:
+- type: x-website
+  url: https://www.anvilstudio.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

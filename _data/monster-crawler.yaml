@@ -1,0 +1,39 @@
+---
+name: Monster Crawler
+description: Monstercrawler combines search results from top authority sites and search
+  engines like Google and Yahoo! to deliver the best search experience on the web.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "854856"
+url: https://raw.githubusercontent.com/api-network/organizations/main/monster-crawler.yaml
+tags:
+- Yellow Pages
+- White Pages
+- Web Search
+- Weather
+- Video Search
+- Telephone Directory
+- Search Engine
+- News Search
+- Monstercrawler
+- Metasearch
+- Maps
+- Image Search
+- Horoscopes
+- Free People Search
+- Directory
+- Classifieds
+- Audio Search
+apis: []
+x-common:
+- type: x-website
+  url: https://www.monstercrawler.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

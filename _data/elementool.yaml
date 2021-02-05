@@ -1,0 +1,61 @@
+---
+name: Elementool
+description: Project Management Software at Elementool. Your source for web based
+  project management, business process management tools, process management tools
+  and project management tools
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6131410"
+url: https://raw.githubusercontent.com/api-network/organizations/main/elementool.yaml
+tags:
+- Project Management Software
+- Hosted
+apis: []
+x-common:
+- type: x-website
+  url: http://www.Elementool.com
+- type: x-blog
+  url: http://elementool.com/blog
+- type: x-contact
+  url: http://elementool.com/contact/products.html
+- type: x-contact
+  url: http://www.elementool.com/contact/bt.html
+- type: x-contact
+  url: http://www.elementool.com/contact/hd.html
+- type: x-contact
+  url: http://www.elementool.com/contact/tt.html
+- type: x-contact
+  url: http://www.elementool.com/contact/tc.html
+- type: x-contact
+  url: http://www.elementool.com/contact/fs.html
+- type: x-contact
+  url: http://www.elementool.com/contact/rq.html
+- type: x-contact
+  url: http://elementool.com/contact/quicktour/QuickTour.html
+- type: x-contact
+  url: http://elementool.com/contact/bt/btpricing.html
+- type: x-contact
+  url: http://elementool.com/contact/about.html
+- type: x-customers
+  url: http://elementool.com/contact/customers.html
+- type: x-documentation
+  url: http://elementool.com/docs/index.htm
+- type: x-documentation
+  url: http://elementool.com/docs/Press.html
+- type: x-terms-of-service
+  url: http://elementool.com/newaccount/terms.html
+- type: x-twitter
+  url: http://twitter.com/Elementool
+- type: x-website
+  url: https://www.elementool.com
+- type: x-youtube
+  url: http://www.youtube.com/elementool
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

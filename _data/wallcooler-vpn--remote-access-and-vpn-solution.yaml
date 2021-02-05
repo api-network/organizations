@@ -1,0 +1,42 @@
+---
+name: WallCooler VPN - Remote Access and VPN Solution
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wallcooler-vpn--remote-access-and-vpn-solution.yaml
+tags:
+- Remote Access
+apis: []
+x-common:
+- type: x-website
+  url: https://myquickcloud.com
+- type: x-blog
+  url: https://myquickcloud.com/blog/
+- type: x-documentation
+  url: https://myquickcloud.com/documentation/
+- type: x-facebook
+  url: https://www.facebook.com/myquickcloud
+- type: x-linkedin
+  url: https://www.linkedin.com/company-beta/631256/
+- type: x-partner
+  url: https://myquickcloud.com/partners/
+- type: x-press
+  url: https://myquickcloud.com/press/
+- type: x-pricing
+  url: https://myquickcloud.com/pricing/
+- type: x-support
+  url: https://myquickcloud.com/support/
+- type: x-twitter
+  url: https://twitter.com/MyQuickCloud
+- type: x-website
+  url: https://www.vedivi.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

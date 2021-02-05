@@ -1,0 +1,23 @@
+---
+name: jessysaurusrex.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jessysaurusrex-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: https://jessysaurusrex.com/2016/04/26/privacy-accessibility-and-student-data-security-an-analysis-of-clever-badges/
+- type: x-website
+  url: http://jessysaurusrex.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

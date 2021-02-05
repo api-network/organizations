@@ -1,0 +1,23 @@
+---
+name: Abaiko Software
+description: The programs that we offer are well adjusted and made with great attention
+  to detail, because we use most of them by ourselves.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "11185464"
+url: https://raw.githubusercontent.com/api-network/organizations/main/abaiko-software.yaml
+tags:
+- Home And Hobby
+apis: []
+x-common:
+- type: x-website
+  url: https://www.abaiko.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

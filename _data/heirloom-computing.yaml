@@ -1,0 +1,33 @@
+---
+name: Heirloom Computing
+description: Heirloom is the only cloud-native solution for modernizing Mainframe
+  Applications to the Cloud by automatically replatforming them to 100% Java.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6164633"
+url: https://raw.githubusercontent.com/api-network/organizations/main/heirloom-computing.yaml
+tags:
+- Platform As A Service Providers
+apis: []
+x-common:
+- type: x-case-studies
+  url: https://www.heirloomcomputing.com/case-studies/
+- type: x-facebook
+  url: https://www.facebook.com/heirloomcomputing/
+- type: x-partner
+  url: https://www.heirloomcomputing.com/partners/
+- type: x-support
+  url: https://support.heirloom.cc/hc/en-us/requests/new
+- type: x-twitter
+  url: https://twitter.com/@heirloompaas
+- type: x-website
+  url: https://heirloomcomputing.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

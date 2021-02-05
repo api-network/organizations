@@ -1,0 +1,30 @@
+---
+name: University of Iowa
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9048"
+url: https://raw.githubusercontent.com/api-network/organizations/main/university-of-iowa.yaml
+tags:
+- Iowa
+apis: []
+x-common:
+- type: x-website
+  url: http://cs.uiowa.edu
+- type: x-about
+  url: https://www.foriowa.org/about/disclosures/
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/8448552
+- type: x-twitter
+  url: https://twitter.com/UIowaCS
+- type: x-website
+  url: https://www.cs.uiowa.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

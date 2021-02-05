@@ -1,0 +1,68 @@
+---
+name: ReadSpeaker
+description: Text to speech for online & offline content of websites, apps, e-Books,
+  e-Learning, telephony & transport systems, media, robotics, embedded devices, IoT
+  & more.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/2078_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "41570"
+url: https://raw.githubusercontent.com/api-network/organizations/main/readspeaker.yaml
+tags:
+- Netherlands
+- Have API
+- Conversions
+apis: []
+x-common:
+- type: x-website
+  url: http://readspeaker.com
+- type: x-about
+  url: https://www.readspeaker.com/about-us/
+- type: x-blog
+  url: https://www.readspeaker.com/blog/
+- type: x-blog
+  url: http://www.readspeaker.com/blog
+- type: x-blog
+  url: https://www.readspeaker.com/blog/industries/
+- type: x-blog
+  url: https://www.readspeaker.com/blog/industries/learning/
+- type: x-blog-rss
+  url: http://www.readspeaker.com/category/blog/feed/
+- type: x-careers
+  url: https://www.readspeaker.com/careers/
+- type: x-case-studies
+  url: https://www.readspeaker.com/blog/case-studies/
+- type: x-contact
+  url: https://www.readspeaker.com/contact/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/readspeaker
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/readspeaker
+- type: x-email
+  url: unitedstates@readspeaker.com
+- type: x-email
+  url: info@readspeaker.com
+- type: x-facebook
+  url: https://www.facebook.com/ReadSpeaker/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/readspeaker/
+- type: x-pricing
+  url: http://www.readspeaker.com/pricing/
+- type: x-privacy
+  url: https://www.readspeaker.com/privacy-policy/
+- type: x-support
+  url: https://www.readspeaker.com/support/
+- type: x-twitter
+  url: https://twitter.com/ReadSpeaker
+- type: x-webinars
+  url: https://www.readspeaker.com/blog/webinars/
+- type: x-website
+  url: http://www.readspeaker.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

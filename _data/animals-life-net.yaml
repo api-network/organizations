@@ -1,0 +1,105 @@
+---
+name: Animals Life Net
+description: Animals Life NET - shelter support project with live stream videos of
+  dog and cat webcams that helps animal welfare organizations, rescues and sanctuaries
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "676918"
+url: https://raw.githubusercontent.com/api-network/organizations/main/animals-life-net.yaml
+tags:
+- Animals
+apis: []
+x-common:
+- type: x-website
+  url: http://www.animalslife.net/
+- type: x-about
+  url: http://animalslife.net/about-animalslifenet-project/
+- type: x-blog
+  url: http://animalslife.net/blog/
+- type: x-developer
+  url: http://dev.animalslife.net/
+- type: x-developer
+  url: http://dev.animalslife.net/ru/category/priyuty/
+- type: x-developer
+  url: http://dev.animalslife.net/ru/o-proekte/
+- type: x-developer
+  url: http://dev.animalslife.net/ru/stat-ucastnikom/
+- type: x-developer
+  url: http://dev.animalslife.net/ru/trebuetsya-pomoshj/
+- type: x-developer
+  url: http://dev.animalslife.net/ru/pokupajte-vmeste-s-nami/
+- type: x-developer
+  url: http://dev.animalslife.net/ru/pokormitj-zhivotnih/
+- type: x-developer
+  url: http://dev.animalslife.net/ru/stat-volonterom/
+- type: x-developer
+  url: http://dev.animalslife.net/ru/vzjatj-zhivotnoe-domoj/
+- type: x-developer
+  url: http://dev.animalslife.net/ru/novosti/
+- type: x-developer
+  url: http://dev.animalslife.net/ru/video/
+- type: x-developer
+  url: http://dev.animalslife.net/et/
+- type: x-developer
+  url: http://dev.animalslife.net
+- type: x-developer
+  url: http://dev.animalslife.net/ru/
+- type: x-developer
+  url: http://dev.animalslife.net/lt/
+- type: x-developer
+  url: http://dev.animalslife.net/lv/
+- type: x-developer
+  url: http://dev.animalslife.net/ro/
+- type: x-developer
+  url: http://dev.animalslife.net/mk/
+- type: x-developer
+  url: http://dev.animalslife.net/sr/
+- type: x-developer
+  url: http://dev.animalslife.net/es/
+- type: x-developer
+  url: http://dev.animalslife.net/ka/
+- type: x-developer
+  url: http://dev.animalslife.net/hu/
+- type: x-developer
+  url: http://dev.animalslife.net/hr/
+- type: x-developer
+  url: http://dev.animalslife.net/vi/
+- type: x-developer
+  url: http://dev.animalslife.net/fi/
+- type: x-developer
+  url: http://dev.animalslife.net/de/
+- type: x-developer
+  url: http://dev.animalslife.net/it/
+- type: x-developer
+  url: http://dev.animalslife.net/pt/
+- type: x-developer
+  url: http://dev.animalslife.net/varjupaikade-shelter-2/
+- type: x-developer
+  url: http://dev.animalslife.net/virumaa-shelter/
+- type: x-developer
+  url: http://dev.animalslife.net/koshkin-dom-shelter/
+- type: x-developer
+  url: http://dev.animalslife.net/moi-hvostiki-shelter/
+- type: x-developer
+  url: http://dev.animalslife.net/asenyka-shelter/
+- type: x-facebook
+  url: https://www.facebook.com/animalslifenet/
+- type: x-news
+  url: http://dev.animalslife.net/news/
+- type: x-news
+  url: http://animalslife.net/news/
+- type: x-terms-of-service
+  url: http://animalslife.net/terms-of-use-of-the-website/
+- type: x-twitter
+  url: https://twitter.com/animalslifenet
+- type: x-website
+  url: https://animalslife.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

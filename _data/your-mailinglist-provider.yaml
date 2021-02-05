@@ -1,0 +1,32 @@
+---
+name: Your Mailinglist Provider
+description: Manage, send & track your email newsletter with YMLP's easy-to-use email
+  newsletter software.  Create a FREE account and send your email campaign within
+  minutes.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "23762"
+url: https://raw.githubusercontent.com/api-network/organizations/main/your-mailinglist-provider.yaml
+tags:
+- Mailing List
+- List Management
+- Hosted Services
+- Email Newsletter
+- Email Marketing
+- Email
+- E-mail Newsletter
+- E-mail Marketing
+- E-mail
+apis: []
+x-common:
+- type: x-website
+  url: https://www.ymlp.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

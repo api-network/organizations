@@ -1,0 +1,53 @@
+---
+name: Teledna
+description: TeleDNA offers scalable and flexible platforms for network operators,
+  network equipment providers & managed service providers to solve complex network
+  issue
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7222554"
+url: https://raw.githubusercontent.com/api-network/organizations/main/teledna.yaml
+tags:
+- Telecom Network
+- Software
+- SMSC
+- Next-generation Mobile Network
+- Network Monitoring
+- Network Management
+- Mobile Communication Solution
+- MMSC
+- Messaging Solution
+- Messaging Infrastructure
+- M2M
+- LTE Networks
+- IoT
+- A2P
+apis: []
+x-common:
+- type: x-about
+  url: https://www.teledna.com/about-us/
+- type: x-careers
+  url: https://www.teledna.com/careers/
+- type: x-contact
+  url: https://www.teledna.com/contact-us/
+- type: x-developer
+  url: http://developer.teledna.com
+- type: x-investor
+  url: https://www.teledna.com/investors/
+- type: x-press
+  url: https://www.teledna.com/press-release/
+- type: x-press
+  url: https://www.teledna.com/press-coverage/
+- type: x-privacy
+  url: https://www.teledna.com/privacy-policy/
+- type: x-website
+  url: https://www.teledna.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

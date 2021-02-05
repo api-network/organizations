@@ -1,0 +1,56 @@
+---
+name: HostingDiscussion
+description: A web hosting forum for the industry professionals and enthusiasts, discussing
+  general hosting, reseller opportunities, VPS and dedicated solutions, cloud hosting,
+  domain names, software, hardware and other technical and operational issues. Includes
+  an extensive web hosting marketplace.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "169450"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hostingdiscussion.yaml
+tags:
+- Web Server
+- Web Hosting Forum
+- Web Hosting Community
+- Web Hosting Business
+- Web Hosting Board
+- Web Hosting
+- Vps Hosting
+- Shared Hosting
+- Server Forum
+- Server
+- Reseller Hosting
+- Managed Hosting
+- Industry
+- Hosting Software
+- Hosting Forum
+- Hosting Discussion
+- Hosting Community
+- Hosting Business
+- Hosting
+- Free Hosting
+- Discussion
+- Dedicated Hosting
+- Cheap Hosting
+- Chats And Forums
+apis: []
+x-common:
+- type: x-forum
+  url: https://www.hostingdiscussion.com/web-hosting-forums/
+- type: x-login
+  url: https://www.hostingdiscussion.com/login.php?do=lostpw
+- type: x-news
+  url: https://www.hostingdiscussion.com/news-pr/
+- type: x-self-service-registration
+  url: https://www.hostingdiscussion.com/register.php
+- type: x-website
+  url: https://www.hostingdiscussion.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

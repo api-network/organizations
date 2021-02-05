@@ -1,0 +1,56 @@
+---
+name: ScienceBase
+description: "http://usgs.gov \u2014 The USGS serves the Nation by providing reliable
+  scientific information to describe and understand the Earth; minimize loss of life
+  and property from nature."
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/920_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3192"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sciencebase.yaml
+tags:
+- Have API
+apis: []
+x-common:
+- type: x-about
+  url: http://www.sciencebase.gov/about/
+- type: x-base
+  url: https://www.sciencebase.gov/catalog
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/usgs
+- type: x-documentation
+  url: https://docs.atlassian.com/confluence/docs-615/
+- type: x-email
+  url: becker@usgs.gov
+- type: x-email
+  url: abwade@usgs.gov
+- type: x-email
+  url: cpuckett@usgs.gov
+- type: x-email
+  url: mnewell@usgs.gov
+- type: x-email
+  url: hhamilton@usgs.gov
+- type: x-email
+  url: apdemas@usgs.gov
+- type: x-email
+  url: dnoseral@usgs.gov
+- type: x-email
+  url: gs-do-ocap-oc-east@usgs.gov
+- type: x-email
+  url: jkfitzpatrick@usgs.gov
+- type: x-email
+  url: dozman@usgs.gov
+- type: x-support
+  url: https://support.atlassian.com/help/confluence
+- type: x-twitter
+  url: https://twitter.com/USGS
+- type: x-website
+  url: https://my.usgs.gov/confluence/display/sciencebase/ScienceBase/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

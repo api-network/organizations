@@ -1,0 +1,25 @@
+---
+name: "[2020] \u516C\u958B\u3055\u308C\u3066\u3044\u308BAPI\u4E00\u89A7\u307E\u3068\u3081
+  - NAVER \u307E\u3068\u3081"
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "1"
+x-alexaRank: ""
+url: https://raw.githubusercontent.com/api-network/organizations/main/2020-api--naver-.yaml
+tags:
+- Postman Doc Search
+apis: []
+x-common:
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/9215231/SzYaWe6h
+- type: x-website
+  url: http://matome.naver.jp
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

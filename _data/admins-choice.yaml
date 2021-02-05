@@ -1,0 +1,43 @@
+---
+name: Admin's choice
+description: Tutorials, Tips and Articles to manage unix and Linux operating systems
+  for beginners and advanced users.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "335935"
+url: https://raw.githubusercontent.com/api-network/organizations/main/admins-choice.yaml
+tags:
+- Vi Editor
+- Unix Books
+- Unix
+- Tutorials
+- Networking
+- Linux Books
+- Linux
+- Domain Name
+- DNS
+- Crontab
+- Bash
+- Articles
+- Administration
+apis: []
+x-common:
+- type: x-news
+  url: https://www.adminschoice.com/category/news
+- type: x-security
+  url: https://www.adminschoice.com/category/security
+- type: x-terms-of-service
+  url: https://www.adminschoice.com/terms-conditions
+- type: x-twitter
+  url: https://twitter.com/adminschoice?ref_src=twsrc%5Etfw
+- type: x-website
+  url: https://www.adminschoice.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

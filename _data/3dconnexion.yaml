@@ -1,0 +1,58 @@
+---
+name: 3Dconnexion
+description: 3D mice for navigation in CAD
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "179914"
+url: https://raw.githubusercontent.com/api-network/organizations/main/3dconnexion.yaml
+tags:
+- Spacemouse
+- Space Mouse
+- SolidWorks
+- Solid Edge
+- SketchUp
+- RSI
+- Ptc Creo
+- Ptc
+- Pointing Devices
+- Painful Wrist
+- Onshape
+- Nx
+- Mouse Hand
+- Mouse Arm
+- Inventor
+- Ergonomics
+- Design Tool
+- CATIA
+- Cadmouse
+- CAD
+- AutoCAD
+- 6dof
+- 3dmouse
+- 3dconnexion Spacenavigator
+- 3dconnexion
+- 3d-maus
+- 3d Mouse
+- 3d Controller
+- 3d Connexion
+- 3d Connection
+- 3d Cad
+apis: []
+x-common:
+- type: x-events
+  url: https://www.3dconnexion.com/nc/company/events.html
+- type: x-forum
+  url: http://www.3dconnexion.com/forum
+- type: x-press
+  url: https://www.3dconnexion.com/nc/company/press-room.html
+- type: x-website
+  url: https://www.3dconnexion.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

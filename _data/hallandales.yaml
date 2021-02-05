@@ -1,0 +1,42 @@
+---
+name: Hallandales
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hallandales.yaml
+tags:
+- Web Page Development
+- Web Hosting
+- Stratux
+- Stratus
+- Specialty Electronics
+- RepRap
+- Raspberry Pi
+- Kossel Clear
+- Kossel
+- Industry Specific
+- Flying Machine Ads
+- Electronics Design
+- Delta Printers
+- Custom Software
+- Classifieds
+- Chirotron
+- Blue Eagle Labs
+- Arduino
+- Aircraft Classifieds
+- ADS-B
+- 3D Printing
+apis: []
+x-common:
+- type: x-website
+  url: https://www.hallandales.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

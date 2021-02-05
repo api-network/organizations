@@ -1,0 +1,36 @@
+---
+name: 'Buzzle.com: Intelligent Life on the Web'
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "27855"
+url: https://raw.githubusercontent.com/api-network/organizations/main/buzzle-com-intelligent-life-on-the-web.yaml
+tags:
+- Web Portals
+apis: []
+x-common:
+- type: x-blog
+  url: https://visualstories.com/info/visual-blogging
+- type: x-careers
+  url: https://careerstint.com
+- type: x-facebook
+  url: https://www.facebook.com/BuzzleDotCom
+- type: x-feed
+  url: https://photografeed.com
+- type: x-support
+  url: https://helpsavenature.com
+- type: x-twitter
+  url: https://twitter.com/BuzzleDotCom
+- type: x-website
+  url: https://www.buzzle.com
+- type: x-youtube
+  url: https://www.youtube.com/c/BuzzleDotCom
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

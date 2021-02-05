@@ -1,0 +1,51 @@
+---
+name: Gpg4win
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "192307"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gpg4win.yaml
+tags:
+- Windows
+- Software
+- Security
+- Secure
+- S/MIME
+- PGP
+- Outlook
+- Openpgp
+- GpgOL
+- Gpg4win
+- Gpg
+- GPA
+- Gnupg
+- Encryption
+- Email
+- E-mail
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.gnupg.org/blog/index.html
+- type: x-developer
+  url: https://dev.gnupg.org/auth/start/
+- type: x-developer
+  url: https://dev.gnupg.org/
+- type: x-login
+  url: https://dev.gnupg.org/login/email/
+- type: x-privacy
+  url: https://gnupg.org/privacy-policy.html
+- type: x-twitter
+  url: https://twitter.com/gnupg
+- type: x-twitter
+  url: https://twitter.com/gpg4win
+- type: x-website
+  url: https://www.gpg4win.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

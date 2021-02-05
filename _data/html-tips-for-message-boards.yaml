@@ -1,0 +1,29 @@
+---
+name: HTML Tips for Message Boards
+description: Basic HTML tips for a Message Board, Forum n Guestbook. Contains tips
+  for posting an image. Legal Browser Colors by name.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5604964"
+url: https://raw.githubusercontent.com/api-network/organizations/main/html-tips-for-message-boards.yaml
+tags:
+- Beginners
+apis: []
+x-common:
+- type: x-blog
+  url: http://arkieprinceblog.com/
+- type: x-contact
+  url: http://www.ibdhost.com/contact/
+- type: x-support
+  url: http://www.ibdhost.com/help/html/
+- type: x-website
+  url: https://www.ibdguy.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

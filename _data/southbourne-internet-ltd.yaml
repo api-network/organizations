@@ -1,0 +1,51 @@
+---
+name: Southbourne Internet Ltd
+description: Sonet Digital is an Internet marketing company based in Kent and specialising
+  in SEO, PPC, and online marketing solutions for businesses throughout the UK
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/southbourne-internet-ltd.yaml
+tags:
+- Companies And Consultants
+apis: []
+x-common:
+- type: x-website
+  url: https://sonet.digital
+- type: x-about
+  url: https://sonet.digital/about/
+- type: x-about
+  url: https://sonet.digital/about/team/
+- type: x-blog
+  url: https://sonet.digital/blog/
+- type: x-contact
+  url: https://sonet.digital/contact/
+- type: x-facebook
+  url: https://www.facebook.com/sonet.digital
+- type: x-feed
+  url: https://sonet.digital/feed/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/sonet-digital
+- type: x-terms-of-service
+  url: https://sonet.digital/legal/copyright/
+- type: x-terms-of-service
+  url: https://sonet.digital/legal/financial/
+- type: x-terms-of-service
+  url: https://sonet.digital/legal/
+- type: x-terms-of-service
+  url: https://sonet.digital/legal/terms/
+- type: x-terms-of-service
+  url: https://sonet.digital/legal/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/SonetDigital
+- type: x-website
+  url: https://www.southbourne.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

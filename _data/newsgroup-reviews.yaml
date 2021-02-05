@@ -1,0 +1,48 @@
+---
+name: Newsgroup Reviews
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "825979"
+url: https://raw.githubusercontent.com/api-network/organizations/main/newsgroup-reviews.yaml
+tags:
+- Usenet
+apis: []
+x-common:
+- type: x-news
+  url: https://www.newsgroupreviews.com/best-usenet.html
+- type: x-news
+  url: https://www.newsgroupreviews.com/coupon-codes.html
+- type: x-news
+  url: https://www.newsgroupreviews.com/free-newsgroups.html
+- type: x-news
+  url: https://www.newsgroupreviews.com/
+- type: x-news
+  url: https://www.newsgroupreviews.com/newshosting.html
+- type: x-news
+  url: https://www.newsgroupreviews.com/goto/newshosting
+- type: x-news
+  url: https://www.newsgroupreviews.com/goto/usenetserver
+- type: x-news
+  url: https://www.newsgroupreviews.com/easynews-review.html
+- type: x-news
+  url: https://www.newsgroupreviews.com/goto/easynews
+- type: x-news
+  url: https://www.newsgroupreviews.com/eweka-review.html
+- type: x-news
+  url: https://www.newsgroupreviews.com/goto/eweka
+- type: x-news
+  url: https://www.newsgroupreviews.com/tweaknews-eu.html
+- type: x-news
+  url: https://newsgroupreviews.com/goto/tweaknews
+- type: x-website
+  url: https://www.newsgroupreviews.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

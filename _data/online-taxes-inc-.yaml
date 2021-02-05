@@ -1,0 +1,40 @@
+---
+name: On-Line Taxes, Inc.
+description: Online Taxes tax preparation service provides simple, fast and secure
+  tax preparation software and online tax help for online filing of your income tax
+  return.  Online Taxes offers both Federal income tax forms and State income tax
+  forms for IRS efile.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "246533"
+url: https://raw.githubusercontent.com/api-network/organizations/main/online-taxes-inc-.yaml
+tags:
+- Tax Forms
+- Tax
+- Online Taxes
+- IRS
+- Individual Tax
+- Income Tax Return
+- Income Tax
+- Federal Income Tax
+- Efile 1040
+- E-file
+apis: []
+x-common:
+- type: x-website
+  url: http://www.olt.com
+- type: x-support
+  url: https://supportsystem.livehelpnow.net/?cid=17366
+- type: x-twitter
+  url: http://www.twitter.com/www_OLT_com
+- type: x-website
+  url: https://www.olt.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

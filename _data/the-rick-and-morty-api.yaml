@@ -1,0 +1,32 @@
+---
+name: The Rick and Morty API
+description: The Rick and Morty API (or ShlaAPI) is a RESTful and GraphQL API based
+  on the television show Rick and Morty. You will have access to about hundreds of
+  characters, images, locations and episodes. We are still gathering data, because
+  as you probably know, there are trillions of characters and locations. The Rick
+  and Morty API is filled with canonical information as seen on the TV show.
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1101886"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-rick-and-morty-api.yaml
+tags:
+- Restful
+- Profile
+- API
+apis: []
+x-common:
+- type: x-documentation
+  url: https://rickandmortyapi.com/documentation
+- type: x-github
+  url: https://github.com/afuh/rick-and-morty-api
+- type: x-website
+  url: http://rickandmortyapi.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

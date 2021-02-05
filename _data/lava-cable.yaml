@@ -1,0 +1,30 @@
+---
+name: Lava Cable
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5445066"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lava-cable.yaml
+tags:
+- Cables
+apis: []
+x-common:
+- type: x-website
+  url: http://lavacable.com
+- type: x-facebook
+  url: https://www.facebook.com/lavacable
+- type: x-twitter
+  url: https://www.twitter.com/lavacable
+- type: x-website
+  url: https://www.lavacable.com
+- type: x-youtube
+  url: https://www.youtube.com/user/LavaMan60
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,46 @@
+---
+name: Akido
+description: <p>Use Akido to easily integrate your software with any hospital health
+  record system (EHR) and securely get access to health data.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/akido-stack.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "3170361"
+url: https://raw.githubusercontent.com/api-network/organizations/main/akido.yaml
+tags:
+- No API Definition
+- Have API
+- EHR
+- API Not Found
+apis: []
+x-common:
+- type: x-website
+  url: https://www.akidolabs.com
+- type: x-blog
+  url: https://www.akidolabs.com/blog
+- type: x-careers
+  url: https://www.akidolabs.com/careers/
+- type: x-contact
+  url: https://www.akidolabs.com/contact/
+- type: x-documentation
+  url: https://portal.akidolabs.com/v1.0/docs
+- type: x-email
+  url: support @akidolabs.com
+- type: x-facebook
+  url: http://facebook.com/akidolabs
+- type: x-forums
+  url: https://portal.akidolabs.com/v1.0/discuss
+- type: x-linkedin
+  url: https://www.linkedin.com/company/akido-labs
+- type: x-twitter
+  url: http://twitter.com/akidolabs
+- type: x-website
+  url: https://www.akidolabs.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

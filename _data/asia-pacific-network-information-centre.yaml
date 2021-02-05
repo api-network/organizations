@@ -1,0 +1,87 @@
+---
+name: Asia Pacific Network Information Centre
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "67325"
+url: https://raw.githubusercontent.com/api-network/organizations/main/asia-pacific-network-information-centre.yaml
+tags:
+- Organizations
+- Assignment
+apis: []
+x-common:
+- type: x-website
+  url: http://www.apnic.net
+- type: x-about
+  url: https://training.apnic.net/about/
+- type: x-about
+  url: https://www.apnic.net/about-apnic/
+- type: x-about
+  url: https://www.apnic.net/about-apnic/service-updates/
+- type: x-about
+  url: https://www.apnic.net/about-apnic/team/
+- type: x-about
+  url: https://www.apnic.net/about-apnic/transparency/
+- type: x-about
+  url: https://www.apnic.net/about-apnic/corporate-documents/
+- type: x-about
+  url: https://www.apnic.net/about-apnic/employment/
+- type: x-about
+  url: https://www.apnic.net/about-apnic/a-z-glossary/
+- type: x-blog
+  url: https://blog.apnic.net/
+- type: x-blog
+  url: https://blog.apnic.net/2020/01/16/event-wrap-npnog-5/
+- type: x-blog
+  url: https://blog.apnic.net/category/tech-matters/
+- type: x-blog
+  url: https://blog.apnic.net/category/community/
+- type: x-blog
+  url: https://blog.apnic.net/2020/01/15/myapnic-is-changing/
+- type: x-events
+  url: https://training.apnic.net/events
+- type: x-events
+  url: https://www.apnic.net/events/
+- type: x-events
+  url: https://www.apnic.net/events/conferences/
+- type: x-events
+  url: https://www.apnic.net/events/calendar
+- type: x-events
+  url: https://www.apnic.net/events/sponsor-an-event
+- type: x-events
+  url: https://blog.apnic.net/category/events/
+- type: x-facebook
+  url: https://www.facebook.com/APNIC
+- type: x-feed
+  url: https://blog.apnic.net/feed/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/apnic
+- type: x-news
+  url: https://www.nro.net/category/news
+- type: x-security
+  url: https://www.apnic.net/community/security/
+- type: x-slideshare
+  url: http://www.slideshare.net/apnic
+- type: x-support
+  url: https://www.apnic.net/get-ip/helpdesk/
+- type: x-support
+  url: https://www.apnic.net/community/support/root-servers/
+- type: x-support
+  url: https://www.apnic.net/community/support/isif/
+- type: x-twitter
+  url: https://twitter.com/apnic
+- type: x-website
+  url: https://www.apnic.net
+- type: x-youtube
+  url: https://www.youtube.com/user/APNICTraining/
+- type: x-youtube
+  url: https://www.youtube.com/user/apnicmultimedia
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,28 @@
+---
+name: Valorbit
+description: Coin rewards distributed by humans
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27451-valorbit-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1728937"
+url: https://raw.githubusercontent.com/api-network/organizations/main/valorbit.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/valorbit
+- type: x-email
+  url: info@Valorbit.com
+- type: x-twitter
+  url: https://twitter.com/Valorbit
+- type: x-website
+  url: https://valorbit.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

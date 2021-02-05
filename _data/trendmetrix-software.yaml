@@ -1,0 +1,22 @@
+---
+name: Trendmetrix Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1574508"
+url: https://raw.githubusercontent.com/api-network/organizations/main/trendmetrix-software.yaml
+tags:
+- Website Promotion
+apis: []
+x-common:
+- type: x-website
+  url: https://www.trendmx.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

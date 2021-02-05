@@ -1,0 +1,33 @@
+---
+name: Automated Insights
+description: ""
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Automated_Insights_Logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/automated-insights.yaml
+tags:
+- Machine Learning
+- Content
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/AInsights
+- type: x-blog
+  url: https://automatedinsights.com/blog
+- type: x-developers
+  url: http://wordsmith.readme.io/v1/docs
+- type: x-github
+  url: https://github.com/ai-wordsmith
+- type: x-pricing
+  url: https://automatedinsights.com/pricing
+- type: x-website
+  url: http://automationworld.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

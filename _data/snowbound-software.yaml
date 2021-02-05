@@ -1,0 +1,39 @@
+---
+name: Snowbound Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1311522"
+url: https://raw.githubusercontent.com/api-network/organizations/main/snowbound-software.yaml
+tags:
+- Document Imaging
+- Companies
+apis: []
+x-common:
+- type: x-website
+  url: http://www.snowbound.com/
+- type: x-blog
+  url: https://www.snowbound.com/blog/
+- type: x-contact
+  url: https://go.snowbound.com/contact-us
+- type: x-facebook
+  url: https://www.facebook.com/snowboundsoftware
+- type: x-linkedin
+  url: http://www.linkedin.com/companies/snowbound-software
+- type: x-support
+  url: http://support.snowbound.com/
+- type: x-twitter
+  url: https://twitter.com/snowbounds
+- type: x-website
+  url: https://www.snowbound.com
+- type: x-youtube
+  url: https://www.youtube.com/user/snowboundsoftwareinc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,36 @@
+---
+name: Aptive
+description: Aptive are a UK based cyber security consultancy, specialising in infrastructure
+  & web application security testing. We are passionate about Cyber Security and helping
+  our clients improve the security of their environments.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8291523"
+url: https://raw.githubusercontent.com/api-network/organizations/main/aptive.yaml
+tags:
+- Penetration Testing
+apis: []
+x-common:
+- type: x-about
+  url: https://www.aptive.co.uk/about/
+- type: x-blog
+  url: https://www.aptive.co.uk/blog/
+- type: x-contact
+  url: https://www.aptive.co.uk/contact/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/aptive-consulting/
+- type: x-privacy
+  url: https://www.aptive.co.uk/privacy-and-cookies-policy/
+- type: x-twitter
+  url: https://twitter.com/AptiveSec
+- type: x-website
+  url: https://www.aptive.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

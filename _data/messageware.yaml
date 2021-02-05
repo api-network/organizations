@@ -1,0 +1,62 @@
+---
+name: Messageware
+description: Advanced security for Microsoft Exchange Server and Outlook Web App (OWA)
+  deployments ensuring DLP and protecting against phishing and brute force attacks.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5238527"
+url: https://raw.githubusercontent.com/api-network/organizations/main/messageware.yaml
+tags:
+- Microsoft Exchange
+- Message Services
+apis: []
+x-common:
+- type: x-website
+  url: http://www.messageware.com/
+- type: x-about
+  url: https://www.messageware.com/company/about-us/
+- type: x-blog
+  url: https://www.messageware.com/blog/
+- type: x-careers
+  url: https://www.messageware.com/company/careers/
+- type: x-case-studies
+  url: https://www.messageware.com/company/case-studies/
+- type: x-contact
+  url: https://www.messageware.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/Messageware
+- type: x-linkedin
+  url: https://www.linkedin.com/company/messageware
+- type: x-news
+  url: https://www.messageware.com/company/news/
+- type: x-partner
+  url: https://www.messageware.com/company/partners/
+- type: x-pricing
+  url: https://www.messageware.com/pricing/
+- type: x-security
+  url: https://www.messageware.com/security-exchange-server/
+- type: x-security
+  url: https://www.messageware.com/outlook-web-security/
+- type: x-support
+  url: https://www.messageware.com/support/
+- type: x-twitter
+  url: https://twitter.com/messagewareinc
+- type: x-webinars
+  url: https://www.messageware.com/webinars/
+- type: x-website
+  url: https://www.messageware.com
+- type: x-white-papers
+  url: https://www.messageware.com/white-papers/
+- type: x-youtube
+  url: https://www.youtube.com/user/Messageware
+- type: x-youtube
+  url: http://www.youtube.com/messageware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

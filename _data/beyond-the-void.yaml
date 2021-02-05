@@ -1,0 +1,29 @@
+---
+name: Beyond the void
+description: BTV is a 1vs1 strategy video game, moba, rts, on PC. Early Acces on Steam.
+  Indie game powered by Ethereum blockchain. Published by B2Expand.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26880-beyond-the-void-net.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "511825"
+url: https://raw.githubusercontent.com/api-network/organizations/main/beyond-the-void.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://www.beyond-the-void.net
+- type: x-email
+  url: contact@beyond-the-void.net
+- type: x-twitter
+  url: https://twitter.com/BeyondVoidGame
+- type: x-website
+  url: https://beyond-the-void.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

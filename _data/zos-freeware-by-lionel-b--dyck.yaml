@@ -1,0 +1,38 @@
+---
+name: z/OS Freeware by Lionel B. Dyck
+description: Providing free software tools for OS/390 and z/OS installations to satisfy
+  systems programmer and end user requirements.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4055328"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zos-freeware-by-lionel-b--dyck.yaml
+tags:
+- Z/OS
+- Tso
+- TCPIP
+- TCP/IP
+- SMTP
+- Rexx
+- OS/390
+- MVS
+- Mainframe
+- Mail
+- ISPF
+- Freeware
+- E-mail
+- Assembler
+apis: []
+x-common:
+- type: x-privacy
+  url: http://www.ChangeDetection.com/privacy.html
+- type: x-website
+  url: https://www.lbdsoftware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

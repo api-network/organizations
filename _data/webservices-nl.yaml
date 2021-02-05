@@ -1,0 +1,48 @@
+---
+name: Webservices.nl
+description: Met Company.info bent u altijd op de hoogte van uw zakenrelaties, verbetert
+  u uw salesperformance en bespaart u kosten in uw bedrijfsvoering. Ontdek het!
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/logo.webservices.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8608951"
+url: https://raw.githubusercontent.com/api-network/organizations/main/webservices-nl.yaml
+tags:
+- Netherlands
+- Europe
+apis: []
+x-common:
+- type: x-website
+  url: http://www.companyinfo.nl/webservices
+- type: x-blog
+  url: https://companyinfo.nl/blog/
+- type: x-contact
+  url: https://companyinfo.nl/contact
+- type: x-contact
+  url: https://companyinfo.nl/contact/
+- type: x-developer
+  url: https://companyinfo.nl/prijzen/apis/
+- type: x-login
+  url: https://company.info/login
+- type: x-partner
+  url: https://companyinfo.nl/partners/
+- type: x-privacy
+  url: https://companyinfo.nl/privacy
+- type: x-support
+  url: https://companyinfo.nl/support
+- type: x-support
+  url: https://companyinfo.nl/support-bij-data-integratie/
+- type: x-support
+  url: https://companyinfo.nl/support/
+- type: x-twitter
+  url: https://twitter.com/webservicesNL
+- type: x-website
+  url: http://www.webservices.nl/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

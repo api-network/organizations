@@ -1,0 +1,26 @@
+---
+name: Software602, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2581108"
+url: https://raw.githubusercontent.com/api-network/organizations/main/software602-inc-.yaml
+tags:
+- Shareware
+apis: []
+x-common:
+- type: x-developer
+  url: http://dev.602.cz
+- type: x-linkedin
+  url: https://cz.linkedin.com/company/software602
+- type: x-website
+  url: https://www.602.cz
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

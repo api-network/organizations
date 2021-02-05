@@ -1,0 +1,70 @@
+---
+name: BlueRadios, Inc.
+description: Bluetooth 5.0 nRF52840 Low Energy module devices work for many medical
+  applications.  The Bluetooth wireless radio mounts directly into your products,
+  converting them into Bluetooth-enabled wireless devices.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5324598"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blueradios-inc-.yaml
+tags:
+- Zigbee
+- WML-C46AHR
+- WML-C40NH
+- WML-C40AH
+- WML
+- Wireless LAN Gateways
+- Wifi
+- WIBREE
+- UWB
+- USB
+- Ultra Wide Band
+- Sensors
+- RF
+- Products
+- PAN
+- OPP
+- OBEX
+- NRF52840
+- Mitsumi
+- Low Energy
+- FTP
+- Embedded Radios
+- Data Transceiver
+- Data Radios
+- Data Modems
+- CSR
+- Class2
+- Class1
+- BT Low Energy
+- Bluetooth Wireless
+- Bluetooth Stacks
+- Bluetooth Radios
+- Bluetooth Modules
+- Bluetooth Modems
+- Bluetooth Low Energy
+- Bluetooth Lan
+- Bluetooth Adapter
+- Bluetooth 5.2
+- Bluetooth 5.0
+- Bluetooth
+- BC05
+- BC04
+- BC03
+- BC02
+- Antennas
+- Antenna
+- +EDR
+apis: []
+x-common:
+- type: x-website
+  url: https://www.blueradios.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

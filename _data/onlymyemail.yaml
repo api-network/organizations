@@ -1,0 +1,41 @@
+---
+name: OnlyMyEmail
+description: OnlyMyEmail filtering eliminates Spam, Phishing Emails, Frauds, Porn,
+  Viruses and other junk email in ways that no one else can.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5736139"
+url: https://raw.githubusercontent.com/api-network/organizations/main/onlymyemail.yaml
+tags:
+- Stopping Spam
+- Spamfighter
+- Spam Stopper
+- Spam Filters
+- Spam Filtering
+- Spam Filter
+- Spam Blockers
+- Spam Blocker
+- Filtering
+- Email Filtering
+- Email Filter
+- Blocking Spam
+- Anti Spam Filtering
+apis: []
+x-common:
+- type: x-about
+  url: http://www.onlymyemail.com/about-us.html
+- type: x-contact
+  url: http://www.onlymyemail.com/about-us/contact-us.html
+- type: x-support
+  url: https://support.onlymyemail.com/
+- type: x-website
+  url: https://www.onlymyemail.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

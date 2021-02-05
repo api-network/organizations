@@ -1,0 +1,62 @@
+---
+name: Fraudmarc
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "389127"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fraudmarc.yaml
+tags:
+- Filtering
+apis: []
+x-common:
+- type: x-website
+  url: https://www.fraudmarc.com/
+- type: x-about
+  url: https://www.fraudmarc.com/about-us/
+- type: x-about
+  url: https://www.fraudmarc.com/about-phishing/
+- type: x-about
+  url: https://www.fraudmarc.com/about-email-authentication/
+- type: x-about
+  url: https://www.fraudmarc.com/about-dns/
+- type: x-about
+  url: https://www.fraudmarc.com/about-dmarc/
+- type: x-about
+  url: https://www.fraudmarc.com/about-spf/
+- type: x-about
+  url: https://www.fraudmarc.com/about-dkim/
+- type: x-blog
+  url: https://www.fraudmarc.com/blog-2/
+- type: x-careers
+  url: https://www.fraudmarc.com/careers/
+- type: x-contact
+  url: https://www.fraudmarc.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/fraudmarc/
+- type: x-instagram
+  url: https://www.instagram.com/fraudmarc_app/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/10684936/
+- type: x-login
+  url: https://secure.fraudmarc.com/login/
+- type: x-plans
+  url: https://www.fraudmarc.com/plans-2/
+- type: x-press
+  url: https://www.fraudmarc.com/spf-compression/
+- type: x-privacy
+  url: https://www.fraudmarc.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.fraudmarc.com/terms-of-service/
+- type: x-twitter
+  url: https://twitter.com/fraudmarc
+- type: x-website
+  url: https://www.fraudmarc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

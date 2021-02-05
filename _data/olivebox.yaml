@@ -1,0 +1,59 @@
+---
+name: OliveBox
+description: Create invoices, manage marketing lists and send outstanding e-mail newsletters.
+  OliveBox is your perfect cloud software!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "396822"
+url: https://raw.githubusercontent.com/api-network/organizations/main/olivebox.yaml
+tags:
+- Time Tracking Software
+- Room Booking
+- Payment Tracking
+- Mobile Marketing
+- Invoicing
+- Expense Tracking
+- Expense Manager
+- E-mail Marketing Software
+- Cloud Invoicing Software
+- Billing
+- Appointment Booking
+apis: []
+x-common:
+- type: x-website
+  url: http://www.olivebox.net
+- type: x-about
+  url: https://www.olivebox.net/about-us/
+- type: x-blog
+  url: https://www.olivebox.net/blog/
+- type: x-blog
+  url: https://www.olivebox.net/blog/items/
+- type: x-code
+  url: http://app.olivebox.net?promocode=
+- type: x-facebook
+  url: https://www.facebook.com/olivebox
+- type: x-privacy
+  url: https://www.olivebox.net/privacy-policy/
+- type: x-signup
+  url: https://www.olivebox.net/pricing-signup/
+- type: x-support
+  url: https://www.olivebox.net/support/
+- type: x-terms-of-service
+  url: https://www.olivebox.net/terms-of-use/
+- type: x-twitter
+  url: https://www.twitter.com/oliveboxapp
+- type: x-website
+  url: https://www.olivebox.net
+- type: x-youtube
+  url: https://www.youtube.com/embed/EaWRTXMtGQw?rel=0
+- type: x-youtube
+  url: https://www.youtube.com/user/oliveboxapp
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

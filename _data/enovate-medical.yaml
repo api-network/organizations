@@ -1,0 +1,39 @@
+---
+name: Enovate Medical
+description: Enovate Medical manufactures EHR/EMR workstation technology to enhance
+  nursing productivity, improve patient care, simplify IT management, and lowers costs.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2480042"
+url: https://raw.githubusercontent.com/api-network/organizations/main/enovate-medical.yaml
+tags:
+- Kiosks
+apis: []
+x-common:
+- type: x-website
+  url: http://www.enovatemedical.com
+- type: x-blog
+  url: https://www.enovatemedical.com/blog/
+- type: x-contact
+  url: https://www.enovatemedical.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/EnovateMedicalTN
+- type: x-linkedin
+  url: http://www.linkedin.com/company/enovate-medical
+- type: x-privacy
+  url: https://www.enovatemedical.com/privacy/
+- type: x-twitter
+  url: https://twitter.com/EnovateMedical
+- type: x-website
+  url: https://www.enovatemedical.com
+- type: x-youtube
+  url: http://www.youtube.com/user/EnovateMedical
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,35 @@
+---
+name: SoftOrbits, Inc
+description: Get great photo editing software and other useful apps for endless multimedia
+  fun. SoftOrbits tools are fast and easy to use - try them today!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "158806"
+url: https://raw.githubusercontent.com/api-network/organizations/main/softorbits-inc.yaml
+tags:
+- Home And Hobby
+apis: []
+x-common:
+- type: x-about
+  url: https://www.softorbits.com/about.html
+- type: x-facebook
+  url: https://www.facebook.com/SoftOrbits
+- type: x-privacy
+  url: https://www.softorbits.com/privacy-policy.html
+- type: x-support
+  url: https://www.softorbits.com/support.html
+- type: x-terms-of-service
+  url: https://www.softorbits.com/terms.html
+- type: x-twitter
+  url: https://twitter.com/SoftOrbits_en
+- type: x-website
+  url: https://www.softorbits.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

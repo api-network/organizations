@@ -1,0 +1,74 @@
+---
+name: Barcode Writer
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "530784"
+url: https://raw.githubusercontent.com/api-network/organizations/main/barcode-writer.yaml
+tags:
+- Barcode
+apis: []
+x-common:
+- type: x-code
+  url: https://github.com/bwipp/postscriptbarcode
+- type: x-code
+  url: https://groups.google.co.uk/group/postscriptbarcode
+- type: x-code
+  url: https://github.com/bwipp/postscriptbarcode/issues
+- type: x-code
+  url: https://github.com/bwipp/postscriptbarcode/wiki
+- type: x-code
+  url: https://the-burtons.xyz/barcode-generator/
+- type: x-code
+  url: https://travis-ci.org/bwipp/postscriptbarcode
+- type: x-code
+  url: https://github.com/bwipp/postscriptbarcode.git
+- type: x-code
+  url: https://github.com/bwipp/postscriptbarcode/wiki/EAN-13
+- type: x-code
+  url: https://github.com/bwipp/postscriptbarcode/wiki/EAN-8
+- type: x-code
+  url: https://github.com/bwipp/postscriptbarcode/wiki/UPC-A
+- type: x-code
+  url: https://github.com/bwipp/postscriptbarcode/wiki/UPC-E
+- type: x-code
+  url: https://github.com/bwipp/postscriptbarcode/wiki/ISBN
+- type: x-code
+  url: https://github.com/bwipp/postscriptbarcode/wiki/ISMN
+- type: x-code
+  url: https://github.com/bwipp/postscriptbarcode/wiki/ISSN
+- type: x-code
+  url: https://github.com/bwipp/postscriptbarcode/wiki/EAN-5
+- type: x-code
+  url: https://github.com/bwipp/postscriptbarcode/wiki/EAN-2
+- type: x-code
+  url: https://github.com/bwipp/postscriptbarcode/wiki/EAN-14
+- type: x-code
+  url: https://github.com/bwipp/postscriptbarcode/wiki/ITF-14
+- type: x-code
+  url: https://github.com/bwipp/postscriptbarcode/wiki/PDF417
+- type: x-code
+  url: https://github.com/bwipp/postscriptbarcode/wiki/PZN
+- type: x-code
+  url: https://github.com/bwipp/postscriptbarcode/wiki/BC412
+- type: x-code
+  url: https://sourceforge.net/projects/kbarcode/
+- type: x-code
+  url: https://github.com/shairontoledo/rghost-barcode/wiki/
+- type: x-code
+  url: http://search.cpan.org/dist/PostScript-Barcode/
+- type: x-code
+  url: https://code.google.com/p/bwip-js/
+- type: x-github
+  url: https://github.com/terryburton
+- type: x-website
+  url: https://bwipp.terryburton.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

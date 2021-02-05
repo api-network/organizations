@@ -1,0 +1,51 @@
+---
+name: iKey
+description: Rugged keyboards, displays, pointing devices, input devices and cases
+  made by iKey are engineered to the highest specifications. We are the industry leader,
+  since 1989. Our rugged keyboards are made specifically for tough Industrial settings
+  and medical working environments. Shop Now!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1018472"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ikey.yaml
+tags:
+- Keyboards
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ikey.com
+- type: x-about
+  url: https://www.ikey.com/about-ikey-rugged-peripherals/
+- type: x-about
+  url: https://www.ikey.com/about/
+- type: x-careers
+  url: https://www.ikey.com/crb_careers/available-positions/
+- type: x-case-studies
+  url: https://www.ikey.com/customer-case-studies/
+- type: x-contact
+  url: https://www.ikey.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/iKeyKeyboards
+- type: x-login
+  url: https://www.ikey.com/wp-login.php?action=lostpassword
+- type: x-news
+  url: https://www.ikey.com/rugged-industrial-computer-news/
+- type: x-privacy
+  url: https://www.ikey.com/privacy-policy/
+- type: x-support
+  url: https://www.ikey.com/rugged-computer-product-support/
+- type: x-twitter
+  url: https://twitter.com/iKeyKeyboards
+- type: x-website
+  url: https://www.ikey.com
+- type: x-youtube
+  url: http://www.youtube.com/user/iKeyKeyboards
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

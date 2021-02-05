@@ -1,0 +1,80 @@
+---
+name: Payscape
+description: Financial technology for businesses of all sizes. Our dedication to payment
+  technology is consistent, and our mission clear; to make it simple for business
+  owners to collect payments. Whether you accept credit cards at a storefront, processes
+  payments ...
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/payscape-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "599517"
+url: https://raw.githubusercontent.com/api-network/organizations/main/payscape.yaml
+tags:
+- POS Systems
+- PCI Compliance
+- Payments
+- Payments
+- Payments
+- No API Definition
+- Lending
+- Invoicing
+- Insights
+- Have API
+- Has API
+- Billing
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.payscape.com/
+- type: x-blog
+  url: http://blog.payscape.com/
+- type: x-case-studies
+  url: https://payscape.com/case-studies/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/payscape-advisors
+- type: x-developers
+  url: https://payscape.com/developers/
+- type: x-email
+  url: privacy@payscape.com
+- type: x-facebook
+  url: https://www.facebook.com/payscape/
+- type: x-github
+  url: https://github.com/Payscape
+- type: x-instagram
+  url: https://www.instagram.com/payscape/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/payscape/
+- type: x-login
+  url: https://secure.nmi.com/merchants/login.php
+- type: x-login
+  url: https://registration.payscape.com/login
+- type: x-partner
+  url: https://payscape.com/partners
+- type: x-partner
+  url: https://payscape.com/partners/financial-institutions/
+- type: x-partner
+  url: https://payscape.com/partners/isv/
+- type: x-partner
+  url: https://payscape.com/partners/associations/
+- type: x-partner
+  url: https://payscape.com/partners/referral/
+- type: x-security
+  url: https://www.pcisecuritystandards.org/
+- type: x-support
+  url: http://help.payscape.com/support/home
+- type: x-twitter
+  url: https://twitter.com/Payscape
+- type: x-twitter
+  url: https://twitter.com/_Payscape
+- type: x-website
+  url: https://payscape.com/
+- type: x-website
+  url: https://payscape.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

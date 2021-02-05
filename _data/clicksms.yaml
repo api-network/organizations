@@ -1,0 +1,31 @@
+---
+name: ClickSMS
+description: Cosmic SMS is a UK based bulk SMS service for businesses. We offer services
+  which can boost businesses and customer communications through mass text messages.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/clicksms.yaml
+tags:
+- Short Messaging Service
+apis: []
+x-common:
+- type: x-website
+  url: http://cosmicsms.com
+- type: x-facebook
+  url: https://www.facebook.com/cosmicsms/
+- type: x-self-service-registration
+  url: https://service.cosmicsms.com/register
+- type: x-twitter
+  url: https://twitter.com/cosmicsms
+- type: x-website
+  url: https://www.clicksms.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

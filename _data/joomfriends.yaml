@@ -1,0 +1,32 @@
+---
+name: Joom-friends
+description: Joomfriends is a transfer site of creative ideas. Our main content includes
+  everything, which concerned with the realization of web applications and websites.
+  Our community share their skills on this network. And you can one of us.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "580742"
+url: https://raw.githubusercontent.com/api-network/organizations/main/joomfriends.yaml
+tags:
+- WordPress
+- Opencart
+- Magento
+- Joomla
+- Extensions And Templates
+apis: []
+x-common:
+- type: x-website
+  url: http://www.joom-friends.com/
+- type: x-twitter
+  url: https://twitter.com/joomfriends
+- type: x-website
+  url: https://joom-friends.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

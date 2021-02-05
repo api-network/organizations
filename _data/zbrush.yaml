@@ -1,0 +1,73 @@
+---
+name: ZBrush
+description: Find ZBrush Retailers, and stores that offer product sales, pricing and
+  purchase.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "42202"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zbrush.yaml
+tags:
+- ZBrush4
+- Zbrush
+- Tutorials
+- Texturing
+- Store
+- Software
+- Sale
+- Retailers
+- Purchase
+- Pricing
+- Polygon Modeling
+- Pixologic
+- High Resolution
+- Graphics
+- GoZBrush
+- GoZ
+- Discount
+- Digital Sculpting
+- Computer Modeling
+- Computer Animation
+- Buy
+- Brush-based 3D Sculpting
+- 3d Sculpting
+- 3D Modeling
+- 3D
+apis: []
+x-common:
+- type: x-about
+  url: http://pixologic.com/features/about-zbrush.php
+- type: x-blog
+  url: http://pixologic.com/blog/
+- type: x-careers
+  url: http://pixologic.com/jobs/
+- type: x-documentation
+  url: http://docs.pixologic.com
+- type: x-facebook
+  url: https://www.facebook.com/Pixologic/
+- type: x-facebook
+  url: http://facebook.com/pixologic
+- type: x-instagram
+  url: http://instagram.com/zbrushatpixologic
+- type: x-support
+  url: https://support.pixologic.com
+- type: x-support
+  url: https://support.pixologic.com/
+- type: x-twitter
+  url: https://twitter.com/i/moments/818948228280221696
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-twitter
+  url: https://twitter.com/search?q=%23askzbrush
+- type: x-website
+  url: https://pixologic.com
+- type: x-youtube
+  url: https://www.youtube.com/embed/6WvDye3fUPQ
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,37 @@
+---
+name: FreeOnlineSurveys.com
+description: Create free online surveys, quizzes and forms with our easy to use drag
+  and drop builder. Then collect and analyze your data with advanced reporting tools.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/freeonlinesurveys-com.yaml
+tags:
+- Surveys
+apis: []
+x-common:
+- type: x-about
+  url: http://kwiksurveys.com/about
+- type: x-documentation
+  url: https://docs.shout.com/article/170-privacy-policy
+- type: x-documentation
+  url: https://docs.shout.com/
+- type: x-documentation
+  url: https://docs.shout.com/article/169-cookie-policy
+- type: x-pricing
+  url: https://kwiksurveys.com/pricing
+- type: x-pricing
+  url: https://freeonlinesurveys.com/pricing
+- type: x-security
+  url: https://docs.shout.com/article/171-security-policy
+- type: x-website
+  url: https://free-online-surveys.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

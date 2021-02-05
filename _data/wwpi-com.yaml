@@ -1,0 +1,23 @@
+---
+name: wwpi.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wwpi-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://wwpi.com/Itemid=2701735&catid=324:breaking-news&id=17875:falconstor-debuts-horizontal-converged-data-services-platform-freestor&option=com_content&view=article
+- type: x-website
+  url: http://wwpi.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

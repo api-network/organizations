@@ -1,0 +1,82 @@
+---
+name: PeopleSoft Planet
+description: PeopleSoft Planet is one of the oldest PeopleSoft sites on the web for
+  PeopleSoft Jobs and news. Looking for PeopleSoft resources? Post a PeopleSoft Job
+  here...
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "662846"
+url: https://raw.githubusercontent.com/api-network/organizations/main/peoplesoft-planet.yaml
+tags:
+- Search For A Peoplesoft Job
+- Post A PeopleSoft Job
+- Peoplesoft Jobs
+- Peoplesoft Job Search
+- PeopleSoft Job
+- Peoplesoft
+- Hire Peoplesoft
+apis: []
+x-common:
+- type: x-about
+  url: http://www.learnabouttheweb.com
+- type: x-about
+  url: https://www.learnabouttheweb.com
+- type: x-careers
+  url: https://www.peoplesoft-planet.com/jobs/add/
+- type: x-careers
+  url: http://www.peoplesoft-planet.com/peoplesoft-jobs/
+- type: x-careers
+  url: https://www.peoplesoft-planet.com/jobs//
+- type: x-careers
+  url: https://www.peoplesoft-planet.com/jobs//?type=10
+- type: x-careers
+  url: https://www.peoplesoft-planet.com/jobs//?type=8
+- type: x-careers
+  url: https://www.peoplesoft-planet.com/jobs//?type=5
+- type: x-careers
+  url: https://www.peoplesoft-planet.com/jobs//?type=3
+- type: x-careers
+  url: https://www.peoplesoft-planet.com/jobs//?type=7
+- type: x-careers
+  url: https://www.peoplesoft-planet.com/jobs//?type=9
+- type: x-careers
+  url: https://www.peoplesoft-planet.com/jobs//?type=12
+- type: x-careers
+  url: https://www.peoplesoft-planet.com/jobs//?type=14
+- type: x-careers
+  url: https://www.peoplesoft-planet.com/jobs//?type=4
+- type: x-careers
+  url: https://www.peoplesoft-planet.com/jobs//?type=11
+- type: x-careers
+  url: https://www.peoplesoft-planet.com/jobs//?type=13
+- type: x-careers
+  url: https://www.peoplesoft-planet.com/jobs/page/2/
+- type: x-careers
+  url: https://www.peoplesoft-planet.com/jobs/page/3/
+- type: x-careers
+  url: https://www.peoplesoft-planet.com/jobs/page/7/
+- type: x-careers
+  url: https://www.peoplesoft-planet.com/jobs
+- type: x-contact
+  url: https://www.peoplesoft-planet.com/contact-us/
+- type: x-login
+  url: https://www.peoplesoft-planet.com/jobs/employer/login/
+- type: x-press
+  url: http://wordpress.org/
+- type: x-privacy
+  url: https://www.peoplesoft-planet.com/privacy-policy/
+- type: x-security
+  url: http://www.cybersecurityjobboards.com
+- type: x-terms-of-service
+  url: https://www.peoplesoft-planet.com/terms-use/
+- type: x-website
+  url: https://www.peoplesoft-planet.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

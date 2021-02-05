@@ -1,0 +1,29 @@
+---
+name: Automotive Business Solutions
+description: Learn about how ABS can help your dealership use emerging computer-driven
+  technologies to track parts within your dealership
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9069118"
+url: https://raw.githubusercontent.com/api-network/organizations/main/automotive-business-solutions.yaml
+tags:
+- Parts Inventory
+- Dealership
+- Barcode
+- Automotive Business Solutions
+- Abs
+apis: []
+x-common:
+- type: x-about
+  url: https://www.absdata.com/about
+- type: x-website
+  url: https://www.absdata.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

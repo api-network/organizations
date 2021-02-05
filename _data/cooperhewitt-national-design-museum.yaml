@@ -1,0 +1,91 @@
+---
+name: Cooper-Hewitt National Design Museum
+description: Cooper Hewitt Smithsonian Design Museum located in New York | Open M-F
+  & Su 10-6, Sa 10-9
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1831-cooper-hewitt-national-design-museum.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "248642"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cooperhewitt-national-design-museum.yaml
+tags:
+- Museums
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://cooperhewitt.org
+- type: x-about
+  url: https://www.cooperhewitt.org/about/welcome
+- type: x-blog
+  url: https://www.cooperhewitt.org/blog
+- type: x-careers
+  url: https://www.cooperhewitt.org/careers
+- type: x-contact
+  url: https://www.cooperhewitt.org/contact
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/cooper-hewitt
+- type: x-developer
+  url: https://collection.cooperhewitt.org/api/
+- type: x-developer
+  url: https://collection.cooperhewitt.org/api/methods/
+- type: x-developer
+  url: https://collection.cooperhewitt.org/api/formats/
+- type: x-developer
+  url: https://collection.cooperhewitt.org/api/keys/
+- type: x-developer
+  url: https://collection.cooperhewitt.org/api/oauth2/tokens/
+- type: x-developer
+  url: https://collection.cooperhewitt.org/api/oauth2/
+- type: x-developer
+  url: https://collection.cooperhewitt.org/api/oauth2/howto/
+- type: x-events
+  url: https://www.cooperhewitt.org/events
+- type: x-events
+  url: https://cooperhewitt.org/events
+- type: x-events
+  url: https://cooperhewitt.org/events/current-exhibitions/
+- type: x-facebook
+  url: https://facebook.com/cooperhewitt
+- type: x-instagram
+  url: https://instagram.com/cooperhewitt
+- type: x-login
+  url: https://collection.cooperhewitt.org/signin/
+- type: x-login
+  url: https://collection.cooperhewitt.org/signin
+- type: x-plans
+  url: https://dx.cooperhewitt.org/lesson-plans/
+- type: x-press
+  url: https://www.cooperhewitt.org/press
+- type: x-privacy
+  url: https://www.cooperhewitt.org/privacy
+- type: x-self-service-registration
+  url: https://collection.cooperhewitt.org/api/keys/register/
+- type: x-signup
+  url: https://collection.cooperhewitt.org/signup/
+- type: x-signup
+  url: https://collection.cooperhewitt.org/signup
+- type: x-support
+  url: https://www.cooperhewitt.org/support/donate-today
+- type: x-support
+  url: https://www.cooperhewitt.org/support/corporate-support
+- type: x-support
+  url: https://cooperhewitt.org/support/donate-today
+- type: x-support
+  url: https://cooperhewitt.org/support/corporate-support
+- type: x-support
+  url: https://www.cooperhewitt.org/support
+- type: x-twitter
+  url: https://twitter.com/cooperhewitt
+- type: x-website
+  url: https://collection.cooperhewitt.org/api/
+- type: x-youtube
+  url: https://youtube.com/cooperhewitt
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

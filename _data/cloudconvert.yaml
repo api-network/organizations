@@ -1,0 +1,61 @@
+---
+name: CloudConvert
+description: <p>CloudConvert supports the conversion between more than 100 different
+  audio, video, document, ebook, archive, image, spreadsheet and presentation formats.
+  Check the supported formats for more details. There is no need to install any software
+  on your computer! Upload your files to CloudConvert and we will do the job for you.
+  Don't worry, your files are safe and only you can access them. They will be deleted
+  again as soon as your conversion is finished. The CloudConvert API offers the full
+  functionality of CloudConvert and makes it possible to use the conversion services
+  in your own applications.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/cloud-convert.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cloudconvert.yaml
+tags:
+- Video Conversion
+- Target
+- Images
+- Have API
+- Audio Conversion
+- Audio Conversion
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: https://cloudconvert.com
+- type: x-about
+  url: https://cloudconvert.com/about
+- type: x-blog
+  url: https://cloudconvert.com/blog
+- type: x-blog
+  url: https://cloudconvert.org/blog/
+- type: x-blog-rss
+  url: https://cloudconvert.org/blog/feed/
+- type: x-contact
+  url: https://cloudconvert.com/contact
+- type: x-login
+  url: https://cloudconvert.com/login
+- type: x-pricing
+  url: https://cloudconvert.com/pricing
+- type: x-privacy
+  url: https://cloudconvert.com/privacy
+- type: x-self-service-registration
+  url: https://cloudconvert.com/register
+- type: x-status
+  url: https://status.cloudconvert.com
+- type: x-terms-of-service
+  url: https://cloudconvert.com/terms
+- type: x-twitter
+  url: https://twitter.com/CloudConvert
+- type: x-website
+  url: https://cloudconvert.org/page/api
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

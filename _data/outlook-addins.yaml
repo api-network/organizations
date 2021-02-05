@@ -1,0 +1,39 @@
+---
+name: Outlook add-ins
+description: Outlook plugins, add-ins, and modifications by Sperry Software. Enterprise
+  grade, full support, custom integration. Let us tame your inbox!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "521289"
+url: https://raw.githubusercontent.com/api-network/organizations/main/outlook-addins.yaml
+tags:
+- Microsoft Outlook
+apis: []
+x-common:
+- type: x-about
+  url: https://www.sperrysoftware.com/Email-Tools/about-us/
+- type: x-blog
+  url: https://www.sperrysoftware.com/Email-Tools/blog/
+- type: x-contact
+  url: https://www.sperrysoftware.com/Email-Tools/contact-us/
+- type: x-facebook
+  url: https://facebook.com/sperrysoftware
+- type: x-linkedin
+  url: https://uk.linkedin.com/company/sperry-software-inc.
+- type: x-privacy
+  url: https://www.sperrysoftware.com/Email-Tools/privacy/
+- type: x-support
+  url: https://www.sperrysoftware.com/Email-Tools/support-2/
+- type: x-twitter
+  url: https://twitter.com/sperrysoftware
+- type: x-website
+  url: https://www.sperrysoftware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

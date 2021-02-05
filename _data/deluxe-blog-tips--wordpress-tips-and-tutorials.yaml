@@ -1,0 +1,52 @@
+---
+name: Deluxe Blog Tips - WordPress Tips And Tutorials
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "292675"
+url: https://raw.githubusercontent.com/api-network/organizations/main/deluxe-blog-tips--wordpress-tips-and-tutorials.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-blog
+  url: https://deluxeblogtips.com/
+- type: x-blog
+  url: https://deluxeblogtips.com/category/javascript/
+- type: x-blog
+  url: https://deluxeblogtips.com/category/tools/
+- type: x-blog
+  url: https://deluxeblogtips.com/category/server/
+- type: x-blog
+  url: https://deluxeblogtips.com/category/php/
+- type: x-blog
+  url: https://deluxeblogtips.com/category/seo/
+- type: x-blog
+  url: https://deluxeblogtips.com/services/
+- type: x-blog
+  url: https://deluxeblogtips.com/category/uncategorized/
+- type: x-blog
+  url: https://deluxeblogtips.com/author/anhtnt/
+- type: x-blog
+  url: https://deluxeblogtips.com/category/marketing/
+- type: x-blog
+  url: https://deluxeblogtips.com/author/linhtnd/
+- type: x-blog
+  url: https://deluxeblogtips.com/page/2/
+- type: x-blog
+  url: https://deluxeblogtips.com/page/28/
+- type: x-press
+  url: https://deluxeblogtips.com/category/wordpress/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-website
+  url: https://www.deluxeblogtips.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

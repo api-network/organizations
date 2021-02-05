@@ -1,0 +1,58 @@
+---
+name: Mississippi State University
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "35295"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mississippi-state-university.yaml
+tags:
+- Mississippi
+apis: []
+x-common:
+- type: x-website
+  url: http://bagley.msstate.edu
+- type: x-about
+  url: https://www.cse.msstate.edu/about/
+- type: x-careers
+  url: https://www.msujobs.msstate.edu/
+- type: x-code
+  url: http://www.honorcode.msstate.edu/
+- type: x-contact
+  url: https://www.msstate.edu/contact/
+- type: x-facebook
+  url: https://www.facebook.com/msucse/
+- type: x-facebook
+  url: https://www.facebook.com/msuengineering
+- type: x-instagram
+  url: https://www.instagram.com/msuengineering/
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/3733018
+- type: x-news
+  url: https://www.cse.msstate.edu/newsroom/
+- type: x-news
+  url: http://www.bagley.msstate.edu/news/category/news/cse/
+- type: x-news
+  url: http://msstate.edu/newsroom
+- type: x-news
+  url: http://www.bagley.msstate.edu/newsroom
+- type: x-security
+  url: https://www.cse.msstate.edu/cyber-security/
+- type: x-status
+  url: https://www.status.its.msstate.edu/
+- type: x-terms-of-service
+  url: https://www.msstate.edu/legal/
+- type: x-twitter
+  url: https://twitter.com/csemsstate
+- type: x-twitter
+  url: https://twitter.com/MSUEngineering
+- type: x-website
+  url: https://www.cse.msstate.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

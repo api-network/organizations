@@ -1,0 +1,27 @@
+---
+name: 101 Inks
+description: Save Up TO 85% OFF! with Cheap Printer Ink Prices on ALL Brands! HP,
+  Canon! Call 101inks.com 866-857-5352. 1 Year Warranty! OEM Quality!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7465488"
+url: https://raw.githubusercontent.com/api-network/organizations/main/101-inks.yaml
+tags:
+- Supplies
+apis: []
+x-common:
+- type: x-about
+  url: https://needink.com/about-us/
+- type: x-blog
+  url: https://needink.com/blog/
+- type: x-website
+  url: https://www.101inks.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

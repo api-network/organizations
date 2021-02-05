@@ -1,0 +1,31 @@
+---
+name: IconsMonster
+description: Download this awesome collection of Windows XP style Icons to use on
+  you're website, for one super low price!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8133404"
+url: https://raw.githubusercontent.com/api-network/organizations/main/iconsmonster.yaml
+tags:
+- Icons
+- Downloadable Icons
+- Download Icons
+apis: []
+x-common:
+- type: x-contact
+  url: http://www.iconsmonster.com/contactus.php
+- type: x-privacy
+  url: http://www.iconsmonster.com/privacy.php
+- type: x-website
+  url: https://www.iconsmonster.com
+- type: x-youtube
+  url: http://www.youtube.com/watch?v=Ac7rIyZYOtg
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

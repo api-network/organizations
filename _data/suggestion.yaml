@@ -1,0 +1,21 @@
+---
+name: suggestion
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/suggestion.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://suggestion-api.endpoints.hopster-backend-test.cloud.goog
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

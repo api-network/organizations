@@ -1,0 +1,38 @@
+---
+name: Computronix
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2367299"
+url: https://raw.githubusercontent.com/api-network/organizations/main/computronix.yaml
+tags:
+- Consultants
+apis: []
+x-common:
+- type: x-about
+  url: https://www.computronix.com/about/
+- type: x-blog
+  url: https://www.computronix.com/blog/
+- type: x-case-studies
+  url: https://www.computronix.com/case-studies/
+- type: x-contact
+  url: https://www.computronix.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/ComputronixCXC/
+- type: x-instagram
+  url: https://www.instagram.com/computronixcx/
+- type: x-linkedin
+  url: https://ca.linkedin.com/company/computronix
+- type: x-platform
+  url: https://www.computronix.com/posse-enterprise-platform/
+- type: x-website
+  url: https://www.computronix.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

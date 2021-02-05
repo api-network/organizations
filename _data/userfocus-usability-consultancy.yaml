@@ -1,0 +1,28 @@
+---
+name: Userfocus Usability Consultancy
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "518053"
+url: https://raw.githubusercontent.com/api-network/organizations/main/userfocus-usability-consultancy.yaml
+tags:
+- Companies And Consultants
+apis: []
+x-common:
+- type: x-website
+  url: http://userfocus.co.uk
+- type: x-developer
+  url: http://developer.userfocus.co.uk
+- type: x-twitter
+  url: https://twitter.com/userfocus
+- type: x-website
+  url: https://www.userfocus.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

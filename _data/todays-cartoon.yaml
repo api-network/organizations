@@ -1,0 +1,29 @@
+---
+name: Today's Cartoon
+description: The last works of Randy Glasbergen were found in his office as the family
+  were sorting through items on his desk after his unexpected passing in 2015. The
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "243019"
+url: https://raw.githubusercontent.com/api-network/organizations/main/todays-cartoon.yaml
+tags:
+- Cartoons
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.glasbergen.com/cartoon-blog/
+- type: x-contact
+  url: https://www.glasbergen.com/contact-me/
+- type: x-terms-of-service
+  url: https://www.glasbergen.com/rates-and-terms-of-usage/
+- type: x-website
+  url: https://www.glasbergen.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

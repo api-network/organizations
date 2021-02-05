@@ -1,0 +1,30 @@
+---
+name: Protonotes
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/protonotes.yaml
+tags:
+- Wiki Engines
+apis: []
+x-common:
+- type: x-code
+  url: http://joomlacode.org/gf/project/protonote/
+- type: x-facebook
+  url: http://www.facebook.com/pages/Protonotes/65114577418
+- type: x-press
+  url: http://wordpress.org/extend/plugins/protonotes/
+- type: x-twitter
+  url: https://twitter.com/search?q=protonotes
+- type: x-website
+  url: https://www.protonotes.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

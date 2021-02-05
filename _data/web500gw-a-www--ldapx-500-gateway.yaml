@@ -1,0 +1,22 @@
+---
+name: 'web500gw: A WWW - LDAP/X.500 Gateway'
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "430"
+url: https://raw.githubusercontent.com/api-network/organizations/main/web500gw-a-www--ldapx-500-gateway.yaml
+tags:
+- LDAP
+apis: []
+x-common:
+- type: x-website
+  url: https://web500gw.sourceforge.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,46 @@
+---
+name: Oasys Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "285297"
+url: https://raw.githubusercontent.com/api-network/organizations/main/oasys-software.yaml
+tags:
+- File Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.oasys-software.com
+- type: x-about
+  url: https://www.oasys-software.com/about-us/
+- type: x-careers
+  url: https://www.oasys-software.com/careers/
+- type: x-case-studies
+  url: https://www.oasys-software.com/case-studies/
+- type: x-contact
+  url: https://www.oasys-software.com/contact-us/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/oasys-software
+- type: x-news
+  url: https://www.oasys-software.com/news/
+- type: x-privacy
+  url: https://www.oasys-software.com/privacy-policy/
+- type: x-support
+  url: https://www.oasys-software.com/support/
+- type: x-terms-of-service
+  url: https://www.oasys-software.com/terms-conditions/
+- type: x-twitter
+  url: https://www.twitter.com/oasys_software
+- type: x-website
+  url: https://www.oasys-software.com
+- type: x-youtube
+  url: https://www.youtube.com/user/TheOasysSoftware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

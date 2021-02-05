@@ -1,0 +1,43 @@
+---
+name: HIPAA Survival Guide
+description: 'HIPAA Survival Guide: The help health care providers and their business
+  associates need to advance their HIPAA compliance literacy and competency.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3155449"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hipaa-survival-guide.yaml
+tags:
+- HIPAA
+apis: []
+x-common:
+- type: x-website
+  url: http://www.hipaasurvivalguide.com
+- type: x-blog
+  url: http://www.myhealthtechblog.com/
+- type: x-news
+  url: http://store.hipaasurvivalguide.com/news.html
+- type: x-twitter
+  url: https://twitter.com/hipaasurvival
+- type: x-website
+  url: https://www.hipaasurvivalguide.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=R3BGnggw55A
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=K1uIDnaugsc
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=qmskcD71Q7Y
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=fin-PgSYeUQ
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=QOo62vEdZ-4
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=3CUD5vpvloI
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

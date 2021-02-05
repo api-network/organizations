@@ -1,0 +1,34 @@
+---
+name: Samy's DV & Edit
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3674072"
+url: https://raw.githubusercontent.com/api-network/organizations/main/samys-dv-edit.yaml
+tags:
+- Hardware And Equipment
+apis: []
+x-common:
+- type: x-about
+  url: http://www.samysdv.com/about_us.php
+- type: x-developer
+  url: http://developer.samysdv.com
+- type: x-facebook
+  url: http://www.facebook.com/samysdv
+- type: x-twitter
+  url: http://twitter.com/samysdv
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-website
+  url: https://www.samysdv.com
+- type: x-youtube
+  url: http://www.youtube.com/user/SamysDV
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,37 @@
+---
+name: PlasticSCM
+description: A version control that will help you develop new features in parallel,
+  go distributed, merge in time, and never break a build again.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "218249"
+url: https://raw.githubusercontent.com/api-network/organizations/main/plasticscm.yaml
+tags:
+- Tools
+apis: []
+x-common:
+- type: x-website
+  url: http://www.plasticscm.com
+- type: x-blog
+  url: http://blog.plasticscm.com
+- type: x-developer
+  url: http://developer.plasticscm.com
+- type: x-facebook
+  url: https://www.facebook.com/PlasticSCM
+- type: x-forum
+  url: https://forum.plasticscm.com
+- type: x-twitter
+  url: https://twitter.com/plasticscm
+- type: x-website
+  url: https://www.plasticscm.com
+- type: x-youtube
+  url: https://www.youtube.com/user/codicesoftware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

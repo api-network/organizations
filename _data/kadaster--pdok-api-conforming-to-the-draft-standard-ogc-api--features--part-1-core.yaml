@@ -1,0 +1,24 @@
+---
+name: 'Kadaster - PDOK API conforming to the draft standard OGC API - Features - Part
+  1: Core'
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kadaster--pdok-api-conforming-to-the-draft-standard-ogc-api--features--part-1-core.yaml
+tags:
+- Have OpenAPI
+- Have API Paths
+apis: []
+x-common:
+- type: x-website
+  url: http://download.pdok.io/bgt/oaf/v1_0
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

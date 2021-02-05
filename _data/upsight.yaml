@@ -1,0 +1,47 @@
+---
+name: Upsight
+description: Upsight is the world's most comprehensive user lifecycle management platform.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29392-upsight-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3770207"
+url: https://raw.githubusercontent.com/api-network/organizations/main/upsight.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.upsight.com
+- type: x-blog
+  url: https://blog.upsight.com/blog
+- type: x-blog
+  url: https://blog.upsight.com
+- type: x-contact
+  url: https://resources.upsight.com/contact-us-upsight
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/upsight
+- type: x-email
+  url: privacy-info@upsight.com
+- type: x-email
+  url: support@upsight.com
+- type: x-email
+  url: publish@upsight.com
+- type: x-email
+  url: opt-out@upsight.com
+- type: x-facebook
+  url: https://www.facebook.com/GetUpsight/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/726964
+- type: x-support
+  url: https://help.upsight.com
+- type: x-twitter
+  url: https://twitter.com/GetUpsight
+- type: x-website
+  url: http://upsight.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,36 @@
+---
+name: University of Washington
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3164"
+url: https://raw.githubusercontent.com/api-network/organizations/main/university-of-washington.yaml
+tags:
+- Research Groups
+apis: []
+x-common:
+- type: x-website
+  url: http://db.cs.washington.edu/
+- type: x-facebook
+  url: https://www.facebook.com/
+- type: x-github
+  url: https://github.com/uwdb
+- type: x-github
+  url: https://brandonhaynes.github.io/
+- type: x-github
+  url: https://uwescience.github.io/sqlshare/
+- type: x-pricing
+  url: http://cloud-data-pricing.cs.washington.edu/
+- type: x-twitter
+  url: https://twitter.com/uw_db
+- type: x-website
+  url: https://db.cs.washington.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

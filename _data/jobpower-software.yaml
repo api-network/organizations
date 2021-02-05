@@ -1,0 +1,53 @@
+---
+name: JobPower Software
+description: Construction accounting software by JOBPOWER.  Includes job cost management,
+  construction specific payroll, AIA billing and other features for general contractors
+  and subcontractors.  Helping construction companies since 1984.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6526408"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jobpower-software.yaml
+tags:
+- Subcontractors
+- Subcontractor Software
+- Software
+- Plumbing
+- Payroll Software
+- Painting
+- Mechanical
+- Job Costing Software
+- Job Costing
+- Job Cost Software
+- Job Cost
+- Integrated Accounting Software
+- HVAC
+- Home Builders
+- General Contractors
+- General Contractor Software
+- Fire Protection
+- Estimating Software
+- Electrical
+- Drywall
+- Document Management
+- Construction Payroll
+- Construction Management
+- Construction Accounting Software
+- Construction Accounting
+- Construction
+- Bidding
+- AIA Software
+- AIA Billing
+- Accounting Software
+apis: []
+x-common:
+- type: x-website
+  url: https://www.jobpow.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

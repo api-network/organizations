@@ -1,0 +1,33 @@
+---
+name: PDF Buddy
+description: Edit PDF files for free with our online PDF editor! You can add text,
+  images, and signatures, white-out and highlight content, and more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "110448"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pdf-buddy.yaml
+tags:
+- View Pdf
+- Split Pdf
+- Sign Pdf
+- Online Tools
+- Merge Pdf
+- Fill Pdf Form
+- Edit Pdf
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/pdfbuddy
+- type: x-twitter
+  url: https://twitter.com/pvcung/statuses/453699914506043392
+- type: x-website
+  url: https://www.pdfbuddy.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,30 @@
+---
+name: Open and Free Technology Community
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1639327"
+url: https://raw.githubusercontent.com/api-network/organizations/main/open-and-free-technology-community.yaml
+tags:
+- Networks
+apis: []
+x-common:
+- type: x-feed
+  url: https://www.oftc.net/feed.xml
+- type: x-github
+  url: https://github.com/oftc
+- type: x-github
+  url: https://github.com/oftc/oftc
+- type: x-github
+  url: https://github.com/oftc/oftc-tools/tree/master/logo
+- type: x-website
+  url: https://www.oftc.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

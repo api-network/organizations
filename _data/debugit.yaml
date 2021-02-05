@@ -1,0 +1,34 @@
+---
+name: DeBug-It
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/debugit.yaml
+tags:
+- Technical Support And Services
+apis: []
+x-common:
+- type: x-website
+  url: http://www.pcmedicsofnj.com
+- type: x-about
+  url: https://pcmedicsofnj.com/about-us/
+- type: x-facebook
+  url: https://facebook.com/pcmedicsofnj
+- type: x-plans
+  url: https://pcmedicsofnj.com/plans/
+- type: x-support
+  url: https://pcmedicsofnj.com/remote-support/
+- type: x-twitter
+  url: https://twitter.com/pcmedicsofnj
+- type: x-website
+  url: https://www.debug-it.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

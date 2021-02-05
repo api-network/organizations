@@ -1,0 +1,61 @@
+---
+name: Print Audit
+description: Welcome to Print Audit, the home for Managed Print Services and Seat
+  Based Billing tools for data on printer users, printer devices, and documents.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1021570"
+url: https://raw.githubusercontent.com/api-network/organizations/main/print-audit.yaml
+tags:
+- Printing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.printaudit.com
+- type: x-about
+  url: https://www.printaudit.com/about
+- type: x-blog
+  url: https://www.printaudit.com/printaudit-blog
+- type: x-careers
+  url: https://www.printaudit.com/careers
+- type: x-case-studies
+  url: https://www.printaudit.com/case-studies
+- type: x-contact
+  url: https://www.printaudit.com/contact-us
+- type: x-documentation
+  url: https://www.printaudit.com/documentation
+- type: x-events
+  url: https://www.printaudit.com/events
+- type: x-facebook
+  url: https://www.facebook.com/printaudit/
+- type: x-forum
+  url: https://www.printaudit.com/discussion-forum
+- type: x-linkedin
+  url: https://www.linkedin.com/company/print-audit/
+- type: x-linkedin
+  url: https://www.linkedin.com/company-beta/347134
+- type: x-news
+  url: https://www.printaudit.com/newsroom
+- type: x-news
+  url: https://www.printaudit.com/print-audit-in-the-news
+- type: x-privacy
+  url: https://www.printaudit.com/privacy-policy
+- type: x-support
+  url: https://www.printaudit.com/support
+- type: x-twitter
+  url: https://twitter.com/PrintAudit
+- type: x-webinars
+  url: https://www.printaudit.com/webinars
+- type: x-website
+  url: https://www.printaudit.com
+- type: x-youtube
+  url: https://www.youtube.com/user/PrintAudit
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

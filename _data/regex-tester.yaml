@@ -1,0 +1,51 @@
+---
+name: Regex Tester
+description: Regular Expression Tester with highlighting for Javascript and PCRE.
+  Quickly test and debug your regex.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "35078"
+url: https://raw.githubusercontent.com/api-network/organizations/main/regex-tester.yaml
+tags:
+- Validator
+- Tools
+- Tester
+- Test
+- Regular Expression
+- Regular
+- Regexp
+- Regex Tester
+- Regex Test
+- Regex Editor
+- RegEx
+- PHP
+- Perl
+- PCRE
+- Online
+- JavaScript
+- Expression
+apis: []
+x-common:
+- type: x-code
+  url: http://www.cleancss.com/base64-decode
+- type: x-code
+  url: http://www.cleancss.com/base64-encode
+- type: x-code
+  url: http://www.url-encode-decode.com
+- type: x-github
+  url: http://github.com/gskinner/regexr/
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-twitter
+  url: https://twitter.com/danstools00
+- type: x-website
+  url: https://www.regextester.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

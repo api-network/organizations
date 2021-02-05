@@ -1,0 +1,92 @@
+---
+name: FoxyCart
+description: <p>FoxyCart is a hosted PCI compliant e-commerce platform built to empower
+  web developers and designers with a powerful and flexible platform with which to
+  add e-commerce functionality to existing systems. It's not an all-in-one system
+  with an integrated CMS, CRM, email marketing system, or anything else. We've chosen
+  flexibility over bloat, power over features, and built the most flexible and streamlined
+  cart and checkout system available.&nbsp;</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/foxy-cart-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "444702"
+url: https://raw.githubusercontent.com/api-network/organizations/main/foxycart.yaml
+tags:
+- Target
+- Shopping Carts
+- Shopping Cart
+- Hypermedia API
+- Have API
+- Commerce
+- API Provider
+- API LIfeycle
+apis: []
+x-common:
+- type: x-website
+  url: https://www.foxy.io
+- type: x-base
+  url: https://*.foxycart.com/api
+- type: x-blog
+  url: https://www.foxy.io/blog/changelogs/
+- type: x-blog
+  url: https://www.foxy.io/blog/product-updates/
+- type: x-blog
+  url: https://www.foxy.io/blog/a-look-at-2019/
+- type: x-blog
+  url: https://www.foxy.io/blog/changes-for-2019-12-16/
+- type: x-blog
+  url: https://www.foxy.io/blog/changes-for-2019-12-12/
+- type: x-blog
+  url: https://www.foxy.io/blog
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/foxycart
+- type: x-developers
+  url: https://wiki.foxycart.com/
+- type: x-documentation
+  url: https://docs.foxycart.com/
+- type: x-email
+  url: hello@foxycart.com
+- type: x-email
+  url: hello@foxy.io
+- type: x-email
+  url: support+privacy@foxy.io
+- type: x-email
+  url: help+privacy@foxy.io
+- type: x-email
+  url: security@foxycart.com
+- type: x-email
+  url: helpdesk@foxycart.com
+- type: x-facebook
+  url: https://www.facebook.com/foxycart
+- type: x-forum
+  url: https://forum.foxycart.com/
+- type: x-github
+  url: https://github.com/FoxyCart
+- type: x-pricing
+  url: http://www.foxycart.com/pricing-signup
+- type: x-signup
+  url: https://admin.foxycart.com/signup/
+- type: x-signup
+  url: https://admin.foxycart.com/signup/?ref=foxyio
+- type: x-status
+  url: https://status.foxy.io/
+- type: x-support
+  url: https://support.foxy.io
+- type: x-twitter
+  url: https://twitter.com/foxycart
+- type: x-twitter
+  url: https://twitter.com/foxy_io
+- type: x-website
+  url: https://www.foxycart.com
+- type: x-website
+  url: https://www.foxy.io/
+- type: x-youtube
+  url: https://www.youtube.com/user/foxycart
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

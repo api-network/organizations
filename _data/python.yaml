@@ -1,0 +1,46 @@
+---
+name: Python
+description: The official home of the Python Programming Language
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1196"
+url: https://raw.githubusercontent.com/api-network/organizations/main/python.yaml
+tags:
+- Python
+apis: []
+x-common:
+- type: x-website
+  url: http://www.python.org/psf
+- type: x-blog
+  url: http://pyfound.blogspot.com/
+- type: x-blog
+  url: http://pycon.blogspot.com/
+- type: x-blog
+  url: https://blog.python.org
+- type: x-documentation
+  url: https://docs.python.org
+- type: x-documentation
+  url: https://docs.python.org/3/license.html
+- type: x-documentation
+  url: https://docs.python.org/faq/
+- type: x-facebook
+  url: https://www.facebook.com/pythonlang?fref=ts
+- type: x-github
+  url: https://github.com/python/pythondotorg/issues
+- type: x-open-source
+  url: https://www.openstack.org
+- type: x-status
+  url: https://status.python.org/
+- type: x-twitter
+  url: https://twitter.com/ThePSF
+- type: x-website
+  url: https://www.python.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

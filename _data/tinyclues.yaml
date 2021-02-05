@@ -1,0 +1,33 @@
+---
+name: Tinyclues
+description: Tinyclues' AI marketing solution optimizes campaign planning and targeting
+  to maximize CRM marketing revenue and customer engagement.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28701-www-tinyclues-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "358556"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tinyclues.yaml
+tags:
+- API Not Found
+apis: []
+x-common:
+- type: x-website
+  url: http://www.tinyclues.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/tinyclues
+- type: x-email
+  url: contact@tinyclues.com
+- type: x-github
+  url: https://github.com/tinyclues
+- type: x-twitter
+  url: https://twitter.com/Tinyclues
+- type: x-website
+  url: https://www.tinyclues.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

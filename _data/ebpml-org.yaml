@@ -1,0 +1,26 @@
+---
+name: ebpml.org
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ebpml-org.yaml
+tags:
+- Workflow
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.ebpml.org/blog2/index.php/2015/06/16/designing-a-reliable-api-call
+- type: x-website
+  url: http://ebpml.org
+- type: x-website
+  url: https://www.ebpml.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

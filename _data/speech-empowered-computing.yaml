@@ -1,0 +1,34 @@
+---
+name: Speech Empowered Computing
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/speech-empowered-computing.yaml
+tags:
+- Resellers
+apis: []
+x-common:
+- type: x-website
+  url: https://speechempoweredcomputing.co.uk
+- type: x-about
+  url: https://speechempoweredcomputing.co.uk/about-us
+- type: x-blog
+  url: https://speechempoweredcomputing.co.uk/blog
+- type: x-contact
+  url: https://speechempoweredcomputing.co.uk/contact
+- type: x-facebook
+  url: https://www.facebook.com/speechempowered/
+- type: x-twitter
+  url: https://twitter.com/speechem
+- type: x-website
+  url: https://www.speechempoweredcomputing.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

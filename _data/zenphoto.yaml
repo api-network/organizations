@@ -1,0 +1,42 @@
+---
+name: Zenphoto
+description: ZenphotoCMS is a CMS for selfhosted, gallery focused websites. Our focus
+  lies on being easy to use and having all the features there when you need them (but
+  out
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "507701"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zenphoto.yaml
+tags:
+- Image Cataloguing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.zenphoto.org
+- type: x-facebook
+  url: https://www.facebook.com/zenphotocms
+- type: x-forum
+  url: http://forum.zenphoto.org
+- type: x-forum
+  url: http://forum.zenphoto.org/discussions/feed.rss
+- type: x-forum
+  url: https://open.vanillaforums.com
+- type: x-github
+  url: https://github.com/zenphoto/zenphoto
+- type: x-open-source
+  url: https://github.com/zenphoto/zenphoto/issues?state=open
+- type: x-twitter
+  url: http://twitter.com/zenphotocms
+- type: x-website
+  url: https://www.zenphoto.org
+- type: x-youtube
+  url: http://www.youtube.com/zenphotocms
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

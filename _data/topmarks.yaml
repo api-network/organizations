@@ -1,0 +1,72 @@
+---
+name: Topmarks
+description: Searchable site of thousands of quality teaching resources, interactive
+  resources, homework, exam and revision help. Useful for teachers, pupils and parents.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "14168"
+url: https://raw.githubusercontent.com/api-network/organizations/main/topmarks.yaml
+tags:
+- Writing
+- "Worksheets\r\nCurriculum"
+- Whiteboard
+- UK
+- Teaching
+- Teachers
+- Smartboard
+- Secondary
+- Science
+- Schools
+- Sat
+- Resources
+- Religious
+- Reading
+- Primary Resources
+- Primary
+- Play
+- Physics
+- Parents
+- Numbers
+- Maths
+- Mathematics
+- Literacy Hour
+- Letters
+- Learning
+- Key Stage
+- Junior
+- Interactive
+- Infants
+- Homework Help
+- Help
+- GCSE Revision
+- Games
+- Free
+- Family Friendly
+- Elementary
+- Assessment
+- A Levels
+apis: []
+x-common:
+- type: x-website
+  url: http://www.topmarks.co.uk
+- type: x-blog
+  url: http://blog.topmarks.co.uk/
+- type: x-blog
+  url: https://blog.topmarks.co.uk/
+- type: x-facebook
+  url: https://www.facebook.com/TopmarksOnline
+- type: x-twitter
+  url: https://www.twitter.com/topmarksed
+- type: x-twitter
+  url: https://twitter.com/topmarksed
+- type: x-website
+  url: https://www.topmarks.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,38 @@
+---
+name: wikiHow
+description: Learn how to do anything with wikiHow, the world's most popular how-to
+  website. Easy, well-researched, and trustworthy instructions for everything you
+  want to know.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "143"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wikihow.yaml
+tags:
+- Wiki Farms
+apis: []
+x-common:
+- type: x-website
+  url: http://wikiHow.com
+- type: x-developer
+  url: http://developer.wikihow.com
+- type: x-facebook
+  url: https://www.facebook.com/wikiHow/
+- type: x-instagram
+  url: https://www.instagram.com/wikihow/
+- type: x-signup
+  url: https://www.wikihow.com/Special:UserLogin?type=signup
+- type: x-twitter
+  url: https://twitter.com/wikihow
+- type: x-website
+  url: https://www.wikihow.com
+- type: x-youtube
+  url: https://www.youtube.com/wikihow
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

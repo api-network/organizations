@@ -1,0 +1,22 @@
+---
+name: Zafire Limited
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zafire-limited.yaml
+tags:
+- Products And Services
+apis: []
+x-common:
+- type: x-website
+  url: https://www.zafire.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

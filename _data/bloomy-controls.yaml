@@ -1,0 +1,46 @@
+---
+name: Bloomy Controls
+description: Bloomy is an NI Platinum alliance partner providing products and platforms
+  for automated test, data acquisition, and control systems.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3865599"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bloomy-controls.yaml
+tags:
+- Universal Test
+- Test Software
+- Test Fixture
+- PCB Functional Test
+- Mobile Data Acquisition
+- LabVIEW Training
+- LabVIEW Consulting
+- Functional Test
+- Electronics Functional Test
+- Developers And Consultants
+- Data Acquisition
+- Control Systems
+- Board Test
+- Battery Test
+- Automatic Test
+- Automated Test
+apis: []
+x-common:
+- type: x-website
+  url: http://www.bloomy.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/bloomy-controls
+- type: x-support
+  url: https://www.bloomy.com/support/resources#tabs=3
+- type: x-twitter
+  url: https://twitter.com/bloomycontrols
+- type: x-website
+  url: https://www.bloomy.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

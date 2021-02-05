@@ -1,0 +1,40 @@
+---
+name: Add2it
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "331655"
+url: https://raw.githubusercontent.com/api-network/organizations/main/add2it.yaml
+tags:
+- Collections
+apis: []
+x-common:
+- type: x-about
+  url: https://add2it.com/about/
+- type: x-contact
+  url: https://add2it.com/contact-us/
+- type: x-feed
+  url: https://add2it.com/feed/
+- type: x-feed
+  url: https://add2it.com/comments/feed/
+- type: x-news
+  url: https://add2it.com/newsletter/
+- type: x-partner
+  url: https://add2it.com/partner-with-us/
+- type: x-privacy
+  url: https://add2it.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://add2it.com/terms-and-conditions/
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-website
+  url: https://add2it.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

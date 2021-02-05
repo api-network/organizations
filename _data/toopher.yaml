@@ -1,0 +1,38 @@
+---
+name: Toopher
+description: If a site is using Toopher, you put in your username and password and
+  you're immediately sent a push notification to your phone telling you the who, what,
+  where, and when of your login. If it's you, click "allow" and you're automatically
+  granted access...
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1850_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4197105"
+url: https://raw.githubusercontent.com/api-network/organizations/main/toopher.yaml
+tags:
+- Identities
+- Have API
+apis: []
+x-common:
+- type: x-base
+  url: https://api.toopher.com/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/toopher
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/toopher
+- type: x-developers
+  url: https://dev.toopher.com/
+- type: x-login
+  url: https://dev.toopher.com/account/login/
+- type: x-twitter
+  url: https://twitter.com/toopher
+- type: x-website
+  url: https://www.toopher.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

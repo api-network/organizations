@@ -1,0 +1,60 @@
+---
+name: Intel Open Source
+description: The Intel Open Source Technology Center is committed to open source projects
+  including the Linux Kernel, graphics, Android, Webkit and others.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/intel-open-source.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "221526"
+url: https://raw.githubusercontent.com/api-network/organizations/main/intel-open-source.yaml
+tags:
+- Profile
+- Networks
+- Have API
+- Hardware
+- Compute
+- API Tools
+apis: []
+x-common:
+- type: x-website
+  url: http://intel.com/software
+- type: x-blog
+  url: https://01.org/group/3655/blogs
+- type: x-blog-rss
+  url: https://01.org/group/3655/blogs/rss.xml
+- type: x-careers
+  url: https://intel.com/jobs
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/intel-open-source-technology-center
+- type: x-email
+  url: android-ia@lists.01.org
+- type: x-email
+  url: info@01.org
+- type: x-facebook
+  url: https://www.facebook.com/IntelDeveloperZone
+- type: x-github
+  url: https://github.com/01org
+- type: x-github
+  url: https://github.com/01org/hyperscan
+- type: x-github
+  url: https://github.com/intel/hyperscan
+- type: x-github
+  url: https://github.com/intel/hyperscan/issues
+- type: x-linkedin
+  url: https://www.linkedin.com/grp/home?gid=3078126
+- type: x-twitter
+  url: https://twitter.com/intelopensource
+- type: x-twitter
+  url: https://twitter.com/intelsoftware
+- type: x-website
+  url: https://01.org/hyperscan
+- type: x-youtube
+  url: https://www.youtube.com/user/intelswnetwork
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

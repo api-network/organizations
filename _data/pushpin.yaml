@@ -1,0 +1,29 @@
+---
+name: Pushpin
+description: <p>Pushpin is a reverse proxy server that makes it easy to build realtime
+  web services. What's unique about Pushpin is that its external interface is defined
+  by whatever backend applications are running behind it. This makes it ideal for
+  API creators, where control over the front-facing protocol is paramount. Think of
+  Pushpin as the realtime equivalent of a transparent caching server like Varnish.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/pushpin-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: ""
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pushpin.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://pushp.in
+- type: x-twitter
+  url: https://twitter.com/hellopushpin
+- type: x-website
+  url: http://pushpin.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

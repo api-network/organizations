@@ -1,0 +1,28 @@
+---
+name: MPEG LA
+description: "MPEG LA is the world\u2019s leading packager and provider of one-stop
+  licenses for standards and other technology platforms. Learn about our licensing
+  solutions."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1427088"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mpeg-la.yaml
+tags:
+- Products And Tools
+apis: []
+x-common:
+- type: x-about
+  url: https://www.mpegla.com/about/
+- type: x-contact
+  url: https://www.mpegla.com/contact/
+- type: x-website
+  url: https://www.mpegla.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

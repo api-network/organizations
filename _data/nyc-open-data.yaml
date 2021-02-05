@@ -1,0 +1,52 @@
+---
+name: NYC Open Data
+description: Join more than 1,000 government organizations using Socrata to put their
+  data online, share insights, and make data-driven decisions.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/nyc-open-data-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "242583"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nyc-open-data.yaml
+tags:
+- Have API
+- Data Provider
+- City Government
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.nyc.gov/doitt
+- type: x-base
+  url: https://nycopendata.socrata.com/resource/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/socrata
+- type: x-email
+  url: info@socrata.com
+- type: x-email
+  url: press@socrata.com
+- type: x-email
+  url: support@socrata.com
+- type: x-email
+  url: sales@socrata.com
+- type: x-email
+  url: latam@socrata.com
+- type: x-email
+  url: emea@socrata.com
+- type: x-email
+  url: privacy@Socrata.com
+- type: x-github
+  url: https://github.com/CityOfNewYork
+- type: x-twitter
+  url: https://twitter.com/socrata
+- type: x-twitter
+  url: https://twitter.com/NYCDoITT
+- type: x-website
+  url: http://nycopendata.socrata.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

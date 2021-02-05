@@ -1,0 +1,27 @@
+---
+name: Upcoming.org
+description: News, email and search are just the beginning. Discover more every day.
+  Find your yodel.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/513-upcoming-org.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "11"
+url: https://raw.githubusercontent.com/api-network/organizations/main/upcoming-org.yaml
+tags:
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://upcoming.yahoo.com/services/api/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/yahoo
+- type: x-twitter
+  url: https://twitter.com/Yahoo
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

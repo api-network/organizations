@@ -1,0 +1,47 @@
+---
+name: Febooti Software
+description: Febooti offers software solutions to automate recurring & repetitive
+  tasks. Save your time using easy-to-use software!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1669817"
+url: https://raw.githubusercontent.com/api-network/organizations/main/febooti-software.yaml
+tags:
+- File Managers
+apis: []
+x-common:
+- type: x-website
+  url: https://www.febooti.com/
+- type: x-contact
+  url: https://www.febooti.com/contacts/
+- type: x-contact
+  url: https://www.febooti.com/contacts/online/
+- type: x-contact
+  url: https://www.febooti.com/contacts/online/#online
+- type: x-facebook
+  url: https://www.facebook.com/febooti
+- type: x-news
+  url: https://www.febooti.com/news/
+- type: x-privacy
+  url: https://www.febooti.com/privacy/
+- type: x-support
+  url: https://www.febooti.com/support/sla/
+- type: x-support
+  url: https://www.febooti.com/support/
+- type: x-terms-of-service
+  url: https://www.febooti.com/terms/
+- type: x-twitter
+  url: https://twitter.com/febooti
+- type: x-website
+  url: https://www.febooti.com
+- type: x-youtube
+  url: https://www.youtube.com/user/febooti
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

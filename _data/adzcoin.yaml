@@ -1,0 +1,25 @@
+---
+name: ADZcoin
+description: ADZcoin is a decentralized cryptocurrency (digital money) that can be
+  traded for Bitcoin/cash or that can be replaced for advertising space on the ADZbuzz
+  network. Every ADZcoin represents part of the daily ad inventory on the fast growing
+  ADZbuzz netw...
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/api-butterfly.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1219669"
+url: https://raw.githubusercontent.com/api-network/organizations/main/adzcoin.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: https://adzcoin.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

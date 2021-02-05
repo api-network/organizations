@@ -1,0 +1,34 @@
+---
+name: Archive.org
+description: <p><span>The Internet Archive is a 501(c)(3) non-profit library. Founded
+  in 1996, our mission is to provide Universal Access to All Knowledge. We collect
+  published works and make them available in digital formats. We are building a public
+  library that can serve anyone in the world with access to the Internet.</span></p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/archive-org.yaml
+tags:
+- History
+- Archives
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-blog
+  url: http://blog.archive.org/
+- type: x-blog-rss
+  url: http://blog.archive.org/feed/
+- type: x-twitter
+  url: https://twitter.com/internetarchive
+- type: x-website
+  url: http://archive.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

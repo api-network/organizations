@@ -1,0 +1,79 @@
+---
+name: Securonix
+description: Securonix Next-Generation SIEM combines log management, UEBA and security
+  incident response into a complete, end-to-end security operations platform.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "153468"
+url: https://raw.githubusercontent.com/api-network/organizations/main/securonix.yaml
+tags:
+- Security
+apis: []
+x-common:
+- type: x-website
+  url: http://www.securonix.com
+- type: x-about
+  url: https://www.securonix.com/company/about/
+- type: x-blog
+  url: https://www.securonix.com/blog/
+- type: x-careers
+  url: https://www.securonix.com/company/careers/
+- type: x-case-studies
+  url: https://securonix.com/resource-type/case-studies/
+- type: x-contact
+  url: https://securonix.com/contact-us/
+- type: x-contact
+  url: https://www.securonix.com/contact-us/
+- type: x-events
+  url: https://securonix.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/Securonix/
+- type: x-instagram
+  url: https://www.instagram.com/securonix/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/759889/
+- type: x-login
+  url: https://securonixsupport.freshdesk.com/support/login
+- type: x-news
+  url: https://www.securonix.com/newsroom/
+- type: x-news
+  url: https://securonix.com/in-the-news/
+- type: x-partner
+  url: https://www.securonix.com/partners/
+- type: x-partner
+  url: https://www.securonix.com/partners/mssp/
+- type: x-partner
+  url: https://www.securonix.com/partners/reseller/
+- type: x-partner
+  url: https://www.securonix.com/partners/consulting/
+- type: x-partner
+  url: https://www.securonix.com/partner-registration/
+- type: x-partner
+  url: https://securonix.com/partners/consulting/
+- type: x-platform
+  url: https://www.securonix.com/platforms/snypr/
+- type: x-platform
+  url: https://www.securonix.com/platforms/snypr-cloud/
+- type: x-press
+  url: https://www.securonix.com/press-release/
+- type: x-privacy
+  url: https://www.securonix.com/privacy-policy/
+- type: x-security
+  url: https://www.securonix.com/solutions/cloud-security/
+- type: x-twitter
+  url: https://twitter.com/Securonix
+- type: x-webinars
+  url: https://securonix.com/resource-type/webinars/
+- type: x-website
+  url: https://www.securonix.com
+- type: x-white-papers
+  url: https://securonix.com/resource-type/white-papers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

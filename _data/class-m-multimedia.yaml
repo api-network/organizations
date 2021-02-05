@@ -1,0 +1,22 @@
+---
+name: Class M Multimedia
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/class-m-multimedia.yaml
+tags:
+- Music
+apis: []
+x-common:
+- type: x-website
+  url: https://www.classm.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,36 @@
+---
+name: University of Washington - Seattle
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3171"
+url: https://raw.githubusercontent.com/api-network/organizations/main/university-of-washington--seattle.yaml
+tags:
+- Washington
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cs.washington.edu/
+- type: x-facebook
+  url: https://www.facebook.com/uwcse
+- type: x-news
+  url: https://news.cs.washington.edu/
+- type: x-privacy
+  url: http://www.washington.edu/online/privacy/
+- type: x-terms-of-service
+  url: http://www.washington.edu/online/terms/
+- type: x-twitter
+  url: https://twitter.com/uwcse
+- type: x-website
+  url: https://www.cs.washington.edu
+- type: x-youtube
+  url: https://www.youtube.com/user/uwcse
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

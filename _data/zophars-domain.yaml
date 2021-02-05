@@ -1,0 +1,78 @@
+---
+name: Zophar's Domain
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "122213"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zophars-domain.yaml
+tags:
+- News And Media
+apis: []
+x-common:
+- type: x-website
+  url: http://www.zophar.net/
+- type: x-forum
+  url: https://www.zophar.net/forums/showthread.php?t=38165
+- type: x-forum
+  url: https://www.zophar.net/forums/member.php?u=44455
+- type: x-forum
+  url: https://www.zophar.net/forums/showthread.php?t=38164
+- type: x-forum
+  url: https://www.zophar.net/forums/showthread.php?t=38163
+- type: x-forum
+  url: https://www.zophar.net/forums/showthread.php?t=38162
+- type: x-forum
+  url: https://www.zophar.net/forums/showthread.php?t=38161
+- type: x-forum
+  url: https://www.zophar.net/forums/showthread.php?t=37144
+- type: x-forum
+  url: https://www.zophar.net/forums/member.php?u=2683
+- type: x-forum
+  url: https://www.zophar.net/forums/showthread.php?t=36946
+- type: x-forum
+  url: https://www.zophar.net/forums/member.php?u=51485
+- type: x-forum
+  url: https://www.zophar.net/forums/showthread.php?t=36897
+- type: x-forum
+  url: https://www.zophar.net/forums/showthread.php?t=36896
+- type: x-forum
+  url: https://www.zophar.net/forums/showthread.php?t=36895
+- type: x-forum
+  url: https://www.zophar.net/forums/showthread.php?t=36894
+- type: x-forum
+  url: https://www.zophar.net/forums/showthread.php?t=36893
+- type: x-forum
+  url: https://www.zophar.net/forums/showthread.php?t=36892
+- type: x-forum
+  url: https://www.zophar.net/forums/showthread.php?t=36891
+- type: x-forum
+  url: https://www.zophar.net/forums/showthread.php?t=36890
+- type: x-forum
+  url: https://www.zophar.net/forums/forumdisplay.php?f=15
+- type: x-github
+  url: https://github.com/Ryochan7/DS4Windows/releases
+- type: x-github
+  url: https://github.com/Ryochan7/DS4Windows
+- type: x-github
+  url: https://github.com/LIJI32/SameBoy/releases
+- type: x-github
+  url: https://sameboy.github.io/
+- type: x-github
+  url: https://github.com/FCare/yabause/
+- type: x-github
+  url: https://atari800.github.io/
+- type: x-github
+  url: https://github.com/FIX94/fixNES/releases
+- type: x-twitter
+  url: https://twitter.com/zopharsdomain
+- type: x-website
+  url: https://www.zophar.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

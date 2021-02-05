@@ -1,0 +1,25 @@
+---
+name: Tim Seaver Photography
+description: Aerial, Mountain, and Rural Photography Services. Real Estate, Mapping,
+  Events, Ecological, Forest
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tim-seaver-photography.yaml
+tags:
+- Nature
+apis: []
+x-common:
+- type: x-code
+  url: https://www.zenfolio.com/?refcode=timseaver
+- type: x-website
+  url: https://www.vermontphoto.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

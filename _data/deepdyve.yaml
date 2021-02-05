@@ -1,0 +1,32 @@
+---
+name: DeepDyve
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "70842"
+url: https://raw.githubusercontent.com/api-network/organizations/main/deepdyve.yaml
+tags:
+- Academic
+apis: []
+x-common:
+- type: x-website
+  url: http://www.deepdyve.com
+- type: x-blog
+  url: http://blog.deepdyve.com
+- type: x-facebook
+  url: http://www.facebook.com/DeepDyve
+- type: x-twitter
+  url: https://twitter.com/deepdyve
+- type: x-twitter
+  url: http://twitter.com/deepdyve
+- type: x-website
+  url: https://www.deepdyve.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

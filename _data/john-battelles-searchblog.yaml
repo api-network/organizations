@@ -1,0 +1,40 @@
+---
+name: John Battelle's Searchblog
+description: Thoughts on the intersection of tech, business, and society.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "747648"
+url: https://raw.githubusercontent.com/api-network/organizations/main/john-battelles-searchblog.yaml
+tags:
+- Weblogs
+apis: []
+x-common:
+- type: x-website
+  url: http://therecount.com
+- type: x-about
+  url: https://battellemedia.com/about-john
+- type: x-events
+  url: https://home.cern/events/web30
+- type: x-facebook
+  url: https://www.facebook.com/johnbattelle/
+- type: x-feed
+  url: http://battellemedia.com/feed/
+- type: x-press
+  url: https://wordpress.com/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-privacy
+  url: https://battellemedia.com/archives/tag/privacy
+- type: x-twitter
+  url: http://twitter.com/johnbattelle
+- type: x-website
+  url: https://battellemedia.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

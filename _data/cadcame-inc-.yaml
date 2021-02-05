@@ -1,0 +1,44 @@
+---
+name: CADCAM-E, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3304233"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cadcame-inc-.yaml
+tags:
+- Drawing Exchange And Interoperability
+apis: []
+x-common:
+- type: x-website
+  url: https://goo.gl/1RTaKz
+- type: x-about
+  url: https://www.cadcam-e.com/aboutus.aspx
+- type: x-blog
+  url: https://www.cadcam-e.com/blog
+- type: x-careers
+  url: https://www.cadcam-e.com/careers.aspx
+- type: x-contact
+  url: https://www.cadcam-e.com/contactus.aspx
+- type: x-facebook
+  url: http://facebook.com/profile.php?id=195698400450877
+- type: x-instagram
+  url: https://www.instagram.com/cadcamecom/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/307331?trk=tyah
+- type: x-news
+  url: https://www.cadcam-e.com/news.aspx
+- type: x-support
+  url: https://www.cadcam-e.com/support.aspx
+- type: x-twitter
+  url: http://www.twitter.com/CADCAME
+- type: x-website
+  url: https://www.cadcam-e.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

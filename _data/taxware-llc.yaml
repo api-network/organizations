@@ -1,0 +1,67 @@
+---
+name: Taxware, LLC
+description: "The Sovos Intelligent Compliance Cloud\u2122 combines determination,
+  e-invoicing compliance and tax reporting in one continuously updated, global solution."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "293251"
+url: https://raw.githubusercontent.com/api-network/organizations/main/taxware-llc.yaml
+tags:
+- Informational Reporting
+apis: []
+x-common:
+- type: x-website
+  url: http://www.sovos.com
+- type: x-about
+  url: https://sovos.com/about-us/
+- type: x-about
+  url: https://sovos.com/about-us/leadership/
+- type: x-blog
+  url: https://sovos.com/blog/
+- type: x-careers
+  url: https://sovos.com/careers/
+- type: x-case-studies
+  url: https://sovos.com/case-studies/
+- type: x-contact
+  url: https://sovos.com/contact-us/
+- type: x-contact
+  url: https://sovos.com/about-us/contact-us/
+- type: x-developer
+  url: http://dev.sovos.com
+- type: x-events
+  url: https://sovos.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/sovoscompliance/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/sovos
+- type: x-partner
+  url: https://sovos.com/about-us/partners/
+- type: x-platform
+  url: https://sovos.com/s1-platform/
+- type: x-platform
+  url: https://sovos.com/s1-platform/integrations-api/
+- type: x-platform
+  url: https://sovos.com/s1-platform/infrastructure-security/
+- type: x-platform
+  url: https://sovos.com/s1-platform/architecture/
+- type: x-press
+  url: https://sovos.com/about-us/press/
+- type: x-privacy
+  url: https://sovos.com/privacy-policy/
+- type: x-support
+  url: https://sovos.com/support/
+- type: x-twitter
+  url: https://www.twitter.com/SovosCompliance
+- type: x-webinars
+  url: https://sovos.com/webinars/
+- type: x-website
+  url: https://sovos.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

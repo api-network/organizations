@@ -1,0 +1,60 @@
+---
+name: NTP Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ntp-software.yaml
+tags:
+- Data Administration
+apis: []
+x-common:
+- type: x-website
+  url: http://www.defendx.com
+- type: x-about
+  url: https://defendx.com/about-us/
+- type: x-blog
+  url: http://info.defendx.com/blog
+- type: x-careers
+  url: https://defendx.com/careers/
+- type: x-case-studies
+  url: https://defendx.com/case-studies/
+- type: x-contact
+  url: http://info.defendx.com/contact-defendx
+- type: x-customers
+  url: https://defendx.com/customers/
+- type: x-facebook
+  url: https://www.facebook.com/defendxsoftware
+- type: x-feed
+  url: https://defendx.com/feed/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/defendx-software
+- type: x-partner
+  url: https://defendx.com/partners/
+- type: x-platform
+  url: https://defendx.com/cloud-object-platform/
+- type: x-press
+  url: https://defendx.com/news-press-releases/
+- type: x-privacy
+  url: https://defendx.com/privacy-policy/
+- type: x-support
+  url: https://defendx.com/support-portal/
+- type: x-support
+  url: http://info.defendx.com/data-storage-support-request
+- type: x-terms-of-service
+  url: https://defendx.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/defendxsoftware
+- type: x-website
+  url: https://www.ntpsoftware.com
+- type: x-white-papers
+  url: https://defendx.com/white-papers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

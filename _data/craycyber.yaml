@@ -1,0 +1,34 @@
+---
+name: Cray-Cyber
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7895178"
+url: https://raw.githubusercontent.com/api-network/organizations/main/craycyber.yaml
+tags:
+- Cray
+apis: []
+x-common:
+- type: x-blog
+  url: https://cray-cyber.org/blog/
+- type: x-developer
+  url: http://developer.cray-cyber.org
+- type: x-feed
+  url: https://cray-cyber.org/feed/
+- type: x-press
+  url: https://cray-cyber.org/impressum/
+- type: x-press
+  url: http://wordpress.org/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-website
+  url: https://www.cray-cyber.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

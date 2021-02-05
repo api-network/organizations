@@ -1,0 +1,49 @@
+---
+name: Pick and Send
+description: Pick from online greetings, jokes, virus hoaxes, riddles, chain letters,
+  e-cards, plus other cool & fun stuff and send them to your friends.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pick-and-send.yaml
+tags:
+- Virus
+- Virtual
+- Stuff
+- Riddles
+- Quotes
+- Postcards
+- Online Greetings
+- Online
+- Logic Puzzles
+- Jokes
+- Humor
+- Hoaxes
+- Greetings Pages
+- Greetings
+- Greeting
+- Funny
+- Fun
+- Free
+- Email
+- Electronic
+- Ecards
+- E-mail
+- E-cards
+- Cool
+- Chain Letters
+- Cards
+- Brain Teasers
+apis: []
+x-common:
+- type: x-website
+  url: https://www.pickandsend.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

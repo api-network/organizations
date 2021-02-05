@@ -1,0 +1,79 @@
+---
+name: PocketPC eBooks Watch
+description: 'Microsoft Reader for Pocket PC: ebook technology and content watch for
+  Pocket PC and iPod'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pocketpc-ebooks-watch.yaml
+tags:
+- Windows Mobile
+- Windows Ce
+- Win Ce
+- Tomeraider
+- Ppc
+- PocketPC
+- Pocket Pc Ebook
+- Pocket PC
+- Palm Size Pc
+- MS Reader
+- Microsoft Reader
+- Mazingo
+- Lit
+- IPod
+- IPaq
+- Free Ebooks
+- Free Ebook
+- Electronic Publishing
+- Ebook
+- E-book
+- Avantgo
+apis: []
+x-common:
+- type: x-blog
+  url: http://cebooks.blogspot.com/
+- type: x-blog
+  url: http://cebooks.blogspot.com/cebooks_archive.html
+- type: x-blog
+  url: http://www.teleread.org/blog
+- type: x-blog
+  url: http://loosewire.typepad.com/blog/
+- type: x-blog
+  url: http://cebooks.blogspot.com
+- type: x-blog
+  url: http://cebooks.blogspot.com/2008/01/lastly-last.html
+- type: x-forum
+  url: http://www.bloggerforum.com
+- type: x-login
+  url: http://w.extreme-dm.com/?login=jsjxyz
+- type: x-logos
+  url: http://blogoscoped.com/archive/2008-01-03-n30.html
+- type: x-news
+  url: http://news.com.com/2100-1023-979778.html
+- type: x-news
+  url: http://www.newsweek.com/id/70983
+- type: x-news
+  url: http://www.apple.com/hotnews/openiphoneletter/
+- type: x-open-source
+  url: http://www.openanebook.org/
+- type: x-press
+  url: http://www.peanutpress.com/
+- type: x-press
+  url: http://www.ebookexpress.com/
+- type: x-press
+  url: http://www.peanutpress.com
+- type: x-terms-of-service
+  url: http://www.convertlit.com/legal.php
+- type: x-twitter
+  url: http://twitter.com/#!/jerryjsj
+- type: x-website
+  url: https://cebooks.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,28 @@
+---
+name: Virtual Learning Resources Center
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1182146"
+url: https://raw.githubusercontent.com/api-network/organizations/main/virtual-learning-resources-center.yaml
+tags:
+- Academic
+apis: []
+x-common:
+- type: x-about
+  url: https://virtuallrc.com/about.html
+- type: x-contact
+  url: https://virtuallrc.com/contact/contact_us.html
+- type: x-news
+  url: https://infotopia.info/newsletter.html
+- type: x-website
+  url: https://www.virtuallrc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

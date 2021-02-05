@@ -1,0 +1,27 @@
+---
+name: Eurocoin
+description: Eurocoin (EUC) is a SHA256 digital cryptocurrency that operates on a
+  community-based standard of value using peer-to-peer (P2P) networking as the means
+  of conducting transactions. Rather than having a central authority determine the
+  value of the curren...
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27353-eurocoin-euc-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1337158"
+url: https://raw.githubusercontent.com/api-network/organizations/main/eurocoin.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/eurocoin2015
+- type: x-website
+  url: http://eurocoin-euc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

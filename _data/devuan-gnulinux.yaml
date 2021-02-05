@@ -1,0 +1,47 @@
+---
+name: Devuan GNU+Linux
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "602643"
+url: https://raw.githubusercontent.com/api-network/organizations/main/devuan-gnulinux.yaml
+tags:
+- Sysvinit
+- Systemd
+- Sysadmin
+- Portable
+- Open Source
+- Minimal
+- Linux
+- Jessie
+- Init Freedom
+- Gnu
+- Freedom
+- Free Software
+- Fork
+- Embedded
+- Distributions
+- Distribution
+- Devuan
+- Debian
+- Compatibility
+- Compact
+apis: []
+x-common:
+- type: x-website
+  url: https://devuan.org/
+- type: x-developer
+  url: http://developer.devuan.org
+- type: x-twitter
+  url: https://twitter.com/DevuanOrg
+- type: x-website
+  url: https://www.devuan.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,66 @@
+---
+name: Exante
+description: <p>EXANTE is a next generation investment company that aims to give its
+  clients access to a broad range of financial instruments and markets. EXANTE's all-in-one
+  multi-asset platform ensures optimal portfolio overview and extensive global reach
+  on wide variety of financial products (Currencies,&nbsp; Swaps, CFDs, Stocks, Options,
+  Bonds, Commodities, Futures, Funds, FOPs). EXANTE has a unique exchange-like open
+  order book on all products with equal execution rules for everyone.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28085-developers-exante-eu.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "282484"
+url: https://raw.githubusercontent.com/api-network/organizations/main/exante.yaml
+tags:
+- Sign In With Github
+- Sign In With Facebook
+- REST
+- Market Data
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://exante.eu
+- type: x-authentication
+  url: https://developers.exante.eu/api/#authentication
+- type: x-careers
+  url: https://careers.exante.eu/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/exante-regulatory-compliance-consultants-inc
+- type: x-developers
+  url: https://developers.exante.eu/
+- type: x-documentation
+  url: https://developers.exante.eu/api/
+- type: x-email
+  url: info@exante.eu
+- type: x-facebook
+  url: https://facebook.com/exante.global
+- type: x-github
+  url: https://github.com/exante
+- type: x-instagram
+  url: https://www.instagram.com/exante_brokerage/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/exante-ltd
+- type: x-linkedin
+  url: https://www.linkedin.com/company/exante-ltd/
+- type: x-registration
+  url: https://developers.exante.eu/new/
+- type: x-support
+  url: https://support.exante.eu/hc/en-us
+- type: x-tutorials
+  url: https://developers.exante.eu/tutorials/auth-basics/
+- type: x-twitter
+  url: https://twitter.com/EXANTE_EU
+- type: x-website
+  url: https://exante.eu
+- type: x-youtube
+  url: http://www.youtube.com/user/exantevideo
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,51 @@
+---
+name: ProjectLocker
+description: Free Subversion hosting, free Git hosting, free Trac hosting, and plugins
+  to many tools such as Basecamp, PivotalTracker, and FogBugz, for as low as $19/month.
+  Configuration management made easy for agile and conventional development teams.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1991452"
+url: https://raw.githubusercontent.com/api-network/organizations/main/projectlocker.yaml
+tags:
+- Trac Hosting
+- Svn Hosting
+- Subversion Hosting
+- Subversion
+- Scrum
+- Remote Deploy
+- Rally
+- Lighthouse
+- Integration
+- Git Hosting
+- Free
+- Fogbugz
+- Configuration Management
+- Concurrent Versions System
+- Basecamp
+- Agile
+apis: []
+x-common:
+- type: x-website
+  url: http://www.projectlocker.com
+- type: x-blog
+  url: http://blog.projectlocker.com
+- type: x-contact
+  url: https://www.olark.com/site/8147-261-10-3115/contact
+- type: x-signup
+  url: https://signup.projectlocker.com/signup
+- type: x-support
+  url: http://help.projectlocker.com
+- type: x-twitter
+  url: https://twitter.com/ProjectLockerHQ
+- type: x-website
+  url: https://www.projectlocker.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

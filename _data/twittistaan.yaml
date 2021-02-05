@@ -1,0 +1,48 @@
+---
+name: Twittistaan
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6552321"
+url: https://raw.githubusercontent.com/api-network/organizations/main/twittistaan.yaml
+tags:
+- Trending And Popularity
+apis: []
+x-common:
+- type: x-website
+  url: http://twittistaan.com
+- type: x-about
+  url: https://twittistaan.com/about/
+- type: x-contact
+  url: https://twittistaan.com/contact/
+- type: x-facebook
+  url: http://facebook.com/twittistaan
+- type: x-facebook
+  url: https://www.facebook.com/twittistaan
+- type: x-instagram
+  url: http://instagram.com/Twittistaan
+- type: x-instagram
+  url: https://www.instagram.com/Twittistaan
+- type: x-news
+  url: https://twittistaan.com/news/
+- type: x-privacy
+  url: https://twittistaan.com/privacy/
+- type: x-twitter
+  url: http://twitter.com/twittistaan
+- type: x-twitter
+  url: https://twitter.com/Twittistaan
+- type: x-website
+  url: https://twittistaan.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=Akoqce36BjU
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=p8vm0l1vAqI&t=7s
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

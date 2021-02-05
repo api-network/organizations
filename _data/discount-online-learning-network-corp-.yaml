@@ -1,0 +1,44 @@
+---
+name: Discount Online Learning Network Corp.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/discount-online-learning-network-corp-.yaml
+tags:
+- Authoring
+apis: []
+x-common:
+- type: x-website
+  url: http://www.stablehost.com
+- type: x-about
+  url: http://www.stablehost.com/about-us.php
+- type: x-contact
+  url: https://www.stablehost.com/contact.php
+- type: x-facebook
+  url: http://www.facebook.com/stablehost
+- type: x-forum
+  url: https://forums.stablehost.com
+- type: x-forum
+  url: https://forums.stablehost.com/
+- type: x-login
+  url: https://www.stablehost.com/login.php
+- type: x-login
+  url: https://billing.stablehost.com/login.php
+- type: x-privacy
+  url: http://www.stablehost.com/privacy.php
+- type: x-terms-of-service
+  url: http://www.stablehost.com/terms.php
+- type: x-twitter
+  url: http://www.twitter.com/stablehost
+- type: x-website
+  url: https://www.dolnetwork.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

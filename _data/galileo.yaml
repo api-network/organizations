@@ -1,0 +1,25 @@
+---
+name: Galileo
+description: <p>The Analytics Platform for APIs, Microservices and Serverless Software</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/galileo-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: ""
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/galileo.yaml
+tags: []
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.mashape.com/category/galileo/
+- type: x-blog-rss
+  url: http://blog.mashape.com/category/galileo/feed/
+- type: x-website
+  url: http://getgalileo.io/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

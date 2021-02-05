@@ -1,0 +1,59 @@
+---
+name: RadView Software Inc.
+description: WebLOAD is a powerful performance testing tool, used by Fortune 500 teams
+  to validate complex systems under stress and pinpoint problems. Test for yourself.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "672704"
+url: https://raw.githubusercontent.com/api-network/organizations/main/radview-software-inc-.yaml
+tags:
+- Load And Performance Testing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.radview.com/
+- type: x-about
+  url: https://www.radview.com/about-webload/features/mobile/
+- type: x-about
+  url: https://www.radview.com/company/about-radview/
+- type: x-about
+  url: http://radview.com/company/about-radview/
+- type: x-blog
+  url: https://www.radview.com/blog/
+- type: x-careers
+  url: https://www.radview.com/company/careers/
+- type: x-contact
+  url: https://www.radview.com/contact-us/
+- type: x-customers
+  url: https://www.radview.com/company/customers/
+- type: x-facebook
+  url: https://www.facebook.com/RadView
+- type: x-investor
+  url: https://www.radview.com/company/investors/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/radview-software
+- type: x-login
+  url: https://saas.radview.com/login
+- type: x-partner
+  url: https://www.radview.com/company/partners/
+- type: x-privacy
+  url: https://www.radview.com/privacy-policy/
+- type: x-support
+  url: https://www.radview.com/technologies-supported/
+- type: x-support
+  url: https://www.radview.com/support2017/
+- type: x-terms-of-service
+  url: https://www.radview.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/RadViewSoftware
+- type: x-website
+  url: https://radview.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

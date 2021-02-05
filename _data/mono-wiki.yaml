@@ -1,0 +1,64 @@
+---
+name: Mono Wiki
+description: ALL PAGES! Welcome to Mono Wiki The Mono wiki about the Mono project
+  that anyone can edit 56 articles since February 2008 Featured article Mono is a
+  project led by Novell (formerly by Ximian) to create an ECMA standard compliant
+  .NET compatible set of tools, including among others a C# compiler...
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "15878"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mono-wiki.yaml
+tags:
+- Work In Progress
+- Software Using Mono
+- Sitemap
+- Olive
+- Moonlight
+- MonoDevelop
+- Mono Wiki
+- Mono Status Report
+- Mono
+- List Of Mono Tools
+- Implementations
+- 2008 Google Summer Of Code
+apis: []
+x-common:
+- type: x-about
+  url: https://www.fandom.com/about
+- type: x-blog
+  url: http://tirania.org/blog/archive/2008/Jul-22.html
+- type: x-careers
+  url: https://www.fandom.com/careers
+- type: x-contact
+  url: https://www.fandom.com/about#contact
+- type: x-contact
+  url: https://www.fandom.com/mediakit#contact
+- type: x-developer
+  url: http://developer.mono.wikia.com
+- type: x-facebook
+  url: https://www.facebook.com/getfandom
+- type: x-instagram
+  url: https://www.instagram.com/getfandom/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/157252
+- type: x-press
+  url: https://www.fandom.com/press
+- type: x-privacy
+  url: https://www.fandom.com/privacy-policy
+- type: x-terms-of-service
+  url: https://www.fandom.com/terms-of-use
+- type: x-twitter
+  url: https://twitter.com/getfandom
+- type: x-website
+  url: https://mono.wikia.com
+- type: x-youtube
+  url: https://www.youtube.com/fandomentertainment
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

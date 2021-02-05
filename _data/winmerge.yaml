@@ -1,0 +1,48 @@
+---
+name: WinMerge
+description: WinMerge is an Open Source differencing and merging tool for Windows.
+  WinMerge can compare both folders and files, presenting differences in a visual
+  text format that is easy to understand and handle.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "112997"
+url: https://raw.githubusercontent.com/api-network/organizations/main/winmerge.yaml
+tags:
+- WinMerge
+- Windows
+- Windiff
+- Utility
+- Tool
+- Text
+- Open Source
+- Merge Tool
+- Merge Folders
+- Merge Files
+- Merge
+- Free
+- Folder
+- File
+- Directory
+- Diff Tool
+- Diff
+- Compare Tool
+- Compare Folders
+- Compare Files
+- Compare
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/winmerge/winmerge
+- type: x-news
+  url: https://sourceforge.net/news/?group_id=13216
+- type: x-website
+  url: https://winmerge.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

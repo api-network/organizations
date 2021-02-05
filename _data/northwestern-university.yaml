@@ -1,0 +1,57 @@
+---
+name: Northwestern University
+description: <p>Northwestern has a very nice set of APIs covering the core functions
+  of university operations like terms, schools, subjects, courses, instructors, buildings
+  and rooms. Everything is organized in a nice, centralized portal for easy access.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/northwestern-university.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "4460"
+url: https://raw.githubusercontent.com/api-network/organizations/main/northwestern-university.yaml
+tags:
+- University Portal
+- University Leader
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: https://www.northwestern.edu/
+- type: x-about
+  url: https://www.northwestern.edu/about/index.html#mission
+- type: x-careers
+  url: https://www.northwestern.edu/hr/careers/
+- type: x-developers
+  url: http://developer.asg.northwestern.edu/
+- type: x-facebook
+  url: https://www.facebook.com/NorthwesternU
+- type: x-getting-started
+  url: http://developer.asg.northwestern.edu/docs/#getting-started
+- type: x-instagram
+  url: https://instagram.com/northwesternu
+- type: x-login
+  url: https://www.it.northwestern.edu/education/login.html
+- type: x-login
+  url: http://www.it.northwestern.edu/education/login.html
+- type: x-news
+  url: https://research.northwestern.edu/news
+- type: x-news
+  url: https://news.northwestern.edu/
+- type: x-news
+  url: https://news.northwestern.edu/feeds/allStories
+- type: x-twitter
+  url: https://www.twitter.com/northwesternu
+- type: x-website
+  url: http://www.northwestern.edu
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=ZOUvOTmLScA
+- type: x-youtube
+  url: https://www.youtube.com/user/NorthwesternU
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

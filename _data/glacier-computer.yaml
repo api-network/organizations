@@ -1,0 +1,45 @@
+---
+name: Glacier Computer
+description: Provide your employees with resilience and mobility. Our full range of
+  rugged tablets are purpose-built to serve the requirements of customers worldwide.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1199095"
+url: https://raw.githubusercontent.com/api-network/organizations/main/glacier-computer.yaml
+tags:
+- Industrial
+apis: []
+x-common:
+- type: x-about
+  url: https://www.glaciercomputer.com/about-us/
+- type: x-blog
+  url: https://www.glaciercomputer.com/blog/
+- type: x-blog
+  url: http://glaciercomputer.com/blog/
+- type: x-code
+  url: https://www.glaciercomputer.com/barcode-scanners/
+- type: x-contact
+  url: https://www.glaciercomputer.com/contact/
+- type: x-contact
+  url: http://www.glaciercomputer.com/contact
+- type: x-partner
+  url: http://www.glaciercomputer.com/partners-2/#supply
+- type: x-partner
+  url: https://www.glaciercomputer.com/partners-2/
+- type: x-press
+  url: http://www.glaciercomputer.com/press-release/
+- type: x-privacy
+  url: https://www.glaciercomputer.com/privacy-policy/
+- type: x-website
+  url: https://www.glaciercomputer.com
+- type: x-white-papers
+  url: https://www.glaciercomputer.com/white-papers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

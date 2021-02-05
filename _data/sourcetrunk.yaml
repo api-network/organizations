@@ -1,0 +1,36 @@
+---
+name: Sourcetrunk
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sourcetrunk.yaml
+tags:
+- Podcasts
+apis: []
+x-common:
+- type: x-feed
+  url: http://www.sourcetrunk.com/feed
+- type: x-news
+  url: http://distrowatch.com/news/dw.xml
+- type: x-news
+  url: https://fsfe.org/news/news.rss
+- type: x-press
+  url: http://wordpress.org
+- type: x-security
+  url: https://www.sourcetrunk.com/?tag=security
+- type: x-twitter
+  url: http://twitter.com/#!/search?q=%23LibrePlanet2020
+- type: x-twitter
+  url: http://twitter.com/amyengineer
+- type: x-website
+  url: https://www.sourcetrunk.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

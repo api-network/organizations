@@ -1,0 +1,46 @@
+---
+name: SUNY - Albany
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "27922"
+url: https://raw.githubusercontent.com/api-network/organizations/main/suny--albany.yaml
+tags:
+- New York
+apis: []
+x-common:
+- type: x-website
+  url: http://www.albany.edu/ceas
+- type: x-about
+  url: https://www.albany.edu/about.php?WT.source=home
+- type: x-contact
+  url: https://www.albany.edu/ceas/contact.php
+- type: x-contact
+  url: https://www.albany.edu/contact.shtml
+- type: x-events
+  url: http://events.albany.edu/
+- type: x-instagram
+  url: https://www.instagram.com/ualbanyceas/
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/2638384/profile
+- type: x-news
+  url: https://www.albany.edu/news/92306.php
+- type: x-news
+  url: https://www.albany.edu/news/91691.php
+- type: x-news
+  url: https://www.albany.edu/news/91432.php
+- type: x-news
+  url: https://www.albany.edu/ceasweb/news/laptop_fa18.pdf
+- type: x-twitter
+  url: https://twitter.com/UAlbanyCEAS
+- type: x-website
+  url: https://www.cs.albany.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

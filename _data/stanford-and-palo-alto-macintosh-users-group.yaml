@@ -1,0 +1,26 @@
+---
+name: Stanford and Palo Alto Macintosh Users Group
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/stanford-and-palo-alto-macintosh-users-group.yaml
+tags:
+- California
+apis: []
+x-common:
+- type: x-customers
+  url: https://customers.machighway.com/aff.php?aff=035
+- type: x-partner
+  url: http://www.oreilly.com/partner/
+- type: x-website
+  url: https://www.pa-smug.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

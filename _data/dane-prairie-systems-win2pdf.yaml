@@ -1,0 +1,40 @@
+---
+name: 'Dane Prairie Systems: Win2PDF'
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "355572"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dane-prairie-systems-win2pdf.yaml
+tags:
+- Windows Tools And Drivers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.win2pdf.com
+- type: x-blog
+  url: https://pdfblog.com
+- type: x-contact
+  url: https://www.olark.com/site/7946-435-10-4961/contact
+- type: x-facebook
+  url: https://www.facebook.com/Win2PDF-195755413809345/
+- type: x-support
+  url: https://helpdesk.win2pdf.com
+- type: x-support
+  url: https://helpdesk.win2pdf.com/index.php?/Tickets/Submit
+- type: x-support
+  url: http://helpdesk.win2pdf.com
+- type: x-twitter
+  url: https://twitter.com/win2pdf
+- type: x-website
+  url: https://www.win2pdf.com
+- type: x-youtube
+  url: https://www.youtube.com/user/Win2PDF
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

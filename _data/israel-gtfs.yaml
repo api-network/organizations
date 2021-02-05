@@ -1,0 +1,21 @@
+---
+name: Israel GTFS
+description: Transit authority located in Israel<br />
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/israel-gtfs.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.callkav.gov.il
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

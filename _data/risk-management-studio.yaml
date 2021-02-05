@@ -1,0 +1,32 @@
+---
+name: Risk Management Studio
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2640906"
+url: https://raw.githubusercontent.com/api-network/organizations/main/risk-management-studio.yaml
+tags:
+- Products And Tools
+apis: []
+x-common:
+- type: x-contact
+  url: https://klappir.com/en/contact/
+- type: x-login
+  url: https://www.riskmanagementstudio.com/login/
+- type: x-privacy
+  url: https://www.riskmanagementstudio.com/privacy-policy/
+- type: x-support
+  url: https://support.riskmanagementstudio.com/
+- type: x-support
+  url: https://www.riskmanagementstudio.com/remote-support/
+- type: x-website
+  url: https://www.riskmanagementstudio.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

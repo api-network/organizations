@@ -1,0 +1,68 @@
+---
+name: University of North Texas
+description: UNT is a student-focused, public, research university located in Denton,
+  Texas. As one of Texas' largest universities, we offer 103 bachelor's, 86 master's
+  and 38 doctoral degree programs within the university's 13 colleges and schools.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/university-north-texas-digital-library-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "18671"
+url: https://raw.githubusercontent.com/api-network/organizations/main/university-of-north-texas.yaml
+tags:
+- University Library
+- University In Progress
+- Has API
+apis: []
+x-common:
+- type: x-website
+  url: http://studentaffairs.unt.edu/university-union
+- type: x-careers
+  url: https://jobs.untsystem.edu
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/university-of-north-texas-2
+- type: x-email
+  url: graduateschool@unt.edu
+- type: x-email
+  url: unt.freshmen@unt.edu
+- type: x-email
+  url: unt.transfer@unt.edu
+- type: x-email
+  url: international@unt.edu
+- type: x-email
+  url: urcm@unt.edu
+- type: x-email
+  url: student.accounting@unt.edu
+- type: x-email
+  url: housinginfo@unt.edu
+- type: x-facebook
+  url: https://www.facebook.com/northtexas
+- type: x-instagram
+  url: https://www.instagram.com/UNT/
+- type: x-news
+  url: http://news.unt.edu
+- type: x-news
+  url: https://news.unt.edu/
+- type: x-twitter
+  url: https://twitter.com/UNTnews
+- type: x-twitter
+  url: https://twitter.com/UNTsocial
+- type: x-twitter
+  url: https://twitter.com/hashtag/UNTproud?src=hash
+- type: x-twitter
+  url: https://twitter.com/UNTPrez/status/1138080733564755968
+- type: x-twitter
+  url: https://twitter.com/UNTUnion
+- type: x-developers
+  url: http://digital.library.unt.edu/explore/collections/ATOZ/api/
+- type: x-website
+  url: http://www.unt.edu/
+- type: x-youtube
+  url: https://www.youtube.com/user/universitynorthtexas
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

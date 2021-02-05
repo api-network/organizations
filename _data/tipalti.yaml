@@ -1,0 +1,75 @@
+---
+name: Tipalti
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "15722"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tipalti.yaml
+tags:
+- Profile
+- Invoices
+apis: []
+x-common:
+- type: x-about
+  url: https://tipalti.com/about/
+- type: x-blog
+  url: https://tipalti.com/blog/
+- type: x-careers
+  url: https://tipalti.com/careers/
+- type: x-contact
+  url: https://tipalti.com/contact-us/
+- type: x-customers
+  url: https://tipalti.com/customers/
+- type: x-customers
+  url: https://tipalti.com/customers/testimonials/
+- type: x-customers
+  url: https://tipalti.com/customers/case-studies/
+- type: x-customers
+  url: https://tipalti.com/grateful-feel-good-customers/
+- type: x-customers
+  url: https://tipalti.com/customers
+- type: x-facebook
+  url: https://www.facebook.com/Tipalti/
+- type: x-integrations
+  url: https://tipalti.com/product/integrations/
+- type: x-integrations
+  url: https://tipalti.com/product/integrations/netsuite/
+- type: x-integrations
+  url: https://tipalti.com/product/integrations/intacct/
+- type: x-integrations
+  url: https://tipalti.com/product/integrations/hasoffers/
+- type: x-integrations
+  url: https://tipalti.com/product/integrations/everflow/
+- type: x-integrations
+  url: https://tipalti.com/product/integrations/hitpath/
+- type: x-integrations
+  url: https://tipalti.com/product/integrations/linktrust/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/tipalti
+- type: x-platform
+  url: https://tipalti.com/product/platform/
+- type: x-platform
+  url: https://tipalti.com/product/platform/multi-entity/
+- type: x-platform
+  url: https://tipalti.com/product/platform/api/
+- type: x-platform
+  url: https://tipalti.com/product/platform/cloud/
+- type: x-press
+  url: https://tipalti.com/press/
+- type: x-privacy
+  url: https://tipalti.com/privacy/
+- type: x-support
+  url: https://tipalti.com/tipalti-support/
+- type: x-twitter
+  url: https://twitter.com/tipalti?lang=en
+- type: x-website
+  url: http://tipalti.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

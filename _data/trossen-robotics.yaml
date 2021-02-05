@@ -1,0 +1,38 @@
+---
+name: Trossen Robotics
+description: The World's leading one stop robot shop. Customer service is our top
+  priority. Trossen Robotics is your robot shop for robots, robotics, robot kits and
+  robot parts!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "197127"
+url: https://raw.githubusercontent.com/api-network/organizations/main/trossen-robotics.yaml
+tags:
+- Robots
+- Robotics Store
+- Robotics Shop
+- Robotics Company
+- Robotics
+- Robot Toys
+- Robot Store
+- Robot Shop
+- Robot Parts
+- Robot Kits
+- Robot Company
+- Robot
+- Components
+apis: []
+x-common:
+- type: x-forum
+  url: http://forums.trossenrobotics.com
+- type: x-website
+  url: https://www.trossenrobotics.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

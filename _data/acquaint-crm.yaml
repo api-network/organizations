@@ -1,0 +1,43 @@
+---
+name: Acquaint CRM
+description: Lettings Software & Property Management for Letting Agents, Sales Software
+  for Estate Agents, Websites - Acquaint is powerful, easy to use & cost effective.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/acquaint-crm.yaml
+tags:
+- Websites
+- Software For Estate Agents
+- Software
+- Residential
+- Property Management
+- Lettings
+- Floorplans
+- Floor Plans
+- Estate Agents Software
+- Estate Agents
+- Estate Agency Software
+- Estate Agency
+- Bright Logic
+apis: []
+x-common:
+- type: x-website
+  url: http://www.acquaintcrm.co.uk
+- type: x-facebook
+  url: https://www.facebook.com/AcquaintCRM/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/bright-logic-ltd
+- type: x-twitter
+  url: https://twitter.com/acquaintcrm
+- type: x-website
+  url: https://www.acquaintcrm.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

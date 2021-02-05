@@ -1,0 +1,95 @@
+---
+name: Host Analytics
+description: Planful offers financial planning & analysis software that includes a
+  complete platform for financial planning, consolidation, and reporting & analytics.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "310112"
+url: https://raw.githubusercontent.com/api-network/organizations/main/host-analytics.yaml
+tags:
+- Budgeting
+apis: []
+x-common:
+- type: x-website
+  url: http://planful.com
+- type: x-about
+  url: https://planful.com/about-us/
+- type: x-about
+  url: https://planful.com/about-us/leadership/
+- type: x-blog
+  url: https://planful.com/blog/
+- type: x-careers
+  url: https://planful.com/about-us/careers/
+- type: x-case-studies
+  url: https://planful.com/use-cases/capital-asset-panning/
+- type: x-case-studies
+  url: https://planful.com/use-cases/driver-based-modeling/
+- type: x-case-studies
+  url: https://planful.com/use-cases/excel-replacement/
+- type: x-case-studies
+  url: https://planful.com/use-cases/profitability-analysis/
+- type: x-case-studies
+  url: https://planful.com/use-cases/revenue-planning/
+- type: x-case-studies
+  url: https://planful.com/use-cases/sales-forecasting/
+- type: x-case-studies
+  url: https://planful.com/use-cases/zero-based-budgeting/
+- type: x-contact
+  url: https://planful.com/contact-us/
+- type: x-customers
+  url: https://planful.com/customers/
+- type: x-events
+  url: https://planful.com/upcoming-events/
+- type: x-facebook
+  url: https://www.facebook.com/HostAnalyticsInc/
+- type: x-instagram
+  url: https://www.instagram.com/hostanalytics/
+- type: x-integrations
+  url: https://planful.com/technology/integrations/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/host-analytics-inc/
+- type: x-login
+  url: https://planful.com/server-login/
+- type: x-news
+  url: https://planful.com/newsroom/
+- type: x-partner
+  url: https://planful.com/partners/
+- type: x-platform
+  url: https://planful.com/platform
+- type: x-platform
+  url: https://planful.com/platform/
+- type: x-platform
+  url: https://planful.com/platform/structured-planning/
+- type: x-platform
+  url: https://planful.com/platform/dynamic-planning/
+- type: x-platform
+  url: https://planful.com/platform/modeling/
+- type: x-platform
+  url: https://planful.com/platform/consolidation/
+- type: x-platform
+  url: https://planful.com/platform/reporting/
+- type: x-platform
+  url: https://planful.com/platform/reporting/dashboards/
+- type: x-privacy
+  url: https://planful.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://planful.com/terms-of-use/
+- type: x-twitter
+  url: http://www.twitter.com/holgermu
+- type: x-twitter
+  url: http://www.twitter.com/DHenschen
+- type: x-twitter
+  url: http://www.twitter.com/HostAnalytics
+- type: x-twitter
+  url: https://twitter.com/hostanalytics
+- type: x-website
+  url: https://www.hostanalytics.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

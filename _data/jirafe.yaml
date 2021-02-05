@@ -1,0 +1,33 @@
+---
+name: Jirafe
+description: 'Jirafe helps 80,000 #merchants uncover revenue opportunities by turning
+  their #ecommerce #data into answers.'
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28353-afterbanks.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "4"
+x-alexaRank: "14530831"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jirafe.yaml
+tags:
+- Have Swagger
+- Have OpenAPI
+- Have API Paths
+apis: []
+x-common:
+- type: x-website
+  url: http://www.jirafe.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/jirafe
+- type: x-twitter
+  url: https://twitter.com/jirafe
+- type: x-website
+  url: http://afterbanks.com
+- type: x-website
+  url: http://jirafe.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

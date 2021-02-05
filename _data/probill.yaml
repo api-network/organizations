@@ -1,0 +1,28 @@
+---
+name: Probill
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5618485"
+url: https://raw.githubusercontent.com/api-network/organizations/main/probill.yaml
+tags:
+- Billing
+apis: []
+x-common:
+- type: x-about
+  url: https://probill.com/about-probill/
+- type: x-blog
+  url: https://probill.com/blog/
+- type: x-support
+  url: https://probill.com/help/
+- type: x-website
+  url: https://www.probill.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

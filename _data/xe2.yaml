@@ -1,0 +1,36 @@
+---
+name: Xe2
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xe2.yaml
+tags:
+- Exchange Hosting Services
+apis: []
+x-common:
+- type: x-about
+  url: https://xe2.co.uk/about/index.html#tab0
+- type: x-about
+  url: https://xe2.co.uk/about/index.html
+- type: x-case-studies
+  url: https://xe2.co.uk/case-studies.html#tab0
+- type: x-contact
+  url: https://xe2.co.uk/contact.html
+- type: x-privacy
+  url: https://xe2.co.uk/privacy.html
+- type: x-status
+  url: https://xe2.co.uk/service-status.html
+- type: x-terms-of-service
+  url: https://xe2.co.uk/terms.html
+- type: x-website
+  url: https://www.xe2.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

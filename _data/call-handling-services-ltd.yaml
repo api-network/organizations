@@ -1,0 +1,42 @@
+---
+name: Call Handling Services Ltd
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9401284"
+url: https://raw.githubusercontent.com/api-network/organizations/main/call-handling-services-ltd.yaml
+tags:
+- Telephony
+apis: []
+x-common:
+- type: x-website
+  url: http://www.callhandling.co.uk
+- type: x-about
+  url: https://www.callhandling.co.uk/about-us
+- type: x-contact
+  url: https://www.callhandling.co.uk/cloud-contact-centre
+- type: x-contact
+  url: https://www.callhandling.co.uk/contact
+- type: x-contact
+  url: https://www.callhandling.co.uk/contact/book-demo
+- type: x-contact
+  url: https://www.callhandling.co.uk/footer/contact
+- type: x-facebook
+  url: https://www.facebook.com/CHSLimited
+- type: x-support
+  url: https://www.callhandling.co.uk/sectors/helplines
+- type: x-support
+  url: https://www.callhandling.co.uk/help-videos
+- type: x-twitter
+  url: https://twitter.com/CallHandling_UK
+- type: x-website
+  url: https://www.callhandling.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

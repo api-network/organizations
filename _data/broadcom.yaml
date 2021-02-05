@@ -1,0 +1,30 @@
+---
+name: Broadcom
+description: "Broadcom Inc. is a global technology leader that designs, develops and
+  supplies a broad range of semiconductor and infrastructure software solutions. Broadcom\u2019s
+  category-leading product portfolio serves critical markets including data center,
+  networking, software, broadband, wireless, storage and industrial. Our solutions
+  include data center networking and storage, enterprise and mainframe software focused
+  on automation, monitoring and security, smartphone components, telecoms and factory
+  automation."
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/broadcom.yaml
+tags:
+- Profile
+- Monitoring
+- Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.broadcom.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

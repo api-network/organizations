@@ -1,0 +1,74 @@
+---
+name: 'OSGi: Open Services Gateway Initiative'
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "914471"
+url: https://raw.githubusercontent.com/api-network/organizations/main/osgi-open-services-gateway-initiative.yaml
+tags:
+- Organizations
+apis: []
+x-common:
+- type: x-about
+  url: https://www.osgi.org/about-us/
+- type: x-about
+  url: https://www.osgi.org/about-us/mission/
+- type: x-about
+  url: https://www.osgi.org/about-us/testimonials/
+- type: x-about
+  url: https://www.osgi.org/about-us/members/
+- type: x-about
+  url: https://www.osgi.org/about-us/board-officers/
+- type: x-about
+  url: https://www.osgi.org/about-us/fellows-laureates/
+- type: x-about
+  url: https://www.osgi.org/about-us/expert-groups/
+- type: x-about
+  url: https://www.osgi.org/about-us/expert-groups/marketing/
+- type: x-about
+  url: https://www.osgi.org/about-us/liaisons/
+- type: x-about
+  url: https://www.osgi.org/about-us/faq/
+- type: x-about
+  url: https://www.osgi.org/about-us/mediakit/
+- type: x-blog
+  url: http://blog.osgi.org
+- type: x-case-studies
+  url: https://www.osgi.org/osgi-use-cases/
+- type: x-contact
+  url: https://www.osgi.org/about-us/contact-2/
+- type: x-forum
+  url: https://www.osgi.org/community/osgi-user-forums/
+- type: x-github
+  url: https://github.com/osgi
+- type: x-linkedin
+  url: https://www.linkedin.com/company/osgi-alliance
+- type: x-news
+  url: https://www.osgi.org/newsevents/
+- type: x-news
+  url: https://www.osgi.org/newsevents/member-news/
+- type: x-news
+  url: https://www.osgi.org/newsevents/osgi-in-the-news/
+- type: x-news
+  url: https://www.osgi.org/newsevents/alliance-newsletters/
+- type: x-news
+  url: https://www.osgi.org/newsevents/previous-events/
+- type: x-tutorials
+  url: https://www.osgi.org/learning-resources-tutorials/
+- type: x-twitter
+  url: https://twitter.com/OSGiAlliance
+- type: x-twitter
+  url: https://twitter.com/NewsOsgi
+- type: x-website
+  url: https://www.osgi.org
+- type: x-white-papers
+  url: https://www.osgi.org/developer/white-papers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

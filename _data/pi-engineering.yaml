@@ -1,0 +1,72 @@
+---
+name: PI Engineering
+description: P.I. Engineering designs, manufactures, sells, and supports computer
+  input hardware including unique keyboards, controls, and adapters. With hundreds
+  of thousands of our devices in studios, laboratories, offices, and homes world wide,
+  we have established a reputation as a global leader in input solutions.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pi-engineering.yaml
+tags:
+- Selling
+- Pointing Devices
+- Manufacturing
+- Designing
+apis: []
+x-common:
+- type: x-website
+  url: http://xkeys.com
+- type: x-about
+  url: https://xkeys.com/about.html
+- type: x-about
+  url: https://xkeys.com/about/maptopi.html
+- type: x-about
+  url: https://xkeys.com/about/videos.html
+- type: x-about
+  url: https://xkeys.com/about/employment.html
+- type: x-about
+  url: https://xkeys.com/about/structure.html
+- type: x-about
+  url: https://xkeys.com/about/mugshots.html
+- type: x-about
+  url: https://xkeys.com/about/clientlist.html
+- type: x-about
+  url: https://xkeys.com/about/antlersofdeath.html
+- type: x-about
+  url: https://xkeys.com/about/jackspages.html
+- type: x-contact
+  url: https://xkeys.com/purchase/contactform.html
+- type: x-contact
+  url: https://xkeys.com/support/technicalsupportcontact.html
+- type: x-contact
+  url: https://xkeys.com/about/contactus.html
+- type: x-developer
+  url: https://xkeys.com/software/developer.html
+- type: x-facebook
+  url: https://www.facebook.com/xkeyspi/
+- type: x-forum
+  url: https://xkeys.com/support/forum.html
+- type: x-support
+  url: https://xkeys.com/software/supportdownloadpage.html
+- type: x-support
+  url: https://xkeys.com/support.html
+- type: x-tutorials
+  url: https://xkeys.com/support/tutorials.html
+- type: x-twitter
+  url: https://twitter.com/xkeys_pi
+- type: x-website
+  url: https://www.ymouse.com
+- type: x-youtube
+  url: https://www.youtube.com/c/pivids/live
+- type: x-youtube
+  url: http://www.youtube.com/user/pivids?feature=watch
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

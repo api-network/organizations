@@ -1,0 +1,39 @@
+---
+name: Snort
+description: Snort is an open-source, free and lightweight network intrusion detection
+  system (NIDS) software for Linux and Windows to detect emerging threats.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "186695"
+url: https://raw.githubusercontent.com/api-network/organizations/main/snort.yaml
+tags:
+- Open Source
+apis: []
+x-common:
+- type: x-website
+  url: http://www.snort.org
+- type: x-blog
+  url: https://www.snort.org//#blogs
+- type: x-code
+  url: https://www.snort.org/oinkcodes
+- type: x-contact
+  url: https://www.snort.org/contact#who_should_i_contact
+- type: x-contact
+  url: https://www.snort.org/contact#snortteam
+- type: x-github
+  url: https://github.com/shirkdog/pulledpork
+- type: x-open-source
+  url: https://www.snort.org/downloads#openappid
+- type: x-twitter
+  url: https://twitter.com/Snort
+- type: x-website
+  url: https://www.snort.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,167 @@
+---
+name: Real-Time Rendering Resources
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "315310"
+url: https://raw.githubusercontent.com/api-network/organizations/main/realtime-rendering-resources.yaml
+tags:
+- Resources
+- Books
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.realtimerendering.com/blog
+- type: x-blog
+  url: https://www.realtimerendering.com/blog/
+- type: x-blog
+  url: https://c0de517e.blogspot.com
+- type: x-blog
+  url: https://webglinsights.blogspot.com/
+- type: x-blog
+  url: http://prideout.net/blog/?p=48
+- type: x-blog
+  url: http://prideout.net/blog/?p=49
+- type: x-blog
+  url: http://reedbeta.com/blog/tess-quick-ref/
+- type: x-blog
+  url: https://dolphin-emu.org/blog/2017/07/30/ubershaders/
+- type: x-blog
+  url: https://tomforsyth1000.github.io/blog.wiki.html
+- type: x-blog
+  url: http://blog.selfshadow.com/
+- type: x-blog
+  url: https://meshlabstuff.blogspot.com/
+- type: x-blog
+  url: https://wadeb.com/blog/blog/warp-trace-for-pc/
+- type: x-blog
+  url: http://realtimecollisiondetection.net/blog/?p=86
+- type: x-blog
+  url: http://realtimecollisiondetection.net/blog/?p=91
+- type: x-blog
+  url: https://www.oculus.com/blog/
+- type: x-blog
+  url: https://developer.nvidia.com/gameworks/blog
+- type: x-blog
+  url: https://blog.google/products/google-ar-vr/
+- type: x-blog
+  url: http://pharr.org/matt/blog/2018/04/30/ispc-all.html
+- type: x-blog
+  url: http://realtimecollisiondetection.net/blog/?p=13
+- type: x-blog
+  url: http://realtimecollisiondetection.net/blog/?p=69
+- type: x-code
+  url: https://code.google.com/p/nvidia-texture-tools/
+- type: x-code
+  url: http://graphicscodex.com/
+- type: x-code
+  url: http://www.nar-associates.com/nurbs/c_code.html
+- type: x-code
+  url: http://www.flipcode.com/geometry/
+- type: x-developer
+  url: https://developer.nvidia.com/falcor
+- type: x-developer
+  url: http://mamedev.org/
+- type: x-developer
+  url: https://developer.nvidia.com/vulkan-turing
+- type: x-developer
+  url: https://developer.nvidia.com/object/texture_tools.html
+- type: x-developer
+  url: https://developer.nvidia.com/orca
+- type: x-documentation
+  url: http://adrianbowyer.com/inge/docs/icg.pdf
+- type: x-documentation
+  url: https://graphics.pixar.com/usd/docs/index.html
+- type: x-documentation
+  url: https://graphics.pixar.com/opensubdiv/docs/intro.html
+- type: x-feed
+  url: https://blog.feedspot.com/virtual_reality_blogs/
+- type: x-github
+  url: https://sebh.github.io/
+- type: x-github
+  url: https://github.com/erich666/RealTimeRendering
+- type: x-github
+  url: https://github.com/QianMo/GPU-Gems-Book-Source-Code
+- type: x-github
+  url: https://stemkoski.github.io/Three.js/
+- type: x-github
+  url: https://github.com/bkaradzic/bgfx
+- type: x-github
+  url: https://github.com/id-Software
+- type: x-github
+  url: https://ksimek.github.io/perspective_camera_toy.html
+- type: x-github
+  url: https://github.com/tsherif/webgl2examples
+- type: x-github
+  url: https://github.com/TheRealMJP/MSAAFilter
+- type: x-github
+  url: https://github.com/google/filament
+- type: x-github
+  url: https://tsherif.github.io/webgl2examples/dof.html
+- type: x-github
+  url: https://stemkoski.github.io/Three.js/Bubble.html
+- type: x-github
+  url: https://stemkoski.github.io/Three.js
+- type: x-github
+  url: https://github.com/sebh/HLSL-Spherical-Harmonics
+- type: x-github
+  url: https://github.com/KhronosGroup/glTF
+- type: x-github
+  url: https://github.com/dtecta/solid3
+- type: x-marketplace
+  url: https://www.unrealengine.com/marketplace/free
+- type: x-news
+  url: https://research.adobe.com/news/
+- type: x-open-source
+  url: http://openswr.org/
+- type: x-open-source
+  url: http://www.openscenegraph.org
+- type: x-open-source
+  url: https://www.khronos.org/opengl/wiki/Tessellation
+- type: x-open-source
+  url: https://learnopengl.com/Getting-started/Shaders
+- type: x-open-source
+  url: http://openil.sourceforge.net/
+- type: x-open-source
+  url: https://learnopengl.com/PBR/Theory
+- type: x-open-source
+  url: http://www.openexr.com
+- type: x-open-source
+  url: https://gpuopen.com/archive/gpu-perfstudio/
+- type: x-open-source
+  url: https://www.khronos.org/openxr
+- type: x-press
+  url: http://www.apress.com/9781430259299
+- type: x-press
+  url: http://bulletphysics.org/wordpress/
+- type: x-tutorials
+  url: https://www.ronja-tutorials.com/
+- type: x-twitter
+  url: https://twitter.com/miwanicki
+- type: x-twitter
+  url: https://twitter.com/inversepixel
+- type: x-twitter
+  url: https://twitter.com/pointinpolygon
+- type: x-twitter
+  url: https://twitter.com/renderwonk
+- type: x-twitter
+  url: https://twitter.com/kenpex
+- type: x-twitter
+  url: https://twitter.com/SebHillaire
+- type: x-twitter
+  url: https://twitter.com/madewitharkit?lang=en
+- type: x-website
+  url: https://www.realtimerendering.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=DxMfblPzFNc
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=nFQBtDVPTRM
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

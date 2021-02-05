@@ -1,0 +1,48 @@
+---
+name: Three.js
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "26491"
+url: https://raw.githubusercontent.com/api-network/organizations/main/three-js.yaml
+tags:
+- JavaScript
+apis: []
+x-common:
+- type: x-code
+  url: http://www.clicktorelease.com/code/cruciform/
+- type: x-code
+  url: http://www.sketchpatch.net/labs/livecodelabIntro.html
+- type: x-facebook
+  url: https://facebook.github.io/react-vr/
+- type: x-github
+  url: http://github.com/mrdoob/three.js/releases
+- type: x-github
+  url: https://github.com/mrdoob/three.js/
+- type: x-github
+  url: https://github.com/mrdoob/three.js/archive/master.zip
+- type: x-github
+  url: http://vaalentin.github.io/2015/
+- type: x-github
+  url: http://collinhover.github.com/kaiopua/
+- type: x-github
+  url: http://chandlerprall.github.com/Physijs/
+- type: x-github
+  url: http://idflood.github.io/ThreeNodes.js/
+- type: x-news
+  url: http://news-lab-trends-experiment.appspot.com/
+- type: x-showcase
+  url: https://discourse.threejs.org/c/showcase
+- type: x-twitter
+  url: https://twitter.com/threejs_org
+- type: x-website
+  url: https://threejs.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

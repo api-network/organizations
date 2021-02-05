@@ -1,0 +1,42 @@
+---
+name: Electron Hut
+description: cool games for phones! Card games, arcade games, puzzle games, and casino
+  games for PalmOS and iPhone
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/electron-hut.yaml
+tags:
+- Visor
+- Video Games
+- Video
+- Touch
+- Tetris
+- Solitaire
+- Software
+- Slots
+- Shareware
+- PRISM
+- Poker
+- Pilot
+- Palm
+- IPod
+- IPhone
+- Handspring
+- Games
+- Color
+- Casino
+- 3com
+apis: []
+x-common:
+- type: x-website
+  url: https://www.electronhut.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

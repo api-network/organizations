@@ -1,0 +1,21 @@
+---
+name: Mock API  Smart Village App Bad Belzig
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mock-api--smart-village-app-bad-belzig.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://3864f6f3-64e8-4473-ba6f-90a55c71e60e.mock.pstmn.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

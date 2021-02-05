@@ -1,0 +1,54 @@
+---
+name: Striata eBilling, eMarketing, Secure Document Delivery
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "239682"
+url: https://raw.githubusercontent.com/api-network/organizations/main/striata-ebilling-emarketing-secure-document-delivery.yaml
+tags:
+- Billing
+apis: []
+x-common:
+- type: x-about
+  url: https://www.striata.com/about-us/about-striata/
+- type: x-about
+  url: https://www.striata.com/about-us/meet-the-team/
+- type: x-about
+  url: https://www.striata.com/about-us/why-choose-striata/
+- type: x-about
+  url: https://www.striata.com/about-us/compliance/
+- type: x-blog
+  url: https://www.striata.com/resources/blog/
+- type: x-careers
+  url: https://www.striata.com/about-us/careers/
+- type: x-contact
+  url: https://www.striata.com/contact-us/
+- type: x-developer
+  url: http://developer.striata.com
+- type: x-facebook
+  url: https://www.facebook.com/striata.digital/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/striata
+- type: x-news
+  url: https://www.striata.com/resources/news/
+- type: x-partner
+  url: https://www.striata.com/about-us/partners/
+- type: x-security
+  url: https://www.striata.com/software/security/
+- type: x-support
+  url: https://www.striata.com/services/support/
+- type: x-twitter
+  url: https://twitter.com/Striata
+- type: x-website
+  url: https://www.striata.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=tGyeGHE4Io8&t=2643s
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

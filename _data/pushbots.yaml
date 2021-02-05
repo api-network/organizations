@@ -1,0 +1,68 @@
+---
+name: PushBots
+description: PushBots is a free push notifications service for mobile apps native
+  and hybrid.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1796_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "605260"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pushbots.yaml
+tags:
+- Target
+- Notifications
+- Networks
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://pushbots.com
+- type: x-base
+  url: https://api.pushbots.com/
+- type: x-blog
+  url: https://blog.pushbots.com
+- type: x-blog
+  url: http://blog.pushbots.com/
+- type: x-blog-rss
+  url: http://blog.pushbots.com/rss
+- type: x-careers
+  url: https://jobs.smartrecruiters.com/?company=PushBotsInc
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/pushbots
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/pushbots
+- type: x-developer
+  url: https://developer.pushbots.com
+- type: x-developer
+  url: http://developer.pushbots.com
+- type: x-developers
+  url: https://pushbots.com/developer
+- type: x-email
+  url: help@pushbots.com
+- type: x-facebook
+  url: https://facebook.com/pushbots
+- type: x-github
+  url: https://github.com/pushbots
+- type: x-instagram
+  url: https://instagram.com/pushbots
+- type: x-pricing
+  url: https://pushbots.com/pricing
+- type: x-self-service-registration
+  url: https://app.pushbots.com/auth/register
+- type: x-status
+  url: https://status.pushbots.com
+- type: x-support
+  url: https://help.pushbots.com
+- type: x-twitter
+  url: https://twitter.com/PushBots
+- type: x-website
+  url: https://pushbots.com
+- type: x-youtube
+  url: https://youtube.com/pushbots
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

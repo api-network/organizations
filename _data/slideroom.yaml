@@ -1,0 +1,63 @@
+---
+name: SlideRoom
+description: <p>SlideRoom is a comprehensive system to accept and review application
+  forms, references, portfolios, and payments in one secure location.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/wSO-wHMx.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "53529"
+url: https://raw.githubusercontent.com/api-network/organizations/main/slideroom.yaml
+tags:
+- Labor
+- Interviews
+- Have Swagger
+- Have API Paths
+- Applicants
+apis: []
+x-common:
+- type: x-website
+  url: http://www.slideroom.com
+- type: x-blog
+  url: http://blog.slideroom.com
+- type: x-blog
+  url: http://blog.slideroom.com/when-makers-apply-to-college
+- type: x-blog
+  url: http://blog.slideroom.com/slideroom-joins-liaison/
+- type: x-blog
+  url: http://blog.slideroom.com/slideroom-accessibility
+- type: x-blog
+  url: https://blog.slideroom.com/
+- type: x-blog
+  url: http://www.slideroom.com/blog/
+- type: x-contact
+  url: http://www.slideroom.com/contact.html
+- type: x-developer
+  url: https://api.slideroom.com
+- type: x-documentation
+  url: https://api.slideroom.com/reference/index
+- type: x-facebook
+  url: https://www.facebook.com/slideroom
+- type: x-github
+  url: https://github.com/slideroom
+- type: x-linkedin
+  url: https://www.linkedin.com/company/slideroom
+- type: x-pricing
+  url: http://www.slideroom.com/pricing.html
+- type: x-privacy
+  url: http://www.slideroom.com/privacy.html
+- type: x-terms-of-service
+  url: http://www.slideroom.com/terms.html
+- type: x-twitter
+  url: https://twitter.com/slideroom
+- type: x-website
+  url: http://slideroom.com
+- type: x-website
+  url: http://www.slideroom.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

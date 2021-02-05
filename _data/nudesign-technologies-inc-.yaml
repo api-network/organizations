@@ -1,0 +1,69 @@
+---
+name: NuDesign Technologies Inc.
+description: NuDesign Technologies Inc. provides NETCONF, SNMPv3, CLI and RESTCONF
+  / web Agent development tools with RTOS specific libraries and consulting services.
+  The products support embedded and desktop systems such as Linux, QNX, MS Windows
+  and Windows Embedded over IPv6 and IPv4 networks.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nudesign-technologies-inc-.yaml
+tags:
+- YANG Data Modeling Language
+- SNMPv3 Tutorial
+- SNMP Source Code Samples
+- SNMP Remote Agent
+- SNMP Proxy
+- SNMP Inform
+- SNMP For NTCIP Transportation Industry
+- SNMP For AFDX / ARINC664
+- SNMP Extension DLL
+- Send Trap
+- Rfc2741
+- Receive Traps
+- Network Management
+- NETCONF Protocol
+- NETCONF & SNMPv3 Free Evaluations
+- NETCONF & SNMPv3 Development Tools
+- NETCONF & SNMPv3 Code Generator / Builder
+- NETCONF & SNMPv3 Agent Development
+- MIB Builder
+- MIB Browser
+- Linux And Windows SNMPv3 Agent Service
+- Extensible SNMP Agent
+- Embedded NETCONF & SNMPv3 Software Libraries
+- AgentX
+- 32 Bit & 64 Bit Support
+apis: []
+x-common:
+- type: x-about
+  url: https://www.ndt-inc.com/ndt/about-company/
+- type: x-contact
+  url: https://www.ndt-inc.com/ndt/contact-us/
+- type: x-customers
+  url: https://www.ndt-inc.com/ndt/customers/
+- type: x-news
+  url: https://www.ndt-inc.com/ndt/news/
+- type: x-partner
+  url: https://www.ndt-inc.com/ndt/partners/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-press
+  url: https://extend.thecartpress.com/products/boot-store/
+- type: x-support
+  url: https://www.ndt-inc.com/ndt/support/
+- type: x-terms-of-service
+  url: https://ndt-inc.com/ndt/privacy-and-terms-of-use/
+- type: x-tutorials
+  url: https://www.ndt-inc.com/ndt/tutorials/
+- type: x-website
+  url: https://www.ndt-inc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

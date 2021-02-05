@@ -1,0 +1,41 @@
+---
+name: The Marketing Matrix
+description: The Marketing Matrix delivers practical marketing strategy, support and
+  training for SMEs in Surrey and London UK.  Book in a no obligation Marketing Review
+  & Reboot today and find out how you can improve your business profile quickly and
+  cost-effectively.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8922307"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-marketing-matrix.yaml
+tags:
+- Health And Medical
+apis: []
+x-common:
+- type: x-website
+  url: http://www.TheMarketingMatrix.co.uk
+- type: x-about
+  url: https://www.themarketingmatrix.co.uk/about-us/
+- type: x-contact
+  url: https://www.themarketingmatrix.co.uk/contact-us/
+- type: x-contact
+  url: http://www.themarketingmatrix.co.uk/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/themarketingmatrix
+- type: x-news
+  url: https://www.themarketingmatrix.co.uk/news-tips/
+- type: x-privacy
+  url: https://www.themarketingmatrix.co.uk/privacy/
+- type: x-twitter
+  url: https://twitter.com/anneveh
+- type: x-website
+  url: https://www.themarketingmatrix.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

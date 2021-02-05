@@ -1,0 +1,92 @@
+---
+name: West Wind Technologies
+description: Home of Rick Strahl's company site. Find products, tools and development
+  service, read our development blogs and white papers about Web and Service development
+  on the Microsoft and open Web stack.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "42741"
+url: https://raw.githubusercontent.com/api-network/organizations/main/west-wind-technologies.yaml
+tags:
+- XML
+- WwSOAP
+- WwIPStuff
+- West Wind Internet Protocols
+- Web Store
+- Web Shop
+- Web Services
+- Web Monitor
+- Web Connection
+- Visual Studio
+- Visual FoxPro
+- VFP
+- Tools
+- SOAP
+- Rick Strahl
+- Programming
+- Oregon
+- Messaging
+- Message Board
+- Maui
+- ISAPI
+- Is
+- HTTP
+- Html Help Builder
+- Hood River
+- Help
+- Hawaii
+- Frederik Strahl
+- FoxPro
+- ECommerce
+- E-commerce
+- Dynamic Html
+- Distributed
+- DHTML
+- Dcom
+- Consulting
+- Com+
+- Com
+- Chm
+- C++
+- C#
+- Business Framework
+- ASP.NET Core
+- ASP.Net
+- .NET
+apis: []
+x-common:
+- type: x-blog
+  url: https://weblog.west-wind.com/
+- type: x-blog
+  url: https://weblog.west-wind.com
+- type: x-code
+  url: http://www.codemag.com/training
+- type: x-code
+  url: https://www.codemag.com/Consulting
+- type: x-code
+  url: https://www.codemag.com/Magazine
+- type: x-code
+  url: https://www.codemag.com/advertise
+- type: x-news
+  url: https://west-wind.com/westwindnews.wst
+- type: x-support
+  url: https://support.west-wind.com/
+- type: x-support
+  url: https://support.west-wind.com
+- type: x-support
+  url: https://helpbuilder.west-wind.com
+- type: x-support
+  url: https://helpbuilder.west-wind.com/
+- type: x-twitter
+  url: https://twitter.com/RickStrahl
+- type: x-website
+  url: https://www.west-wind.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

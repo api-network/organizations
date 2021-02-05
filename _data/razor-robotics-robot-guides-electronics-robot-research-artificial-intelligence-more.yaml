@@ -1,0 +1,44 @@
+---
+name: 'Razor Robotics: Robot Guides, Electronics, Robot research, Artificial intelligence
+  & more'
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1369693"
+url: https://raw.githubusercontent.com/api-network/organizations/main/razor-robotics-robot-guides-electronics-robot-research-artificial-intelligence-more.yaml
+tags: []
+apis: []
+x-common:
+- type: x-about
+  url: https://www.razorrobotics.com/all-about-robots/
+- type: x-careers
+  url: https://www.razorrobotics.com/careers-and-education/
+- type: x-contact
+  url: https://www.razorrobotics.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/RazorRobotics
+- type: x-github
+  url: https://github.com/RazorRobotics
+- type: x-linkedin
+  url: https://www.linkedin.com/company/razor-robotics
+- type: x-news
+  url: https://www.razorrobotics.com/news/
+- type: x-press
+  url: https://www.razorrobotics.com/wordpress/feed
+- type: x-twitter
+  url: https://www.twitter.com/RazorRobotics
+- type: x-twitter
+  url: https://twitter.com/RazorRobotics
+- type: x-website
+  url: https://www.razorrobotics.com
+- type: x-youtube
+  url: https://www.youtube.com/RazorRobotics
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

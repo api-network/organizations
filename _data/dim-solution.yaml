@@ -1,0 +1,31 @@
+---
+name: Dim Solution
+description: 'As a creative digital agency,we think, design and builddigital products
+  and services that people love.Keenly aware and alert on the evolutions related to
+  new technologies, we dedicate all of our human and technical ressources to your
+  project. Our team of passionate engineers ensures you rigor and responsiveness,
+  privileging dialogue to achieve a common goal : the success of your project.'
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/api-butterfly.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "6"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dim-solution.yaml
+tags:
+- Profile
+- Agency
+apis: []
+x-common:
+- type: x-authentication
+  url: https://dimsolution.com/about/
+- type: x-email
+  url: contact@dimsolution.com
+- type: x-website
+  url: http://dimsolution.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

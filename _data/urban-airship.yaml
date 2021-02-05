@@ -1,0 +1,161 @@
+---
+name: Urban Airship
+description: Deliver meaningful messages at every stage of the customer lifecycle
+  with the Customer Engagement Platform built for enterprise brands. Learn more.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/serviceproviders/urban-airship-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "811"
+x-alexaRank: "117549"
+url: https://raw.githubusercontent.com/api-network/organizations/main/urban-airship.yaml
+tags:
+- Relative Data
+- Locations
+- Locations
+- Have Swagger
+- Have API Paths
+- Have API
+- BaaS
+apis: []
+x-common:
+- type: x-website
+  url: http://www.airship.com
+- type: x-website
+  url: http://urbanairship.com/
+- type: x-android-sdk
+  url: http://docs.urbanairship.com/platform/android.html
+- type: x-blackberry-sdk
+  url: http://docs.urbanairship.com/platform/blackberry.html
+- type: x-blog
+  url: http://urbanairship.com/blog
+- type: x-blog
+  url: https://www.airship.com/blog/
+- type: x-blog-rss
+  url: http://urbanairship.com/blog/rss
+- type: x-careers
+  url: https://www.airship.com/company/careers/
+- type: x-case-studies
+  url: http://urbanairship.com/resources/case-studies
+- type: x-contact
+  url: https://www.airship.com/contact-us/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/urban-airship
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/urban-airship
+- type: x-customers
+  url: https://www.airship.com/customers/
+- type: x-customers
+  url: https://www.airship.com/customers/alaska-airlines/
+- type: x-developers
+  url: http://docs.urbanairship.com/
+- type: x-documentation
+  url: https://docs.airship.com/
+- type: x-email
+  url: legal@urbanairship.com
+- type: x-email
+  url: privacy@urbanairship.com
+- type: x-email
+  url: support@urbanairship.com
+- type: x-events
+  url: https://www.airship.com/company/events/
+- type: x-facebook
+  url: https://www.facebook.com/airshipsocial/
+- type: x-github
+  url: https://github.com/urbanairship
+- type: x-glossary
+  url: http://docs.urbanairship.com/reference/glossary.html
+- type: x-instagram
+  url: https://www.instagram.com/airshipsocial
+- type: x-ios-sdk
+  url: http://docs.urbanairship.com/platform/ios.html
+- type: x-linkedin
+  url: https://www.linkedin.com/company/airship-social/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/urban-airship/
+- type: x-login
+  url: https://go.airship.com/accounts/login
+- type: x-partner
+  url: https://www.airship.com/company/partners/
+- type: x-phonegap-sdk
+  url: http://docs.urbanairship.com/platform/phonegap.html
+- type: x-platform
+  url: https://www.airship.com/platform/
+- type: x-platform
+  url: https://www.airship.com/platform/channels/
+- type: x-platform
+  url: https://www.airship.com/platform/channels/mobile-app/
+- type: x-platform
+  url: https://www.airship.com/platform/channels/mobile-app/push-notifications/
+- type: x-platform
+  url: https://www.airship.com/platform/channels/mobile-app/in-app-messaging/
+- type: x-platform
+  url: https://www.airship.com/platform/channels/mobile-app/message-center/
+- type: x-platform
+  url: https://www.airship.com/platform/channels/sms/
+- type: x-platform
+  url: https://www.airship.com/platform/channels/web-notifications/
+- type: x-platform
+  url: https://www.airship.com/platform/channels/mobile-wallet/
+- type: x-platform
+  url: https://www.airship.com/platform/channels/email/
+- type: x-platform
+  url: https://www.airship.com/platform/channels/open-channel-api/
+- type: x-platform
+  url: https://www.airship.com/platform/orchestration/
+- type: x-platform
+  url: https://www.airship.com/platform/orchestration/journeys/
+- type: x-platform
+  url: https://www.airship.com/platform/orchestration/channel-coordination/
+- type: x-platform
+  url: https://www.airship.com/platform/orchestration/automation/
+- type: x-platform
+  url: https://www.airship.com/platform/orchestration/personalization/
+- type: x-platform
+  url: https://www.airship.com/platform/orchestration/optimization/
+- type: x-platform
+  url: https://www.airship.com/platform/analytics-data/
+- type: x-platform
+  url: https://www.airship.com/platform/analytics-data/predictive-ai/
+- type: x-platform
+  url: https://www.airship.com/platform/analytics-data/performance-analytics/
+- type: x-platform
+  url: https://www.airship.com/platform/analytics-data/real-time-data-streaming/
+- type: x-platform
+  url: https://www.airship.com/platform/pricing/
+- type: x-platform
+  url: https://www.airship.com/resources/analyst-report/gartner-inc-2019-critical-capabilities-for-mobile-marketing-platforms/
+- type: x-platform
+  url: https://www.airship.com/platform/orchestration/journeys
+- type: x-pricing
+  url: https://www.urbanairship.com/products/engage/pricing
+- type: x-privacy
+  url: https://www.airship.com/legal/privacy/
+- type: x-privacy
+  url: http://urbanairship.com/legal/privacy-policy
+- type: x-security
+  url: http://docs.urbanairship.com/reference/app_keys_secrets.html
+- type: x-security
+  url: https://www.airship.com/security/
+- type: x-support
+  url: https://support.urbanairship.com/hc/en-us
+- type: x-terms
+  url: https://www.airship.com/legal/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/urbanairship
+- type: x-twitter
+  url: https://twitter.com/airship
+- type: x-website
+  url: http://urbanairship.com
+- type: x-white-papers
+  url: http://urbanairship.com/resources/whitepapers
+- type: x-windows-sdk
+  url: http://docs.urbanairship.com/platform/windows.html
+- type: x-youtube
+  url: https://www.youtube.com/urbanairship
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

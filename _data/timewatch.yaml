@@ -1,0 +1,46 @@
+---
+name: Timewatch
+description: Timewatch, specialists in time tracking, resource scheduling, expense
+  tracking, project costing & charging. Cloud and on-premises systems available.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8663980"
+url: https://raw.githubusercontent.com/api-network/organizations/main/timewatch.yaml
+tags:
+- Time Tracking
+- Billing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.timewatch.com
+- type: x-blog
+  url: https://www.timewatch.com/blog/
+- type: x-contact
+  url: https://www.timewatch.com/contact-timewatch/
+- type: x-contact
+  url: http://timewatch.net/contact-timewatch
+- type: x-customers
+  url: https://www.timewatch.com/customers-industries/
+- type: x-facebook
+  url: https://www.facebook.com/TimewatchInc
+- type: x-feed
+  url: https://www.timewatch.com/feed/rss/
+- type: x-login
+  url: https://www.time-and-space.com/timeandspace/login.aspx
+- type: x-privacy
+  url: http://www.timewatch.com/privacy/
+- type: x-privacy
+  url: https://www.timewatch.com/privacy/
+- type: x-twitter
+  url: https://twitter.com/TimewatchInc
+- type: x-website
+  url: https://www.timewatch.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

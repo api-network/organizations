@@ -1,0 +1,65 @@
+---
+name: TwitterGadget
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3323287"
+url: https://raw.githubusercontent.com/api-network/organizations/main/twittergadget.yaml
+tags:
+- Workplace
+- Work
+- Widget
+- Websense
+- Web-client
+- Twitter Gadget
+- Twitter
+- Social Networking
+- Safari
+- Proxy
+- Opera
+- Office
+- Internet Explorer
+- IGoogle
+- Ie
+- Gadget
+- Firefox
+- Desktop Applications
+- Client
+- Chrome
+- Browser-based.
+- Browser
+apis: []
+x-common:
+- type: x-twitter
+  url: http://twitter.com/share
+- type: x-twitter
+  url: https://twitter.com/tgadget
+- type: x-website
+  url: https://www.twittergadget.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=Zn61UkfI4w8
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=a7PkBZ-Vukw
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=4iLdDvD8O38
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=JSup-bVp9Vc
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=bQQK1tRIf3s
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=RQsUWgS1djY
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=koH3F9wkISg
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=TMmc2rSujgA
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=vZUdqPXjp-0
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

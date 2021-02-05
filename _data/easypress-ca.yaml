@@ -1,0 +1,62 @@
+---
+name: EasyPress.ca
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/easypress-ca.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-website
+  url: https://www.easydns.com
+- type: x-blog
+  url: https://easydns.com/blog/
+- type: x-blog
+  url: https://easydns.com/blog/category/axisofeasy/
+- type: x-contact
+  url: https://easydns.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/EasyDNS/
+- type: x-plans
+  url: https://easydns.com/hosting/cpanel/plans/
+- type: x-press
+  url: https://easydns.com/hosting/wordpress/
+- type: x-press
+  url: https://easydns.com/hosting/wordpress/plans/
+- type: x-press
+  url: https://easydns.com/hosting/wordpress/specs/
+- type: x-press
+  url: https://easydns.com/hosting/wordpress/plans/#features
+- type: x-press
+  url: https://easypress.ca/help/
+- type: x-pricing
+  url: https://easydns.com/pricing/
+- type: x-privacy
+  url: https://easydns.com/domains/myprivacy/
+- type: x-privacy
+  url: https://easydns.com/privacy-policy/
+- type: x-self-service-registration
+  url: https://easydns.com/domains/register/
+- type: x-self-service-registration
+  url: https://easydns.com/domains/register-ca-domain/
+- type: x-signup
+  url: https://cp.easydns.com/signup/
+- type: x-terms-of-service
+  url: https://easydns.com/terms-of-service/
+- type: x-tutorials
+  url: https://kb.easydns.com/knowledge_cat/email-tutorials/
+- type: x-twitter
+  url: https://twitter.com/easyDNS
+- type: x-website
+  url: https://www.easypress.ca
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

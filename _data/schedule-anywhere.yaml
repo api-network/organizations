@@ -1,0 +1,40 @@
+---
+name: Schedule Anywhere
+description: Employee scheduling software cuts scheduling time, reduces overtime,
+  better utilizes staff. Enterprise visibility. Employee self service. Try free 30-day
+  trial!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "190116"
+url: https://raw.githubusercontent.com/api-network/organizations/main/schedule-anywhere.yaml
+tags:
+- Staff Scheduling Software
+- Scheduling Software
+- Personnel Scheduling
+- Online Scheduling
+- Online Scheduler
+- Online Employee Scheduling
+- Employee Scheduling Software
+- Employee Scheduling
+- Employee Scheduler
+apis: []
+x-common:
+- type: x-website
+  url: http://www.scheduleanywhere.com
+- type: x-facebook
+  url: https://www.facebook.com/ScheduleAnywhere
+- type: x-twitter
+  url: https://twitter.com/schedanywhere
+- type: x-website
+  url: https://www.scheduleanywhere.com
+- type: x-youtube
+  url: https://www.youtube.com/user/ScheduleAnywhere
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

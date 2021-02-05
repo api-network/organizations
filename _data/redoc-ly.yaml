@@ -1,0 +1,23 @@
+---
+name: ReDoc.ly
+description: OpenAPI-generated documentation tool with 6,000+ stars on Github - for
+  API docs you can be proud of.
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/redoc-ly.yaml
+tags:
+- Profile
+apis: []
+x-common:
+- type: x-website
+  url: http://redoc.ly
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

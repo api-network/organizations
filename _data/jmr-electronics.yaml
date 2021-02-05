@@ -1,0 +1,48 @@
+---
+name: JMR Electronics
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1960177"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jmr-electronics.yaml
+tags:
+- Storage
+apis: []
+x-common:
+- type: x-website
+  url: http://www.jmr.com
+- type: x-about
+  url: https://jmr.com/about/
+- type: x-about
+  url: https://jmr.com/about/accolades/
+- type: x-blog
+  url: https://jmr.com/blog/
+- type: x-contact
+  url: https://jmr.com/contact-2/
+- type: x-facebook
+  url: https://www.facebook.com/JMRElectronics/
+- type: x-instagram
+  url: https://www.instagram.com/jmrelectronics/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/jmrllc/
+- type: x-partner
+  url: https://jmr.com/about/partners/
+- type: x-support
+  url: https://jmr.com/support
+- type: x-support
+  url: https://jmr.com/support/
+- type: x-terms-of-service
+  url: https://jmr.com/terms-and-conditions/
+- type: x-twitter
+  url: https://twitter.com/jmrelectronics
+- type: x-website
+  url: https://www.jmr.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

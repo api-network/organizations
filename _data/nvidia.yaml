@@ -1,0 +1,54 @@
+---
+name: Nvidia
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1047"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nvidia.yaml
+tags:
+- Graphics Chip Vendors
+apis: []
+x-common:
+- type: x-blog
+  url: https://blogs.nvidia.com
+- type: x-blog
+  url: https://devblogs.nvidia.com/
+- type: x-developer
+  url: https://developer.nvidia.com/embedded-computing
+- type: x-developer
+  url: https://developer.nvidia.com/graphics-research-tools
+- type: x-developer
+  url: http://developer.nvidia.com
+- type: x-documentation
+  url: https://docs.nvidia.com
+- type: x-documentation
+  url: https://raytracing-docs.nvidia.com/
+- type: x-documentation
+  url: https://docs.nvidia.com/cuda/index.html
+- type: x-documentation
+  url: https://docs.nvidia.com/gameworks/index.html
+- type: x-documentation
+  url: https://docs.nvidia.com/drive/index.html
+- type: x-documentation
+  url: https://docs.nvidia.com/ngc/index.html
+- type: x-documentation
+  url: https://docs.nvidia.com/isaac/index.html
+- type: x-news
+  url: https://news.developer.nvidia.com
+- type: x-news
+  url: https://news.developer.nvidia.com/
+- type: x-pricing
+  url: https://developer.nvidia.com/education-pricing
+- type: x-terms-of-service
+  url: https://www.nvidia.com/en-us/about-nvidia/legal-info/
+- type: x-website
+  url: https://www.nvidia.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

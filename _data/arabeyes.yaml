@@ -1,0 +1,24 @@
+---
+name: Arabeyes
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "659158"
+url: https://raw.githubusercontent.com/api-network/organizations/main/arabeyes.yaml
+tags:
+- Internationalization
+apis: []
+x-common:
+- type: x-code
+  url: http://www.unicode.org
+- type: x-website
+  url: https://www.arabeyes.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

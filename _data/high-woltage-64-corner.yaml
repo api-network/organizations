@@ -1,0 +1,40 @@
+---
+name: 'High Woltage: 64 Corner'
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/high-woltage-64-corner.yaml
+tags:
+- Demoscene
+apis: []
+x-common:
+- type: x-blog
+  url: http://hwg-c64.blogspot.com/
+- type: x-blog
+  url: http://hwg-c64.blogspot.com/search/label/History
+- type: x-blog
+  url: http://hwg-c64.blogspot.com/search/label/Games
+- type: x-blog
+  url: http://hwg-c64.blogspot.com/search/label/Game%20Cracks
+- type: x-blog
+  url: https://hwg-c64.blogspot.com/search/label/Games
+- type: x-blog
+  url: https://hwg-c64.blogspot.com/2009/05/catalog.html
+- type: x-blog
+  url: https://hwg-c64.blogspot.com/search/label/History
+- type: x-blog
+  url: http://hwg-c64.blogspot.com/2009/05/get-life-1991.html
+- type: x-blog
+  url: http://hwg-c64.blogspot.com/2009/05/catalog.html
+- type: x-website
+  url: https://hwg-c64.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

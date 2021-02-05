@@ -1,0 +1,46 @@
+---
+name: Family Friendly Sites
+description: Find approved websites and destinations that support online safety of
+  family members using the internet. The Original Family-Friendly Directory started
+  in 1996.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "227511"
+url: https://raw.githubusercontent.com/api-network/organizations/main/family-friendly-sites.yaml
+tags:
+- Family Friendly
+apis: []
+x-common:
+- type: x-website
+  url: http://familyfriendlysites.com
+- type: x-blog
+  url: https://familyfriendlysites.com/home-and-family/blogs/
+- type: x-contact
+  url: https://familyfriendlysites.com/contactform.php/?ffs
+- type: x-contact
+  url: https://familyfriendlysites.com/contactform.php
+- type: x-feed
+  url: https://familyfriendlysites.com/rssfeed.php
+- type: x-news
+  url: https://familyfriendlysites.com/news-and-media/
+- type: x-news
+  url: https://familyfriendlysites.com/news-and-media/blogs/
+- type: x-news
+  url: https://familyfriendlysites.com/news
+- type: x-privacy
+  url: https://familyfriendlysites.com/privacy
+- type: x-self-service-registration
+  url: https://familyfriendlysites.com/register.php
+- type: x-twitter
+  url: https://twitter.com/familysites
+- type: x-website
+  url: https://www.familyfriendlysites.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

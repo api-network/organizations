@@ -1,0 +1,25 @@
+---
+name: MIXER
+description: Welcome to Mixer, the next generation in live streaming.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29002-dev-mixer-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "3568"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mixer.yaml
+tags: []
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/beam-10
+- type: x-webhooks
+  url: https://dev.mixer.com/reference/webhooks/index.html
+- type: x-website
+  url: https://dev.mixer.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,40 @@
+---
+name: IHG Hotels & Resorts
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2801"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ihg-hotels-resorts.yaml
+tags:
+- Profile
+- Have Swagger
+- Have API Paths
+apis: []
+x-common:
+- type: x-about
+  url: https://pcroomservice.ihg.com/page/about
+- type: x-contact
+  url: https://pcroomservice.ihg.com/contact
+- type: x-documentation
+  url: https://pcroomservice.ihg.com/io-docs
+- type: x-forum
+  url: https://pcroomservice.ihg.com/forum
+- type: x-website
+  url: http://pcroomservice.ihg.com
+- type: x-login
+  url: https://pcroomservice.ihg.com/login/
+- type: x-self-service-registration
+  url: https://pcroomservice.ihg.com/member/register
+- type: x-support
+  url: https://pcroomservice.ihg.com/support
+- type: x-terms-of-service
+  url: https://pcroomservice.ihg.com/page/terms
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

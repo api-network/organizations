@@ -1,0 +1,39 @@
+---
+name: Free Website Localization
+description: Collaborative localization project to help webmasters cooperate on the
+  translation of their own web sites. Free localization tools are available online.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/free-website-localization.yaml
+tags:
+- Website
+- Translation
+- Tools
+- Service
+- Localization
+- Language
+- L10n
+- Internationalization
+- I18n
+- Globalization
+- Free
+apis: []
+x-common:
+- type: x-login
+  url: http://www.freelocalization.com/login.php?lang=en_US
+- type: x-privacy
+  url: http://www.freelocalization.com/privacy.php?lang=en_US
+- type: x-terms-of-service
+  url: http://www.freelocalization.com/terms.php?lang=en_US
+- type: x-website
+  url: https://www.freelocalization.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

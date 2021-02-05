@@ -1,0 +1,58 @@
+---
+name: Rev
+description: Online audio transcription, video captions and document translation services.
+  For immigration, business, legal, academic and personal needs.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1846_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "5602"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rev.yaml
+tags:
+- Transcripts
+- Target
+- Have API
+- Content
+- Audio Transcription
+- Audio Indexing
+apis: []
+x-common:
+- type: x-website
+  url: http://rev.com
+- type: x-base-url
+  url: http://api-sandbox.rev.com
+- type: x-blog
+  url: http://blog.rev.com
+- type: x-blog
+  url: https://www.rev.com/blog/powerful-transcript-tools
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/rev
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/rev
+- type: x-developers
+  url: http://www.rev.com/api
+- type: x-email
+  url: support@rev.com.
+- type: x-email
+  url: support@rev.com
+- type: x-email
+  url: servicesagreement@rev.com
+- type: x-facebook
+  url: https://www.facebook.com/rev
+- type: x-linkedin
+  url: https://www.linkedin.com/company/rev-com/
+- type: x-support
+  url: https://support.rev.com/hc/en-us
+- type: x-twitter
+  url: https://twitter.com/rev
+- type: x-website
+  url: http://www.rev.com
+- type: x-zapier
+  url: https://www.rev.com/api/zapier
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

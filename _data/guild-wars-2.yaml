@@ -1,0 +1,30 @@
+---
+name: Guild Wars 2
+description: 'Welcome to the official Guild Wars 2 fan page on Facebook! Please check
+  the FAQ for info about the game: https://www.guildwars2.com/en/services/faq/'
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28263-wiki-guildwars2-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6664"
+url: https://raw.githubusercontent.com/api-network/organizations/main/guild-wars-2.yaml
+tags:
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.guildwars2.com/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/product/guild-wars
+- type: x-twitter
+  url: https://twitter.com/GuildWars2
+- type: x-website
+  url: https://wiki.guildwars2.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

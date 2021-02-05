@@ -1,0 +1,28 @@
+---
+name: Coastal Logic, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/coastal-logic-inc-.yaml
+tags:
+- Product Data Management
+apis: []
+x-common:
+- type: x-about
+  url: https://coastallogic.com/about/
+- type: x-contact
+  url: https://coastallogic.com/contact/
+- type: x-terms-of-service
+  url: https://coastallogic.com/legal-information/cookies/
+- type: x-website
+  url: https://www.coastallogic.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

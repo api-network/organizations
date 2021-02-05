@@ -1,0 +1,88 @@
+---
+name: Infusionsoft
+description: <p>Infusionsoft is a private company that offers an e-mail marketing
+  and sales platform for small businesses, including products to streamline the customer
+  lifecycle, customer relationship management, marketing automation, lead capture,
+  and e-commerce.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/infusionsoft-logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "700"
+x-alexaRank: "2144"
+url: https://raw.githubusercontent.com/api-network/organizations/main/infusionsoft.yaml
+tags:
+- Have Swagger
+- Have API Paths
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: https://keap.com/infusionsoft
+- type: x-about
+  url: https://keap.com/about
+- type: x-blog
+  url: https://keap.com/business-success-blog
+- type: x-blog
+  url: https://keap.com/business-success-blog/category/sales
+- type: x-blog
+  url: https://keap.com/business-success-blog/category/growth
+- type: x-careers
+  url: https://keap.com/about/careers
+- type: x-contact
+  url: https://help.keap.com/help/contact-support
+- type: x-contact
+  url: https://keap.com/contact
+- type: x-developers
+  url: https://developer.infusionsoft.com/
+- type: x-events
+  url: https://keap.com/resources/events
+- type: x-facebook
+  url: https://www.facebook.com/keap
+- type: x-github
+  url: https://github.com/infusionsoft
+- type: x-instagram
+  url: https://www.instagram.com/keap
+- type: x-integrations
+  url: https://keap.com/features/integrations
+- type: x-linkedin
+  url: https://www.linkedin.com/company/keap-growing/
+- type: x-login
+  url: https://signin.infusionsoft.com/login
+- type: x-marketplace
+  url: https://marketplace.infusionsoft.com
+- type: x-partner
+  url: https://keap.com/partners
+- type: x-partners
+  url: http://partners.infusionsoft.com/developer-partners
+- type: x-press
+  url: https://keap.com/features/impress-clients
+- type: x-pricing
+  url: https://keap.com/pricing
+- type: x-signup
+  url: https://freetrial.keap.com/signup?beta=true
+- type: x-support
+  url: https://help.keap.com/help
+- type: x-terms-of-service
+  url: https://keap.com/legal/privacy-policy
+- type: x-terms-of-service
+  url: https://keap.com/legal
+- type: x-terms-of-service
+  url: https://keap.com/legal/data-protection-faq
+- type: x-twitter
+  url: https://twitter.com/keapgrowing
+- type: x-twitter
+  url: https://twitter.com/infusionsoft
+- type: x-webinars
+  url: https://keap.com/resources/webinars
+- type: x-website
+  url: http://www.infusionsoft.com/
+- type: x-youtube
+  url: https://www.youtube.com/user/infusionsoft
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

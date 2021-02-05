@@ -1,0 +1,55 @@
+---
+name: Apple Corps of Dallas
+description: Founded in August 20, 1920, the American College of Dentists' mission
+  is to advance excellence, ethics, professionalism, and leadership in dentistry.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3128121"
+url: https://raw.githubusercontent.com/api-network/organizations/main/apple-corps-of-dallas.yaml
+tags:
+- Texas
+apis: []
+x-common:
+- type: x-about
+  url: https://www.acd.org/about-us/services/the-gallery/
+- type: x-about
+  url: https://www.acd.org/about-us/history/
+- type: x-about
+  url: https://www.acd.org/about-us/
+- type: x-about
+  url: https://www.acd.org/about-us/leadership/
+- type: x-about
+  url: https://www.acd.org/about-us/regencies-and-sections/
+- type: x-about
+  url: https://www.acd.org/about-us/sections/
+- type: x-about
+  url: https://www.acd.org/about-us/staff/
+- type: x-about
+  url: https://www.acd.org/about-us/bylaws/
+- type: x-about
+  url: https://www.acd.org/about-us/policy/
+- type: x-about
+  url: https://www.acd.org/about-us/foundation/
+- type: x-about
+  url: https://www.acd.org/about-us/foundation/information/
+- type: x-code
+  url: https://www.acd.org/code-of-conduct/
+- type: x-code
+  url: https://www.acd.org/code-of-conduct/use-of-facd/
+- type: x-code
+  url: https://www.acd.org/publications/code-dental-editors/
+- type: x-facebook
+  url: https://www.facebook.com/College1920/
+- type: x-news
+  url: https://www.acd.org/publications/acd-news/
+- type: x-website
+  url: https://www.acd.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,32 @@
+---
+name: The Palette
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8987788"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-palette.yaml
+tags:
+- Composition
+apis: []
+x-common:
+- type: x-contact
+  url: https://palette-mct.com/contact-us/
+- type: x-facebook
+  url: http://facebook.com
+- type: x-linkedin
+  url: http://linkedin.com
+- type: x-news
+  url: https://palette-mct.com/category/music-news/
+- type: x-twitter
+  url: http://twitter.com
+- type: x-website
+  url: https://www.palette-mct.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

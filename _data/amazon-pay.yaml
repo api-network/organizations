@@ -1,0 +1,67 @@
+---
+name: Amazon Pay
+description: Offer shoppers a trusted online payment service. Amazon Pay makes checkout
+  on your site fast and secure for hundreds of millions of Amazon customers around
+  the world.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/pull_image_09-07-2019-03-52-pm.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "14"
+url: https://raw.githubusercontent.com/api-network/organizations/main/amazon-pay.yaml
+tags:
+- Voice
+- Shopping Cart
+- Payments
+- No API Definition
+- Has API
+- Donations
+apis: []
+x-common:
+- type: x-developers
+  url: https://developer.amazon.com/docs/amazon-pay/intro.html?ld=ELNALPA-duckduckgo.com
+- type: x-website
+  url: http://pay.amazon.com
+- type: x-website
+  url: https://pay.amazon.com/
+- type: x-blog
+  url: https://pay.amazon.com/blog/success-story-shinola
+- type: x-careers
+  url: https://www.amazon.jobs/payments?ld=APJPLPADirect
+- type: x-facebook
+  url: https://www.facebook.com/AmazonPay/
+- type: x-instagram
+  url: https://www.instagram.com/amazonpay/
+- type: x-linkedin
+  url: https://www.linkedin.com/showcase/amazon-pay/?ld=ELNALPA-engine.laneworks.net
+- type: x-plugins
+  url: https://pay.amazon.com/integration
+- type: x-showcase
+  url: https://www.linkedin.com/showcase/amazon-pay/
+- type: x-support
+  url: https://pay.amazon.com/help
+- type: x-support
+  url: https://pay.amazon.com/help/201212190
+- type: x-support
+  url: https://pay.amazon.com/help/5969
+- type: x-support
+  url: https://pay.amazon.com/help/201751600
+- type: x-support
+  url: https://pay.amazon.com/help/201310940
+- type: x-support
+  url: https://pay.amazon.com/help/83619
+- type: x-support
+  url: https://pay.amazon.com/help/82972
+- type: x-twitter
+  url: https://twitter.com/amazonpay?ld=ELNALPA-engine.laneworks.net
+- type: x-twitter
+  url: https://twitter.com/amazonpay
+- type: x-youtube
+  url: https://www.youtube.com/user/amazonpayments
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,33 @@
+---
+name: CEPT Systems
+description: 3scale's API Management platform gives you the tools you need to take
+  control of your API. Trusted by more customers than any other vendor.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1391_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "3"
+x-alexaRank: "343966"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cept-systems.yaml
+tags:
+- Semantic
+- Profile
+- Machine Learning
+- Linguistics
+- Have API
+- Classifications
+- API Provider
+apis: []
+x-common:
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/cept-systems
+- type: x-twitter
+  url: https://twitter.com/CEPTSystems
+- type: x-website
+  url: http://www.cept.at/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

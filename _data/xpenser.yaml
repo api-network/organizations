@@ -1,0 +1,36 @@
+---
+name: Xpenser
+description: Track your expenses with Xpenser via Twitter, SMS, Email, IM, Voice (Jott),
+  and iPhone.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/533_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xpenser.yaml
+tags:
+- Have API
+- Financial
+- Expenses
+- Expense
+apis: []
+x-common:
+- type: x-website
+  url: http://xpenser.com/
+- type: x-website
+  url: http://expand.org
+- type: x-blog
+  url: http://blog.xpenser.com/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/xpenser
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/xpenser
+- type: x-twitter
+  url: https://twitter.com/#!/xpn
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

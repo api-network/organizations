@@ -1,0 +1,47 @@
+---
+name: Get Free Wallpapers
+description: Download free HD desktop wallpapers, customize your desktop with AMAZING
+  free high quality desktop wallpapers. High Definition1920x1080 HD,1920x1200 Widescreen,1280x1024
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/get-free-wallpapers.yaml
+tags:
+- Natural Hd Wallpaper
+- Hq Wallpapers
+- Hd Wallpapers
+- Free Wallpapers
+- Directories
+- Desktop Wallpapers
+- Celebrity Hd Wallpapers
+- Anime Hd Wallpapers
+- Animal Hd Wallpapers
+- Abstract Hd Wallpapers
+- 3D & Digital Art Wallpapers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.get-free-wallpapers.com
+- type: x-contact
+  url: https://www.get-free-wallpapers.com/contact
+- type: x-feed
+  url: https://feedproxy.google.com/gfwallpapers
+- type: x-login
+  url: https://www.get-free-wallpapers.com/login
+- type: x-privacy
+  url: https://www.get-free-wallpapers.com/privacy-policy
+- type: x-signup
+  url: https://www.get-free-wallpapers.com/signup
+- type: x-twitter
+  url: https://twitter.com/#!/GF_Wallpapers
+- type: x-website
+  url: https://www.get-free-wallpapers.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

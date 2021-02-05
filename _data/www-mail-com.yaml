@@ -1,0 +1,61 @@
+---
+name: www.Mail.com
+description: "Email how it is supposed to be: \u2714 Free, simple and secure \u2714
+  Manage multiple mail accounts in one place, from any device \u2714 Sign up today!"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1813"
+url: https://raw.githubusercontent.com/api-network/organizations/main/www-mail-com.yaml
+tags:
+- Web-Based
+apis: []
+x-common:
+- type: x-website
+  url: https://www.mail.com/mail/
+- type: x-facebook
+  url: https://www.facebook.com/mail.com
+- type: x-login
+  url: https://www.mail.com/#.7518-header-navlogin1-1
+- type: x-login
+  url: https://www.mail.com/#.7518-header-navlogin2-1
+- type: x-login
+  url: https://signup.mail.com#.7518-header-login1-3
+- type: x-news
+  url: https://www.mail.com/news/#.7518-header-nav1-2
+- type: x-news
+  url: https://www.mail.com/news/#.7518-header-nav1-5
+- type: x-news
+  url: https://www.mail.com/news/#.7518-header-subnav2-1
+- type: x-news
+  url: https://www.mail.com/news/#.7518-stage-set1-1
+- type: x-news
+  url: https://www.mail.com/news/#.7518-stage-set1-2
+- type: x-news
+  url: https://www.mail.com/news/#.7518-seobox-link1-8
+- type: x-press
+  url: https://www.mail.com/press/#.7518-footer-nav2-4
+- type: x-signup
+  url: https://signup.mail.com#.7518-header-signup1-1
+- type: x-signup
+  url: https://signup.mail.com#.7518-header-signup2-1
+- type: x-signup
+  url: https://signup.mail.com/
+- type: x-support
+  url: https://support.mail.com
+- type: x-support
+  url: https://support.mail.com/index.html
+- type: x-support
+  url: https://support.mail.com#.7518-header-help1-1
+- type: x-twitter
+  url: https://twitter.com/maildotcom
+- type: x-website
+  url: https://www.mail.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

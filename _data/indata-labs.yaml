@@ -1,0 +1,86 @@
+---
+name: InData Labs
+description: InData Labs provides data science consulting, custom AI-powered software
+  development, and data science training. Focusing on predictive analytics, natural
+  language processing, and computer vision, we help businesses innovate with AI, enrich
+  customer in...
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28778-indatalabs-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "346837"
+url: https://raw.githubusercontent.com/api-network/organizations/main/indata-labs.yaml
+tags:
+- Machine Learning
+- Have API
+- Artificial Intelligence
+- Analytics
+apis: []
+x-common:
+- type: x-website
+  url: http://indatalabs.com/
+- type: x-about
+  url: https://dev.indatalabs.com/about
+- type: x-blog
+  url: https://indatalabs.com/blog
+- type: x-blog
+  url: https://dev.indatalabs.com/blog
+- type: x-blog
+  url: https://dev.indatalabs.com/blog/ai-in-entertainment
+- type: x-careers
+  url: https://dev.indatalabs.com/careers
+- type: x-contact
+  url: https://dev.indatalabs.com/contacts
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/indata-labs
+- type: x-developer
+  url: http://dev.indatalabs.com
+- type: x-developer
+  url: https://dev.indatalabs.com
+- type: x-developer
+  url: https://dev.indatalabs.com/services/data-science
+- type: x-developer
+  url: https://dev.indatalabs.com/data-extraction
+- type: x-developer
+  url: https://dev.indatalabs.com/services/computer-vision
+- type: x-developer
+  url: https://dev.indatalabs.com/services/logo-detection
+- type: x-developer
+  url: https://dev.indatalabs.com/services/face-recognition
+- type: x-developer
+  url: https://dev.indatalabs.com/services/text-analysis
+- type: x-developer
+  url: https://dev.indatalabs.com/ai-research-and-development
+- type: x-developer
+  url: https://dev.indatalabs.com/resources
+- type: x-email
+  url: info@indatalabs.com
+- type: x-facebook
+  url: https://www.facebook.com/indatalabs
+- type: x-linkedin
+  url: https://www.linkedin.com/company/indata-labs
+- type: x-news
+  url: https://indatalabs.com/blog/category/indata-labs-news
+- type: x-partner
+  url: https://dev.indatalabs.com/partnerships
+- type: x-privacy
+  url: https://policies.google.com/privacy
+- type: x-privacy
+  url: https://indatalabs.com/privacy
+- type: x-slideshare
+  url: http://www.slideshare.net/InData_Labs
+- type: x-terms-of-service
+  url: https://policies.google.com/terms
+- type: x-terms-of-service
+  url: https://indatalabs.com/terms
+- type: x-twitter
+  url: https://twitter.com/InDataLabs
+- type: x-website
+  url: https://indatalabs.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

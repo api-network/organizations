@@ -1,0 +1,50 @@
+---
+name: Sprint Dev Program
+description: Shop for cell phones & wireless calling plans from Sprint. Switch to
+  Sprint today and find great deals on unlimited data plans for the whole family.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/658_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2001"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sprint-dev-program.yaml
+tags:
+- Telecommunications
+- Telecommunications
+- Networks
+- Locations
+- ISP
+- Have API
+- GPS
+- Geo
+apis: []
+x-common:
+- type: x-website
+  url: http://developer.sprint.com
+- type: x-website
+  url: http://developer.sprint.com/dynamicContent/sprintservices/devtools/6
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/sprint-nextel
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/sprint-nextel
+- type: x-email
+  url: 16D84824019B@sprint.com
+- type: x-email
+  url: officeofprivacy@sprint.com
+- type: x-email
+  url: signalbooster@sprint.com
+- type: x-github
+  url: https://github.com/sprint
+- type: x-transparency-report
+  url: https://spideroak.com
+- type: x-twitter
+  url: https://twitter.com/sprintdeveloper
+- type: x-twitter
+  url: https://twitter.com/sprint
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

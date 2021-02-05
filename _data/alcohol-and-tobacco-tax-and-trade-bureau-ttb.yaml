@@ -1,0 +1,32 @@
+---
+name: Alcohol and Tobacco Tax and Trade Bureau (TTB)
+description: <p><span>The Alcohol and Tobacco Tax and Trade Bureau, statutorily named
+  the Tax and Trade Bureau and frequently shortened to TTB, is a bureau of the United
+  States Department of the Treasury, which regulates and collects taxes on trade and
+  imports of alcohol, tobacco, and firearms within the United States.</span></p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "211916"
+url: https://raw.githubusercontent.com/api-network/organizations/main/alcohol-and-tobacco-tax-and-trade-bureau-ttb.yaml
+tags:
+- TTB
+- No API Definition
+- No API
+- Federal Government
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ttb.gov/
+- type: x-data
+  url: https://www.ttb.gov/data
+- type: x-twitter
+  url: http://twitter.com/TTBgov
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

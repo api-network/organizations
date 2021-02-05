@@ -1,0 +1,78 @@
+---
+name: University of the West of England, Bristol
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "27103"
+url: https://raw.githubusercontent.com/api-network/organizations/main/university-of-the-west-of-england-bristol.yaml
+tags:
+- United Kingdom
+apis: []
+x-common:
+- type: x-website
+  url: http://www.uwe.ac.uk
+- type: x-about
+  url: https://www1.uwe.ac.uk/about.aspx
+- type: x-about
+  url: https://www1.uwe.ac.uk/about/ourstory.aspx
+- type: x-about
+  url: https://www1.uwe.ac.uk/about/corporateinformation.aspx
+- type: x-about
+  url: https://www1.uwe.ac.uk/about/factsandfigures.aspx
+- type: x-about
+  url: https://www1.uwe.ac.uk/about/sport.aspx
+- type: x-about
+  url: https://www1.uwe.ac.uk/about/workinghere.aspx
+- type: x-about
+  url: https://www1.uwe.ac.uk/about/supportus.aspx
+- type: x-about
+  url: https://www1.uwe.ac.uk/about/visitus.aspx
+- type: x-about
+  url: https://www1.uwe.ac.uk/about/livingatuwebristol.aspx
+- type: x-about
+  url: https://www1.uwe.ac.uk/about/termdates.aspx
+- type: x-blog
+  url: https://blogs.uwe.ac.uk
+- type: x-contact
+  url: https://www1.uwe.ac.uk/about/contactus.aspx
+- type: x-contact
+  url: http://www1.uwe.ac.uk/about/contactus.aspx
+- type: x-events
+  url: https://www1.uwe.ac.uk/business/businessevents.aspx
+- type: x-events
+  url: https://info.uwe.ac.uk/events/eventlisting.aspx
+- type: x-facebook
+  url: https://www.facebook.com/uwebristol
+- type: x-instagram
+  url: https://www.instagram.com/uwebristol/
+- type: x-linkedin
+  url: https://www.linkedin.com/edu/school?id=12729
+- type: x-news
+  url: https://www1.uwe.ac.uk/research/researchnews.aspx
+- type: x-news
+  url: https://www1.uwe.ac.uk/newsandevents.aspx
+- type: x-news
+  url: https://info.uwe.ac.uk/news/uwenews/
+- type: x-open-source
+  url: https://www1.uwe.ac.uk/study/opendays.aspx
+- type: x-press
+  url: https://www1.uwe.ac.uk/press/mediacoverage.aspx
+- type: x-press
+  url: https://www1.uwe.ac.uk/press/expertsdirectory.aspx
+- type: x-press
+  url: https://www1.uwe.ac.uk/press/mediaenquiries.aspx
+- type: x-twitter
+  url: https://twitter.com/uwebristol
+- type: x-website
+  url: https://www.cems.uwe.ac.uk
+- type: x-youtube
+  url: https://www.youtube.com/user/BristolUWE
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

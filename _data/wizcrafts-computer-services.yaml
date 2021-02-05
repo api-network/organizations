@@ -1,0 +1,23 @@
+---
+name: Wizcrafts Computer Services
+description: Wizcrafts' computer troubleshooting and online security services and
+  tips. Server protection blocklists. Webmaster for hire!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7210823"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wizcrafts-computer-services.yaml
+tags:
+- Services
+apis: []
+x-common:
+- type: x-website
+  url: https://www.wizcrafts.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

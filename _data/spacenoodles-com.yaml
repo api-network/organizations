@@ -1,0 +1,39 @@
+---
+name: Spacenoodles.com
+description: "****** PASTE FREE GREETING CARD AND SEND IN YOUR EMAIL.. ****** ******
+  WHAT HAPPENS WHEN YOU GET OLD AND SENILE\u2026 NOTE: ENRICO is Hank Curci\u2019s
+  Pen Name ****** ****** 5, 4, 3, 2, 1\u2026 ****** BE MY SWEETHEART SO WE CAN \u2026
+  ****** \_ ******* ******* ******* ****** Hurry Up And Get Well\u2026 \_****** ONLINE\u2026"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/spacenoodles-com.yaml
+tags:
+- Occasions
+apis: []
+x-common:
+- type: x-blog
+  url: https://spacenoodles.blog/
+- type: x-feed
+  url: https://spacenoodles.blog/feed/
+- type: x-feed
+  url: https://spacenoodles.blog/comments/feed/
+- type: x-press
+  url: https://hcurci.wordpress.com
+- type: x-press
+  url: https://wordpress.com/?ref=footer_blog
+- type: x-privacy
+  url: https://akismet.com/privacy/
+- type: x-signup
+  url: https://gravatar.com/site/signup/
+- type: x-website
+  url: https://www.spacenoodles.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

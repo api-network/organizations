@@ -1,0 +1,57 @@
+---
+name: The Drone Girl
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "404388"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-drone-girl.yaml
+tags:
+- No API
+- Drones
+apis: []
+x-common:
+- type: x-website
+  url: http://www.thedronegirl.com
+- type: x-blog-rss
+  url: http://thedronegirl.com/feed/
+- type: x-contact
+  url: http://thedronegirl.com/contact/
+- type: x-contact
+  url: http://thedronegirl.com/contact/faqs/
+- type: x-contact
+  url: http://thedronegirl.com/contact/calendar/
+- type: x-developer
+  url: http://developer.thedronegirl.com
+- type: x-facebook
+  url: http://facebook.com/thedronegirl
+- type: x-facebook
+  url: https://www.facebook.com/TheDroneGirl
+- type: x-facebook
+  url: https://www.facebook.com/thedronegirl/
+- type: x-feed
+  url: http://thedronegirl.com/feed/
+- type: x-feed
+  url: http://thedronegirl.com/comments/feed/
+- type: x-instagram
+  url: http://instagram.com/thedronegirl
+- type: x-instagram
+  url: https://www.instagram.com/OfficialDroneGirl/
+- type: x-news
+  url: http://thedronegirl.com/category/news/
+- type: x-twitter
+  url: http://twitter.com/thedronegirl
+- type: x-twitter
+  url: https://twitter.com/thedronegirl/
+- type: x-website
+  url: http://thedronegirl.com/
+- type: x-youtube
+  url: http://youtube.com/sallyfrenchthedronegirl
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

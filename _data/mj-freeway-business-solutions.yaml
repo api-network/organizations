@@ -1,0 +1,38 @@
+---
+name: MJ Freeway Business Solutions
+description: "We offer a cloud-based, seed-to-sale, cannabis compliance software for
+  marijuana and hemp businesses including retail, delivery, wholesale, cultivation,
+  and manufacturing. Our platform is currently being used throughout the United States
+  and globally in 13 additional countries.MJ Platform is the only generation 2 cannabis
+  software built specifically to accurately track for cannabis cultivators, manufacturers
+  and retailers. This is not ERP software retrofitted from another industry or a company\u2019s
+  beta attempt at cannabis software. This is the industry\u2019s most popular software
+  upgraded and enhanced with features and capabilities that far outstrip the competition."
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mj-freeway-business-solutions.yaml
+tags:
+- Profile
+- Lobbying
+- Hemp
+- Consulting
+- Compliance
+- Cannabis
+apis: []
+x-common:
+- type: x-press
+  url: https://mjfreeway.com/contact
+- type: x-support
+  url: https://mjfreeway.com/contact
+- type: x-website
+  url: http://mjfreeway.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

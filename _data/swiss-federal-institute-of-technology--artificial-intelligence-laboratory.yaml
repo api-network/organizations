@@ -1,0 +1,26 @@
+---
+name: Swiss Federal Institute of Technology - Artificial Intelligence Laboratory
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10811"
+url: https://raw.githubusercontent.com/api-network/organizations/main/swiss-federal-institute-of-technology--artificial-intelligence-laboratory.yaml
+tags:
+- Academic Departments
+apis: []
+x-common:
+- type: x-about
+  url: https://lia.epfl.ch/about-lia/
+- type: x-github
+  url: https://gradanovic.github.io/gtmdi18ws/
+- type: x-website
+  url: https://liawww.epfl.ch
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

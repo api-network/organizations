@@ -1,0 +1,29 @@
+---
+name: phpShield
+description: PHP Encoder from phpSHIELD, converts PHP source code into unreadable
+  bytecode, providing php script protection and compiling at a great price point
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1448360"
+url: https://raw.githubusercontent.com/api-network/organizations/main/phpshield.yaml
+tags:
+- Protect Php Code
+- PHP Scripts
+- PHP Encoder
+- Php Compiler
+- Obfuscation And Encryption
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.phpshield.com
+- type: x-website
+  url: https://www.phpshield.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

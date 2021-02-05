@@ -1,0 +1,51 @@
+---
+name: AirDroid
+description: Access Android phone/tablet from computer remotely and securely. Manage
+  SMS, files, photos and videos, WhatsApp, Line, WeChat and more on computer.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6986"
+url: https://raw.githubusercontent.com/api-network/organizations/main/airdroid.yaml
+tags:
+- Windows Android
+- Web
+- Texting On Computer
+- Sms From Computer
+- Pc Client
+- Notification
+- Mac Android
+- File Transfer
+- Control Android
+- Apps
+- Android On Computer
+- Android Manager
+- Airmirror
+apis: []
+x-common:
+- type: x-website
+  url: http://www.airdroid.com
+- type: x-blog
+  url: http://blog.airdroid.com/
+- type: x-facebook
+  url: http://www.facebook.com/AirDroid
+- type: x-support
+  url: https://help.airdroid.com/
+- type: x-support
+  url: https://help.airdroid.com/hc/requests/new
+- type: x-support
+  url: http://help.airdroid.com/
+- type: x-twitter
+  url: http://twitter.com/#!/AirDroidTeam
+- type: x-website
+  url: https://airdroid.com
+- type: x-youtube
+  url: http://www.youtube.com/user/AirDroidTeam
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

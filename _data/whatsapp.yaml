@@ -1,0 +1,174 @@
+---
+name: WhatsApp
+description: WhatsApp Messenger is a freeware and cross-platform messaging and Voice
+  over IP service owned by Facebook.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29076-www-whatsapp-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "76"
+url: https://raw.githubusercontent.com/api-network/organizations/main/whatsapp.yaml
+tags:
+- New
+- Messaging
+- Have OpenAPI
+- Have API Paths
+apis: []
+x-common:
+- type: x-developers
+  url: https://developers.facebook.com/docs/whatsapp
+- type: x-about
+  url: https://www.whatsapp.com/about/
+- type: x-blog
+  url: https://blog.whatsapp.com/
+- type: x-contact
+  url: https://www.whatsapp.com/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/whatsapp
+- type: x-email
+  url: android_web@support.whatsapp.com
+- type: x-email
+  url: iphone_web@support.whatsapp.com
+- type: x-email
+  url: wp_web@support.whatsapp.com
+- type: x-email
+  url: webclient_web@support.whatsapp.com
+- type: x-email
+  url: support@whatsapp.com
+- type: x-email
+  url: privacyshield@support.whatsapp.com
+- type: x-email
+  url: ip@whatsapp.com
+- type: x-facebook
+  url: https://www.facebook.com/WhatsApp
+- type: x-security
+  url: https://www.whatsapp.com/security/
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=sw
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=lv
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=lt
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=hu
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=nl
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=nb
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=uz
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=fil
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=pl
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=pt_br
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=pt_pt
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=ro
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=sq
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=sk
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=sl
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=fi
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=sv
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=vi
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=tr
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=el
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=bg
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=kk
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=mk
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=ru
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=sr
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=uk
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=he
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=ar
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=fa
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=ur
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=bn
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=hi
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=gu
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=kn
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=mr
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=ta
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=te
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=ml
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=th
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=zh_cn
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=zh_tw
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=ja
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=ko
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=az
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=af
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=id
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=ms
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=ca
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=cs
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=da
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=de
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=et
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=en
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=es
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=fr
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=ga
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=hr
+- type: x-support
+  url: https://www.whatsapp.com/unsupportedbrowser?lang=it
+- type: x-terms-of-service
+  url: https://www.whatsapp.com/legal/
+- type: x-twitter
+  url: https://twitter.com/WhatsApp
+- type: x-website
+  url: https://www.whatsapp.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

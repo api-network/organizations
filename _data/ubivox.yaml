@@ -1,0 +1,41 @@
+---
+name: Ubivox
+description: Ubivox is a tool for designing, writing and sending newsletters for companies
+  and organisations. Ubivox collects statistics for each newsletter, helps you avoid
+  spam filters, collects bounces and handles subscriptions and unsubscriptions; in
+  short, all you need to deliver high quality newsletters to your recipients.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3180034"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ubivox.yaml
+tags:
+- Online Tools
+- Newsletters
+- Newsletter Software
+- Newsletter
+- Email Marketing
+- E-mail Marketing
+- E-mail
+apis: []
+x-common:
+- type: x-developer
+  url: https://kb.ubivox.com/api/latest/html/
+- type: x-facebook
+  url: https://www.facebook.com/ubivox/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/473447
+- type: x-status
+  url: http://status.ubivox.com
+- type: x-twitter
+  url: https://www.twitter.com/ubivox/
+- type: x-website
+  url: https://www.ubivox.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

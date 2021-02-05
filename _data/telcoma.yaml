@@ -1,0 +1,38 @@
+---
+name: Telcoma
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/telcoma.yaml
+tags:
+- Products And Manufacturers
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/cardinelettronica/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/cardin-elettronica/
+- type: x-news
+  url: https://www.cardin.it/it/news
+- type: x-news
+  url: https://www.cardin.it/it/news/10/Perimeter-protection
+- type: x-privacy
+  url: https://www.cardin.it/it/privacy
+- type: x-website
+  url: https://www.telcoma.it
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=Lo1EMdGnFy8
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=0E1IxYiJ3uk
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=RZ_OZ49zeG0
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

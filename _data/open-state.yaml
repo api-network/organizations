@@ -1,0 +1,78 @@
+---
+name: Open State
+description: Open data is informatie die in een open en machine leesbaar format is
+  opgesteld, zonder beperkingen op hergebruik en beschikbaar gesteld via het internet.
+  Door publieke informatie als open data beschikbaar te stellen worden belemmeringen
+  voor (her)gebr...
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/open-state-eu.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/open-state.yaml
+tags:
+- State Government
+- Has API
+apis: []
+x-common:
+- type: x-website
+  url: https://openstate.eu/
+- type: x-base
+  url: http://api.opencultuurdata.nl
+- type: x-contact
+  url: https://openstate.eu/en/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/open-state
+- type: x-email
+  url: contact@openstate.eu
+- type: x-email
+  url: tom@openstate.eu
+- type: x-facebook
+  url: https://www.facebook.com/openstatefoundation
+- type: x-feed
+  url: https://openstate.eu/feed/
+- type: x-news
+  url: https://openstate.eu/en/news-archive/
+- type: x-news
+  url: https://openstate.eu/en/newsletter/
+- type: x-news
+  url: https://openstate.eu/en/2019/11/this-news-article-is-only-available-in-dutch-8/
+- type: x-open-source
+  url: https://openstate.eu/en/projects-tools-data/
+- type: x-open-source
+  url: https://openstate.eu/en/donate/
+- type: x-open-source
+  url: https://openstate.eu/en/
+- type: x-open-source
+  url: https://openstate.eu/en/about/
+- type: x-open-source
+  url: https://openstate.eu/nl
+- type: x-open-source
+  url: https://www.flickr.com/photos/openstate/albums
+- type: x-open-source
+  url: https://github.com/openstate
+- type: x-open-source
+  url: https://data.openstate.eu/
+- type: x-open-source
+  url: https://openstate.eu/en
+- type: x-open-source
+  url: https://openstate.eu/en/2020/01/nederlands-nederland-publiceert-eerste-transparantierapport-over-delfstoffensector/
+- type: x-open-source
+  url: https://openstate.eu/en/2019/12/this-article-is-only-available-in-dutch-4/
+- type: x-open-source
+  url: https://openstate.eu/en/2019/12/voorbeeld-agenda-item/
+- type: x-open-source
+  url: https://openstate.eu/en/nederlands-trainingen-advies/
+- type: x-open-source
+  url: https://openstate.eu/en/projects-tools-data/decisions/open-defence/
+- type: x-twitter
+  url: https://twitter.com/OpenStateEU
+- type: x-website
+  url: http://openstate.eu/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

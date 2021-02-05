@@ -1,0 +1,41 @@
+---
+name: Sustainable Facilities Tool API
+description: <p>Our core API allows developers to interact with the Sustainable Facilities
+  Tool programmatically. It's designed for public use and to be easily integrated
+  into other applications.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/sustainable-facilities-mobile_504b7.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1003165"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sustainable-facilities-tool-api.yaml
+tags:
+- Have API Paths
+- Have API
+- General Data
+- Federal Government   GSA
+apis: []
+x-common:
+- type: x-website
+  url: http://sftool.gov
+- type: x-developers
+  url: https://sftool.gov/developers
+- type: x-facebook
+  url: http://www.facebook.com/sftool
+- type: x-terms-of-service
+  url: https://sftool.gov/developer/terms-of-use
+- type: x-twitter
+  url: http://twitter.com/sftool
+- type: x-twitter
+  url: https://twitter.com/sftool
+- type: x-website
+  url: https://sftool.gov/
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=H-up39spHDM
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

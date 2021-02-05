@@ -1,0 +1,38 @@
+---
+name: Data Atlantic
+description: Data conversion services
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/data-atlantic.yaml
+tags:
+- Us
+- North America
+- Migration
+- Legacy
+- Database
+- Data Migration
+- Data Conversion
+- Conversion
+- Companies
+- Canada
+- America
+apis: []
+x-common:
+- type: x-facebook
+  url: http://www.facebook.com/dataatlantic
+- type: x-feed
+  url: https://dataatlantic.com/comments/feed/
+- type: x-press
+  url: http://www.wordpress.org
+- type: x-website
+  url: https://dataatlantic.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

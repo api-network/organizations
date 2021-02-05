@@ -1,0 +1,49 @@
+---
+name: Playphone
+description: Playphone's Social Gaming Network delivers the best premium and free
+  mobile games directly to your phone.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1145133"
+url: https://raw.githubusercontent.com/api-network/organizations/main/playphone.yaml
+tags:
+- Together
+- Social Gaming Network
+- Playphone
+- Play
+- Mobile Games
+- Games
+- Friends
+- Free
+- Download
+- Cellular Add-ons
+- Android
+apis: []
+x-common:
+- type: x-website
+  url: http://playphone.com
+- type: x-developer
+  url: http://developer.playphone.com
+- type: x-developer
+  url: https://developer.playphone.com/
+- type: x-developer
+  url: https://developer.playphone.com
+- type: x-facebook
+  url: http://www.facebook.com/PlayPhoneGames
+- type: x-support
+  url: http://help-us.playphone.com/support/home
+- type: x-twitter
+  url: https://twitter.com/playphone
+- type: x-website
+  url: https://www.playphone.com
+- type: x-youtube
+  url: http://www.youtube.com/user/PlayPhoneTV
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

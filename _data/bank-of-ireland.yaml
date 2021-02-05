@@ -1,0 +1,59 @@
+---
+name: Bank of Ireland
+description: <p><span>Bank of Ireland Group plc is a public limited company incorporated
+  in Ireland, with its registered office at 40 Mespil Road, Dublin 4 and registered
+  number 593672. Bank of Ireland Group plc, whose shares are listed on the main markets
+  of the Irish Stock Exchange plc and the London Stock Exchange plc , is the holding
+  company of Bank of Ireland.</span></p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/bank-of-ireland.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "72693"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bank-of-ireland.yaml
+tags:
+- UK Banks
+- UK Banks
+- Relative Data
+- Have API Paths
+- Have API
+- General Data
+- Banking
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://personalbanking.bankofireland.com/ways-to-bank/social-media/
+- type: x-blog
+  url: https://blog.bankofireland.com/
+- type: x-careers
+  url: https://careers.bankofireland.com/home
+- type: x-developer
+  url: https://developer.bankofireland.com/#!/
+- type: x-developers
+  url: http://openbankingapis.io/ireland/bank-of-ireland
+- type: x-documentation
+  url: https://openbanking.atlassian.net/wiki/spaces/DZ/pages/54919225/Open+Data+API+Dashboard#
+- type: x-facebook
+  url: http://www.facebook.com/BankofIreland
+- type: x-forum
+  url: http://www.boards.ie/ttforum/1522
+- type: x-investor
+  url: https://investorrelations.bankofireland.com/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/bank-of-ireland
+- type: x-twitter
+  url: http://twitter.com/#!/talktoBOI
+- type: x-twitter
+  url: https://twitter.com/talktoBOI
+- type: x-website
+  url: https://www.bankofireland.com/
+- type: x-youtube
+  url: https://www.youtube.com/user/bankofirelandgroup
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

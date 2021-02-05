@@ -1,0 +1,34 @@
+---
+name: WebSite X5
+description: Create your website with WebSite X5, everything you need to create a
+  website on your own without any programming skills and with no subscription fees.
+  Start out now!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "85805"
+url: https://raw.githubusercontent.com/api-network/organizations/main/website-x5.yaml
+tags:
+- Content Management
+apis: []
+x-common:
+- type: x-linkedin
+  url: https://www.linkedin.com/company/incomedia/
+- type: x-privacy
+  url: https://www.incomedia.eu/privacy
+- type: x-support
+  url: https://help.websitex5.com/
+- type: x-support
+  url: https://helpcenter.websitex5.com
+- type: x-terms-of-service
+  url: https://www.incomedia.eu/terms
+- type: x-website
+  url: https://www.websitex5.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

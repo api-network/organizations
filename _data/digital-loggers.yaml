@@ -1,0 +1,28 @@
+---
+name: Digital Loggers
+description: Smart Power Switches and Recorders
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1076977"
+url: https://raw.githubusercontent.com/api-network/organizations/main/digital-loggers.yaml
+tags:
+- Retailers
+apis: []
+x-common:
+- type: x-about
+  url: https://www.digital-loggers.com/dli.about.html
+- type: x-developer
+  url: https://digital-loggers.com/api.html
+- type: x-support
+  url: https://www.digital-loggers.com/dli.support.html
+- type: x-website
+  url: https://www.digital-loggers.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

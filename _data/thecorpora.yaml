@@ -1,0 +1,42 @@
+---
+name: Thecorpora
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1608498"
+url: https://raw.githubusercontent.com/api-network/organizations/main/thecorpora.yaml
+tags:
+- Companies
+apis: []
+x-common:
+- type: x-website
+  url: http://www.thecorpora.com/blog
+- type: x-about
+  url: https://thecorpora.com/about/
+- type: x-blog
+  url: https://thecorpora.com/blog/
+- type: x-feed
+  url: https://thecorpora.com/feed/
+- type: x-feed
+  url: https://thecorpora.com/comments/feed/
+- type: x-instagram
+  url: https://www.instagram.com/qborobot/
+- type: x-open-source
+  url: https://thecorpora.com/openqbov2/
+- type: x-terms-of-service
+  url: https://thecorpora.com/legal/
+- type: x-twitter
+  url: http://twitter.com/qborobot
+- type: x-website
+  url: https://thecorpora.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=-AQy-LcculU&t=3s
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

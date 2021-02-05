@@ -1,0 +1,61 @@
+---
+name: Blogger Templates Gallery
+description: Free Blogger Templates and Templates Blogspot. Blogger Templates 1, 2,
+  3, 4 Column, Seo Blogger Templates, Magazine Style Blogger Templates and Daily Updates
+  Free Blogspot Templates
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "60320"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blogger-templates-gallery.yaml
+tags:
+- Templates
+- Template Free
+- Free Blogger Templates
+- Free Blogger Template
+- Free Blogger
+- Blogger Themes
+- Blogger Template
+- Blogger
+apis: []
+x-common:
+- type: x-about
+  url: http://www.mybloggerthemes.com/p/about.html
+- type: x-blog
+  url: https://www.mybloggerthemes.com/
+- type: x-blog
+  url: http://www.mybloggerthemes.com/search?q=OmTemplates
+- type: x-blog
+  url: http://www.mybloggerthemes.com/search?q=ThemeXpose
+- type: x-blog
+  url: http://www.mybloggerthemes.com/search?q=TemplatesYard
+- type: x-blog
+  url: http://www.mybloggerthemes.com/search?q=OddThemes
+- type: x-blog
+  url: http://www.mybloggerthemes.com/search?q=SoraTemplates
+- type: x-blog
+  url: http://www.mybloggerthemes.com/2015/07/techworld.html
+- type: x-blog
+  url: http://www.mybloggerthemes.com/2015/10/mblog.html
+- type: x-blog
+  url: http://www.mybloggerthemes.com/2015/12/glossy.html
+- type: x-blog
+  url: http://www.mybloggerthemes.com/p/license.html
+- type: x-contact
+  url: https://www.mybloggerthemes.com/p/contact.html
+- type: x-contact
+  url: http://www.mybloggerthemes.com/p/contact.html
+- type: x-feed
+  url: https://feeds.feedburner.com/mybloggerthemes
+- type: x-feed
+  url: http://feeds.feedburner.com/MyBloggerThemes
+- type: x-website
+  url: https://www.mybloggerthemes.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

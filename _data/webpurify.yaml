@@ -1,0 +1,51 @@
+---
+name: WebPurify
+description: Image moderation, video moderation and profanity filter services, made
+  easy. AI and live moderation in 1 powerful platform. Get up and running today with
+  a free trial!
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/524_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "574328"
+url: https://raw.githubusercontent.com/api-network/organizations/main/webpurify.yaml
+tags:
+- Target
+- Profanity
+- Have OpenAPI
+- Have API Paths
+- Have API
+- Filters
+- Content Filtering
+- Content
+apis: []
+x-common:
+- type: x-website
+  url: http://www.webpurify.com
+- type: x-base
+  url: http://api1.webpurify.com/services/
+- type: x-blog
+  url: http://www.webpurify.com/blog/
+- type: x-blog-rss
+  url: http://www.webpurify.com/blog/feed/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/webpurify
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/webpurify
+- type: x-login
+  url: https://www.webpurify.com/login/
+- type: x-status
+  url: http://status.webpurify.com
+- type: x-twitter
+  url: https://twitter.com/webpurify
+- type: x-twitter
+  url: https://twitter.com/#!/webpurify
+- type: x-website
+  url: http://www.webpurify.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

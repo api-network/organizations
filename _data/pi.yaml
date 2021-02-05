@@ -1,0 +1,45 @@
+---
+name: P^i
+description: Prime Inspiration is a web technology magazine that provides useful tips,
+  featured news, rumors, and resources on software, apps and gadgets.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2626006"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pi.yaml
+tags:
+- News And Media
+apis: []
+x-common:
+- type: x-about
+  url: https://www.primeinspiration.com/about
+- type: x-facebook
+  url: http://www.facebook.com/PrimeInspiration
+- type: x-feed
+  url: https://www.primeinspiration.com/feed
+- type: x-feed
+  url: https://www.primeinspiration.com/feed/
+- type: x-feed
+  url: https://www.primeinspiration.com/apple/feed/
+- type: x-feed
+  url: https://www.primeinspiration.com/gadgets/feed/
+- type: x-feed
+  url: https://www.primeinspiration.com/pc/feed/
+- type: x-feed
+  url: https://www.primeinspiration.com/tech/feed/
+- type: x-feed
+  url: https://www.primeinspiration.com/comments/feed/
+- type: x-privacy
+  url: https://www.primeinspiration.com/privacy
+- type: x-twitter
+  url: https://twitter.com/PrimeInspiratio
+- type: x-website
+  url: https://www.primeinspiration.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

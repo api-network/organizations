@@ -1,0 +1,22 @@
+---
+name: Virtual Serial Port Kit
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9527471"
+url: https://raw.githubusercontent.com/api-network/organizations/main/virtual-serial-port-kit.yaml
+tags:
+- Diagnostics
+apis: []
+x-common:
+- type: x-website
+  url: https://www.virtual-serial-port.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

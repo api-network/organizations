@@ -1,0 +1,37 @@
+---
+name: "Cot\xE9"
+description: "I\_work\_on tech stuff, mostly. I work at\_Pivotal,\_speak here and
+  there,\_do some writing here and there,\_and do\_a lot of podcasts. See also\_my
+  weekly newsletter, @cote, and pictures. I've written a few books: Monolithic Transformation,
+  Digital WTF, and JaaS in Action. I live in Amsterdam. Texas Forever!"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7253949"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cot.yaml
+tags:
+- Weblogs
+apis: []
+x-common:
+- type: x-website
+  url: https://cote.io/books/
+- type: x-developer
+  url: http://developer.cote.io
+- type: x-instagram
+  url: https://www.instagram.com/bushwald/
+- type: x-news
+  url: https://cote.io/newsletter/
+- type: x-press
+  url: https://wordpress.com/?ref=footer_custom_svg
+- type: x-twitter
+  url: https://mobile.twitter.com/cote
+- type: x-website
+  url: https://cote.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

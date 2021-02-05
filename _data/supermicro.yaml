@@ -1,0 +1,56 @@
+---
+name: Supermicro
+description: Discover everything Supermicro - servers, motherboards & chassis like
+  the Supermicro All-Flash NVMe for video streaming & Supermicro BigTwin for cloud
+  computing. The most customizable rackmount storage and systems can be found here.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "31084"
+url: https://raw.githubusercontent.com/api-network/organizations/main/supermicro.yaml
+tags:
+- Workstation
+- TwinBlade
+- Tower
+- SuperWorkstation
+- SuperServer
+- SuperRack
+- Supermicro
+- SuperBlade
+- Server
+- Rackmount
+- Rack
+- PowerSupply
+- OfficeBlade
+- Networking
+- Motherboards
+- Motherboard
+- Ipc
+- GreenIT
+- Embedded
+- Desktop
+- DatacenterBlade
+- Chassis
+- Blade
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/Supermicro
+- type: x-instagram
+  url: https://www.instagram.com/supermicro_smci/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/supermicro
+- type: x-twitter
+  url: https://twitter.com/Supermicro_SMCI
+- type: x-website
+  url: https://www.supermicro.com
+- type: x-youtube
+  url: https://www.youtube.com/supermicro
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,32 @@
+---
+name: The Kildrummy Corporation Ltd
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-kildrummy-corporation-ltd.yaml
+tags:
+- Project Management
+apis: []
+x-common:
+- type: x-about
+  url: https://kildrummy.com/about-us/
+- type: x-contact
+  url: https://kildrummy.com/contact-us/
+- type: x-news
+  url: https://kildrummy.com/news/
+- type: x-privacy
+  url: https://kildrummy.com/privacy-policy/
+- type: x-support
+  url: http://support.kildrummy.com/hc/en-us/requests/new
+- type: x-website
+  url: https://www.kildrummy.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

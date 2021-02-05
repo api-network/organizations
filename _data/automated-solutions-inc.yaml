@@ -1,0 +1,23 @@
+---
+name: Automated Solutions Inc
+description: Allen Bradley, Siemens, GE, Modbus, and Automation Direct Drivers from
+  Automated Solutions. OPC, .NET, and ActiveX Drivers for HMI SCADA
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10567406"
+url: https://raw.githubusercontent.com/api-network/organizations/main/automated-solutions-inc.yaml
+tags:
+- Automation
+apis: []
+x-common:
+- type: x-website
+  url: https://www.automatedsolutions.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

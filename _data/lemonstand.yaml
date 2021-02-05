@@ -1,0 +1,55 @@
+---
+name: LemonStand
+description: LemonStand is the best eCommerce Software Platform for online retailers
+  who want to grow their online business. Build your customized online store now!
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1440_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "419536"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lemonstand.yaml
+tags:
+- Virtual Stores
+- Target
+- Shopping
+- Have API
+- Commerce
+- Commerce
+- API Provider
+apis: []
+x-common:
+- type: x-blog
+  url: http://lemonstand.com/blog
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/lemonstand
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/lemonstand
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/lemonstand
+- type: x-developers
+  url: https://lemonstand.com/developers
+- type: x-email
+  url: questions@lemonstand.com
+- type: x-email
+  url: support@lemonstand.com
+- type: x-email
+  url: sales@lemonstand.com
+- type: x-github
+  url: https://github.com/lemonstand
+- type: x-pricing
+  url: https://lemonstand.com/pricing
+- type: x-road-map
+  url: https://lemonstand.com/roadmap
+- type: x-twitter
+  url: https://twitter.com/lemonstand
+- type: x-website
+  url: https://lemonstand.com/
+- type: x-website
+  url: https://lemonstand.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

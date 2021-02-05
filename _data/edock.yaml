@@ -1,0 +1,25 @@
+---
+name: eDock
+description: Aumenta i ricavi e raggiungi milioni di acquirenti vendendo sui marketplace
+  popolari come eBay e Amazon in Italia e in altri 36 paesi nel mondo. Demo gratuita!
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/api-butterfly.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "2"
+x-alexaRank: "1345728"
+url: https://raw.githubusercontent.com/api-network/organizations/main/edock.yaml
+tags:
+- Have API Paths
+apis: []
+x-common:
+- type: x-email
+  url: info@edock.it
+- type: x-website
+  url: http://rest.edock.it
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

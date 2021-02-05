@@ -1,0 +1,54 @@
+---
+name: 1E Limited
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "641745"
+url: https://raw.githubusercontent.com/api-network/organizations/main/1e-limited.yaml
+tags:
+- Microsoft
+apis: []
+x-common:
+- type: x-website
+  url: http://www.1e.com
+- type: x-about
+  url: https://www.1e.com/about-us/support/
+- type: x-about
+  url: https://www.1e.com/about-us/
+- type: x-about
+  url: https://www.1e.com/about-us/1e-partner-program/
+- type: x-careers
+  url: https://www.1e.com/about-us/careers/
+- type: x-contact
+  url: https://www.1e.com/contact-us/
+- type: x-customers
+  url: https://www.1e.com/our-customers/
+- type: x-facebook
+  url: https://www.facebook.com/1Eglobal
+- type: x-instagram
+  url: https://www.instagram.com/1e_global/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/1e
+- type: x-news
+  url: https://www.1e.com/news-insights/blogs/
+- type: x-news
+  url: https://www.1e.com/news-insights/events/
+- type: x-press
+  url: https://www.1e.com/about-us/press/
+- type: x-privacy
+  url: https://www.1e.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.1e.com/terms-and-conditions/
+- type: x-twitter
+  url: https://twitter.com/1E_Global
+- type: x-website
+  url: https://www.1e.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,46 @@
+---
+name: Synctronics
+description: Synctronics, manufacturer of custom computer keys, keysets and keyboards.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/synctronics.yaml
+tags:
+- Synctronics
+- Specialized Keyboards
+- Replacement Keyboard Parts
+- Language Keyboards
+- Keytop
+- Keyfront
+- Keycap
+- Keyboards
+- Keyboard Template
+- Keyboard Stickers
+- Keyboard Parts
+- Keyboard Overlays
+- Keyboard Labels
+- Keyboard Key
+- Dvorak Keyboard
+- Custom Keys
+- Custom Keycaps
+- Custom Keyboards
+- Custom Keyboard Key
+- Custom Keyboard
+- Comupter Key
+- Computer Keycaps
+- Computer Keyboard Parts
+- Computer Keyboard
+- Color Key Keyboard
+apis: []
+x-common:
+- type: x-website
+  url: https://www.synctronics.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

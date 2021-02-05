@@ -1,0 +1,25 @@
+---
+name: eMeanie
+description: "\u6B22\u8FCE\u70B9\u51FB\u8BBF\u95EE\u672C\u7AD9\u624B\u673A\u5F69\u5BA2\u7F51\u503E\u60C5\u521B\u8BBE,\u5F69\u5BA2\u7F51\u624B\u673A\u5BA2\u6237\u7AEF\u6253\u9020\u62E5\u6709\u66F4\u4E13\u4E1A\u7684\u670D\u52A1\u53CA\u66F4\u597D\u7684\u56E2\u961F!\u5F69\u5BA2\u7F51\u6CE8\u518C\u627F\u8BFA\u8BDA\u4FE1\u7ECF\u8425,\u670D\u52A1\u5230\u4F4D!"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/emeanie.yaml
+tags:
+- "\u624B\u673A\u5F69\u5BA2\u7F51"
+- "\u5F69\u5BA2\u7F51\u6CE8\u518C"
+- "\u5F69\u5BA2\u7F51\u624B\u673A\u5BA2\u6237\u7AEF"
+- Insults
+apis: []
+x-common:
+- type: x-website
+  url: https://www.emeanie.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,47 @@
+---
+name: Warm Fuzzy Greetings
+description: |-
+  This is the perfect place to send someone you care about a warm
+     fuzzy! Just take a look and get that warm fuzzy feeling that you crave.
+     It is easy, free and fun to do!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1419145"
+url: https://raw.githubusercontent.com/api-network/organizations/main/warm-fuzzy-greetings.yaml
+tags:
+- Warmfuzzy
+- Warm
+- Site
+- Send
+- Prickly
+- Pricklies
+- Place
+- Page
+- Hugs And Kisses
+- Greetings
+- Greeting
+- Give
+- Gift
+- Fuzzy
+- Fuzzies
+- Free
+- Cold Prickly
+apis: []
+x-common:
+- type: x-news
+  url: http://fuzzy.hubbe.net/news.html
+- type: x-news
+  url: http://groups.yahoo.com/group/fuzzynews/join
+- type: x-privacy
+  url: http://www.hubbe.net/privacy.html
+- type: x-website
+  url: https://fuzzy.hubbe.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,26 @@
+---
+name: Snap4City API Testing on Postman | Snap4City
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: ""
+url: https://raw.githubusercontent.com/api-network/organizations/main/snap4city-api-testing-on-postman--snap4city.yaml
+tags:
+- Postman Doc Search
+apis: []
+x-common:
+- type: x-postman-documentation
+  url: "https://documenter.getpostman.com/view/4177198/km4city-api/RW83QsX5\_"
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/4177198/km4city-api/RW83QsX5
+- type: x-website
+  url: http://www.snap4city.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

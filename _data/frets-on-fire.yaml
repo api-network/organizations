@@ -1,0 +1,25 @@
+---
+name: Frets on Fire
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "433"
+url: https://raw.githubusercontent.com/api-network/organizations/main/frets-on-fire.yaml
+tags:
+- Games
+- Chat Clients
+apis: []
+x-common:
+- type: x-website
+  url: https://fretsonfire.sourceforge.net
+- type: x-website
+  url: https://fire.sourceforge.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

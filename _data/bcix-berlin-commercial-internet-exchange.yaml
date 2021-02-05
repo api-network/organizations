@@ -1,0 +1,64 @@
+---
+name: BCIX Berlin Commercial Internet Exchange
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bcix-berlin-commercial-internet-exchange.yaml
+tags:
+- Germany
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.bcix.de/bcix/contact/
+- type: x-contact
+  url: https://www.bcix.de/bcix/contact/imprint/
+- type: x-facebook
+  url: https://www.facebook.com/BCIX.Internet.Exchange
+- type: x-feed
+  url: https://www.bcix.de/bcix/feed/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/bcix
+- type: x-news
+  url: https://www.bcix.de/bcix/news/
+- type: x-news
+  url: http://newsletter.bcix.de/
+- type: x-twitter
+  url: https://twitter.com/i/web/status/1199317344004300802
+- type: x-twitter
+  url: http://twitter.com/bcix/statuses/1199317344004300802
+- type: x-twitter
+  url: https://twitter.com/hashtag/DeNOG11?src=hash
+- type: x-twitter
+  url: https://twitter.com/Enrico_Richter
+- type: x-twitter
+  url: https://twitter.com/depeering
+- type: x-twitter
+  url: https://twitter.com/icebreak24
+- type: x-twitter
+  url: https://twitter.com/frapzz0r
+- type: x-twitter
+  url: https://twitter.com/taisz2
+- type: x-twitter
+  url: http://twitter.com/bcix/statuses/1193923392170315776
+- type: x-twitter
+  url: https://twitter.com/hashtag/Hamburg?src=hash
+- type: x-twitter
+  url: https://twitter.com/i/web/status/1193231984908263426
+- type: x-twitter
+  url: http://twitter.com/bcix/statuses/1193231984908263426
+- type: x-twitter
+  url: https://twitter.com/bcix
+- type: x-website
+  url: https://www.bcix.de
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=QuBde4Sn3f0
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

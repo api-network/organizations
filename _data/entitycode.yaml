@@ -1,0 +1,49 @@
+---
+name: EntityCode
+description: A clear and quick reference for webmasters to commonly used HTML symbol
+  entities codes
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "993443"
+url: https://raw.githubusercontent.com/api-network/organizations/main/entitycode.yaml
+tags:
+- Webmaster Reference
+- Webmaster
+- Web Development
+- Web 2.0
+- Resources
+- Reference
+- ISO-8859-1
+- Html Symbol Entities Reference
+- Html Entity Name
+- Html Entity Code
+- Html Entity
+- HTML
+- Entity Code
+apis: []
+x-common:
+- type: x-website
+  url: http://webmasterish.com
+- type: x-code
+  url: http://entitycode.com
+- type: x-code
+  url: http://www.contentgirls.nl/2009/05/entity-code/
+- type: x-code
+  url: https://github.com/webmasterish/entitycode.com
+- type: x-code
+  url: https://validator.w3.org/check?uri=entitycode.com
+- type: x-github
+  url: https://github.com/webmasterish
+- type: x-twitter
+  url: http://twitter.com/webmasterish
+- type: x-website
+  url: https://www.entitycode.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,40 @@
+---
+name: Miraplacid
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/miraplacid.yaml
+tags:
+- Software Development
+apis: []
+x-common:
+- type: x-forum
+  url: http://www.forum.miraplacid.com/topic.pl?topic_id=126
+- type: x-forum
+  url: http://www.forum.miraplacid.com/topic.pl?topic_id=1159
+- type: x-forum
+  url: http://www.forum.miraplacid.com/topic.pl?topic_id=1158
+- type: x-forum
+  url: http://www.forum.miraplacid.com/topic.pl?topic_id=199
+- type: x-forum
+  url: http://www.forum.miraplacid.com/topic.pl?topic_id=1157
+- type: x-forum
+  url: http://www.forum.miraplacid.com/
+- type: x-support
+  url: http://www.help.miraplacid.com/index.asp?product=3
+- type: x-support
+  url: http://www.help.miraplacid.com/f2.php
+- type: x-support
+  url: http://www.help.miraplacid.com/
+- type: x-website
+  url: https://www.miraplacid.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

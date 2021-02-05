@@ -1,0 +1,39 @@
+---
+name: Weblog Tools Collection
+description: 'Weblog Tools Collection: Weblog Tools Blogging Tools Blog'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "481852"
+url: https://raw.githubusercontent.com/api-network/organizations/main/weblog-tools-collection.yaml
+tags:
+- WordPress
+- Weblog Tools Collection
+apis: []
+x-common:
+- type: x-about
+  url: http://weblogtoolscollection.com/aboutme/
+- type: x-blog
+  url: https://weblogtoolscollection.com
+- type: x-blog
+  url: http://weblogtoolscollection.com/
+- type: x-blog
+  url: https://weblogtoolscollection.com/narchives/
+- type: x-blog
+  url: https://weblogtoolscollection.com/page/2/
+- type: x-feed
+  url: http://www.feedblitz.com/f/?Sub=16320
+- type: x-news
+  url: http://weblogtoolscollection.com/news/
+- type: x-press
+  url: https://weblogtoolscollection.com/wordpress-faq/
+- type: x-website
+  url: https://weblogtoolscollection.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

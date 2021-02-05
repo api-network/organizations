@@ -1,0 +1,44 @@
+---
+name: NoPressuRe
+description: <p>We are passionate scientists. We walk the unbeaten path. We research
+  on technology and free software. We are committed to keep the web open. We also
+  love hanging out at the beach and enjoying the outdoors.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/nopressure-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nopressure.yaml
+tags:
+- Profile
+- Have API
+- API Tools
+apis: []
+x-common:
+- type: x-website
+  url: http://www.hiro7.eu
+- type: x-blog
+  url: http://blog.nopressure.co.uk/
+- type: x-blog-rss
+  url: http://blog.nopressure.co.uk/rss
+- type: x-github
+  url: https://github.com/nopressurelabs
+- type: x-press
+  url: http://www.nopressure.co.uk/blog
+- type: x-press
+  url: http://tumblr.nopressure.co.uk/
+- type: x-press
+  url: http://www.nopressure.co.uk/blog/atom.xml
+- type: x-press
+  url: https://github.com/nopressurelabs
+- type: x-twitter
+  url: https://twitter.com/nopressure
+- type: x-website
+  url: http://www.nopressure.co.uk/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

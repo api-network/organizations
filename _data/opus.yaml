@@ -1,0 +1,36 @@
+---
+name: Opus
+description: Opus is a open-source decentralized music sharing platform with demo
+  based on Ethereum and IPFS.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27106-opus-foundation-org.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "531846"
+url: https://raw.githubusercontent.com/api-network/organizations/main/opus.yaml
+tags:
+- Marketplaces
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://opus-foundation.org/
+- type: x-email
+  url: info@opus-foundation.org
+- type: x-email
+  url: info@opus-foundation.com
+- type: x-email
+  url: recruiting@opus-foundation.org
+- type: x-email
+  url: recruting@opus-foundation.org
+- type: x-twitter
+  url: https://twitter.com/opusfoundation
+- type: x-website
+  url: http://opus-foundation.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

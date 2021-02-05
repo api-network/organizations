@@ -1,0 +1,65 @@
+---
+name: SolutionsPT Ltd
+description: Our goal is to help our customers improve their industrial operations
+  through the provision of a set of hardware, software and managed services.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8207712"
+url: https://raw.githubusercontent.com/api-network/organizations/main/solutionspt-ltd.yaml
+tags:
+- Automation
+apis: []
+x-common:
+- type: x-about
+  url: https://solutionspt.com/home/about/
+- type: x-about
+  url: https://solutionspt.com/home/about/policies/
+- type: x-blog
+  url: https://blog.solutionspt.com/blog
+- type: x-careers
+  url: https://solutionspt.com/home/about/careers/
+- type: x-contact
+  url: https://solutionspt.com/contact-us/
+- type: x-contact
+  url: https://solutionspt.com/contact-us
+- type: x-linkedin
+  url: https://www.linkedin.com/company/61049/
+- type: x-partner
+  url: https://solutionspt.com/partners/
+- type: x-partner
+  url: https://solutionspt.com/partners/technology-partners/
+- type: x-privacy
+  url: https://solutionspt.com/privacy-policy
+- type: x-security
+  url: https://solutionspt.com/solutions/cyber-security/
+- type: x-self-service-registration
+  url: https://solutionspt.com/levels/registered-si/
+- type: x-support
+  url: https://solutionspt.com/tech-support/customer-first/
+- type: x-support
+  url: https://solutionspt.com/tech-support/
+- type: x-support
+  url: https://solutionspt.com/tech-support/tech-hub/
+- type: x-support
+  url: https://solutionspt.com/tech-support/customer-first
+- type: x-support
+  url: http://softwaresupport.invensys.com/
+- type: x-terms-of-service
+  url: https://solutionspt.com/terms-conditions
+- type: x-twitter
+  url: https://twitter.com/SolutionsPT
+- type: x-webinars
+  url: https://solutionspt.com/events-webinars/
+- type: x-webinars
+  url: https://solutionspt.com/events-webinars
+- type: x-website
+  url: https://www.solutionspt.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

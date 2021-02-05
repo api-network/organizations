@@ -1,0 +1,47 @@
+---
+name: Keyhole
+description: Keyhole is a Hashtag Analytics and Social Media Analytics company who
+  provides real-time data with hashtag tracking for Twitter, Instagram and Facebook.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "34929"
+url: https://raw.githubusercontent.com/api-network/organizations/main/keyhole.yaml
+tags:
+- Trending And Popularity
+- Social Media Monitoring
+- Historical Tweets
+- Hashtag Tracking And Analytics
+- Content Marketing
+apis: []
+x-common:
+- type: x-website
+  url: http://keyhole.co?utm_source=twitter&utm_medium=twitterbio
+- type: x-blog
+  url: https://keyhole.co/blog/social-media-benchmarking/
+- type: x-careers
+  url: https://angel.co/keyhole-1/jobs
+- type: x-facebook
+  url: https://www.facebook.com/keyholeco
+- type: x-linkedin
+  url: https://www.linkedin.com/company/keyhole-co
+- type: x-login
+  url: https://keyhole.co/users/login
+- type: x-self-service-registration
+  url: https://keyhole.co/register/20
+- type: x-self-service-registration
+  url: https://keyhole.co/register/20?from=globalCtaFooter
+- type: x-support
+  url: https://help.keyhole.co/
+- type: x-twitter
+  url: https://twitter.com/keyholeco
+- type: x-website
+  url: https://keyhole.co
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

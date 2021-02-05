@@ -1,0 +1,34 @@
+---
+name: Align Me
+description: Frustrated with your sales and marketing performance? align.me offers
+  a 9-step process to build a high-performance B2B marketing and sales process. For
+  all marketing services from Melbourne, Sydney & Beyond speak to the team at Align.me
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1639449"
+url: https://raw.githubusercontent.com/api-network/organizations/main/align-me.yaml
+tags:
+- Sales And Marketing Productivity
+apis: []
+x-common:
+- type: x-blog
+  url: https://align.me/b2b-marketing-blog/
+- type: x-contact
+  url: https://align.me/contact/
+- type: x-news
+  url: https://align.me/b2b-marketing-blog/category/news/
+- type: x-self-service-registration
+  url: http://register.funnelplan.com/
+- type: x-webinars
+  url: https://align.me/b2b-sales-marketing-webinars/
+- type: x-website
+  url: https://align.me
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

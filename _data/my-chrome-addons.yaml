@@ -1,0 +1,26 @@
+---
+name: My Chrome Addons
+description: We tell you stuff about Chrome that nobody else does
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/my-chrome-addons.yaml
+tags:
+- Google Chrome
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.mychromeaddons.com/contact/
+- type: x-news
+  url: https://www.mychromeaddons.com/category/chrome-news/
+- type: x-website
+  url: https://www.mychromeaddons.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

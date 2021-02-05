@@ -1,0 +1,30 @@
+---
+name: PSC
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1996485"
+url: https://raw.githubusercontent.com/api-network/organizations/main/psc.yaml
+tags:
+- Research Institutes
+apis: []
+x-common:
+- type: x-github
+  url: http://twitter.github.io/bootstrap/
+- type: x-github
+  url: https://github.com/twbs/bootstrap/blob/master/LICENSE
+- type: x-github
+  url: http://fortawesome.github.io/Font-Awesome/
+- type: x-terms-of-service
+  url: https://www.cmu.edu/legal/
+- type: x-website
+  url: https://www.psc.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,49 @@
+---
+name: Java Performance Tuning
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3465289"
+url: https://raw.githubusercontent.com/api-network/organizations/main/java-performance-tuning.yaml
+tags:
+- Tuning
+- Tune
+- Scale
+- Scalability
+- Resources
+- Optimizing
+- Optimized
+- Optimize
+- Optimization
+- Monitoring Tools
+- Monitor
+- Java
+- J2se
+- J2me
+- J2ee
+- High Performance
+- Faster
+- Fast
+- Bottleneck
+- Benchmark
+apis: []
+x-common:
+- type: x-about
+  url: http://www.JavaPerformanceTuning.com/aboutUs.shtml
+- type: x-contact
+  url: http://www.JavaPerformanceTuning.com/contactUs.shtml
+- type: x-news
+  url: http://www.JavaPerformanceTuning.com/newsletter.shtml
+- type: x-news
+  url: http://www.JavaPerformanceTuning.com/newsletters.rss
+- type: x-website
+  url: https://www.javaperformancetuning.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

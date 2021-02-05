@@ -1,0 +1,41 @@
+---
+name: Thursby Software Systems, Inc.
+description: Thursby is a specialist in iPad, iPhone, Mac and Android enterprise integration,
+  management and security with cloud or data center infrastructure.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "898166"
+url: https://raw.githubusercontent.com/api-network/organizations/main/thursby-software-systems-inc-.yaml
+tags:
+- Network
+apis: []
+x-common:
+- type: x-website
+  url: http://thursby.com
+- type: x-facebook
+  url: https://www.facebook.com/PKard/
+- type: x-forum
+  url: https://www.thursby.com/forum
+- type: x-login
+  url: https://www.thursby.com/PDF-signing-PDF-editing
+- type: x-self-service-registration
+  url: https://store.thursby.com/register
+- type: x-support
+  url: https://www.thursby.com/support/r2s
+- type: x-twitter
+  url: https://twitter.com/thursbysoftware
+- type: x-website
+  url: https://www.thursby.com
+- type: x-youtube
+  url: https://www.youtube.com/user/thursbysoftware
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=-3l4Kulqq5I
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

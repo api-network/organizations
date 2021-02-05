@@ -1,0 +1,73 @@
+---
+name: Help Desk Outsourcing
+description: Global Help Desk Services is a help desk outsourcing company that provides
+  help desk support to enterprise-sized companies.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/help-desk-outsourcing.yaml
+tags:
+- Support And Management
+apis: []
+x-common:
+- type: x-about
+  url: https://www.ghdsi.com/about-us
+- type: x-blog
+  url: https://blog.ghdsi.com/blog
+- type: x-careers
+  url: https://www.ghdsi.com/help-desk-support-careers
+- type: x-case-studies
+  url: https://www.ghdsi.com/help-desk-case-studies
+- type: x-contact
+  url: https://www.ghdsi.com/contact-help-desk-company
+- type: x-linkedin
+  url: https://www.linkedin.com/company/143700
+- type: x-pricing
+  url: https://www.ghdsi.com/services-pricing-options
+- type: x-pricing
+  url: https://www.ghdsi.com/pricing-options
+- type: x-support
+  url: https://www.ghdsi.com/help-desk-outsourcing-ghdsi
+- type: x-support
+  url: https://www.ghdsi.com/help-desk-company-testimonials
+- type: x-support
+  url: https://www.ghdsi.com/enterprise-help-desk-outsourcing
+- type: x-support
+  url: https://www.ghdsi.com/software-support
+- type: x-support
+  url: https://www.ghdsi.com/languages-supported
+- type: x-support
+  url: https://www.ghdsi.com/enterprise-help-desk-services
+- type: x-support
+  url: https://www.ghdsi.com/help-desk-outsourcing-faqs
+- type: x-support
+  url: https://www.ghdsi.com/common-help-desk-hurdles
+- type: x-support
+  url: https://www.ghdsi.com/help-desk-resources
+- type: x-support
+  url: https://info.ghdsi.com/help-desk-roi-calculator
+- type: x-support
+  url: https://www.ghdsi.com/help-desk-industry-ebooks
+- type: x-support
+  url: https://www.ghdsi.com/help-desk-videos
+- type: x-support
+  url: https://info.ghdsi.com/help-desk-partner-checklist
+- type: x-support
+  url: https://www.ghdsi.com/help-desk-outsourcing-hub
+- type: x-support
+  url: https://info.ghdsi.com/help-desk-outsourcing
+- type: x-twitter
+  url: https://twitter.com/GHDSiHelpDesk
+- type: x-webinars
+  url: https://info.ghdsi.com/help-desk-industry-webinars
+- type: x-website
+  url: https://www.ghdsi.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

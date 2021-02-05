@@ -1,0 +1,87 @@
+---
+name: Sweetcode
+description: <p>Creating a meaningful voice is our business with our customers, and
+  our passion within our community. Sweetcode is a site owned and managed by Fixate
+  IO. Its purpose is simple&mdash;to give techies a place to share what they know,
+  and impact the market with higher-value blog content.&nbsp;</p>
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28859-sweetcode-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "389760"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sweetcode.yaml
+tags:
+- Tech Blog
+- Have API
+- Content
+apis: []
+x-common:
+- type: x-blog-rss
+  url: https://sweetcode.io/feed/
+- type: x-website
+  url: http://sweetcode.io
+- type: x-code
+  url: https://sweetcode.io/
+- type: x-code
+  url: https://sweetcode.io/home/
+- type: x-code
+  url: https://sweetcode.io/tag-index/
+- type: x-code
+  url: https://sweetcode.io/about/
+- type: x-code
+  url: https://sweetcode.io/tag/nodejs/
+- type: x-code
+  url: https://sweetcode.io/tag/aws/
+- type: x-code
+  url: https://sweetcode.io/tag/azure/
+- type: x-code
+  url: https://sweetcode.io/tag/kubernetes/
+- type: x-code
+  url: https://sweetcode.io/tag/logdna/
+- type: x-code
+  url: https://sweetcode.io/tag/sauce-labs/
+- type: x-code
+  url: https://sweetcode.io/tag/sumologic/
+- type: x-code
+  url: https://sweetcode.io/tag/twistlock/
+- type: x-code
+  url: https://sweetcode.io/detw/
+- type: x-code
+  url: https://sweetcode.io/detw/#respond
+- type: x-code
+  url: https://sweetcode.io/top-ten-python-packages/
+- type: x-code
+  url: https://sweetcode.io/top-ten-python-packages/#respond
+- type: x-code
+  url: https://sweetcode.io/keeping-kubernetes-secrets-git/
+- type: x-code
+  url: https://sweetcode.io/ci-cd-aws-lambada-python/
+- type: x-code
+  url: https://sweetcode.io/ci-cd-aws-lambada-python/#respond
+- type: x-code
+  url: https://sweetcode.io/vanilla-kubernetes-sweetcode/
+- type: x-code
+  url: https://sweetcode.io/test-mobile-games/
+- type: x-code
+  url: https://sweetcode.io/test-mobile-games/#respond
+- type: x-code
+  url: https://sweetcode.io/page/2/
+- type: x-code
+  url: https://sweetcode.io/privacy-policy/
+- type: x-code
+  url: https://sweetcode.io/contribute-to-sweetcode/
+- type: x-facebook
+  url: https://www.facebook.com/SweetCodeHQ
+- type: x-platform
+  url: https://sweetcode.io/automated-multiplatform-devops/
+- type: x-twitter
+  url: https://twitter.com/SweetCodeHQ
+- type: x-website
+  url: https://sweetcode.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

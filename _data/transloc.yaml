@@ -1,0 +1,70 @@
+---
+name: TransLoc
+description: TransLoc is the technology provider of the most flexible agency-owned
+  microtransit solutions for delivering the ultimate rider experience.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/684-transloc-api.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "225359"
+url: https://raw.githubusercontent.com/api-network/organizations/main/transloc.yaml
+tags:
+- Train
+- Subway
+- Public Transit
+- Municipal
+- Have API
+- Bus
+apis: []
+x-common:
+- type: x-website
+  url: http://www.transloc.com
+- type: x-blog
+  url: http://blog.transloc.com/blog
+- type: x-careers
+  url: https://transloc.com/careers/
+- type: x-case-studies
+  url: https://transloc.com/municipal-microtransit-use-cases/
+- type: x-contact
+  url: https://transloc.com/contact-us/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/transloc
+- type: x-developers
+  url: http://api.transloc.com/doc/#heading_toc_j_1
+- type: x-email
+  url: support@transloc.com
+- type: x-email
+  url: info@transloc.com
+- type: x-email
+  url: accounts@transloc.com
+- type: x-events
+  url: http://transloc.com/events
+- type: x-facebook
+  url: http://www.facebook.com/transloc
+- type: x-instagram
+  url: http://www.instagram.com/transloc_inc
+- type: x-linkedin
+  url: http://www.linkedin.com/company/transloc
+- type: x-login
+  url: https://login.transloc.com/
+- type: x-press
+  url: https://blog.transloc.com/press
+- type: x-support
+  url: http://help.transloc.com
+- type: x-twitter
+  url: https://twitter.com/TransLoc
+- type: x-twitter
+  url: http://www.twitter.com/transloc
+- type: x-twitter
+  url: https://twitter.com/TransLocAPI
+- type: x-website
+  url: http://transloc.com/
+- type: x-website
+  url: http://transloc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,93 @@
+---
+name: DonorsChoose
+description: DonorsChoose connects teachers in high-need communities with donors who
+  want to help.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/donors-choose-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "37708"
+url: https://raw.githubusercontent.com/api-network/organizations/main/donorschoose.yaml
+tags:
+- Online Charity
+- Nonprofit
+- Marketplaces
+- K 12
+- Have Swagger
+- Have API Paths
+- Have API
+- General Data
+- Donate
+- Classroom
+- Charities
+- API Provider
+- API LIfeycle
+apis: []
+x-common:
+- type: x-about
+  url: https://www.donorschoose.org/about
+- type: x-about
+  url: https://www.donorschoose.org/about/accessibility.html
+- type: x-about
+  url: https://www.donorschoose.org/about/finance.html
+- type: x-about
+  url: https://www.donorschoose.org/about/media.html
+- type: x-about
+  url: https://www.donorschoose.org/about/impact.html
+- type: x-about
+  url: https://www.donorschoose.org/about/meet_the_team.html
+- type: x-about
+  url: https://www.donorschoose.org/about/principals.html
+- type: x-about
+  url: https://www.donorschoose.org/about/administrators.html
+- type: x-about
+  url: https://www.donorschoose.org/about/our_supporters.html
+- type: x-base
+  url: http://api.donorschoose.org
+- type: x-blog
+  url: https://www.donorschoose.org/blog/
+- type: x-blog
+  url: http://data.donorschoose.org/
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/HackingEducationData
+- type: x-careers
+  url: https://www.donorschoose.org/careers
+- type: x-contact-form
+  url: http://www.donorschoose.org/common/contact_landing.html
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/donorschoose-org
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/donorschoose-org
+- type: x-developers
+  url: http://data.donorschoose.org/docs/overview
+- type: x-facebook
+  url: https://www.facebook.com/DonorsChoose
+- type: x-github
+  url: https://github.com/DonorsChoose
+- type: x-instagram
+  url: https://instagram.com/donorschoose
+- type: x-partner
+  url: https://www.donorschoose.org/about/partner_center.html
+- type: x-privacy
+  url: https://www.donorschoose.org/privacy-policy
+- type: x-privacy
+  url: http://www.donorschoose.org/help/privacy_policy.html
+- type: x-support
+  url: https://help.donorschoose.org/
+- type: x-terms-of-service
+  url: https://www.donorschoose.org/terms
+- type: x-terms-of-service
+  url: http://www.donorschoose.org/help/user_agreement.html
+- type: x-twitter
+  url: https://twitter.com/DonorsChoose
+- type: x-website
+  url: http://donorschoose.org
+- type: x-website
+  url: http://www.donorschoose.org/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

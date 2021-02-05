@@ -1,0 +1,33 @@
+---
+name: Algomation
+description: Code Monkey and Creator of Algomation
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/algomation-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2434011"
+url: https://raw.githubusercontent.com/api-network/organizations/main/algomation.yaml
+tags:
+- Profile
+- No API
+- Language API
+- Graphical API
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/algomation
+- type: x-documentation
+  url: http://www.algomation.com
+- type: x-linkedin
+  url: http://www.linkedin.com/in/duncanmeech
+- type: x-twitter
+  url: https://twitter.com/duncanmeech
+- type: x-website
+  url: http://www.algomation.com/search
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

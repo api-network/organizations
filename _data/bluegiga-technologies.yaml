@@ -1,0 +1,39 @@
+---
+name: Bluegiga Technologies
+description: Silicon Labs wireless solutions consist of the broadest portfolio of
+  Bluetooth, Wi-Fi, Zigbee, Thread, Z-Wave and Sub-GHz RF ICs, modules and software.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bluegiga-technologies.yaml
+tags:
+- Wireless
+- Products
+- Product Line Page
+apis: []
+x-common:
+- type: x-website
+  url: http://www.silabs.com
+- type: x-about
+  url: https://www.silabs.com/about-us/wechat
+- type: x-instagram
+  url: https://www.instagram.com/siliconlabs
+- type: x-investor
+  url: http://investor.silabs.com/
+- type: x-news
+  url: http://news.silabs.com/
+- type: x-twitter
+  url: https://twitter.com/siliconlabs
+- type: x-website
+  url: https://www.bluegiga.com
+- type: x-youtube
+  url: http://www.youtube.com/viralsilabs
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

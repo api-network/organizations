@@ -1,0 +1,84 @@
+---
+name: Spredfast
+description: Enterprise social media management software that makes it easy for marketing
+  & support teams to deliver the best customer experiences on social media.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29291-spredfast-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "64249"
+url: https://raw.githubusercontent.com/api-network/organizations/main/spredfast.yaml
+tags: []
+apis: []
+x-common:
+- type: x-about
+  url: https://khoros.com/about
+- type: x-about
+  url: https://khoros.com/about/leadership
+- type: x-blog
+  url: https://khoros.com/resources/blog
+- type: x-careers
+  url: https://khoros.com/about/careers
+- type: x-contact
+  url: https://khoros.com/contact-us
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/mass-relevance
+- type: x-email
+  url: questions@spredfast.com
+- type: x-email
+  url: support@spredfast.com
+- type: x-email
+  url: pr@spredfast.com
+- type: x-email
+  url: humanresources@spredfast.com
+- type: x-email
+  url: salesuk@spredfast.com
+- type: x-email
+  url: fragen@spredfast.com
+- type: x-email
+  url: sydney@spredfast.com
+- type: x-email
+  url: legal@spredfast.com
+- type: x-events
+  url: https://khoros.com/about/events
+- type: x-events
+  url: https://khoros.com/about/events/past-events
+- type: x-facebook
+  url: https://www.facebook.com/KhorosLLC/
+- type: x-instagram
+  url: https://www.instagram.com/KhorosLLC/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/khoros/
+- type: x-login
+  url: https://login.spredfast.com/user/login
+- type: x-news
+  url: https://khoros.com/about/newsroom
+- type: x-partner
+  url: https://khoros.com/about/partners
+- type: x-platform
+  url: https://khoros.com/platform
+- type: x-platform
+  url: https://khoros.com/platform/marketing
+- type: x-platform
+  url: https://khoros.com/platform/care
+- type: x-platform
+  url: https://khoros.com/platform/communities
+- type: x-platform
+  url: https://khoros.com/platform/strategic-services
+- type: x-privacy
+  url: https://khoros.com/privacy
+- type: x-security
+  url: https://khoros.com/khoros-security
+- type: x-twitter
+  url: https://twitter.com/Spredfast
+- type: x-twitter
+  url: https://twitter.com/Khoros
+- type: x-website
+  url: http://spredfast.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

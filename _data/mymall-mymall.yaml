@@ -1,0 +1,26 @@
+---
+name: "Mymall\u662F\u4E2A\u4EC0\u4E48\u5E73\u53F0_\u4FC4\u7F57\u65AFmymall\u600E\u4E48\u6837-\u96E8\u679C\u7F51"
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: ""
+url: https://raw.githubusercontent.com/api-network/organizations/main/mymall-mymall.yaml
+tags:
+- Postman Doc Search
+apis: []
+x-common:
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/2276235/mallmerchant-public/6n5yY7W
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/2276235/mall-merchant-public/6n5yY7W#4d7389c0-b2fd-0122-122d-e838e32f7092
+- type: x-website
+  url: http://www.cifnews.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

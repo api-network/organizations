@@ -1,0 +1,50 @@
+---
+name: ClearFoundation
+description: CLEAR Token - The Socially Responsible Token Making Blockchains Secure
+  & Reliable.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8780526"
+url: https://raw.githubusercontent.com/api-network/organizations/main/clearfoundation.yaml
+tags:
+- Servers
+- Secure Blockchains
+- Reliable Blockchains
+- ClearNODE
+- CLEAR Token
+- Blockchains
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.clearcenter.com/blogs/timeline
+- type: x-developer
+  url: http://developer.clearfoundation.com
+- type: x-facebook
+  url: https://www.facebook.com/ClearFoundation
+- type: x-github
+  url: https://github.com/clearos
+- type: x-instagram
+  url: https://www.instagram.com/clearcenter/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/clearfoundation
+- type: x-linkedin
+  url: https://in.linkedin.com/company/clearfoundation
+- type: x-self-service-registration
+  url: https://witsbits.com/app/#/register
+- type: x-support
+  url: http://www.itokhelp.com/
+- type: x-twitter
+  url: https://twitter.com/clearfoundation
+- type: x-website
+  url: https://www.clearfoundation.com
+- type: x-youtube
+  url: https://www.youtube.com/user/clearcenter
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,24 @@
+---
+name: Ezine Director
+description: Why pay more for the same email newsletter management services? Large
+  ezine contact lists can save 50% or more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9826692"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ezine-director.yaml
+tags:
+- Mass Mailing
+- Hosted Services
+apis: []
+x-common:
+- type: x-website
+  url: https://ezinedirector.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

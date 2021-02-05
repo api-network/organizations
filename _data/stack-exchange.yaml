@@ -1,0 +1,208 @@
+---
+name: Stack Exchange
+description: We make Stack Overflow and 170+ other community-powered Q&A sites.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/253_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "811"
+x-alexaRank: "100"
+url: https://raw.githubusercontent.com/api-network/organizations/main/stack-exchange.yaml
+tags:
+- Relative Data
+- Questions
+- Postman Doc Search
+- Plugins
+- My API Stack
+- Imports
+- Historical Data API
+- Have OpenAPI
+- Have API Paths
+- Have API
+- General Data
+- Forums
+- Content
+- Citations
+- Answers
+apis: []
+x-common:
+- type: x-website
+  url: http://stackexchange.com/sites
+- type: x-about
+  url: https://dev.stackoverflow.com/company/about
+- type: x-about
+  url: https://stackoverflow.com/company/about
+- type: x-authentication
+  url: https://api.stackexchange.com/docs/authentication
+- type: x-base
+  url: https://api.stackexchange.com/
+- type: x-blog
+  url: http://stackexchange.com/blogs
+- type: x-blog
+  url: https://stackoverflow.blog
+- type: x-blog
+  url: https://stackoverflow.blog?blb=1
+- type: x-blog
+  url: https://stackoverflow.blog/2009/06/25/attribution-required/
+- type: x-blog-rss
+  url: http://blog.stackoverflow.com/feed/
+- type: x-careers
+  url: https://dev.stackoverflow.com/jobs
+- type: x-careers
+  url: https://stackoverflow.com/jobs
+- type: x-code
+  url: https://academia.stackexchange.com/users/53762/coder
+- type: x-code
+  url: https://codereview.stackexchange.com
+- type: x-code
+  url: https://codegolf.stackexchange.com
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/stack-exchange
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/stack-exchange
+- type: x-developer
+  url: http://dev.stackexchange.com
+- type: x-developer
+  url: https://dev.stackexchange.com
+- type: x-developer
+  url: https://meta.dev.stackexchange.com
+- type: x-developer
+  url: https://dev.stackexchange.com/sites
+- type: x-developer
+  url: https://dev.stackoverflow.com
+- type: x-developer
+  url: https://dev.stackexchange.com/sites#technology
+- type: x-developer
+  url: https://dev.stackexchange.com/sites#lifearts
+- type: x-developer
+  url: https://dev.stackexchange.com/sites#culturerecreation
+- type: x-developer
+  url: https://dev.stackexchange.com/sites#science
+- type: x-developer
+  url: https://meta.dev.stackexchange.com/
+- type: x-developer
+  url: https://gamedev.stackexchange.com
+- type: x-developer
+  url: https://api.stackexchange.com
+- type: x-developers
+  url: http://api.stackexchange.com/
+- type: x-email
+  url: legal@stackexchange.com
+- type: x-email
+  url: team@stackexchange.com
+- type: x-email
+  url: team+api@stackexchange.com
+- type: x-error-codes
+  url: https://api.stackexchange.com/docs/error-handling
+- type: x-events
+  url: https://workplace.stackexchange.com/questions/tagged/events
+- type: x-facebook
+  url: https://www.facebook.com/officialstackoverflow/
+- type: x-github
+  url: https://github.com/StackExchange
+- type: x-javascript-sdk
+  url: https://api.stackexchange.com/docs/js-lib
+- type: x-linkedin
+  url: https://linkedin.com/company/stack-overflow
+- type: x-linkedin
+  url: https://www.linkedin.com/company/stack-exchange
+- type: x-login
+  url: https://stackexchange.com/users/login?ssrc=head&returnurl=https%3a%2f%2fstackexchange.com
+- type: x-login
+  url: https://stackexchange.com/users/login#create-account
+- type: x-login
+  url: https://stackexchange.com/users/login
+- type: x-login
+  url: https://dev.stackexchange.com/users/login
+- type: x-open-source
+  url: https://chess.stackexchange.com/questions/tagged/opening
+- type: x-open-source
+  url: https://chess.stackexchange.com/questions/tagged/reti-opening
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/5922408/RznJmGfn
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/10808728/SzS8rjbc
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/664302/ebird-api-20/2HTbHW
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/664302/ebird-api-20/2HTbHW#2da513c0-e74d-4990-4fe7-5b08ee2470f7
+- type: x-press
+  url: https://dev.stackoverflow.com/company/press
+- type: x-press
+  url: https://bicycles.stackexchange.com/questions/tagged/tire-pressure
+- type: x-press
+  url: https://stackoverflow.com/company/press
+- type: x-press
+  url: https://wordpress.stackexchange.com
+- type: x-press
+  url: https://expressionengine.stackexchange.com
+- type: x-privacy
+  url: https://stackexchange.com/legal/privacy-policy
+- type: x-rate-limits
+  url: https://api.stackexchange.com/docs/throttle
+- type: x-security
+  url: https://security.stackexchange.com/questions/224200/is-it-a-security-vulnerability-to-tell-a-user-what-input-characters-are-valid-in
+- type: x-security
+  url: https://security.stackexchange.com/questions/tagged/web-application
+- type: x-security
+  url: https://security.stackexchange.com/questions/tagged/vulnerability
+- type: x-security
+  url: https://security.stackexchange.com/questions/tagged/obscurity
+- type: x-security
+  url: https://security.stackexchange.com/questions/tagged/data-validation
+- type: x-security
+  url: https://security.stackexchange.com/questions/tagged/error-handling
+- type: x-security
+  url: https://security.stackexchange.com/users/189599/csrowell
+- type: x-security
+  url: https://security.stackexchange.com
+- type: x-security
+  url: https://security.stackexchange.com/questions/224172/why-do-email-server-clients-block-executable-attachments
+- type: x-security
+  url: https://security.stackexchange.com/questions/tagged/email
+- type: x-security
+  url: https://security.stackexchange.com/questions/tagged/email-attachments
+- type: x-security
+  url: https://security.stackexchange.com/users/225011/akvilas
+- type: x-registration
+  url: https://stackapps.com/users/login?returnurl=/apps/oauth/register
+- type: x-support
+  url: https://rpg.stackexchange.com/questions/162918/accidentally-let-party-wander-into-a-high-level-situation-how-do-i-help-them-ge
+- type: x-support
+  url: https://stackexchange.com/about/contact
+- type: x-terms-of-service
+  url: http://stackexchange.com/legal/api-terms-of-use
+- type: x-terms-of-service
+  url: https://stackoverflow.com/legal/cookie-policy
+- type: x-terms-of-service
+  url: https://stackoverflow.com/legal/privacy-policy
+- type: x-terms-of-service
+  url: https://stackoverflow.com/legal/terms-of-service/public
+- type: x-terms-of-service
+  url: https://dev.stackoverflow.com/legal/cookie-policy
+- type: x-terms-of-service
+  url: https://dev.stackoverflow.com/legal/privacy-policy
+- type: x-terms-of-service
+  url: https://dev.stackoverflow.com/legal
+- type: x-terms-of-service
+  url: https://stackoverflow.com/legal
+- type: x-twitter
+  url: https://twitter.com/StackExchange
+- type: x-twitter
+  url: https://twitter.com/stackoverflow
+- type: x-website
+  url: http://sqa.stackexchange.com
+- type: x-website
+  url: http://stackexchange.com
+- type: x-website
+  url: https://stackexchange.com/
+- type: x-website
+  url: http://opendata.stackexchange.com
+- type: x-website
+  url: http://gis.stackexchange.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

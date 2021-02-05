@@ -1,0 +1,34 @@
+---
+name: easyGUI
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5438800"
+url: https://raw.githubusercontent.com/api-network/organizations/main/easygui.yaml
+tags:
+- Toolkits
+apis: []
+x-common:
+- type: x-about
+  url: https://www.easygui.com/about
+- type: x-contact
+  url: https://www.easygui.com/contact
+- type: x-contact
+  url: http://easygui.com/contact/
+- type: x-logos
+  url: https://www.easygui.com/customer-company-logos
+- type: x-privacy
+  url: https://www.easygui.com/privacy-cookies-policies
+- type: x-terms-of-service
+  url: https://www.easygui.com/legal-documents
+- type: x-website
+  url: https://www.easygui.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

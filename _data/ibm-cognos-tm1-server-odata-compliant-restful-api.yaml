@@ -1,0 +1,21 @@
+---
+name: IBM Cognos TM1 Server, OData Compliant, RESTful API
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ibm-cognos-tm1-server-odata-compliant-restful-api.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://tm1server:9090
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

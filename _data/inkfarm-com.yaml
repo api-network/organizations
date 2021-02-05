@@ -1,0 +1,45 @@
+---
+name: Inkfarm.com
+description: Shop Inkfarm.com for high quality printer ink and toner cartridges. Find
+  Canon, Epson, Dell, Brother, Lexmark and HP ink cartridges at discounted prices.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "296982"
+url: https://raw.githubusercontent.com/api-network/organizations/main/inkfarm-com.yaml
+tags:
+- Toner Cartridges
+- Supplies
+- Remanufactured Ink Cartridges
+- Printer Toner Cartridges
+- Printer Toner
+- Printer Ink Cartridges
+- Printer Ink
+- Printer Cartridges
+- Lexmark Ink
+- Kodak Ink
+- Ink Refill
+- Ink Cartridges
+- Hp Ink
+- Epson Ink
+- Dell Ink
+- Canon Ink
+- Brotherink
+apis: []
+x-common:
+- type: x-website
+  url: http://www.inkfarm.com
+- type: x-facebook
+  url: https://www.facebook.com/inkfarm/
+- type: x-twitter
+  url: https://twitter.com/Inkfarminc
+- type: x-website
+  url: https://www.inkfarm.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

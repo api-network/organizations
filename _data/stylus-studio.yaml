@@ -1,0 +1,66 @@
+---
+name: Stylus Studio
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "448911"
+url: https://raw.githubusercontent.com/api-network/organizations/main/stylus-studio.yaml
+tags:
+- Editors
+apis: []
+x-common:
+- type: x-website
+  url: http://www.stylusstudio.com
+- type: x-code
+  url: http://www.stylusstudio.com/java-code-generation.html
+- type: x-code
+  url: http://www.stylusstudio.com/java-code-generator.html
+- type: x-contact
+  url: http://www.stylusstudio.com/xml-contact.html
+- type: x-customers
+  url: http://www.stylusstudio.com/xml-customers.html
+- type: x-customers
+  url: http://www.stylusstudio.com/customers/
+- type: x-developer
+  url: http://developer.stylusstudio.com
+- type: x-developer
+  url: http://www.stylusstudio.com/xml-developer.html
+- type: x-documentation
+  url: http://www.stylusstudio.com/docs/
+- type: x-facebook
+  url: http://www.facebook.com/StylusStudio
+- type: x-linkedin
+  url: http://www.linkedin.com/groups/Stylus-Studio-4919712
+- type: x-news
+  url: http://www.stylusstudio.com/xml-news.html
+- type: x-open-source
+  url: http://www.stylusstudio.com/open-xsd-validation.html
+- type: x-open-source
+  url: http://www.stylusstudio.com/open-ws-framework.html
+- type: x-privacy
+  url: http://www.stylusstudio.com/privacy-policy.html
+- type: x-support
+  url: http://www.stylusstudio.com/xml-support.html
+- type: x-support
+  url: http://www.stylusstudio.com/xml-support-faq.html
+- type: x-terms-of-service
+  url: http://www.stylusstudio.com/terms-of-use.html
+- type: x-tutorials
+  url: http://www.xquery.com/tutorials/
+- type: x-tutorials
+  url: http://www.xmlconverters.com/tutorials/
+- type: x-twitter
+  url: http://twitter.com/stylusstudio
+- type: x-website
+  url: https://www.stylusstudio.com
+- type: x-white-papers
+  url: http://www.stylusstudio.com/xml-whitepaper.html
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

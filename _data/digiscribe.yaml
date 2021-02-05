@@ -1,0 +1,56 @@
+---
+name: Digiscribe
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2226062"
+url: https://raw.githubusercontent.com/api-network/organizations/main/digiscribe.yaml
+tags:
+- Document Imaging
+apis: []
+x-common:
+- type: x-about
+  url: https://www.digiscribe.info/about/
+- type: x-about
+  url: https://www.digiscribe.info/about/why-digiscribe/
+- type: x-about
+  url: https://www.digiscribe.info/about/facilities/
+- type: x-about
+  url: https://www.digiscribe.info/about/team/
+- type: x-about
+  url: https://www.digiscribe.info/about/edocny/
+- type: x-about
+  url: https://www.digiscribe.info/about/testimonials/
+- type: x-blog
+  url: https://www.digiscribe.info/blog/
+- type: x-blog
+  url: https://www.digiscribe.info/blog/bpo-in-the-mailroom/
+- type: x-careers
+  url: https://www.digiscribe.info/about/careers/
+- type: x-contact
+  url: https://www.digiscribe.info/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/digiscribe
+- type: x-linkedin
+  url: https://www.linkedin.com/company/digiscribe
+- type: x-press
+  url: https://www.digiscribe.info/about/press-releases/
+- type: x-privacy
+  url: https://www.digiscribe.info/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.digiscribe.info/termsofuse/
+- type: x-twitter
+  url: https://twitter.com/DigiscribeNow
+- type: x-website
+  url: https://www.digiscribe.info
+- type: x-youtube
+  url: https://www.youtube.com/c/DigiscribeInfo
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

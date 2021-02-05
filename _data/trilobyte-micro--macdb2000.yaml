@@ -1,0 +1,22 @@
+---
+name: Trilobyte Micro - MacDB2000
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/trilobyte-micro--macdb2000.yaml
+tags:
+- Promotion
+apis: []
+x-common:
+- type: x-website
+  url: https://www.macdb2000.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

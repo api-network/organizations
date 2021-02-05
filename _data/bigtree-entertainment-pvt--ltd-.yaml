@@ -1,0 +1,32 @@
+---
+name: Bigtree Entertainment Pvt. Ltd.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "878814"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bigtree-entertainment-pvt--ltd-.yaml
+tags:
+- Box Office
+apis: []
+x-common:
+- type: x-website
+  url: http://bookmy.show/BookMyShow-TW
+- type: x-blog
+  url: http://blog.bookmyshow.com/
+- type: x-careers
+  url: http://in.bookmyshow.com/careers/
+- type: x-facebook
+  url: https://www.facebook.com/pages/BookMyShow/82235273865
+- type: x-twitter
+  url: https://twitter.com/BookMyShow
+- type: x-website
+  url: https://www.bigtree.in
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

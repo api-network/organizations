@@ -1,0 +1,67 @@
+---
+name: Webby Awards
+description: The leading international award honoring excellence on the Internet.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "95395"
+url: https://raw.githubusercontent.com/api-network/organizations/main/webby-awards.yaml
+tags:
+- Website Design Awards
+- Website Awards
+- Webby Awards Winners
+- Web Design Awards
+- UX Best Practices
+- Site Awards
+- Best Website Design
+- Best Web Series
+- Best Web Design
+- Best UX Design
+- Best UX
+- Best Social Media Campaigns
+- Best Online Documentaries
+- Best Digital Campaigns
+- Best Designed Websites
+- Best App Design
+- Award Winning Websites
+- Award Winning Website
+apis: []
+x-common:
+- type: x-website
+  url: https://webbyawards.com
+- type: x-about
+  url: https://www.webbyawards.com/about/
+- type: x-code
+  url: http://codeandtheory.com
+- type: x-contact
+  url: https://www.webbyawards.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/thewebbyawards
+- type: x-instagram
+  url: http://instagram.com/thewebbyawards
+- type: x-instagram
+  url: https://www.instagram.com/
+- type: x-news
+  url: https://www.webbyawards.com/news/webby-brand-studio/
+- type: x-news
+  url: https://www.webbyawards.com/news/2020-trend-report/
+- type: x-press
+  url: https://www.webbyawards.com/press/
+- type: x-privacy
+  url: https://www.webbyawards.com/privacy-policy/
+- type: x-twitter
+  url: http://www.twitter.com/TheWebbyAwards
+- type: x-twitter
+  url: https://twitter.com/TheWebbyAwards
+- type: x-website
+  url: https://www.webbyawards.com
+- type: x-youtube
+  url: http://www.youtube.com/user/TheWebbyAwards
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,78 @@
+---
+name: Composr
+description: 'Open Source CMS with advanced social, interactive and dynamic features.
+  Fully flexible, themeable and extendible: suitable for building powerful websites.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "435472"
+url: https://raw.githubusercontent.com/api-network/organizations/main/composr.yaml
+tags:
+- Website
+- Web Property
+- Software
+- Social Networking
+- Social Media
+- PHP
+- Open Source
+- Make
+- Interactive
+- Forum
+- Dynamic
+- Create
+- Content Management
+- Community
+- CMS
+- Build
+apis: []
+x-common:
+- type: x-contact
+  url: https://compo.sr/contact.htm
+- type: x-documentation
+  url: https://compo.sr/docs/faq.htm
+- type: x-documentation
+  url: https://compo.sr/docs/codebook.htm
+- type: x-forum
+  url: https://compo.sr/forum/forumview.htm
+- type: x-news
+  url: https://compo.sr/news.htm
+- type: x-partner
+  url: https://compo.sr/partners.htm
+- type: x-privacy
+  url: https://compo.sr/privacy.htm
+- type: x-status
+  url: https://compo.sr/maintenance-status.htm
+- type: x-support
+  url: https://compo.sr/support.htm
+- type: x-support
+  url: https://compo.sr/professional-support.htm
+- type: x-tutorials
+  url: https://compo.sr/docs/tutorials/Social.htm
+- type: x-tutorials
+  url: https://compo.sr/docs/tutorials/Administration.htm
+- type: x-tutorials
+  url: https://compo.sr/docs/tutorials/Security.htm
+- type: x-tutorials
+  url: https://compo.sr/docs/tutorials/Performance.htm
+- type: x-tutorials
+  url: https://compo.sr/docs/tutorials/SEO.htm
+- type: x-tutorials
+  url: https://compo.sr/docs/tutorials/Content.htm
+- type: x-tutorials
+  url: https://compo.sr/docs/tutorials/Development.htm
+- type: x-tutorials
+  url: https://compo.sr/docs/tutorials/Power%20tools.htm
+- type: x-tutorials
+  url: https://compo.sr/docs/tutorials.htm
+- type: x-tutorials
+  url: https://compo.sr/docs/tutorials/Mobile.htm
+- type: x-website
+  url: https://compo.sr
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,43 @@
+---
+name: Sight2k
+description: Sight2k - testing software solutions, educational software development
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9994083"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sight2k.yaml
+tags:
+- Tests
+- Test Authoring
+- Test
+- Teachers
+- Teacher
+- Surveys
+- Survey
+- Software
+- Quizzes
+- Quiz
+- Questionnaires
+- Questionnaire
+- Programs
+- Program
+- Online Tests
+- Online Quizzes
+- Exams
+- Examination
+- Exam
+- Evaluation
+- Certication
+- Authoring Software
+apis: []
+x-common:
+- type: x-website
+  url: https://sight2k.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

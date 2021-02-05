@@ -1,0 +1,31 @@
+---
+name: FusionCharts
+description: JavaScript charts for web and mobile apps. 95+ chart types, 1400+ maps
+  and 20+ business dashboards with pre-built themes for any business use-case. Build
+  fast, responsive and highly customizable data visualizations trusted by over 28,000
+  customers and 750,000 developers worldwide.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "71556"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fusioncharts.yaml
+tags:
+- Tools
+apis: []
+x-common:
+- type: x-change-log
+  url: https://www.fusioncharts.com/dev/upgrading/change-log
+- type: x-developer
+  url: http://developer.fusioncharts.com
+- type: x-forum
+  url: https://forum.fusioncharts.com/
+- type: x-website
+  url: https://www.fusioncharts.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

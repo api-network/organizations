@@ -1,0 +1,57 @@
+---
+name: Citation Style Language
+description: CitationStyles.org, home of the Citation Style Language (CSL), a popular
+  open XML-based language to describe the formatting of citations and bibliographies.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "619338"
+url: https://raw.githubusercontent.com/api-network/organizations/main/citation-style-language.yaml
+tags:
+- Applications
+apis: []
+x-common:
+- type: x-website
+  url: http://citationstyles.org/
+- type: x-about
+  url: https://citationstyles.org/about/
+- type: x-blog
+  url: https://citationstyles.org/blog/
+- type: x-contact
+  url: https://citationstyles.org/contact/
+- type: x-feed
+  url: https://citationstyles.org/feed.xml
+- type: x-github
+  url: http://cboulanger.github.io/bibliograph/
+- type: x-github
+  url: https://github.com/inukshuk/jekyll-scholar
+- type: x-github
+  url: https://juris-m.github.io/
+- type: x-github
+  url: https://github.com/whiskyechobravo/kerko
+- type: x-github
+  url: https://github.com/pkp/citationStyleLanguage
+- type: x-github
+  url: https://github.com/citation-style-language
+- type: x-logos
+  url: https://www.logos.com/
+- type: x-press
+  url: https://wordpress.org/plugins/bibsonomy-csl/
+- type: x-press
+  url: https://wordpress.org/plugins/kcite/
+- type: x-press
+  url: https://wordpress.org/plugins/mendeleyplugin/
+- type: x-press
+  url: https://wordpress.org/plugins/zotpress/
+- type: x-twitter
+  url: https://twitter.com/csl_styles
+- type: x-website
+  url: https://citationstyles.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

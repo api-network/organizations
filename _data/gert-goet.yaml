@@ -1,0 +1,26 @@
+---
+name: Gert Goet
+description: Freelance Clojure developer
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29352-gertgoet-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "6"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gert-goet.yaml
+tags:
+- Profile
+apis: []
+x-common:
+- type: x-website
+  url: http://www.gertgoet.com
+- type: x-twitter
+  url: https://twitter.com/gertgoet
+- type: x-website
+  url: http://gertgoet.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

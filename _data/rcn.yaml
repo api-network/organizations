@@ -1,0 +1,32 @@
+---
+name: RCN
+description: A peer-to-peer credit network based on co-signed smart contracts
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26703-ripiocredit-network.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "184681"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rcn.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/ripio-credit-network
+- type: x-email
+  url: info@ripiocredit.network
+- type: x-email
+  url: partners@ripiocredit.network
+- type: x-email
+  url: presale@ripiocredit.network
+- type: x-twitter
+  url: https://twitter.com/RCN_token
+- type: x-website
+  url: https://ripiocredit.network
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

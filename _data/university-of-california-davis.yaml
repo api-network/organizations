@@ -1,0 +1,62 @@
+---
+name: University of California, Davis
+description: <p>University of California, Davis provides a wealth of APIs as part
+  of their IT operations. There is a complete identity and set of APIs for many aspects
+  of campus operations, but still reflect a very IT driven operation, over a modern
+  API movement.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/ucdavis_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "4869"
+url: https://raw.githubusercontent.com/api-network/organizations/main/university-of-california-davis.yaml
+tags:
+- University In Progress
+- No API
+apis: []
+x-common:
+- type: x-website
+  url: http://UCDavis.edu
+- type: x-about
+  url: https://www.ucdavis.edu/about/locations-maps-parking
+- type: x-about
+  url: http://www.ucdavis.edu/about/rankings/
+- type: x-blog
+  url: https://www.ucdavis.edu/majors/blog/
+- type: x-blog
+  url: https://www.ucdavis.edu/blogs/
+- type: x-blog
+  url: https://www.ucdavis.edu/arts/blog/
+- type: x-blog
+  url: https://www.ucdavis.edu/blogs/majors/
+- type: x-careers
+  url: https://hr.ucdavis.edu/careers/browse-jobs
+- type: x-careers
+  url: https://www.ucdavis.edu/jobs/#quicklink
+- type: x-careers
+  url: https://www.ucdavis.edu/jobs/benefits/#footer
+- type: x-careers
+  url: https://www.ucdavis.edu/jobs/staff/#footer
+- type: x-contact
+  url: http://tag.ucdavis.edu/contacts.cfm
+- type: x-developers
+  url: https://ucdavis.jira.com/wiki/display/IETP/Web+Service+API
+- type: x-facebook
+  url: https://www.facebook.com/UCDavis
+- type: x-instagram
+  url: https://instagram.com/ucdavis
+- type: x-linkedin
+  url: https://www.linkedin.com/school/uc-davis/
+- type: x-twitter
+  url: https://twitter.com/ucdavis
+- type: x-website
+  url: http://ucdavis.edu/
+- type: x-youtube
+  url: http://www.youtube.com/ucdavis
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

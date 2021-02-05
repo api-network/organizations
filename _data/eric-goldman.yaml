@@ -1,0 +1,37 @@
+---
+name: Eric Goldman
+description: Security, system administration, and other articles of interest from
+  Eric H. Goldman
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/eric-goldman.yaml
+tags:
+- Personal Pages
+apis: []
+x-common:
+- type: x-contact
+  url: https://contactehg.wufoo.com/forms/mnjfhce0moiz8x
+- type: x-github
+  url: https://github.com/erichgoldman
+- type: x-open-source
+  url: https://www.ericgoldman.name/tags/open-redirect/
+- type: x-security
+  url: https://www.ericgoldman.name/categories/security/
+- type: x-security
+  url: https://www.ericgoldman.name/tags/security/
+- type: x-slideshare
+  url: https://www.slideshare.net/EricHGoldman
+- type: x-website
+  url: https://www.ericgoldman.name
+- type: x-youtube
+  url: https://www.youtube.com/user/EricHGoldman
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

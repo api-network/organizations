@@ -1,0 +1,56 @@
+---
+name: Cascade C64/Amiga
+description: Homepage of the C64/Amiga scene group CASCADE (aka 1733/CAS/CSD/CSE/CCD)
+  with own homebrew productions (demos/games/tools) and info plus a special C64 driver
+  section
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cascade-c64amiga.yaml
+tags:
+- Zeldin
+- Scene
+- Driver
+- Download
+- Demoscene
+- Demos
+- Cascade
+- CAS
+- C64
+- Amiga
+- "1733"
+apis: []
+x-common:
+- type: x-about
+  url: https://www.cascade64.de/about.php
+- type: x-code
+  url: http://codebase64.org/doku.php
+- type: x-contact
+  url: https://www.cascade64.de/contact.php
+- type: x-forum
+  url: http://www.forum64.de/
+- type: x-website
+  url: https://www.cascade64.de
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=uumcaHCBCDA
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=bVFem3I9B9w
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=U4l48k8JfTs
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=i2WHt7x0_WE
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=SF8y_tH6x2c
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=WKWiWnJ-_4o
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=3ROE0ww2ReE
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

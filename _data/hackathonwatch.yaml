@@ -1,0 +1,25 @@
+---
+name: HackathonWatch
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: ""
+url: https://raw.githubusercontent.com/api-network/organizations/main/hackathonwatch.yaml
+tags:
+- Hacking
+- Hackathons
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-website
+  url: http://hackathonwatch.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,54 @@
+---
+name: Business Process Management (BPM) & Workflow Software  BP Logix
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "889756"
+url: https://raw.githubusercontent.com/api-network/organizations/main/business-process-management-bpm-workflow-software--bp-logix.yaml
+tags:
+- Products
+apis: []
+x-common:
+- type: x-website
+  url: http://bplogix.com/
+- type: x-about
+  url: https://www.bplogix.com/about
+- type: x-about
+  url: https://www.bplogix.com/about-bp-logix/bpm-awards
+- type: x-about
+  url: https://www.bplogix.com/about/appx-partners
+- type: x-blog
+  url: https://www.bplogix.com/blog
+- type: x-blog
+  url: https://www.bplogix.com/blog/workflow-process
+- type: x-customers
+  url: https://www.bplogix.com/customers-by-industry/finance
+- type: x-facebook
+  url: https://www.facebook.com/BPLogix
+- type: x-linkedin
+  url: https://www.linkedin.com/company/bplogix
+- type: x-platform
+  url: https://www.bplogix.com/bpm-platform-process-director
+- type: x-press
+  url: https://www.bplogix.com/about-bp-logix/press-releases
+- type: x-privacy
+  url: https://www.bplogix.com/privacy-policy
+- type: x-support
+  url: https://www.bplogix.com/bp-resources/customer-support
+- type: x-terms-of-service
+  url: https://www.bplogix.com/terms-of-use
+- type: x-twitter
+  url: https://twitter.com/bplogix
+- type: x-website
+  url: https://www.bplogix.com
+- type: x-youtube
+  url: https://www.youtube.com/bplogix
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

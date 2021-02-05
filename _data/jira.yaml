@@ -1,0 +1,47 @@
+---
+name: JIRA
+description: |-
+  <p>Jira Software is built for every member of your software team to plan, track, and release great software. Create user stories and issues, plan sprints, and distribute tasks across your software team. Prioritize and discuss your team&rsquo;s work in full context with complete visibility. Ship with confidence and sanity knowing the information you have is always up-to-date. Improve team performance based on real-time, visual data that your team can put to use. Every  team has a unique process for shipping software. Use an out-of-the-box  workflow, or create one to match the way your team works.</p>
+  <div class="container-fluid xs-compact-bottom md-comfortable-bottom">
+  <div class="row flex-container">
+  <div class="column column-lg-4 column-md-6 vertical-middle">
+  <div class="component component--block xs-cozy-bottom"></div>
+  <div class="component component--block"></div>
+  </div>
+  </div>
+  </div>
+  <div class="container-fluid xs-cozy-bottom md-outerspace-bottom">
+  <div class="row flex-container">
+  <div class="column column-lg-4 column-md-6 column-lg-pull-6 column-md-pull-0 column-md-inset-7 column-lg-inset-0 vertical-middle">
+  <div class="component component--block xs-cozy-bottom"></div>
+  <div class="component component--block"></div>
+  </div>
+  </div>
+  </div>
+  <div class="column column-md-5 column-lg-4 vertical-middle">
+  <div class="component component--textblock text-oversized"></div>
+  </div>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/jira-software-vector-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jira.yaml
+tags:
+- Tasks
+- Projects
+- Integration Landscape
+- Code
+apis: []
+x-common:
+- type: x-pricing
+  url: https://www.atlassian.com/software/jira/pricing
+- type: x-website
+  url: https://www.atlassian.com/software/jira
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

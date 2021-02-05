@@ -1,0 +1,26 @@
+---
+name: Unix Ports for OS/2 & eCS
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/unix-ports-for-os2-ecs.yaml
+tags:
+- Software
+apis: []
+x-common:
+- type: x-news
+  url: https://os2ports.smedley.id.au/index.php?page=news
+- type: x-open-source
+  url: https://os2ports.smedley.id.au/index.php?page=openttd
+- type: x-website
+  url: https://os2ports.smedley.info
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

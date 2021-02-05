@@ -1,0 +1,44 @@
+---
+name: Tetrad Digital Integrity
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2039552"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tetrad-digital-integrity.yaml
+tags:
+- United States
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.tdisecurity.com/this-is-tdi/contact-us/
+- type: x-security
+  url: https://www.tdisecurity.com/services/
+- type: x-security
+  url: https://www.tdisecurity.com/products/
+- type: x-security
+  url: https://www.tdisecurity.com/cybers-future/
+- type: x-security
+  url: https://www.tdisecurity.com/clients/
+- type: x-security
+  url: https://www.tdisecurity.com/ideas/
+- type: x-security
+  url: https://www.tdisecurity.com/this-is-tdi/
+- type: x-security
+  url: https://www.tdisecurity.com/this-is-tdi/careers/
+- type: x-security
+  url: https://www.tdisecurity.com/
+- type: x-security
+  url: https://www.tdisecurity.com/products/#cnsight
+- type: x-twitter
+  url: https://twitter.com/TDISecurity?lang=en
+- type: x-website
+  url: https://www.tdisecurity.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,50 @@
+---
+name: Advanced Micro Peripherals
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4404853"
+url: https://raw.githubusercontent.com/api-network/organizations/main/advanced-micro-peripherals.yaml
+tags:
+- Embedded
+apis: []
+x-common:
+- type: x-website
+  url: http://www.amp-usa.com
+- type: x-about
+  url: https://www.ampltd.com/about/
+- type: x-careers
+  url: https://www.ampltd.com/careers/
+- type: x-contact
+  url: https://www.ampltd.com/contact-us/
+- type: x-contact
+  url: https://www.ampltd.com/contact-us/contact-sales/
+- type: x-contact
+  url: https://www.ampltd.com/contact-us/contact-support/
+- type: x-login
+  url: https://www.ampltd.com/members/login
+- type: x-news
+  url: https://www.ampltd.com/news/
+- type: x-news
+  url: https://www.ampltd.com/news-ultra-low-latency-video/
+- type: x-news
+  url: https://www.ampltd.com/news-alerts-compactpci-serial/
+- type: x-news
+  url: https://www.ampltd.com/news-rugged-app-cookbook2/
+- type: x-privacy
+  url: https://www.ampltd.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.ampltd.com/terms-conditions/
+- type: x-twitter
+  url: https://twitter.com/adv_micro_Perip
+- type: x-website
+  url: https://www.ampltd.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

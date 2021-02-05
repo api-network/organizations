@@ -1,0 +1,60 @@
+---
+name: Fanbridge
+description: <p>FanBridge.com is a Fan Relationship Management (FRM) platform that
+  merges email and social networking with direct-to-fan tools to grow, engage, and
+  monetize fan bases for artists, brands, and other influencers. FanBridge is the
+  most trusted email marketing platform for fan lovers of all types. FanBridge offers
+  competitive pricing based on your sending volume, not the number of subscribers.
+  That means no hidden fees for growing your list.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/FanBridge_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "136964"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fanbridge.yaml
+tags:
+- Have API
+- Fans
+- Bands
+- API Provider
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.fanbridge.com/blog
+- type: x-blog
+  url: https://www.fanbridge.com/blog?ref=public_site_footer
+- type: x-blog
+  url: https://www.fanbridge.com/blog/
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/fanbridge/lHFs
+- type: x-developers
+  url: https://www.fanbridge.com/api/
+- type: x-events
+  url: https://www.fanbridge.com/blog/events-calendar-widget
+- type: x-facebook
+  url: https://www.facebook.com/FanBridge/
+- type: x-github
+  url: https://github.com/fanbridge
+- type: x-instagram
+  url: http://www.instagram.com/FanBridge
+- type: x-open-source
+  url: https://open.spotify.com/user/1227768780
+- type: x-partner
+  url: https://mixpanel.com/f/partner
+- type: x-pricing
+  url: https://www.fanbridge.com/plan/
+- type: x-twitter
+  url: https://twitter.com/FanBridge
+- type: x-twitter
+  url: https://www.twitter.com/FanBridge
+- type: x-website
+  url: http://www.fanbridge.com
+- type: x-youtube
+  url: http://www.youtube.com/FanBridgeTV
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

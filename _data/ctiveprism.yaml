@@ -1,0 +1,37 @@
+---
+name: Ctiveprism
+description: Active Prism Offers Converged wifi hotspot billing and bandwidth management
+  solution and restaurant billing software. We specalise in Wi-Fi for Hospitality,
+  Conference venues, Cafes, Hotel, Pubs and Restaurants and will tailor each solution
+  to the specific needs of a property.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7894451"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ctiveprism.yaml
+tags:
+- WiFi Hotspot Billing Software
+- Restaurant POS
+- Restaurant Management Software
+- Restaurant Billing
+- ISP Billing Software
+- Hotspot Management Software
+- Hotel WiFi Solution
+- Hotel WiFi Software
+- Billing
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/activeprism
+- type: x-twitter
+  url: https://twitter.com/activeprism
+- type: x-website
+  url: https://activeprism.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

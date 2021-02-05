@@ -1,0 +1,22 @@
+---
+name: Karz Systems
+description: Karz Systems Auto Rental Software
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/karz-systems.yaml
+tags:
+- Automotive Management
+apis: []
+x-common:
+- type: x-website
+  url: https://www.karz.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

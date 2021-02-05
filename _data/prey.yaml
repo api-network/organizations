@@ -1,0 +1,47 @@
+---
+name: Prey
+description: Device management and reactive anti-theft solution with 10 years of experience
+  in securing multi-OS phones, laptops, and tablets.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "91186"
+url: https://raw.githubusercontent.com/api-network/organizations/main/prey.yaml
+tags:
+- Open Source
+apis: []
+x-common:
+- type: x-blog
+  url: https://preyproject.com/blog/en/
+- type: x-blog
+  url: https://preyproject.com/blog/en/recovery-stories/
+- type: x-blog
+  url: https://preyproject.com/blog/en/whats-new/
+- type: x-blog
+  url: https://www.preyproject.com/blog/en/
+- type: x-blog
+  url: https://www.preyproject.com/blog/en/recovery-stories/
+- type: x-github
+  url: https://github.com/prey/
+- type: x-instagram
+  url: https://instagram.com/preyproject
+- type: x-security
+  url: https://preyproject.com/blog/en/security-101/
+- type: x-security
+  url: https://preyproject.com/blog/en/cyber-security/
+- type: x-support
+  url: https://help.preyproject.com/
+- type: x-twitter
+  url: https://twitter.com/preyproject
+- type: x-website
+  url: https://preyproject.com
+- type: x-youtube
+  url: https://www.youtube.com/user/PreyAntiTheft
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

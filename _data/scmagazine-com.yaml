@@ -1,0 +1,26 @@
+---
+name: scmagazine.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: ""
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/scmagazine-com.yaml
+tags:
+- Publications
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.scmagazine.com/nyu-scientists-develop-asic-to-spot-hidden-vulnerabilities/article/518085/
+- type: x-website
+  url: http://scmagazine.com
+- type: x-website
+  url: https://www.scmagazine.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

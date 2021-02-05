@@ -1,0 +1,53 @@
+---
+name: Alpaca
+description: Lower your cost, Maximize your profits.  Algo trading commision free.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29059-alpaca-markets.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "96478"
+url: https://raw.githubusercontent.com/api-network/organizations/main/alpaca.yaml
+tags:
+- No API Definition
+- Marketplaces
+- Has API
+- Financial
+apis: []
+x-common:
+- type: x-website
+  url: https://alpaca.markets/
+- type: x-blog
+  url: https://blog.alpaca.markets
+- type: x-careers
+  url: https://angel.co/alpaca/jobs
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/alpacadb
+- type: x-documentation
+  url: https://docs.alpaca.markets
+- type: x-documentation
+  url: https://docs.alpaca.markets/api-documentation
+- type: x-documentation
+  url: https://docs.alpaca.markets/
+- type: x-facebook
+  url: https://business.facebook.com/alpacahq
+- type: x-github
+  url: https://github.com/alpacahq/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/9300556/
+- type: x-login
+  url: https://app.alpaca.markets/login
+- type: x-signup
+  url: https://app.alpaca.markets/signup
+- type: x-support
+  url: https://support.alpaca.markets/hc/en-us/
+- type: x-twitter
+  url: https://twitter.com/AlpacaHQ
+- type: x-website
+  url: https://alpaca.markets
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

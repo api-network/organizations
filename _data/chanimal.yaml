@@ -1,0 +1,61 @@
+---
+name: Chanimal
+description: The Ultimate Resource for Hi-Tech Marketing. Certified Channel Manager,
+  Channel Marketing, Sales, How to build a reseller channel and Channel Consulting.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1609169"
+url: https://raw.githubusercontent.com/api-network/organizations/main/chanimal.yaml
+tags:
+- Guides
+apis: []
+x-common:
+- type: x-about
+  url: https://www.chanimal.com/about-us/
+- type: x-about
+  url: https://www.chanimal.com/about-us/management/
+- type: x-about
+  url: https://www.chanimal.com/about-us/alliances/
+- type: x-about
+  url: https://www.chanimal.com/about-us/whats-new/
+- type: x-about
+  url: https://www.chanimal.com/about-us/course-suggestions/
+- type: x-blog
+  url: https://www.chanimal.com/blog/
+- type: x-careers
+  url: http://chanimal.jobamatic.com/a/jobs/find-jobs
+- type: x-contact
+  url: https://www.chanimal.com/about-us/contact-info/
+- type: x-events
+  url: https://www.chanimal.com/about-us/seminars-events/
+- type: x-facebook
+  url: https://www.facebook.com/Chanimal-1658602981035753/
+- type: x-forum
+  url: https://www.chanimal.com/forum/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/ted-finch-419377/
+- type: x-press
+  url: https://www.chanimal.com/how-to-pitch-to-the-press/
+- type: x-pricing
+  url: https://www.chanimal.com/resources/pricing/
+- type: x-privacy
+  url: https://www.chanimal.com/privacy-policy/
+- type: x-self-service-registration
+  url: https://www.chanimal.com/register/
+- type: x-self-service-registration
+  url: https://www.chanimal.com/home/register/
+- type: x-website
+  url: https://www.chanimal.com
+- type: x-youtube
+  url: https://www.youtube.com/user/chanimalvideos
+- type: x-youtube
+  url: https://www.youtube.com/user/chanimalvideos/videos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

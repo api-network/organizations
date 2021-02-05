@@ -1,0 +1,55 @@
+---
+name: Projector PSA
+description: Professional Services Automation (PSA) software from Projector PSA helps
+  services firms track time and expenses, manage projects and schedule resources.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "55347"
+url: https://raw.githubusercontent.com/api-network/organizations/main/projector-psa.yaml
+tags:
+- Web Based
+apis: []
+x-common:
+- type: x-about
+  url: https://www.projectorpsa.com/about
+- type: x-about
+  url: https://www.projectorpsa.com/about/executive-team
+- type: x-blog
+  url: https://www.projectorpsa.com/blog
+- type: x-careers
+  url: https://www.projectorpsa.com/careers
+- type: x-contact
+  url: https://www.projectorpsa.com/about/contact-us
+- type: x-customers
+  url: https://www.projectorpsa.com/customers-overview
+- type: x-facebook
+  url: https://www.facebook.com/ProjectorPSA
+- type: x-linkedin
+  url: http://www.linkedin.com/company/projector-psa
+- type: x-partner
+  url: https://www.projectorpsa.com/partners-overview
+- type: x-partner
+  url: https://www.projectorpsa.com/partners-overview/intacct
+- type: x-press
+  url: https://www.projectorpsa.com/press-releases
+- type: x-pricing
+  url: https://www.projectorpsa.com/psa-software/pricing
+- type: x-privacy
+  url: https://www.projectorpsa.com/privacy-policy
+- type: x-privacy
+  url: https://www.projectorpsa.com/privacy-shield-statement
+- type: x-terms-of-service
+  url: https://www.projectorpsa.com/terms-of-use
+- type: x-twitter
+  url: https://www.twitter.com/ProjectorPSA
+- type: x-website
+  url: https://www.projectorpsa.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,26 @@
+---
+name: Blocktix
+description: Blocktix is an Ethereum based, counterfeit-resistant to distribute, advertise,
+  and transfer ownership of event tickets or passes.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26818-blocktix-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "384695"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blocktix.yaml
+tags:
+- Marketplaces
+- Blockchain
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/blocktix
+- type: x-website
+  url: https://blocktix.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

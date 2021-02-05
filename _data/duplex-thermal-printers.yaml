@@ -1,0 +1,28 @@
+---
+name: Duplex Thermal Printers
+description: "Our Duplex Thermal Printer technology uses two thermal print heads,
+  allowing you to print on both sides simultaneously\_at speeds of up to 6 inches
+  per second."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/duplex-thermal-printers.yaml
+tags:
+- Thermal
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.duplexthermalprinters.com/blog/
+- type: x-contact
+  url: https://www.duplexthermalprinters.com/contact/
+- type: x-website
+  url: https://www.duplexthermalprinters.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

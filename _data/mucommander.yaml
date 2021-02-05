@@ -1,0 +1,32 @@
+---
+name: muCommander
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2343315"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mucommander.yaml
+tags:
+- File Managers
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/mucommander/mucommander/wiki
+- type: x-github
+  url: https://github.com/mucommander/mucommander/wiki/FAQ
+- type: x-github
+  url: https://github.com/mucommander/mucommander/issues
+- type: x-github
+  url: https://github.com/mucommander/mucommander/wiki/Donate
+- type: x-github
+  url: https://github.com/mucommander/mucommander/releases
+- type: x-website
+  url: https://www.mucommander.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

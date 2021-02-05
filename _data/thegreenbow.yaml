@@ -1,0 +1,41 @@
+---
+name: TheGreenBow
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2601921"
+url: https://raw.githubusercontent.com/api-network/organizations/main/thegreenbow.yaml
+tags:
+- Products And Tools
+- Personal Firewalls
+apis: []
+x-common:
+- type: x-website
+  url: http://www.thegreenbow.com
+- type: x-linkedin
+  url: https://fr.linkedin.com/company/thegreenbow
+- type: x-news
+  url: https://www.thegreenbow.com/news.html
+- type: x-partner
+  url: https://www.thegreenbow.com/partners.php
+- type: x-press
+  url: https://www.thegreenbow.com/presskit.html
+- type: x-support
+  url: https://www.thegreenbow.com/support.html
+- type: x-terms-of-service
+  url: https://www.thegreenbow.com/legal_notice.html
+- type: x-twitter
+  url: https://twitter.com/thegreenbow
+- type: x-website
+  url: https://www.thegreenbow.com
+- type: x-youtube
+  url: https://www.youtube.com/user/greenbowsoftware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

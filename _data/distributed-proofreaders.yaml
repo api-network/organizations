@@ -1,0 +1,28 @@
+---
+name: Distributed Proofreaders
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1789177"
+url: https://raw.githubusercontent.com/api-network/organizations/main/distributed-proofreaders.yaml
+tags:
+- Projects
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.pgdp.net
+- type: x-blog
+  url: https://blog.pgdp.net
+- type: x-code
+  url: https://www.pgdp.net/wiki/Site_conversion_to_Unicode
+- type: x-website
+  url: https://www.pgdp.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

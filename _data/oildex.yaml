@@ -1,0 +1,65 @@
+---
+name: Oildex
+description: Oildex provides cloud-based financial automation and oil and gas accounting
+  software solutions, and owner relations solutions for the oil and gas industry.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "584913"
+url: https://raw.githubusercontent.com/api-network/organizations/main/oildex.yaml
+tags:
+- Applications
+apis: []
+x-common:
+- type: x-about
+  url: https://www.oildex.com/about/
+- type: x-about
+  url: https://www.oildex.com/about/#content
+- type: x-about
+  url: https://www.oildex.com/about/#ecosystem
+- type: x-about
+  url: https://www.oildex.com/about/#leadership
+- type: x-about
+  url: https://www.oildex.com/about/#partners
+- type: x-blog
+  url: https://www.oildex.com/blog/
+- type: x-blog
+  url: https://www.oildex.com/blog
+- type: x-careers
+  url: https://www.oildex.com/about/#about-careers
+- type: x-contact
+  url: https://www.oildex.com/contact/
+- type: x-events
+  url: https://www.oildex.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/Oildex
+- type: x-linkedin
+  url: https://www.linkedin.com/company/oildex
+- type: x-login
+  url: https://www.oildex.com/account-login/
+- type: x-login
+  url: https://www.oildex.com/owner-relations-login/
+- type: x-open-source
+  url: https://www.oildex.com/products/openticket/
+- type: x-press
+  url: https://www.oildex.com/press-releases/
+- type: x-press
+  url: https://www.oildex.com/press-releases
+- type: x-privacy
+  url: https://www.oildex.com/privacy/
+- type: x-status
+  url: https://status.oildex.com/
+- type: x-support
+  url: https://www.oildex.com/support/
+- type: x-twitter
+  url: https://twitter.com/Oildex
+- type: x-website
+  url: https://www.oildex.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

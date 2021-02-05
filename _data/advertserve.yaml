@@ -1,0 +1,52 @@
+---
+name: AdvertServe
+description: AdvertServe is a cloud hosted ad management platform for publishers and
+  advertisers who require ad serving, targeting, tracking, and real-time reporting.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "32648"
+url: https://raw.githubusercontent.com/api-network/organizations/main/advertserve.yaml
+tags:
+- Tracking Ads
+- Text Ads
+- Target Ads
+- Remotely Hosted
+- Real-time Reporting
+- Publishers
+- Popups
+- Popunders
+- Optimize Inventory
+- Geographic Targeting
+- Full Page Overlays
+- Frequency Capping
+- Floating Ads
+- Corner Peels
+- Contextual Targeting
+- Companion Banners
+- Campaigns
+- Ajax Serving
+- Advertserve
+- Advertisers
+- Ad Serving
+- Ad Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.advertserve.com/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/advertserve
+- type: x-status
+  url: https://status.advertserve.com/
+- type: x-twitter
+  url: http://www.twitter.com/renegadebuzz
+- type: x-website
+  url: https://www.advertserve.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

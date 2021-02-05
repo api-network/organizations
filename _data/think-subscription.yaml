@@ -1,0 +1,36 @@
+---
+name: THINK Subscription
+description: "MPS is a leading Order Management and Delivery Platform. It\u2019s an
+  End-to-end cloud-based integrated platform suite to enhance your overall content
+  management process flow & subscriptions."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/think-subscription.yaml
+tags:
+- E-commerce
+apis: []
+x-common:
+- type: x-website
+  url: http://www.mpslimited.com
+- type: x-careers
+  url: http://careers.mpslimited.com/
+- type: x-events
+  url: https://www.mpslimited.com/events/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/mps-limited/
+- type: x-press
+  url: https://www.mpslimited.com/press-releases/
+- type: x-twitter
+  url: https://twitter.com/mpsltd
+- type: x-website
+  url: https://www.thinksubscription.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

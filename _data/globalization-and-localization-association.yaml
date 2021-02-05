@@ -1,0 +1,46 @@
+---
+name: Globalization and Localization Association
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "384241"
+url: https://raw.githubusercontent.com/api-network/organizations/main/globalization-and-localization-association.yaml
+tags:
+- Localization
+apis: []
+x-common:
+- type: x-website
+  url: http://www.gala-global.org
+- type: x-about
+  url: https://www.gala-global.org/membership/about-gala
+- type: x-code
+  url: http://www.denvercodemonkey.com/omnivorous.php?blog=8
+- type: x-contact
+  url: https://www.gala-global.org/contact-us
+- type: x-events
+  url: https://www.gala-global.org/local-networking-events
+- type: x-events
+  url: https://www.gala-global.org/events/gala-film-fest
+- type: x-facebook
+  url: https://www.facebook.com/#!/GALAGlobal
+- type: x-news
+  url: https://www.gala-global.org/industry/industry-news
+- type: x-partner
+  url: https://www.gala-global.org/partner-program
+- type: x-twitter
+  url: https://twitter.com/gala_global
+- type: x-webinars
+  url: https://www.gala-global.org/webinars
+- type: x-website
+  url: https://www.gala-global.org
+- type: x-youtube
+  url: https://www.youtube.com/user/GALAGlobal
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

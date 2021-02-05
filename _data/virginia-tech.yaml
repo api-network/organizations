@@ -1,0 +1,48 @@
+---
+name: Virginia Tech
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7162"
+url: https://raw.githubusercontent.com/api-network/organizations/main/virginia-tech.yaml
+tags:
+- Virginia
+apis: []
+x-common:
+- type: x-careers
+  url: https://jobs.vt.edu/
+- type: x-contact
+  url: https://vt.edu/contacts.html
+- type: x-facebook
+  url: https://www.facebook.com/VT.ComputerScience/
+- type: x-facebook
+  url: https://facebook.com/virginiatech
+- type: x-instagram
+  url: https://instagram.com/virginia.tech
+- type: x-instagram
+  url: https://instagram.com/vt_cs?lang=en
+- type: x-linkedin
+  url: http://www.linkedin.com/edu/school?id=19611&trk
+- type: x-privacy
+  url: https://vt.edu/privacy.html
+- type: x-status
+  url: https://vt.edu/status.html
+- type: x-twitter
+  url: https://twitter.com/vt_cs?lang=en
+- type: x-twitter
+  url: https://twitter.com/virginia_tech
+- type: x-website
+  url: https://www.cs.vt.edu
+- type: x-youtube
+  url: https://www.youtube.com/user/VirginiaTech
+- type: x-youtube
+  url: https://www.youtube.com/embed/906ydfOX0TM
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

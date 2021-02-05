@@ -1,0 +1,43 @@
+---
+name: Alice.org
+description: Alice is used to teach students how to code.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "219698"
+url: https://raw.githubusercontent.com/api-network/organizations/main/alice-org.yaml
+tags:
+- Coding
+- Alice Download
+- Alice 3
+- Alice 2
+- ALICE
+- 3D
+apis: []
+x-common:
+- type: x-about
+  url: https://www.alice.org/about/
+- type: x-about
+  url: https://www.alice.org/about/our-history/
+- type: x-about
+  url: https://www.alice.org/about/the-team/
+- type: x-about
+  url: https://www.alice.org/about/donors-partners/
+- type: x-contact
+  url: https://www.alice.org/contact/
+- type: x-news
+  url: https://www.alice.org/news/
+- type: x-support
+  url: https://www.alice.org/support/
+- type: x-twitter
+  url: https://twitter.com/aliceprojectcmu
+- type: x-website
+  url: https://www.alice.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,43 @@
+---
+name: Focus on Java
+description: Don't let Java throw you for a loop. Find easy-to-follow tutorials and
+  helpful tips to help you master the structure and syntax of the programming language.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6966"
+url: https://raw.githubusercontent.com/api-network/organizations/main/focus-on-java.yaml
+tags:
+- Resources
+apis: []
+x-common:
+- type: x-about
+  url: https://www.thoughtco.com/about-us
+- type: x-about
+  url: https://www.thoughtco.com/about-us#EditorialGuidelines
+- type: x-about
+  url: https://www.thoughtco.com/about-us#ContactUs
+- type: x-careers
+  url: https://www.dotdash.com/careers/
+- type: x-code
+  url: https://www.thoughtco.com/what-is-unicode-2034272
+- type: x-facebook
+  url: http://www.facebook.com/thoughtcodotcom
+- type: x-press
+  url: https://www.thoughtco.com/expression-2034097
+- type: x-terms-of-service
+  url: https://www.thoughtco.com/legal#privacy
+- type: x-terms-of-service
+  url: https://www.thoughtco.com/legal#cookies-disclosure
+- type: x-terms-of-service
+  url: https://www.thoughtco.com/legal#terms
+- type: x-website
+  url: https://java.about.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

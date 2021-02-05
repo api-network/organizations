@@ -1,0 +1,71 @@
+---
+name: Top-Windows-Tutorials.com
+description: Free Windows Tutorials for Everybody
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2670918"
+url: https://raw.githubusercontent.com/api-network/organizations/main/topwindowstutorials-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.top-windows-tutorials.com
+- type: x-tutorials
+  url: https://www.top-windows-tutorials.com/
+- type: x-tutorials
+  url: https://www.top-windows-tutorials.com/browse-site-2/
+- type: x-tutorials
+  url: https://www.top-windows-tutorials.com/browse-site/
+- type: x-tutorials
+  url: https://www.top-windows-tutorials.com/forums/
+- type: x-tutorials
+  url: https://www.top-windows-tutorials.com/troubleshooting/
+- type: x-tutorials
+  url: https://www.top-windows-tutorials.com/privacy-policy/
+- type: x-tutorials
+  url: https://www.top-windows-tutorials.com/page/2/
+- type: x-tutorials
+  url: https://www.facebook.com/top.windows.tutorials
+- type: x-tutorials
+  url: https://www.top-windows-tutorials.com/office-2010/
+- type: x-tutorials
+  url: https://www.top-windows-tutorials.com/offline-archive
+- type: x-tutorials
+  url: https://www.top-windows-tutorials.com/computer-basics/
+- type: x-tutorials
+  url: https://www.top-windows-tutorials.com/windows-7/
+- type: x-tutorials
+  url: https://www.top-windows-tutorials.com/windows-8-2/
+- type: x-tutorials
+  url: https://www.top-windows-tutorials.com/windows-backup/
+- type: x-tutorials
+  url: https://www.top-windows-tutorials.com/backup-tutorial/
+- type: x-tutorials
+  url: https://www.top-windows-tutorials.com/PC-Privacy/
+- type: x-tutorials
+  url: https://www.top-windows-tutorials.com/tape-to-mp3/
+- type: x-tutorials
+  url: https://www.top-windows-tutorials.com/windows-skins/
+- type: x-tutorials
+  url: https://www.top-windows-tutorials.com/internet-safety/
+- type: x-tutorials
+  url: https://www.top-windows-tutorials.com/computerviruses/
+- type: x-tutorials
+  url: https://www.top-windows-tutorials.com/windows-spyware/
+- type: x-tutorials
+  url: https://www.top-windows-tutorials.com/cloud/
+- type: x-tutorials
+  url: https://www.top-windows-tutorials.com/power-surfing/
+- type: x-twitter
+  url: https://twitter.com/topwindowstuts
+- type: x-website
+  url: https://www.top-windows-tutorials.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

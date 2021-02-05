@@ -1,0 +1,70 @@
+---
+name: Advanced Simulation and Computing (ASC) at Livermore
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "131270"
+url: https://raw.githubusercontent.com/api-network/organizations/main/advanced-simulation-and-computing-asc-at-livermore.yaml
+tags:
+- Research Institutes
+apis: []
+x-common:
+- type: x-website
+  url: https://www.llnl.gov/
+- type: x-about
+  url: https://www.llnl.gov/about/whatwedo.html
+- type: x-about
+  url: https://www.llnl.gov/about/howwedoit.html
+- type: x-about
+  url: https://www.llnl.gov/about/ourvalues.html
+- type: x-about
+  url: https://www.llnl.gov/about/organization.html
+- type: x-about
+  url: https://www.llnl.gov/about/publications.html
+- type: x-about
+  url: https://www.llnl.gov/about/history.html
+- type: x-about
+  url: https://www.llnl.gov/about/directions.html
+- type: x-careers
+  url: https://careers.llnl.gov/
+- type: x-facebook
+  url: http://www.facebook.com/livermore.lab
+- type: x-linkedin
+  url: http://www.linkedin.com/company/4994?trk=tyah
+- type: x-news
+  url: https://www.llnl.gov/news/
+- type: x-security
+  url: https://www.llnl.gov/missions/biosecurity
+- type: x-twitter
+  url: http://twitter.com/Livermore_Lab
+- type: x-website
+  url: https://asc.llnl.gov
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=OoajYVQuIhA
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=f4Q43JUX4pw
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=jX9tzKhvTgs
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=ppU6Ni8jnsw
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=Tex4i6-yx3I
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=TFTR2w96lPg
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=ePWyiDf_XTg
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=z9eZs2GBn9c
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=KsgC3o6z45g
+- type: x-youtube
+  url: http://www.youtube.com/LivermoreLab
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

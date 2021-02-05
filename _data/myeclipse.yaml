@@ -1,0 +1,64 @@
+---
+name: MyEclipse
+description: MyEclipse is the best Java IDE for the enterprise with the latest tools
+  and technologies. A free 30 day trial lets you explore this powerful, full-featured
+  IDE for development with Java EE, Spring, Maven, WebSphere, and more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/myeclipse.yaml
+tags:
+- Development Tools
+apis: []
+x-common:
+- type: x-website
+  url: https://www.genuitec.com
+- type: x-blog
+  url: https://www.genuitec.com/community/blog/
+- type: x-careers
+  url: https://www.genuitec.com/company/careers/
+- type: x-code
+  url: https://www.genuitec.com/tech/html5-with-codemix
+- type: x-code
+  url: https://www.genuitec.com/tech/boost-spring-ide-codemix
+- type: x-code
+  url: https://www.genuitec.com/products/codemix/
+- type: x-contact
+  url: https://www.genuitec.com/company/contact/
+- type: x-documentation
+  url: https://www.genuitec.com/docs/
+- type: x-documentation
+  url: https://www.genuitec.com/docs/servers/tomcat-server
+- type: x-facebook
+  url: https://www.facebook.com/Genuitec?ref=br_rs
+- type: x-forum
+  url: https://www.genuitec.com/forums/topics/myeclipse/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/91479/admin/updates
+- type: x-press
+  url: https://www.genuitec.com/community/press/
+- type: x-privacy
+  url: https://www.genuitec.com/products/privacy/
+- type: x-support
+  url: https://www.genuitec.com/support/help/
+- type: x-support
+  url: https://www.genuitec.com/support/
+- type: x-support
+  url: https://www.genuitec.com/support/advanced/
+- type: x-twitter
+  url: https://twitter.com/Genuitec
+- type: x-twitter
+  url: http://twitter.com/PacktPub
+- type: x-twitter
+  url: http://twitter.com/Genuitec
+- type: x-website
+  url: https://www.myeclipseide.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

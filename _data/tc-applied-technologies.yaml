@@ -1,0 +1,24 @@
+---
+name: TC Applied Technologies
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tc-applied-technologies.yaml
+tags:
+- TC
+- ASICs And Chips
+- Applied Technologies
+apis: []
+x-common:
+- type: x-website
+  url: https://www.tctechnologies.tc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

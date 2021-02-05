@@ -1,0 +1,70 @@
+---
+name: Thomson Reuters
+description: The intelligence, technology and human expertise you need to find trusted
+  answers. Thomson Reuters is The Answer Company.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/20120-blog-financial-thomsonreuters-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3977"
+url: https://raw.githubusercontent.com/api-network/organizations/main/thomson-reuters.yaml
+tags:
+- Market Data
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://tr.com
+- type: x-blog
+  url: http://blog.financial.thomsonreuters.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/thomson-reuters
+- type: x-email
+  url: D.Cutler@thomsonreuters.com
+- type: x-email
+  url: Privacy.enquiries@thomsonreuters.com
+- type: x-email
+  url: christina.feeny@thomsonreuters.com
+- type: x-email
+  url: david.crundwell@thomsonreuters.com
+- type: x-email
+  url: david.girardin@thomsonreuters.com
+- type: x-email
+  url: eddie.dunthorne@thomsonreuters.com
+- type: x-email
+  url: kate.reid@thomsonreuters.com
+- type: x-email
+  url: Privacy.enquiries@thomsonreuters.com
+- type: x-email
+  url: david.crundwell@thomsonreuters.com
+- type: x-email
+  url: david.girardin@thomsonreuters.com
+- type: x-email
+  url: ilya.hemlin@thomsonreuters.com
+- type: x-email
+  url: janet.jin@thomsonreuters.com
+- type: x-email
+  url: kate.reid@thomsonreuters.com
+- type: x-github
+  url: https://github.com/thomsonreuters
+- type: x-linkedin
+  url: https://www.linkedin.com/showcase/5073174/
+- type: x-terms-of-service
+  url: https://financial.thomsonreuters.com/en/terms-of-use.html
+- type: x-twitter
+  url: https://twitter.com/thomsonreuters
+- type: x-twitter
+  url: https://twitter.com/thomsonreuters
+- type: x-twitter
+  url: https://twitter.com/thomsonreuters
+- type: x-developers
+  url: https://developers.thomsonreuters.com
+- type: x-website
+  url: http://thomsonreuters.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

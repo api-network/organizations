@@ -1,0 +1,44 @@
+---
+name: DataMade
+description: <p>DataMade is a civic technology company. We build open source technology
+  using open data to empower journalists, researchers, governments and advocacy organizations.
+  DataMade was born out of Chicago's Open Government community. In 2011, Derek and
+  Forest started working on civic technology as volunteers of Open City. At nights
+  and over weekends, they've helped make civic apps like Chicago Lobbyists, Clear
+  Streets, and Second City Zoning.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/DataMade.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1667780"
+url: https://raw.githubusercontent.com/api-network/organizations/main/datamade.yaml
+tags:
+- Have API
+- Data Provider
+- City Government
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://datamade.us
+- type: x-blog
+  url: http://datamade.us/blog/index.html
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/datamade
+- type: x-github
+  url: https://github.com/datamade
+- type: x-twitter
+  url: https://twitter.com/derekeder
+- type: x-twitter
+  url: https://twitter.com/forestgregg
+- type: x-twitter
+  url: https://twitter.com/DataMadeCo
+- type: x-website
+  url: http://datamade.us/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

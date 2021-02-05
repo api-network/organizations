@@ -1,0 +1,66 @@
+---
+name: IPFS is the Distributed Web
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "55933"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ipfs-is-the-distributed-web.yaml
+tags:
+- Protocols
+- Postman Doc Search
+- New
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.ipfs.io/weekly-71/
+- type: x-blog
+  url: https://blog.ipfs.io/weekly-70/
+- type: x-blog
+  url: https://blog.ipfs.io/2019-12-02-js-ipfs-0-40/
+- type: x-blog
+  url: https://blog.ipfs.io/weekly-69/
+- type: x-documentation
+  url: https://docs.ipfs.io/guides/concepts/pinning/
+- type: x-documentation
+  url: https://docs.ipfs.io/
+- type: x-documentation
+  url: https://docs.ipfs.io/guides/guides/install/
+- type: x-documentation
+  url: https://docs.ipfs.io/introduction/overview/
+- type: x-documentation
+  url: http://docs.ipfs.io/guides/guides/install/
+- type: x-documentation
+  url: https://docs.ipfs.io
+- type: x-github
+  url: https://github.com/ipfs-shipyard/ipfs-desktop
+- type: x-github
+  url: https://github.com/ipfs-shipyard/ipfs-companion
+- type: x-github
+  url: https://github.com/ipfs/go-ipfs
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/4295780/RWEcQM6W#intro
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/4295780/RWEcQM6W#intro\\\&quot
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/4295780/RWEcQM6W#intro\&quot
+- type: x-terms-of-service
+  url: https://protocol.ai/legal/
+- type: x-tutorials
+  url: https://proto.school/#/tutorials
+- type: x-twitter
+  url: https://twitter.com/ipfsbot
+- type: x-website
+  url: https://ipfs.io
+- type: x-website
+  url: http://discuss.ipfs.io
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=zE_WSLbqqvo
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,57 @@
+---
+name: Native Ads
+description: "<p>Native advertising is a \u200B\u200Bform of online advertising that
+  matches the form and function of the platform or website on which it appears creating
+  a less intrusive experience for end users\u200B. The internet Advertising Bureau
+  (IAB) Projected Spend for 2015 - $10.7 billion. Native Ads, Inc. is a content discovery
+  and in-stream native advertising platform that facilitates the native ad buying
+  and selling process for publishers and advertisers at scale across websites, mobile
+  web and apps.&nbsp; The company has developed a scalable, easy to use, self-serve
+  system for publishers and advertisers with a simple user interface.&nbsp; Within
+  minutes, campaigns and widgets are generated to start spending or earning. The recommendation
+  engine analyzes visitor behavior, page content and thousands of data points building
+  up millions of in-depth user profiles.&nbsp; By using the power of big data, these
+  profiles are used to recommend internal or promoted content based on relevance,
+  yield and popularity.</p>"
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/native-ads-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "130309"
+url: https://raw.githubusercontent.com/api-network/organizations/main/native-ads.yaml
+tags:
+- Have Swagger
+- Have OpenAPI
+- Have API Paths
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.nativeads.com
+- type: x-blog
+  url: http://nativeads.com/blog/
+- type: x-blog
+  url: http://blog.nativeads.com/
+- type: x-documentation
+  url: https://api.nativeads.com/docs/advertiser/
+- type: x-documentation
+  url: https://api.nativeads.com/docs/publisher/
+- type: x-facebook
+  url: https://www.facebook.com/nativeadexchange
+- type: x-linkedin
+  url: http://www.linkedin.com/company/3797892
+- type: x-support
+  url: http://support.nativeads.com
+- type: x-twitter
+  url: https://twitter.com/native_ads?lang=en
+- type: x-twitter
+  url: https://twitter.com/Native_Ads
+- type: x-website
+  url: http://nativeads.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

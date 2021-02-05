@@ -1,0 +1,45 @@
+---
+name: Android Pocket Reviews
+description: Everything you need to know about the latest Android games, reviews,
+  tips and strategies is right at your pocket!.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7016286"
+url: https://raw.githubusercontent.com/api-network/organizations/main/android-pocket-reviews.yaml
+tags:
+- Reviews
+- News And Media
+- Games
+- Free Android Apps
+- Android Reviews
+- Android Games
+- Android Game Reviews
+- Android Apps Download
+- Android Apps
+apis: []
+x-common:
+- type: x-website
+  url: http://www.androidpocketreviews.com
+- type: x-about
+  url: https://www.androidpocketreviews.com/about-the-author
+- type: x-contact
+  url: https://www.androidpocketreviews.com/contact-us
+- type: x-facebook
+  url: https://www.facebook.com/AndroidPocketReviews
+- type: x-news
+  url: https://www.androidpocketreviews.com/category/news
+- type: x-privacy
+  url: https://www.androidpocketreviews.com/privacy-policy
+- type: x-twitter
+  url: https://twitter.com/andpockrev
+- type: x-website
+  url: https://www.androidpocketreviews.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

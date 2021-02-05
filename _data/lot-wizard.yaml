@@ -1,0 +1,33 @@
+---
+name: Lot Wizard
+description: Cloud-based DMS, Websites and Advertsing Feeds at an affordable price.The
+  best all-around solution to managing an independent used car dealership.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3671640"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lot-wizard.yaml
+tags:
+- Automotive Management
+apis: []
+x-common:
+- type: x-about
+  url: https://lotwizard.com/about/
+- type: x-contact
+  url: https://lotwizard.com/contact/
+- type: x-feed
+  url: https://lotwizard.com/feeds-to-advertisers/
+- type: x-pricing
+  url: https://lotwizard.com/pricing/
+- type: x-tutorials
+  url: https://lotwizard.com/help-tutorials/
+- type: x-website
+  url: https://www.lotwizard.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

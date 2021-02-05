@@ -1,0 +1,35 @@
+---
+name: Murphy Mac
+description: Macs, OS X, iOS
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/murphy-mac.yaml
+tags: []
+apis: []
+x-common:
+- type: x-blog
+  url: http://clockworkblogger.com/theme-clockworksimple/
+- type: x-blog
+  url: http://clockworkblogger.com
+- type: x-feed
+  url: https://murphymac.com/feed/
+- type: x-forum
+  url: http://forums.dropbox.com/topic.php?id=20578
+- type: x-login
+  url: https://murphymac.com/wp-login.php
+- type: x-press
+  url: http://wordpress.org
+- type: x-security
+  url: https://murphymac.com/category/applications/security/
+- type: x-website
+  url: https://murphymac.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

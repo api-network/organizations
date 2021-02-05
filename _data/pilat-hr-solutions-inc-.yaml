@@ -1,0 +1,43 @@
+---
+name: Pilat HR Solutions, Inc.
+description: Simple, intuitive and easy to use Performance and Talent Management,
+  Onboarding, Job Evaluation and 360 Feedback solutions
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5563761"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pilat-hr-solutions-inc-.yaml
+tags:
+- Testing And Evaluation
+apis: []
+x-common:
+- type: x-website
+  url: http://www.pilat.com
+- type: x-about
+  url: https://www.pilat.com/about-us/
+- type: x-blog
+  url: https://www.pilat.com/blog/
+- type: x-contact
+  url: https://www.pilat.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/PilatHR/
+- type: x-feed
+  url: https://www.pilat.com/solutions/360-degree-feedback/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/pilat-hr-solutions/
+- type: x-privacy
+  url: https://www.pilat.com/privacy-and-cookie-policy/
+- type: x-terms-of-service
+  url: https://www.pilat.com/terms-and-conditions/
+- type: x-twitter
+  url: https://twitter.com/pilathr
+- type: x-website
+  url: https://www.pilat.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

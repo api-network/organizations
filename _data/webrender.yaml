@@ -1,0 +1,50 @@
+---
+name: WebRender
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/webrender.yaml
+tags:
+- Webrenderer
+- Web Renderer
+- User Interface Classes
+- Java Web Browser
+- Java Embedded Browser
+- Java Component
+- Java Browser
+- Icesoft
+- Icebrowser
+- Ice Soft
+- Ice Browser
+apis: []
+x-common:
+- type: x-blog
+  url: http://www.webrenderer.com/blogs
+- type: x-blog
+  url: http://www.webrenderer.com/blogs/?p=225
+- type: x-blog
+  url: http://www.webrenderer.com/blogs/?p=213
+- type: x-blog
+  url: http://www.webrenderer.com/blogs/?p=179
+- type: x-blog
+  url: http://www.webrenderer.com/blogs/?p=122
+- type: x-blog
+  url: http://www.webrenderer.com/blogs/?p=194
+- type: x-blog
+  url: http://www.webrenderer.com/blogs/?p=96
+- type: x-blog
+  url: http://www.webrenderer.com/blogs/?p=81
+- type: x-blog
+  url: http://www.webrenderer.com/blogs/?p=40
+- type: x-website
+  url: https://www.webrenderer.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

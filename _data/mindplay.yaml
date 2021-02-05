@@ -1,0 +1,35 @@
+---
+name: Mindplay
+description: "MindPlay is an online educational software designed to assist students
+  \_of all ages with their reading needs.\_"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "285353"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mindplay.yaml
+tags:
+- English
+apis: []
+x-common:
+- type: x-about
+  url: https://mindplay.com/about-us/
+- type: x-contact
+  url: https://mindplay.com/contact-us/
+- type: x-news
+  url: https://mindplay.com/news-and-events/
+- type: x-support
+  url: https://support.mindplay.com/
+- type: x-support
+  url: https://support.mindplay.com
+- type: x-website
+  url: https://www.mindplay.com
+- type: x-youtube
+  url: https://www.youtube.com/embed/X5QjKLUKsNU?rel=0
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

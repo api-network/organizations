@@ -1,0 +1,39 @@
+---
+name: Talkray
+description: "From the makers of TiKL \u2013 the Touch To Talk app enjoyed by 25 million
+  users \u2013 comes Talkray, a whole new mobile communication experience!  Available
+  for the iPhone/iPod/iPad.    * Call one or a group of friends at once, in HD quality.
+  \ * One-button sen..."
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/talkray-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2819944"
+url: https://raw.githubusercontent.com/api-network/organizations/main/talkray.yaml
+tags:
+- Telecommunications
+- Telecommunications
+- Have API
+- Calls
+- ActionScript
+apis: []
+x-common:
+- type: x-website
+  url: http://www.talkray.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/tikl
+- type: x-email
+  url: jobs@talkray.com
+- type: x-email
+  url: help@talkray.com
+- type: x-twitter
+  url: https://twitter.com/Talkray
+- type: x-website
+  url: http://developer.talkray.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

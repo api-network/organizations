@@ -1,0 +1,29 @@
+---
+name: Free CGI
+description: Free CGI scripts, tools and resources for webmasters. Download free software.
+  Create a better website. Free tutorials.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8054138"
+url: https://raw.githubusercontent.com/api-network/organizations/main/free-cgi.yaml
+tags:
+- Scripts And Programs
+apis: []
+x-common:
+- type: x-website
+  url: http://www.free-cgi.com
+- type: x-twitter
+  url: https://twitter.com/freecgi
+- type: x-website
+  url: https://www.free-cgi.com
+- type: x-youtube
+  url: http://www.youtube.com/freecgi
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

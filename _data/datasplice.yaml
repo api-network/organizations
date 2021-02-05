@@ -1,0 +1,41 @@
+---
+name: DataSplice
+description: "Prometheus Group's Mobile for Maximo \u2013 formerly known as DataSplice
+  \u2013 is the premier application to expand and simplify the functionality of Maximo."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4860516"
+url: https://raw.githubusercontent.com/api-network/organizations/main/datasplice.yaml
+tags:
+- Asset Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.prometheusgroup.com
+- type: x-about
+  url: https://www.prometheusgroup.com/company/about
+- type: x-careers
+  url: https://careers.smartrecruiters.com/PrometheusGroup
+- type: x-events
+  url: https://www.prometheusgroup.com/eam-resources/events
+- type: x-facebook
+  url: https://www.facebook.com/PrometheusGroup/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/prometheusgroup/
+- type: x-platform
+  url: https://www.prometheusgroup.com/prometheus-platform
+- type: x-privacy
+  url: https://www.prometheusgroup.com/company/privacy-policy
+- type: x-twitter
+  url: https://twitter.com/PrometheusGroup
+- type: x-website
+  url: https://www.datasplice.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

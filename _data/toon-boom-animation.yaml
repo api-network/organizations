@@ -1,0 +1,65 @@
+---
+name: Toon Boom Animation
+description: Toon Boom Animation is the leading supplier of animation software and
+  storyboard software for animation studios and media publishers
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "57099"
+url: https://raw.githubusercontent.com/api-network/organizations/main/toon-boom-animation.yaml
+tags:
+- Animation
+apis: []
+x-common:
+- type: x-website
+  url: http://toonboom.com
+- type: x-about
+  url: https://www.toonboom.com/company/about-us
+- type: x-blog
+  url: http://blog.toonboom.com/
+- type: x-careers
+  url: https://www.toonboom.com/jobs
+- type: x-careers
+  url: https://www.toonboom.com/company/careers
+- type: x-contact
+  url: https://store.toonboom.com/contact
+- type: x-events
+  url: https://www.toonboom.com/events
+- type: x-forum
+  url: http://forums.toonboom.com/myposts/0
+- type: x-instagram
+  url: https://www.instagram.com/toonboomanimation
+- type: x-press
+  url: https://www.toonboom.com/press-releases
+- type: x-support
+  url: https://www.toonboom.com/support
+- type: x-support
+  url: https://www.toonboom.com/support/offerings
+- type: x-support
+  url: https://www.toonboom.com/support/consulting-services
+- type: x-terms-of-service
+  url: https://www.toonboom.com/legal/terms-and-conditions
+- type: x-terms-of-service
+  url: https://www.toonboom.com/legal/privacy-policy
+- type: x-terms-of-service
+  url: https://www.toonboom.com/legal/piracy
+- type: x-tutorials
+  url: https://www.toonboom.com/resources/video-tutorials
+- type: x-twitter
+  url: https://twitter.com/toonboom
+- type: x-webinars
+  url: https://www.toonboom.com/webinars
+- type: x-website
+  url: https://www.toonboom.com
+- type: x-white-papers
+  url: https://www.toonboom.com/resources/white-papers
+- type: x-youtube
+  url: https://www.youtube.com/user/ToonBoomAnimation
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

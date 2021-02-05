@@ -1,0 +1,38 @@
+---
+name: The Marine Computing Solution
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1202453"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-marine-computing-solution.yaml
+tags:
+- Rugged Hardware
+apis: []
+x-common:
+- type: x-website
+  url: http://www.nauticomp.com
+- type: x-blog
+  url: https://nauticomp.com/blog/
+- type: x-contact
+  url: https://nauticomp.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/Nauticomp
+- type: x-feed
+  url: https://nauticomp.com/feed/
+- type: x-support
+  url: https://nauticomp.com/general-support/
+- type: x-terms-of-service
+  url: http://www.nauticomp.com/website-terms-and-conditions
+- type: x-twitter
+  url: http://www.twitter.com/Nauticomp
+- type: x-website
+  url: https://www.nauticomp.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

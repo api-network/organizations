@@ -1,0 +1,55 @@
+---
+name: Bookman Pro
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8973052"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bookman-pro.yaml
+tags:
+- Word Processors
+- Shareware
+apis: []
+x-common:
+- type: x-website
+  url: http://www.i7technologies.co.uk
+- type: x-about
+  url: https://i7technologies.co.uk/about/
+- type: x-about
+  url: http://i7technologies.co.uk/about/
+- type: x-blog
+  url: http://i7technologies.co.uk/video-blog/
+- type: x-blog
+  url: http://i7technologies.co.uk/technical-blog/
+- type: x-blog
+  url: http://i7technologies.co.uk/business-blog/
+- type: x-contact
+  url: http://i7technologies.co.uk/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/i7technologies/
+- type: x-partner
+  url: http://i7technologies.co.uk/partners-accreditations/
+- type: x-privacy
+  url: https://i7technologies.co.uk/privacy-policy/
+- type: x-security
+  url: http://i7technologies.co.uk/data-security/
+- type: x-security
+  url: http://i7technologies.co.uk/cyber-security/
+- type: x-support
+  url: http://i7technologies.co.uk/remote-support/
+- type: x-support
+  url: http://i7technologies.co.uk/it-support/
+- type: x-terms-of-service
+  url: https://i7technologies.co.uk/terms-and-conditions/
+- type: x-twitter
+  url: https://twitter.com/i7tech
+- type: x-website
+  url: https://www.i7technologies.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

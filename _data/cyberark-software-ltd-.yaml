@@ -1,0 +1,65 @@
+---
+name: Cyber-Ark Software Ltd.
+description: CyberArk is the only security software company focused on eliminating
+  cyber threats using insider privileges to attack the heart of the enterprise.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "146575"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cyberark-software-ltd-.yaml
+tags:
+- Password Tools
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cyberark.com
+- type: x-careers
+  url: https://careers.cyberark.com/
+- type: x-careers
+  url: https://www.cyberark.com/careers/
+- type: x-contact
+  url: https://www.cyberark.com/contact/
+- type: x-customers
+  url: https://cyberark-customers.force.com/mplace/s/
+- type: x-customers
+  url: https://cyberark-customers.force.com/partner/s/login/
+- type: x-documentation
+  url: https://docs.cyberark.com
+- type: x-facebook
+  url: https://www.facebook.com/CyberArk
+- type: x-investor
+  url: https://investors.cyberark.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/cyber-ark-software
+- type: x-news
+  url: https://www.cyberark.com/newsroom/
+- type: x-partner
+  url: https://www.cyberark.com/partners/
+- type: x-partner
+  url: https://www.cyberark.com/partner-finder/
+- type: x-partner
+  url: https://www.cyberark.com/partners/alliance-partners/
+- type: x-press
+  url: https://www.cyberark.com/press/#blogs
+- type: x-security
+  url: https://www.cyberark.com/product-security/
+- type: x-support
+  url: https://www.cyberark.com/services-support/
+- type: x-support
+  url: https://www.cyberark.com/customer-support/
+- type: x-twitter
+  url: https://twitter.com/CyberArk
+- type: x-webinars
+  url: https://www.cyberark.com/webinars/
+- type: x-website
+  url: https://cyberark.com
+- type: x-youtube
+  url: https://www.youtube.com/user/cyberarksoftware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

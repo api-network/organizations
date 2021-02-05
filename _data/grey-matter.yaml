@@ -1,0 +1,66 @@
+---
+name: Grey Matter
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "831400"
+url: https://raw.githubusercontent.com/api-network/organizations/main/grey-matter.yaml
+tags:
+- Retailers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.greymatter.com
+- type: x-about
+  url: https://www.greymatter.com/corporate/about-us/call-me/
+- type: x-about
+  url: https://www.greymatter.com/corporate/about-us
+- type: x-careers
+  url: https://www.greymatter.com/corporate/about-us/careers
+- type: x-code
+  url: https://codematters.online/
+- type: x-events
+  url: https://www.greymatter.com/corporate/events/
+- type: x-events
+  url: https://www.greymatter.com/corporate/events
+- type: x-facebook
+  url: https://www.facebook.com/greymatterltd/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/grey-matter-ltd
+- type: x-news
+  url: https://www.greymatter.com/corporate/news/
+- type: x-news
+  url: https://www.greymatter.com/corporate/news
+- type: x-security
+  url: https://www.greymatter.com/corporate/security/
+- type: x-showcase
+  url: https://www.greymatter.com/corporate/showcase/adobe/
+- type: x-showcase
+  url: https://www.greymatter.com/corporate/showcase/aws/
+- type: x-showcase
+  url: https://www.greymatter.com/corporate/showcase/gfi/
+- type: x-showcase
+  url: https://www.greymatter.com/corporate/showcase/here/
+- type: x-showcase
+  url: https://www.greymatter.com/corporate/showcase/mindjet/
+- type: x-showcase
+  url: https://www.greymatter.com/corporate/showcase/netop
+- type: x-showcase
+  url: https://www.greymatter.com/corporate/showcase/sam/
+- type: x-showcase
+  url: https://www.greymatter.com/corporate/showcase/vmware/
+- type: x-showcase
+  url: https://www.greymatter.com/corporate/showcase/
+- type: x-twitter
+  url: https://twitter.com/GreyMatter_News
+- type: x-website
+  url: https://www.greymatter.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

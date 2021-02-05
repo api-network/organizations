@@ -1,0 +1,84 @@
+---
+name: University of Southern California
+description: "The University of Southern California is one of the world\u2019s leading
+  private research universities, established in 1880. An anchor institution in Los
+  Angeles, a global center for arts, technology and international trade, USC enrolls
+  more international s..."
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1740_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3400"
+url: https://raw.githubusercontent.com/api-network/organizations/main/university-of-southern-california.yaml
+tags:
+- University In Progress
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.usc.edu
+- type: x-website
+  url: http://usc.edu
+- type: x-about
+  url: https://about.usc.edu/
+- type: x-about
+  url: http://about.usc.edu/facts/
+- type: x-about
+  url: http://about.usc.edu/faculty/
+- type: x-about
+  url: http://about.usc.edu/history/
+- type: x-about
+  url: http://about.usc.edu/policies/
+- type: x-about
+  url: https://about.usc.edu/economic-impact/
+- type: x-about
+  url: http://about.usc.edu/
+- type: x-about
+  url: https://about.usc.edu/administration/
+- type: x-about
+  url: http://about.usc.edu/administration/
+- type: x-about
+  url: http://about.usc.edu/administration/academic-deans/
+- type: x-about
+  url: https://about.usc.edu/policies/mission-statement/
+- type: x-about
+  url: http://research.usc.edu/about/vp/
+- type: x-about
+  url: https://about.usc.edu/patient-care/
+- type: x-about
+  url: https://about.usc.edu/tommy-cam/
+- type: x-about
+  url: https://about.usc.edu/hecuba-cam/
+- type: x-careers
+  url: https://usccareers.usc.edu/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/university-of-southern-california
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/university-of-southern-california
+- type: x-developers
+  url: http://web-app.usc.edu/ws/webcams/api/help
+- type: x-documentation
+  url: http://postdocs.usc.edu/
+- type: x-facebook
+  url: https://www.facebook.com/usc/
+- type: x-instagram
+  url: http://instagram.com/uscedu
+- type: x-linkedin
+  url: https://www.linkedin.com/school/3084
+- type: x-news
+  url: https://news.usc.edu/
+- type: x-press
+  url: https://pressroom.usc.edu/
+- type: x-privacy
+  url: https://www.usc.edu/privacy-notice
+- type: x-twitter
+  url: https://twitter.com/USC
+- type: x-youtube
+  url: https://www.youtube.com/user/USC/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

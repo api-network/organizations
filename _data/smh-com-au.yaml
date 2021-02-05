@@ -1,0 +1,23 @@
+---
+name: smh.com.au
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/smh-com-au.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.smh.com.au/federal-politics/political-news/use-encryption-and-overseas-email-to-beat-data-retention-says-ludlam-20150324-1m6vff.html
+- type: x-website
+  url: http://smh.com.au
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

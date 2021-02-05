@@ -1,0 +1,35 @@
+---
+name: KoolMoves
+description: KoolMoves and KoolShow, Html5 animation software,  combine ease-of-use
+  with powerful effects for creating high quality Html5, AVI, MP4, and slide show
+  animations
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1811128"
+url: https://raw.githubusercontent.com/api-network/organizations/main/koolmoves.yaml
+tags:
+- Software
+- Animation
+apis: []
+x-common:
+- type: x-website
+  url: http://www.koolmoves.com
+- type: x-blog
+  url: https://www.koolmoves.com/blog/
+- type: x-contact
+  url: https://www.koolmoves.com/blog/contact/
+- type: x-forum
+  url: https://www.koolmoves.com/blog/forums/
+- type: x-twitter
+  url: https://twitter.com/koolsoftware
+- type: x-website
+  url: https://www.koolmoves.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

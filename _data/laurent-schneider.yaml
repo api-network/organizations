@@ -1,0 +1,114 @@
+---
+name: Laurent Schneider
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "952762"
+url: https://raw.githubusercontent.com/api-network/organizations/main/laurent-schneider.yaml
+tags:
+- Weblogs
+apis: []
+x-common:
+- type: x-documentation
+  url: https://www.openssl.org/docs/
+- type: x-documentation
+  url: https://docs.microsoft.com/en-us/sql/odbc/odbcconf-exe
+- type: x-open-source
+  url: http://www.openssh.com/legacy.html
+- type: x-press
+  url: https://laurentschneider.com/wordpress/author/admin
+- type: x-press
+  url: https://laurentschneider.com/wordpress/category/oid
+- type: x-press
+  url: https://laurentschneider.com/wordpress/tag/odbc
+- type: x-press
+  url: https://laurentschneider.com/wordpress/category/ldap
+- type: x-press
+  url: https://laurentschneider.com/wordpress/tag/ldapsearch
+- type: x-press
+  url: https://laurentschneider.com/wordpress/tag/unix
+- type: x-press
+  url: https://laurentschneider.com/wordpress/category/18c
+- type: x-press
+  url: https://laurentschneider.com/wordpress/category/linux
+- type: x-press
+  url: https://laurentschneider.com/wordpress/tag/apex
+- type: x-press
+  url: https://laurentschneider.com/wordpress/tag/cloud
+- type: x-press
+  url: https://laurentschneider.com/wordpress/tag/oracle
+- type: x-press
+  url: https://laurentschneider.com/wordpress/tag/19c
+- type: x-press
+  url: https://laurentschneider.com/wordpress/category/unix
+- type: x-press
+  url: https://laurentschneider.com/wordpress/tag/argv
+- type: x-press
+  url: https://laurentschneider.com/wordpress/tag/eval
+- type: x-press
+  url: https://laurentschneider.com/wordpress/tag/logical
+- type: x-press
+  url: https://laurentschneider.com/wordpress/tag/physical
+- type: x-press
+  url: https://laurentschneider.com/wordpress/category/12c
+- type: x-press
+  url: https://laurentschneider.com/wordpress/category/12cr2
+- type: x-press
+  url: https://laurentschneider.com/wordpress/category/19c
+- type: x-press
+  url: https://laurentschneider.com/wordpress/category/dba
+- type: x-press
+  url: https://laurentschneider.com/wordpress/tag/cdb
+- type: x-press
+  url: https://laurentschneider.com/wordpress/tag/date
+- type: x-press
+  url: https://laurentschneider.com/wordpress/category/oem
+- type: x-press
+  url: https://laurentschneider.com/wordpress/tag/dbca
+- type: x-press
+  url: https://laurentschneider.com/wordpress/tag/audit
+- type: x-press
+  url: https://laurentschneider.com/wordpress/tag/pluggable
+- type: x-press
+  url: https://laurentschneider.com/wordpress/tag/listagg
+- type: x-press
+  url: https://laurentschneider.com/wordpress/category/sybase
+- type: x-press
+  url: https://laurentschneider.com/wordpress/tag/ora-01720
+- type: x-press
+  url: https://laurentschneider.com/wordpress/tag/lob
+- type: x-press
+  url: https://laurentschneider.com/wordpress/tag/dsa
+- type: x-press
+  url: https://laurentschneider.com/wordpress/tag/pty
+- type: x-press
+  url: https://laurentschneider.com/wordpress/tag/ssh
+- type: x-press
+  url: https://laurentschneider.com/wordpress/tag/linesize
+- type: x-press
+  url: https://laurentschneider.com/wordpress/category/plsql
+- type: x-press
+  url: https://laurentschneider.com/wordpress/tag/dbms_output
+- type: x-press
+  url: https://laurentschneider.com/wordpress/tag/polymorphe
+- type: x-press
+  url: https://laurentschneider.com/wordpress/category/sql
+- type: x-press
+  url: https://laurentschneider.com/wordpress/tag/datapump
+- type: x-press
+  url: https://wordpress.org/
+- type: x-privacy
+  url: https://laurentschneider.com/privacy-policy
+- type: x-twitter
+  url: https://twitter.com/OracleLiveSQL?ref_src=twsrc%5Etfw
+- type: x-website
+  url: https://laurentschneider.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

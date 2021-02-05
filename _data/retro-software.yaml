@@ -1,0 +1,24 @@
+---
+name: Retro Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/retro-software.yaml
+tags:
+- Acorn
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.retrosoftware.co.uk
+- type: x-website
+  url: https://www.retrosoftware.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,47 @@
+---
+name: TADS - Private School Full-Service Admissions/Enrollment, Financial Aid and
+  Tuition Management
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "49390"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tads--private-school-fullservice-admissionsenrollment-financial-aid-and-tuition-management.yaml
+tags:
+- Telephony
+apis: []
+x-common:
+- type: x-website
+  url: http://www.tads.com
+- type: x-blog
+  url: https://www.tads.com/mobile-payments-blog/
+- type: x-blog
+  url: https://www.tads.com/engagement-data-blog/
+- type: x-blog
+  url: https://www.tads.com/groundhog-blog/
+- type: x-blog
+  url: https://www.tads.com/mobile-payments-blog/#comments
+- type: x-blog
+  url: https://www.tads.com/engagement-data-blog/#comments
+- type: x-contact
+  url: https://www.tads.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/happyschools
+- type: x-linkedin
+  url: https://www.linkedin.com/company/tadscom
+- type: x-press
+  url: http://wordpress.org
+- type: x-privacy
+  url: https://www.tads.com/privacy-policy/
+- type: x-twitter
+  url: https://www.twitter.com/tadstweets
+- type: x-website
+  url: https://www.tads.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

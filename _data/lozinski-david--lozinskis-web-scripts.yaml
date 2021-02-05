@@ -1,0 +1,26 @@
+---
+name: Lozinski, David - Lozinski's Web Scripts
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "581812"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lozinski-david--lozinskis-web-scripts.yaml
+tags:
+- Personal Pages
+apis: []
+x-common:
+- type: x-about
+  url: https://davelozinski.com/about-dave/
+- type: x-contact
+  url: https://davelozinski.com/contact-dave-anytime/
+- type: x-website
+  url: https://www.davelozinski.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,28 @@
+---
+name: Privacy Sweeper
+description: Protect your privacy by cleaning up the tracks of your computer activities.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/privacy-sweeper.yaml
+tags:
+- YouTube Downloader
+- Video To IPhone
+- Video Converter
+- Video Convert
+- Iphone Convert
+- DVD Converter
+- Cache Tools
+apis: []
+x-common:
+- type: x-website
+  url: https://www.zjsoftware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

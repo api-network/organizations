@@ -1,0 +1,41 @@
+---
+name: SiteTracker.com
+description: The only full lifecycle platform designed by project managers; delivering
+  real-time collaboration, powerful automated reports, and accurate forecasting.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1209702"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sitetracker-com.yaml
+tags:
+- Premium
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.sitetracker.com/knowledge-center/#blog
+- type: x-blog
+  url: https://www.sitetracker.com/category/blog/
+- type: x-blog
+  url: https://www.sitetracker.com/blogs-old/
+- type: x-contact
+  url: https://www.sitetracker.com/contact/
+- type: x-investor
+  url: https://www.sitetracker.com/investors/
+- type: x-news
+  url: https://www.sitetracker.com/knowledge-center/#news
+- type: x-news
+  url: https://www.sitetracker.com/category/news/
+- type: x-privacy
+  url: https://www.sitetracker.com/privacy-statement/
+- type: x-terms-of-service
+  url: https://www.sitetracker.com/terms-conditions/
+- type: x-website
+  url: https://www.sitetracker.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

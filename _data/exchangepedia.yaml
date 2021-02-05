@@ -1,0 +1,79 @@
+---
+name: Exchangepedia
+description: TechNotes about Microsoft Exchange, Office 365, Active Directory, Security,
+  Compliance, Windows platform and other stuff
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1498934"
+url: https://raw.githubusercontent.com/api-network/organizations/main/exchangepedia.yaml
+tags:
+- X.509
+- SMTP
+- Security
+- POP
+- PKI
+- OWA
+- Outlook Web App
+- Outlook Web Access
+- Outlook
+- Office 365
+- Microsoft Exchange
+- Microsoft
+- Messaging
+- IMAP
+- Exchange Server
+- Exchange Online
+- Exchange ActiveSync
+- Exchange 2013
+- Exchange 2010
+- Exchange 2007
+- Exchange 2003
+- Exchange
+- Email
+- EHLO
+- Eas
+- Certificate
+- Calendar
+- Bharat Suneja
+- Ad
+- ActiveSync
+- Active Directory
+apis: []
+x-common:
+- type: x-website
+  url: http://exchangepedia.com
+- type: x-about
+  url: https://exchangepedia.com/about
+- type: x-blog
+  url: https://blogs.technet.microsoft.com/exchange
+- type: x-contact
+  url: https://exchangepedia.com/contact
+- type: x-documentation
+  url: https://aka.ms/eodocs
+- type: x-events
+  url: https://exchangepedia.com/tag/events
+- type: x-feed
+  url: https://exchangepedia.com/feed
+- type: x-news
+  url: https://exchangepedia.com/tag/newsbytes
+- type: x-open-source
+  url: https://www.openspf.org/SPF_Record_Syntax
+- type: x-security
+  url: https://exchangepedia.com/tag/security
+- type: x-support
+  url: https://helpx.adobe.com/acrobat/using/saving-pdfs.html
+- type: x-twitter
+  url: https://twitter.com/Acrobat/status/994321019912548352
+- type: x-twitter
+  url: https://twitter.com/bsuneja
+- type: x-website
+  url: https://exchangepedia.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

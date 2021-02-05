@@ -1,0 +1,52 @@
+---
+name: Moore Computer Consultants, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1410543"
+url: https://raw.githubusercontent.com/api-network/organizations/main/moore-computer-consultants-inc-.yaml
+tags:
+- Consultants
+apis: []
+x-common:
+- type: x-website
+  url: http://www.mcci.com
+- type: x-about
+  url: https://mcci.com/about/
+- type: x-about
+  url: https://mcci.com/about/history/
+- type: x-about
+  url: https://mcci.com/about/employment/
+- type: x-about
+  url: https://mcci.com/about/management/
+- type: x-about
+  url: https://mcci.com/about/directions/
+- type: x-blog
+  url: https://mcci.com/blog/
+- type: x-contact
+  url: https://mcci.com/about/contact/
+- type: x-facebook
+  url: https://www.facebook.com/MCCI.Corporation/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/mcci-corporation/
+- type: x-partner
+  url: https://mcci.com/lorawan/partners/
+- type: x-partner
+  url: https://mcci.com/usb/partners/
+- type: x-support
+  url: https://mcci.com/support/
+- type: x-terms-of-service
+  url: https://mcci.com/legal/
+- type: x-twitter
+  url: https://twitter.com/MCCI
+- type: x-website
+  url: https://www.mcci.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

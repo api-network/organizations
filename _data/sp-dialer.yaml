@@ -1,0 +1,31 @@
+---
+name: SP Dialer
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10788836"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sp-dialer.yaml
+tags:
+- Time
+- Dial-Up Networking
+apis: []
+x-common:
+- type: x-about
+  url: https://www.spdialer.com/about-us/
+- type: x-blog
+  url: https://www.spdialer.com/blog-posts/
+- type: x-contact
+  url: https://www.spdialer.com/contact-us/
+- type: x-privacy
+  url: https://www.spdialer.com/privacy-policy/
+- type: x-website
+  url: https://www.spdialer.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

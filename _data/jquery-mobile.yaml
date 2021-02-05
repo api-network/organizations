@@ -1,0 +1,64 @@
+---
+name: jQuery Mobile
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "67491"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jquery-mobile.yaml
+tags:
+- JQuery
+apis: []
+x-common:
+- type: x-website
+  url: http://jquerymobile.com
+- type: x-about
+  url: https://js.foundation/about/join
+- type: x-about
+  url: https://js.foundation/about/members
+- type: x-about
+  url: https://js.foundation/about/leadership
+- type: x-about
+  url: https://js.foundation/about/donate
+- type: x-about
+  url: https://jquerymobile.com/about/
+- type: x-blog
+  url: https://blog.jquerymobile.com/
+- type: x-code
+  url: https://contribute.jquery.org/code/
+- type: x-code
+  url: https://js.foundation/community/code-of-conduct
+- type: x-code
+  url: http://code.jquery.com/mobile/git/jquery.mobile-git.js
+- type: x-developer
+  url: https://api.jquerymobile.com/
+- type: x-documentation
+  url: https://contribute.jquery.org/documentation/
+- type: x-events
+  url: https://js.foundation/events
+- type: x-forum
+  url: https://forum.jquery.com/
+- type: x-forum
+  url: http://forum.jquery.com/jquery-mobile/
+- type: x-forum
+  url: http://forum.jquery.com/developing-jquery-mobile/
+- type: x-forum
+  url: https://forum.jquery.com/jquery-mobile/
+- type: x-github
+  url: https://github.com/jquery/jquery-mobile
+- type: x-github
+  url: https://github.com/jquery
+- type: x-support
+  url: https://jquery.org/support/
+- type: x-twitter
+  url: https://twitter.com/jquerymobile
+- type: x-website
+  url: https://jquerymobile.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

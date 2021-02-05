@@ -1,0 +1,44 @@
+---
+name: Anchorage, AK
+description: This is the overview page where you can see the state of open data across
+  each key dataset.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/anchorage-alaska-open-data.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "408406"
+url: https://raw.githubusercontent.com/api-network/organizations/main/anchorage-ak.yaml
+tags:
+- Profile
+- Have OpenAPI
+- Have API Paths
+- Have API
+- Data Provider
+- City Government
+apis: []
+x-common:
+- type: x-developer
+  url: https://data.muni.org
+- type: x-website
+  url: http://www.muni.org/COVID-19
+- type: x-developer
+  url: https://dev.socrata.com/
+- type: x-instagram
+  url: https://instagram.com/mayorethananc/
+- type: x-privacy
+  url: https://www.tylertech.com/privacy
+- type: x-support
+  url: https://support.socrata.com
+- type: x-terms-of-service
+  url: http://www.socrata.com/terms-of-service/
+- type: x-twitter
+  url: http://twitter.com/mayorethananc
+- type: x-website
+  url: https://data.muni.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

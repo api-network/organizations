@@ -1,0 +1,38 @@
+---
+name: DeeJaySystem
+description: Deejaysystem is a series of digital audio and video mixer applications
+  designed to cover the needs of professional discjockeys/videojockeys during live
+  or automated mixing sessions. Deejaysystem players are a plain, precise and reliable
+  emulation of real DJ-CD/DVD players, but also including mixing capabilities and
+  many handly features.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5108117"
+url: https://raw.githubusercontent.com/api-network/organizations/main/deejaysystem.yaml
+tags:
+- Vj
+- Videojcokey
+- Video
+- Software
+- Players
+- Player
+- MP3
+- Mixing
+- Mixer
+- Equipment
+- Dj
+- Discjockey
+- CD
+apis: []
+x-common:
+- type: x-website
+  url: https://www.deejaysystem.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

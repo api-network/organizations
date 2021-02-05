@@ -1,0 +1,36 @@
+---
+name: Petrofac
+description: Petrofac is a provider of oilfield services to the international oil
+  and gas industry.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29528-petrofac-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "210409"
+url: https://raw.githubusercontent.com/api-network/organizations/main/petrofac.yaml
+tags: []
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/petrofac
+- type: x-email
+  url: alison.flynn@petrofac.com
+- type: x-email
+  url: marketing@petrofac.com
+- type: x-email
+  url: vendorreg@petrofac.com
+- type: x-email
+  url: sharedealing@petrofac.com
+- type: x-email
+  url: HSSEIA@petrofac.com
+- type: x-email
+  url: IR@petrofac.com
+- type: x-website
+  url: http://petrofac.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

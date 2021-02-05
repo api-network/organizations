@@ -1,0 +1,33 @@
+---
+name: WorldCat
+description: Find what you want in a library near you with WorldCat, a global catalog
+  of library collections.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/worldcat-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4317"
+url: https://raw.githubusercontent.com/api-network/organizations/main/worldcat.yaml
+tags:
+- Libraries
+- Libraries
+- ISBN
+- Have API
+- Books
+apis: []
+x-common:
+- type: x-base
+  url: http://xisbn.worldcat.org/webservices/
+- type: x-twitter
+  url: https://twitter.com/worldcatorg
+- type: x-twitter
+  url: https://twitter.com/OCLC
+- type: x-website
+  url: http://xisbn.worldcat.org/xisbnadmin/index.htm
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

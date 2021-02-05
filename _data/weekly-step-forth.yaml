@@ -1,0 +1,93 @@
+---
+name: Weekly Step Forth
+description: Catch the latest SEO and web site marketing news from industry veterans
+  Scott Van Achte, and Ross Dunn.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "379687"
+url: https://raw.githubusercontent.com/api-network/organizations/main/weekly-step-forth.yaml
+tags:
+- Newsletters
+apis: []
+x-common:
+- type: x-website
+  url: http://www.stepforth.com
+- type: x-about
+  url: https://www.stepforth.com/about/
+- type: x-about
+  url: https://www.stepforth.com/about/our-mission/
+- type: x-about
+  url: https://www.stepforth.com/about/our-seo-ethics/
+- type: x-about
+  url: https://www.stepforth.com/about/stepforth-team/
+- type: x-about
+  url: https://www.stepforth.com/about/seo-101-podcast/
+- type: x-blog
+  url: https://www.stepforth.com/blog/
+- type: x-blog
+  url: https://www.stepforth.com/blog/author/mayanne/
+- type: x-blog
+  url: https://www.stepforth.com/blog/category/local-seo/
+- type: x-blog
+  url: https://www.stepforth.com/blog/category/seo/
+- type: x-blog
+  url: https://www.stepforth.com/blog/page/2/?et_blog
+- type: x-blog
+  url: https://www.stepforth.com/blog/author/scott/
+- type: x-blog
+  url: https://www.stepforth.com/blog/category/ssl/
+- type: x-blog
+  url: https://www.stepforth.com/blog/category/tips/
+- type: x-blog
+  url: https://www.stepforth.com/blog/category/social/
+- type: x-blog
+  url: https://www.stepforth.com/blog/author/nathan/
+- type: x-blog
+  url: https://www.stepforth.com/blog/category/google-ads/
+- type: x-blog
+  url: https://www.stepforth.com/blog/author/rose/
+- type: x-blog
+  url: https://www.stepforth.com/blog/category/charity-2/
+- type: x-blog
+  url: https://www.stepforth.com/blog/category/featured/
+- type: x-blog
+  url: https://www.stepforth.com/blog/category/links/
+- type: x-blog
+  url: https://www.stepforth.com/blog/category/mobile/
+- type: x-blog
+  url: https://www.stepforth.com/blog/category/search/
+- type: x-blog
+  url: https://www.stepforth.com/blog/category/social-media/
+- type: x-blog
+  url: https://www.stepforth.com/blog/category/tools/
+- type: x-blog
+  url: https://www.stepforth.com/blog/category/uncategorized/
+- type: x-blog
+  url: https://www.stepforth.com/blog/category/web-design/
+- type: x-careers
+  url: https://www.stepforth.com/about/careers/
+- type: x-contact
+  url: https://www.stepforth.com/home/contact-us/
+- type: x-facebook
+  url: http://www.facebook.com/stepforth
+- type: x-feed
+  url: https://www.stepforth.com/feed/
+- type: x-gdpr
+  url: https://www.stepforth.com/gdpr-user-settings/
+- type: x-login
+  url: https://www.stepforth.com/design-intake-form/
+- type: x-privacy
+  url: https://www.stepforth.com/privacy-policy/
+- type: x-twitter
+  url: http://www.twitter.com/stepforth
+- type: x-website
+  url: https://news.stepforth.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

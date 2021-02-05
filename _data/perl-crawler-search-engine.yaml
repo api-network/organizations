@@ -1,0 +1,107 @@
+---
+name: Perl Crawler Search Engine
+description: The Perl Crawler Search Engine is huge searchable index of all sites
+  devoted to Perl and CGI programming, backed up with a state-of-the-art web indexing
+  spider.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "67723"
+url: https://raw.githubusercontent.com/api-network/organizations/main/perl-crawler-search-engine.yaml
+tags:
+- Wwwsearch
+- Wwwboard
+- Vote
+- Upload
+- Tutorials
+- Sysopen
+- Sub
+- Stuff
+- Spider
+- Software
+- Socket
+- Snippets
+- Sites
+- Shopping Cart
+- Security
+- Scripts
+- Scalar
+- Rmdir
+- Reports
+- Programs
+- Printf
+- Pipe
+- Perlman
+- Perlfaq
+- Perldoc
+- Perl Scripts
+- Perl
+- Parser
+- Oef
+- Nobel
+- Modules
+- Mkdir
+- Marketing
+- Manuscript
+- Manuals
+- Lwp
+- Localtime
+- Literature
+- Libwww
+- Librarian
+- Libnet
+- Keys
+- Java
+- Htpasswd
+- HTML
+- Htaccess
+- Homepages
+- Guides
+- Glob
+- Games
+- FTP
+- Free Stuff
+- Free Software
+- Free Sites
+- Free Homepages
+- Free Games
+- Free Book
+- Free Advertising
+- Free
+- Form
+- Fork
+- Flock
+- Fcntl
+- Exec
+- Electronic Library
+- Doyle
+- Die
+- Developing
+- Developers
+- Dbm
+- Crypt
+- Counter
+- Coding
+- Code
+- Chmod
+- Chat
+- Cgi.pm
+- CGI
+- Business
+- Bookstore
+- Books
+- Book
+- Banners
+- Advertise
+apis: []
+x-common:
+- type: x-website
+  url: https://perlsearch.hypermart.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

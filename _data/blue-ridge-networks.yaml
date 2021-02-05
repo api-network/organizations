@@ -1,0 +1,50 @@
+---
+name: Blue Ridge Networks
+description: Blue Ridge Networks is a cybersecurity pioneer in protection of critical
+  network operations for some of the largest government, financial, critical infrastructure,
+  and healthcare customers.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1603440"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blue-ridge-networks.yaml
+tags:
+- Products And Tools
+apis: []
+x-common:
+- type: x-website
+  url: http://www.blueridgenetworks.com
+- type: x-blog
+  url: https://www.blueridgenetworks.com/blog/
+- type: x-careers
+  url: https://www.blueridgenetworks.com/company/careers/
+- type: x-contact
+  url: https://www.blueridgenetworks.com/contact/
+- type: x-developer
+  url: http://developer.blueridgenetworks.com
+- type: x-events
+  url: https://www.blueridgenetworks.com/company/events/
+- type: x-facebook
+  url: https://www.facebook.com/blueridgenetworks
+- type: x-linkedin
+  url: https://www.linkedin.com/company/blue-ridge-networks
+- type: x-partner
+  url: https://www.blueridgenetworks.com/company/partners/
+- type: x-press
+  url: https://www.blueridgenetworks.com/news-press/
+- type: x-press
+  url: https://www.blueridgenetworks.com/press/
+- type: x-privacy
+  url: https://www.blueridgenetworks.com/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/blueridge
+- type: x-website
+  url: https://www.blueridgenetworks.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

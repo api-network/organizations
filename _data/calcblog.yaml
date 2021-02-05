@@ -1,0 +1,61 @@
+---
+name: Calcblog
+description: Calcblog provides helpful tips, tutorials and apps for graphing and financial
+  calculators including the TI-83 Plus, TI-84 Plus, TI-89, and HP 12c.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "915478"
+url: https://raw.githubusercontent.com/api-network/organizations/main/calcblog.yaml
+tags:
+- TI Graphing Calculators
+apis: []
+x-common:
+- type: x-about
+  url: http://www.calcblog.com/about/
+- type: x-blog
+  url: https://www.calcblog.com
+- type: x-blog
+  url: http://www.calcblog.com/
+- type: x-blog
+  url: http://www.calcblog.com/blog/
+- type: x-blog
+  url: http://www.calcblog.com/software/
+- type: x-blog
+  url: http://www.calcblog.com/resources/
+- type: x-blog
+  url: http://www.calcblog.com/educator-resources/
+- type: x-blog
+  url: http://www.calcblog.com/ace-the-sat-book/
+- type: x-blog
+  url: https://www.calcblog.com/getting-started-hp-50g/
+- type: x-blog
+  url: http://www.calcblog.com/articles/
+- type: x-blog
+  url: http://www.calcblog.com/downloads/
+- type: x-blog
+  url: http://www.calcblog.com/disclaimer/
+- type: x-blog
+  url: http://www.calcblog.com/sitemap.xml
+- type: x-blog
+  url: http://www.calcblog.com/category/algebra/
+- type: x-blog
+  url: http://www.calcblog.com/category/calculus/
+- type: x-blog
+  url: http://www.calcblog.com/category/statistics/
+- type: x-blog
+  url: http://www.calcblog.com/calcblog-friends/
+- type: x-facebook
+  url: http://www.facebook.com/pages/Calcblog/152353191482786
+- type: x-feed
+  url: http://feeds.feedburner.com/calcblog
+- type: x-website
+  url: https://www.calcblog.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

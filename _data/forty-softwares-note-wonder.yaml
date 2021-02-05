@@ -1,0 +1,25 @@
+---
+name: Forty Software's Note Wonder
+description: Manage file downloads and recover from download errors online while organizing
+  file downloads offline. Keep-alive and prevent ISP and AOL knock off interruptions
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7799099"
+url: https://raw.githubusercontent.com/api-network/organizations/main/forty-softwares-note-wonder.yaml
+tags:
+- Personal Information Managers
+apis: []
+x-common:
+- type: x-support
+  url: http://www.ariesoft.com/tech_support.htm
+- type: x-website
+  url: https://www.forty.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

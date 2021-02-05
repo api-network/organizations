@@ -1,0 +1,23 @@
+---
+name: OpenAPI Designer
+description: <p>OpenAPI designer allows you to create and edit API design files. It
+  is a a form based editor for designing APIs. It currently supports the OpenAPI/Swagger
+  version 2.0.</p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/openapi-designer.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: https://openapi.design/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

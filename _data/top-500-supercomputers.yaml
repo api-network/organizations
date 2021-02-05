@@ -1,0 +1,34 @@
+---
+name: Top 500 Supercomputers
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "251592"
+url: https://raw.githubusercontent.com/api-network/organizations/main/top-500-supercomputers.yaml
+tags:
+- Supercomputing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.top500.org/
+- type: x-facebook
+  url: https://www.facebook.com/top500.org
+- type: x-platform
+  url: https://www.nextplatform.com/author/tpmn/
+- type: x-platform
+  url: https://www.nextplatform.com
+- type: x-signup
+  url: https://www.top500.org/accounts/signup
+- type: x-twitter
+  url: https://twitter.com/top500supercomp
+- type: x-website
+  url: https://www.top500.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,62 @@
+---
+name: Brown University
+description: <p><span>Hey there! Brown APIs is a set of web APIs for getting useful
+  information about Brown. In general, to form a request, pick a method from below
+  and look at some of the sample queries to get a feel for how the API works. Also,
+  join the&nbsp;</span><a href="https://www.facebook.com/groups/brown.apis/">Brown
+  APIs group</a><span>&nbsp;on Facebook for FAQs and community support!</span></p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/brown-university.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "10296"
+url: https://raw.githubusercontent.com/api-network/organizations/main/brown-university.yaml
+tags:
+- University In Progress
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://brown.edu
+- type: x-about
+  url: https://www.brown.edu/about/visit
+- type: x-contact
+  url: https://www.brown.edu/about/contact-us
+- type: x-events
+  url: https://events.brown.edu
+- type: x-events
+  url: https://www.brown.edu/offices/events/
+- type: x-events
+  url: https://events.brown.edu/
+- type: x-facebook
+  url: https://www.facebook.com/BrownUniversity
+- type: x-instagram
+  url: https://instagram.com/brownu
+- type: x-linkedin
+  url: https://www.linkedin.com/edu/school?id=19348
+- type: x-login
+  url: https://wd5.myworkday.com/brown/login.flex
+- type: x-news
+  url: https://www.brown.edu/news/2019-01-10/economics
+- type: x-news
+  url: https://www.brown.edu/news/
+- type: x-news
+  url: https://www.brown.edu/news
+- type: x-support
+  url: https://www.brown.edu/helping-a-student/
+- type: x-twitter
+  url: https://twitter.com/BrownUniversity
+- type: x-developers
+  url: https://api.students.brown.edu/
+- type: x-website
+  url: http://www.brown.edu/
+- type: x-youtube
+  url: https://www.youtube.com/brownuniversity
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

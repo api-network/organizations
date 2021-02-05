@@ -1,0 +1,51 @@
+---
+name: IntegraXor HMI/SCADA software
+description: ECAVA IGX offers quick & easy development as fully functional Web SCADA
+  with high performance native drivers, without needing you to know HTML5 & CSS3.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1257567"
+url: https://raw.githubusercontent.com/api-network/organizations/main/integraxor-hmiscada-software.yaml
+tags:
+- Automation
+apis: []
+x-common:
+- type: x-website
+  url: http://www.integraxor.com/
+- type: x-about
+  url: https://www.integraxor.com/about/
+- type: x-blog
+  url: https://www.integraxor.com/blog/?blackhole=f08deb7ac9
+- type: x-contact
+  url: https://www.integraxor.com/contact/
+- type: x-contact
+  url: https://www.integraxor.com/contact/buy-scada/
+- type: x-facebook
+  url: https://www.facebook.com/ecavaigx/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/10654576
+- type: x-pricing
+  url: https://www.integraxor.com/scada-pricing/
+- type: x-privacy
+  url: https://www.integraxor.com/privacy/
+- type: x-security
+  url: https://www.integraxor.com/security/
+- type: x-support
+  url: https://www.integraxor.com/support/
+- type: x-support
+  url: https://www.integraxor.com/support/scada-training/
+- type: x-terms-of-service
+  url: https://www.integraxor.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/ecavaigx
+- type: x-website
+  url: https://integraxor.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

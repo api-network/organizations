@@ -1,0 +1,52 @@
+---
+name: FairCom Corporation
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "919528"
+url: https://raw.githubusercontent.com/api-network/organizations/main/faircom-corporation.yaml
+tags:
+- Databases
+apis: []
+x-common:
+- type: x-website
+  url: http://www.faircom.com
+- type: x-blog
+  url: https://www.faircom.com/developers/technical-blog
+- type: x-careers
+  url: https://www.faircom.com/company/careers
+- type: x-documentation
+  url: http://docs.faircom.com/doc/knowledgebase/#cover.htm
+- type: x-facebook
+  url: https://www.facebook.com/FairComCorporation
+- type: x-linkedin
+  url: http://www.linkedin.com/company/faircom-corporation
+- type: x-news
+  url: https://www.faircom.com/resources/in-the-news
+- type: x-news
+  url: https://www.faircom.com/company/news-pr
+- type: x-partner
+  url: https://www.faircom.com/partner
+- type: x-partner
+  url: https://www.faircom.com/partner-program
+- type: x-privacy
+  url: https://www.faircom.com/privacy_policy
+- type: x-support
+  url: https://www.faircom.com/support
+- type: x-twitter
+  url: https://twitter.com/faircom_corp
+- type: x-website
+  url: https://www.faircom.com
+- type: x-white-papers
+  url: https://www.faircom.com/resources/whitepapers
+- type: x-youtube
+  url: https://www.youtube.com/user/FairComCorporation
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

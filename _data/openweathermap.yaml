@@ -1,0 +1,73 @@
+---
+name: OpenWeatherMap
+description: Get current weather, daily forecast for 16 days, and 3-hourly forecast
+  5 days for your city. Helpful stats, graphics, and this day in history charts are
+  available for your reference. Interactive maps show precipitation, clouds, pressure,
+  wind around yo...
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/open-weather-map.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "20126"
+url: https://raw.githubusercontent.com/api-network/organizations/main/openweathermap.yaml
+tags:
+- Weather
+- Weather
+- Have Swagger
+- Have OpenAPI
+- Have API Paths
+- Have API
+- Broadcasts
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-base
+  url: http://api.openweathermap.org
+- type: x-contact
+  url: https://openweathermap.force.com/s/contactsupport
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/openweathermap
+- type: x-developers
+  url: http://openweathermap.org/API
+- type: x-email
+  url: info@openweathermap.org
+- type: x-facebook
+  url: https://www.facebook.com/groups/270748973021342
+- type: x-linkedin
+  url: https://www.linkedin.com/company/9816754
+- type: x-open-source
+  url: https://openweather.co.uk/blog/category/weather
+- type: x-open-source
+  url: https://home.openweathermap.org/history_bulks
+- type: x-open-source
+  url: https://home.openweathermap.org/history_bulks/new
+- type: x-open-source
+  url: http://openweathermap.org/examples#google1
+- type: x-open-source
+  url: http://openweathermap.org/examples
+- type: x-open-source
+  url: https://openweather.co.uk/team
+- type: x-open-source
+  url: https://www.instagram.com/openweathermap/
+- type: x-open-source
+  url: https://t.me/openweathermap
+- type: x-open-source
+  url: https://github.com/search?q=openweathermap&ref=cmdform
+- type: x-open-source
+  url: https://openweather.co.uk/privacy-policy
+- type: x-pricing
+  url: http://openweathermap.org/price
+- type: x-twitter
+  url: https://twitter.com/OpenWeatherMap
+- type: x-website
+  url: https://openweathermap.org
+- type: x-website
+  url: http://openweathermap.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

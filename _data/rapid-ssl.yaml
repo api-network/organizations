@@ -1,0 +1,33 @@
+---
+name: Rapid SSL
+description: Buy, switch & resell SSL certificates, including Wildcard SSL. RapidSSL
+  is a leading low-cost certificate authority that makes it easy to secure your site.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "143992"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rapid-ssl.yaml
+tags:
+- Wildcard Ssl
+- Third Party Certificate Authorities
+- Ssl Certificates
+- RapidSSL
+- Data Security
+apis: []
+x-common:
+- type: x-privacy
+  url: https://www.digicert.com/digicert-privacy-policy/
+- type: x-privacy
+  url: https://www.digicert.com/online-cookies-privacy/
+- type: x-security
+  url: https://www.websecurity.symantec.com/legal/repository
+- type: x-website
+  url: https://www.rapidssl.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,36 @@
+---
+name: Software Verification
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6124860"
+url: https://raw.githubusercontent.com/api-network/organizations/main/software-verification.yaml
+tags:
+- Windows
+- Thread Deadlock
+- Products And Tools
+- Performance Profiling
+- Memory Leak
+- Flow Tracing
+- Code Coverage
+- C++
+- C#
+- C
+- .NET
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.softwareverify.com
+- type: x-twitter
+  url: http://www.twitter.com/softwareverify
+- type: x-website
+  url: https://www.softwareverify.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

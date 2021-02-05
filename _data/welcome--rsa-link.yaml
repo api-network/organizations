@@ -1,0 +1,23 @@
+---
+name: Welcome | RSA Link
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "83381"
+url: https://raw.githubusercontent.com/api-network/organizations/main/welcome--rsa-link.yaml
+tags: []
+apis: []
+x-common:
+- type: x-contact
+  url: https://rsa.secure.force.com/contactrsauniversity/
+- type: x-website
+  url: http://community.rsa.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

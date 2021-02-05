@@ -1,0 +1,60 @@
+---
+name: MobileRead
+description: MobileRead - the resource for mobile geeks seeking information and advice
+  for keeping their gadgets happy.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "34581"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mobileread.yaml
+tags:
+- Web
+- Sony Reader Forum
+- Sony Reader
+- Sony PRS
+- Sony Portable Reader
+- PVI
+- PRS505
+- PRS-505
+- Pdf Viewer
+- MS Reader
+- Mobipocket
+- MobileRead
+- Kindle
+- Jinke
+- IRex ILiad Forum
+- IRex ILiad
+- ILiad
+- HanLin
+- Free Ebooks
+- EPaper
+- Electronic Books
+- EInk
+- Ebooks
+- Ebook
+- E-Paper
+- E-ink
+- E-Books
+- E-book Forum
+- DRM
+- Cybook Bookeen
+- Bookeen
+- Amazon Kindle Forum
+- Amazon Kindle
+- Adobe
+apis: []
+x-common:
+- type: x-feed
+  url: https://www.mobileread.com/feeds/front.xml
+- type: x-forum
+  url: https://www.mobileread.com/forums/
+- type: x-website
+  url: https://www.mobileread.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,100 @@
+---
+name: 1Emulation.com - Emulators and Games Since 2002
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "808261"
+url: https://raw.githubusercontent.com/api-network/organizations/main/1emulation-com--emulators-and-games-since-2002.yaml
+tags:
+- News And Media
+apis: []
+x-common:
+- type: x-website
+  url: http://www.1emulation.com/
+- type: x-blog
+  url: https://www.memuplay.com/blog/en/memu-101-2.html
+- type: x-contact
+  url: https://www.1emulation.com/forums/contact/
+- type: x-developer
+  url: https://mamedev.org/release.html
+- type: x-developer
+  url: https://mamedev.emulab.it/clrmamepro/
+- type: x-facebook
+  url: https://facebook.com/1emulation
+- type: x-forum
+  url: https://www.1emulation.com/forums/
+- type: x-forum
+  url: https://www.1emulation.com/forums/discover/
+- type: x-forum
+  url: https://www.1emulation.com/forums/search/
+- type: x-forum
+  url: https://www.1emulation.com/forums/portal/
+- type: x-forum
+  url: https://www.1emulation.com/forums/blogs/
+- type: x-forum
+  url: https://www.1emulation.com/forums/files/
+- type: x-forum
+  url: https://www.1emulation.com/forums/staff/
+- type: x-forum
+  url: https://www.1emulation.com/forums/online/
+- type: x-forum
+  url: https://www.1emulation.com/forums/leaderboard/
+- type: x-forum
+  url: https://www.1emulation.com/forums/login/
+- type: x-forum
+  url: https://www.1emulation.com/forums/lostpassword/
+- type: x-forum
+  url: https://www.1emulation.com/forums/register/
+- type: x-forum
+  url: https://www.1emulation.com/forums/profile/5424-robert/
+- type: x-forum
+  url: https://www.1emulation.com/forums/profile/1-alpha/
+- type: x-forum
+  url: https://www.1emulation.com/forums/portal/?page=2
+- type: x-forum
+  url: https://www.1emulation.com/forums/portal/?page=3
+- type: x-forum
+  url: https://www.1emulation.com/forums/portal/?page=4
+- type: x-forum
+  url: https://www.1emulation.com/forums/portal/?page=5
+- type: x-forum
+  url: https://www.1emulation.com/forums/portal/?page=6
+- type: x-forum
+  url: https://www.1emulation.com/forums/portal/?page=2457
+- type: x-forum
+  url: https://www.1emulation.com/forums/files/file/37-zinc/
+- type: x-github
+  url: https://github.com/RPCS3/rpcs3/releases
+- type: x-github
+  url: https://sameboy.github.io/downloads/
+- type: x-github
+  url: https://github.com/OpenEmu/OpenEmu/releases
+- type: x-github
+  url: https://mednafen.github.io/releases/
+- type: x-github
+  url: https://github.com/AppleWin/AppleWin/releases
+- type: x-github
+  url: https://github.com/chernandezba/zesarux/releases
+- type: x-github
+  url: https://github.com/stella-emu/stella/releases
+- type: x-github
+  url: https://github.com/optyfr/JRomManager/releases
+- type: x-news
+  url: https://www.gameex.com/news/
+- type: x-news
+  url: http://emulicious.net/news/
+- type: x-twitter
+  url: https://twitter.com/1emulation
+- type: x-website
+  url: https://1emulation.com
+- type: x-youtube
+  url: https://youtube.com/1emulation
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

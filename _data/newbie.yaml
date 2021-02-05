@@ -1,0 +1,31 @@
+---
+name: Newbie
+description: The Newbie friendly home of help for the newbie of all stages and categories.
+  Tutorials, technology reviews, forums, online lessons, and reference since 1996.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3465644"
+url: https://raw.githubusercontent.com/api-network/organizations/main/newbie.yaml
+tags:
+- Tutorials
+- Technology Reviews
+- Online Lessons
+- Newbies
+- Newbie
+- Forums
+- Beginners
+apis: []
+x-common:
+- type: x-forum
+  url: http://www.newbie.org/forums.htm
+- type: x-website
+  url: https://www.newbie.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

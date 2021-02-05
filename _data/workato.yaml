@@ -1,0 +1,106 @@
+---
+name: Workato
+description: <p>Workato helps anyone create powerful, business critical integrations
+  between cloud apps in minutes. No IT. No developers required. At Workato we are
+  passionate about creating an enterprise grade, rich and secure service to integrate
+  your apps but with the soul of some of the most beloved consumer services by being
+  simple, fun, self-service, community based and inexpensive. Business users, yes,
+  those of you that sign up for or use cloud based applications can now also connect
+  them together using Workato.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/workato-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "71290"
+url: https://raw.githubusercontent.com/api-network/organizations/main/workato.yaml
+tags:
+- IPaaS
+- Integrations
+- Integration Landscape
+- Have API
+- Aggregation
+apis: []
+x-common:
+- type: x-website
+  url: http://www.workato.com
+- type: x-about
+  url: https://www.workato.com/about_us
+- type: x-blog
+  url: http://blog.workato.com/
+- type: x-customers
+  url: https://www.workato.com/customers
+- type: x-developer
+  url: http://developer.workato.com/
+- type: x-developer
+  url: http://developer.workato.com
+- type: x-documentation
+  url: https://github.com/workato/custom_connector_docs
+- type: x-documentation
+  url: http://docs.workato.com/
+- type: x-email
+  url: info@workato.com
+- type: x-events
+  url: https://www.workato.com/events
+- type: x-integrations
+  url: https://www.workato.com/embed-saas-integrations
+- type: x-integrations
+  url: https://www.workato.com/integrations/marketo
+- type: x-integrations
+  url: https://www.workato.com/integrations/netsuite
+- type: x-integrations
+  url: https://www.workato.com/integrations/salesforce
+- type: x-integrations
+  url: https://www.workato.com/integrations/service_now
+- type: x-integrations
+  url: https://www.workato.com/integrations/slack
+- type: x-integrations
+  url: https://www.workato.com/integrations/workday
+- type: x-integrations
+  url: https://www.workato.com/integrations
+- type: x-integrations
+  url: https://www.workato.com/integrations/jira
+- type: x-integrations
+  url: https://www.workato.com/integrations/oracle_ebs
+- type: x-integrations
+  url: https://www.workato.com/integrations/sap_erp
+- type: x-login
+  url: https://www.workato.com/users/sign_in
+- type: x-partner
+  url: https://www.workato.com/partners/solutions
+- type: x-partner
+  url: https://www.workato.com/partners/application
+- type: x-partner
+  url: https://www.workato.com/partners
+- type: x-platform
+  url: https://www.workato.com/platform
+- type: x-press
+  url: https://www.workato.com/press
+- type: x-pricing
+  url: https://www.workato.com/pricing
+- type: x-support
+  url: https://support.workato.com/support/tickets/new
+- type: x-support
+  url: https://www.workato.com/solutions/support
+- type: x-support
+  url: https://support.workato.com/support/solutions
+- type: x-support
+  url: https://support.workato.com/support/discussions
+- type: x-support
+  url: https://support.workato.com/support/home
+- type: x-support
+  url: https://www.workato.com/solutions/ithelpdesk
+- type: x-terms-of-service
+  url: https://www.workato.com/legal/privacy-policy
+- type: x-terms-of-service
+  url: https://www.workato.com/legal/terms-of-service
+- type: x-twitter
+  url: https://twitter.com/workato
+- type: x-website
+  url: https://www.workato.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

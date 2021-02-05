@@ -1,0 +1,46 @@
+---
+name: Actify, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "459554"
+url: https://raw.githubusercontent.com/api-network/organizations/main/actify-inc-.yaml
+tags:
+- Drawing Exchange And Interoperability
+apis: []
+x-common:
+- type: x-about
+  url: https://www.actify.com/about-actify/
+- type: x-about
+  url: http://www.actify.com/about-actify/
+- type: x-blog
+  url: http://www.actify.com/blog/
+- type: x-careers
+  url: https://www.actify.com/careers/
+- type: x-contact
+  url: https://www.actify.com/contact-actify/
+- type: x-events
+  url: http://www.actify.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/ActifyInc/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/actify-inc.
+- type: x-privacy
+  url: http://www.actify.com/privacy-policy/
+- type: x-support
+  url: https://www.actify.com/customer-support/
+- type: x-twitter
+  url: https://twitter.com/actify_inc
+- type: x-website
+  url: https://www.actify.com
+- type: x-youtube
+  url: https://www.youtube.com/user/ActifyInc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

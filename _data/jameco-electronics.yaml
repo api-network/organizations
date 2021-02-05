@@ -1,0 +1,41 @@
+---
+name: Jameco Electronics
+description: Electronic components distributor offering semiconductors, passives,
+  interconnects, electromechanical, power supplies, test and measurement equipment.
+  Lowest prices guaranteed.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "90667"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jameco-electronics.yaml
+tags:
+- Wall Adapter
+- Vendors
+- Test Equipment
+- Power Supply
+- Motors
+- Integrated Circuits
+- Electronics Projects
+- Electronics Kits
+- Electronic Design
+- Electronic Components Distributor
+- Electronic Components
+- Digital Multimeter
+apis: []
+x-common:
+- type: x-website
+  url: http://www.Jameco.com/twitter
+- type: x-twitter
+  url: https://twitter.com/#!/JamecoOnline
+- type: x-website
+  url: https://www.jameco.com
+- type: x-youtube
+  url: https://www.youtube.com/user/JamecoElectronics
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

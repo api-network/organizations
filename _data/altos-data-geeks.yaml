@@ -1,0 +1,52 @@
+---
+name: Altos Data Geeks
+description: We track 100 million properties across the U.S. so you (and your clients)
+  can stay ahead of the curve.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/altos-research-logo-link.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "2776574"
+url: https://raw.githubusercontent.com/api-network/organizations/main/altos-data-geeks.yaml
+tags:
+- Marketplaces
+- Have API
+apis: []
+x-common:
+- type: x-about
+  url: https://www.altosresearch.com/altos/website/aboutus/
+- type: x-blog
+  url: http://blog.altosresearch.com
+- type: x-blog
+  url: http://blog.altosresearch.com/
+- type: x-blog-rss
+  url: http://feeds2.feedburner.com/altos
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/altos-research
+- type: x-email
+  url: info@altosresearch.com
+- type: x-email
+  url: support@altosresearch.com
+- type: x-email
+  url: Mike@altosresearch.com
+- type: x-facebook
+  url: http://www.facebook.com/#!/AltosResearch
+- type: x-login
+  url: https://altos.re/admin/login
+- type: x-partner
+  url: https://www.altosresearch.com/altos/partner/Login.page
+- type: x-terms-of-service
+  url: https://www.altosresearch.com/terms-of-service
+- type: x-twitter
+  url: https://twitter.com/altosresearch
+- type: x-twitter
+  url: https://twitter.com/#!/search/altos%20research
+- type: x-website
+  url: http://www.altosresearch.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

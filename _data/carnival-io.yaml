@@ -1,0 +1,50 @@
+---
+name: Carnival.io
+description: <p>We founded the world's first iPhone app company in 2007, leading strategy
+  and app development more than 120 apps for Fortune 500 brands. With 15x No.1 apps
+  under our belt, we knew we had found the secret to keeping mobile communities engaged.
+  In January 2014, we launched Carnival Mobile Marketing Suite to give brands and
+  their agencies innovative technology to keep up with "always on" mobile audiences.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/carnival-logo-small.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/carnival-io.yaml
+tags:
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.sailthru.com/personalization-index
+- type: x-blog
+  url: http://blog.carnivalmobile.com/
+- type: x-blog-rss
+  url: http://blog.carnivalmobile.com/feed/
+- type: x-documentation
+  url: https://api.carnivalmobile.com/
+- type: x-events
+  url: https://events.sailthru.com
+- type: x-facebook
+  url: https://www.facebook.com/sailthru
+- type: x-instagram
+  url: https://www.instagram.com/sailthru/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/sailthru
+- type: x-terms-of-service
+  url: https://www.sailthru.com/legal/privacy-statement/
+- type: x-twitter
+  url: https://twitter.com/sailthru
+- type: x-twitter
+  url: https://twitter.com/CarnivalMobile
+- type: x-website
+  url: http://carnivalmobile.com/
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=1nlQNiA1AOI
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

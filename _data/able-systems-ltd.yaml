@@ -1,0 +1,32 @@
+---
+name: ABLE Systems Ltd
+description: Able Systems are a leading UK manufacturer of compact, portable printer
+  solutions for use on the go. We also create bespoke printer solutions for kiosks
+  & installations. Contact Able Systems today.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9856104"
+url: https://raw.githubusercontent.com/api-network/organizations/main/able-systems-ltd.yaml
+tags:
+- Printers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.able-systems.com/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/able-systems-ltd
+- type: x-twitter
+  url: https://www.twitter.com/able_systems
+- type: x-website
+  url: https://www.able-systems.com
+- type: x-youtube
+  url: https://www.youtube.com/user/AbleSystemsLtd
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

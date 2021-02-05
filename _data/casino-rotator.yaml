@@ -1,0 +1,22 @@
+---
+name: Casino Rotator
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8707874"
+url: https://raw.githubusercontent.com/api-network/organizations/main/casino-rotator.yaml
+tags:
+- Pop-Up And Pop-Under
+apis: []
+x-common:
+- type: x-website
+  url: https://www.casinorotator.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,28 @@
+---
+name: Listing Agent
+description: Listing-Agent.com provides cost-effective and easy-to-use web hosting,
+  listing database management and content management for real estate web sites.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/listing-agent.yaml
+tags:
+- Web Hosting
+- Template Sites
+- Real Estate Web Sites
+- Real Estate Web Hosting
+- Real Estate Listing Database
+- Real Estate
+apis: []
+x-common:
+- type: x-website
+  url: https://www.listing-agent.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

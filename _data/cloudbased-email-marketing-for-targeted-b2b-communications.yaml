@@ -1,0 +1,58 @@
+---
+name: Cloud-Based Email Marketing for Targeted B2B Communications
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "206841"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cloudbased-email-marketing-for-targeted-b2b-communications.yaml
+tags:
+- Online Tools
+apis: []
+x-common:
+- type: x-website
+  url: http://www.pinpointe.com
+- type: x-about
+  url: https://www.pinpointe.com/about
+- type: x-about
+  url: https://www.pinpointe.com/about/faq
+- type: x-about
+  url: https://www.pinpointe.com/about/anti-spam-policy
+- type: x-blog
+  url: https://www.pinpointe.com/blog
+- type: x-contact
+  url: https://www.pinpointe.com/contact
+- type: x-contact
+  url: https://www.pinpointe.com/contact/request-demo-access
+- type: x-contact
+  url: https://www.pinpointe.com/contact/report-abuse
+- type: x-customers
+  url: https://www.pinpointe.com/pinpointe-customers
+- type: x-facebook
+  url: https://www.facebook.com/Pinpointe
+- type: x-feed
+  url: https://feeds.feedburner.com/Pinpointe-News
+- type: x-feed
+  url: https://feeds2.feedburner.com/Pinpointe
+- type: x-linkedin
+  url: https://www.linkedin.com/company/pinpointe
+- type: x-privacy
+  url: https://www.pinpointe.com/about/privacy-policy
+- type: x-support
+  url: https://help.pinpointe.com/support/solutions
+- type: x-terms-of-service
+  url: https://www.pinpointe.com/about/terms-of-service
+- type: x-twitter
+  url: https://twitter.com/pinpointe
+- type: x-website
+  url: https://www.pinpointe.com
+- type: x-youtube
+  url: https://www.youtube.com/user/MYPinpointe
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

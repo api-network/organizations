@@ -1,0 +1,42 @@
+---
+name: TextWise
+description: TextWise semantic technology powers solutions to leverage valuable information
+  for your users. Engage with our semantic technology instantly through our API.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/471_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4801120"
+url: https://raw.githubusercontent.com/api-network/organizations/main/textwise.yaml
+tags:
+- Semantic Analysis
+- Semantic
+- Search
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.textwise.com/
+- type: x-blog
+  url: http://blog.textwise.com/
+- type: x-blog-rss
+  url: http://blog.textwise.com/feed/
+- type: x-careers
+  url: http://textwise.com/about-us/careers/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/textwise
+- type: x-email
+  url: sales@textwise.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/ip-com-llc-
+- type: x-twitter
+  url: https://twitter.com/textwise
+- type: x-twitter
+  url: https://twitter.com/ipdotcom
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

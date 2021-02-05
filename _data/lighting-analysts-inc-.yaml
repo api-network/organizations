@@ -1,0 +1,45 @@
+---
+name: Lighting Analysts, Inc.
+description: 'Authors of lighting software programs: AGi32, ElumTools, Photometric
+  Toolbox, Photometric Power Tools and Luxiflux.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1123245"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lighting-analysts-inc-.yaml
+tags:
+- Lighting Design
+apis: []
+x-common:
+- type: x-website
+  url: http://www.lightinganalysts.com
+- type: x-about
+  url: https://lightinganalysts.com/company/about-us/
+- type: x-blog
+  url: https://lightinganalysts.com/blog/elumtools/
+- type: x-contact
+  url: https://lightinganalysts.com/contact-us/
+- type: x-facebook
+  url: http://www.facebook.com/lightinganalysts
+- type: x-press
+  url: https://lightinganalysts.com/company/press-releases/
+- type: x-support
+  url: https://support.agi32.com/support/solutions
+- type: x-support
+  url: https://support.agi32.com/support/discussions
+- type: x-twitter
+  url: https://twitter.com/@lightinganalyst
+- type: x-webinars
+  url: https://lightinganalysts.com/learn/recorded-webinars/
+- type: x-website
+  url: https://www.agi32.com
+- type: x-youtube
+  url: http://www.youtube.com/user/lightinganalysts
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

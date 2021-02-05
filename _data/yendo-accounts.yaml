@@ -1,0 +1,42 @@
+---
+name: Yendo Accounts
+description: Yendo - www.yendo.com - It's Business as it should be. Full CRM and Accounting
+  Software
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/979_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2737563"
+url: https://raw.githubusercontent.com/api-network/organizations/main/yendo-accounts.yaml
+tags:
+- Financial
+- Financial
+apis: []
+x-common:
+- type: x-base
+  url: https://apps.yendo.com/api/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/yendo
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/yendo
+- type: x-developers
+  url: http://www.yendo.com/Default.aspx?p=111&n=114
+- type: x-linkedin
+  url: https://www.linkedin.com/companies/yendo
+- type: x-login
+  url: https://apps.yendo.com/login-google
+- type: x-self-service-registration
+  url: https://apps.yendo.com/register.aspx
+- type: x-twitter
+  url: https://twitter.com/YendoBusiness
+- type: x-website
+  url: http://www.yendo.com
+- type: x-youtube
+  url: https://www.youtube.com/yendoaccounts
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

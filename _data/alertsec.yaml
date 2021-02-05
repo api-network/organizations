@@ -1,0 +1,38 @@
+---
+name: Alertsec
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6094528"
+url: https://raw.githubusercontent.com/api-network/organizations/main/alertsec.yaml
+tags:
+- Hard Disk Encryption
+apis: []
+x-common:
+- type: x-about
+  url: https://ensure.alertsec.com/about/
+- type: x-about
+  url: https://ensure.alertsec.com/about/the-company/
+- type: x-about
+  url: https://ensure.alertsec.com/about/management-team/
+- type: x-contact
+  url: https://ensure.alertsec.com/contact/
+- type: x-news
+  url: https://ensure.alertsec.com/about/newsletter/
+- type: x-press
+  url: https://ensure.alertsec.com/about/press-releases/
+- type: x-privacy
+  url: https://ensure.alertsec.com/about/privacy-policy/
+- type: x-security
+  url: https://ensure.alertsec.com/welcome/security/
+- type: x-website
+  url: https://www.alertsec.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

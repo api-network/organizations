@@ -1,0 +1,46 @@
+---
+name: Computer Virus Myths
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/computer-virus-myths.yaml
+tags:
+- Viruses
+apis: []
+x-common:
+- type: x-website
+  url: http://youtu.be/mLphFU30RI8
+- type: x-about
+  url: https://Vmyths.com/about/
+- type: x-blog
+  url: http://www.blogchemistry.com/
+- type: x-feed
+  url: https://Vmyths.com/feed/
+- type: x-feed
+  url: https://Vmyths.com/comments/feed/
+- type: x-news
+  url: https://Vmyths.com/tag/u-s-news-world-report/
+- type: x-news
+  url: http://newsletter.SecurityCritics.org
+- type: x-press
+  url: https://Vmyths.com/category/sector/press/
+- type: x-press
+  url: https://Vmyths.com/category/sector/press/wikihype/
+- type: x-security
+  url: http://www.securityfocus.com/brief/926
+- type: x-self-service-registration
+  url: https://Vmyths.com/tag/the-register/
+- type: x-twitter
+  url: http://twitter.com/vmyths
+- type: x-website
+  url: https://www.vmyths.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,29 @@
+---
+name: Sails.js
+description: 'Sails is the most popular MVC framework for Node.js, designed to emulate
+  the familiar MVC pattern of frameworks like Ruby on Rails, but with support for
+  the requirements of modern apps: data-driven APIs with a scalable, service-oriented
+  architecture.'
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sails-js.yaml
+tags:
+- Profile
+- Libraries
+- JavaScript
+- Integration Landscape
+- Frameworks
+apis: []
+x-common:
+- type: x-website
+  url: http://sailsjs.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

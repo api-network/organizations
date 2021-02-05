@@ -1,0 +1,81 @@
+---
+name: Quantum
+description: Our end-to-end storage solutions span from SSD to HDD, tape and the cloud
+  ??? and are tied together leveraging a single namespace view of the entire data
+  environment.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/quantum-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "127028"
+url: https://raw.githubusercontent.com/api-network/organizations/main/quantum.yaml
+tags:
+- Surveillance
+- Have API
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.quantum.com/
+- type: x-blog
+  url: http://blog.quantum.com/
+- type: x-blog-rss
+  url: http://blog.quantum.com/feed/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/quantum-corp
+- type: x-email
+  url: IR@quantum.com
+- type: x-email
+  url: PR@quantum.com
+- type: x-email
+  url: Christine.bachmayer@quantum.com
+- type: x-email
+  url: jim.simon@quantum.com
+- type: x-email
+  url: info.uk@quantum.com
+- type: x-email
+  url: info.de@quantum.com
+- type: x-email
+  url: info.france@quantum.com
+- type: x-email
+  url: ANZsales@quantum.com
+- type: x-email
+  url: china.marketing@quantum.com
+- type: x-email
+  url: china.sales@quantum.com
+- type: x-facebook
+  url: https://www.facebook.com/quantumcorp
+- type: x-instagram
+  url: https://www.instagram.com/onquantum/
+- type: x-investor
+  url: http://investors.quantum.com/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/quantum
+- type: x-login
+  url: https://alliance.quantum.com/English/login.aspx
+- type: x-partner
+  url: https://www.quantum.com/partners/distributor/
+- type: x-press
+  url: http://investors.quantum.com/QMCO/press_releases
+- type: x-press
+  url: https://investors.quantum.com/QMCO/press_releases
+- type: x-privacy
+  url: https://www.quantum.com/en/privacypolicy/
+- type: x-slideshare
+  url: http://www.slideshare.net/quantumcorp
+- type: x-support
+  url: https://www.quantum.com/serviceandsupport/index.aspx
+- type: x-twitter
+  url: https://twitter.com/QuantumCorp
+- type: x-website
+  url: http://www.quantum.com
+- type: x-website
+  url: http://www.quantum.com/
+- type: x-youtube
+  url: http://www.youtube.com/QuantumCorp
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

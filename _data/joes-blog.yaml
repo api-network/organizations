@@ -1,0 +1,50 @@
+---
+name: Joe's Blog
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/joes-blog.yaml
+tags:
+- Personal Pages
+apis: []
+x-common:
+- type: x-blog
+  url: http://billibit.blogspot.com/2011/05/zt-linkedin.html
+- type: x-blog
+  url: https://www.blogger.com/profile/04618327687649458144
+- type: x-blog
+  url: http://billibit.blogspot.com/2004/11/
+- type: x-blog
+  url: http://billibit.blogspot.com/2004/12/
+- type: x-blog
+  url: http://billibit.blogspot.com/2005/01/
+- type: x-blog
+  url: http://billibit.blogspot.com/2005/03/
+- type: x-blog
+  url: http://billibit.blogspot.com/2005/04/
+- type: x-blog
+  url: http://billibit.blogspot.com/2005/05/
+- type: x-blog
+  url: http://billibit.blogspot.com/2005/08/
+- type: x-blog
+  url: http://billibit.blogspot.com/2006/12/
+- type: x-blog
+  url: http://billibit.blogspot.com/2011/05/
+- type: x-feed
+  url: https://billibit.blogspot.com/feeds/posts/default
+- type: x-news
+  url: http://news.google.com/
+- type: x-support
+  url: http://help.blogger.com/bin/answer.py?answer=110
+- type: x-website
+  url: https://billibit.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

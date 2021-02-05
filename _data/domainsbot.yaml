@@ -1,0 +1,45 @@
+---
+name: DomainsBot
+description: DomainsBot provides domain and hosting professionals the data, insights
+  and tools to better understand their customer base and their competitive landscape
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "156275"
+url: https://raw.githubusercontent.com/api-network/organizations/main/domainsbot.yaml
+tags:
+- Unregistered Domain Lists
+apis: []
+x-common:
+- type: x-website
+  url: http://www.domainsbot.com
+- type: x-about
+  url: https://domainsbot.com/about-us/
+- type: x-blog
+  url: https://domainsbot.com/blog/
+- type: x-contact
+  url: https://domainsbot.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/domainsbot
+- type: x-login
+  url: https://domainsbot-srl.3scale.net/login
+- type: x-login
+  url: https://pandalytics.domainsbot.com/user/login
+- type: x-privacy
+  url: https://www.iubenda.com/privacy-policy/197150
+- type: x-terms-of-service
+  url: https://domainsbot.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/domainsbot
+- type: x-website
+  url: https://www.domainsbot.com
+- type: x-white-papers
+  url: https://domainsbot.com/download-domainsbot-whitepaper/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

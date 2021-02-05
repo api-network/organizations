@@ -1,0 +1,86 @@
+---
+name: Consumer Product Safety Commission (CPSC)
+description: <p><span>The United States Consumer Product Safety Commission is an independent
+  agency of the United States government. The CPSC seeks to promote the safety of
+  consumer products by addressing &ldquo;unreasonable risks&rdquo; of injury; developing
+  uniform safety standards; and conducting research into product-related illness and
+  injury.</span></p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/consumer-product-safety-commission-cpsc.yaml
+tags:
+- Videos
+- Trade Association
+- Toys
+- Swimming
+- Small Business
+- Seguridad Del Consumidor
+- Seguridad De Productos
+- Seguridad
+- Safety
+- Safer Products
+- Retiros Del Mercado
+- Recalls
+- Recall
+- Product Safety
+- Pools
+- Manufacturers
+- Magnet
+- Imports
+- Google
+- Fire
+- Federal Government
+- Espanol
+- Drowning
+- Cribs
+- Crib
+- Cpsc
+- Consumidor
+- Consumers
+- Consumer Safety
+- Consumer Safety
+- Consumer Products
+- Children
+- Business
+- Baby
+- Appliances
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cpsc.gov
+- type: x-website
+  url: http://www.ontario.ca/safety
+- type: x-data
+  url: https://www.cpsc.gov/Data
+- type: x-flickr
+  url: http://flickr.com/photos/poolsafely
+- type: x-flickr
+  url: http://flickr.com/photos/uscpsc
+- type: x-twitter
+  url: http://twitter.com/cpscsmallbiz
+- type: x-twitter
+  url: https://twitter.com/uscpsc
+- type: x-twitter
+  url: https://twitter.com/SeguridadConsum
+- type: x-twitter
+  url: http://twitter.com/seguridadconsum
+- type: x-twitter
+  url: http://twitter.com/poolsafely
+- type: x-twitter
+  url: http://twitter.com/OnSafety
+- type: x-youtube
+  url: http://youtube.com/poolsafely
+- type: x-youtube
+  url: http://youtube.com/USCPSCEspanol
+- type: x-youtube
+  url: http://youtube.com/uscpsc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

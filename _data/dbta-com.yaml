@@ -1,0 +1,23 @@
+---
+name: dbta.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dbta-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.dbta.com/Editorial/News-Flashes/DBmaestro-Releases-Expanded-Open-API-to-Support-Continuous-Integration-112223.aspx
+- type: x-website
+  url: http://dbta.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

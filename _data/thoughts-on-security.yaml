@@ -1,0 +1,50 @@
+---
+name: Thoughts on Security
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/thoughts-on-security.yaml
+tags:
+- News And Media
+apis: []
+x-common:
+- type: x-blog
+  url: http://www.applematters.com/weblog.php
+- type: x-blog
+  url: http://fscavo.blogspot.com/
+- type: x-blog
+  url: http://netsec.blogspot.com/
+- type: x-blog
+  url: http://reflectorium.blogspot.com/
+- type: x-blog
+  url: http://jwd-ods.blogspot.com/2004/12/
+- type: x-news
+  url: http://news.zdnet.com/2100-1009_22-5487041.html
+- type: x-news
+  url: http://news.com.com/Desktop
+- type: x-news
+  url: http://news.google.com/
+- type: x-news
+  url: http://news.cnet.com/news
+- type: x-news
+  url: http://ossnews.blogspot.com/
+- type: x-security
+  url: http://www.cisecurity.org/bench_win2000.html
+- type: x-security
+  url: http://www.securitydocs.com/Operating_System/Microsoft
+- type: x-security
+  url: http://www.securityfocus.com
+- type: x-security
+  url: http://formalsecurity.blogspot.com/
+- type: x-website
+  url: https://jwd-ods.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

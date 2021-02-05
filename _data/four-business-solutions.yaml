@@ -1,0 +1,57 @@
+---
+name: Four Business Solutions
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10133265"
+url: https://raw.githubusercontent.com/api-network/organizations/main/four-business-solutions.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: https://www.aisoma.de/
+- type: x-about
+  url: https://www.four.co.uk/about-four-business-solutions/
+- type: x-about
+  url: http://www.four.co.uk/about-four-business-solutions/
+- type: x-blog
+  url: https://www.four.co.uk/four-blog/
+- type: x-contact
+  url: https://www.four.co.uk/contact-us/
+- type: x-customers
+  url: https://www.four.co.uk/customers/
+- type: x-customers
+  url: https://www.four.co.uk/customers/tesco/
+- type: x-customers
+  url: https://www.four.co.uk/customers/napp/
+- type: x-customers
+  url: https://www.four.co.uk/customers/tigo/
+- type: x-customers
+  url: https://www.four.co.uk/customers/celtel/
+- type: x-facebook
+  url: https://www.facebook.com/FourBusinessSolutions/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/907041
+- type: x-news
+  url: https://www.four.co.uk/category/news/
+- type: x-security
+  url: https://www.four.co.uk/category/security/
+- type: x-twitter
+  url: https://twitter.com/four_business
+- type: x-twitter
+  url: https://twitter.com/jamesvgingerich
+- type: x-twitter
+  url: https://twitter.com/AISOMA_AG
+- type: x-website
+  url: https://www.four.co.uk
+- type: x-white-papers
+  url: https://www.four.co.uk/download-our-white-papers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

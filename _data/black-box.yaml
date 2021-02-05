@@ -1,0 +1,32 @@
+---
+name: Black Box
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "157530"
+url: https://raw.githubusercontent.com/api-network/organizations/main/black-box.yaml
+tags:
+- Distributors
+apis: []
+x-common:
+- type: x-website
+  url: http://www.blackbox.com
+- type: x-blog
+  url: https://www.blackbox.com/en-us/blog/technology
+- type: x-facebook
+  url: https://www.facebook.com/blackbox.ns
+- type: x-twitter
+  url: https://twitter.com/blackbox_ns
+- type: x-website
+  url: https://www.blackbox.com
+- type: x-youtube
+  url: https://www.youtube.com/user/BlackBoxNS
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,61 @@
+---
+name: OpenNIC
+description: An organization of hobbyists who run an alternative DNS network, also
+  provides access to domains not administered by ICANN.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1643399"
+url: https://raw.githubusercontent.com/api-network/organizations/main/opennic.yaml
+tags:
+- Service Providers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.opennicproject.org
+- type: x-github
+  url: https://github.com/moderntld/.o
+- type: x-github
+  url: https://github.com/OpenNIC
+- type: x-open-source
+  url: https://wiki.opennic.org/
+- type: x-open-source
+  url: https://servers.opennic.org/
+- type: x-open-source
+  url: https://members.opennicproject.org/
+- type: x-open-source
+  url: https://wiki.opennic.org/start
+- type: x-open-source
+  url: https://wiki.opennic.org/opennic:dot:bbs
+- type: x-open-source
+  url: https://www.opennic.chan/
+- type: x-open-source
+  url: http://opennic.cyb/
+- type: x-open-source
+  url: http://opennic.oz/
+- type: x-open-source
+  url: https://wiki.opennic.org/opennic/creating_new_tlds
+- type: x-open-source
+  url: https://wiki.opennic.org/opennic:dot:fur
+- type: x-open-source
+  url: https://wiki.opennic.org/help
+- type: x-open-source
+  url: https://triplebit.net/@opennic
+- type: x-open-source
+  url: https://github.com/opennic/opennic-web
+- type: x-self-service-registration
+  url: http://register.neo/
+- type: x-self-service-registration
+  url: http://register.null/
+- type: x-twitter
+  url: https://twitter.com/OpenNIC
+- type: x-website
+  url: https://www.opennicproject.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

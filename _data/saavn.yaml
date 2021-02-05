@@ -1,0 +1,22 @@
+---
+name: Saavn
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "1"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/saavn.yaml
+tags:
+- Profile
+apis: []
+x-common:
+- type: x-website
+  url: https://www.saavn.com/corporate
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

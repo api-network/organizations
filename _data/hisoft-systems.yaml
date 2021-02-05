@@ -1,0 +1,46 @@
+---
+name: HiSoft Systems
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hisoft-systems.yaml
+tags:
+- ZX Spectrum
+- Z80
+- Software
+- Sinclair Ql
+- Programming
+- Pascal
+- Nascom
+- Development
+- C++
+- Atari St
+- Assembler
+- Amstrad Pcw
+- Amstrad Cpc
+- Amiga
+- "68000"
+apis: []
+x-common:
+- type: x-about
+  url: http://www.hisoft.co.uk/gp/about-hisoft/1
+- type: x-contact
+  url: http://www.hisoft.co.uk/gp/contact/1
+- type: x-linkedin
+  url: https://www.linkedin.com/in/david-link-37252014/
+- type: x-privacy
+  url: http://www.hisoft.co.uk/gp/privacy/1
+- type: x-twitter
+  url: https://twitter.com/silversquonk
+- type: x-website
+  url: https://www.hisoft.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

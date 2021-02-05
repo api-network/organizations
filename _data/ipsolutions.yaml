@@ -1,0 +1,40 @@
+---
+name: IPsolutions
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "542819"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ipsolutions.yaml
+tags:
+- Cisco
+apis: []
+x-common:
+- type: x-website
+  url: https://www.ipsol.in/
+- type: x-about
+  url: https://www.ipsol.in/about-us.php
+- type: x-blog
+  url: https://www.ipsol.in/blog.php
+- type: x-contact
+  url: https://www.ipsol.in/contact.php
+- type: x-facebook
+  url: https://www.facebook.com/IPSolutionsIndia/
+- type: x-instagram
+  url: https://www.instagram.com/ipsolutionscisco/
+- type: x-security
+  url: https://ipsol.in/course/security-analyst-training.php
+- type: x-security
+  url: https://ipsol.in/course/asa-security-training.php
+- type: x-twitter
+  url: https://twitter.com/ipsolin
+- type: x-website
+  url: https://www.ipsol.in
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

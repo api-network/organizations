@@ -1,0 +1,32 @@
+---
+name: AZ-Com Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/azcom-inc-.yaml
+tags:
+- Embedded
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.az-com.com/contact-az-com/?form=contact3
+- type: x-press
+  url: https://www.az-com.com/cpci-express-3u-extenders/
+- type: x-press
+  url: https://www.az-com.com/pci-express-passive-extenders/
+- type: x-press
+  url: https://www.az-com.com/pci-express-mini-extenders/
+- type: x-press
+  url: https://www.az-com.com/com-expresss-connector-saves/
+- type: x-website
+  url: https://www.az-com.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

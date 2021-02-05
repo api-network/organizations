@@ -1,0 +1,56 @@
+---
+name: Altis Consulting Pty Ltd
+description: With offices across Australia, New Zealand and the UK, Altis is a leading
+  independent Data and Analytics consultancy delivering tangible business outcomes
+  for 20 years with our passion of 'Connecting with Courage Heart and Insight'.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1803330"
+url: https://raw.githubusercontent.com/api-network/organizations/main/altis-consulting-pty-ltd.yaml
+tags:
+- Consultants
+apis: []
+x-common:
+- type: x-website
+  url: http://www.altis.com.au
+- type: x-about
+  url: https://altis.com.au/about-us/
+- type: x-about
+  url: https://altis.com.au/about-us/our-people/
+- type: x-about
+  url: https://altis.com.au/about-us/our-difference/
+- type: x-about
+  url: https://altis.com.au/about-us/our-difference/#cchi
+- type: x-about
+  url: https://altis.com.au/about-us/our-partners/
+- type: x-blog
+  url: https://altis.com.au/blog/
+- type: x-careers
+  url: https://altis.com.au/about-us/careers/
+- type: x-case-studies
+  url: https://altis.com.au/casestudies/
+- type: x-code
+  url: https://altis.com.au/solutions/geocode-your-addresses/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/altis-consulting
+- type: x-news
+  url: https://altis.com.au/news/
+- type: x-news
+  url: https://altis.com.au/newsletters/
+- type: x-privacy
+  url: https://altis.com.au/privacy-statement
+- type: x-terms-of-service
+  url: https://altis.com.au/terms-of-use
+- type: x-twitter
+  url: https://twitter.com/Altis_DWBI
+- type: x-website
+  url: https://www.altis.com.au
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

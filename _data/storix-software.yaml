@@ -1,0 +1,62 @@
+---
+name: Storix Software
+description: Backup and Recovery for your Linux, AIX, and Solaris systems. Our BMR
+  process allows you to restore Linux and AIX to disssimilar hardware and storage.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4152936"
+url: https://raw.githubusercontent.com/api-network/organizations/main/storix-software.yaml
+tags:
+- Vendors
+- Tape Backup
+apis: []
+x-common:
+- type: x-about
+  url: https://www.storix.com/about/blog/
+- type: x-about
+  url: https://www.storix.com/about/community/
+- type: x-contact
+  url: https://www.storix.com/about/contact-us/
+- type: x-documentation
+  url: https://www.storix.com/sbadmin-support/documentation/
+- type: x-facebook
+  url: https://facebook.com/storix
+- type: x-linkedin
+  url: https://www.linkedin.com/company/storix-inc./
+- type: x-privacy
+  url: https://www.storix.com/about/privacy/
+- type: x-support
+  url: https://www.storix.com/supported-systems/aix/
+- type: x-support
+  url: https://www.storix.com/supported-systems/linux-backup/
+- type: x-support
+  url: https://www.storix.com/supported-systems/powerlinux/
+- type: x-support
+  url: https://www.storix.com/supported-systems/solaris/
+- type: x-support
+  url: https://www.storix.com/sbadmin-support/downloads/
+- type: x-support
+  url: https://www.storix.com/sbadmin-support/how-to/
+- type: x-support
+  url: https://www.storix.com/sbadmin-support/policy/
+- type: x-support
+  url: https://www.storix.com/sbadmin-support/free-trial/
+- type: x-twitter
+  url: https://twitter.com/storix
+- type: x-webinars
+  url: https://www.storix.com/purchase-sbadmin/webinar/
+- type: x-website
+  url: https://www.storix.com
+- type: x-youtube
+  url: https://www.youtube.com/user/StorixSoftware
+- type: x-youtube
+  url: https://youtube.com/storix
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

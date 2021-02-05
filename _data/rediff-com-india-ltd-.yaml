@@ -1,0 +1,66 @@
+---
+name: Rediff.com India Ltd.
+description: "\u2714Read Latest India News \u2714Get Realtime Stock Quotes \u2714See
+  Live Cricket Scores \u2714Log in to Rediffmail \u2714Buy Smart Products on Rediff
+  Shopping"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "468"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rediff-com-india-ltd-.yaml
+tags:
+- Web-Based
+- Wealth Management
+- Stock Quotes
+- Sports News
+- Shopping
+- Share Price
+- Share Market Advice
+- Sensex
+- Rediffmail Login
+- Rediffmail
+- Rediff Money
+- Rediff
+- Mutual Fund Quotes
+- Movie Review
+- Moneywiz
+- Live Stock Updates
+- Live Cricket Score
+- Latest India News
+- IShare
+- Getahead
+- Free Email
+- Business Email
+- Bollywood News
+- Bollywood Gossip
+- Bollywood
+apis: []
+x-common:
+- type: x-about
+  url: https://www.rediff.com/aboutus.html
+- type: x-feed
+  url: http://mypage.rediff.com/feedback
+- type: x-investor
+  url: http://investor.rediff.com/
+- type: x-login
+  url: https://mail.rediff.com/cgi-bin/login.cgi
+- type: x-news
+  url: https://www.rediff.com/news
+- type: x-news
+  url: https://www.rediff.com/news/citizenship-blues
+- type: x-news
+  url: http://realtime.rediff.com/topnews/india
+- type: x-support
+  url: http://support.rediff.com/index.html
+- type: x-terms-of-service
+  url: http://www.rediff.com/terms.html
+- type: x-website
+  url: https://www.rediff.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

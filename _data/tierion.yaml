@@ -1,0 +1,31 @@
+---
+name: Tierion
+description: Use the blockchain as a global platform to verify any data, file, or
+  business process. Developer tools & API to anchor data in the blockchain.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26791-tierion-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "171100"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tierion.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://tierion.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/tierion
+- type: x-email
+  url: privacy@tierion.com
+- type: x-twitter
+  url: https://twitter.com/Tierion
+- type: x-website
+  url: https://tierion.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

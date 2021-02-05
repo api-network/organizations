@@ -1,0 +1,32 @@
+---
+name: ZX81 Download Page
+description: Everything here for the good old zx81.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zx81-download-page.yaml
+tags:
+- Zx81 Software
+- Zx81 Emulators
+- ZX81
+- Zx80
+- Timex 1000
+- Sinclair Zx81
+- Sinclair Zx80
+- Sinclair
+- Emulators
+- Clive Sinclair
+- 8 Bit Computers
+apis: []
+x-common:
+- type: x-website
+  url: https://www.zx81.nl
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

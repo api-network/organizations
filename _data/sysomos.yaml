@@ -1,0 +1,87 @@
+---
+name: Sysomos
+description: A unified, insights-driven social platform empowering marketers to search,
+  discover, listen, publish, engage, and analyze across earned, owned, and paid media.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1482_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "67070"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sysomos.yaml
+tags:
+- Webinars
+- Texts
+- Semantic
+- Have API
+- Analysis
+apis: []
+x-common:
+- type: x-website
+  url: https://sysomos.com/
+- type: x-about
+  url: https://sysomos.com/about/
+- type: x-about
+  url: https://sysomos.com/about/company/
+- type: x-blog
+  url: http://blog.sysomos.com
+- type: x-blog
+  url: https://sysomos.com/blog/
+- type: x-blog-rss
+  url: http://feeds2.feedburner.com/SysomosBlog
+- type: x-careers
+  url: https://sysomos.com/careers/
+- type: x-case-studies
+  url: https://sysomos.com/resources/case-studies/
+- type: x-contact
+  url: https://sysomos.com/contact/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/sysomos
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/sysomos
+- type: x-developer
+  url: https://sysomos.com/services/api/
+- type: x-email
+  url: salesupport@sysomos.com
+- type: x-email
+  url: privacy@sysomos.com
+- type: x-events
+  url: https://sysomos.com/resources/events/
+- type: x-facebook
+  url: https://www.facebook.com/sysomos
+- type: x-linkedin
+  url: https://www.linkedin.com/company/550605
+- type: x-login
+  url: https://sysomos.com/login/
+- type: x-news
+  url: https://sysomos.com/newsroom/
+- type: x-partner
+  url: https://sysomos.com/partners/
+- type: x-platform
+  url: https://sysomos.com/platform/
+- type: x-platform
+  url: https://sysomos.com/platform/search/
+- type: x-platform
+  url: https://sysomos.com/platform/publish/
+- type: x-platform
+  url: https://sysomos.com/platform/engage/
+- type: x-platform
+  url: https://sysomos.com/platform/analyze/
+- type: x-platform
+  url: https://sysomos.com/platform/discover/
+- type: x-platform
+  url: https://sysomos.com/platform/display/
+- type: x-support
+  url: https://sysomos.com/client-support/
+- type: x-twitter
+  url: https://twitter.com/sysomos
+- type: x-website
+  url: http://sysomos.com
+- type: x-youtube
+  url: https://www.youtube.com/user/sysomos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,37 @@
+---
+name: Valued Websites
+description: Valued Websites provides web-based order tracking systems for appraisers,
+  title companies, property managers, and more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/valued-websites.yaml
+tags:
+- Appraisers
+apis: []
+x-common:
+- type: x-about
+  url: http://www.valuedwebsites.com/about-us/
+- type: x-case-studies
+  url: http://www.valuedwebsites.com/industries-use-cases/
+- type: x-contact
+  url: http://www.valuedwebsites.com/contact/
+- type: x-pricing
+  url: http://www.valuedwebsites.com/pricing/customizations/
+- type: x-pricing
+  url: http://www.valuedwebsites.com/pricing/
+- type: x-pricing
+  url: http://www.valuedwebsites.com/pricing/options/
+- type: x-privacy
+  url: http://www.valuedwebsites.com/about-us/privacy-policy/
+- type: x-website
+  url: https://www.valuedwebsites.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

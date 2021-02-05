@@ -1,0 +1,27 @@
+---
+name: information-management.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/informationmanagement-com.yaml
+tags:
+- Data Warehousing
+- Data Administration
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.information-management.com/news/big-data-analytics/fhir-rapidly-advancing-as-healthcare-data-exchange-standard-10028928-1.html
+- type: x-website
+  url: http://information-management.com
+- type: x-website
+  url: https://www.information-management.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,36 @@
+---
+name: Argox
+description: Argox is one of the three suppliers who provide label printer, barcode
+  scanner, and mobile computers in the worldwide AIDC industry. Fulfilling demands
+  from.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "706010"
+url: https://raw.githubusercontent.com/api-network/organizations/main/argox.yaml
+tags:
+- Barcode
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.argox.com/argox/contact/
+- type: x-contact
+  url: http://www.argox.com/argox/contact
+- type: x-linkedin
+  url: https://www.linkedin.com/in/argox/
+- type: x-news
+  url: https://www.argox.com/argox/newsroom/
+- type: x-partner
+  url: http://www.argox.com/argox/partner/
+- type: x-website
+  url: https://www.argox.com
+- type: x-youtube
+  url: https://www.youtube.com/user/argoxmkt
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

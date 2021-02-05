@@ -1,0 +1,47 @@
+---
+name: cdnjs
+description: cdnjs.com - The best FOSS CDN for web related libraries to speed up your
+  websites!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "22692"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cdnjs.yaml
+tags:
+- Web
+- Tools
+- PNG
+- Plugin
+- Open-source
+- Ng
+- Library
+- Js
+- JQuery
+- Front-end
+- Free
+- CSS
+- Cdnjs
+- CDN
+- Angular
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/cdnjs/cdnjs
+- type: x-open-source
+  url: https://opencollective.com/cdnjs
+- type: x-status
+  url: https://status.cdnjs.com
+- type: x-twitter
+  url: https://twitter.com/cdnjsStatus
+- type: x-twitter
+  url: https://twitter.com/cdnjs
+- type: x-website
+  url: https://cdnjs.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,26 @@
+---
+name: eMailDodo
+description: "With eMailDodo you can create and administer email groups in one central
+  place (in the cloud).\nYou can use the same single group email address from anywhere
+  on any pc or mobile.\nAnd it\u2019s easy to remember.\nNever again worry about misspelling
+  an email address or accidentally leaving somebody out of an email.\nVia eMailDodo
+  you can not only send eMails but also Questions (polls)."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2339768"
+url: https://raw.githubusercontent.com/api-network/organizations/main/emaildodo.yaml
+tags:
+- Hosted Services
+apis: []
+x-common:
+- type: x-website
+  url: https://www.emaildodo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

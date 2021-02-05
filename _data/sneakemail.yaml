@@ -1,0 +1,24 @@
+---
+name: Sneakemail
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "612732"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sneakemail.yaml
+tags:
+- Anonymous Mailers
+apis: []
+x-common:
+- type: x-news
+  url: http://news.cnet.com/2100-1038_3-5098644.html
+- type: x-website
+  url: https://sneakemail.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

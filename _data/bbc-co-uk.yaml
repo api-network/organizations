@@ -1,0 +1,70 @@
+---
+name: bbc.co.uk
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "102"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bbc-co-uk.yaml
+tags:
+- Have API Paths
+apis: []
+x-common:
+- type: x-about
+  url: https://www.bbc.co.uk/aboutthebbc
+- type: x-curated-source
+  url: http://www.bbc.co.uk/news/technology-37232635
+- type: x-website
+  url: http://bbc.co.uk
+- type: x-contact
+  url: https://www.bbc.co.uk/contact
+- type: x-news
+  url: https://www.bbc.co.uk/news
+- type: x-news
+  url: https://www.bbc.co.uk/news/localnews
+- type: x-news
+  url: https://www.bbc.co.uk/news/newsbeat-51122019
+- type: x-news
+  url: http://www.bbc.co.uk/news
+- type: x-news
+  url: https://www.bbc.co.uk/news/uk-51124493
+- type: x-news
+  url: https://www.bbc.co.uk/news/health-51120456
+- type: x-news
+  url: https://www.bbc.co.uk/news/entertainment-arts-51118593
+- type: x-news
+  url: https://www.bbc.co.uk/newsround/51105492
+- type: x-news
+  url: https://www.bbc.co.uk/news/entertainment-arts-51126128
+- type: x-news
+  url: https://www.bbc.co.uk/news/entertainment-arts-51122043
+- type: x-news
+  url: https://www.bbc.co.uk/news/entertainment-arts-51047126
+- type: x-news
+  url: https://www.bbc.co.uk/news/newsbeat-51108043
+- type: x-news
+  url: https://www.bbc.co.uk/news/uk-50813796
+- type: x-news
+  url: https://www.bbc.co.uk/news/world-europe-51120166
+- type: x-news
+  url: https://www.bbc.co.uk/news/world-us-canada-51118025
+- type: x-news
+  url: https://www.bbc.co.uk/news/uk-51127889
+- type: x-news
+  url: https://www.bbc.co.uk/news/uk-wales-51111790
+- type: x-news
+  url: https://www.bbc.co.uk/bbcnewsletter
+- type: x-privacy
+  url: https://www.bbc.co.uk/usingthebbc/privacy/
+- type: x-support
+  url: https://www.bbc.co.uk/help/web/links/
+- type: x-terms-of-service
+  url: https://www.bbc.co.uk/usingthebbc/terms/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

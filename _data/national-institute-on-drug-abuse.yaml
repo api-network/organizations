@@ -1,0 +1,46 @@
+---
+name: National Institute on Drug Abuse
+description: <p>The National Institute on Drug Abuse (NIDA) is a United States federal-government
+  research institute whose mission is to "lead the Nation in bringing the power of
+  science to bear on drug abuse and addiction."</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/440px-US-NIH-NIDA-Logo.svg.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "16267"
+url: https://raw.githubusercontent.com/api-network/organizations/main/national-institute-on-drug-abuse.yaml
+tags:
+- Have API
+- Data Provider
+- API Provider
+apis: []
+x-common:
+- type: x-base
+  url: http://www.drugabuse.gov/qm/
+- type: x-contact
+  url: https://www.drugabuse.gov/about-nida/contact-us
+- type: x-developers
+  url: http://www.drugabuse.gov/developer
+- type: x-facebook
+  url: https://www.facebook.com/NIDANIH
+- type: x-facebook
+  url: http://www.facebook.com/NIDANIH
+- type: x-news
+  url: https://www.drugabuse.gov/news-events/meetings-events
+- type: x-news
+  url: https://irp.drugabuse.gov/category/news-main/
+- type: x-website
+  url: http://www.drugabuse.gov
+- type: x-wikipedia
+  url: http://en.wikipedia.org/wiki/National_Institute_on_Drug_Abuse
+- type: x-youtube
+  url: https://www.youtube.com/user/NIDANIH
+- type: x-youtube
+  url: http://www.youtube.com/user/NIDANIH
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

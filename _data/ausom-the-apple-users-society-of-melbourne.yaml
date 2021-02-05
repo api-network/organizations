@@ -1,0 +1,73 @@
+---
+name: AUSOM, the Apple Users Society of Melbourne
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ausom-the-apple-users-society-of-melbourne.yaml
+tags:
+- User Groups
+- Oceania
+apis: []
+x-common:
+- type: x-website
+  url: http://ausom.net.au
+- type: x-about
+  url: https://ausom.net.au/about-ausom/
+- type: x-contact
+  url: https://ausom.net.au/contact/
+- type: x-events
+  url: https://ausom.net.au/events/
+- type: x-events
+  url: http://ausom.net.au/events/
+- type: x-events
+  url: https://ausom.net.au/events/categories/main-meeting/
+- type: x-events
+  url: https://ausom.net.au/events/categories/apple-events/
+- type: x-events
+  url: https://ausom.net.au/category/apple-events/
+- type: x-events
+  url: https://ausom.net.au/category/events/
+- type: x-events
+  url: https://ausom.net.au/category/other-events/
+- type: x-facebook
+  url: https://www.facebook.com/AusomInc
+- type: x-forum
+  url: https://ausom.net.au/category/forum/
+- type: x-login
+  url: https://www.ausom.net.au/login/
+- type: x-news
+  url: https://ausom.net.au/ausomnews/
+- type: x-news
+  url: https://ausom.net.au/ausom-news-index/
+- type: x-news
+  url: https://ausom.net.au/ausom-news-archive-dvd/
+- type: x-news
+  url: https://ausom.net.au/download/ausom-news-2020-02/
+- type: x-news
+  url: https://ausom.net.au/download/ausom-news-2019-12-2/
+- type: x-news
+  url: https://ausom.net.au/download/ausom-news-2019-11/
+- type: x-news
+  url: https://ausom.net.au/category/ausom-news/
+- type: x-news
+  url: https://www.apple.com/au/newsroom/rss-feed.rss
+- type: x-news
+  url: https://www.apple.com/au/newsroom/
+- type: x-support
+  url: https://ausom.net.au/ausom-help-desk/
+- type: x-twitter
+  url: https://twitter.com/ausominc
+- type: x-twitter
+  url: https://twitter.com/ausominc?ref_src=twsrc%5Etfw
+- type: x-website
+  url: https://www.ausom.net.au
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

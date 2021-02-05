@@ -1,0 +1,46 @@
+---
+name: Food and Drug Administration
+description: <p>The Food and Drug Administration (FDA or USFDA) is an agency of the
+  United States Department of Health and Human Services, one of the United States
+  federal executive departments. The FDA is responsible for protecting and promoting
+  public health through the regulation and supervision of food safety, tobacco products,
+  dietary supplements, prescription and over-the-counter pharmaceutical drugs (medications),
+  vaccines, biopharmaceuticals, blood transfusions, medical devices, electromagnetic
+  radiation emitting devices (ERED), cosmetics and veterinary products.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/500px-Food_and_Drug_Administration_logo.svg.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "10"
+x-alexaRank: "4617"
+url: https://raw.githubusercontent.com/api-network/organizations/main/food-and-drug-administration.yaml
+tags:
+- Have API
+- Federal Government
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: https://www.fda.gov/coronavirus
+- type: x-base
+  url: https://api.fda.gov/
+- type: x-data
+  url: https://www.fda.gov/about-fda/transparency/open-government-fda-data-sets
+- type: x-developers
+  url: http://open.fda.gov/
+- type: x-facebook
+  url: https://www.facebook.com/FDA
+- type: x-twitter
+  url: https://www.twitter.com/US_FDA
+- type: x-website
+  url: http://www.fda.gov/
+- type: x-wikipedia
+  url: http://en.wikipedia.org/wiki/Food_and_Drug_Administration
+- type: x-youtube
+  url: https://www.youtube.com/user/USFoodandDrugAdmin
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

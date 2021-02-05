@@ -1,0 +1,24 @@
+---
+name: No Guestbook Spam Anymore
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/no-guestbook-spam-anymore.yaml
+tags:
+- Comment Spam
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.nogbspam.com
+- type: x-website
+  url: https://www.nogbspam.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

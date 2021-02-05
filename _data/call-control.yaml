@@ -1,0 +1,62 @@
+---
+name: Call Control
+description: 'Call Control is a spinout of the Kedlin Company and is focused on preventing
+  nuisance calling, phone phishing and robocalls from impacting people and enterprises
+  worldwide. With our patent-awarded technology (U.S. Patent #9,491,286) we provide
+  a community-based reputation score enabling our Applications, Home and Network solutions
+  to stop unwanted callers. Call Control is the original application enabling subscribers
+  to manage calling parties since 2007.'
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2019774"
+url: https://raw.githubusercontent.com/api-network/organizations/main/call-control.yaml
+tags:
+- Unwanted Call
+- Telemarketers
+- Spam
+- Scammers
+- Robocallers
+- Restful
+- Profile
+- IRS Tax Scam
+- Have Swagger
+- Have OpenAPI
+- Have API Paths
+- Has API
+- Do Not Call Complaints
+- Call Control
+apis: []
+x-common:
+- type: x-about
+  url: https://www.callcontrol.com/about/
+- type: x-blog
+  url: http://blog.callcontrol.com/
+- type: x-blog
+  url: https://www.callcontrol.com/blog#IRS20160208
+- type: x-blog
+  url: https://blog.callcontrol.com/
+- type: x-website
+  url: http://www.callcontrol.com
+- type: x-contact
+  url: https://www.callcontrol.com/contact/
+- type: x-developers
+  url: https://www.callcontrol.com/developers/
+- type: x-github
+  url: https://github.com/CallControl/CallControlClient
+- type: x-privacy
+  url: https://www.callcontrol.com/terms-and-privacy/#privacy
+- type: x-support
+  url: https://www.callcontrol.com/support/
+- type: x-terms-of-service
+  url: https://www.callcontrol.com/terms-and-privacy/#terms
+- type: x-twitter
+  url: https://twitter.com/EveryCall
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

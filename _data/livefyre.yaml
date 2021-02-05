@@ -1,0 +1,52 @@
+---
+name: Livefyre
+description: Adobe is changing the world through digital experiences. We help our
+  customers create, deliver and optimize content and applications.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1085_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2164053"
+url: https://raw.githubusercontent.com/api-network/organizations/main/livefyre.yaml
+tags:
+- Have API
+- Content
+- Comments
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://theblog.adobe.com
+- type: x-base
+  url: http://fyre.co
+- type: x-blog
+  url: http://blog.livefyre.com
+- type: x-blog-rss
+  url: http://blog.livefyre.com/feed/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/livefyre
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/adobe-systems
+- type: x-developers
+  url: http://answers.livefyre.com/developers
+- type: x-email
+  url: einquiri@adobe.com
+- type: x-email
+  url: adobepr@adobe.com
+- type: x-email
+  url: DPO@adobe.com
+- type: x-github
+  url: https://github.com/Livefyre
+- type: x-twitter
+  url: https://twitter.com/#!/livefyre
+- type: x-twitter
+  url: https://twitter.com/Adobe
+- type: x-website
+  url: http://www.livefyre.com/docs/getting-started/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

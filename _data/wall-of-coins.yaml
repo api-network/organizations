@@ -1,0 +1,30 @@
+---
+name: Wall of Coins
+description: 'Buy BITCOIN With Cash: make a deposit at the local bank and get your
+  bitcoin in 15 minutes!'
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26502-wallofcoins-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "270196"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wall-of-coins.yaml
+tags:
+- Marketplaces
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://wallofcoins.com
+- type: x-email
+  url: jobs@wallofcoins.com
+- type: x-twitter
+  url: https://twitter.com/WallofCoins
+- type: x-website
+  url: https://wallofcoins.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

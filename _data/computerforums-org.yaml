@@ -1,0 +1,186 @@
+---
+name: ComputerForums.org
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1715050"
+url: https://raw.githubusercontent.com/api-network/organizations/main/computerforums-org.yaml
+tags:
+- Chats And Forums
+apis: []
+x-common:
+- type: x-forum
+  url: http://www.computerforums.org/forums/tags/network/
+- type: x-forum
+  url: http://www.computerforums.org/forums/tags/reformat/
+- type: x-forum
+  url: http://www.computerforums.org/forums/tags/router/
+- type: x-forum
+  url: http://www.computerforums.org/forums/tags/sata/
+- type: x-forum
+  url: http://www.computerforums.org/forums/tags/socket/
+- type: x-forum
+  url: http://www.computerforums.org/forums/tags/ssd/
+- type: x-forum
+  url: http://www.computerforums.org/forums/tags/storage/
+- type: x-forum
+  url: http://www.computerforums.org/forums/tags/tools/
+- type: x-forum
+  url: http://www.computerforums.org/forums/tags/vps/
+- type: x-forum
+  url: http://www.computerforums.org/forums/tags/wan/
+- type: x-forum
+  url: http://www.computerforums.org/forums/tags/wi-fi/
+- type: x-forum
+  url: http://www.computerforums.org/forums/tags/wifi/
+- type: x-forum
+  url: http://www.computerforums.org/forums/tags/wireless/
+- type: x-forum
+  url: http://www.computerforums.org/forums/sendmessage.php
+- type: x-forum
+  url: http://www.computerforums.org/forums
+- type: x-forum
+  url: http://www.computerforums.org/forums/
+- type: x-forum
+  url: http://www.computerforums.org/
+- type: x-forum
+  url: http://www.computerforums.org/forums/register.php
+- type: x-forum
+  url: http://www.computerforums.org/forums/faq.php
+- type: x-forum
+  url: http://www.computerforums.org/forums/users/
+- type: x-forum
+  url: http://www.computerforums.org/forums/calendar.php
+- type: x-forum
+  url: http://www.computerforums.org/forums/search.php
+- type: x-forum
+  url: http://www.computerforums.org/forums/users/68563/
+- type: x-forum
+  url: http://www.computerforums.org/forums/hi-i-am/
+- type: x-forum
+  url: http://www.computerforums.org/forums/users/72189/
+- type: x-forum
+  url: http://www.computerforums.org/forums/users/55832/
+- type: x-forum
+  url: http://www.computerforums.org/forums/hardware/
+- type: x-forum
+  url: http://www.computerforums.org/forums/users/58604/
+- type: x-forum
+  url: http://www.computerforums.org/forums/networking-dns/
+- type: x-forum
+  url: http://www.computerforums.org/forums/users/68320/
+- type: x-forum
+  url: http://www.computerforums.org/forums/users/70367/
+- type: x-forum
+  url: http://www.computerforums.org/forums/programming/
+- type: x-forum
+  url: http://www.computerforums.org/forums/users/72199/
+- type: x-forum
+  url: http://www.computerforums.org/forums/users/884/
+- type: x-forum
+  url: http://www.computerforums.org/forums/users/71977/
+- type: x-forum
+  url: http://www.computerforums.org/forums/gallery/
+- type: x-forum
+  url: http://www.computerforums.org/forums/general-hosting/
+- type: x-forum
+  url: http://www.computerforums.org/forums/web-programming/
+- type: x-forum
+  url: http://www.computerforums.org/forums/users/71150/
+- type: x-forum
+  url: http://www.computerforums.org/forums/users/72304/
+- type: x-forum
+  url: http://www.computerforums.org/forums/users/68554/
+- type: x-forum
+  url: http://www.computerforums.org/forums/users/70159/
+- type: x-forum
+  url: http://www.computerforums.org/forums/users/58423/
+- type: x-forum
+  url: http://www.computerforums.org/forums/gaming/
+- type: x-forum
+  url: http://www.computerforums.org/forums/users/72240/
+- type: x-forum
+  url: http://www.computerforums.org/forums/users/72353/
+- type: x-forum
+  url: http://www.computerforums.org/forums/product-reviews/
+- type: x-forum
+  url: http://www.computerforums.org/forums/users/68502/
+- type: x-forum
+  url: http://www.computerforums.org/forums/showgroups.php
+- type: x-forum
+  url: http://www.computerforums.org/forums/online.php
+- type: x-forum
+  url: http://www.computerforums.org/forums/users/72404/
+- type: x-forum
+  url: http://www.computerforums.org/forums/users/93/
+- type: x-forum
+  url: http://www.computerforums.org/forums/users/36162/
+- type: x-forum
+  url: http://www.computerforums.org/forums/users/3499/
+- type: x-forum
+  url: http://www.computerforums.org/forums/users/5579/
+- type: x-forum
+  url: http://www.computerforums.org/forums/users/9134/
+- type: x-forum
+  url: http://www.computerforums.org/forums/users/36908/
+- type: x-forum
+  url: http://www.computerforums.org/forums/users/3241/
+- type: x-forum
+  url: http://www.computerforums.org/forums/users/19691/
+- type: x-forum
+  url: http://www.computerforums.org/forums/users/5189/
+- type: x-forum
+  url: http://www.computerforums.org/forums/users/24249/
+- type: x-forum
+  url: http://www.computerforums.org/forums/users/70468/
+- type: x-forum
+  url: http://www.computerforums.org/forums/users/51256/
+- type: x-forum
+  url: http://www.computerforums.org/forums/users/56634/
+- type: x-forum
+  url: http://www.computerforums.org/forums/tags/
+- type: x-forum
+  url: http://www.computerforums.org/forums/tags/acer/
+- type: x-forum
+  url: http://www.computerforums.org/forums/tags/apple/
+- type: x-forum
+  url: http://www.computerforums.org/forums/tags/bluetooth/
+- type: x-forum
+  url: http://www.computerforums.org/forums/tags/business/
+- type: x-forum
+  url: http://www.computerforums.org/forums/tags/cable/
+- type: x-forum
+  url: http://www.computerforums.org/forums/tags/cantenna/
+- type: x-forum
+  url: http://www.computerforums.org/forums/tags/dell/
+- type: x-forum
+  url: http://www.computerforums.org/forums/tags/emoji/
+- type: x-forum
+  url: http://www.computerforums.org/forums/tags/ethernet/
+- type: x-forum
+  url: http://www.computerforums.org/forums/tags/hdd/
+- type: x-forum
+  url: http://www.computerforums.org/forums/tags/https%3A///
+- type: x-forum
+  url: http://www.computerforums.org/forums/tags/ios/
+- type: x-forum
+  url: http://www.computerforums.org/forums/tags/laptop/
+- type: x-forum
+  url: http://www.computerforums.org/forums/tags/loud%20fan/
+- type: x-forum
+  url: http://www.computerforums.org/forums/tags/mac/
+- type: x-forum
+  url: http://www.computerforums.org/forums/tags/malware/
+- type: x-forum
+  url: http://www.computerforums.org/forums/tags/motherboard/
+- type: x-website
+  url: https://www.computerforums.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

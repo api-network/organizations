@@ -1,0 +1,33 @@
+---
+name: Invoice Home
+description: Create and send invoices as a PDF attachment using over 100 professional
+  invoice templates. Email invoices directly, get paid by card. Fast & Secure!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "21698"
+url: https://raw.githubusercontent.com/api-network/organizations/main/invoice-home.yaml
+tags:
+- Billing
+apis: []
+x-common:
+- type: x-website
+  url: http://bit.ly/2oLDQHU
+- type: x-facebook
+  url: https://www.facebook.com/invoicehome
+- type: x-instagram
+  url: https://www.instagram.com/invoice_home
+- type: x-linkedin
+  url: https://www.linkedin.com/company/invoice-home
+- type: x-twitter
+  url: https://twitter.com/InvoiceHome
+- type: x-website
+  url: https://invoicehome.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,58 @@
+---
+name: British Interactive Media Association (BIMA)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2698221"
+url: https://raw.githubusercontent.com/api-network/organizations/main/british-interactive-media-association-bima.yaml
+tags:
+- Organizations
+apis: []
+x-common:
+- type: x-website
+  url: http://www.bima.co.uk
+- type: x-about
+  url: https://bima.co.uk/about-bima/
+- type: x-code
+  url: https://bima.co.uk/organisations/codefinery/
+- type: x-code
+  url: https://bima.co.uk/organisations/codehouse/
+- type: x-contact
+  url: https://bima.co.uk/contact-us/
+- type: x-events
+  url: https://bima.co.uk/events/
+- type: x-events
+  url: https://bima.co.uk/events/bima-council-surgery/
+- type: x-events
+  url: https://bima.co.uk/events/bima-beat-reduce/
+- type: x-facebook
+  url: https://www.facebook.com/bimahq/
+- type: x-feed
+  url: https://bima.co.uk/organisations/feedforward/
+- type: x-feed
+  url: https://bima.co.uk/organisations/feed-2/
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/86219
+- type: x-login
+  url: https://bima.co.uk/member-login/
+- type: x-news
+  url: https://bima.co.uk/news/
+- type: x-news
+  url: https://bima.co.uk/subscribe-to-newsletter/
+- type: x-partner
+  url: https://bima.co.uk/about-bima/partners/
+- type: x-privacy
+  url: https://bima.co.uk/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/BIMA
+- type: x-website
+  url: https://www.bima.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

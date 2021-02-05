@@ -1,0 +1,43 @@
+---
+name: BuyCPanel.com
+description: Buy cPanel is the largest cPanel license provider including addons and
+  WHMCS plugins. Get INSTANT license activation & FREE installation.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "24943"
+url: https://raw.githubusercontent.com/api-network/organizations/main/buycpanel-com.yaml
+tags:
+- Configuration
+apis: []
+x-common:
+- type: x-website
+  url: http://billing.buycpanel.com
+- type: x-contact
+  url: https://www.buycpanel.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/buycpanel
+- type: x-linkedin
+  url: https://www.linkedin.com/pub/buycpanel-com/37/116/543
+- type: x-marketplace
+  url: https://aws.amazon.com/marketplace/pp/B075K3WXY8
+- type: x-privacy
+  url: https://www.privacyshield.gov/list
+- type: x-terms-of-service
+  url: http://www.buycpanel.com/terms-of-use
+- type: x-terms-of-service
+  url: http://www.buycpanel.com/support-terms-of-use
+- type: x-twitter
+  url: https://twitter.com/buycpanel
+- type: x-website
+  url: https://www.buycpanel.com
+- type: x-youtube
+  url: https://www.youtube.com/user/buycpanel
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

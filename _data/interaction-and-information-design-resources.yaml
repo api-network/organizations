@@ -1,0 +1,22 @@
+---
+name: Interaction and Information Design Resources
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2761439"
+url: https://raw.githubusercontent.com/api-network/organizations/main/interaction-and-information-design-resources.yaml
+tags:
+- Human-Computer Interaction
+apis: []
+x-common:
+- type: x-website
+  url: https://www.nathan.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

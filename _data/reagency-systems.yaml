@@ -1,0 +1,44 @@
+---
+name: Reagency Systems
+description: Reagency Systems Corp. is the leading supplier of Real Estate Accounting
+  and Forms software for Real Estate Agents, Brokers and Brokerage companies.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/reagency-systems.yaml
+tags:
+- TREB
+- Toronto Real Estate Board
+- Software Real Estate
+- Regency Systems
+- RECO
+- REBBA
+- Realtor Software
+- Real Estate Tools
+- Real Estate Solutions
+- Real Estate Program
+- Real Estate Form
+- Real Estate Agent Software
+- Real Estate Accounting
+- Orea Form
+- OREA
+- Ontario Real Estate Association
+- Offer To Purchase Form
+- Offer Form
+- Industry Specific
+- Form Software
+- Easy Accounting
+- Accounting Software
+apis: []
+x-common:
+- type: x-website
+  url: https://www.reagency.ca
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

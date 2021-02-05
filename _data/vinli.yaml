@@ -1,0 +1,47 @@
+---
+name: Vinli
+description: <p>Vinli - The easiest, most advanced connected-car system in the world.
+  Vinli is a platform for easily and quickly building connected car apps. Apps get
+  vehicle data through Vinli services.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28875-www-vin-li.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1501460"
+url: https://raw.githubusercontent.com/api-network/organizations/main/vinli.yaml
+tags:
+- Relative Data
+- Have API Paths
+- Have API
+- Automobiles
+apis: []
+x-common:
+- type: x-blog-rss
+  url: https://blog.vin.li/rss/
+- type: x-github
+  url: https://github.com/vinli
+- type: x-website
+  url: http://vinli.com
+- type: x-blog
+  url: https://blog.vin.li/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/vinli
+- type: x-developer
+  url: https://dev.vin.li
+- type: x-developers
+  url: https://dev.vin.li/#/home
+- type: x-email
+  url: customerservice@vin.li
+- type: x-email
+  url: support@vin.li
+- type: x-twitter
+  url: https://twitter.com/vinli
+- type: x-website
+  url: https://www.vin.li
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

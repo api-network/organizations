@@ -1,0 +1,44 @@
+---
+name: MacKichan Software, Inc.
+description: MacKichan Software now offers version 5.5 of Scientific WorkPlace, Scientific
+  Word, and Scientific Notebook.  You write text and mathematics in your document
+  without having to know a programming language or exit to an equation editor.  Evaluate,
+  simplify, solve, and plot functions without the need to master a complex syntax.  And
+  typeset documents with LaTeX with just the click of a button.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "553337"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mackichan-software-inc-.yaml
+tags:
+- Workplace
+- Word Processing
+- Word
+- Teaching
+- Symbolic
+- Scientific
+- Publishing
+- Notebook
+- Maths
+- MathML
+- Mathematics
+- Mathematical Symbols
+- Math
+- LaTeX Typesetting
+- Formulas
+- Equation Editor
+- Computer Algebra
+- Companies
+- Calculus
+apis: []
+x-common:
+- type: x-website
+  url: https://www.mackichan.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

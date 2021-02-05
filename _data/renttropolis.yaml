@@ -1,0 +1,35 @@
+---
+name: Renttropolis
+description: Renttropolis Online Property Management Software makes running your property
+  management / landlord business easier by removing repetative taks from the day.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6047986"
+url: https://raw.githubusercontent.com/api-network/organizations/main/renttropolis.yaml
+tags:
+- Property Management
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.renttropolis.com/the-property-blog/
+- type: x-contact
+  url: https://www.renttropolis.com/contact/
+- type: x-login
+  url: https://www.renttropolis.com/portal/login.php
+- type: x-login
+  url: https://www.renttropolis.com/portal/login.php?tier=2
+- type: x-login
+  url: https://renttropolis.com/portal/login.php?tier=2
+- type: x-login
+  url: https://renttropolis.com/portal/login.php?tier=1
+- type: x-website
+  url: https://www.renttropolis.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,44 @@
+---
+name: American Software, Inc.
+description: Suite for product development, sourcing and production, PLM, CPSIA, ERP,
+  EDI, global trade management, floor control, payroll, fashion, e-commerce and more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1679469"
+url: https://raw.githubusercontent.com/api-network/organizations/main/american-software-inc-.yaml
+tags:
+- Supply Chain Management
+- ERP
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.amsoftware.com/investor-contacts/
+- type: x-contact
+  url: https://www.amsoftware.com/contact-us/
+- type: x-investor
+  url: https://www.amsoftware.com/investor-relations/
+- type: x-investor
+  url: https://www.amsoftware.com/investor-relations-request/
+- type: x-news
+  url: https://www.amsoftware.com/financial-news/
+- type: x-press
+  url: https://www.amsoftware.com/press-releases/
+- type: x-privacy
+  url: https://www.amsoftware.com/privacy-policy/
+- type: x-support
+  url: https://www.amsoftware.com/e-support/
+- type: x-terms-of-service
+  url: https://www.amsoftware.com/legal/
+- type: x-terms-of-service
+  url: https://www.amsoftware.com/terms-of-use/
+- type: x-website
+  url: https://www.amsoftware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

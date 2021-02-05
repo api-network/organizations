@@ -1,0 +1,37 @@
+---
+name: Regator
+description: Regator is a selective blog directory and search engine. It's the easiest
+  way to find, share, and read quality posts from hand-selected blogs in over 500
+  topics.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1357-regator-semantic.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/regator.yaml
+tags:
+- Trends
+- Semantic
+- News
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://regator.com
+- type: x-website
+  url: http://platform.regator.com/api/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/regator
+- type: x-email
+  url: Mark@Regator.com
+- type: x-email
+  url: abuse@regator.com
+- type: x-twitter
+  url: https://twitter.com/regator
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

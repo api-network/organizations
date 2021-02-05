@@ -1,0 +1,61 @@
+---
+name: TWiki
+description: TWiki is leading open source enterprise wiki and Web application platform
+  used by 50,000 small businesses, many Fortune 500 companies, and millions of people.
+  The Structured Wiki has hundreds of plugin and is used as an intranet or extranet
+  to run project and team workspaces, manage documents and knowledge bases, and implement
+  other collaborative tool.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "615061"
+url: https://raw.githubusercontent.com/api-network/organizations/main/twiki.yaml
+tags:
+- Wiki
+- Web Application
+- Web 2.0
+- Twiki
+- Team Dashboards
+- Structured Wiki
+- Social Software
+- Social Networking Software
+- Social Business Software
+- Social Business
+- Sbs
+- Project Management
+- Perl
+- Open Source
+- Intranet
+- Facebook For The Enterprise
+- Extranet
+- Enterprise Wiki
+- Enterprise Social Software
+- Enterprise 2.0
+- Downloads
+- Document Management
+- Community Software
+- Community
+- Collaboration Software
+- CMS
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/group.php?gid=6281654687
+- type: x-feed
+  url: https://www.syndic8.com/feedinfo.php?FeedID=11541
+- type: x-linkedin
+  url: https://www.linkedin.com/groups?gid=36864
+- type: x-twitter
+  url: https://twitter.com/twiki?ref_src=twsrc%5Etfw
+- type: x-twitter
+  url: https://twitter.com/twiki
+- type: x-website
+  url: https://twiki.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

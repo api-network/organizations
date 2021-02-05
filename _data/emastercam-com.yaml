@@ -1,0 +1,50 @@
+---
+name: eMastercam.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "444391"
+url: https://raw.githubusercontent.com/api-network/organizations/main/emastercam-com.yaml
+tags:
+- Computer Aided Manufacturing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.emastercam.com
+- type: x-about
+  url: https://www.emastercam.com/home-pages/about-us/
+- type: x-about
+  url: https://www.emastercam.com/home-pages/about-mastercam/
+- type: x-blog
+  url: https://www.emastercam.com/blogs/
+- type: x-contact
+  url: https://www.emastercam.com/home-pages/contact-us/
+- type: x-contact
+  url: https://www.emastercam.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/emastercam/
+- type: x-forum
+  url: https://www.emastercam.com/forums/
+- type: x-login
+  url: https://www.emastercam.com/login/
+- type: x-news
+  url: https://www.emastercam.com/blogs/blog/11-latest-news/
+- type: x-privacy
+  url: https://www.emastercam.com/bottom/privacy-policy
+- type: x-self-service-registration
+  url: https://www.emastercam.com/register/
+- type: x-showcase
+  url: https://www.linkedin.com/showcase/10257299
+- type: x-twitter
+  url: https://twitter.com/emastercam
+- type: x-website
+  url: https://www.emastercam.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,129 @@
+---
+name: SendinBlue
+description: SendinBlue is a SaaS solution for relationship marketing.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28768-apidocs-sendinblue-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "13985"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sendinblue.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://bit.ly/sendinblue_com
+- type: x-about
+  url: https://www.sendinblue.com/about/
+- type: x-blog
+  url: http://blog.sendinblue.com/
+- type: x-blog
+  url: https://www.sendinblue.com/blog/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/sendinblue
+- type: x-developer
+  url: https://developers.sendinblue.com/
+- type: x-developer
+  url: https://developers.sendinblue.com/reference
+- type: x-developer
+  url: https://developers.sendinblue.com/changelog
+- type: x-documentation
+  url: https://apidocs.sendinblue.com/
+- type: x-documentation
+  url: https://apidocs.sendinblue.com/how-to/
+- type: x-documentation
+  url: https://apidocs.sendinblue.com/documentation/
+- type: x-documentation
+  url: https://apidocs.sendinblue.com/account/
+- type: x-documentation
+  url: https://apidocs.sendinblue.com/authentication/
+- type: x-documentation
+  url: https://apidocs.sendinblue.com/response/
+- type: x-documentation
+  url: https://apidocs.sendinblue.com/api-calls/
+- type: x-documentation
+  url: https://apidocs.sendinblue.com/campaign/
+- type: x-documentation
+  url: https://apidocs.sendinblue.com/folder/
+- type: x-documentation
+  url: https://apidocs.sendinblue.com/list/
+- type: x-documentation
+  url: https://apidocs.sendinblue.com/attribute/
+- type: x-documentation
+  url: https://apidocs.sendinblue.com/user/
+- type: x-documentation
+  url: https://apidocs.sendinblue.com/process/
+- type: x-documentation
+  url: https://apidocs.sendinblue.com/sender-management/
+- type: x-documentation
+  url: https://apidocs.sendinblue.com/webhooks/
+- type: x-documentation
+  url: https://apidocs.sendinblue.com/sendin-smtp/
+- type: x-documentation
+  url: https://apidocs.sendinblue.com/template/
+- type: x-documentation
+  url: https://apidocs.sendinblue.com/bounces/
+- type: x-documentation
+  url: https://apidocs.sendinblue.com/report/
+- type: x-documentation
+  url: https://apidocs.sendinblue.com/statistics/
+- type: x-documentation
+  url: https://apidocs.sendinblue.com/mailin-sms/
+- type: x-documentation
+  url: https://apidocs.sendinblue.com/mailin-sms/#1
+- type: x-documentation
+  url: https://apidocs.sendinblue.com/mailin-sms/#2
+- type: x-documentation
+  url: https://apidocs.sendinblue.com/mailin-sms/#3
+- type: x-documentation
+  url: https://apidocs.sendinblue.com/mailin-sms/#4
+- type: x-documentation
+  url: https://apidocs.sendinblue.com/api-status/
+- type: x-documentation
+  url: https://apidocs.sendinblue.com/support/
+- type: x-documentation
+  url: https://apidocs.sendinblue.com/faq/
+- type: x-documentation
+  url: https://tracker-doc.sendinblue.com/docs
+- type: x-documentation
+  url: https://developers.sendinblue.com/docs/api
+- type: x-github
+  url: https://github.com/mailin-api
+- type: x-github
+  url: https://github.com/sendinblue/APIv3-csharp-library
+- type: x-github
+  url: https://github.com/sendinblue/APIv3-go-library
+- type: x-github
+  url: https://github.com/sendinblue/APIv3-java-library
+- type: x-github
+  url: https://github.com/sendinblue/APIv3-nodejs-library
+- type: x-github
+  url: https://github.com/sendinblue/APIv3-php-library
+- type: x-github
+  url: https://github.com/sendinblue/APIv3-python-library
+- type: x-github
+  url: https://github.com/sendinblue/APIv3-ruby-library
+- type: x-github
+  url: https://github.com/sendinblue/APIv3-typescript-library
+- type: x-linkedin
+  url: http://www.linkedin.com/company/mailin
+- type: x-pricing
+  url: https://www.sendinblue.com/pricing/
+- type: x-signup
+  url: https://www.sendinblue.com/users/signup/
+- type: x-terms-of-service
+  url: https://www.sendinblue.com/legal/antispampolicy/
+- type: x-terms-of-service
+  url: https://www.sendinblue.com/legal/generalterms/
+- type: x-twitter
+  url: https://twitter.com/SendinBlue
+- type: x-webhooks
+  url: https://apidocs.sendinblue.com/how-to-setup-webhooks/
+- type: x-website
+  url: https://apidocs.sendinblue.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

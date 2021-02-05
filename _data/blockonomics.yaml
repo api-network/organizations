@@ -1,0 +1,28 @@
+---
+name: blockonomics
+description: Get paid in Bitcoin and invoice anonymously. Be your own bank! We offer
+  merchant payment solutions and wallet watcher tools to make your transactions easy.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26438-www-blockonomics-co.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "206003"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blockonomics.yaml
+tags:
+- Marketplaces
+- Blockchain
+apis: []
+x-common:
+- type: x-email
+  url: webmaster@blockonomics.co
+- type: x-twitter
+  url: https://twitter.com/blockonomics_co
+- type: x-website
+  url: https://www.blockonomics.co
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

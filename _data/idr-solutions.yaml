@@ -1,0 +1,31 @@
+---
+name: IDR Solutions
+description: Since 1999 we have been actively supporting and developing the PDF library
+  that our customers have come to rely on and love.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "103784"
+url: https://raw.githubusercontent.com/api-network/organizations/main/idr-solutions.yaml
+tags:
+- Windows Tools And Drivers
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/idrsolutions
+- type: x-github
+  url: https://github.com/idrsolutions
+- type: x-linkedin
+  url: https://www.linkedin.com/in/idrsolutions
+- type: x-twitter
+  url: https://www.twitter.com/javapdf
+- type: x-website
+  url: https://www.idrsolutions.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

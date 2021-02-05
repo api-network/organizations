@@ -1,0 +1,23 @@
+---
+name: "Nick Berardi\u2019s Coder Journal"
+description: In charge of Cloud Drive Desktop at @Amazon, Entrepreneur, Microsoft
+  MVP, ASPInsider, co-founder and CTO of @CaddioApp, Father, and @SeriouslyOpen host
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nick-berardis-coder-journal.yaml
+tags:
+- Personal Pages
+apis: []
+x-common:
+- type: x-website
+  url: https://www.coderjournal.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

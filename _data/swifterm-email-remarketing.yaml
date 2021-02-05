@@ -1,0 +1,35 @@
+---
+name: SwiftERM Email Remarketing
+description: SwiftERM Predictive Analytics for eCommerce Email. An automated solution
+  for ecommerce. Predict what each individual consumer will buy next.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2180969"
+url: https://raw.githubusercontent.com/api-network/organizations/main/swifterm-email-remarketing.yaml
+tags:
+- Sales And Marketing Productivity
+apis: []
+x-common:
+- type: x-website
+  url: http://www.swifterm.com
+- type: x-facebook
+  url: https://www.facebook.com/swiftermglobal
+- type: x-linkedin
+  url: https://www.linkedin.com/company/swifterm
+- type: x-marketplace
+  url: https://marketplace.magento.com/partner/SwiftERM
+- type: x-self-service-registration
+  url: http://account.swifterm.com/register
+- type: x-twitter
+  url: https://twitter.com/swiftermglobal
+- type: x-website
+  url: https://www.swifterm.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

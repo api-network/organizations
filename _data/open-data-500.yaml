@@ -1,0 +1,37 @@
+---
+name: Open Data 500
+description: <p>The Open Data 500, funded by the John S. and James L. Knight Foundation
+  and conducted by the GovLab, is the first comprehensive study of U.S. companies
+  that use open government data to generate new business and develop new products
+  and services.</p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "488712"
+url: https://raw.githubusercontent.com/api-network/organizations/main/open-data-500.yaml
+tags:
+- Public Private Sector
+- No API
+- City Research
+apis: []
+x-common:
+- type: x-website
+  url: http://www.opendata500.com
+- type: x-github
+  url: https://github.com/luisdaniel/OpenData500
+- type: x-open-source
+  url: http://italy.opendata500.com/
+- type: x-open-source
+  url: http://canada.opendata500.com/
+- type: x-twitter
+  url: https://twitter.com/OpenData500
+- type: x-website
+  url: http://www.opendata500.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

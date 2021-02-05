@@ -1,0 +1,25 @@
+---
+name: ChartDirector Charting
+description: "Universal chart and graph component and control library for .NET (C#/VB),
+  Java, C++, ASP, COM, PHP, Perl, Python, Ruby, ColdFusion.\r\n\t\tExtensive chart
+  types, supports track cursors, zoom/scroll, viewports and other mouse interactions.
+  \r\n\t\tSuitable for web as well as desktop applications."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1240320"
+url: https://raw.githubusercontent.com/api-network/organizations/main/chartdirector-charting.yaml
+tags:
+- Charting
+apis: []
+x-common:
+- type: x-website
+  url: https://www.advsofteng.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

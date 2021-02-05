@@ -1,0 +1,82 @@
+---
+name: Cognex Corporation
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "108314"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cognex-corporation.yaml
+tags:
+- Vision
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cognex.com
+- type: x-careers
+  url: https://jobs.cognex.com/
+- type: x-documentation
+  url: https://support.cognex.com/documentation/in-sight
+- type: x-documentation
+  url: https://support.cognex.com/documentation/visionpro
+- type: x-documentation
+  url: https://support.cognex.com/documentation/dataman
+- type: x-documentation
+  url: https://support.cognex.com/documentation/deep-learning
+- type: x-documentation
+  url: https://support.cognex.com/documentation
+- type: x-facebook
+  url: https://www.facebook.com/cognexcorp
+- type: x-investor
+  url: https://investor.cognex.com/
+- type: x-login
+  url: https://support.cognex.com/en/Home/login
+- type: x-partner
+  url: https://partner.cognex.com/
+- type: x-support
+  url: https://support.cognex.com/downloads/in-sight
+- type: x-support
+  url: https://support.cognex.com/downloads/in-sight/training
+- type: x-support
+  url: https://support.cognex.com/downloads/visionpro
+- type: x-support
+  url: https://support.cognex.com/downloads/dataman
+- type: x-support
+  url: https://support.cognex.com/downloads/dataman/training
+- type: x-support
+  url: https://support.cognex.com/downloads/cognex-designer
+- type: x-support
+  url: https://support.cognex.com/downloads/deep-learning
+- type: x-support
+  url: https://support.cognex.com/downloads/3d-vision-systems
+- type: x-support
+  url: https://support.cognex.com/downloads/mobile-solutions
+- type: x-support
+  url: https://support.cognex.com/downloads/dvt
+- type: x-support
+  url: https://support.cognex.com/downloads/visionview
+- type: x-support
+  url: https://support.cognex.com/downloads/cvl
+- type: x-support
+  url: https://support.cognex.com/downloads/omniview
+- type: x-support
+  url: https://support.cognex.com/downloads/alignplus
+- type: x-support
+  url: https://support.cognex.com/downloads/in-sight-profiler
+- type: x-support
+  url: http://help.cognex.com
+- type: x-support
+  url: https://support.cognex.com/en/registration
+- type: x-twitter
+  url: https://twitter.com/Cognex_Corp
+- type: x-website
+  url: https://www.cognex.com
+- type: x-youtube
+  url: http://www.youtube.com/CognexTV
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

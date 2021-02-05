@@ -1,0 +1,28 @@
+---
+name: Robotica Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/robotica-inc-.yaml
+tags:
+- Industrial
+apis: []
+x-common:
+- type: x-about
+  url: https://robotica.us/about-robotica/
+- type: x-contact
+  url: https://robotica.us/contact/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/jdugatroboticainc/
+- type: x-website
+  url: https://www.robotica.us
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

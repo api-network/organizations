@@ -1,0 +1,36 @@
+---
+name: Exomi
+description: Exomi is a trusted partner of major operator groups for over 20 years.
+  We are known for our technological expertise, adaptability and dedication to solving
+  challenges with a no-nonsense attitude. Our solution portfolio ranges from Mobile
+  Identity to Public Safety and Critical Communications.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10727099"
+url: https://raw.githubusercontent.com/api-network/organizations/main/exomi.yaml
+tags:
+- Software
+- Companies And Organizations
+apis: []
+x-common:
+- type: x-website
+  url: http://www.exomi.com
+- type: x-contact
+  url: https://www.exomi.com/contact-us/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/exomi/
+- type: x-news
+  url: https://www.exomi.com/news/
+- type: x-twitter
+  url: https://twitter.com/exomillc
+- type: x-website
+  url: https://www.exomi.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

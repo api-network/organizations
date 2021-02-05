@@ -1,0 +1,23 @@
+---
+name: api.report
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/api-report.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://api.report/2016/02/08/smartbear-and-cigniti-technologies-sign-strategic-partnership-to-assure-software-quality-in-the-connected-world
+- type: x-website
+  url: http://api.report
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

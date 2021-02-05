@@ -1,0 +1,52 @@
+---
+name: Velocity Integrations Software
+description: The VI Service Desk is an IT Help Desk and Service Desk ticketing software
+  system for the IBM Lotus Notes/Domino platform. Includes Asset Management, Asset
+  Polling/Discovery; Reporting; ITIL Incident, Problem, Request and Change Processes.
+  VIS, Inc. is the provider of the VI Service Desk, a Lotus Domino Help Desk solution
+  based on years of research and experience in the IT support industry.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/velocity-integrations-software.yaml
+tags:
+- Lotus Notes Based
+apis: []
+x-common:
+- type: x-integrations
+  url: https://www.velocityintegrations.com
+- type: x-integrations
+  url: https://www.velocityintegrations.com/email-chat.htm
+- type: x-integrations
+  url: https://www.velocityintegrations.com/sla-engine.htm
+- type: x-integrations
+  url: https://www.velocityintegrations.com/reporting.htm
+- type: x-integrations
+  url: https://www.velocityintegrations.com/integrations.htm
+- type: x-integrations
+  url: http://www.velocityintegrations.com/quote.htm
+- type: x-integrations
+  url: http://www.velocityintegrations.com/support.htm
+- type: x-integrations
+  url: https://www.velocityintegrations.com/about-us.htm
+- type: x-integrations
+  url: https://www.velocityintegrations.com/employment.htm
+- type: x-integrations
+  url: https://www.youtube.com/c/velocityintegrationssoftware
+- type: x-integrations
+  url: https://plus.google.com/+VelocityintegrationsSoftware
+- type: x-partner
+  url: https://www.velocityintegrations.com/partners.htm
+- type: x-security
+  url: https://www.velocityintegrations.com/security.htm
+- type: x-website
+  url: https://www.velocityintegrations.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

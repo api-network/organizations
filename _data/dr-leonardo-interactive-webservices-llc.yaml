@@ -1,0 +1,52 @@
+---
+name: Dr Leonardo Interactive Webservices, LLC
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1754459"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dr-leonardo-interactive-webservices-llc.yaml
+tags:
+- Health And Medical
+apis: []
+x-common:
+- type: x-website
+  url: http://www.dr-leonardo.com
+- type: x-about
+  url: https://www.dr-leonardo.com/about-us
+- type: x-blog
+  url: https://www.dr-leonardo.com/blog
+- type: x-contact
+  url: https://www.dr-leonardo.com/contact-us
+- type: x-login
+  url: https://sitebuilder.dr-leonardo.com/admin/login
+- type: x-marketplace
+  url: https://www.dr-leonardo.com/marketplace/
+- type: x-marketplace
+  url: https://www.dr-leonardo.com/marketplace-sps-group/
+- type: x-marketplace
+  url: https://www.dr-leonardo.com/marketplace-entrvst/
+- type: x-marketplace
+  url: https://www.dr-leonardo.com/marketplace-doctor-com/
+- type: x-marketplace
+  url: https://www.dr-leonardo.com/marketplace-acadia/
+- type: x-pricing
+  url: https://www.dr-leonardo.com/pricing
+- type: x-pricing
+  url: https://www.dr-leonardo.com/pricing/
+- type: x-support
+  url: https://desk.zoho.com/portal/drleonardo/kb/help-center
+- type: x-terms-of-service
+  url: https://www.dr-leonardo.com/legal
+- type: x-twitter
+  url: https://twitter.com/dr__leonardo
+- type: x-website
+  url: https://www.dr-leonardo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,77 @@
+---
+name: Brightcove
+description: Brightcove Video Cloud is the leading online video hosting platform and
+  online video player solution. Learn how you can leverage the power of Brightcove's
+  video hosting services for your brand.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/165-brightcove.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "911"
+x-alexaRank: "13080"
+url: https://raw.githubusercontent.com/api-network/organizations/main/brightcove.yaml
+tags:
+- Videos
+- Videos
+- Have Swagger
+- Have OpenAPI
+- Have API Paths
+- Have API
+- API Provider
+- API LIfeycle
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-website
+  url: http://www.brightcove.com
+- type: x-base
+  url: https://data.brightcove.com/
+- type: x-blog
+  url: http://blog.brightcove.com/
+- type: x-blog-rss
+  url: http://docs.brightcove.com/en/DeveloperDocumentationUpdates.xml
+- type: x-code
+  url: https://app.zencoder.com/login
+- type: x-contact
+  url: https://help.brightcove.com/en/contact/create
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/brightcove
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/brightcove
+- type: x-developers
+  url: http://docs.brightcove.com/en/video-cloud/index.html
+- type: x-email
+  url: docs@brightcove.com
+- type: x-email
+  url: copyright@brightcove.com
+- type: x-facebook
+  url: https://www.facebook.com/Brightcove
+- type: x-github
+  url: https://github.com/brightcove
+- type: x-investor
+  url: http://investor.brightcove.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/16439
+- type: x-login
+  url: https://signin.brightcove.com
+- type: x-privacy
+  url: http://www.brightcove.com/en/privacy
+- type: x-self-service-registration
+  url: https://register.brightcove.com/en/
+- type: x-self-service-registration
+  url: https://register.brightcove.com/en
+- type: x-support
+  url: https://support.brightcove.com/en/
+- type: x-terms-of-service
+  url: http://www.brightcove.com/en/terms-and-conditions
+- type: x-twitter
+  url: https://twitter.com/brightcove
+- type: x-website
+  url: http://brightcove.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

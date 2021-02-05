@@ -1,0 +1,40 @@
+---
+name: SGP Systems
+description: SGP Systems - Baltie C# 3D Game visual programming teaching tool for
+  kids, children, youth and adults, Windows 98/NT/2000/XP/Vista/7/8
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1107983"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sgp-systems.yaml
+tags:
+- Youth
+- SGP Systems
+- Programming
+- Kids
+- Icon
+- Graphic Language
+- Graphic
+- Games
+- Creativity
+- Children
+- C#
+- Bohumir Soukup
+- Baltie 4
+- Adults
+- 3D
+- .NET
+apis: []
+x-common:
+- type: x-login
+  url: https://crm.sgpsys.com/login.aspx
+- type: x-website
+  url: https://www.sgpsys.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,27 @@
+---
+name: appendTo()
+description: Learn the latest front-end languages, frameworks, and libraries with
+  your team. Get the latest web development news, tips, and custom solutions today.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "229227"
+url: https://raw.githubusercontent.com/api-network/organizations/main/appendto.yaml
+tags:
+- JavaScript
+apis: []
+x-common:
+- type: x-about
+  url: https://appendto.com/about/
+- type: x-developer
+  url: https://appendto.com/category/apis/
+- type: x-website
+  url: https://appendto.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

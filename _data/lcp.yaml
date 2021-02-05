@@ -1,0 +1,22 @@
+---
+name: LCP
+description: Cross-platform applications for password auditing and recovery.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4997104"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lcp.yaml
+tags:
+- Password Recovery
+apis: []
+x-common:
+- type: x-website
+  url: https://www.lcpsoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

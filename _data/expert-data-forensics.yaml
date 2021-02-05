@@ -1,0 +1,58 @@
+---
+name: Expert Data Forensics
+description: "Based out of Las Vegas, Nevada, experts in data forensics, we secure,
+  recover and investigate electronic data and eDiscovery from hard drives, computers,
+  laptops, pen drives, cell phones and PDA's. We provide expert testimony, forensic
+  data recovery, chain of custody,  forensic imaging, and computer forensic investigations
+  in civil and criminal cases.\L We assist in civil litigation, domestic disputes,
+  defense and criminal investigations.Twitter: DataForensics\nYouTube: DataForensics\nFaceBook:
+  DataForensics\nLinkedIn: DataForensics"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/expert-data-forensics.yaml
+tags:
+- Nevada Forensics
+- Nevada Digital Forensics
+- Nevada Digital
+- Forensics And Incident Response
+- Digital Forensics
+- Digital Forensic Investigation
+- Data Recovery
+- Computer Forensics
+- Computer Forensic Investigation
+- Cell Phone Forensics
+- Cell Phone Forensic Investigation
+apis: []
+x-common:
+- type: x-website
+  url: http://www.expertdataforensics.com/
+- type: x-about
+  url: https://expertdataforensics.com/about-us/
+- type: x-blog
+  url: https://expertdataforensics.com/blog/
+- type: x-contact
+  url: https://expertdataforensics.com/contact/
+- type: x-facebook
+  url: http://facebook.com/dataforensics
+- type: x-facebook
+  url: https://facebook.com/dataforensics
+- type: x-press
+  url: https://expertdataforensics.com/articles-and-press/
+- type: x-twitter
+  url: http://twitter.com/dataforensics
+- type: x-twitter
+  url: https://twitter.com/dataforensics
+- type: x-website
+  url: https://www.expertdataforensics.com
+- type: x-youtube
+  url: https://www.youtube.com/user/DataForensics
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

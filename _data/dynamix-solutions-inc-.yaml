@@ -1,0 +1,53 @@
+---
+name: Dynamix Solutions Inc.
+description: Dynamix Solutions is a leading Managed IT Services, IT Support, IT Solutions,
+  & IT Consulting Provider serving Toronto & Calgary.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "759727"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dynamix-solutions-inc-.yaml
+tags:
+- Canada
+apis: []
+x-common:
+- type: x-website
+  url: http://www.dynamixsolutions.com
+- type: x-about
+  url: https://www.dynamixsolutions.com/about-dynamix/
+- type: x-blog
+  url: https://www.dynamixsolutions.com/blog/
+- type: x-contact
+  url: https://www.dynamixsolutions.com/contact
+- type: x-facebook
+  url: https://www.facebook.com/dynamixsolutions
+- type: x-support
+  url: https://www.dynamixsolutions.com/full-it-support/
+- type: x-support
+  url: https://www.dynamixsolutions.com/workstation-support/
+- type: x-support
+  url: https://www.dynamixsolutions.com/server-support/
+- type: x-support
+  url: https://www.dynamixsolutions.com/network-support/
+- type: x-support
+  url: https://www.dynamixsolutions.com/computer-support/
+- type: x-support
+  url: https://www.dynamixsolutions.com/remote-it-support/
+- type: x-support
+  url: https://www.dynamixsolutions.com/full-remote-support/
+- type: x-support
+  url: https://www.dynamixsolutions.com/desktop-support/
+- type: x-support
+  url: https://www.dynamixsolutions.com/help-desk-support/
+- type: x-twitter
+  url: https://twitter.com/dynamixsolution
+- type: x-website
+  url: https://www.dynamixsolutions.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

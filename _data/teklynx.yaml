@@ -1,0 +1,62 @@
+---
+name: Teklynx
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "483939"
+url: https://raw.githubusercontent.com/api-network/organizations/main/teklynx.yaml
+tags:
+- Barcode
+apis: []
+x-common:
+- type: x-website
+  url: https://www.teklynx.com/
+- type: x-about
+  url: https://www.teklynx.com:443/en/about
+- type: x-about
+  url: https://www.teklynx.com:443/en/about/global-locations
+- type: x-blog
+  url: https://www.teklynx.com:443/en/blog
+- type: x-contact
+  url: https://www.teklynx.com:443/en/about/contact-us
+- type: x-facebook
+  url: https://www.facebook.com/TEKLYNXInternational
+- type: x-linkedin
+  url: https://www.linkedin.com/company/122594
+- type: x-news
+  url: https://www.teklynx.com:443/en/about/news-events
+- type: x-news
+  url: https://www.teklynx.com:443/en/about/news-events/news
+- type: x-partner
+  url: https://www.teklynx.com:443/en/partners
+- type: x-privacy
+  url: https://www.teklynx.com:443/en/privacy-policy
+- type: x-support
+  url: https://www.teklynx.com:443/en/support
+- type: x-support
+  url: https://www.teklynx.com:443/en/support/support-options
+- type: x-support
+  url: https://support.teklynx.com?lang=en
+- type: x-support
+  url: https://www.teklynx.com:443/en/support/learn
+- type: x-support
+  url: https://www.teklynx.com:443/en/support/downloads
+- type: x-terms-of-service
+  url: https://www.teklynx.com:443/en/legal
+- type: x-twitter
+  url: https://twitter.com/teklynx
+- type: x-webinars
+  url: https://www.teklynx.com:443/en/support/learn/webinars
+- type: x-website
+  url: https://www.teklynx.com
+- type: x-youtube
+  url: https://www.youtube.com/user/TEKLYNXInternational
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

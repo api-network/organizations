@@ -1,0 +1,49 @@
+---
+name: Ubuntu Tutorials
+description: Enhancing your Ubuntu experience!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ubuntu-tutorials.yaml
+tags: []
+apis: []
+x-common:
+- type: x-contact
+  url: https://ubuntu-tutorials.com/contact-me/
+- type: x-news
+  url: https://ubuntu-tutorials.com/category/news/
+- type: x-press
+  url: https://wordpress.org
+- type: x-tutorials
+  url: https://ubuntu-tutorials.com/
+- type: x-tutorials
+  url: https://ubuntu-tutorials.com/instant-ubuntu/
+- type: x-tutorials
+  url: https://ubuntu-tutorials.com/license/
+- type: x-tutorials
+  url: https://ubuntu-tutorials.com/category/security/
+- type: x-tutorials
+  url: https://ubuntu-tutorials.com/category/server/
+- type: x-tutorials
+  url: https://ubuntu-tutorials.com/category/upgrade/
+- type: x-tutorials
+  url: https://ubuntu-tutorials.com/category/beginner/
+- type: x-tutorials
+  url: https://ubuntu-tutorials.com/category/ubuntu/
+- type: x-tutorials
+  url: https://ubuntu-tutorials.com/category/installation/
+- type: x-tutorials
+  url: https://ubuntu-tutorials.com/category/unity/
+- type: x-tutorials
+  url: https://ubuntu-tutorials.com/page/2/
+- type: x-website
+  url: https://ubuntu-tutorials.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

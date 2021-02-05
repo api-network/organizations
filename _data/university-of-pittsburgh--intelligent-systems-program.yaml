@@ -1,0 +1,30 @@
+---
+name: University of Pittsburgh - Intelligent Systems Program
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6068"
+url: https://raw.githubusercontent.com/api-network/organizations/main/university-of-pittsburgh--intelligent-systems-program.yaml
+tags:
+- Academic Departments
+apis: []
+x-common:
+- type: x-website
+  url: http://isp.pitt.edu
+- type: x-feed
+  url: https://www.pitt.edu/content/website-feedback
+- type: x-linkedin
+  url: https://www.linkedin.com/in/isp-upitt-32280bb9
+- type: x-twitter
+  url: https://twitter.com/ISPPitt
+- type: x-website
+  url: https://www.isp.pitt.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

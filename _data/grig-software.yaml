@@ -1,0 +1,46 @@
+---
+name: Grig Software
+description: 'Powerful file compare and folders synchronization utilities: Synchronize
+  It!, Compare It!'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1410912"
+url: https://raw.githubusercontent.com/api-network/organizations/main/grig-software.yaml
+tags:
+- WinSin
+- Windows
+- WinCmp
+- Synchronize Folder
+- Synchronize Directories
+- Synchronize
+- Ihar Hryn
+- Igor Green
+- Grigsoft
+- Grig
+- Folder
+- File Compare
+- File
+- Compare Files
+- Compare File
+- Compare
+- Briefcase
+- Archive
+apis: []
+x-common:
+- type: x-blog
+  url: http://www.grigsoft.com/blog
+- type: x-forum
+  url: http://www.grigsoft.com/forum/
+- type: x-forum
+  url: http://www.grigsoft.com/forum
+- type: x-website
+  url: https://www.grigsoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

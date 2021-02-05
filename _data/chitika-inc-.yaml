@@ -1,0 +1,23 @@
+---
+name: Chitika, Inc.
+description: Chitika | Online Advertising Network - Where data drives innovation
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "51660"
+url: https://raw.githubusercontent.com/api-network/organizations/main/chitika-inc-.yaml
+tags:
+- Services
+- Maintenance Mode
+apis: []
+x-common:
+- type: x-website
+  url: https://www.chitika.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

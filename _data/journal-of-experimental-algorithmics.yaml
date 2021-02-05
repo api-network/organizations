@@ -1,0 +1,22 @@
+---
+name: Journal of Experimental Algorithmics
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6253"
+url: https://raw.githubusercontent.com/api-network/organizations/main/journal-of-experimental-algorithmics.yaml
+tags:
+- Journals
+apis: []
+x-common:
+- type: x-website
+  url: https://www.jea.acm.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

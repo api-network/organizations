@@ -1,0 +1,22 @@
+---
+name: Free and Open Source Software Developers' European Meeting (FOSDEM)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "719717"
+url: https://raw.githubusercontent.com/api-network/organizations/main/free-and-open-source-software-developers-european-meeting-fosdem.yaml
+tags:
+- Conferences
+apis: []
+x-common:
+- type: x-website
+  url: https://www.fosdem.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

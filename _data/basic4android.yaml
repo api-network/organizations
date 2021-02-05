@@ -1,0 +1,41 @@
+---
+name: Basic4android
+description: Rapid application development tools for native Android, iOS, IoT and
+  more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "95345"
+url: https://raw.githubusercontent.com/api-network/organizations/main/basic4android.yaml
+tags:
+- Programming
+- IoT
+- IOS
+- Development
+- Developer Resources
+- Basic
+- Android
+apis: []
+x-common:
+- type: x-website
+  url: http://www.b4x.com
+- type: x-forum
+  url: https://www.b4x.com/android/forum/
+- type: x-forum
+  url: https://www.b4x.com/android/forum/help/privacy-policy
+- type: x-github
+  url: https://github.com/AnywhereSoftware
+- type: x-showcase
+  url: https://www.b4x.com/showcase.html
+- type: x-twitter
+  url: https://twitter.com/Basic4android
+- type: x-website
+  url: https://www.b4x.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

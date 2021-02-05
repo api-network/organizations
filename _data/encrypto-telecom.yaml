@@ -1,0 +1,28 @@
+---
+name: Encrypto Telecom
+description: The First Secure Cloud Private Branch/Bussines eXchange (PBX)
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27023-encryptotel-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1017444"
+url: https://raw.githubusercontent.com/api-network/organizations/main/encrypto-telecom.yaml
+tags:
+- Networks
+- ISP
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://encryptotel.com
+- type: x-twitter
+  url: https://twitter.com/encryptotel
+- type: x-website
+  url: https://encryptotel.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

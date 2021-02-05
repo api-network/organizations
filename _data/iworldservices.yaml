@@ -1,0 +1,31 @@
+---
+name: iWorldServices
+description: iWorldServices, Inc. | A-Z Business Wholesale VoIP Provider Since 2007.
+  Wholesale VoIP Termination Provider, VoIP Reseller Programs, Mobile/PC/Device.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/iworldservices.yaml
+tags:
+- Wholesale Voip Termination
+- Wholesale Voip Reseller
+- Wholesale VoIP Provider
+- Wholesale Voip
+- Voip Wholesale Rates
+- Voip Reseller
+- SIP Trunking
+- SIP Termination
+- Internet Phone
+apis: []
+x-common:
+- type: x-website
+  url: https://www.iworldservices.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

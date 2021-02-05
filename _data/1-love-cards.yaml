@@ -1,0 +1,38 @@
+---
+name: '#1 Love Cards'
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/1-love-cards.yaml
+tags:
+- E-greetings
+apis: []
+x-common:
+- type: x-about
+  url: https://1lovecards.com/about-me/
+- type: x-feed
+  url: https://1lovecards.com/feed/
+- type: x-feed
+  url: https://1lovecards.com/comments/feed/
+- type: x-login
+  url: https://1lovecards.com/wp-login.php
+- type: x-press
+  url: https://wordpress.org/
+- type: x-privacy
+  url: https://1lovecards.com/privacy-policy/
+- type: x-support
+  url: https://1lovecards.com/help/
+- type: x-terms-of-service
+  url: https://1lovecards.com/terms-of-service/
+- type: x-website
+  url: https://www.1lovecards.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

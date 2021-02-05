@@ -1,0 +1,36 @@
+---
+name: Binary24
+description: Binary Options Platform, trade 24/7 on Cryptocurrencies, Forex and many
+  more! Bitcoin, Dash, Litecoin & Ethereum accepted. Anonymous accounts.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28898-binary24-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1624543"
+url: https://raw.githubusercontent.com/api-network/organizations/main/binary24.yaml
+tags:
+- Have API Paths
+- Blockchain
+apis: []
+x-common:
+- type: x-documentation
+  url: https://binary24.github.io/#/api/
+- type: x-github
+  url: https://github.com/binary24
+- type: x-website
+  url: http://www.binary24.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/go-binary-24-7
+- type: x-email
+  url: support@binary24.com
+- type: x-twitter
+  url: https://twitter.com/Binary24com
+- type: x-website
+  url: https://binary24.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,68 @@
+---
+name: Web Usability and Promotion
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/web-usability-and-promotion.yaml
+tags:
+- Weblogs
+apis: []
+x-common:
+- type: x-blog
+  url: http://wusability.blogspot.com/2007/09/jquery.html
+- type: x-blog
+  url: http://wusability.blogspot.com/2005/02/
+- type: x-blog
+  url: http://wusability.blogspot.com/2005/06/
+- type: x-blog
+  url: http://wusability.blogspot.com/2005/07/
+- type: x-blog
+  url: http://wusability.blogspot.com/2005/08/
+- type: x-blog
+  url: http://wusability.blogspot.com/2005/10/
+- type: x-blog
+  url: http://wusability.blogspot.com/2005/11/
+- type: x-blog
+  url: http://wusability.blogspot.com/2005/12/
+- type: x-blog
+  url: http://wusability.blogspot.com/2006/01/
+- type: x-blog
+  url: http://wusability.blogspot.com/2006/02/
+- type: x-blog
+  url: http://wusability.blogspot.com/2006/06/
+- type: x-blog
+  url: http://wusability.blogspot.com/2006/07/
+- type: x-blog
+  url: http://wusability.blogspot.com/2006/08/
+- type: x-blog
+  url: http://wusability.blogspot.com/2006/09/
+- type: x-blog
+  url: http://wusability.blogspot.com/2006/10/
+- type: x-blog
+  url: http://wusability.blogspot.com/2006/11/
+- type: x-blog
+  url: http://wusability.blogspot.com/2006/12/
+- type: x-blog
+  url: http://wusability.blogspot.com/2007/09/
+- type: x-blog
+  url: http://wusability.blogspot.com/2008/01/
+- type: x-blog
+  url: http://wusability.blogspot.com/search/label/ria
+- type: x-blog
+  url: http://wusability.blogspot.com/search/label/satyam
+- type: x-blog
+  url: http://wusability.blogspot.com/search/label/usability
+- type: x-blog
+  url: http://wusability.blogspot.com/search/label/uxm
+- type: x-website
+  url: https://wusability.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

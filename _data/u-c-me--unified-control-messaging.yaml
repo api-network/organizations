@@ -1,0 +1,52 @@
+---
+name: U.C.ME - Unified Control Messaging
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2960679"
+url: https://raw.githubusercontent.com/api-network/organizations/main/u-c-me--unified-control-messaging.yaml
+tags:
+- Automation
+apis: []
+x-common:
+- type: x-website
+  url: http://www.controlsee.com
+- type: x-about
+  url: https://www.controlsee.com/about-us/
+- type: x-about
+  url: https://www.controlsee.com/about-us/corporate-info/
+- type: x-about
+  url: https://www.controlsee.com/about-us/employment/
+- type: x-contact
+  url: https://www.controlsee.com/support/contact-support/
+- type: x-contact
+  url: https://www.controlsee.com/contact-us/
+- type: x-customers
+  url: https://www.controlsee.com/customers/oems/
+- type: x-customers
+  url: https://www.controlsee.com/customers/end-users/
+- type: x-news
+  url: https://www.controlsee.com/news-events/
+- type: x-partner
+  url: https://www.controlsee.com/partners/
+- type: x-partner
+  url: https://www.controlsee.com/partners/affiliations/
+- type: x-privacy
+  url: https://www.controlsee.com/privacy-statement/
+- type: x-support
+  url: https://www.controlsee.com/support/remote-support/
+- type: x-twitter
+  url: https://twitter.com/ControlSeeLtd
+- type: x-website
+  url: https://www.controlsee.com
+- type: x-youtube
+  url: https://www.youtube.com/user/ControlSeeCom/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

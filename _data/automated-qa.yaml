@@ -1,0 +1,27 @@
+---
+name: Automated QA
+description: "TruRT\u2019s codeless platform is not only easy to use but also intuitive.
+  It is rich in features that one would expect from an enterprise web testing tool.
+  It offers a variety of integrations, remote test executions, advanced notifications,
+  and comprehensive reporting among other productive features."
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/automated-qa.yaml
+tags:
+- Testing
+- Profile
+- Monitoring
+apis: []
+x-common:
+- type: x-website
+  url: http://cloudqa.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

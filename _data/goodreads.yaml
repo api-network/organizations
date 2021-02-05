@@ -1,0 +1,56 @@
+---
+name: Goodreads
+description: "Find and read more books you\xE2\x80\x99ll love, and keep track of the
+  books you want to read. Be part of the world\xE2\x80\x99s largest community of book
+  lovers on Goodreads."
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/415_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "295"
+url: https://raw.githubusercontent.com/api-network/organizations/main/goodreads.yaml
+tags:
+- Reviews
+- Marketplaces
+- Have API
+- Books
+- API Provider
+apis: []
+x-common:
+- type: x-base
+  url: https://www.goodreads.com/
+- type: x-blog
+  url: http://www.goodreads.com/blog
+- type: x-blog-rss
+  url: http://www.goodreads.com/blog/list_rss.xml
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/goodreads
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/goodreads
+- type: x-developers
+  url: http://www.goodreads.com/api
+- type: x-email
+  url: press@goodreads.com
+- type: x-email
+  url: copyright@goodreads.com
+- type: x-facebook
+  url: https://www.facebook.com/Goodreads/
+- type: x-github
+  url: https://github.com/goodreads
+- type: x-instagram
+  url: https://www.instagram.com/goodreads/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/goodreads-com/
+- type: x-support
+  url: https://help.goodreads.com
+- type: x-twitter
+  url: https://twitter.com/goodreads
+- type: x-website
+  url: http://www.goodreads.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

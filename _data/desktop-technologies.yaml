@@ -1,0 +1,26 @@
+---
+name: Desktop Technologies
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8354421"
+url: https://raw.githubusercontent.com/api-network/organizations/main/desktop-technologies.yaml
+tags:
+- Broadcast
+apis: []
+x-common:
+- type: x-news
+  url: https://www.newsboss.com/
+- type: x-news
+  url: http://www.newsboss.com/login
+- type: x-website
+  url: https://www.newsboss.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

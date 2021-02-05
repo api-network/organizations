@@ -1,0 +1,43 @@
+---
+name: 2016.spaceappschallenge.org
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "207190"
+url: https://raw.githubusercontent.com/api-network/organizations/main/2016-spaceappschallenge-org.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://spaceappschallenge.org
+- type: x-curated-source
+  url: https://2016.spaceappschallenge.org/challenge/skymorph-imagery-api/
+- type: x-website
+  url: http://2016.spaceappschallenge.org
+- type: x-about
+  url: http://www.nasa.gov/about/highlights/HP_Privacy.html
+- type: x-facebook
+  url: https://www.facebook.com/spaceappschallenge
+- type: x-open-source
+  url: https://open.nasa.gov/innovation-space/nyspacetag/
+- type: x-open-source
+  url: https://open.nasa.gov/innovation-space/natev-explorer/
+- type: x-open-source
+  url: https://open.nasa.gov/innovation-space/cropp/
+- type: x-open-source
+  url: https://open.nasa.gov/innovation-space/arachnobeea/
+- type: x-open-source
+  url: https://open.nasa.gov/innovation-space/valkyrie/
+- type: x-twitter
+  url: https://twitter.com/spaceapps
+- type: x-youtube
+  url: https://www.youtube.com/user/AppsChallenge
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

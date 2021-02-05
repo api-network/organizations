@@ -1,0 +1,75 @@
+---
+name: OpenColorado
+description: OpenColorado is working to make public data available and accessible
+  to the citizens of Colorado.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/OpenColorado.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/opencolorado.yaml
+tags:
+- State Government
+- Have API
+- Colorado
+apis: []
+x-common:
+- type: x-base
+  url: http://data.opencolorado.org/api/
+- type: x-blog
+  url: http://opencolorado.org/blog/
+- type: x-blog-rss
+  url: http://opencolorado.org/feed/
+- type: x-contact
+  url: https://opencolorado.org/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/opencolorado
+- type: x-github
+  url: https://github.com/opencolorado
+- type: x-open-source
+  url: https://opencolorado.org/
+- type: x-open-source
+  url: http://data.opencolorado.org/dataset
+- type: x-open-source
+  url: https://opencolorado.org/recent-posts/
+- type: x-open-source
+  url: https://opencolorado.org/citycamp-colorado/
+- type: x-open-source
+  url: https://opencolorado.org/get-involved/
+- type: x-open-source
+  url: https://opencolorado.org/about/
+- type: x-open-source
+  url: https://opencolorado.org/support/
+- type: x-open-source
+  url: https://bouldercolorado.gov/open-data
+- type: x-open-source
+  url: https://github.com/opencolorado
+- type: x-open-source
+  url: https://www.denvergov.org/opendata
+- type: x-open-source
+  url: https://arvada.org/city-hall/transparency/opendata
+- type: x-open-source
+  url: https://opencolorado.org/category/blog/
+- type: x-open-source
+  url: https://opencolorado.org/category/visuals/
+- type: x-open-source
+  url: https://opencolorado.org/category/data/
+- type: x-open-source
+  url: https://opencolorado.org/category/citycamp/
+- type: x-open-source
+  url: https://opencolorado.org/category/apps/
+- type: x-open-source
+  url: https://opencolorado.org/2010/11/19/rtd-mobile-app/
+- type: x-open-source
+  url: https://opencolorado.org/2010/11/19/crimereports-com/
+- type: x-twitter
+  url: https://twitter.com/opencolorado
+- type: x-website
+  url: http://opencolorado.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

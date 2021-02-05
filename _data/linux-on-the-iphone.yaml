@@ -1,0 +1,68 @@
+---
+name: Linux on the iPhone
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/linux-on-the-iphone.yaml
+tags:
+- Software
+apis: []
+x-common:
+- type: x-blog
+  url: https://linuxoniphone.blogspot.com/search/label/audio
+- type: x-blog
+  url: https://linuxoniphone.blogspot.com/
+- type: x-blog
+  url: https://linuxoniphone.blogspot.com/2010/
+- type: x-blog
+  url: https://linuxoniphone.blogspot.com/2010/07/
+- type: x-blog
+  url: https://linuxoniphone.blogspot.com/2010/05/
+- type: x-blog
+  url: https://linuxoniphone.blogspot.com/2010/04/
+- type: x-blog
+  url: https://linuxoniphone.blogspot.com/2010/03/
+- type: x-blog
+  url: https://linuxoniphone.blogspot.com/2009/
+- type: x-blog
+  url: https://linuxoniphone.blogspot.com/2009/03/
+- type: x-blog
+  url: https://linuxoniphone.blogspot.com/2009/02/
+- type: x-blog
+  url: https://linuxoniphone.blogspot.com/2008/
+- type: x-blog
+  url: https://linuxoniphone.blogspot.com/2008/12/
+- type: x-blog
+  url: https://linuxoniphone.blogspot.com/2008/11/
+- type: x-blog
+  url: https://linuxoniphone.blogspot.com/2008/10/
+- type: x-blog
+  url: https://linuxoniphone.blogspot.com/2008/08/
+- type: x-blog
+  url: https://linuxoniphone.blogspot.com/2008/07/
+- type: x-blog
+  url: https://linuxoniphone.blogspot.com/2008/06/
+- type: x-blog
+  url: https://www.blogger.com/profile/07912056455402609087
+- type: x-blog
+  url: https://www.blogger.com/profile/02677092871921550202
+- type: x-feed
+  url: https://linuxoniphone.blogspot.com/feeds/posts/default
+- type: x-forum
+  url: http://www.idroidproject.org/forum/index.php
+- type: x-github
+  url: http://www.github.com/planetbeing/iphonelinux/
+- type: x-twitter
+  url: http://twitter.com/planetbeing
+- type: x-website
+  url: https://linuxoniphone.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,59 @@
+---
+name: Servaris
+description: Intel Rack Servers and Tower Servers. Best Quality Best Performance Lowest
+  Cost of Owernership. Fast Mini Desktop PC Computers with Core I3 Core I5 Intel Processors
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/servaris.yaml
+tags:
+- Windows Server
+- Web Server
+- Ubuntu
+- Tower Server
+- SuSE
+- Servers
+- Server Support
+- Server
+- Red Hat
+- Raid Subsystem
+- Raid Storage
+- Raid
+- Rackmount
+- Rack Server
+- Rack Mount
+- Mini PC
+- Mini Desktop
+- Mini Computer
+- Medical Server
+- Linux
+- FreeBSD
+- Fedora
+- Dns Server
+- Desktop Computer
+- Database Server
+- Data Storage
+- Cloud Servers
+- Cloud Server
+- Centos
+- Blade Servers
+- Blade Server
+- Blade
+- 2u Rack Mount
+- 2u
+- 1u
+apis: []
+x-common:
+- type: x-privacy
+  url: http://www.servaris.com/privacy.php
+- type: x-website
+  url: https://www.servaris.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

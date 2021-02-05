@@ -1,0 +1,37 @@
+---
+name: http://sphereinc.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "796236"
+url: https://raw.githubusercontent.com/api-network/organizations/main/httpsphereinc-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.SphereInc.com
+- type: x-about
+  url: https://www.sphereinc.com/about-us/
+- type: x-contact
+  url: https://www.sphereinc.com/contact-us/
+- type: x-events
+  url: https://www.sphereinc.com/upcoming-events/
+- type: x-instagram
+  url: https://www.instagram.com/sphereinc_official/
+- type: x-news
+  url: https://www.sphereinc.com/category/document-type/news/
+- type: x-privacy
+  url: https://sphereinc.com/privacy-policy-2/
+- type: x-twitter
+  url: https://twitter.com/SphereSW
+- type: x-website
+  url: http://sphereinc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

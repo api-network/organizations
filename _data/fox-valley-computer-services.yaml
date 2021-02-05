@@ -1,0 +1,26 @@
+---
+name: Fox Valley Computer Services
+description: Professional computer repair for St Charles, Batavia and Geneva IL
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fox-valley-computer-services.yaml
+tags:
+- Illinois
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.foxvalleycomputerservices.com/blog/
+- type: x-contact
+  url: https://www.foxvalleycomputerservices.com/contact/
+- type: x-website
+  url: https://www.foxvalleycomputerservices.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

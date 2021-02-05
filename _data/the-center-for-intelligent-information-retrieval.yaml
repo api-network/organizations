@@ -1,0 +1,24 @@
+---
+name: The Center for Intelligent Information Retrieval
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7221"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-center-for-intelligent-information-retrieval.yaml
+tags:
+- Information Retrieval
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/wbc11
+- type: x-website
+  url: https://ciir.cs.umass.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

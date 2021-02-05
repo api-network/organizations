@@ -1,0 +1,58 @@
+---
+name: Helsinki Institute for Information Technology
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1450507"
+url: https://raw.githubusercontent.com/api-network/organizations/main/helsinki-institute-for-information-technology.yaml
+tags:
+- Finland
+apis: []
+x-common:
+- type: x-about
+  url: https://www.hiit.fi/about-hiit/
+- type: x-about
+  url: https://www.hiit.fi/about-hiit/board/
+- type: x-about
+  url: https://www.hiit.fi/about-hiit/steering-group/
+- type: x-about
+  url: https://www.hiit.fi/about-hiit/organisation-chart/
+- type: x-about
+  url: https://www.hiit.fi/about-hiit/annual-reports/
+- type: x-about
+  url: https://www.hiit.fi/about/
+- type: x-contact
+  url: https://www.hiit.fi/about-hiit/contact-information/
+- type: x-logos
+  url: https://www.hiit.fi/about-hiit/logos-and-templates/
+- type: x-news
+  url: https://www.hiit.fi/news-and-events/
+- type: x-news
+  url: https://www.hiit.fi/news-and-events/highlights/
+- type: x-news
+  url: https://www.hiit.fi/news-and-events/news/
+- type: x-news
+  url: https://www.hiit.fi/news-and-events/events/
+- type: x-news
+  url: https://hiit.fi/news-and-events/highlights/
+- type: x-privacy
+  url: https://www.hiit.fi/about-hiit/privacy-policy/
+- type: x-support
+  url: https://www.hiit.fi/support-for-researchers/
+- type: x-twitter
+  url: https://twitter.com/HIIT
+- type: x-twitter
+  url: https://twitter.com/hiit?lang=en
+- type: x-website
+  url: https://www.hiit.fi
+- type: x-youtube
+  url: https://www.youtube.com/user/HIITTV
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

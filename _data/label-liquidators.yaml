@@ -1,0 +1,37 @@
+---
+name: Label Liquidators
+description: Shop Thermal Labels for Zebra, Dymo, TSC printers and more, as well as
+  Primera compatible labels. 100% quality guaranteed. Low prices, priced in bulk.
+  Shop now and save today!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/label-liquidators.yaml
+tags:
+- Thermal
+- Homepage
+apis: []
+x-common:
+- type: x-about
+  url: https://www.labelliquidators.com/about_us.php
+- type: x-contact
+  url: https://www.labelliquidators.com/contact_vs.php
+- type: x-login
+  url: https://www.labelliquidators.com/login.php
+- type: x-privacy
+  url: https://www.labelliquidators.com/privacy.php
+- type: x-security
+  url: https://www.diywindowsecurity.com
+- type: x-support
+  url: https://www.labelliquidators.com/help.php
+- type: x-website
+  url: https://www.labelliquidators.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,48 @@
+---
+name: hackademix.net
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10268647"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hackademix-net.yaml
+tags:
+- Personal Pages
+apis: []
+x-common:
+- type: x-about
+  url: https://hackademix.net/about/
+- type: x-blog
+  url: http://jeremiahgrossman.blogspot.com
+- type: x-blog
+  url: http://sirdarckcat.blogspot.com/
+- type: x-forum
+  url: https://noscript.net/forum
+- type: x-open-source
+  url: https://www.opentech.fund
+- type: x-press
+  url: https://hackademix.net/category/hacking_wordpress/
+- type: x-press
+  url: http://wordpress.org/
+- type: x-press
+  url: http://www.onehertz.com/portfolio/wordpress/
+- type: x-security
+  url: https://hackademix.net/category/security/xss/
+- type: x-security
+  url: https://hackademix.net/category/security/advisories/
+- type: x-security
+  url: https://hackademix.net/category/security/clickjacking/
+- type: x-security
+  url: https://hackademix.net/category/security/csrf/
+- type: x-security
+  url: https://hackademix.net/category/security/
+- type: x-website
+  url: https://hackademix.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

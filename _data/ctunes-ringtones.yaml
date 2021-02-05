@@ -1,0 +1,29 @@
+---
+name: CTunes Ringtones
+description: "Free music ringtones in MP3 and iPhone format. Funny, classical, Christmas.\r\n
+  \ All free realtones, no sales, no subscription, unrestricted downloads."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ctunes-ringtones.yaml
+tags:
+- Truetones
+- Ringtones
+- Musictones
+- IPhone
+- Free Realtones
+- Classical
+- Cellular Add-ons
+apis: []
+x-common:
+- type: x-website
+  url: https://www.ctunes.eu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,92 @@
+---
+name: Teamwork.com
+description: com is an Irish, privately owned, developer-led web-based company based
+  in Cork, Ireland.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29010-developer-teamwork-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6855"
+url: https://raw.githubusercontent.com/api-network/organizations/main/teamwork-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.teamwork.com
+- type: x-about
+  url: https://www.teamwork.com/about/
+- type: x-blog
+  url: https://blog.teamwork.com/
+- type: x-careers
+  url: https://careers.teamwork.com/
+- type: x-contact
+  url: https://www.teamwork.com/contact
+- type: x-contact
+  url: https://teamwork.com/contact/?developer=1
+- type: x-contact
+  url: https://teamwork.com/contact/?developers=1
+- type: x-contact
+  url: https://www.teamwork.com/contact/?developer=1
+- type: x-contact
+  url: https://www.teamwork.com/contact/
+- type: x-contact
+  url: https://www.teamwork.com/contact/?partner=1
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/teamwork-project-manager
+- type: x-developer
+  url: http://developer.developer.teamwork.com
+- type: x-developer
+  url: https://developer.teamwork.com/projects/
+- type: x-developer
+  url: https://developer.teamwork.com/desk/
+- type: x-developer
+  url: https://developer.teamwork.com/crm/
+- type: x-developer
+  url: https://developer.teamwork.com/spaces/
+- type: x-email
+  url: marketing@teamwork.com
+- type: x-facebook
+  url: https://www.facebook.com/TeamworkHQ
+- type: x-instagram
+  url: https://www.instagram.com/teamworkhq
+- type: x-integrations
+  url: https://integrations.teamwork.com/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/teamwork-com
+- type: x-login
+  url: https://www.teamwork.com/login
+- type: x-partner
+  url: https://www.teamwork.com/partners/
+- type: x-press
+  url: https://www.teamwork.com/about/press/
+- type: x-security
+  url: https://www.teamwork.com/security/
+- type: x-status
+  url: https://status.teamwork.com/
+- type: x-support
+  url: https://www.teamwork.com/support/
+- type: x-terms-of-service
+  url: https://www.teamwork.com/legal/terms-of-service/
+- type: x-terms-of-service
+  url: https://www.teamwork.com/legal/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.teamwork.com/legal/privacy-statement/
+- type: x-terms-of-service
+  url: https://www.teamwork.com/legal/cookie-policy/
+- type: x-twitter
+  url: https://twitter.com/teamwork
+- type: x-twitter
+  url: https://twitter.com/teamworkapi
+- type: x-webhooks
+  url: https://developer.teamwork.com/projects/webhooks/overview
+- type: x-website
+  url: https://developer.teamwork.com
+- type: x-youtube
+  url: https://www.youtube.com/user/TeamworkPM
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

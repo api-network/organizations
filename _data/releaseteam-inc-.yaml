@@ -1,0 +1,47 @@
+---
+name: ReleaseTEAM Inc.
+description: Delivering Software Development Solutions | DevOps Support, Tools, Assessments,
+  Evaluations, Migrations, Implementations, Training, Staffing Options
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "405069"
+url: https://raw.githubusercontent.com/api-network/organizations/main/releaseteam-inc-.yaml
+tags:
+- ClearCase
+apis: []
+x-common:
+- type: x-website
+  url: https://www.releaseteam.com/
+- type: x-about
+  url: https://www.releaseteam.com/about-releaseteam/
+- type: x-blog
+  url: https://www.releaseteam.com/blog/
+- type: x-careers
+  url: https://www.releaseteam.com/careers/
+- type: x-contact
+  url: https://www.releaseteam.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/ReleaseTEAMInc/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/releaseteam/
+- type: x-news
+  url: https://www.releaseteam.com/newsletter/
+- type: x-support
+  url: https://www.releaseteam.com/ansible-support/
+- type: x-support
+  url: https://www.releaseteam.com/jenkins-support/
+- type: x-support
+  url: https://www.releaseteam.com/git-support/
+- type: x-twitter
+  url: https://twitter.com/releaseteam
+- type: x-website
+  url: https://www.releaseteam.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

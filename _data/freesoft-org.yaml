@@ -1,0 +1,32 @@
+---
+name: Free-soft.org
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/freesoft-org.yaml
+tags:
+- Open Source
+apis: []
+x-common:
+- type: x-open-source
+  url: http://www.opensource.org
+- type: x-open-source
+  url: http://www.opensource.org/osd.html
+- type: x-open-source
+  url: https://www.openbsd.org/
+- type: x-open-source
+  url: https://www.openoffice.org/
+- type: x-open-source
+  url: http://www.opensource.org/
+- type: x-website
+  url: https://www.free-soft.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

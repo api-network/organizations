@@ -1,0 +1,23 @@
+---
+name: equities.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/equities-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: https://www.equities.com/news/patent-issued-for-image-processing-system-image-processing-method-and-program-which-changes-the-position-of-the-viewing-point-in-a-first-range-and
+- type: x-website
+  url: http://equities.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

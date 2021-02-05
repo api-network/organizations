@@ -1,0 +1,61 @@
+---
+name: Help-Systems
+description: HelpSystems aligns IT & business goals to help organizations build a
+  competitive edge. Our IT management software solutions keep business running smoothly.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "133916"
+url: https://raw.githubusercontent.com/api-network/organizations/main/helpsystems.yaml
+tags:
+- Systems Management
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.helpsystems.com/contact-us
+- type: x-linkedin
+  url: https://www.linkedin.com/company/115439?trk=tyah
+- type: x-security
+  url: https://www.helpsystems.com/solutions/cybersecurity
+- type: x-support
+  url: https://community.helpsystems.com
+- type: x-support
+  url: https://community.helpsystems.com/knowledge-base/
+- type: x-support
+  url: https://www.helpsystems.com/product-lines/jams
+- type: x-support
+  url: https://www.helpsystems.com/product-lines/intermapper
+- type: x-support
+  url: https://www.helpsystems.com/product-lines/vityl
+- type: x-support
+  url: https://www.helpsystems.com/product-lines/sequel
+- type: x-support
+  url: https://www.helpsystems.com/product-lines/halcyon
+- type: x-support
+  url: https://www.helpsystems.com/product-lines/insite
+- type: x-support
+  url: https://www.helpsystems.com/product-lines/helpsystems
+- type: x-support
+  url: https://www.helpsystems.com/product-lines/automate
+- type: x-support
+  url: https://www.helpsystems.com/product-lines/robot
+- type: x-support
+  url: https://www.helpsystems.com/product-lines/goanywhere
+- type: x-support
+  url: https://www.helpsystems.com/product-lines/powertech
+- type: x-support
+  url: https://www.helpsystems.com/solutions/automation
+- type: x-support
+  url: https://www.helpsystems.com/solutions/cloud-management
+- type: x-support
+  url: https://www.helpsystems.com/resources/p/type/0__guide
+- type: x-website
+  url: https://www.helpsystems.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

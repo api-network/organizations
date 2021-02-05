@@ -1,0 +1,52 @@
+---
+name: The C++ Portable Components
+description: The POCO C++ Libraries are powerful cross-platform and open source C++
+  class libraries for building network- and internet-based applications that run on
+  desktop, server, mobile, IoT and embedded systems.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "322561"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-c-portable-components.yaml
+tags:
+- Web
+- Threads
+- Sqlite
+- SMTP
+- Server
+- Redis
+- PostGreSQL
+- POP3
+- Poco
+- ODBC
+- MySQL
+- MongoDB
+- Logging
+- Library
+- HTTPS
+- HTTP
+- FTP
+- Filesystem
+- Embedded
+- Database
+- Cross-platform
+- Class Libraries
+- C++
+apis: []
+x-common:
+- type: x-website
+  url: http://pocoproject.org
+- type: x-github
+  url: https://github.com/pocoproject/poco
+- type: x-twitter
+  url: https://twitter.com/pocoproject
+- type: x-website
+  url: https://pocoproject.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,52 @@
+---
+name: Softrax Corporation
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2952599"
+url: https://raw.githubusercontent.com/api-network/organizations/main/softrax-corporation.yaml
+tags:
+- ERP
+apis: []
+x-common:
+- type: x-website
+  url: http://www.softrax.com
+- type: x-about
+  url: https://www.softrax.com/about/overview
+- type: x-about
+  url: https://www.softrax.com/about/executive-leadership
+- type: x-blog
+  url: https://www.softrax.com/blog
+- type: x-careers
+  url: https://www.softrax.com/careers
+- type: x-contact
+  url: https://www.softrax.com/about/contact-us
+- type: x-customers
+  url: https://www.softrax.com/customers/overview
+- type: x-customers
+  url: https://www.softrax.com/customers/testimonials
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/3749390
+- type: x-linkedin
+  url: https://www.linkedin.com/company/18600
+- type: x-news
+  url: https://www.softrax.com/news-and-events/overview
+- type: x-partner
+  url: https://www.softrax.com/about/partners
+- type: x-privacy
+  url: https://www.softrax.com/about/privacy
+- type: x-twitter
+  url: https://twitter.com/SoftraxCorp
+- type: x-website
+  url: https://www.softrax.com
+- type: x-youtube
+  url: http://www.youtube.com/user/softraxsolutions
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

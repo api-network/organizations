@@ -1,0 +1,47 @@
+---
+name: LexisNexis InterAction
+description: This Business Development CRM Solution Assists in Turning Your Contacts
+  Into Opportunities Through its Relationship Intelligence.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1550675"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lexisnexis-interaction.yaml
+tags:
+- Sales And Marketing Productivity
+apis: []
+x-common:
+- type: x-website
+  url: http://businessoflawblog.com/
+- type: x-facebook
+  url: https://www.facebook.com/LexisNexisLegal/
+- type: x-feed
+  url: https://www.interaction.com/feed/
+- type: x-gdpr
+  url: https://www.interaction.com/gdpr-resources/
+- type: x-plans
+  url: https://www.interaction.com/plans/
+- type: x-press
+  url: http://www.wordpress.org
+- type: x-pricing
+  url: https://firmmanager.com/pricing/
+- type: x-support
+  url: http://support.lexisnexis.com/interaction
+- type: x-terms-of-service
+  url: https://www.linkedin.com/company/lexisnexislegal
+- type: x-terms-of-service
+  url: https://www.lexisnexis.com/terms/
+- type: x-terms-of-service
+  url: https://www.lexisnexis.com/terms/copyright.aspx
+- type: x-twitter
+  url: https://twitter.com/LexisNexisLegal
+- type: x-website
+  url: https://www.interaction.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,31 @@
+---
+name: Axigen
+description: Mail server software, calendaring & collaboration. Self hosted, all-in-one
+  email server built for speed & security. Runs on Linux, Windows & Docker.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "303566"
+url: https://raw.githubusercontent.com/api-network/organizations/main/axigen.yaml
+tags:
+- Mail
+apis: []
+x-common:
+- type: x-website
+  url: http://www.axigen.com
+- type: x-facebook
+  url: https://www.facebook.com/axigenmessaging
+- type: x-linkedin
+  url: https://www.linkedin.com/company/axigen-messaging
+- type: x-twitter
+  url: http://twitter.com/axigen
+- type: x-website
+  url: https://www.axigen.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

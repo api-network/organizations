@@ -1,0 +1,33 @@
+---
+name: Tactile CRM
+description: "Easy and simple to use affordable Web Based CRM. Contact management,
+  sales pipeline reporting & email management from \xA36/$9/month"
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/493-tactile-crm.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tactile-crm.yaml
+tags:
+- Rentable
+- Have API
+- CRM
+apis: []
+x-common:
+- type: x-website
+  url: http://www.tactilecrm.com/api/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/product/tactile-crm
+- type: x-email
+  url: support@tactilecrm.com
+- type: x-twitter
+  url: https://twitter.com/#!/tactilecrm
+- type: x-website
+  url: https://www.tactilecrm.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

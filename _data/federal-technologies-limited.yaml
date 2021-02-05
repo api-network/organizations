@@ -1,0 +1,44 @@
+---
+name: Federal Technologies Limited
+description: "Flex (NASDAQ: FLEX) is the Sketch-to-Scale\xAE solutions provider that
+  designs and builds intelligent products for a connected world."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "290895"
+url: https://raw.githubusercontent.com/api-network/organizations/main/federal-technologies-limited.yaml
+tags:
+- 'NASDAQ: FLEX'
+- Manufacturing
+- Logistics
+- Flex
+- Embedded
+- Concept Design
+apis: []
+x-common:
+- type: x-website
+  url: https://flex.com/
+- type: x-blog
+  url: http://blog.sina.com.cn/flextronicsofficialblog
+- type: x-facebook
+  url: https://www.facebook.com/flexcorporate
+- type: x-instagram
+  url: https://www.instagram.com/flexintl/
+- type: x-investor
+  url: https://investors.flex.com/home/default.aspx
+- type: x-linkedin
+  url: https://www.linkedin.com/company/flexintl
+- type: x-twitter
+  url: https://www.twitter.com/flexintl
+- type: x-website
+  url: https://www.flextronics.com
+- type: x-youtube
+  url: https://www.youtube.com/user/FlextronicsIntl
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

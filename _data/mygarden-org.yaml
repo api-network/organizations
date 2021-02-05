@@ -1,0 +1,52 @@
+---
+name: MyGarden.org
+description: Manage your garden online, receive specific information for your garden
+  and share your knowledge with others.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/logo_dark_en_US.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6328972"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mygarden-org.yaml
+tags:
+- Trees
+- Shopping
+- Have API
+- API Not Found
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.mygarden.org/notes/blog
+- type: x-blog
+  url: http://blog.mygarden.org/
+- type: x-blog-rss
+  url: http://blog.mygarden.org/feed
+- type: x-contact
+  url: https://www.mygarden.org/page/contact
+- type: x-developers
+  url: http://www.mygarden.org/dev/
+- type: x-email
+  url: helpdesk@mygarden.org
+- type: x-email
+  url: sales@mygarden.org
+- type: x-email
+  url: webmaster@mygarden.org
+- type: x-email
+  url: info@myGarden.org
+- type: x-login
+  url: https://www.mygarden.org/login/facebook
+- type: x-login
+  url: https://www.mygarden.org/login/twitter
+- type: x-login
+  url: https://www.mygarden.org/login/google
+- type: x-twitter
+  url: https://twitter.com/mygarden_org
+- type: x-website
+  url: http://www.mygarden.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

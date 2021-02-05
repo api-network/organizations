@@ -1,0 +1,26 @@
+---
+name: novell.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/novell-com.yaml
+tags:
+- NetWare
+apis: []
+x-common:
+- type: x-curated-source
+  url: https://www.novell.com/communities/coolsolutions/firewall-weak-heres/
+- type: x-website
+  url: http://novell.com
+- type: x-website
+  url: https://www.novell.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

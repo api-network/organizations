@@ -1,0 +1,25 @@
+---
+name: MyBliss - joelgardi | Papaly
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: ""
+url: https://raw.githubusercontent.com/api-network/organizations/main/mybliss--joelgardi--papaly.yaml
+tags:
+- Postman Doc Search
+- New
+apis: []
+x-common:
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/4187196/S1a1Ynyu
+- type: x-website
+  url: http://papaly.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

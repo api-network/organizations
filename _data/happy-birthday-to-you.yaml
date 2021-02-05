@@ -1,0 +1,44 @@
+---
+name: Happy Birthday to You
+description: Singing Birthday Cards. We sing your recipient's name in a version of
+  Happy Birthday! You choose it. We'll sing it. They'll love it!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2177397"
+url: https://raw.githubusercontent.com/api-network/organizations/main/happy-birthday-to-you.yaml
+tags:
+- Singing
+- Occasions
+- Musical Cards
+- Muglets
+- Happybirthdaytoyou.com
+- Happy Birthday
+- Greetings
+- Greeting Card
+- Funny
+- Electronic Greeting Card
+- Egreetings
+- Ecards
+- E-greetings
+- E-cards
+- Birthday E-cards
+- Birthday E-card
+- Birthday Cards
+- Birthday Card
+- Birthday
+- Animated
+apis: []
+x-common:
+- type: x-twitter
+  url: http://twitter.com/share
+- type: x-website
+  url: https://www.happybirthdaytoyou.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

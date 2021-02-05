@@ -1,0 +1,92 @@
+---
+name: ShareThis
+description: Customize, download and install our easy-to-use share buttons and other
+  publishing tools for your website or blog. Grow your audience. Win the internet!
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/476_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10613"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sharethis.yaml
+tags:
+- Social Sharing
+- Links
+- Links
+- JavaScript
+- Have API
+- Copy
+apis: []
+x-common:
+- type: x-website
+  url: https://www.sharethis.com/blog/
+- type: x-about
+  url: https://sharethis.com/about/
+- type: x-base
+  url: http://rest.sharethis.com
+- type: x-blog
+  url: http://blog.sharethis.com
+- type: x-blog
+  url: https://sharethis.com/blog/
+- type: x-blog-rss
+  url: http://www.sharethis.com/feed/
+- type: x-contact
+  url: https://sharethis.com/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/sharethis
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/sharethis
+- type: x-developers
+  url: http://developer.sharethis.com/
+- type: x-email
+  url: info@sharethis.com
+- type: x-email
+  url: support@sharethis.com
+- type: x-email
+  url: pr@sharethis.com
+- type: x-email
+  url: privacy@sharethis.com
+- type: x-email
+  url: contentremoval@sharethis.com
+- type: x-gdpr
+  url: https://sharethis.com/gdpr-compliance-tool/
+- type: x-github
+  url: https://github.com/sharethis
+- type: x-platform
+  url: https://sharethis.com/platform/
+- type: x-platform
+  url: https://sharethis.com/platform/image-share-buttons/
+- type: x-platform
+  url: https://sharethis.com/platform/follow-buttons/
+- type: x-platform
+  url: https://sharethis.com/platform/reaction-buttons/
+- type: x-platform
+  url: https://sharethis.com/platform/social-ab/
+- type: x-platform
+  url: https://sharethis.com/platform/email-list-builder/
+- type: x-platform
+  url: https://platform.sharethis.com/
+- type: x-platform
+  url: https://sharethis.com/platform/share-buttons/
+- type: x-platform
+  url: https://sharethis.com/platform/follow-buttons/twitter/
+- type: x-platform
+  url: https://sharethis.com/platform/follow-buttons/wechat/
+- type: x-press
+  url: https://sharethis.com/press-releases/
+- type: x-privacy
+  url: https://sharethis.com/privacy/
+- type: x-support
+  url: https://sharethis.com/support/
+- type: x-terms-of-service
+  url: https://sharethis.com/publisher-terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/#!/sharethis
+- type: x-website
+  url: http://sharethis.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,25 @@
+---
+name: DUALITY SOLUTIONS
+description: Duality leverages a binary architecture consisting of the Dynamic blockchain
+  as a DAO and the Sequence blockchain as its real-world interface.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26928-duality-solutions.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1115276"
+url: https://raw.githubusercontent.com/api-network/organizations/main/duality-solutions.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/dualitychain
+- type: x-website
+  url: https://duality.solutions
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

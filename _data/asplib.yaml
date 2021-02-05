@@ -1,0 +1,28 @@
+---
+name: AspLib
+description: We write a lot of universal tips for you to prepare for motherhood. The
+  best tips on how to turn a pregnancy into 9 months of happiness.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/asplib.yaml
+tags:
+- Tools
+- Pregnancy Tips
+- Pregnancy Guide
+- Pregnancy Articles
+apis: []
+x-common:
+- type: x-privacy
+  url: https://asplib.net/privacy-policy/
+- type: x-website
+  url: https://asplib.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

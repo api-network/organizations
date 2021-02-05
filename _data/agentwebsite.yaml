@@ -1,0 +1,35 @@
+---
+name: AgentWebsite
+description: "Official Home of AGENTWEBSITE - Websites & Hosting for REALTORS\xAE
+  Agents & Brokers. From $29.00 ~ Support, E-mail, IDX, Free domain, Control Panel"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2180864"
+url: https://raw.githubusercontent.com/api-network/organizations/main/agentwebsite.yaml
+tags:
+- Real Estate
+apis: []
+x-common:
+- type: x-website
+  url: http://www.AgentWebsite.net
+- type: x-blog
+  url: https://blog.AgentWebsite.net
+- type: x-facebook
+  url: https://www.facebook.com/AgentWebsite
+- type: x-instagram
+  url: https://www.instagram.com/agentwebsite/
+- type: x-login
+  url: https://login.agentwebsite.net/forgot
+- type: x-twitter
+  url: https://www.twitter.com/agentwebsite
+- type: x-website
+  url: https://www.agentwebsite.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

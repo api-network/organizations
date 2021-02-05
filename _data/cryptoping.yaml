@@ -1,0 +1,29 @@
+---
+name: CryptoPing
+description: A service that monitors crypto markets and notifies you when a crypto
+  asset gets unusual amount of market action.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26477-cryptoping-tech.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "147358"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cryptoping.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/cryptoping
+- type: x-email
+  url: admin@cryptoping.tech
+- type: x-twitter
+  url: https://twitter.com/cryptoping
+- type: x-website
+  url: https://cryptoping.tech
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

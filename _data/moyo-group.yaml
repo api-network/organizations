@@ -1,0 +1,66 @@
+---
+name: Moyo Group
+description: "KalioTek\u2122 is a top technology management company for large and
+  small enterprises in the Bay Area and Silicon Valley."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/moyo-group.yaml
+tags:
+- Technology Management
+- IT Services
+- Computer Networking
+- California
+apis: []
+x-common:
+- type: x-about
+  url: https://www.kaliotek.com/about-us/
+- type: x-blog
+  url: https://www.kaliotek.com/category/blog/
+- type: x-careers
+  url: https://www.kaliotek.com/careers/
+- type: x-contact
+  url: https://www.kaliotek.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/Kaliotek/
+- type: x-gdpr
+  url: https://www.kaliotek.com/gdpr-compliance/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/kaliotek
+- type: x-partner
+  url: https://www.kaliotek.com/partners/
+- type: x-privacy
+  url: https://www.kaliotek.com/privacy-policy
+- type: x-security
+  url: https://www.kaliotek.com/data-security/
+- type: x-security
+  url: https://www.kaliotek.com/data-security
+- type: x-support
+  url: https://www.kaliotek.com/support/
+- type: x-support
+  url: https://www.kaliotek.com/information-services-support/
+- type: x-support
+  url: https://www.kaliotek.com/managed-it-support-company/
+- type: x-support
+  url: https://www.kaliotek.com/hipaa-compliance-support/
+- type: x-support
+  url: https://www.kaliotek.com/support
+- type: x-support
+  url: https://www.kaliotek.com/information-services-support
+- type: x-support
+  url: https://www.kaliotek.com/managed-it-support-company
+- type: x-twitter
+  url: https://twitter.com/Kaliotek
+- type: x-twitter
+  url: http://twitter.com/KalioTek/status/1091139234323410950
+- type: x-website
+  url: https://www.moyogroup.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

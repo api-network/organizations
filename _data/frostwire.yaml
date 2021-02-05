@@ -1,0 +1,46 @@
+---
+name: FrostWire
+description: FrostWire is a free and easy BitTorrent Client, Cloud Downloader and
+  Media Player for Windows, Mac, Linux and Android Search, Download, Play and Share
+  Files.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "277041"
+url: https://raw.githubusercontent.com/api-network/organizations/main/frostwire.yaml
+tags:
+- Video Player
+- Torrent Search Built-in
+- Torrent Client
+- Music Player
+- Media Player
+- Libtorrent
+- Jlibtorrent
+- Java
+- GNU GPL
+- Frostwire
+- Free Open Source
+- Free Download
+- Cloud Downloader
+- C++
+- BitTorrent Protocol
+- Bittorrent
+- Apache Licensed
+apis: []
+x-common:
+- type: x-forum
+  url: http://forum.frostwire.com/
+- type: x-press
+  url: http://frostwire.wordpress.com/
+- type: x-website
+  url: https://www.frostwire.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=A0p_DpOjpO8
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,23 @@
+---
+name: WinCopyDVD
+description: WinCopyDVD is a dvd ripper software and dvd copy software to convert
+  dvd to vcd/svcd and 1:1 true backup dvd software.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wincopydvd.yaml
+tags:
+- Digital Video
+apis: []
+x-common:
+- type: x-website
+  url: https://www.wincopydvd.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

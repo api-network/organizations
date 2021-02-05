@@ -1,0 +1,30 @@
+---
+name: Felipe J. Rabre, CPA
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/felipe-j--rabre-cpa.yaml
+tags:
+- North America
+apis: []
+x-common:
+- type: x-website
+  url: http://www.rabre.com
+- type: x-facebook
+  url: http://www.facebook.com/felipejrabrecpa
+- type: x-linkedin
+  url: http://www.linkedin.com/pub/felipe-j-rabre/18/a04/18b
+- type: x-twitter
+  url: http://twitter.com/FelipeJRabreCPA
+- type: x-website
+  url: https://www.rabre.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

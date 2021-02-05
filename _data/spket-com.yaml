@@ -1,0 +1,27 @@
+---
+name: Spket.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/spket-com.yaml
+tags:
+- Editors
+- Add-on Development
+apis: []
+x-common:
+- type: x-blog
+  url: https://spket.blogspot.com/
+- type: x-forum
+  url: http://forums.spket.com/viewtopic.php?f=3&t=3563
+- type: x-website
+  url: https://www.spket.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

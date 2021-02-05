@@ -1,0 +1,32 @@
+---
+name: N/C Software, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "25955"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nc-software-inc-.yaml
+tags:
+- NC Verification Editors Calculators
+apis: []
+x-common:
+- type: x-careers
+  url: http://us.ncsoft.com/careers
+- type: x-contact
+  url: http://us.ncsoft.com/contact-us
+- type: x-facebook
+  url: https://www.facebook.com/NCSOFTWest/
+- type: x-support
+  url: http://us.ncsoft.com/support
+- type: x-twitter
+  url: https://twitter.com/NCSOFT_West
+- type: x-website
+  url: https://www.ncsoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

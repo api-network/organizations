@@ -1,0 +1,60 @@
+---
+name: Sundance
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2038358"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sundance.yaml
+tags:
+- Boards
+apis: []
+x-common:
+- type: x-website
+  url: http://www.sundance.com
+- type: x-about
+  url: https://www.sundance.com/about-sundance/
+- type: x-about
+  url: https://www.sundance.com/about-sundance/iso9001-2015/
+- type: x-about
+  url: http://www.sundance.com/about-sundance/disclaimer/
+- type: x-blog
+  url: https://www.sundance.com/sundance-blog/
+- type: x-contact
+  url: https://www.sundance.com/contact-sundance/
+- type: x-contact
+  url: http://www.sundance.com/contact-sundance/contact-form/
+- type: x-facebook
+  url: https://www.facebook.com/SundanceDotCom
+- type: x-github
+  url: https://github.com/SundanceMultiprocessorTechnology
+- type: x-instagram
+  url: https://www.instagram.com/sundancedotcom/
+- type: x-news
+  url: https://www.sundance.com/about-sundance/newsletters/
+- type: x-news
+  url: https://www.sundance.com/sundance-in-the-news/
+- type: x-privacy
+  url: https://www.sundance.com/privacy-policy/
+- type: x-slideshare
+  url: http://www.slideshare.net/SundanceDotCom/presentations
+- type: x-slideshare
+  url: https://www.slideshare.net/SundanceDotCom
+- type: x-support
+  url: https://www.sundance.com/support-from-sundance/
+- type: x-support
+  url: http://support.sundance.com
+- type: x-twitter
+  url: https://twitter.com/sundancedotcom
+- type: x-website
+  url: https://www.sundance.com
+- type: x-youtube
+  url: https://www.youtube.com/user/SundanceVideos/videos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

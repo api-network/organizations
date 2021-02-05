@@ -1,0 +1,66 @@
+---
+name: Kognitio
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1478122"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kognitio.yaml
+tags:
+- Data Warehousing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.kognitio.com
+- type: x-about
+  url: https://kognitio.com/about/
+- type: x-blog
+  url: https://kognitio.com/blog/
+- type: x-blog
+  url: https://kognitio.com/blog/kognitio-docker-4/
+- type: x-blog
+  url: https://kognitio.com/blog/kognitio-docker-3/
+- type: x-blog
+  url: https://kognitio.com/blog/kognitio-docker-2/
+- type: x-careers
+  url: https://kognitio.com/careers/
+- type: x-case-studies
+  url: https://kognitio.com/use-cases/
+- type: x-case-studies
+  url: https://kognitio.com/resources/case-studies/
+- type: x-case-studies
+  url: https://kognitio.com/resources/case-studies/inmar/
+- type: x-case-studies
+  url: https://kognitio.com/resources/case-studies/bet365/
+- type: x-case-studies
+  url: https://kognitio.com/resources/case-studies/aimia/
+- type: x-contact
+  url: https://kognitio.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/kognitio
+- type: x-linkedin
+  url: https://www.linkedin.com/company/kognitio
+- type: x-news
+  url: https://kognitio.com/news-events/
+- type: x-partner
+  url: https://kognitio.com/partners/
+- type: x-pricing
+  url: https://kognitio.com/products/kognitio-pricing/
+- type: x-support
+  url: https://kognitio.com/services-support/
+- type: x-support
+  url: https://kognitio.com/services-support/support-options/
+- type: x-twitter
+  url: https://twitter.com/kognitio
+- type: x-website
+  url: https://www.kognitio.com
+- type: x-youtube
+  url: https://youtube.com/kognitio
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

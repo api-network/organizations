@@ -1,0 +1,43 @@
+---
+name: Freeware Beast
+description: Only Free Software, Free Antispyware, Free Antivirus and Free Game Download.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/freeware-beast.yaml
+tags:
+- Online Games
+- Games Download
+- Freeware
+- Free Download
+- Firewall Software
+- Downloads
+- Download Free Games
+- Directories
+- Antivirus Software
+- Anti Virus
+apis: []
+x-common:
+- type: x-website
+  url: http://www.freewarebeast.com
+- type: x-blog
+  url: https://www.freewarebeast.com/s-blog,1-51,1
+- type: x-feed
+  url: https://www.freewarebeast.com/feedback
+- type: x-press
+  url: https://www.freewarebeast.com/s-compression,7-65,1
+- type: x-security
+  url: https://www.freewarebeast.com/c-security,6
+- type: x-twitter
+  url: https://twitter.com/freewareb
+- type: x-website
+  url: https://www.freewarebeast.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

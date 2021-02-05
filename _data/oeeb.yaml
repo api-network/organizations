@@ -1,0 +1,27 @@
+---
+name: OeEB
+description: Oesterreichische Entwicklungsbank AG, Development Bank of Austria - funding
+  tomorrow's prosperity. http://t.co/SbrsJFLbJ6
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27944-www-oe-eb-at.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "3561300"
+url: https://raw.githubusercontent.com/api-network/organizations/main/oeeb.yaml
+tags:
+- EU Bank
+apis: []
+x-common:
+- type: x-website
+  url: http://www.oe-eb.at
+- type: x-twitter
+  url: https://twitter.com/OeEB_Austria
+- type: x-website
+  url: https://www.oe-eb.at
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

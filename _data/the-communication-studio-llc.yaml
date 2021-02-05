@@ -1,0 +1,38 @@
+---
+name: The Communication Studio LLC
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-communication-studio-llc.yaml
+tags:
+- Companies And Consultants
+apis: []
+x-common:
+- type: x-website
+  url: http://www.jcvtcs.com
+- type: x-developer
+  url: http://developer.jcvtcs.com
+- type: x-facebook
+  url: http://www.facebook.com/JohnCVaughan
+- type: x-linkedin
+  url: http://www.linkedin.com/in/jvprofile
+- type: x-press
+  url: https://jcvtcsblog.wordpress.com/
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-twitter
+  url: http://twitter.com/youeyeguy
+- type: x-website
+  url: https://jcvtcs.com
+- type: x-youtube
+  url: http://www.youtube.com/user/JCVTCS/videos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

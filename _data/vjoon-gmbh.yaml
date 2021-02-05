@@ -1,0 +1,72 @@
+---
+name: Vjoon GmbH
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10622484"
+url: https://raw.githubusercontent.com/api-network/organizations/main/vjoon-gmbh.yaml
+tags:
+- Software
+apis: []
+x-common:
+- type: x-about
+  url: https://vjoon.com/company/about-vjoon/
+- type: x-blog
+  url: https://vjoon.com/blog-2/
+- type: x-careers
+  url: https://vjoon.com/company/careers/
+- type: x-careers
+  url: https://vjoon.com/?jobs=office-manager-f-m-d
+- type: x-careers
+  url: https://vjoon.com/?jobs=javascript-angular-developer
+- type: x-careers
+  url: https://vjoon.com/?jobs=support-engineer
+- type: x-careers
+  url: https://vjoon.com/?jobs=senior-backend-developer-java
+- type: x-careers
+  url: https://vjoon.com/?jobs=web-developer
+- type: x-careers
+  url: https://vjoon.com/?jobs=qa-engineer
+- type: x-careers
+  url: https://vjoon.com/?jobs=fullstack-developer
+- type: x-case-studies
+  url: https://vjoon.com/what-we-offer/case-studies/
+- type: x-code
+  url: https://vjoon.com/case/c3-creative-code-and-content
+- type: x-contact
+  url: https://vjoon.com/company/contact-office/
+- type: x-customers
+  url: https://vjoon.com/customers/
+- type: x-events
+  url: https://vjoon.com/company/events/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/3850051
+- type: x-news
+  url: https://vjoon.com/company/subscribe-to-news/
+- type: x-press
+  url: https://vjoon.com/company/press-releases/
+- type: x-pricing
+  url: https://vjoon.com/sales/pricing/
+- type: x-privacy
+  url: https://vjoon.com/privacy/
+- type: x-twitter
+  url: https://twitter.com/vjoon
+- type: x-twitter
+  url: https://www.twitter.com/vjoon
+- type: x-twitter
+  url: https://twitter.com/search?q=%23Content&src=hash
+- type: x-twitter
+  url: http://www.twitter.com/pubexec
+- type: x-twitter
+  url: https://twitter.com/search?q=%23publishing&src=hash
+- type: x-website
+  url: https://www.vjoon.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

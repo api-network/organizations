@@ -1,0 +1,23 @@
+---
+name: feeds.huffingtonpost.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/feeds-huffingtonpost-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://feeds.huffingtonpost.com/c/35496/f/677097/s/4eec211f/sc/28/l/0L0Shuffingtonpost0N0Cseyi0Efabode0C30Eways0Eblockchain0Eis0Efund0Ib0I96794680Bhtml0Dutm0Ihp0Iref0Ftechnology0Gir0FTechnology/story01.htm
+- type: x-website
+  url: http://feeds.huffingtonpost.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

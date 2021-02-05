@@ -1,0 +1,36 @@
+---
+name: West Chester University
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "47488"
+url: https://raw.githubusercontent.com/api-network/organizations/main/west-chester-university.yaml
+tags:
+- Pennsylvania
+apis: []
+x-common:
+- type: x-website
+  url: http://wcupa.edu
+- type: x-facebook
+  url: https://www.facebook.com/WCUCS
+- type: x-facebook
+  url: https://www.facebook.com/WCUPA
+- type: x-instagram
+  url: https://www.instagram.com/wcuofpa/
+- type: x-login
+  url: https://d2l.wcupa.edu/d2l/login
+- type: x-twitter
+  url: https://twitter.com/wcuofpa
+- type: x-website
+  url: https://www.cs.wcupa.edu
+- type: x-youtube
+  url: http://www.youtube.com/wcuofpa
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

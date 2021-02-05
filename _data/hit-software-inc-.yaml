@@ -1,0 +1,82 @@
+---
+name: HiT Software, Inc.
+description: Simplify data access and replication.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hit-software-inc-.yaml
+tags:
+- Middleware
+apis: []
+x-common:
+- type: x-about
+  url: http://www.boaweb.com/company/about-us/
+- type: x-about
+  url: https://www.boaweb.com/company/about-us/
+- type: x-blog
+  url: http://resources.boaweb.com/backoffice-blog
+- type: x-blog
+  url: https://resources.boaweb.com/backoffice-blog
+- type: x-careers
+  url: https://www.boaweb.com/company/careers/
+- type: x-contact
+  url: https://www.boaweb.com/contact-us/
+- type: x-contact
+  url: http://www.boaweb.com/contact-us-hit-software/
+- type: x-contact
+  url: http://www.boaweb.com/contact-us/
+- type: x-customers
+  url: https://www.boaweb.com/customers/product-training/
+- type: x-customers
+  url: https://www.boaweb.com/customers/data-insiders/
+- type: x-events
+  url: https://www.boaweb.com/company/events/
+- type: x-facebook
+  url: https://www.facebook.com/synitidata
+- type: x-linkedin
+  url: https://www.linkedin.com/company/synitidata
+- type: x-login
+  url: https://login.igc.boaweb.com
+- type: x-partner
+  url: https://www.boaweb.com/partners/
+- type: x-partner
+  url: https://www.boaweb.com/partners/technology-partners/
+- type: x-partner
+  url: https://www.boaweb.com/partners/resellers/
+- type: x-partner
+  url: https://www.boaweb.com/partners/system-integrators/
+- type: x-partner
+  url: https://www.boaweb.com/partners/become-a-partner/
+- type: x-press
+  url: http://resources.boaweb.com/press-releases
+- type: x-press
+  url: https://resources.boaweb.com/press-releases
+- type: x-press
+  url: http://www.wonderplugin.com/wordpress-lightbox/
+- type: x-privacy
+  url: https://www.boaweb.com/privacy-policy/
+- type: x-privacy
+  url: https://www.boaweb.com/privacy-shield-notice/
+- type: x-support
+  url: https://www.boaweb.com/company/customer-support/
+- type: x-terms-of-service
+  url: https://www.boaweb.com/terms-of-use/
+- type: x-webinars
+  url: http://resources.boaweb.com/webinar-recordings
+- type: x-webinars
+  url: https://resources.boaweb.com/webinar-recordings
+- type: x-website
+  url: https://www.hitsw.com
+- type: x-white-papers
+  url: http://resources.boaweb.com/whitepapers
+- type: x-white-papers
+  url: https://resources.boaweb.com/whitepapers
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

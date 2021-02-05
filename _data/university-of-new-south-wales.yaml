@@ -1,0 +1,36 @@
+---
+name: University of New South Wales
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6064"
+url: https://raw.githubusercontent.com/api-network/organizations/main/university-of-new-south-wales.yaml
+tags:
+- Australia
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cse.unsw.edu.au
+- type: x-facebook
+  url: https://www.facebook.com/UNSW.COMPUTING
+- type: x-feed
+  url: http://www.engineering.unsw.edu.au/site-feedback
+- type: x-instagram
+  url: https://instagram.com/unswengineering/
+- type: x-linkedin
+  url: https://www.linkedin.com/groups?gid=6698023
+- type: x-privacy
+  url: http://www.unsw.edu.au/gen/pad/privacy.html
+- type: x-twitter
+  url: https://twitter.com/unswcomputing
+- type: x-website
+  url: https://www.cse.unsw.edu.au
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

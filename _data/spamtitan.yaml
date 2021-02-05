@@ -1,0 +1,45 @@
+---
+name: SpamTitan
+description: SpamTitan is an anti-spam email solution specifically developed to meet
+  the demands of modern business. Delivering a spam detection rate over 99.9%, SpamTitan
+  has a double antivirus engine and malicious URL detection to maximize network defences
+  against malware, ransomware and phishing. Get up and running in minutes!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "215547"
+url: https://raw.githubusercontent.com/api-network/organizations/main/spamtitan.yaml
+tags:
+- Filtering
+apis: []
+x-common:
+- type: x-website
+  url: https://www.titanhq.com
+- type: x-blog
+  url: https://www.spamtitan.com/blog/
+- type: x-contact
+  url: https://www.spamtitan.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/SpamTitanTechnologies
+- type: x-login
+  url: https://wtc1.webtitancloud.com:8443/login.php
+- type: x-news
+  url: https://www.spamtitan.com/news/
+- type: x-pricing
+  url: https://www.spamtitan.com/pricing-2/
+- type: x-privacy
+  url: https://www.spamtitan.com/privacy-statement/
+- type: x-signup
+  url: https://www.spamtitan.com/spamtitan-signup/
+- type: x-twitter
+  url: http://www.twitter.com/titanhq
+- type: x-website
+  url: https://www.spamtitan.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

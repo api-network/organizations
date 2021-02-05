@@ -1,0 +1,51 @@
+---
+name: Aeroflex Inc
+description: "Aeroflex Microelectronics Divisions offer components for a variety of
+  applications such as HiRel, Avionics, RF and Microwave, \r\n \tElectronic Manufacturing
+  Services."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1604402"
+url: https://raw.githubusercontent.com/api-network/organizations/main/aeroflex-inc.yaml
+tags:
+- Test
+- Space
+- Slip Rings
+- Semiconductor
+- Satellite
+- Power
+- Motion Control
+- Mixed Signal
+- Military
+- Microelectronics
+- Manufacturers
+- Hirel
+- Defense
+- Circuit Card Assembly
+- Avionic
+- Asic
+- Aerospace
+- Actuators
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cobham.com
+- type: x-facebook
+  url: https://www.facebook.com/CobhamAES/
+- type: x-instagram
+  url: https://www.instagram.com/cobham.aes/?hl=en
+- type: x-twitter
+  url: https://twitter.com/cobham_plc
+- type: x-website
+  url: https://www.aeroflex.com
+- type: x-youtube
+  url: https://www.youtube.com/user/COBHAMplc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,84 @@
+---
+name: CintaNotes - A Note-Taking Application
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1030985"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cintanotes--a-notetaking-application.yaml
+tags:
+- Personal Information Managers
+apis: []
+x-common:
+- type: x-website
+  url: http://cintanotes.com/
+- type: x-blog
+  url: http://dev.cintanotes.com/./blog/
+- type: x-blog
+  url: https://cintanotes.com/./blog/
+- type: x-contact
+  url: http://dev.cintanotes.com/contact-us/
+- type: x-contact
+  url: https://cintanotes.com/contact-us/
+- type: x-developer
+  url: http://dev.cintanotes.com/
+- type: x-developer
+  url: http://dev.cintanotes.com/de/
+- type: x-developer
+  url: http://dev.cintanotes.com/ru/
+- type: x-developer
+  url: http://dev.cintanotes.com/./features/
+- type: x-developer
+  url: http://dev.cintanotes.com/download/
+- type: x-developer
+  url: http://dev.cintanotes.com/faq/
+- type: x-developer
+  url: http://dev.cintanotes.com/./release-notes/
+- type: x-developer
+  url: http://dev.cintanotes.com/affiliates/
+- type: x-developer
+  url: http://dev.cintanotes.com/our-team/
+- type: x-developer
+  url: http://dev.cintanotes.com/cintanotes-eula/
+- type: x-developer
+  url: http://dev.cintanotes.com/download/#6791
+- type: x-developer
+  url: http://dev.cintanotes.com/download/#6789
+- type: x-developer
+  url: http://dev.cintanotes.com/download/#4364
+- type: x-developer
+  url: http://dev.cintanotes.com
+- type: x-feed
+  url: http://dev.cintanotes.com/feed/
+- type: x-feed
+  url: https://cintanotes.com/feed/
+- type: x-forum
+  url: http://cintanotes.com/forum/
+- type: x-pricing
+  url: http://dev.cintanotes.com/pricing/
+- type: x-pricing
+  url: https://cintanotes.com/pricing/
+- type: x-privacy
+  url: http://dev.cintanotes.com/privacy/
+- type: x-privacy
+  url: https://cintanotes.com/privacy/
+- type: x-support
+  url: http://dev.cintanotes.com/help/
+- type: x-support
+  url: http://dev.cintanotes.com/help/#keys
+- type: x-support
+  url: https://cintanotes.com/help-and-learning/
+- type: x-twitter
+  url: https://twitter.com/CintaNotes
+- type: x-twitter
+  url: https://twitter.com/intent/user?screen_name=CintaNotes
+- type: x-website
+  url: https://cintanotes.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

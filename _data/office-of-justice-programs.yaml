@@ -1,0 +1,47 @@
+---
+name: Office of Justice Programs
+description: <p>The Office of Justice Programs (OJP) is an agency of the United States
+  Department of Justice that focuses on crime prevention through research and development,
+  assistance to state and local law enforcement and criminal justice agencies through
+  grants, and assistance to crime victims.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/320px-US-OfficeOfJusticePrograms-Seal.svg.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "127954"
+url: https://raw.githubusercontent.com/api-network/organizations/main/office-of-justice-programs.yaml
+tags:
+- Have API
+- Federal Government
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ojp.gov
+- type: x-developers
+  url: http://data.ojp.gov/developer/
+- type: x-facebook
+  url: https://www.facebook.com/DOJOJP/
+- type: x-news
+  url: https://www.ovc.gov/news/index.html#110819
+- type: x-news
+  url: https://ojp.gov/newsroom/pdfs/OJP2016StrategicPlan.pdf
+- type: x-open-source
+  url: https://www.justice.gov/tribal/open-solicitations
+- type: x-twitter
+  url: https://twitter.com/OJPgov
+- type: x-website
+  url: http://data.ojp.gov
+- type: x-website
+  url: http://ojp.gov
+- type: x-wikipedia
+  url: http://en.wikipedia.org/wiki/Office_of_Justice_Programs
+- type: x-youtube
+  url: https://www.youtube.com/user/OJPOCOM
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

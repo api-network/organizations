@@ -1,0 +1,37 @@
+---
+name: Excel Easy
+description: Want to learn Excel quickly? Looking for a fully illustrated Excel tutorial?
+  Using Excel 2019-2007? Looking for free Excel training?
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10713"
+url: https://raw.githubusercontent.com/api-network/organizations/main/excel-easy.yaml
+tags:
+- Tutorials
+- Learn Excel 2010
+- How To Use Excel
+- Free Excel Help
+- Excel Tutorial
+- Excel 2019
+- Excel 2016 Tutorial
+- Excel 2013 Help
+- Excel 2007 Training
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/ExcelEasy
+- type: x-linkedin
+  url: https://www.linkedin.com/company/excel-easy
+- type: x-twitter
+  url: https://twitter.com/ExcelEasy
+- type: x-website
+  url: https://www.excel-easy.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,51 @@
+---
+name: Taxamo
+description: "We make global digital VAT/GST compliance possible. #DigitalTax #DigiTax
+  #TaxTrends \U0001F310"
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Taxamo_logo-copy.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "404884"
+url: https://raw.githubusercontent.com/api-network/organizations/main/taxamo.yaml
+tags:
+- VAT
+- Taxes
+- Target
+- Relative Data
+- Have Swagger
+- Have API Paths
+- Have API
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-website
+  url: https://www.taxamo.com/
+- type: x-blog
+  url: https://blog.taxamo.com/insights
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/taxamo-eu-vat-compliance
+- type: x-documentation
+  url: https://api.taxamo.com/swagger/ui/index.html
+- type: x-email
+  url: marketing@taxamo.com
+- type: x-github
+  url: https://github.com/taxamo
+- type: x-linkedin
+  url: https://www.linkedin.com/company/taxamo
+- type: x-pricing
+  url: http://www.taxamo.com/pricing/
+- type: x-twitter
+  url: https://twitter.com/taxamo
+- type: x-website
+  url: http://www.taxamo.com/
+- type: x-website
+  url: http://taxamo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

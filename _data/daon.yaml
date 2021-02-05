@@ -1,0 +1,60 @@
+---
+name: Daon
+description: IdentityX enables strong, multi-factor biometric authentication on any
+  mobile device for digital convenience with the highest level of security.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "713500"
+url: https://raw.githubusercontent.com/api-network/organizations/main/daon.yaml
+tags:
+- Verification
+- Transformation
+- Strong Authentication
+- Software
+- Smartphone
+- Regulatory Technical Standards Compliance
+- PSD2 - Strong Customer Authentication
+- PSD2 - SCA
+- Platform
+- Payments
+- Payment Services Directive 2 - SCA
+- Passwords
+- Multimodal
+- Multi-factor
+- Insurance
+- Inherence (biometrics)
+- Inherence
+- Identity
+- Identification
+- Healthcare
+- EBA RTS Compliance
+- Digital
+- Companies
+- Biometrics
+- Biometric
+- Banking
+- Automotive
+- Authentication
+apis: []
+x-common:
+- type: x-contact
+  url: https://daontis.com/home/contact.do
+- type: x-facebook
+  url: https://www.facebook.com/humanauthentication
+- type: x-linkedin
+  url: https://www.linkedin.com/company/daon
+- type: x-twitter
+  url: https://twitter.com/daoninc
+- type: x-website
+  url: https://www.daon.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=PEhvSNafp3M
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

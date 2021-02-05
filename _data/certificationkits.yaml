@@ -1,0 +1,42 @@
+---
+name: CertificationKits
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "556485"
+url: https://raw.githubusercontent.com/api-network/organizations/main/certificationkits.yaml
+tags:
+- Cisco
+apis: []
+x-common:
+- type: x-website
+  url: http://www.CertificationKits.com/
+- type: x-about
+  url: https://www.certificationkits.com/about/
+- type: x-blog
+  url: https://www.certificationkits.com/blog/
+- type: x-contact
+  url: https://shop.certificationkits.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/CertificationKits
+- type: x-security
+  url: https://www.certificationkits.com/ccna-security/
+- type: x-security
+  url: https://www.certificationkits.com/privacy-security/
+- type: x-terms-of-service
+  url: https://www.certificationkits.com/terms-conditions/
+- type: x-twitter
+  url: http://twitter.com/CiscoKits
+- type: x-website
+  url: https://www.certificationkits.com
+- type: x-youtube
+  url: http://www.youtube.com/CiscoKits
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

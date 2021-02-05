@@ -1,0 +1,27 @@
+---
+name: United States Immigration and Customs Enforcement (ICE)
+description: <p>The U.S. Immigration and Customs Enforcement is a federal law enforcement
+  agency under the U.S. Department of Homeland Security. ICE's stated mission is to
+  protect the United States from the cross-border crime and illegal immigration that
+  threaten national security and public safety.</p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/united-states-immigration-and-customs-enforcement-ice.yaml
+tags:
+- Federal Government
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ice.gov/
+- type: x-data
+  url: https://www.ice.gov/statistics
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

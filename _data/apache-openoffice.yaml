@@ -1,0 +1,43 @@
+---
+name: Apache OpenOffice
+description: The official home page of the Apache OpenOffice open source project,
+  home of OpenOffice Writer, Calc, Impress, Draw and Base.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9050"
+url: https://raw.githubusercontent.com/api-network/organizations/main/apache-openoffice.yaml
+tags:
+- Writer
+- OpenOffice.org
+- OpenOffice
+- Open Office
+- Open Document Format
+- Official Site
+- Official
+- ODF
+- Impress
+- Free Office Editors
+- Draw
+- Calc
+- Base
+- Apache OpenOffice
+- Apache Open Office
+apis: []
+x-common:
+- type: x-blog
+  url: https://blogs.apache.org/ooo/
+- type: x-open-source
+  url: https://openoffice.apache.org/get-involved.html
+- type: x-open-source
+  url: https://www.openoffice.org/download/
+- type: x-website
+  url: https://www.openoffice.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

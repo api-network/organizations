@@ -1,0 +1,37 @@
+---
+name: DAMA - New York City Chapter
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4985569"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dama--new-york-city-chapter.yaml
+tags:
+- Starchapter
+- Organizations
+apis: []
+x-common:
+- type: x-blog
+  url: https://dama-ny.com/blog.php
+- type: x-contact
+  url: http://dama-ny.com/contact.php
+- type: x-contact
+  url: https://dama-ny.com/contact.php
+- type: x-news
+  url: https://dama-ny.com/news.php
+- type: x-press
+  url: http://dama-ny.com/press.php
+- type: x-privacy
+  url: http://dama-ny.com/privacy.php
+- type: x-terms-of-service
+  url: http://dama-ny.com/terms.php
+- type: x-website
+  url: https://www.dama-ny.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

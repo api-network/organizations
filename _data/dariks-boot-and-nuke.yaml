@@ -1,0 +1,37 @@
+---
+name: Darik's Boot and Nuke
+description: Erase hard drives, desktops, laptops or servers free with a  Darik's
+  Boot and Nuke (DBAN) download. Try it now.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "289571"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dariks-boot-and-nuke.yaml
+tags:
+- Deletion
+apis: []
+x-common:
+- type: x-website
+  url: http://www.blancco.com
+- type: x-facebook
+  url: https://www.facebook.com/blanccotechnologygroup
+- type: x-linkedin
+  url: https://www.linkedin.com/company-beta/51218
+- type: x-privacy
+  url: https://dban.org/privacy-policy/
+- type: x-support
+  url: https://dban.org/help-center/
+- type: x-twitter
+  url: https://twitter.com/blanccotech
+- type: x-website
+  url: https://www.dban.org
+- type: x-youtube
+  url: https://www.youtube.com/user/BlanccoVideos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,40 @@
+---
+name: Fonts.com
+description: Fonts.com provides the biggest and best selection of high quality desktop
+  and web fonts. Try, buy and download classics like Helvetica, Univers, Frutiger,
+  Trade Gothic and Avenir along with popular new fonts like Soho and Neo. Find your
+  type!
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/webfonts-logo.gif
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8502"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fonts-com.yaml
+tags:
+- Webdesign
+- Have API
+- Fonts
+- Font And Web Font Service
+- Content
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.fonts.com
+- type: x-base
+  url: http://api.fonts.com/rest/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/product/fonts-com-7
+- type: x-developers
+  url: https://www.fonts.com/web-fonts/developers
+- type: x-twitter
+  url: https://twitter.com/#!/Fontscom
+- type: x-website
+  url: http://webfonts.fonts.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

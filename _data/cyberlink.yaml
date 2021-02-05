@@ -1,0 +1,23 @@
+---
+name: CyberLink
+description: The power to create stories, play video, and connect with friends & co-workers.
+  Easy to learn and use, try the best photo, audio, and video editing software.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3392616"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cyberlink.yaml
+tags:
+- Software
+apis: []
+x-common:
+- type: x-website
+  url: https://www.gocyberlink.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

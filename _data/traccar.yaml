@@ -1,0 +1,39 @@
+---
+name: Traccar
+description: <p>Traccar Ltd is a company registered in Saint Petersburg in the Russian
+  Federation which specializes in GPS tracking services and software development.
+  The Traccar platform has been designed by more than 50 contributors including company
+  employees and external contributors with expertise in the field of GPS tracking.
+  A team of more than 100 translators also work on project localization. The Traccar
+  platform is used by thousands of businesses in more than 140 countries around the
+  world. Traccar developers have experience in all areas of software development,
+  from back-end and web based to native mobile applications.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/2000px-Traccar-logo.svg.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "138811"
+url: https://raw.githubusercontent.com/api-network/organizations/main/traccar.yaml
+tags:
+- Tracking
+- Surveillance
+- Have Swagger
+- Have API Paths
+- GPS
+apis: []
+x-common:
+- type: x-developers
+  url: https://www.traccar.org/documentation/
+- type: x-documentation
+  url: https://www.traccar.org/traccar-api/
+- type: x-github
+  url: https://github.com/traccar
+- type: x-website
+  url: http://traccar.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

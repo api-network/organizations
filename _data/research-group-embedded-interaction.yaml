@@ -1,0 +1,24 @@
+---
+name: Research Group Embedded Interaction
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5434748"
+url: https://raw.githubusercontent.com/api-network/organizations/main/research-group-embedded-interaction.yaml
+tags:
+- Resources
+apis: []
+x-common:
+- type: x-press
+  url: https://www.uni-stuttgart.de/impressum/
+- type: x-website
+  url: https://www.hcilab.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

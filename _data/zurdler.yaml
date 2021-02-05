@@ -1,0 +1,32 @@
+---
+name: Zurdler
+description: "ope\u4F53\u80B2\u7535\u7ADE\u5B98\u7F51\u7F51\u4E0A\u6240\u6709\u6E38\u620F\u8BA9\u5927\u5BB6\u6253\u5F00\u4E86\u5A31\u4E50\u4E16\u754C\u7684\u4E00\u4E2A\u65B0\u7684\u5927\u95E8,ope\u4F53\u80B2\u5BA2\u6237\u7AEF\u535A\u5F69\u8D44\u8BAF\u5E73\u53F0\uFF0C\u521B\u529E\u81F3\u4ECA\u5DF2\u7ECF\u6709\u4E09\u5E74\u5DE6\u53F3\u7684\u5386\u53F2\u4E86\uFF0C\u53EF\u4EE5\u63D0\u4F9B\u7ED9\u73A9\u5BB6\u5728\u7EBF\u6E38\u620F\u7684\u73A9\u6CD5,ope\u4F53\u80B2\u7535\u7ADE\u5B98\u7F51\u4E3A\u5927\u5BB6\u5E26\u6765\u4E00\u4E2A\u5B9E\u73B0\u68A6\u60F3\u7684\u5730\u65B9\uFF0C\u5929\u8D5A100,\u4E0D\u4E0A\u73ED\u5929\u5929\u6709\u6536\u5165"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zurdler.yaml
+tags:
+- Tools
+- "Ope\u4F53\u80B2\u5BA2\u6237\u7AEF"
+- "Ope\u4F53\u80B2\u7535\u7ADE\u5B98\u7F51"
+apis: []
+x-common:
+- type: x-feed
+  url: https://zurdler.com/feed
+- type: x-feed
+  url: https://zurdler.com/comments/feed
+- type: x-login
+  url: https://zurdler.com/wp-login.php
+- type: x-press
+  url: https://cn.wordpress.org/
+- type: x-website
+  url: https://zurdler.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

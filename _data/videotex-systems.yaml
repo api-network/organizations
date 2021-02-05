@@ -1,0 +1,46 @@
+---
+name: Videotex Systems
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4657054"
+url: https://raw.githubusercontent.com/api-network/organizations/main/videotex-systems.yaml
+tags:
+- Digital Video
+apis: []
+x-common:
+- type: x-website
+  url: http://videotexsystems.com
+- type: x-about
+  url: https://www.videotexsystems.com/about/
+- type: x-careers
+  url: https://www.videotexsystems.com/jobs/
+- type: x-contact
+  url: https://www.videotexsystems.com/contact/
+- type: x-customers
+  url: https://www.videotexsystems.com/our-customers/
+- type: x-events
+  url: https://www.videotexsystems.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/Videotex
+- type: x-instagram
+  url: https://www.instagram.com/videotexsystems/
+- type: x-news
+  url: https://www.videotexsystems.com/news/
+- type: x-partner
+  url: https://www.videotexsystems.com/partners/
+- type: x-support
+  url: https://www.videotexsystems.com/services/support/
+- type: x-twitter
+  url: https://www.twitter.com/videotex
+- type: x-website
+  url: https://www.videotexsystems.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

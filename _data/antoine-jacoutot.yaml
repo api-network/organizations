@@ -1,0 +1,69 @@
+---
+name: Antoine Jacoutot
+description: www.bsdfrog.org
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/antoine-jacoutot.yaml
+tags:
+- Unix
+- People
+- OpenSource
+- OpenBSD
+- NetBSD
+- Linux
+- FreeBSD
+- BSD
+apis: []
+x-common:
+- type: x-website
+  url: https://www.bsdfrog.org/
+- type: x-about
+  url: https://2017.eurobsdcon.org/about/
+- type: x-github
+  url: https://github.com/ajacoutot
+- type: x-github
+  url: https://github.com/ajacoutot/toad
+- type: x-login
+  url: http://repo.or.cz/login_krb5.git
+- type: x-open-source
+  url: http://www.openbsd.org
+- type: x-open-source
+  url: http://man.openbsd.org/sysmerge
+- type: x-open-source
+  url: http://man.openbsd.org/syspatch
+- type: x-open-source
+  url: http://man.openbsd.org/rc.d
+- type: x-open-source
+  url: http://man.openbsd.org/rc.subr
+- type: x-open-source
+  url: http://man.openbsd.org/rcctl
+- type: x-open-source
+  url: http://ftp.fr.openbsd.org/pub/OpenBSD/
+- type: x-open-source
+  url: http://portroach.openbsd.org/
+- type: x-open-source
+  url: https://github.com/ajacoutot/aws-openbsd
+- type: x-open-source
+  url: https://www.mtier.org/solutions/apps/openup/
+- type: x-twitter
+  url: https://twitter.com/ajacoutot
+- type: x-website
+  url: https://www.bsdfrog.org
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=ZhpaKuXKob4
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=cYp70KWD824
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=haMovS3Dfy4
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=pjHDvO_haQY
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

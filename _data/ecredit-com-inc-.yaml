@@ -1,0 +1,55 @@
+---
+name: eCredit.com, Inc.
+description: eCredit is a powerful scoring and collections automation platform for
+  critical processes of granting credit, monitoring portfolio risk, & collecting A/R.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ecredit-com-inc-.yaml
+tags:
+- Credit And Collection
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.cortera.com/blog
+- type: x-careers
+  url: https://www.cortera.com/who-we-are/careers
+- type: x-case-studies
+  url: https://www.cortera.com/success-stories/case-studies
+- type: x-contact
+  url: https://www.cortera.com/who-we-are/contact
+- type: x-events
+  url: https://www.cortera.com/resources/events
+- type: x-facebook
+  url: https://www.facebook.com/CorteraRocks
+- type: x-linkedin
+  url: https://www.linkedin.com/company/250023
+- type: x-login
+  url: https://start.cortera.com/go/dispatcher/signin
+- type: x-login
+  url: https://start.cortera.com/developer/dispatcher/signin
+- type: x-news
+  url: https://www.cortera.com/who-we-are/in-the-news
+- type: x-press
+  url: https://www.cortera.com/who-we-are/press-releases
+- type: x-pricing
+  url: https://www.cortera.com/what-we-do/pricing
+- type: x-twitter
+  url: https://twitter.com/cortera
+- type: x-webinars
+  url: https://www.cortera.com/resources/webinars
+- type: x-website
+  url: https://www.ecredit.com
+- type: x-white-papers
+  url: https://www.cortera.com/resources/white-papers
+- type: x-youtube
+  url: http://www.youtube.com/user/CorteraInc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

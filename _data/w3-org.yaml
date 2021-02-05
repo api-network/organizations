@@ -1,0 +1,29 @@
+---
+name: w3.org
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/w3-org.yaml
+tags:
+- Standards
+- Policy
+- Organizations
+- Internet
+apis: []
+x-common:
+- type: x-curated-source
+  url: https://www.w3.org/community/bde-food/2015/06/26/hackathon-on-the-power-of-linked-data-in-agriculture-and-food-safety/
+- type: x-website
+  url: http://w3.org
+- type: x-website
+  url: https://www.w3.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

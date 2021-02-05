@@ -1,0 +1,44 @@
+---
+name: C64 Scene Database
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1313787"
+url: https://raw.githubusercontent.com/api-network/organizations/main/c64-scene-database.yaml
+tags:
+- Sceners
+- Scene
+- Releases
+- Nostalgia
+- Groups
+- Game
+- Forum
+- Events
+- Demoscene
+- Demos
+- Database
+- Csdb
+- Computer
+- Commodore64
+- Commodore
+- Classic Games
+- C64
+- C-64
+- 80's
+apis: []
+x-common:
+- type: x-code
+  url: http://codebase64.org/
+- type: x-developer
+  url: http://developer.csdb.dk
+- type: x-website
+  url: https://csdb.dk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

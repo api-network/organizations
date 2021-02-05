@@ -1,0 +1,40 @@
+---
+name: Mobile Computing SIG of Northern California
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mobile-computing-sig-of-northern-california.yaml
+tags:
+- Windows Mobile
+apis: []
+x-common:
+- type: x-blog
+  url: https://mobilecomputingsig.blogspot.com/
+- type: x-blog
+  url: https://mobilecomputingsig.blogspot.com/2012/
+- type: x-blog
+  url: https://mobilecomputingsig.blogspot.com/2012/05/
+- type: x-blog
+  url: https://mobilecomputingsig.blogspot.com/2006/
+- type: x-blog
+  url: https://mobilecomputingsig.blogspot.com/2006/06/
+- type: x-blog
+  url: https://mobilecomputingsig.blogspot.com/2006/05/
+- type: x-blog
+  url: https://www.blogger.com
+- type: x-news
+  url: http://www.mobilegadgetnews.com
+- type: x-support
+  url: http://mvp.support.microsoft.com/
+- type: x-website
+  url: https://mobilecomputingsig.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

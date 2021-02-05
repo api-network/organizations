@@ -1,0 +1,26 @@
+---
+name: American InterContinental University Online
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1676486"
+url: https://raw.githubusercontent.com/api-network/organizations/main/american-intercontinental-university-online.yaml
+tags:
+- Certification
+apis: []
+x-common:
+- type: x-code
+  url: https://enrollment.aiuniv.edu/?code=4157
+- type: x-twitter
+  url: http://www.twitter.com/aiuniv
+- type: x-website
+  url: https://www.aiuonline.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

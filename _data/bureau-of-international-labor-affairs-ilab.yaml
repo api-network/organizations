@@ -1,0 +1,24 @@
+---
+name: Bureau of International Labor Affairs (ILAB)
+description: <p><span>The Bureau of International Labor Affairs is an operating unit
+  of the United States Department of Labor which manages the department's international
+  responsibilities.</span></p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bureau-of-international-labor-affairs-ilab.yaml
+tags:
+- Federal Government
+apis: []
+x-common:
+- type: x-website
+  url: http://www.dol.gov/ilab/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

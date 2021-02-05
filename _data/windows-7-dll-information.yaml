@@ -1,0 +1,30 @@
+---
+name: Windows 7 DLL Information
+description: DLL information of Windows 7 - Resources,Import,Export,Icons,Cursors,
+  and more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1656904"
+url: https://raw.githubusercontent.com/api-network/organizations/main/windows-7-dll-information.yaml
+tags:
+- Windows 7
+- Resources
+- Information
+- Import
+- Icons
+- Export
+- DLL
+- Cursors
+apis: []
+x-common:
+- type: x-website
+  url: https://www.win7dll.info
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

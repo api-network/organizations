@@ -1,0 +1,59 @@
+---
+name: AMAX Information Technologies
+description: AMAX is a global IT solution provider specializing in OEM, Data Center,
+  Deep Learning, Cloud and HPC clusters, custom built for efficiency & reliability.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "811740"
+url: https://raw.githubusercontent.com/api-network/organizations/main/amax-information-technologies.yaml
+tags:
+- Servers
+apis: []
+x-common:
+- type: x-website
+  url: https://www.amax.com/
+- type: x-about
+  url: https://www.amax.com/about/
+- type: x-about
+  url: https://www.amax.com/about/awards/
+- type: x-blog
+  url: https://www.amax.com/blog/
+- type: x-careers
+  url: https://www.amax.com/careers/
+- type: x-case-studies
+  url: https://www.amax.com/about/case-studies/
+- type: x-contact
+  url: https://www.amax.com/about/contact-us/
+- type: x-events
+  url: https://www.amax.com/about/events-2/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/66675
+- type: x-platform
+  url: https://www.amax.com/products/gpu-platforms/
+- type: x-press
+  url: https://www.amax.com/about/press-releases/
+- type: x-privacy
+  url: https://www.amax.com/privacy
+- type: x-privacy
+  url: https://www.amax.com/privacy/
+- type: x-status
+  url: https://webstatus.amax.com/
+- type: x-status
+  url: https://orderstatus.amax.com/
+- type: x-terms-of-service
+  url: https://www.amax.com/terms-of-use
+- type: x-twitter
+  url: https://twitter.com/AMAXTechnology
+- type: x-website
+  url: https://www.amax.com
+- type: x-youtube
+  url: https://www.youtube.com/user/AmaxInfoTech
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

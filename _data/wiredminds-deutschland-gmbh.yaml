@@ -1,0 +1,33 @@
+---
+name: WiredMinds Deutschland GmbH
+description: wiredminds - Identifizieren Sie Ihre Firmenbesucher und holen Sie Neukunden
+  direkt von Ihrer Webseite ab. Nutzen Sie jetzt Ihr volles Vertriebspotenzial.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2723508"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wiredminds-deutschland-gmbh.yaml
+tags:
+- Log Analysis
+apis: []
+x-common:
+- type: x-website
+  url: https://wiredminds.de/impressum/?wmc=Twitter_Profil
+- type: x-linkedin
+  url: https://www.linkedin.com/company/413405/
+- type: x-twitter
+  url: https://twitter.com/wiredminds_gmbh
+- type: x-webinars
+  url: https://wiredminds.de/webinar/?wmc=MailingWebinar
+- type: x-webinars
+  url: https://www.wiredminds.de/webinar/?wmc=mailing_0518
+- type: x-website
+  url: https://www.wiredminds.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

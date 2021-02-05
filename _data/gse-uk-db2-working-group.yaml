@@ -1,0 +1,22 @@
+---
+name: GSE UK DB2 Working Group
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gse-uk-db2-working-group.yaml
+tags:
+- IBM DB2
+apis: []
+x-common:
+- type: x-website
+  url: https://www.gseukdb2.org.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,72 @@
+---
+name: LabKey
+description: <p>LabKey provides software solutions that help researchers overcome
+  the data management and workflow challenges faced in today&rsquo;s research environment.
+  Our team, many of whom have scientific backgrounds themselves, is deeply committed
+  to the success of our clients. We work hand-in-hand with organizations to understand
+  the complex needs of modern labs and develop flexible, scalable, extensible systems
+  to address them.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/labkey-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1705344"
+url: https://raw.githubusercontent.com/api-network/organizations/main/labkey.yaml
+tags:
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://labkey.com
+- type: x-about
+  url: https://www.labkey.com/about/
+- type: x-about
+  url: https://www.labkey.com/about/history/
+- type: x-about
+  url: https://www.labkey.com/about/our-team/
+- type: x-about
+  url: https://www.labkey.com/about/office-locations/
+- type: x-blog
+  url: https://www.labkey.com/blog/
+- type: x-blog
+  url: http://www.labkey.com/blog/
+- type: x-blog-rss
+  url: http://www.labkey.com/feed/
+- type: x-careers
+  url: https://www.labkey.com/about/careers/
+- type: x-careers
+  url: https://www.labkey.com/about/careers/benefits/
+- type: x-careers
+  url: https://www.labkey.com/about/careers/internships/
+- type: x-contact
+  url: https://www.labkey.com/about/contact/
+- type: x-developers
+  url: https://www.labkey.org/wiki/home/Documentation/page.view?name=remoteAPIs
+- type: x-events
+  url: https://www.labkey.com/about/events/
+- type: x-facebook
+  url: https://www.facebook.com/labkeysoftware/
+- type: x-github
+  url: https://github.com/LabKey
+- type: x-linkedin
+  url: https://www.linkedin.com/company/labkey-software/
+- type: x-open-source
+  url: https://www.labkey.com/about/careers/open-positions/
+- type: x-platform
+  url: https://www.labkey.com/platform/cloud-services/
+- type: x-privacy
+  url: https://www.labkey.com/privacy/
+- type: x-twitter
+  url: https://twitter.com/LabKey
+- type: x-webinars
+  url: https://www.labkey.com/resources/webinars/
+- type: x-website
+  url: http://www.labkey.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

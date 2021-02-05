@@ -1,0 +1,25 @@
+---
+name: https://screener.io
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1818208"
+url: https://raw.githubusercontent.com/api-network/organizations/main/httpsscreener-io.yaml
+tags: []
+apis: []
+x-common:
+- type: x-status
+  url: https://status.screener.io
+- type: x-webhooks
+  url: https://screener.io/docs/webhooks
+- type: x-website
+  url: https://screener.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,30 @@
+---
+name: JSON API
+description: '<p>If you&rsquo;ve ever argued with your team about the way your JSON
+  responses should be formatted, JSON:API can be your anti-bikeshedding tool. By following
+  shared conventions, you can increase productivity, take advantage of generalized
+  tooling, and focus on what matters: your application. Clients built around JSON:API
+  are able to take advantage of its features around efficiently caching responses,
+  sometimes eliminating network requests entirely.</p>'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/json-api.yaml
+tags: []
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/json-api
+- type: x-twitter
+  url: https://twitter.com/jsonapi
+- type: x-website
+  url: https://jsonapi.org/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

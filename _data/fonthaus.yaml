@@ -1,0 +1,59 @@
+---
+name: FontHaus
+description: Founded in 1990, FontHaus has become a trusted resource for designers
+  to buy font software. Search and find what you need from an online catalog of thousands
+  of fonts for any design project. Font formats such as TrueType, OpenType and Web
+  are available to buy and download for both Mac and Windows users at affordable prices.
+  Our fonts can be licensed for use in print, eBooks, Apps, and on the Web.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "274915"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fonthaus.yaml
+tags:
+- Web Fonts
+- Type Fonts
+- TrueType
+- True Type
+- Servers
+- Script Fonts
+- Repositories
+- Popular Fonts
+- OpenType
+- Open Type
+- Monotype
+- Linotype
+- Information On Type
+- Free Fonts
+- Fonts
+- Font Foundries
+- Font Designers
+- Font Club
+- Font
+- Ebook
+- Discount Fonts
+- Custom Type Design
+- Custom Type
+- Buy Fonts
+- Best Selling Fonts
+- Apps
+- Adobe Type
+- Adobe Fonts
+apis: []
+x-common:
+- type: x-developer
+  url: http://dev.fonthaus.com
+- type: x-facebook
+  url: http://www.facebook.com/pages/FontHaus/102292242139
+- type: x-twitter
+  url: http://twitter.com/fonthaus
+- type: x-website
+  url: https://www.fonthaus.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

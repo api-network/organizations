@@ -1,0 +1,87 @@
+---
+name: Concordion
+description: By blending specification and checking of your software into executable
+  specifications, Concordion creates beautiful living documentation.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2826379"
+url: https://raw.githubusercontent.com/api-network/organizations/main/concordion.yaml
+tags:
+- Unit Testing
+apis: []
+x-common:
+- type: x-website
+  url: http://concordion.org
+- type: x-about
+  url: http://www.allaboutcookies.org
+- type: x-forum
+  url: https://groups.google.com/forum/#!forum/concordion
+- type: x-github
+  url: https://github.com/concordion/concordion
+- type: x-github
+  url: https://github.com/nigelcharman
+- type: x-github
+  url: https://github.com/drtimwright
+- type: x-github
+  url: https://github.com/davidpeterson
+- type: x-github
+  url: https://github.com/shakaree
+- type: x-github
+  url: https://github.com/x97mdr
+- type: x-github
+  url: https://github.com/FinnLawrence
+- type: x-github
+  url: https://github.com/andrew-sumner
+- type: x-github
+  url: https://github.com/robmoffat/
+- type: x-github
+  url: https://github.com/johnbhurst
+- type: x-github
+  url: https://github.com/carlo-mr
+- type: x-github
+  url: https://github.com/gmandnepr
+- type: x-linkedin
+  url: https://www.linkedin.com/in/nigelcharman
+- type: x-linkedin
+  url: https://www.linkedin.com/in/drtimwright
+- type: x-linkedin
+  url: https://www.linkedin.com/in/davidspeterson
+- type: x-linkedin
+  url: https://www.linkedin.com/in/jeffreycameron
+- type: x-linkedin
+  url: https://www.linkedin.com/in/finn-lawrence-05a8a86b
+- type: x-linkedin
+  url: https://www.linkedin.com/in/katielockedesigner
+- type: x-linkedin
+  url: https://www.linkedin.com/in/andy-sumner-1aa2232
+- type: x-linkedin
+  url: https://www.linkedin.com/in/robmoffat
+- type: x-partner
+  url: https://www.google.com/policies/privacy/partners/
+- type: x-privacy
+  url: https://automattic.com/privacy/
+- type: x-twitter
+  url: https://twitter.com/concordion
+- type: x-twitter
+  url: https://twitter.com/nigel_charman
+- type: x-twitter
+  url: https://twitter.com/drtimwright
+- type: x-twitter
+  url: https://twitter.com/FinnTechNZ
+- type: x-twitter
+  url: https://twitter.com/bobm_kite9
+- type: x-twitter
+  url: https://twitter.com/skepticalhumor
+- type: x-twitter
+  url: https://twitter.com/gmandnepr
+- type: x-website
+  url: https://concordion.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

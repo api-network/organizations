@@ -1,0 +1,50 @@
+---
+name: Stanford Marsh
+description: Provides wide format printing equipment, computer aided design software
+  and large format consumables to anyone with a design requirement or wide format
+  output need.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3780817"
+url: https://raw.githubusercontent.com/api-network/organizations/main/stanford-marsh.yaml
+tags:
+- Wide-Format Printers
+- Wide-Format Graphic Printers
+- Scanning Devices
+- Printers
+- Oce
+- Mutoh
+- HP
+- Graphic Printers
+- Digital Copiers
+- Design Equipment
+- 3D Printers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.stanfordmarsh.co.uk
+- type: x-about
+  url: https://www.stanfordmarsh.co.uk/about_us
+- type: x-contact
+  url: https://www.stanfordmarsh.co.uk/contact_us
+- type: x-news
+  url: https://www.stanfordmarsh.co.uk/news
+- type: x-privacy
+  url: https://www.stanfordmarsh.co.uk/privacy
+- type: x-support
+  url: https://www.stanfordmarsh.co.uk/service_and_support
+- type: x-terms-of-service
+  url: https://www.stanfordmarsh.co.uk/terms_conditions
+- type: x-twitter
+  url: https://twitter.com/stanfordmarsh
+- type: x-website
+  url: https://www.stanfordmarsh.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,38 @@
+---
+name: AIT Business Services, LLC
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3121583"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ait-business-services-llc.yaml
+tags:
+- Enterprise Applications - ERP And ERM
+apis: []
+x-common:
+- type: x-website
+  url: http://www.aitbusiness.com
+- type: x-about
+  url: https://www.aitbusiness.com/about
+- type: x-blog
+  url: https://www.aitbusiness.com/blog
+- type: x-blog
+  url: https://aitbusiness.blogspot.com/
+- type: x-contact
+  url: https://www.aitbusiness.com/contact
+- type: x-facebook
+  url: https://www.facebook.com/aitbusiness/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/ait-business-services
+- type: x-twitter
+  url: https://twitter.com/aitbusiness
+- type: x-website
+  url: https://www.aitbusiness.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

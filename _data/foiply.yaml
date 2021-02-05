@@ -1,0 +1,52 @@
+---
+name: Foiply
+description: mFax offers next-gen online fax services. Cloud fax solutions built for
+  the enterprise but priced for anyone. Use email, API or web portal to send/ receive
+  faxes.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/foiply.yaml
+tags:
+- Services
+apis: []
+x-common:
+- type: x-website
+  url: http://www.documo.com
+- type: x-blog
+  url: https://www.documo.com/company/blog.html
+- type: x-contact
+  url: https://www.documo.com/company/contact.html
+- type: x-documentation
+  url: http://docs.documo.com/
+- type: x-facebook
+  url: https://www.facebook.com/documoinc
+- type: x-linkedin
+  url: https://www.linkedin.com/company/18105417
+- type: x-login
+  url: https://app.documo.com/signin
+- type: x-privacy
+  url: https://www.documo.com/privacy-policy.html
+- type: x-security
+  url: https://www.documo.com/security.html
+- type: x-signup
+  url: https://app.documo.com/signup
+- type: x-status
+  url: https://status.documo.com/
+- type: x-support
+  url: http://help.documo.com
+- type: x-terms-of-service
+  url: https://www.documo.com/legal.html
+- type: x-twitter
+  url: https://twitter.com/documohq
+- type: x-website
+  url: https://www.foiply.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

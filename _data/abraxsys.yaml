@@ -1,0 +1,33 @@
+---
+name: AbraxSys
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5466911"
+url: https://raw.githubusercontent.com/api-network/organizations/main/abraxsys.yaml
+tags:
+- Sunlight Readable Display
+- Ruggedized
+- Rugged Industrial Monitors
+- Military Grade Monitors
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.abraxsyscorp.com/lcd-blog/
+- type: x-facebook
+  url: https://www.facebook.com/abraxsys
+- type: x-twitter
+  url: https://twitter.com/abraxsyscorp
+- type: x-website
+  url: https://www.abraxsyscorp.com
+- type: x-youtube
+  url: https://www.youtube.com/c/Abraxsyscorp
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

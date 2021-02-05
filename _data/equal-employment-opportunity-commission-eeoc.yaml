@@ -1,0 +1,48 @@
+---
+name: Equal Employment Opportunity Commission (EEOC)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/equal-employment-opportunity-commission-eeoc.yaml
+tags:
+- Workplace
+- Trainings
+- Technical Assistance
+- Oversight
+- Laws
+- Labor
+- Human Resources
+- HR
+- Harassment
+- Federal Government
+- Federal
+- Eeo
+- Diversity
+- Discrimination
+- Civil Rights
+- Business
+- Adjudication
+apis: []
+x-common:
+- type: x-website
+  url: http://www.eeoc.gov
+- type: x-facebook
+  url: http://facebook.com/USEEOC
+- type: x-twitter
+  url: http://twitter.com/EEOCNews
+- type: x-twitter
+  url: http://twitter.com/EEOC_OFO
+- type: x-twitter
+  url: http://twitter.com/EEOCespanol
+- type: x-youtube
+  url: http://youtube.com/TheEEOC
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

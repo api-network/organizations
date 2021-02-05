@@ -1,0 +1,30 @@
+---
+name: Developedtraffic.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/developedtraffic-com.yaml
+tags:
+- Weblogs
+apis: []
+x-common:
+- type: x-about
+  url: http://developedtraffic.com/category/about-blog/
+- type: x-blog
+  url: http://developedtraffic.com/blog/
+- type: x-contact
+  url: http://developedtraffic.com/contact/
+- type: x-privacy
+  url: http://developedtraffic.com/privacy-policy/
+- type: x-website
+  url: https://developedtraffic.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

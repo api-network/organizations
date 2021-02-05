@@ -1,0 +1,62 @@
+---
+name: ConvergePoint
+description: ConvergePoint extends Microsoft's SharePoint Document Management platform
+  with SharePoint Compliance Software - Policy Management Software, Contract Management
+  Software, Conflict of Interest Software.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "977376"
+url: https://raw.githubusercontent.com/api-network/organizations/main/convergepoint.yaml
+tags:
+- Sharepoint Policy Management Software
+- Sharepoint Contract Management Software
+- Sharepoint Compliance Software
+- Safety Software
+- Safety Management
+- Policy Software
+- Policy Management Software
+- Policy And Procedure Template
+- Policy And Procedure Software
+- Offfice 365 Add Ins
+- Investigative Case Management
+- Enterprise Policy Management
+- Enterprise Contract Management
+- Contract Management Template
+- Contract Management System
+- Contract Management Software
+- Consultants
+- Conflict Of Interest Software
+- Conflict Of Interest
+- Compliance Software
+- Compliance Management
+- Case Management Software
+- Case Management
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.convergepoint.com/sharepoint-blog/
+- type: x-customers
+  url: https://www.convergepoint.com/featured-customers/
+- type: x-facebook
+  url: https://www.facebook.com/ConvergePointInc
+- type: x-instagram
+  url: https://www.instagram.com/convergepoint/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/converge-point
+- type: x-privacy
+  url: http://www.convergepoint.com/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/ConvergePoint
+- type: x-website
+  url: https://www.convergepoint.com
+- type: x-youtube
+  url: https://www.youtube.com/user/convergepoint
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

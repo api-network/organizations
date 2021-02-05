@@ -1,0 +1,55 @@
+---
+name: Integrated Computer Services
+description: 'ICS, Inc. is an award winning, Microsoft Silver Certified Partner &
+  Managed IT Service Provider providing: Cloud Computing, IT Consulting, and Tech
+  Support for NJ business.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1173457"
+url: https://raw.githubusercontent.com/api-network/organizations/main/integrated-computer-services.yaml
+tags:
+- NJ Server Virtualization
+- Nj Server Maintenance
+- Nj Server Installation
+- Nj Network Support Contracts
+- NJ Network Setup
+- Nj Network Security
+- Nj Managed IT Services
+- Nj Data Recovery
+- Nj Computer Support
+- Nj Computer Setup
+- Nj Computer Networks
+- Nj Computer Networking
+- Nj Computer Maintenance
+- Nj Computer Consulting
+- Nj Cloud Computing
+- Nj Business Computer Services
+- New Jersey Network Consulting
+- New Jersey IT Support Services
+- New Jersey Computer Support
+- New Jersey
+- IT Support Nj
+- IT Consulting Nj
+apis: []
+x-common:
+- type: x-website
+  url: http://www.icssnj.com
+- type: x-facebook
+  url: https://www.facebook.com/icssnj
+- type: x-support
+  url: https://www.icssnj.com/manufacturing-it-support.html
+- type: x-support
+  url: https://support.icssnj.com/
+- type: x-twitter
+  url: https://twitter.com/icss_nj
+- type: x-website
+  url: https://www.icssnj.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

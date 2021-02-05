@@ -1,0 +1,49 @@
+---
+name: NexTec Group, Inc.
+description: "NexTec provides ERP, CRM and BI software that grows with your company
+  now and in the future. Microsoft \xB7 Sage \xB7 Acumatica \xB7 Gold-certified"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "942079"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nextec-group-inc-.yaml
+tags:
+- Vendors
+apis: []
+x-common:
+- type: x-website
+  url: http://www.nextecgroup.com
+- type: x-blog
+  url: https://www.nextecgroup.com/blog/
+- type: x-blog
+  url: http://www.nextecgroup.com/blog
+- type: x-code
+  url: https://www.nextecgroup.com/rfid-bar-code-software/
+- type: x-events
+  url: https://www.nextecgroup.com/events/
+- type: x-events
+  url: http://www.nextecgroup.com/events
+- type: x-facebook
+  url: https://www.facebook.com/nextecgroup
+- type: x-linkedin
+  url: https://www.linkedin.com/company/nextec-group
+- type: x-privacy
+  url: http://www.nextecgroup.com/privacy-policy
+- type: x-support
+  url: https://www.nextecgroup.com/support/
+- type: x-terms-of-service
+  url: http://www.nextecgroup.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/NexTecGroup
+- type: x-website
+  url: https://www.nextecgroup.com
+- type: x-youtube
+  url: https://www.youtube.com/embed/pHkNGkhjhNM
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

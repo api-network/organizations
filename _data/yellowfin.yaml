@@ -1,0 +1,43 @@
+---
+name: Yellowfin
+description: "Find out how Yellowfin BI\u2019s integrated analytics platform takes
+  you beyond data and dashboards with data transformation, creation of analytical
+  apps, market leading collaboration tools and more. Try Yellowfin today to illuminate
+  your data and discover ..."
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/YF_LOGO.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "332484"
+url: https://raw.githubusercontent.com/api-network/organizations/main/yellowfin.yaml
+tags:
+- Have API
+- Decision Support Tools
+- Dashboards
+- Charts
+- Business Intelligence
+apis: []
+x-common:
+- type: x-website
+  url: http://www.yellowfinbi.com/YFWebsite-Embedded-Business-Intelligence-77979
+- type: x-website
+  url: http://yellowfinbi.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/yellowfin-bi
+- type: x-email
+  url: support@yellowfin.bi
+- type: x-email
+  url: info@yellowfin.bi
+- type: x-email
+  url: copyright@yellowfin.bi
+- type: x-twitter
+  url: https://twitter.com/#!/yellowfinbi
+- type: x-website
+  url: https://www.yellowfinbi.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

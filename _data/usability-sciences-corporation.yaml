@@ -1,0 +1,50 @@
+---
+name: Usability Sciences Corporation
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2950229"
+url: https://raw.githubusercontent.com/api-network/organizations/main/usability-sciences-corporation.yaml
+tags:
+- Companies And Consultants
+apis: []
+x-common:
+- type: x-website
+  url: http://usabilitysciences.com
+- type: x-about
+  url: https://www.usabilitysciences.com/about-us
+- type: x-about
+  url: https://www.usabilitysciences.com/about-us/our-history
+- type: x-about
+  url: https://www.usabilitysciences.com/about-us/our-beliefs
+- type: x-about
+  url: https://www.usabilitysciences.com/about-us/the-team
+- type: x-blog
+  url: https://www.usabilitysciences.com/blog
+- type: x-careers
+  url: https://www.usabilitysciences.com/about-us/careers
+- type: x-contact
+  url: https://www.usabilitysciences.com/contact-us
+- type: x-contact
+  url: https://www.usabilitysciences.com/contact-us/locations
+- type: x-facebook
+  url: https://www.facebook.com/UsabilitySciences
+- type: x-feed
+  url: http://www.usabilitysciences.com/feed
+- type: x-twitter
+  url: https://twitter.com/Usabilitydotcom
+- type: x-webinars
+  url: http://www.usabilitysciences.com/webinar
+- type: x-website
+  url: https://www.usabilitysciences.com
+- type: x-youtube
+  url: https://www.youtube.com/user/usabilitysciences88
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

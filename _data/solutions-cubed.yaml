@@ -1,0 +1,44 @@
+---
+name: Solutions Cubed
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1144902"
+url: https://raw.githubusercontent.com/api-network/organizations/main/solutions-cubed.yaml
+tags:
+- Embedded
+apis: []
+x-common:
+- type: x-website
+  url: http://solutions-cubed.com
+- type: x-about
+  url: http://www.solutions-cubed.com/about-us/
+- type: x-blog
+  url: http://blog.solutions-cubed.com/
+- type: x-blog
+  url: http://blog.solutions-cubed.com
+- type: x-blog
+  url: http://www.solutions-cubed.com/electronic-design-blog/
+- type: x-contact
+  url: https://www.olark.com/site/7884-675-10-5778/contact
+- type: x-contact
+  url: http://www.solutions-cubed.com/contact-us
+- type: x-facebook
+  url: http://www.facebook.com/SolutionsCubed
+- type: x-facebook
+  url: https://www.facebook.com/SolutionsCubed
+- type: x-login
+  url: https://www.solutions-cubed.com/login.php
+- type: x-twitter
+  url: https://twitter.com/Solutions_Cubed
+- type: x-website
+  url: https://www.solutions-cubed.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,31 @@
+---
+name: blog.devpost.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blog-devpost-com.yaml
+tags:
+- Postman Doc Search
+- New
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://blog.devpost.com/post/148988184474/samsung-inspired-iot-makers-to-combat-californias#_=_
+- type: x-website
+  url: http://blog.devpost.com
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/8357128/SVfTM6RK
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/2591492/SzmY9gi3
+- type: x-website
+  url: http://devpost.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

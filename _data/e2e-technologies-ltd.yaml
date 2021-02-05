@@ -1,0 +1,46 @@
+---
+name: E2E Technologies Ltd
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/e2e-technologies-ltd.yaml
+tags:
+- Enterprise Application Integration
+apis: []
+x-common:
+- type: x-website
+  url: http://www.scheer-group.com
+- type: x-careers
+  url: https://jobs.scheer-group.com/#new_tab
+- type: x-careers
+  url: https://jobs.scheer-group.com/
+- type: x-facebook
+  url: https://www.facebook.com/ScheerGroup
+- type: x-forum
+  url: https://forum.e2ebridge.com/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/scheer-gmbh
+- type: x-press
+  url: http://e2ebridge.com/impressum/
+- type: x-twitter
+  url: https://twitter.com/Scheer_GmbH
+- type: x-webinars
+  url: https://www.scheer-pas.com/webinar-uebersicht/
+- type: x-website
+  url: https://e2ebridge.com
+- type: x-white-papers
+  url: https://e2ebridge.com/systemintegration-whitepaper/
+- type: x-white-papers
+  url: https://e2ebridge.com/magento-whitepaper/
+- type: x-white-papers
+  url: https://e2ebridge.com/unsere-whitepaper/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

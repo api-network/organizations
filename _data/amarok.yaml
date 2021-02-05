@@ -1,0 +1,27 @@
+---
+name: Amarok
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "38414"
+url: https://raw.githubusercontent.com/api-network/organizations/main/amarok.yaml
+tags:
+- Sound Tools
+- Music And Audio
+apis: []
+x-common:
+- type: x-blog
+  url: http://melandory.blogspot.com/
+- type: x-blog
+  url: http://strohel.blogspot.com/
+- type: x-website
+  url: https://amarok.kde.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

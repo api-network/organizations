@@ -1,0 +1,67 @@
+---
+name: Timebus Travel
+description: Traditional classic red London Routemaster bus hire. We serve Greater
+  London, Hertfordshire and SouthEast England. Our diverse fleet includes converted
+  exhibition buses, open toppers, plus 1950s vintage single and double deckers. Family
+  run since 1987, licensed & insured.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7935527"
+url: https://raw.githubusercontent.com/api-network/organizations/main/timebus-travel.yaml
+tags:
+- Wedding
+- Vintage
+- Transportation
+- Transport
+- Timebus Travel
+- Timebus
+- Showcase
+- Routemaster
+- RML
+- RMC
+- RMA
+- RM
+- RLH
+- RF
+- Rental
+- Regent
+- Red London
+- RCL
+- Prom
+- Private Hire
+- Open Topper
+- Open Top
+- Old
+- Nostalgia
+- London Transport
+- London Tour
+- London Bus
+- Leyland
+- Heritage
+- Double Deck
+- Charter
+- Buses
+- Bus Hire
+- Bus
+- AEC
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.timebus.co.uk
+- type: x-facebook
+  url: https://www.facebook.com/timebus.co.uk
+- type: x-twitter
+  url: https://twitter.com/timebus
+- type: x-twitter
+  url: https://twitter.com/Timebus?ref_src=twsrc%5Etfw
+- type: x-website
+  url: https://www.timebus.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

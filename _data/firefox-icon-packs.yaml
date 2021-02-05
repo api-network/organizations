@@ -1,0 +1,132 @@
+---
+name: Firefox Icon Packs
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "67826"
+url: https://raw.githubusercontent.com/api-network/organizations/main/firefox-icon-packs.yaml
+tags:
+- Themes
+apis: []
+x-common:
+- type: x-about
+  url: http://www.mozdev.org/about.html
+- type: x-blog
+  url: http://www.mozdev.org/drupal/blog/Drupal-521-upgrade
+- type: x-blog
+  url: http://www.mozdev.org/drupal/blog
+- type: x-careers
+  url: http://www.mozdev.org/community/jobs.html
+- type: x-developer
+  url: http://developer.iconpacks.mozdev.org
+- type: x-developer
+  url: http://www.mozdev.org/
+- type: x-developer
+  url: http://developer.mozilla.org/
+- type: x-developer
+  url: http://www.mozdev.org/projects/nav.html
+- type: x-developer
+  url: http://www.mozdev.org/projects/top50.html
+- type: x-developer
+  url: http://www.mozdev.org/projects/active.html
+- type: x-developer
+  url: http://www.mozdev.org/projects/other.html
+- type: x-developer
+  url: http://www.mozdev.org/resources/nav.html
+- type: x-developer
+  url: https://www.mozdev.org/bugs/
+- type: x-developer
+  url: http://www.mozdev.org/source/browse/
+- type: x-developer
+  url: http://www.mozdev.org/mailing-lists.html
+- type: x-developer
+  url: http://www.mozdev.org/resources/
+- type: x-developer
+  url: http://www.mozdev.org/community/nav.html
+- type: x-developer
+  url: http://www.mozdev.org/community/books.html
+- type: x-developer
+  url: http://www.mozdev.org/faq.html
+- type: x-developer
+  url: http://www.mozdev.org/drupal/wiki/WhyMozdev
+- type: x-developer
+  url: http://www.mozdev.org/projects/tags.html/t/cleanup
+- type: x-developer
+  url: http://www.mozdev.org/projects/tags.html/t/duplicate
+- type: x-developer
+  url: http://www.mozdev.org/projects/tags.html/t/email
+- type: x-developer
+  url: http://www.mozdev.org/projects/tags.html/t/emusic+dlm
+- type: x-developer
+  url: http://www.mozdev.org/projects/tags.html/t/extension
+- type: x-developer
+  url: http://www.mozdev.org/projects/tags.html/t/Fennec
+- type: x-developer
+  url: http://www.mozdev.org/projects/tags.html/t/filters
+- type: x-developer
+  url: http://www.mozdev.org/projects/tags.html/t/firefox
+- type: x-developer
+  url: http://www.mozdev.org/projects/tags.html/t/flock
+- type: x-developer
+  url: http://www.mozdev.org/projects/tags.html/t/forward
+- type: x-developer
+  url: http://www.mozdev.org/projects/tags.html/t/komodo+edit
+- type: x-developer
+  url: http://www.mozdev.org/projects/tags.html/t/komodo+ide
+- type: x-developer
+  url: http://www.mozdev.org/projects/tags.html/t/mozdev
+- type: x-developer
+  url: http://www.mozdev.org/projects/tags.html/t/mozilla
+- type: x-developer
+  url: http://www.mozdev.org/projects/tags.html/t/Postbox
+- type: x-developer
+  url: http://www.mozdev.org/projects/tags.html/t/RSS
+- type: x-developer
+  url: http://www.mozdev.org/projects/tags.html/t/seamonkey
+- type: x-developer
+  url: http://www.mozdev.org/projects/tags.html/t/sunbird
+- type: x-developer
+  url: http://www.mozdev.org/projects/tags.html/t/tabs
+- type: x-developer
+  url: http://www.mozdev.org/projects/tags.html/t/thunderbird
+- type: x-developer
+  url: http://www.mozdev.org/projects/tags.html/t/toolkit
+- type: x-developer
+  url: http://www.mozdev.org/projects/active_rdf.php
+- type: x-developer
+  url: http://quickfolders.mozdev.org/source.html
+- type: x-developer
+  url: http://smarttemplate4.mozdev.org/source.html
+- type: x-developer
+  url: http://quickfilters.mozdev.org/source.html
+- type: x-developer
+  url: http://removedupes.mozdev.org/source.html
+- type: x-developer
+  url: http://threadkey.mozdev.org/source.html
+- type: x-developer
+  url: http://www.mozdev.org/copyright.html
+- type: x-documentation
+  url: http://www.mozdev.org/docs/
+- type: x-feed
+  url: http://www.mozdev.org/drupal/blog/feed
+- type: x-feed
+  url: http://www.mozdev.org/feedback.html
+- type: x-logos
+  url: http://www.mozdev.org/community/logos.html
+- type: x-privacy
+  url: http://www.mozdev.org/community/privacy.html
+- type: x-support
+  url: http://www.mozdev.org/community/supporters.html
+- type: x-terms-of-service
+  url: http://www.mozdev.org/community/terms.html
+- type: x-website
+  url: https://iconpacks.mozdev.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

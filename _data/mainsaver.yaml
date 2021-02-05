@@ -1,0 +1,34 @@
+---
+name: Mainsaver
+description: 'Mainsaver: From the Shop Floor to the Top Floor - Increasing productivity
+  and ROI for over 25 years.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3006549"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mainsaver.yaml
+tags:
+- Web Work Request
+- Web Work Management
+- Software
+- MobileMainsaver
+- Mobile Mainsaver
+- Maintenance Management
+- Mainsaver
+- ERP Integration
+- CMMS
+- Asset Management
+apis: []
+x-common:
+- type: x-support
+  url: https://secure.mainsaver.com/support/index.html
+- type: x-website
+  url: https://www.mainsaver.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,109 @@
+---
+name: Newsletter REST API with Newsletter2Go
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "50954"
+url: https://raw.githubusercontent.com/api-network/organizations/main/newsletter-rest-api-with-newsletter2go.yaml
+tags:
+- Postman Doc Search
+- New
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.newsletter2go.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/Newsletter2GoInternational
+- type: x-news
+  url: https://www.newsletter2go.com/glossary/
+- type: x-news
+  url: https://www.newsletter2go.com/download-center/
+- type: x-news
+  url: https://www.newsletter2go.com/anti-spam-policy/
+- type: x-news
+  url: https://www.newsletter2go.com/data-protection/
+- type: x-news
+  url: https://www.newsletter2go.com/registration/
+- type: x-news
+  url: https://www.newsletter2go.com/login/
+- type: x-news
+  url: https://www.newsletter2go.com/knowledge-center/
+- type: x-news
+  url: https://www.newsletter2go.com/blog/
+- type: x-news
+  url: https://www.newsletter2go.com/infographics/
+- type: x-news
+  url: https://www.newsletter2go.com/help-overview/
+- type: x-news
+  url: https://help.newsletter2go.com/
+- type: x-news
+  url: https://www.newsletter2go.com/newsletter-tutorials/
+- type: x-news
+  url: https://www.newsletter2go.com/about-newsletter2go/
+- type: x-news
+  url: https://www.newsletter2go.com/become-a-partner/
+- type: x-news
+  url: https://www.newsletter2go.com/jobs/
+- type: x-news
+  url: https://www.newsletter2go.com/references/
+- type: x-news
+  url: https://www.newsletter2go.com/plug-in-centre/
+- type: x-news
+  url: https://www.newsletter2go.com/pricing/
+- type: x-news
+  url: https://www.newsletter2go.at/
+- type: x-news
+  url: https://www.newsletter2go.de/
+- type: x-news
+  url: https://www.newsletter2go.ch/
+- type: x-news
+  url: https://www.newsletter2go.com/
+- type: x-news
+  url: https://www.newsletter2go.co.uk/
+- type: x-news
+  url: https://www.newsletter2go.ca/
+- type: x-news
+  url: https://www.newsletter2go.es/
+- type: x-news
+  url: https://www.newsletter2go.fr/
+- type: x-news
+  url: https://www.newsletter2go.it/
+- type: x-news
+  url: https://www.newsletter2go.nl/
+- type: x-news
+  url: https://www.newsletter2go.pl/
+- type: x-news
+  url: https://www.newsletter2go.com.br/
+- type: x-news
+  url: https://www.newsletter2go.com
+- type: x-news
+  url: https://ui.newsletter2go.com/
+- type: x-news
+  url: https://www.newsletter2go.com/features/credit-payback/
+- type: x-news
+  url: https://www.newsletter2go.com/email-marketing/
+- type: x-news
+  url: https://www.newsletter2go.com/newsletter-tool/
+- type: x-news
+  url: https://linkedin.com/company/newsletter2go
+- type: x-news
+  url: https://www.newsletter2go.com/legal-notice/
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/5017539/RWTg1N6k
+- type: x-press
+  url: https://www.newsletter2go.com/press/
+- type: x-twitter
+  url: https://twitter.com/Newsletter2Go_
+- type: x-website
+  url: http://www.newsletter2go.com
+- type: x-white-papers
+  url: https://www.newsletter2go.com/whitepaper/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

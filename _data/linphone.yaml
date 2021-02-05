@@ -1,0 +1,30 @@
+---
+name: Linphone
+description: Linphone is an open source SIP client for HD voice/video calls, 1-to-1
+  and group instant messaging, conference calls etc. Available for iOS, Android, Windows,
+  macOS and GNU/Linux.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "197784"
+url: https://raw.githubusercontent.com/api-network/organizations/main/linphone.yaml
+tags:
+- VOIP
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.linphone.org/contact
+- type: x-news
+  url: https://www.linphone.org/newsletter
+- type: x-news
+  url: http://www.linphone.org/newsletter
+- type: x-website
+  url: https://www.linphone.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,31 @@
+---
+name: MacPorts
+description: |-
+  The MacPorts Project is an open-source community initiative to design an easy-to-use
+          system for compiling, installing, and upgrading either command-line, X11 or Aqua based open-source software on the Mac
+          OS X operating system.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "157393"
+url: https://raw.githubusercontent.com/api-network/organizations/main/macports.yaml
+tags:
+- Open Source
+apis: []
+x-common:
+- type: x-code
+  url: https://summerofcode.withgoogle.com
+- type: x-github
+  url: https://github.com/macports/
+- type: x-open-source
+  url: http://opensource.org/licenses/BSD-3-Clause
+- type: x-website
+  url: https://www.macports.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

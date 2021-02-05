@@ -1,0 +1,37 @@
+---
+name: http://seek.com.au
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1709"
+url: https://raw.githubusercontent.com/api-network/organizations/main/httpseek-com-au.yaml
+tags: []
+apis: []
+x-common:
+- type: x-blog
+  url: https://medium.com/seek-blog
+- type: x-careers
+  url: https://www.bdjobs.com
+- type: x-careers
+  url: https://www.jobsdb.com
+- type: x-careers
+  url: https://www.jobstreet.com
+- type: x-contact
+  url: https://talent.seek.com.au/contactus
+- type: x-facebook
+  url: https://www.facebook.com/SEEK/
+- type: x-instagram
+  url: https://www.instagram.com/seekau/
+- type: x-website
+  url: http://seek.com.au
+- type: x-youtube
+  url: https://www.youtube.com/user/SEEKJobs
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

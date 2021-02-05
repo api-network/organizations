@@ -1,0 +1,41 @@
+---
+name: Asterank
+description: <p>Asterank is a scientific and economic database of over 600,000 asteroids.
+  &nbsp;We've collected, computed, or inferred important data such as asteroid mass
+  and composition from multiple scientific sources. With this information, we estimate
+  the costs and rewards of mining asteroids. &nbsp;Details on orbits and basic physical
+  parameters are sourced from the Minor Planet Center and NASA JPL. Composition data
+  is based on spectral classification and size. Our calculations incorporate conclusions
+  from multiple scientific publications in addition to cross-referencing known meteorite
+  data.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/asterank.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "811"
+x-alexaRank: "1230009"
+url: https://raw.githubusercontent.com/api-network/organizations/main/asterank.yaml
+tags:
+- Space
+- Postman Collections
+- NASA
+- Have API Paths
+- Have API
+- Asteroids
+- API Provider
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-website
+  url: http://www.asterank.com/
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=iJQ-2o8umAg
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,26 @@
+---
+name: Theoretical Informatics and Applications
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "11054071"
+url: https://raw.githubusercontent.com/api-network/organizations/main/theoretical-informatics-and-applications.yaml
+tags:
+- Journals
+apis: []
+x-common:
+- type: x-privacy
+  url: https://www.edpsciences.org/en/privacy-policy
+- type: x-status
+  url: https://articlestatus.edpsciences.org/is/ita/
+- type: x-website
+  url: https://www.rairo-ita.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

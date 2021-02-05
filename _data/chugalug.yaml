@@ -1,0 +1,52 @@
+---
+name: CHUGALUG
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9257"
+url: https://raw.githubusercontent.com/api-network/organizations/main/chugalug.yaml
+tags:
+- Georgia
+apis: []
+x-common:
+- type: x-website
+  url: http://chugalug.uga.edu
+- type: x-blog
+  url: https://www.rosehosting.com/blog
+- type: x-contact
+  url: http://www.freeitathens.org/contact-or-visit-us/
+- type: x-developer
+  url: https://dev.glycam.org/
+- type: x-documentation
+  url: http://glycam.org/docs/aboutus/
+- type: x-documentation
+  url: http://glycam.org/docs/help/
+- type: x-documentation
+  url: http://glycam.org/docs/gmml/
+- type: x-documentation
+  url: http://glycam.org/docs/gems/
+- type: x-documentation
+  url: http://glycam.org/docs/
+- type: x-documentation
+  url: http://glycam.org/docs/articlesandciting/
+- type: x-facebook
+  url: http://facebook.com/groups/chugalug
+- type: x-github
+  url: https://github.com/GLYCAM-Web/gems/tree/gems-dev
+- type: x-github
+  url: https://github.com/GLYCAM-Web/gmml/tree/gmml-dev
+- type: x-news
+  url: http://glycam.org/docs/news/
+- type: x-twitter
+  url: https://twitter.com/ClassicHackers
+- type: x-website
+  url: https://chugalug.uga.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

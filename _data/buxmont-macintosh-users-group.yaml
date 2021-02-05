@@ -1,0 +1,37 @@
+---
+name: Bux-Mont Macintosh Users Group
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/buxmont-macintosh-users-group.yaml
+tags:
+- User Group
+- Philadelphia
+- Pennsylvania
+- PA
+- Montgomery
+- Mont
+- Macintosh Users Group
+- M.u.g.
+- Bux-Mont MUG
+- Bux
+- Bucks
+- Allentown
+apis: []
+x-common:
+- type: x-contact
+  url: http://www.constantcontact.com/safesubscribe.jsp
+- type: x-facebook
+  url: https://www.facebook.com/BuxMontMUG?ref=hl
+- type: x-website
+  url: https://www.buxmontmug.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

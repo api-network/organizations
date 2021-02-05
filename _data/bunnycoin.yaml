@@ -1,0 +1,27 @@
+---
+name: Bunnycoin
+description: Bunnycoin is an innovative new cryptocurrency developed to help support
+  charity and ultimately make the world a better place. https://t.co/gFf9B93oaM
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27227-bunnycoin-org.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1284776"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bunnycoin.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://www.reddit.com/r/bunnycoin
+- type: x-twitter
+  url: https://twitter.com/Bunnycoin
+- type: x-website
+  url: http://bunnycoin.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

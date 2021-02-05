@@ -1,0 +1,35 @@
+---
+name: DialMyCalls
+description: DialMyCalls lets you send automated phone calls and SMS broadcasts to
+  entire contact lists in seconds - no expensive hardware or calling servers required!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "195884"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dialmycalls.yaml
+tags:
+- Autodialers
+apis: []
+x-common:
+- type: x-documentation
+  url: https://www.dialmycalls.com/api-docs/
+- type: x-facebook
+  url: https://www.facebook.com/massnotification
+- type: x-integrations
+  url: https://www.dialmycalls.com/integrations
+- type: x-linkedin
+  url: https://www.linkedin.com/company/dialmycalls
+- type: x-twitter
+  url: https://twitter.com/DialMyCalls
+- type: x-website
+  url: https://www.dialmycalls.com
+- type: x-youtube
+  url: https://www.youtube.com/dialmycalls
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

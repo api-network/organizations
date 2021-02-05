@@ -1,0 +1,49 @@
+---
+name: Acquia
+description: Acquia provides the leading cloud platform for building, delivering,
+  and optimizing digital experiences.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "20031"
+url: https://raw.githubusercontent.com/api-network/organizations/main/acquia.yaml
+tags:
+- Commercial Services
+apis: []
+x-common:
+- type: x-website
+  url: https://www.acquia.com/
+- type: x-developer
+  url: https://dev.acquia.com
+- type: x-developer
+  url: https://dev.acquia.com/
+- type: x-developer
+  url: http://dev.acquia.com
+- type: x-documentation
+  url: https://docs.acquia.com/
+- type: x-documentation
+  url: https://docs.acquia.com/api/
+- type: x-facebook
+  url: https://www.facebook.com/acquia
+- type: x-linkedin
+  url: http://www.linkedin.com/company/167056
+- type: x-partner
+  url: https://www.acquia.com/partners
+- type: x-support
+  url: https://support.acquia.com
+- type: x-terms-of-service
+  url: https://www.acquia.com/about-us/legal/privacy-policy
+- type: x-twitter
+  url: https://twitter.com/acquia
+- type: x-website
+  url: https://www.acquia.com
+- type: x-youtube
+  url: https://www.youtube.com/user/AcquiaTV
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

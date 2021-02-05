@@ -1,0 +1,40 @@
+---
+name: Lifeboat Distribution
+description: Lifeboat Distribution is a value added distributor, providing supply
+  chain services and connecting best-in-breed technology vendors with thousands of
+  resellers around the globe.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "672344"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lifeboat-distribution.yaml
+tags:
+- Retailers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.lifeboatdistribution.com
+- type: x-blog
+  url: https://lifeboatdistributionblog.com/
+- type: x-events
+  url: https://lifeboatdistributionblog.com/category/events/
+- type: x-facebook
+  url: http://www.facebook.com/lifeboatdistribution
+- type: x-linkedin
+  url: http://www.linkedin.com/company/lifeboat-distribution
+- type: x-twitter
+  url: https://twitter.com/lifeboatvad
+- type: x-twitter
+  url: http://www.twitter.com/lifeboatvad
+- type: x-website
+  url: https://www.lifeboatdistribution.com
+- type: x-youtube
+  url: http://www.youtube.com/user/lifeboatdistribution
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

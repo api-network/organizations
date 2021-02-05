@@ -1,0 +1,35 @@
+---
+name: POSitive Software Company
+description: POSitive Software Company creates point of sale software for small to
+  medium size businesses.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9220228"
+url: https://raw.githubusercontent.com/api-network/organizations/main/positive-software-company.yaml
+tags:
+- Point Of Sale
+apis: []
+x-common:
+- type: x-website
+  url: http://www.gopositive.com
+- type: x-about
+  url: https://www.positiveforbusiness.com/about
+- type: x-contact
+  url: https://www.positiveforbusiness.com/contact-us
+- type: x-facebook
+  url: https://www.facebook.com/positivesoftwareco/
+- type: x-support
+  url: https://www.positiveforbusiness.com/support
+- type: x-twitter
+  url: https://twitter.com/PSCTweet
+- type: x-website
+  url: https://www.gopositive.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

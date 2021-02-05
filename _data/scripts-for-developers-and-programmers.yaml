@@ -1,0 +1,30 @@
+---
+name: Scripts for Developers and Programmers
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "83582"
+url: https://raw.githubusercontent.com/api-network/organizations/main/scripts-for-developers-and-programmers.yaml
+tags:
+- Scripting
+apis: []
+x-common:
+- type: x-website
+  url: http://www.abbr.com
+- type: x-facebook
+  url: https://www.facebook.com/STANDS4
+- type: x-linkedin
+  url: https://www.linkedin.com/company/stands4/
+- type: x-twitter
+  url: https://twitter.com/justadded
+- type: x-website
+  url: https://www.scripts.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

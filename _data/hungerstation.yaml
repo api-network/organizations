@@ -1,0 +1,36 @@
+---
+name: HungerStation
+description: "\u064A\u0645\u0643\u0646\u0643 \u0627\u0644\u0627\u0646 \u0637\u0644\u0628
+  \u0627\u0644\u0637\u0639\u0627\u0645 \u0645\u0646 \u0627\u0644\u0627\u0646\u062A\u0631\u0646\u062A
+  \u0645\u0646 \u062C\u0645\u064A\u0639 \u0627\u0644\u0645\u0637\u0627\u0639\u0645
+  \u0641\u064A \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064A\u0629
+  \u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629 \u0645\u0646 \u062E\u0644\u0627\u0644
+  \u0645\u0648\u0642\u0639 \u0647\u0646\u0642\u0631\u0633\u062A\u064A\u0634\u0646.
+  \u062A\u0639\u0631\u0641 \u0639\u0644\u0649 \u062E\u062F\u0645\u0627\u062A \u062A\u0648\u0635\u064A\u0644
+  \u0627\u0644\u0645\u0637\u0627\u0639\u0645 \u0627\u0644\u0627\u0646 \u0645\u0646
+  \u062C\u0645\u064A\u0639 \u0645\u0637\u0627\u0639\u0645 \u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629."
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29669-hungerstation-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "4"
+x-alexaRank: "65899"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hungerstation.yaml
+tags:
+- Marketplaces
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/hungerstation-com
+- type: x-email
+  url: WeCare@hungerstation.com
+- type: x-twitter
+  url: https://twitter.com/HungerStation
+- type: x-website
+  url: http://hungerstation.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

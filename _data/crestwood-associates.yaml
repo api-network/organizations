@@ -1,0 +1,39 @@
+---
+name: Crestwood Associates
+description: Crestwood provides right-sized ERP & CRM solutions for your growing business.
+  Use our comparison tool to learn what ERP is the right choice for you.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1004660"
+url: https://raw.githubusercontent.com/api-network/organizations/main/crestwood-associates.yaml
+tags:
+- Great Plains
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.crestwood.com/blog/
+- type: x-careers
+  url: https://www.crestwood.com/careers/
+- type: x-contact
+  url: https://www.crestwood.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/crestwoodassoc/
+- type: x-partner
+  url: https://www.crestwood.com/partner-portal/
+- type: x-partner
+  url: https://www.crestwood.com/partner-advice/
+- type: x-support
+  url: http://support.crestwood.com
+- type: x-twitter
+  url: https://twitter.com/crestwoodassoc/
+- type: x-website
+  url: https://www.crestwood.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

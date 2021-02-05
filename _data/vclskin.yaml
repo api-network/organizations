@@ -1,0 +1,24 @@
+---
+name: VCLSkin
+description: VCLSkin is an VCL library that extend Delphi application with skinnable
+  user interface
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6740701"
+url: https://raw.githubusercontent.com/api-network/organizations/main/vclskin.yaml
+tags:
+- Delphi Skin Component
+- Components
+apis: []
+x-common:
+- type: x-website
+  url: https://www.link-rank.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

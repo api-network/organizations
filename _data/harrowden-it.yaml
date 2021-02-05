@@ -1,0 +1,45 @@
+---
+name: Harrowden IT
+description: Harrowden IT Ltd are developers of bespoke and off-the-shelf solutions
+  for users of the Pegasus Opera II and Opera 3 suites of accounting software.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/harrowden-it.yaml
+tags:
+- Xero
+- VFP
+- Vendors
+- Tailor
+- Stock
+- Solutions
+- SME
+- Sales
+- Sage
+- Purchase
+- Programming
+- Pegasus
+- Payroll
+- Opera
+- Nominal
+- Modify
+- Microsoft
+- Ledger
+- FoxPro
+- Customise
+- Customisation
+- Bespoke
+- Accounts
+apis: []
+x-common:
+- type: x-website
+  url: https://www.harrowdenit.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

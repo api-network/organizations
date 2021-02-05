@@ -1,0 +1,44 @@
+---
+name: EduTrak Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/edutrak-software.yaml
+tags:
+- Administration And School Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.edutrak.com
+- type: x-about
+  url: https://edutrak.com/about-us/
+- type: x-about
+  url: https://webservices.mightyyak.com/#about
+- type: x-contact
+  url: https://webservices.mightyyak.com/#contact
+- type: x-developer
+  url: http://developer.edutrak.com
+- type: x-facebook
+  url: https://www.facebook.com/EduTrakSoftware
+- type: x-facebook
+  url: https://www.facebook.com/This.is.Mighty.Yak/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/mighty-yak
+- type: x-partner
+  url: https://edutrak.com/partner-with-edutrak/
+- type: x-support
+  url: https://edutrak.com/support-and-customer-service/
+- type: x-twitter
+  url: https://twitter.com/EduTrakNews
+- type: x-website
+  url: https://www.edutrak.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

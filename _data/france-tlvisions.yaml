@@ -1,0 +1,27 @@
+---
+name: "France T\xE9l\xE9visions"
+description: "27139 France T\xE9l\xE9visions is the French public national television
+  broadcaster."
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29521-france-tv.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "4"
+x-alexaRank: "3837"
+url: https://raw.githubusercontent.com/api-network/organizations/main/france-tlvisions.yaml
+tags:
+- Profile
+- ISP
+- Broadcasting
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/francetv-info
+- type: x-website
+  url: http://france.tv
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

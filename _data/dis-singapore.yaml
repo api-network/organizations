@@ -1,0 +1,32 @@
+---
+name: DiS Singapore
+description: Singapore M.E.S Manufacturing Industry 4.0 ERP Software for Production
+  Scheduling & WIP Tracking. Boosts Productivity, Utlisation, Efficiency, Throughput
+  and Profit
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dis-singapore.yaml
+tags:
+- Consultants
+apis: []
+x-common:
+- type: x-careers
+  url: https://www.dis.com.sg/jobshop/
+- type: x-careers
+  url: https://www.dis.com.sg/careers/
+- type: x-contact
+  url: https://www.dis.com.sg/contact/
+- type: x-support
+  url: https://www.dis.com.sg/support/
+- type: x-website
+  url: https://www.dis.com.sg
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

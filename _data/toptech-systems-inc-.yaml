@@ -1,0 +1,30 @@
+---
+name: Toptech Systems, Inc.
+description: Toptech is a global company dedicated to streamlining data management
+  and bringing efficiencies from the load rack to the back office through presets
+  and automation software.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3376435"
+url: https://raw.githubusercontent.com/api-network/organizations/main/toptech-systems-inc-.yaml
+tags:
+- Automation
+apis: []
+x-common:
+- type: x-forum
+  url: https://forum.toptech.com/
+- type: x-forum
+  url: https://forum.toptech.com/categories/documentation
+- type: x-linkedin
+  url: http://www.linkedin.com/company/toptech-systems
+- type: x-website
+  url: https://www.toptech.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,26 @@
+---
+name: Xerox FreeColorPrinters
+description: Since 1999, the Xerox FreeColorPrinters has provided thousands of customers
+  with free solid ink printers.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "14062"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xerox-freecolorprinters.yaml
+tags:
+- Xerox Freecolorprinters
+- Printers
+- Low Cost Color
+- Freecolorprinters
+apis: []
+x-common:
+- type: x-website
+  url: https://www.freecolorprinters.xerox.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

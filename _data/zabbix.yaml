@@ -1,0 +1,51 @@
+---
+name: Zabbix
+description: Zabbix is a mature and effortless enterprise-class open source monitoring
+  solution for network monitoring and application monitoring of millions of metrics.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "41005"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zabbix.yaml
+tags:
+- Postman Doc Search
+- Networking
+- Monitoring
+apis: []
+x-common:
+- type: x-website
+  url: http://www.zabbix.com
+- type: x-blog
+  url: https://blog.zabbix.com
+- type: x-blog
+  url: https://blog.zabbix.com/
+- type: x-facebook
+  url: https://www.facebook.com/zabbix
+- type: x-forum
+  url: https://www.zabbix.com/forum
+- type: x-forum
+  url: https://www.zabbix.com/forum/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/zabbix
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/29959/mantis-bug-tracker-rest-api/7Lt6zkP
+- type: x-slideshare
+  url: https://www.slideshare.net/Zabbix/presentations
+- type: x-support
+  url: https://support.zabbix.com/servicedesk
+- type: x-support
+  url: https://support.zabbix.com
+- type: x-twitter
+  url: https://twitter.com/zabbix
+- type: x-website
+  url: https://www.zabbix.com
+- type: x-youtube
+  url: https://www.youtube.com/user/ZabbixSIA/videos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

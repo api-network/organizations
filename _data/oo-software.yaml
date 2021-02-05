@@ -1,0 +1,37 @@
+---
+name: O&O Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "102230"
+url: https://raw.githubusercontent.com/api-network/organizations/main/oo-software.yaml
+tags:
+- Utility Software
+- Disk Management
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.oo-software.com/en
+- type: x-facebook
+  url: https://www.facebook.com/OOSoftware
+- type: x-partner
+  url: https://www.oo-software.com/en/partner
+- type: x-partner
+  url: https://partners.oo-software.com/en/
+- type: x-partner
+  url: https://partners.oo-software.com/en/partnerprogram/oem
+- type: x-twitter
+  url: http://twitter.com/oosoftware
+- type: x-website
+  url: https://www.oo-software.com
+- type: x-youtube
+  url: https://www.youtube.com/user/oosoftw
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

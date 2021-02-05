@@ -1,0 +1,44 @@
+---
+name: ODI Technologies
+description: Stay updated on software, news, security updates and other FileMaker
+  server related topics with the help of ODI tech blog posts.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4816010"
+url: https://raw.githubusercontent.com/api-network/organizations/main/odi-technologies.yaml
+tags:
+- Hosting
+- Consultants And Developers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.oditech.com
+- type: x-about
+  url: https://www.oditech.com/about-us/
+- type: x-blog
+  url: https://www.oditech.com/blog/
+- type: x-facebook
+  url: http://www.facebook.com/oditechnologies
+- type: x-privacy
+  url: https://www.oditech.com/privacy-policy/
+- type: x-support
+  url: https://www.oditech.com/support/
+- type: x-support
+  url: https://www.oditech.com/support/faq/
+- type: x-terms-of-service
+  url: https://www.oditech.com/terms-of-service/
+- type: x-twitter
+  url: https://twitter.com/ODITechnologies
+- type: x-website
+  url: https://www.oditech.com
+- type: x-youtube
+  url: https://www.youtube.com/user/oditechnologiesinc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,33 @@
+---
+name: Ocelot's Full SQL DBMS for Windows
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6388955"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ocelots-full-sql-dbms-for-windows.yaml
+tags:
+- Open Source
+- Databases
+apis: []
+x-common:
+- type: x-blog
+  url: http://ocelot.ca/blog/the-ocelotgui-debugger
+- type: x-blog
+  url: http://ocelot.ca/blog
+- type: x-github
+  url: https://github.com/ocelot-inc/ocelotgui
+- type: x-github
+  url: https://github.com/ocelot-inc/ocelotgui/issues
+- type: x-github
+  url: https://github.com/ocelot-inc/ocelotgui/releases
+- type: x-website
+  url: https://www.ocelot.ca
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

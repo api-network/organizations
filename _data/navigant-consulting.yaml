@@ -1,0 +1,48 @@
+---
+name: Navigant Consulting
+description: Guidehouse is the industry leader in public sector consulting services.
+  Providing a variety of solutions; Technology Consulting, Management Consulting,
+  Strategy Consulting, Risk Management Consulting.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "394199"
+url: https://raw.githubusercontent.com/api-network/organizations/main/navigant-consulting.yaml
+tags:
+- Consultants
+apis: []
+x-common:
+- type: x-website
+  url: https://guidehouse.com/
+- type: x-about
+  url: https://guidehouse.com/new/about/
+- type: x-careers
+  url: https://guidehouse.com/new/careers/
+- type: x-contact
+  url: https://guidehouse.com/new/contact-locations/
+- type: x-facebook
+  url: https://www.facebook.com/GuidehouseUS/
+- type: x-instagram
+  url: https://www.instagram.com/guidehouse/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/28974109
+- type: x-linkedin
+  url: https://www.linkedin.com/company/guidehouse
+- type: x-news
+  url: https://guidehouse.com/new/in-the-news/
+- type: x-privacy
+  url: https://guidehouse.com/privacy-policy/
+- type: x-security
+  url: https://guidehouse.com/industry/national-security/
+- type: x-twitter
+  url: https://twitter.com/guidehouse
+- type: x-website
+  url: https://www.navigant.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,98 @@
+---
+name: MediaDev
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2109596"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mediadev.yaml
+tags:
+- Resources
+apis: []
+x-common:
+- type: x-case-studies
+  url: http://www.mediadev.com/category/case-studies/
+- type: x-case-studies
+  url: https://www.mediadev.com/category/case-studies/
+- type: x-contact
+  url: https://www.mediadev.com/contact-us/
+- type: x-developer
+  url: https://www.mediadev.com/
+- type: x-developer
+  url: https://www.mediadev.com/what-we-do/
+- type: x-developer
+  url: https://www.mediadev.com/who-we-are/
+- type: x-developer
+  url: https://www.mediadev.com/resource-library/
+- type: x-developer
+  url: https://www.mediadev.com/author/sandermediadev-com/
+- type: x-developer
+  url: http://www.mediadev.com/what-we-do/#brand_boosting
+- type: x-developer
+  url: http://www.mediadev.com/what-we-do#_brand_boosting
+- type: x-developer
+  url: http://www.mediadev.com/what-we-do#_growth_hacking
+- type: x-developer
+  url: http://www.mediadev.com/what-we-do/#_partnerships
+- type: x-developer
+  url: http://www.mediadev.com/category/articles/
+- type: x-developer
+  url: http://www.mediadev.com/category/guides/
+- type: x-developer
+  url: http://www.mediadev.com/category/infographics/
+- type: x-developer
+  url: http://www.mediadev.com/category/interviews/
+- type: x-developer
+  url: http://www.mediadev.com/category/templates/
+- type: x-developer
+  url: http://www.mediadev.com/category/videos/
+- type: x-developer
+  url: https://www.mediadev.com/sexism-in-marketing-must-go/
+- type: x-developer
+  url: https://www.mediadev.com/author/mediadev/
+- type: x-developer
+  url: https://www.mediadev.com/author/bwilson/
+- type: x-developer
+  url: http://www.mediadev.com/who-we-are/
+- type: x-developer
+  url: https://www.mediadev.com/content-collaboration-policy/
+- type: x-developer
+  url: http://www.mediadev.com/resource-library
+- type: x-developer
+  url: https://www.mediadev.com/category/articles/
+- type: x-developer
+  url: https://www.mediadev.com/category/guides/
+- type: x-developer
+  url: https://www.mediadev.com/category/infographics/
+- type: x-developer
+  url: https://www.mediadev.com/category/interviews/
+- type: x-developer
+  url: https://www.mediadev.com/category/templates/
+- type: x-developer
+  url: https://www.mediadev.com/category/videos/
+- type: x-facebook
+  url: https://www.facebook.com/mediadeveloppeurs/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/mediadev
+- type: x-partner
+  url: https://www.mediadev.com/partner-agencies/
+- type: x-partner
+  url: http://www.mediadev.com/partner-agencies/
+- type: x-privacy
+  url: https://www.mediadev.com/privacy/
+- type: x-privacy
+  url: http://www.mediadev.com/privacy-policy/
+- type: x-support
+  url: http://www.mediadev.com/what-we-do/#_support
+- type: x-webinars
+  url: https://www.mediadev.com/category/webinars/
+- type: x-website
+  url: https://www.mediadev.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

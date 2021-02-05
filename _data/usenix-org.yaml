@@ -1,0 +1,26 @@
+---
+name: usenix.org
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/usenix-org.yaml
+tags:
+- Organizations
+apis: []
+x-common:
+- type: x-curated-source
+  url: https://www.usenix.org/system/files/conference/woot14/woot14-ghena.pdf
+- type: x-website
+  url: http://usenix.org
+- type: x-website
+  url: https://www.usenix.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

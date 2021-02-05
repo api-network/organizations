@@ -1,0 +1,42 @@
+---
+name: AuctionTamer
+description: AuctionTamer is an auction management software tool for auction buyers
+  and sellers that works with eBay and other sites.  Free for buyers, free trial for
+  sellers.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/auctiontamer.yaml
+tags:
+- Tamer
+- Envision Software
+- Ebay Software
+- Ebay
+- Buyers
+- Browsers
+- Bid
+- Auctiontamer
+- Auction Tool
+- Auction Software
+- Auction Poster
+- Auction Manager
+- Auction Management Software
+- Auction Management
+- Auction Browser
+- Auction
+- Amazon
+apis: []
+x-common:
+- type: x-about
+  url: http://www.tamersolutions.com/about/aboutus.htm
+- type: x-website
+  url: https://www.auctiontamer.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

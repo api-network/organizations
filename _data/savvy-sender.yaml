@@ -1,0 +1,23 @@
+---
+name: Savvy Sender
+description: Free email marketing service from Savvy Sender helps you send engaging
+  emails and track results in real-time.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10440985"
+url: https://raw.githubusercontent.com/api-network/organizations/main/savvy-sender.yaml
+tags:
+- Online Tools
+apis: []
+x-common:
+- type: x-website
+  url: https://www.savvysender.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

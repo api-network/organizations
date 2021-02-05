@@ -1,0 +1,27 @@
+---
+name: Sterling Productions
+description: Sterling Productions has been producing both video and film for more
+  than 35 years throughout the United States, Mexico the Caribbean and more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sterling-productions.yaml
+tags:
+- Services
+apis: []
+x-common:
+- type: x-blog
+  url: https://sterlingproductions.com/sterlings-blog/
+- type: x-contact
+  url: https://sterlingproductions.com/contact-us/
+- type: x-website
+  url: https://www.sterlingproductions.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

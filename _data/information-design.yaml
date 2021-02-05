@@ -1,0 +1,36 @@
+---
+name: Information & Design
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6271237"
+url: https://raw.githubusercontent.com/api-network/organizations/main/information-design.yaml
+tags:
+- Companies And Consultants
+apis: []
+x-common:
+- type: x-about
+  url: https://infodesign.com.au/aboutus/
+- type: x-about
+  url: https://infodesign.com.au/aboutus/design/
+- type: x-about
+  url: https://infodesign.com.au/aboutus/mentoring/
+- type: x-about
+  url: https://infodesign.com.au/aboutus/training/
+- type: x-about
+  url: https://infodesign.com.au/aboutus/user-needs-analysis/
+- type: x-contact
+  url: https://infodesign.com.au/contactus/
+- type: x-contact
+  url: https://infodesign.com.au/contactus/people/
+- type: x-website
+  url: https://www.infodesign.com.au
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

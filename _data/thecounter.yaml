@@ -1,0 +1,41 @@
+---
+name: TheCounter
+description: Get a clear overview and graph of your Twitter stats. Twitter Counter
+  tracks statistics for over 180 million users.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/510_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4904225"
+url: https://raw.githubusercontent.com/api-network/organizations/main/thecounter.yaml
+tags:
+- Twitter
+- Social Analytics
+- Netherlands
+- Netherlands
+- Microblogging
+- Metrics
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://thecounter.org
+- type: x-blog
+  url: http://twittercounter.com/blog?ref=footer
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/twittercounter
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/twittercounter
+- type: x-twitter
+  url: https://twitter.com/TheCounter
+- type: x-website
+  url: http://twittercounter.com/pages/api
+- type: x-website
+  url: https://twittercounter.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,41 @@
+---
+name: Stellar.org
+description: Stellar is an open platform for building financial products that connect
+  people everywhere.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26628-www-stellar-org.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "65948"
+url: https://raw.githubusercontent.com/api-network/organizations/main/stellar-org.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: https://www.stellar.org/
+- type: x-careers
+  url: https://jobs.lever.co/stellar
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/stellar
+- type: x-facebook
+  url: https://www.facebook.com/stellarfoundation
+- type: x-github
+  url: https://github.com/stellar/stellar-core
+- type: x-github
+  url: https://github.com/stellar
+- type: x-status
+  url: https://status.stellar.org/
+- type: x-twitter
+  url: https://twitter.com/StellarOrg
+- type: x-website
+  url: https://www.stellar.org
+- type: x-website
+  url: http://www.stellar.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

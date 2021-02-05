@@ -1,0 +1,54 @@
+---
+name: 'Brinkster: ASP Articles'
+description: Brinkster offers an array of managed services, including Cloud Servers,
+  Hostedd Desktop, DDOS Mitigation, Managed Hosting, Disaster Recovery, Hosted E-mail,
+  Data Storage, Load Balancing and Infrastructure as a Service (IaaS).
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "222066"
+url: https://raw.githubusercontent.com/api-network/organizations/main/brinkster-asp-articles.yaml
+tags:
+- Website Hosting
+- Web Space Hosting
+- Web Space
+- Web Site Hosting
+- Web Hosting Services
+- Web Hosting Provider
+- Web Hosting
+- Shared Hosting
+- Servers
+- Recovery
+- Mitigation
+- Managed Hosting
+- Managed
+- Load Balancing
+- Infrastructure As A Service
+- IaaS
+- Hosting
+- Hosted Email
+- Hosted
+- Host
+- Domain Name
+- Disaster
+- Desktop
+- DDoS
+- Data Storage
+- Cloud Servers
+- Best Web Hosting
+apis: []
+x-common:
+- type: x-login
+  url: https://www.brinkster.com/login.aspx
+- type: x-terms-of-service
+  url: http://www.brinkster.com/company/legal/UTOS.aspx
+- type: x-website
+  url: https://articles.brinkster.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,23 @@
+---
+name: metro.co.uk
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/metro-co-uk.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://metro.co.uk/2015/01/06/millions-of-moonpig-customers-have-private-details-exposed-in-security-leak-5011311/
+- type: x-website
+  url: http://metro.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

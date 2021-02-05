@@ -1,0 +1,31 @@
+---
+name: GnuCash
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "241807"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gnucash.yaml
+tags:
+- Small Business
+- Productivity
+apis: []
+x-common:
+- type: x-documentation
+  url: https://code.gnucash.org/docs/MAINT/
+- type: x-documentation
+  url: https://code.gnucash.org/docs/MASTER/
+- type: x-facebook
+  url: https://www.facebook.com/Gnucash
+- type: x-github
+  url: https://github.com/Gnucash/
+- type: x-website
+  url: https://www.gnucash.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,40 @@
+---
+name: Elan Shudnow's Blog
+description: A Blog about Azure IaaS, PaaS, DevOps, and PowerShell.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3523059"
+url: https://raw.githubusercontent.com/api-network/organizations/main/elan-shudnows-blog.yaml
+tags:
+- Microsoft Exchange
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.shudnow.net/contact-me/
+- type: x-feed
+  url: https://www.shudnow.net/feed/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/eshudnow/
+- type: x-login
+  url: https://www.shudnow.net/wp-login.php
+- type: x-press
+  url: http://my.studiopress.com/themes/magazine/
+- type: x-press
+  url: https://www.studiopress.com/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-twitter
+  url: https://twitter.com/elanshudnow
+- type: x-website
+  url: https://www.shudnow.net
+- type: x-youtube
+  url: https://www.youtube.com/user/eshudnow/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

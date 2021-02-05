@@ -1,0 +1,65 @@
+---
+name: Jewish Software
+description: Jewishsoftware.com. Get the Best Rated Bible study software & Apps developed
+  in Israel. Take advantage of Israel's Technology. Learn Hebrew, Study the Hebrew
+  Bible and Psalms. Check our Free Downloads Today! Online shopping from TES Inc.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "445121"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jewish-software.yaml
+tags:
+- Yeshiva University
+- Yale University
+- Vrije Universiteit Amsterdam
+- University Of Toronto
+- University Of Oxford
+- University Of Chicago
+- UCLA
+- Turo College
+- Psalms
+- Princeton University
+- Logos
+- KU Leuven
+- Hebrew University
+- Hebrew
+- Harvard University
+- Free University Bible Research Software
+- Edinberg University
+- "Eberhard Karls Universit\xE4t T\xFCbingen"
+- Durham University
+- Duke University
+- Bible
+- Bar Ilan Responsa Project
+apis: []
+x-common:
+- type: x-about
+  url: https://www.jewishsoftware.com/about-us
+- type: x-contact
+  url: https://www.jewishsoftware.com/contact
+- type: x-contact
+  url: https://www.jewishsoftware.com/contact/
+- type: x-developer
+  url: http://dev.jewishsoftware.com
+- type: x-facebook
+  url: https://www.facebook.com/jewishsoftware
+- type: x-login
+  url: https://www.jewishsoftware.com/customer/account/login/
+- type: x-privacy
+  url: https://www.jewishsoftware.com/privacy-policy
+- type: x-showcase
+  url: https://jerusalemart.jewelershowcase.com
+- type: x-support
+  url: https://www.jewishsoftware.com/support
+- type: x-terms-of-service
+  url: https://www.jewishsoftware.com/terms-and-conditions
+- type: x-website
+  url: https://www.jewishsoftware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

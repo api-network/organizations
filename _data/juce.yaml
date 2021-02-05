@@ -1,0 +1,32 @@
+---
+name: JUCE
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "187422"
+url: https://raw.githubusercontent.com/api-network/organizations/main/juce.yaml
+tags:
+- Class Libraries
+apis: []
+x-common:
+- type: x-website
+  url: http://www.juce.com
+- type: x-facebook
+  url: https://www.facebook.com/jucelibrary/
+- type: x-forum
+  url: https://forum.juce.com
+- type: x-forum
+  url: https://forum.juce.com/
+- type: x-twitter
+  url: https://twitter.com/JUCElibrary
+- type: x-website
+  url: https://www.juce.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

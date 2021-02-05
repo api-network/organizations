@@ -1,0 +1,22 @@
+---
+name: Chicago Journal of Theoretical Computer Science
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4618"
+url: https://raw.githubusercontent.com/api-network/organizations/main/chicago-journal-of-theoretical-computer-science.yaml
+tags:
+- Journals
+apis: []
+x-common:
+- type: x-website
+  url: https://cjtcs.cs.uchicago.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

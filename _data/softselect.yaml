@@ -1,0 +1,30 @@
+---
+name: SoftSelect
+description: EAI services for ERP Software Selection, ERP system cost control, ERP
+  implementation control, and enterprise software strategy planning. Experience from
+  over 900 ERP system projects.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6000047"
+url: https://raw.githubusercontent.com/api-network/organizations/main/softselect.yaml
+tags:
+- Consultants
+apis: []
+x-common:
+- type: x-press
+  url: https://generatepress.com
+- type: x-support
+  url: https://www.softselect.com/erp-implementation-support/
+- type: x-terms-of-service
+  url: https://www.softselect.com/terms-of-use/
+- type: x-website
+  url: https://www.softselect.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

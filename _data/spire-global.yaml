@@ -1,0 +1,52 @@
+---
+name: Spire Global
+description: Spire Global, Inc. is an American private company specializing in data
+  gathered from a network of small satellites.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/spire-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "466579"
+url: https://raw.githubusercontent.com/api-network/organizations/main/spire-global.yaml
+tags:
+- Weather
+- Satellites
+- Relative Data
+- Marine
+- Have API Paths
+- Have API
+- General Data
+- Aviation
+apis: []
+x-common:
+- type: x-website
+  url: http://www.spire.com
+- type: x-blog
+  url: https://spire.com/insights/
+- type: x-careers
+  url: https://spire.com/en/spire/careers#jobslist
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/nanosatisfi
+- type: x-developer
+  url: https://developers.sense.spire.com/
+- type: x-developers
+  url: https://spire.com/contact/developer-portal/
+- type: x-email
+  url: legal@spire.com
+- type: x-facebook
+  url: https://www.facebook.com/spireglobal/
+- type: x-instagram
+  url: https://www.instagram.com/spire.global/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/spireglobal/
+- type: x-twitter
+  url: https://twitter.com/SpireGlobal
+- type: x-website
+  url: https://spire.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

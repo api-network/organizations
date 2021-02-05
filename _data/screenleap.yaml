@@ -1,0 +1,59 @@
+---
+name: Screenleap
+description: Free screen sharing using Screenleap. The fast, simple, and free way
+  to share your screen instantly for online meetings, sales demos, and collaboration.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1901_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "54579"
+url: https://raw.githubusercontent.com/api-network/organizations/main/screenleap.yaml
+tags:
+- Sharing
+- Screen Share
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: https://www.screenleap.com
+- type: x-about
+  url: https://www.screenleap.com/about
+- type: x-base
+  url: https://api.screenleap.com/
+- type: x-blog
+  url: http://blog.screenleap.com/
+- type: x-blog
+  url: https://blog.screenleap.com/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/screenleap
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/screenleap
+- type: x-developers
+  url: http://www.screenleap.com/api
+- type: x-email
+  url: copyright@screenleap.com
+- type: x-login
+  url: https://www.screenleap.com/login
+- type: x-pricing
+  url: http://www.screenleap.com/pricing
+- type: x-privacy
+  url: https://www.screenleap.com/privacy
+- type: x-support
+  url: https://www.screenleap.com/support
+- type: x-terms-of-service
+  url: https://www.screenleap.com/terms
+- type: x-twitter
+  url: http://twitter.com/share
+- type: x-twitter
+  url: https://twitter.com/screenleap
+- type: x-website
+  url: http://www.screenleap.com/
+- type: x-website
+  url: http://www.screenleap.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

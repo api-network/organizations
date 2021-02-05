@@ -1,0 +1,26 @@
+---
+name: Eureka exception log
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4014951"
+url: https://raw.githubusercontent.com/api-network/organizations/main/eureka-exception-log.yaml
+tags:
+- Add-Ons
+apis: []
+x-common:
+- type: x-blog
+  url: http://eurekalog.blogspot.com
+- type: x-login
+  url: https://www.eurekalog.com/login.php
+- type: x-website
+  url: https://www.eurekalog.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

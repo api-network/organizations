@@ -1,0 +1,45 @@
+---
+name: Support Ticket Theme
+description: WordPress Ticketing System Theme to create a helpdesk using wordpress
+  with built in email piping for support desk with global languages support
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/support-ticket-theme.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/BigFunction
+- type: x-login
+  url: https://www.supporttickettheme.com/login/
+- type: x-press
+  url: https://wordpress.org
+- type: x-privacy
+  url: https://www.supporttickettheme.com/privacy-policy/
+- type: x-support
+  url: https://www.supporttickettheme.com/
+- type: x-support
+  url: https://www.supporttickettheme.com/ticketing/
+- type: x-support
+  url: https://www.supporttickettheme.com/pricing/
+- type: x-support
+  url: https://www.supporttickettheme.com/#moreinfo
+- type: x-support
+  url: https://www.supporttickettheme.com/author/supporttick/
+- type: x-support
+  url: http://www.supporttickettheme.com/ticketing/
+- type: x-support
+  url: https://www.supporttickettheme.com/disclaimer/
+- type: x-website
+  url: https://www.supporttickettheme.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

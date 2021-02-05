@@ -1,0 +1,118 @@
+---
+name: Phaedrus Systems
+description: Supplier of embedded devlopment tools and consultancy for safety critical,
+  high reliability and mission critical systems. Member of ISO C, ISO C++ panels and
+  Principal Author of MISRA-C:2004
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2203139"
+url: https://raw.githubusercontent.com/api-network/organizations/main/phaedrus-systems.yaml
+tags:
+- Waterfall Model
+- Waterfall
+- VisualSTATE
+- Visual State
+- Vector
+- V-model
+- USB Stack
+- UML
+- U-link
+- TCP/IP Stack
+- TCP/IP
+- Style Guides
+- Static Analysis
+- State Machines
+- State Diagrams
+- Spiral
+- Software Reliability
+- Simulators
+- Segger
+- Sciopta J-link
+- Safety-critical
+- Safety Related
+- Safety Critical RTOS
+- Safety Critical
+- Safety
+- RTOS
+- RistanCASE
+- Reverse Engineering
+- Requrirements Analysis
+- Requirements Capture
+- Quest
+- QAC++
+- QAC
+- Pure::variants
+- Pure-systems
+- Pure Variants
+- Pure Systems
+- Processes
+- Phaedsys
+- Phaedrus Systems
+- PC-Lint
+- OS
+- Mission Critical
+- Keil
+- JTAG
+- IrDA Stack
+- IrDA Library
+- Inhand
+- Ice
+- IAR
+- Highintegrity
+- High-integrity
+- Graphics Library
+- Graphics
+- Gimpel. Unit Test
+- Flow Charts
+- Flash File System
+- File System
+- FAT File System
+- Engineers Guides
+- EN61511
+- EmWin
+- Emulators
+- EmbOS
+- Embedded Systems
+- Dynamic Analysis
+- Dev Kits. Phytec
+- Debugging
+- Debuggers
+- DAC
+- Crossware
+- Cosmic
+- Compilers
+- Cogent
+- Coding Standards
+- Codewarrior
+- CASE Tools
+- CAN Library PowerPAC
+- Bytecraft
+- Byte Craft
+- Atmel
+- "62138"
+- "6213"
+- "62061"
+- "61513"
+- "61511"
+- "61508"
+- "60880"
+- "50129"
+- "50128"
+- "26262"
+- "25119"
+- "13849"
+apis: []
+x-common:
+- type: x-security
+  url: https://www.iotsecurityfoundation.org
+- type: x-website
+  url: https://www.phaedsys.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

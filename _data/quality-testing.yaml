@@ -1,0 +1,75 @@
+---
+name: Quality Testing
+description: Quality Testing is a leading social network and resource center for Software
+  Testing Community.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "676721"
+url: https://raw.githubusercontent.com/api-network/organizations/main/quality-testing.yaml
+tags:
+- Webinars
+- Webdriver
+- Tools
+- Toolbar
+- SoftwareTesting
+- Software
+- Selenium
+- SAP
+- News
+- Load And Performance Testing
+- Latest
+- Jobs
+- ISTQB
+- IPad
+- Groups
+- Forums
+- Events
+- Certifications
+- Blogs
+- Applications
+- Android
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.qualitytesting.info/
+- type: x-blog
+  url: http://blog.qualitytesting.info
+- type: x-events
+  url: http://upcomingtechevents.com/
+- type: x-events
+  url: http://upcomingtechevents.com/event/agiletdasia-2020/
+- type: x-events
+  url: http://upcomingtechevents.com/event/himss-20/
+- type: x-events
+  url: http://upcomingtechevents.com/event/tsqa-2020/
+- type: x-events
+  url: http://upcomingtechevents.com/event/developerweek/
+- type: x-events
+  url: http://upcomingtechevents.com
+- type: x-feed
+  url: http://www.qualitytesting.info/page/qt-feeds
+- type: x-forum
+  url: https://www.qualitytesting.info/forum/topics/qc-vs-alm
+- type: x-forum
+  url: https://www.qualitytesting.info/forum
+- type: x-news
+  url: http://www.latestsoftwaretestingnews.com
+- type: x-news
+  url: http://jobs.latestsoftwaretestingnews.com/jobs/
+- type: x-news
+  url: http://latestsoftwaretestingnews.com/tools/dir/
+- type: x-news
+  url: http://latestsoftwaretestingnews.com
+- type: x-open-source
+  url: https://www.qualitytesting.info/group/jobsopenings
+- type: x-website
+  url: https://www.qualitytesting.info
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

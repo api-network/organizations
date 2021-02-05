@@ -1,0 +1,68 @@
+---
+name: On Computers Tips
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/on-computers-tips.yaml
+tags:
+- Weblogs
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.blogger.com/profile/18004453181846128738
+- type: x-blog
+  url: https://www.blogger.com/profile/01877291663958085429
+- type: x-blog
+  url: https://oncomputerstips.blogspot.com/
+- type: x-blog
+  url: https://www.blogger.com/profile/11665063298129754846
+- type: x-blog
+  url: https://www.blogger.com/profile/00594530940718536678
+- type: x-blog
+  url: https://www.blogger.com/profile/15499686570311248628
+- type: x-blog
+  url: https://www.blogger.com/profile/14303085130975944390
+- type: x-blog
+  url: https://www.blogger.com/profile/08135237151061643845
+- type: x-blog
+  url: https://www.blogger.com/profile/12699525348846772563
+- type: x-blog
+  url: https://www.blogger.com/profile/18237030198009158927
+- type: x-blog
+  url: https://oncomputerstips.blogspot.com/2012/
+- type: x-blog
+  url: https://oncomputerstips.blogspot.com/2011/
+- type: x-blog
+  url: https://oncomputerstips.blogspot.com/2010/
+- type: x-blog
+  url: https://oncomputerstips.blogspot.com/2009/
+- type: x-blog
+  url: https://oncomputerstips.blogspot.com/2008/
+- type: x-blog
+  url: https://oncomputerstips.blogspot.com/2007/
+- type: x-blog
+  url: https://oncomputerstips.blogspot.com/2006/
+- type: x-blog
+  url: https://oncomputerstips.blogspot.com/2005/
+- type: x-blog
+  url: https://oncomputerstips.blogspot.com/2004/
+- type: x-blog
+  url: https://www.blogger.com
+- type: x-feed
+  url: http://feeds.feedburner.com/OnComputersTips
+- type: x-news
+  url: http://www.bbc.com/news/technology-17813300
+- type: x-news
+  url: http://www.bbc.co.uk/news/technology-16646023
+- type: x-website
+  url: https://oncomputerstips.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

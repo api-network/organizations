@@ -1,0 +1,30 @@
+---
+name: FAST S.p.a
+description: "FAST realizza Sistemi di Automazione e Controllo di Processo per l'industria
+  e per i servizi di produzione, gestione e distribuzione delle utilities. Scopri
+  di pi\xF9, entra nel sito."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fast-s-p-a.yaml
+tags:
+- Automation
+apis: []
+x-common:
+- type: x-about
+  url: https://www.linkedin.com/company/fast-s.p.a./about/
+- type: x-facebook
+  url: https://www.facebook.com/FastControlTechnology
+- type: x-website
+  url: https://www.fastonline.it
+- type: x-youtube
+  url: https://www.youtube.com/user/FASTonVIDEO
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

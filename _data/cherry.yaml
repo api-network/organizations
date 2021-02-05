@@ -1,0 +1,52 @@
+---
+name: Cherry
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "541846"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cherry.yaml
+tags:
+- Keyboards
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.cherry.de/blog.html
+- type: x-blog
+  url: https://blog.cherry.de/
+- type: x-careers
+  url: https://www.cherry.de/ueber-cherry/jobs.html
+- type: x-facebook
+  url: https://www.facebook.com/ORG.CHERRY
+- type: x-instagram
+  url: https://www.instagram.com/cherry_original/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/cherry-/
+- type: x-news
+  url: https://www.cherry.de/download/de/ehealthnews.php
+- type: x-partner
+  url: https://www.cherry.de/partnerprogramm.html
+- type: x-partner
+  url: https://www.cherry.de/partnerprogramm/handler.html
+- type: x-press
+  url: https://www.cherry.de/ueber-cherry/presse.html
+- type: x-press
+  url: https://www.cherry.de/ueber-cherry/presse/archiv.html
+- type: x-press
+  url: https://www.cherry.de/impressum/
+- type: x-security
+  url: https://www.cherry.de/produkte/security-solutions.html
+- type: x-support
+  url: https://www.cherry.de/service/supportbibliothek.html
+- type: x-twitter
+  url: https://twitter.com/org_cherry/
+- type: x-website
+  url: https://www.cherry.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,38 @@
+---
+name: How to Citrix
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10479036"
+url: https://raw.githubusercontent.com/api-network/organizations/main/how-to-citrix.yaml
+tags:
+- Thin Clients
+apis: []
+x-common:
+- type: x-blog
+  url: https://howtocitrix.blogspot.com/search/label/AMC
+- type: x-blog
+  url: https://howtocitrix.blogspot.com/search/label/Citrix
+- type: x-blog
+  url: https://howtocitrix.blogspot.com/search/label/Managing
+- type: x-blog
+  url: https://howtocitrix.blogspot.com/
+- type: x-blog
+  url: https://www.blogger.com/profile/06301615214081286147
+- type: x-feed
+  url: https://howtocitrix.blogspot.com/feeds/posts/default
+- type: x-support
+  url: http://support.citrix.com/article/CTX127926
+- type: x-support
+  url: http://support.citrix.com/article/CTX120575
+- type: x-website
+  url: https://howtocitrix.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

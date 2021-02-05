@@ -1,0 +1,30 @@
+---
+name: British Computer Society (BCS) Fortran Specialist Group
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "126513"
+url: https://raw.githubusercontent.com/api-network/organizations/main/british-computer-society-bcs-fortran-specialist-group.yaml
+tags:
+- Fortran
+apis: []
+x-common:
+- type: x-about
+  url: http://www.bcs.org/about
+- type: x-events
+  url: http://www.bcs.org/events
+- type: x-news
+  url: http://www.bcs.org/news
+- type: x-open-source
+  url: https://ossg.bcs.org/blog/event/open-source-fortran/
+- type: x-website
+  url: https://www.fortran.bcs.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

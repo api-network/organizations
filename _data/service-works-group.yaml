@@ -1,0 +1,100 @@
+---
+name: Service Works Group
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1303922"
+url: https://raw.githubusercontent.com/api-network/organizations/main/service-works-group.yaml
+tags:
+- Industry-Specific
+apis: []
+x-common:
+- type: x-about
+  url: https://www.swg.com/usa/about-us/
+- type: x-about
+  url: https://www.swg.com/usa/insight/about-us/
+- type: x-blog
+  url: https://swg2018.wpengine.com/usa/blog/
+- type: x-blog
+  url: https://www.swg.com/usa/blog/
+- type: x-blog
+  url: https://www.swg.com/usa/sign-up-to-service-works-blog/
+- type: x-blog
+  url: https://www.swg.com/usa/thank-you-blog/
+- type: x-careers
+  url: https://swg2018.wpengine.com/usa/careers/
+- type: x-careers
+  url: https://www.swg.com/usa/careers/
+- type: x-careers
+  url: https://www.swg.com/usa/graduate-careers/
+- type: x-case-studies
+  url: https://swg2018.wpengine.com/usa/case-studies/
+- type: x-case-studies
+  url: http://swg2018.wpengine.com/usa/case-studies/
+- type: x-case-studies
+  url: https://www.swg.com/usa/insight/case-studies/
+- type: x-contact
+  url: https://www.swg.com/usa/contact-us/
+- type: x-contact
+  url: https://swg2018.wpengine.com/usa/contact-us/
+- type: x-contact
+  url: https://www.swg.com/usa/customer-area/contact-us/
+- type: x-contact
+  url: https://www.swg.com/usa/thank-you-contact-us/
+- type: x-events
+  url: https://www.swg.com/usa/customer-area/training-events/
+- type: x-feed
+  url: https://www.swg.com/usa/customer-feedback/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/serviceworksglobal
+- type: x-login
+  url: http://www.swgclient.com/login
+- type: x-news
+  url: https://swg2018.wpengine.com/usa/insight/news-events/
+- type: x-news
+  url: https://www.swg.com/usa/insight/news-events/
+- type: x-news
+  url: https://www.swg.com/usa/customer-area/news/
+- type: x-news
+  url: https://www.swg.com/usa/newsletter/
+- type: x-partner
+  url: https://www.swg.com/usa/partnerships/
+- type: x-partner
+  url: https://www.swg.com/usa/insight/partners-alliances/
+- type: x-privacy
+  url: https://www.swg.com/usa/privacy-policy/
+- type: x-signup
+  url: https://www.swg.com/usa/blog-signup/
+- type: x-support
+  url: https://www.swg.com/usa/types/bid-support/
+- type: x-support
+  url: https://www.swg.com/usa/types/software-support/
+- type: x-support
+  url: https://www.swg.com/usa/online-demo-fm-help-desk/
+- type: x-support
+  url: https://www.swg.com/usa/support/
+- type: x-terms-of-service
+  url: https://www.swg.com/usa/legal/
+- type: x-twitter
+  url: https://twitter.com/Service_Works
+- type: x-website
+  url: https://www.swg.com
+- type: x-white-papers
+  url: https://swg2018.wpengine.com/usa/insight/white-papers/
+- type: x-white-papers
+  url: https://www.swg.com/usa/insight/white-papers/
+- type: x-white-papers
+  url: https://www.swg.com/usa/form-bim-white-paper/
+- type: x-white-papers
+  url: https://www.swg.com/usa/request-a-ppp-white-paper/
+- type: x-white-papers
+  url: https://www.swg.com/usa/thank-you-white-paper/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

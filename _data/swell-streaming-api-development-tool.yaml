@@ -1,0 +1,52 @@
+---
+name: Swell Streaming API Development Tool
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/swell-streaming-api-development-tool.yaml
+tags:
+- New
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/getswell/getswell
+- type: x-github
+  url: https://github.com/texpatnyc
+- type: x-github
+  url: https://github.com/jasonou1994
+- type: x-github
+  url: https://github.com/discrete-projects
+- type: x-github
+  url: https://github.com/brandon6190
+- type: x-github
+  url: https://github.com/addoasa
+- type: x-github
+  url: https://github.com/abbychao
+- type: x-github
+  url: https://github.com/aflinky
+- type: x-github
+  url: https://github.com/KajolThapa
+- type: x-github
+  url: https://github.com/btctrl
+- type: x-github
+  url: https://github.com/prheee
+- type: x-github
+  url: https://github.com/sam-parsons
+- type: x-linkedin
+  url: https://www.linkedin.com/company/getswell/
+- type: x-open-source
+  url: https://github.com/open-source-labs/Swell
+- type: x-twitter
+  url: https://twitter.com/swellapi
+- type: x-website
+  url: http://www.getswell.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

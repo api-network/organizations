@@ -1,0 +1,24 @@
+---
+name: Bret Johnson
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8923148"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bret-johnson.yaml
+tags:
+- Freeware
+apis: []
+x-common:
+- type: x-forum
+  url: http://bretjohnson.us/forum
+- type: x-website
+  url: https://bretjohnson.us
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

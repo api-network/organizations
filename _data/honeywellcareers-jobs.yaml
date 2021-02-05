@@ -1,0 +1,23 @@
+---
+name: honeywellcareers.jobs
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/honeywellcareers-jobs.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://honeywellcareers.jobs/golden-valley-mn/api-evangelist-lead/F6E75FF3A4054857BB71B5AC28E0C3D3/job/#.U5E93Xbhrw0.twitter
+- type: x-website
+  url: http://honeywellcareers.jobs
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

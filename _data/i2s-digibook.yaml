@@ -1,0 +1,41 @@
+---
+name: I2S Digibook
+description: 'Our customers value our innnovative solutions, which manage every stage
+  of the digitization process: image capture, processing, enhancement and sharing'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/i2s-digibook.yaml
+tags:
+- Book
+apis: []
+x-common:
+- type: x-website
+  url: http://www.i2s.fr
+- type: x-about
+  url: https://plus.google.com/101690927899731959599/about
+- type: x-blog
+  url: http://blog.i2s.fr/en
+- type: x-contact
+  url: http://download.i2s.fr/contact-us-i2s-en
+- type: x-contact
+  url: http://download.i2s.fr/contact-i2s-team
+- type: x-instagram
+  url: https://www.instagram.com/i2sinside/
+- type: x-linkedin
+  url: https://fr.linkedin.com/company/groupe-i2s
+- type: x-twitter
+  url: https://twitter.com/i2sBeVisionary
+- type: x-website
+  url: https://www.i2s-digibook.com
+- type: x-youtube
+  url: https://www.youtube.com/user/i2SDigiBook/videos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

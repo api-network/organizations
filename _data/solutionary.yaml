@@ -1,0 +1,38 @@
+---
+name: Solutionary
+description: A global technology services company for the connected future. We provide
+  managed, consulting, support, and technical services to shape your digital transformation,
+  cybersecurity, and customer experience through the effective use of innovative technology.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/solutionary.yaml
+tags:
+- United States
+apis: []
+x-common:
+- type: x-instagram
+  url: https://www.instagram.com/globalntt/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/global-ntt
+- type: x-open-source
+  url: https://open.spotify.com/show/5RaBmwYWgLDTzDDzLGYKiv
+- type: x-security
+  url: https://www.nttsecurity.com/landing-pages/2019-gtir
+- type: x-twitter
+  url: https://twitter.com/GlobalNTT
+- type: x-website
+  url: https://www.solutionary.com
+- type: x-youtube
+  url: https://www.youtube.com/embed/bCsxHXyJXpo?rel=0
+- type: x-youtube
+  url: https://www.youtube.com/c/NTTLtd
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,57 @@
+---
+name: Newroads Telecom
+description: Pinnacle Telecom is proud to provide the highest quality Traditional
+  Business Phone Service, Cloud-Based Voice & Phone Services, Fiber-Optic Gigabit
+  Internet Service, & Custom Build Network Services to our valued customers in Eastern
+  Arkansas & Western Oklahoma.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/newroads-telecom.yaml
+tags:
+- Filtered
+apis: []
+x-common:
+- type: x-website
+  url: http://www.pinnacletelecom.com
+- type: x-about
+  url: https://www.pinnacletelecom.com/about
+- type: x-about
+  url: https://www.pinnacletelecom.com/about/history
+- type: x-blog
+  url: https://www.pinnacletelecom.com/blog
+- type: x-careers
+  url: https://www.pinnacletelecom.com/careers
+- type: x-contact
+  url: https://www.pinnacletelecom.com/contact
+- type: x-facebook
+  url: https://www.facebook.com/PinnTel/
+- type: x-facebook
+  url: https://www.facebook.com/PinnTel
+- type: x-linkedin
+  url: https://www.linkedin.com/organization/16211425
+- type: x-news
+  url: https://www.pinnacletelecom.com/news
+- type: x-privacy
+  url: https://www.pinnacletelecom.com/privacy
+- type: x-support
+  url: https://www.pinnacletelecom.com/support
+- type: x-support
+  url: https://www.pinnacletelecom.com/support/voice/ip-phone
+- type: x-support
+  url: https://www.pinnacletelecom.com/sip-alg-helps
+- type: x-twitter
+  url: https://twitter.com/PinnTel
+- type: x-website
+  url: https://www.newroadstelecom.com
+- type: x-white-papers
+  url: https://www.pinnacletelecom.com/support/whitepapers
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

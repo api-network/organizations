@@ -1,0 +1,36 @@
+---
+name: JUMDUM
+description: A small digital agency located in Odense with a burning passion and urge
+  for quality and creativity.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29673-jumdum-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jumdum.yaml
+tags: []
+apis: []
+x-common:
+- type: x-about
+  url: https://www.jumdum.com/about-jumdum-media/
+- type: x-email
+  url: mail@JUMDUM.com
+- type: x-facebook
+  url: http://www.facebook.com/JUMDUM
+- type: x-facebook
+  url: http://www.facebook.com/twitter
+- type: x-twitter
+  url: https://twitter.com/JUMDUM
+- type: x-twitter
+  url: http://twitter.com/JUMDUM/statuses/360826260408119298
+- type: x-twitter
+  url: http://twitter.com/JUMDUM/statuses/356172861049798656
+- type: x-website
+  url: http://jumdum.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

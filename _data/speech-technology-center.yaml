@@ -1,0 +1,32 @@
+---
+name: Speech Technology Center
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1181642"
+url: https://raw.githubusercontent.com/api-network/organizations/main/speech-technology-center.yaml
+tags:
+- Speech Technology
+apis: []
+x-common:
+- type: x-news
+  url: https://speechpro.com/media/news/2020-01-15
+- type: x-news
+  url: https://speechpro.com/media/news/2019-10-04
+- type: x-news
+  url: https://speechpro.com/media/news/2019-05-28
+- type: x-news
+  url: https://speechpro.com/media/news
+- type: x-privacy
+  url: https://speechpro.com/privacy-and-cookie-policy
+- type: x-website
+  url: https://www.speechpro.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

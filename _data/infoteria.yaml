@@ -1,0 +1,30 @@
+---
+name: Infoteria
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/infoteria.yaml
+tags:
+- Vendors
+apis: []
+x-common:
+- type: x-about
+  url: https://www.asteria.com/en/about-us/
+- type: x-contact
+  url: https://www.asteria.com/en/contact/
+- type: x-news
+  url: https://www.asteria.com/en/news/
+- type: x-privacy
+  url: https://www.iubenda.com/privacy-policy/30106517
+- type: x-website
+  url: https://www.infoteria.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

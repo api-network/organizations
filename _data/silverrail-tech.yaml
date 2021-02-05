@@ -1,0 +1,71 @@
+---
+name: SilverRail Tech
+description: Charts, maps & planning solutions for aviation. View services to meet
+  operational needs & increase efficiency.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/silverrail.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "151655"
+url: https://raw.githubusercontent.com/api-network/organizations/main/silverrail-tech.yaml
+tags:
+- Trips
+- Trips
+- Trip Planning
+- Planning
+- Have API
+- Guide
+- Airlines
+apis: []
+x-common:
+- type: x-website
+  url: http://www.silverrailtech.com
+- type: x-about
+  url: https://ww2.jeppesen.com/about-us/
+- type: x-blog
+  url: http://silverrailtech.com/blog
+- type: x-blog-rss
+  url: http://silverrailtech.com/blog/feed
+- type: x-careers
+  url: http://www.boeing.com/careers/
+- type: x-contact
+  url: https://ww2.jeppesen.com/contact-us/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/jeppesen
+- type: x-facebook
+  url: https://www.facebook.com/jeppesen
+- type: x-linkedin
+  url: https://www.linkedin.com/company/jeppesen/
+- type: x-login
+  url: https://shop.boeingservices.com/shop/login
+- type: x-news
+  url: https://news.jeppesen.com/news-room/
+- type: x-news
+  url: https://news.jeppesen.com/aviator-articles/
+- type: x-news
+  url: https://news.jeppesen.com/events-and-tradeshows/
+- type: x-privacy
+  url: http://www.boeing.com/privacy-and-cookie-policy.page
+- type: x-support
+  url: https://support.jeppesen.com/
+- type: x-terms-of-service
+  url: https://ww2.jeppesen.com/legal/
+- type: x-terms-of-service
+  url: https://ww2.jeppesen.com/legal/legal-terms-of-use/
+- type: x-twitter
+  url: https://www.twitter.com/jeppesen
+- type: x-twitter
+  url: https://twitter.com/silverrailtech
+- type: x-twitter
+  url: https://twitter.com/Jeppesen
+- type: x-website
+  url: http://ww1.jeppesen.com/main/corporate/land/journey-planning/index.jsp
+- type: x-youtube
+  url: https://www.youtube.com/jeppesen
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

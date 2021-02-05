@@ -1,0 +1,49 @@
+---
+name: Compojoom
+description: Welcome to Compojoom. We are web developers who work hard to make Joomla!
+  extensions that people love to use. Our products, created with high attention to
+  detail help you create value and make the most out of your Joomla! website.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "520103"
+url: https://raw.githubusercontent.com/api-network/organizations/main/compojoom.yaml
+tags:
+- Wordpress Migrator
+- Tiles
+- Matukio
+- Joomla
+- Instant
+- Hotspots
+- Google Maps
+- Extensions And Templates
+- Extensions
+- Drupal
+- Components
+- Component
+- Comment System
+- Cmigrator
+apis: []
+x-common:
+- type: x-website
+  url: http://compojoom.com
+- type: x-blog
+  url: https://compojoom.com/blog/entry/cforms-2-0-released
+- type: x-facebook
+  url: https://www.facebook.com/compojoom
+- type: x-partner
+  url: https://partners.compojoom.com
+- type: x-twitter
+  url: https://twitter.com/compojoom
+- type: x-website
+  url: https://compojoom.com
+- type: x-youtube
+  url: https://www.youtube.com/user/compojoom
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

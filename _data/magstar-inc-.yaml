@@ -1,0 +1,38 @@
+---
+name: Magstar, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3253066"
+url: https://raw.githubusercontent.com/api-network/organizations/main/magstar-inc-.yaml
+tags:
+- ERP
+apis: []
+x-common:
+- type: x-website
+  url: http://www.magstarinc.com
+- type: x-careers
+  url: https://www.magstarinc.com/erp-vendor/careers
+- type: x-contact
+  url: https://www.magstarinc.com/contact
+- type: x-linkedin
+  url: https://www.linkedin.com/company/magstar-inc
+- type: x-news
+  url: https://www.magstarinc.com/company-news
+- type: x-support
+  url: https://www.magstarinc.com/erp-services-and-support
+- type: x-twitter
+  url: https://twitter.com/magstarinc
+- type: x-website
+  url: https://www.magstarinc.com
+- type: x-youtube
+  url: https://www.youtube.com/user/magstartotalretail
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,32 @@
+---
+name: Silvertip Software
+description: Silvertip Software is a small but stable web app development company
+  in downtown Vancouver, creating cloud-based apps.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/silvertip-software.yaml
+tags:
+- Web Development
+- Vancouver
+- Startup
+- Software Development
+- Silvertip Software
+- Scheduling Applications
+- Facility Scheduling Applications
+- Facility Management Software
+- Custom Enterprise Application
+- Appointment Scheduling
+apis: []
+x-common:
+- type: x-website
+  url: https://www.silvertipsoftware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

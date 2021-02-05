@@ -1,0 +1,39 @@
+---
+name: Pagevamp
+description: Create a beautiful, professional website from your Facebook page. Includes
+  a free domain, unlimited hosting, e-commerce, and 24/7 support.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "185650"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pagevamp.yaml
+tags:
+- Weblogs
+apis: []
+x-common:
+- type: x-about
+  url: https://www.pagevamp.com/us/about
+- type: x-facebook
+  url: https://www.facebook.com/pagevamp
+- type: x-facebook
+  url: https://www.facebook.com/pages/create
+- type: x-linkedin
+  url: https://www.linkedin.com/company/pagevamp
+- type: x-pricing
+  url: https://www.pagevamp.com/us/pricing
+- type: x-terms-of-service
+  url: https://www.pagevamp.com/us/privacypolicy-terms?terms
+- type: x-terms-of-service
+  url: https://www.pagevamp.com/us/privacypolicy-terms
+- type: x-website
+  url: https://pagevamp.com
+- type: x-youtube
+  url: https://www.youtube.com/user/Pagevamp
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

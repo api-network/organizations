@@ -1,0 +1,26 @@
+---
+name: Spanki's Prop Shop
+description: Spankis Prop Shop is run by Keith Young and contains information, products
+  and discussions primarily related to Cinema 4D, BodyPaint 3D and Poser.  It is also
+  the home of the Riptide and Undertow plugins for C4D.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4809095"
+url: https://raw.githubusercontent.com/api-network/organizations/main/spankis-prop-shop.yaml
+tags:
+- Poser
+apis: []
+x-common:
+- type: x-news
+  url: https://skinprops.com/news.php?default.0.10
+- type: x-website
+  url: https://www.skinprops.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

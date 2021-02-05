@@ -1,0 +1,44 @@
+---
+name: EASEUS Partition Manager
+description: As free Partition Magic and Partition Magic Server alternative, EaseUS
+  Partition Master software is the best hard drive free partition manager and partition
+  software.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1305449"
+url: https://raw.githubusercontent.com/api-network/organizations/main/easeus-partition-manager.yaml
+tags:
+- Partition Magic Server
+- Partition Magic
+- Partition
+- Free Partition Manager
+- EaseUS Partition Master
+apis: []
+x-common:
+- type: x-website
+  url: http://www.easeus.com/
+- type: x-contact
+  url: https://www.easeus.com/contact.htm
+- type: x-facebook
+  url: https://www.facebook.com/easeussoftware
+- type: x-login
+  url: https://reseller.easeus.com/public/login.html
+- type: x-privacy
+  url: https://www.easeus.com/privacy.htm
+- type: x-terms-of-service
+  url: https://www.easeus.com/legal-counsel.htm
+- type: x-twitter
+  url: https://twitter.com/easeus_software
+- type: x-website
+  url: https://www.partition-tool.com
+- type: x-youtube
+  url: https://www.youtube.com/user/EASEUSsoftware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

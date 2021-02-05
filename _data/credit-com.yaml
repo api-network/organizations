@@ -1,0 +1,60 @@
+---
+name: Credit.com
+description: Get a Free Credit Score & Advice From Our Credit Experts. Learn How To
+  Better Manage Your Credit & Which Credit Products Are Best For You.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28298-www-credit-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "33225"
+url: https://raw.githubusercontent.com/api-network/organizations/main/credit-com.yaml
+tags:
+- Have API
+- API Not Found
+apis: []
+x-common:
+- type: x-website
+  url: http://www.Credit.com/
+- type: x-blog
+  url: https://blog.credit.com/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/credit-com
+- type: x-email
+  url: support@credit.com
+- type: x-email
+  url: privacy@credit.com
+- type: x-facebook
+  url: https://www.facebook.com/CreditExperts
+- type: x-feed
+  url: https://blog.credit.com/feed/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/credit-com
+- type: x-privacy
+  url: https://www.credit.com/privacy/
+- type: x-privacy
+  url: https://www.credit.com/privacy-notice/
+- type: x-privacy
+  url: https://www.credit.com/privacy#california-policy
+- type: x-security
+  url: https://www.credit.com/security_promise/
+- type: x-signup
+  url: https://www.credit.com/signup
+- type: x-signup
+  url: https://www.credit.com/signup/
+- type: x-support
+  url: https://support.credit.com
+- type: x-support
+  url: https://support.credit.com/hc/en-us
+- type: x-terms-of-service
+  url: https://www.credit.com/terms/
+- type: x-twitter
+  url: https://twitter.com/CreditExperts
+- type: x-website
+  url: https://www.credit.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

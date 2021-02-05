@@ -1,0 +1,26 @@
+---
+name: Digitus s.r.o. (CZ)
+description: "Pot\u0159ebovali byste pomoci s reklamou? Ide\xE1ln\u011B byste pot\u0159ebovali
+  b\xFDt prvn\xED, druz\xED nebo t\u0159et\xED v internetov\xE9m vyhled\xE1va\u010Di,
+  aby si v\xE1s lid\xE9 v\u0161imli? Jen m\xE1lokdo jde na druhou stranu. Proto publikujte
+  pravideln\u011B u n\xE1s sv\xE9 PR."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/digitus-s-r-o--cz.yaml
+tags:
+- Digitus
+- Companies
+apis: []
+x-common:
+- type: x-website
+  url: https://www.digitus.cz
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

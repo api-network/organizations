@@ -1,0 +1,30 @@
+---
+name: Hackerdude
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hackerdude.yaml
+tags:
+- Weblogs
+apis: []
+x-common:
+- type: x-contact
+  url: http://www.tacitknowledge.com/tk/us/contact.html
+- type: x-github
+  url: https://github.com/hackerdude/jiratotaskmanagers
+- type: x-platform
+  url: https://www.hackerdude.com/category/dev-platforms/sql/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-website
+  url: https://www.hackerdude.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

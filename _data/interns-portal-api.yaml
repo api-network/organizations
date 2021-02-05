@@ -1,0 +1,21 @@
+---
+name: Interns portal API
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/interns-portal-api.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://api.learn.2-up.ru
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

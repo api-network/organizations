@@ -1,0 +1,55 @@
+---
+name: Mooz Themes
+description: Unique collection of clean, elegant and free WordPress themes for your
+  blog, business or magazine.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "125532"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mooz-themes.yaml
+tags:
+- Free
+apis: []
+x-common:
+- type: x-website
+  url: http://moozthemes.com/
+- type: x-about
+  url: https://moozthemes.com/about/
+- type: x-blog
+  url: https://moozthemes.com/blog/
+- type: x-contact
+  url: https://moozthemes.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/MOOZThemes/
+- type: x-press
+  url: https://moozthemes.com/wordpress/
+- type: x-press
+  url: https://moozthemes.com/avrilly-wordpress-theme/
+- type: x-press
+  url: https://moozthemes.com/neila-wordpress-theme/
+- type: x-press
+  url: https://moozthemes.com/serenti-wordpress-theme/
+- type: x-press
+  url: https://moozthemes.com/magazine-wordpress-themes/
+- type: x-press
+  url: https://moozthemes.com/travel-wordpress-themes/
+- type: x-press
+  url: https://moozthemes.com/wordpress-fitness-themes/
+- type: x-privacy
+  url: https://moozthemes.com/privacy/
+- type: x-terms-of-service
+  url: https://moozthemes.com/terms/
+- type: x-twitter
+  url: https://twitter.com/MoozThemes
+- type: x-website
+  url: https://moozthemes.com
+- type: x-youtube
+  url: https://www.youtube.com/c/Moozthemes
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

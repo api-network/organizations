@@ -1,0 +1,39 @@
+---
+name: Factivity Inc.
+description: FACTIVITY offers a leading MES for manufacturers looking to improve plant
+  performance.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2835291"
+url: https://raw.githubusercontent.com/api-network/organizations/main/factivity-inc-.yaml
+tags:
+- Automation
+apis: []
+x-common:
+- type: x-about
+  url: https://factivity.com/company-info-2/about-us/
+- type: x-careers
+  url: https://factivity.com/careers-2/
+- type: x-contact
+  url: https://factivity.com/contact-us/
+- type: x-customers
+  url: https://factivity.com/our-customers/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/factivity
+- type: x-privacy
+  url: https://factivity.com/privacy-policy/
+- type: x-website
+  url: https://www.factivity.com
+- type: x-white-papers
+  url: https://factivity.com/index.php/mes-myths-whitepaper/
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=LbQcEVJ8kds
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

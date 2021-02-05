@@ -1,0 +1,62 @@
+---
+name: The FreeBSD Foundation
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1529868"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-freebsd-foundation.yaml
+tags:
+- FreeBSD
+apis: []
+x-common:
+- type: x-website
+  url: http://www.freebsdfoundation.org
+- type: x-about
+  url: https://www.freebsdfoundation.org/about/overview/
+- type: x-about
+  url: https://www.freebsdfoundation.org/about/staff/
+- type: x-about
+  url: https://www.freebsdfoundation.org/about/testimonials/
+- type: x-about
+  url: https://www.freebsdfoundation.org/about/faqs/
+- type: x-about
+  url: https://www.freebsdfoundation.org/about/resources/
+- type: x-about
+  url: https://www.freebsdfoundation.org/about/brand-assets/
+- type: x-about
+  url: https://www.freebsdfoundation.org/about/project/
+- type: x-about
+  url: https://www.freebsdfoundation.org/about/financials/
+- type: x-about
+  url: https://www.freebsdfoundation.org/about/
+- type: x-blog
+  url: https://www.freebsdfoundation.org/blog/
+- type: x-contact
+  url: https://www.freebsdfoundation.org/about/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/FreeBSDFoundation
+- type: x-facebook
+  url: https://www.facebook.com/facebook
+- type: x-linkedin
+  url: https://www.linkedin.com/company/freebsd-foundation/
+- type: x-news
+  url: https://www.freebsdfoundation.org/news-and-events/
+- type: x-privacy
+  url: https://www.freebsdfoundation.org/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.freebsdfoundation.org/legal
+- type: x-terms-of-service
+  url: https://www.freebsdfoundation.org/legal/
+- type: x-twitter
+  url: https://twitter.com/freebsdfndation
+- type: x-website
+  url: https://www.freebsdfoundation.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,36 @@
+---
+name: Federal Aviation Administration
+description: The Federal Aviation Administration is an operating mode of the U.S.
+  Department of Transportation.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/400px-US-FederalAviationAdmin-Seal.svg.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "12461"
+url: https://raw.githubusercontent.com/api-network/organizations/main/federal-aviation-administration.yaml
+tags:
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.faa.gov
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/federal-aviation-administration
+- type: x-developers
+  url: http://services.faa.gov/
+- type: x-twitter
+  url: https://twitter.com/FAANews
+- type: x-website
+  url: https://services.faa.gov
+- type: x-website
+  url: http://faa.gov
+- type: x-wikipedia
+  url: http://en.wikipedia.org/wiki/Federal_Aviation_Administration
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

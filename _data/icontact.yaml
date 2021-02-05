@@ -1,0 +1,162 @@
+---
+name: iContact
+description: "Work with iContact\u2019s powerful API through our developer portal
+  to create applications that improve the email marketing experience.\_"
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/215_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "13775"
+url: https://raw.githubusercontent.com/api-network/organizations/main/icontact.yaml
+tags:
+- Online Tools
+- Have API
+- Email Marketing
+- CRM
+- Contacts
+- API Provider
+apis: []
+x-common:
+- type: x-base
+  url: https://app.icontact.com/icp/)
+- type: x-blog
+  url: http://icontact.com/blog
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/icontact/blog
+- type: x-contact
+  url: https://www.icontact.com/
+- type: x-contact
+  url: https://www.icontact.com/developerportal
+- type: x-contact
+  url: https://www.icontact.com/developerportal/home
+- type: x-contact
+  url: https://www.icontact.com/developerportal/pro/home
+- type: x-contact
+  url: https://www.icontact.com/signup
+- type: x-contact
+  url: https://www.icontact.com/login
+- type: x-contact
+  url: https://www.icontact.com/developerportal/documentation/start-building/
+- type: x-contact
+  url: https://www.icontact.com/developerportal/documentation/resource-call-references-list/
+- type: x-contact
+  url: https://www.icontact.com/developerportal/documentation/code-library/
+- type: x-contact
+  url: https://www.icontact.com/email-marketing-integrations
+- type: x-contact
+  url: https://www.icontact.com/developerportal-legacy
+- type: x-contact
+  url: https://www.icontact.com/marketing-solutions
+- type: x-contact
+  url: https://www.icontact.com/big-news
+- type: x-contact
+  url: https://www.icontact.com/email-marketing-services
+- type: x-contact
+  url: https://www.icontact.com/services/premier
+- type: x-contact
+  url: https://www.icontact.com/solutions/salesforce
+- type: x-contact
+  url: https://www.icontact.com/support
+- type: x-contact
+  url: https://www.icontact.com/resources
+- type: x-contact
+  url: https://www.icontact.com/team-promise
+- type: x-contact
+  url: https://www.icontact.com/onboarding
+- type: x-contact
+  url: https://www.icontact.com/customer-rating
+- type: x-contact
+  url: https://www.icontact.com/define
+- type: x-contact
+  url: https://www.icontact.com/videos
+- type: x-contact
+  url: https://www.icontact.com/report-spam
+- type: x-contact
+  url: https://www.icontact.com/pricing
+- type: x-contact
+  url: https://www.icontact.com/high-volume-sender
+- type: x-contact
+  url: https://www.icontact.com/nonprofits
+- type: x-contact
+  url: https://info.icontact.com/icontact-agency-program
+- type: x-contact
+  url: https://info.icontact.com/icontact-referral-program
+- type: x-contact
+  url: https://www.icontact.com/about
+- type: x-contact
+  url: https://www.icontact.com/contact
+- type: x-contact
+  url: https://www.icontact.com/careers
+- type: x-contact
+  url: https://www.icontact.com/news-events
+- type: x-contact
+  url: https://www.icontact.com/awards
+- type: x-contact
+  url: https://www.icontact.com/blog
+- type: x-contact
+  url: https://www.linkedin.com/company/icontact
+- type: x-contact
+  url: https://www.youtube.com/user/icontact
+- type: x-contact
+  url: https://www.instagram.com/icontact/
+- type: x-contact
+  url: https://www.pinterest.com/icontact/
+- type: x-contact
+  url: https://www.icontact.com/blog/email-marketing-case-study-llewellyn-magic
+- type: x-contact
+  url: https://www.icontact.com/blog/email-marketing-facebook-custom-audience-retargeting
+- type: x-contact
+  url: https://www.icontact.com/blog/welcome-email-necessity
+- type: x-contact
+  url: https://www.icontact.com/legal/anti-spam-policy
+- type: x-contact
+  url: https://www.icontact.com/legal/anti-spam-policy#CASL
+- type: x-contact
+  url: https://www.icontact.com/gdpr
+- type: x-contact
+  url: https://www.icontact.com/legal/terms-conditions
+- type: x-contact
+  url: https://www.icontact.com/legal/privacy
+- type: x-contact
+  url: https://www.icontact.com/sitemap
+- type: x-contact
+  url: https://www.icontact.com/legal/terms-conditions#dmca
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/icontact
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/icontact
+- type: x-customers
+  url: https://www.icontact.com/customers
+- type: x-email
+  url: sales@icontact.com
+- type: x-email
+  url: media@icontact.com
+- type: x-email
+  url: abuse@icontact.com
+- type: x-email
+  url: customercare@icontact.com
+- type: x-email
+  url: deliverability@icontact.com
+- type: x-email
+  url: legaldept@icontact.com
+- type: x-facebook
+  url: https://www.facebook.com/iContact
+- type: x-github
+  url: https://github.com/icontact
+- type: x-pricing
+  url: https://www.icontact.com/pricing
+- type: x-twitter
+  url: https://twitter.com/#!/iContact
+- type: x-twitter
+  url: https://twitter.com/iContact
+- type: x-website
+  url: http://developer.icontact.com/
+- type: x-website
+  url: https://icontact.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

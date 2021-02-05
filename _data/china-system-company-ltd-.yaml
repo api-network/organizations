@@ -1,0 +1,26 @@
+---
+name: China System Company LTD.
+description: INTERNATIONAL DIGITAL IMAGING SYSTEMS CO.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/china-system-company-ltd-.yaml
+tags:
+- Book
+apis: []
+x-common:
+- type: x-about
+  url: http://www.chinasystem.hk/about_us
+- type: x-open-source
+  url: http://www.opencart.com
+- type: x-website
+  url: https://www.chinasystem.com.hk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

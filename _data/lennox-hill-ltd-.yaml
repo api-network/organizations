@@ -1,0 +1,47 @@
+---
+name: Lennox Hill Ltd.
+description: isoTracker's modular QMS software makes document control, complaint and
+  audit management and non-conformance management quicker and easier.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lennox-hill-ltd-.yaml
+tags:
+- Regulatory Compliance
+apis: []
+x-common:
+- type: x-website
+  url: https://www.isotracker.com/
+- type: x-about
+  url: https://www.isotracker.com/about/
+- type: x-blog
+  url: https://www.isotracker.com/blog/
+- type: x-contact
+  url: https://www.isotracker.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/isotracker
+- type: x-linkedin
+  url: https://www.linkedin.com/company/lennox-hill-ltd
+- type: x-pricing
+  url: https://www.isotracker.com/pricing-and-payment/
+- type: x-privacy
+  url: https://www.isotracker.com/privacy-policy/
+- type: x-security
+  url: https://www.isotracker.com/security-measures/
+- type: x-support
+  url: https://www.isotracker.com/support/
+- type: x-twitter
+  url: http://www.twitter.com/@isoTracker
+- type: x-website
+  url: https://www.lennoxhill.co.uk
+- type: x-white-papers
+  url: https://www.isotracker.com/articles-and-white-paper/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

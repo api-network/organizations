@@ -1,0 +1,62 @@
+---
+name: Ntop
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "339218"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ntop.yaml
+tags:
+- Network Management
+apis: []
+x-common:
+- type: x-website
+  url: http://luca.ntop.org
+- type: x-about
+  url: https://www.ntop.org/about/about-us-2/
+- type: x-about
+  url: https://www.ntop.org/about/whos-behind-ntop/
+- type: x-about
+  url: https://www.ntop.org/about/credits/
+- type: x-about
+  url: https://www.ntop.org/about/business-partners/
+- type: x-about
+  url: https://www.ntop.org/about/locations/
+- type: x-about
+  url: https://www.ntop.org/about/resources/
+- type: x-blog
+  url: https://www.ntop.org/blog/
+- type: x-contact
+  url: https://www.ntop.org/support/need-help-2/contact-us/
+- type: x-documentation
+  url: https://www.ntop.org/support/documentation/faq/
+- type: x-github
+  url: https://github.com/ntop
+- type: x-linkedin
+  url: https://www.linkedin.com/company/9381348
+- type: x-privacy
+  url: https://www.ntop.org/about/privacy-policy/
+- type: x-security
+  url: https://www.ntop.org/support/misc/security/
+- type: x-support
+  url: https://www.ntop.org/support/need-help-2/need-help/
+- type: x-support
+  url: https://www.ntop.org/support/misc/brochures/
+- type: x-terms-of-service
+  url: https://www.ntop.org/e-shop-legal-information/
+- type: x-terms-of-service
+  url: https://www.ntop.org/e-shop-terms-and-conditions/
+- type: x-terms-of-service
+  url: https://www.ntop.org/about/legal-information/
+- type: x-twitter
+  url: https://twitter.com/lucaderi
+- type: x-website
+  url: https://www.ntop.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

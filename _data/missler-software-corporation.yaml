@@ -1,0 +1,46 @@
+---
+name: Missler Software Corporation
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2175834"
+url: https://raw.githubusercontent.com/api-network/organizations/main/missler-software-corporation.yaml
+tags:
+- Computer Aided Manufacturing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.topsolid.com
+- type: x-about
+  url: https://www.topsolid.com/about-topsolid-company.htm
+- type: x-blog
+  url: http://blog.topsolid.com/
+- type: x-contact
+  url: https://www.topsolid.com/contact.htm
+- type: x-documentation
+  url: https://www.topsolid.com/download/documentation.htm
+- type: x-facebook
+  url: http://www.facebook.com/topsolid
+- type: x-forum
+  url: https://www.topsolid.com/services/topsolidforum.htm
+- type: x-news
+  url: https://www.topsolid.com/news-and-events/shows.htm
+- type: x-partner
+  url: https://www.topsolid.com/partners.htm
+- type: x-terms-of-service
+  url: https://www.topsolid.com/global/terms-of-use.htm
+- type: x-twitter
+  url: http://www.twitter.com/topsolid
+- type: x-website
+  url: https://www.topsolid.com
+- type: x-youtube
+  url: https://www.youtube.com/topsolid
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

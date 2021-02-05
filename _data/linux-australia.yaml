@@ -1,0 +1,70 @@
+---
+name: Linux Australia
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4626110"
+url: https://raw.githubusercontent.com/api-network/organizations/main/linux-australia.yaml
+tags:
+- Australia
+apis: []
+x-common:
+- type: x-about
+  url: https://linux.org.au/about-us/
+- type: x-about
+  url: https://linux.org.au/about-us/values/
+- type: x-about
+  url: https://linux.org.au/about-us/constitution/
+- type: x-about
+  url: https://linux.org.au/about-us/council/
+- type: x-about
+  url: https://linux.org.au/about-us/organisational-details/
+- type: x-about
+  url: https://linux.org.au/about-us/awards/
+- type: x-about
+  url: https://linux.org.au/about-us/annual-reports/
+- type: x-about
+  url: https://linux.org.au/about-us/policies/
+- type: x-careers
+  url: https://linux.org.au/jobs/
+- type: x-careers
+  url: https://linux.org.au/jobs/linux-systems-administrator/
+- type: x-careers
+  url: https://linux.org.au/jobs/systems-engineer/
+- type: x-contact
+  url: https://linux.org.au/contact/
+- type: x-events
+  url: https://linux.org.au/events/
+- type: x-facebook
+  url: https://www.facebook.com/LinuxAustralia/
+- type: x-facebook
+  url: https://www.facebook.com/LinuxAustralia
+- type: x-linkedin
+  url: https://www.linkedin.com/company/linux-australia/
+- type: x-news
+  url: https://linux.org.au/news/
+- type: x-open-source
+  url: https://linux.org.au/grants-program-2019-now-open/
+- type: x-press
+  url: https://linux.org.au/wordpress/
+- type: x-press
+  url: https://wordpress.org
+- type: x-twitter
+  url: https://twitter.com/linuxaustralia/
+- type: x-twitter
+  url: https://twitter.com/linuxaustralia?ref_src=twsrc%5Etfw
+- type: x-twitter
+  url: https://twitter.com/linuxaustralia
+- type: x-website
+  url: https://linux.org.au
+- type: x-youtube
+  url: http://www.youtube.com/c/LinuxAustralia/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

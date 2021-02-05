@@ -1,0 +1,51 @@
+---
+name: viaPeople, Inc.
+description: 'We provide customized HR software and consulting: 360 degree feedback,
+  performance management & development, surveys and talent management solutions.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1754580"
+url: https://raw.githubusercontent.com/api-network/organizations/main/viapeople-inc-.yaml
+tags:
+- Testing And Evaluation
+- Talent
+- Survey
+- Succession
+- HR
+- Feedback
+- Development
+- Consulting
+- "360"
+apis: []
+x-common:
+- type: x-about
+  url: http://offers.viapeople.com/learn-more-about-viapeople
+- type: x-blog
+  url: http://web.viapeople.com/viaPeople-blog/
+- type: x-contact
+  url: http://web.viapeople.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/viaPeople/
+- type: x-feed
+  url: http://www.viapeople.com/feed/
+- type: x-feed
+  url: http://www.viapeople.com/real-time-feedback/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/viapeople-inc.
+- type: x-news
+  url: http://www.viapeople.com/viapeople-news/
+- type: x-twitter
+  url: https://twitter.com/viaPeople/
+- type: x-website
+  url: https://viapeople.com
+- type: x-white-papers
+  url: http://www.viapeople.com/white-papers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,47 @@
+---
+name: EIZO
+description: EIZO is a global leader in display monitors and LCD displays for a wide
+  variety of industries, including business, medical, graphics, gaming, ATC and more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "389469"
+url: https://raw.githubusercontent.com/api-network/organizations/main/eizo.yaml
+tags:
+- Manufacturers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.eizo.com
+- type: x-contact
+  url: http://www.eizoglobal.com/contact/romania/index.html
+- type: x-contact
+  url: http://www.eizoglobal.com/contact/hongkong/index.html
+- type: x-contact
+  url: http://www.eizoglobal.com/contact/iran/index.html
+- type: x-contact
+  url: http://www.eizoglobal.com/contact/bulgaria/index.html
+- type: x-contact
+  url: http://www.eizoglobal.com/contact/cyprus/index.html
+- type: x-facebook
+  url: https://www.facebook.com/EizoUSA
+- type: x-feed
+  url: http://www.feeder-algerie.com/
+- type: x-feed
+  url: http://www.feeder.ma/
+- type: x-instagram
+  url: http://www.instagram.com/eizousa
+- type: x-twitter
+  url: https://twitter.com/EizoUSA
+- type: x-website
+  url: https://www.eizo.com
+- type: x-youtube
+  url: http://www.youtube.com/user/eizoglobal
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,38 @@
+---
+name: GetSimple CMS
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "263824"
+url: https://raw.githubusercontent.com/api-network/organizations/main/getsimple-cms.yaml
+tags:
+- Flat File
+apis: []
+x-common:
+- type: x-website
+  url: http://get-simple.info/
+- type: x-developer
+  url: http://developer.get-simple.info
+- type: x-facebook
+  url: http://www.facebook.com/GetSimpleCMS
+- type: x-forum
+  url: http://get-simple.info/forums/
+- type: x-news
+  url: http://get-simple.info/start/news/
+- type: x-privacy
+  url: http://get-simple.info/start/privacy
+- type: x-twitter
+  url: http://twitter.com/get_simple
+- type: x-twitter
+  url: http://www.twitter.com/get_simple
+- type: x-website
+  url: https://get-simple.info
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

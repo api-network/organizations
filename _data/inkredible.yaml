@@ -1,0 +1,56 @@
+---
+name: Inkredible
+description: Order high-quality ink cartridges & printer supplies at INKredible.co.uk
+  | Supplying OEM, Remanufactured and Compatible ink cartridges for 20 Years.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1015520"
+url: https://raw.githubusercontent.com/api-network/organizations/main/inkredible.yaml
+tags:
+- Toner Cartridges
+- Samsung Toner
+- Ricoh Toner
+- Printer Supplies
+- Printer Ink
+- Oki Toner
+- Lexmark Ink
+- Kyocera Toner
+- Kodak Ink
+- Inkredible Ink
+- Inkjet
+- Ink Cartridges
+- Hp Toner
+- Hp Ink
+- Epson Ink
+- Compatible Ink Cartridges
+- Canon Toner
+- Canon Ink
+- Brother Ink
+- Advent Ink
+apis: []
+x-common:
+- type: x-website
+  url: http://www.inkredible.co.uk
+- type: x-contact
+  url: https://www.inkredible.co.uk/contactus
+- type: x-facebook
+  url: https://www.facebook.com/inkredible.co.uk
+- type: x-instagram
+  url: https://www.instagram.com/inkredible.co.uk/
+- type: x-support
+  url: https://www.inkredible.co.uk/account-help
+- type: x-support
+  url: https://www.inkredible.co.uk/help-centre
+- type: x-twitter
+  url: https://twitter.com/inkredible_ink
+- type: x-website
+  url: https://www.inkredible.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

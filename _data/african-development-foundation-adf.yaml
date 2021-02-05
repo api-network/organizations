@@ -1,0 +1,26 @@
+---
+name: African Development Foundation (ADF)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/african-development-foundation-adf.yaml
+tags:
+- Federal Government
+apis: []
+x-common:
+- type: x-website
+  url: http://www.adf.gov
+- type: x-website
+  url: http://www.usadf.gov
+- type: x-twitter
+  url: http://twitter.com/usadf
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

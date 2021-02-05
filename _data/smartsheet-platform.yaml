@@ -1,0 +1,99 @@
+---
+name: Smartsheet Platform
+description: The leading work management platform you need to move from idea to impact
+  ??? fast.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/smartsheet.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1339"
+url: https://raw.githubusercontent.com/api-network/organizations/main/smartsheet-platform.yaml
+tags:
+- Spreadsheets
+- Hosted
+- Have API
+apis: []
+x-common:
+- type: x-webhooks
+  url: https://smartsheet-platform.github.io/api-docs/#webhooks
+- type: x-website
+  url: http://www.smartsheet.com
+- type: x-about
+  url: https://www.smartsheet.com/about
+- type: x-about
+  url: https://www.smartsheet.com/about/leadership
+- type: x-blog
+  url: http://www.smartsheet.com/blog
+- type: x-blog-rss
+  url: http://www.smartsheet.com/blog/rss.xml
+- type: x-careers
+  url: https://www.smartsheet.com/careers
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/smartsheet
+- type: x-customers
+  url: https://www.smartsheet.com/customers
+- type: x-customers
+  url: https://www.smartsheet.com/voice-of-our-customers
+- type: x-customers
+  url: https://www.smartsheet.com/customers/roche
+- type: x-customers
+  url: https://www.smartsheet.com/customers/spartan-race
+- type: x-customers
+  url: https://www.smartsheet.com/customers/ogilvy
+- type: x-developer
+  url: https://developers.smartsheet.com/
+- type: x-developers
+  url: http://www.smartsheet.com/developers
+- type: x-email
+  url: legal@smartsheet.com
+- type: x-email
+  url: support@smartsheet.com
+- type: x-email
+  url: privacy@smartsheet.com
+- type: x-email
+  url: finance@smartsheet.com
+- type: x-facebook
+  url: http://www.facebook.com/smartsheet
+- type: x-investor
+  url: https://investors.smartsheet.com/home/default.aspx
+- type: x-linkedin
+  url: https://www.linkedin.com/company/smartsheet-com
+- type: x-marketplace
+  url: https://www.smartsheet.com/marketplace
+- type: x-news
+  url: https://www.smartsheet.com/content-center/product-news
+- type: x-news
+  url: https://www.smartsheet.com/content-center/news
+- type: x-platform
+  url: https://www.smartsheet.com/platform
+- type: x-platform
+  url: https://www.instagram.com/smartsheetplatform/
+- type: x-pricing
+  url: https://www.smartsheet.com/pricing
+- type: x-twitter
+  url: https://twitter.com/SmartsheetAPI
+- type: x-support
+  url: https://www.smartsheet.com/help-center?url=help
+- type: x-support
+  url: https://help.smartsheet.com/training
+- type: x-support
+  url: https://www.smartsheet.com/help-center
+- type: x-terms-of-service
+  url: https://www.smartsheet.com/legal
+- type: x-twitter
+  url: http://twitter.com/smartsheet
+- type: x-twitter
+  url: https://twitter.com/Smartsheet
+- type: x-website
+  url: https://smartsheet.com
+- type: x-website
+  url: http://www.smartsheet.com/
+- type: x-youtube
+  url: http://youtube.com/user/SmartSheet
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

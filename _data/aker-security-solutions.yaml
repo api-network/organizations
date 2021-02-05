@@ -1,0 +1,73 @@
+---
+name: Aker Security Solutions
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/aker-security-solutions.yaml
+tags:
+- Website Application Firewall
+- Waf Firewall
+- WAF
+- Vulnerabilidade Digital De Empresas
+- Vulnerabilidade
+- "Virtualiza\xE7\xE3o"
+- Virtual Patching
+- Virtual Patch
+- UTM Firewall
+- Tipos De Ciberataque
+- "Solu\xE7\xF5es De Seguran\xE7a"
+- "Solu\xE7\xF5es De Monitoramento De Ti"
+- "Seguran\xE7a Redes"
+- "Seguran\xE7a Informa\xE7\xE3o Digital"
+- "Seguran\xE7a Em Nuvem"
+- "Seguran\xE7a Digital Riscos"
+- "Seguran\xE7a Digital Nas Grandes Empresas"
+- "Seguran\xE7a Digital Nas Empresas"
+- "Seguran\xE7a Digital Hackers"
+- "Seguran\xE7a Digital"
+- "Seguran\xE7a De Dados"
+- "Seguran\xE7a Da Informa\xE7\xE3o"
+- "Seguran\xE7a Contra Amea\xE7as"
+- "Seguran\xE7a App Web"
+- "Seguran\xE7a Aplica\xE7\xF5es Na Nuvem"
+- Products
+- "O Que \xE9 Waf"
+- "O Que \xE9 Utm"
+- Machine Learning
+- "Gest\xE3o De Vulnerabilidade"
+- "Firewall De Aplica\xE7\xE3o"
+- "Empresa Suporte Seguran\xE7a"
+- "Defesa Cibern\xE9tica"
+- "Compara\xE7\xE3o De Solu\xE7\xF5es Waf"
+- Como Funciona Waf
+- Cloud Waf
+- "Ciberseguran\xE7a"
+- Ciberataque
+- "Ataques Cibern\xE9ticos"
+- "Analise De Vulnerabilidade De Aplica\xE7\xE3o"
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ogasec.com
+- type: x-blog
+  url: https://www.aker.com.br/blog/
+- type: x-facebook
+  url: https://www.facebook.com/OgasecBrasil/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/ogasec
+- type: x-security
+  url: https://www.youtube.com/user/akersecurity
+- type: x-twitter
+  url: https://twitter.com/ogasecbrasil
+- type: x-website
+  url: https://www.aker.com.br
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

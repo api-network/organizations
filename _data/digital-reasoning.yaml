@@ -1,0 +1,60 @@
+---
+name: Digital Reasoning
+description: At Digital Reasoning, we are writing the next great chapter in technology.
+  Learn more about our artificial intelligence solutions on our website.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29101-digitalreasoning-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1439660"
+url: https://raw.githubusercontent.com/api-network/organizations/main/digital-reasoning.yaml
+tags:
+- Profile
+- No API
+- Digital Reasoning
+- Communications
+apis: []
+x-common:
+- type: x-website
+  url: http://digitalreasoning.com
+- type: x-authentication
+  url: https://digitalreasoning.com/who-we-are/
+- type: x-blog
+  url: https://digitalreasoning.com/blog/1lod_summit_nyc-2-2/
+- type: x-blog
+  url: https://digitalreasoning.com/blog/1lod_summit_nyc/
+- type: x-blog
+  url: https://digitalreasoning.com/blog/
+- type: x-careers
+  url: https://digitalreasoning.com/careers/
+- type: x-contact
+  url: https://digitalreasoning.com/contact/
+- type: x-contact-form
+  url: https://digitalreasoning.com/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/digital-reasoning-systems
+- type: x-email
+  url: info@digitalreasoning.com
+- type: x-events
+  url: https://digitalreasoning.com/blog/category/events/
+- type: x-facebook
+  url: https://www.facebook.com/DigitalReasoning
+- type: x-news
+  url: https://digitalreasoning.com/blog/category/news/
+- type: x-privacy
+  url: https://digitalreasoning.com/privacy/
+- type: x-support
+  url: https://digitalreasoning.com/support/
+- type: x-terms-of-service
+  url: https://digitalreasoning.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/dreasoning
+- type: x-website
+  url: https://digitalreasoning.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

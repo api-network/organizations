@@ -1,0 +1,96 @@
+---
+name: Eich, Brendan
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1413628"
+url: https://raw.githubusercontent.com/api-network/organizations/main/eich-brendan.yaml
+tags:
+- People
+apis: []
+x-common:
+- type: x-about
+  url: https://blog.mozilla.org/ligong/about/
+- type: x-blog
+  url: http://blog.mozilla.org/luke/2015/06/17/webassembly
+- type: x-blog
+  url: https://blog.mozilla.org/luke/
+- type: x-contact
+  url: http://www.mozilla.org/en-US/contact/spaces/taipei/
+- type: x-feed
+  url: https://brendaneich.com/feed/
+- type: x-feed
+  url: https://brendaneich.com/comments/feed/
+- type: x-github
+  url: https://github.com/WebAssembly
+- type: x-github
+  url: https://github.com/WebAssembly/design
+- type: x-github
+  url: https://github.com/johnmccutchan/ecmascript_simd
+- type: x-github
+  url: https://github.com/WebAssembly/polyfill-prototype-1
+- type: x-github
+  url: https://github.com/WebAssembly/v8-native-prototype
+- type: x-github
+  url: http://airpingu.github.io/data-store-api/
+- type: x-github
+  url: http://webaudio.github.io/web-audio-api/
+- type: x-github
+  url: https://github.com/domenic/promises-unwrapping
+- type: x-github
+  url: http://w3c.github.io/filesystem-api/Overview.html
+- type: x-github
+  url: http://w3c.github.io/netinfo/
+- type: x-login
+  url: https://brendaneich.com/wp-login.php
+- type: x-news
+  url: http://news.ycombinator.com/
+- type: x-news
+  url: https://news.ycombinator.com/item?id=9554914
+- type: x-news
+  url: https://news.ycombinator.com/item?id=9554714
+- type: x-news
+  url: https://news.ycombinator.com/item?id=9554673
+- type: x-news
+  url: https://brendaneich.com/2014/03/mozilla-news/
+- type: x-press
+  url: https://pressable.com/
+- type: x-press
+  url: https://blog.mozilla.org/press/bios/jay-sullivan/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-security
+  url: https://www.arm.com/products/security-on-arm/trustzone
+- type: x-slideshare
+  url: http://www.slideshare.net/BrendanEich/taysom-seminar
+- type: x-twitter
+  url: https://twitter.com/porteneuve
+- type: x-twitter
+  url: https://twitter.com/sylvinus
+- type: x-twitter
+  url: https://twitter.com/JulesUrbach
+- type: x-twitter
+  url: https://twitter.com/w0ts0n
+- type: x-twitter
+  url: https://twitter.com/jashkenas
+- type: x-twitter
+  url: https://twitter.com/pcwalton
+- type: x-twitter
+  url: https://twitter.com/jfbastien
+- type: x-twitter
+  url: https://twitter.com/antumbral
+- type: x-twitter
+  url: https://twitter.com/kripken
+- type: x-twitter
+  url: https://twitter.com/clattner_llvm
+- type: x-website
+  url: https://brendaneich.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

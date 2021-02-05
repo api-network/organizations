@@ -1,0 +1,33 @@
+---
+name: OAS
+description: <p>oas A language-agnostic tool for documenting your API right from your
+  code, generating an OpenAPI Spec, and sharing it via a URL.</p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/oas.yaml
+tags:
+- No API
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/readmeio/oas
+- type: x-github
+  url: https://github.com/readmeio/oas/issues
+- type: x-github
+  url: https://github.com/readmeio/swagger-inline
+- type: x-open-source
+  url: https://openap.is/petstore/1.0.0.json
+- type: x-open-source
+  url: http://openap.is/petstore/1.0.2.json
+- type: x-website
+  url: http://openap.is
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

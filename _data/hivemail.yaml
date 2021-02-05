@@ -1,0 +1,22 @@
+---
+name: HiveMail
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5138667"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hivemail.yaml
+tags:
+- Web-Based
+apis: []
+x-common:
+- type: x-website
+  url: https://hivemail.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

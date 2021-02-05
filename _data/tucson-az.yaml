@@ -1,0 +1,57 @@
+---
+name: Tucson, AZ
+description: The City is currently working with a third-party company to develop a
+  new open data portal that will provide the same one-stop access to data, but with
+  additional functionality such as data filtering, graphing, and mapping.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "129916"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tucson-az.yaml
+tags:
+- Has API
+- City Government
+apis: []
+x-common:
+- type: x-website
+  url: http://www.tucsonaz.gov
+- type: x-careers
+  url: https://www.tucsonaz.gov/jobs
+- type: x-code
+  url: https://www.tucsonaz.gov/code-violation-report
+- type: x-contact
+  url: https://www.tucsonaz.gov/contact
+- type: x-developer
+  url: https://developers.google.com/transit/gtfs/
+- type: x-developer
+  url: https://developers.google.com/site-policies
+- type: x-developer
+  url: https://developers.google.com/
+- type: x-documentation
+  url: https://www.tucsonaz.gov/clerks/mcdocs
+- type: x-facebook
+  url: https://www.facebook.com/CityOfTucson
+- type: x-feed
+  url: https://github.com/google/transitfeed/wiki
+- type: x-instagram
+  url: https://www.instagram.com/cityoftucson/
+- type: x-news
+  url: https://www.tucsonaz.gov/news
+- type: x-news
+  url: https://www.tucsonaz.gov/info/news-releases
+- type: x-news
+  url: https://www.tucsonaz.gov/newsnet
+- type: x-twitter
+  url: https://twitter.com/cityoftucson
+- type: x-website
+  url: http://data.tucsonaz.gov/
+- type: x-youtube
+  url: https://www.youtube.com/user/CityofTucson
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

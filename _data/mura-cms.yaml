@@ -1,0 +1,29 @@
+---
+name: Mura CMS
+description: Mura CMS is built with one focused purpose in mind - to make it easier
+  and faster for people to build and update websites. Whether it's something as simple
+  as adding a news release or as complex as integrating website data with an enterprise
+  CRM system, Mura CMS provides a clear and complete toolkit.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "706651"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mura-cms.yaml
+tags:
+- Open Source
+apis: []
+x-common:
+- type: x-linkedin
+  url: https://www.linkedin.com/company/3699055/
+- type: x-platform
+  url: https://www.facebook.com/muraplatform/
+- type: x-website
+  url: https://www.getmura.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

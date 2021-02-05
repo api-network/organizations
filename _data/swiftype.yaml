@@ -1,0 +1,63 @@
+---
+name: Swiftype
+description: Swiftype is a cloud-based search platform that provides all the tools
+  you need to create fantastic search experiences.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1173_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "86830"
+url: https://raw.githubusercontent.com/api-network/organizations/main/swiftype.yaml
+tags:
+- Websites
+- Search
+- Search
+- Locations
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://swiftype.com/
+- type: x-website
+  url: http://swiftype.com
+- type: x-blog
+  url: http://swiftype.com/blog
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/swiftype
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/swiftype
+- type: x-developers
+  url: https://swiftype.com/documentation
+- type: x-email
+  url: support@swiftype.com
+- type: x-email
+  url: security-questions@swiftype.com
+- type: x-email
+  url: security@swiftype.com
+- type: x-email
+  url: copyright@swiftype.com
+- type: x-facebook
+  url: https://facebook.com/swiftype
+- type: x-github
+  url: https://github.com/swiftype
+- type: x-instagram
+  url: https://www.instagram.com/swiftype.search
+- type: x-linkedin
+  url: https://www.linkedin.com/company/swiftype
+- type: x-pricing
+  url: https://swiftype.com/pricing
+- type: x-status
+  url: https://status.swiftype.com/
+- type: x-terms-of-service
+  url: https://www.elastic.co/legal/privacy-statement
+- type: x-twitter
+  url: https://twitter.com/#!/swiftype
+- type: x-twitter
+  url: https://twitter.com/swiftype
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

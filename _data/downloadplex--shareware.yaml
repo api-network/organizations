@@ -1,0 +1,36 @@
+---
+name: DownloadPlex - Shareware
+description: Free software downloads at DownloadPlex.com, the most comprehensive source
+  for free-to-try software downloads on the Web including Windows, Drivers, Linux,
+  Mac and Mobile
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "89469"
+url: https://raw.githubusercontent.com/api-network/organizations/main/downloadplex--shareware.yaml
+tags:
+- Windows
+- Shareware
+- Scripts
+- Mac
+- Linux
+- Freeware
+- Free Software Downloads
+- Drivers
+- Directories
+apis: []
+x-common:
+- type: x-website
+  url: http://www.downloadplex.com
+- type: x-twitter
+  url: http://twitter.com/downloadplex
+- type: x-website
+  url: https://www.downloadplex.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

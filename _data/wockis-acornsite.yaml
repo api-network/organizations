@@ -1,0 +1,41 @@
+---
+name: Wocki's Acorn-Site
+description: A site about Acorn Emulation and the home of ArcDisc. Upgrades for Virtual
+  A5000 (VirtualAcorn). A mass of downloads for your Acorn emulator. A huge collection
+  of links to other Acorn related sites and many more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wockis-acornsite.yaml
+tags:
+- Wocki
+- VirtualA5000
+- Virtual Acorn
+- Virtual A5000
+- VA5000
+- RPCEmu
+- RISC OS
+- Red Squirrel
+- Pictures Of Acorn Computers
+- Huge Links-Section
+- Emulator
+- Emulation
+- Donwloads
+- Arculator
+- Archimedes
+- ArcDisc
+- ADFS
+- Acorn
+apis: []
+x-common:
+- type: x-website
+  url: https://acorn.revivalteam.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

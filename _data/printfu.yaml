@@ -1,0 +1,24 @@
+---
+name: PrintFu
+description: The original PDF search engine. Search millions of Adobe PDF document
+  files, articles and ebooks. Free PDF download. , find free PDF download from the
+  original PDF search engine.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2775446"
+url: https://raw.githubusercontent.com/api-network/organizations/main/printfu.yaml
+tags:
+- Documents
+apis: []
+x-common:
+- type: x-website
+  url: https://printfu.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

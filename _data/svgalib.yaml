@@ -1,0 +1,35 @@
+---
+name: SVGAlib
+description: SVGAlib is the best way to display graphics under Linux.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6223200"
+url: https://raw.githubusercontent.com/api-network/organizations/main/svgalib.yaml
+tags:
+- X Windows
+- X Windowing System
+- X
+- Vga
+- Svga
+- Linux Graphics
+- Linux
+- Graphics Library
+- Graphics
+- Ggi
+- Fonts
+- Ega
+- Display
+- Cga
+apis: []
+x-common:
+- type: x-website
+  url: https://www.svgalib.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

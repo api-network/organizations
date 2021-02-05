@@ -1,0 +1,35 @@
+---
+name: PowerFolder
+description: File Sync, Share and Backup solutions for companies in the cloud or as
+  private cloud on-premise. Easy to use and secure Sync & Share for you.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5672994"
+url: https://raw.githubusercontent.com/api-network/organizations/main/powerfolder.yaml
+tags:
+- Storage
+apis: []
+x-common:
+- type: x-about
+  url: https://www.powerfolder.com/about-us-2/
+- type: x-blog
+  url: https://www.powerfolder.com/category/blog/
+- type: x-contact
+  url: https://www.powerfolder.com/contact/
+- type: x-pricing
+  url: https://www.powerfolder.com/pricing/
+- type: x-privacy
+  url: https://www.powerfolder.com/privacy-statement/
+- type: x-terms-of-service
+  url: https://www.powerfolder.com/legal-notice/
+- type: x-website
+  url: https://www.powerfolder.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

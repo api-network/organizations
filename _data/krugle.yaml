@@ -1,0 +1,28 @@
+---
+name: Krugle
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8085502"
+url: https://raw.githubusercontent.com/api-network/organizations/main/krugle.yaml
+tags:
+- Resources
+apis: []
+x-common:
+- type: x-facebook
+  url: http://www.facebook.com/pages/Krugle/104035259631553
+- type: x-news
+  url: http://www.krugle.com/krugle-news.php
+- type: x-open-source
+  url: http://opensearch.krugle.org/
+- type: x-website
+  url: https://www.krugle.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

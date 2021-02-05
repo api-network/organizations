@@ -1,0 +1,26 @@
+---
+name: Specially4U
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/specially4u.yaml
+tags:
+- Greetings Pages
+apis: []
+x-common:
+- type: x-blog
+  url: http://catavatars.blogspot.com/
+- type: x-press
+  url: https://uberpakistanpromocode.wordpress.com/
+- type: x-website
+  url: https://www.specially4u.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

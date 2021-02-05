@@ -1,0 +1,33 @@
+---
+name: About NTFS
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "258773"
+url: https://raw.githubusercontent.com/api-network/organizations/main/about-ntfs.yaml
+tags:
+- Ntfs Recovery
+- NTFS
+- Fat32 Vs Ntfs
+- Fat32
+- Fat
+- Exfat Vs Ntfs
+- Exfat
+- Data Recovery
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/#!/lsoft_net
+- type: x-website
+  url: https://www.ntfs.com
+- type: x-youtube
+  url: http://www.youtube.com/user/LsoftTechnologies
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

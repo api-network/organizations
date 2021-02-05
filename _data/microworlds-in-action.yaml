@@ -1,0 +1,60 @@
+---
+name: MicroWorlds in Action
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/microworlds-in-action.yaml
+tags:
+- MicroWorlds
+apis: []
+x-common:
+- type: x-website
+  url: http://www.OpenWorldLearning.org
+- type: x-facebook
+  url: https://www.facebook.com/OpenWorldLearning
+- type: x-open-source
+  url: http://www.openworldlearning.org/
+- type: x-open-source
+  url: http://www.openworldlearning.org/about/
+- type: x-open-source
+  url: http://www.openworldlearning.org/staff/
+- type: x-open-source
+  url: http://www.openworldlearning.org/leadership/
+- type: x-open-source
+  url: http://www.openworldlearning.org/our-partners/
+- type: x-open-source
+  url: http://www.openworldlearning.org/category/our-stories/
+- type: x-open-source
+  url: http://www.openworldlearning.org/alumni/
+- type: x-open-source
+  url: http://www.openworldlearning.org/our-programs/
+- type: x-open-source
+  url: http://www.openworldlearning.org/resources/
+- type: x-open-source
+  url: http://www.openworldlearning.org/mission-values/
+- type: x-open-source
+  url: http://www.openworldlearning.org/history/
+- type: x-open-source
+  url: http://instagram.com/openworldlearning
+- type: x-open-source
+  url: https://www.linkedin.com/company/openworld-learning
+- type: x-open-source
+  url: https://www.instagram.com/openworldlearning/
+- type: x-press
+  url: http://www.openworldlearning.org/press-room/
+- type: x-press
+  url: http://wordpress.org/
+- type: x-twitter
+  url: https://twitter.com/OpenWorld_Learn
+- type: x-website
+  url: https://mia.openworldlearning.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

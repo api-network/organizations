@@ -1,0 +1,45 @@
+---
+name: SmartJobBoard
+description: The Easiest Job Board Software On The Market. Use Smartjobboard to create
+  the ultimate job board business in your niche.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "165526"
+url: https://raw.githubusercontent.com/api-network/organizations/main/smartjobboard.yaml
+tags:
+- Classified Ads
+apis: []
+x-common:
+- type: x-website
+  url: http://www.smartjobboard.com
+- type: x-about
+  url: https://www.smartjobboard.com/about-us/
+- type: x-blog
+  url: https://www.smartjobboard.com/blog/
+- type: x-contact
+  url: https://www.smartjobboard.com/contact/
+- type: x-customers
+  url: https://www.smartjobboard.com/customers/
+- type: x-pricing
+  url: https://www.smartjobboard.com/pricing/
+- type: x-privacy
+  url: https://www.smartjobboard.com/privacy-policy/
+- type: x-support
+  url: https://help.smartjobboard.com
+- type: x-support
+  url: https://help.smartjobboard.com/
+- type: x-terms-of-service
+  url: https://www.smartjobboard.com/terms/
+- type: x-twitter
+  url: https://twitter.com/Smart_Job_Board
+- type: x-website
+  url: https://www.smartjobboard.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,55 @@
+---
+name: MH Themes
+description: MH Themes is specialized in developing high-quality WordPress magazine
+  themes for online magazines, dynamic news websites, blogs and editorial websites.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "25554"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mh-themes.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-website
+  url: https://mhthemes.com/
+- type: x-blog
+  url: https://mhthemes.com/blog/
+- type: x-facebook
+  url: https://www.facebook.com/MHthemes
+- type: x-news
+  url: https://mhthemes.com/newsletter/
+- type: x-press
+  url: https://mhthemes.com/wordpress-hosting/
+- type: x-pricing
+  url: https://mhthemes.com/pricing/
+- type: x-privacy
+  url: https://mhthemes.com/privacy-statement/
+- type: x-showcase
+  url: https://mhthemes.com/showcase/
+- type: x-support
+  url: https://mhthemes.com/support/
+- type: x-support
+  url: https://mhthemes.com/support/faqs/
+- type: x-support
+  url: https://mhthemes.com/support/request/
+- type: x-support
+  url: https://mhthemes.com/support/knb/
+- type: x-terms-of-service
+  url: https://mhthemes.com/terms-and-conditions/
+- type: x-terms-of-service
+  url: https://mhthemes.com/affiliates/terms/
+- type: x-twitter
+  url: https://twitter.com/MHthemes
+- type: x-website
+  url: https://www.mhthemes.com
+- type: x-youtube
+  url: https://www.youtube.com/user/MHthemesEN
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

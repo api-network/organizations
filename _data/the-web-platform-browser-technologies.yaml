@@ -1,0 +1,26 @@
+---
+name: 'The Web Platform: Browser technologies'
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "629148"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-web-platform-browser-technologies.yaml
+tags:
+- HTML5
+apis: []
+x-common:
+- type: x-developer
+  url: https://developer.mozilla.org/
+- type: x-platform
+  url: https://github.com/whatwg/platform.html5.org
+- type: x-website
+  url: https://platform.html5.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

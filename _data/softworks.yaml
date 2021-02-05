@@ -1,0 +1,67 @@
+---
+name: Softworks
+description: Leading Workforce management solutions that allow you to automate your
+  employee's Time and Attendance, Workforce Scheduling, Holidays & Absences with ease.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1524444"
+url: https://raw.githubusercontent.com/api-network/organizations/main/softworks.yaml
+tags:
+- Time Keeping Systems
+apis: []
+x-common:
+- type: x-website
+  url: http://www.softworks.com
+- type: x-about
+  url: https://www.softworks.com/about-us/
+- type: x-blog
+  url: https://www.softworks.com/blog/
+- type: x-careers
+  url: https://www.softworks.com/careers/
+- type: x-case-studies
+  url: https://www.softworks.com/case-studies/
+- type: x-contact
+  url: https://www.softworks.com/contact-us/
+- type: x-contact
+  url: https://softworks.com/contact-us/
+- type: x-customers
+  url: https://www.softworks.com/#customers
+- type: x-customers
+  url: https://www.softworks.com/softworks_customers/
+- type: x-events
+  url: https://www.softworks.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/softworksworkforce
+- type: x-partner
+  url: https://www.softworks.com/partners/
+- type: x-press
+  url: https://www.softworks.com/press-releases/
+- type: x-privacy
+  url: https://www.softworks.com/privacy-policy/
+- type: x-security
+  url: https://www.softworks.com/security-and-compliance/
+- type: x-support
+  url: https://www.softworks.com/how-we-help/
+- type: x-support
+  url: https://www.softworks.com/customer-support/
+- type: x-terms-of-service
+  url: https://www.softworks.com/legal/
+- type: x-terms-of-service
+  url: https://www.softworks.com/terms-and-conditions/
+- type: x-twitter
+  url: https://twitter.com/softworksltd
+- type: x-website
+  url: https://www.softworks.com
+- type: x-white-papers
+  url: https://www.softworks.com/whitepapers/
+- type: x-youtube
+  url: https://www.youtube.com/c/softworksltd
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,40 @@
+---
+name: ClimbingWeather.com
+description: Fast, accurate weather forecasts for climbing areas throughout the United
+  States. Keeping you high and dry since 2005.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1643-climbingweather-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "823713"
+url: https://raw.githubusercontent.com/api-network/organizations/main/climbingweather-com.yaml
+tags:
+- Weather
+- Weather
+- Have API
+- Forecast
+- Climbing
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.climbingweather.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/person/jon-st-john
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/appglu
+- type: x-developer
+  url: http://dev.climbingweather.com
+- type: x-twitter
+  url: https://twitter.com/climbingweather
+- type: x-twitter
+  url: http://www.twitter.com/climbingweather
+- type: x-website
+  url: http://www.climbingweather.com/api
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,55 @@
+---
+name: Logitech International S.A.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4055"
+url: https://raw.githubusercontent.com/api-network/organizations/main/logitech-international-s-a-.yaml
+tags:
+- Pointing Devices
+- Peripherals
+apis: []
+x-common:
+- type: x-website
+  url: https://www.logitech.com/en-us
+- type: x-blog
+  url: http://blog.logitech.com/
+- type: x-careers
+  url: https://jobs.jobvite.com/logitech/
+- type: x-contact
+  url: http://support.logitech.com/contact
+- type: x-facebook
+  url: http://www.facebook.com/Logitech
+- type: x-instagram
+  url: http://instagram.com/logitech?ref=badge
+- type: x-news
+  url: http://news.logitech.com/
+- type: x-partner
+  url: https://partners.logitech.com/english/
+- type: x-self-service-registration
+  url: http://support.logitech.com/register
+- type: x-self-service-registration
+  url: https://support.logitech.com/en_us/register
+- type: x-support
+  url: https://support.logitech.com/downloads
+- type: x-support
+  url: https://support.logitech.com/parts
+- type: x-support
+  url: https://support.logitech.com/software/lgs
+- type: x-support
+  url: https://support.logitech.com/en_us/home
+- type: x-support
+  url: http://support.logitech.com/en_us/home
+- type: x-twitter
+  url: http://www.twitter.com/Logitech
+- type: x-website
+  url: https://www.logitech.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

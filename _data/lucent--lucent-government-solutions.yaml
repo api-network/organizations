@@ -1,0 +1,64 @@
+---
+name: Lucent - Lucent Government Solutions
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2589330"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lucent--lucent-government-solutions.yaml
+tags:
+- Lucent Technologies
+apis: []
+x-common:
+- type: x-website
+  url: http://www.caci.com
+- type: x-careers
+  url: http://careers.caci.com/events
+- type: x-careers
+  url: http://careers.caci.com/
+- type: x-careers
+  url: http://careers.caci.com/page/show/featured
+- type: x-careers
+  url: http://careers.caci.com/page/show/culture
+- type: x-careers
+  url: http://careers.caci.com/page/show/benefits
+- type: x-careers
+  url: http://careers.caci.com/page/show/experienced
+- type: x-careers
+  url: http://careers.caci.com/page/show/college
+- type: x-careers
+  url: http://careers.caci.com/page/show/veterans
+- type: x-careers
+  url: http://careers.caci.com/page/show/alumni
+- type: x-careers
+  url: http://careers.caci.com/page/show/events
+- type: x-careers
+  url: http://careers.caci.com/page/show/faq
+- type: x-careers
+  url: http://careers.caci.com/List/Custom/
+- type: x-contact
+  url: http://investor.caci.com/contact_resources
+- type: x-investor
+  url: http://investor.caci.com/corporate_governance
+- type: x-investor
+  url: http://investor.caci.com
+- type: x-investor
+  url: http://investor.caci.com/filings_financials
+- type: x-investor
+  url: http://investor.caci.com/stock_information
+- type: x-news
+  url: http://investor.caci.com/news_events
+- type: x-twitter
+  url: http://twitter.com/CACIIntl
+- type: x-website
+  url: https://www.lgsinnovations.com
+- type: x-youtube
+  url: http://www.youtube.com/user/CACIInternational
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

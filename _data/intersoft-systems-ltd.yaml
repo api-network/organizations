@@ -1,0 +1,26 @@
+---
+name: Intersoft Systems Ltd
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1198107"
+url: https://raw.githubusercontent.com/api-network/organizations/main/intersoft-systems-ltd.yaml
+tags:
+- Industry-Specific
+apis: []
+x-common:
+- type: x-about
+  url: http://www.freedomleisure.com.au/about-us
+- type: x-contact
+  url: https://www.goodtogoloans.com.au/contact-us/
+- type: x-website
+  url: https://www.intersoft.co.nz
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

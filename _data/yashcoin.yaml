@@ -1,0 +1,25 @@
+---
+name: YashCoin
+description: YashCoin First Cryptocurrency Distributed through trading. Yearly 350
+  coin mining reward. Continuous support and demand.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27426-www-yashcoin-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "4626178"
+url: https://raw.githubusercontent.com/api-network/organizations/main/yashcoin.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/yashcoin
+- type: x-website
+  url: https://www.yashcoin.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,44 @@
+---
+name: NetWolves
+description: NetWolves is the leader at business Enterprise IT Solutions provider
+  for network connectivity, information security, managed IT, cloud, and professional
+  services.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/netwolves.yaml
+tags:
+- Products And Tools
+- Products
+- Plug-ins
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.netwolves.com/netwolves/contact/
+- type: x-contact
+  url: https://www.netwolves.com/contact/
+- type: x-events
+  url: https://www.netwolves.com/meeting-events/
+- type: x-news
+  url: https://www.netwolves.com/news-announcements/
+- type: x-security
+  url: https://www.netwolves.com/security/
+- type: x-security
+  url: https://www.netwolves.com/security/#Compliance
+- type: x-security
+  url: https://www.netwolves.com/security/#Security%20Audits
+- type: x-security
+  url: https://www.netwolves.com/security/#Dark%20Web%20Scan
+- type: x-security
+  url: https://www.netwolves.com/netwolves/security/
+- type: x-website
+  url: https://www.netwolves.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

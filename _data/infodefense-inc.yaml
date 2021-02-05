@@ -1,0 +1,37 @@
+---
+name: InfoDefense, Inc
+description: InfoDefense protects organizations from cyber security threats. Stay
+  compliant with DFARS, PCI, HIPAA-HITECH, FFIEC, GDPR and data privacy laws.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/infodefense-inc.yaml
+tags:
+- United States
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.infodefense.com/resources/blog/
+- type: x-careers
+  url: https://www.infodefense.com/company/careers/
+- type: x-contact
+  url: https://www.infodefense.com/company/contact-us/
+- type: x-privacy
+  url: https://www.infodefense.com/privacy-policy/
+- type: x-security
+  url: https://www.infodefense.com/services/security-program/
+- type: x-security
+  url: https://www.infodefense.com/services/security-breach/
+- type: x-security
+  url: http://www.infodefense.com/services/security-breach/
+- type: x-website
+  url: https://www.infodefense.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

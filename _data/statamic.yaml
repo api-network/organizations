@@ -1,0 +1,77 @@
+---
+name: Statamic
+description: Statamic is the raddest CMS you'll ever find. It's fast, easy to learn,
+  scales infinitely, and it brings joy to developer's faces.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "191115"
+url: https://raw.githubusercontent.com/api-network/organizations/main/statamic.yaml
+tags:
+- WordPress Alternative
+- System
+- Statamic CMS
+- Statamic
+- PHP CMS
+- Laravel CMS
+- Flat File Content Management System
+- Flat File CMS
+- Flat File
+- Content
+- CMS
+apis: []
+x-common:
+- type: x-website
+  url: https://stuffandnonsense.co.uk
+- type: x-about
+  url: https://statamic.com/about
+- type: x-blog
+  url: https://statamic.com/blog
+- type: x-documentation
+  url: https://statamic.com/docs
+- type: x-documentation
+  url: https://docs.statamic.com
+- type: x-facebook
+  url: https://facebook.com/statamic
+- type: x-forum
+  url: https://statamic.com/forum
+- type: x-github
+  url: https://github.com/statamic
+- type: x-linkedin
+  url: https://www.linkedin.com/in/andrebasse/
+- type: x-login
+  url: https://statamic.com/login
+- type: x-marketplace
+  url: https://statamic.com/marketplace
+- type: x-open-source
+  url: https://opentable.com
+- type: x-partner
+  url: https://statamic.com/partners
+- type: x-pricing
+  url: https://statamic.com/pricing
+- type: x-privacy
+  url: https://statamic.com/privacy
+- type: x-self-service-registration
+  url: https://statamic.com/register
+- type: x-support
+  url: https://statamic.com/support
+- type: x-terms-of-service
+  url: https://statamic.com/terms
+- type: x-twitter
+  url: https://twitter.com/Malarkey
+- type: x-twitter
+  url: https://twitter.com/mijustin
+- type: x-twitter
+  url: https://twitter.com/statamic
+- type: x-website
+  url: https://statamic.com
+- type: x-youtube
+  url: https://youtube.com/statamic
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

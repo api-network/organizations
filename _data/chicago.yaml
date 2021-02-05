@@ -1,0 +1,41 @@
+---
+name: Chicago
+description: Switchfast Technologies is an IT consulting and managed services provider,
+  offering IT support and consulting to Chicagoland small businesses since 2001.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "579650"
+url: https://raw.githubusercontent.com/api-network/organizations/main/chicago.yaml
+tags:
+- Illinois
+apis: []
+x-common:
+- type: x-website
+  url: http://www.switchfast.com
+- type: x-about
+  url: https://www.switchfast.com/about
+- type: x-blog
+  url: https://blog.switchfast.com
+- type: x-careers
+  url: https://www.switchfast.com/about/careers
+- type: x-contact
+  url: https://www.switchfast.com/contact
+- type: x-facebook
+  url: https://www.facebook.com/Switchfast
+- type: x-instagram
+  url: https://www.instagram.com/switchfast_technologies/
+- type: x-privacy
+  url: https://www.switchfast.com/privacy-policy
+- type: x-twitter
+  url: https://twitter.com/switchfast
+- type: x-website
+  url: https://www.switchfast.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

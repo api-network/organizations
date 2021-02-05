@@ -1,0 +1,66 @@
+---
+name: Feedly
+description: 'Feedly: organize, read and share what matters to you.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "517"
+url: https://raw.githubusercontent.com/api-network/organizations/main/feedly.yaml
+tags:
+- Web Based
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.feedly.com
+- type: x-feed
+  url: http://www.feedly.com/index.html
+- type: x-feed
+  url: http://blog.feedly.com
+- type: x-feed
+  url: http://www.feedly.com/apps.html
+- type: x-feed
+  url: https://developer.feedly.com/v3/profile
+- type: x-feed
+  url: https://developer.feedly.com/v3/preferences
+- type: x-feed
+  url: https://developer.feedly.com/v3/feeds
+- type: x-feed
+  url: https://developer.feedly.com/v3/search
+- type: x-feed
+  url: https://developer.feedly.com/v3/subscriptions
+- type: x-feed
+  url: https://developer.feedly.com/v3/categories
+- type: x-feed
+  url: https://developer.feedly.com/v3/collections
+- type: x-feed
+  url: https://developer.feedly.com/v3/markers
+- type: x-feed
+  url: https://developer.feedly.com/v3/streams
+- type: x-feed
+  url: https://developer.feedly.com/v3/entries
+- type: x-feed
+  url: https://developer.feedly.com/v3/tags
+- type: x-feed
+  url: https://github.com/stakisko/feedly-api
+- type: x-feed
+  url: https://github.com/hildjj/node-feedly
+- type: x-feed
+  url: https://github.com/khelll/feedlr
+- type: x-feed
+  url: https://github.com/Laeeth/d_feedly
+- type: x-forum
+  url: https://groups.google.com/forum/#!forum/feedly-cloud
+- type: x-github
+  url: https://github.com/zgw21cn/FeedlyClient
+- type: x-github
+  url: https://github.com/liGhun/RSSharp
+- type: x-website
+  url: https://www.feedly.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

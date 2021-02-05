@@ -1,0 +1,38 @@
+---
+name: ExclamationSoft
+description: Constant monitoring is critical to ensuring your website and web-based
+  applications are error free and performing with acceptable response times. WebWatchBot
+  is the leading software solution for performance monitoring and problem notification.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1045361"
+url: https://raw.githubusercontent.com/api-network/organizations/main/exclamationsoft.yaml
+tags:
+- Website
+- Uptime
+- Server
+- Network
+- Monitor
+- Internet
+- Availability
+apis: []
+x-common:
+- type: x-website
+  url: http://www.exclamationsoft.com
+- type: x-facebook
+  url: https://www.facebook.com/WebWatchBot
+- type: x-twitter
+  url: https://twitter.com/exclamationsoft
+- type: x-website
+  url: https://www.exclamationsoft.com
+- type: x-youtube
+  url: https://www.youtube.com/user/exclamationsoft/videos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

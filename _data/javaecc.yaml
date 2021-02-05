@@ -1,0 +1,36 @@
+---
+name: Java-ecc
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/javaecc.yaml
+tags:
+- Personal Pages
+apis: []
+x-common:
+- type: x-blog
+  url: http://java-ecc.blogspot.com/2004/11/
+- type: x-blog
+  url: http://java-ecc.blogspot.com/2004/12/
+- type: x-code
+  url: http://www.krysalis.org/barcode/
+- type: x-documentation
+  url: http://www.jdocs.com/
+- type: x-documentation
+  url: http://logging.apache.org/log4j/docs/index.html
+- type: x-open-source
+  url: http://www.openlaszlo.org/
+- type: x-open-source
+  url: http://java-ecc.blogspot.com/2004/12/openlaszlo.html
+- type: x-website
+  url: https://java-ecc.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

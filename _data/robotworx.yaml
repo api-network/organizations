@@ -1,0 +1,45 @@
+---
+name: RobotWorx
+description: RobotWorx buys and sells new and used industrial robots, robot parts,
+  and robot workcells. A robotic integrator offering affordable robotic automation
+  options.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "417709"
+url: https://raw.githubusercontent.com/api-network/organizations/main/robotworx.yaml
+tags:
+- Welding Robot
+- Robots
+- Robotics
+- Robot Integrator
+- Motoman Robot
+- Material Handling Robot
+- Manufacturing Robot
+- Kuka Robot
+- Industrial Robot
+- Industrial
+- Fanuc Robot
+- Automation Robot
+- Automation
+- Abb Robot
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/RobotWorx
+- type: x-linkedin
+  url: https://www.linkedin.com/company/robotworx/
+- type: x-twitter
+  url: https://twitter.com/robotworx
+- type: x-website
+  url: https://www.robots.com
+- type: x-youtube
+  url: https://www.youtube.com/robotworx
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

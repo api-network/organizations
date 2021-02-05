@@ -1,0 +1,53 @@
+---
+name: Acapela Group
+description: We create personalized digital voices for any service, apps or device
+  that needs to speak. Over 30 languages, 120 standard voices + custom voices.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "142101"
+url: https://raw.githubusercontent.com/api-network/organizations/main/acapela-group.yaml
+tags:
+- Speech Synthesis Cores
+apis: []
+x-common:
+- type: x-website
+  url: http://www.acapela-group.com
+- type: x-about
+  url: https://www.acapela-group.com/about-us/
+- type: x-about
+  url: https://www.acapela-group.com/about-us/rd/
+- type: x-careers
+  url: https://www.acapela-group.com/about-us/jobs/
+- type: x-contact
+  url: https://www.acapela-group.com/contact/
+- type: x-customers
+  url: https://www.acapela-group.com/about-us/customers/
+- type: x-facebook
+  url: https://www.facebook.com/acapelagroup/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/acapela-group/
+- type: x-news
+  url: https://www.acapela-group.com/about-us/news-agenda/
+- type: x-open-source
+  url: https://openweathermap.org/
+- type: x-press
+  url: https://www.acapela-group.com/pressroom/
+- type: x-terms-of-service
+  url: https://www.acapela-group.com/en/legal-info/#Legal
+- type: x-terms-of-service
+  url: https://www.acapela-group.com/legal-info/
+- type: x-twitter
+  url: https://twitter.com/AcapelaGroup
+- type: x-website
+  url: https://www.acapela-group.com
+- type: x-youtube
+  url: https://www.youtube.com/user/AcapelaGroup
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

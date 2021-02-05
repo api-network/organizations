@@ -1,0 +1,49 @@
+---
+name: TechCrunch
+description: TechCrunch - Reporting on the business of technology, startups, venture
+  capital funding, and Silicon Valley
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/127_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1617"
+url: https://raw.githubusercontent.com/api-network/organizations/main/techcrunch.yaml
+tags:
+- Tech Blog
+- Have API
+- Financial
+apis: []
+x-common:
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/TechCrunch/
+- type: x-website
+  url: http://techcrunch.com/subscribe
+- type: x-website
+  url: http://techcrunch.com/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/techcrunch
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/techcrunch
+- type: x-github
+  url: https://github.com/techcrunch
+- type: x-investor
+  url: https://techcrunch.com/2020/01/15/collaborative-fund-just-hired-a-former-top-goldman-sachs-investor-to-do-later-stage-deals/
+- type: x-partner
+  url: https://techcrunch.com/2020/01/15/23andme-co-founders-new-startup-precise-ly-brings-genomics-to-india-through-narayana-partnerhsip/
+- type: x-security
+  url: https://techcrunch.com/2020/01/15/buttigiegs-ciso-resigns-leaving-no-known-cybersecurity-chiefs-among-the-2020-candidates/
+- type: x-support
+  url: https://techcrunch.com/2020/01/15/google-cloud-gets-a-premium-support-plan-with-15-minute-response-times/
+- type: x-github
+  url: http://github.com/cubrilovic
+- type: x-twitter
+  url: https://twitter.com/techcrunch
+- type: x-website
+  url: https://techcrunch.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

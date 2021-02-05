@@ -1,0 +1,43 @@
+---
+name: Profisee Group
+description: Build a trusted data foundation with the ONLY fast, affordable and scalable
+  master data management software. See how Profisee does master data management.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "524180"
+url: https://raw.githubusercontent.com/api-network/organizations/main/profisee-group.yaml
+tags:
+- Customer
+apis: []
+x-common:
+- type: x-website
+  url: https://profisee.com
+- type: x-blog
+  url: https://profisee.com/blog/
+- type: x-case-studies
+  url: https://profisee.com/why-profisee/case-studies/
+- type: x-contact
+  url: https://profisee.com/contact/
+- type: x-events
+  url: https://profisee.com/company/events/
+- type: x-linkedin
+  url: https://linkedin.com/company/profisee
+- type: x-platform
+  url: https://profisee.com/platform/
+- type: x-support
+  url: https://support.profisee.com
+- type: x-twitter
+  url: https://twitter.com/ProfiseeMDM
+- type: x-website
+  url: https://www.profisee.com
+- type: x-youtube
+  url: https://youtube.com/user/Profisee
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

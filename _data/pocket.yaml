@@ -1,0 +1,60 @@
+---
+name: Pocket
+description: When you find something you want to view later, put it in Pocket.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/pocket-screenshot.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1040"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pocket.yaml
+tags:
+- Reading
+- Have API
+- Bookmarks
+apis: []
+x-common:
+- type: x-website
+  url: https://getpocket.com/premium
+- type: x-base
+  url: https://getpocket.com
+- type: x-blog
+  url: http://getpocket.com/blog
+- type: x-blog-rss
+  url: http://feeds2.feedburner.com/ReadItLaterBlog
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/pocket
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/pocket
+- type: x-developers
+  url: http://getpocket.com/api/
+- type: x-email
+  url: privacy@getpocket.com
+- type: x-email
+  url: legal@getpocket.com
+- type: x-email
+  url: add@getpocket.com
+- type: x-email
+  url: business@getpocket.com
+- type: x-email
+  url: sponsor@getpocket.com
+- type: x-email
+  url: api@getpocket.com
+- type: x-facebook
+  url: https://facebook.com/pocket
+- type: x-github
+  url: https://github.com/Pocket
+- type: x-support
+  url: https://help.getpocket.com
+- type: x-twitter
+  url: https://twitter.com/#!/pocket
+- type: x-twitter
+  url: https://twitter.com/pocket
+- type: x-website
+  url: http://getpocket.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

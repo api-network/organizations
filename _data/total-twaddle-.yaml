@@ -1,0 +1,28 @@
+---
+name: Total Twaddle.
+description: Total Twaddle - Index
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/total-twaddle-.yaml
+tags:
+- Message Boards
+apis: []
+x-common:
+- type: x-about
+  url: http://www.simplemachines.org/about/smf/license.php
+- type: x-login
+  url: https://www.totaltwaddle.co.uk/index.php?action=login
+- type: x-support
+  url: https://www.totaltwaddle.co.uk/index.php?action=help
+- type: x-website
+  url: https://www.totaltwaddle.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

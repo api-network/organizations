@@ -1,0 +1,55 @@
+---
+name: SumTotal Systems, LLC
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "165935"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sumtotal-systems-llc.yaml
+tags:
+- Human Resources
+- Delivery And Management Systems
+apis: []
+x-common:
+- type: x-website
+  url: http://www.sumtotalsystems.com
+- type: x-about
+  url: https://www.sumtotalsystems.com/about/
+- type: x-about
+  url: https://www.sumtotalsystems.com/about/#locations
+- type: x-blog
+  url: https://www.sumtotalsystems.com/blog/
+- type: x-contact
+  url: https://www.sumtotalsystems.com/contact/
+- type: x-customers
+  url: https://www.sumtotalsystems.com/customers/
+- type: x-customers
+  url: https://www.sumtotalsystems.com/customers/industries/
+- type: x-events
+  url: https://www.sumtotalsystems.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/SumTotal.Systems
+- type: x-linkedin
+  url: https://www.linkedin.com/company/sumtotal-systems
+- type: x-marketplace
+  url: https://www.sumtotalsystems.com/marketplace/
+- type: x-news
+  url: https://www.sumtotalsystems.com/newsroom/
+- type: x-privacy
+  url: https://www.skillsoft.com/privacy-notice/
+- type: x-terms-of-service
+  url: https://www.sumtotalsystems.com/legal/
+- type: x-twitter
+  url: http://twitter.com/sumtotalsystems
+- type: x-website
+  url: https://www.sumtotalsystems.com
+- type: x-youtube
+  url: http://www.youtube.com/sumtsystems
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

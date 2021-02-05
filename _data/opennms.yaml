@@ -1,0 +1,92 @@
+---
+name: OpenNMS
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "602047"
+url: https://raw.githubusercontent.com/api-network/organizations/main/opennms.yaml
+tags:
+- Network
+apis: []
+x-common:
+- type: x-code
+  url: https://www.opennms.com/code-of-conduct/
+- type: x-contact
+  url: https://www.opennms.com/contact/
+- type: x-documentation
+  url: https://www.opennms.com/documentation/
+- type: x-facebook
+  url: https://www.facebook.com/OpenNMS/
+- type: x-news
+  url: https://www.opennms.com/news/
+- type: x-open-source
+  url: https://www.opennms.com/
+- type: x-open-source
+  url: https://www.opennms.com/meridian/
+- type: x-open-source
+  url: https://www.opennms.com/distributions/
+- type: x-open-source
+  url: https://www.opennms.com/version-history/
+- type: x-open-source
+  url: https://www.opennms.com/participate/
+- type: x-open-source
+  url: http://demo.opennms.org
+- type: x-open-source
+  url: https://www.opennms.com/services/
+- type: x-open-source
+  url: https://www.opennms.com/support/
+- type: x-open-source
+  url: https://www.opennms.com/consulting/
+- type: x-open-source
+  url: https://www.opennms.com/training/
+- type: x-open-source
+  url: https://www.opennms.com/sponsored-development/
+- type: x-open-source
+  url: https://www.opennms.com/poweredby-opennms/
+- type: x-open-source
+  url: https://www.opennms.com/pricing/
+- type: x-open-source
+  url: https://www.opennms.com/about/
+- type: x-open-source
+  url: https://www.opennms.com/testimonials/
+- type: x-open-source
+  url: https://wiki.opennms.org/wiki/OpenNMS:Privacy_policy
+- type: x-open-source
+  url: https://www.opennms.com/en/blog/category/blog/
+- type: x-open-source
+  url: https://www.opennms.com/en/blog/category/twio/
+- type: x-open-source
+  url: https://www.opennms.com/en/blog/author/jessi/
+- type: x-open-source
+  url: https://meridian.opennms.com/releasenotes/2019/latest/
+- type: x-open-source
+  url: http://www.opennms.com/consulting
+- type: x-open-source
+  url: http://www.opennms.com/custom-development
+- type: x-open-source
+  url: https://www.opennms.com/en/blog/author/rangerrick/
+- type: x-open-source
+  url: https://www.opennms.com/trademark-policy/
+- type: x-open-source
+  url: http://www.opennms.org
+- type: x-open-source
+  url: http://www.reddit.com/r/opennms
+- type: x-open-source
+  url: http://www.youtube.com/user/opennms
+- type: x-open-source
+  url: http://chat.opennms.org
+- type: x-platform
+  url: https://www.opennms.com/platform/
+- type: x-platform
+  url: https://www.opennms.com/opennms-platform/
+- type: x-website
+  url: https://www.opennms.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

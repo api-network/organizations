@@ -1,0 +1,64 @@
+---
+name: SIAMS Company
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/siams-company.yaml
+tags:
+- 3D
+apis: []
+x-common:
+- type: x-about
+  url: https://siams.com/about/
+- type: x-about
+  url: https://siams.com/about/vacancies/
+- type: x-about
+  url: https://siams.com/about/oxrana-truda/
+- type: x-about
+  url: https://siams.com/about/projects/
+- type: x-about
+  url: https://siams.com/about/ychastie/
+- type: x-contact
+  url: https://siams.com/contact/
+- type: x-developer
+  url: http://dev.siams.com
+- type: x-instagram
+  url: https://www.instagram.com/siams_company
+- type: x-instagram
+  url: https://www.instagram.com/p/Brm8MT4hQzq/
+- type: x-instagram
+  url: https://www.instagram.com/p/Bz7aDvElOr3/
+- type: x-instagram
+  url: https://www.instagram.com/p/BlZyVOhgK-h/
+- type: x-instagram
+  url: https://www.instagram.com/p/By7HxGmlAF4/
+- type: x-instagram
+  url: https://www.instagram.com/p/BkuG5wKgVPE/
+- type: x-instagram
+  url: https://www.instagram.com/p/B6uqwA8prgm/
+- type: x-instagram
+  url: https://www.instagram.com/p/B0kcVNUlWfh/
+- type: x-instagram
+  url: https://www.instagram.com/p/B1JNLoEBYau/
+- type: x-instagram
+  url: https://www.instagram.com/p/BpgT4Ash5fi/
+- type: x-instagram
+  url: https://www.instagram.com/p/B5UQXfyFZUD/
+- type: x-news
+  url: https://siams.com/about/news/
+- type: x-partner
+  url: https://siams.com/about/partnery/
+- type: x-website
+  url: https://siams.com
+- type: x-youtube
+  url: https://www.youtube.com/c/SiamsChannel
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

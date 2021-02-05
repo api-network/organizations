@@ -1,0 +1,55 @@
+---
+name: WPhired
+description: Find the latest WordPress jobs available at WPhired. Apply for Wordpress
+  jobs in design, plugin and theme development. The best place to find jobs in WordPress.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "347031"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wphired.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-about
+  url: https://www.wphired.com/about/
+- type: x-careers
+  url: https://www.wphired.com/jobs/
+- type: x-careers
+  url: https://www.wphired.com/united-states-jobs/
+- type: x-careers
+  url: https://www.wphired.com/united-kingdom-jobs/
+- type: x-contact
+  url: https://www.wphired.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/WPhired
+- type: x-feed
+  url: https://www.wphired.com/jobs/feed/
+- type: x-plans
+  url: https://www.wphired.com/plans-pricing/
+- type: x-press
+  url: https://www.wphired.com/freelance-wordpress-jobs/
+- type: x-press
+  url: https://www.wphired.com/full-time-wordpress-jobs/
+- type: x-press
+  url: https://www.wphired.com/internship-wordpress-jobs/
+- type: x-press
+  url: https://www.wphired.com/part-time-wordpress-jobs/
+- type: x-press
+  url: https://www.wphired.com/temporary-wordpress-jobs/
+- type: x-privacy
+  url: https://www.wphired.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.wphired.com/terms-conditions/
+- type: x-twitter
+  url: https://twitter.com/wphired
+- type: x-website
+  url: https://www.wphired.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

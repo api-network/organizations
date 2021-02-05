@@ -1,0 +1,22 @@
+---
+name: Master.com portal
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "289049"
+url: https://raw.githubusercontent.com/api-network/organizations/main/master-com-portal.yaml
+tags:
+- Sites Using DMOZ Data
+apis: []
+x-common:
+- type: x-website
+  url: https://okuka.master.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

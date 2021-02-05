@@ -1,0 +1,26 @@
+---
+name: niemueller.de
+description: PhD Student in<br>Cognitive Robotics
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/niemueller-de.yaml
+tags:
+- Management Tools
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/timn
+- type: x-linkedin
+  url: https://www.linkedin.com/in/tim-niemueller
+- type: x-website
+  url: https://www.niemueller.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

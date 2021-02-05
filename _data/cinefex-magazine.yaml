@@ -1,0 +1,44 @@
+---
+name: Cinefex Magazine
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1049944"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cinefex-magazine.yaml
+tags:
+- News And Resources
+apis: []
+x-common:
+- type: x-blog
+  url: https://cinefex.com/blog/
+- type: x-contact
+  url: https://cinefex.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/cinefex/
+- type: x-instagram
+  url: https://www.instagram.com/cinefex_magazine/
+- type: x-partner
+  url: https://cinefex.com/partners.htm
+- type: x-privacy
+  url: https://cinefex.com/privacy.htm
+- type: x-signup
+  url: https://cinefex.com/signup/
+- type: x-terms-of-service
+  url: https://cinefex.com/terms.htm
+- type: x-twitter
+  url: https://twitter.com/cinefexNOW
+- type: x-twitter
+  url: https://twitter.com/cinefexNOW?ref_src=twsrc%5Etfw
+- type: x-website
+  url: https://www.cinefex.com
+- type: x-youtube
+  url: https://www.youtube.com/user/cinefexmagazine
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

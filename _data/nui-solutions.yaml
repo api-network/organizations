@@ -1,0 +1,46 @@
+---
+name: Nui Solutions
+description: CSI is an enterprise performance partner. By optimising digital performance
+  and providing data and applications on-demand. we enable our clients to grow, save,
+  innovate and protect fearlessly. Find out how.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nui-solutions.yaml
+tags:
+- Service Providers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.csiltd.co.uk
+- type: x-about
+  url: https://www.csiltd.co.uk/about/
+- type: x-about
+  url: https://www.csiltd.co.uk/about/origins/
+- type: x-careers
+  url: https://www.csiltd.co.uk/careers/
+- type: x-case-studies
+  url: https://www.csiltd.co.uk/case-studies/
+- type: x-case-studies
+  url: https://www.csiltd.co.uk/case-studies/sole-trader/
+- type: x-contact
+  url: https://www.csiltd.co.uk/contact-us/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/csi-ltd
+- type: x-news
+  url: https://www.csiltd.co.uk/blogs-news-events/
+- type: x-privacy
+  url: https://www.csiltd.co.uk/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/csiltd
+- type: x-website
+  url: https://www.niu-solutions.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

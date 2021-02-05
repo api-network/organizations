@@ -1,0 +1,82 @@
+---
+name: EVRYTHNG
+description: <p><span>EVRYTHNG is the market leading internet of things platform for
+  consumer product brands. Now individual product items can tell their stories to
+  your business and your consumers throughout their lifecycle.</span></p>
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28871-evrythng-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "772934"
+url: https://raw.githubusercontent.com/api-network/organizations/main/evrythng.yaml
+tags:
+- Relative Data
+- Internet Of Things
+- Have Swagger
+- Have API Paths
+- Have API
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-deprecation
+  url: https://developers.evrythng.com/docs/deprecation
+- type: x-github
+  url: https://github.com/evrythng
+- type: x-postman-collection
+  url: https://www.getpostman.com/collections/ba74e4cd196b0cffefec
+- type: x-website
+  url: http://evrythng.com
+- type: x-websub
+  url: https://developers.evrythng.com/docs/pubsub
+- type: x-authentication
+  url: https://developers.evrythng.com/docs/authentication
+- type: x-blog
+  url: https://evrythng.com/blog/
+- type: x-blog
+  url: https://developers.evrythng.com/blog
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/thngy
+- type: x-customers
+  url: https://evrythng.com/category/customers-and-use-cases/
+- type: x-developer
+  url: https://developers.evrythng.com/
+- type: x-developer
+  url: https://developers.evrythng.com/reference
+- type: x-documentation
+  url: https://developers.evrythng.com/docs/support
+- type: x-documentation
+  url: https://developers.evrythng.com/docs
+- type: x-email
+  url: press@evrythng.com
+- type: x-email
+  url: privacy@evrythng.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/evrythng/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/evrythng
+- type: x-login
+  url: https://dashboard.evrythng.com/login
+- type: x-news
+  url: https://evrythng.com/newsroom/
+- type: x-press
+  url: https://evrythng.com/category/press-releases/
+- type: x-security
+  url: https://evrythng.com/securing-the-internet-of-things/
+- type: x-support
+  url: https://developers.evrythng.com/docs/support
+- type: x-terms-of-service
+  url: https://evrythng.com/legal/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/EVRYTHNG
+- type: x-website
+  url: https://evrythng.com
+- type: x-youtube
+  url: https://www.youtube.com/user/connectEVRYTHNG
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

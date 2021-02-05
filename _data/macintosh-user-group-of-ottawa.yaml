@@ -1,0 +1,31 @@
+---
+name: MacIntosh User Group of Ottawa
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/macintosh-user-group-of-ottawa.yaml
+tags:
+- Canada
+- 3bb1eb17fded343edebd
+apis: []
+x-common:
+- type: x-website
+  url: https://mugoo.com/
+- type: x-developer
+  url: http://developer.mugoo.com
+- type: x-twitter
+  url: https://twitter.com/MUGOO_CA
+- type: x-website
+  url: https://www.mugoo.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=CDZqipeVLFc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

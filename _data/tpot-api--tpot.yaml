@@ -1,0 +1,43 @@
+---
+name: TPOT API - TPOT
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "647939"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tpot-api--tpot.yaml
+tags: []
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/EpistasisLab
+- type: x-github
+  url: https://github.com/EpistasisLab/EVE
+- type: x-github
+  url: https://epistasislab.github.io/ellyn
+- type: x-github
+  url: https://github.com/ryanurbs/ExSTraCS_2.0
+- type: x-github
+  url: https://lacava.github.io/few
+- type: x-github
+  url: https://github.com/EpistasisLab/scikit-mdr
+- type: x-github
+  url: https://epistasislab.github.io/scikit-rebate/
+- type: x-github
+  url: http://rhiever.github.io/tpot/
+- type: x-github
+  url: https://github.com/EpistasisLab/ClinicalDataSources
+- type: x-github
+  url: https://github.com/EpistasisLab/penn-ml-benchmarks
+- type: x-github
+  url: https://github.com/orderedlist
+- type: x-website
+  url: http://epistasislab.github.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

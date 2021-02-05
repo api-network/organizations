@@ -1,0 +1,30 @@
+---
+name: JM-Experts.com
+description: JM-Experts Provides Joomla Development and Consulting Services to users
+  around the Globe. Our Maintenance plans provide best support for Joomla wbesites
+  in need of regular support
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1918681"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jmexperts-com.yaml
+tags:
+- Joomla Web Hosting
+- Joomla Service Providers
+- Joomla Help
+- Joomla Experts
+- Joomla Consultants
+- Joomla Certified Hosting
+- Extensions And Templates
+apis: []
+x-common:
+- type: x-website
+  url: https://www.jm-experts.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

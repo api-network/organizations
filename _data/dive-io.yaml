@@ -1,0 +1,32 @@
+---
+name: Dive.io
+description: dive.io is a free network for the scuba community. Keep your dive log
+  online, stay in touch with your buddies, discover new dive sites
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/dive-io.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dive-io.yaml
+tags:
+- Underwater Diving
+- Photos
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-base
+  url: https://api.dive.io/
+- type: x-developers
+  url: http://dive.io/api
+- type: x-facebook
+  url: http://www.facebook.com/share.php?u=http://dive.io
+- type: x-website
+  url: http://dive.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

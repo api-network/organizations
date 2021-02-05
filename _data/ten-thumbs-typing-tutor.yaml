@@ -1,0 +1,25 @@
+---
+name: Ten Thumbs Typing Tutor
+description: Learning to type is easy and fun with Ten Thumbs Typing Tutor. Suitable
+  for all ages, from young to old, Ten Thumbs whisks you through lessons designed
+  for all skill levels - from complete novice, through to experienced typist. Ten
+  Thumbs is great in the office or at home.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3935432"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ten-thumbs-typing-tutor.yaml
+tags:
+- Typing
+apis: []
+x-common:
+- type: x-website
+  url: https://www.tenthumbstypingtutor.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

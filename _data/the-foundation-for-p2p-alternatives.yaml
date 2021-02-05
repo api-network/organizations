@@ -1,0 +1,40 @@
+---
+name: The Foundation for P2P Alternatives
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "478266"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-foundation-for-p2p-alternatives.yaml
+tags:
+- File Sharing
+apis: []
+x-common:
+- type: x-website
+  url: http://blog.p2pfoundation.net
+- type: x-blog
+  url: https://blog.p2pfoundation.net/
+- type: x-contact
+  url: https://p2pfoundation.net/home-page/contact-us
+- type: x-facebook
+  url: https://www.facebook.com/P2PFoundation/
+- type: x-feed
+  url: https://blog.p2pfoundation.net/feed/
+- type: x-platform
+  url: http://odmplatform.eu/
+- type: x-status
+  url: https://p2pfoundation.net/p2p-foundation-anbi-status
+- type: x-twitter
+  url: https://twitter.com/P2P_Foundation
+- type: x-website
+  url: https://www.p2pfoundation.net
+- type: x-youtube
+  url: https://www.youtube.com/user/P2PFoundation
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

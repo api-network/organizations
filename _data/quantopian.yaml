@@ -1,0 +1,47 @@
+---
+name: Quantopian
+description: Quantopian inspires talented people everywhere to write investment algorithms.
+  Select authors may license their algorithms to us and get paid based on performance.
+  https://www.quantopian.com.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1782_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "55356"
+url: https://raw.githubusercontent.com/api-network/organizations/main/quantopian.yaml
+tags:
+- Statistics
+- Have API
+apis: []
+x-common:
+- type: x-developers
+  url: https://www.quantopian.com/help#api-doco
+- type: x-blog
+  url: https://blog.quantopian.com/
+- type: x-blog
+  url: http://blog.quantopian.com/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/quantopian
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/quantopian
+- type: x-facebook
+  url: https://www.facebook.com/quantopian
+- type: x-linkedin
+  url: https://www.linkedin.com/company/quantopian
+- type: x-status
+  url: https://status.quantopian.com/
+- type: x-twitter
+  url: https://www.twitter.com/quantopian
+- type: x-twitter
+  url: https://twitter.com/quantopian
+- type: x-website
+  url: http://www.quantopian.com
+- type: x-website
+  url: https://www.quantopian.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,33 @@
+---
+name: HelloCrazy.com
+description: 'Funny eCards - Send a free funny ecard that''ll make say: Oh My Goodness!
+  -  cards animated musical - Whatsapp friendly -  Special'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hellocrazy-com.yaml
+tags:
+- Humor
+- Funny Whatsapp
+- Free Greeting Cards
+- Free Funny Animated Cards
+- Ecards
+- E-greetings
+- Cartoons
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.hellocrazy.com
+- type: x-facebook
+  url: https://www.facebook.com/pg/ohmygoodness.com.official/
+- type: x-website
+  url: https://www.hellocrazy.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

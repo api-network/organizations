@@ -1,0 +1,35 @@
+---
+name: Hoptoad
+description: "Application monitoring software for your entire stack. Fix errors in
+  minutes. Airbrake tells you in real-time what\u2019s broken, where and why."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hoptoad.yaml
+tags:
+- Rails
+apis: []
+x-common:
+- type: x-website
+  url: https://airbrake.io/
+- type: x-documentation
+  url: https://airbrake.io/docs/api/#create-notice-v3
+- type: x-facebook
+  url: https://www.facebook.com/airbrake.io
+- type: x-press
+  url: https://airbrake.io/languages/express-error-monitoring
+- type: x-status
+  url: http://status.airbrake.io
+- type: x-twitter
+  url: https://twitter.com/airbrake
+- type: x-website
+  url: https://hoptoadapp.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

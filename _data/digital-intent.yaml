@@ -1,0 +1,43 @@
+---
+name: Digital Intent
+description: Chicago based product development - Strategy, User Experience, Web and
+  Mobile Development and Marketing Consulting.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/8761-digital-intent.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1154314"
+url: https://raw.githubusercontent.com/api-network/organizations/main/digital-intent.yaml
+tags:
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.digintent.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/digital-intent
+- type: x-email
+  url: inquire@digintent.com
+- type: x-email
+  url: jordan@digintent.com
+- type: x-email
+  url: matt.mccabe@digintent.com
+- type: x-email
+  url: sean@digintent.com
+- type: x-instagram
+  url: http://instagram.com/digintent
+- type: x-linkedin
+  url: https://www.linkedin.com/company/digital-intent/
+- type: x-twitter
+  url: https://twitter.com/digintent
+- type: x-twitter
+  url: http://twitter.com/digintent
+- type: x-website
+  url: http://www.digintent.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

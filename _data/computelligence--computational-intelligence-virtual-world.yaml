@@ -1,0 +1,22 @@
+---
+name: Computelligence - computational intelligence virtual world
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/computelligence--computational-intelligence-virtual-world.yaml
+tags:
+- Particle Swarm
+apis: []
+x-common:
+- type: x-website
+  url: https://www.computelligence.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

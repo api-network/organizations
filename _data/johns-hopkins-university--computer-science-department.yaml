@@ -1,0 +1,82 @@
+---
+name: Johns Hopkins University - Computer Science Department
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5310"
+url: https://raw.githubusercontent.com/api-network/organizations/main/johns-hopkins-university--computer-science-department.yaml
+tags:
+- Maryland
+apis: []
+x-common:
+- type: x-website
+  url: https://engineering.jhu.edu
+- type: x-about
+  url: https://www.cs.jhu.edu/about/
+- type: x-about
+  url: https://www.cs.jhu.edu/about/message-from-the-chair-2/
+- type: x-about
+  url: https://www.cs.jhu.edu/about/employment-opportunities/
+- type: x-code
+  url: https://www.cs.jhu.edu/academic-integrity-code/
+- type: x-contact
+  url: https://www.cs.jhu.edu/about/contact/
+- type: x-facebook
+  url: https://www.facebook.com/compscijhu?ref=hl
+- type: x-instagram
+  url: http://instagram.com/hopkinsengineer
+- type: x-news
+  url: https://www.cs.jhu.edu/news-events/
+- type: x-news
+  url: https://www.cs.jhu.edu/news-events/pluggedin/
+- type: x-news
+  url: https://www.cs.jhu.edu/cs-newsletter/
+- type: x-news
+  url: https://www.cs.jhu.edu/news-events/news-articles/
+- type: x-news
+  url: https://www.cs.jhu.edu/news-events/news-articles
+- type: x-privacy
+  url: https://it.johnshopkins.edu/policies/privacystatement
+- type: x-security
+  url: https://www.cs.jhu.edu/research/information-security/
+- type: x-support
+  url: https://www.cs.jhu.edu/adminsupport/
+- type: x-support
+  url: https://www.cs.jhu.edu/adminsupport/faculty/
+- type: x-support
+  url: https://www.cs.jhu.edu/adminsupport/graduate-students/
+- type: x-twitter
+  url: http://twitter.com/HopkinsEngineer
+- type: x-twitter
+  url: http://twitter.com/JohnsHopkins
+- type: x-twitter
+  url: http://twitter.com/fromHurLab
+- type: x-twitter
+  url: http://twitter.com/JHUArtsSciences
+- type: x-twitter
+  url: http://twitter.com/SAISHopkins
+- type: x-twitter
+  url: http://twitter.com/JHUNursing
+- type: x-twitter
+  url: http://twitter.com/JHUGlobalHealth
+- type: x-twitter
+  url: http://twitter.com/BenjaminSchafer
+- type: x-twitter
+  url: http://twitter.com/ASEE_DC
+- type: x-twitter
+  url: http://twitter.com/george_peabody
+- type: x-twitter
+  url: https://twitter.com/JHUCompSci
+- type: x-website
+  url: https://www.cs.jhu.edu
+- type: x-youtube
+  url: https://www.youtube.com/user/HopkinsEngineer
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

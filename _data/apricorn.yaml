@@ -1,0 +1,33 @@
+---
+name: Apricorn
+description: Looking for an encrypted USB Drive or secure external hard drive that
+  comes with a PIN or fingerprint access? Protect your sensitive data with real-time
+  military-grade hardware encryption. Shop Apricorn products before your crucial data
+  is compromised.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "467585"
+url: https://raw.githubusercontent.com/api-network/organizations/main/apricorn.yaml
+tags:
+- Upgrades
+apis: []
+x-common:
+- type: x-website
+  url: http://www.apricorn.com
+- type: x-facebook
+  url: https://www.facebook.com/Apricorn-355673447956311/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/apricorn
+- type: x-twitter
+  url: https://twitter.com/apricorn_info
+- type: x-website
+  url: https://www.apricorn.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

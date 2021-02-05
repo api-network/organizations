@@ -1,0 +1,40 @@
+---
+name: philosophe.com - Essays on Web Site Quality
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5082245"
+url: https://raw.githubusercontent.com/api-network/organizations/main/philosophe-com--essays-on-web-site-quality.yaml
+tags:
+- E-Commerce Testing
+apis: []
+x-common:
+- type: x-about
+  url: https://philosophe.com/about/
+- type: x-about
+  url: https://philosophe.com/about/themes/
+- type: x-code
+  url: https://philosophe.com/category/code/
+- type: x-feed
+  url: https://philosophe.com/feed/
+- type: x-feed
+  url: https://philosophe.com/comments/feed/
+- type: x-login
+  url: https://philosophe.com/wp/wp-login.php
+- type: x-plans
+  url: https://philosophe.com/testing/without_testplans/
+- type: x-press
+  url: http://wordpress.org/
+- type: x-terms-of-service
+  url: https://philosophe.com/quality_resources/terms/
+- type: x-website
+  url: https://philosophe.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

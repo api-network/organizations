@@ -1,0 +1,43 @@
+---
+name: Landel Telecom Inc.
+description: "Landel Telecom provides MailBug\u2122, a non-computer email appliance,
+  absolutely the easiest way to send and receive email \u2026 without a computer!"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/landel-telecom-inc-.yaml
+tags:
+- Internet Appliances
+apis: []
+x-common:
+- type: x-about
+  url: https://mailbug.com/about-landel/
+- type: x-contact
+  url: https://mailbug.com/contact/
+- type: x-contact
+  url: https://mailbug.com/contact/customer-support/
+- type: x-contact
+  url: https://mailbug.com/contact/contact-us/
+- type: x-contact
+  url: https://mailbug.com/contact/user-guides/
+- type: x-contact
+  url: https://mailbug.com/contact/brochures/
+- type: x-facebook
+  url: https://www.facebook.com/LandelMailBug
+- type: x-login
+  url: https://mailbug.com/customer-login/
+- type: x-privacy
+  url: https://mailbug.com/privacy/
+- type: x-terms-of-service
+  url: https://mailbug.com/terms-of-use/
+- type: x-website
+  url: https://www.mailbug.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

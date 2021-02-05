@@ -1,0 +1,52 @@
+---
+name: Wide Open West (WOW!)
+description: Explore offers with WOW! Internet, Cable TV and Home Phone. Find the
+  offer and the products that suits the services you need.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "70789"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wide-open-west-wow.yaml
+tags:
+- Wow Internet
+- Wow Cable
+- Wow
+- Wireless Internet Provider
+- Wireless Internet
+- Wi-Fi
+- Video On Demand
+- Residential Home Phone Service
+- Local Cable Tv Providers
+- Internet Cable And Phone
+- Internet
+- Hdtv Cable
+- Fast Internet
+- Digital Phone Service
+- Digital Cable
+- Cut The Cord
+- Cable Tv Service
+- Cable Internet Phone Bundles
+- Cable
+- Best Cable Company
+apis: []
+x-common:
+- type: x-website
+  url: http://wowway.com
+- type: x-facebook
+  url: https://www.facebook.com/WOWInternetCablePhone/
+- type: x-login
+  url: https://login.wowway.com/
+- type: x-twitter
+  url: https://twitter.com/WOW_WAY
+- type: x-website
+  url: https://www.wowway.com
+- type: x-youtube
+  url: https://www.youtube.com/c/WOWInternetCablePhone
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

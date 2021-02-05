@@ -1,0 +1,46 @@
+---
+name: SCons
+description: 'SCons: A software construction tool'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1343708"
+url: https://raw.githubusercontent.com/api-network/organizations/main/scons.yaml
+tags:
+- Make Tools
+apis: []
+x-common:
+- type: x-contact
+  url: https://scons.org/contact.html
+- type: x-developer
+  url: https://scons.org/dev.html
+- type: x-documentation
+  url: https://scons.org/documentation.html
+- type: x-documentation
+  url: http://docs.getpelican.com/
+- type: x-feed
+  url: http://scons.org/feeds/all.atom.xml
+- type: x-github
+  url: https://github.com/SCons/scons
+- type: x-github
+  url: https://github.com/SCons/scons/wiki
+- type: x-github
+  url: https://github.com/DandyDev/pelican-bootstrap3
+- type: x-logos
+  url: https://scons.org/logos.html
+- type: x-news
+  url: https://scons.org/tag/news.html
+- type: x-open-source
+  url: https://www.openhub.net/p/scons
+- type: x-twitter
+  url: https://twitter.com/
+- type: x-website
+  url: https://www.scons.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

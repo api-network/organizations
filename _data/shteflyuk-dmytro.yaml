@@ -1,0 +1,49 @@
+---
+name: Shteflyuk, Dmytro
+description: In my blog I'll try to describe about interesting technologies, my discovery
+  in IT and some useful things about programming.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2970579"
+url: https://raw.githubusercontent.com/api-network/organizations/main/shteflyuk-dmytro.yaml
+tags:
+- Personal Pages
+apis: []
+x-common:
+- type: x-code
+  url: https://www.digitalocean.com/?refcode=f9a358321d7b
+- type: x-contact
+  url: https://kpumuk.info/contact/
+- type: x-feed
+  url: https://kpumuk.info/feed/
+- type: x-feed
+  url: https://kpumuk.info/comments/feed/
+- type: x-github
+  url: https://github.com/dcrec1/inploy
+- type: x-github
+  url: https://github.com/ezmobius/chef-deploy
+- type: x-github
+  url: https://github.com/drnic/composite_primary_keys
+- type: x-github
+  url: https://github.com/drnic/composite_primary_keys/issues
+- type: x-github
+  url: https://github.com/kpumuk/
+- type: x-github
+  url: https://github.com/kpumuk/sphinx/
+- type: x-open-source
+  url: https://kpumuk.info/tag/opensource/
+- type: x-press
+  url: https://kpumuk.info/tag/wordpress/
+- type: x-press
+  url: https://kpumuk.info/category/wordpress/
+- type: x-website
+  url: https://kpumuk.info
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

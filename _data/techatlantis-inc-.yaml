@@ -1,0 +1,62 @@
+---
+name: TechAtlantis, Inc.
+description: File 1099 Online with IRS approved eFile provider Tax1099. eFile 1099
+  MISC and more IRS forms 2019 is secure and easy filing online by importing 1099
+  data from top accounting software.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "166908"
+url: https://raw.githubusercontent.com/api-network/organizations/main/techatlantis-inc-.yaml
+tags:
+- W-2C
+- W-2
+- United States
+- Tax1099.com
+- Online TIN Match
+- Online Form 1099MISC
+- Online 1099MISC
+- IRS Approved
+- IRS 1099MISC
+- Informational Reporting
+- E-W-9
+- B-Notice
+- 944 Form Online
+- 941 Form Online
+- 940 Form Online
+- 1099MISC Online
+- 1099-S Form Online
+- 1099-R Form Online
+- 1099-PATR
+- 1099-K Form Online
+- 1099-INT Form Online
+- 1099-DIV Form Online
+- 1099-C Form Online
+- 1099-B Form Online
+- 1099-A Form Online
+- 1099 State E-File
+- 1042-S Form Online
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/TAX1099/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/tax1099/
+- type: x-self-service-registration
+  url: https://www.tax1099.com/register
+- type: x-self-service-registration
+  url: https://www.tax1099.com/register-demo/register
+- type: x-twitter
+  url: https://twitter.com/irsform1099?lang=en
+- type: x-website
+  url: https://www.tax1099.com
+- type: x-youtube
+  url: https://www.youtube.com/user/eFileTax1099
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

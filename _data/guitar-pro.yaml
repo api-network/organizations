@@ -1,0 +1,50 @@
+---
+name: Guitar Pro
+description: Guitar Pro 7.5 is a tablature editor software for guitar, bass, and other
+  fretted instruments. Equipped with a powerful audio engine, it makes writing music
+  easier, and it constitutes an essential tool for guitarists.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "152455"
+url: https://raw.githubusercontent.com/api-network/organizations/main/guitar-pro.yaml
+tags:
+- Tablature
+apis: []
+x-common:
+- type: x-website
+  url: http://www.guitar-pro.com
+- type: x-about
+  url: https://www.guitar-pro.com/en/index.php?pg=about
+- type: x-blog
+  url: https://blog.guitar-pro.com/
+- type: x-facebook
+  url: https://www.facebook.com/arobas.music
+- type: x-feed
+  url: https://blog.guitar-pro.com/feed/
+- type: x-instagram
+  url: https://www.instagram.com/guitarpro_official/
+- type: x-news
+  url: https://www.guitar-pro.com/en/index.php?pg=about-news
+- type: x-support
+  url: https://support.guitar-pro.com/hc/en-us
+- type: x-support
+  url: https://support.guitar-pro.com/hc/en-us/
+- type: x-terms-of-service
+  url: https://www.guitar-pro.com/en/index.php?pg=legal-cgu
+- type: x-terms-of-service
+  url: https://www.guitar-pro.com/en/index.php?pg=legal-cgv
+- type: x-twitter
+  url: https://twitter.com/ArobasMusic
+- type: x-website
+  url: https://www.guitar-pro.com
+- type: x-youtube
+  url: https://www.youtube.com/user/ArobasMusic
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

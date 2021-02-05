@@ -1,0 +1,46 @@
+---
+name: GSMA OneAPI Location
+description: Follow us on @GSMA
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1014-gsma-oneapi-location.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "51793"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gsma-oneapi-location.yaml
+tags:
+- Telecommunications
+- Locations
+- Locations
+- ISP
+- Have API
+- API Provider
+- Accounts
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/gsma
+- type: x-developers
+  url: http://oneapi.gsma.com/
+- type: x-email
+  url: info@gsma.com
+- type: x-email
+  url: membership@gsma.com
+- type: x-email
+  url: imeihelpdesk@gsma.com
+- type: x-email
+  url: Infolatam@gsma.com
+- type: x-email
+  url: WorkingGroups@gsma.com
+- type: x-email
+  url: futurenetworks@gsma.com
+- type: x-twitter
+  url: https://twitter.com/gsma
+- type: x-website
+  url: http://gsma.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

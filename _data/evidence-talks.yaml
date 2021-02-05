@@ -1,0 +1,31 @@
+---
+name: Evidence Talks
+description: Digital forensic experts specialising in SPEKTOR triage technologies
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9322005"
+url: https://raw.githubusercontent.com/api-network/organizations/main/evidence-talks.yaml
+tags:
+- Triage
+- Forensics And Incident Response
+- Digital Forensics
+- Cyber-security
+apis: []
+x-common:
+- type: x-website
+  url: http://www.evidencetalks.com
+- type: x-facebook
+  url: https://www.facebook.com/Evidencetalks
+- type: x-twitter
+  url: https://twitter.com/Evidencetalks
+- type: x-website
+  url: https://www.evidencetalks.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

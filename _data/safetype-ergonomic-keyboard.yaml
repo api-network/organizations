@@ -1,0 +1,28 @@
+---
+name: SafeType Ergonomic Keyboard
+description: Shop powered by PrestaShop
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/safetype-ergonomic-keyboard.yaml
+tags:
+- Shop
+- Prestashop
+- Keyboards
+apis: []
+x-common:
+- type: x-contact
+  url: https://safetype.com/index.php?controller=contact
+- type: x-developer
+  url: http://dev.safetype.com
+- type: x-website
+  url: https://safetype.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

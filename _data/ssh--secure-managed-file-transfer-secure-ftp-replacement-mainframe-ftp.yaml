@@ -1,0 +1,50 @@
+---
+name: SSH - Secure Managed File Transfer, Secure FTP Replacement, Mainframe FTP
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "31694"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ssh--secure-managed-file-transfer-secure-ftp-replacement-mainframe-ftp.yaml
+tags:
+- SSH
+apis: []
+x-common:
+- type: x-about
+  url: https://www.ssh.com/about/
+- type: x-blog
+  url: https://blog.ssh.com
+- type: x-blog
+  url: https://blog.ssh.com/ssh_com-and-dit_partnership
+- type: x-blog
+  url: https://blog.ssh.com/in_defense_of_dumb_user
+- type: x-blog
+  url: https://blog.ssh.com/
+- type: x-careers
+  url: https://careers.ssh.com
+- type: x-careers
+  url: https://careers.ssh.com/
+- type: x-contact
+  url: https://www.ssh.com/about/contact
+- type: x-contact
+  url: https://info.ssh.com/privx_contact_enterprise_sales
+- type: x-events
+  url: https://events.ssh.com/
+- type: x-login
+  url: https://support.ssh.com/accounts/login/
+- type: x-partner
+  url: https://www.ssh.com/partners/
+- type: x-support
+  url: https://help.ssh.com/support/home
+- type: x-support
+  url: https://support.ssh.com/
+- type: x-website
+  url: https://www.ssh.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

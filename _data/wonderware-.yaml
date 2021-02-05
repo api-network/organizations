@@ -1,0 +1,45 @@
+---
+name: Wonderware.
+description: Wonderware is the market leader in HMI SCADA, industrial information,
+  operations management and industrial automation software focused on creating the
+  most innovative and reliable industrial software that empowers individuals, teams
+  and businesses of all sizes, to become extraordinary.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "303356"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wonderware-.yaml
+tags:
+- Process
+apis: []
+x-common:
+- type: x-website
+  url: http://www.aveva.com
+- type: x-facebook
+  url: https://www.facebook.com/avevasolutions
+- type: x-linkedin
+  url: https://www.linkedin.com/company/aveva/
+- type: x-partner
+  url: https://sw.aveva.com/partners
+- type: x-security
+  url: https://sw.aveva.com/support/cyber-security-updates
+- type: x-support
+  url: https://sw.aveva.com/support/wonderware
+- type: x-support
+  url: https://sw.aveva.com/support/customer-first/
+- type: x-twitter
+  url: https://twitter.com/AVEVAGroup
+- type: x-webinars
+  url: https://on.wonderware.com/topic/wwtimes-webinar
+- type: x-website
+  url: https://www.wonderware.com
+- type: x-youtube
+  url: https://www.youtube.com/user/AVEVAGroup
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

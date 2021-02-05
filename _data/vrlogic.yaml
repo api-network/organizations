@@ -1,0 +1,30 @@
+---
+name: VRLOGIC
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6064224"
+url: https://raw.githubusercontent.com/api-network/organizations/main/vrlogic.yaml
+tags:
+- Hardware
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/vrlogic
+- type: x-facebook
+  url: http://www.facebook.de/vrlogic
+- type: x-linkedin
+  url: https://www.linkedin.com/company/vrlogic-gmbh
+- type: x-twitter
+  url: https://twitter.com/VRLOGIC
+- type: x-website
+  url: https://www.vrlogic.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

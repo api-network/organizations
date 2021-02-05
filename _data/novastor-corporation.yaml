@@ -1,0 +1,66 @@
+---
+name: NovaStor Corporation
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "567511"
+url: https://raw.githubusercontent.com/api-network/organizations/main/novastor-corporation.yaml
+tags:
+- Backup
+apis: []
+x-common:
+- type: x-website
+  url: https://www.novabackup.com
+- type: x-blog
+  url: https://www.novastor.com/blog
+- type: x-blog
+  url: https://www.novastor.com/blog/?hsLang=en
+- type: x-blog
+  url: https://go.novastor.com/blog?hsLang=en
+- type: x-careers
+  url: https://www.novastor.com/company/careers
+- type: x-contact
+  url: https://www.novastor.com/company/contact
+- type: x-facebook
+  url: https://www.facebook.com/NovaStor
+- type: x-linkedin
+  url: http://www.linkedin.com/company/novastor-corporation
+- type: x-news
+  url: https://www.novastor.com/news
+- type: x-partner
+  url: https://www.novastor.com/partners
+- type: x-partner
+  url: https://www.novastor.com/partners#loginPopup
+- type: x-partner
+  url: https://go.novastor.com/partners?hsLang=en#loginPopup
+- type: x-pricing
+  url: https://www.novastor.com/pricing
+- type: x-pricing
+  url: https://go.novastor.com/request-a-quote-for-pricing
+- type: x-pricing
+  url: https://go.novastor.com/pricing?hsLang=en
+- type: x-support
+  url: https://www.novastor.com/support
+- type: x-support
+  url: https://www.novastor.com/support/setup-assistance#try
+- type: x-support
+  url: https://go.novastor.com/support?hsLang=en
+- type: x-twitter
+  url: https://twitter.com/NovaStor
+- type: x-webinars
+  url: https://www.novastor.com/resources#webinars
+- type: x-website
+  url: https://www.novastor.com
+- type: x-white-papers
+  url: https://www.novastor.com/resources#whitepaper
+- type: x-youtube
+  url: https://www.youtube.com/user/novastor
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

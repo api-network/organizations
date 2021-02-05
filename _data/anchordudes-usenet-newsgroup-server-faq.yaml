@@ -1,0 +1,36 @@
+---
+name: AnchorDudes Usenet Newsgroup Server FAQ
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5635504"
+url: https://raw.githubusercontent.com/api-network/organizations/main/anchordudes-usenet-newsgroup-server-faq.yaml
+tags:
+- Usenet
+apis: []
+x-common:
+- type: x-news
+  url: https://www.newsgroupservers.net/
+- type: x-news
+  url: https://www.newsgroupservers.net/best-providers/
+- type: x-news
+  url: https://www.newsgroupservers.net/usenet-basics/
+- type: x-news
+  url: https://www.newsgroupservers.net/the-anchordudes/
+- type: x-news
+  url: http://www.newsgroupservers.net/usenet-discounts
+- type: x-press
+  url: http://wordpress.org/
+- type: x-press
+  url: http://wordpress.org/themes/ogee
+- type: x-website
+  url: https://www.newsgroupservers.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

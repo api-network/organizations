@@ -1,0 +1,42 @@
+---
+name: Clients First Business Solutions
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "705917"
+url: https://raw.githubusercontent.com/api-network/organizations/main/clients-first-business-solutions.yaml
+tags:
+- Vendors
+apis: []
+x-common:
+- type: x-about
+  url: https://www.clientsfirst-us.com/about/
+- type: x-about
+  url: https://www.clientsfirst-us.com/about/method/
+- type: x-about
+  url: https://www.clientsfirst-us.com/about/locations/
+- type: x-blog
+  url: https://www.clientsfirst-us.com/blog/
+- type: x-careers
+  url: https://www.clientsfirst-us.com/about/careers/
+- type: x-contact
+  url: https://www.clientsfirst-us.com/contact-us/
+- type: x-events
+  url: https://www.clientsfirst-us.com/events/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/clients-first/
+- type: x-privacy
+  url: https://www.clientsfirst-us.com/privacy-policy/
+- type: x-website
+  url: https://www.clientsfirst-us.com
+- type: x-youtube
+  url: https://www.youtube.com/user/ClientsFirst
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

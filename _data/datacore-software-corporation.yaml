@@ -1,0 +1,83 @@
+---
+name: Datacore Software Corporation
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "480412"
+url: https://raw.githubusercontent.com/api-network/organizations/main/datacore-software-corporation.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: https://www.datacore.com/
+- type: x-blog
+  url: https://www.datacore.com/blog/
+- type: x-contact
+  url: https://www.datacore.com/company/contact-us/
+- type: x-events
+  url: https://www.datacore.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/DataCoreSoftware/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/datacore-software
+- type: x-news
+  url: https://www.datacore.com/news/
+- type: x-news
+  url: https://info.datacore.com/news-sign-up
+- type: x-partner
+  url: https://www.datacore.com/partners/login/
+- type: x-partner
+  url: https://www.datacore.com/partners/
+- type: x-partner
+  url: https://www.datacore.com/partners/resellers/
+- type: x-partner
+  url: https://www.datacore.com/partners/strategic-alliances/
+- type: x-partner
+  url: https://www.datacore.com/partners/technology/
+- type: x-partner
+  url: https://www.datacore.com/partners/datacore-ready/
+- type: x-partner
+  url: https://www.datacore.com/partners/resellers/program/
+- type: x-partner
+  url: https://www.datacore.com/partners/system-builders/
+- type: x-partner
+  url: https://www.datacore.com/partners/registration/
+- type: x-partner
+  url: https://www.datacore.com/partners/technology/lenovo/
+- type: x-privacy
+  url: https://www.datacore.com/privacy/
+- type: x-support
+  url: https://datacore.custhelp.com/
+- type: x-support
+  url: https://datacore.custhelp.com/app/social/home
+- type: x-support
+  url: https://www.datacore.com/support/
+- type: x-support
+  url: https://www.datacore.com/support/plans/
+- type: x-support
+  url: https://datacore.custhelp.com/app/downloads/downloads
+- type: x-support
+  url: https://www.datacore.com/support/training/
+- type: x-support
+  url: https://datacore.custhelp.com/app/answers/list
+- type: x-terms-of-service
+  url: https://info.datacore.com/resources/legal/eula.pdf
+- type: x-terms-of-service
+  url: https://www.datacore.com/legal/terms/
+- type: x-terms-of-service
+  url: https://www.datacore.com/legal/
+- type: x-twitter
+  url: https://twitter.com/DataCore
+- type: x-website
+  url: https://www.datacore.com
+- type: x-youtube
+  url: https://www.youtube.com/user/DataCoreVideos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

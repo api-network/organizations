@@ -1,0 +1,30 @@
+---
+name: CasioEd
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "696798"
+url: https://raw.githubusercontent.com/api-network/organizations/main/casioed.yaml
+tags:
+- Casio Graphic Calculators
+apis: []
+x-common:
+- type: x-contact
+  url: http://www.casio.edu.shriro.com.au/app/contact_us.php
+- type: x-login
+  url: http://www.casio.edu.shriro.com.au/app/login.php
+- type: x-privacy
+  url: http://www.shriro.com.au/privacy
+- type: x-self-service-registration
+  url: http://www.casio.edu.shriro.com.au/app/register.php
+- type: x-website
+  url: https://www.casio.edu.shriro.com.au
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

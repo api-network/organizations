@@ -1,0 +1,55 @@
+---
+name: 360.here.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2955"
+url: https://raw.githubusercontent.com/api-network/organizations/main/360-here-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-blog-rss
+  url: http://360.here.com/feed/rss/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/heremaps
+- type: x-news
+  url: http://here.com/newsroom
+- type: x-news
+  url: http://here.com/newsroom
+- type: x-curated-source
+  url: http://360.here.com/2016/08/09/columbus-ohio-wins-smart-cities-challenge-with-support-from-here/
+- type: x-website
+  url: http://360.here.com
+- type: x-about
+  url: https://www.here.com/about-us
+- type: x-facebook
+  url: https://www.facebook.com/here
+- type: x-instagram
+  url: https://www.instagram.com/here/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/here/
+- type: x-news
+  url: https://360.here.com/tag/news-and-updates
+- type: x-terms-of-service
+  url: https://legal.here.com/en-gb/privacy/cookies
+- type: x-terms-of-service
+  url: https://legal.here.com/en-gb/privacy
+- type: x-terms-of-service
+  url: https://legal.here.com/en-gb/terms
+- type: x-twitter
+  url: https://twitter.com/HERE
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=0J_kY3xgvZk
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=yoOzk5NLtG0
+- type: x-youtube
+  url: https://www.youtube.com/user/heremaps
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

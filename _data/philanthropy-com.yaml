@@ -1,0 +1,23 @@
+---
+name: philanthropy.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/philanthropy-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: https://www.philanthropy.com/article/NPR-Gets-17-Million-for/153895
+- type: x-website
+  url: http://philanthropy.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

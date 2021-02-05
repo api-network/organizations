@@ -1,0 +1,59 @@
+---
+name: SimplyCast
+description: All-in-one platform that allows you to discover, organize, and communicate
+  with your leads over all channels of communication
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1476_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "128273"
+url: https://raw.githubusercontent.com/api-network/organizations/main/simplycast.yaml
+tags:
+- Online Tools
+- Have API
+- Geo
+- CRM
+- Contacts
+apis: []
+x-common:
+- type: x-website
+  url: http://www.simplycast.com/api
+- type: x-website
+  url: http://simplycast.com
+- type: x-blog
+  url: http://www.simplycast.com/blog
+- type: x-blog-rss
+  url: http://www.simplycast.com/feed/?post_type=post
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/simplycast-interactive-marketing
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/simplycast
+- type: x-email
+  url: customercare@simplycast.com
+- type: x-email
+  url: abuse@simplycast.com
+- type: x-email
+  url: support@simplycast.com
+- type: x-email
+  url: dataprotection@simplycast.com
+- type: x-email
+  url: compliance@simplycast.com
+- type: x-email
+  url: unsubscribe@simplycast.com
+- type: x-email
+  url: privacy@simplycast.com
+- type: x-email
+  url: sales@simplycast.com
+- type: x-email
+  url: marketing@simplycast.com
+- type: x-twitter
+  url: https://twitter.com/simplycast
+- type: x-website
+  url: https://www.simplycast.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

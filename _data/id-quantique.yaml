@@ -1,0 +1,22 @@
+---
+name: id Quantique
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1047420"
+url: https://raw.githubusercontent.com/api-network/organizations/main/id-quantique.yaml
+tags:
+- Quantum Computing
+apis: []
+x-common:
+- type: x-website
+  url: https://www.idquantique.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

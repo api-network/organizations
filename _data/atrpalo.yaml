@@ -1,0 +1,30 @@
+---
+name: "Atr\xE1palo"
+description: "Somos los de Atr\xE1palo y atrapamos los mejores planes para tu tiempo
+  libre, s\xED, pero tambi\xE9n vivimos en este mundo, observamos y lo compartimos.
+  Como t\xFA. :-)    Tambi\xE9n tenemos un espacio de inspiraci\xF3n en nuestro blog:
+  http://houdinis.es    O te invita..."
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29483-atrapalo-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "4"
+x-alexaRank: "22214"
+url: https://raw.githubusercontent.com/api-network/organizations/main/atrpalo.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: https://www.atrapalo.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/atrapalo
+- type: x-twitter
+  url: https://twitter.com/AtrapaloEng
+- type: x-website
+  url: http://atrapalo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,29 @@
+---
+name: Netspective
+description: Software, technology, and management consulting focused on firms im pacted
+  by FDA, ONC, NIST or other safety, privacy, and security regulations
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2061631"
+url: https://raw.githubusercontent.com/api-network/organizations/main/netspective.yaml
+tags:
+- Development Tools
+apis: []
+x-common:
+- type: x-website
+  url: http://www.netspective.com
+- type: x-feed
+  url: https://feeds.feedburner.com/NetspectiveBlog
+- type: x-twitter
+  url: https://twitter.com/netspective
+- type: x-website
+  url: https://www.netspective.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

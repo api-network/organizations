@@ -1,0 +1,33 @@
+---
+name: ENCO Systems, Inc.
+description: ENCO Systems is a world-class provider of broadcast software for radio
+  and television featuring radio automation, audio playout and control and automated
+  closed captioning for TV. Products include DAD, enCaption, MOM and DADtv. ENCO is
+  based in Southfield, MI USA.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2043602"
+url: https://raw.githubusercontent.com/api-network/organizations/main/enco-systems-inc-.yaml
+tags:
+- Playback Automation
+apis: []
+x-common:
+- type: x-website
+  url: http://www.enco.com
+- type: x-facebook
+  url: https://www.facebook.com/encosys/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/enco-systems-inc-
+- type: x-twitter
+  url: https://twitter.com/ENCOSYS
+- type: x-website
+  url: https://www.enco.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

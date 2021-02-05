@@ -1,0 +1,44 @@
+---
+name: Active Projects and Leads
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9050"
+url: https://raw.githubusercontent.com/api-network/organizations/main/active-projects-and-leads.yaml
+tags:
+- OpenOffice.org
+apis: []
+x-common:
+- type: x-blog
+  url: https://blogs.apache.org/ooo/
+- type: x-open-source
+  url: https://openoffice.apache.org/get-involved.html
+- type: x-open-source
+  url: http://openoffice.apache.org/get-involved.html
+- type: x-open-source
+  url: http://graphics.openoffice.org/chart/chart.html
+- type: x-open-source
+  url: http://porting.openoffice.org/mac/
+- type: x-open-source
+  url: http://distribution.openoffice.org/mirrors/
+- type: x-open-source
+  url: http://distribution.openoffice.org/cdrom/
+- type: x-open-source
+  url: http://distribution.openoffice.org/oem/
+- type: x-open-source
+  url: http://distribution.openoffice.org/p2p/
+- type: x-open-source
+  url: http://marketing.openoffice.org/art/index.html
+- type: x-security
+  url: http://openoffice.apache.org/security.html
+- type: x-website
+  url: https://projects.openoffice.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

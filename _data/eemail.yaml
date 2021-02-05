@@ -1,0 +1,45 @@
+---
+name: eemail
+description: create e-mail discussion lists free, easy and without signup or registration
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/eemail.yaml
+tags:
+- No Signup
+- No Registration
+- Mailing List Service
+- Mailing List
+- Mail Discussion List No Registration
+- Mail Discussion List
+- List
+- Hosted Services
+- Free Mailing List
+- Free Email List
+- Free E-mail List
+- Free Discussion List
+- E-mail List
+- E Mailing List
+- E Mail List
+- Discussion List Service
+- Discussion List
+- Create Mailing List
+- Create E-mail List
+- Create
+apis: []
+x-common:
+- type: x-support
+  url: https://eemaill.org/help
+- type: x-support
+  url: https://eemaill.org/help/Who_is_liable%3F
+- type: x-website
+  url: https://eemaill.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

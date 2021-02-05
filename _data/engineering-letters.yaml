@@ -1,0 +1,96 @@
+---
+name: Engineering Letters
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "920796"
+url: https://raw.githubusercontent.com/api-network/organizations/main/engineering-letters.yaml
+tags:
+- Magazines
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.engineeringletters.com
+- type: x-news
+  url: http://www.newsbook.net/chi/hosting.htm
+- type: x-news
+  url: http://www.newsbook.net/gb/hosting.htm
+- type: x-news
+  url: http://www.newsbook.net/
+- type: x-news
+  url: http://www.newsbook.net/chi/server_management.htm
+- type: x-news
+  url: http://www.newsbook.net/chi/nt_plat_form.htm
+- type: x-news
+  url: http://www.newsbook.net/chi/webdesign.htm
+- type: x-news
+  url: http://www.newsbook.hk/hosting.htm
+- type: x-news
+  url: http://www.newsbook.hk/chi/hosting.htm
+- type: x-news
+  url: http://www.newsbook.net/chi/mail.htm
+- type: x-news
+  url: http://www.newsbook.com.cn/chi/mail.htm
+- type: x-news
+  url: http://www.newsbook.cn/chi/
+- type: x-news
+  url: http://www.newsbook.com.cn/chi/
+- type: x-news
+  url: http://www.newsbook.hk/chi/webdesign.htm
+- type: x-news
+  url: http://www.newsbook.com/chi/server-colocation.htm
+- type: x-news
+  url: http://www.newsbook.com.cn/chi/server_management.htm
+- type: x-news
+  url: http://www.newsbook.net/chi/server-colocation.htm
+- type: x-news
+  url: http://www.newsbook.hk/chi/server-colocation.htm
+- type: x-news
+  url: http://www.newsbook.asia/mail.htm
+- type: x-news
+  url: http://www.newsbook.biz/hosting.htm
+- type: x-news
+  url: http://www.newsbook.cc/hosting.htm
+- type: x-news
+  url: http://www.newsbook.com/hosting.htm
+- type: x-news
+  url: http://www.newsbook.cn/gb/hosting.htm
+- type: x-news
+  url: http://www.newsbook.hk//chi/hosting.htm
+- type: x-news
+  url: http://www.newsbook.info/design.htm
+- type: x-news
+  url: http://www.newsbook.net/design.htm
+- type: x-news
+  url: http://www.newsbook.com.cn/gb/hosting.htm
+- type: x-news
+  url: http://www.newsbook.hk/gb/server-colocation.htm
+- type: x-news
+  url: http://www.newsbook.com/server-colocation.htm
+- type: x-news
+  url: http://www.newsbook.net/server_management.htm
+- type: x-news
+  url: http://www.newsbook.com/gb/server-colocation.htm
+- type: x-news
+  url: http://www.newsbook.net/server-colocation.htm
+- type: x-news
+  url: http://www.newsbook.com.cn/domain_reg.htm
+- type: x-news
+  url: http://www.newsbook.com/news.htm
+- type: x-news
+  url: http://www.newsbook.net/map.htm
+- type: x-news
+  url: http://www.newsbook.hk/news_1.htm
+- type: x-news
+  url: http://www.newsbook.cn/news_2.htm
+- type: x-website
+  url: https://www.engineeringletters.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

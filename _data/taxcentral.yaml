@@ -1,0 +1,41 @@
+---
+name: TaxCentral
+description: For the most up-to-date Tax Calculators and a free tax adviser listing
+  visit TaxCentral.co.uk, your number one Tax Adviser (Advisor) portal.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4440115"
+url: https://raw.githubusercontent.com/api-network/organizations/main/taxcentral.yaml
+tags:
+- United Kingdom
+- Taxpayer
+- Taxadvisers
+- Tax Software
+- Tax Form
+- Tax Calculators
+- Tax Calculator
+- Tax Advisor
+- Tax Advisers
+- Solution
+- Self Assessment
+- Professional
+- Pro
+- Payer
+- Online
+- IR
+- Inland Revenue
+- Hmrc
+- Customs
+apis: []
+x-common:
+- type: x-website
+  url: https://www.taxcentral.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

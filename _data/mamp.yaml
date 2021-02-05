@@ -1,0 +1,43 @@
+---
+name: MAMP
+description: MAMP GmbH is the manufacturer of the award-winning MAMP software.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "40298"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mamp.yaml
+tags:
+- WordPress
+- Time Recording
+- Radio App
+- PHP
+- MAMP
+- Local Web Server
+- Ear Training
+- Development Tools
+- Development Environment
+- Apache
+apis: []
+x-common:
+- type: x-documentation
+  url: https://documentation.mamp.info
+- type: x-documentation
+  url: http://documentation.mamp.info/appdoo/
+- type: x-twitter
+  url: https://www.twitter.com/mamp_en
+- type: x-twitter
+  url: https://twitter.com/timeeditionapp
+- type: x-twitter
+  url: https://twitter.com/appdooapp
+- type: x-twitter
+  url: https://twitter.com/receiverapp
+- type: x-website
+  url: https://www.mamp.info
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

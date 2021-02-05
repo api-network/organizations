@@ -1,0 +1,37 @@
+---
+name: Attunity
+description: Qlik (Attunity) data integration products accelerate the availability
+  of analytics-ready data, automating data streaming, refinement, cataloging and publishing.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1109908"
+url: https://raw.githubusercontent.com/api-network/organizations/main/attunity.yaml
+tags:
+- Middleware
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.qlik.com/
+- type: x-facebook
+  url: https://www.facebook.com/qlik?ga-link=footer
+- type: x-linkedin
+  url: https://www.linkedin.com/company/qlik?ga-link=footer
+- type: x-login
+  url: https://attunity.force.com/login
+- type: x-partner
+  url: https://partners.qlik.com
+- type: x-support
+  url: https://support.qlik.com
+- type: x-twitter
+  url: https://twitter.com/qlik?ga-link=footer
+- type: x-website
+  url: https://www.attunity.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,38 @@
+---
+name: Robotics Society of Southern California
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/robotics-society-of-southern-california.yaml
+tags:
+- Organizations
+apis: []
+x-common:
+- type: x-about
+  url: http://www.rssc.org/about-us.html
+- type: x-blog
+  url: http://vfranco.blogspot.com/2011/07/almost-done.html
+- type: x-careers
+  url: http://robojobs.org/find-a-job/
+- type: x-forum
+  url: https://groups.google.com/forum/#!forum/rssc-list
+- type: x-github
+  url: https://github.com/slgrobotics/TrackRoamer
+- type: x-press
+  url: http://twomaverix.com/?powerpress_pinw=11730-podcast
+- type: x-press
+  url: https://ocminimakerfaire.wordpress.com/
+- type: x-website
+  url: https://www.rssc.org
+- type: x-youtube
+  url: https://www.youtube.com/user/RSSCRobotics
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

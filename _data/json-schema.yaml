@@ -1,0 +1,26 @@
+---
+name: JSON Schema
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: ""
+url: https://raw.githubusercontent.com/api-network/organizations/main/json-schema.yaml
+tags:
+- Definitions
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-github
+  url: https://github.com/json-schema-org
+- type: x-website
+  url: https://json-schema.org/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

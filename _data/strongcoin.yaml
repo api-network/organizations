@@ -1,0 +1,31 @@
+---
+name: StrongCoin
+description: We are the longest running online Bitcoin wallet.  We've been securing
+  our clients Bitcoins since 2011.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1707-strongcoin-merchants.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2907606"
+url: https://raw.githubusercontent.com/api-network/organizations/main/strongcoin.yaml
+tags:
+- Southkorea
+- Southkorea
+- Merchants
+- Marketplaces
+- Have API
+- Blockchain
+- Blockchain
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/strongcoin
+- type: x-website
+  url: https://www.strongcoin.com/api
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

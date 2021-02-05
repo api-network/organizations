@@ -1,0 +1,32 @@
+---
+name: Windows Power Tools
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9020716"
+url: https://raw.githubusercontent.com/api-network/organizations/main/windows-power-tools.yaml
+tags:
+- Utilities
+apis: []
+x-common:
+- type: x-about
+  url: http://dmisoftware.com/about.htm
+- type: x-partner
+  url: http://dmisoftware.com/partners.htm
+- type: x-signup
+  url: http://dmisoftware.com/affsignup.htm
+- type: x-signup
+  url: http://www.dmisoftware.com/affsignup.htm
+- type: x-support
+  url: http://dmisoftware.com/support.htm
+- type: x-website
+  url: https://www.dmisoftware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

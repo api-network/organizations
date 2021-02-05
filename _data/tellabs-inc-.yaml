@@ -1,0 +1,56 @@
+---
+name: Tellabs, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1260279"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tellabs-inc-.yaml
+tags:
+- Manufacturers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.tellabs.com
+- type: x-about
+  url: https://www.tellabs.com/about/
+- type: x-blog
+  url: https://www.tellabs.com/category/blog/
+- type: x-blog
+  url: https://www.tellabs.com/blog/
+- type: x-careers
+  url: https://www.tellabs.com/careers/
+- type: x-contact
+  url: https://www.tellabs.com/contactus/
+- type: x-events
+  url: https://www.tellabs.com/category/events/
+- type: x-facebook
+  url: https://www.facebook.com/TellabsOfficial
+- type: x-linkedin
+  url: https://www.linkedin.com/company/tellabs
+- type: x-news
+  url: https://www.tellabs.com/category/news-release/
+- type: x-partner
+  url: https://www.tellabs.com/partners/
+- type: x-press
+  url: https://www.tellabs.com/enterprise/express-bundles/
+- type: x-security
+  url: https://www.tellabs.com/tag/security/
+- type: x-support
+  url: https://www.tellabs.com/services/technical-support/
+- type: x-terms-of-service
+  url: https://www.tellabs.com/legal/
+- type: x-twitter
+  url: https://twitter.com/Tellabs
+- type: x-website
+  url: https://www.tellabs.com
+- type: x-white-papers
+  url: https://www.tellabs.com/category/white-paper/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

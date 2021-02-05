@@ -1,0 +1,39 @@
+---
+name: RealNetworks, Inc.
+description: Download the latest version of RealPlayer or RealTimes and get the latest
+  features! Official Site.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "26484"
+url: https://raw.githubusercontent.com/api-network/organizations/main/realnetworks-inc-.yaml
+tags:
+- Software
+- Plug-ins
+- All-In-One
+apis: []
+x-common:
+- type: x-contact
+  url: http://www.realnetworks.com/contact.aspx
+- type: x-facebook
+  url: https://www.facebook.com/RealTimes?ref=cloud
+- type: x-instagram
+  url: https://www.instagram.com/realtimesapp/?ref=cloud
+- type: x-partner
+  url: http://partners.real.com
+- type: x-terms-of-service
+  url: http://www.realnetworks.com/terms?lang=en
+- type: x-twitter
+  url: https://twitter.com/realtimes?ref=cloud
+- type: x-website
+  url: https://www.real.com
+- type: x-youtube
+  url: https://www.youtube.com/user/realplayersp
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

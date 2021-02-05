@@ -1,0 +1,36 @@
+---
+name: Flash Animation Studio
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/flash-animation-studio.yaml
+tags:
+- Animations
+apis: []
+x-common:
+- type: x-website
+  url: http://mightypants.com
+- type: x-about
+  url: http://www.mightypants.com/about-mightypants/
+- type: x-blog
+  url: http://www.mightypants.com/blog/
+- type: x-contact
+  url: http://www.mightypants.com/contact/
+- type: x-facebook
+  url: http://www.facebook.com/MightyPants
+- type: x-twitter
+  url: http://twitter.com/MightyGrillo
+- type: x-website
+  url: https://www.flinch.com
+- type: x-youtube
+  url: http://www.youtube.com/FlinchStudio
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

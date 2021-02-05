@@ -1,0 +1,50 @@
+---
+name: Anyvite
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2595319"
+url: https://raw.githubusercontent.com/api-network/organizations/main/anyvite.yaml
+tags:
+- Invitations
+apis: []
+x-common:
+- type: x-about
+  url: http://anyvite.com/about
+- type: x-blog
+  url: http://anyvite.com/blog
+- type: x-contact
+  url: http://anyvite.com/contact_us
+- type: x-developer
+  url: http://developer.anyvite.com
+- type: x-events
+  url: http://anyvite.com/events/customize
+- type: x-login
+  url: http://anyvite.com/auth/login
+- type: x-partner
+  url: http://anyvite.com/partners
+- type: x-privacy
+  url: http://anyvite.com/privacypolicy
+- type: x-self-service-registration
+  url: http://anyvite.com/auth/register
+- type: x-twitter
+  url: http://twitter.com/icelander/status/978939282
+- type: x-twitter
+  url: http://twitter.com/anyvite
+- type: x-twitter
+  url: http://twitter.com/parterburn/statuses/848459124
+- type: x-twitter
+  url: http://twitter.com/ocpeter/status/1049895064
+- type: x-twitter
+  url: http://twitter.com/philmang/statuses/891841923
+- type: x-website
+  url: https://anyvite.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

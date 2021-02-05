@@ -1,0 +1,39 @@
+---
+name: SilverStripe Open Source CMS
+description: Silverstripe specialises in creative strategy and digital problem solving.
+  With the addition of our managed cloud and our open source product, we offer a full-service
+  experience to make your complex problems simple.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "623895"
+url: https://raw.githubusercontent.com/api-network/organizations/main/silverstripe-open-source-cms.yaml
+tags:
+- Open Source
+- Content Management
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.silverstripe.org/blog/
+- type: x-documentation
+  url: https://docs.silverstripe.org
+- type: x-facebook
+  url: http://facebook.com/silverstripe
+- type: x-linkedin
+  url: https://www.linkedin.com/company/silverstripe/
+- type: x-showcase
+  url: https://www.silverstripe.com/showcase/census-2018
+- type: x-support
+  url: https://userhelp.silverstripe.org/en/4/
+- type: x-twitter
+  url: http://twitter.com/silverstripe
+- type: x-website
+  url: https://www.silverstripe.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

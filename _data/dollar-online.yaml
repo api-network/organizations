@@ -1,0 +1,27 @@
+---
+name: DOLLAR Online
+description: DOLLAR Online - New world wide e-currency after Bitcoin.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27566-www-edollar-online.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "4232817"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dollar-online.yaml
+tags:
+- Marketplaces
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://www.dollar.international
+- type: x-twitter
+  url: https://twitter.com/dollarglobal
+- type: x-website
+  url: http://www.edollar.online
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

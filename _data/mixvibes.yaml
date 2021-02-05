@@ -1,0 +1,48 @@
+---
+name: MixVibes
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "382849"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mixvibes.yaml
+tags:
+- Music And Audio
+apis: []
+x-common:
+- type: x-website
+  url: https://linktr.ee/mixvibes
+- type: x-about
+  url: https://www.mixvibes.com/about-mixvibes/
+- type: x-contact
+  url: https://www.mixvibes.com/contact-mixvibes/
+- type: x-facebook
+  url: https://www.facebook.com/mixvibes/?ref=br_rs
+- type: x-forum
+  url: http://forum.mixvibes.com
+- type: x-instagram
+  url: https://www.instagram.com/mixvibes/
+- type: x-news
+  url: https://www.mixvibes.com/dj-news/
+- type: x-privacy
+  url: https://www.mixvibes.com/privacy/
+- type: x-support
+  url: https://www.mixvibes.com/faq-support/
+- type: x-terms-of-service
+  url: https://www.mixvibes.com/terms-of-use/
+- type: x-tutorials
+  url: https://www.mixvibes.com/tutorials/
+- type: x-twitter
+  url: https://twitter.com/mixvibes
+- type: x-website
+  url: https://www.mixvibes.com
+- type: x-youtube
+  url: https://www.youtube.com/user/mixvibes
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

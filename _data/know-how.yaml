@@ -1,0 +1,21 @@
+---
+name: Know How!
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2820192"
+url: https://raw.githubusercontent.com/api-network/organizations/main/know-how.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: https://www.knowhow.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,22 @@
+---
+name: Undernet Routing Committee
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "551017"
+url: https://raw.githubusercontent.com/api-network/organizations/main/undernet-routing-committee.yaml
+tags:
+- IRC
+apis: []
+x-common:
+- type: x-website
+  url: https://routing-com.undernet.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

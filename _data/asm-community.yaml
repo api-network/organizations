@@ -1,0 +1,24 @@
+---
+name: ASM Community
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1015085"
+url: https://raw.githubusercontent.com/api-network/organizations/main/asm-community.yaml
+tags:
+- X86
+apis: []
+x-common:
+- type: x-forum
+  url: http://forum.nasm.us/
+- type: x-website
+  url: https://www.asmcommunity.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

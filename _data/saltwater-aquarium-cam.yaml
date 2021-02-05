@@ -1,0 +1,22 @@
+---
+name: Saltwater Aquarium Cam
+description: A live camera filming a saltwater aquarium.  The original FishCam!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1526532"
+url: https://raw.githubusercontent.com/api-network/organizations/main/saltwater-aquarium-cam.yaml
+tags:
+- Fish And Aquaria
+apis: []
+x-common:
+- type: x-website
+  url: https://www.fishcam.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

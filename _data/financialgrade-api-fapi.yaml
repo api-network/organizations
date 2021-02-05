@@ -1,0 +1,38 @@
+---
+name: Financial-grade API (FAPI)
+description: <p>In many cases, Fintech services such as aggregation services use screen
+  scraping and stores user passwords. This model is both brittle and insecure. To
+  cope with the brittleness, it should utilize an API model with structured data and
+  to cope with insecurity, it should utilize a token model such as OAuth [RFC6749,
+  RFC6750]. This working group aims to rectify the situation by developing a REST/JSON
+  model protected by OAuth. Specifically, the FAPI WG aims to provide JSON data schemas,
+  security and privacy recommendations and protocols to enable applications to utilize
+  the data stored in the financial account, enable applications to interact with the
+  financial account, and enable users to control security and privacy settings. Both
+  commercial and investment banking account as well as insurance, and credit card
+  accounts are to be considered.</p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: ""
+url: https://raw.githubusercontent.com/api-network/organizations/main/financialgrade-api-fapi.yaml
+tags:
+- Security
+- Sectors
+- Insurance
+- Financial
+- Authentication
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-website
+  url: https://openid.net/wg/fapi/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,26 @@
+---
+name: London Prayer Times
+description: ""
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/london-prayer-times-api.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5701204"
+url: https://raw.githubusercontent.com/api-network/organizations/main/london-prayer-times.yaml
+tags:
+- Religion
+- Profile
+- Prayer
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.londonprayertimes.com/api/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

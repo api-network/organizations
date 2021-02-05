@@ -1,0 +1,24 @@
+---
+name: Avalon
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1867"
+url: https://raw.githubusercontent.com/api-network/organizations/main/avalon.yaml
+tags:
+- Libraries And Frameworks
+apis: []
+x-common:
+- type: x-code
+  url: http://loom.codehaus.org
+- type: x-website
+  url: https://avalon.apache.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

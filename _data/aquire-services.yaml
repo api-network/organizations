@@ -1,0 +1,35 @@
+---
+name: Aquire Services
+description: We are into Responsive Web Development and eBook Conversion Services
+  (PDF to ePub and other formats) since 2009. We assure you the best quality of services.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/aquire-services.yaml
+tags:
+- Companies
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.aquireservices.com/contact-us-2/
+- type: x-facebook
+  url: http://www.facebook.com/aquireservices
+- type: x-linkedin
+  url: https://www.linkedin.com/company/aquire-services
+- type: x-press
+  url: http://wordpress.org/
+- type: x-twitter
+  url: https://twitter.com/aquireservices
+- type: x-website
+  url: https://www.aquireservices.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=xCIqIleis2I
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

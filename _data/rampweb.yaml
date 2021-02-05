@@ -1,0 +1,24 @@
+---
+name: RampWEB
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10129324"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rampweb.yaml
+tags:
+- Companies And Consultants
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.rampweb.com
+- type: x-website
+  url: https://www.rampweb.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

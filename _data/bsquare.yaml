@@ -1,0 +1,36 @@
+---
+name: BSQUARE
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1091552"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bsquare.yaml
+tags:
+- Drivers
+apis: []
+x-common:
+- type: x-about
+  url: https://www.bsquare.com/about-us/
+- type: x-careers
+  url: https://www.bsquare.com/careers/
+- type: x-customers
+  url: https://www.bsquare.com/customers/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/bsquare/
+- type: x-privacy
+  url: https://www.bsquare.com/privacy-statement/
+- type: x-support
+  url: https://www.bsquare.com/support/
+- type: x-twitter
+  url: https://twitter.com/bsquarecorp?lang=en
+- type: x-website
+  url: https://www.bsquare.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

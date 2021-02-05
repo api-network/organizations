@@ -1,0 +1,45 @@
+---
+name: Converge
+description: <p>Converge is Elavon's omni-channel payments processing solution for
+  eCommerce, card present, and card not present payments. This guide will help you
+  integrate with Converge using one of its integration options, pick which processing
+  options are right for enhancing the convenience and security of your payments, and
+  understand the Converge API.</p>
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "89248"
+url: https://raw.githubusercontent.com/api-network/organizations/main/converge.yaml
+tags:
+- Profile
+- Payments
+- No API Definition
+- Has API
+- E-commerce
+- API
+apis: []
+x-common:
+- type: x-developers
+  url: https://developer.elavon.com/#/api/eb6e9106-0172-4305-bc5a-b3ebe832f823.rcosoomi/versions/5180a9f2-741b-439c-bced-5c84a822f39b.rcosoomi/details
+- type: x-documentation
+  url: https://www.myvirtualmerchant.com/VirtualMerchant/
+- type: x-getting-started
+  url: https://elavonconverge.blob.core.windows.net/con/gettingstartedGuide.pdf
+- type: x-github
+  url: https://github.com/asteris-llc/converge
+- type: x-privacy
+  url: https://www.myvirtualmerchant.com/VirtualMerchant/showcontent.do
+- type: x-support
+  url: https://support.convergepay.com/s/
+- type: x-terms-of-service
+  url: https://www.myvirtualmerchant.com/VirtualMerchant/showcontent.do
+- type: x-website
+  url: http://www.myvirtualmerchant.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

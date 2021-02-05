@@ -1,0 +1,54 @@
+---
+name: FreeForums.org
+description: Tapatalk the world's leading mobile platform for building great communities
+  online
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "775495"
+url: https://raw.githubusercontent.com/api-network/organizations/main/freeforums-org.yaml
+tags:
+- Xenforo
+- WordPress
+- Woltlab
+- Windows Phone
+- VBulletin
+- Tapatalk
+- Simple Machines
+- RSS
+- Proboards
+- Plugin
+- Plug-in
+- Platform
+- PhpBB
+- MyBB
+- Kunena
+- IPod Touch
+- IPhone
+- Ipboard
+- IPad
+- Forums.net
+- Forums
+- Forum Owner
+- Forum
+- Client
+- Bbpress
+- Android
+apis: []
+x-common:
+- type: x-privacy
+  url: https://www.tapatalk.com/privacy_shield
+- type: x-security
+  url: https://www.tapatalk.com/security.php
+- type: x-support
+  url: https://www.tapatalk.com/groups/tapatalksupport
+- type: x-website
+  url: https://www.freeforums.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

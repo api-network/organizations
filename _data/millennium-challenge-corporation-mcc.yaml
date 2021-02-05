@@ -1,0 +1,54 @@
+---
+name: Millennium Challenge Corporation (MCC)
+description: <p><span>The Millennium Challenge Corporation is a bilateral United States
+  foreign aid agency established by the U.S. Congress in 2004, applying a new philosophy
+  toward foreign aid. It is an independent agency separate from the State Department
+  and USAID.</span></p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/millennium-challenge-corporation-mcc.yaml
+tags:
+- Twitter
+- Taxes
+- Startups
+- Opendata
+- Open Data
+- Open
+- Nonprofits
+- Innovation
+- Innovategov
+- Growth
+- Financial
+- Federal Government
+- Entrepreneurship
+- Energy
+- Development
+- Contests
+- Applications
+- Aid
+apis: []
+x-common:
+- type: x-website
+  url: http://www.mcc.gov
+- type: x-data
+  url: https://data.mcc.gov/
+- type: x-facebook
+  url: http://facebook.com/MillenniumChallengeCorp
+- type: x-github
+  url: http://github.com/mcc-gov
+- type: x-twitter
+  url: https://twitter.com/MCCgov
+- type: x-twitter
+  url: http://twitter.com/ProjectOpenData
+- type: x-youtube
+  url: http://youtube.com/millenniumchallenge
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

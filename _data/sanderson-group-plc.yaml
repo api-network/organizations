@@ -1,0 +1,37 @@
+---
+name: Sanderson Group PLC
+description: "We\u2019ve over 25 years\u2019 experience & a proven track record in
+  manufacturing ERP, multi-channel retail and supply chain logistics software solutions."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3931942"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sanderson-group-plc.yaml
+tags:
+- Products And Services
+apis: []
+x-common:
+- type: x-website
+  url: http://www.sanderson.com
+- type: x-about
+  url: https://www.sanderson.com/about-us
+- type: x-contact
+  url: https://www.sanderson.com/contact-us
+- type: x-facebook
+  url: https://www.facebook.com/SandersonUK
+- type: x-linkedin
+  url: https://www.linkedin.com/company/sanderson
+- type: x-news
+  url: https://www.sanderson.com/about-us/news
+- type: x-twitter
+  url: https://twitter.com/SandersonIT
+- type: x-website
+  url: https://www.sanderson.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

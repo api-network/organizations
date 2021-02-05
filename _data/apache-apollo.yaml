@@ -1,0 +1,41 @@
+---
+name: Apache Apollo
+description: <p>ActiveMQ Apollo is a faster, more reliable, easier to maintain messaging
+  broker built from the foundations of the original ActiveMQ. It accomplishes this
+  using a radically different threading and message dispatching architecture. Like
+  ActiveMQ, Apollo is a multi-protocol broker and supports STOMP, AMQP, MQTT, Openwire,
+  SSL, and WebSockets.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/apache-apollo-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1791"
+url: https://raw.githubusercontent.com/api-network/organizations/main/apache-apollo.yaml
+tags:
+- Profile
+- Messages
+- Java Message Service
+- API Tools
+- API Not Found
+- Apache
+apis: []
+x-common:
+- type: x-blog
+  url: http://activemq.apache.org/apollo/blog/index.html
+- type: x-blog-rss
+  url: http://activemq.apache.org/apollo/blog/index.rss
+- type: x-events
+  url: https://www.apache.org/events/current-event
+- type: x-github
+  url: https://github.com/apache/activemq-apollo
+- type: x-website
+  url: https://activemq.apache.org
+- type: x-website
+  url: http://activemq.apache.org/apollo/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,30 @@
+---
+name: Linux Survival
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1732169"
+url: https://raw.githubusercontent.com/api-network/organizations/main/linux-survival.yaml
+tags:
+- Online Training
+apis: []
+x-common:
+- type: x-blog
+  url: https://linuxsurvival.com/blog/
+- type: x-careers
+  url: https://linuxsurvival.com/cancelling-linux-print-jobs/
+- type: x-contact
+  url: https://linuxsurvival.com/contact/
+- type: x-status
+  url: https://linuxsurvival.com/linux-process-status-part-1/
+- type: x-website
+  url: https://linuxsurvival.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

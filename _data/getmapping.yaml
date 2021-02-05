@@ -1,0 +1,61 @@
+---
+name: Getmapping
+description: Getmapping is a leading provider of aerial photography, LiDAR and mobile
+  mapping surveys across Europe and Africa.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/411-getmapping.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2200718"
+url: https://raw.githubusercontent.com/api-network/organizations/main/getmapping.yaml
+tags:
+- Photos
+- Have API
+- API Not Found
+apis: []
+x-common:
+- type: x-website
+  url: http://www.getmapping.com
+- type: x-about
+  url: https://www.getmapping.com/about-getmapping
+- type: x-blog-rss
+  url: http://www2.getmapping.com/RSS
+- type: x-case-studies
+  url: https://www.getmapping.com/case-studies
+- type: x-contact
+  url: http://www.getmapping.com/contact-us
+- type: x-contact
+  url: https://www.getmapping.com/contact-us
+- type: x-email
+  url: sales@getmapping.com
+- type: x-email
+  url: custservices@getmapping.com
+- type: x-email
+  url: careers@getmapping.com
+- type: x-feed
+  url: https://www.getmapping.com/feedback-form
+- type: x-investor
+  url: http://www.getmapping.com/investor-information
+- type: x-linkedin
+  url: https://www.linkedin.com/company/getmapping
+- type: x-news
+  url: https://www.getmapping.com/news
+- type: x-partner
+  url: http://www.getmapping.com/about-getmapping/partners
+- type: x-privacy
+  url: https://www.getmapping.com/privacy-cookie-policy
+- type: x-support
+  url: https://www.getmapping.com/support
+- type: x-twitter
+  url: https://twitter.com/Getmappingplc
+- type: x-website
+  url: http://www2.getmapping.com/Default.aspx
+- type: x-youtube
+  url: https://www.youtube.com/user/Getmapping09
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

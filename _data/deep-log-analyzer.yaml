@@ -1,0 +1,43 @@
+---
+name: Deep Log Analyzer
+description: Deep Log Analyzer is professional website statistics and web analytics
+  software for analyzing IIS, Apache, Nginx and other web server logs. Reports on
+  visitors, search engines, spiders and more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4791932"
+url: https://raw.githubusercontent.com/api-network/organizations/main/deep-log-analyzer.yaml
+tags:
+- Website Statistics
+- Web Statistics Software
+- Web Log Analyzer
+- Web Analytics
+- Log Analyzer
+- Iis Log Analyzer
+- Commercial
+- Apache Log Analyzer
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.deep-software.com/contact-us/
+- type: x-news
+  url: https://www.deep-software.com/news/
+- type: x-news
+  url: https://www.deep-software.com/news/website-redesign/
+- type: x-privacy
+  url: https://www.deep-software.com/privacy-policy/
+- type: x-support
+  url: https://www.deep-software.com/help/
+- type: x-support
+  url: http://support.deep-software.com/index.php?/deepsoft
+- type: x-website
+  url: https://www.deep-software.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

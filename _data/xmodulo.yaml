@@ -1,0 +1,52 @@
+---
+name: Xmodulo
+description: Linux FAQs, tips and tutorials
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "161668"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xmodulo.yaml
+tags:
+- Weblogs
+apis: []
+x-common:
+- type: x-about
+  url: http://xmodulo.com/about
+- type: x-code
+  url: http://xmodulo.com/embed-python-code-in-c.html
+- type: x-code
+  url: http://xmodulo.com/embed-python-code-in-c.html#respond
+- type: x-code
+  url: http://list.xmodulo.com/codelite.html
+- type: x-contact
+  url: http://xmodulo.com/contact
+- type: x-facebook
+  url: https://www.facebook.com/xmodulo
+- type: x-feed
+  url: http://xmodulo.com/feed
+- type: x-feed
+  url: http://ask.xmodulo.com/feed
+- type: x-feed
+  url: http://list.xmodulo.com/feed
+- type: x-linkedin
+  url: http://www.linkedin.com/in/xmodulo
+- type: x-open-source
+  url: http://xmodulo.com/category/openvswitch
+- type: x-open-source
+  url: http://xmodulo.com/category/openstack
+- type: x-open-source
+  url: http://xmodulo.com/category/openwrt
+- type: x-security
+  url: http://xmodulo.com/category/security
+- type: x-twitter
+  url: https://twitter.com/xmodulo
+- type: x-website
+  url: https://xmodulo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,72 @@
+---
+name: tenouk
+description: These tutorials cover a wide range of C and C++ programming for both
+  opensource and commercial. The topics include C and C++ basic to advanced programming,
+  C and C++ secure coding, Windows forms, MFC GUI, Linux and Windows network programming
+  and C++ object oriented. Complete with working code and program examples, detailed
+  step-by-steps with screenshots
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "324055"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tenouk.yaml
+tags:
+- Win32
+- Software
+- Programming Tutorials
+- PHD On Counseling Education
+- Online Colleges
+- Online Classes
+- Object Oriented
+- MFC
+- Health Software
+- GUI
+- Examples
+- ERP
+- Email Bulk Service
+- Data Recovery Services
+- Daq
+- CRM
+- Courses
+- Computer Security
+- Computer Programming
+- Computer Networking Hardware
+- Compilers
+- Code Samples
+- C++
+- C Language
+- Big Data
+apis: []
+x-common:
+- type: x-about
+  url: https://www.tenouk.com/abouttenouk.html
+- type: x-code
+  url: https://tenouk.com/cpluscodesnippet/
+- type: x-code
+  url: https://www.tenouk.com/searchcpluscode.html
+- type: x-code
+  url: https://www.javaguicodexample.com/
+- type: x-code
+  url: https://www.tenouk.com/cpluscodesnippet/
+- type: x-documentation
+  url: https://www.tenouk.com/cplusdocumentation.html
+- type: x-privacy
+  url: https://www.tenouk.com/privacy.html
+- type: x-tutorials
+  url: https://www.tenouk.com/cncplusplustutorials.html
+- type: x-tutorials
+  url: https://www.tenouk.com/cnwin32tutorials.html
+- type: x-tutorials
+  url: https://www.tenouk.com/cnwinsock2tutorials.html
+- type: x-tutorials
+  url: https://www.tenouk.com/cnlinuxsockettutorials.html
+- type: x-website
+  url: https://www.tenouk.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

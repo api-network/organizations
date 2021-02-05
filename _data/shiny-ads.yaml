@@ -1,0 +1,36 @@
+---
+name: Shiny Ads
+description: <p>Shiny Ads, the innovator in self-service advertising platforms, helps
+  the medium-large web publisher generate more revenue without additional costs by
+  enabling the selling of display and text ads to smaller advertisers directly on
+  a publisher???????s web sites. Launched in January 2010, Shiny Ads??????? customers
+  include top-1000 sites with local news and special interest/niche topics. </p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/653_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/shiny-ads.yaml
+tags:
+- No API
+apis: []
+x-common:
+- type: x-website
+  url: http://ShinyAds.com
+- type: x-blog
+  url: http://shinyads.com/blog/
+- type: x-blog-rss
+  url: http://blog.shinyads.com/feed/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/shiny-ads
+- type: x-github
+  url: https://github.com/ShinyAds
+- type: x-twitter
+  url: https://twitter.com/shinyads
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

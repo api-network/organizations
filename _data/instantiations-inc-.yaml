@@ -1,0 +1,46 @@
+---
+name: Instantiations, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3149222"
+url: https://raw.githubusercontent.com/api-network/organizations/main/instantiations-inc-.yaml
+tags:
+- Smalltalk
+apis: []
+x-common:
+- type: x-website
+  url: http://www.instantiations.com
+- type: x-contact
+  url: https://www.instantiations.com/company/contact-us.html
+- type: x-documentation
+  url: https://www.instantiations.com/docs/FAQ
+- type: x-forum
+  url: https://groups.google.com/forum/#!forum/va-smalltalk
+- type: x-github
+  url: https://github.com/vasmalltalk
+- type: x-github
+  url: https://esug.github.io/2019-Conference/conf2019.html
+- type: x-linkedin
+  url: https://www.linkedin.com/company/instantiations
+- type: x-partner
+  url: https://www.instantiations.com/company/partners.html
+- type: x-privacy
+  url: https://www.instantiations.com/company/privacy.html
+- type: x-support
+  url: https://www.instantiations.com/support/index.html
+- type: x-support
+  url: https://www.instantiations.com/support/redirectmi.html
+- type: x-twitter
+  url: https://twitter.com/instantiations
+- type: x-website
+  url: https://www.instantiations.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

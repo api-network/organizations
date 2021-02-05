@@ -1,0 +1,42 @@
+---
+name: Cimbura.com Consulting
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cimbura-com-consulting.yaml
+tags:
+- Consultants And Developers
+apis: []
+x-common:
+- type: x-about
+  url: https://luminfire.com/about-us/
+- type: x-about
+  url: https://luminfire.com/about-us/why-choose-us/
+- type: x-about
+  url: https://luminfire.com/about-us/recommendations/
+- type: x-about
+  url: https://luminfire.com/about-us/history/
+- type: x-blog
+  url: https://luminfire.com/blog/
+- type: x-contact
+  url: https://luminfire.com/contact-us/
+- type: x-contact
+  url: https://luminfire.com/contact-us/project-request-form/
+- type: x-contact
+  url: https://luminfire.com/contact-us/career-opportunities/
+- type: x-press
+  url: https://luminfire.com/category/press/
+- type: x-support
+  url: https://luminfire.com/support/support-request/
+- type: x-website
+  url: https://www.cimbura.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

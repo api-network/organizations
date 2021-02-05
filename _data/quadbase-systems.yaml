@@ -1,0 +1,40 @@
+---
+name: Quadbase Systems
+description: Home - Quadbase Systems provides Java based enterprise reporting, BI
+  dashboard, data visualization and data analytic solutions for easy web based deployment.  Its
+  leading edge dashboard software allow users to visualize companies performance and
+  visualize and an
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3570103"
+url: https://raw.githubusercontent.com/api-network/organizations/main/quadbase-systems.yaml
+tags:
+- Visual Analytics
+- Reporting Software
+- KPI Dashboards
+- Java Reporting
+- Java Charting
+- Data Visualization
+- Dashboard Software
+- Charts
+- Business Performance Management
+- Business Intelligence
+- Alert Notification
+- Ad Hoc Reporting
+apis: []
+x-common:
+- type: x-login
+  url: https://cloud.quadbase.com/login.jsp?ca=1
+- type: x-login
+  url: https://cloud.quadbase.com/login.jsp
+- type: x-website
+  url: https://www.quadbase.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

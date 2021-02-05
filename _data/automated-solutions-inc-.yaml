@@ -1,0 +1,42 @@
+---
+name: Automated Solutions, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8275019"
+url: https://raw.githubusercontent.com/api-network/organizations/main/automated-solutions-inc-.yaml
+tags:
+- Products And Tools
+apis: []
+x-common:
+- type: x-website
+  url: http://www.asi-test.com
+- type: x-blog
+  url: http://networkedblogs.com/blog/AutomatedSolutions/
+- type: x-blog
+  url: http://networkedblogs.com/topic/Leadership
+- type: x-blog
+  url: http://networkedblogs.com/topic/Test+Automation
+- type: x-blog
+  url: http://networkedblogs.com/topic/Training
+- type: x-code
+  url: http://www.asi-test.com/ASI/tag/code/
+- type: x-contact
+  url: http://www.asi-test.com/ASI/contact/
+- type: x-feed
+  url: http://www.asi-test.com/ASI/feed/
+- type: x-linkedin
+  url: http://www.linkedin.com/in/shawnloporto/
+- type: x-twitter
+  url: https://twitter.com/ASITesting
+- type: x-website
+  url: https://www.asi-test.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

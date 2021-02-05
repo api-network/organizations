@@ -1,0 +1,120 @@
+---
+name: Feedbin
+description: A fast, simple RSS feed reader that delivers a great reading experience.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/feedbin.yaml
+tags:
+- Web Based
+apis: []
+x-common:
+- type: x-feed
+  url: https://apps.apple.com/us/app/feedbin/id1444961766
+- type: x-feed
+  url: https://github.com/feedbin/feedbin-api
+- type: x-feed
+  url: https://github.com/feedbin
+- type: x-twitter
+  url: https://twitter.com/mdbraber/status/800735935898021888
+- type: x-twitter
+  url: https://twitter.com/cmercier/status/670077508130381825
+- type: x-twitter
+  url: https://twitter.com/mp3sii/status/695288754433581056
+- type: x-twitter
+  url: https://twitter.com/ElliotJH/status/714960427319496710
+- type: x-twitter
+  url: https://twitter.com/elmnt/status/612033737312727040
+- type: x-twitter
+  url: https://twitter.com/blake770/status/863118221020450816
+- type: x-twitter
+  url: https://twitter.com/Florian_/status/657478004403216384
+- type: x-twitter
+  url: https://twitter.com/ilyasu/status/700118843968991232
+- type: x-twitter
+  url: https://twitter.com/mdbraber/status/797555120590483456
+- type: x-twitter
+  url: https://twitter.com/RianVDM/status/649357874372608000
+- type: x-twitter
+  url: https://twitter.com/rjbs/status/751471517351944192
+- type: x-twitter
+  url: https://twitter.com/ryon55/status/1111294128367828992
+- type: x-twitter
+  url: https://twitter.com/techora/status/563735006594351105
+- type: x-twitter
+  url: https://twitter.com/kaishin/status/619546402385993728
+- type: x-twitter
+  url: https://twitter.com/nkantar/status/1002020230925725696
+- type: x-twitter
+  url: https://twitter.com/amsoell/status/616843602803605508
+- type: x-twitter
+  url: https://twitter.com/dotHTM/status/657642182728224768
+- type: x-twitter
+  url: https://twitter.com/vslavik/status/695006360589713408
+- type: x-twitter
+  url: https://twitter.com/zarino/status/665651310134493186
+- type: x-twitter
+  url: https://twitter.com/kfogel/status/1046111166420914187
+- type: x-twitter
+  url: https://twitter.com/rem/status/1139797075628048385
+- type: x-twitter
+  url: https://twitter.com/eliah/status/833393902166089728
+- type: x-twitter
+  url: https://twitter.com/brigleb/status/552675329136144384
+- type: x-twitter
+  url: https://twitter.com/preshit/status/1038019548232876032
+- type: x-twitter
+  url: https://twitter.com/mhauken/status/1062424902836383744
+- type: x-twitter
+  url: https://twitter.com/anommal/status/576341179253592064
+- type: x-twitter
+  url: https://twitter.com/dahanbn/status/844575902751232000
+- type: x-twitter
+  url: https://twitter.com/hisaac/status/750740500487954432
+- type: x-twitter
+  url: https://twitter.com/oic/status/562700481051787265
+- type: x-twitter
+  url: https://twitter.com/troyd/status/848587862576513024
+- type: x-twitter
+  url: https://twitter.com/rjbs/status/750724639006068736
+- type: x-twitter
+  url: https://twitter.com/rauschma/status/793576223167356928
+- type: x-twitter
+  url: https://twitter.com/agius/status/759064731600625664
+- type: x-twitter
+  url: https://twitter.com/brigleb/status/738396650788388869
+- type: x-twitter
+  url: https://twitter.com/Mihnea/status/576029607750709249
+- type: x-twitter
+  url: https://twitter.com/nrollr/status/616857658566516736
+- type: x-twitter
+  url: https://twitter.com/RianVDM/status/576198089767145472
+- type: x-twitter
+  url: https://twitter.com/lexfri/status/552570387239043072
+- type: x-twitter
+  url: https://twitter.com/endlife/status/620171902313631748
+- type: x-twitter
+  url: https://twitter.com/trhall/status/670634037745164288
+- type: x-twitter
+  url: https://twitter.com/Jowanza/status/929186620758093824
+- type: x-twitter
+  url: https://twitter.com/rauschma/status/956982715781406720
+- type: x-twitter
+  url: https://twitter.com/ftfpod/status/938985442636021760
+- type: x-twitter
+  url: https://twitter.com/zsbenke/status/981251190410313729
+- type: x-twitter
+  url: https://twitter.com/troyd/status/952188280539201537
+- type: x-twitter
+  url: https://twitter.com/metavida/status/900049490614247424
+- type: x-website
+  url: https://feedbin.me
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,34 @@
+---
+name: Responsive Web Design Test
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "446720"
+url: https://raw.githubusercontent.com/api-network/organizations/main/responsive-web-design-test.yaml
+tags:
+- Responsive Design
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.plesk.com/blog
+- type: x-developer
+  url: http://developer.isresponsive.com
+- type: x-facebook
+  url: https://www.facebook.com/Plesk
+- type: x-linkedin
+  url: https://www.linkedin.com/company/plesk
+- type: x-support
+  url: https://support.plesk.com
+- type: x-twitter
+  url: https://twitter.com/Plesk
+- type: x-website
+  url: https://www.isresponsive.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

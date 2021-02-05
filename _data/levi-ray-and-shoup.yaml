@@ -1,0 +1,35 @@
+---
+name: Levi, Ray and Shoup
+description: Levi, Ray, and Shoup, Inc. (LRS) is a global provider of technology solutions,
+  providing IT consulting, IT solutions with locations around the world.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "357522"
+url: https://raw.githubusercontent.com/api-network/organizations/main/levi-ray-and-shoup.yaml
+tags:
+- Software
+- Ray & Shoup
+- Levi
+apis: []
+x-common:
+- type: x-careers
+  url: http://jobs.lrs.com/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/lrs
+- type: x-security
+  url: http://www.centralillinoissecurity.com/
+- type: x-support
+  url: http://www.lrsnetworksupport.com/
+- type: x-website
+  url: https://www.lrs.com
+- type: x-youtube
+  url: http://www.youtube.com/user/LeviRayShoup
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

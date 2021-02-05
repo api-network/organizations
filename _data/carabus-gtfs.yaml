@@ -1,0 +1,23 @@
+---
+name: Carabus GTFS
+description: Transit authority located in 17200 Royan, France<br />
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/carabus-gtfs.yaml
+tags: []
+apis: []
+x-common:
+- type: x-gtfs-feed
+  url: https://data.agglo-royan.fr/dataset/9b761974-a195-4e33-91b7-ecee3b368016/resource/144c2734-9d66-4177-904d-a67768f5ee1d/download/carabus-royan-fr20170326.zip
+- type: x-website
+  url: https://data.agglo-royan.fr/dataset/donnees-gtfs-du-reseau-de-transport-public-cara-bus
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

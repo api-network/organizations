@@ -1,0 +1,77 @@
+---
+name: Newsman
+description: Email marketing through Newsman takes care of your emailing needs and
+  helps to create, send, track and seamlessly analyze email campaigns. Try it now!
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1895-newsman.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/newsman.yaml
+tags:
+- Have API
+- Campaigns
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: https://newsman.app/
+- type: x-contact
+  url: https://www.newsman.app/contact
+- type: x-contact
+  url: https://www.newsmanapp.com/contact
+- type: x-contact
+  url: http://www.newsmanapp.com/contact
+- type: x-facebook
+  url: https://www.facebook.com/NewsmanApp
+- type: x-news
+  url: https://kb.newsman.app
+- type: x-news
+  url: https://kb.newsman.app/api/
+- type: x-news
+  url: https://www.newsman.app
+- type: x-news
+  url: https://www.newsmanapp.com
+- type: x-news
+  url: https://kb.newsman.app/
+- type: x-news
+  url: https://kb.newsman.app/category/newsman-how-to-videos/
+- type: x-news
+  url: https://github.com/Newsman/newsman-api-php
+- type: x-news
+  url: https://github.com/Newsman/newsman-api-python
+- type: x-news
+  url: https://blog.newsman.app/
+- type: x-news
+  url: https://www.newsman.app/aboutus
+- type: x-news
+  url: https://www.newsman.app/features
+- type: x-news
+  url: https://status.newsmanapp.com/
+- type: x-news
+  url: https://www.newsman.app/terms
+- type: x-news
+  url: https://www.newsman.app/antispam
+- type: x-news
+  url: https://www.newsman.app/cookies
+- type: x-news
+  url: https://kb.newsman.ro
+- type: x-news
+  url: https://kb.newsman.fr
+- type: x-news
+  url: https://www.linkedin.com/company/newsman-app
+- type: x-news
+  url: https://blog.newsmanapp.com/
+- type: x-news
+  url: http://www.newsmanapp.com/page/cookies
+- type: x-twitter
+  url: https://twitter.com/NewsmanApp
+- type: x-website
+  url: http://kb.newsmanapp.com/api/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

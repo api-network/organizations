@@ -1,0 +1,46 @@
+---
+name: InstantGMP
+description: Affordable All-in-One Manufacturing & Quality Software
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1446728"
+url: https://raw.githubusercontent.com/api-network/organizations/main/instantgmp.yaml
+tags:
+- Automation
+apis: []
+x-common:
+- type: x-website
+  url: https://www.instantgmp.com/solutions/mes
+- type: x-blog
+  url: https://www.instantgmp.com/category/blog/
+- type: x-code
+  url: https://www.instantgmp.com/feat/barcode/
+- type: x-contact
+  url: https://www.instantgmp.com/contact-us/about-us/
+- type: x-contact
+  url: https://www.instantgmp.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/Instantgmp/
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/8142761
+- type: x-press
+  url: https://www.instantgmp.com/category/press-release/
+- type: x-support
+  url: https://www.instantgmp.com/support/
+- type: x-support
+  url: https://www.instantgmp.com/support/software-training/
+- type: x-support
+  url: https://www.instantgmp.com/support/quickbooks-setup/
+- type: x-twitter
+  url: https://twitter.com/instantgmp_mes
+- type: x-website
+  url: https://www.instantgmp.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

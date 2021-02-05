@@ -1,0 +1,52 @@
+---
+name: Formula Telecom Solutions
+description: FTS Software provides Convergent Billing Systems, Charging, CRM Systems
+  and Policy Control Solutions. We're focused on having greater flexibility and provide
+  greater independence for communications and other service providers.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2249593"
+url: https://raw.githubusercontent.com/api-network/organizations/main/formula-telecom-solutions.yaml
+tags:
+- Billing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.fts-soft.com
+- type: x-about
+  url: https://www.fts-soft.com/company/about-fts/
+- type: x-careers
+  url: https://www.fts-soft.com/company/careers/
+- type: x-contact
+  url: https://www.fts-soft.com/contact-us/
+- type: x-linkedin
+  url: https://www.linkedin.com/company-beta/9009/
+- type: x-news
+  url: https://www.fts-soft.com/news-media/articles/
+- type: x-news
+  url: https://www.fts-soft.com/news-media/events/
+- type: x-partner
+  url: https://www.fts-soft.com/solutions/partner-management/
+- type: x-partner
+  url: https://www.fts-soft.com/company/partners-alliances/
+- type: x-press
+  url: https://www.fts-soft.com/solutions/fts-express/
+- type: x-press
+  url: https://www.fts-soft.com/news-media/press-release/
+- type: x-terms-of-service
+  url: https://www.fts-soft.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/FTS_Billing
+- type: x-website
+  url: https://www.fts-soft.com
+- type: x-youtube
+  url: https://www.youtube.com/user/ftsbilling
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

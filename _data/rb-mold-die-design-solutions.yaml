@@ -1,0 +1,40 @@
+---
+name: R&B Mold & Die Design Solutions
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2501487"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rb-mold-die-design-solutions.yaml
+tags:
+- Computer Aided Manufacturing
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.rnbusa.com/company/contact-us/
+- type: x-feed
+  url: https://www.rnbusa.com/company/feedback/
+- type: x-login
+  url: https://www.rnbusa.com/support/customer-support-login/
+- type: x-login
+  url: https://www.rnbusa.com/support/reseller-support-login/
+- type: x-news
+  url: https://www.rnbusa.com/newsevents/
+- type: x-partner
+  url: https://www.rnbusa.com/partners/
+- type: x-support
+  url: https://www.rnbusa.com/support/
+- type: x-support
+  url: https://www.rnbusa.com/support/evaluation-request/
+- type: x-support
+  url: https://www.rnbusa.com/support/info-request/
+- type: x-website
+  url: https://www.rnbusa.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

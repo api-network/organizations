@@ -1,0 +1,35 @@
+---
+name: Inferno Project
+description: The Inferno Project aims to research realtime ray tracing on programmable
+  graphics cards (GPUs).
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/inferno-project.yaml
+tags:
+- Rendering
+- Realtime Ray Tracing
+- Ray Tracing
+- Programmable Graphics Hardware
+- Inferno Project
+- GPU
+- Engine
+- Demoscene
+- Algorithms And Data Structures
+apis: []
+x-common:
+- type: x-open-source
+  url: http://www.opengl.org/
+- type: x-open-source
+  url: http://www.sgi.com/software/opengl/
+- type: x-website
+  url: https://inferno.hildebrand.cz
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

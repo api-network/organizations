@@ -1,0 +1,67 @@
+---
+name: equivant
+description: equivant delivers Court Case Management Software Solutions and Inmate
+  Decision Support so courts, attorneys and supervision officials can advance justice.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/northpointe-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2700899"
+url: https://raw.githubusercontent.com/api-network/organizations/main/equivant.yaml
+tags:
+- Have API
+- Courts
+- API Not Found
+apis: []
+x-common:
+- type: x-website
+  url: http://equivant.com
+- type: x-about
+  url: https://www.equivant.com/about-us/
+- type: x-about
+  url: http://equivant.com/about-us/
+- type: x-blog
+  url: https://www.equivant.com/blog/
+- type: x-blog
+  url: http://blog.northpointeinc.com/
+- type: x-blog-rss
+  url: http://blog.northpointeinc.com/feed/
+- type: x-careers
+  url: http://equivant.com/careers/
+- type: x-contact
+  url: https://www.equivant.com/contact-us/
+- type: x-contact
+  url: http://equivant.com/contact-us/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/equivalent-data
+- type: x-email
+  url: support@equivant.com
+- type: x-email
+  url: info@equivant.com
+- type: x-email
+  url: privacy@equivant.com
+- type: x-events
+  url: http://equivant.wpengine.com/training-events/
+- type: x-facebook
+  url: https://www.facebook.com/equivant
+- type: x-linkedin
+  url: https://www.linkedin.com/company/equivant/
+- type: x-showcase
+  url: https://www.equivant.com/showcase/
+- type: x-showcase
+  url: http://equivant.com/showcase/
+- type: x-support
+  url: https://www.equivant.com/who-we-support/
+- type: x-support
+  url: http://equivant.com/who-we-support/
+- type: x-twitter
+  url: https://twitter.com/equivantnews
+- type: x-website
+  url: http://www.equivant.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

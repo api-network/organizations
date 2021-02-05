@@ -1,0 +1,23 @@
+---
+name: theodo.fr
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/theodo-fr.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.theodo.fr/blog/2016/08/share-and-document-your-api-with-postman-cloud/
+- type: x-website
+  url: http://theodo.fr
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

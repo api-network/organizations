@@ -1,0 +1,24 @@
+---
+name: Swarm Development Group
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4691554"
+url: https://raw.githubusercontent.com/api-network/organizations/main/swarm-development-group.yaml
+tags:
+- Agents
+apis: []
+x-common:
+- type: x-open-source
+  url: http://www.openabm.org/
+- type: x-website
+  url: https://www.swarm.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

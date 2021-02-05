@@ -1,0 +1,25 @@
+---
+name: Salem-Keizer Transit (Cherriots and CARTS)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/salemkeizer-transit-cherriots-and-carts.yaml
+tags: []
+apis: []
+x-common:
+- type: x-gtfs-feed
+  url: http://www.cherriots.org/developer/gtfs.zip
+- type: x-licensing
+  url: http://cherriots.org/en/mobile-apps/data
+- type: x-website
+  url: http://cherriots.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

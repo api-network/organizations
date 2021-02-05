@@ -1,0 +1,38 @@
+---
+name: Cubewise
+description: <p>Since 2004 Cubewise has specialised in building highly effective TM1
+  systems across Australia, Europe, North America and Asia. We have delivered well
+  in excess of 500 successful projects to over 300 active customers, both large enterprise
+  and mid-market. At the core of the Cubewise ethos is TM1, with over 70 passionate
+  consultants focused on delivering great systems; we believe we are the leading TM1
+  partner in the world. We aren't just about creating great systems but also improving
+  the TM1 ecosystem through add-on software that greatly improves the management and
+  governance of TM1. We don't just provide "consulting-ware" but have a dedicated
+  Software Division whose sole purpose is to create software for people developing
+  and managing TM1.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28864-code-cubewise-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "2"
+x-alexaRank: "1228511"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cubewise.yaml
+tags: []
+apis: []
+x-common:
+- type: x-postman-collection
+  url: https://code.cubewise.com/s/The-TM1-REST-API-Collection-for-Postman-5fyp.zip
+- type: x-website
+  url: http://www.cubewise.com
+- type: x-email
+  url: info@cubewise.com
+- type: x-twitter
+  url: https://twitter.com/cubewise
+- type: x-website
+  url: https://code.cubewise.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

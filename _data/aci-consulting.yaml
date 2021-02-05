@@ -1,0 +1,42 @@
+---
+name: ACI Consulting
+description: We strive to improve the businesses of our clients by continuing to exceed
+  expectations through the delivery of innovative and technologically superior solutions.
+  Find out more about ACI Consulting.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5686554"
+url: https://raw.githubusercontent.com/api-network/organizations/main/aci-consulting.yaml
+tags:
+- Small Business
+apis: []
+x-common:
+- type: x-website
+  url: http://www.aciconsulting.com
+- type: x-about
+  url: https://aciconsulting.com/about/
+- type: x-blog
+  url: https://aciconsulting.com/blog/
+- type: x-contact
+  url: https://aciconsulting.com/contact/
+- type: x-events
+  url: https://aciconsulting.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/ACIConsultingCorp/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/aci-consulting/
+- type: x-support
+  url: https://aciconsulting.com/support/
+- type: x-twitter
+  url: https://twitter.com/ACIConsulting
+- type: x-website
+  url: https://www.aciconsulting.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

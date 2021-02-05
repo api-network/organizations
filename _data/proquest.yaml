@@ -1,0 +1,40 @@
+---
+name: ProQuest
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3421"
+url: https://raw.githubusercontent.com/api-network/organizations/main/proquest.yaml
+tags:
+- Commercial Services
+apis: []
+x-common:
+- type: x-website
+  url: http://www.proquest.com
+- type: x-about
+  url: https://www.proquest.com/about
+- type: x-blog
+  url: https://www.proquest.com/blog
+- type: x-events
+  url: https://www.proquest.com/events
+- type: x-facebook
+  url: https://www.facebook.com/proquest
+- type: x-linkedin
+  url: https://www.linkedin.com/company/proquest
+- type: x-login
+  url: https://portal.bigchalk.com/portalweb/login.do
+- type: x-twitter
+  url: https://www.twitter.com/proquest
+- type: x-website
+  url: https://www.proquest.com
+- type: x-youtube
+  url: https://www.youtube.com/user/proquestvideo
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,101 @@
+---
+name: PandaDoc
+description: <p>PandaDoc is a document automation software as a service with built-in
+  electronic signatures, workflow management, a document builder, and CPQ functionality.
+  PandaDoc was developed in the summer of 2013 to solve a need for salespeople and
+  small businesses to close deals faster by gaining insight into their prospects'
+  motivations and by allowing electronic signature acceptance.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/pandadoc-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "6846"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pandadoc.yaml
+tags:
+- Target
+- Signatures
+- Have API
+- Documents
+apis: []
+x-common:
+- type: x-about
+  url: https://www.pandadoc.com/about/
+- type: x-about
+  url: https://developers.pandadoc.com/reference#about
+- type: x-blog
+  url: https://blog.pandadoc.com
+- type: x-blog
+  url: https://www.pandadoc.com/blog/
+- type: x-blog
+  url: https://blog.pandadoc.com/
+- type: x-careers
+  url: https://www.pandadoc.com/careers/
+- type: x-contact
+  url: https://www.pandadoc.com/contact/
+- type: x-customers
+  url: https://www.pandadoc.com/customers-case-study/
+- type: x-developer
+  url: https://developers.pandadoc.com/
+- type: x-developer
+  url: https://www.pandadoc.com/api/esignature-api/
+- type: x-developer
+  url: https://www.pandadoc.com/api/api-document-generation/
+- type: x-developer
+  url: https://www.pandadoc.com/api/
+- type: x-developers
+  url: https://developers.pandadoc.com/
+- type: x-faq
+  url: https://www.pandadoc.com/faqs/
+- type: x-gdpr
+  url: https://www.pandadoc.com/gdpr/
+- type: x-integrations
+  url: https://www.pandadoc.com/integrations/
+- type: x-integrations
+  url: https://www.pandadoc.com/integrations/crm/hubspot/
+- type: x-integrations
+  url: https://www.pandadoc.com/integrations/crm/salesforce/
+- type: x-integrations
+  url: https://www.pandadoc.com/integrations/crm/pipedrive/
+- type: x-integrations
+  url: https://www.pandadoc.com/integrations/crm/zoho/
+- type: x-login
+  url: https://www.pandadoc.com/api/embedded-signing/
+- type: x-login
+  url: https://app.pandadoc.com/login/
+- type: x-twitter
+  url: https://twitter.com/pandadoc
+- type: x-partner
+  url: https://partners.pandadoc.com/
+- type: x-press
+  url: https://www.pandadoc.com/press/
+- type: x-pricing
+  url: https://www.pandadoc.com/pricing/
+- type: x-privacy
+  url: https://www.pandadoc.com/privacy-policy/
+- type: x-security
+  url: https://www.pandadoc.com/security/
+- type: x-registration
+  url: https://app.pandadoc.com/signup/?ss=header
+- type: x-signup
+  url: https://signup.pandadoc.com/?ss=nav-header-mobile-api
+- type: x-signup
+  url: https://signup.pandadoc.com/?ss=nav-header-home
+- type: x-signup
+  url: https://signup.pandadoc.com/?ss=nav-header-mobile-home
+- type: x-signup
+  url: https://signup.pandadoc.com/?ss=home
+- type: x-status
+  url: https://pandadoc.statuspage.io/
+- type: x-support
+  url: https://support.pandadoc.com/hc/en-us
+- type: x-terms-of-service
+  url: https://www.pandadoc.com/terms-of-use/
+- type: x-website
+  url: https://www.pandadoc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

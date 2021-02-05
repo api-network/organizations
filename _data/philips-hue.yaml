@@ -1,0 +1,51 @@
+---
+name: Philips hue
+description: Your personal wireless lighting that lets you easily control your light
+  from your device and create the right ambience for your every moments. Meet hue
+  - smart bulbs.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/philips-hue-api.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "17293"
+url: https://raw.githubusercontent.com/api-network/organizations/main/philips-hue.yaml
+tags:
+- Lighting
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://developers.meethue.com
+- type: x-code
+  url: https://developers.meethue.com/develop/tools-and-sdks/
+- type: x-developer
+  url: https://developers.meethue.com
+- type: x-developer
+  url: https://developers.meethue.com/develop/get-started-2/
+- type: x-developer
+  url: https://developers.meethue.com/develop/hue-api/
+- type: x-developer
+  url: https://developers.meethue.com/job-vacancies/
+- type: x-developer
+  url: https://developers.meethue.com/new-icon-pack/
+- type: x-github
+  url: https://github.com/PhilipsHue
+- type: x-login
+  url: https://developers.meethue.com/login/
+- type: x-security
+  url: https://www.signify.com/global/product-security
+- type: x-support
+  url: https://developers.meethue.com/support/
+- type: x-twitter
+  url: https://twitter.com/tweethue
+- type: x-twitter
+  url: https://twitter.com/philipshuedev
+- type: x-website
+  url: http://developers.meethue.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

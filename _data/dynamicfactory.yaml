@@ -1,0 +1,61 @@
+---
+name: DynamicFactory
+description: Dynamicfactory is a creative agency, designing brand, application, ecomnerce
+  and websites for everyone.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dynamicfactory.yaml
+tags:
+- Templates
+- Studio
+- Start-up
+- Portfolio
+- Photography
+- Personal
+- Parallax
+- One Page
+- Multipurpose
+- Modern
+- Masonry
+- HTML5
+- Grid
+- Freelancer
+- Flash
+- FAQ
+- Designer
+- CSS3
+- Creative
+- Corporate
+- Coming Soon
+- Clean
+- Carousel
+- Branding
+- Bootstrap Responsive
+- Blog
+- Agency
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/
+- type: x-facebook
+  url: http://facebook.com/
+- type: x-linkedin
+  url: http://linkedin.com/
+- type: x-twitter
+  url: https://twitter.com/
+- type: x-twitter
+  url: http://twitter.com/
+- type: x-website
+  url: https://www.dynamicfactory.com
+- type: x-youtube
+  url: http://youtube.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

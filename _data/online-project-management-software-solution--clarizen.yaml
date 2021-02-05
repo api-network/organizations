@@ -1,0 +1,58 @@
+---
+name: Online Project Management Software Solution - Clarizen
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "31484"
+url: https://raw.githubusercontent.com/api-network/organizations/main/online-project-management-software-solution--clarizen.yaml
+tags:
+- Hosted
+apis: []
+x-common:
+- type: x-website
+  url: http://www.clarizen.com
+- type: x-about
+  url: https://www.clarizen.com/about/
+- type: x-about
+  url: https://www.clarizen.com/about/leadership/
+- type: x-blog
+  url: https://www.clarizen.com/blog/
+- type: x-careers
+  url: https://www.clarizen.com/about/careers/
+- type: x-contact
+  url: https://www.clarizen.com/about/contact-us/
+- type: x-customers
+  url: https://www.clarizen.com/customers/
+- type: x-facebook
+  url: https://www.facebook.com/Clarizen
+- type: x-linkedin
+  url: https://www.linkedin.com/company/clarizen
+- type: x-marketplace
+  url: https://www.clarizen.com/product/apps-marketplace/
+- type: x-news
+  url: https://www.clarizen.com/news-events/
+- type: x-press
+  url: https://www.clarizen.com/news-events/press-releases/
+- type: x-pricing
+  url: https://www.clarizen.com/product/pricing/
+- type: x-privacy
+  url: https://www.clarizen.com/privacy-policy/
+- type: x-security
+  url: https://www.clarizen.com/product/security/
+- type: x-status
+  url: https://status.clarizen.com/
+- type: x-twitter
+  url: https://twitter.com/clarizen
+- type: x-website
+  url: https://www.clarizen.com
+- type: x-youtube
+  url: https://www.youtube.com/user/ClarizenInc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

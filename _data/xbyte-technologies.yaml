@@ -1,0 +1,53 @@
+---
+name: xByte Technologies
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "620621"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xbyte-technologies.yaml
+tags:
+- Varien
+- Magento
+- E-commerce
+- Dell
+apis: []
+x-common:
+- type: x-about
+  url: https://www.xbyte.com/about-us/
+- type: x-blog
+  url: https://www.xbyte.com/blog/
+- type: x-careers
+  url: https://www.xbyte.com/careers/
+- type: x-contact
+  url: https://www.xbyte.com/contact/
+- type: x-contact
+  url: https://www.xbyte.com/contact
+- type: x-facebook
+  url: https://www.facebook.com/xByteTechnologies/
+- type: x-linkedin
+  url: https://in.linkedin.com/company/xbyte-technologies
+- type: x-login
+  url: https://www.xbyte.com/support-login
+- type: x-login
+  url: https://www.xbyte.com/support-login/
+- type: x-security
+  url: https://www.xbyte.com/security-privacy-policy
+- type: x-security
+  url: https://www.xbyte.com/security-privacy-policy/
+- type: x-signup
+  url: https://app.liveoptics.com/signup/xbyte
+- type: x-twitter
+  url: https://twitter.com/xbyteit?lang=en
+- type: x-website
+  url: https://www.xbyte.com
+- type: x-youtube
+  url: https://www.youtube.com/user/xByteTechnologies
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

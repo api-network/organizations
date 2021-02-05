@@ -1,0 +1,32 @@
+---
+name: Advanced Management System
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/advanced-management-system.yaml
+tags:
+- Industry-Specific
+apis: []
+x-common:
+- type: x-about
+  url: https://abcoa.com/about-us/
+- type: x-careers
+  url: https://abcoa.com/page-careers/
+- type: x-contact
+  url: https://abcoa.com/page-contact-us/
+- type: x-privacy
+  url: https://policies.google.com/privacy
+- type: x-terms-of-service
+  url: https://policies.google.com/terms
+- type: x-website
+  url: https://www.abcoa.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

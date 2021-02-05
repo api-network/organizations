@@ -1,0 +1,39 @@
+---
+name: LiTE / STEP++ from UASYS.com
+description: October 22, 2015 We have just released the new web site today. Please
+  feel free to contact us, if you have any feedback or suggestions.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lite--step-from-uasys-com.yaml
+tags:
+- Telnet
+apis: []
+x-common:
+- type: x-contact
+  url: https://uasys.com/contact-us/
+- type: x-contact
+  url: http://uasys.com/contact-us/
+- type: x-documentation
+  url: https://uasys.com/downloads/download-documentation/
+- type: x-press
+  url: http://www.wordpress.org
+- type: x-support
+  url: https://uasys.com/support-2/
+- type: x-support
+  url: https://uasys.com/support-2/support/
+- type: x-support
+  url: https://uasys.com/support-2/faq/
+- type: x-support
+  url: http://uasys.com/support-2/
+- type: x-website
+  url: https://www.uasys.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

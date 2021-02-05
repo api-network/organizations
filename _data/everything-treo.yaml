@@ -1,0 +1,38 @@
+---
+name: Everything Treo
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/everything-treo.yaml
+tags:
+- Devices
+apis: []
+x-common:
+- type: x-website
+  url: http://www.everythingwebos.com
+- type: x-blog
+  url: http://blog.palm.com/palm/2011/08/6-pack.html
+- type: x-forum
+  url: http://www.everythingtreo.com/forum/
+- type: x-forum
+  url: http://www.everythingicafe.com/forum
+- type: x-forum
+  url: https://www.everythingtreo.com/tag/forums/
+- type: x-open-source
+  url: https://www.everythingtreo.com/tag/open-source/
+- type: x-twitter
+  url: http://twitter.com/mikecane
+- type: x-twitter
+  url: http://www.twitter.com/everythingpre
+- type: x-website
+  url: https://www.everythingtreo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

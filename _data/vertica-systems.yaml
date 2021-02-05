@@ -1,0 +1,60 @@
+---
+name: Vertica Systems
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "172150"
+url: https://raw.githubusercontent.com/api-network/organizations/main/vertica-systems.yaml
+tags:
+- Data Warehousing
+apis: []
+x-common:
+- type: x-website
+  url: https://www.microfocus.com/en-us/solutions/big-data-analytics-software
+- type: x-about
+  url: https://www.vertica.com/about/
+- type: x-blog
+  url: https://www.vertica.com/blog/category/checklists/
+- type: x-careers
+  url: https://www.vertica.com/about/careers/
+- type: x-contact
+  url: https://www.vertica.com/contact-us/
+- type: x-customers
+  url: https://www.vertica.com/customers/
+- type: x-customers
+  url: https://www.vertica.com/log-in-returning-customers/
+- type: x-documentation
+  url: https://www.vertica.com/documentation/vertica/9-2-x/
+- type: x-events
+  url: https://www.vertica.com/events/category/meetup/
+- type: x-events
+  url: https://www.vertica.com/events/category/tradeshow/
+- type: x-events
+  url: https://www.vertica.com/events/
+- type: x-forum
+  url: https://forum.vertica.com/
+- type: x-news
+  url: https://www.vertica.com/about/news-and-blogs/
+- type: x-news
+  url: https://www.vertica.com/newsletters/
+- type: x-partner
+  url: https://www.vertica.com/partners/
+- type: x-pricing
+  url: https://www.vertica.com/subscription-pricing
+- type: x-showcase
+  url: https://www.linkedin.com/showcase/vertica-co/
+- type: x-support
+  url: https://softwaresupport.softwaregrp.com/
+- type: x-twitter
+  url: https://twitter.com/VerticaBigData
+- type: x-website
+  url: https://www.vertica.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

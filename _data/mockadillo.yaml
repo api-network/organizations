@@ -1,0 +1,26 @@
+---
+name: Mockadillo
+description: Have a live version of your API before the first line of code by using
+  an API mocking service. Speed up your development! Deploy a backend in minutes and
+  allow your developers to prototype and create applications swiftly. Iterate and
+  improve your backend by having it live from the start.
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mockadillo.yaml
+tags:
+- Virtualizations
+- Profile
+apis: []
+x-common:
+- type: x-website
+  url: http://mockadillo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

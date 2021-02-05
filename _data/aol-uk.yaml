@@ -1,0 +1,48 @@
+---
+name: AOL UK
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "24648"
+url: https://raw.githubusercontent.com/api-network/organizations/main/aol-uk.yaml
+tags:
+- Web Portals
+apis: []
+x-common:
+- type: x-website
+  url: http://www.aol.co.uk/
+- type: x-about
+  url: https://adinfo.aol.com/about-our-ads/
+- type: x-contact
+  url: https://help.aol.co.uk/contact/
+- type: x-facebook
+  url: https://www.facebook.com/aol/
+- type: x-forum
+  url: https://aol.uservoice.com/forums/920479-aol-uk/
+- type: x-news
+  url: https://www.aol.co.uk/news/
+- type: x-news
+  url: https://www.aol.co.uk/news/money/
+- type: x-privacy
+  url: https://policies.oath.com/ie/en/oath/privacy/adinfo/
+- type: x-privacy
+  url: http://privacy.aol.co.uk/
+- type: x-privacy
+  url: http://privacy.aol.co.uk/cookie-information
+- type: x-support
+  url: http://help.aol.co.uk/?icid=nav-ukhp
+- type: x-support
+  url: https://help.aol.co.uk/
+- type: x-twitter
+  url: https://twitter.com/aoldotuk
+- type: x-website
+  url: https://www.aol.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

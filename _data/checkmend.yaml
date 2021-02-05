@@ -1,0 +1,46 @@
+---
+name: CheckMEND
+description: The World's largest and best source for property/goods history checking.
+  Setting the standard in pre-purchase due-diligence for the public and trade.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1253-checkmend.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "892817"
+url: https://raw.githubusercontent.com/api-network/organizations/main/checkmend.yaml
+tags:
+- Verification
+- Properties
+- History
+- Have API
+- Filters
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.checkmend.com
+- type: x-blog
+  url: https://blog.recipero.com/category/checkmend/
+- type: x-developer
+  url: http://dev.checkmend.com
+- type: x-developer
+  url: http://gapi.checkmend.com
+- type: x-email
+  url: support@checkmend.com
+- type: x-facebook
+  url: http://www.facebook.com/checkmend
+- type: x-linkedin
+  url: https://www.linkedin.com/company/checkmend
+- type: x-twitter
+  url: https://twitter.com/checkmend
+- type: x-twitter
+  url: http://twitter.com/checkmend
+- type: x-website
+  url: http://www.checkmend.com/us/api_integration
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

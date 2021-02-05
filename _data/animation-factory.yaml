@@ -1,0 +1,33 @@
+---
+name: Animation Factory
+description: Download Animation Factory royalty free gif animations, clipart, PowerPoint
+  templates, backgrounds, and videos to enhance your business and creative designs.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "506754"
+url: https://raw.githubusercontent.com/api-network/organizations/main/animation-factory.yaml
+tags:
+- Animated GIFs
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.vitalimagery.com/
+- type: x-facebook
+  url: https://www.facebook.com/animfact/
+- type: x-instagram
+  url: https://instagram.com/vitalimageryltd/
+- type: x-login
+  url: https://www.animationfactory.com/en/sign_in/index.html
+- type: x-twitter
+  url: https://www.twitter.com/vitalimageryltd/
+- type: x-website
+  url: https://www.animationfactory.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

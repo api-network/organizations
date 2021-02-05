@@ -1,0 +1,28 @@
+---
+name: Ricoh Electronics, Inc.
+description: Ricoh USA offers workplace solutions and digital transformation services
+  designed to help manage and optimize information flow across your business.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "112481"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ricoh-electronics-inc-.yaml
+tags:
+- Workplace Solutions
+- Manufacturers
+- Digital Workplace
+- Digital Transformation Service
+apis: []
+x-common:
+- type: x-news
+  url: http://newsroom.ricoh-usa.com
+- type: x-website
+  url: https://www.ricoh-usa.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

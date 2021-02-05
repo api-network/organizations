@@ -1,0 +1,45 @@
+---
+name: Check Point Software - Blog
+description: Check Point Infinity is the first consolidated security across networks,
+  cloud and mobile, providing the highest level of threat prevention against both
+  known and unknown targeted attacks to keep you protected now and in the future.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/pull_image_10-04-2019-11-11-am.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/check-point-software--blog.yaml
+tags:
+- Security Automation
+- Network Security
+- Mobile Security
+- Has API
+- Endpoint Security
+- CLI
+apis: []
+x-common:
+- type: x-website
+  url: http://www.checkpoint.com
+- type: x-blog
+  url: https://blog.checkpoint.com/
+- type: x-contact-form
+  url: https://www.checkpoint.com/about-us/contact-us/
+- type: x-documentation
+  url: https://sc1.checkpoint.com/documents/R80/APIs/#introduction%20
+- type: x-partners
+  url: https://www.checkpoint.com/partners/opsec/
+- type: x-support
+  url: https://supportcenter.checkpoint.com/supportcenter/portal
+- type: x-twitter
+  url: https://twitter.com/checkpointsw
+- type: x-webinars
+  url: https://www.checkpoint.com/webinars/
+- type: x-website
+  url: https://www.checkpoint.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

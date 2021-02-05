@@ -1,0 +1,31 @@
+---
+name: OpenMinds
+description: <p>OpenMinds is a learning platform that instantly transforms any content
+  (your content or 3rd party content) into engaging learning apps.&nbsp; Your students
+  play the apps on any platform to learn and master specific skills, such as vocabulary,
+  spelling, grammar, punctuation and much more.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/open-minds-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/openminds.yaml
+tags:
+- Quizzes
+- Have API
+- Adaptive Learning
+apis: []
+x-common:
+- type: x-base
+  url: https://api.openminds.io/
+- type: x-developers
+  url: http://openminds.io/developers
+- type: x-website
+  url: http://openminds.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

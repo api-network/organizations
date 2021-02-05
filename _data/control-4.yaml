@@ -1,0 +1,58 @@
+---
+name: Control 4
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "65471"
+url: https://raw.githubusercontent.com/api-network/organizations/main/control-4.yaml
+tags:
+- Products And Manufacturers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.control4.com/
+- type: x-blog
+  url: https://www.control4.com/blog
+- type: x-careers
+  url: https://www.control4.com/company/careers
+- type: x-contact
+  url: https://www.control4.com/company/contact-us
+- type: x-developer
+  url: http://developer.control4.com
+- type: x-facebook
+  url: https://www.facebook.com/control4fans
+- type: x-instagram
+  url: https://www.instagram.com/control4_smart_home
+- type: x-linkedin
+  url: https://www.linkedin.com/company/control4
+- type: x-login
+  url: https://customer.control4.com/login/register
+- type: x-login
+  url: https://customer.control4.com/login/password/reset
+- type: x-news
+  url: https://www.control4.com/company/news
+- type: x-partner
+  url: https://www.control4.com/for/partners
+- type: x-press
+  url: https://www.control4.com/press_releases
+- type: x-privacy
+  url: https://policies.google.com/privacy?hl=en
+- type: x-support
+  url: https://help.control4.com
+- type: x-terms-of-service
+  url: https://policies.google.com/terms?hl=en
+- type: x-twitter
+  url: https://twitter.com/control4
+- type: x-website
+  url: https://www.control4.com
+- type: x-youtube
+  url: https://www.youtube.com/user/Control4Automation
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

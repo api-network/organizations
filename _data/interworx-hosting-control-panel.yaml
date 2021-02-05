@@ -1,0 +1,44 @@
+---
+name: InterWorx Hosting Control Panel
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "177607"
+url: https://raw.githubusercontent.com/api-network/organizations/main/interworx-hosting-control-panel.yaml
+tags:
+- Configuration
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.interworx.com/company/contact/
+- type: x-documentation
+  url: http://docs.interworx.com
+- type: x-documentation
+  url: http://docs.interworx.com/
+- type: x-forum
+  url: http://forums.interworx.com
+- type: x-forum
+  url: https://forums.interworx.com/
+- type: x-pricing
+  url: https://www.interworx.com/#pricing
+- type: x-privacy
+  url: https://www.interworx.com/company/privacy-policy/
+- type: x-support
+  url: https://www.interworx.com/support/
+- type: x-support
+  url: http://support.interworx.com
+- type: x-support
+  url: https://www.interworx.com/support/faq/
+- type: x-support
+  url: https://support.interworx.com/
+- type: x-website
+  url: https://interworx.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

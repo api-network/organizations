@@ -1,0 +1,65 @@
+---
+name: Entuity Eye of the Storm (EYE)
+description: Entuity Network Analytics delivers all-in-one network monitoring software
+  for faster insights and manageable network alerts. Try our online Live Demo.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "763770"
+url: https://raw.githubusercontent.com/api-network/organizations/main/entuity-eye-of-the-storm-eye.yaml
+tags:
+- Network Management
+apis: []
+x-common:
+- type: x-website
+  url: http://entuity.com
+- type: x-blog
+  url: https://entuity.com/blog/
+- type: x-careers
+  url: https://entuity.com/careers/
+- type: x-careers
+  url: https://entuity.com/company/careers/
+- type: x-case-studies
+  url: https://entuity.com/resources/#casestudies
+- type: x-contact
+  url: https://entuity.com/contact-us/
+- type: x-contact
+  url: https://entuity.com/company/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/entuitynetworkmanagement
+- type: x-linkedin
+  url: https://www.linkedin.com/company/entuity
+- type: x-news
+  url: https://entuity.com/news-and-events/
+- type: x-news
+  url: https://entuity.com/company/news-and-events/
+- type: x-partner
+  url: https://entuity.com/partners/
+- type: x-partner
+  url: https://entuity.com/partner-portal/
+- type: x-pricing
+  url: http://entuity.com/pricing/
+- type: x-privacy
+  url: https://entuity.com/privacy-policy/
+- type: x-support
+  url: https://entuity.com/device-vendor-support/
+- type: x-support
+  url: https://entuity.com/support/
+- type: x-support
+  url: https://support.entuity.com/hc/en-us
+- type: x-support
+  url: https://www.entuity.com/help/home
+- type: x-twitter
+  url: https://twitter.com/entuity
+- type: x-website
+  url: https://www.entuity.com
+- type: x-white-papers
+  url: https://entuity.com/resources/#whitepapers
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

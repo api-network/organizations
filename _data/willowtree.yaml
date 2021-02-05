@@ -1,0 +1,39 @@
+---
+name: WillowTree
+description: ""
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/willowtree.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "126546"
+url: https://raw.githubusercontent.com/api-network/organizations/main/willowtree.yaml
+tags:
+- Profile
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://willowtreeapps.com
+- type: x-blog
+  url: http://www.willowtreeapps.com/category/development-blog/
+- type: x-blog-rss
+  url: http://www.willowtreeapps.com/feed/
+- type: x-developer
+  url: https://developer.roku.com/recommended/developers
+- type: x-facebook
+  url: https://www.facebook.com/willowtreeapps
+- type: x-instagram
+  url: https://www.instagram.com/willowtreeapps/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/willowtreeapps
+- type: x-twitter
+  url: https://twitter.com/willowtreeapps
+- type: x-website
+  url: http://www.willowtreeapps.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

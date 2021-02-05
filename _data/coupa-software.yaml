@@ -1,0 +1,98 @@
+---
+name: Coupa Software
+description: Coupa Software is a global technology platform for Business Spend Management.
+  From procurement to expenses, strategic sourcing to spend analysis, Coupa is the
+  only Business Spend Management platform that empowers you to spend smarter and maximize
+  the value of every dollar your business spends.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29295-coupa-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "104854"
+url: https://raw.githubusercontent.com/api-network/organizations/main/coupa-software.yaml
+tags:
+- SCF
+- Profile
+- Procurement
+- Payment
+- Has API
+- Expenses
+- ERP
+- Contract
+- B2B
+- Analysis
+apis: []
+x-common:
+- type: x-website
+  url: http://www.coupa.com
+- type: x-authentication
+  url: https://www.coupa.com/about-us/
+- type: x-blog
+  url: https://www.coupa.com/blog/
+- type: x-contact-form
+  url: https://success.coupa.com/Support/Contact_Us
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/coupa
+- type: x-documentation
+  url: https://success.coupa.com/Support/Docs
+- type: x-email
+  url: jobs@coupa.com
+- type: x-email
+  url: partnerconnect@coupa.com
+- type: x-email
+  url: supplier@coupa.com
+- type: x-email
+  url: support@coupa.com
+- type: x-email
+  url: coupalinkcommunity@coupa.com
+- type: x-email
+  url: privacy.hr@coupa.com
+- type: x-email
+  url: privacy.marketing@coupa.com
+- type: x-email
+  url: gdpr@coupa.com
+- type: x-email
+  url: dpo@coupa.com
+- type: x-facebook
+  url: https://www.facebook.com/coupasoftware
+- type: x-investor
+  url: https://investors.coupa.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/99595
+- type: x-linkedin
+  url: https://www.linkedin.com/company/coupa-software/
+- type: x-login
+  url: https://login.coupa.com/?fromURI=https%3A%2F%2Fcoupa-external.okta.com%2Fapp%2Fcoupasoftwareincexternalprod_miindtouchcustomgrouppoc_1%2Fexk1hm80966LedUka1t7%2Fsso%2Fsaml%3FSAMLRequest%3DfVLBbuIwEL3zFSh3iJOoKbFKtCxoVSTaohL2sBdknGmxSOysZ9zSv6%252BTFLVdrbB8mnnvzbxnD25Q1FXDZ44O%252BhH%252BOkAaDP051ZVG3jWngbOaG4EKuRY1ICfJN7O7FY%252FHjDfWkJGmCv6hXWYJRLCkjO5py8U0uFveL4qH7fx2xybZVZnFe2Bldi0hilhSAovjdJKxfRJdTWRSspKlPfc3WPRC08DrBoNeDtHBUiMJTb7OomzE%252FI0LxniS8iT501MX3q3Sgjr6gahBHobSuEaM4ERgtajG5khiLE0diqbpe2ie6FVYUFqeUT6EclcrpUsyTh6kQzL1s%252FXoxshdFMLpGB3qCcvSdAXl9igiug4RTdgm1e%252By%252FsjxpxdR%252BvlyfPsehPy2KNaj9cOm6EVm51jnRqOrwW7AvigJ28fVp0F0UgLiuDPTWfvRemtXCYXEIO%252Bkuo%252FBuyRt3lL%252Fy7wJv8I%252BiQ2%252F90svF2tTKfk2%252FGVsLeiyp7aiytFTB%2
+- type: x-login
+  url: https://login.coupa.com/
+- type: x-partner
+  url: https://partnerconnect.coupa.com/
+- type: x-partners
+  url: https://www.coupa.com/partner-connect-program/
+- type: x-press
+  url: https://www.coupa.com/newsworthy/press-releases/
+- type: x-privacy
+  url: https://www.coupa.com/privacy-policy/
+- type: x-privacy
+  url: https://success.coupa.com/Trust/Data_Privacy
+- type: x-support
+  url: https://support.coupa.com/
+- type: x-support
+  url: https://success.coupa.com/Support
+- type: x-twitter
+  url: https://twitter.com/Coupa
+- type: x-webinars
+  url: https://get.coupa.com/18-12-12_CW_All_Coupa_CoupaPay_On-Demand.html
+- type: x-website
+  url: http://coupa.com
+- type: x-website
+  url: http://success.coupa.com
+- type: x-youtube
+  url: https://www.youtube.com/user/CoupaSoftware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

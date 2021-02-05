@@ -1,0 +1,32 @@
+---
+name: Advanced Cable Connection Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7334883"
+url: https://raw.githubusercontent.com/api-network/organizations/main/advanced-cable-connection-inc-.yaml
+tags:
+- Installation
+apis: []
+x-common:
+- type: x-careers
+  url: https://accicable.com/careers/
+- type: x-contact
+  url: https://accicable.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/AdvancedCableConnection/
+- type: x-security
+  url: https://accicable.com/services/cctv-sound-security/
+- type: x-security
+  url: https://accicable.com/services/security/
+- type: x-website
+  url: https://www.accicable.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

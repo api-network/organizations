@@ -1,0 +1,44 @@
+---
+name: ServerBoss
+description: Restrict or Meter Users, Groups, Applications and RAS sessions
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/serverboss.yaml
+tags:
+- WinFrame
+- Windows NT
+- Windows 2000 Server
+- Users
+- User
+- Terminal Server Edition
+- Specify
+- Solution
+- Software
+- Restrict
+- Regulate
+- RAS
+- NT 4
+- Ms
+- Microsoft NT 3.51
+- Logons
+- Limit
+- Groups
+- Group
+- Execution
+- Concurrent
+- Citrix MetaFrame
+- Application
+apis: []
+x-common:
+- type: x-website
+  url: https://www.serverboss.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

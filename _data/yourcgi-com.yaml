@@ -1,0 +1,58 @@
+---
+name: YourCGI.com
+description: Offers free hit counter and free guestbooks,  plus many more hosted cgi
+  scripts to improve your website.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/yourcgi-com.yaml
+tags:
+- Webmasters
+- Stats Tracker
+- Search Engine Position
+- Scripts
+- Script
+- Remotely
+- Recommend
+- Random Link
+- Random
+- Perl
+- Meta-Tag
+- Messages
+- Mailing List
+- Mail
+- Link
+- Jump
+- Joseph Kregloh
+- Hosted Components And Services
+- Hosted
+- Hit Tracking
+- Free Hit Counter
+- Free Guestbook
+- Form Emailer
+- Form
+- Ffalp
+- Date
+- Clock
+- Cgi Hosting
+- CGI
+- Box
+apis: []
+x-common:
+- type: x-login
+  url: https://www.yourcgi.com/login.html
+- type: x-plans
+  url: http://hosting.yourcgi.com/hosting_plans.html
+- type: x-signup
+  url: https://www.yourcgi.com/signup.html
+- type: x-website
+  url: https://www.yourcgi.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

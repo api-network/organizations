@@ -1,0 +1,28 @@
+---
+name: Metaver.se
+description: Metaverse is a decentralised platform based on blockchain technology.
+  Metaverse is building a web of Smart Properties and establishing an open ecosystem
+  in which digital value can be circulated freely.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26735-mvs-org.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "173088"
+url: https://raw.githubusercontent.com/api-network/organizations/main/metaver-se.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: https://Metaver.se
+- type: x-twitter
+  url: https://twitter.com/Metaverse
+- type: x-website
+  url: https://mvs.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

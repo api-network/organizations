@@ -1,0 +1,53 @@
+---
+name: inFlow Inventory
+description: Get an unfair advantage with inFlow Inventory management software. A
+  complete system to run your small business used by 1000's. Click for your FREE trial!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "109686"
+url: https://raw.githubusercontent.com/api-network/organizations/main/inflow-inventory.yaml
+tags:
+- Inventory
+apis: []
+x-common:
+- type: x-website
+  url: http://www.inflowinventory.com
+- type: x-about
+  url: https://www.inflowinventory.com/software-about-us
+- type: x-case-studies
+  url: https://www.inflowinventory.com/use-cases/warehouse
+- type: x-case-studies
+  url: https://www.inflowinventory.com/use-cases/wholesale
+- type: x-contact
+  url: https://www.inflowinventory.com/software-contact-info
+- type: x-facebook
+  url: https://www.facebook.com/inFlowInventory
+- type: x-feed
+  url: https://ec3.inflowinventory.com/feed
+- type: x-integrations
+  url: https://www.inflowinventory.com/features/integrations
+- type: x-login
+  url: https://app.inflowinventory.com/login
+- type: x-press
+  url: http://www.wordpress.org
+- type: x-pricing
+  url: https://www.inflowinventory.com/software-pricing
+- type: x-signup
+  url: https://www.inflowinventory.com/signup
+- type: x-status
+  url: https://status.inflowinventory.com
+- type: x-twitter
+  url: https://twitter.com/inFlowInventory
+- type: x-website
+  url: https://www.inflowinventory.com
+- type: x-youtube
+  url: https://www.youtube.com/user/inFlowInventory/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,55 @@
+---
+name: Hexaware
+description: We transform how IT services are delivered and are on our journey to
+  be the first IT services company in the world where half the work we do is done
+  by machines
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "114437"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hexaware.yaml
+tags:
+- Information Technology
+- Consulting
+- BPO
+- Asset Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.hexaware.com
+- type: x-careers
+  url: https://hexaware.com/careers/
+- type: x-contact
+  url: https://hexaware.com/contact-us
+- type: x-events
+  url: https://hexaware.com/events
+- type: x-facebook
+  url: https://www.facebook.com/HexawareTechnologies
+- type: x-instagram
+  url: https://www.instagram.com/hexaware_global/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/hexaware-technologies
+- type: x-news
+  url: https://hexaware.com/resources/?asset=newsletter
+- type: x-news
+  url: https://hexaware.com/news
+- type: x-privacy
+  url: https://hexaware.com/privacy-policy/#cookie-policy
+- type: x-privacy
+  url: https://hexaware.com/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/hexawareglobal
+- type: x-website
+  url: https://www.hexaware.com
+- type: x-white-papers
+  url: https://hexaware.com/resources/?asset=whitepaper
+- type: x-youtube
+  url: https://www.youtube.com/user/HexawareVideos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

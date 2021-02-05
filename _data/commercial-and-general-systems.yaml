@@ -1,0 +1,28 @@
+---
+name: Commercial and General Systems
+description: "Whether you\u2019re working with a technical, pre-existing app or you\u2019re
+  looking to build your very own from scratch, we can create your very own blockchain
+  app."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/commercial-and-general-systems.yaml
+tags:
+- Companies
+apis: []
+x-common:
+- type: x-about
+  url: https://www.comgen.co.uk/about/
+- type: x-contact
+  url: https://www.comgen.co.uk/contact/
+- type: x-website
+  url: https://www.comgen.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,33 @@
+---
+name: YaCy
+description: YaCy P2P - Decentralized Search Engine
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "429488"
+url: https://raw.githubusercontent.com/api-network/organizations/main/yacy.yaml
+tags:
+- Search Engines
+- Proxies
+apis: []
+x-common:
+- type: x-website
+  url: http://yacy.net
+- type: x-github
+  url: https://github.com/yacy/yacy_search_server
+- type: x-github
+  url: https://github.com/yacy
+- type: x-twitter
+  url: https://twitter.com/yacy_search
+- type: x-website
+  url: https://www.yacy.net
+- type: x-youtube
+  url: https://www.youtube.com/YaCyTutorials
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

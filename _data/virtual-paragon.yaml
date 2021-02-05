@@ -1,0 +1,52 @@
+---
+name: Virtual Paragon
+description: Virtual Paragon
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2120529"
+url: https://raw.githubusercontent.com/api-network/organizations/main/virtual-paragon.yaml
+tags:
+- Transcript
+- Tracking
+- Time Slot
+- Teacher
+- Solutions
+- Software
+- Shalach Manos
+- School
+- Scheduling Utilities
+- Scheduling
+- Scheduler
+- Schedule
+- Reservation
+- Pta
+- Parent
+- Online
+- Mishloach Manot
+- K12
+- Gift Basket
+- Fundraiser
+- Family
+- Conference
+- College
+- Appointment
+- Application
+apis: []
+x-common:
+- type: x-about
+  url: https://www.virtualparagon.com/about.php
+- type: x-contact
+  url: https://www.virtualparagon.com/products/contact.php
+- type: x-support
+  url: https://www.virtualparagon.com/support/
+- type: x-website
+  url: https://www.virtualparagon.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

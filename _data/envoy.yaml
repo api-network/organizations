@@ -1,0 +1,71 @@
+---
+name: Envoy
+description: "Envoy is visitor management software for modern offices. Easily manage
+  visitor registration, deliveries, and document signing \u2013 all from an iPad.
+  Try it free!"
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/EnvoySlackbotEnvoySlackbot.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "54432"
+url: https://raw.githubusercontent.com/api-network/organizations/main/envoy.yaml
+tags:
+- Visitors
+- Slack
+- Office Management
+- Have API
+- Checkins
+- Bots
+apis: []
+x-common:
+- type: x-blog
+  url: https://envoy.com/blog/
+- type: x-blog
+  url: https://medium.com/envoy-design
+- type: x-contact
+  url: https://envoy.com/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/envoy
+- type: x-developer
+  url: https://developers.envoy.com
+- type: x-developers
+  url: https://developers.envoy.com/
+- type: x-facebook
+  url: https://www.facebook.com/SignWithEnvoy/
+- type: x-github
+  url: https://github.com/envoy
+- type: x-integrations
+  url: https://dashboard.envoy.com/settings/integrations
+- type: x-linkedin
+  url: https://www.linkedin.com/company/3554116/
+- type: x-login
+  url: https://dashboard.envoy.com/login
+- type: x-pricing
+  url: https://envoy.com/pricing/
+- type: x-privacy
+  url: https://envoy.co/privacypolicy/
+- type: x-privacy-policy
+  url: https://envoy.com/privacypolicy/
+- type: x-security
+  url: https://envoy.com/security-details/
+- type: x-status
+  url: https://status.envoy.com/
+- type: x-support
+  url: https://envoy.help
+- type: x-terms-of-service
+  url: https://envoy.com/tos/
+- type: x-twitter
+  url: https://twitter.com/envoy
+- type: x-twitter
+  url: https://twitter.com/envoy/
+- type: x-webhooks
+  url: https://developers.envoy.com/#webhooks
+- type: x-website
+  url: https://envoy.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

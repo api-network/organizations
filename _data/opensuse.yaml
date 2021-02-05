@@ -1,0 +1,70 @@
+---
+name: OpenSUSE
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "28229"
+url: https://raw.githubusercontent.com/api-network/organizations/main/opensuse.yaml
+tags:
+- SuSE
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/en.openSUSE
+- type: x-forum
+  url: http://forums.opensuse.org/
+- type: x-github
+  url: http://yast.github.io/
+- type: x-github
+  url: https://osinside.github.io/kiwi/
+- type: x-github
+  url: http://osinside.github.io/kiwi/
+- type: x-news
+  url: https://news.opensuse.org/
+- type: x-open-source
+  url: https://software.opensuse.org/distributions/tumbleweed
+- type: x-open-source
+  url: https://en.opensuse.org/Portal:Tumbleweed
+- type: x-open-source
+  url: https://software.opensuse.org/distributions/leap
+- type: x-open-source
+  url: https://software.opensuse.org/distributions/leap/15_1
+- type: x-open-source
+  url: https://build.opensuse.org/
+- type: x-open-source
+  url: http://openqa.opensuse.org
+- type: x-open-source
+  url: https://en.opensuse.org/Portal:How_to_participate
+- type: x-open-source
+  url: https://opensuse.herokuapp.com/dashboard
+- type: x-open-source
+  url: https://events.opensuse.org/
+- type: x-open-source
+  url: https://software.opensuse.org/
+- type: x-open-source
+  url: https://en.opensuse.org/Main_Page
+- type: x-open-source
+  url: https://connect.opensuse.org/
+- type: x-open-source
+  url: https://lists.opensuse.org/
+- type: x-open-source
+  url: http://shop.opensuse.org/
+- type: x-open-source
+  url: http://lizards.opensuse.org/
+- type: x-open-source
+  url: https://www.youtube.com/user/opensusetv
+- type: x-open-source
+  url: http://en.opensuse.org/Sponsors
+- type: x-open-source
+  url: https://en.opensuse.org/Imprint
+- type: x-website
+  url: https://www.opensuse.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

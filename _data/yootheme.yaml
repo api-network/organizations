@@ -1,0 +1,67 @@
+---
+name: YooTheme
+description: Get the best WordPress themes and Joomla templates, the powerful YOOtheme
+  Pro page builder and professional WordPress plugins and Joomla extensions.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "33400"
+url: https://raw.githubusercontent.com/api-network/organizations/main/yootheme.yaml
+tags:
+- Extensions And Templates
+apis: []
+x-common:
+- type: x-website
+  url: https://yootheme.com
+- type: x-about
+  url: https://yootheme.com/about
+- type: x-blog
+  url: https://yootheme.com/blog
+- type: x-careers
+  url: https://yootheme.com/about/careers
+- type: x-contact
+  url: https://yootheme.com/about#contact
+- type: x-facebook
+  url: https://facebook.com/yootheme
+- type: x-login
+  url: https://yootheme.com/user/login
+- type: x-press
+  url: https://yootheme.com/wordpress-themes
+- type: x-privacy
+  url: https://yootheme.com/privacy
+- type: x-signup
+  url: https://yootheme.com/signup
+- type: x-signup
+  url: https://yootheme.com/signup#pre-sales-faq
+- type: x-support
+  url: https://yootheme.com/support
+- type: x-support
+  url: https://yootheme.com/support/videos
+- type: x-support
+  url: https://yootheme.com/support/extensions
+- type: x-support
+  url: https://yootheme.com/support/experts
+- type: x-support
+  url: https://yootheme.com/support/hosting
+- type: x-support
+  url: https://yootheme.com/support/yootheme-pro
+- type: x-support
+  url: https://yootheme.com/support/warp
+- type: x-support
+  url: https://yootheme.com/support/widgetkit
+- type: x-support
+  url: https://yootheme.com/support/zoo
+- type: x-terms-of-service
+  url: https://yootheme.com/terms
+- type: x-twitter
+  url: https://twitter.com/yootheme
+- type: x-website
+  url: https://www.yootheme.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

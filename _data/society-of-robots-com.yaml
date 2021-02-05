@@ -1,0 +1,36 @@
+---
+name: Society of Robots.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "773548"
+url: https://raw.githubusercontent.com/api-network/organizations/main/society-of-robots-com.yaml
+tags:
+- Building
+apis: []
+x-common:
+- type: x-website
+  url: http://societyofrobots.com
+- type: x-contact
+  url: https://www.societyofrobots.com/contact.shtml
+- type: x-facebook
+  url: https://www.facebook.com/140720142037
+- type: x-forum
+  url: https://www.societyofrobots.com/robotforum/
+- type: x-forum
+  url: https://www.societyofrobots.com/robotforum/chat/
+- type: x-twitter
+  url: https://www.twitter.com/societyofrobotz
+- type: x-website
+  url: https://www.societyofrobots.com
+- type: x-youtube
+  url: https://www.youtube.com/societyofrobots
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,32 @@
+---
+name: fastneasytax
+description: We guarantee fast and easy online tax filing service. Start for free
+  and file your Canadian income tax return online with step-by-step guide.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6189093"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fastneasytax.yaml
+tags:
+- Personal Tax Return Canada
+- Online Tax Filing Canada
+- Netfile Canada
+- Income Tax Canada
+- Income Tax Calculator Canada
+- Canada
+apis: []
+x-common:
+- type: x-signup
+  url: https://www.fastneasytax.com/ca/signup.html
+- type: x-support
+  url: https://www.fastneasytax.com/ca/support
+- type: x-website
+  url: https://www.fastneasytax.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

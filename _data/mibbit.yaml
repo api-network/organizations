@@ -1,0 +1,29 @@
+---
+name: Mibbit
+description: Mibbit is a fully featured IRC Client. Allowing you to interact realtime
+  with your friends. Chat, play games, colaborate on projects together and more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "180097"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mibbit.yaml
+tags:
+- Online Irc
+- Mibbit
+- Irc Client
+- Irc Chat
+- IRC
+- Ajax Irc Chat
+- Ajax Chat
+apis: []
+x-common:
+- type: x-website
+  url: https://www.mibbit.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

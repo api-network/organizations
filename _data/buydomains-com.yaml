@@ -1,0 +1,38 @@
+---
+name: BuyDomains.com
+description: Buying domain names has never been easier! It's quick and easy to search
+  all of the domain names. Your business starts here - start your domain name search
+  today!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "16368"
+url: https://raw.githubusercontent.com/api-network/organizations/main/buydomains-com.yaml
+tags:
+- Premium Domain
+- Mass Sellers
+- Buy Domain
+apis: []
+x-common:
+- type: x-website
+  url: http://www.buydomains.com
+- type: x-blog
+  url: https://www.buydomains.com/blog/
+- type: x-privacy
+  url: https://policies.google.com/privacy
+- type: x-privacy
+  url: http://endurance.com/privacy/privacy
+- type: x-terms-of-service
+  url: https://policies.google.com/terms
+- type: x-twitter
+  url: https://twitter.com/BuyDomains
+- type: x-website
+  url: https://www.buydomains.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

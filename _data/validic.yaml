@@ -1,0 +1,61 @@
+---
+name: Validic
+description: <p>Validic collects de-identified patient data from wearables, clinical
+  devices and patient healthcare applications. Validic is a behind the scenes IT infrastructure
+  solution where with one simple RESTful API connection to Validic, you have access
+  to the standardized, secure data you need to accelerate your strategic business
+  initiatives, reduce costs and improve patient outcomes.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/validic-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "587732"
+url: https://raw.githubusercontent.com/api-network/organizations/main/validic.yaml
+tags:
+- Healthcare
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: https://validic.com/
+- type: x-blog
+  url: https://validic.com/blog/
+- type: x-careers
+  url: https://validic.com/careers/
+- type: x-contact
+  url: https://validic.com/contact/
+- type: x-developer
+  url: http://developer.validic.com
+- type: x-developers
+  url: https://validic.com/api
+- type: x-documentation
+  url: https://helpdocs.validic.com/
+- type: x-documentation
+  url: https://docs.validic.com/
+- type: x-documentation
+  url: https://docs.validic.com/docs/mobile-docs
+- type: x-email
+  url: hello@validic.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/validic
+- type: x-partner
+  url: https://partner.validic.com/docs
+- type: x-privacy
+  url: https://validic.com/privacy-policy/
+- type: x-security
+  url: https://validic.com/data-security-policy/
+- type: x-support
+  url: https://validic.com/support-policy/
+- type: x-terms-of-service
+  url: https://validic.com/terms-conditions/
+- type: x-twitter
+  url: https://twitter.com/validic
+- type: x-website
+  url: https://validic.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

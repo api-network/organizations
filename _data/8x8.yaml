@@ -1,0 +1,72 @@
+---
+name: 8x8
+description: 8x8's VoIP business phone systems deliver affordable, cloud-based voice,
+  video, messaging, and call center solutions, helping you serve customers anytime,
+  anywhere.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/8x8-logo.svg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "20648"
+url: https://raw.githubusercontent.com/api-network/organizations/main/8x8.yaml
+tags:
+- Voice
+- Video Conferencing
+- Video
+- Telecommunications
+- Telecommunications
+- Team Messaging
+- No API Definition
+- Meetings
+- Have API
+- Communications
+- Chat
+- Call Center
+- BusinessPhoneSystems
+- Business Phone Systems
+- API Provider
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.8x8.com/
+- type: x-blog-rss
+  url: http://blog.8x8.com/feed/
+- type: x-contact
+  url: https://app.contactnow.8x8.com/campaign/login.php
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/8x8-inc
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/8x8-inc
+- type: x-facebook
+  url: https://www.facebook.com/8x8Inc
+- type: x-github
+  url: https://github.com/8x8Cloud
+- type: x-investor
+  url: https://investors.8x8.com/overview/default.aspx
+- type: x-linkedin
+  url: https://www.linkedin.com/company/8x8
+- type: x-login
+  url: https://login.8x8.com/
+- type: x-press
+  url: https://express.8x8.com/
+- type: x-press
+  url: https://investors.8x8.com/press-releases/press-release-details/2020/8x8-Inc-to-Announce-Third-Quarter-Fiscal-2020-Financial-Results-on-February-4-2020/default.aspx
+- type: x-press
+  url: https://investors.8x8.com/press-releases/press-release-details/2019/8x8-Board-Members-Monique-Bonner-and-Elizabeth-Theophille-Recognized-by-WomenInc-Magazine/default.aspx
+- type: x-press
+  url: https://investors.8x8.com/press-releases/press-release-details/2019/Study-Confirms-Commuting-Hinders-Small-Business-Productivity/default.aspx
+- type: x-support
+  url: https://support.8x8.com
+- type: x-twitter
+  url: https://twitter.com/8x8
+- type: x-website
+  url: http://www.8x8.com/
+- type: x-youtube
+  url: https://www.youtube.com/user/8x8Inc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

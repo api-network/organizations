@@ -1,0 +1,31 @@
+---
+name: Sapience
+description: automated and modern API security testing
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/sapience.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sapience.yaml
+tags:
+- Security
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: https://sapience.io
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/sapience-therapeutics
+- type: x-email
+  url: hello@sapience.io
+- type: x-twitter
+  url: https://twitter.com/sapienceio
+- type: x-website
+  url: https://sapience.io/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

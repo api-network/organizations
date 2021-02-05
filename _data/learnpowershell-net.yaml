@@ -1,0 +1,23 @@
+---
+name: learn-powershell.net
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/learnpowershell-net.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: https://learn-powershell.net/2016/07/14/scraping-the-web-for-water-levels-using-powershell/
+- type: x-website
+  url: http://learn-powershell.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

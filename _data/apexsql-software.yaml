@@ -1,0 +1,49 @@
+---
+name: ApexSQL Software
+description: ApexSQL offers the most comprehensive set of SQL Server DBA and Developer
+  tools, with a broad array of award-winning tools, backend by killer support
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "77210"
+url: https://raw.githubusercontent.com/api-network/organizations/main/apexsql-software.yaml
+tags:
+- Tools
+apis: []
+x-common:
+- type: x-website
+  url: http://www.apexsql.com
+- type: x-blog
+  url: https://blog.apexsql.com
+- type: x-blog
+  url: http://blog.apexsql.com
+- type: x-contact
+  url: https://www.apexsql.com/contact/
+- type: x-developer
+  url: https://www.apexsql.com/sql-tools-dev.aspx
+- type: x-facebook
+  url: https://www.facebook.com/ApexSQL
+- type: x-support
+  url: https://support.quest.com/
+- type: x-support
+  url: https://www.apexsql.com/supported-software.aspx
+- type: x-support
+  url: https://support.quest.com/essentials/support-offerings
+- type: x-terms-of-service
+  url: https://www.quest.com/legal/gdpr-hq.aspx
+- type: x-terms-of-service
+  url: https://www.quest.com/legal
+- type: x-terms-of-service
+  url: https://www.quest.com/legal/privacy.aspx
+- type: x-twitter
+  url: https://twitter.com/ApexSQL
+- type: x-website
+  url: https://apexsql.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,41 @@
+---
+name: C&G Consulting
+description: Chortek is a professional services firm specializing in accounting and
+  assurance, tax, managed IT, and business software consulting services.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cg-consulting.yaml
+tags:
+- Enterprise Applications - ERP And ERM
+apis: []
+x-common:
+- type: x-careers
+  url: https://www.chortek.com/careers/
+- type: x-contact
+  url: https://www.chortek.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/Chortek.LLP/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/chortek-llp/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/11504761/
+- type: x-news
+  url: https://www.chortek.com/news/
+- type: x-news
+  url: https://www.chortek.com/resources/newsletter/
+- type: x-twitter
+  url: https://twitter.com/Chortekllp
+- type: x-webinars
+  url: https://www.chortek.com/resources/webinars/
+- type: x-website
+  url: https://www.c-gconsulting.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

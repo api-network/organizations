@@ -1,0 +1,32 @@
+---
+name: Live chat - live chat software , live chat support , live help support
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "170694"
+url: https://raw.githubusercontent.com/api-network/organizations/main/live-chat--live-chat-software--live-chat-support--live-help-support.yaml
+tags:
+- Live Support
+apis: []
+x-common:
+- type: x-blog
+  url: http://www.mioot.com/blog/
+- type: x-pricing
+  url: https://www.mioot.com/pricing/
+- type: x-privacy
+  url: https://www.mioot.com/privacy_policy/
+- type: x-support
+  url: https://www.mioot.com/call-center-support/
+- type: x-tutorials
+  url: https://www.mioot.com/tutorials/
+- type: x-website
+  url: https://www.mioot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,23 @@
+---
+name: SoftForYou
+description: Internet filtering, blocking, and monitoring software for parents, business,
+  schools and libraries. Free block list updates.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/softforyou.yaml
+tags:
+- Parental Control
+apis: []
+x-common:
+- type: x-website
+  url: https://www.softforyou.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

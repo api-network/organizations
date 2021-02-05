@@ -1,0 +1,41 @@
+---
+name: Afar Communications Inc.
+description: Long Range Wireless Ethernet Bridges with Interference avoidance. Gateways
+  for TDM over IP /Ethernet, Serial to Ethernet converters
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2799044"
+url: https://raw.githubusercontent.com/api-network/organizations/main/afar-communications-inc-.yaml
+tags:
+- V.35 To Ethernet Converters
+- V.35 Over Ethernet
+- Tdm Over Ip
+- Tdm Over Ethernet
+- T1 Over IP
+- T1 Over Ethernet
+- RS530 Over Ethernet
+- Point-to-multipoint Wireless Networks
+- Manufacturers
+- Long Distance Wireless Ethernet Bridge
+- Interference Avoidance
+- E1 Over IP
+- E1 Over Ethernet
+apis: []
+x-common:
+- type: x-contact
+  url: https://afar.net/contact-us/
+- type: x-news
+  url: https://afar.net/news/
+- type: x-support
+  url: https://afar.net/support/
+- type: x-website
+  url: https://www.afar.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

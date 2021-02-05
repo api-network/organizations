@@ -1,0 +1,45 @@
+---
+name: IPv6.net
+description: Stay up to date with the latest news on IPv6 and IoT with news posts,
+  videos & presentations. We made a selection of recommended IPv6 and IoT books
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9143803"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ipv6-net.yaml
+tags:
+- IPv6
+apis: []
+x-common:
+- type: x-about
+  url: https://ipv6.net/about/
+- type: x-about
+  url: https://ipv6.net/tag/all-about-ipv6/
+- type: x-blog
+  url: https://ipv6.net/c/blog/
+- type: x-contact
+  url: https://ipv6.net/contact/
+- type: x-facebook
+  url: https://www.facebook.com/IPv6.net
+- type: x-feed
+  url: https://ipv6.net/rss-feeds/
+- type: x-news
+  url: https://ipv6.net/c/news/
+- type: x-news
+  url: https://ipv6.net/news/addressing-2019/
+- type: x-news
+  url: https://ipv6.net/tag/news/
+- type: x-slideshare
+  url: https://ipv6.net/tag/slideshare/
+- type: x-twitter
+  url: https://twitter.com/IPv6dotnet
+- type: x-website
+  url: https://ipv6.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

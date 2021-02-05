@@ -1,0 +1,69 @@
+---
+name: Entertainment Express
+description: <p>Internet Video Archive (IVA) is a leading entertainment data company
+  providing metadata, images and trailers/clips, for movie and TV content. With the
+  launch of its award-winning Entertainment Express APIs, clients can easily access
+  everything they need to create engaging content discovery experiences. By using
+  Entertainment Express, clients can also connect to other services like movie showtimes
+  and ticketing, content recommendations, content availability and TV channel line-ups.
+  With over a million titles, episodes and over 150,000 videos available, IVA makes
+  it easy for developers to integrate all the services they need at a very affordable
+  price.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/IVA-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "711"
+x-alexaRank: "1369268"
+url: https://raw.githubusercontent.com/api-network/organizations/main/entertainment-express.yaml
+tags:
+- Videos
+- Televisions
+- Have API Paths
+- Have API
+- General Data
+- Celebrities
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.internetvideoarchive.com/blog/
+- type: x-developer
+  url: https://www.internetvideoarchive.com/apis/
+- type: x-developer
+  url: https://www.internetvideoarchive.com/apis/image-api/
+- type: x-developer
+  url: https://www.internetvideoarchive.com/apis/video-api/
+- type: x-developer
+  url: https://www.internetvideoarchive.com/apis/charts-api/
+- type: x-developer
+  url: https://developer.iva-api.com
+- type: x-developer
+  url: https://developer.iva-api.com/
+- type: x-developer
+  url: http://www.internetvideoarchive.com/apis/image-api/
+- type: x-developer
+  url: http://www.internetvideoarchive.com/apis/video-api/
+- type: x-developer
+  url: http://www.internetvideoarchive.com/apis/charts-api/
+- type: x-developers
+  url: https://developer.iva-api.com/
+- type: x-facebook
+  url: https://www.facebook.com/InternetVideoArchive
+- type: x-facebook
+  url: https://www.facebook.com/VideoDetective
+- type: x-pricing
+  url: https://www.internetvideoarchive.com/pricing-2/
+- type: x-pricing
+  url: https://www.internetvideoarchive.com/pricing/
+- type: x-terms-of-service
+  url: https://developer.iva-api.com/terms
+- type: x-twitter
+  url: https://twitter.com/VideoDetective
+- type: x-website
+  url: https://www.internetvideoarchive.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

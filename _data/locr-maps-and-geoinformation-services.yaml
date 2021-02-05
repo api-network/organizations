@@ -1,0 +1,24 @@
+---
+name: locr Maps and Geo-Information Services
+description: Locr is an online platform and mobile app that offers geo-enhanced photo
+  sharing services for its users.
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/api-butterfly.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "3023741"
+url: https://raw.githubusercontent.com/api-network/organizations/main/locr-maps-and-geoinformation-services.yaml
+tags: []
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/locr
+- type: x-website
+  url: http://maps.locr.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

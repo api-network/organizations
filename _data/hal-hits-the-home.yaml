@@ -1,0 +1,23 @@
+---
+name: HAL Hits the Home
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1977201"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hal-hits-the-home.yaml
+tags:
+- Speech Technology
+- Software
+apis: []
+x-common:
+- type: x-website
+  url: https://www.automatedliving.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

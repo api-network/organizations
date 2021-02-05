@@ -1,0 +1,21 @@
+---
+name: Lynq - Keep Track of All your People
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lynq--keep-track-of-all-your-people.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://lynqme.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

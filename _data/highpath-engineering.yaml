@@ -1,0 +1,31 @@
+---
+name: Highpath Engineering
+description: Highpath Engineering provides specialist cycle products & services for
+  cyclists who find the 'standard' drivetrain does not fit their needs.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/highpath-engineering.yaml
+tags:
+- Showcase
+apis: []
+x-common:
+- type: x-contact
+  url: https://highpath.co.uk/contact/
+- type: x-news
+  url: https://highpath.co.uk/news/
+- type: x-privacy
+  url: https://highpath.co.uk/privacy-policy-cookies/
+- type: x-terms-of-service
+  url: https://highpath.co.uk/terms-and-conditions/
+- type: x-website
+  url: https://www.highpath.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

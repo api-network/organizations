@@ -1,0 +1,47 @@
+---
+name: GovTribe
+description: Federal Contracting Market Intelligence - Built for this decade.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/govtribe-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "110284"
+url: https://raw.githubusercontent.com/api-network/organizations/main/govtribe.yaml
+tags:
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.govtribe.com
+- type: x-base
+  url: http://api.govtribe.com/
+- type: x-blog
+  url: http://govtribe.com/blog/
+- type: x-blog-rss
+  url: http://govtribe.com/blog?format=rss
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/govtribe
+- type: x-developers
+  url: https://api.govtribe.com/
+- type: x-email
+  url: help@govtribe.com
+- type: x-email
+  url: nate@govtribe.com
+- type: x-email
+  url: marc@govtribe.com
+- type: x-email
+  url: jay@govtribe.com
+- type: x-email
+  url: whatshappening@govtribe.com
+- type: x-twitter
+  url: https://twitter.com/govtribe
+- type: x-website
+  url: http://govtribe.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

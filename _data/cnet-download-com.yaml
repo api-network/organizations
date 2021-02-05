@@ -1,0 +1,54 @@
+---
+name: CNET Download.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "137"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cnet-download-com.yaml
+tags:
+- Directories
+apis: []
+x-common:
+- type: x-website
+  url: https://www.download.com
+- type: x-facebook
+  url: https://www.facebook.com/downloadcom/
+- type: x-news
+  url: https://www.cnet.com/news/
+- type: x-partner
+  url: https://download.cnet.com/partner/
+- type: x-privacy
+  url: https://ca.privacy.cbs
+- type: x-privacy
+  url: https://ca.privacy.cbs/donotsell
+- type: x-support
+  url: https://download.cnet.com/support/
+- type: x-terms-of-service
+  url: http://legalterms.cbsinteractive.com/terms-of-use
+- type: x-terms-of-service
+  url: http://legalterms.cbsinteractive.com/privacy
+- type: x-terms-of-service
+  url: https://www.cbsinteractive.com/legal/cbsi/terms-of-use
+- type: x-terms-of-service
+  url: http://legalterms.cbsinteractive.com/adchoice
+- type: x-terms-of-service
+  url: http://www.cbsinteractive.com/legal/cbsi/patents
+- type: x-terms-of-service
+  url: http://legalterms.cbsinteractive.com/eula
+- type: x-twitter
+  url: https://twitter.com/downloadnow
+- type: x-website
+  url: https://download.cnet.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=IalVk7_sxMM
+- type: x-youtube
+  url: http://www.youtube.com/user/CNETDL
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

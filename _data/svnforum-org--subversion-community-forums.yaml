@@ -1,0 +1,94 @@
+---
+name: SVNForum.org - Subversion Community Forums
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1607569"
+url: https://raw.githubusercontent.com/api-network/organizations/main/svnforum-org--subversion-community-forums.yaml
+tags:
+- Subversion
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.svnforum.org/contact-us
+- type: x-forum
+  url: https://www.svnforum.org/
+- type: x-forum
+  url: https://www.svnforum.org/external?type=rss2&nodeid=1
+- type: x-forum
+  url: https://www.svnforum.org/external?type=rss2&nodeid=29
+- type: x-forum
+  url: https://www.svnforum.org/member/125501-dougr
+- type: x-forum
+  url: https://www.svnforum.org/external?type=rss2&nodeid=25
+- type: x-forum
+  url: https://www.svnforum.org/member/565647-ron101
+- type: x-forum
+  url: https://www.svnforum.org/external?type=rss2&nodeid=24
+- type: x-forum
+  url: https://www.svnforum.org/external?type=rss2&nodeid=43
+- type: x-forum
+  url: https://www.svnforum.org/external?type=rss2&nodeid=49
+- type: x-forum
+  url: https://www.svnforum.org/member/565674-davidvazqueztds
+- type: x-forum
+  url: https://www.svnforum.org/external?type=rss2&nodeid=50
+- type: x-forum
+  url: https://www.svnforum.org/external?type=rss2&nodeid=28
+- type: x-forum
+  url: https://www.svnforum.org/external?type=rss2&nodeid=51
+- type: x-forum
+  url: https://www.svnforum.org/member/565322-jjames
+- type: x-forum
+  url: https://www.svnforum.org/external?type=rss2&nodeid=27
+- type: x-forum
+  url: https://www.svnforum.org/forum/ubersvn-community
+- type: x-forum
+  url: https://www.svnforum.org/external?type=rss2&nodeid=23
+- type: x-forum
+  url: https://www.svnforum.org/external?type=rss2&nodeid=30
+- type: x-forum
+  url: https://www.svnforum.org/member/561913-mccarroll
+- type: x-forum
+  url: https://www.svnforum.org/forum/smartsvn-community
+- type: x-forum
+  url: https://www.svnforum.org/external?type=rss2&nodeid=46
+- type: x-forum
+  url: https://www.svnforum.org/member/564280-ansjh
+- type: x-forum
+  url: https://www.svnforum.org/external?type=rss2&nodeid=47
+- type: x-forum
+  url: https://www.svnforum.org/member/564105-s-sarvari
+- type: x-forum
+  url: https://www.svnforum.org/external?type=rss2&nodeid=48
+- type: x-forum
+  url: https://www.svnforum.org/member/73247-nieb
+- type: x-forum
+  url: https://www.svnforum.org/external?type=rss2&nodeid=52
+- type: x-forum
+  url: https://www.svnforum.org/member/563572-onar012
+- type: x-forum
+  url: https://www.svnforum.org/online
+- type: x-forum
+  url: https://www.svnforum.org/member/565849-dinespearson
+- type: x-forum
+  url: https://www.svnforum.org/member/565848-adityamadhira
+- type: x-forum
+  url: https://www.svnforum.org/member/565845-apcruz
+- type: x-forum
+  url: https://www.svnforum.org/member/565842-hansw
+- type: x-forum
+  url: https://www.svnforum.org/search?r=138780495
+- type: x-forum
+  url: https://www.svnforum.org/help
+- type: x-website
+  url: https://www.svnforum.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

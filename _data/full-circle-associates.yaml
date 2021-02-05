@@ -1,0 +1,55 @@
+---
+name: Full Circle Associates
+description: "connections for a changing world, online and off\u2026 on Full Circle
+  Associates\u2026"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5006325"
+url: https://raw.githubusercontent.com/api-network/organizations/main/full-circle-associates.yaml
+tags:
+- Community Management
+apis: []
+x-common:
+- type: x-about
+  url: https://fullcirc.com/about/
+- type: x-about
+  url: https://fullcirc.com/about/about-nancy-white/
+- type: x-about
+  url: https://fullcirc.com/wp/about/
+- type: x-about
+  url: https://fullcirc.com/about/articles-publications/
+- type: x-about
+  url: https://fullcirc.com/about/trainings-and-workshops/
+- type: x-about
+  url: https://fullcirc.com/about/visual-and-graphic-work/
+- type: x-about
+  url: https://fullcirc.com/about/nancy-on-other-sites/
+- type: x-blog
+  url: https://fullcirc.com/wp/weblog/onfacblog.htm
+- type: x-contact
+  url: https://fullcirc.com/contact/
+- type: x-events
+  url: https://liberatingstructures.confetti.events/
+- type: x-events
+  url: https://fullcirc.com/category/events/
+- type: x-feed
+  url: https://feeds.feedburner.com/fullcirc/kmDz
+- type: x-feed
+  url: https://feedburner.google.com
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/4810141/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-privacy
+  url: https://fullcirc.com/about/privacy-and-copyright/
+- type: x-website
+  url: https://www.fullcirc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

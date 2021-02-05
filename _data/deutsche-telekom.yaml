@@ -1,0 +1,29 @@
+---
+name: Deutsche Telekom
+description: |-
+  <p>Deutsche Telekom is the largest telecommunications company in Germany and the European Union.</p>
+
+  <p>Subsidiaries include T-Mobile (the mobile phone provider), T-Home, and T-Systems.</p>
+
+  <p><a href="http://www.crunchbase.com/financial-organization/t-venture" title="T-Venture">T-Venture</a> is its venture capital arm.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/359_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/deutsche-telekom.yaml
+tags:
+- No API
+apis: []
+x-common:
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/deutsche-telekom-labs
+- type: x-website
+  url: http://www.developergarden.com/apis/apis-sdks/telekom-tropo-api/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,35 @@
+---
+name: BlackMagic Enterprises
+description: Black Magic provides high performance hydroponic gardening solutions.
+  Developed by expert growers, providing nutrients needed for growth & maximum yields
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2484149"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blackmagic-enterprises.yaml
+tags:
+- Washington, DC
+apis: []
+x-common:
+- type: x-website
+  url: http://www.blackmagic.com
+- type: x-facebook
+  url: https://www.facebook.com/blackmagichydro
+- type: x-instagram
+  url: https://www.instagram.com/BlackMagicHydro
+- type: x-privacy
+  url: https://www.hawthorne-gardening.com/privacy
+- type: x-terms-of-service
+  url: https://www.hawthorne-gardening.com/terms-conditions
+- type: x-twitter
+  url: https://www.twitter.com/GrowBlackMagic
+- type: x-website
+  url: https://www.blackmagic.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

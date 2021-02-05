@@ -1,0 +1,45 @@
+---
+name: Essential Computing
+description: Essential Computing is dedicated to helping you both protect and maximise
+  your investment in Microsoft Exchange and Office 365 - Discover how we can help.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/essential-computing.yaml
+tags:
+- Microsoft Exchange
+apis: []
+x-common:
+- type: x-website
+  url: http://www.essential.co.uk
+- type: x-about
+  url: https://www.essential.co.uk/about-essential/
+- type: x-blog
+  url: https://www.essential.co.uk/blog/
+- type: x-careers
+  url: https://www.essential.co.uk/careers/
+- type: x-contact
+  url: https://www.essential.co.uk/contact-us/
+- type: x-events
+  url: https://www.essential.co.uk/events/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/essential-computing
+- type: x-privacy
+  url: https://www.essential.co.uk/privacy-cookies-policy/
+- type: x-support
+  url: https://www.essential.co.uk/support/
+- type: x-twitter
+  url: http://www.twitter.com/EssentialTeam
+- type: x-website
+  url: https://www.essential.co.uk
+- type: x-youtube
+  url: http://www.youtube.com/c/EssentialCoUK
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,62 @@
+---
+name: Humio
+description: Humio is a log management software, providing real-time, instant monitoring,
+  analysis, and visibility of log data via ad-hoc querying, schema on read, and live
+  dashboards. Humio is On-Premises or in the Cloud at favourable pricing plans, supporting
+  var...
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29053-docs-humio-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "766314"
+url: https://raw.githubusercontent.com/api-network/organizations/main/humio.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://humio.com/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/humio
+- type: x-documentation
+  url: https://docs.humio.com/#what-is-humio
+- type: x-documentation
+  url: https://docs.humio.com/getting-started/
+- type: x-documentation
+  url: https://docs.humio.com/integrations/
+- type: x-documentation
+  url: https://docs.humio.com/installation/
+- type: x-email
+  url: geeta@humio.com
+- type: x-email
+  url: kresten@humio.com
+- type: x-email
+  url: christian@humio.com
+- type: x-email
+  url: peter@humio.com
+- type: x-email
+  url: thomas@humio.com
+- type: x-email
+  url: benedikte@humio.com
+- type: x-email
+  url: morten@humio.com
+- type: x-email
+  url: mwl@humio.com
+- type: x-email
+  url: jason@humio.com
+- type: x-email
+  url: info@humio.com
+- type: x-support
+  url: https://support.humio.com
+- type: x-twitter
+  url: https://twitter.com/MeetHumio
+- type: x-webhooks
+  url: https://docs.humio.com/alerts/webhook/
+- type: x-website
+  url: https://docs.humio.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

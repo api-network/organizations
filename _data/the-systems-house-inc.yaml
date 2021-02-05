@@ -1,0 +1,32 @@
+---
+name: The Systems House, Inc
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2313097"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-systems-house-inc.yaml
+tags:
+- Products And Services
+apis: []
+x-common:
+- type: x-website
+  url: http://www.tshinc.com
+- type: x-facebook
+  url: http://www.facebook.com/tshsales
+- type: x-feed
+  url: http://feeds.feedburner.com/TshNewsroom
+- type: x-linkedin
+  url: http://www.linkedin.com/company/the-systems-house-inc.
+- type: x-twitter
+  url: http://www.twitter.com/tshsales
+- type: x-website
+  url: https://www.tshinc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

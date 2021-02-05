@@ -1,0 +1,42 @@
+---
+name: TripAdvisor
+description: <p>TripAdvisor is the world's largest travel site, enabling travelers
+  to plan and book the perfect trip. TripAdvisor offers advice from millions of travelers
+  and a wide variety of travel choices and planning features with seamless links to
+  booking tools that check hundreds of websites to find the best hotel prices. TripAdvisor
+  branded sites make up the largest travel community in the world, reaching 350 million
+  unique monthly visitors**, and more than 290 million reviews and opinions covering
+  more than 5.3 million accommodations, restaurants and attractions. The sites operate
+  in 47 countries worldwide.&nbsp;</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/tripadvisor-logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "269"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tripadvisor.yaml
+tags:
+- Have API
+- Content
+apis: []
+x-common:
+- type: x-website
+  url: http://www.tripadvisor.com
+- type: x-developers
+  url: https://developer-tripadvisor.com/home/
+- type: x-github
+  url: https://github.com/tripadvisor
+- type: x-privacy
+  url: https://tripadvisor.mediaroom.com/us-privacy-policy
+- type: x-terms-of-service
+  url: https://tripadvisor.mediaroom.com/us-terms-of-use
+- type: x-twitter
+  url: https://twitter.com/TripAdvisor
+- type: x-website
+  url: https://www.tripadvisor.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

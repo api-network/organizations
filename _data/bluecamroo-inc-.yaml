@@ -1,0 +1,32 @@
+---
+name: BlueCamroo Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1882706"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bluecamroo-inc-.yaml
+tags:
+- Rentable
+apis: []
+x-common:
+- type: x-website
+  url: http://www.bluecamroo.com
+- type: x-facebook
+  url: http://www.facebook.com/bluecamroo
+- type: x-linkedin
+  url: http://www.linkedin.com/company/649840
+- type: x-support
+  url: https://www.bluecamroo.com/bluecamroo-faq-support
+- type: x-twitter
+  url: http://www.twitter.com/bluecamroo
+- type: x-website
+  url: https://www.bluecamroo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

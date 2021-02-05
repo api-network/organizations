@@ -1,0 +1,92 @@
+---
+name: Bugsnag
+description: Bugsnag monitors apps for errors that impact customers & reports all
+  diagnostic data. By default, we save every error, so your data won't be sampled.
+  Try it free.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1314-bugsnag.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "42582"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bugsnag.yaml
+tags:
+- Have API
+- Bug Tracking
+- API Provider
+apis: []
+x-common:
+- type: x-base
+  url: https://api.bugsnag.com
+- type: x-blog
+  url: http://blog.bugsnag.com/
+- type: x-blog-rss
+  url: https://bugsnag.com/blog/feed.xml
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/bugsnag
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/bugsnag
+- type: x-documentation
+  url: https://docs.bugsnag.com/
+- type: x-documentation
+  url: https://docs.bugsnag.com/legal/terms-of-service/
+- type: x-documentation
+  url: https://docs.bugsnag.com/legal/privacy-policy/
+- type: x-email
+  url: support@bugsnag.com
+- type: x-github
+  url: https://github.com/bugsnag
+- type: x-github
+  url: https://github.com/bugsnag/bugsnag-android
+- type: x-github
+  url: https://github.com/bugsnag/bugsnag-cocoa
+- type: x-github
+  url: https://github.com/bugsnag/bugsnag-js
+- type: x-github
+  url: https://github.com/bugsnag/bugsnag-ruby
+- type: x-github
+  url: https://github.com/bugsnag/bugsnag-java
+- type: x-github
+  url: https://github.com/bugsnag/
+- type: x-login
+  url: https://app.bugsnag.com/user/sign_in/
+- type: x-platform
+  url: https://docs.bugsnag.com/platforms/android/
+- type: x-platform
+  url: https://docs.bugsnag.com/platforms/ios/
+- type: x-platform
+  url: https://docs.bugsnag.com/platforms/
+- type: x-platform
+  url: https://docs.bugsnag.com/platforms/javascript/
+- type: x-platform
+  url: https://docs.bugsnag.com/platforms/javascript/react/
+- type: x-platform
+  url: https://www.bugsnag.com/platforms/vue-js/
+- type: x-platform
+  url: https://www.bugsnag.com/platforms/angular/
+- type: x-platform
+  url: https://www.bugsnag.com/platforms/ember/
+- type: x-platform
+  url: https://docs.bugsnag.com/platforms/ruby/
+- type: x-platform
+  url: https://docs.bugsnag.com/platforms/java/other/
+- type: x-platform
+  url: https://www.bugsnag.com/platforms/php/laravel/
+- type: x-platform
+  url: https://www.bugsnag.com/platforms/node-js/
+- type: x-platform
+  url: https://www.bugsnag.com/platforms/dotnet/
+- type: x-status
+  url: https://status.bugsnag.com/
+- type: x-twitter
+  url: https://twitter.com/bugsnag/
+- type: x-twitter
+  url: https://twitter.com/bugsnag
+- type: x-website
+  url: https://www.bugsnag.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

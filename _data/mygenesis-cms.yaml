@@ -1,0 +1,30 @@
+---
+name: MyGenesis! CMS
+description: MyGenesis CMS Multi User Browser Based Content Management System and
+  Site Builder
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mygenesis-cms.yaml
+tags:
+- Wedding Site Builder
+- Multi User Site Builder Software
+- Content Management
+- CMS Software
+- CMS Site Builder
+- Browser Based CMS
+apis: []
+x-common:
+- type: x-login
+  url: http://www.my-genesis.com/index2.php?page=login
+- type: x-website
+  url: https://www.my-genesis.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

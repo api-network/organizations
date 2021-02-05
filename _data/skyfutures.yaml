@@ -1,0 +1,37 @@
+---
+name: Sky-Futures
+description: '<p>The mission of Sky-Futures is to improve safety and reduce risk across
+  industries through technological innovation. Sky-Futures has used industry-leading
+  operational expertise and experience to develop groundbreaking software and technology
+  solutions that allow enterprise clients to effectively harness the power of drone-driven
+  data collection and analysis. Sky-Futures enables enterprise to perform safe and
+  cost effective drone inspections of a variety of vertical infrastructures, including
+  but not limited to the following industries: Oil and Gas; Renewables; Utilities;
+  Telecoms; Bridges; and Construction.</p>'
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/sky-futures-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/skyfutures.yaml
+tags:
+- Drones
+apis: []
+x-common:
+- type: x-website
+  url: http://www.sky-futures.com
+- type: x-blog
+  url: http://www.sky-futures.com/news-updates/
+- type: x-blog-rss
+  url: http://www.sky-futures.com/feed/
+- type: x-twitter
+  url: https://twitter.com/SkyFutures
+- type: x-website
+  url: http://www.sky-futures.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

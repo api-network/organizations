@@ -1,0 +1,45 @@
+---
+name: UPS
+description: Developer Resource Center
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/ups_logo.gif
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "275"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ups.yaml
+tags:
+- Have API
+- API
+apis: []
+x-common:
+- type: x-website
+  url: https://bit.ly/2vFWOnd
+- type: x-base
+  url: https://wwwcie.ups.com/ups.app/xml/
+- type: x-careers
+  url: https://www.jobs-ups.com/location
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/united-parcel-service
+- type: x-email
+  url: fraud@ups.com
+- type: x-facebook
+  url: http://www.facebook.com/ups
+- type: x-investor
+  url: http://www.investors.ups.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/ups
+- type: x-press
+  url: https://www.pressroom.ups.com
+- type: x-twitter
+  url: https://twitter.com/UPS
+- type: x-website
+  url: http://www.ups.com/content/us/en/resources/techsupport/developercenter.html
+- type: x-youtube
+  url: https://www.youtube.com/ups
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

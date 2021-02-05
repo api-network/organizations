@@ -1,0 +1,50 @@
+---
+name: EScan
+description: eScan is an internet security solution that provides virus protection
+  to businesses and home SOHO users. Download free anti-virus for best antivirus security.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "171274"
+url: https://raw.githubusercontent.com/api-network/organizations/main/escan.yaml
+tags:
+- Internet Security
+- Free Antivirus
+- Detection And Removal Tools
+- Cyber Security
+- Cyber Intelligence
+- Best Windows Antivirus 2016
+- Best Virus Protection
+- Best Antivirus 2016
+- Best Antivirus
+- Antivirus
+apis: []
+x-common:
+- type: x-website
+  url: https://www.escanav.com/
+- type: x-blog
+  url: https://blog.escanav.com/
+- type: x-facebook
+  url: http://www.facebook.com/eScanFanPage
+- type: x-forum
+  url: https://forum.escanav.com/
+- type: x-instagram
+  url: https://www.instagram.com/mwti.inc
+- type: x-linkedin
+  url: http://www.linkedin.com/company/83845?trk=tyah
+- type: x-privacy
+  url: https://www.escanav.com/en/about-us/privacy-policy.asp
+- type: x-twitter
+  url: https://twitter.com/@escan_tweet
+- type: x-website
+  url: https://www.escanav.com
+- type: x-youtube
+  url: http://www.youtube.com/user/MicroWorldInc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

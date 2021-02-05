@@ -1,0 +1,57 @@
+---
+name: Equation Technologies
+description: Equation Tech supports Sage 300 (Accpac), Sage CRM, FAS & HR offering
+  implementation, customization, tech support and integration services & 30-days free
+  trial.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2658434"
+url: https://raw.githubusercontent.com/api-network/organizations/main/equation-technologies.yaml
+tags:
+- Sage Training
+- Sage Support
+- Sage Accpac
+- Sage Accoutning Software
+- Sage 300 Erp
+- ACCPAC
+apis: []
+x-common:
+- type: x-website
+  url: http://www.equationtech.us
+- type: x-about
+  url: https://www.equationtech.us/about-us
+- type: x-blog
+  url: https://www.equationtech.us/sage-accpac-blog
+- type: x-blog
+  url: https://www.equationtech.us/sage-intacct-blog
+- type: x-careers
+  url: https://www.equationtech.us/careers
+- type: x-case-studies
+  url: https://www.equationtech.us/case-studies
+- type: x-contact
+  url: https://www.equationtech.us/contact
+- type: x-facebook
+  url: https://www.facebook.com/EquationTechnologies/
+- type: x-integrations
+  url: https://www.equationtech.us/sage-integrations
+- type: x-partner
+  url: https://www.equationtech.us/partners
+- type: x-support
+  url: https://www.equationtech.us/sage-services/support
+- type: x-support
+  url: https://www.equationtech.us/sage-300-support-san-diego
+- type: x-support
+  url: https://www.equationtech.us/sage-300-support-seattle
+- type: x-twitter
+  url: https://twitter.com/Equation_Accpac
+- type: x-website
+  url: https://www.equationtech.us
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

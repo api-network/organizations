@@ -1,0 +1,23 @@
+---
+name: Codiac Transpo GTFS
+description: Transit authority located in Moncton, NB, Canada<br />
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/codiac-transpo-gtfs.yaml
+tags: []
+apis: []
+x-common:
+- type: x-gtfs-feed
+  url: http://www.moncton.ca/gtfs/google_transit.zip
+- type: x-website
+  url: http://www.moncton.ca/Government/Terms_of_use/Open_Data_Purpose/Data_Catalogue/Transit_Files__GTFS_.htm
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

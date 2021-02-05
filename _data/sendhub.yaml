@@ -1,0 +1,75 @@
+---
+name: SendHub
+description: <p>SendHub provides a simple, fast and reliable communications platform
+  for businesses and organizations. Our BYOD business phone system is easy to use
+  and manage with no contracts or no hardware to install. Business owners or IT admins
+  can easily add, delete or reallocate phone lines, monitor usage, and download analytics
+  with a single click. Call or text using any device, whether it is a PC, cellphone
+  or tablet.&nbsp;</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1147_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "263829"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sendhub.yaml
+tags:
+- Target
+- Messages
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://sendhub.com
+- type: x-about
+  url: https://www.sendhub.com/about-sendhub/
+- type: x-base
+  url: https://api.sendhub.com
+- type: x-blog
+  url: https://www.sendhub.com/blog/
+- type: x-blog
+  url: http://blog.sendhub.com
+- type: x-blog-rss
+  url: http://blog.sendhub.com/rss
+- type: x-careers
+  url: https://www.sendhub.com/jobs/
+- type: x-contact
+  url: https://www.sendhub.com/contact-us/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/sendhub
+- type: x-customers
+  url: https://www.sendhub.com/customers/
+- type: x-developers
+  url: https://www.sendhub.com/developer/
+- type: x-facebook
+  url: https://www.facebook.com/sendhub/
+- type: x-github
+  url: https://github.com/Sendhub
+- type: x-instagram
+  url: https://www.instagram.com/sendhubsms/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/sendhub
+- type: x-login
+  url: https://app.sendhub.com/login
+- type: x-pricing
+  url: https://www.sendhub.com/pricing/
+- type: x-privacy
+  url: https://www.sendhub.com/privacy/
+- type: x-status
+  url: https://sendhub.statuspage.io/
+- type: x-support
+  url: https://sendhub.force.com/support/s/
+- type: x-terms-of-service
+  url: https://www.sendhub.com/terms/
+- type: x-twitter
+  url: https://twitter.com/#!/SendHub
+- type: x-twitter
+  url: https://twitter.com/SendHub
+- type: x-website
+  url: https://www.sendhub.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

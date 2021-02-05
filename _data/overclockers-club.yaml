@@ -1,0 +1,176 @@
+---
+name: Overclockers Club
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "200040"
+url: https://raw.githubusercontent.com/api-network/organizations/main/overclockers-club.yaml
+tags:
+- Reviews
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.overclockersclub.com/pages/contact/
+- type: x-facebook
+  url: https://www.facebook.com/OverclockersClub
+- type: x-feed
+  url: https://www.overclockersclub.com/feeds/
+- type: x-forum
+  url: https://forums.overclockersclub.com/
+- type: x-login
+  url: https://www.overclockersclub.com/login.php
+- type: x-logos
+  url: https://www.overclockersclub.com/pages/logos/
+- type: x-news
+  url: https://www.overclockersclub.com/profile.php#news_pref
+- type: x-news
+  url: https://www.overclockersclub.com/postnews.php
+- type: x-news
+  url: https://www.overclockersclub.com/news/archives/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42890/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42890/#comments
+- type: x-news
+  url: https://www.overclockersclub.com/news/42889/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42889/#comments
+- type: x-news
+  url: https://www.overclockersclub.com/news/42888/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42888/#comments
+- type: x-news
+  url: https://www.overclockersclub.com/news/42887/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42887/#comments
+- type: x-news
+  url: https://www.overclockersclub.com/news/42886/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42886/#comments
+- type: x-news
+  url: https://www.overclockersclub.com/news/42885/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42885/#comments
+- type: x-news
+  url: https://www.overclockersclub.com/news/42884/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42884/#comments
+- type: x-news
+  url: https://www.overclockersclub.com/news/42883/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42883/#comments
+- type: x-news
+  url: https://www.overclockersclub.com/news/42365/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42882/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42882/#comments
+- type: x-news
+  url: https://www.overclockersclub.com/news/42881/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42881/#comments
+- type: x-news
+  url: https://www.overclockersclub.com/news/42880/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42880/#comments
+- type: x-news
+  url: https://www.overclockersclub.com/news/42879/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42879/#comments
+- type: x-news
+  url: https://www.overclockersclub.com/news/42878/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42878/#comments
+- type: x-news
+  url: https://www.overclockersclub.com/news/42874/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42877/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42877/#comments
+- type: x-news
+  url: https://www.overclockersclub.com/news/42876/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42876/#comments
+- type: x-news
+  url: https://www.overclockersclub.com/news/42875/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42875/#comments
+- type: x-news
+  url: https://www.overclockersclub.com/news/42874/#comments
+- type: x-news
+  url: https://www.overclockersclub.com/news/42873/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42873/#comments
+- type: x-news
+  url: https://www.overclockersclub.com/news/42872/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42872/#comments
+- type: x-news
+  url: https://www.overclockersclub.com/news/42871/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42871/#comments
+- type: x-news
+  url: https://www.overclockersclub.com/news/42870/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42870/#comments
+- type: x-news
+  url: https://www.overclockersclub.com/news/42869/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42869/#comments
+- type: x-news
+  url: https://www.overclockersclub.com/news/42868/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42868/#comments
+- type: x-news
+  url: https://www.overclockersclub.com/news/42867/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42867/#comments
+- type: x-news
+  url: https://www.overclockersclub.com/news/42866/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42866/#comments
+- type: x-news
+  url: https://www.overclockersclub.com/news/42865/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42865/#comments
+- type: x-news
+  url: https://www.overclockersclub.com/news/42864/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42864/#comments
+- type: x-news
+  url: https://www.overclockersclub.com/news/42846/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42863/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42863/#comments
+- type: x-news
+  url: https://www.overclockersclub.com/news/42862/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42862/#comments
+- type: x-news
+  url: https://www.overclockersclub.com/news/42861/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42861/#comments
+- type: x-news
+  url: https://www.overclockersclub.com/news/42803/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42824/
+- type: x-news
+  url: https://www.overclockersclub.com/news/42773/
+- type: x-privacy
+  url: https://www.overclockersclub.com/pages/privacy/
+- type: x-self-service-registration
+  url: https://www.overclockersclub.com/register.php
+- type: x-website
+  url: https://www.overclockersclub.com
+- type: x-youtube
+  url: https://www.youtube.com/overclockersclub
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

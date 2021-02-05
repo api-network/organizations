@@ -1,0 +1,33 @@
+---
+name: MultiQ
+description: Complete solution provider of Digital Signage and Monitors for public
+  environments
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "976633"
+url: https://raw.githubusercontent.com/api-network/organizations/main/multiq.yaml
+tags:
+- Ruggedized
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/MultiQ-1629860477311636/
+- type: x-investor
+  url: http://investors.multiq.com
+- type: x-investor
+  url: http://investor.multiq.com
+- type: x-login
+  url: https://op.multiq.com/publiq/base/pp_login.php
+- type: x-login
+  url: https://cms.multiq.com/login
+- type: x-website
+  url: https://www.multiq.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

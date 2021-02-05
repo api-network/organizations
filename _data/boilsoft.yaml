@@ -1,0 +1,36 @@
+---
+name: Boilsoft
+description: Boilsoft provides professional Spotify to MP3 Converter, Apple Music
+  Converter, iTunes DRM Media Converter, Video Splitter/Joiner/Converter software
+  for both Mac and Windows users. It has a variety of DRM removal software with unique
+  features.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "582333"
+url: https://raw.githubusercontent.com/api-network/organizations/main/boilsoft.yaml
+tags:
+- Video Splitter
+- Video Joiner
+- Video Converter
+- ITunes DRM Converter
+- Digital Video
+- Apple Music Converter
+apis: []
+x-common:
+- type: x-website
+  url: http://www.boilsoft.com
+- type: x-facebook
+  url: https://facebook.com/Boilsoft
+- type: x-twitter
+  url: https://twitter.com/Boilsoft
+- type: x-website
+  url: https://www.boilsoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

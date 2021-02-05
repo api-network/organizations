@@ -1,0 +1,41 @@
+---
+name: Humaniq
+description: Humaniq is a simple and secure mobile app, delivering financial inclusion
+  solutions globally.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26751-humaniq-co.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "241984"
+url: https://raw.githubusercontent.com/api-network/organizations/main/humaniq.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: https://humaniq.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/humaniq
+- type: x-email
+  url: info@humaniq.com
+- type: x-email
+  url: invest@humaniq.com
+- type: x-email
+  url: work@humaniq.com
+- type: x-email
+  url: appsupport@humaniq.com
+- type: x-email
+  url: feedback@humaniq.com
+- type: x-email
+  url: admin@humaniq.com
+- type: x-twitter
+  url: https://twitter.com/humaniq_co
+- type: x-website
+  url: https://humaniq.co
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

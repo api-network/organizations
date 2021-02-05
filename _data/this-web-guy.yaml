@@ -1,0 +1,40 @@
+---
+name: This Web Guy
+description: SEO, Internet Marketing and Web Development
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/this-web-guy.yaml
+tags:
+- Weblogs
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.thiswebguy.com/contact/
+- type: x-facebook
+  url: http://www.facebook.com/thiswebguy
+- type: x-feed
+  url: http://www.thiswebguy.com/feed
+- type: x-linkedin
+  url: http://uk.linkedin.com/in/rickydawn/
+- type: x-news
+  url: https://www.thiswebguy.com/category/news/
+- type: x-press
+  url: https://www.thiswebguy.com/category/wordpress/
+- type: x-press
+  url: https://www.thiswebguy.com/wordpress-snippets/
+- type: x-twitter
+  url: http://www.twitter.com/Ricky_Dawn
+- type: x-website
+  url: https://www.thiswebguy.com
+- type: x-youtube
+  url: http://www.youtube.com/user/thiswebguy
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

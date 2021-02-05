@@ -1,0 +1,45 @@
+---
+name: Xine
+description: Download xine - a free video player for free.  xine is a free multimedia
+  player. It plays back CDs, DVDs, and VCDs.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8616705"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xine.yaml
+tags:
+- Xine - A Free Video Player
+- RTSP
+- Players
+- Download Xine - A Free Video Player Free
+- Display
+apis: []
+x-common:
+- type: x-documentation
+  url: https://p.sf.net/sourceforge/docs
+- type: x-facebook
+  url: https://www.facebook.com/sourceforgenet/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/sourceforge.net
+- type: x-privacy
+  url: https://slashdotmedia.com/privacy-statement/
+- type: x-privacy
+  url: http://slashdotmedia.com/privacy-statement/
+- type: x-terms-of-service
+  url: https://slashdotmedia.com/terms-of-use/
+- type: x-terms-of-service
+  url: http://slashdotmedia.com/terms-of-use
+- type: x-twitter
+  url: https://twitter.com/sourceforge
+- type: x-twitter
+  url: https://twitter.com/sfnet_ops
+- type: x-website
+  url: https://www.xine-project.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,27 @@
+---
+name: RCM Data
+description: RCM Technology Group has offered first-rate office technology and solutions
+  to Burr Ridge, Chicago and surrounding areas since 1981.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rcm-data.yaml
+tags:
+- North America
+- Chicago Print Solutions
+- Chicago Office Equipment
+- Chicago Managed Solutions
+- Chicago Document Solutions
+apis: []
+x-common:
+- type: x-website
+  url: https://www.rcmdata.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

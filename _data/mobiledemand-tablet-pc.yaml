@@ -1,0 +1,36 @@
+---
+name: MobileDemand Tablet PC
+description: MobileDemand manufactures xTablet rugged tablets with Windows and Andoid
+  for business and enterprise operations. We help you find the right tablet for the
+  job.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "165554"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mobiledemand-tablet-pc.yaml
+tags:
+- Tablet PCs
+apis: []
+x-common:
+- type: x-website
+  url: http://www.RuggedTabletPC.com
+- type: x-events
+  url: https://www.ruggedtabletpc.com/upcoming-events
+- type: x-facebook
+  url: https://www.facebook.com/TabletPC/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/mobiledemand
+- type: x-twitter
+  url: https://twitter.com/ruggedtabletpc
+- type: x-website
+  url: https://www.ruggedtabletpc.com
+- type: x-youtube
+  url: https://www.youtube.com/user/ruggedtabletpc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

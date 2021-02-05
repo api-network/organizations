@@ -1,0 +1,41 @@
+---
+name: Slatwall eCommerce
+description: Built from the ground up, Slatwall Commerce's flexible eCommerce platform
+  allows you to respond the new opportunities quickly and with ease. Learn More.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1149160"
+url: https://raw.githubusercontent.com/api-network/organizations/main/slatwall-ecommerce.yaml
+tags:
+- Applications
+apis: []
+x-common:
+- type: x-website
+  url: http://www.slatwallcommerce.com
+- type: x-blog
+  url: https://www.slatwallcommerce.com/resources/blog/
+- type: x-facebook
+  url: http://www.facebook.com/slatwallcommerce
+- type: x-github
+  url: http://www.github.com/ten24/slatwall
+- type: x-linkedin
+  url: https://www.linkedin.com/company/slatwall-ecommerce
+- type: x-platform
+  url: https://www.slatwallcommerce.com/platform/
+- type: x-privacy
+  url: https://www.slatwallcommerce.com/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/getslatwall
+- type: x-website
+  url: https://www.slatwallcommerce.com
+- type: x-youtube
+  url: https://www.youtube.com/c/slatwallcommerce
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

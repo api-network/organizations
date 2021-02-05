@@ -1,0 +1,37 @@
+---
+name: TextLinkBrokers.com
+description: Our link building services helped define the industry practice and they
+  continue to help clients climb up the search rankings and find new customers.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "681976"
+url: https://raw.githubusercontent.com/api-network/organizations/main/textlinkbrokers-com.yaml
+tags:
+- Link Popularity
+apis: []
+x-common:
+- type: x-about
+  url: https://www.digitalcurrent.com/about/
+- type: x-contact
+  url: https://www.digitalcurrent.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/digitalcurrent/
+- type: x-instagram
+  url: https://www.instagram.com/digitalcurrent/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/digitalcurrent/
+- type: x-terms-of-service
+  url: https://www.digitalcurrent.com/legal/
+- type: x-twitter
+  url: https://twitter.com/digitalcurrent?lang=en
+- type: x-website
+  url: https://www.textlinkbrokers.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

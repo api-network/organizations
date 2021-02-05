@@ -1,0 +1,29 @@
+---
+name: LCH
+description: A leading global clearing house, providing proven risk management capabilities
+  across a range of asset classes
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28048-www-lch-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1061900"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lch.yaml
+tags:
+- EU Bank
+apis: []
+x-common:
+- type: x-website
+  url: http://www.lch.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/lchclearnet-com
+- type: x-twitter
+  url: https://twitter.com/LCH_Clearing
+- type: x-website
+  url: https://www.lch.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,61 @@
+---
+name: National Institute of Standards and Technology (NIST)
+description: <p><span>The National Institute of Standards and Technology is a physical
+  sciences laboratory and a non-regulatory agency of the United States Department
+  of Commerce. Its mission is to promote innovation and industrial competitiveness.</span></p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/national-institute-of-standards-and-technology-nist.yaml
+tags:
+- Tech Transfer
+- Standards
+- Science And Technology
+- OpenSource
+- NIST
+- Measurement
+- IP Addresses
+- Flc
+- Federal Government
+- Data Provider
+- Code
+- API Provider
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-website
+  url: http://www.nist.gov
+- type: x-facebook
+  url: http://www.facebook.com/federallabs
+- type: x-facebook
+  url: https://www.facebook.com/usnistgov/
+- type: x-flickr
+  url: https://www.flickr.com/photos/federallabs
+- type: x-flickr
+  url: http://flickr.com/photos/usnistgov
+- type: x-github
+  url: http://github.com/NIST-BWS
+- type: x-github
+  url: http://github.com/usnistgov
+- type: x-linkedin
+  url: https://www.linkedin.com/company/federallabs
+- type: x-linkedin
+  url: https://www.linkedin.com/company/nist
+- type: x-twitter
+  url: https://twitter.com/federallabs
+- type: x-twitter
+  url: http://twitter.com/usnistgov
+- type: x-website
+  url: https://www.nist.gov
+- type: x-youtube
+  url: https://www.youtube.com/user/Federallabs
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

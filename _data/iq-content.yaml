@@ -1,0 +1,69 @@
+---
+name: iQ Content
+description: "\u901A\u4FE1\u6599\u91D1\u306E\u898B\u76F4\u3057\u3067\u3001\u96FB\u6C17\u901A\u4FE1\u4E8B\u696D\u6CD5\u306E\u6539\u6B63\u304C2019\u5E7410\u6708\u306B\u884C\u308F\u308C\u307E\u3057\u305F\u3002
+  \u96FB\u6C17\u901A\u4FE1\u4E8B\u696D\u6CD5\u306E\u6539\u6B63\u306E\u72D9\u3044\u306F\u3001\u6D88\u8CBB\u8005\u306B\u5206\u304B\u308A\u306B\u304F\u3044\u6599\u91D1\u30D7\u30E9\u30F3\u306E\u6539\u5584\u3001
+  \u30B9\u30DE\u30DB\u672C\u4F53\u306E\u5927\u5E45\u306A\u5272\u5F15\u3092\u6B62\u3081\u3066\u3001\u901A\u4FE1\u6599\u91D1\u306E\u3068\u3053\u308D\u3067\u4FA1\u683C\u7AF6\u4E89\u3092\u3057\u3066\u3001\u5168\u4F53\u7684\u306B\u901A\u4FE1\u6599\u91D1\u3092\u4E0B\u3052\u308B\u3068\u3044\u3046\u76EE\u7684\u3092\u6301\u3063\u3066\u3044\u307E\u3059\u3002"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/iq-content.yaml
+tags:
+- "\u6BD4\u8F03"
+- "\u683C\u5B89sim"
+- "\u643A\u5E2F\u6599\u91D1"
+- "\u5DE5\u4E8B\u4E0D\u8981"
+- "\u5149\u56DE\u7DDA"
+- "Wimax\u3001\u30E2\u30D0\u30A4\u30EBwi-fi"
+- Wimax2+
+- Wimax
+- Wi-Fi
+- "Nuro\u5149"
+- Novas Wimax
+- Novas Home+ca
+- "Ip\uFF566"
+- "\u901A\u4FE1\u5236\u9650"
+- "\u901A\u4FE1\u8CBB\u7BC0\u7D04"
+- "\u901A\u4FE1\u901F\u5EA6"
+- "\u901A\u4FE1\u30A8\u30EA\u30A2"
+- Drive Wimax2
+- "Dmm\u5149"
+- Companies And Consultants
+- Broad Wimax
+- "\u30E2\u30D0\u30A4\u30EB\u30EB\u30FC\u30BF\u30FC"
+- "\u30DB\u30FC\u30E0\u30EB\u30FC\u30BF\u30FC"
+- "\u30D7\u30ED\u30D0\u30A4\u30C0\u8A73\u7D30"
+- "\u30B9\u30DE\u30DB"
+- "\u30A4\u30F3\u30BF\u30FC\u30CD\u30C3\u30C8\u5951\u7D04"
+- "\u3069\u3093\u306A\u3068\u304D\u3082wifi"
+- "\u304A\u3059\u3059\u3081"
+- '@nifty Wimax'
+- "2\u5E74\u5951\u7D04"
+apis: []
+x-common:
+- type: x-contact
+  url: https://iqcontent.com/contact/
+- type: x-developer
+  url: http://developer.iqcontent.com
+- type: x-feed
+  url: https://iqcontent.com//?feed=rss2
+- type: x-feed
+  url: https://iqcontent.com/feed/
+- type: x-feed
+  url: https://iqcontent.com/comments/feed/
+- type: x-login
+  url: https://iqcontent.com/wp-login.php
+- type: x-press
+  url: https://ja.wordpress.org/
+- type: x-privacy
+  url: https://iqcontent.com/privacy-policy/
+- type: x-website
+  url: https://www.iqcontent.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

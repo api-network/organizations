@@ -1,0 +1,90 @@
+---
+name: MSFTextrememakeover
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/msftextrememakeover.yaml
+tags:
+- Weblogs
+apis: []
+x-common:
+- type: x-blog
+  url: http://www.edbott.com/weblog/?p=2011
+- type: x-blog
+  url: http://blogs.zdnet.com/Gardner/?p=2618
+- type: x-blog
+  url: http://blogs.zdnet.com/hardware/?p=1536&page=2
+- type: x-blog
+  url: http://blogs.zdnet.com/hardware/?p=1520
+- type: x-blog
+  url: http://blogs.zdnet.com/microsoft/?p=1303
+- type: x-blog
+  url: http://blogs.zdnet.com/microsoft/?p=1212
+- type: x-blog
+  url: https://www.blogger.com/profile/07404568317468095371
+- type: x-blog
+  url: http://msftextrememakeover.blogspot.com/2006/06/
+- type: x-blog
+  url: http://msftextrememakeover.blogspot.com/2006/07/
+- type: x-blog
+  url: http://msftextrememakeover.blogspot.com/2006/08/
+- type: x-blog
+  url: http://msftextrememakeover.blogspot.com/2006/09/
+- type: x-blog
+  url: http://msftextrememakeover.blogspot.com/2006/10/
+- type: x-blog
+  url: http://msftextrememakeover.blogspot.com/2006/11/
+- type: x-blog
+  url: http://msftextrememakeover.blogspot.com/2006/12/
+- type: x-blog
+  url: http://msftextrememakeover.blogspot.com/2007/01/
+- type: x-blog
+  url: http://msftextrememakeover.blogspot.com/2007/02/
+- type: x-blog
+  url: http://msftextrememakeover.blogspot.com/2007/03/
+- type: x-blog
+  url: http://msftextrememakeover.blogspot.com/2007/04/
+- type: x-blog
+  url: http://msftextrememakeover.blogspot.com/2007/05/
+- type: x-blog
+  url: http://msftextrememakeover.blogspot.com/2007/06/
+- type: x-blog
+  url: http://msftextrememakeover.blogspot.com/2007/07/
+- type: x-blog
+  url: http://msftextrememakeover.blogspot.com/2007/08/
+- type: x-blog
+  url: http://msftextrememakeover.blogspot.com/2007/09/
+- type: x-blog
+  url: http://msftextrememakeover.blogspot.com/2007/10/
+- type: x-blog
+  url: http://msftextrememakeover.blogspot.com/2007/12/
+- type: x-blog
+  url: http://msftextrememakeover.blogspot.com/2008/01/
+- type: x-blog
+  url: http://msftextrememakeover.blogspot.com/2008/02/
+- type: x-blog
+  url: http://msftextrememakeover.blogspot.com/2008/04/
+- type: x-blog
+  url: http://msftextrememakeover.blogspot.com/2008/06/
+- type: x-blog
+  url: http://minimsft.blogspot.com/
+- type: x-news
+  url: http://www.news.com/8301-13860_3-9871715-56.html
+- type: x-news
+  url: http://biz.yahoo.com/prnews/080211/aqm241.html?.v=2
+- type: x-press
+  url: http://www.comscore.com/press/release.asp?press=2068
+- type: x-security
+  url: http://www.crn.com/security/206905442
+- type: x-website
+  url: https://msftextrememakeover.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

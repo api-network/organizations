@@ -1,0 +1,49 @@
+---
+name: Patricia Egen Consulting, LLC
+description: Retain our exceptional IT services for computer program consulting, programming
+  and training. We specialize in ACT!, Microsoft Office products and Lotus Notes.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5359823"
+url: https://raw.githubusercontent.com/api-network/organizations/main/patricia-egen-consulting-llc.yaml
+tags:
+- Business Partners
+apis: []
+x-common:
+- type: x-website
+  url: http://www.egenconsulting.com
+- type: x-blog
+  url: https://www.egenconsulting.com/tag/blogging/
+- type: x-blog
+  url: https://www.egenconsulting.com/tag/plagerism-blogging/
+- type: x-contact
+  url: https://www.egenconsulting.com/contactus.html
+- type: x-facebook
+  url: http://www.facebook.com/patriciaegenconsulting
+- type: x-feed
+  url: https://www.egenconsulting.com/feed/
+- type: x-press
+  url: http://pregen.wordpress.com/
+- type: x-privacy
+  url: https://www.egenconsulting.com/privacy-statement.html
+- type: x-security
+  url: https://www.egenconsulting.com/category/data-security/
+- type: x-security
+  url: https://www.egenconsulting.com/tag/data-security/
+- type: x-support
+  url: https://www.egenconsulting.com/support.html
+- type: x-twitter
+  url: https://twitter.com/pregen/
+- type: x-twitter
+  url: https://twitter.com/pecautotools
+- type: x-website
+  url: https://www.egenconsulting.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

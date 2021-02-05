@@ -1,0 +1,26 @@
+---
+name: Warpstock Europe Event
+description: Warpstock Europe is an annual conference about the OS/2 operating system
+  and software.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/warpstock-europe-event.yaml
+tags:
+- OS/2 Arcaos Ecomstation
+- Advocacy
+apis: []
+x-common:
+- type: x-events
+  url: http://www.warpevents.eu/en/archive.html
+- type: x-website
+  url: https://www.warpstock.eu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

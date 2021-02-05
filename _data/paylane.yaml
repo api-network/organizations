@@ -1,0 +1,81 @@
+---
+name: PayLane
+description: PayLane provides the best online payments solutions for SaaS & Ecommerce
+  businesses. Apply and get more customers.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1549_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "197124"
+url: https://raw.githubusercontent.com/api-network/organizations/main/paylane.yaml
+tags:
+- Profile
+- Payments
+- Payments
+- Payments
+- No API Definition
+- Have API
+- Has API
+- Financial
+- API United Kingdom
+apis: []
+x-common:
+- type: x-website
+  url: http://www.paylane.com
+- type: x-about
+  url: https://paylane.com/about/
+- type: x-about
+  url: https://paylane.com/about/#awards
+- type: x-about
+  url: https://paylane.com/about/#team
+- type: x-blog
+  url: https://blog.paylane.com
+- type: x-blog
+  url: http://blog.paylane.com/
+- type: x-blog-rss
+  url: feed://feeds.feedburner.com/AcrossTheBoard
+- type: x-contact
+  url: https://paylane.com/contact/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/paylane
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/paylane
+- type: x-developer
+  url: https://paylane.com/api/
+- type: x-email
+  url: support@paylane.com
+- type: x-facebook
+  url: https://www.facebook.com/PayLane
+- type: x-faq
+  url: https://devzone.paylane.com/developer-faq/
+- type: x-integrations
+  url: https://paylane.com/offer/#plugins-integrations
+- type: x-linkedin
+  url: https://www.linkedin.com/company/paylane
+- type: x-news
+  url: https://paylane.com/newsletter/
+- type: x-pricing
+  url: https://paylane.com/pricing/
+- type: x-security
+  url: https://paylane.com/about/#security
+- type: x-status
+  url: https://paylane.com/system-status/
+- type: x-support
+  url: https://paylane.com/support/
+- type: x-terms-of-service
+  url: https://paylane.com/about/#legal
+- type: x-tutorials
+  url: https://paylane.com/support/tutorials/
+- type: x-twitter
+  url: https://twitter.com/PayLane
+- type: x-developers
+  url: http://devzone.paylane.com/
+- type: x-website
+  url: http://paylane.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

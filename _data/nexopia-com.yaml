@@ -1,0 +1,34 @@
+---
+name: Nexopia.com
+description: Canadian Lifestyle and Community Forums
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "532124"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nexopia-com.yaml
+tags:
+- Social Networking
+apis: []
+x-common:
+- type: x-forum
+  url: https://forums.nexopia.com/
+- type: x-forum
+  url: https://forums.nexopia.com/media/
+- type: x-forum
+  url: https://forums.nexopia.com/recent-activity/
+- type: x-forum
+  url: https://forums.nexopia.com/account/upgrades
+- type: x-news
+  url: https://forums.nexopia.com/account/news-feed
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-website
+  url: https://www.nexopia.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

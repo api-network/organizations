@@ -1,0 +1,30 @@
+---
+name: Free Video Webcams and Free Chat Rooms
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "989374"
+url: https://raw.githubusercontent.com/api-network/organizations/main/free-video-webcams-and-free-chat-rooms.yaml
+tags:
+- Video
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.chatforfree.org/
+- type: x-contact
+  url: https://www.chatforfree.org/contact.html
+- type: x-privacy
+  url: https://www.chatforfree.org/privacy.html
+- type: x-terms-of-service
+  url: https://www.chatforfree.org/terms.html
+- type: x-website
+  url: https://www.chatforfree.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

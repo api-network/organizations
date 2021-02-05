@@ -1,0 +1,30 @@
+---
+name: GTA Linux User Group
+description: GTALUG - Greater Toronto Area Linux User Group
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gta-linux-user-group.yaml
+tags:
+- Ontario
+apis: []
+x-common:
+- type: x-website
+  url: http://gtalug.org/
+- type: x-facebook
+  url: https://www.facebook.com/gtalug
+- type: x-twitter
+  url: https://twitter.com/gtalug
+- type: x-website
+  url: https://gtalug.org
+- type: x-youtube
+  url: https://www.youtube.com/c/GtalugOrg
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

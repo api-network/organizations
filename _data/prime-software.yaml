@@ -1,0 +1,30 @@
+---
+name: Prime Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1601393"
+url: https://raw.githubusercontent.com/api-network/organizations/main/prime-software.yaml
+tags:
+- ERP
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.primesoft.ph
+- type: x-facebook
+  url: https://www.facebook.com/Primesoftware/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/1614591/
+- type: x-twitter
+  url: https://twitter.com/primesoftwareph
+- type: x-website
+  url: https://www.primesoft.ph
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

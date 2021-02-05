@@ -1,0 +1,61 @@
+---
+name: October CMS
+description: A free, open-source, self-hosted CMS platform based on the Laravel PHP
+  Framework - experience the beauty and power. Getting back to basics!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "54149"
+url: https://raw.githubusercontent.com/api-network/organizations/main/october-cms.yaml
+tags:
+- Open Source
+apis: []
+x-common:
+- type: x-website
+  url: https://nadeemahmed.net
+- type: x-about
+  url: https://octobercms.com/about
+- type: x-blog
+  url: https://octobercms.com/blog
+- type: x-documentation
+  url: https://octobercms.com/docs/cms/themes
+- type: x-documentation
+  url: https://octobercms.com/docs/setup/installation
+- type: x-documentation
+  url: https://octobercms.com/docs
+- type: x-facebook
+  url: https://facebook.com/octobercms
+- type: x-forum
+  url: https://octobercms.com/forum
+- type: x-github
+  url: https://github.com/octobercms
+- type: x-partner
+  url: https://octobercms.com/partners
+- type: x-partner
+  url: https://octobercms.com/partners/profile/purpose-built
+- type: x-partner
+  url: https://octobercms.com/partners/profile/offline
+- type: x-partner
+  url: https://octobercms.com/partners/profile/radiantweb
+- type: x-partner
+  url: https://octobercms.com/partners/profile/pxpx
+- type: x-self-service-registration
+  url: https://octobercms.com/account/register
+- type: x-support
+  url: https://octobercms.com/support
+- type: x-support
+  url: https://octobercms.com/premium-support
+- type: x-twitter
+  url: http://twitter.com/nad33mahm3d
+- type: x-twitter
+  url: https://twitter.com/octobercms
+- type: x-website
+  url: https://octobercms.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,52 @@
+---
+name: Free Responsive and Mobile web Templates
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "13374"
+url: https://raw.githubusercontent.com/api-network/organizations/main/free-responsive-and-mobile-web-templates.yaml
+tags:
+- Free
+apis: []
+x-common:
+- type: x-website
+  url: http://w3layouts.com
+- type: x-about
+  url: https://w3layouts.com/about
+- type: x-blog
+  url: https://w3layouts.com/blogging-template/
+- type: x-blog
+  url: https://blog.w3layouts.com/
+- type: x-careers
+  url: https://w3layouts.freshteam.com/jobs
+- type: x-contact
+  url: https://w3layouts.com/contact
+- type: x-facebook
+  url: https://www.facebook.com/w3layouts/
+- type: x-forum
+  url: https://en.wikipedia.org/wiki/Internet_forum
+- type: x-instagram
+  url: https://www.instagram.com/w3layouts_/
+- type: x-linkedin
+  url: https://in.linkedin.com/company/w3layouts
+- type: x-login
+  url: https://my.w3layouts.com/login
+- type: x-privacy
+  url: https://w3layouts.com/privacy-policy/
+- type: x-support
+  url: https://w3layouts.com/support
+- type: x-terms-of-service
+  url: https://w3layouts.com/terms-and-conditions/
+- type: x-twitter
+  url: https://twitter.com/W3layouts
+- type: x-website
+  url: https://w3layouts.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

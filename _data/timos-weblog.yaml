@@ -1,0 +1,178 @@
+---
+name: Timo's Weblog
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/timos-weblog.yaml
+tags:
+- Agile
+apis: []
+x-common:
+- type: x-about
+  url: https://www.stage-gate.com/about-us/
+- type: x-blog
+  url: https://www.blogger.com
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/search/label/agile
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/search/label/business
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/search/label/embedded
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/search/label/scrum
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/search/label/firmware
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/search/label/tdd
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2011/08/new-home.html
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/search/label/ngware
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/search/label/metrics
+- type: x-blog
+  url: http://www.renaissancesoftware.net/blog/archives/27
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/
+- type: x-blog
+  url: http://www.renaissancesoftware.net/blog/
+- type: x-blog
+  url: http://www.benoitlavigne.com/blog/
+- type: x-blog
+  url: http://dilbert.com/blog/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2015/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2015/03/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2013/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2013/12/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2013/10/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2012/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2012/10/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2011/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2011/12/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2011/09/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2011/08/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2010/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2010/12/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2010/11/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2010/09/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2010/08/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2010/04/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2009/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2009/12/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2009/06/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2009/02/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2009/01/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2008/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2008/11/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2008/07/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2008/06/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2008/05/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2008/04/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2008/03/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2008/02/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2008/01/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2007/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2007/11/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2007/10/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2007/09/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2007/08/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2007/07/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2007/06/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2007/05/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2007/04/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2007/03/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2007/02/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2007/01/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2006/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2006/12/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2006/11/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2006/10/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2006/09/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2006/08/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2006/07/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2006/06/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2006/05/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2006/04/
+- type: x-blog
+  url: https://www.stage-gate.com/blog/
+- type: x-blog
+  url: https://ng-embedded.blogspot.com/2006/03/
+- type: x-careers
+  url: https://www.stage-gate.com/careers/
+- type: x-contact
+  url: https://www.stage-gate.com/contact/
+- type: x-developer
+  url: http://www.prod-dev.com/
+- type: x-events
+  url: http://esc-boston.techinsightsevents.com/
+- type: x-facebook
+  url: https://www.facebook.com/StageGateInternational/
+- type: x-feed
+  url: https://ng-embedded.blogspot.com/feeds/posts/default
+- type: x-press
+  url: http://olvemaudal.wordpress.com/
+- type: x-website
+  url: https://ng-embedded.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

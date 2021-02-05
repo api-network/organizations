@@ -1,0 +1,57 @@
+---
+name: Kadence Themes
+description: We create clean professional WordPress themes and plugins that help creators
+  build beautiful, effective websites for any type of business.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "165223"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kadence-themes.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-website
+  url: http://Kadencewp.com
+- type: x-about
+  url: https://www.kadencewp.com/about-us/
+- type: x-blog
+  url: https://www.kadencewp.com/blog/
+- type: x-contact
+  url: https://www.kadencewp.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/KadenceWP/
+- type: x-forum
+  url: https://www.kadencewp.com/support-forums/
+- type: x-instagram
+  url: https://www.instagram.com/kadencewp
+- type: x-press
+  url: https://www.kadencewp.com/wordpress-themes/
+- type: x-press
+  url: https://www.kadencewp.com/wordpress-plugins/
+- type: x-pricing
+  url: https://www.kadencewp.com/our-pricing-philosophy/
+- type: x-privacy
+  url: https://www.kadencewp.com/privacy-policy/
+- type: x-support
+  url: https://www.kadencewp.com/knowledge-base/help-center/
+- type: x-support
+  url: https://www.kadencewp.com/support/
+- type: x-terms-of-service
+  url: https://www.kadencewp.com/terms-and-license/
+- type: x-tutorials
+  url: https://www.kadencewp.com/kadence-tutorials/
+- type: x-twitter
+  url: https://twitter.com/KadenceWP
+- type: x-website
+  url: https://www.kadencethemes.com
+- type: x-youtube
+  url: http://www.youtube.com/c/KadenceWP
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

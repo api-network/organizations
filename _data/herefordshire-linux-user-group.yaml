@@ -1,0 +1,44 @@
+---
+name: Herefordshire Linux User Group
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/herefordshire-linux-user-group.yaml
+tags:
+- Europe
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.hlug.org.uk/hlug-contact-form/
+- type: x-events
+  url: https://www.hlug.org.uk/category/events/
+- type: x-feed
+  url: https://www.hlug.org.uk/feed/
+- type: x-feed
+  url: https://www.hlug.org.uk/comments/feed/
+- type: x-login
+  url: https://www.hlug.org.uk/wp-login.php
+- type: x-news
+  url: http://dicenews.com
+- type: x-open-source
+  url: https://www.hlug.org.uk/open-source-schools-project/
+- type: x-press
+  url: https://www.hlug.org.uk/wordpress-hlug-website/
+- type: x-press
+  url: https://www.hlug.org.uk/wordpress-4-5-1/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-security
+  url: https://www.hlug.org.uk/ossec-open-source-security/
+- type: x-website
+  url: https://www.hlug.org.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

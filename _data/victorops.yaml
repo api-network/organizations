@@ -1,0 +1,74 @@
+---
+name: VictorOps
+description: VictorOps incident managament software gives DevOps observability, collaboration,
+  & real-time alerting, to build, deploy, & operate software. Learn more.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/victorops.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "811"
+x-alexaRank: "69090"
+url: https://raw.githubusercontent.com/api-network/organizations/main/victorops.yaml
+tags:
+- Relative Data
+- Profile
+- Postman Doc Search
+- New
+- Integration Landscape
+- Have Swagger
+- Have API Paths
+- Have API
+apis: []
+x-common:
+- type: x-blog
+  url: https://victorops.com/blog/
+- type: x-blog-rss
+  url: https://victorops.com/feed/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/victorops
+- type: x-documentation
+  url: https://portal.victorops.com/public/api-docs.html
+- type: x-email
+  url: support@victorops.com
+- type: x-email
+  url: info@victorops.com
+- type: x-email
+  url: press@victorops.com
+- type: x-email
+  url: sales@victorops.com
+- type: x-facebook
+  url: https://www.facebook.com/VictorOpsInc/
+- type: x-github
+  url: https://github.com/victorops
+- type: x-instagram
+  url: https://www.instagram.com/victor_ops/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/victorops-inc-/
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/897512/71FUpux
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/10096149/SWTABydD
+- type: x-pricing
+  url: https://victorops.com/pricing/
+- type: x-status
+  url: https://victorops.statuspage.io
+- type: x-support
+  url: https://help.victorops.com
+- type: x-terms-of-service
+  url: https://www.splunk.com/en_us/legal/subsidiaries.html
+- type: x-twitter
+  url: https://twitter.com/VictorOps
+- type: x-twitter
+  url: https://twitter.com/VictorOps/
+- type: x-website
+  url: http://answers.splunk.com
+- type: x-website
+  url: http://victorops.com
+- type: x-website
+  url: https://victorops.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,52 @@
+---
+name: IntraLearn Software
+description: Intralearn Software provides Learning Management System, eLearning, and
+  Knowledge Organization and Validation Products Including Learning Server and NanoLearn
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/intralearn-software.yaml
+tags:
+- Validation
+- Sharepoint
+- Nanolearn
+- LMS
+- Knowledge Organization And Validation
+- Knowledge Organization
+- Intralearn Software
+- Informal Learning
+- Elearning
+- Delivery And Management Systems
+- Corporate Social Learning
+- Corporate Learning
+apis: []
+x-common:
+- type: x-about
+  url: https://www.intralearn.com/about/
+- type: x-about
+  url: https://www.intralearn.com/about/support/
+- type: x-about
+  url: https://www.intralearn.com/about
+- type: x-blog
+  url: https://www.intralearn.com/category/nanolearn-blog/
+- type: x-contact
+  url: https://www.intralearn.com/about/contact/
+- type: x-partner
+  url: https://www.intralearn.com/partnerwithus/
+- type: x-press
+  url: https://www.intralearn.com/about/press-releases/
+- type: x-press
+  url: http://www.cryoutcreations.eu/wordpress-themes/fluida
+- type: x-press
+  url: http://wordpress.org/
+- type: x-website
+  url: https://www.intralearn.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

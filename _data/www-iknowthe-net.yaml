@@ -1,0 +1,38 @@
+---
+name: www.iknowthe.net
+description: Ecommerce Consultant and Internet Consultant Emma Kane has over twenty
+  years experience providing expert ecommerce advice. Emma Kane is a specialist Internet
+  and Ecommerce consultant.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6175008"
+url: https://raw.githubusercontent.com/api-network/organizations/main/www-iknowthe-net.yaml
+tags:
+- Freelance
+- Ecommerce Expert
+- Ecommerce Consultant Uk
+- Ecommerce Consultant
+- Ecommerce Consultancy
+apis: []
+x-common:
+- type: x-website
+  url: http://www.iknowthe.net
+- type: x-blog
+  url: https://www.iknowthe.net/blog/
+- type: x-contact
+  url: https://www.iknowthe.net/contact.html
+- type: x-feed
+  url: https://www.iknowthe.net/blog/feed
+- type: x-twitter
+  url: https://twitter.com/emmakane
+- type: x-website
+  url: https://www.iknowthe.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

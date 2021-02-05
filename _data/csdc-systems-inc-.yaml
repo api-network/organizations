@@ -1,0 +1,44 @@
+---
+name: CSDC Systems Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5728436"
+url: https://raw.githubusercontent.com/api-network/organizations/main/csdc-systems-inc-.yaml
+tags:
+- ERP
+apis: []
+x-common:
+- type: x-about
+  url: https://www.calytera.com/company/about-calytera/
+- type: x-careers
+  url: https://www.calytera.com/company/careers/
+- type: x-case-studies
+  url: https://www.calytera.com/resources/case-studies/
+- type: x-contact
+  url: https://www.calytera.com/company/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/calytera/
+- type: x-news
+  url: https://www.calytera.com/resources/news-events/
+- type: x-partner
+  url: https://www.calytera.com/company/partners/
+- type: x-support
+  url: https://support.calytera.com/
+- type: x-twitter
+  url: https://twitter.com/Calytera
+- type: x-twitter
+  url: https://twitter.com/NASCIO/status/1207344775487078400
+- type: x-website
+  url: https://www.csdcsystems.com
+- type: x-white-papers
+  url: https://www.calytera.com/resources/whitepapers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

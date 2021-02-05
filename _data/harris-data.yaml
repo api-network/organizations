@@ -1,0 +1,106 @@
+---
+name: Harris Data
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2220534"
+url: https://raw.githubusercontent.com/api-network/organizations/main/harris-data.yaml
+tags:
+- OS-400
+apis: []
+x-common:
+- type: x-website
+  url: http://www.harrisdata.com
+- type: x-about
+  url: http://harrisdata.com/about/Vision
+- type: x-about
+  url: http://harrisdata.com/about
+- type: x-about
+  url: http://harrisdata.com/about/customer-bill-of-rights
+- type: x-blog
+  url: http://harrisdata.com/blog
+- type: x-blog
+  url: http://harrisdata.com/blog/goldilocks-memory
+- type: x-blog
+  url: http://harrisdata.com/blog/who-customer
+- type: x-blog
+  url: http://harrisdata.com/blog/minus-eight-and-sunny
+- type: x-blog
+  url: http://harrisdata.com/blog/choose-be-delighted
+- type: x-blog
+  url: http://harrisdata.com/blog/finding-right-answer
+- type: x-blog
+  url: http://harrisdata.com/blog/focus
+- type: x-blog
+  url: http://harrisdata.com/blog/another-good-story
+- type: x-blog
+  url: http://harrisdata.com/blog/couple-hundred-billion
+- type: x-blog
+  url: http://harrisdata.com/blog/some-changes-are-needed
+- type: x-blog
+  url: http://harrisdata.com/blog/what-are-they-hiding
+- type: x-blog
+  url: http://harrisdata.com/blog/gold-silver-or-bronze
+- type: x-blog
+  url: http://harrisdata.com/blog/specialist
+- type: x-blog
+  url: http://harrisdata.com/blog/services-service-33
+- type: x-blog
+  url: http://harrisdata.com/blog/services-service-23
+- type: x-blog
+  url: http://harrisdata.com/blog/services-service-13
+- type: x-blog
+  url: http://harrisdata.com/blog/can-you-see-it
+- type: x-blog
+  url: http://harrisdata.com/blog/your-software-supplier
+- type: x-blog
+  url: http://harrisdata.com/blog/better-robots
+- type: x-blog
+  url: http://harrisdata.com/blog/45-years-software
+- type: x-blog
+  url: http://harrisdata.com/blog/the-imitation-erp
+- type: x-blog
+  url: http://harrisdata.com/blog/what-modern
+- type: x-blog
+  url: http://harrisdata.com/blog/automation-through-bots
+- type: x-blog
+  url: http://harrisdata.com/blog/cloud-inside
+- type: x-blog
+  url: http://harrisdata.com/blog/bookmark-link-search
+- type: x-blog
+  url: http://harrisdata.com/blog/mashup-enterprise-services
+- type: x-careers
+  url: http://harrisdata.com/about/careers
+- type: x-contact
+  url: http://harrisdata.com/contact
+- type: x-linkedin
+  url: https://www.linkedin.com/company/harrisdata/
+- type: x-login
+  url: http://www.harrisdata.com/index.php/login
+- type: x-partner
+  url: http://harrisdata.com/about/partners
+- type: x-pricing
+  url: http://harrisdata.com/pricing
+- type: x-support
+  url: http://harrisdata.com/support
+- type: x-support
+  url: http://harrisdata.com/support/lunch-and-learn
+- type: x-support
+  url: http://harrisdata.com/support/appsinhd-community
+- type: x-terms-of-service
+  url: http://www.harrisdata.com/legal
+- type: x-twitter
+  url: https://twitter.com/HarrisData
+- type: x-website
+  url: https://www.harrisdata.com
+- type: x-youtube
+  url: https://www.youtube.com/user/HarrisData1
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

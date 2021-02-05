@@ -1,0 +1,23 @@
+---
+name: Potomac Computer Services
+description: Small business / home computer network installation, support, repair
+  & managed IT services | Gaithersburg, Rockville, Germantown, Bethesda, Frederick.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7488190"
+url: https://raw.githubusercontent.com/api-network/organizations/main/potomac-computer-services.yaml
+tags:
+- Maryland
+apis: []
+x-common:
+- type: x-website
+  url: https://www.potomacpctech.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

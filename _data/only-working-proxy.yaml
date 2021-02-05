@@ -1,0 +1,29 @@
+---
+name: Only Working Proxy
+description: Proxy-list.org is the OLDEST free proxy list provider in the world, we
+  are serving free proxies since 2004 year! Our company has almost 11 years of pure
+  reputation!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "450466"
+url: https://raw.githubusercontent.com/api-network/organizations/main/only-working-proxy.yaml
+tags:
+- Proxy Server
+- Proxy Lists
+- Free Proxy List
+- Free
+- Anonymouse Surfing
+- Anonymous Proxy
+apis: []
+x-common:
+- type: x-website
+  url: https://www.proxy-list.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

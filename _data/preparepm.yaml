@@ -1,0 +1,26 @@
+---
+name: PreparePM
+description: Description for my template
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "887624"
+url: https://raw.githubusercontent.com/api-network/organizations/main/preparepm.yaml
+tags:
+- PMI
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/edwel.programs/
+- type: x-twitter
+  url: https://twitter.com/edwel
+- type: x-website
+  url: https://www.preparepm.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

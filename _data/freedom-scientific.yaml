@@ -1,0 +1,50 @@
+---
+name: Freedom Scientific
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "219558"
+url: https://raw.githubusercontent.com/api-network/organizations/main/freedom-scientific.yaml
+tags:
+- Companies And Consultants
+apis: []
+x-common:
+- type: x-website
+  url: http://www.FreedomScientific.com
+- type: x-blog
+  url: http://blog.freedomscientific.com/fscast/
+- type: x-blog
+  url: http://blog.freedomscientific.com/
+- type: x-events
+  url: https://support.freedomscientific.com/about/events
+- type: x-facebook
+  url: https://www.facebook.com/FreedomScientificInc
+- type: x-open-source
+  url: https://blog.freedomscientific.com/fsopenline/
+- type: x-support
+  url: https://support.freedomscientific.com/support
+- type: x-support
+  url: https://support.freedomscientific.com/Downloads/Focus
+- type: x-support
+  url: https://support.freedomscientific.com/Downloads/JAWS
+- type: x-support
+  url: https://support.freedomscientific.com/Downloads/fusion
+- type: x-support
+  url: https://support.freedomscientific.com/Downloads/MAGic
+- type: x-support
+  url: https://support.freedomscientific.com/Downloads/WYNN
+- type: x-support
+  url: https://support.freedomscientific.com/About/News
+- type: x-twitter
+  url: https://twitter.com/FreedomSci
+- type: x-website
+  url: https://www.freedomscientific.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

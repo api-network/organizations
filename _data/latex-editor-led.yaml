@@ -1,0 +1,24 @@
+---
+name: LaTeX Editor (LEd)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2198041"
+url: https://raw.githubusercontent.com/api-network/organizations/main/latex-editor-led.yaml
+tags:
+- Editors And IDEs
+apis: []
+x-common:
+- type: x-forum
+  url: http://forum.latexeditor.org
+- type: x-website
+  url: https://www.latexeditor.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

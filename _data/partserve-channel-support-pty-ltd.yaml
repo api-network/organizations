@@ -1,0 +1,22 @@
+---
+name: PartServe Channel Support (Pty) Ltd
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "811071"
+url: https://raw.githubusercontent.com/api-network/organizations/main/partserve-channel-support-pty-ltd.yaml
+tags:
+- Supplies
+apis: []
+x-common:
+- type: x-website
+  url: https://www.partserve.co.za
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

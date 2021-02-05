@@ -1,0 +1,41 @@
+---
+name: Badass JavaScript
+description: A showcase of awesome JavaScript that pushes the boundaries of what's
+  possible on the web, by @devongovett.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3771498"
+url: https://raw.githubusercontent.com/api-network/organizations/main/badass-javascript.yaml
+tags:
+- JavaScript
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.tumblr.com/reblog/73526882798/mRfAAqPN
+- type: x-blog
+  url: https://www.tumblr.com/reblog/72677810093/F0DueoGp
+- type: x-blog
+  url: https://www.tumblr.com/reblog/71980473022/4Vwzjqnz
+- type: x-blog
+  url: https://www.tumblr.com/reblog/48702496345/9X22FpRp
+- type: x-blog
+  url: https://www.tumblr.com/reblog/47031840270/5fFAEAaq
+- type: x-facebook
+  url: http://facebook.com/badassjs
+- type: x-twitter
+  url: http://twitter.com/devongovett
+- type: x-twitter
+  url: http://twitter.com/badass_js
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-website
+  url: https://badassjs.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

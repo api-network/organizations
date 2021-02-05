@@ -1,0 +1,32 @@
+---
+name: UK Ink Supplies for Jet Tec ink cartridges and laser toners
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9720705"
+url: https://raw.githubusercontent.com/api-network/organizations/main/uk-ink-supplies-for-jet-tec-ink-cartridges-and-laser-toners.yaml
+tags:
+- Supplies
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ukinksupplies.com
+- type: x-blog
+  url: http://ukink.blogspot.com
+- type: x-facebook
+  url: http://www.facebook.com/UKInkSupplies
+- type: x-twitter
+  url: http://twitter.com/#!/UKInkSupplies
+- type: x-website
+  url: https://www.ukinksupplies.com
+- type: x-youtube
+  url: http://www.youtube.com/user/UKInkSupplies
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

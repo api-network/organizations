@@ -1,0 +1,50 @@
+---
+name: ThreatMiner
+description: Threat intelligence and intrusion analysts who regularly perform research
+  into malware and network infrastructure often find the need to rely on mutliple
+  websites that individually holds a small piece of the larger puzzle.
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "815024"
+url: https://raw.githubusercontent.com/api-network/organizations/main/threatminer.yaml
+tags:
+- Security
+- Profile
+- Has API
+apis: []
+x-common:
+- type: x-website
+  url: https://www.threatminer.org
+- type: x-blog
+  url: https://medium.com/@threatminer
+- type: x-github
+  url: http://github.com/threatminer
+- type: x-github
+  url: https://github.com/APTnotes
+- type: x-github
+  url: https://github.com/threatminer/ioc_parser
+- type: x-github
+  url: https://github.com/armbues/ioc_parser
+- type: x-linkedin
+  url: https://uk.linkedin.com/in/michaelyiphw
+- type: x-road-map
+  url: https://threatminer.org/roadmap.php
+- type: x-twitter
+  url: https://twitter.com/ThreatMiner
+- type: x-twitter
+  url: https://www.twitter.com/kbandla
+- type: x-twitter
+  url: https://www.twitter.com/beast_fighter
+- type: x-twitter
+  url: https://www.twitter.com/threatminer
+- type: x-website
+  url: http://threatminer.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

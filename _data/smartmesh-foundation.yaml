@@ -1,0 +1,33 @@
+---
+name: SmartMesh Foundation
+description: Provide connectivity and financial services through a global mesh network,
+  build an ecosystem powered by blockchain and token incentives SMT.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27607-smartmesh-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1099393"
+url: https://raw.githubusercontent.com/api-network/organizations/main/smartmesh-foundation.yaml
+tags:
+- Networks
+- ISP
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: https://smartmesh.io/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/smartmesh-foundation-pte-ltd
+- type: x-email
+  url: pr@smartmesh.io
+- type: x-twitter
+  url: https://twitter.com/smart_mesh
+- type: x-website
+  url: https://smartmesh.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

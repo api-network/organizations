@@ -1,0 +1,71 @@
+---
+name: MeasureUp
+description: "MeasureUp\u2019s mission is to be the leading provider of high-quality
+  assessments and practice tests to the individual, training and publishing, education
+  and corporate markets."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "134860"
+url: https://raw.githubusercontent.com/api-network/organizations/main/measureup.yaml
+tags:
+- Wmware Practice Test
+- Wmware
+- Training And Certification
+- Scp
+- Scns
+- Scnp
+- Scna
+- Project Management Institute
+- Practice Test
+- Practice Labs
+- Practice Lab
+- Pmi Practice Test
+- PMI
+- Oracle Practice Test
+- Oracle
+- Mos
+- Microsoft Official Practice Test
+- Microsoft Office Specialist
+- Microsoft Office
+- Microsoft
+- Mcse
+- MCSD
+- Mcsa
+- Comptia Security+
+- CompTIA Practice Test
+- Comptia A+
+- CompTIA
+- Cisco Practice Test
+- Cisco
+- Certification Toolkit
+- Certification
+- CCNP
+- CCNA
+- Ccdp
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.measureup.com/blog/post/certkit-az-500/
+- type: x-facebook
+  url: https://www.facebook.com/MeasureUpCertPrep/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/measureup
+- type: x-login
+  url: https://www.measureup.com/customer/account/login/
+- type: x-terms-of-service
+  url: https://www.measureup.com/terms-of-use-and-privacy/
+- type: x-twitter
+  url: https://twitter.com/doyoumeasureup?lang=es
+- type: x-twitter
+  url: https://twitter.com/doyoumeasureup?lang=en
+- type: x-website
+  url: https://www.measureup.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

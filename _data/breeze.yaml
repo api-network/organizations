@@ -1,0 +1,50 @@
+---
+name: Breeze
+description: Breeze is a simple web-based project management tool. Agile project management
+  with tasks, calendars, discussions, time tracking, to-dos, files and reports.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/breeze.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "223879"
+url: https://raw.githubusercontent.com/api-network/organizations/main/breeze.yaml
+tags:
+- Tasks
+- Projects
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: https://www.breeze.pm
+- type: x-blog
+  url: http://www.breeze.pm/blog
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/breeze-software
+- type: x-email
+  url: support@breeze.pm
+- type: x-email
+  url: team@breeze.pm
+- type: x-facebook
+  url: https://www.facebook.com/breeze.pm
+- type: x-github
+  url: https://github.com/breezepm/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/breeze-llc
+- type: x-login
+  url: https://www.breeze.pm/signin
+- type: x-signup
+  url: https://www.breeze.pm/signup
+- type: x-twitter
+  url: https://twitter.com/BreezeTeam
+- type: x-pricing
+  url: https://www.breeze.pm/pricing
+- type: x-website
+  url: http://breeze.pm
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

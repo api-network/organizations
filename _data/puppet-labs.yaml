@@ -1,0 +1,58 @@
+---
+name: Puppet Labs
+description: Automatically deliver and operate all of your software across its entire
+  lifecycle ??? simply, securely and at scale ??? with Puppet's modern automation.
+  With Puppet, the technology is finally here to enable you to automate across your
+  entire enterprise. S...
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/puppet-labs-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "738759"
+url: https://raw.githubusercontent.com/api-network/organizations/main/puppet-labs.yaml
+tags:
+- Orchestration
+- Have API
+apis: []
+x-common:
+- type: x-blog
+  url: http://puppetlabs.com/blog/
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/PuppetLabs
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/puppet-labs
+- type: x-documentation
+  url: https://puppet.com/docs/
+- type: x-documentation
+  url: https://puppet.com/docs/puppet-enterprise/
+- type: x-documentation
+  url: https://puppet.com/docs/puppet-remediate/
+- type: x-documentation
+  url: https://puppet.com/docs/bolt/
+- type: x-documentation
+  url: https://puppet.com/docs/open-source-puppet/
+- type: x-documentation
+  url: https://forgeapi.puppetlabs.com/
+- type: x-facebook
+  url: https://www.facebook.com/PuppetSoftware
+- type: x-github
+  url: https://github.com/puppetlabs
+- type: x-linkedin
+  url: https://www.linkedin.com/company/puppet/
+- type: x-support
+  url: https://support.puppet.com/
+- type: x-twitter
+  url: https://twitter.com/puppetlabs
+- type: x-twitter
+  url: https://twitter.com/puppetize
+- type: x-website
+  url: http://puppetlabs.com/
+- type: x-youtube
+  url: https://www.youtube.com/c/Puppet-Inc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

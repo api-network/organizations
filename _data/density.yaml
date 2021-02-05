@@ -1,0 +1,85 @@
+---
+name: Density
+description: Density is an integrated, elegant, and anonymous people counter. Measure
+  occupancy across a network of spaces in real-time, from corporate offices to college
+  campuses. Make people count.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/22426-density-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "712213"
+url: https://raw.githubusercontent.com/api-network/organizations/main/density.yaml
+tags:
+- Sensors
+- Internet Of Things
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-about
+  url: https://www.density.io/about/
+- type: x-blog
+  url: https://www.density.io/blog/
+- type: x-blog
+  url: https://www.density.io/blog/subscribe
+- type: x-blog
+  url: https://www.density.io/blog/space-workplace-analytics/
+- type: x-careers
+  url: https://www.density.io/careers/
+- type: x-contact
+  url: https://www.density.io/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/density
+- type: x-customers
+  url: https://www.density.io/customers/
+- type: x-customers
+  url: https://www.density.io/customers/envoy/
+- type: x-customers
+  url: https://www.density.io/customers/notre-dame/
+- type: x-curated-source
+  url: https://www.density.io/
+- type: x-website
+  url: http://density.io
+- type: x-documentation
+  url: https://docs.density.io/v2/
+- type: x-documentation
+  url: https://www.density.io/docs/
+- type: x-facebook
+  url: https://www.facebook.com/densityio/
+- type: x-instagram
+  url: https://www.instagram.com/density.io/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/density-inc-/
+- type: x-login
+  url: https://dashboard.density.io/#/login
+- type: x-news
+  url: https://www.density.io/news/
+- type: x-partner
+  url: https://www.density.io/partners/
+- type: x-pricing
+  url: https://www.density.io/pricing/
+- type: x-privacy
+  url: https://www.density.io/privacy-policy/
+- type: x-security
+  url: https://www.density.io/security-tailgating/
+- type: x-status
+  url: https://status.density.io/
+- type: x-support
+  url: https://www.density.io/support/
+- type: x-support
+  url: https://help.density.io/
+- type: x-terms-of-service
+  url: https://www.density.io/terms-of-sale/
+- type: x-twitter
+  url: https://twitter.com/densityio
+- type: x-webinars
+  url: https://www.density.io/webinars/
+- type: x-website
+  url: https://www.density.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

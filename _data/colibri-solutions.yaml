@@ -1,0 +1,42 @@
+---
+name: Colibri Solutions
+description: "Colibri Solutions provides expert consulting\_and software development
+  services to optimize\_our clients' processes, improve their\_execution, and realize
+  their business goals."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6512266"
+url: https://raw.githubusercontent.com/api-network/organizations/main/colibri-solutions.yaml
+tags:
+- Smb
+- Small Business
+- Process Management
+- New York
+- Filemaker
+- Database
+- Custom Applications
+- Corporate Workgroups
+- Consulting
+- Consultants And Developers
+- Colibri Solutions
+apis: []
+x-common:
+- type: x-website
+  url: http://www.colibrisolutions.com
+- type: x-about
+  url: https://www.colibrisolutions.com/aboutyou
+- type: x-contact
+  url: https://www.colibrisolutions.com/contact
+- type: x-twitter
+  url: http://twitter.com/colibrinyc
+- type: x-website
+  url: https://www.colibrisolutions.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

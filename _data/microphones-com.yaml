@@ -1,0 +1,25 @@
+---
+name: Microphones.Com
+description: Microphones for computers, speech recognition, internet telephony, voice
+  recognition, cellular phones, Headsets, USB microphones, wireless, cellular phones,
+  professional audio, karaoke, cameras, meetings, conferencing, portable sound systems,
+  portable recorders, surveillance, miniature microphone, store
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2609227"
+url: https://raw.githubusercontent.com/api-network/organizations/main/microphones-com.yaml
+tags:
+- Hardware
+apis: []
+x-common:
+- type: x-website
+  url: https://www.microphones.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

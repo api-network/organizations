@@ -1,0 +1,35 @@
+---
+name: Accessline Voice Services
+description: Intermedia is a leading one-stop shop for Unified Communications, Exchange
+  email, VoIP, file sharing, & other business cloud services. Learn more today!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6755753"
+url: https://raw.githubusercontent.com/api-network/organizations/main/accessline-voice-services.yaml
+tags:
+- Services
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.intermedia.net/blog
+- type: x-facebook
+  url: https://www.facebook.com/intermedia.inc
+- type: x-linkedin
+  url: https://www.linkedin.com/company/intermedia
+- type: x-login
+  url: https://www.intermedia.net/login/voice
+- type: x-partner
+  url: https://partnersales.intermedia.net
+- type: x-twitter
+  url: https://twitter.com/intermedia_net
+- type: x-website
+  url: https://www.accessline.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

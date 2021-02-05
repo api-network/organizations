@@ -1,0 +1,55 @@
+---
+name: Interarchy
+description: Stairways Software is the leading software maker for Mac OS X for customizing
+  keyboards.  This software will increase business productivity.  It is the first
+  choice for your business efficiency needs.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/interarchy.yaml
+tags:
+- Web Browsers
+- Productivity Software
+- Macro Windows
+- Macro Software
+- Macro Program
+- Macro Keyboard
+- Macintosh Software
+- Macintosh Computer Software
+- Mac Software Site
+- Mac Software
+- Mac Product
+- Mac Osx
+- Mac Os X Software
+- Mac OS X
+- Mac Os Software
+- Mac Macros
+- Mac Computer Software
+- Custom Toolbars
+- Custom Keyboard
+- Business Productivity Software
+- Business Productivity
+- Automation Software
+apis: []
+x-common:
+- type: x-about
+  url: https://www.stairways.com/main/about
+- type: x-blog
+  url: https://www.stairways.com/blog/
+- type: x-contact
+  url: https://www.stairways.com/main/contact
+- type: x-press
+  url: https://www.stairways.com/press/
+- type: x-privacy
+  url: https://www.stairways.com/main/privacy
+- type: x-website
+  url: https://www.stairways.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

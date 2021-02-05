@@ -1,0 +1,41 @@
+---
+name: OCBC Bank
+description: <p>The OCBC Bank group comprises a family of companies owned by Singapore's
+  longest established local bank. To address the diversity across cultures and geographies,
+  OCBC Bank has expanded and acquired entities beyond the world of traditional commercial
+  banking. By understanding our customers' needs, we develop convenient and effective
+  technologies to improve the user experience. Today, through APIs that are simple
+  to manage, we offer this convenience to you.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28117-api-ocbc-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7535"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ocbc-bank.yaml
+tags:
+- Have API
+- Financial
+- Banking
+- Assets
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ocbc.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/ocbc-bank-of-singapore
+- type: x-developer
+  url: https://api.ocbc.com/store/api_products
+- type: x-getting-started
+  url: https://api.ocbc.com/store/api_products
+- type: x-twitter
+  url: https://twitter.com/OCBCBank
+- type: x-website
+  url: https://api.ocbc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

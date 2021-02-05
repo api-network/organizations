@@ -1,0 +1,23 @@
+---
+name: Teach My API
+description: <p><span>Learn how to use a REST API, build awesome demos, sharpen your
+  skills or teach others!</span></p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/teach-my-api.yaml
+tags:
+- No API
+apis: []
+x-common:
+- type: x-website
+  url: https://www.teachmyapi.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

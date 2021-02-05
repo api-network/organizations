@@ -1,0 +1,28 @@
+---
+name: ATIR Engineering Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3888297"
+url: https://raw.githubusercontent.com/api-network/organizations/main/atir-engineering-software.yaml
+tags:
+- Construction
+apis: []
+x-common:
+- type: x-about
+  url: https://plus.google.com/+Atirsoft/about
+- type: x-about
+  url: http://atirsoft.com/atirnew/about-strap
+- type: x-about
+  url: http://atirsoft.com/atirnew/about-beamd
+- type: x-website
+  url: https://www.atirsoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

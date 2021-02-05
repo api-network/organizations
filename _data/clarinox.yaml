@@ -1,0 +1,38 @@
+---
+name: Clarinox
+description: Embedded Wi-Fi, Bluetooth & BLE Stacks supporting most OS/RTOS and hardware.
+  Flexible development, design & integration services for bespoke wireless IoT.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/clarinox.yaml
+tags:
+- Wireless Stack
+- Mesh Network
+- Embeded Wi-Fi
+- Embedded Systems
+- Developer Services
+- Bluetooth
+- BLE
+- A2DP
+apis: []
+x-common:
+- type: x-website
+  url: http://www.clarinox.com
+- type: x-facebook
+  url: https://www.facebook.com/clarinoxtechnologies/
+- type: x-twitter
+  url: https://twitter.com/clarinox
+- type: x-website
+  url: https://www.clarinox.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=l6bP2-vpYjc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,56 @@
+---
+name: Careware Systems Sdn Bhd
+description: Careware Systems - The leading business partner of Sage 300 ERP (formerly
+  Sage Accpac ERP) in Malaysia.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/careware-systems-sdn-bhd.yaml
+tags:
+- Systems
+- Software Solutions
+- Software Modules
+- Software
+- Project And Job Costing
+- Inventory Management
+- ACCPAC
+- Accounting Software
+apis: []
+x-common:
+- type: x-about
+  url: https://www.careware.com.my/about-us/
+- type: x-blog
+  url: http://careware-erp.blogspot.my/
+- type: x-blog
+  url: http://careware-erp.blogspot.com/
+- type: x-code
+  url: https://www.careware.com.my/barcode-manufacturing/
+- type: x-code
+  url: https://www.email-encoder.com/enablejs/
+- type: x-contact
+  url: https://www.careware.com.my/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/SageERPconnect
+- type: x-support
+  url: https://www.careware.com.my/support/
+- type: x-support
+  url: https://www.careware.com.my/support/training/
+- type: x-support
+  url: https://www.careware.com.my/support/consultancy/
+- type: x-support
+  url: https://www.careware.com.my/support/network-solutions/
+- type: x-support
+  url: https://www.careware.com.my/support/development/
+- type: x-support
+  url: https://www.careware.com.my/support/implementation/
+- type: x-website
+  url: https://www.careware.com.my
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

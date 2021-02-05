@@ -1,0 +1,96 @@
+---
+name: Imgur
+description: Discover the magic of the internet at Imgur, a community powered entertainment
+  destination. Lift your spirits with funny jokes, trending memes, entertaining gifs,
+  inspiring stories, viral videos, and so much more.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/606_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "11"
+x-alexaRank: "87"
+url: https://raw.githubusercontent.com/api-network/organizations/main/imgur.yaml
+tags:
+- Wallpaper
+- Vote
+- Upload Image
+- Share
+- Photos
+- Photos
+- Mozilla
+- Memes
+- Lol
+- Jokes
+- Imgur.com
+- Imgur
+- Images
+- Images
+- Image Upload
+- Image
+- Humor
+- Have Swagger
+- Have API Paths
+- Have API
+- Gifs
+- GIF
+- Funny
+- Comment
+- API Provider
+apis: []
+x-common:
+- type: x-postman-collection
+  url: https://www.getpostman.com/collections/2b1e14d2357950367528
+- type: x-website
+  url: http://imgur.com
+- type: x-application-gallery
+  url: http://imgur.com/apps
+- type: x-base
+  url: https://api.imgur.com/
+- type: x-blog
+  url: http://imgur.com/blog
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/TheImgurBlog?format=xml
+- type: x-chrome-extension
+  url: https://chrome.google.com/webstore/detail/imgur-extension-by-metron/ehoopddfhgaehhmphfcooacjdpmbjlao?hl=en
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/imgur
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/imgur
+- type: x-developer
+  url: http://developer.imgur.com
+- type: x-developers
+  url: http://api.imgur.com/
+- type: x-email
+  url: abuse@imgur.com
+- type: x-embeddable
+  url: https://gist.github.com/eirikb/7404666
+- type: x-facebook
+  url: https://www.facebook.com/imgur
+- type: x-firefox-exentsion
+  url: https://addons.mozilla.org/en-US/firefox/addon/14389
+- type: x-forums
+  url: https://groups.google.com/forum/?fromgroups#!forum/imgur
+- type: x-github
+  url: https://github.com/Imgur
+- type: x-pricing
+  url: https://market.mashape.com/imgur/imgur-9/pricing
+- type: x-privacy
+  url: http://imgur.com/privacy
+- type: x-python-library
+  url: https://github.com/Imgur/imgurpython
+- type: x-rate-limits
+  url: http://api.imgur.com/#limits
+- type: x-twitter
+  url: https://twitter.com/imgur
+- type: x-twitter
+  url: https://twitter.com/imgurAPI
+- type: x-website
+  url: http://imgur.com/
+- type: x-website
+  url: https://addons.mozilla.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

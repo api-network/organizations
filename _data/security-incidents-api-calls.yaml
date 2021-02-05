@@ -1,0 +1,25 @@
+---
+name: Security Incidents API calls
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "238195"
+url: https://raw.githubusercontent.com/api-network/organizations/main/security-incidents-api-calls.yaml
+tags: []
+apis: []
+x-common:
+- type: x-documentation
+  url: https://docs.atlassian.com/confluence/docs-615/
+- type: x-support
+  url: https://support.atlassian.com/help/confluence
+- type: x-website
+  url: http://docs.armor.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

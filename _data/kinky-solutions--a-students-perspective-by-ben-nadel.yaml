@@ -1,0 +1,32 @@
+---
+name: 'Kinky Solutions : A Student''s Perspective by Ben Nadel'
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "79195"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kinky-solutions--a-students-perspective-by-ben-nadel.yaml
+tags:
+- Weblogs
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/BenNadel
+- type: x-github
+  url: https://github.com/BenNadel
+- type: x-linkedin
+  url: https://www.linkedin.com/in/BenNadel
+- type: x-twitter
+  url: https://twitter.com/m_rookie
+- type: x-twitter
+  url: https://www.twitter.com/BenNadel
+- type: x-website
+  url: https://www.bennadel.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

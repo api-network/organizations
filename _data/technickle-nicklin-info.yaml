@@ -1,0 +1,23 @@
+---
+name: technickle.nicklin.info
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/technickle-nicklin-info.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://technickle.nicklin.info/post/95284139988/its-great-to-see-an-empirical-analysis-of-us#_=_
+- type: x-website
+  url: http://technickle.nicklin.info
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

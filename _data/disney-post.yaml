@@ -1,0 +1,52 @@
+---
+name: Disney Post
+description: The mission of the Walt Disney Company is to be one of the world's leading
+  producers and providers of entertainment and information.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/2692-disney-post.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "711"
+x-alexaRank: "45636"
+url: https://raw.githubusercontent.com/api-network/organizations/main/disney-post.yaml
+tags:
+- Imports
+- Have API Paths
+- Have API
+- Broadcasts
+apis: []
+x-common:
+- type: x-about
+  url: https://www.thewaltdisneycompany.com/about/
+- type: x-careers
+  url: https://jobs.disneycareers.com/
+- type: x-contact
+  url: https://www.thewaltdisneycompany.com/contact-us/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/the-walt-disney-
+- type: x-email
+  url: responsibility@twdc.com
+- type: x-news
+  url: https://www.thewaltdisneycompany.com/news/
+- type: x-privacy
+  url: https://disneyprivacycenter.com/
+- type: x-privacy
+  url: https://privacy.thewaltdisneycompany.com/en/dnsmi/
+- type: x-support
+  url: http://help.disney.com/
+- type: x-terms-of-service
+  url: https://disneytermsofuse.com/
+- type: x-twitter
+  url: https://twitter.com/WaltDisneyCo
+- type: x-twitter
+  url: https://twitter.com/DisneyPost
+- type: x-website
+  url: http://thewaltdisneycompany.com/
+- type: x-youtube
+  url: https://www.youtube.com/user/TheDisneyPost
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

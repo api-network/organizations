@@ -1,0 +1,37 @@
+---
+name: QFloors
+description: QFloors is the best flooring software out on the market. The perfect
+  flooring business management tool solution for carpet, hardwood and tile retailers.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7051913"
+url: https://raw.githubusercontent.com/api-network/organizations/main/qfloors.yaml
+tags:
+- Industry Specific
+- Flooring Software
+- Floor Covering Software Business Management Tools
+- ERP
+- Enterprise Resource Planning
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.qfloors.com/blog/office-mobile-suite.html
+- type: x-blog
+  url: https://qfloors.com/blog/new-clouds-vs-old-clouds.html
+- type: x-developer
+  url: http://developer.qfloors.com
+- type: x-facebook
+  url: https://www.facebook.com/pages/QFloors/158702010823747
+- type: x-support
+  url: https://qfloors.com/Support/customer-support-home.html
+- type: x-website
+  url: https://www.qfloors.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

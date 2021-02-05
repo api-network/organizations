@@ -1,0 +1,51 @@
+---
+name: H& R Block Canada
+description: Our tax experts make taxes simple for you. File your tax return the way
+  you want and we'll get you your max refund. File in-office, online, or drop it off.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "195183"
+url: https://raw.githubusercontent.com/api-network/organizations/main/h-r-block-canada.yaml
+tags:
+- Taxes Canada
+- Tax Returns
+- Tax Preparation
+- Tax Filing
+- Canada
+apis: []
+x-common:
+- type: x-website
+  url: http://www.hrblock.ca/
+- type: x-blog
+  url: https://www.hrblock.ca/blog/
+- type: x-careers
+  url: https://www.hrblock.ca/our-company/careers/
+- type: x-facebook
+  url: https://www.facebook.com/HRBlockCanada
+- type: x-linkedin
+  url: https://www.linkedin.com/company/hrbcanada/
+- type: x-login
+  url: https://www.hrblockonline.ca/#/login
+- type: x-news
+  url: https://www.hrblock.ca/newsletter/
+- type: x-support
+  url: https://www.hrblock.ca/support/
+- type: x-terms-of-service
+  url: https://www.hrblock.ca/legal/terms-conditions/
+- type: x-terms-of-service
+  url: https://www.hrblock.ca/legal/terms-conditions/privacy/
+- type: x-twitter
+  url: https://twitter.com/HRBlockCanada
+- type: x-website
+  url: https://www.hrblock.ca
+- type: x-youtube
+  url: https://www.youtube.com/user/HandRBlockTV
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

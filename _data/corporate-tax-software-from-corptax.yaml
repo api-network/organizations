@@ -1,0 +1,62 @@
+---
+name: Corporate Tax Software from CORPTAX
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1649033"
+url: https://raw.githubusercontent.com/api-network/organizations/main/corporate-tax-software-from-corptax.yaml
+tags:
+- Corporate Tax
+apis: []
+x-common:
+- type: x-website
+  url: http://www.corptax.com
+- type: x-about
+  url: https://corptax.com/about/tax-matters/
+- type: x-about
+  url: https://corptax.com/about/
+- type: x-careers
+  url: https://corptax.com/about/careers/
+- type: x-case-studies
+  url: https://corptax.com/resources/case-studies/
+- type: x-case-studies
+  url: https://corptax.com/case-studies/
+- type: x-case-studies
+  url: https://corptax.com/case-studies/?tcst=video
+- type: x-case-studies
+  url: https://corptax.com/case-studies/?tcst=pdf
+- type: x-contact
+  url: https://corptax.com/about/contact/
+- type: x-events
+  url: https://corptax.com/resources/events/
+- type: x-facebook
+  url: https://www.facebook.com/corptax?ref=sgm
+- type: x-linkedin
+  url: https://www.linkedin.com/company/corptax/
+- type: x-news
+  url: https://corptax.com/resources/news/
+- type: x-privacy
+  url: https://www.cscglobal.com/service/csc/privacy/
+- type: x-support
+  url: https://corptax.com/services-support/support/
+- type: x-support
+  url: https://corptax.com/services-support/
+- type: x-twitter
+  url: https://twitter.com/corptaxsoftware
+- type: x-webinars
+  url: https://corptax.com/resources/webinars/
+- type: x-webinars
+  url: https://corptax.com/webinars/
+- type: x-website
+  url: https://corptax.com
+- type: x-white-papers
+  url: https://corptax.com/resources/whitepapers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

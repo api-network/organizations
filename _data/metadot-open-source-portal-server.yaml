@@ -1,0 +1,25 @@
+---
+name: MetaDot Open Source Portal Server
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4799866"
+url: https://raw.githubusercontent.com/api-network/organizations/main/metadot-open-source-portal-server.yaml
+tags:
+- Open Source
+- Content Management
+apis: []
+x-common:
+- type: x-support
+  url: https://www.mojohelpdesk.com/
+- type: x-website
+  url: https://www.metadot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

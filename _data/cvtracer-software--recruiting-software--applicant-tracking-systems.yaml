@@ -1,0 +1,32 @@
+---
+name: CVTracer Software - Recruiting Software  Applicant Tracking Systems
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cvtracer-software--recruiting-software--applicant-tracking-systems.yaml
+tags:
+- Recruitment Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cvtracer.com
+- type: x-blog
+  url: http://www.cvtracer.com/blog/
+- type: x-blog
+  url: http://www.cvtracer.com/blog/306/
+- type: x-developer
+  url: http://developer.cvtracer.com
+- type: x-twitter
+  url: http://twitter.com/cvtracer
+- type: x-website
+  url: https://www.cvtracer.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

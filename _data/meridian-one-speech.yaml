@@ -1,0 +1,60 @@
+---
+name: Meridian One Speech
+description: "Meridian One Speech is the provider of Orpheus TTS. The TTS for\r\n
+  \   intelligible speech at fast talking rates, a must for screen reader users"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/meridian-one-speech.yaml
+tags:
+- XP
+- Vista
+- Text-to-speech
+- Text To Speech
+- "Synthetic Dave\r\n    Tts"
+- Synthesizer
+- Synthesiser
+- Speech Synthesis Cores
+- Speech Synthesis
+- Screen Readers
+- Orpheus Voices
+- Orpheus TTS Plus
+- Orpheus TTS
+- Orpheus
+- Orfeus
+- Multilingual TTS
+- Microsoft Windows 7
+- Meridian One Speech
+- Meridian One Consulting
+- Meridian One
+- M1C
+- Lucy
+- Formant Synthesis
+- Fastest Talking Rates
+- Fast Talking
+- Fast Speech
+- Download Tts
+- Download Text-to-speech
+- Download Orpheus
+- Dave
+- Consulting
+- Concatenative Synthesis
+- Carol
+- Brad
+- Anders
+- Alan
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.meridian-one.co.uk
+- type: x-website
+  url: https://meridian-one.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

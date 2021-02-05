@@ -1,0 +1,86 @@
+---
+name: Wrike
+description: Wrike is an online project management software that gives you full visibility
+  and control over your tasks. With the help of our product, managing projects becomes
+  easier. Our project management tools include time tracking, project planning and
+  organiza...
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1222_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4350"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wrike.yaml
+tags:
+- Translations
+- Projects
+- Projects
+- Office
+- Hosted
+- Have API
+apis: []
+x-common:
+- type: x-base
+  url: https://www.wrike.com
+- type: x-blog
+  url: http://www.wrike.com/blog
+- type: x-blog
+  url: https://www.wrike.com/blog/
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/feedburner/wrike_product_blog
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/wrike
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/wrike
+- type: x-developer
+  url: https://developers.wrike.com/
+- type: x-developers
+  url: https://www.wrike.com/wiki/dev/api3
+- type: x-email
+  url: marketing@team.wrike.com
+- type: x-email
+  url: DMCA@team.wrike.com
+- type: x-email
+  url: support@team.wrike.com
+- type: x-facebook
+  url: https://www.facebook.com/Wrike
+- type: x-instagram
+  url: https://www.instagram.com/wriketeam/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/wrike
+- type: x-partner
+  url: https://learn.wrike.com/partners/
+- type: x-privacy
+  url: https://www.wrike.com/privacy/
+- type: x-security
+  url: https://www.wrike.com/download/security_overview.pdf
+- type: x-status
+  url: https://status.wrike.com/
+- type: x-support
+  url: https://help.wrike.com/hc/en-us
+- type: x-support
+  url: https://help.wrike.com/hc/en-us/community/topics/
+- type: x-support
+  url: https://help.wrike.com/hc/en-us/community/topics
+- type: x-support
+  url: https://learn.wrike.com/support-packages/
+- type: x-support
+  url: https://www.wrike.com/help/
+- type: x-terms-of-service
+  url: https://www.wrike.com/terms/
+- type: x-twitter
+  url: https://twitter.com/wrike
+- type: x-webhooks
+  url: https://developers.wrike.com/documentation/webhooks
+- type: x-website
+  url: http://www.wrike.com
+- type: x-website
+  url: https://www.wrike.com
+- type: x-youtube
+  url: https://www.youtube.com/user/WrikeTeam
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

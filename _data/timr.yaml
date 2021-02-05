@@ -1,0 +1,47 @@
+---
+name: Timr
+description: "Die digitale Zeiterfassung statt Excel und Papier - Professionell und
+  Einfach, F\xFCr Arbeitszeit, Urlaubsverwaltung, Projektzeiten. Auf Knopfdruck auswerten.
+  Jetzt kostenlos testen!"
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1367-timr.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "395225"
+url: https://raw.githubusercontent.com/api-network/organizations/main/timr.yaml
+tags:
+- Tracking
+- Projects
+- Office
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.timr.com
+- type: x-website
+  url: http://www.timr.com/tour/api
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/timr
+- type: x-email
+  url: info@timr.com
+- type: x-login
+  url: https://login.timr.com/timr/login.html
+- type: x-pricing
+  url: https://www.timr.com/en/s/pricing/
+- type: x-privacy
+  url: https://www.timr.com/en/p/privacy/
+- type: x-security
+  url: https://www.timr.com/en/p/trust-security/
+- type: x-support
+  url: https://www.timr.com/en/s/support/
+- type: x-terms-of-service
+  url: https://www.timr.com/en/p/terms-of-service/
+- type: x-twitter
+  url: https://twitter.com/timr
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

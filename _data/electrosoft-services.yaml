@@ -1,0 +1,34 @@
+---
+name: Electrosoft Services
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3208048"
+url: https://raw.githubusercontent.com/api-network/organizations/main/electrosoft-services.yaml
+tags:
+- Tools And Services
+apis: []
+x-common:
+- type: x-website
+  url: http://www.electrosoft-inc.com/
+- type: x-blog
+  url: https://www.electrosoft-inc.com/electroblog
+- type: x-careers
+  url: http://dev-electrosoft.pantheonsite.io/careers
+- type: x-contact
+  url: https://www.electrosoft-inc.com/contact-us
+- type: x-linkedin
+  url: https://www.linkedin.com/company/electrosoft
+- type: x-twitter
+  url: https://twitter.com/Electrosoft_Inc
+- type: x-website
+  url: https://www.electrosoft-inc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

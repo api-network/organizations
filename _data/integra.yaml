@@ -1,0 +1,55 @@
+---
+name: Integra
+description: "Integra Ledger is an enterprise blockchain designed specifically for
+  the world\u2019s legal industry. It integrates with existing legal software to improve
+  data integrity, security, interoperability, and productivity."
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/integra.yaml
+tags:
+- Records Management
+- Profile
+- Legal
+- Ledger
+- Integrity
+- Information Governance
+- Have API Paths
+- Have API
+- Documents
+- Contracts
+- Blockchain
+- Artificial Intelligence
+apis: []
+x-common:
+- type: x-contact
+  url: https://integraledger.com/contact-us/
+- type: x-contact-form
+  url: https://integraledger.com/contact-us/
+- type: x-developer
+  url: https://integraledger.com/api/
+- type: x-developer
+  url: https://integraledger.portal.azure-api.net/
+- type: x-documentation
+  url: https://integraledger.com/api/
+- type: x-news
+  url: https://integraledger.com/news/
+- type: x-privacy
+  url: https://integraledger.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://integraledger.com/Terms-of-Use/
+- type: x-terms-of-service
+  url: https://legalconsortium.org/
+- type: x-twitter
+  url: https://twitter.com/IntegraLedger
+- type: x-website
+  url: http://integraledger.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

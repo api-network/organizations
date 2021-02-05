@@ -1,0 +1,30 @@
+---
+name: Datafari - open source enterprise search solution
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7853628"
+url: https://raw.githubusercontent.com/api-network/organizations/main/datafari--open-source-enterprise-search-solution.yaml
+tags:
+- Search Engines
+apis: []
+x-common:
+- type: x-website
+  url: https://www.datafari.com/en
+- type: x-contact
+  url: https://www.francelabs.com/contact.html
+- type: x-linkedin
+  url: http://www.linkedin.com/company/france-labs
+- type: x-twitter
+  url: https://twitter.com/francelabs
+- type: x-website
+  url: https://www.datafari.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

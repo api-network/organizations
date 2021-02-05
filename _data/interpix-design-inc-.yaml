@@ -1,0 +1,30 @@
+---
+name: Interpix Design Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3029015"
+url: https://raw.githubusercontent.com/api-network/organizations/main/interpix-design-inc-.yaml
+tags:
+- Companies And Consultants
+apis: []
+x-common:
+- type: x-website
+  url: http://interpixdesign.com
+- type: x-facebook
+  url: https://www.facebook.com/InterpixDesign
+- type: x-login
+  url: https://ca.linkedin.com/company/interpix-design-inc-
+- type: x-twitter
+  url: https://twitter.com/interpixdesign
+- type: x-website
+  url: https://interpixdesign.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,44 @@
+---
+name: Human Interface Technology Lab - New Zealand
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5073599"
+url: https://raw.githubusercontent.com/api-network/organizations/main/human-interface-technology-lab--new-zealand.yaml
+tags:
+- Human Interaction
+apis: []
+x-common:
+- type: x-website
+  url: http://www.hitlabnz.org
+- type: x-about
+  url: https://www.hitlabnz.org/index.php/about-us/mission/
+- type: x-about
+  url: https://www.hitlabnz.org/index.php/about-us/location/
+- type: x-about
+  url: https://www.hitlabnz.org/index.php/about-us/intranet/
+- type: x-about
+  url: http://www.mbie.govt.nz/about
+- type: x-about
+  url: https://www.hitlabnz.org/index.php/about-us/
+- type: x-careers
+  url: https://www.hitlabnz.org/index.php/jobs-2/
+- type: x-facebook
+  url: https://www.facebook.com/HITLabNZ/
+- type: x-news
+  url: https://www.hitlabnz.org/index.php/news/
+- type: x-partner
+  url: https://www.hitlabnz.org/index.php/about-us/partners/
+- type: x-twitter
+  url: https://twitter.com/HITLabNZ
+- type: x-website
+  url: https://www.hitlabnz.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

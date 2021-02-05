@@ -1,0 +1,42 @@
+---
+name: Lexacom Digital Dictation software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lexacom-digital-dictation-software.yaml
+tags:
+- Resellers
+apis: []
+x-common:
+- type: x-about
+  url: https://www.lexacom.co.uk/about-us/
+- type: x-case-studies
+  url: https://www.lexacom.co.uk/case-studies/
+- type: x-contact
+  url: https://www.lexacom.co.uk/contact-us/
+- type: x-events
+  url: https://www.lexacom.co.uk/events/
+- type: x-news
+  url: https://www.lexacom.co.uk/lexacom-news/
+- type: x-support
+  url: https://www.lexacom.co.uk/lexacom-support/
+- type: x-terms-of-service
+  url: https://www.lexacom.co.uk/sectors/legal-dictation/
+- type: x-terms-of-service
+  url: https://www.lexacom.co.uk/terms-conditions/
+- type: x-twitter
+  url: https://twitter.com/LexacomDictate?ref_src=twsrc%5Etfw
+- type: x-webinars
+  url: https://www.lexacom.co.uk/webinar
+- type: x-website
+  url: https://www.lexacom.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

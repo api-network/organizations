@@ -1,0 +1,56 @@
+---
+name: 10ZiG Technology
+description: 10ZiG is a world market leader in Thin Clients & Zero Clients for VDI.
+  Our units are certified for Citrix, VMware and Microsoft and support the latest
+  protocols.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "898814"
+url: https://raw.githubusercontent.com/api-network/organizations/main/10zig-technology.yaml
+tags:
+- Thin Clients
+apis: []
+x-common:
+- type: x-website
+  url: http://www.10ZiG.com
+- type: x-about
+  url: https://www.10zig.com/about
+- type: x-about
+  url: https://www.10zig.com/about/technology_partners
+- type: x-blog
+  url: https://www.10zig.com/resources/vdi-blog
+- type: x-contact
+  url: https://www.10zig.com/contact
+- type: x-contact
+  url: https://www.10zig.com/contact/become-reseller
+- type: x-contact
+  url: https://www.10zig.com/contact/career-opportunities
+- type: x-events
+  url: https://www.10zig.com/resources/events
+- type: x-facebook
+  url: https://www.facebook.com/10ZiGTechnology/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/10zig-technology
+- type: x-news
+  url: https://www.10zig.com/resources/10zig-in-the-news
+- type: x-partner
+  url: https://www.10zig.com/partner_portal
+- type: x-privacy
+  url: https://www.10zig.com/privacy_policy
+- type: x-support
+  url: https://www.10zig.com/resources/support_faq
+- type: x-support
+  url: https://www.10zig.com/submit-a-support-ticket
+- type: x-twitter
+  url: https://twitter.com/10ZiGtechnology
+- type: x-website
+  url: https://www.10zig.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

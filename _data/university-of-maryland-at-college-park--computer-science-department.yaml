@@ -1,0 +1,38 @@
+---
+name: University of Maryland at College Park - Computer Science Department
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6376"
+url: https://raw.githubusercontent.com/api-network/organizations/main/university-of-maryland-at-college-park--computer-science-department.yaml
+tags:
+- Maryland
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cs.umd.edu
+- type: x-about
+  url: http://undergrad.cs.umd.edu/about
+- type: x-events
+  url: webcal://www.cs.umd.edu/events/ical/umdcs_calendar.ics
+- type: x-facebook
+  url: https://www.facebook.com/UMDCompSci
+- type: x-instagram
+  url: http://instagram.com/umdcs
+- type: x-instagram
+  url: https://instagram.com/umdcs
+- type: x-linkedin
+  url: http://www.linkedin.com/pub/umd-cs/62/a3b/544
+- type: x-twitter
+  url: https://twitter.com/umdcs
+- type: x-website
+  url: https://www.cs.umd.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

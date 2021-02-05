@@ -1,0 +1,24 @@
+---
+name: stardot.org.uk
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "655331"
+url: https://raw.githubusercontent.com/api-network/organizations/main/stardot-org-uk.yaml
+tags:
+- Acorn
+apis: []
+x-common:
+- type: x-forum
+  url: http://www.stardot.org.uk/forums/
+- type: x-website
+  url: https://www.stardot.org.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

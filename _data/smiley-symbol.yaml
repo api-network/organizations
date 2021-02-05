@@ -1,0 +1,53 @@
+---
+name: Smiley Symbol
+description: Smiley Symbol - Decorate your pages with Smiley Symbol, Animated Smileys,
+  Moving Emoticons, Emoji codes, Facebook Smileys, WhatsApp smileys, emojis.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10501147"
+url: https://raw.githubusercontent.com/api-network/organizations/main/smiley-symbol.yaml
+tags:
+- Text Smiley
+- Smilies
+- Smiley Symbol
+- Smiley Face
+- Moving Emoticons
+- Kiss Emoticon
+- Images Happy
+- Flat Icons
+- Facebook Kiss Emoticon
+- Emoticons Pictures Free
+- Emoticons Msn
+- Emoticon
+- Emojis
+- Crying Smiley
+- Animated Smileys
+apis: []
+x-common:
+- type: x-website
+  url: http://smileysymbol.com
+- type: x-about
+  url: http://www.smileysymbol.com/p/about.html
+- type: x-blog
+  url: http://www.smileysymbol.com/p/blog-page.html
+- type: x-facebook
+  url: https://facebook.com/SmileySymbol
+- type: x-feed
+  url: https://www.smileysymbol.com/feeds/posts/default
+- type: x-feed
+  url: http://feeds.feedburner.com/smileysymbol
+- type: x-feed
+  url: http://livetrafficfeed.com
+- type: x-twitter
+  url: https://twitter.com/smileysymbol
+- type: x-website
+  url: https://www.smileysymbol.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

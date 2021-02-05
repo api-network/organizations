@@ -1,0 +1,38 @@
+---
+name: Spirtech
+description: Spirtech is an international leader in contactless ticketing technology
+  and urban, intelligent mobility
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3460891"
+url: https://raw.githubusercontent.com/api-network/organizations/main/spirtech.yaml
+tags:
+- Ticketing
+- Standards
+- Spirtech
+- Solution Providers
+- Services
+- Sam
+- Mobility
+- M-Ticketing
+- HSM
+- Hce
+- Formation
+- Contactless
+- Card
+- Calypso
+apis: []
+x-common:
+- type: x-news
+  url: https://news.spirtech.com/en/pages
+- type: x-website
+  url: https://www.spirtech.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

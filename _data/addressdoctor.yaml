@@ -1,0 +1,74 @@
+---
+name: AddressDoctor
+description: Informatica address validation services help ensure address data is properly
+  formatted so your packages arrive, no matter where your customers are located or
+  in what language their addresses are written.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8040857"
+url: https://raw.githubusercontent.com/api-network/organizations/main/addressdoctor.yaml
+tags:
+- Data Integrity And Cleansing Tools
+apis: []
+x-common:
+- type: x-about
+  url: https://www.informatica.com/about-us/communities.html
+- type: x-about
+  url: https://www.informatica.com/about-us.html
+- type: x-about
+  url: https://www.informatica.com/about-us/claire.html
+- type: x-blog
+  url: https://www.informatica.com/resources/blog.html
+- type: x-careers
+  url: https://www.informatica.com/about-us/careers.html
+- type: x-contact
+  url: http://now.informatica.com/en_daas-other-contact-us-1
+- type: x-contact
+  url: https://www.informatica.com/contact-us.html
+- type: x-customers
+  url: https://www.informatica.com/about-us/customers.html
+- type: x-events
+  url: https://www.informatica.com/about-us/events.html
+- type: x-facebook
+  url: https://www.facebook.com/InformaticaLLC
+- type: x-instagram
+  url: https://www.instagram.com/informaticacorp/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/informatica/
+- type: x-login
+  url: https://network.informatica.com/login!input.jspa
+- type: x-news
+  url: https://www.informatica.com/about-us/news.html
+- type: x-partner
+  url: https://www.informatica.com/about-us/partners.html
+- type: x-partner
+  url: https://partners.informatica.com
+- type: x-pricing
+  url: http://now.informatica.com/en_daas-other-pricing-2
+- type: x-privacy
+  url: https://www.informatica.com/privacy-policy.html
+- type: x-privacy
+  url: https://www.informatica.com/privacy-policy.html#cal
+- type: x-terms-of-service
+  url: https://www.informatica.com/legal/cookie-policy.html
+- type: x-terms-of-service
+  url: https://www.informatica.com/terms-of-use.html
+- type: x-terms-of-service
+  url: https://www.informatica.com/legal.html
+- type: x-twitter
+  url: http://twitter.com/Informatica
+- type: x-webinars
+  url: https://www.informatica.com/resources/webinars.html
+- type: x-webinars
+  url: https://www.informatica.com/about-us/webinars.html
+- type: x-website
+  url: https://www.addressdoctor.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

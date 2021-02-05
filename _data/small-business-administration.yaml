@@ -1,0 +1,37 @@
+---
+name: Small Business Administration
+description: <p>The Small Business Administration (SBA) is a United States government
+  agency that provides support to entrepreneurs and small businesses. The mission
+  of the Small Business Administration is "to maintain and strengthen the nation's
+  economy by enabling the establishment and viability of small businesses and by assisting
+  in the economic recovery of communities after disasters". The agency's activities
+  are summarized as the "3 Cs" of capital, contracts and counseling.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/280px-US-SmallBusinessAdmin-Seal.svg.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "12810"
+url: https://raw.githubusercontent.com/api-network/organizations/main/small-business-administration.yaml
+tags:
+- Have API
+- Federal Government
+- Federal Government
+- Data JSON
+- Business
+apis: []
+x-common:
+- type: x-data
+  url: https://www.sba.gov/about-sba/sba-performance/open-government/digital-sba/open-data/open-data-sources
+- type: x-developers
+  url: http://www.sba.gov/about-sba/sba_performance/sba_data_store/web_service_api
+- type: x-website
+  url: http://www.sba.gov
+- type: x-wikipedia
+  url: http://en.wikipedia.org/wiki/Small_Business_Administration
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,64 @@
+---
+name: JADAK, LLC
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "607768"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jadak-llc.yaml
+tags:
+- Barcode
+apis: []
+x-common:
+- type: x-website
+  url: https://www.jadaktech.com/
+- type: x-about
+  url: https://www.jadaktech.com/about-us/
+- type: x-about
+  url: https://www.jadaktech.com/about-us/timeline/
+- type: x-blog
+  url: https://www.jadaktech.com/resources/blog/
+- type: x-careers
+  url: https://www.jadaktech.com/about-us/careers/
+- type: x-code
+  url: https://www.jadaktech.com/products/barcode-scanners/
+- type: x-contact
+  url: https://www.jadaktech.com/contact-us/
+- type: x-events
+  url: https://www.jadaktech.com/resources/events/
+- type: x-facebook
+  url: https://www.facebook.com/jadaktech
+- type: x-linkedin
+  url: https://www.linkedin.com/company/jadak-tech/
+- type: x-partner
+  url: https://www.jadaktech.com/about-us/partners/
+- type: x-privacy
+  url: https://www.novanta.com/privacy-policy/
+- type: x-privacy
+  url: https://policies.google.com/privacy
+- type: x-privacy
+  url: https://www.novanta.com/privacy-policy
+- type: x-support
+  url: https://www.jadaktech.com/support/
+- type: x-support
+  url: https://www.jadaktech.com/support/technical-support/
+- type: x-support
+  url: https://www.jadaktech.com/support/pri-rma-form/
+- type: x-support
+  url: https://www.jadaktech.com/support/rma-form/
+- type: x-terms-of-service
+  url: https://policies.google.com/terms
+- type: x-terms-of-service
+  url: https://www.novanta.com/terms-of-use
+- type: x-twitter
+  url: https://twitter.com/jadak_tech
+- type: x-website
+  url: https://www.jadaktech.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

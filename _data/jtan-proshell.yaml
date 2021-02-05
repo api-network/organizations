@@ -1,0 +1,73 @@
+---
+name: JTAN ProShell
+description: "JTAN offers low priced ProShell shell\naccounts which come with personal
+  web space, unlimited shell access, SSH, and more. The ProWeb\nprofessional web hosting
+  service comes with unlimited disk space, 10 gigabytes of data-transfer, \ndynamic
+  DNS unlimited sub-domains, and the RealChat software. Dedicated servers are as low
+  as $99 a year\nand can be SuSE Linux, RedHat Linux or more. Rack mount cases are
+  also offered."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jtan-proshell.yaml
+tags:
+- Web Hosting
+- Web Host
+- Web Cam
+- Velodrome
+- Unix Shell Providers
+- Unix Shell Account
+- Unix
+- Shopping Cart
+- Shell
+- RF
+- Realchat
+- RaQ3
+- RAQ
+- Rack Mount
+- Microwave
+- Linux
+- Hosting
+- Dynamic DNS FrontPage
+- DSP
+- Dedicated Servers
+- Dedicated Host
+- Cybercash
+- Consultant
+- Cobalt
+- Co-location
+- Adaptive
+- 2u
+apis: []
+x-common:
+- type: x-contact
+  url: http://www.jtan.com/contact/
+- type: x-news
+  url: https://www.jtan.com/news/index.cgi/2015/01/28#ghost
+- type: x-news
+  url: https://www.jtan.com/news/index.cgi/2015/01/18#reboot
+- type: x-news
+  url: https://www.jtan.com/news/index.cgi/2014/11/20#eff
+- type: x-news
+  url: https://www.jtan.com/news/index.cgi/2014/11/18#tor
+- type: x-news
+  url: https://www.jtan.com/news/index.cgi/2014/06/02#billing
+- type: x-news
+  url: http://www.jtan.com/news/index.cgi/fbcmd.html
+- type: x-news
+  url: http://www.jtan.com/news/index.cgi/twidge.html
+- type: x-news
+  url: http://www.jtan.com/news
+- type: x-signup
+  url: https://www.jtan.com/signup/
+- type: x-website
+  url: https://www.jtan.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

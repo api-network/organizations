@@ -1,0 +1,65 @@
+---
+name: Santander Bank
+description: Santander Bank, N. A., formerly Sovereign Bank, is a wholly owned subsidiary
+  of Spanish Santander Group. It is based in Boston and its principal market is the
+  northeastern United States. It has $54.7 billion in deposits, operates about 650
+  retail banking offices and over 2,000 ATMs, and employs approximately 9,800 people.
+  It offers an array of financial services and products including retail banking,
+  mortgages, corporate banking, cash management, credit card, capital markets, trust
+  and wealth management, and insurance.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28128-www-santanderbank-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "12701"
+url: https://raw.githubusercontent.com/api-network/organizations/main/santander-bank.yaml
+tags:
+- UK Banks
+- Relative Data
+- Have API Paths
+- Have API
+- General Data
+- Banking
+apis: []
+x-common:
+- type: x-website
+  url: http://www.santanderbank.com
+- type: x-about
+  url: https://www.santanderbank.com/us/about
+- type: x-about
+  url: https://santanderbank.com/us/about/about-us
+- type: x-about
+  url: https://www.santanderbank.com/us/about/media-center
+- type: x-about
+  url: https://santanderbank.com/us/about/community
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/santander-bank-2
+- type: x-customers
+  url: https://customerservice.santanderbank.com/app/ask
+- type: x-customers
+  url: https://customerservice.santanderbank.com
+- type: x-customers
+  url: https://customerservice.santanderbank.com/
+- type: x-developers
+  url: http://openbankingapis.io/uk/santander
+- type: x-documentation
+  url: https://openbanking.atlassian.net/wiki/spaces/DZ/pages/54919225/Open+Data+API+Dashboard#
+- type: x-login
+  url: https://www.santanderbank.com/us/personal/rolb-login
+- type: x-privacy
+  url: https://santanderbank.com/us/online-privacy-policy
+- type: x-security
+  url: https://www.santanderbank.com/privacyandsecurity
+- type: x-terms-of-service
+  url: https://santanderbank.com/us/terms-and-conditions
+- type: x-twitter
+  url: https://twitter.com/santanderbankUS
+- type: x-website
+  url: https://www.santanderbank.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

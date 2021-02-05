@@ -1,0 +1,62 @@
+---
+name: Resonate
+description: Resonate empowers leading brands and agencies with deep consumer intelligence
+  that ignites unbreakable relationships through better connections, more meaningful
+  engagement and compelling customer experiences.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "250162"
+url: https://raw.githubusercontent.com/api-network/organizations/main/resonate.yaml
+tags:
+- Load Balancing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.resonate.com
+- type: x-about
+  url: https://www.resonate.com/about/
+- type: x-about
+  url: https://www.resonate.com/about/leadership-team/
+- type: x-about
+  url: https://www.resonate.com/about/clients/
+- type: x-blog
+  url: https://www.resonate.com/blog/
+- type: x-careers
+  url: https://www.resonate.com/about/careers/
+- type: x-contact
+  url: https://www.resonate.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/ResonateNetworks
+- type: x-instagram
+  url: https://www.instagram.com/resonate_insights/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/resonate-networks
+- type: x-login
+  url: https://signin.live.resonate.com/login
+- type: x-news
+  url: https://www.resonate.com/newsroom/
+- type: x-partner
+  url: https://www.resonate.com/about/partners/
+- type: x-privacy
+  url: https://www.resonate.com/privacy-policy/
+- type: x-privacy
+  url: https://www.resonate.com/privacy-policy/#choice
+- type: x-privacy
+  url: https://www.resonate.com/privacy-policy/#ccpa
+- type: x-terms-of-service
+  url: https://www.resonate.com/terms-of-use/
+- type: x-terms-of-service
+  url: https://www.resonate.com/terms-conditions-publishers/
+- type: x-twitter
+  url: https://twitter.com/resonatetweets
+- type: x-website
+  url: https://www.resonate.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,45 @@
+---
+name: Global Guideline
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "220609"
+url: https://raw.githubusercontent.com/api-network/organizations/main/global-guideline.yaml
+tags:
+- Web Tutorials
+- Tests
+- SQL
+- SEO
+- Quiz
+- Questions
+- Online
+- Jobs
+- Job
+- JavaScript
+- Interviewer
+- Interviewee
+- Interview
+- CSS
+- Articles
+- Answers
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/InterviewQuestionsAnswers/
+- type: x-feed
+  url: https://feeds.feedburner.com/GlobalGuideline
+- type: x-linkedin
+  url: https://www.linkedin.com/in/mhussainiqbal/
+- type: x-twitter
+  url: https://twitter.com/InterviewGuide
+- type: x-website
+  url: https://www.globalguideline.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

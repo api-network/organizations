@@ -1,0 +1,87 @@
+---
+name: SFGATE
+description: 'SFGATE: Local news & information, updated weather, traffic, entertainment,
+  celebrity news, sports scores and more.'
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/los-angeles-times.jpeg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1777"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sfgate.yaml
+tags:
+- Profile
+- News
+- Los Angeles Times
+- Latimes
+- L.a. Times
+- Geo
+- Data Desk
+apis: []
+x-common:
+- type: x-about
+  url: http://www.latimes.com/about/
+- type: x-base
+  url: http://boundaries.latimes.com/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/los-angeles-times-media-group
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/newyorktimes
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/usa-today
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/los-angeles-daily-news
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/sf-gate
+- type: x-email
+  url: christie.dzurilla@latimes.com
+- type: x-email
+  url: dnmetro@dailynews.com
+- type: x-email
+  url: melene.alfonso@dailynews.com
+- type: x-email
+  url: legalads@dailynews.com
+- type: x-email
+  url: legals@dailynews.com
+- type: x-email
+  url: shawn.fischer@dailynews.com
+- type: x-email
+  url: dnlalife@dailynews.com
+- type: x-email
+  url: dean.musgrove@dailynews.com
+- type: x-email
+  url: david.crane@dailynews.com
+- type: x-email
+  url: hans.gutknecht@dailynews.com
+- type: x-email
+  url: prepsports@dailynews.com
+- type: x-privacy
+  url: http://privacy.tribune.com
+- type: x-terms-of-service
+  url: http://www.latimes.com/lat-terms,0,7374802.story
+- type: x-twitter
+  url: https://twitter.com/latdatadesk
+- type: x-twitter
+  url: https://twitter.com/latimes
+- type: x-twitter
+  url: https://twitter.com/nytimes
+- type: x-twitter
+  url: https://twitter.com/USATODAY
+- type: x-twitter
+  url: https://twitter.com/ladailynews
+- type: x-twitter
+  url: https://twitter.com/SFGate
+- type: x-website
+  url: http://usatoday.com
+- type: x-website
+  url: http://dailynews.com
+- type: x-website
+  url: http://sfgate.com
+- type: x-website
+  url: http://projects.latimes.com/mapping-la/api/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,43 @@
+---
+name: Dydra.com
+description: Cloud-hosted RDF & SPARQL database service by @datagraph. Request an
+  invite to the beta program at http://t.co/Sat0oPE8fu
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/766-dydra-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "7046044"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dydra-com.yaml
+tags:
+- Semantic
+- Have API
+- Databases
+- Databases
+- API Provider
+apis: []
+x-common:
+- type: x-base
+  url: http://dydra.com/
+- type: x-blog
+  url: http://blog.dydra.com
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/dydra
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/dydra
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/dydra
+- type: x-developers
+  url: http://docs.dydra.com/api/rest
+- type: x-github
+  url: https://github.com/dydra
+- type: x-twitter
+  url: https://twitter.com/dydradata
+- type: x-website
+  url: http://dydra.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

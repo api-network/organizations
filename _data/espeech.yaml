@@ -1,0 +1,49 @@
+---
+name: E-Speech
+description: speech technology
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/espeech.yaml
+tags:
+- Text To Speech Names
+- Speech Synthesis Cores
+- Say Names App
+- Say Names
+- Pronounce People's Names
+- Pronounce Names Website
+- Pronounce Names Software
+- Pronounce Names Of People
+- Pronounce Names Correctly
+- Pronounce Names App
+- Pronounce Names
+- Pronounce Foreign Names
+- Pronounce Difficult Names
+- Pronounce Any Name
+- Pronounce A Name
+- Names With Pronunciation
+- Name Pronunciation Website
+- Name Pronunciation Tool
+- Name Pronunciation Software
+- Name Pronunciation App
+- Name Pronunciation
+- How To Say Names
+- How To Pronounce Names
+- Hear Names Pronounced
+- Hear Names Correctly
+- Hear Names App
+- Hear Names
+- App To Pronounce Names
+apis: []
+x-common:
+- type: x-website
+  url: https://www.espeech.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

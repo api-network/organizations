@@ -1,0 +1,29 @@
+---
+name: Immersion Active
+description: The digital agency for the mature markets. We'll help your brand reach
+  boomers and seniors online through comprehensive, research-based campaigns.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2165245"
+url: https://raw.githubusercontent.com/api-network/organizations/main/immersion-active.yaml
+tags:
+- Branding
+apis: []
+x-common:
+- type: x-website
+  url: http://www.immersionactive.com
+- type: x-linkedin
+  url: http://www.linkedin.com/companies/immersion-active
+- type: x-twitter
+  url: http://twitter.com/ImmersionActive
+- type: x-website
+  url: https://www.immersionactive.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

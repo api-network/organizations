@@ -1,0 +1,162 @@
+---
+name: Shropshire Linux User Group
+description: Shropshire Linux User Group
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/shropshire-linux-user-group.yaml
+tags:
+- Europe
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.shropshirelug.wordpress.com
+- type: x-feed
+  url: http://feeds.feedburner.com/linuxtoday/linux
+- type: x-press
+  url: https://shropshirelug.wordpress.com/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/about/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/join/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/meetings/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/linuxham/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/projects/
+- type: x-press
+  url: https://www.shropshirelug.wordpress.com
+- type: x-press
+  url: https://shropshirelug.wordpress.com/page/2/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/12-04/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/acer/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/amateur/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/arduino/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/arduinos/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/arm/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/aspire/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/bargain/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/cambridge/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/college/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/distro/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/dstar/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/education/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/electronics/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/email/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/embedded/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/events/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/fosdem/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/ft817/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/german/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/hackathon/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/hamfest/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/ham-radio/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/horshay/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/imodella/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/knoppix/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/linunx/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/linux/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/linux-howto/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/linux-install/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/live-distro/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/lug/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/makerbot/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/meet/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/meeting/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/meetings/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/news/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/open-source/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/practical/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/radio/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/raspberrypi/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/raspberry-pi/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/robots/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/server/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/shropshire/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/small/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/space/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/space-gambit/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/talk/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/tcat/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/tdars/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/telford/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/uav/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/ubuntu/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/usb/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/wspr/
+- type: x-press
+  url: https://shropshirelug.wordpress.com/tag/xbmc/
+- type: x-press
+  url: https://wordpress.com/?ref=footer_website
+- type: x-press
+  url: https://wordpress.com/?ref=footer_blog
+- type: x-twitter
+  url: https://twitter.com/@shropshirelug/
+- type: x-website
+  url: https://shropshirelug.wordpress.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

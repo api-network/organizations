@@ -1,0 +1,37 @@
+---
+name: CSS Portal
+description: Here at CSSPortal, we have gathered as much information as possible to
+  try and help you learn CSS and improve your web design skills.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "104838"
+url: https://raw.githubusercontent.com/api-network/organizations/main/css-portal.yaml
+tags:
+- Examples
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.cssportal.com/blog/css-image-filters/
+- type: x-blog
+  url: https://www.cssportal.com/blog/lengths-in-css/
+- type: x-blog
+  url: https://www.cssportal.com/blog/style-hr-tag-with-css/
+- type: x-blog
+  url: http://www.cssportal.com/blog/
+- type: x-code
+  url: https://www.charactercodes.net
+- type: x-contact
+  url: http://www.cssportal.com/contact.php
+- type: x-privacy
+  url: http://www.cssportal.com/privacy.php
+- type: x-website
+  url: https://www.cssportal.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

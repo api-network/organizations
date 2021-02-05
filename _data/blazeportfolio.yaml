@@ -1,0 +1,54 @@
+---
+name: BlazePortfolio
+description: "BlazePortfolio\xAE develops streamlined, user-friendly trade management
+  and portfolio rebalancing solutions for investment managers, RIA's, wealth managers,
+  broker dealers, family offices, and industry partners."
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/8747-blazeportfolio.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1396875"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blazeportfolio.yaml
+tags:
+- Have API
+- Financial
+- API Not Found
+apis: []
+x-common:
+- type: x-website
+  url: http://www.blazeportfolio.com
+- type: x-about
+  url: http://blazeportfolio.com/about-us/
+- type: x-careers
+  url: http://blazeportfolio.com/careers/
+- type: x-contact
+  url: http://blazeportfolio.com/contact-us/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/blazeportfolio
+- type: x-email
+  url: info@blazeportfolio.com
+- type: x-email
+  url: Support@Blazeportfolio.com
+- type: x-email
+  url: sales@blazeportfolio.com
+- type: x-facebook
+  url: https://www.facebook.com/blazeportfoliosystems/
+- type: x-integrations
+  url: http://blazeportfolio.com/integrations/
+- type: x-integrations
+  url: http://blazeportfolio.com/services/integrations/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/blazeportfolio/
+- type: x-support
+  url: https://support.blazeportfolio.com
+- type: x-twitter
+  url: https://twitter.com/blazeportfolio
+- type: x-website
+  url: http://www.blazeportfolio.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

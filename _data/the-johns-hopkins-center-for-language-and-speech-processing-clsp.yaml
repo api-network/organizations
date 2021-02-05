@@ -1,0 +1,90 @@
+---
+name: The Johns Hopkins Center for Language and Speech Processing (CLSP)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5285"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-johns-hopkins-center-for-language-and-speech-processing-clsp.yaml
+tags:
+- Research
+apis: []
+x-common:
+- type: x-about
+  url: https://www.clsp.jhu.edu/about/
+- type: x-about
+  url: https://www.clsp.jhu.edu/about/jelinek-fellowship/
+- type: x-contact
+  url: https://www.clsp.jhu.edu/contact/
+- type: x-documentation
+  url: https://www.clsp.jhu.edu/people/postdocs/
+- type: x-facebook
+  url: https://www.facebook.com/JHUCLSP/
+- type: x-news
+  url: https://www.clsp.jhu.edu/news
+- type: x-privacy
+  url: https://it.johnshopkins.edu/policies/privacystatement
+- type: x-twitter
+  url: http://twitter.com/@JHUCLSP
+- type: x-twitter
+  url: http://twitter.com/search?q=%23BlackboxNLP&src=hash
+- type: x-twitter
+  url: http://twitter.com/search?q=%23emnlp2020&src=hash
+- type: x-twitter
+  url: http://twitter.com/jhuclsp/status/1217275420938207232
+- type: x-twitter
+  url: http://twitter.com/jhuclsp/status/1217275377455894530
+- type: x-twitter
+  url: http://twitter.com/jhuclsp/status/1217275297495748608
+- type: x-twitter
+  url: http://twitter.com/MuyinatuBell
+- type: x-twitter
+  url: http://twitter.com/IEEEorg
+- type: x-twitter
+  url: http://twitter.com/jhuclsp/status/1216799787430711301
+- type: x-twitter
+  url: http://twitter.com/rendu_a
+- type: x-twitter
+  url: http://twitter.com/jhuclsp
+- type: x-twitter
+  url: http://twitter.com/jhuclsp/status/1216163256542334976
+- type: x-twitter
+  url: http://twitter.com/jhuclsp/status/1215511412270911488
+- type: x-twitter
+  url: http://twitter.com/jhuclsp/status/1215376464167784450
+- type: x-twitter
+  url: http://twitter.com/jhuclsp/status/1214945501466038273
+- type: x-twitter
+  url: http://twitter.com/jhuclsp/status/1214900210385784833
+- type: x-twitter
+  url: http://twitter.com/JohnsHopkins
+- type: x-twitter
+  url: http://twitter.com/jhuclsp/status/1214900076373577728
+- type: x-twitter
+  url: http://twitter.com/jhuclsp/status/1212830041266102272
+- type: x-twitter
+  url: http://twitter.com/andreoulab
+- type: x-twitter
+  url: http://twitter.com/jhuclsp/status/1212614394691178497
+- type: x-twitter
+  url: http://twitter.com/kentonmurray
+- type: x-twitter
+  url: http://twitter.com/ben_vandurme
+- type: x-twitter
+  url: http://twitter.com/jhuclsp/status/1207399953418653696
+- type: x-twitter
+  url: http://twitter.com/jhuclsp/status/1207399910716399616
+- type: x-twitter
+  url: http://twitter.com/jhuclsp/status/1207177989064134656
+- type: x-twitter
+  url: https://twitter.com/jhuclsp
+- type: x-website
+  url: https://www.clsp.jhu.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

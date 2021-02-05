@@ -1,0 +1,32 @@
+---
+name: Paw Engineering
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/paw-engineering.yaml
+tags:
+- Shareware
+apis: []
+x-common:
+- type: x-blog
+  url: https://paweng.com/blog/
+- type: x-code
+  url: https://paweng.com/electrical-code-a-day/
+- type: x-code
+  url: http://paweng.com/electrical-code-a-day/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-privacy
+  url: https://paweng.com/privacy-policy/
+- type: x-website
+  url: https://paweng.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

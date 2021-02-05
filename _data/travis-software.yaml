@@ -1,0 +1,39 @@
+---
+name: Travis Software
+description: Simplify employee benefits administration. Travisoft provides COBRA administration,
+  FSA, open enrollment, retiree and direct bill software to fuel your growth.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "909193"
+url: https://raw.githubusercontent.com/api-network/organizations/main/travis-software.yaml
+tags:
+- Compensation And Benefits
+apis: []
+x-common:
+- type: x-about
+  url: https://www.travisoft.com/about-us/
+- type: x-events
+  url: https://www.travisoft.com/events/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/travis-software
+- type: x-news
+  url: http://go.travisoft.com/newsletter
+- type: x-open-source
+  url: https://www.travisoft.com/open-enrollment/
+- type: x-security
+  url: https://www.travisoft.com/security-and-technology/
+- type: x-twitter
+  url: https://twitter.com/travisoftware
+- type: x-webinars
+  url: https://www.travisoft.com/webinars-and-training/
+- type: x-website
+  url: https://www.travisoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

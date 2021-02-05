@@ -1,0 +1,40 @@
+---
+name: Openkvk
+description: Handelsregister 24x7 + API | https://t.co/RRcjDYqdu0
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/openkvk-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2101055"
+url: https://raw.githubusercontent.com/api-network/organizations/main/openkvk.yaml
+tags:
+- Netherlands
+- Legal
+- Have API
+- Financial
+- Europe
+apis: []
+x-common:
+- type: x-website
+  url: http://www.openkvk.nl/
+- type: x-login
+  url: https://overheid.io/login
+- type: x-open-source
+  url: https://openkvk.nl
+- type: x-open-source
+  url: https://overheid.io/documentatie/openkvk
+- type: x-privacy
+  url: https://overheid.io/privacy-statement
+- type: x-self-service-registration
+  url: https://overheid.io/register
+- type: x-twitter
+  url: https://twitter.com/openkvk
+- type: x-website
+  url: https://www.openkvk.nl/api.html
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,38 @@
+---
+name: RainMachine
+description: '<p>Green Electronics was formed in Silicon Valley in 2010 with the goal
+  to provide a modern, more efficient way of watering and controlling gardens. Based
+  on the notion that "The Network is the Computer"1 the RainMachine product was designed
+  from the ground up to be a powerful tool that empowers people to conserve the most
+  precious resource on this planet: Water.</p>'
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28866-rainmachine-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "5"
+x-alexaRank: "317179"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rainmachine.yaml
+tags:
+- Weather
+- Water
+- Have API Paths
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/sprinkler
+- type: x-postman-collection
+  url: https://www.getpostman.com/collections/84ad2fb427ff8f068ef4
+- type: x-website
+  url: http://www.rainmachine.com
+- type: x-blog
+  url: https://www.rainmachine.com/blog/index.html
+- type: x-twitter
+  url: https://twitter.com/RainMachineSPK
+- type: x-website
+  url: http://rainmachine.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

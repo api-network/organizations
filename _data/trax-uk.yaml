@@ -1,0 +1,32 @@
+---
+name: Trax UK
+description: Specialists in software for examinations, with optional Question Bank,
+  assessments, & surveys using OMR/Image or Online/Offline mark processing & data
+  analysis
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/trax-uk.yaml
+tags:
+- Surveys
+apis: []
+x-common:
+- type: x-website
+  url: http://www.traxuk.com
+- type: x-facebook
+  url: https://www.facebook.com/Trax-UK-1939706712922322/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/trax-uk-ltd/
+- type: x-twitter
+  url: https://twitter.com/TraxUK
+- type: x-website
+  url: https://www.trax-uk.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

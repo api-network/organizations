@@ -1,0 +1,35 @@
+---
+name: SynergyKit
+description: <p>Realtime Backend as a Service. Build REST &amp; real&ndash;time API
+  in a few seconds for your mobile, desktop, web and IoT applications. SynergyKit
+  does most server-side development, deployment, application performance monitoring,
+  metrics, analytics and logging for you, so you can pay attention to what matters
+  the most - the logic and UX/UI.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/synergykit-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/synergykit.yaml
+tags:
+- Has API
+- BaaS
+apis: []
+x-common:
+- type: x-website
+  url: https://synergykit.com
+- type: x-blog
+  url: http://blog.synergykit.com/
+- type: x-github
+  url: https://github.com/Synergykit
+- type: x-twitter
+  url: https://twitter.com/synergykit
+- type: x-website
+  url: https://synergykit.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

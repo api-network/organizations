@@ -1,0 +1,27 @@
+---
+name: Flixxo
+description: bittorrents+smart contracts. A social economy based on video sharing.
+  Watch, share. Earn! Follow the conversation https://t.co/qEwnFVdIWF
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27051-www-flixxo-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "118916"
+url: https://raw.githubusercontent.com/api-network/organizations/main/flixxo.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://www.flixxo.com
+- type: x-twitter
+  url: https://twitter.com/flixxo
+- type: x-website
+  url: https://www.flixxo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

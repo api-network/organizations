@@ -1,0 +1,32 @@
+---
+name: ABC@home
+description: Homeschooling Mommy Entrepreneur
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1120609"
+url: https://raw.githubusercontent.com/api-network/organizations/main/abchome.yaml
+tags:
+- Projects
+apis: []
+x-common:
+- type: x-website
+  url: http://abcathome.com
+- type: x-about
+  url: https://abcathome.com/about/
+- type: x-contact
+  url: https://abcathome.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/ABC-At-Home-675488599308311/
+- type: x-twitter
+  url: https://twitter.com/ABCathomesite
+- type: x-website
+  url: https://abcathome.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

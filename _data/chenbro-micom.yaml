@@ -1,0 +1,22 @@
+---
+name: Chenbro Micom
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1286892"
+url: https://raw.githubusercontent.com/api-network/organizations/main/chenbro-micom.yaml
+tags:
+- Cases
+apis: []
+x-common:
+- type: x-website
+  url: https://www.chenbro.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

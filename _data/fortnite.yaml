@@ -1,0 +1,48 @@
+---
+name: Fortnite
+description: Welcome to Fortnite Tracker - Tracking Fortnite Stats and Leaderboards.
+  Find top Fortnite players on our leaderboards. Join our leaderboards by looking
+  up your Fortnite Stats! We track all the Fortnite stats available, leave your page
+  open to auto-refresh and capture all of your Fortnite matches. We track more Fortnite
+  players than any site! Right now we are tracking 75,160,132 players. We also offer
+  Fortnite Challenges, have detailed stats about Fortnite Events like the Worldcup,
+  and track the daily Fortnite item shop! Are you a creator? Create fortnite creatives
+  and add them to our site to share your creations with our millions of users.
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4837"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fortnite.yaml
+tags:
+- Stats
+- Profile
+- Players
+- Leaderboards
+- Gaming
+- Games
+- API Key
+- API
+apis: []
+x-common:
+- type: x-careers
+  url: https://thetrackernetwork.com/careers
+- type: x-contact-form
+  url: https://fortnitetracker.com/contact
+- type: x-documentation
+  url: https://fortnitetracker.com/site-api
+- type: x-privacy
+  url: https://thetrackernetwork.com/home/privacypolicy
+- type: x-twitter
+  url: https://twitter.com/fortnitetracker
+- type: x-website
+  url: http://fortnitetracker.com
+- type: x-youtube
+  url: https://youtube.com/trackernetwork
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

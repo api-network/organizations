@@ -1,0 +1,23 @@
+---
+name: english.yonhapnews.co.kr
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: ""
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/english-yonhapnews-co-kr.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://english.yonhapnews.co.kr/news/2016/08/30/0200000000AEN20160830006051320.html
+- type: x-website
+  url: http://english.yonhapnews.co.kr
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

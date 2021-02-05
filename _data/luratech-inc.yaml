@@ -1,0 +1,72 @@
+---
+name: LuraTech Inc
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/luratech-inc.yaml
+tags:
+- Optimization
+apis: []
+x-common:
+- type: x-about
+  url: https://developers.foxitsoftware.com/about-us/
+- type: x-blog
+  url: https://developers.foxitsoftware.com/blog/
+- type: x-blog
+  url: https://developers.foxitsoftware.com/blog/category/us/
+- type: x-case-studies
+  url: https://developers.foxitsoftware.com/case-studies/
+- type: x-code
+  url: https://developers.foxitsoftware.com/pdf-sdk/
+- type: x-code
+  url: https://developers.foxitsoftware.com/pdf-sdk/windows/
+- type: x-code
+  url: https://developers.foxitsoftware.com/pdf-sdk/android
+- type: x-code
+  url: https://developers.foxitsoftware.com/pdf-sdk/ios/
+- type: x-code
+  url: https://developers.foxitsoftware.com/pdf-sdk/uwp/
+- type: x-code
+  url: https://developers.foxitsoftware.com/pdf-sdk/mac/
+- type: x-code
+  url: https://developers.foxitsoftware.com/pdf-sdk/linux/
+- type: x-code
+  url: https://developers.foxitsoftware.com/pdf-sdk/web/
+- type: x-code
+  url: https://developers.foxitsoftware.com/pdf-sdk/release
+- type: x-developer
+  url: https://developers.foxitsoftware.com/industry/
+- type: x-developer
+  url: https://developers.foxitsoftware.com/industry/banking/
+- type: x-developer
+  url: https://developers.foxitsoftware.com/solutions/
+- type: x-developer
+  url: https://developers.foxitsoftware.com/kb/
+- type: x-developer
+  url: https://developers.foxitsoftware.com/why-choose-foxit/
+- type: x-developer
+  url: https://developers.foxitsoftware.com/
+- type: x-documentation
+  url: https://developers.foxitsoftware.com/sdk-docs/
+- type: x-facebook
+  url: https://www.facebook.com/foxitsoftware
+- type: x-linkedin
+  url: https://www.linkedin.com/company/foxit-corporation/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/foxit-corporation
+- type: x-support
+  url: https://developers.foxitsoftware.com/support/
+- type: x-twitter
+  url: https://twitter.com/foxitsoftware
+- type: x-website
+  url: https://www.luratech.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

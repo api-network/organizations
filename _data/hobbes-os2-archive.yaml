@@ -1,0 +1,31 @@
+---
+name: Hobbes OS/2 Archive
+description: hobbes.nmsu.edu is the world's largest OS/2 shareware site, with over
+  15 gigabytes of OS/2 shareware and growing
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "36203"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hobbes-os2-archive.yaml
+tags:
+- Utilities
+- Shareware
+- Os/2
+- Multimedia
+- Hobbes.nmsu.edu
+- Hobbes
+- Ftp-os2.nmsu.edu
+- Ftp-os2
+- Archives
+apis: []
+x-common:
+- type: x-website
+  url: https://hobbes.nmsu.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

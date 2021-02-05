@@ -1,0 +1,49 @@
+---
+name: Lakeview Computers plc
+description: Kerridge CS offers fully integrated ERP software, systems and solutions
+  to the distributive and manufacturing trades to increase business efficiency.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lakeview-computers-plc.yaml
+tags:
+- Small Business
+apis: []
+x-common:
+- type: x-website
+  url: http://www.kerridgecs.com/
+- type: x-about
+  url: https://www.kerridgecs.com/page/aboutus
+- type: x-blog
+  url: https://blog.kerridgecs.com/page/1
+- type: x-blog
+  url: https://blog.kerridgecs.com/makingtaxdigital
+- type: x-careers
+  url: https://www.kerridgecs.com/page/careers/kcs-values
+- type: x-contact
+  url: https://www.kerridgecs.com/page/contact
+- type: x-facebook
+  url: http://facebook.com/KerridgeCommercialSystems
+- type: x-news
+  url: https://www.kerridgecs.com/page/news
+- type: x-news
+  url: https://www.kerridgecs.com/articles/news
+- type: x-news
+  url: https://www.kerridgecsna.com/articles/news/183
+- type: x-partner
+  url: https://www.kerridgecs.com/page/partners/home
+- type: x-twitter
+  url: http://twitter.com/KerridgeCS
+- type: x-website
+  url: https://www.lakeview.co.uk
+- type: x-youtube
+  url: http://www.youtube.com/user/KerridgeCS
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

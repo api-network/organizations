@@ -1,0 +1,54 @@
+---
+name: HPCwire
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "218487"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hpcwire.yaml
+tags:
+- Supercomputing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.hpcwire.com/
+- type: x-about
+  url: https://www.hpcwire.com/about-hpcwire/
+- type: x-about
+  url: https://www.hpcwire.com/about-hpcwire/reprints/
+- type: x-about
+  url: https://www.hpcwire.com/about-hpcwire/cookie-policy/
+- type: x-careers
+  url: http://careers.hpcwire.com/jobdetails.cfm?jid=3828
+- type: x-careers
+  url: http://careers.hpcwire.com/jobdetails.cfm?jid=3822
+- type: x-case-studies
+  url: https://www.hpcwire.com/popular-ai-use-cases/
+- type: x-contact
+  url: https://www.hpcwire.com/about-hpcwire/contact/
+- type: x-events
+  url: https://www.hpcwire.com/events/
+- type: x-events
+  url: https://www.taborcommunications.com/live_events/
+- type: x-facebook
+  url: https://www.facebook.com/HPCwire-115532028467957/
+- type: x-forum
+  url: https://www.advancedscaleforum.com/
+- type: x-news
+  url: https://www.enterpriseai.news
+- type: x-press
+  url: https://www.taborcommunications.com/press/
+- type: x-privacy
+  url: https://www.hpcwire.com/about-hpcwire/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/HPCwire
+- type: x-website
+  url: https://www.hpcwire.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

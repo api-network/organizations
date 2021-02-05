@@ -1,0 +1,48 @@
+---
+name: Djay
+description: 'djay - #1 DJ app for iPad, iPhone, and Android. djay Pro - professional
+  DJ software for Mac and Windows.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "121407"
+url: https://raw.githubusercontent.com/api-network/organizations/main/djay.yaml
+tags:
+- VJing
+- Vjay
+- Vj
+- Software
+- Music
+- Mixing
+- Mixer
+- Mac OS X
+- Mac
+- ITunes
+- IPod Touch
+- IPhone
+- IPad
+- IOS
+- DJing
+- Djay Pro
+- Djay
+- Dj
+- Disc Jockey
+- Application
+- App
+- Android
+apis: []
+x-common:
+- type: x-support
+  url: https://help.algoriddim.com
+- type: x-support
+  url: https://help.algoriddim.com/hc/en-us/requests/new
+- type: x-website
+  url: https://www.algoriddim.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,35 @@
+---
+name: BurnAware
+description: Burnaware offers most-featured free CD, DVD, Blu-ray burning software
+  with lot of features and super-intuitive, multilingual user interface. Free software
+  download.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "83625"
+url: https://raw.githubusercontent.com/api-network/organizations/main/burnaware.yaml
+tags:
+- System
+- Iso Burner
+- Free Burning Software
+- Dvd Burning Software
+- Dvd Burner
+- Disc Copying Software
+- Blu-ray Burner
+- Backup Software
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/burnawarecompany
+- type: x-twitter
+  url: https://www.twitter.com/burnaware
+- type: x-website
+  url: https://www.burnaware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,46 @@
+---
+name: Ajacom Corporation
+description: AJACOM is a staffing and consulting company that specializes in providing
+  a broad range of services and resource needs to clients through our various divisions,
+  including Healthcare, Finance/Accounting, Administrative and IT Staffing.  AJACOM's
+  Technology Team also focuses on strategic system planning, application development,
+  project management and training and support.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ajacom-corporation.yaml
+tags:
+- Technology
+- Support
+- Strategic System Planning
+- Staffing
+- Services
+- Reporting And Analysis Applications
+- Project Management
+- PowerBuilder
+- PowerArchitect
+- Medical
+- IT
+- Internet
+- Healthcare
+- Finance/Accounting
+- Extranet
+- E-business Environments
+- Consulting
+- Companies
+- Client/Server
+- Application Development
+- Administrative
+apis: []
+x-common:
+- type: x-website
+  url: https://www.ajacom.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

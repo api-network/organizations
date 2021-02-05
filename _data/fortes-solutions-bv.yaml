@@ -1,0 +1,29 @@
+---
+name: Fortes Solutions BV
+description: "E\xE9n software platform om grip te krijgen op verandering. Ontdek de
+  Fortes Change Cloud en vraag een gratis demo aan. We enable change."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fortes-solutions-bv.yaml
+tags:
+- Hosted
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.fortesglobal.com/nl/blog/
+- type: x-contact
+  url: https://www.fortesglobal.com/nl/over-fortes/contact/
+- type: x-privacy
+  url: https://fortesglobal.com/privacyverklaring/
+- type: x-website
+  url: https://www.fortes.nl
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

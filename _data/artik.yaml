@@ -1,0 +1,40 @@
+---
+name: ARTIK
+description: <p>ARTIK cloud services is an IoT cloud platform designed to encourage
+  open data exchange. To help get you started with your IoT development, we created
+  easy to use tools.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28197-developer-artik-cloud.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "555111"
+url: https://raw.githubusercontent.com/api-network/organizations/main/artik.yaml
+tags:
+- Internet Of Things
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/samsung-strategy-and-innovation-center/current_employees/current_employees_image_list
+- type: x-documentation
+  url: https://developer.artik.cloud/documentation/api-reference/
+- type: x-email
+  url: privacy@artik.cloud
+- type: x-email
+  url: support@artik.cloud
+- type: x-github
+  url: https://github.com/artikcloud
+- type: x-support
+  url: https://developer.artik.cloud/support
+- type: x-twitter
+  url: https://twitter.com/SamsungIoT
+- type: x-developers
+  url: https://developer.artik.cloud
+- type: x-website
+  url: https://www.artik.io/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

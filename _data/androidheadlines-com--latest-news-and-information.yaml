@@ -1,0 +1,56 @@
+---
+name: AndroidHeadlines.com - Latest News and Information
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "44641"
+url: https://raw.githubusercontent.com/api-network/organizations/main/androidheadlines-com--latest-news-and-information.yaml
+tags:
+- News And Media
+apis: []
+x-common:
+- type: x-about
+  url: https://www.androidheadlines.com/about
+- type: x-contact
+  url: https://www.androidheadlines.com/contact
+- type: x-facebook
+  url: https://www.facebook.com/Androidheadline/
+- type: x-instagram
+  url: https://www.instagram.com/androidheadline/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/androidheadlines/
+- type: x-news
+  url: https://www.androidheadlines.com/category/all-news
+- type: x-news
+  url: https://www.androidheadlines.com/category/news
+- type: x-news
+  url: https://www.androidheadlines.com/category/news/tv
+- type: x-news
+  url: https://www.androidheadlines.com/category/news/phones
+- type: x-news
+  url: https://www.androidheadlines.com/category/news/tablet
+- type: x-news
+  url: https://www.androidheadlines.com/category/google-news
+- type: x-news
+  url: https://www.androidheadlines.com/category/tech-news
+- type: x-news
+  url: https://www.androidheadlines.com/category/tech-news/vr
+- type: x-news
+  url: https://www.androidheadlines.com/news-tips
+- type: x-privacy
+  url: https://www.androidheadlines.com/privacy-policy
+- type: x-twitter
+  url: https://twitter.com/Androidheadline
+- type: x-website
+  url: https://www.androidheadlines.com
+- type: x-youtube
+  url: https://www.youtube.com/user/androidheadlines
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

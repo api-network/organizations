@@ -1,0 +1,32 @@
+---
+name: Redfin Solutions
+description: Redfin Solutions, LLC - your trusted Drupal partner.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "668777"
+url: https://raw.githubusercontent.com/api-network/organizations/main/redfin-solutions.yaml
+tags:
+- Consultants
+apis: []
+x-common:
+- type: x-website
+  url: https://www.redfinsolutions.com/?utm_source=Twitter&utm_medium=Profile&utm_campaign=profile%20click
+- type: x-facebook
+  url: https://facebook.com/redfinsolutions
+- type: x-instagram
+  url: https://instagram.com/redfinsolutions
+- type: x-linkedin
+  url: https://www.linkedin.com/company/redfin-solutions-llc/
+- type: x-twitter
+  url: https://twitter.com/redfinsolutions
+- type: x-website
+  url: https://www.redfinsolutions.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

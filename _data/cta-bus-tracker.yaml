@@ -1,0 +1,47 @@
+---
+name: CTA Bus Tracker
+description: Information about CTA bus and train service in and around Chicago. Find
+  maps, schedules, service alerts, plan a trip, jobs, news and more!
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/hdr-cta.gif
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "112890"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cta-bus-tracker.yaml
+tags:
+- Illinois
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-base
+  url: http://www.ctabustracker.com/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/chicago-transit-authority
+- type: x-developers
+  url: http://www.transitchicago.com/developers/
+- type: x-email
+  url: feedback@transitchicago.com
+- type: x-email
+  url: webmaster@transitchicago.com
+- type: x-facebook
+  url: https://www.facebook.com/thecta
+- type: x-instagram
+  url: https://www.instagram.com/chicagocta/
+- type: x-terms-of-service
+  url: http://www.transitchicago.com/developers/terms.aspx
+- type: x-twitter
+  url: https://twitter.com/cta
+- type: x-website
+  url: http://www.transitchicago.com
+- type: x-youtube
+  url: https://youtube.com/ctaconnections
+- type: x-youtube
+  url: https://www.youtube.com/user/CTAConnections
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

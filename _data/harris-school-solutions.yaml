@@ -1,0 +1,43 @@
+---
+name: Harris School Solutions
+description: HSS provides Financial Accounting, Student Information, and School Nutrition
+  Program solutions and support for K-12 school districts across the U.S. and Canada.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "518662"
+url: https://raw.githubusercontent.com/api-network/organizations/main/harris-school-solutions.yaml
+tags:
+- Products And Services
+apis: []
+x-common:
+- type: x-website
+  url: http://www.harrisschoolsolutions.com
+- type: x-about
+  url: https://harrisschoolsolutions.com/about/
+- type: x-about
+  url: https://harrisschoolsolutions.com/about/our-team/
+- type: x-blog
+  url: https://harrisschoolsolutions.com/blogposts/
+- type: x-events
+  url: https://harrisschoolsolutions.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/Harris4K12
+- type: x-linkedin
+  url: https://www.linkedin.com/company/harrisschoolsolutions
+- type: x-news
+  url: https://harrisschoolsolutions.com/news/
+- type: x-support
+  url: https://harrisschoolsolutions.com/support/
+- type: x-twitter
+  url: http://twitter.com/Harris4K12
+- type: x-website
+  url: https://www.harrisschoolsolutions.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

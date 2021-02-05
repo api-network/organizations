@@ -1,0 +1,42 @@
+---
+name: Travelport News
+description: |-
+  <p>Travelport Limited provides business services, as well as transaction processing solutions and data to companies operating in the travel industry worldwide. </p>
+
+  <p>The company???????s Global Distribution Systems segment provides aggregation, search, and transaction processing services that allow travel suppliers and travel agencies to search, process, and book itinerary and pricing options across various travel suppliers. </p>
+
+  <p>This segment also provides hosting solutions; and IT software subscription and business intelligence services to airlines. </p>
+
+  <p>Its Gulliver???????s Travel Associates segment distributes accommodation, ground travel, sightseeing, and other destination services, including airline, car rental, hotel, and other travel reservation and fulfillment services to travel wholesalers, tour operators, and travel agencies, as well as directly to consumers. </p>
+
+  <p>The company operates approximately 20 brands, including Galileo and Worldspan global distribution systems, and Gulliver???????s Travel Associates.</p>
+
+  <p>Travelport Limited is headquartered in New York.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/665_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2494241"
+url: https://raw.githubusercontent.com/api-network/organizations/main/travelport-news.yaml
+tags:
+- Have API
+- Bookings
+apis: []
+x-common:
+- type: x-website
+  url: http://www.travelport.com
+- type: x-website
+  url: http://www.travelportuniversalapi.com/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/travelport
+- type: x-github
+  url: https://github.com/Travelport
+- type: x-twitter
+  url: https://twitter.com/Travelport
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,32 @@
+---
+name: OSP International LLC
+description: Musings on Project Management
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9375642"
+url: https://raw.githubusercontent.com/api-network/organizations/main/osp-international-llc.yaml
+tags:
+- Project Management
+- PMP Exam
+- PMP
+- PMI
+- PDUs
+- PDU
+- Cornelius Fichtner
+apis: []
+x-common:
+- type: x-linkedin
+  url: https://www.linkedin.com/in/sunilprashara/
+- type: x-privacy
+  url: http://www.osp-international.com/privacynotice
+- type: x-website
+  url: https://www.cornelius-fichtner.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

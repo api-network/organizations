@@ -1,0 +1,56 @@
+---
+name: University of Wisconsin - Madison
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2750"
+url: https://raw.githubusercontent.com/api-network/organizations/main/university-of-wisconsin--madison.yaml
+tags:
+- Wisconsin
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cs.wisc.edu
+- type: x-about
+  url: https://www.cs.wisc.edu/about/
+- type: x-contact
+  url: https://www.cs.wisc.edu/contacts/
+- type: x-contact
+  url: https://www.cs.wisc.edu/other-cs-contacts/
+- type: x-events
+  url: https://today.wisc.edu/events/view/144459
+- type: x-events
+  url: https://today.wisc.edu/events/view/144263
+- type: x-events
+  url: https://today.wisc.edu/events/view/144004
+- type: x-events
+  url: https://today.wisc.edu/events/view/144176
+- type: x-events
+  url: https://www.cs.wisc.edu/cs-events/
+- type: x-events
+  url: https://cs.wiscweb.wisc.edu/submit-events/
+- type: x-facebook
+  url: https://www.facebook.com/WisconsinCS
+- type: x-feed
+  url: https://today.wisc.edu/events/feed/387
+- type: x-news
+  url: https://www.cs.wisc.edu/news-2/
+- type: x-news
+  url: https://www.cs.wisc.edu/category/news/
+- type: x-press
+  url: https://uwtheme.wordpress.wisc.edu/
+- type: x-privacy
+  url: https://www.wisc.edu/privacy-notice/
+- type: x-twitter
+  url: https://twitter.com/WisconsinCS
+- type: x-website
+  url: https://www.cs.wisc.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

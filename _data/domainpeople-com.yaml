@@ -1,0 +1,45 @@
+---
+name: DomainPeople.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "431510"
+url: https://raw.githubusercontent.com/api-network/organizations/main/domainpeople-com.yaml
+tags:
+- Whois
+- Websites
+- Web Site Hosting
+- Web Hosting Provider
+- Registry
+- Registrations
+- Registrar
+- Register Domain Names
+- Name Search
+- Ecommerce Hosting Services
+- Domain Registration
+- Domain Name Search
+- Domain Name Registration
+- Domain Hosting
+- Buy Domains
+- Business Web Hosting Services
+- Business Email Accounts
+- Bulk Domain Search
+apis: []
+x-common:
+- type: x-website
+  url: http://www.domainpeople.com
+- type: x-contact
+  url: http://www.domainpeople.com/contact/
+- type: x-twitter
+  url: http://twitter.com/domain_people
+- type: x-website
+  url: https://domainpeople.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

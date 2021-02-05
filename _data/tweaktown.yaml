@@ -1,0 +1,71 @@
+---
+name: TweakTown
+description: Technology content trusted in North America and globally since 1999.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "15743"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tweaktown.yaml
+tags:
+- Xbox
+- Video Cards
+- Tweak Your Own PC
+- Technology
+- SSD
+- Reviews
+- RAM
+- Playstation
+- PC
+- Overclock
+- NVIDIA
+- Notebook
+- News
+- Motherboards
+- Memory
+- Laptop
+- Intel
+- Hdd
+- Hardware
+- Hard Drive
+- Guides
+- Graphics Cards
+- Gaming
+- CPU
+- Cooling
+- Computing
+- Articles
+- AMD
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/TweakTown
+- type: x-forum
+  url: https://forums.tweaktown.com/
+- type: x-forum
+  url: https://forums.tweaktown.com/showthread.php?t=67248
+- type: x-forum
+  url: https://forums.tweaktown.com/showthread.php?t=67247
+- type: x-forum
+  url: https://forums.tweaktown.com/showthread.php?t=67246
+- type: x-forum
+  url: https://forums.tweaktown.com/showthread.php?t=67245
+- type: x-forum
+  url: https://forums.tweaktown.com/showthread.php?t=67243
+- type: x-github
+  url: https://cdorgs.github.io
+- type: x-news
+  url: https://www.tweaktown.com/news/video_cards/index.html
+- type: x-news
+  url: https://www.tweaktown.com/news/gaming/index.html
+- type: x-twitter
+  url: https://twitter.com/TweakTown
+- type: x-website
+  url: https://www.tweaktown.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

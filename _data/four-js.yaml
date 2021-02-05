@@ -1,0 +1,89 @@
+---
+name: Four J's
+description: 'Welcome to the Four Js Website - - Genero programming: Genero is a development
+  and deployment infrastructure designed to boost developer productivity.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3227888"
+url: https://raw.githubusercontent.com/api-network/organizations/main/four-js.yaml
+tags:
+- 4GL
+apis: []
+x-common:
+- type: x-about
+  url: https://4js.com/support/about-licensing/
+- type: x-contact
+  url: https://4js.com/support/contact/
+- type: x-contact
+  url: https://4js.com/news/press-contacts/
+- type: x-contact
+  url: https://4js.com/contact/
+- type: x-contact
+  url: https://4js.com/contact/four-js-offices/
+- type: x-customers
+  url: https://4js.com/company/customers-and-partners/
+- type: x-documentation
+  url: https://4js.com/download/documentation/
+- type: x-forum
+  url: http://4js.com/support/forum/
+- type: x-instagram
+  url: https://www.instagram.com/fourjsdevtools/
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/4105129/
+- type: x-news
+  url: https://4js.com/#news_section
+- type: x-news
+  url: https://4js.com/news/
+- type: x-news
+  url: https://4js.com/news/headline/
+- type: x-news
+  url: https://4js.com/news/products/
+- type: x-news
+  url: https://4js.com/news/events/
+- type: x-news
+  url: http://4js.com/category/news/feed/
+- type: x-news
+  url: http://4js.com/category/news/headline-news/
+- type: x-news
+  url: http://4js.com/category/news/
+- type: x-news
+  url: http://4js.com/category/news/headline-news/feed/
+- type: x-news
+  url: http://4js.com/category/news/products-news/feed/
+- type: x-news
+  url: http://4js.com/category/news/products-news/
+- type: x-news
+  url: http://4js.com/category/news/events/feed/
+- type: x-news
+  url: http://4js.com/category/news/events/
+- type: x-platform
+  url: https://4js.com/#dev_platform
+- type: x-privacy
+  url: https://4js.com/privacy-policy/
+- type: x-support
+  url: https://4js.com/support/ibm-i4gl-to-genero/
+- type: x-support
+  url: https://4js.com/support/
+- type: x-support
+  url: https://4js.com/support/registration/
+- type: x-support
+  url: https://4js.com/support/support-request/
+- type: x-support
+  url: https://4js.com/support/issue/
+- type: x-support
+  url: https://4js.com/support/faq/
+- type: x-terms-of-service
+  url: https://4js.com/legal/
+- type: x-website
+  url: https://www.4js.com
+- type: x-youtube
+  url: http://www.youtube.com/user/FourJsGenero
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

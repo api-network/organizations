@@ -1,0 +1,34 @@
+---
+name: eureka
+description: "\u300EPairs\u300F\u300ECouples\u300F\u3092\u8EF8\u306B\u300110\u5104\u4EBA\u304C\u4F7F\u3046\u81EA\u793E\u30B5\u30FC\u30D3\u30B9\u3092\u4F5C\u308A\u307E\u3059\u3002"
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29710-eure-jp.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "4"
+x-alexaRank: "748054"
+url: https://raw.githubusercontent.com/api-network/organizations/main/eureka.yaml
+tags:
+- Profile
+apis: []
+x-common:
+- type: x-website
+  url: http://eure.jp/
+- type: x-about
+  url: https://eure.jp/en/about/
+- type: x-contact-form
+  url: https://eure.jp/en/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/eureka-inc--2
+- type: x-github
+  url: https://github.com/eure
+- type: x-twitter
+  url: https://twitter.com/eureka_inc
+- type: x-website
+  url: http://eure.jp
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

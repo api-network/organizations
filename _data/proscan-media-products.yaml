@@ -1,0 +1,26 @@
+---
+name: ProScan Media Products
+description: We are your trusted advisor for a high performing collaborative and connected
+  supply chain. We help you maximise agility, traceability and visibility through
+  a unique solution portfolio, taking advantage of the very latest technology.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/proscan-media-products.yaml
+tags:
+- Labels And Equipment
+apis: []
+x-common:
+- type: x-investor
+  url: http://investors.zetes.com
+- type: x-website
+  url: https://www.proscanmedia.co.za
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

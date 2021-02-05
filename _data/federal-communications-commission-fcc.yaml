@@ -1,0 +1,62 @@
+---
+name: Federal Communications Commission (FCC)
+description: <p>The Federal Communications Commission (FCC) is an independent agency
+  of the United States government, created by Congressional statute (see 47 U.S.C.
+  &sect; 151 and 47 U.S.C. &sect; 154) to regulate interstate and international communications
+  by radio, television, wire, satellite, and cable in all 50 states, the District
+  of Columbia and U.S. territories. The FCC works towards six goals in the areas of
+  broadband, competition, the spectrum, the media, public safety and homeland security.
+  The Commission is also in the process of modernizing itself.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/US-FCC-Seal.svg.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "20538"
+url: https://raw.githubusercontent.com/api-network/organizations/main/federal-communications-commission-fcc.yaml
+tags:
+- Reference
+- Have API
+- Federal Government
+- Federal Government
+- API Provider
+apis: []
+x-common:
+- type: x-about
+  url: https://www.fcc.gov/about/strategic-plans-budget
+- type: x-data
+  url: https://www.fcc.gov/reports-research/data
+- type: x-developer
+  url: https://anypoint.mulesoft.com/exchange/portals/fccdomain/
+- type: x-developers
+  url: http://www.fcc.gov/developers
+- type: x-documentation
+  url: https://www.fcc.gov/edocs
+- type: x-facebook
+  url: https://www.facebook.com/FCC
+- type: x-instagram
+  url: https://www.instagram.com/fcc
+- type: x-login
+  url: https://enterpriseefiling.fcc.gov/dataentry/login.html
+- type: x-login
+  url: https://apps.fcc.gov/redlight/login.cfm
+- type: x-login
+  url: https://specialaccessfiling.fcc.gov/spadc/login
+- type: x-login
+  url: https://esupport.fcc.gov/vpd-data/login!input.action
+- type: x-twitter
+  url: https://twitter.com/FCC
+- type: x-website
+  url: http://www.fcc.gov
+- type: x-website
+  url: https://www.fcc.gov
+- type: x-wikipedia
+  url: http://en.wikipedia.org/wiki/Federal_Communications_Commission
+- type: x-youtube
+  url: https://www.youtube.com/fcc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

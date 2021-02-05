@@ -1,0 +1,59 @@
+---
+name: Elegant Themes
+description: WordPress Themes with Visual Drag & Drop Technology that empower a community
+  of 649,032 customers. Home of Divi, the ultimate Visual Page Builder and Theme.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5692"
+url: https://raw.githubusercontent.com/api-network/organizations/main/elegant-themes.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-about
+  url: https://www.elegantthemes.com/about/
+- type: x-blog
+  url: https://www.elegantthemes.com/blog/
+- type: x-blog
+  url: https://www.elegantthemes.com/blog/category/business/
+- type: x-careers
+  url: https://www.elegantthemes.com/careers/
+- type: x-contact
+  url: https://www.elegantthemes.com/contact/
+- type: x-contact
+  url: https://www.elegantthemes.com/contact/support/
+- type: x-developer
+  url: https://www.elegantthemes.com/members-area/api/
+- type: x-documentation
+  url: https://www.elegantthemes.com/documentation/divi/
+- type: x-documentation
+  url: https://www.elegantthemes.com/documentation/
+- type: x-facebook
+  url: https://www.facebook.com/groups/DiviThemeUsers/
+- type: x-facebook
+  url: https://www.facebook.com/elegantthemes/
+- type: x-forum
+  url: https://www.elegantthemes.com/forum/
+- type: x-news
+  url: https://www.elegantthemes.com/newsletter/
+- type: x-press
+  url: https://www.elegantthemes.com/blog/category/wordpress/
+- type: x-privacy
+  url: https://www.elegantthemes.com/policy/privacy/
+- type: x-support
+  url: https://www.elegantthemes.com/members-area/help/
+- type: x-twitter
+  url: https://twitter.com/elegantthemes/
+- type: x-website
+  url: https://www.elegantthemes.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=q9XI0Lo-SWE
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

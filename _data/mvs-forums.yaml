@@ -1,0 +1,91 @@
+---
+name: MVS Forums
+description: MVS Forums, founded in 2002 is a dynamic and innovative, information
+  technology forum, specializing in application programming, web development, database
+  development, customized packages and document management.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7069792"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mvs-forums.yaml
+tags:
+- Z-OS
+- Worldwide
+- Web Development
+- VSAM
+- VBScript
+- Tso
+- Training Provider
+- Technical Staffing
+- Technical Outsourcing
+- Technical Help
+- SQL
+- Sort
+- Software Testing
+- Software Provider
+- Software Development
+- Software Company
+- Small Companies
+- Rexx
+- Quality Assurance
+- Programming Tools
+- Programming
+- Programmer
+- Professional Services.
+- Production Readiness
+- Pli
+- Pl1
+- Performance Management
+- Overseas
+- MVS
+- MS Access
+- Mid-sized Companies
+- Microsoft Training
+- Microsoft Access
+- MainframeHelpboards
+- Mainframe Consulting
+- Mainframe
+- Jcl
+- JavaScript
+- Java
+- IT Staffing
+- IT Services
+- Information Technology
+- IMS
+- IBM Mainframe
+- HTML
+- Hosting
+- Helpboards
+- Financial Training
+- E-commerce Solutions
+- E-business Solutions
+- Document Management
+- DB2
+- Database Development
+- Database
+- Consulting
+- Computer Software
+- Cobol
+- Clist
+- CICS
+- Business Software
+- Business Consulting & Analysis
+- Assembly
+- Assembler
+- Application Programming
+apis: []
+x-common:
+- type: x-forum
+  url: https://www.mvsforums.com/helpboards
+- type: x-forum
+  url: https://mvsforums.com/guestbook.html
+- type: x-website
+  url: https://www.mvsforums.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,52 @@
+---
+name: SS8 Networks
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1487134"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ss8-networks.yaml
+tags:
+- Telephony
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ss8.com
+- type: x-blog
+  url: http://blog.ss8.com/
+- type: x-careers
+  url: https://www.ss8.com/careers/
+- type: x-case-studies
+  url: https://www.ss8.com/use-cases/5g/
+- type: x-case-studies
+  url: https://www.ss8.com/use-cases/e2e/
+- type: x-case-studies
+  url: https://www.ss8.com/use-cases/
+- type: x-contact
+  url: https://www.ss8.com/contact-sales/
+- type: x-feed
+  url: http://blog.ss8.com/feed/
+- type: x-investor
+  url: https://www.ss8.com/who-we-are/#investors
+- type: x-linkedin
+  url: https://www.linkedin.com/company/ss8/
+- type: x-partner
+  url: https://www.ss8.com/partners/
+- type: x-privacy
+  url: https://www.ss8.com/privacy-policy/
+- type: x-support
+  url: https://www.ss8.com/support/
+- type: x-terms-of-service
+  url: https://www.ss8.com/terms-conditions/
+- type: x-twitter
+  url: https://twitter.com/SS8
+- type: x-website
+  url: https://www.ss8.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

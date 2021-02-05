@@ -1,0 +1,69 @@
+---
+name: Climate FieldView
+description: "Our services provide estimates or recommendations based on models. These
+  do not guarantee results. Consult your agronomist, commodities broker and other
+  service professionals before making financial, risk management and farming decisions.
+  View more important information here. FieldView\u2122 is a trademark of The Climate
+  Corporation."
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "535149"
+url: https://raw.githubusercontent.com/api-network/organizations/main/climate-fieldview.yaml
+tags:
+- Profile
+- Farming
+- Crops
+- Agriculture
+apis: []
+x-common:
+- type: x-website
+  url: http://www.climate.com
+- type: x-blog
+  url: https://climate.com/blog
+- type: x-developer
+  url: http://developer.climate.com
+- type: x-events
+  url: https://events.climate.com/#/?country=US?
+- type: x-facebook
+  url: https://www.facebook.com/climatecorp
+- type: x-getting-started
+  url: https://climate.com/getting-started
+- type: x-partner
+  url: https://climate.com/partners
+- type: x-partners
+  url: https://climate.com/partners
+- type: x-pricing
+  url: https://climate.com/pricing
+- type: x-support
+  url: http://www.climate-help.com/hc/en-us
+- type: x-terms-of-service
+  url: https://climate.com/legal/disclaimer
+- type: x-terms-of-service
+  url: https://climate.com/legal/state-licenses
+- type: x-terms-of-service
+  url: https://climate.com/legal/underwriting
+- type: x-terms-of-service
+  url: https://climate.com/legal/end-user-license-agreement
+- type: x-terms-of-service
+  url: https://climate.com/legal/privacy-policy
+- type: x-terms-of-service
+  url: https://climate.com/legal/privacy-policy-faq
+- type: x-terms-of-service
+  url: https://climate.com/legal/privacy-policy-products
+- type: x-terms-of-service
+  url: https://climate.com/legal/terms-of-use
+- type: x-twitter
+  url: https://twitter.com/climatecorp
+- type: x-website
+  url: http://climate.com
+- type: x-youtube
+  url: https://www.youtube.com/user/ClimateCorp
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

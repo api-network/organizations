@@ -1,0 +1,44 @@
+---
+name: ITpreneurs
+description: "Training Materials for Training Professionals on ITpreneurs\u2026"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1316879"
+url: https://raw.githubusercontent.com/api-network/organizations/main/itpreneurs.yaml
+tags:
+- Authoring
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ITpreneurs.com
+- type: x-blog
+  url: https://www.itpreneurs.com/blog/
+- type: x-contact
+  url: https://www.itpreneurs.com/about-us/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/ITpreneurs
+- type: x-linkedin
+  url: https://www.linkedin.com/company/itpreneurs
+- type: x-open-source
+  url: https://itpreneurs.com/job_openings/
+- type: x-partner
+  url: https://www.itpreneurs.com/partners/
+- type: x-privacy
+  url: https://itpreneurs.com/privacy-policy-3/
+- type: x-twitter
+  url: http://www.twitter.com/itpreneurs
+- type: x-webinars
+  url: https://itpreneurs.com/webinar/
+- type: x-website
+  url: https://www.itpreneurs.com
+- type: x-youtube
+  url: https://www.youtube.com/user/itpreneurs
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

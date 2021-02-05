@@ -1,0 +1,113 @@
+---
+name: Delphi Forums
+description: Delphi Forums is host to thousands of free forums and live chat rooms
+  in member-run online communities. Create your free forum today.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "27521"
+url: https://raw.githubusercontent.com/api-network/organizations/main/delphi-forums.yaml
+tags:
+- Online Community
+- Message Boards
+- Message Board
+- Live Chat
+- Free Forum
+- Discussion Board
+- Chat Room
+apis: []
+x-common:
+- type: x-forum
+  url: http://www.delphiforums.com
+- type: x-forum
+  url: http://www.delphiforums.com/cats.ptt
+- type: x-forum
+  url: http://www.delphiforums.com/chat.ptt
+- type: x-forum
+  url: http://www.delphiforums.com/members.ptt
+- type: x-forum
+  url: http://www.delphiforums.com/blogs.ptt
+- type: x-forum
+  url: http://www.delphiforums.com/createforum.ptt
+- type: x-forum
+  url: http://www.delphiforums.com/support.ptt
+- type: x-forum
+  url: https://forums.delphiforums.com/ICESpecialAgent
+- type: x-forum
+  url: https://forums.delphiforums.com/bully
+- type: x-forum
+  url: https://forums.delphiforums.com/tabletopsports
+- type: x-forum
+  url: https://forums.delphiforums.com/apbabtl
+- type: x-forum
+  url: https://forums.delphiforums.com/customsinspect
+- type: x-forum
+  url: https://forums.delphiforums.com/MidnightCastle
+- type: x-forum
+  url: https://forums.delphiforums.com/pc-opinion
+- type: x-forum
+  url: https://forums.delphiforums.com/ICEDO
+- type: x-forum
+  url: https://forums.delphiforums.com/quit_smoking
+- type: x-forum
+  url: https://forums.delphiforums.com/Breaktime_3
+- type: x-forum
+  url: https://forums.delphiforums.com/borderpatrol
+- type: x-forum
+  url: https://forums.delphiforums.com/tc-40plus
+- type: x-forum
+  url: http://forums.delphiforums.com/jesus7/messages/40221/1
+- type: x-forum
+  url: http://forums.delphiforums.com/bathroom/messages/519/1
+- type: x-forum
+  url: http://forums.delphiforums.com/artbell/messages/725/1
+- type: x-forum
+  url: http://forums.delphiforums.com/recalls/messages/466/1
+- type: x-forum
+  url: https://forums.delphiforums.com/tc-40plus/chat/
+- type: x-forum
+  url: https://forums.delphiforums.com/kaos/chat/
+- type: x-forum
+  url: https://forums.delphiforums.com/otherchatroom/chat/
+- type: x-forum
+  url: https://forums.delphiforums.com/swdesigna/chat/
+- type: x-forum
+  url: https://forums.delphiforums.com/bifemlounge2/chat/
+- type: x-forum
+  url: https://forums.delphiforums.com/scramblegame/chat/
+- type: x-forum
+  url: https://forums.delphiforums.com/penthousesuite/chat/
+- type: x-forum
+  url: https://forums.delphiforums.com/pipeace/chat/
+- type: x-forum
+  url: https://forums.delphiforums.com/activatetrivia/chat/
+- type: x-forum
+  url: https://forums.delphiforums.com/misfitslounge/chat/
+- type: x-news
+  url: https://www.buzzfeednews.com
+- type: x-twitter
+  url: https://twitter.com/NWSGJT/status/1219469575831552001
+- type: x-twitter
+  url: https://twitter.com/USCPSC/status/1218543274862006272
+- type: x-twitter
+  url: https://twitter.com/NBCNews/status/1218347301225353216
+- type: x-twitter
+  url: https://twitter.com/USCPSC/status/1218298490364755970
+- type: x-twitter
+  url: https://twitter.com/USCPSC/status/1218176801803063296
+- type: x-twitter
+  url: https://twitter.com/wxbrad/status/1219455931907485698
+- type: x-twitter
+  url: https://twitter.com/USCPSC/status/1218534451870883840
+- type: x-twitter
+  url: https://twitter.com/nessey2/status/1218206920374472705
+- type: x-website
+  url: https://www.delphiforums.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,47 @@
+---
+name: HTML Press
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/html-press.yaml
+tags: []
+apis: []
+x-common:
+- type: x-contact
+  url: https://htmlpress.net/contact/
+- type: x-facebook
+  url: https://www.facebook.com/
+- type: x-instagram
+  url: https://www.instagram.com/
+- type: x-press
+  url: https://htmlpress.net/
+- type: x-press
+  url: https://htmlpress.net/about/
+- type: x-press
+  url: https://htmlpress.net/advertising/
+- type: x-press
+  url: https://htmlpress.net/blog/
+- type: x-press
+  url: https://htmlpress.net/website/creating-quality-content
+- type: x-press
+  url: https://htmlpress.net/category/website/
+- type: x-press
+  url: https://htmlpress.net/2018/08/
+- type: x-press
+  url: https://htmlpress.net/2018/07/
+- type: x-press
+  url: https://htmlpress.net/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/
+- type: x-website
+  url: https://htmlpress.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

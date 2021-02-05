@@ -1,0 +1,35 @@
+---
+name: Sweet Captcha
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "570710"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sweet-captcha.yaml
+tags:
+- Components
+- Captcha
+apis: []
+x-common:
+- type: x-about
+  url: https://www.sweetcaptcha.com/about/
+- type: x-blog
+  url: https://www.sweetcaptcha.com/category/blog/
+- type: x-contact
+  url: https://www.sweetcaptcha.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/SweetCaptcha/?ref=br_rs
+- type: x-twitter
+  url: http://twitter.com/
+- type: x-website
+  url: https://captcha.com
+- type: x-website
+  url: https://www.sweetcaptcha.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

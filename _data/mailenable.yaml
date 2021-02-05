@@ -1,0 +1,33 @@
+---
+name: MailEnable
+description: Windows mail server software with webmail, caldav, carddav, antivirus,
+  spam filtering - Fast, secure email server software for windows. Download free mail
+  server trial.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "109710"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mailenable.yaml
+tags:
+- Mail
+- Content Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.mailenable.com
+- type: x-facebook
+  url: https://www.facebook.com/mailenable/
+- type: x-twitter
+  url: http://twitter.com/mailenable
+- type: x-website
+  url: https://www.mailenable.com
+- type: x-website
+  url: https://enable.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

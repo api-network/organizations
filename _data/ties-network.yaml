@@ -1,0 +1,31 @@
+---
+name: Ties.Network
+description: 'A decentralized business platform: find rated specialists, use smart
+  contracts to strike a deal. Based on a public, decentralized database,Ties.DB'
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27769-ties-network.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "318700"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ties-network.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://tiesdb.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/ubermensch
+- type: x-email
+  url: info@ties.network
+- type: x-twitter
+  url: https://twitter.com/tiesnetwork
+- type: x-website
+  url: https://ties.network
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

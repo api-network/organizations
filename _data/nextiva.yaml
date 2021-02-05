@@ -1,0 +1,49 @@
+---
+name: Nextiva
+description: Get Business VoIP Phone Service starting as low as $19.95 per month.
+  Learn how to bundle it together with our Service CRM and Live Chat software today.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29382-nextiva-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "20892"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nextiva.yaml
+tags:
+- ISP
+apis: []
+x-common:
+- type: x-website
+  url: https://www.nextiva.com
+- type: x-blog
+  url: https://www.nextiva.com/blog/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/nextiva
+- type: x-email
+  url: support@nextiva.com
+- type: x-email
+  url: office@nextiva.com
+- type: x-email
+  url: security@nextiva.com
+- type: x-email
+  url: sales@nextiva.com
+- type: x-email
+  url: hr@nextiva.com
+- type: x-email
+  url: pr@nextiva.com
+- type: x-status
+  url: https://status.nextiva.com
+- type: x-status
+  url: https://status.nextiva.com/
+- type: x-support
+  url: https://www.nextiva.com/support/
+- type: x-twitter
+  url: https://twitter.com/Nextiva
+- type: x-website
+  url: http://nextiva.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

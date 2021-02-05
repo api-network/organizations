@@ -1,0 +1,50 @@
+---
+name: WorkPoint
+description: Workpoint is a provider of a digital business solution that accelerates
+  implementation and reduces costs through automation. Our process-centric workflow
+  management software provides businesses with an utmost level of agility by delivering
+  business users visibility and control over their business processes while reducing
+  reliance on technical resources. With straight-forward useful modeling and design
+  components, versatile business rules functionality, and simplistic integration features,
+  our Application Development (DevApp) technology is the ideal platform for enterprise
+  programs such as digital business transformation, process automation, and workflow
+  management.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10459408"
+url: https://raw.githubusercontent.com/api-network/organizations/main/workpoint.yaml
+tags:
+- Products
+apis: []
+x-common:
+- type: x-website
+  url: http://www.workpoint.com
+- type: x-about
+  url: https://www.workpoint.com/about/
+- type: x-contact
+  url: https://www.workpoint.com/contactus/
+- type: x-contact
+  url: http://www.workpoint.com/wp-content/contactus
+- type: x-customers
+  url: https://www.workpoint.com/customersupport/
+- type: x-developer
+  url: http://developer.workpoint.com
+- type: x-facebook
+  url: https://www.facebook.com/WorkpointDigitalBusiness/#
+- type: x-press
+  url: http://wordpress.org/
+- type: x-privacy
+  url: https://www.workpoint.com/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/WorkpointAppDev
+- type: x-website
+  url: https://www.workpoint.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,39 @@
+---
+name: CSCS
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1511931"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cscs.yaml
+tags:
+- Switzerland
+- Research Institutes
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cscs.ch
+- type: x-facebook
+  url: https://www.facebook.com/CSCS-1486988184942005/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/cscs
+- type: x-twitter
+  url: https://twitter.com/cscsch
+- type: x-website
+  url: https://www.cscs.ch
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=wRb_ubwMcgQ
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=250V1pm9pDg
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=HBqT1KujxgY
+- type: x-youtube
+  url: https://www.youtube.com/user/cscsch
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

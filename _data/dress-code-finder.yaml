@@ -1,0 +1,30 @@
+---
+name: Dress Code Finder
+description: ""
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/dress-code-finder.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2081835"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dress-code-finder.yaml
+tags:
+- Restaurants
+- Restaurant
+- Profile
+- Have API
+- Fashion
+- Entertainment
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://dresscodefinder.com/api
+- type: x-code
+  url: http://dresscodefinder.com/venues/details.json?id=9753
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

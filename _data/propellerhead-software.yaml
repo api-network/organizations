@@ -1,0 +1,28 @@
+---
+name: Propellerhead Software
+description: Reason Studios has all the tools you need for creative music production,
+  recording, sequencing and mixing. Use Reason as a plugin with your favorite DAW,
+  in standalone or on the go with our mobile apps.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "675996"
+url: https://raw.githubusercontent.com/api-network/organizations/main/propellerhead-software.yaml
+tags:
+- Sequencers
+apis: []
+x-common:
+- type: x-support
+  url: https://help.reasonstudios.com
+- type: x-support
+  url: https://help.reasonstudios.com/hc/requests/new
+- type: x-website
+  url: https://www.propellerheads.se
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

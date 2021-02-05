@@ -1,0 +1,59 @@
+---
+name: Tecplot
+description: Tecplot Data Visualization & CFD post-processing tools help you discover,
+  analyze, and communicate complex data from numerical simulations.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "440911"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tecplot.yaml
+tags:
+- Companies
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.tecplot.com/blog/
+- type: x-careers
+  url: https://www.tecplot.com/the-company/careers/
+- type: x-case-studies
+  url: https://www.tecplot.com/category/case-studies/
+- type: x-contact
+  url: https://www.tecplot.com/contact/
+- type: x-documentation
+  url: https://www.tecplot.com/documentation/
+- type: x-events
+  url: https://www.tecplot.com/the-company/events-calendar/
+- type: x-facebook
+  url: https://www.facebook.com/tecplot/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/tecplot-inc-/
+- type: x-partner
+  url: https://www.tecplot.com/the-company/partners/
+- type: x-press
+  url: https://www.tecplot.com/category/press/
+- type: x-support
+  url: https://www.tecplot.com/support/
+- type: x-support
+  url: https://www.tecplot.com/support/licensing/
+- type: x-support
+  url: https://www.tecplot.com/support/tecplot-training/
+- type: x-support
+  url: https://www.tecplot.com/support/faqs/
+- type: x-twitter
+  url: https://twitter.com/tecplot?lang=en
+- type: x-webinars
+  url: https://www.tecplot.com/webinars/
+- type: x-website
+  url: https://www.tecplot.com
+- type: x-white-papers
+  url: https://www.tecplot.com/white-papers/
+- type: x-youtube
+  url: https://www.youtube.com/user/tecplot360
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

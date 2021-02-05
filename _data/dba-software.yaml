@@ -1,0 +1,42 @@
+---
+name: DBA Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "992948"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dba-software.yaml
+tags:
+- Manufacturing
+apis: []
+x-common:
+- type: x-about
+  url: https://www.dbamanufacturing.com/about/
+- type: x-blog
+  url: https://www.dbamanufacturing.com/blog/
+- type: x-contact
+  url: https://www.dbamanufacturing.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/dbamfg
+- type: x-linkedin
+  url: https://www.linkedin.com/company-beta/25000713/
+- type: x-pricing
+  url: https://www.dbamanufacturing.com/pricing-ordering/
+- type: x-support
+  url: https://help.dbamanufacturing.com
+- type: x-support
+  url: https://support.dbamanufacturing.com
+- type: x-support
+  url: https://help.dbamanufacturing.com/index.html
+- type: x-twitter
+  url: https://twitter.com/dbamfg
+- type: x-website
+  url: https://www.dbamanufacturing.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

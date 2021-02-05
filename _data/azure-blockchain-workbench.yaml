@@ -1,0 +1,44 @@
+---
+name: Azure Blockchain Workbench
+description: <p>Azure Blockchain Workbench helps organizations build rich, integrated
+  multi-party blockchain applications quickly and easily. Azure Blockchain Workbench
+  REST API provides developers and information workers a way to integrate to blockchain
+  applications. For example, a developer can use the REST API to enable IoT devices
+  to send data to a blockchain application. Or, an information worker can use the
+  REST API and Power BI to create visualization of blockchain data.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/azure-blockchain.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "33"
+url: https://raw.githubusercontent.com/api-network/organizations/main/azure-blockchain-workbench.yaml
+tags:
+- Relative Data
+- Have API Paths
+- Have API
+- Blockchain
+apis: []
+x-common:
+- type: x-blog
+  url: https://azure.microsoft.com/en-us/blog/topics/blockchain/
+- type: x-blog-rss
+  url: https://azurecomcdn.azureedge.net/en-us/blog/topics/blockchain/feed/
+- type: x-website
+  url: https://docs.microsoft.com/en-us/rest/api/azure-blockchain-workbench/
+- type: x-documentation
+  url: https://docs.microsoft.com/azure/blockchain-workbench
+- type: x-documentation
+  url: https://docs.microsoft.com/previous-versions/
+- type: x-documentation
+  url: https://docs.microsoft.com/teamblog
+- type: x-documentation
+  url: https://docs.microsoft.com/contribute
+- type: x-feed
+  url: https://aka.ms/sitefeedback
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,52 @@
+---
+name: Gamaya
+description: <p>Gamaya is a data analytics company that empowers farmers with unprecedented
+  in-depth understanding of their lands and crops using unique hyperspectral imaging
+  and artificial intelligence. We translate the data from the cameras into actionable
+  information for agricultural businesses using a simple and cost effective hyperspectral
+  remote sensing methodology.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/gamaya-logo.jpeg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1142492"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gamaya.yaml
+tags:
+- Have API
+- Drones
+- API Not Found
+apis: []
+x-common:
+- type: x-about
+  url: https://gamaya.com/about/
+- type: x-blog
+  url: https://gamaya.com/blog/
+- type: x-blog
+  url: http://gamaya.com/blog/
+- type: x-blog-rss
+  url: http://gamaya.com/blog/feed/
+- type: x-careers
+  url: https://gamaya.com/jobs/
+- type: x-contact
+  url: https://gamaya.com/contacts/
+- type: x-developer
+  url: http://developer.gamaya.com
+- type: x-facebook
+  url: https://www.facebook.com/Gamayainc
+- type: x-github
+  url: https://github.com/GamayaSpectral
+- type: x-linkedin
+  url: https://www.linkedin.com/company/gamaya
+- type: x-twitter
+  url: https://twitter.com/GamayaNews
+- type: x-website
+  url: http://gamaya.com/
+- type: x-youtube
+  url: http://www.youtube.com/c/GamayaSA
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

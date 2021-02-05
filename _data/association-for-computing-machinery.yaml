@@ -1,0 +1,55 @@
+---
+name: Association for Computing Machinery
+description: The Association for Computing Machinery is an international learned society
+  for computing.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/20344-dl-acm-org.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6224"
+url: https://raw.githubusercontent.com/api-network/organizations/main/association-for-computing-machinery.yaml
+tags:
+- Trades
+- Society
+- Publishing
+- Profile
+- Has API
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/association-for-computing-machinery
+- type: x-curated-source
+  url: http://dl.acm.org/citation.cfm
+- type: x-website
+  url: http://dl.acm.org
+- type: x-email
+  url: acmhelp@acm.org
+- type: x-email
+  url: dpo@acm.org
+- type: x-email
+  url: privacy@acm.org
+- type: x-email
+  url: acm-awards@acm.org
+- type: x-email
+  url: acmchina@acm.org
+- type: x-email
+  url: web-team@acm.org
+- type: x-email
+  url: portal-feedback@acm.org
+- type: x-email
+  url: advocate@acm.org
+- type: x-email
+  url: timanovsky@hq.acm.org
+- type: x-email
+  url: ramdin@hq.acm.org
+- type: x-twitter
+  url: https://twitter.com/TheOfficialACM
+- type: x-website
+  url: http://acm.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

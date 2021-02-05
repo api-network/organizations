@@ -1,0 +1,51 @@
+---
+name: Accentis Information Systems
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3709735"
+url: https://raw.githubusercontent.com/api-network/organizations/main/accentis-information-systems.yaml
+tags: []
+apis: []
+x-common:
+- type: x-about
+  url: https://accentis.com.au/about-us/
+- type: x-blog
+  url: https://accentis.com.au/blog/
+- type: x-contact
+  url: https://accentis.com.au/contact/
+- type: x-contact
+  url: https://www.bncc.com.au/community/contact/902/
+- type: x-events
+  url: https://accentis.com.au/events/
+- type: x-facebook
+  url: https://www.facebook.com/Accentis/
+- type: x-feed
+  url: https://accentis.com.au/blog/feed/
+- type: x-news
+  url: https://accentis.com.au/news/
+- type: x-privacy
+  url: https://accentis.com.au/privacy-policy/
+- type: x-support
+  url: https://accentis.com.au/support/
+- type: x-support
+  url: https://accentis.com.au/support/support-files/
+- type: x-support
+  url: https://accentis.com.au/support/user-guide/
+- type: x-support
+  url: https://accentis.com.au/support/videos/
+- type: x-support
+  url: https://accentis.com.au/help
+- type: x-twitter
+  url: https://twitter.com/AccentisPtyLtd?lang=en
+- type: x-website
+  url: https://www.accentis.com.au
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

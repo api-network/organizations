@@ -1,0 +1,112 @@
+---
+name: StockTwits
+description: Join Stocktwits for free stock discussions, prices, and market sentiment
+  with millions of investors and traders. Stocktwits is the largest social network
+  for finance.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/944_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "4086"
+url: https://raw.githubusercontent.com/api-network/organizations/main/stocktwits.yaml
+tags:
+- U_true
+- Twitter Stock
+- Twitter
+- Target
+- StockTwits
+- Stocks On Twitter
+- Stocks
+- Stocks
+- Stock Twitter
+- Stock Trends
+- Stock Conversations
+- Stock
+- Markets
+- Have API Paths
+- Have API
+- General Data
+- Financial Twitter
+- Financial Trends
+- Financial Forum
+- Financial Conversation
+- Financial Advice
+- Financial
+- Financial
+apis: []
+x-common:
+- type: x-website
+  url: https://stocktwits.com
+- type: x-about
+  url: https://about.stocktwits.com
+- type: x-about
+  url: https://about.stocktwits.com/our-team
+- type: x-authentication
+  url: https://api.stocktwits.com/developers/docs/authentication
+- type: x-base
+  url: http://api.stocktwits.com
+- type: x-blog
+  url: http://blog.stocktwits.com
+- type: x-blog
+  url: https://blog.stocktwits.com
+- type: x-blog-rss
+  url: http://blog.stocktwits.com/feed/
+- type: x-branding
+  url: https://api.stocktwits.com/developers/docs/logos
+- type: x-careers
+  url: https://about.stocktwits.com/careers
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/stocktwits
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/stocktwits
+- type: x-developer
+  url: https://api.stocktwits.com/developers
+- type: x-developers
+  url: http://stocktwits.com/developers
+- type: x-documentation
+  url: https://api.stocktwits.com/developers/docs/api
+- type: x-documentation
+  url: https://api.stocktwits.com/developers/docs
+- type: x-email
+  url: privacy@stocktwits.com
+- type: x-email
+  url: parents@stocktwits.com
+- type: x-email
+  url: support@stocktwits.com
+- type: x-email
+  url: abuse@stocktwits.com
+- type: x-embeddable
+  url: https://api.stocktwits.com/developers/docs/stocktwits-for-websites
+- type: x-facebook
+  url: https://facebook.com/stocktwits
+- type: x-getting-started
+  url: https://api.stocktwits.com/developers/docs/start
+- type: x-github
+  url: https://github.com/stocktwits
+- type: x-instagram
+  url: https://www.instagram.com/stocktwits/
+- type: x-privacy
+  url: https://www.stocktwits.com/st/privacy
+- type: x-rate-limits
+  url: https://api.stocktwits.com/developers/docs/rate_limiting
+- type: x-status
+  url: http://api-status.stocktwits.com/
+- type: x-status
+  url: http://api-status.stocktwits.com
+- type: x-support
+  url: https://help.stocktwits.com
+- type: x-terms-of-service
+  url: https://api.stocktwits.com/developers/api-terms
+- type: x-terms-of-service
+  url: https://www.stocktwits.com/st/terms
+- type: x-twitter
+  url: https://twitter.com/stocktwits
+- type: x-website
+  url: http://stocktwits.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

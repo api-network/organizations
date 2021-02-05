@@ -1,0 +1,46 @@
+---
+name: MainConcept AG
+description: MainConcept is a worldwide leading provider of high-quality codec technology
+  supporting industry standards such as H.264/AVC, MPEG-2, MPEG-4, DVCPRO HD, JPEG2000,
+  VC-1, and HE-AAC.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "427393"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mainconcept-ag.yaml
+tags:
+- Software
+apis: []
+x-common:
+- type: x-website
+  url: http://www.mainconcept.com
+- type: x-careers
+  url: https://www.mainconcept.com/company/jobs.html
+- type: x-code
+  url: https://www.mainconcept.com/support/sdk-support.html
+- type: x-linkedin
+  url: https://linkedin.com/company/mainconcept
+- type: x-linkedin
+  url: https://www.linkedin.com/company/mainconcept
+- type: x-news
+  url: https://www.mainconcept.com/newsletter-subscribe.html
+- type: x-news
+  url: https://www.mainconcept.com/company/news.html
+- type: x-platform
+  url: https://www.mainconcept.com/sales/sdks-platforms.html
+- type: x-privacy
+  url: https://www.mainconcept.com/privacy-policy.html
+- type: x-support
+  url: https://www.mainconcept.com/support.html
+- type: x-twitter
+  url: https://twitter.com/MainConcept
+- type: x-website
+  url: https://www.mainconcept.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,30 @@
+---
+name: TechwareLabs
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "890192"
+url: https://raw.githubusercontent.com/api-network/organizations/main/techwarelabs.yaml
+tags:
+- Reviews
+apis: []
+x-common:
+- type: x-events
+  url: https://www.techwarelabs.com/category/articles/events/
+- type: x-feed
+  url: http://feeds2.feedburner.com/Techwarelabs
+- type: x-login
+  url: https://www.techwarelabs.com/wp-login.php
+- type: x-privacy
+  url: http://www.techwarelabs.com/privacy-policy
+- type: x-website
+  url: https://www.techwarelabs.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

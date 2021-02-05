@@ -1,0 +1,33 @@
+---
+name: Linux Security
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1091268"
+url: https://raw.githubusercontent.com/api-network/organizations/main/linux-security.yaml
+tags:
+- Security
+- News And Media
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.lawfareblog.com/rethinking-encryption
+- type: x-facebook
+  url: https://www.facebook.com/lnxsec/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/guardiandigital
+- type: x-security
+  url: https://linuxsecurity.com/linuxsecurity-rss-feeds
+- type: x-twitter
+  url: https://twitter.com/lnxsec
+- type: x-website
+  url: https://linuxsecurity.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

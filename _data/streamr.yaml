@@ -1,0 +1,60 @@
+---
+name: Streamr
+description: "Data done differently with our realtime #data Marketplace & p2p decentralised
+  Network supported by #Ethereum. #IoT \U0001F4F6  #blockchain \U0001F4AA $DATA #cryptocurrencies"
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26717-www-streamr-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/streamr.yaml
+tags:
+- Have API
+- Blockchain
+apis: []
+x-common:
+- type: x-hacker-news-search
+  url: Streamr
+- type: x-stack-exchange-search
+  url: Streamr
+- type: x-website
+  url: http://www.streamr.com
+- type: x-blog
+  url: https://medium.com/streamrblog
+- type: x-blog-rss
+  url: https://medium.com/feed/streamrblog
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/6d07b663-9457-362e-8209-72980d412756
+- type: x-email
+  url: contact@streamr.com
+- type: x-email
+  url: media@streamr.com
+- type: x-email
+  url: jobs@streamr.com
+- type: x-email
+  url: labs@streamr.com
+- type: x-faq
+  url: https://www.streamr.com/faq
+- type: x-github
+  url: https://github.com/streamr-dev
+- type: x-linkedin
+  url: https://www.linkedin.com/company/streamr-network/
+- type: x-reddit
+  url: https://www.reddit.com/r/streamr/
+- type: x-reddit-search
+  url: Streamr
+- type: x-registration
+  url: https://www.streamr.com/login/auth
+- type: x-twitter
+  url: https://twitter.com/streamrinc
+- type: x-twitter
+  url: https://twitter.com/streamr
+- type: x-website
+  url: https://www.streamr.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

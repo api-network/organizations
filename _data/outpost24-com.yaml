@@ -1,0 +1,35 @@
+---
+name: Outpost24.Com
+description: Assess full stack cyber exposure for your web application, pen test,
+  cloud and container and network
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "495154"
+url: https://raw.githubusercontent.com/api-network/organizations/main/outpost24-com.yaml
+tags:
+- Services
+apis: []
+x-common:
+- type: x-website
+  url: http://outpost24.com
+- type: x-customers
+  url: https://www.outpost24.com/customers/feedback
+- type: x-facebook
+  url: https://www.facebook.com/Outpost24
+- type: x-linkedin
+  url: https://www.linkedin.com/company/outpost24
+- type: x-twitter
+  url: https://www.twitter.com/outpost24
+- type: x-website
+  url: https://www.outpost24.com
+- type: x-youtube
+  url: https://www.youtube.com/user/Outpost24HQ
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

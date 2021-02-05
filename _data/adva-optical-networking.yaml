@@ -1,0 +1,41 @@
+---
+name: ADVA Optical Networking
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "117942"
+url: https://raw.githubusercontent.com/api-network/organizations/main/adva-optical-networking.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.adva.com
+- type: x-blog
+  url: https://blog.adva.com/en/in-the-year-2020
+- type: x-blog
+  url: https://blog.adva.com:443/en
+- type: x-blog
+  url: https://blog.adva.com
+- type: x-news
+  url: http://www.advaoptical.com/en/newsroom.aspx
+- type: x-news
+  url: https://advaopticalnews.tumblr.com/
+- type: x-press
+  url: https://www.adva.com/en/press-feed
+- type: x-slideshare
+  url: https://www.slideshare.net/ADVAOpticalNetworking
+- type: x-twitter
+  url: https://twitter.com/ADVAOpticalNews
+- type: x-website
+  url: https://www.advaoptical.com
+- type: x-youtube
+  url: https://www.youtube.com/user/ADVAOptical
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

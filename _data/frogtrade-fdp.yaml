@@ -1,0 +1,32 @@
+---
+name: Frogtrade FDP
+description: <p>The Frog Developer Platform (FDP) is a set of resources to enable
+  third party developers to extend or add new functionality to Frog. Frog have released
+  a number of APIs to enable third parties to securely access &amp; manipulate certain
+  data within the Frog environment. For a full list of available methods, check out
+  the API Reference</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/frong-developer-platform.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4250929"
+url: https://raw.githubusercontent.com/api-network/organizations/main/frogtrade-fdp.yaml
+tags:
+- Widgets
+- JavaScript
+- Have API
+- Gadgets
+- API Provider
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/frog_fdp
+- type: x-website
+  url: http://fdp.frogcommunity.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

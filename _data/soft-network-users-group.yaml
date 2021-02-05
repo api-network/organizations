@@ -1,0 +1,32 @@
+---
+name: Soft Network Users Group
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/soft-network-users-group.yaml
+tags:
+- User Groups
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.snuginconline.org/blog/
+- type: x-contact
+  url: https://www.snuginconline.org/contacts-sig-moderators/
+- type: x-contact
+  url: http://snuginconline.org/contacts-executive-board/
+- type: x-login
+  url: http://snuginconline.org/login/
+- type: x-terms-of-service
+  url: https://www.snuginconline.org/terms/
+- type: x-website
+  url: https://www.snuginconline.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

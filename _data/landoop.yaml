@@ -1,0 +1,51 @@
+---
+name: Landoop
+description: '<p>At Landoop we help you join the fast data streaming revolution. We
+  have a strong big and fast data culture, and highly focused on Apache Kafka, we
+  are making solutions that aim to simplify your interaction with a complex stack.&nbsp;
+  Streaming Data Pipelines at their best: Kafka native and Kubernets native. We help
+  engineers understand their platform. We help companies join the streaming world.&nbsp;
+  We focus on technology and products that streamline your data pipelines, connect
+  with external systems, easily manage your cluster and zoom into it!</p>'
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28195-www-landoop-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/landoop.yaml
+tags:
+- Kafka
+- Internet Of Things
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.landoop.com
+- type: x-website
+  url: http://lenses.io
+- type: x-blog
+  url: https://www.landoop.com/blog/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/landoop
+- type: x-documentation
+  url: https://docs.lenses.io/
+- type: x-github
+  url: https://github.com/Landoop
+- type: x-linkedin
+  url: https://linkedin.com/company/lensesio
+- type: x-twitter
+  url: https://twitter.com/lensesio
+- type: x-twitter
+  url: https://twitter.com/LandoopLtd
+- type: x-website
+  url: https://www.landoop.com
+- type: x-youtube
+  url: https://www.youtube.com/c/lensesio
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

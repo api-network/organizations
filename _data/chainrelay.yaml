@@ -1,0 +1,28 @@
+---
+name: ChainRelay
+description: ChainRelay makes Ethereum smart contracts easy to use.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29193-chainrelay-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "6675756"
+url: https://raw.githubusercontent.com/api-network/organizations/main/chainrelay.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://chainrelay.com
+- type: x-email
+  url: hello@chainrelay.com
+- type: x-twitter
+  url: https://twitter.com/chain_relay
+- type: x-website
+  url: https://chainrelay.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

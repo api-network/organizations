@@ -1,0 +1,57 @@
+---
+name: Magic Toolbox
+description: Your website deserves some love! Get the WOW FACTOR with our image zoom
+  plugins. Sell more and look fabulous. Free trial, fast support. Choose yours today.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "90585"
+url: https://raw.githubusercontent.com/api-network/organizations/main/magic-toolbox.yaml
+tags:
+- Scripts
+apis: []
+x-common:
+- type: x-about
+  url: https://www.magictoolbox.com/about/
+- type: x-blog
+  url: https://www.magictoolbox.com/blogger
+- type: x-careers
+  url: https://www.magictoolbox.com/careers/
+- type: x-contact
+  url: https://www.magictoolbox.com/contact/
+- type: x-customers
+  url: https://www.magictoolbox.com/customers/
+- type: x-facebook
+  url: https://www.facebook.com/magictoolbox/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/magic-toolbox
+- type: x-news
+  url: https://www.magictoolbox.com/newsletter/
+- type: x-open-source
+  url: https://www.magictoolbox.com/opencart
+- type: x-press
+  url: https://www.magictoolbox.com/wordpress
+- type: x-press
+  url: https://www.magictoolbox.com/wordpress-ecommerce
+- type: x-press
+  url: https://www.magictoolbox.com/thecartpress
+- type: x-privacy
+  url: https://www.magictoolbox.com/privacy/
+- type: x-support
+  url: https://www.magictoolbox.com/support/
+- type: x-terms-of-service
+  url: https://www.magictoolbox.com/terms/
+- type: x-twitter
+  url: https://twitter.com/magictoolbox/
+- type: x-website
+  url: https://www.magictoolbox.com
+- type: x-youtube
+  url: https://www.youtube.com/user/magictoolbox
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

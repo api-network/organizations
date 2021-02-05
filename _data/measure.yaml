@@ -1,0 +1,39 @@
+---
+name: Measure
+description: <p>Measure operates turnkey drone solutions to deliver cost-effective
+  actionable data to enterprise customers. Measure was founded specifically to help
+  customers avoid the capital expense and operating risks of establishing their own
+  drone programs and to purchase drone support in a way which better fits their operations
+  and cost profiles. In a market largely comprised of manufacturers, Measure is the
+  model for how drone services will develop and grow in the future.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/measure-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/measure.yaml
+tags:
+- Profile
+- Have API
+- Drones
+- API Provider
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: https://www.measure.com/free-trial
+- type: x-blog
+  url: http://www.measure.aero/insights/
+- type: x-blog-rss
+  url: http://www.measure.aero/feed/
+- type: x-twitter
+  url: https://twitter.com/droneasaservice
+- type: x-website
+  url: http://measure.aero
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

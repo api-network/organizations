@@ -1,0 +1,23 @@
+---
+name: jobs.oodle.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jobs-oodle-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://jobs.oodle.com/detail/sr-product-marketing-manager-luna-portal-open-api-s-job/3905208824-cambridge-ma/
+- type: x-website
+  url: http://jobs.oodle.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

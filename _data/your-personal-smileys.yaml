@@ -1,0 +1,22 @@
+---
+name: Your Personal Smileys
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3987352"
+url: https://raw.githubusercontent.com/api-network/organizations/main/your-personal-smileys.yaml
+tags:
+- Emojis
+apis: []
+x-common:
+- type: x-website
+  url: https://yoursmiles.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

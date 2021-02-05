@@ -1,0 +1,49 @@
+---
+name: PrecisionID Inc.
+description: PrecisionID Barcode Font Software generates QR-Code, Data-Matrix, Code-128,
+  Code-39, UPC, EAN, ITF, GS1 and other barcodes fast and easy.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7260199"
+url: https://raw.githubusercontent.com/api-network/organizations/main/precisionid-inc-.yaml
+tags:
+- Barcode
+apis: []
+x-common:
+- type: x-about
+  url: https://www.precisionid.com/about-us/
+- type: x-code
+  url: https://www.precisionid.com/barcode-font-support/
+- type: x-code
+  url: https://www.precisionid.com/products/1d-barcode-fonts/
+- type: x-code
+  url: https://www.precisionid.com/products/2d-barcode-fonts/
+- type: x-code
+  url: https://www.precisionid.com/font-encoders/
+- type: x-contact
+  url: https://www.precisionid.com/contact/
+- type: x-contact
+  url: https://www.precisionid.com/contact/#User%20Guide
+- type: x-privacy
+  url: https://www.precisionid.com/about-us/privacy-policy/
+- type: x-support
+  url: https://www.precisionid.com/micr-font-support/
+- type: x-support
+  url: https://www.precisionid.com/activex-support/
+- type: x-support
+  url: https://www.precisionid.com/aspnet-support/
+- type: x-support
+  url: https://www.precisionid.com/support/
+- type: x-terms-of-service
+  url: https://www.precisionid.com/legal/
+- type: x-website
+  url: https://www.precisionid.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

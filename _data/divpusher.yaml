@@ -1,0 +1,42 @@
+---
+name: DivPusher
+description: Web development resources and tutorials for beginners and beyond.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "760771"
+url: https://raw.githubusercontent.com/api-network/organizations/main/divpusher.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-blog
+  url: https://divpusher.com/blog/category/laravel/
+- type: x-blog
+  url: https://divpusher.com/blog/category/web-development/
+- type: x-blog
+  url: https://divpusher.com/blog/site-restart/
+- type: x-blog
+  url: https://divpusher.com/blog/important-meta-tags/
+- type: x-contact
+  url: https://divpusher.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/divpusher/
+- type: x-news
+  url: https://divpusher.com/blog/category/news/
+- type: x-press
+  url: https://divpusher.com/blog/category/wordpress/
+- type: x-privacy
+  url: https://divpusher.com/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/divpusherthemes
+- type: x-website
+  url: https://divpusher.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

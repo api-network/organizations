@@ -1,0 +1,78 @@
+---
+name: NMI
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "350655"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nmi.yaml
+tags:
+- Profile
+apis: []
+x-common:
+- type: x-about
+  url: https://www.nmi.com/about
+- type: x-blog
+  url: https://www.nmi.com/blog
+- type: x-blog
+  url: https://www.nmi.com/blog/industry-insights
+- type: x-blog
+  url: https://www.nmi.com/blog/product
+- type: x-blog
+  url: https://www.nmi.com/blog/did-you-know
+- type: x-blog
+  url: https://www.nmi.com/blog/fattmerchant-case-study
+- type: x-careers
+  url: https://www.nmi.com/careers
+- type: x-case-studies
+  url: https://www.nmi.com/blog/case-studies
+- type: x-code
+  url: https://www.nmi.com/sdks-and-apis
+- type: x-code
+  url: https://www.nmi.com/sdks-and-apis#ecommerce
+- type: x-code
+  url: https://www.nmi.com/sdks-and-apis#CDNA
+- type: x-code
+  url: https://www.nmi.com/sdks-and-apis#CDNADIRECT
+- type: x-contact
+  url: https://www.nmi.com/about/contact
+- type: x-documentation
+  url: https://secure.networkmerchants.com/gw/merchants/resources/integration/integration_portal.php#integration_overview
+- type: x-events
+  url: https://www.nmi.com/blog/events
+- type: x-facebook
+  url: https://www.facebook.com/NMIpayments
+- type: x-gdpr
+  url: https://www.nmi.com/gdpr
+- type: x-instagram
+  url: https://www.instagram.com/NMIpayments
+- type: x-linkedin
+  url: https://www.linkedin.com/company/NMIpayments
+- type: x-login
+  url: https://www.nmi.com/logins
+- type: x-login
+  url: https://webmis.creditcall.com/login.php
+- type: x-news
+  url: https://www.nmi.com/blog/nmi-news
+- type: x-platform
+  url: https://www.nmi.com/platform
+- type: x-press
+  url: https://www.nmi.com/blog/press-releases
+- type: x-privacy
+  url: https://www.nmi.com/privacy-policy
+- type: x-security
+  url: https://www.nmi.com/why-nmi/security
+- type: x-terms-of-service
+  url: https://www.nmi.com/terms-and-conditions
+- type: x-twitter
+  url: https://twitter.com/NMIpayments
+- type: x-website
+  url: https://networkmerchants.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

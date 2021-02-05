@@ -1,0 +1,46 @@
+---
+name: Multimedia Art Asia Pacific (MAAP)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/multimedia-art-asia-pacific-maap.yaml
+tags:
+- Organizations
+apis: []
+x-common:
+- type: x-about
+  url: https://www.maap.org.au/about-maap/
+- type: x-about
+  url: https://www.maap.org.au/about-maap/annual-reports/
+- type: x-about
+  url: https://www.maap.org.au/about-maap/governance/
+- type: x-about
+  url: https://www.maap.org.au/about-maap/maap-board/
+- type: x-about
+  url: https://www.maap.org.au/about-maap/maap-staff/
+- type: x-contact
+  url: https://www.maap.org.au/contact/
+- type: x-contact
+  url: http://maap.org.au/contact#newsletter
+- type: x-contact
+  url: https://www.maap.org.au/contact#newsletter/
+- type: x-facebook
+  url: https://www.facebook.com/MAAPMediaArt
+- type: x-facebook
+  url: http://www.facebook.com/MAAPMediaArt
+- type: x-news
+  url: https://www.maap.org.au/category/news/
+- type: x-partner
+  url: https://www.maap.org.au/collaborator_cat/partners/
+- type: x-website
+  url: https://maap.org.au
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

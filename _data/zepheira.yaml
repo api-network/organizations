@@ -1,0 +1,61 @@
+---
+name: Zepheira
+description: <p>Organizations from a variety of industries have worked with Zepheira
+  to better use the Web to unlock, connect, visualize, analyze and augment data assets
+  across system boundaries.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/zepheira.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zepheira.yaml
+tags:
+- Profile
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://zepheira.org
+- type: x-about
+  url: https://bibflow.library.ucdavis.edu/about/
+- type: x-blog
+  url: http://zepheira.com/news/
+- type: x-blog-rss
+  url: http://zepheira.com/feed/atom/
+- type: x-email
+  url: solutions@zepheira.com
+- type: x-facebook
+  url: https://www.facebook.com/zepheira/
+- type: x-linkedin
+  url: https://www.linkedin.com/erimille/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/kmacdougall/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/ucheogbuji/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/john-miller-430a3449/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/jeffpenka/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/distobj/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/gonzalezgloria/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/david-feeney-5803001/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/lauri-mcintosh-4b087117/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/zepheira
+- type: x-twitter
+  url: https://twitter.com/zepheiraorg
+- type: x-twitter
+  url: https://twitter.com/erimille/
+- type: x-website
+  url: http://zepheira.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,28 @@
+---
+name: Johnson, Kelly
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/johnson-kelly.yaml
+tags:
+- Personal Pages
+apis: []
+x-common:
+- type: x-code
+  url: http://tidy.codeplex.com/
+- type: x-facebook
+  url: http://www.facebook.com/sublimese
+- type: x-linkedin
+  url: http://www.linkedin.com/in/sublimese
+- type: x-website
+  url: https://www.kellyjohnson.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

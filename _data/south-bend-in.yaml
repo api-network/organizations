@@ -1,0 +1,48 @@
+---
+name: South Bend, IN
+description: In an effort to increase transparency, spur innovation and generate data-based
+  solutions, the City of South Bend has created an Open Data PlatformExternal Link.
+  This platform holds information about city finances, services and code enforcement,
+  enabling city residents better access information. In addition, the Open Data platform
+  enables the city to better understand captured data and develop data-based solutions
+  to challenging problems. With features that allow government officials and citizens
+  alike to view more information than ever before, South Bend is on the cutting edge
+  of municipal technology, promoting innovative solutions and transparency.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/south-bend-in.yaml
+tags:
+- No API
+- City Government
+apis: []
+x-common:
+- type: x-website
+  url: http://www.southbendin.gov
+- type: x-code
+  url: https://southbendin.gov/department/code-enforcement/
+- type: x-facebook
+  url: https://www.facebook.com/CityofSouthBend/
+- type: x-instagram
+  url: https://www.instagram.com/cityofsouthbend/
+- type: x-news
+  url: https://southbendin.gov/news-and-public-meetings/
+- type: x-news
+  url: https://southbendin.gov/news/
+- type: x-terms-of-service
+  url: https://southbendin.gov/department/legal/
+- type: x-twitter
+  url: https://twitter.com/cityofsouthbend
+- type: x-website
+  url: http://www.ci.south-bend.in.us/government/content/opendata
+- type: x-youtube
+  url: https://www.youtube.com/user/cityofsouthbend
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

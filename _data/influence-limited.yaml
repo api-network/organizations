@@ -1,0 +1,49 @@
+---
+name: Influence Limited
+description: Influence Recruitment Software for all types of Recruitment business.
+  Incredibly powerful, yet simple to use. Cloud, Hosted Desktop or on-Premises solutions
+  for Temporary, Permanent, Contract and retained search Recruitment agencies. All
+  hosted in UK Data centres.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3042725"
+url: https://raw.githubusercontent.com/api-network/organizations/main/influence-limited.yaml
+tags:
+- Recruitment Management
+apis: []
+x-common:
+- type: x-blog
+  url: https://influence-it.com/blog/
+- type: x-contact
+  url: https://influence-it.com/influence/contact/
+- type: x-contact
+  url: https://influence-it.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/RecruitmentSystem
+- type: x-gdpr
+  url: https://influence-it.com/gdpr-recruitment-software/
+- type: x-linkedin
+  url: https://www.linkedin.com/company-beta/2042045/
+- type: x-linkedin
+  url: http://www.linkedin.com/
+- type: x-pricing
+  url: https://influence-it.com/pricing/
+- type: x-privacy
+  url: https://influence-it.com/privacy-policy/
+- type: x-support
+  url: https://support.influence-it.com/
+- type: x-terms-of-service
+  url: https://influence-it.com/terms-conditions/
+- type: x-twitter
+  url: http://www.twitter.com/
+- type: x-website
+  url: https://www.influence-it.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

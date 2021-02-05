@@ -1,0 +1,128 @@
+---
+name: Trinity College Dublin
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "23367"
+url: https://raw.githubusercontent.com/api-network/organizations/main/trinity-college-dublin.yaml
+tags:
+- University Of Dublin
+- University
+- Undergraduate
+- Trinity College Dublin
+- Tcd
+- Studying
+- Study
+- Research
+- Postgraduate
+- National
+- Irish
+- Ireland
+- Academic
+apis: []
+x-common:
+- type: x-website
+  url: http://www.tcd.ie
+- type: x-about
+  url: http://www.tcd.ie/about/leru/
+- type: x-facebook
+  url: http://facebook.com/trinitycollegedublin
+- type: x-instagram
+  url: https://www.instagram.com/trinitycollegedublin/
+- type: x-support
+  url: https://support.scss.tcd.ie/
+- type: x-support
+  url: https://support.scss.tcd.ie/Announcements
+- type: x-support
+  url: https://support.scss.tcd.ie/FAQ
+- type: x-support
+  url: https://support.scss.tcd.ie/Information_for_New_Users
+- type: x-support
+  url: https://support.scss.tcd.ie/All_New_Users
+- type: x-support
+  url: https://support.scss.tcd.ie/New_Staff
+- type: x-support
+  url: https://support.scss.tcd.ie/New_Research_Postgrads
+- type: x-support
+  url: https://support.scss.tcd.ie/New_Taught_Postgrads
+- type: x-support
+  url: https://support.scss.tcd.ie/New_Undergrads
+- type: x-support
+  url: https://support.scss.tcd.ie/Networking
+- type: x-support
+  url: https://support.scss.tcd.ie/Wired_networking
+- type: x-support
+  url: https://support.scss.tcd.ie/Wireless_Networking
+- type: x-support
+  url: https://support.scss.tcd.ie/Internet_access
+- type: x-support
+  url: https://support.scss.tcd.ie/Local_websites
+- type: x-support
+  url: https://support.scss.tcd.ie/Your_web_pages
+- type: x-support
+  url: https://support.scss.tcd.ie/Staff_Services
+- type: x-support
+  url: https://support.scss.tcd.ie/Email
+- type: x-support
+  url: https://support.scss.tcd.ie/Accounts_and_Passwords
+- type: x-support
+  url: https://support.scss.tcd.ie/Unix_Services
+- type: x-support
+  url: https://support.scss.tcd.ie/Macintosh_Support
+- type: x-support
+  url: https://support.scss.tcd.ie/Lecture_Support
+- type: x-support
+  url: https://support.scss.tcd.ie/Software
+- type: x-support
+  url: https://support.scss.tcd.ie/Student_Services
+- type: x-support
+  url: https://support.scss.tcd.ie/Email_for_Students
+- type: x-support
+  url: https://support.scss.tcd.ie/Student_labs
+- type: x-support
+  url: https://support.scss.tcd.ie/Other_services
+- type: x-support
+  url: https://support.scss.tcd.ie/O/S_Support
+- type: x-support
+  url: https://support.scss.tcd.ie/Windows_Support
+- type: x-support
+  url: https://support.scss.tcd.ie/Policies_and_Procedures
+- type: x-support
+  url: https://support.scss.tcd.ie/Policies
+- type: x-support
+  url: https://support.scss.tcd.ie/Procedures
+- type: x-support
+  url: https://support.scss.tcd.ie/Anti-Virus_Software
+- type: x-support
+  url: https://support.scss.tcd.ie/OPERATING_SYSTEMS
+- type: x-support
+  url: https://support.scss.tcd.ie/APPLICATION_SOFTWARE
+- type: x-support
+  url: https://support.scss.tcd.ie/School_Site_Licences
+- type: x-support
+  url: https://support.scss.tcd.ie/TCD_Site_Licence_Software
+- type: x-support
+  url: https://support.scss.tcd.ie/SCSS_Library_Facilities
+- type: x-support
+  url: https://support.scss.tcd.ie/Theses
+- type: x-support
+  url: https://support.scss.tcd.ie/Final_Year_Project_Reports
+- type: x-support
+  url: https://support.scss.tcd.ie/Periodicals_and_Books
+- type: x-support
+  url: https://support.scss.tcd.ie/Registration_Forms
+- type: x-twitter
+  url: https://twitter.com/tcddublin
+- type: x-website
+  url: https://www.scss.tcd.ie
+- type: x-youtube
+  url: http://www.youtube.com/user/trinitycollegedublin
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

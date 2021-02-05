@@ -1,0 +1,52 @@
+---
+name: Html Notes Theory
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/html-notes-theory.yaml
+tags:
+- Beginners
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.blogger.com/profile/08110578849885017432
+- type: x-blog
+  url: https://freehtmlnotes.blogspot.com/
+- type: x-blog
+  url: https://freehtmlnotes.blogspot.com/search/label/E-Mail
+- type: x-blog
+  url: https://freehtmlnotes.blogspot.com/search/label/Gopher
+- type: x-blog
+  url: https://freehtmlnotes.blogspot.com/search/label/HTML
+- type: x-blog
+  url: https://freehtmlnotes.blogspot.com/search/label/HTTP
+- type: x-blog
+  url: https://freehtmlnotes.blogspot.com/search/label/MODEM
+- type: x-blog
+  url: https://freehtmlnotes.blogspot.com/search/label/Tags
+- type: x-blog
+  url: https://freehtmlnotes.blogspot.com/search/label/TELNET
+- type: x-blog
+  url: https://freehtmlnotes.blogspot.com/search/label/URL
+- type: x-blog
+  url: https://freehtmlnotes.blogspot.com/search/label/WAIS
+- type: x-blog
+  url: http://c-overview.blogspot.com/
+- type: x-blog
+  url: http://free-c-programs.blogspot.com/
+- type: x-blog
+  url: https://www.blogger.com
+- type: x-feed
+  url: https://freehtmlnotes.blogspot.com/feeds/posts/default
+- type: x-website
+  url: https://freehtmlnotes.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

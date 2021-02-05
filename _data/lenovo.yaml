@@ -1,0 +1,83 @@
+---
+name: Lenovo
+description: "Find & buy the right laptop, tablet, desktop or best server. \u2714\uFE0FBuild
+  your own PC today or call our sales team \u260E 1-855-2-LENOVO (1-855-253-6686)"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "636"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lenovo.yaml
+tags:
+- Tablet
+- Tablet
+- Tablet
+- Manufacturers
+- Find & Buy The Right Laptop
+- Find & Buy The Right Laptop
+- Find & Buy The Right Laptop
+apis: []
+x-common:
+- type: x-website
+  url: http://lenovo.com
+- type: x-careers
+  url: http://lenovocareers.com/
+- type: x-contact
+  url: https://pcsupport.lenovo.com/us/en/contactnow
+- type: x-contact
+  url: https://datacentersupport.lenovo.com/us/en/contactnow
+- type: x-facebook
+  url: https://www.facebook.com/lenovoUS
+- type: x-forum
+  url: http://forums.lenovo.com/
+- type: x-forum
+  url: https://forums.lenovo.com/
+- type: x-instagram
+  url: https://www.instagram.com/lenovous/
+- type: x-investor
+  url: https://investor.lenovo.com/
+- type: x-news
+  url: http://news.lenovo.com/
+- type: x-support
+  url: https://pcsupport.lenovo.com/us/en/
+- type: x-support
+  url: https://support.lenovo.com/us/en/warrantylookup#/
+- type: x-support
+  url: https://support.lenovo.com/us/en/partslookup
+- type: x-support
+  url: https://pcsupport.lenovo.com/us/en/warrantylookup
+- type: x-support
+  url: https://pcsupport.lenovo.com/us/en/repairstatus
+- type: x-support
+  url: https://datacentersupport.lenovo.com/us/en/
+- type: x-support
+  url: https://www.lenovo.com/us/en/ordersupport/
+- type: x-support
+  url: https://smartsupport.lenovo.com/us/en
+- type: x-support
+  url: https://support.lenovo.com/us/en/warrantylookup
+- type: x-support
+  url: https://smartsupport.lenovo.com
+- type: x-support
+  url: https://support.lenovo.com/us/en/
+- type: x-support
+  url: https://smartsupport.lenovo.com/us/en/
+- type: x-support
+  url: https://support.motorola.com/us/en
+- type: x-support
+  url: https://support.lenovo.com/us/en/productregistration
+- type: x-support
+  url: https://support.lenovo.com/
+- type: x-twitter
+  url: https://twitter.com/lenovous
+- type: x-website
+  url: https://www.lenovo.com
+- type: x-youtube
+  url: https://www.youtube.com/user/LenovoVision
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

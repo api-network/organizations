@@ -1,0 +1,40 @@
+---
+name: indyco
+description: We make Big Data real, that's why we are a Gartner Cool Vendor 2015.
+  With Indyco you can model your data, integrate and understand them and empower your
+  investment in BI.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/indyco.yaml
+tags:
+- Data Warehouse Automation
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.indyco.com/contact/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/10610860
+- type: x-news
+  url: https://www.indyco.com/join-newsletter/
+- type: x-privacy
+  url: https://www.indyco.com/privacy-policy/
+- type: x-privacy
+  url: http://www.indyco.com/privacy-policy/
+- type: x-support
+  url: https://www.indyco.com/support/
+- type: x-terms-of-service
+  url: https://www.indyco.com/legal-terms/
+- type: x-twitter
+  url: https://twitter.com/indycosuite
+- type: x-website
+  url: https://www.indyco.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

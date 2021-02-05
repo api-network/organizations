@@ -1,0 +1,36 @@
+---
+name: Performix Business Services LLC
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5597290"
+url: https://raw.githubusercontent.com/api-network/organizations/main/performix-business-services-llc.yaml
+tags:
+- Consultants
+apis: []
+x-common:
+- type: x-website
+  url: http://www.performixbiz.com
+- type: x-careers
+  url: https://www.performixbiz.com/careers
+- type: x-developer
+  url: http://dev.performixbiz.com
+- type: x-facebook
+  url: https://www.facebook.com/performixbiz/?ref=br_rs
+- type: x-news
+  url: https://www.performixbiz.com/blog/categories/news
+- type: x-privacy
+  url: https://www.performixbiz.com/privacy-policy
+- type: x-twitter
+  url: https://twitter.com/performix
+- type: x-website
+  url: https://www.performixbiz.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

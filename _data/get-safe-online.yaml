@@ -1,0 +1,48 @@
+---
+name: Get Safe Online
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "507281"
+url: https://raw.githubusercontent.com/api-network/organizations/main/get-safe-online.yaml
+tags:
+- Internet
+apis: []
+x-common:
+- type: x-about
+  url: https://www.getsafeonline.org/about-us
+- type: x-blog
+  url: https://www.getsafeonline.org/blog
+- type: x-contact
+  url: https://www.getsafeonline.org/contact-get-safe-online
+- type: x-events
+  url: https://www.getsafeonline.org/events
+- type: x-facebook
+  url: https://www.facebook.com/GetSafeOnline
+- type: x-news
+  url: https://www.getsafeonline.org/news
+- type: x-partner
+  url: https://www.getsafeonline.org/partners-and-supporters
+- type: x-press
+  url: https://www.getsafeonline.org/press
+- type: x-privacy
+  url: https://www.getsafeonline.org/privacy-policy/
+- type: x-privacy
+  url: https://www.getsafeonline.org/privacy-policy
+- type: x-terms-of-service
+  url: https://www.getsafeonline.org/terms-of-use
+- type: x-twitter
+  url: https://twitter.com/getsafeonline
+- type: x-twitter
+  url: https://twitter.com/GetSafeOnline?ref_src=twsrc%5Etfw
+- type: x-website
+  url: https://www.getsafeonline.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

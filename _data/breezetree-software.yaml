@@ -1,0 +1,23 @@
+---
+name: BreezeTree Software
+description: FlowBreeze Flowchart Software and Spreadspeed Auditing and Utility Tools.
+  Diagramming and productivity tools that boost the power of Microsoft Excel.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "844729"
+url: https://raw.githubusercontent.com/api-network/organizations/main/breezetree-software.yaml
+tags:
+- Add-Ins
+apis: []
+x-common:
+- type: x-website
+  url: https://www.breezetree.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

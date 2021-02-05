@@ -1,0 +1,22 @@
+---
+name: 360 Degree Feedback Appraisals - Reactive 360
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4735760"
+url: https://raw.githubusercontent.com/api-network/organizations/main/360-degree-feedback-appraisals--reactive-360.yaml
+tags:
+- Testing And Evaluation
+apis: []
+x-common:
+- type: x-website
+  url: https://www.reactive360.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

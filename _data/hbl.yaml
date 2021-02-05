@@ -1,0 +1,46 @@
+---
+name: HBL
+description: ""
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28066-www-hbl-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "61662"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hbl.yaml
+tags:
+- EU Bank
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/hbl-power-systems-ltd
+- type: x-email
+  url: salahuddin.manzoor@hbl.com
+- type: x-email
+  url: salman.jafri@hbl.com
+- type: x-email
+  url: ayaz.sheikh@hbl.com
+- type: x-email
+  url: hasan.zia@hbl.com
+- type: x-email
+  url: anwar.faisal@hbl.com
+- type: x-email
+  url: aun.raza@hbl.com
+- type: x-email
+  url: shad.hasan@hbl.com
+- type: x-email
+  url: saad.sohail@hbl.com
+- type: x-email
+  url: muhammad.waqas@hbl.com
+- type: x-email
+  url: khashe.lodhi@hbl.com
+- type: x-twitter
+  url: https://twitter.com/HBLPak
+- type: x-website
+  url: http://www.hbl.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

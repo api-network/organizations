@@ -1,0 +1,25 @@
+---
+name: Shift iQ
+description: Shift iQ is an adaptive skills development platform that connects industry
+  competencies to verifiable learning outcomes.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/shift-iq.yaml
+tags:
+- Testing And Evaluation
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/insitesystems
+- type: x-website
+  url: https://www.shiftiq.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

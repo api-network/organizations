@@ -1,0 +1,24 @@
+---
+name: Openchain
+description: Openchain is an open source, enterprise-ready Blockchain technology platform.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26458-www-openchain-org.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "756440"
+url: https://raw.githubusercontent.com/api-network/organizations/main/openchain.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/openchainorg
+- type: x-website
+  url: https://www.openchain.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

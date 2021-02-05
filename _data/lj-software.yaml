@@ -1,0 +1,25 @@
+---
+name: LJ Software
+description: Educational software for people of all ages. Made with children in mind.
+  Web Design and Custom Software.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lj-software.yaml
+tags:
+- Educational
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.ljsoftware.com
+- type: x-website
+  url: https://www.ljsoftware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,93 @@
+---
+name: PubNub
+description: Leverage the power of hosted APIs to build and deploy connected experiences
+  including in-app chat, mapping, device control and more on a massive scale.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/serviceproviders/pubnub-large.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "44288"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pubnub.yaml
+tags:
+- Project Hosting
+- Profile
+- Networks
+- Have Swagger
+- Have OpenAPI
+- Have API Paths
+- Have API
+- Git
+- API LIfeycle
+apis: []
+x-common:
+- type: x-hacker-news-search
+  url: PubNub
+- type: x-stack-exchange-search
+  url: PubNub
+- type: x-website
+  url: https://www.pubnub.com/
+- type: x-blog
+  url: http://blog.pubnub.com
+- type: x-blog-rss
+  url: https://www.pubnub.com/blog/feed/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/pubnub
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/pubnub
+- type: x-email
+  url: privacy@pubnub.com
+- type: x-email
+  url: support@pubnub.com
+- type: x-facebook
+  url: https://www.facebook.com/PubNub
+- type: x-github
+  url: https://github.com/pubnub
+- type: x-linkedin
+  url: https://www.linkedin.com/company/pubnub
+- type: x-login
+  url: https://dashboard.pubnub.com/login
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/6288660/SVYxnEmD
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/000/ABC
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/api/examples/000/ABC
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/api/collections/000/ABC
+- type: x-github
+  url: http://github.com/stephenlb
+- type: x-reddit-search
+  url: PubNub
+- type: x-signup
+  url: https://dashboard.pubnub.com/signup
+- type: x-status
+  url: http://status.pubnub.com/
+- type: x-support
+  url: https://support.pubnub.com/support/home
+- type: x-support
+  url: https://support.pubnub.com/support/solutions/14000074643
+- type: x-support
+  url: https://support.pubnub.com/support/solutions
+- type: x-support
+  url: https://github.com/iexg/IEX-API
+- type: x-twitter
+  url: https://twitter.com/pubnub
+- type: x-webhooks
+  url: https://developer.github.com/webhooks/
+- type: x-website
+  url: http://ub.com
+- type: x-website
+  url: https://github.com
+- type: x-website
+  url: http://pubnub.com
+- type: x-website
+  url: http://github.com
+- type: x-youtube
+  url: https://www.youtube.com/c/PubNub
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

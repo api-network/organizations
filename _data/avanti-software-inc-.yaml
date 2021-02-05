@@ -1,0 +1,35 @@
+---
+name: Avanti Software Inc.
+description: Avanti Software is Canada's Integrated People Management platform for
+  Canadian Payroll, HRIS, Recruiting and Workforce Management solutions.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "717345"
+url: https://raw.githubusercontent.com/api-network/organizations/main/avanti-software-inc-.yaml
+tags:
+- Compensation And Benefits
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.avanti.ca/blog/inhouse-payroll-processing/
+- type: x-blog
+  url: https://www.avanti.ca/blog/canadian-payroll-year-end/
+- type: x-facebook
+  url: https://www.facebook.com/AvantiSoftware/
+- type: x-instagram
+  url: https://www.instagram.com/avantisoftware/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/avantisoftware
+- type: x-twitter
+  url: https://twitter.com/avantihcm
+- type: x-website
+  url: https://www.avanti.ca
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

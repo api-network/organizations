@@ -1,0 +1,45 @@
+---
+name: Linkerd
+description: Linkerd is an ultralight service mesh for Kubernetes. It gives you observability,
+  reliability, and security without requiring any code changes.
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "381175"
+url: https://raw.githubusercontent.com/api-network/organizations/main/linkerd.yaml
+tags:
+- Service Mesh
+- Profile
+- Kubernetes
+apis: []
+x-common:
+- type: x-website
+  url: https://linkerd.io
+- type: x-github
+  url: https://github.com/linkerd/linkerd2
+- type: x-github
+  url: https://github.com/linkerd/linkerd2/subscription
+- type: x-github
+  url: https://github.com/linkerd/linkerd2/fork
+- type: x-twitter
+  url: https://twitter.com/Linkerd?ref_src=twsrc%5Etfw
+- type: x-twitter
+  url: https://twitter.com/wm?ref_src=twsrc%5Etfw
+- type: x-twitter
+  url: https://twitter.com/BuoyantIO?ref_src=twsrc%5Etfw
+- type: x-twitter
+  url: https://twitter.com/CloudNativeFdn?ref_src=twsrc%5Etfw
+- type: x-twitter
+  url: https://twitter.com/linkerd
+- type: x-website
+  url: http://linkerd.io
+- type: x-youtube
+  url: https://www.youtube.com/buoyantio
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

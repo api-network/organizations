@@ -1,0 +1,31 @@
+---
+name: Alliance Robotics
+description: See our used robot inventory for low cost high value robots. If you're
+  looking to introduce robotics automation to your operation, or expand existing capacity,
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/alliance-robotics.yaml
+tags:
+- Used Fanuc Robot
+- Refurbished Robots
+- Rebuilt Robots
+- Industrial
+- Fanuc Robotics
+apis: []
+x-common:
+- type: x-about
+  url: http://www.alliancerobotics.com/about
+- type: x-contact
+  url: http://www.alliancerobotics.com/contact
+- type: x-website
+  url: https://www.alliancerobotics.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

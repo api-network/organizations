@@ -1,0 +1,61 @@
+---
+name: e-office
+description: Wil je als organisatie of als medewerker goed om kunnen gaan met een
+  steeds complexere wereld, dan biedt e-office je nieuwe manieren van (samen)werken.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/eoffice.yaml
+tags:
+- Business Partners
+apis: []
+x-common:
+- type: x-website
+  url: https://www.e-office.com/magazine/eerste-hulp-bij-alle-vragen-over-digitaal-samenwerken-in-office-36
+- type: x-about
+  url: https://www.e-office.com/about-e-office/
+- type: x-contact
+  url: https://www.e-office.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/eofficeNL/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/12213
+- type: x-partner
+  url: https://www.e-office.com/partners/hyperfish/
+- type: x-partner
+  url: https://www.e-office.com/partners/microsoft/
+- type: x-partner
+  url: https://www.e-office.com/partners/ontime/
+- type: x-partner
+  url: https://www.e-office.com/partners/copaco/
+- type: x-partner
+  url: https://www.e-office.com/partners/ibm/
+- type: x-partner
+  url: https://www.e-office.com/partners/hcl/
+- type: x-partner
+  url: https://www.e-office.com/partners/sharegate/
+- type: x-partner
+  url: https://www.e-office.com/partners/blaud/
+- type: x-partner
+  url: https://www.e-office.com/partners/kudos/
+- type: x-partner
+  url: https://www.e-office.com/partners/timetoact/
+- type: x-privacy
+  url: https://www.e-office.com/privacyverklaring/
+- type: x-support
+  url: https://www.e-office.com/support-en-beheer/
+- type: x-terms-of-service
+  url: https://mailchimp.com/legal/
+- type: x-twitter
+  url: https://twitter.com/e_office_com
+- type: x-website
+  url: https://www.e-office.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

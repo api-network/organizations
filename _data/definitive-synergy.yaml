@@ -1,0 +1,53 @@
+---
+name: Definitive Synergy
+description: POS software and billiards management software for business owners that
+  operate pool rooms, pool hall, upscale billiard parlors, bars, restaurants, retail
+  establishments.  Operates on Windows 95/98, Windows XP, Windows 7, Windows 8 and
+  Windows 10. Download trial demo free.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7629143"
+url: https://raw.githubusercontent.com/api-network/organizations/main/definitive-synergy.yaml
+tags:
+- Windows XP
+- Windows 95/98
+- Windows 8
+- Windows 7
+- Windows 10
+- Upscale
+- Software
+- Retail
+- Restaurant
+- POS
+- Poolroom
+- Pool Hall
+- Point Of Sale
+- Parlor
+- Light Controls
+- Free
+- Download
+- Credit Card Processing
+- Business
+- Billiards
+- Bar
+apis: []
+x-common:
+- type: x-about
+  url: https://www.definitivesynergy.com/about
+- type: x-contact
+  url: https://www.definitivesynergy.com/contact-us
+- type: x-support
+  url: https://www.definitivesynergy.com/pos-support
+- type: x-support
+  url: https://www.definitivesynergy.com/installation-help
+- type: x-website
+  url: https://www.definitivesynergy.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

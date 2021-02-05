@@ -1,0 +1,64 @@
+---
+name: BeeBole
+description: 'The easiest and most flexible timesheet system for business. Make better
+  decisions with BeeBole Timesheet: 30 Day Free Trial. Start now.'
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/704_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "388000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/beebole.yaml
+tags:
+- Timesheets
+- Timesheet App
+- Timesheet
+- Target
+- Online Timesheet
+- Office
+- Have API
+- Calendaring
+- Billing
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: https://beebole.com
+- type: x-base
+  url: https://beebole-apps.com/api/
+- type: x-blog
+  url: http://beebole.com/en/blog
+- type: x-blog
+  url: https://beebole.com/blog/
+- type: x-blog-rss
+  url: http://feeds2.feedburner.com/Beebuzz
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/beebole
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/beebole
+- type: x-developers
+  url: http://beebole.com/api
+- type: x-email
+  url: support@beebole.com
+- type: x-github
+  url: https://github.com/beebole
+- type: x-linkedin
+  url: http://www.linkedin.com/company/beebole
+- type: x-login
+  url: https://beebole-apps.com/signin/?lang=en
+- type: x-pricing
+  url: https://beebole.com/pricing/
+- type: x-support
+  url: http://help.beebole.com/
+- type: x-support
+  url: http://help.beebole.com
+- type: x-twitter
+  url: https://twitter.com/beebole
+- type: x-website
+  url: http://beebole.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

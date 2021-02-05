@@ -1,0 +1,27 @@
+---
+name: Ada-Tools
+description: Combines a powerful Code Editor together with an impressive array of
+  static analysis tools that will change the way you work with code.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "566826"
+url: https://raw.githubusercontent.com/api-network/organizations/main/adatools.yaml
+tags:
+- Tools
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/scitools/
+- type: x-terms-of-service
+  url: https://scitools.com/privacy-policy-terms-use/
+- type: x-website
+  url: https://www.scitools.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

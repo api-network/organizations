@@ -1,0 +1,26 @@
+---
+name: Debian Administration
+description: Tips for a Debian GNU/Linux System Administrator.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "370161"
+url: https://raw.githubusercontent.com/api-network/organizations/main/debian-administration.yaml
+tags:
+- Sysadmin
+- Linux Sysadmin
+- Linux Administration
+- Debian System Administration News
+- Debian Sysadmin
+apis: []
+x-common:
+- type: x-website
+  url: https://www.debian-administration.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,25 @@
+---
+name: UNIX Guide
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3327673"
+url: https://raw.githubusercontent.com/api-network/organizations/main/unix-guide.yaml
+tags: []
+apis: []
+x-common:
+- type: x-documentation
+  url: https://docs.chef.io/install_server.html
+- type: x-twitter
+  url: http://twitter.com/share
+- type: x-website
+  url: https://www.unixguide.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,58 @@
+---
+name: United Electronic Industries
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2499882"
+url: https://raw.githubusercontent.com/api-network/organizations/main/united-electronic-industries.yaml
+tags:
+- Embedded
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ueidaq.com
+- type: x-blog
+  url: https://www.ueidaq.com/blog
+- type: x-careers
+  url: https://www.ueidaq.com/company/careers
+- type: x-contact
+  url: https://www.ueidaq.com/company/contact
+- type: x-facebook
+  url: http://www.facebook.com/ueidaq
+- type: x-linkedin
+  url: http://www.linkedin.com/company/464144
+- type: x-login
+  url: https://www.ueidaq.com/customer/#/login
+- type: x-news
+  url: https://www.ueidaq.com/company/news-events
+- type: x-partner
+  url: https://www.ueidaq.com/company/partners
+- type: x-privacy
+  url: https://www.ueidaq.com/privacy-policy
+- type: x-support
+  url: https://www.ueidaq.com/support/software-programming
+- type: x-support
+  url: https://www.ueidaq.com/support/software-downloads
+- type: x-support
+  url: https://www.ueidaq.com/support/calibration
+- type: x-support
+  url: https://www.ueidaq.com/support/processors
+- type: x-support
+  url: https://www.ueidaq.com/support/videos
+- type: x-terms-of-service
+  url: https://www.ueidaq.com/terms-conditions
+- type: x-tutorials
+  url: https://www.ueidaq.com/support/tutorials
+- type: x-twitter
+  url: http://www.twitter.com/ueidaq
+- type: x-website
+  url: https://www.ueidaq.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

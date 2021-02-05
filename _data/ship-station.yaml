@@ -1,0 +1,57 @@
+---
+name: Ship Station
+description: <p>ShipStation is a web-based shipping solution that streamlines the
+  order fulfillment process for your online business. ShipStation consolidates orders
+  from over 70 ecommerce channels, creates shipping labels, packing slips, and pick
+  lists in batch, communicates tracking information to your customers, provides endless
+  automation, filters, and views, wireless printing, a mobile app, and a lot more.&nbsp;</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/ShipStation-stacked-blue.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7930"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ship-station.yaml
+tags:
+- Relative Data
+- Have Swagger
+- Have API Paths
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://bit.ly/_ShipStation
+- type: x-blog
+  url: https://www.shipstation.com/blog/
+- type: x-contact
+  url: https://info.shipstation.com/contact-sales
+- type: x-developer
+  url: http://developer.shipstation.com
+- type: x-developers
+  url: https://shipstation.docs.apiary.io/#
+- type: x-facebook
+  url: https://www.facebook.com/ShipStation
+- type: x-github
+  url: https://github.com/shipstation
+- type: x-instagram
+  url: http://www.instagram.com/shipstation
+- type: x-linkedin
+  url: http://www.linkedin.com/company/shipstation
+- type: x-partner
+  url: https://www.shipstation.com/partners/
+- type: x-partners
+  url: https://www.shipstation.com/partners/
+- type: x-pricing
+  url: https://www.shipstation.com/pricing/
+- type: x-support
+  url: https://help.shipstation.com/hc/en-us
+- type: x-twitter
+  url: https://twitter.com/ShipStation
+- type: x-website
+  url: http://shipstation.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

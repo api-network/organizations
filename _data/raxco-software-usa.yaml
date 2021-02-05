@@ -1,0 +1,47 @@
+---
+name: Raxco Software, USA
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "775033"
+url: https://raw.githubusercontent.com/api-network/organizations/main/raxco-software-usa.yaml
+tags:
+- System Management
+- Disk Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.raxco.com
+- type: x-blog
+  url: http://blog.raxco.com
+- type: x-blog
+  url: http://blog.raxco.com/
+- type: x-contact
+  url: https://www.raxco.com/contact-us
+- type: x-facebook
+  url: https://www.facebook.com/RaxcoSoftware
+- type: x-linkedin
+  url: https://www.linkedin.com/company/231717
+- type: x-partner
+  url: https://www.raxco.com/partners
+- type: x-security
+  url: https://www.raxco.com/home/solutions/pc-security
+- type: x-support
+  url: https://www.raxco.com/customer-support
+- type: x-support
+  url: https://www.raxco.com/home/support-home-products
+- type: x-twitter
+  url: https://twitter.com/RaxcoSoftware
+- type: x-website
+  url: https://www.raxco.com
+- type: x-youtube
+  url: https://www.youtube.com/user/raxcotv
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

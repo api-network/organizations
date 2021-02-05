@@ -1,0 +1,46 @@
+---
+name: Four Groups
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2646909"
+url: https://raw.githubusercontent.com/api-network/organizations/main/four-groups.yaml
+tags:
+- Human Resources
+apis: []
+x-common:
+- type: x-website
+  url: http://fourgroups.com
+- type: x-about
+  url: https://fourgroups.com/4g/about-4g/
+- type: x-blog
+  url: https://fourgroups.com/blog/
+- type: x-case-studies
+  url: https://fourgroups.com/downloads/case-studies/
+- type: x-contact
+  url: https://fourgroups.com/contact/#email
+- type: x-contact
+  url: https://fourgroups.com/contact/
+- type: x-contact
+  url: https://fourgroups.com/contact/privacy-and-legal/
+- type: x-feed
+  url: https://fourgroups.com/feed/
+- type: x-linkedin
+  url: http://www.linkedin.com/groups/Physics-People-5087273
+- type: x-partner
+  url: https://fourgroups.com/partners/
+- type: x-twitter
+  url: https://twitter.com/fourgroups
+- type: x-website
+  url: https://www.fourgroups.com
+- type: x-white-papers
+  url: https://fourgroups.com/downloads/white-papers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,29 @@
+---
+name: Digital Shilling
+description: Shilling is an Autonomous, Anonymous & Decentralized Digital Currency
+  created & held electronically.  A Cryptocurrency Tailored in Africa for Africa
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27466-digitalshilling-org.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "9084774"
+url: https://raw.githubusercontent.com/api-network/organizations/main/digital-shilling.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://digitalshilling.org
+- type: x-email
+  url: admin@digitalshilling.org
+- type: x-twitter
+  url: https://twitter.com/DigitalShilling
+- type: x-website
+  url: https://digitalshilling.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

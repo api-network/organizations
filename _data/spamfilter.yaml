@@ -1,0 +1,60 @@
+---
+name: Spam-Filter
+description: Spam Filter Service at Spam-Filter.com. Peer-to-Peer offers domain wide
+  anti spam filter services for Exchange servers and all mailservers.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/spamfilter.yaml
+tags:
+- Spam Filtering Service
+- Spam Filtering For Exchange
+- Spam Filtering
+- Spam Filter Service
+- Spam Filter For Exchange
+- Spam Filter
+- Peer To Peer Spam Filter
+- Hosted Spam Filtering Service
+- Hosted Spam Filter
+- Filtering
+apis: []
+x-common:
+- type: x-website
+  url: http://www.spam-filter.com
+- type: x-about
+  url: http://www.spam-filter.com/aboutus.htm
+- type: x-blog
+  url: http://www.spam-filter.com/blog.htm
+- type: x-blog
+  url: http://www.spam-filter.com/blog.htm#blog6
+- type: x-blog
+  url: http://www.spam-filter.com/blog.htm#blog5
+- type: x-contact
+  url: http://www.spam-filter.com/contact.htm
+- type: x-facebook
+  url: http://www.facebook.com/spamfilter
+- type: x-feed
+  url: http://www.spam-filter.com/feed.xml
+- type: x-login
+  url: https://www.spam-filter.com/login
+- type: x-pricing
+  url: http://www.spam-filter.com/pricing.htm
+- type: x-privacy
+  url: http://www.spam-filter.com/privacy.htm
+- type: x-terms-of-service
+  url: http://www.spam-filter.com/terms.htm
+- type: x-twitter
+  url: http://www.twitter.com/spamfilters
+- type: x-website
+  url: https://www.spam-filter.com
+- type: x-youtube
+  url: http://www.youtube.com/watch?v=mnT49uP4rHA
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

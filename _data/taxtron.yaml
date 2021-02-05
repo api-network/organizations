@@ -1,0 +1,75 @@
+---
+name: TaxTron
+description: "TaxTron is a tax preparation software for Canadians by Canadians. During
+  your next coffee break, fill out your tax forms \u2013 it\u2019s all the time you\u2019ll
+  need!"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "905453"
+url: https://raw.githubusercontent.com/api-network/organizations/main/taxtron.yaml
+tags:
+- Taxtron
+- Taxes
+- Tax Return
+- Tax Calculator
+- Tax
+- Software
+- Return
+- Preparation
+- Personal
+- Online
+- Netfile
+- Income Tax Software Canada
+- Income
+- Free
+- Efile
+- Cra
+- Corporation
+- Corporate
+- Canadian
+- Canada
+- Business
+- "2012"
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.taxtron.ca/blog/
+- type: x-blog
+  url: https://www.taxtron.ca/blog/common-filing-mistakes/
+- type: x-contact
+  url: https://www.taxtron.ca/contact/
+- type: x-facebook
+  url: http://www.facebook.com/TaxTron
+- type: x-feed
+  url: http://www.taxtron.ca/feed/
+- type: x-instagram
+  url: http://instagram.com/taxtron
+- type: x-privacy
+  url: https://www.taxtron.ca/privacy/
+- type: x-support
+  url: https://www.taxtron.ca/help/
+- type: x-support
+  url: https://www.taxtron.ca/help/teamviewer/
+- type: x-support
+  url: https://www.taxtron.ca/help/help-form/
+- type: x-support
+  url: https://www.taxtron.ca/help/faq/
+- type: x-support
+  url: https://www.taxtron.ca/help/netfile/
+- type: x-support
+  url: https://www.taxtron.ca/help/software-updates/
+- type: x-support
+  url: https://www.taxtron.ca/help/demo-videos/
+- type: x-website
+  url: https://www.taxtron.ca
+- type: x-youtube
+  url: http://www.youtube.com/user/TaxTronSupport
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,23 @@
+---
+name: ICDM'2002
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7015218"
+url: https://raw.githubusercontent.com/api-network/organizations/main/icdm2002.yaml
+tags:
+- Events
+- Conferences
+apis: []
+x-common:
+- type: x-website
+  url: https://www.data-mining-forum.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,58 @@
+---
+name: Goggo.com
+description: Goggo.com (Gee-Oh Gee-Gee Oh! Dot Com) offers free web-based Australian
+  email addresses like YourName.com.au. Also news and weather.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3503620"
+url: https://raw.githubusercontent.com/api-network/organizations/main/goggo-com.yaml
+tags:
+- Web-Based
+- Weather
+- TV
+- Translation
+- Translate
+- Television
+- Sport
+- Search
+- News
+- Mail
+- Goggo
+- Free Email
+- Free
+- Finance
+- Engine
+- Email Address
+- Email
+- Cinema
+- Australian
+- Australia
+- Addresses
+- Address
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.goggo.com
+- type: x-login
+  url: http://www.goggo.com/cgi-bin/signin.cgi?r=120120102849
+- type: x-login
+  url: http://www.goggo.com/cgi-bin/signin.cgi?r=120120102857
+- type: x-login
+  url: http://www.goggo.com/cgi-bin/signin.cgi?r=12012010294
+- type: x-login
+  url: http://www.goggo.com/cgi-bin/signin.cgi?r=1201214419
+- type: x-privacy
+  url: http://www.goggo.com/signup/privacyPolicy.html
+- type: x-signup
+  url: http://www.goggo.com/signup/
+- type: x-website
+  url: https://www.goggo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

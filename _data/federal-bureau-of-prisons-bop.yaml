@@ -1,0 +1,27 @@
+---
+name: Federal Bureau of Prisons (BOP)
+description: <p><span>The Federal Bureau of Prisons is a United States federal law
+  enforcement agency under the Department of Justice responsible for the care, custody,
+  and control of incarcerated individuals.</span></p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/federal-bureau-of-prisons-bop.yaml
+tags:
+- Federal Government
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.bop.gov/
+- type: x-data
+  url: https://www.bop.gov/about/statistics/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

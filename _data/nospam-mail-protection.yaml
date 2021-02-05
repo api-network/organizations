@@ -1,0 +1,35 @@
+---
+name: NoSpam Mail Protection
+description: Hosted Email Security and Continuity Solution compatible with any email
+  system can be implemented in minutes. No Spam Mail Protection stops junk mail, viruses
+  and provides true mail continutity acting as a mail server backup solution.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nospam-mail-protection.yaml
+tags:
+- Viruses
+- Virus
+- Stop Spam
+- Spam
+- No Spam
+- No More Spam
+- Mail Protection
+- Filtering
+apis: []
+x-common:
+- type: x-website
+  url: http://nospam-mailprotection.com
+- type: x-twitter
+  url: http://twitter.com/MailProtect
+- type: x-website
+  url: https://www.nospam-mailprotection.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

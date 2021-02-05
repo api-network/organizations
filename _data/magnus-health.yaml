@@ -1,0 +1,59 @@
+---
+name: Magnus Health
+description: Magnus Health is an online software solution for collecting, managing,
+  and securely storing student health information for K-12 schools and colleges.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/mangus-health-logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1212276"
+url: https://raw.githubusercontent.com/api-network/organizations/main/magnus-health.yaml
+tags:
+- Whois
+- Students
+- Healthcare
+- Healthcare
+- Have API
+- Education Stac
+- API Provider
+apis: []
+x-common:
+- type: x-about
+  url: https://magnushealth.com/about-magnus/
+- type: x-case-studies
+  url: https://magnushealth.com/case-studies/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/magnus-health-portal
+- type: x-developers
+  url: http://magnushealth.com/api/
+- type: x-email
+  url: helpdesk@magnushealth.com
+- type: x-email
+  url: service@magnushealth.com
+- type: x-facebook
+  url: https://www.facebook.com/MagnusHealth
+- type: x-linkedin
+  url: https://www.linkedin.com/company/1180135
+- type: x-partner
+  url: https://magnushealth.com/partners/
+- type: x-privacy
+  url: https://studentprivacypledge.org/privacy-pledge/
+- type: x-security
+  url: https://magnushealth.com/features/data-security/
+- type: x-support
+  url: https://magnushealth.com/support/
+- type: x-twitter
+  url: https://twitter.com/magnushealth
+- type: x-webinars
+  url: https://magnushealth.com/webinars/
+- type: x-website
+  url: http://magnushealth.com
+- type: x-youtube
+  url: https://www.youtube.com/magnushealth
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,28 @@
+---
+name: Aurigma
+description: Add file uploader to your site very easily. No matter if your website
+  based on PHP, ASP.NET, JSP or any other platform. You users will upload hundred
+  of images and files to your site in a single click.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "375387"
+url: https://raw.githubusercontent.com/api-network/organizations/main/aurigma.yaml
+tags:
+- Utilities
+apis: []
+x-common:
+- type: x-customers
+  url: http://customerscanvas.com/company/events
+- type: x-customers
+  url: http://customerscanvas.com/
+- type: x-website
+  url: https://www.aurigma.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

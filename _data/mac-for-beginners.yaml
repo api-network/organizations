@@ -1,0 +1,24 @@
+---
+name: Mac For Beginners
+description: Learn how to use your Mac with our free guides, articles and videos!
+  Our helpful teachers write friendly guides that anyone can understand.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1274094"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mac-for-beginners.yaml
+tags: []
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.macforbeginners.com/blog/
+- type: x-website
+  url: https://www.macforbeginners.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

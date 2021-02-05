@@ -1,0 +1,23 @@
+---
+name: developers.blog.box.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/developers-blog-box-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://developers.blog.box.com/2013/06/24/seamless-project-management-with-wrike-box-2/
+- type: x-website
+  url: http://developers.blog.box.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

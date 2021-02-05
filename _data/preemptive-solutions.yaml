@@ -1,0 +1,39 @@
+---
+name: PreEmptive Solutions
+description: Smart Application Protection to protect trade secrets (IP), reduce piracy
+  & counterfeiting, and ward off tampering & data breaches.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "366771"
+url: https://raw.githubusercontent.com/api-network/organizations/main/preemptive-solutions.yaml
+tags:
+- Software Protection And License Control
+- Software IP Protection
+- Java Obfuscator
+- IOS Obfuscator
+- Guards Applications
+- Code Protection
+- .NET Obfuscator
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/PreEmptiveProtection
+- type: x-linkedin
+  url: https://www.linkedin.com/company/preemptive-solutions
+- type: x-twitter
+  url: https://twitter.com/preemptive
+- type: x-twitter
+  url: http://twitter.com/cmasonrun03
+- type: x-website
+  url: https://www.preemptive.com
+- type: x-youtube
+  url: https://www.youtube.com/user/PreemptiveSolutions
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

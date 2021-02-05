@@ -1,0 +1,27 @@
+---
+name: The netfilter/iptables Project
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "449450"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-netfilteriptables-project.yaml
+tags:
+- Projects
+- Products
+apis: []
+x-common:
+- type: x-website
+  url: http://netfilter.org/projects/nftables/
+- type: x-twitter
+  url: https://twitter.com/nftables
+- type: x-website
+  url: https://www.netfilter.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

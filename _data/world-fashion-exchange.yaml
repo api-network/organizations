@@ -1,0 +1,30 @@
+---
+name: World Fashion Exchange
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "378622"
+url: https://raw.githubusercontent.com/api-network/organizations/main/world-fashion-exchange.yaml
+tags:
+- ERP
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/wfxsoftware/
+- type: x-news
+  url: https://www.wfxondemand.com/newsevents.html
+- type: x-news
+  url: http://www.wfxcloud.com/news.html
+- type: x-twitter
+  url: https://twitter.com/WFX_Cloud
+- type: x-website
+  url: https://www.worldfashionexchange.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

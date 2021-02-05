@@ -1,0 +1,41 @@
+---
+name: Domain Name Wire
+description: Domain Name News and analysis including domain sales, UDRP, domain registrars,
+  domain registries.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "58869"
+url: https://raw.githubusercontent.com/api-network/organizations/main/domain-name-wire.yaml
+tags:
+- Resources
+apis: []
+x-common:
+- type: x-about
+  url: https://domainnamewire.com/about/
+- type: x-facebook
+  url: http://facebook.com/domainnamewire
+- type: x-feed
+  url: https://domainnamewire.com/feed
+- type: x-linkedin
+  url: https://www.linkedin.com/in/jonathanbuhacoff/
+- type: x-news
+  url: https://domainnamewire.com/newsletter/
+- type: x-signup
+  url: https://dan.com/users/signup
+- type: x-twitter
+  url: http://twitter.com/domainnamewire
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-website
+  url: https://domainnamewire.com
+- type: x-youtube
+  url: http://www.youtube.com/user/DomainNameWire
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

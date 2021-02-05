@@ -1,0 +1,60 @@
+---
+name: A VC
+description: Musings of a VC in NYC
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "57239"
+url: https://raw.githubusercontent.com/api-network/organizations/main/a-vc.yaml
+tags:
+- Weblogs
+apis: []
+x-common:
+- type: x-website
+  url: http://www.usv.com
+- type: x-about
+  url: https://avc.com/about/
+- type: x-blog
+  url: https://avc.com/category/weblogs/
+- type: x-feed
+  url: https://www.feedblitz.com/
+- type: x-feed
+  url: https://feeds.feedburner.com/avc
+- type: x-press
+  url: https://wordpress.org/plugins/discuss-on-twitter/
+- type: x-press
+  url: https://wordpress.org/plugins/wp-to-twitter/
+- type: x-twitter
+  url: https://twitter.com/albertwenger
+- type: x-twitter
+  url: https://twitter.com/avc/status/1217817586056028162
+- type: x-twitter
+  url: https://twitter.com/avc/status/1217466265196953600
+- type: x-twitter
+  url: https://twitter.com/avc/status/1217125755165007873
+- type: x-twitter
+  url: https://twitter.com/avc/status/1216720904392101888
+- type: x-twitter
+  url: https://twitter.com/avc/status/1215633263668187136
+- type: x-twitter
+  url: https://twitter.com/nickgrossman
+- type: x-twitter
+  url: https://twitter.com/wmougayar
+- type: x-twitter
+  url: https://twitter.com/shanacarp
+- type: x-twitter
+  url: https://twitter.com/avc
+- type: x-twitter
+  url: https://twitter.com/avc/status/1215381372140969984
+- type: x-twitter
+  url: https://twitter.com/BradUSV
+- type: x-website
+  url: https://www.avc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

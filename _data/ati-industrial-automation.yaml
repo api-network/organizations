@@ -1,0 +1,112 @@
+---
+name: ATI Industrial Automation
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "290144"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ati-industrial-automation.yaml
+tags:
+- Welding Changer
+- Versa Matic
+- Uni Coupler
+- Turbinas Para Rebabeo
+- Torque Transducer
+- Torque Sensor
+- Tool Changing
+- Tool Changer
+- Stud Gun
+- Sensores De Torqueo
+- "Sensores De Protecci\xC3\xB3n  Antichoque Para Robot"
+- SEIKO
+- Schunk
+- Safety Joints
+- Safety Joint
+- "Rotula De Rotaci\xC3\xB3n"
+- Robots
+- Robotics Accessories
+- Robotics
+- Robotic-accessories
+- Robotic Welding
+- Robotic Tooling
+- Robotic Tool Changer
+- Robotic Peripheral Equipment
+- Robotic End Effectors
+- Robotic Deburring
+- Robotic Crash Protection
+- Robotic Accessories
+- Robotic
+- Robot Welding
+- Robot Tool Changer
+- Robot Peripheral
+- Robot
+- Robohand
+- Remote Center Compliance
+- RAD
+- Quick Change
+- Pneumatic Module
+- Multi Axis Force Torque Sensor
+- Motoman
+- Load Cell
+- Kawasaki
+- Industrial Robotics
+- Industrial
+- Hand Changers
+- Hand Changer
+- Gun Changer
+- Force Transducer
+- Force Sensors
+- Force Sensor
+- Fluid Module
+- Fanuc
+- Eoat
+- EOA
+- End-of-arm
+- End-effector
+- End Of Arm Tooling
+- Electronic Connector
+- Electrical Connectors
+- Electric Module
+- Coples Para Alineamiento
+- Connectors
+- Compliancy Device
+- Compliancy
+- Collision Sensors
+- Collision Sensor
+- CNC Deburring
+- Clutches
+- Clutch
+- Cambio Rapido Robotica
+- Breakaway Wrist
+- Automation
+- Automated Assembly Compliance
+- Ati
+- Alignment Devices
+- Alignment Device
+- Air Module
+- Adept
+- Actuators
+- Actuator
+- "Acoplamientos De Cambio R\xC3\xA1pido Para Robot"
+- Abb
+- 6 Axis
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ati-ia.com/
+- type: x-facebook
+  url: http://www.facebook.com/AtiIndustrialAutomation
+- type: x-twitter
+  url: https://twitter.com/ATI_Automation
+- type: x-website
+  url: https://www.ati-ia.com
+- type: x-youtube
+  url: http://www.youtube.com/user/ATIendeffectors
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

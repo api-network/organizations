@@ -1,0 +1,26 @@
+---
+name: Free Software Foundation Europe
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "213075"
+url: https://raw.githubusercontent.com/api-network/organizations/main/free-software-foundation-europe.yaml
+tags:
+- Free Software Foundation
+apis: []
+x-common:
+- type: x-events
+  url: webcal://fsfe.org/events/events.en.ics
+- type: x-support
+  url: https://my.fsfe.org/support
+- type: x-website
+  url: https://www.fsfe.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,25 @@
+---
+name: Oska DeskMates
+description: "OSKA steht f\xFCr angenehme Mode, die anspruchsvoll und doch pers\xF6nlich
+  ist! Entdecken Sie das OSKA-Sortiment der Saison in unserem Online-Shop."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "603634"
+url: https://raw.githubusercontent.com/api-network/organizations/main/oska-deskmates.yaml
+tags:
+- Screen Mates
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/OSKA-311208512245819/
+- type: x-website
+  url: https://www.oska.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

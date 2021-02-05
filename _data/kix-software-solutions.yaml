@@ -1,0 +1,40 @@
+---
+name: KIX Software Solutions
+description: A resource for music collectors, with books, links, and software to organize,
+  manage and catalog your vinyl LP records and CD music.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kix-software-solutions.yaml
+tags:
+- Vinyl Record Albums
+- Software
+- Records
+- Organizers
+- Music Catalog
+- Lps
+- DJs
+- Disk Cataloger
+- Discs
+- Database Shareware
+- Collectors
+- Collection Catalogers
+- CDs
+- Cd Software
+- Cataloguers
+- Catalog
+- 78s
+- 45s
+apis: []
+x-common:
+- type: x-website
+  url: https://www.kixsoftware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

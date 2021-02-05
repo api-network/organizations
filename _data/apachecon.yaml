@@ -1,0 +1,38 @@
+---
+name: ApacheCon
+description: <p>ApacheCon is a conference about the Apache open source software and
+  related technologies, run by the Apache Software Foundation. It has been in existence
+  since 1998, and has been held once or twice a year since then, usually in North
+  America or Europe but sometimes in Asia. A typical size for the conference is 500
+  attendees, with 75% of attendees being developers.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/apachecon.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1423950"
+url: https://raw.githubusercontent.com/api-network/organizations/main/apachecon.yaml
+tags:
+- No API
+- Apache Software Foundation
+- Apache
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/ApacheCon
+- type: x-twitter-search
+  url: '#ApacheCon'
+- type: x-website
+  url: https://www.apachecon.com/frontpage.html
+- type: x-website
+  url: http://apachecon.com/
+- type: x-events
+  url: http://events.apache.org/
+- type: x-website
+  url: https://www.apachecon.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

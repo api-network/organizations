@@ -1,0 +1,31 @@
+---
+name: WinTask
+description: Automate any combination of tasks, whether Web or Windows applications.
+  Transform your PC into a lean, mean automation machine with WinTask.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "726741"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wintask.yaml
+tags:
+- Automation
+apis: []
+x-common:
+- type: x-about
+  url: https://www.wintask.com/about-us/
+- type: x-pricing
+  url: https://www.wintask.com/pricing-packages/
+- type: x-privacy
+  url: https://www.wintask.com/privacy-policy/
+- type: x-support
+  url: https://www.wintask.com/support/
+- type: x-website
+  url: https://www.wintask.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

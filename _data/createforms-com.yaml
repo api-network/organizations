@@ -1,0 +1,22 @@
+---
+name: Createforms.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/createforms-com.yaml
+tags:
+- Form Data, Polls, And Surveys
+apis: []
+x-common:
+- type: x-website
+  url: https://www.createforms.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

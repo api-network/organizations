@@ -1,0 +1,38 @@
+---
+name: Lexington, KY
+description: Welcome to Lexington???s open data portal, a collaborative effort between
+  LFUCG and the community. Our mission is to promote the openness, transparency and
+  accountability of local government by providing high-value government data in standards
+  compliant, machine readable format. This will serve as the basis for the creation
+  of useful civic applications by third party developers.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/lexington-logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "370072"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lexington-ky.yaml
+tags:
+- Profile
+- Have API
+- Data Provider
+- City Government
+- API Provider
+apis: []
+x-common:
+- type: x-careers
+  url: https://www.lexingtonky.gov/browse/jobs-and-contracts
+- type: x-contact
+  url: https://www.lexingtonky.gov/contact/page_feedback
+- type: x-login
+  url: https://www.lexingtonky.gov/user/login
+- type: x-terms-of-service
+  url: https://www.lexingtonky.gov/terms-of-use
+- type: x-website
+  url: http://data.lexingtonky.gov/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,50 @@
+---
+name: BigBlueBall.com
+description: News, tips and support for social networking and collaboration technology
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3850508"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bigblueball-com.yaml
+tags:
+- Instant Messaging
+apis: []
+x-common:
+- type: x-website
+  url: http://www.bigblueball.com
+- type: x-about
+  url: https://bigblueball.com/about/
+- type: x-blog
+  url: http://www.bigblueball.com/blog/
+- type: x-contact
+  url: https://bigblueball.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/BigBlueBall
+- type: x-forum
+  url: https://bigblueball.com/discuss/forum/social-networks/
+- type: x-login
+  url: https://bigblueball.com/wp-login.php
+- type: x-press
+  url: https://bigblueball.com/ads/studiopress-125x125/
+- type: x-press
+  url: http://my.studiopress.com/themes/metro/
+- type: x-press
+  url: https://www.studiopress.com/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-security
+  url: https://bigblueball.com/tag/security/
+- type: x-tutorials
+  url: https://bigblueball.com/category/tutorials/
+- type: x-twitter
+  url: https://twitter.com/BigBlueBall
+- type: x-website
+  url: https://www.bigblueball.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

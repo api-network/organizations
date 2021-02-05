@@ -1,0 +1,32 @@
+---
+name: DPD Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dpd-software.yaml
+tags:
+- Software Development
+apis: []
+x-common:
+- type: x-website
+  url: http://www.dpdsoftware.ca
+- type: x-facebook
+  url: https://www.facebook.com/DpdSoftware/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/dpd-software-ltd.
+- type: x-support
+  url: http://support.dpdsoftware.ca/
+- type: x-twitter
+  url: https://twitter.com/dpd_software
+- type: x-website
+  url: https://www.dpdsoftware.ca
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

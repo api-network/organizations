@@ -1,0 +1,116 @@
+---
+name: ImageN
+description: Acquire, view, edit, organize and publish digital images. Digital camera
+  support, image viewer, image editor, image database, web server, thumbnail catalog.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/imagen.yaml
+tags:
+- Www.pixoid.com
+- Web Server
+- Wallpaper
+- Voice Annotation
+- Viewer
+- TWAIN
+- Thumbnail
+- SRGB
+- Sony
+- Software
+- Smartcard
+- Smart
+- Shareware
+- Serial
+- Search
+- Protocol
+- Processing
+- Plugin
+- Plug-in
+- Pixoid
+- Pictures
+- Photoshop
+- Photography
+- Photograph
+- Photogenie
+- Photo Album
+- Photo
+- PCMCIA
+- Pccard
+- Pc-card
+- Panasonic
+- Olympus
+- Nikon
+- Movie
+- Monitor Gamma
+- Memory Card
+- Memory
+- Media Management
+- Mavica
+- Mapper
+- Kodak
+- JPG
+- Jpeg Edit
+- JPEG
+- Jfxx
+- Jfif
+- ImageN
+- Image Viewer
+- Image Viever
+- Image Catalog
+- Image
+- ICC Profile
+- ICC Color Profile
+- ICC
+- Host
+- Graphics
+- GIF
+- Genie
+- Fuji
+- Freeware
+- Filter Factory
+- Filter
+- Exif
+- Epson
+- Ephoto
+- Download
+- Display Gamma
+- Digital Photography
+- Digital Camera Software
+- Digital Camera
+- Digital
+- Digicam
+- Database
+- Cybershot
+- Ciff
+- CD-RW
+- Cd-rom
+- CD-R
+- CD
+- Cataloging Software
+- Cataloging
+- Catalog
+- Card
+- Canon
+- Camera
+- Browser
+- BMP
+- Bitmap
+- Batch Mode
+- Batch Conversion
+- Avi
+- Agfa
+- "1680"
+- "1280"
+apis: []
+x-common:
+- type: x-website
+  url: https://www.pixoid.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

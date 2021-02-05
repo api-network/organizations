@@ -1,0 +1,235 @@
+---
+name: Department of the Army
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/department-of-the-army.yaml
+tags:
+- Waterways
+- Virginia
+- Vessels
+- Vessel Queue
+- Vehicles
+- Usar
+- Usace
+- Us Army
+- Unified
+- U.s. Army
+- Tradoc
+- Stamford
+- Soldiers
+- Soldier
+- Small Business
+- San Antonio
+- Sam
+- Rudder Reserve
+- Rudder
+- Rock Island Arsenal
+- Rivers
+- Reserve Center
+- Redstone Arsenal
+- Redstone
+- Recreation
+- Quest
+- Publichealth
+- Public Health
+- Permits
+- Pentagon
+- Otsg
+- OpenSource
+- Norfolk
+- Nie
+- New England
+- Networks
+- Ncr
+- Mrtc
+- Modernization
+- Military
+- Medical Command
+- Medical
+- Medcom
+- Locks
+- Lock Weather
+- Lock Status
+- Libraries
+- Levees
+- Kayaking
+- Jbsa
+- Ita
+- IT
+- Information Technology
+- Imcom
+- Hydrology
+- Hurricane Barrier
+- Hampton Roads
+- Ground
+- Future
+- Ft Sam
+- Ft Leavenworth
+- Fort Wainwright Alaska
+- Fort Wainwright
+- Fort Sam Houston
+- Fort Sam
+- Foreign Military Sales
+- Force
+- Flood Risk Managment
+- Flood Risk Management
+- Flood Control
+- Federal Government
+- Federal Government
+- Evaluation
+- Equipment
+- Environmental Restoration
+- Engineering
+- Dredging
+- Dotmlpf
+- DOD
+- Doctrine
+- Defense
+- Dams
+- Contracting
+- Construction
+- Connecticut
+- Concept
+- Combat
+- Code
+- Civil Works
+- Centers
+- Carl
+- Career Development
+- Capability
+- Capabilities
+- Camping
+- Army Reserve
+apis: []
+x-common:
+- type: x-website
+  url: http://www.usasac.army.mil
+- type: x-website
+  url: http://www.army.mil/
+- type: x-facebook
+  url: http://facebook.com/armycontracting
+- type: x-facebook
+  url: http://facebook.com/usacemed
+- type: x-facebook
+  url: http://facebook.com/FortWainwrightPAO
+- type: x-facebook
+  url: http://facebook.com/usaasc
+- type: x-facebook
+  url: http://facebook.com/MRTC.HQ
+- type: x-facebook
+  url: http://facebook.com/USAPHC
+- type: x-facebook
+  url: http://facebook.com/129thOdCoeod
+- type: x-facebook
+  url: http://facebook.com/74545402411
+- type: x-facebook
+  url: http://facebook.com/StamfordHurricaneBarrier
+- type: x-facebook
+  url: http://facebook.com/BuffumvilleLake
+- type: x-facebook
+  url: http://facebook.com/119567064877339
+- type: x-facebook
+  url: http://facebook.com/379509675474513
+- type: x-facebook
+  url: http://facebook.com/HopBrookLake
+- type: x-facebook
+  url: http://facebook.com/FranklinFallsDam
+- type: x-facebook
+  url: http://facebook.com/165624316823825
+- type: x-facebook
+  url: http://facebook.com/115288678657619
+- type: x-facebook
+  url: http://facebook.com/CorpsNewEngland
+- type: x-facebook
+  url: http://facebook.com/TullyLake
+- type: x-facebook
+  url: http://facebook.com/HopkintonEverettLake
+- type: x-facebook
+  url: http://facebook.com/corpslocks
+- type: x-facebook
+  url: http://facebook.com/usasac
+- type: x-facebook
+  url: http://facebook.com/96615044031
+- type: x-facebook
+  url: http://facebook.com/rockislandarsenal
+- type: x-facebook
+  url: http://facebook.com/officialArmyMedicine
+- type: x-facebook
+  url: http://facebook.com/usarmyrdecom
+- type: x-facebook
+  url: http://facebook.com/NAOonFB
+- type: x-facebook
+  url: http://facebook.com/Ansbach.Legal.Assistance
+- type: x-facebook
+  url: http://facebook.com/usacetulsa
+- type: x-flickr
+  url: http://flickr.com/photos/fortwainwright
+- type: x-flickr
+  url: http://flickr.com/photos/usasac
+- type: x-flickr
+  url: http://flickr.com/photos/rockislandarsenal
+- type: x-flickr
+  url: http://flickr.com/photos/ArmyMedicine
+- type: x-flickr
+  url: http://flickr.com/photos/armyengineersnorfolk
+- type: x-flickr
+  url: http://flickr.com/photos/usacetulsa
+- type: x-github
+  url: http://github.com/missioncommand
+- type: x-twitter
+  url: http://twitter.com/Arsenal_Island
+- type: x-twitter
+  url: http://twitter.com/ArmyMedicine
+- type: x-twitter
+  url: http://twitter.com/rdecom
+- type: x-twitter
+  url: http://twitter.com/norfolkdistrict
+- type: x-twitter
+  url: http://twitter.com/usacetulsa
+- type: x-twitter
+  url: http://twitter.com/usace_med
+- type: x-twitter
+  url: http://twitter.com/PAOFWA
+- type: x-twitter
+  url: http://twitter.com/usaphc
+- type: x-twitter
+  url: http://twitter.com/CorpsNewEngland
+- type: x-twitter
+  url: http://twitter.com/corpslocks
+- type: x-twitter
+  url: http://twitter.com/ITA_ServiceDesk
+- type: x-twitter
+  url: http://twitter.com/usasac
+- type: x-twitter
+  url: http://twitter.com/NIEarmy
+- type: x-twitter
+  url: http://twitter.com/usacegalveston
+- type: x-twitter
+  url: http://twitter.com/AdaptingTheArmy
+- type: x-twitter
+  url: http://twitter.com/USAITA_ExecDir
+- type: x-twitter
+  url: http://twitter.com/CARL_Library
+- type: x-youtube
+  url: http://youtube.com/usaphc
+- type: x-youtube
+  url: http://youtube.com/soldiersmediacenter
+- type: x-youtube
+  url: http://youtube.com/riarsenalisland
+- type: x-youtube
+  url: http://youtube.com/ArmyMedicine
+- type: x-youtube
+  url: http://youtube.com/armyengineersnorfolk
+- type: x-youtube
+  url: http://youtube.com/usacetulsa
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

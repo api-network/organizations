@@ -1,0 +1,37 @@
+---
+name: Hitachi Koki Co., Ltd.
+description: Koki Holdings produces and sells a full line of power tools including
+  lithium-ion battery-operated tools worldwide. It also develops a variety of outdoor
+  power equipment and life-science instruments.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hitachi-koki-co--ltd-.yaml
+tags:
+- Manufacturers
+- Koki Holdings
+- Hikoki Powertools
+- HiKOKI
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/HiKOKI.pr/
+- type: x-login
+  url: https://gin.hikoki-powertools.jp/ois/login.html
+- type: x-privacy
+  url: https://www.koki-holdings.com/privacy/
+- type: x-terms-of-service
+  url: https://www.koki-holdings.com/terms/
+- type: x-website
+  url: https://www.hitachi-koki.com
+- type: x-youtube
+  url: https://www.youtube.com/c/HiKOKIChannel
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,83 @@
+---
+name: Clever
+description: With Clever, learning applications get a platform to easily connect with
+  schools and school districts have a central location to manage their technology.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1298-clever.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/clever.yaml
+tags:
+- Target
+- Marketplaces
+- Learning
+- Have Swagger
+- Have API Paths
+- Have API
+- Education
+- Classrooms
+- API Provider
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-base
+  url: https://api.clever.com/
+- type: x-blog
+  url: http://blog.getclever.com/
+- type: x-blog
+  url: http://engineering.clever.com/
+- type: x-blog
+  url: https://blog.clever.com
+- type: x-blog-rss
+  url: http://engineering.clever.com/index.xml
+- type: x-blog-rss
+  url: http://blog.clever.com/feed/rss/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/clever
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/clever
+- type: x-developer
+  url: https://dev.clever.com/
+- type: x-developers
+  url: https://clever.com/developers
+- type: x-email
+  url: info@clever.com
+- type: x-email
+  url: security@clever.com
+- type: x-email
+  url: jobs@clever.com
+- type: x-email
+  url: urgent@clever.com
+- type: x-email
+  url: tech-support@clever.com
+- type: x-facebook
+  url: https://www.facebook.com/clever
+- type: x-github
+  url: http://github.com/dccarroll
+- type: x-github
+  url: https://github.com/Clever
+- type: x-linkedin
+  url: https://www.linkedin.com/company/clever-inc-/
+- type: x-login
+  url: https://clever.com/login?student
+- type: x-login
+  url: https://clever.com/login?teacher
+- type: x-status
+  url: https://status.clever.com
+- type: x-support
+  url: https://support.clever.com/
+- type: x-twitter
+  url: https://twitter.com/clever
+- type: x-twitter
+  url: https://twitter.com/getClever
+- type: x-website
+  url: https://getclever.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

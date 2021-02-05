@@ -1,0 +1,30 @@
+---
+name: jsoup
+description: Open source Java HTML parser, with DOM, CSS, and jquery-like methods
+  for easy data extraction.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "151823"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jsoup.yaml
+tags:
+- Jsoup
+- Java Html Parser
+- HTML
+- Home
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/jhy/jsoup/
+- type: x-open-source
+  url: http://www.opensource.org/
+- type: x-website
+  url: https://jsoup.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,39 @@
+---
+name: Online Recruitment Solutions
+description: Official list of online recruitment solutions and applicant tracking
+  systems
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/online-recruitment-solutions.yaml
+tags:
+- Recruitment Software
+- Recruitment Management
+- Recruiting Software
+- ERecruiting
+- E-Recruitment
+- Ats
+- Applicant Tracking System
+apis: []
+x-common:
+- type: x-blog
+  url: http://www.recruitingblogs.com/
+- type: x-careers
+  url: http://www.goto.jobs/advances_erecruiting_07.pdf
+- type: x-facebook
+  url: https://www.facebook.com/eRecruitment
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/ERecruitment-1774369
+- type: x-news
+  url: http://www.onlinerecruitingnews.com/
+- type: x-website
+  url: https://www.online-recruitment-solutions.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

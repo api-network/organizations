@@ -1,0 +1,147 @@
+---
+name: Mapbox
+description: <p>Mapbox is a one of the biggest providers of custom online maps for
+  major websites such as Foursquare, Pinterest, Evernote, the Financial Times and
+  Uber Technologies. Since 2010, it has rapidly expanded the niche of custom maps,
+  as a response to the limited choice offered by map providers such as Google Maps.
+  Mapbox is the creator of, or a significant contributor to many popular open source
+  mapping libraries and applications, including the MBTiles specification, the TileMill
+  cartography IDE, the Leaflet JavaScript library, the CartoCSS map styling language
+  and parser, and the mapbox.js JavaScript library.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/mapbox-logo-256.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "10"
+x-alexaRank: "11219"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mapbox.yaml
+tags:
+- Target
+- Maps
+- Have API
+- Geo
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.mapbox.com/
+- type: x-about
+  url: https://www.mapbox.com/about/
+- type: x-about
+  url: https://www.mapbox.com/about/team/
+- type: x-base
+  url: https://api.tiles.mapbox.com
+- type: x-blog
+  url: https://www.mapbox.com/blog/
+- type: x-blog-rss
+  url: https://www.mapbox.com/blog/blog.rss
+- type: x-careers
+  url: https://www.mapbox.com/careers/
+- type: x-case-studies
+  url: https://www.mapbox.com/use-cases/asset-tracking/
+- type: x-case-studies
+  url: https://www.mapbox.com/use-cases/store-locator/
+- type: x-case-studies
+  url: https://www.mapbox.com/use-cases/on-demand-logistics/
+- type: x-case-studies
+  url: https://www.mapbox.com/use-cases/data-visualization/
+- type: x-contact
+  url: https://www.mapbox.com/contact/sales/
+- type: x-contact
+  url: https://www.mapbox.com/contact/
+- type: x-developers
+  url: https://www.mapbox.com/developers/
+- type: x-documentation
+  url: https://docs.mapbox.com/
+- type: x-documentation
+  url: https://docs.mapbox.com/help/
+- type: x-documentation
+  url: https://docs.mapbox.com/mapbox-gl-js/api/
+- type: x-documentation
+  url: https://docs.mapbox.com/ios/maps/overview
+- type: x-documentation
+  url: https://docs.mapbox.com/android/maps/overview/
+- type: x-documentation
+  url: https://docs.mapbox.com/unity/
+- type: x-documentation
+  url: https://docs.mapbox.com/help/how-mapbox-works/
+- type: x-documentation
+  url: https://docs.mapbox.com/ios/navigation/overview
+- type: x-documentation
+  url: https://docs.mapbox.com/android/navigation/overview/
+- type: x-documentation
+  url: https://docs.mapbox.com/ios/vision/overview/
+- type: x-documentation
+  url: https://docs.mapbox.com/android/vision/overview/
+- type: x-documentation
+  url: https://docs.mapbox.com/studio-manual/
+- type: x-documentation
+  url: https://docs.mapbox.com/api/maps/
+- type: x-documentation
+  url: https://docs.mapbox.com/api/navigation/
+- type: x-documentation
+  url: https://docs.mapbox.com/api/search/#geocoding
+- type: x-events
+  url: https://www.mapbox.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/Mapbox
+- type: x-github
+  url: https://github.com/mapbox
+- type: x-instagram
+  url: https://www.instagram.com/Mapbox
+- type: x-linkedin
+  url: https://www.linkedin.com/company/mapbox
+- type: x-open-source
+  url: https://www.mapbox.com/about/open/
+- type: x-platform
+  url: https://www.mapbox.com/platform/security/
+- type: x-press
+  url: https://www.mapbox.com/about/press/
+- type: x-pricing
+  url: https://www.mapbox.com/pricing/
+- type: x-privacy
+  url: https://www.mapbox.com/privacy/
+- type: x-showcase
+  url: https://www.mapbox.com/showcase/
+- type: x-showcase
+  url: https://www.mapbox.com/showcase/wework
+- type: x-showcase
+  url: https://www.mapbox.com/showcase/ancestry
+- type: x-showcase
+  url: https://www.mapbox.com/showcase/tableau
+- type: x-showcase
+  url: https://www.mapbox.com/showcase/snap
+- type: x-showcase
+  url: https://www.mapbox.com/showcase/the-new-york-times
+- type: x-showcase
+  url: https://www.mapbox.com/showcase/facebook-local
+- type: x-showcase
+  url: https://www.mapbox.com/showcase/washington-post
+- type: x-showcase
+  url: https://www.mapbox.com/showcase/the-weather-company
+- type: x-showcase
+  url: https://www.mapbox.com/showcase/jump
+- type: x-showcase
+  url: https://www.mapbox.com/showcase/lonely-planet
+- type: x-showcase
+  url: https://www.mapbox.com/showcase/adobe
+- type: x-showcase
+  url: https://www.mapbox.com/showcase/shopify
+- type: x-signup
+  url: https://www.mapbox.com/signup/
+- type: x-transparency-report
+  url: https://www.mapbox.com/blog/mapbox-transparency-report
+- type: x-tutorials
+  url: https://docs.mapbox.com/help/tutorials/
+- type: x-twitter
+  url: https://twitter.com/mapbox
+- type: x-twitter
+  url: https://twitter.com/mapbox/
+- type: x-website
+  url: https://www.mapbox.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,59 @@
+---
+name: Treparel KMX for OEM
+description: KMX is an integral part of our IP analysis toolbox. It contributes to
+  our capability of making added value IP analyses of technologies and competitors
+  to s
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1590-treparel-kmx-for-oem.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/treparel-kmx-for-oem.yaml
+tags:
+- Texts
+- Textanalytics
+- Semantic
+- Have API
+- Clustering
+- Classifications
+apis: []
+x-common:
+- type: x-website
+  url: http://www.evalueserve.com
+- type: x-website
+  url: http://treparel.com/kmx-for-oem/
+- type: x-about
+  url: https://www.evalueserve.com/about/
+- type: x-blog
+  url: https://www.evalueserve.com/blog/
+- type: x-careers
+  url: https://www.evalueserve.com/careers/
+- type: x-case-studies
+  url: https://www.evalueserve.com/case-studies/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/treparel-com
+- type: x-email
+  url: info@treparel.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/evalueserve
+- type: x-news
+  url: https://www.instagram.com/evalueservenews/
+- type: x-platform
+  url: https://www.evalueserve.com/digital-platforms/
+- type: x-privacy
+  url: https://www.evalueserve.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.evalueserve.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/Treparel
+- type: x-twitter
+  url: https://twitter.com/EvalueserveNews
+- type: x-white-papers
+  url: https://www.evalueserve.com/white-papers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

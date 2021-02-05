@@ -1,0 +1,130 @@
+---
+name: OpenShift
+description: OpenShift is an open source container application platform by Red Hat
+  based on top of Docker containers and the Kubernetes container cluster manager for
+  enterprise app development and deployment.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/200px-OpenShift-LogoType.svg.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "52775"
+url: https://raw.githubusercontent.com/api-network/organizations/main/openshift.yaml
+tags:
+- Platform As A Service Providers
+- PaaS
+- Have OpenAPI
+- Have API Paths
+- Have API
+- Containers
+- ',API Service Provider'
+apis: []
+x-common:
+- type: x-website
+  url: https://openshift.com
+- type: x-about
+  url: http://www.redhat.com/en/about/all-policies-guidelines
+- type: x-about
+  url: https://www.redhat.com/en/about
+- type: x-about
+  url: https://www.redhat.com/en/about/brand/standards
+- type: x-blog
+  url: https://developers.redhat.com/blog/page/2/
+- type: x-blog
+  url: https://blog.openshift.com/
+- type: x-blog-rss
+  url: https://blog.openshift.com/feed/
+- type: x-careers
+  url: https://www.redhat.com/en/jobs
+- type: x-contact
+  url: https://access.redhat.com/security/team/contact/
+- type: x-contact
+  url: https://www.redhat.com/en/contact
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/openshift
+- type: x-developer
+  url: https://developers.redhat.com/techpartner/
+- type: x-developer
+  url: https://developers.redhat.com/topics/quarkus/
+- type: x-developer
+  url: https://developers.redhat.com/tools
+- type: x-developer
+  url: https://developers.redhat.com/ebooks
+- type: x-developer
+  url: https://developers.redhat.com/cheatsheets
+- type: x-developer
+  url: https://developers.redhat.com/ebooks/
+- type: x-developer
+  url: https://developers.redhat.com/topics/microservices/
+- type: x-developer
+  url: https://developers.redhat.com/topics/kubernetes/
+- type: x-developer
+  url: https://developers.redhat.com/topics/linux/
+- type: x-developer
+  url: https://developers.redhat.com/topics/devops/
+- type: x-developer
+  url: https://developers.redhat.com/
+- type: x-documentation
+  url: https://docs.openshift.com
+- type: x-documentation
+  url: https://docs.openshift.com/
+- type: x-facebook
+  url: https://www.facebook.com/RedHatDeveloperProgram
+- type: x-facebook
+  url: https://www.facebook.com/openshift
+- type: x-github
+  url: https://redhatofficial.github.io
+- type: x-github
+  url: https://github.com/redhat-developer
+- type: x-github
+  url: https://github.com/openshift
+- type: x-linkedin
+  url: https://www.linkedin.com/company/red-hat/
+- type: x-open-source
+  url: https://che.openshift.io/
+- type: x-open-source
+  url: https://www.openshift.com/
+- type: x-open-source
+  url: https://blog.openshift.com
+- type: x-open-source
+  url: https://commons.openshift.org
+- type: x-open-source
+  url: https://help.openshift.com
+- type: x-open-source
+  url: https://manage.openshift.com
+- type: x-open-source
+  url: https://www.openshift.com/learn/developer?hsLang=en-us
+- type: x-open-source
+  url: https://www.openshift.com/learn/business?hsLang=en-us
+- type: x-open-source
+  url: https://help.openshift.com/
+- type: x-open-source
+  url: https://blog.openshift.com/
+- type: x-open-source
+  url: https://commons.openshift.org/
+- type: x-open-source
+  url: https://www.youtube.com/user/rhopenshift
+- type: x-open-source
+  url: https://github.com/openshift/
+- type: x-privacy
+  url: http://www.redhat.com/en/about/privacy-policy
+- type: x-privacy
+  url: https://www.redhat.com/en/about/privacy-policy
+- type: x-status
+  url: https://status.redhat.com
+- type: x-terms-of-service
+  url: http://www.redhat.com/en/about/terms-use
+- type: x-twitter
+  url: https://twitter.com/openshift
+- type: x-twitter
+  url: https://twitter.com/rhdevelopers
+- type: x-website
+  url: https://www.openshift.com/
+- type: x-website
+  url: https://www.openshift.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

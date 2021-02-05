@@ -1,0 +1,42 @@
+---
+name: EShopHosts
+description: 'eShop Hosts: Professional ecommerce web hosting and ecommerce web design
+  service. Affordable ecommerce hosting with A1 support'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/eshophosts.yaml
+tags:
+- Shopping Carts
+- EShop Hosts
+apis: []
+x-common:
+- type: x-website
+  url: http://www.eshophosts.co.uk
+- type: x-about
+  url: http://www.eshophosts.co.uk/about-us/
+- type: x-facebook
+  url: http://www.facebook.com/eshophosts
+- type: x-news
+  url: https://www.eshophosts.co.uk/product-news/
+- type: x-plans
+  url: https://www.eshophosts.co.uk/hosting-plans/
+- type: x-privacy
+  url: http://www.eshophosts.co.uk/hosting/privacy.php
+- type: x-self-service-registration
+  url: http://www.eshophosts.co.uk/hosting/register.php
+- type: x-support
+  url: https://www.eshophosts.co.uk/hosting-support/
+- type: x-twitter
+  url: http://twitter.com/EShopHosts
+- type: x-website
+  url: https://www.eshophosts.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

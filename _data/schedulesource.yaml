@@ -1,0 +1,32 @@
+---
+name: ScheduleSource
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1837440"
+url: https://raw.githubusercontent.com/api-network/organizations/main/schedulesource.yaml
+tags:
+- Personnel Scheduling
+apis: []
+x-common:
+- type: x-contact
+  url: https://schedulesource.com/contact/
+- type: x-pricing
+  url: https://schedulesource.com/pricing/
+- type: x-privacy
+  url: https://schedulesource.com/privacy
+- type: x-privacy
+  url: https://schedulesource.com/privacy/
+- type: x-security
+  url: https://schedulesource.com/industry/private-security/
+- type: x-website
+  url: https://www.schedulesource.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

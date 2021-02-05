@@ -1,0 +1,26 @@
+---
+name: Minexcoin
+description: Global payment system based on a low volatility cryptocurrency
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26797-minexcoin-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "191062"
+url: https://raw.githubusercontent.com/api-network/organizations/main/minexcoin.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: https://minexpay.com/
+- type: x-twitter
+  url: https://twitter.com/minexcoin
+- type: x-website
+  url: https://minexcoin.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

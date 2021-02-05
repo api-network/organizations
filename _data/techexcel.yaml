@@ -1,0 +1,59 @@
+---
+name: TechExcel
+description: Techexcel bridges the gap between product development and service/support
+  with a unified platform for ALM, ITSM and customer support.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3392280"
+url: https://raw.githubusercontent.com/api-network/organizations/main/techexcel.yaml
+tags:
+- Asset Management
+apis: []
+x-common:
+- type: x-careers
+  url: https://techexcel.com/about-us/careers/
+- type: x-contact
+  url: https://techexcel.com/about-us/contact-locations/
+- type: x-events
+  url: https://techexcel.com/about-us/events/
+- type: x-facebook
+  url: https://www.facebook.com/TechExcel/
+- type: x-integrations
+  url: https://techexcel.com/integrations/apis/
+- type: x-integrations
+  url: https://techexcel.com/integrations/issue-tracking/
+- type: x-integrations
+  url: https://techexcel.com/integrations/scm/
+- type: x-integrations
+  url: https://techexcel.com/integrations/test-automation/
+- type: x-integrations
+  url: https://techexcel.com/integrations/assets/
+- type: x-integrations
+  url: https://techexcel.com/integrations/cti/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/techexcel
+- type: x-news
+  url: https://techexcel.com/about-us/news/
+- type: x-partner
+  url: https://techexcel.com/partners/
+- type: x-support
+  url: https://techexcel.com/support-customer-care/
+- type: x-support
+  url: https://techexcel.com/support/professional-services/
+- type: x-support
+  url: http://help.techexcel.com/
+- type: x-twitter
+  url: https://twitter.com/TechExcel/
+- type: x-website
+  url: https://techexcel.com
+- type: x-youtube
+  url: https://www.youtube.com/user/techexcel
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

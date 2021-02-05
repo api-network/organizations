@@ -1,0 +1,72 @@
+---
+name: APIWorld
+description: |-
+  <p><span>If you&rsquo;re a tech company, you are likely publishing or consuming API&rsquo;s already.</span>&nbsp;API World is the first large-scale conference and expo with the goal of organizing this new API Economy. The API World 2018 Conference and Expo was created with the mission to be neutral and facilitate connections, knowledge, trust and business within the developer community of API providers and consumers. If you are a coder, a startup or an enterprise that consumes or provides multiple APIs this is your event.</p>
+  <p>Decentralization: The move to APIs follows a technology-wide trend towards decentralization that includes Agile methodologies and the DevOps movement. Beyond the decentralization of public web services, we are seeking the decoupling of monolithic API infrastructure into microservices. The rise of containers and kubernetes for rapid deployment, scalability, orchestration of microservices moves us further towards decentralization. The new movements towards API and microservice protocols and serverless architecture reinforces this move towards decentralization. The theme of API World 2018 is the move towards decentralization of both public-facing and internal API architecture.</p>
+  <p>The next conference is September 10&ndash;12, 2018 | San Jose Convention Center.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/api-world-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "887999"
+url: https://raw.githubusercontent.com/api-network/organizations/main/apiworld.yaml
+tags:
+- Conferences
+- API Events
+apis: []
+x-common:
+- type: x-twitter-search
+  url: '#APIWorld'
+- type: x-website
+  url: http://apiworld.co
+- type: x-about
+  url: https://apiworld.co/about/
+- type: x-about
+  url: https://apiworld.co/about/venue/
+- type: x-about
+  url: https://apiworld.co/about/hotel/
+- type: x-about
+  url: https://apiworld.co/about/team/
+- type: x-about
+  url: https://apiworld.co/about/volunteer/
+- type: x-about
+  url: https://apiworld.co/about/demographics/
+- type: x-about
+  url: https://apiworld.co/about/advisory-board/
+- type: x-about
+  url: https://apiworld.co/about/justification-letter/
+- type: x-about
+  url: https://apiworld.co/about/international-visitors/
+- type: x-about
+  url: https://apiworld.co/about/important-dates-deadlines/
+- type: x-about
+  url: https://apiworld.co/sponsors/inquire-about-sponsoring/
+- type: x-contact
+  url: https://apiworld.co/about/contact/
+- type: x-events
+  url: https://apiworld.co/events/
+- type: x-events
+  url: https://apiworld.co/events/schedule-overview/
+- type: x-events
+  url: https://apiworld.co/events/host-an-event/
+- type: x-facebook
+  url: https://www.facebook.com/APIWorldHQ/
+- type: x-instagram
+  url: https://www.instagram.com/apiworldhq/
+- type: x-partner
+  url: https://apiworld.co/events/partner-events/
+- type: x-press
+  url: https://apiworld.co/media/press-pass/
+- type: x-self-service-registration
+  url: https://apiworld.co/register/
+- type: x-twitter
+  url: https://twitter.com/apiworld
+- type: x-website
+  url: http://apiworld.co/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

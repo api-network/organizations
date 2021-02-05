@@ -1,0 +1,48 @@
+---
+name: DVD Chief
+description: "Keep your growing movie collection under control! DVD Chief offers you
+  a perfect way to get organized. Simply type movie titles, browse to movies\u2019
+  ISO images or keep inserting DVD or Blu-Ray disks."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8452447"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dvd-chief.yaml
+tags:
+- Movie Organizer
+- Movie Database
+- Movie Catalog
+- Dvd Software
+- Dvd Organizer
+- Dvd Database
+- Dvd Chief
+- Dvd Catalog
+- Collection
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.dvdchief.com/blog/
+- type: x-contact
+  url: https://www.dvdchief.com/contact.php
+- type: x-feed
+  url: https://www.dvdchief.com/support/feedback.php
+- type: x-forum
+  url: https://www.dvdchief.com/forum/
+- type: x-news
+  url: https://www.dvdchief.com/news/
+- type: x-support
+  url: https://www.dvdchief.com/support/
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-twitter
+  url: https://twitter.com/dvdchief
+- type: x-website
+  url: https://dvdchief.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

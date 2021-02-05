@@ -1,0 +1,44 @@
+---
+name: Bryan Steele
+description: brynet's something somewhat site
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1177055"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bryan-steele.yaml
+tags:
+- Unix
+- Ramblings
+- People
+- Openbsd Developer
+- OpenBSD
+- Canadianbryan
+- Canada
+- BSD
+- Brynet
+apis: []
+x-common:
+- type: x-website
+  url: https://brynet.biz.tm/
+- type: x-blog
+  url: http://bsdly.blogspot.ca/
+- type: x-blog
+  url: http://bsdtalk.blogspot.ca/
+- type: x-github
+  url: https://github.com/brynet/file
+- type: x-github
+  url: https://github.com/macminix
+- type: x-open-source
+  url: http://www.openbsd.org/
+- type: x-twitter
+  url: https://twitter.com/canadianbryan
+- type: x-website
+  url: https://brynet.biz.tm
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

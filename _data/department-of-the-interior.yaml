@@ -1,0 +1,84 @@
+---
+name: Department of the Interior
+description: <p>The United States Department of the Interior (DOI) is the United States
+  federal executive department of the U.S. government responsible for the management
+  and conservation of most federal land and natural resources, and the administration
+  of programs relating to American Indians, Alaska Natives, Native Hawaiians, territorial
+  affairs, and insular areas of the United States.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/350px-US-DeptOfTheInterior-Seal.svg.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "111029"
+url: https://raw.githubusercontent.com/api-network/organizations/main/department-of-the-interior.yaml
+tags:
+- Have API
+- Federal Government
+- Federal Government
+- Data JSON
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://store.usgs.gov
+- type: x-data
+  url: https://www.doi.gov/data
+- type: x-developers
+  url: http://www.doi.gov/developer
+- type: x-facebook
+  url: https://www.facebook.com/USInterior
+- type: x-instagram
+  url: https://www.instagram.com/usinterior/
+- type: x-twitter
+  url: https://twitter.com/interior
+- type: x-twitter
+  url: http://twitter.com/Interior
+- type: x-twitter
+  url: https://twitter.com/BLMOregon
+- type: x-twitter
+  url: https://twitter.com/SaguaroNPS
+- type: x-twitter
+  url: https://twitter.com/USFWS
+- type: x-twitter
+  url: https://twitter.com/IndianaDunesNPS
+- type: x-twitter
+  url: https://twitter.com//search?q=%23Indiana
+- type: x-twitter
+  url: https://twitter.com/BlackCanyonNPS
+- type: x-twitter
+  url: https://twitter.com/USGSstore
+- type: x-twitter
+  url: https://twitter.com//search?q=%23FreeMapMonday
+- type: x-twitter
+  url: https://twitter.com/NatlParkService
+- type: x-twitter
+  url: https://twitter.com//search?q=%23California
+- type: x-twitter
+  url: https://twitter.com/BryceCanyonNPS
+- type: x-twitter
+  url: https://twitter.com/BLMNational
+- type: x-twitter
+  url: https://twitter.com//search?q=%23NEPA
+- type: x-twitter
+  url: https://twitter.com/whceq
+- type: x-twitter
+  url: https://twitter.com/NASA
+- type: x-twitter
+  url: https://twitter.com/OlympicNP
+- type: x-twitter
+  url: https://twitter.com/usparkpolicepio
+- type: x-twitter
+  url: https://twitter.com//search?q=%23NatlParkService
+- type: x-website
+  url: http://www.doi.gov
+- type: x-wikipedia
+  url: http://en.wikipedia.org/wiki/Department_of_the_Interior
+- type: x-youtube
+  url: https://www.youtube.com/user/USInterior
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

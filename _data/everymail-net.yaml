@@ -1,0 +1,45 @@
+---
+name: Everymail.net
+description: Everymail offers an easy to use email address for everyone as well as
+  email hosting for business email addresses on own mailservers with your domain.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/everymail-net.yaml
+tags:
+- Web-Based
+apis: []
+x-common:
+- type: x-about
+  url: https://everymail.net/en/about/
+- type: x-contact
+  url: https://everymail.net/en/contact/
+- type: x-facebook
+  url: https://www.facebook.com/everymail
+- type: x-news
+  url: https://everymail.net/en/newsletter/
+- type: x-plans
+  url: https://everymail.net/en/server-plans/
+- type: x-pricing
+  url: https://everymail.net/en/pricing/
+- type: x-privacy
+  url: https://everymail.net/en/mailbox-privacy/
+- type: x-privacy
+  url: https://everymail.net/en/privacy/
+- type: x-self-service-registration
+  url: https://my.everymail.net/manage/mail.register
+- type: x-support
+  url: https://everymail.net/en/support/
+- type: x-twitter
+  url: https://twitter.com/everymail
+- type: x-website
+  url: https://www.everymail.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

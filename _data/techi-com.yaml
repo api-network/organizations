@@ -1,0 +1,23 @@
+---
+name: techi.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/techi-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.techi.com/2014/06/the-netherlands-wants-to-have-self-driving-trucks-within-five-years/
+- type: x-website
+  url: http://techi.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

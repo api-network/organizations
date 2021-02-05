@@ -1,0 +1,32 @@
+---
+name: Kernel Video Sharing
+description: 'Kernel Video Sharing is a pro level video content management and community
+  site engine. With KVS, you can launch video-based sites of virtually any kind: tubes,
+  tube site networks, youtube clones, CJ-tubes, paid access member area sites, video
+  sharing or community sites, video plugins for portals and message boards - and much
+  more!'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "143871"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kernel-video-sharing.yaml
+tags:
+- Content Management
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.kernel-video-sharing.com
+- type: x-documentation
+  url: http://www.redhat.com/docs/manuals/enterprise/
+- type: x-news
+  url: https://t.me/kvs_news
+- type: x-website
+  url: https://www.kernel-video-sharing.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

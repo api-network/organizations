@@ -1,0 +1,48 @@
+---
+name: EDM Council
+description: The EDM Council is the Global Association created to elevate the practice
+  of Data Management as a business and operational priority.  The Council is the leading
+  advocate for the development and implementation of Data Standards, Best Practices
+  and comprehensive Training and Certification programs.
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3249345"
+url: https://raw.githubusercontent.com/api-network/organizations/main/edm-council.yaml
+tags:
+- Profile
+- Data Standards
+apis: []
+x-common:
+- type: x-website
+  url: http://www.edmcouncil.org
+- type: x-about
+  url: http://edmcouncil.site-ym.com/?page=aboutdcamreview
+- type: x-about
+  url: http://edmcouncil.site-ym.com/page/aboutfiboreview
+- type: x-about
+  url: https://edmcouncil.site-ym.com/?page=aboutdcamreview
+- type: x-about
+  url: https://edmcouncil.site-ym.com/page/aboutfiboreview
+- type: x-linkedin
+  url: https://www.linkedin.com/company/edm-council/
+- type: x-news
+  url: https://edmcouncil.site-ym.com/news/default.asp?
+- type: x-press
+  url: https://edmcouncil.site-ym.com/?page=press
+- type: x-twitter
+  url: https://twitter.com/edmcouncil
+- type: x-website
+  url: http://edmcouncil.org
+- type: x-youtube
+  url: https://www.youtube.com/edmcouncil
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=10A3bWSh7J0
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

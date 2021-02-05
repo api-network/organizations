@@ -1,0 +1,46 @@
+---
+name: Ultimate Boot CD
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "205084"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ultimate-boot-cd.yaml
+tags:
+- Development
+apis: []
+x-common:
+- type: x-about
+  url: http://btmgr.sourceforge.net/about.html
+- type: x-forum
+  url: https://www.ultimatebootcd.com/forums/
+- type: x-forum
+  url: https://www.ultimatebootcd.com/forums/rss.php
+- type: x-news
+  url: http://www.scotsnewsletter.com/56.htm
+- type: x-security
+  url: http://www.cgsecurity.org/?cmospwd.html
+- type: x-security
+  url: http://www.cgsecurity.org/keydisk.exe
+- type: x-security
+  url: http://www.cgsecurity.org/wiki/PhotoRec
+- type: x-security
+  url: http://www.cgsecurity.org/wiki/TestDisk
+- type: x-support
+  url: http://support.wdc.com/downloads.aspx?p=113
+- type: x-support
+  url: http://support.wdc.com/downloads.aspx?p=2
+- type: x-support
+  url: https://www.hgst.com/hdd/support/download.htm#DFT
+- type: x-support
+  url: http://www.seagate.com/support/downloads/discwizard/
+- type: x-website
+  url: https://www.ultimatebootcd.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

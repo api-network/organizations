@@ -1,0 +1,54 @@
+---
+name: Greaterscope
+description: Alan W Szlosek Jr's open source programming projects
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/greaterscope.yaml
+tags:
+- Programming
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/alanszlosek?tab=repositories
+- type: x-github
+  url: https://github.com/alanszlosek/voxeling
+- type: x-github
+  url: https://github.com/alanszlosek/tracker
+- type: x-github
+  url: https://github.com/alanszlosek/raspi-wifi-router
+- type: x-github
+  url: https://github.com/alanszlosek/node-rss-proxy
+- type: x-github
+  url: https://github.com/alanszlosek/node-daapd
+- type: x-github
+  url: https://github.com/alanszlosek/collections
+- type: x-github
+  url: https://github.com/alanszlosek/dbFacile
+- type: x-github
+  url: https://github.com/alanszlosek/metrics-dashboard-ui
+- type: x-github
+  url: https://github.com/alanszlosek/nodeftpd
+- type: x-github
+  url: https://github.com/alanszlosek/mercussion
+- type: x-github
+  url: https://github.com/alanszlosek/data-type-tables
+- type: x-github
+  url: https://github.com/alanszlosek/authorize.net
+- type: x-github
+  url: https://github.com/alanszlosek/tesi
+- type: x-github
+  url: https://github.com/alanszlosek/knox
+- type: x-support
+  url: https://github.com/alanszlosek/tiny-helpers
+- type: x-website
+  url: https://www.greaterscope.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,25 @@
+---
+name: Joomla51
+description: 65+ Premium Joomla Templates available both Free and Commercial. Beautiful,
+  Responsive and SEO optimized.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "510240"
+url: https://raw.githubusercontent.com/api-network/organizations/main/joomla51.yaml
+tags:
+- Extensions And Templates
+apis: []
+x-common:
+- type: x-open-source
+  url: http://opensourcematters.org/
+- type: x-website
+  url: https://www.joomla51.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

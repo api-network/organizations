@@ -1,0 +1,26 @@
+---
+name: MEETin.org
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1880095"
+url: https://raw.githubusercontent.com/api-network/organizations/main/meetin-org.yaml
+tags:
+- Social Networking
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/MEETin.org
+- type: x-privacy
+  url: https://www.iubenda.com/privacy-policy/46880091
+- type: x-website
+  url: https://www.meetin.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

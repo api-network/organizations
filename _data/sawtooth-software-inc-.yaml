@@ -1,0 +1,32 @@
+---
+name: Sawtooth Software, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "42265"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sawtooth-software-inc-.yaml
+tags:
+- Marketing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.sawtoothsoftware.com
+- type: x-contact
+  url: https://www.olark.com/site/3773-984-10-1619/contact
+- type: x-linkedin
+  url: http://www.linkedin.com/groups?gid=1715557
+- type: x-twitter
+  url: https://twitter.com/SawtoothSoft
+- type: x-website
+  url: https://www.sawtoothsoftware.com
+- type: x-youtube
+  url: http://www.youtube.com/user/sawtoothsoftware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,56 @@
+---
+name: WavGet
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3848946"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wavget.yaml
+tags:
+- IRC
+apis: []
+x-common:
+- type: x-website
+  url: http://www.wavget.com/
+- type: x-blog
+  url: https://www.wavget.com/blog/
+- type: x-blog
+  url: https://wavget.com/blog/
+- type: x-contact
+  url: https://www.wavget.com/contact/
+- type: x-contact
+  url: https://wavget.com/contact/
+- type: x-forum
+  url: http://forum.wavget.com
+- type: x-forum
+  url: http://forum.wavget.com/
+- type: x-twitter
+  url: https://twitter.com/wavget
+- type: x-twitter
+  url: http://twitter.com/wavget/status/1163463919618252806
+- type: x-twitter
+  url: http://twitter.com/Anthony64156
+- type: x-twitter
+  url: http://twitter.com/wavget/status/963522799959789568
+- type: x-twitter
+  url: http://twitter.com/arobinsonneal
+- type: x-twitter
+  url: http://twitter.com/wavget/status/910121815812526081
+- type: x-twitter
+  url: http://twitter.com/pramodmoondra
+- type: x-twitter
+  url: http://twitter.com/wavget/status/909090622774108167
+- type: x-twitter
+  url: http://twitter.com/Tigokna
+- type: x-twitter
+  url: http://twitter.com/wavget/status/893090769052942337
+- type: x-website
+  url: https://www.wavget.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

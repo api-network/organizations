@@ -1,0 +1,38 @@
+---
+name: Java Apache Mail Enterprise Server (JAMES)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1867"
+url: https://raw.githubusercontent.com/api-network/organizations/main/java-apache-mail-enterprise-server-james.yaml
+tags:
+- Servers
+apis: []
+x-common:
+- type: x-website
+  url: http://james.apache.org
+- type: x-events
+  url: https://www.apache.org/events/current-event.html
+- type: x-events
+  url: http://www.apache.org/events/current-event
+- type: x-github
+  url: https://github.com/apache/james-project
+- type: x-open-source
+  url: https://open-paas.org/
+- type: x-security
+  url: https://www.apache.org/security/
+- type: x-support
+  url: https://james.apache.org/support.html
+- type: x-twitter
+  url: https://twitter.com/ApacheJames
+- type: x-website
+  url: https://james.apache.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

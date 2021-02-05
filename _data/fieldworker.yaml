@@ -1,0 +1,32 @@
+---
+name: FieldWorker
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fieldworker.yaml
+tags:
+- Data Collection
+apis: []
+x-common:
+- type: x-about
+  url: https://www.fieldworker.com/about-us
+- type: x-contact
+  url: https://www.fieldworker.com/contact
+- type: x-customers
+  url: https://www.fieldworker.com/customers
+- type: x-partner
+  url: https://www.fieldworker.com/partners
+- type: x-privacy
+  url: https://www.fieldworker.com/privacy-policy
+- type: x-website
+  url: https://www.fieldworker.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

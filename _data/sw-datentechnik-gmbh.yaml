@@ -1,0 +1,57 @@
+---
+name: SW Datentechnik GmbH
+description: 'Far ranging service offers in the real-time and the industrial domain:
+  QNX, embedded and industry hardware. Global trading.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10407007"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sw-datentechnik-gmbh.yaml
+tags:
+- TRYCOM
+- TK Systemtechnik
+- TCP/IP
+- Sybase QNX4
+- Soarland+HEXIN
+- SL Corp(SL-GMS)
+- SEALEVEL
+- Realtime
+- QNX-+3.rd Party
+- Kollewin
+- ISA Products
+- INES
+- HILSCHER
+- Hedin Tex
+- GPIB
+- EXSYS
+- DANPEX
+- Corman Tech
+- CONNECT Tech
+- COMTROL
+- CommFront
+- Cogent
+- B&E Tech
+- Arcnet
+- 19" IPC
+apis: []
+x-common:
+- type: x-contact
+  url: http://swd.de/oxid/en/contact/
+- type: x-news
+  url: http://swd.de/oxid/en/news/
+- type: x-news
+  url: http://swd.de/oxid/en/newsletter/
+- type: x-open-source
+  url: https://swd.de/oxid/en/open-account/
+- type: x-press
+  url: http://swd.de/oxid/Impressum-Legal-Notice/
+- type: x-website
+  url: https://www.swd.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

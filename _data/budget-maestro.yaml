@@ -1,0 +1,45 @@
+---
+name: Budget Maestro
+description: We empower finance leaders with intelligent planning through Planning
+  Maestro, a leader in planning, FP&A, and business budgeting software.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "512374"
+url: https://raw.githubusercontent.com/api-network/organizations/main/budget-maestro.yaml
+tags:
+- Budgeting
+apis: []
+x-common:
+- type: x-website
+  url: http://www.centage.com
+- type: x-about
+  url: https://www.centage.com/about-us/
+- type: x-blog
+  url: https://www.centage.com/blog/
+- type: x-blog
+  url: http://blog.centage.com/
+- type: x-contact
+  url: https://www.centage.com/contact-centage-corporation/
+- type: x-facebook
+  url: http://www.facebook.com/Centage
+- type: x-news
+  url: https://www.centage.com/about-us/centage-news/
+- type: x-support
+  url: https://support.centage.com/
+- type: x-twitter
+  url: http://www.twitter.com/#!/centage
+- type: x-webinars
+  url: https://www.centage.com/live-and-on-demand-webinars/
+- type: x-website
+  url: https://www.centage.com
+- type: x-youtube
+  url: https://www.youtube.com/user/CentageCorpVideo
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

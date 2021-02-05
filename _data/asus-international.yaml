@@ -1,0 +1,51 @@
+---
+name: ASUS International
+description: "ASUS is a leading company driven by innovation and commitment to quality
+  for products that include notebooks, netbooks, motherboards, graphics cards, displays,
+  desktop PCs, servers, wireless solutions, mobile phones and networking devices.
+  ASUS ranks among BusinessWeek\u2019s InfoTech 100 for 12 consecutive years."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "591"
+url: https://raw.githubusercontent.com/api-network/organizations/main/asus-international.yaml
+tags:
+- Motherboards
+apis: []
+x-common:
+- type: x-website
+  url: https://us.rog.gg/ROG_GFH
+- type: x-careers
+  url: https://jobs.jobvite.com/asus
+- type: x-facebook
+  url: http://www.facebook.com/asus.n.america
+- type: x-facebook
+  url: http://www.facebook.com/rog.n.america/
+- type: x-instagram
+  url: http://instagram.com/asususa/
+- type: x-instagram
+  url: http://www.instagram.com/rog_na/
+- type: x-press
+  url: http://press.asus.com/
+- type: x-support
+  url: http://www.asus.com/us/support/
+- type: x-support
+  url: http://www.commercialsupport.asus.com/
+- type: x-support
+  url: https://www.asus.com/us/support/callus
+- type: x-twitter
+  url: https://twitter.com/ASUSUSA
+- type: x-twitter
+  url: https://twitter.com/ASUS_ROGNA
+- type: x-website
+  url: https://www.asus.com
+- type: x-youtube
+  url: http://www.youtube.com/c/asususa
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

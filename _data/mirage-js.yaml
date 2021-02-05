@@ -1,0 +1,27 @@
+---
+name: Mirage JS
+description: Mirage JS is an API mocking library that lets you build, test and share
+  a complete working JavaScript application without having to rely on any backend
+  services.
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mirage-js.yaml
+tags:
+- Virtualizations
+- Profile
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/miragejs
+- type: x-website
+  url: http://miragejs.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

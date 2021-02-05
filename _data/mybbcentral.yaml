@@ -1,0 +1,28 @@
+---
+name: MyBBCentral
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4017339"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mybbcentral.yaml
+tags:
+- MyBB
+apis: []
+x-common:
+- type: x-login
+  url: https://www.mybbcentral.com/member.php?action=login
+- type: x-self-service-registration
+  url: https://www.mybbcentral.com/member.php?action=register
+- type: x-support
+  url: https://www.mybbcentral.com/misc.php?action=help
+- type: x-website
+  url: https://www.mybbcentral.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

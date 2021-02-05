@@ -1,0 +1,38 @@
+---
+name: SRS Group Ltd
+description: Strategic Resource Solutions is UK based team of commercially focused
+  psychologists & psychometricians who provide objective assessments of individuals.
+  Contact us +44 (0) 1753607633
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/srs-group-ltd.yaml
+tags:
+- Testing And Evaluation
+- Strategic Resources
+- Srs Group
+- Resource Solutions
+- Human Resources Management
+- Human Resources Courses
+- Human Resource Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.srsgroup.org/
+- type: x-contact
+  url: https://www.srsgroup.org/contact-us
+- type: x-facebook
+  url: https://www.facebook.com/srsgroupuk/
+- type: x-twitter
+  url: https://twitter.com/PsychometricUk
+- type: x-website
+  url: https://www.srsgroup.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

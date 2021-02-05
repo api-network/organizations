@@ -1,0 +1,40 @@
+---
+name: DocuMatix
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1837075"
+url: https://raw.githubusercontent.com/api-network/organizations/main/documatix.yaml
+tags:
+- Online Tools
+apis: []
+x-common:
+- type: x-website
+  url: http://www.GoMARQUIS.com
+- type: x-about
+  url: https://gomarquis.com/about-us/
+- type: x-case-studies
+  url: https://gomarquis.com/case-studies/
+- type: x-contact
+  url: https://gomarquis.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/GoMarquis/
+- type: x-login
+  url: https://gomarquis.com/client-portal-login/
+- type: x-login
+  url: https://campaign.documatix.com/DM/login
+- type: x-news
+  url: https://gomarquis.com/news/
+- type: x-twitter
+  url: https://twitter.com/go_marquis
+- type: x-website
+  url: https://www.documatix.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

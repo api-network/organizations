@@ -1,0 +1,42 @@
+---
+name: WinCan Video Pipeline and CCTV
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2915745"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wincan-video-pipeline-and-cctv.yaml
+tags:
+- Inspection
+apis: []
+x-common:
+- type: x-website
+  url: http://www.wincan.com
+- type: x-about
+  url: https://www.wincan.com/en/about-us/
+- type: x-blog
+  url: http://blog.wincan.com/
+- type: x-contact
+  url: https://www.wincan.com/en/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/wincanvx/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/wincan/
+- type: x-privacy
+  url: http://www.wincan.com/privacy/
+- type: x-support
+  url: https://www.wincan.com/en/support/
+- type: x-terms-of-service
+  url: http://www.wincan.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/wincansoftware
+- type: x-website
+  url: https://www.wincan.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

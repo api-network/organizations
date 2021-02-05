@@ -1,0 +1,64 @@
+---
+name: Ad Butler
+description: AdButler is a fully customizable and easy to use ad serving platform/ad
+  manager that helps thousands of publishers save time and maximize their revenue!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "54980"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ad-butler.yaml
+tags:
+- Remotely Hosted
+- Banner Rotation Software
+- Banner Rotating
+- Banner Rotate
+- Banner Management Software
+- Banner Cycling
+- Banner Cycle
+- Banner Ad Server
+- Advertising Serving
+- Advertising Rotation
+- Advertising Management
+- Ad Serving
+- Ad Server
+- Ad Serve
+- Ad Rotation
+- Ad Rotating
+- Ad Rotate
+- Ad Item Rotation Software
+- Ad Item Rotating
+- Ad Item Rotate
+- Ad Item Management Software
+- Ad Item Cycling
+- Ad Item Cycle
+- Ad Item Ad Server
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.adbutler.com/
+- type: x-contact
+  url: https://www.adbutler.com/contact-us.spark
+- type: x-developer
+  url: https://www.adbutler.com/developers.spark
+- type: x-documentation
+  url: https://www.adbutler.com/docs/api/#api-reference
+- type: x-gdpr
+  url: https://www.adbutler.com/gdpr.spark
+- type: x-login
+  url: https://admin.adbutler.com/login.spark
+- type: x-press
+  url: https://www.adbutler.com/wordpress-ad-plugin.spark
+- type: x-pricing
+  url: https://www.adbutler.com/pricing.spark
+- type: x-support
+  url: https://www.adbutler.com/help
+- type: x-website
+  url: https://www.adbutler.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

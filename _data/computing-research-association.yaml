@@ -1,0 +1,84 @@
+---
+name: Computing Research Association
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "514262"
+url: https://raw.githubusercontent.com/api-network/organizations/main/computing-research-association.yaml
+tags:
+- Organizations
+apis: []
+x-common:
+- type: x-website
+  url: http://www.juangilbert.com
+- type: x-about
+  url: https://cra.org/about/
+- type: x-about
+  url: https://cra.org/about/board/
+- type: x-about
+  url: https://cra.org/about/board/members/
+- type: x-about
+  url: https://cra.org/about/board/executive/
+- type: x-about
+  url: https://cra.org/about/board/nominations/
+- type: x-about
+  url: https://cra.org/about/board/society-liaisons/
+- type: x-about
+  url: https://cra.org/about/staff/
+- type: x-about
+  url: https://cra.org/about/joint-activities/
+- type: x-about
+  url: https://cra.org/about/membership/
+- type: x-about
+  url: https://cra.org/about/membership/member-list/
+- type: x-about
+  url: https://cra.org/about/membership/dues/
+- type: x-about
+  url: https://cra.org/about/annual-reports/
+- type: x-about
+  url: https://cra.org/about/awards/
+- type: x-blog
+  url: https://www.cccblog.org/
+- type: x-blog
+  url: https://www.cccblog.org
+- type: x-careers
+  url: https://cra.org/events/summit-technology-jobs/
+- type: x-code
+  url: https://cra.org/ccc/events/code-8-7/
+- type: x-contact
+  url: https://cra.org/contact/
+- type: x-developer
+  url: http://developer.cra.org
+- type: x-events
+  url: https://cra.org/events/2020-career-mentoring-workshop/
+- type: x-facebook
+  url: https://www.facebook.com/computingresearch
+- type: x-feed
+  url: http://feeds.feedburner.com/cra-bulletin
+- type: x-feed
+  url: http://feeds.feedburner.com/cra/WxKq
+- type: x-feed
+  url: https://feeds.feedblitz.com/cccblog
+- type: x-support
+  url: https://cra.org/conferences-we-support/
+- type: x-twitter
+  url: http://twitter.com/cratweets
+- type: x-twitter
+  url: http://twitter.com/TheOfficialACM
+- type: x-twitter
+  url: https://twitter.com/search?q=ACMFellow
+- type: x-twitter
+  url: http://twitter.com/DrJuanGilbert
+- type: x-website
+  url: https://www.cra.org
+- type: x-youtube
+  url: https://www.youtube.com/user/computingresearch
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

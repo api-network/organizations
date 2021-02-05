@@ -1,0 +1,32 @@
+---
+name: SECS/GEM Driver for Equipment and Host
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/secsgem-driver-for-equipment-and-host.yaml
+tags:
+- Automation
+apis: []
+x-common:
+- type: x-about
+  url: https://www.insphere.com.sg/about-us
+- type: x-careers
+  url: https://www.insphere.com.sg/careers
+- type: x-contact
+  url: https://www.insphere.com.sg/contact-us
+- type: x-linkedin
+  url: https://www.linkedin.com/company/insphere-technology
+- type: x-privacy
+  url: https://www.insphere.com.sg/privacy-policy
+- type: x-website
+  url: https://www.insphere.com.sg
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

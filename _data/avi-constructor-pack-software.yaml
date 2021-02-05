@@ -1,0 +1,40 @@
+---
+name: AVI Constructor Pack Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/avi-constructor-pack-software.yaml
+tags:
+- Animation
+apis: []
+x-common:
+- type: x-about
+  url: https://www.aviconstructor.com/about/
+- type: x-blog
+  url: https://www.aviconstructor.com/category/blog/
+- type: x-blog
+  url: https://www.bigcommerce.com/blog/amazon-seo-strategy/
+- type: x-contact
+  url: https://www.aviconstructor.com/contact/
+- type: x-press
+  url: http://www.webempress.com/articles/toomanyimages.htm
+- type: x-press
+  url: https://codex.wordpress.org/Creating_a_Search_Page
+- type: x-privacy
+  url: https://www.aviconstructor.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.aviconstructor.com/terms-of-use/
+- type: x-website
+  url: https://www.aviconstructor.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=jFCobKb8bRk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

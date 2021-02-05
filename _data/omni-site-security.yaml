@@ -1,0 +1,39 @@
+---
+name: Omni Site Security
+description: Membership Software that is easy to use. Protect and deliver digital
+  content and bill members. Wordpress integration and merchant plugins are included.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/omni-site-security.yaml
+tags:
+- Subscription Software
+- Site Management
+- PHP
+- Membership Software
+- Membership Script
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.omni-secure.com
+- type: x-pricing
+  url: https://omni-secure.com/pricing/
+- type: x-privacy
+  url: https://omni-secure.com/privacy-policy/
+- type: x-support
+  url: https://omni-secure.com/support/
+- type: x-support
+  url: https://omni-secure.com/support/master-class-videos/
+- type: x-terms-of-service
+  url: https://omni-secure.com/terms-of-use/
+- type: x-website
+  url: https://www.omni-secure.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

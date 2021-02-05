@@ -1,0 +1,29 @@
+---
+name: Dassault Systemes, S.A.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "18973"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dassault-systemes-s-a-.yaml
+tags:
+- Software Development
+- Computer Aided Manufacturing
+apis: []
+x-common:
+- type: x-careers
+  url: https://careers.3ds.com/
+- type: x-investor
+  url: https://www.3ds.com/investors/
+- type: x-press
+  url: https://www.3ds.com/press-releases/
+- type: x-website
+  url: https://www.3ds.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

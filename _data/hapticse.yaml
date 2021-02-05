@@ -1,0 +1,25 @@
+---
+name: Haptics-e
+description: haptics-e.org membahas segala sesuatu yang berkaitan dengan haptic atau
+  elektronik lain.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6356662"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hapticse.yaml
+tags:
+- Haptics
+apis: []
+x-common:
+- type: x-feed
+  url: http://www.haptics-e.org/feed/
+- type: x-website
+  url: https://www.haptics-e.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

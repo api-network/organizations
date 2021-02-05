@@ -1,0 +1,54 @@
+---
+name: Camino Update
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/camino-update.yaml
+tags:
+- Camino
+apis: []
+x-common:
+- type: x-blog
+  url: http://caminoupdate.blogspot.com/2005/03/
+- type: x-blog
+  url: http://caminoupdate.blogspot.com/2005/08/
+- type: x-blog
+  url: http://caminoupdate.blogspot.com/2005/10/
+- type: x-blog
+  url: http://caminoupdate.blogspot.com/2005/11/
+- type: x-blog
+  url: http://caminoupdate.blogspot.com/2005/12/
+- type: x-blog
+  url: http://caminoupdate.blogspot.com/2006/01/
+- type: x-blog
+  url: http://caminoupdate.blogspot.com/2006/02/
+- type: x-blog
+  url: http://caminoupdate.blogspot.com/2006/05/
+- type: x-blog
+  url: http://caminoupdate.blogspot.com/2006/06/
+- type: x-blog
+  url: http://caminoupdate.blogspot.com/2006/07/
+- type: x-blog
+  url: http://caminoupdate.blogspot.com/2006/09/
+- type: x-blog
+  url: http://caminoupdate.blogspot.com/2006/10/
+- type: x-blog
+  url: http://caminoupdate.blogspot.com/2007/01/
+- type: x-blog
+  url: http://caminoupdate.blogspot.com/2007/02/
+- type: x-blog
+  url: http://caminoupdate.blogspot.com/2007/03/
+- type: x-forum
+  url: http://forums.mozillazine.org/viewforum.php?f=12
+- type: x-website
+  url: https://caminoupdate.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

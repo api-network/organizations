@@ -1,0 +1,54 @@
+---
+name: Altego
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2540201"
+url: https://raw.githubusercontent.com/api-network/organizations/main/altego.yaml
+tags:
+- Cases And Accessories
+apis: []
+x-common:
+- type: x-website
+  url: http://www.altegobrand.com
+- type: x-about
+  url: https://altegobrand.com/about-us/
+- type: x-about
+  url: http://altegobrand.com/about-us
+- type: x-blog
+  url: https://altegobrand.com/blog/
+- type: x-contact
+  url: https://altegobrand.com/about-us/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/altegobrand
+- type: x-instagram
+  url: http://instagram.com/altegobrand
+- type: x-news
+  url: https://altegobrand.com/about-us/news-reviews/
+- type: x-press
+  url: https://altegobrand.com/about-us/join-the-expression/
+- type: x-privacy
+  url: https://altegobrand.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://altegobrand.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/altegobrand
+- type: x-twitter
+  url: https://www.twitter.com/altegobrand
+- type: x-website
+  url: https://www.altegobrand.com
+- type: x-youtube
+  url: http://www.youtube.com/user/Altegobrand
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=v3_NPhdnAeQ
+- type: x-youtube
+  url: https://www.youtube.com/user/Altegobrand
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,104 @@
+---
+name: Copyblogger
+description: Content marketing tools and training.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "20673"
+url: https://raw.githubusercontent.com/api-network/organizations/main/copyblogger.yaml
+tags:
+- Weblogs
+apis: []
+x-common:
+- type: x-about
+  url: https://copyblogger.com/about/
+- type: x-blog
+  url: https://copyblogger.com/
+- type: x-blog
+  url: https://copyblogger.com/blog/
+- type: x-blog
+  url: https://copyblogger.com/category/podcast/
+- type: x-blog
+  url: https://copyblogger.com/education/
+- type: x-blog
+  url: https://copyblogger.com/certified-content-marketers/
+- type: x-blog
+  url: https://copyblogger.com/guides/
+- type: x-blog
+  url: https://copyblogger.com/author/brian-clark/
+- type: x-blog
+  url: https://copyblogger.com/author/tim/
+- type: x-blog
+  url: https://copyblogger.com/new-look-copyblogger-2020/
+- type: x-blog
+  url: https://copyblogger.com/new-year-new-copyblogger/
+- type: x-blog
+  url: https://copyblogger.com/category/administrivia/
+- type: x-blog
+  url: https://copyblogger.com/category/content-marketing/
+- type: x-blog
+  url: https://copyblogger.com/author/stefanie-flaxman/
+- type: x-blog
+  url: https://copyblogger.com/copyblogger-weekly-165/
+- type: x-blog
+  url: https://copyblogger.com/category/1/
+- type: x-blog
+  url: https://copyblogger.com/category/entrepreneurship/
+- type: x-blog
+  url: https://copyblogger.com/category/freelance-writing/
+- type: x-blog
+  url: https://copyblogger.com/category/writing/
+- type: x-blog
+  url: https://copyblogger.com/well-paid-freelance-writers/
+- type: x-blog
+  url: https://copyblogger.com/author/sonia-simone/
+- type: x-blog
+  url: https://copyblogger.com/get-paid/
+- type: x-blog
+  url: https://copyblogger.com/thought-leadership/
+- type: x-blog
+  url: https://copyblogger.com/copyblogger-weekly-164/
+- type: x-blog
+  url: https://copyblogger.com/advance-your-writing-career/
+- type: x-blog
+  url: https://copyblogger.com/category/editing/
+- type: x-blog
+  url: https://copyblogger.com/get-momentum/
+- type: x-blog
+  url: https://copyblogger.com/category/blogging/
+- type: x-blog
+  url: https://copyblogger.com/copyblogger-weekly-163/
+- type: x-blog
+  url: https://copyblogger.com/category/productivity/
+- type: x-blog
+  url: https://copyblogger.com/page/2/
+- type: x-blog
+  url: https://copyblogger.com/page/3/
+- type: x-blog
+  url: https://copyblogger.com/page/329/
+- type: x-blog
+  url: https://copyblogger.com/comment-policy/
+- type: x-blog
+  url: https://my.copyblogger.com/cookie-policy/
+- type: x-blog
+  url: http://my.copyblogger.com/refund-policy/
+- type: x-contact
+  url: https://copyblogger.com/contact/
+- type: x-login
+  url: http://my.copyblogger.com/login
+- type: x-open-source
+  url: https://copyblogger.com/certification-open-2020/
+- type: x-privacy
+  url: http://my.copyblogger.com/privacy-policy/
+- type: x-terms-of-service
+  url: http://my.copyblogger.com/terms-of-service/
+- type: x-website
+  url: https://www.copyblogger.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

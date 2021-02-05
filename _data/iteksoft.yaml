@@ -1,0 +1,25 @@
+---
+name: ITekSoft
+description: eDocPrinter PDF Pro - A PDF printer driver, PDF creator, PDF writer for
+  you to print to create PDF files directly from your Windows applications with versatile
+  options including stamping watermarks, encryption, overlay with predefined template,
+  adding digital signature, email/upload inetgration, and etc.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4991818"
+url: https://raw.githubusercontent.com/api-network/organizations/main/iteksoft.yaml
+tags:
+- Windows Tools And Drivers
+apis: []
+x-common:
+- type: x-website
+  url: https://www.iteksoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,33 @@
+---
+name: Exchange Rate API
+description: A reliable Exchange Rate API trusted by tens of thousands of developers
+  since 2010! No signup & unlimited currency conversion rate requests for free.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/exchange-rate-api.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "516098"
+url: https://raw.githubusercontent.com/api-network/organizations/main/exchange-rate-api.yaml
+tags:
+- Have API
+- Financial
+- Exchange Rates
+- Currencies
+- API Provider
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-base
+  url: http://www.exchangerate-api.com/
+- type: x-email
+  url: info@exchangerate-api.com
+- type: x-website
+  url: http://www.exchangerate-api.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,53 @@
+---
+name: FastTrack
+description: Manage your online recruiting, timesheet, payroll and billing needs with
+  the FastTrack360 cloud hosted recruitment software, for leading staffing organisations.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3271335"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fasttrack.yaml
+tags:
+- Recruitment Management
+apis: []
+x-common:
+- type: x-about
+  url: https://fasttrack.com.au/about-us/
+- type: x-blog
+  url: https://fasttrack.com.au/blog/
+- type: x-careers
+  url: https://fasttrack.com.au/about-us/careers/
+- type: x-case-studies
+  url: https://fasttrack.com.au/case-studies/
+- type: x-contact
+  url: https://fasttrack.com.au/contact-us/
+- type: x-events
+  url: https://fasttrack.com.au/events/
+- type: x-news
+  url: https://fasttrack.com.au/news/
+- type: x-pricing
+  url: https://fasttrack.com.au/pricing/
+- type: x-privacy
+  url: https://fasttrack.com.au/privacy/
+- type: x-support
+  url: https://fasttrack.com.au/support-services/
+- type: x-support
+  url: https://fasttrack.com.au/support-services/academy/
+- type: x-support
+  url: https://fasttrack.com.au/support-services/funding/
+- type: x-support
+  url: https://fasttrack.com.au/support-services/community/
+- type: x-support
+  url: https://fasttrack.com.au/support-services/referral/
+- type: x-terms-of-service
+  url: https://fasttrack.com.au/terms-conditions/
+- type: x-website
+  url: https://www.fasttrack.com.au
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,121 @@
+---
+name: DataRide
+description: DataRide.Net - Data translation and forwarding services
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dataride.yaml
+tags:
+- Zebra
+- XLS
+- Visual
+- Videojet
+- USPS
+- Txt
+- Translation
+- Translate
+- Transfer
+- Tools
+- Tool
+- Thermal
+- Tab
+- Systems
+- Stobb
+- Sitma
+- Service
+- Separated
+- Separate
+- Scitex
+- Rudy
+- Repairs
+- Repair
+- Records
+- Record
+- Quote
+- Quickbasic
+- Quick
+- Programming
+- Program
+- Prodigy
+- Processing
+- Printer
+- Print
+- Presort
+- Postal
+- PLC
+- Pitney
+- Perl
+- PCL
+- PAVE
+- Packaging
+- Networks
+- Networking
+- Network
+- Mdb
+- Marconi
+- Manifesting
+- Manifest
+- Maintenace
+- Maintain
+- Mailing
+- Mail
+- Machine
+- List
+- Library
+- Lettershop
+- Letter
+- Layouts
+- Layout
+- Laser
+- Language
+- Kirk
+- Joa
+- Jet
+- Integration
+- Integrate
+- Inserting
+- Inserters
+- Inserter
+- Inkjet
+- Ink
+- HTML
+- HP
+- Howell
+- Hewlett Packard
+- Gbr
+- FTP
+- Forwarding
+- Forward
+- Formats
+- Format
+- Folders
+- Folder
+- Files
+- File
+- Excel
+- Edifact
+- EDI
+- Ebcdic
+- Delimited
+- Delimit
+- Dbf
+- Dbase
+- Datamax
+- Database
+- Convert
+- Conversion
+- Control
+- Contract
+apis: []
+x-common:
+- type: x-website
+  url: https://dataride.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,27 @@
+---
+name: Mastercard
+description: Mastercard is a leading global payments & technology company that connects
+  consumers, businesses, merchants, issuers & governments around the world.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26493-developer-mastercard-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "44524"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mastercard.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/mastercard
+- type: x-twitter
+  url: https://twitter.com/MastercardNews
+- type: x-website
+  url: https://developer.mastercard.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

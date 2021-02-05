@@ -1,0 +1,28 @@
+---
+name: HTML 5 Demos and Examples
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10747834"
+url: https://raw.githubusercontent.com/api-network/organizations/main/html-5-demos-and-examples.yaml
+tags:
+- HTML5
+apis: []
+x-common:
+- type: x-contact
+  url: https://bestvpn.org/contact/
+- type: x-press
+  url: https://bestvpn.org/expressvpn-review/
+- type: x-security
+  url: https://bestvpn.org/cybersecurity-statistics/
+- type: x-website
+  url: https://html5demos.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

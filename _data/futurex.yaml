@@ -1,0 +1,33 @@
+---
+name: Futurex
+description: Futurex's enterprise data encryption and key management hardware is trusted
+  by the largest organizations in the world to protect their most sensitive data.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1729476"
+url: https://raw.githubusercontent.com/api-network/organizations/main/futurex.yaml
+tags:
+- Cryptography
+apis: []
+x-common:
+- type: x-website
+  url: http://www.futurex.com/blog
+- type: x-contact
+  url: https://www.olark.com/site/3090-888-10-7913/contact
+- type: x-facebook
+  url: https://www.facebook.com/FuturexLP
+- type: x-linkedin
+  url: https://www.linkedin.com/company/futurex
+- type: x-twitter
+  url: https://twitter.com/futurex
+- type: x-website
+  url: https://www.futurex.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

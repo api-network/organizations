@@ -1,0 +1,50 @@
+---
+name: Azure SignalR
+description: <p><span>The Azure SignalR Service is an Azure service based on&nbsp;</span><a
+  href="https://docs.microsoft.com/aspnet/core/signalr/introduction">ASP.NET Core
+  SignalR</a><span>. ASP.NET Core SignalR is an&nbsp;</span><a href="https://github.com/aspnet/signalr">open
+  source library</a><span>&nbsp;that simplifies the process of adding real-time web
+  functionality to applications over HTTP. This real-time functionality allows the
+  web server to push content updates to connected clients. As a result, clients are
+  updated without the need to poll the server, or submit new HTTP requests for updates.</span></p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/signalr.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "33"
+url: https://raw.githubusercontent.com/api-network/organizations/main/azure-signalr.yaml
+tags:
+- Have API
+apis: []
+x-common:
+- type: x-hacker-news-search
+  url: Azure SignalR
+- type: x-stack-exchange-search
+  url: Azure SignalR
+- type: x-documentation
+  url: https://docs.microsoft.com/aspnet/core
+- type: x-documentation
+  url: https://docs.microsoft.com/previous-versions/
+- type: x-documentation
+  url: https://docs.microsoft.com/teamblog
+- type: x-documentation
+  url: https://docs.microsoft.com/contribute
+- type: x-feed
+  url: https://aka.ms/sitefeedback
+- type: x-github
+  url: https://github.com/aspnet/AzureSignalR-samples
+- type: x-pricing
+  url: https://azure.microsoft.com/en-us/pricing/details/signalr-service/
+- type: x-reddit-search
+  url: Azure SignalR
+- type: x-roadmap
+  url: https://github.com/aspnet/Home/wiki/Roadmap
+- type: x-website
+  url: https://docs.microsoft.com/en-us/azure/azure-signalr/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

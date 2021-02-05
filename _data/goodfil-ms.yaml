@@ -1,0 +1,23 @@
+---
+name: goodfil.ms
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/goodfil-ms.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://goodfil.ms/blog/posts/2012/06/18/netflix-quietly-smothers-3rd-party-app-ecosystem/
+- type: x-website
+  url: http://goodfil.ms
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

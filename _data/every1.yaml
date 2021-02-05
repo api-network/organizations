@@ -1,0 +1,45 @@
+---
+name: every1
+description: We are every1, a digital marketing agency based in Preston, Lancashire.
+  We love helping businesses to reach and appeal to their customers more effectively,
+  it forms the core of everything we do.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29451-helloevery1-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5906124"
+url: https://raw.githubusercontent.com/api-network/organizations/main/every1.yaml
+tags:
+- Web Development
+- Web Design
+- Profile
+- Online PR
+- Marketing
+- Digital Marketing
+- Design And Development
+- API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.helloevery1.com
+- type: x-blog
+  url: https://www.helloevery1.com/bloggers-and-brands-report-2017/
+- type: x-developers
+  url: https://www.helloevery1.com/web-design-agency-preston/magento-development/
+- type: x-email
+  url: some1@helloevery1.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/every1
+- type: x-privacy
+  url: https://www.helloevery1.com/privacy/
+- type: x-twitter
+  url: https://twitter.com/every1marketing
+- type: x-website
+  url: http://helloevery1.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

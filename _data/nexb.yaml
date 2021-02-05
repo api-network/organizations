@@ -1,0 +1,41 @@
+---
+name: nexB
+description: nexB offers open source and third-party software scanning services and
+  tools. nexB provides software audits to help companies identify and manage open
+  source and other third-party software components within their software.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3080616"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nexb.yaml
+tags:
+- Software Due Diligence
+- Software Audit Review
+- Software Audit For Product Release
+- Software Audit For Acquisition Due Diligence
+- Software Audit
+- Open Source License Management
+- Open Source Audit Services
+- NexB
+- M&a Audit
+- Fixed Assets
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/nexB
+- type: x-github
+  url: https://github.com/nexB/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/nexb
+- type: x-website
+  url: https://www.nexb.com
+- type: x-youtube
+  url: https://www.youtube.com/user/DejaCode
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

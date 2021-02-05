@@ -1,0 +1,40 @@
+---
+name: Voice Automated
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6586998"
+url: https://raw.githubusercontent.com/api-network/organizations/main/voice-automated.yaml
+tags:
+- Resellers
+apis: []
+x-common:
+- type: x-blog
+  url: https://voiceautomated.com/blog/
+- type: x-contact
+  url: https://voiceautomated.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/voiceautomated
+- type: x-self-service-registration
+  url: https://voiceautomated.com/my-account/?action=register
+- type: x-support
+  url: https://voiceautomated.com/support/
+- type: x-terms-of-service
+  url: https://voiceautomated.com/dragon-legal-software/
+- type: x-terms-of-service
+  url: https://voiceautomated.com/terms-use/
+- type: x-twitter
+  url: https://twitter.com/voiceautomated
+- type: x-website
+  url: https://www.voiceautomated.com
+- type: x-youtube
+  url: https://www.youtube.com/user/voiceautomated
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

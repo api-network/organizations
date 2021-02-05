@@ -1,0 +1,32 @@
+---
+name: Pop-Up No-No!
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/popup-nono.yaml
+tags:
+- Pop-up Blockers
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.popupnono.com
+- type: x-privacy
+  url: http://popupnono.com/privacy.html
+- type: x-self-service-registration
+  url: http://popupnono.com/cgi-bin/register.pl
+- type: x-support
+  url: http://popupnono.com/help.html
+- type: x-terms-of-service
+  url: http://popupnono.com/legal.html
+- type: x-website
+  url: https://popupnono.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

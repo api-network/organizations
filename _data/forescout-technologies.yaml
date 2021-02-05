@@ -1,0 +1,99 @@
+---
+name: ForeScout Technologies
+description: Forescout is the leader in device visibility and control. Learn how to
+  achieve 100% device visibility, with network segmentation and device management
+  of all connected devices, and automate threat response across campus, data center,
+  cloud and OT environments.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "118181"
+url: https://raw.githubusercontent.com/api-network/organizations/main/forescout-technologies.yaml
+tags:
+- Products And Tools
+apis: []
+x-common:
+- type: x-website
+  url: http://www.forescout.com
+- type: x-blog
+  url: https://www.forescout.com/company/blog/
+- type: x-careers
+  url: https://www.forescout.com/company/careers/
+- type: x-contact
+  url: https://www.forescout.com/contact-us/
+- type: x-customers
+  url: https://www.forescout.com/company/customers/
+- type: x-events
+  url: https://www.forescout.com/company/events/
+- type: x-facebook
+  url: https://www.facebook.com/ForeScoutTechnologies
+- type: x-investor
+  url: https://investors.forescout.com
+- type: x-login
+  url: https://www.forescout.com/support/login/
+- type: x-news
+  url: https://www.forescout.com/company/news/
+- type: x-partner
+  url: https://www.forescout.com/partners/
+- type: x-partner
+  url: https://www.forescout.com/partners/resellers/
+- type: x-partner
+  url: https://www.forescout.com/partners/distributors/
+- type: x-partner
+  url: https://www.forescout.com/partners/system-integrators/
+- type: x-platform
+  url: https://www.forescout.com/platform/
+- type: x-platform
+  url: https://www.forescout.com/platform/eyesight/
+- type: x-platform
+  url: https://www.forescout.com/platform/eyesegment/
+- type: x-platform
+  url: https://www.forescout.com/platform/eyecontrol/
+- type: x-platform
+  url: https://www.forescout.com/platform/eyeextend/
+- type: x-platform
+  url: https://www.forescout.com/platform/eyemanage/
+- type: x-platform
+  url: https://www.forescout.com/platform/silentdefense/
+- type: x-platform
+  url: https://www.forescout.com/platform/counteract/
+- type: x-platform
+  url: https://www.forescout.com/platform/iot/
+- type: x-platform
+  url: https://www.forescout.com/platform/data-center-cloud/
+- type: x-press
+  url: https://www.forescout.com/company/press-kit/
+- type: x-press
+  url: https://www.forescout.com/company/news/press-releases/
+- type: x-security
+  url: https://www.forescout.com/security-disclosure/
+- type: x-support
+  url: https://www.forescout.com/support/services/
+- type: x-support
+  url: https://www.forescout.com/support/support-programs/
+- type: x-support
+  url: https://www.forescout.com/support/get-support/
+- type: x-support
+  url: https://www.forescout.com/support/training/
+- type: x-support
+  url: https://www.forescout.com/support/training/calendar/
+- type: x-support
+  url: https://forescout.force.com/support/s/downloads
+- type: x-terms-of-service
+  url: https://www.forescout.com/company/legal/
+- type: x-twitter
+  url: https://twitter.com/ForeScout
+- type: x-webinars
+  url: https://www.forescout.com/company/events/webinars/
+- type: x-website
+  url: https://www.forescout.com
+- type: x-youtube
+  url: https://www.youtube.com/user/forescout1
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

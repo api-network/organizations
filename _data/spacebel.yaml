@@ -1,0 +1,49 @@
+---
+name: SpaceBel
+description: SPACEBEL, a software engineering company operating in the Space and Earth
+  monitoring applications sectors, serving space agencies.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/spacebel.yaml
+tags:
+- Satellites Simulators
+- On-board Software
+- Geospatial Information System
+- Embedded Systems
+- Earth Observation Services
+apis: []
+x-common:
+- type: x-about
+  url: https://www.spacebel.be/about-us/presentation/
+- type: x-about
+  url: https://www.spacebel.be/about-us/mission/
+- type: x-about
+  url: https://www.spacebel.be/about-us/team/
+- type: x-about
+  url: https://www.spacebel.be/about-us/sites/
+- type: x-about
+  url: https://www.spacebel.be/about-us/history/
+- type: x-contact
+  url: https://www.spacebel.be/contact/
+- type: x-events
+  url: https://www.spacebel.be/events/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/27185
+- type: x-news
+  url: https://www.spacebel.be/category/news/
+- type: x-privacy
+  url: https://www.spacebel.be/privacy-policy/
+- type: x-twitter
+  url: http://www.twitter.com/spacebelsa/
+- type: x-website
+  url: https://www.spacebel.be
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

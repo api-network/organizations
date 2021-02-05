@@ -1,0 +1,37 @@
+---
+name: Grocery List Generator
+description: Grocery List Generator App - Grocery shopping, reinvented
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/grocery-list-generator.yaml
+tags:
+- Store
+- Recipes
+- IPhone
+- Grocery List Generator
+- Grocery
+- Groceries
+- Glgapp
+- GLG
+- FAQ
+- Boodschappen
+- App
+- Add-Ons
+apis: []
+x-common:
+- type: x-website
+  url: http://www.grocerylistgenerator.com
+- type: x-twitter
+  url: http://twitter.com/glgapp
+- type: x-website
+  url: https://www.grocerylistgenerator.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

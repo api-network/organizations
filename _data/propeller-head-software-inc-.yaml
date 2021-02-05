@@ -1,0 +1,33 @@
+---
+name: Propeller Head Software, Inc.
+description: The best solution for Roof Asset Management, Roof Inspection Reports,
+  Service Management and more. Fully Mobile Compatible.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/propeller-head-software-inc-.yaml
+tags:
+- Construction
+apis: []
+x-common:
+- type: x-about
+  url: https://www.roofmanager.com/about_us
+- type: x-facebook
+  url: https://www.facebook.com/RoofManager/?ref=hl
+- type: x-showcase
+  url: https://www.linkedin.com/showcase/roofmanager%C2%AE
+- type: x-support
+  url: https://www.roofmanager.com/support
+- type: x-twitter
+  url: https://twitter.com/RoofManagerWeb
+- type: x-website
+  url: https://roofmanager.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

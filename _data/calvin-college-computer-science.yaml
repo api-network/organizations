@@ -1,0 +1,76 @@
+---
+name: Calvin College Computer Science
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "48351"
+url: https://raw.githubusercontent.com/api-network/organizations/main/calvin-college-computer-science.yaml
+tags:
+- Michigan
+apis: []
+x-common:
+- type: x-about
+  url: https://calvin.edu/about/
+- type: x-about
+  url: https://calvin.edu/about/copyright.html
+- type: x-about
+  url: https://calvin.edu/about/key-facts/accreditation.html
+- type: x-about
+  url: https://calvin.edu/about/key-facts
+- type: x-about
+  url: https://calvin.edu/about/who-we-are/
+- type: x-about
+  url: https://calvin.edu/about/history/
+- type: x-about
+  url: https://calvin.edu/about/outcomes/
+- type: x-about
+  url: https://calvin.edu/about/administration/
+- type: x-about
+  url: https://calvin.edu/about/diversity-inclusion/
+- type: x-about
+  url: https://calvin.edu/about/sustainability/
+- type: x-about
+  url: https://calvin.edu/about/media-center/
+- type: x-about
+  url: https://calvin.edu/about/campus-location/
+- type: x-about
+  url: https://calvin.edu/about/heoa.html
+- type: x-careers
+  url: https://computing.calvin.edu/careers-outcomes/
+- type: x-careers
+  url: https://cs.calvin.edu/images/department/jobs/2028/
+- type: x-careers
+  url: https://calvin.edu/student-life/careers-outcomes/
+- type: x-contact
+  url: https://calvin.edu/admissions/contact/request/
+- type: x-contact
+  url: https://calvin.edu/about/contact/
+- type: x-contact
+  url: https://calvin.edu/admissions/contact/
+- type: x-events
+  url: https://calvin.edu/arts/events.html
+- type: x-facebook
+  url: https://www.facebook.com/calvincollege
+- type: x-instagram
+  url: https://www.instagram.com/calvincollege/
+- type: x-linkedin
+  url: https://www.linkedin.com/edu/calvin-college-18596
+- type: x-news
+  url: https://calvin.edu/arts/news.html
+- type: x-support
+  url: https://calvin.edu/support/
+- type: x-twitter
+  url: https://twitter.com/calvincollege
+- type: x-website
+  url: https://cs.calvin.edu
+- type: x-youtube
+  url: https://www.youtube.com/CalvinCollege
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

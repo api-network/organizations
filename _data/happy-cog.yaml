@@ -1,0 +1,37 @@
+---
+name: Happy Cog
+description: Happy Cog is an award-winning, full-service digital agency. We offer
+  web development, design & branding, and digital marketing services.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "458349"
+url: https://raw.githubusercontent.com/api-network/organizations/main/happy-cog.yaml
+tags:
+- Companies And Consultants
+apis: []
+x-common:
+- type: x-website
+  url: http://happycog.com
+- type: x-careers
+  url: https://www.happycog.com/careers/
+- type: x-contact
+  url: https://www.happycog.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/happycog
+- type: x-instagram
+  url: https://www.instagram.com/happycog/
+- type: x-news
+  url: https://www.happycog.com/news-culture/
+- type: x-twitter
+  url: https://twitter.com/happycog
+- type: x-website
+  url: https://www.happycog.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

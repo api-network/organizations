@@ -1,0 +1,33 @@
+---
+name: Industrial Audio Software
+description: Software for podcasting, includes podcasting creation, audio recording
+  software, download managers and more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/industrial-audio-software.yaml
+tags:
+- Podcasts
+- Podcasting Tools
+- Podcasting Software
+- Podcasting Feed
+- Podcasting Directories
+- Podcaster
+- Podcast Software
+- Podcast Resource
+- Podcast Feed
+- Podcast
+- Broadcast
+apis: []
+x-common:
+- type: x-website
+  url: https://www.industrialaudiosoftware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

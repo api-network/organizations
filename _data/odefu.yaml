@@ -1,0 +1,102 @@
+---
+name: OdeFu
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/odefu.yaml
+tags:
+- Weblogs
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.blogger.com/profile/13722314480601394379
+- type: x-blog
+  url: https://odefu.blogspot.com/2010/04/undeath.html
+- type: x-blog
+  url: http://www.adom.de/blog/2008/12/08/the-state-of-jade/
+- type: x-blog
+  url: https://odefu.blogspot.com/2008/09/small-update.html
+- type: x-blog
+  url: https://odefu.blogspot.com/2008/06/nehe-update.html
+- type: x-blog
+  url: https://odefu.blogspot.com/search/label/NeHe
+- type: x-blog
+  url: https://odefu.blogspot.com/
+- type: x-blog
+  url: http://kirkmcdonald.blogspot.com/
+- type: x-blog
+  url: http://dilbertblog.typepad.com/
+- type: x-blog
+  url: http://dblog.aldacron.net/
+- type: x-blog
+  url: http://while-nan.blogspot.com/
+- type: x-blog
+  url: https://odefu.blogspot.com/2010/
+- type: x-blog
+  url: https://odefu.blogspot.com/2010/06/
+- type: x-blog
+  url: https://odefu.blogspot.com/2010/04/
+- type: x-blog
+  url: https://odefu.blogspot.com/2008/
+- type: x-blog
+  url: https://odefu.blogspot.com/2008/12/
+- type: x-blog
+  url: https://odefu.blogspot.com/2008/09/
+- type: x-blog
+  url: https://odefu.blogspot.com/2008/06/
+- type: x-blog
+  url: https://odefu.blogspot.com/2008/04/
+- type: x-blog
+  url: https://odefu.blogspot.com/2008/03/
+- type: x-blog
+  url: https://odefu.blogspot.com/2008/01/
+- type: x-blog
+  url: https://odefu.blogspot.com/2007/
+- type: x-blog
+  url: https://odefu.blogspot.com/2007/10/
+- type: x-blog
+  url: https://odefu.blogspot.com/2007/08/
+- type: x-blog
+  url: https://odefu.blogspot.com/2007/07/
+- type: x-blog
+  url: https://odefu.blogspot.com/2007/06/
+- type: x-blog
+  url: https://odefu.blogspot.com/2007/05/
+- type: x-blog
+  url: https://odefu.blogspot.com/2007/04/
+- type: x-blog
+  url: https://odefu.blogspot.com/2007/03/
+- type: x-blog
+  url: https://odefu.blogspot.com/2007/02/
+- type: x-blog
+  url: https://odefu.blogspot.com/2007/01/
+- type: x-code
+  url: http://odefu.googlecode.com/svn/trunk/D/Dice/dice.d
+- type: x-code
+  url: http://code.google.com/p/odefu/
+- type: x-code
+  url: http://www.cokeandcode.com/kevsblog
+- type: x-developer
+  url: http://nehe.gamedev.net/wiki/NeHeProductionsWiki.ashx
+- type: x-developer
+  url: http://nehe.gamedev.net/wiki/NewLessons.ashx
+- type: x-developer
+  url: http://nehe.gamedev.net/
+- type: x-feed
+  url: https://odefu.blogspot.com/feeds/posts/default
+- type: x-forum
+  url: http://dsource.org/forums/
+- type: x-open-source
+  url: http://opengl.org/
+- type: x-website
+  url: https://odefu.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

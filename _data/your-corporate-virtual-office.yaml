@@ -1,0 +1,37 @@
+---
+name: Your Corporate Virtual Office
+description: AfterOffice offers web based office and mobile broadband business solutions
+  that enables enterprise to manage, communicate and collaborate fast and easy.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7279339"
+url: https://raw.githubusercontent.com/api-network/organizations/main/your-corporate-virtual-office.yaml
+tags:
+- Virtual Office
+- Soho
+- SME
+- Personal Information Managers
+- Office
+- Enterprise
+- Company
+- BYOD
+- Business
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/afteroffice.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/afteroffice-com
+- type: x-support
+  url: https://afteroffice.com/support/doku.php?id=start
+- type: x-website
+  url: https://www.afteroffice.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

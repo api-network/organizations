@@ -1,0 +1,52 @@
+---
+name: ZeroTurnaround
+description: "ZeroTurnaround was a software company founded by Jevgeni Kabanov and
+  Toomas R\xF6mer in 2007."
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28955-zeroturnaround-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1012140"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zeroturnaround.yaml
+tags: []
+apis: []
+x-common:
+- type: x-careers
+  url: https://www.perforce.com/careers
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/zeroturnaround
+- type: x-email
+  url: support@zeroturnaround.com
+- type: x-email
+  url: xrebel@zeroturnaround.com
+- type: x-email
+  url: android@zeroturnaround.com
+- type: x-email
+  url: sales@zeroturnaround.com
+- type: x-email
+  url: accounting@zeroturnaround.com
+- type: x-email
+  url: marketing@zeroturnaround.com
+- type: x-email
+  url: careers@zeroturnaround.com
+- type: x-email
+  url: careersus@zeroturnaround.com
+- type: x-email
+  url: sales-operations@zeroturnaround.com
+- type: x-email
+  url: help@zeroturnaround.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/jrebel/
+- type: x-twitter
+  url: https://twitter.com/JRebel_Java
+- type: x-twitter
+  url: https://twitter.com/zeroturnaround
+- type: x-website
+  url: https://zeroturnaround.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

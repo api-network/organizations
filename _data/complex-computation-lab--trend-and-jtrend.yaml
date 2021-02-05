@@ -1,0 +1,22 @@
+---
+name: Complex Computation Lab - Trend and jTrend
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6774"
+url: https://raw.githubusercontent.com/api-network/organizations/main/complex-computation-lab--trend-and-jtrend.yaml
+tags:
+- Cellular Automata
+apis: []
+x-common:
+- type: x-website
+  url: https://www.complex.iastate.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

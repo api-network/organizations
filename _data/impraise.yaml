@@ -1,0 +1,67 @@
+---
+name: Impraise
+description: Impraise is a performance management solution that allows you to utilize
+  real-time feedback, check-ins, reviews, and goals to develop your people.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "23512"
+url: https://raw.githubusercontent.com/api-network/organizations/main/impraise.yaml
+tags:
+- Testing And Evaluation
+apis: []
+x-common:
+- type: x-website
+  url: https://www.impraise.com/
+- type: x-about
+  url: https://www.impraise.com/about-us
+- type: x-blog
+  url: https://www.impraise.com/resources/blog
+- type: x-careers
+  url: https://jobs.impraise.com/
+- type: x-careers
+  url: http://jobs.impraise.com
+- type: x-contact
+  url: https://www.impraise.com/contact-us
+- type: x-facebook
+  url: https://www.facebook.com/impraiseapp/
+- type: x-instagram
+  url: https://www.instagram.com/impraise_/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/impraise/
+- type: x-login
+  url: https://app.impraise.com/account/login
+- type: x-platform
+  url: https://www.impraise.com/platform/overview
+- type: x-platform
+  url: https://www.impraise.com/platform/reviews
+- type: x-platform
+  url: https://www.impraise.com/platform/1-1s
+- type: x-platform
+  url: https://www.impraise.com/platform/goal-management
+- type: x-platform
+  url: https://www.impraise.com/platform/real-time-feedback
+- type: x-platform
+  url: https://www.impraise.com/platform/check-ins
+- type: x-press
+  url: https://www.impraise.com/press
+- type: x-pricing
+  url: https://www.impraise.com/packaging-and-pricing
+- type: x-privacy
+  url: https://www.impraise.com/privacy-policy
+- type: x-security
+  url: https://www.impraise.com/trust-and-security
+- type: x-twitter
+  url: https://twitter.com/impraise
+- type: x-webinars
+  url: https://www.impraise.com/resources/webinars
+- type: x-website
+  url: https://www.impraise.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

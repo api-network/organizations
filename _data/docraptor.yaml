@@ -1,0 +1,54 @@
+---
+name: DocRaptor
+description: 'Forget tedious coding or server management: Our simple API that makes
+  it easy to convert HTML to PDF, XLS and Excel files.'
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/576-docraptor.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "470333"
+url: https://raw.githubusercontent.com/api-network/organizations/main/docraptor.yaml
+tags:
+- PDF
+- Office
+- Have API
+- Documents
+- Conversions
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: https://docraptor.com
+- type: x-base
+  url: https://docraptor.com/docs
+- type: x-blog
+  url: http://docraptor.com/blog
+- type: x-blog
+  url: http://docraptor.com/blog
+- type: x-blog-rss
+  url: http://docraptor.com/blog/atom.xml
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/docraptor
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/docraptor
+- type: x-developers
+  url: http://docraptor.com/documentation
+- type: x-email
+  url: support@docraptor.com
+- type: x-email
+  url: YOUR_API_KEY_HERE@docraptor.com
+- type: x-github
+  url: https://github.com/docraptor
+- type: x-pricing
+  url: https://docraptor.com/signup
+- type: x-twitter
+  url: https://twitter.com/doc_raptor
+- type: x-website
+  url: http://docraptor.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

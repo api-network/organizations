@@ -1,0 +1,60 @@
+---
+name: zipLogix
+description: "At zipLogix\u2122, we are committed to utilizing the latest technology
+  to streamline and simplify the real estate transaction process for brokers and agents.
+  We leverage our deep understanding of every phase of a real estate deal to create
+  efficiencies within your work process to make your job easier. Providing electronic
+  tools that shorten the time spent on each step, we integrate trusted, secure data
+  connectivity and management systems into your workflow to help you save time and
+  work smarter."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "360596"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ziplogix.yaml
+tags:
+- Forms And Closings
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ziplogix.com
+- type: x-about
+  url: https://ziplogix.com/about-us/
+- type: x-about
+  url: https://ziplogix.com/about-us/#ourstory
+- type: x-about
+  url: https://ziplogix.com/about-us/#whatwedo
+- type: x-about
+  url: https://ziplogix.com/about-us/#whoweare
+- type: x-contact
+  url: https://ziplogix.com/contact-us/
+- type: x-events
+  url: https://ziplogix.com/ziplogix-events/
+- type: x-facebook
+  url: https://www.facebook.com/zipLogixTM/
+- type: x-integrations
+  url: https://ziplogix.com/integrations/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/ziplogix
+- type: x-press
+  url: https://ziplogix.com/press/press-releases/
+- type: x-support
+  url: https://ziplogix.com/support/
+- type: x-support
+  url: https://ziplogix.com/support/maintenance-schedule/
+- type: x-twitter
+  url: https://twitter.com/zipLogix
+- type: x-website
+  url: https://www.ziplogix.com
+- type: x-youtube
+  url: https://www.youtube.com/ziplogix
+- type: x-youtube
+  url: https://www.youtube.com/user/zipLogix
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

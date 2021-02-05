@@ -1,0 +1,29 @@
+---
+name: RealChat Software
+description: Real Chat was originally a free chat server but now also offers free
+  online chatrooms with real people looking for real video chat fun.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4719233"
+url: https://raw.githubusercontent.com/api-network/organizations/main/realchat-software.yaml
+tags:
+- Real Chat
+- Java
+- Hosted Chat For Web Sites
+- Free Online Chat
+- Chat Server Software
+- Chat
+- Add Chat To Website
+apis: []
+x-common:
+- type: x-website
+  url: https://www.realchat.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

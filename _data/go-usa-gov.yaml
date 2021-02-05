@@ -1,0 +1,29 @@
+---
+name: Go.USA.gov
+description: We help you discover official U.S. government information and services
+  on the Internet.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1420_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7722"
+url: https://raw.githubusercontent.com/api-network/organizations/main/go-usa-gov.yaml
+tags:
+- URL Shorteners
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/us-government
+- type: x-twitter
+  url: https://twitter.com/USAgov
+- type: x-website
+  url: https://go.usa.gov/api
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

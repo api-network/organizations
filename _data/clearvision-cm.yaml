@@ -1,0 +1,60 @@
+---
+name: Clearvision CM
+description: Clearvision provide Consultancy, technical implementation, hosting, training,
+  and support packages for Jira, Confluence, and the Atlassian stack.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "984754"
+url: https://raw.githubusercontent.com/api-network/organizations/main/clearvision-cm.yaml
+tags:
+- Tools
+- ClearCase
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.clearvision-cm.com/blog/
+- type: x-careers
+  url: https://www.clearvision-cm.com/careers/
+- type: x-contact
+  url: https://www.clearvision-cm.com/contact-us/
+- type: x-customers
+  url: https://customersupport.clearvision-cm.com
+- type: x-events
+  url: https://www.clearvision-cm.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/ClearvisionCM/
+- type: x-instagram
+  url: https://www.instagram.com/clearvisionhq/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/clearvision/
+- type: x-news
+  url: https://www.clearvision-cm.com/news/
+- type: x-partner
+  url: https://www.clearvision-cm.com/partners/
+- type: x-partner
+  url: https://www.clearvision-cm.com/partners/alm-works/
+- type: x-partner
+  url: https://www.clearvision-cm.com/partners/comalatech/
+- type: x-partner
+  url: https://www.clearvision-cm.com/partners/easy-agile/
+- type: x-partner
+  url: https://www.clearvision-cm.com/partners/eazybi/
+- type: x-partner
+  url: https://www.clearvision-cm.com/partners/mavenlink/
+- type: x-support
+  url: https://www.clearvision-cm.com/atlassian-support/
+- type: x-terms-of-service
+  url: https://www.clearvision-cm.com/company/legal/
+- type: x-twitter
+  url: https://twitter.com/clearvisioncm/
+- type: x-website
+  url: https://www.clearvision-cm.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

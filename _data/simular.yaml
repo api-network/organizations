@@ -1,0 +1,56 @@
+---
+name: SimulAr
+description: Monte Carlo simulation in Excel - Simulacion de Monte Carlo en Excel
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2926007"
+url: https://raw.githubusercontent.com/api-network/organizations/main/simular.yaml
+tags:
+- Variables
+- Uncertainty
+- Uncertain
+- Statistics
+- Simulation
+- Simulacion
+- Risk
+- Riesgo
+- Optimization
+- Optimizacion
+- Montecarlo
+- Monte
+- Models
+- Modelos
+- Modelo
+- Model
+- Machain
+- Luciano
+- Incertidumbre
+- Finanzas
+- Finance
+- Excel
+- Estadistica
+- Economics
+- Economia
+- Distribution
+- Distribucion
+- Crystal Ball
+- Complemento
+- Carlo
+- Analysis
+- Analisis
+- Add-Ins
+- Add-In
+- '@risk'
+apis: []
+x-common:
+- type: x-website
+  url: https://www.simularsoft.com.ar
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

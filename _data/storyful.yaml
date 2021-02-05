@@ -1,0 +1,33 @@
+---
+name: Storyful
+description: Storyful is the leading social media intelligence and news agency that
+  sources, verifies and acquires UGC and insights for media and brand partners.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26589-storyful.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "132361"
+url: https://raw.githubusercontent.com/api-network/organizations/main/storyful.yaml
+tags:
+- News
+apis: []
+x-common:
+- type: x-website
+  url: http://www.storyful.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/storyful
+- type: x-email
+  url: press@storyful.com
+- type: x-email
+  url: privacy@storyful.com
+- type: x-twitter
+  url: https://twitter.com/Storyful
+- type: x-website
+  url: http://storyful.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

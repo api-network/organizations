@@ -1,0 +1,31 @@
+---
+name: FedFis
+description: FedFis, Financial Institution Data, Bank data, Credit Union Data, FI
+  Contact Data, fi data, Bank Ratings, Mergers and Acquisitions, Bank emails, FinTegration
+  Ecosystem,  Core Processor, Online Banking, Mobile Banking, Debit processor, credit
+  processor, fi
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28793-www-fedfis-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "2"
+x-alexaRank: "16335466"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fedfis.yaml
+tags:
+- Banking
+apis: []
+x-common:
+- type: x-website
+  url: http://FEDFIS.com
+- type: x-email
+  url: info@FedFis.com
+- type: x-twitter
+  url: https://twitter.com/FedFis1
+- type: x-website
+  url: https://www.fedfis.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,50 @@
+---
+name: Integro Technologies
+description: 'Integro Technologies is a machine vision integrator providing turnkey
+  machine vision inspection systems: 2D and 3D imaging, robotics, automation, and
+  more.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1022890"
+url: https://raw.githubusercontent.com/api-network/organizations/main/integro-technologies.yaml
+tags:
+- Automation
+apis: []
+x-common:
+- type: x-website
+  url: http://www.integro-tech.com
+- type: x-about
+  url: https://www.integro-tech.com/about-us
+- type: x-about
+  url: https://www.integro-tech.com/about-us/
+- type: x-blog
+  url: https://www.integro-tech.com/blog
+- type: x-blog
+  url: http://www.integro-tech.com/blog/
+- type: x-contact
+  url: https://www.integro-tech.com/contact
+- type: x-facebook
+  url: https://www.facebook.com/IntegroTech/
+- type: x-partner
+  url: https://www.integro-tech.com/partners-of-integro
+- type: x-partner
+  url: https://www.integro-tech.com/partner-products
+- type: x-twitter
+  url: https://www.twitter.com/IntegroTech
+- type: x-twitter
+  url: https://twitter.com/IntegroTech
+- type: x-webinars
+  url: https://www.integro-tech.com/upcoming-webinars-2
+- type: x-website
+  url: https://www.integro-tech.com
+- type: x-youtube
+  url: https://www.youtube.com/user/IntegroTech
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

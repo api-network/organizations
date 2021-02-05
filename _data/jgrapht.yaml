@@ -1,0 +1,46 @@
+---
+name: JGraphT
+description: a Java library of graph theory data structures and algorithms
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3561433"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jgrapht.yaml
+tags:
+- Math And Calculations
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/jgrapht
+- type: x-github
+  url: https://github.com/jgrapht/jgrapht
+- type: x-github
+  url: https://github.com/jgrapht/jgrapht#using-via-maven
+- type: x-github
+  url: https://github.com/jgrapht/jgrapht/wiki
+- type: x-github
+  url: https://github.com/jgrapht/jgrapht#release-contents
+- type: x-github
+  url: https://github.com/jgrapht/jgrapht/issues
+- type: x-github
+  url: https://github.com/jgrapht/jgrapht/pulls
+- type: x-github
+  url: https://github.com/jgrapht/jgrapht#dependencies
+- type: x-github
+  url: https://github.com/jekyll/jekyll
+- type: x-github
+  url: https://github.com/t413/SinglePaged
+- type: x-github
+  url: https://github.com/pages-themes/primer
+- type: x-terms-of-service
+  url: https://www.eclipse.org/legal/epl-2.0/
+- type: x-website
+  url: https://jgrapht.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

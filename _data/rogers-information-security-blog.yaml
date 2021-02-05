@@ -1,0 +1,63 @@
+---
+name: Rogers Information Security Blog
+description: ""
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Roger_s_Information_Security_Blog_-_Since_2004__a_source_for_ranting__reviews_and_InfoSec_news.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8236691"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rogers-information-security-blog.yaml
+tags:
+- Security Blogs
+- Have API
+apis: []
+x-common:
+- type: x-about
+  url: https://www.infosecblog.org/about/
+- type: x-blog
+  url: https://www.infosecblog.org/
+- type: x-blog
+  url: https://www.infosecblog.org/2019/05/beginners-mind/
+- type: x-blog
+  url: https://www.infosecblog.org/author/roger/
+- type: x-blog
+  url: https://www.infosecblog.org/category/general/
+- type: x-blog
+  url: https://www.infosecblog.org/category/microsoft/
+- type: x-blog
+  url: https://www.infosecblog.org/2018/10/kanyes-password/
+- type: x-blog
+  url: https://www.infosecblog.org/2018/08/airplay-annoyance/
+- type: x-blog
+  url: https://www.infosecblog.org/category/apple/
+- type: x-blog
+  url: https://www.infosecblog.org/tag/apple/
+- type: x-blog
+  url: https://www.infosecblog.org/tag/humor/
+- type: x-blog
+  url: https://www.infosecblog.org/2018/06/testing/
+- type: x-blog
+  url: https://www.infosecblog.org/category/housekeeping/
+- type: x-blog
+  url: https://www.infosecblog.org/2018/06/testing/#comments
+- type: x-blog
+  url: https://www.infosecblog.org/2017/05/smbv1-isnt-safe/
+- type: x-blog
+  url: https://www.infosecblog.org/page/2/
+- type: x-blog-rss
+  url: http://www.infosecblog.org/feed
+- type: x-feed
+  url: https://www.infosecblog.org/feed
+- type: x-twitter
+  url: https://twitter.com/infosectweet
+- type: x-twitter
+  url: https://www.twitter.com/infosectweet
+- type: x-website
+  url: https://www.infosecblog.org/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

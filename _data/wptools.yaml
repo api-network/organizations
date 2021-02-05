@@ -1,0 +1,44 @@
+---
+name: WPTools
+description: "Die ZIERSCH GmbH hat sich auf die Entwicklung und den Vertrieb von hochpr\xE4zisen
+  Flachschleifmaschinen, Profilschleifmaschinen und Portalschleifmaschinen spezialisiert."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10450741"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wptools.yaml
+tags:
+- Ziersch
+- Vollschnittschleifen
+- Schleifzentrum
+- Schleifmittel
+- Schleifmaschinen
+- Schleifmaschine
+- Schleiferei
+- Schleifer
+- Schleifen
+- Schleifbearbeitung
+- Schleifautomat
+- Profilschleifmaschinen
+- Profilschleifmaschine
+- Profilschleifen
+- Portalschleifmaschinen
+- Maschinenbau
+- Ilmenau
+- Flachschleifmaschinen
+- Flachschleifmaschine
+- Flachschleifen
+- Finish
+- Components
+apis: []
+x-common:
+- type: x-website
+  url: https://www.ziersch.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

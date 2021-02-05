@@ -1,0 +1,34 @@
+---
+name: Mobile Inquirer - Mobile News
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7570741"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mobile-inquirer--mobile-news.yaml
+tags:
+- News And Media
+apis: []
+x-common:
+- type: x-website
+  url: http://www.youtube.com/watch?v=LQtHQi_0sSA
+- type: x-about
+  url: https://www.mobileinquirer.com/about/
+- type: x-contact
+  url: https://www.mobileinquirer.com/contact-us/
+- type: x-news
+  url: https://www.mobileinquirer.com/category/tablet-news/
+- type: x-terms-of-service
+  url: https://www.mobileinquirer.com/category/legal/
+- type: x-twitter
+  url: https://twitter.com/mobileinquirer
+- type: x-website
+  url: https://www.mobileinquirer.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

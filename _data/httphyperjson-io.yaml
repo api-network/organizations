@@ -1,0 +1,39 @@
+---
+name: http://hyperjson.io
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/httphyperjson-io.yaml
+tags: []
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/the-hypermedia-project/charter
+- type: x-github
+  url: http://github.com/inadarei/hyper
+- type: x-github
+  url: https://github.com/apiacademy/representor
+- type: x-github
+  url: https://rwcbook.github.io/hal-forms/
+- type: x-github
+  url: https://rwcbook.github.io/wstl-spec/
+- type: x-github
+  url: https://github.com/smizell/hyperdescribe
+- type: x-github
+  url: http://rwcbook.github.io/pod-spec/
+- type: x-github
+  url: https://github.com/dret/hyperpedia
+- type: x-github
+  url: https://github.com/kevinswiber/siren
+- type: x-website
+  url: http://hyperjson.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

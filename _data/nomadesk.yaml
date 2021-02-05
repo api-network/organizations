@@ -1,0 +1,48 @@
+---
+name: NomaDesk
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nomadesk.yaml
+tags:
+- Storage
+apis: []
+x-common:
+- type: x-website
+  url: http://www.nomadesk.com
+- type: x-about
+  url: https://www.nomadesk.com/about-our-company/
+- type: x-facebook
+  url: https://www.facebook.com/Nomadesk
+- type: x-instagram
+  url: http://www.instagram.com/nomadesk_cloudservices
+- type: x-linkedin
+  url: https://www.linkedin.com/company/nomadesk
+- type: x-partner
+  url: https://secure.nomadesk.com/partner/user
+- type: x-partner
+  url: https://secure.nomadeskpartner.com/api-documentation/
+- type: x-partner
+  url: https://secure.nomadesk.com/partner/signup
+- type: x-partner
+  url: https://secure.nomadesk.com/partner/
+- type: x-press
+  url: http://dlwordpress.com/
+- type: x-signup
+  url: https://mynomadesk.com/signup
+- type: x-terms-of-service
+  url: https://www.nomadesk.com/terms-policies/
+- type: x-twitter
+  url: https://twitter.com/nomadesk
+- type: x-website
+  url: https://www.nomadesk.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

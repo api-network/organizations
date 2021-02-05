@@ -1,0 +1,41 @@
+---
+name: SmartShare Systems
+description: Are you dependent on a stable internet? SmartShare is unique bandwidth
+  optimization that guarantees a fast and reliable internet connection for everyone.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/smartshare-systems.yaml
+tags:
+- Manufacturers
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.smartsharesystems.com/contact/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/smartshare-systems
+- type: x-login
+  url: https://www.smartsharesystems.com/radius-uni-login/
+- type: x-news
+  url: https://www.smartsharesystems.com/en/news/
+- type: x-open-source
+  url: https://www.smartsharesystems.com/open-internet/
+- type: x-privacy
+  url: https://www.smartsharesystems.com/privacypolicy/
+- type: x-support
+  url: https://www.smartsharesystems.com/smartshare-support/
+- type: x-terms-of-service
+  url: https://www.smartsharesystems.com/terms-of-sales/
+- type: x-website
+  url: https://www.smartsharesystems.com
+- type: x-white-papers
+  url: https://www.smartsharesystems.com/white-papers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

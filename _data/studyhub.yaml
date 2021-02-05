@@ -1,0 +1,50 @@
+---
+name: StudyHub
+description: StudyHub is a comprehensive web-based application, allowing the creation
+  of tailor-made websites for any academic course. Enable the structured exchange
+  of course-related information.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/studyhub.yaml
+tags:
+- Web-Based
+- VLE
+- Virtual Learning Environment
+- University
+- Teach
+- Studyhub
+- Student
+- On-line Teaching
+- Module
+- MLE
+- Managed Learning Environment
+- Lecturing
+- Lecturer
+- Learn
+- Higher Education
+- Elearning
+- Education Resources
+- E-Learning
+- Distance Learning
+- Course
+- Content Management
+- Authoring
+- Academic
+- .edu
+- .ac.uk
+apis: []
+x-common:
+- type: x-login
+  url: http://www.studyhub.co.uk//index.cgi?part=login
+- type: x-website
+  url: https://www.studyhub.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

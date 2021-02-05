@@ -1,0 +1,39 @@
+---
+name: Rubular
+description: Ruby-based regular expression editor/tester
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "178432"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rubular.yaml
+tags:
+- Tools
+- Tool
+- Tester
+- Ruby
+- REgular Expressions
+- Regular Expression
+- Regexp
+- RegEx
+- Rails
+- Programming
+- Editor
+- Development
+apis: []
+x-common:
+- type: x-website
+  url: http://lovitt.net
+- type: x-twitter
+  url: https://twitter.com/rubular
+- type: x-twitter
+  url: https://twitter.com/lovitt
+- type: x-website
+  url: https://rubular.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

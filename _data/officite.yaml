@@ -1,0 +1,45 @@
+---
+name: Officite
+description: Officite provides mobile-responsive websites, search engine optimization,
+  social media and reputation management for medical and healthcare practices.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "295478"
+url: https://raw.githubusercontent.com/api-network/organizations/main/officite.yaml
+tags:
+- Health And Medical
+apis: []
+x-common:
+- type: x-website
+  url: http://www.officite.com
+- type: x-blog
+  url: https://www.officite.com/blog/
+- type: x-careers
+  url: https://www.officite.com/careers/
+- type: x-contact
+  url: https://www.officite.com/contact-us/support-request/
+- type: x-events
+  url: https://www.officite.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/officite
+- type: x-linkedin
+  url: https://www.linkedin.com/company/officite
+- type: x-partner
+  url: https://www.officite.com/partners/
+- type: x-terms-of-service
+  url: https://www.internetbrands.com/ibterms/
+- type: x-twitter
+  url: https://www.twitter.com/officite
+- type: x-webinars
+  url: https://www.officite.com/webinars/
+- type: x-website
+  url: https://www.officite.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

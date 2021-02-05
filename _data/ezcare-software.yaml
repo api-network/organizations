@@ -1,0 +1,33 @@
+---
+name: EZCare Software
+description: EZCare leads the pack with online childcare management software packed
+  with tools, reports, tuition processing and more. Start your free trial today!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ezcare-software.yaml
+tags:
+- Daycare
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.ezcaresoftware.com/childcare-blog/
+- type: x-contact
+  url: https://www.ezcaresoftware.com/company/contact-us/
+- type: x-news
+  url: https://www.ezcaresoftware.com/company/news/
+- type: x-pricing
+  url: https://www.ezcaresoftware.com/pricing/
+- type: x-website
+  url: https://www.ezcare2.com
+- type: x-youtube
+  url: https://youtube.com/watch?v=QyuQhjr1vpE
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

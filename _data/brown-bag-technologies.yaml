@@ -1,0 +1,48 @@
+---
+name: Brown Bag Technologies
+description: Brown Bag Technologies is an online reseller of office supplies and furniture,
+  printing supplies, and computer equipment. Brown Bag Technologies Corp. (BBT Corp.),
+  represents many manufacturers either through direct relationships or through its
+  relations with master distributors. Brown Bag Technologies Corp, operates many online
+  properties with various product mixes, based on location such as country, products
+  warehouses and shipping points, and search engine optimization to maximize its web
+  presence.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/brown-bag-technologies.yaml
+tags:
+- Supplies
+apis: []
+x-common:
+- type: x-about
+  url: https://www.brownbagtech.com/about-us
+- type: x-contact
+  url: https://www.brownbagtech.com/contact-us
+- type: x-login
+  url: https://www.brownbagtech.com/index.php?p=login
+- type: x-news
+  url: https://www.brownbagtech.com/corporate-news
+- type: x-security
+  url: https://www.brownbagtech.com/safety-security/
+- type: x-security
+  url: https://www.brownbagtech.com/web-security
+- type: x-signup
+  url: https://www.brownbagtech.com/index.php?p=signup
+- type: x-terms-of-service
+  url: https://www.brownbagtech.com/terms-and-conditions
+- type: x-terms-of-service
+  url: https://www.brownbagtech.com/legal-disclaimer
+- type: x-terms-of-service
+  url: https://www.brownbagtech.com/legal-notices
+- type: x-website
+  url: https://www.brownbagtech.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

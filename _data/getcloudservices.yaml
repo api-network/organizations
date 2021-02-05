@@ -1,0 +1,41 @@
+---
+name: GetCloudServices
+description: Creator of the first multi-tenant Matter Center for Office 365 solution
+  designed for full document, practice, and case management automation for law offices
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4160570"
+url: https://raw.githubusercontent.com/api-network/organizations/main/getcloudservices.yaml
+tags:
+- Service Providers
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.cloudtitan.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/thecloudtitan
+- type: x-linkedin
+  url: https://www.linkedin.com/company/cloudtitan
+- type: x-news
+  url: https://www.cloudtitan.com/company/news/
+- type: x-partner
+  url: https://www.cloudtitan.com/partners/
+- type: x-partner
+  url: https://www.cloudtitan.com/partners/faqs/
+- type: x-partner
+  url: https://www.cloudtitan.com/partners/telco-agents/
+- type: x-press
+  url: https://www.cloudtitan.com/company/press/
+- type: x-twitter
+  url: https://twitter.com/thecloudtitan
+- type: x-website
+  url: https://www.getcloudservices.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

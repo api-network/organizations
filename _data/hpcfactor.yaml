@@ -1,0 +1,45 @@
+---
+name: HPC:Factor
+description: Home of the last Handheld PC and Windows CE user coommunity. Support,
+  guides, downloads and more
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3513681"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hpcfactor.yaml
+tags:
+- Windows Embedded
+- Windows Ce
+- Wallpapers
+- Support
+- Reviews
+- Review
+- News
+- HPC2000
+- Hpc
+- Handheld PC
+- H/PC Pro
+- H/PC
+- Downloads
+- CE 7.0
+- CE 6.0
+- CE 5.0
+- CE 4.2
+- CE 4.1
+- CE 4.0
+- CE 3.0
+- CE 2.0
+- CE 1.0
+- CE .NET
+apis: []
+x-common:
+- type: x-website
+  url: https://www.hpcfactor.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,30 @@
+---
+name: Angel Systems, Inc
+description: AVENUES is a comprehensive, dynamic electronic medical record for the
+  Behavioral Health Care Industry.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/angel-systems-inc.yaml
+tags:
+- Substance Abuse
+- Products And Services
+- Meaningful Use
+- EMR
+- EHR
+- Behavioral Health
+apis: []
+x-common:
+- type: x-news
+  url: https://www.angelsystemsinc.com/news
+- type: x-website
+  url: https://www.angelsystemsinc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

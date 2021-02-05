@@ -1,0 +1,86 @@
+---
+name: Quovo
+description: <p>Quovo&rsquo;s API provides methods for retrieving data from financial
+  institutions on behalf of clients, advisors, and other users. This documentation
+  includes detailed explanations of API endpoints and common data definitions. Please
+  note that this documentation does not list all API endpoints. Additionally, you
+  may not have access to all of the listed endpoints depending on the services you&rsquo;ve
+  purchased from Quovo.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28293-www-quovo-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "383232"
+url: https://raw.githubusercontent.com/api-network/organizations/main/quovo.yaml
+tags:
+- Relative Data
+- Market Data
+- Have API Paths
+- Have API
+- General Data
+- Financial
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-blog-rss
+  url: https://www.quovo.com/fintech-blog/feed/
+- type: x-postman-collection
+  url: https://www.getpostman.com/collections/82cf673bb22d4f8b8881
+- type: x-website
+  url: http://quovo.com
+- type: x-authentication
+  url: https://api.quovo.com/docs/v3/#authentication
+- type: x-blog
+  url: https://www.quovo.com/fintech-blog/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/quovo
+- type: x-developers
+  url: https://api.quovo.com/docs/v3/
+- type: x-documentation
+  url: https://docs.quovo.com/
+- type: x-documentation
+  url: https://api-docs.quovo.com/
+- type: x-documentation
+  url: https://api-docs.quovo.com/ui/
+- type: x-documentation
+  url: https://api.quovo.com/docs/v3/
+- type: x-email
+  url: audit@quovo.com
+- type: x-email
+  url: info@quovo.com
+- type: x-email
+  url: copyright@quovo.com
+- type: x-email
+  url: support@quovo.com
+- type: x-github
+  url: https://github.com/quovo
+- type: x-login
+  url: https://api.quovo.com/dashboard/login
+- type: x-login
+  url: https://secure.quovo.com/#/login
+- type: x-pricing
+  url: https://plaid.com/pricing/
+- type: x-terms-of-service
+  url: https://www.quovo.com/legal/copyright-policy/
+- type: x-terms-of-service
+  url: https://www.quovo.com/legal/legal-disclaimer/
+- type: x-terms-of-service
+  url: https://www.quovo.com/legal/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.quovo.com/legal/terms/
+- type: x-terms-of-service
+  url: https://www.quovo.com/legal/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/quovo
+- type: x-webhooks
+  url: https://api.quovo.com/docs/v3/#webhooks
+- type: x-website
+  url: https://www.quovo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

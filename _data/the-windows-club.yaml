@@ -1,0 +1,38 @@
+---
+name: The Windows Club
+description: TheWindowsClub website discusses & offers Windows 10/8/7 Tips, Tricks,
+  Help, Support, Tutorials, How-To's, News, Freeware Downloads, Features, Reviews
+  & more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3409"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-windows-club.yaml
+tags:
+- Microsoft Windows
+apis: []
+x-common:
+- type: x-about
+  url: https://www.thewindowsclub.com/about
+- type: x-facebook
+  url: https://www.facebook.com/TheWindowsClub/
+- type: x-feed
+  url: http://feeds.feedburner.com/TheWindowsClub
+- type: x-forum
+  url: https://forum.thewindowsclub.com/
+- type: x-news
+  url: https://news.thewindowsclub.com/
+- type: x-security
+  url: https://www.thewindowsclub.com/category/security
+- type: x-twitter
+  url: https://twitter.com/TheWindowsClub
+- type: x-website
+  url: https://www.thewindowsclub.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,42 @@
+---
+name: SecureWorks
+description: Secureworks provides threat intelligence-driven security solutions for
+  organizations to prevent, detect, rapidly respond and predict cyberattacks.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "206986"
+url: https://raw.githubusercontent.com/api-network/organizations/main/secureworks.yaml
+tags:
+- Services
+- Security Service Provider
+- Security Risk Assessment
+- Secureworks
+- Managed Security Service Provider
+- Enterprise Security
+apis: []
+x-common:
+- type: x-website
+  url: http://www.secureworks.com
+- type: x-facebook
+  url: https://www.facebook.com/secureworks
+- type: x-github
+  url: https://github.com/secureworks
+- type: x-investor
+  url: https://investors.secureworks.com/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/secureworks
+- type: x-login
+  url: https://portal.secureworks.com/portal/loginIDP
+- type: x-twitter
+  url: https://twitter.com/secureworks
+- type: x-website
+  url: https://www.secureworks.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

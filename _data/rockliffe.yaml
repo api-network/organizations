@@ -1,0 +1,33 @@
+---
+name: Rockliffe
+description: Rockliffe is a privately owned company that is dedicated to building
+  rock solid mobile communication software for service providers, enterprises and
+  consumers.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rockliffe.yaml
+tags:
+- StealthChat
+- Service Provider
+- Mailsite
+- Mail
+- Enterprises
+- Consumers
+- Communication Software
+- Chat Software
+- AstraSync
+- Astrachat
+apis: []
+x-common:
+- type: x-website
+  url: https://www.rockliffe.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

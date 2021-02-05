@@ -1,0 +1,31 @@
+---
+name: Recovery Accountability and Transparency Board
+description: <p>The Recovery Accountability and Transparency Board is an agency of
+  the United States federal government, which manages the Recovery.gov website and
+  oversees spending under the American Recovery and Reinvestment Act of 2009. Recovery.gov
+  is the U.S. government&rsquo;s official website that provides easy access to data
+  related to Recovery Act spending and allows for the reporting of potential fraud,
+  waste, and abuse.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/440px-Recovery_Accountability_and_Transparency_Board_Seal_(USA).jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/recovery-accountability-and-transparency-board.yaml
+tags:
+- Has API
+apis: []
+x-common:
+- type: x-developers
+  url: http://www.recovery.gov/arra/FAQ/Developer/Pages/default.aspx
+- type: x-website
+  url: http://www.recovery.gov
+- type: x-wikipedia
+  url: http://en.wikipedia.org/wiki/Recovery_Accountability_and_Transparency_Board
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

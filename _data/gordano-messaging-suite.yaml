@@ -1,0 +1,54 @@
+---
+name: Gordano Messaging Suite
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1748014"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gordano-messaging-suite.yaml
+tags:
+- Mail
+apis: []
+x-common:
+- type: x-about
+  url: https://www.gordano.com/about-us/
+- type: x-about
+  url: https://www.gordano.com/about-us/company-history/
+- type: x-about
+  url: https://www.gordano.com/about-us/gms-story/
+- type: x-blog
+  url: https://www.gordano.com/blog/
+- type: x-contact
+  url: https://www.gordano.com/contact/
+- type: x-login
+  url: https://www.gordano.com/gmshome/gmscloud/login/
+- type: x-login
+  url: https://www.gordano.com/webspace-login-2/
+- type: x-marketplace
+  url: https://www.gordano.com/category/marketplace/
+- type: x-partner
+  url: https://www.gordano.com/partnerships/
+- type: x-partner
+  url: https://www.gordano.com/partnerships/oem-partnerships/
+- type: x-pricing
+  url: https://www.gordano.com/pricing/
+- type: x-privacy
+  url: https://www.gordano.com/cookies-and-privacy-policy/
+- type: x-signup
+  url: https://www.gordano.com/gmshome/gmscloud/signup/
+- type: x-support
+  url: https://www.gordano.com/support-pages/
+- type: x-support
+  url: https://www.gordano.com/support-pages/helpdesk/
+- type: x-support
+  url: https://www.gordano.com/support-pages/downloads/
+- type: x-website
+  url: https://www.gordano.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,58 @@
+---
+name: Realtrac
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2249001"
+url: https://raw.githubusercontent.com/api-network/organizations/main/realtrac.yaml
+tags:
+- ERP
+apis: []
+x-common:
+- type: x-website
+  url: http://www.realtrac.com
+- type: x-about
+  url: https://www.realtrac.com/our_company/about-us/
+- type: x-blog
+  url: https://www.realtrac.com/blog/
+- type: x-blog
+  url: https://www.realtrac.com/2016/07/25/realtrac-blog-5/
+- type: x-blog
+  url: http://www.realtrac.com/blog/
+- type: x-careers
+  url: https://www.realtrac.com/our_company/careers/
+- type: x-news
+  url: https://www.realtrac.com/newsletter/
+- type: x-news
+  url: https://www.realtrac.com/newslettermarch2018/
+- type: x-news
+  url: https://www.realtrac.com/may-newsletter/
+- type: x-news
+  url: https://www.realtrac.com/june-newsletter/
+- type: x-news
+  url: https://www.realtrac.com/july-newsletter/
+- type: x-news
+  url: https://www.realtrac.com/august-newsletter/
+- type: x-news
+  url: https://www.realtrac.com/september-newsletter/
+- type: x-news
+  url: https://www.realtrac.com/october-newsletter/
+- type: x-news
+  url: https://www.realtrac.com/news-events/shows_and_events/
+- type: x-news
+  url: https://www.realtrac.com/learning-center/newsletter/
+- type: x-twitter
+  url: https://twitter.com/RealTracERP
+- type: x-website
+  url: https://www.realtrac.com
+- type: x-white-papers
+  url: https://www.realtrac.com/learning-center/white-papers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

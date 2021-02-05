@@ -1,0 +1,23 @@
+---
+name: blog.arduino.cc
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blog-arduino-cc.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://blog.arduino.cc/2015/04/16/arduino-web-architecture-back-to-the-future/
+- type: x-website
+  url: http://blog.arduino.cc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

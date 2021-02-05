@@ -1,0 +1,59 @@
+---
+name: Behance
+description: Use Behance to showcase and discover creative work. We're on a mission
+  to empower the creative world to make ideas happen.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1309-behance.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "304"
+url: https://raw.githubusercontent.com/api-network/organizations/main/behance.yaml
+tags:
+- Projects
+- Profile
+- Marketplaces
+- Images
+- Have Swagger
+- Have API Paths
+- Have API
+- Graphic
+- Design
+- Creative
+- API Provider
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-website
+  url: http://www.behance.net
+- type: x-base
+  url: http://www.behance.net/
+- type: x-blog
+  url: http://blog.behance.net/
+- type: x-blog
+  url: http://blog.behance.net/dev
+- type: x-blog-rss--do-not
+  url: http://feeds.feedburner.com/behance/vorr
+- type: x-blog-rss--do-not
+  url: http://feeds.feedburner.com/BehanceDevBlog
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/behance
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/behance
+- type: x-github
+  url: https://github.com/behance
+- type: x-privacy
+  url: http://www.adobe.com/privacy.html
+- type: x-terms-of-service
+  url: http://www.adobe.com/legal/terms.html
+- type: x-twitter
+  url: https://twitter.com/Behance
+- type: x-website
+  url: http://www.behance.net/dev
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

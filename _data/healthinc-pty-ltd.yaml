@@ -1,0 +1,56 @@
+---
+name: HealthInc Pty Ltd
+description: Healthinc - supporting the Radiology Industry with OCCAM RIS, PACS, CAD,
+  VNA, DICOM, HL7 and integration solutions; backed by quality service and support.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/healthinc-pty-ltd.yaml
+tags:
+- VNA
+- RIS
+- Radiology
+- Products And Services
+- PACS
+- Occam
+- Medicare Billing
+- Healthinc
+- DICOM
+- Australian
+apis: []
+x-common:
+- type: x-website
+  url: https://healthinc.com.au
+- type: x-about
+  url: https://www.healthinc.com.au/about-us
+- type: x-blog
+  url: https://www.healthinc.com.au/blog
+- type: x-contact
+  url: https://www.healthinc.com.au/contact
+- type: x-facebook
+  url: https://facebook.com/HealthincANZ
+- type: x-facebook
+  url: http://www.facebook.com/HealthincANZ
+- type: x-feed
+  url: https://www.healthinc.com.au/feed.xml
+- type: x-linkedin
+  url: https://www.linkedin.com/company/3495996
+- type: x-linkedin
+  url: https://www.linkedin.com/company/healthinc/
+- type: x-support
+  url: https://www.healthinc.com.au/support
+- type: x-twitter
+  url: https://twitter.com/HealthincANZ
+- type: x-twitter
+  url: http://www.twitter.com/healthincanz
+- type: x-website
+  url: https://www.healthinc.com.au
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

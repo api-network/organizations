@@ -1,0 +1,55 @@
+---
+name: SalonGenius
+description: World-class salon software for hair, beauty and spa businesses. Smart
+  yet easy to use. Online bookings, marketing and reports. UK-based five-star support.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10268419"
+url: https://raw.githubusercontent.com/api-network/organizations/main/salongenius.yaml
+tags:
+- Salon Management
+apis: []
+x-common:
+- type: x-about
+  url: https://www.salongenius.com/about/
+- type: x-blog
+  url: https://www.salongenius.com/blog/
+- type: x-blog
+  url: https://www.plesk.com/blog/
+- type: x-contact
+  url: https://www.salongenius.com/contact/
+- type: x-developer
+  url: http://developer.salongenius.com
+- type: x-facebook
+  url: https://www.facebook.com/salongeniusUK/
+- type: x-facebook
+  url: https://www.facebook.com/salongeniusUK
+- type: x-facebook
+  url: https://www.facebook.com/Plesk
+- type: x-gdpr
+  url: https://www.salongenius.com/gdpr-downloads/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/salongenius
+- type: x-partner
+  url: https://www.salongenius.com/about/partners/
+- type: x-pricing
+  url: https://www.salongenius.com/pricing/
+- type: x-support
+  url: https://www.salongenius.com/support/
+- type: x-support
+  url: https://support.plesk.com/
+- type: x-twitter
+  url: https://twitter.com/Plesk
+- type: x-twitter
+  url: https://twitter.com/salongenius
+- type: x-website
+  url: https://www.salongenius.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

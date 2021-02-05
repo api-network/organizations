@@ -1,0 +1,41 @@
+---
+name: Capital Business Solutions
+description: We connect you with the right nonprofit accounting software and provide
+  ongoing training and support to ensure you succeed! Set up a consultation today!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2313080"
+url: https://raw.githubusercontent.com/api-network/organizations/main/capital-business-solutions.yaml
+tags:
+- Not For Profit
+apis: []
+x-common:
+- type: x-website
+  url: http://www.capitalbusiness.net
+- type: x-about
+  url: https://www.capitalbusiness.net/about/
+- type: x-about
+  url: https://www.capitalbusiness.net/about/team/
+- type: x-about
+  url: https://www.capitalbusiness.net/about/testimonials/
+- type: x-contact
+  url: https://www.capitalbusiness.net/contact/
+- type: x-facebook
+  url: https://www.facebook.com/CapitalBusinessSolutions
+- type: x-partner
+  url: https://www.blackbaud.com/partners/find-a-partner
+- type: x-twitter
+  url: https://twitter.com/CapitalBusiness
+- type: x-webinars
+  url: https://attendee.gotowebinar.com/rt/703830782404748033
+- type: x-website
+  url: https://www.capitalbusiness.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

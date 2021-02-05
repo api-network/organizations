@@ -1,0 +1,22 @@
+---
+name: Northern Illinois University
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "26622"
+url: https://raw.githubusercontent.com/api-network/organizations/main/northern-illinois-university.yaml
+tags:
+- Illinois
+apis: []
+x-common:
+- type: x-website
+  url: https://www.cs.niu.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

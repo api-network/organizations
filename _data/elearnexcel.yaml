@@ -1,0 +1,40 @@
+---
+name: eLearnExcel
+description: Learn Excel Online with us and add Excel Certification to your Resume.
+  Microsoft use us to train their employees in Excel. Enroll Now
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "901392"
+url: https://raw.githubusercontent.com/api-network/organizations/main/elearnexcel.yaml
+tags: []
+apis: []
+x-common:
+- type: x-about
+  url: https://www.elearnexcel.com/about-elearnexcel/
+- type: x-blog
+  url: https://www.elearnexcel.com/blog-free-excel-tips/
+- type: x-careers
+  url: http://fortune.com/2015/03/06/microsoft-excel-jobs/
+- type: x-contact
+  url: https://www.elearnexcel.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/eLearnExcel
+- type: x-pricing
+  url: https://www.elearnexcel.com/pricing-options/
+- type: x-privacy
+  url: https://www.elearnexcel.com/privacy/
+- type: x-terms-of-service
+  url: https://www.elearnexcel.com/terms/
+- type: x-twitter
+  url: https://twitter.com/eLearnExcel
+- type: x-website
+  url: https://www.elearnexcel.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

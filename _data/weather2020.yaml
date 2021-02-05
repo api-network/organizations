@@ -1,0 +1,50 @@
+---
+name: Weather2020
+description: <p>Weather2020 is the first and only source capable of producing accurate,
+  long-range forecasts for businesses and consumers. Our robust weather API allows
+  you to integrate our forecasts and videos easily into your mobile apps and websites.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Weather2020-Logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1342814"
+url: https://raw.githubusercontent.com/api-network/organizations/main/weather2020.yaml
+tags:
+- Weather
+- Weather
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.weather2020.com
+- type: x-about
+  url: https://weather2020.com/about-weather2020/
+- type: x-blog
+  url: http://weather2020.com/blog/
+- type: x-blog
+  url: https://weather2020.com/blog/
+- type: x-blog
+  url: https://weather2020.com/2019/10/03/video-blog-today-2/
+- type: x-blog-rss
+  url: http://weather2020.com/feed/
+- type: x-contact
+  url: https://weather2020.com/contact-us/
+- type: x-developers
+  url: http://weather2020.com/api/
+- type: x-facebook
+  url: https://www.facebook.com/Weather2020/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/weather2020/
+- type: x-login
+  url: https://weather2020.com/login/
+- type: x-twitter
+  url: https://twitter.com/weather2020
+- type: x-website
+  url: http://weather2020.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

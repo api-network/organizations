@@ -1,0 +1,28 @@
+---
+name: Old Book Illustrations
+description: Old Book Illustrations offers a wide range of public domain, royalty-free
+  images scanned from old books. Searchable galleries include animals, plants, techniques,
+  artists names, books titles, and much more...
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "220641"
+url: https://raw.githubusercontent.com/api-network/organizations/main/old-book-illustrations.yaml
+tags:
+- Public Domain
+apis: []
+x-common:
+- type: x-website
+  url: http://www.oldbookillustrations.com/
+- type: x-twitter
+  url: https://twitter.com/obillustrations
+- type: x-website
+  url: https://www.oldbookillustrations.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

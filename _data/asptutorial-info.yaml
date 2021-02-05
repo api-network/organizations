@@ -1,0 +1,33 @@
+---
+name: AspTutorial.info
+description: Active server pages - asp tutorial for beginners with free script codes
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5755018"
+url: https://raw.githubusercontent.com/api-network/organizations/main/asptutorial-info.yaml
+tags:
+- Tutorial
+- Source
+- Script
+- Sample
+- Resources
+- Free
+- Code
+- Beginners
+- Asp
+- Active Server Pages
+apis: []
+x-common:
+- type: x-code
+  url: http://www.11articles.com/qr_code.php
+- type: x-website
+  url: https://www.asptutorial.info
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

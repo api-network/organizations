@@ -1,0 +1,95 @@
+---
+name: Payfirma
+description: Payfirma is your one-stop merchant services partner for secure credit
+  card processing. We offer one solution that lets you take payments any way your
+  customers want to pay.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/payfirma-logo.jpeg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "261289"
+url: https://raw.githubusercontent.com/api-network/organizations/main/payfirma.yaml
+tags:
+- Target
+- Payments
+- Payments
+- Payments
+- Payments
+- No API Definition
+- JavaScript
+- Have API
+- Has API
+- Credit
+apis: []
+x-common:
+- type: x-about
+  url: https://www.payfirma.com/about-us/
+- type: x-base
+  url: https://ecom.payfirma.com/
+- type: x-blog
+  url: https://www.payfirma.com/blog/
+- type: x-careers
+  url: https://www.payfirma.com/about-us/careers/
+- type: x-contact
+  url: https://www.payfirma.com/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/payfirma-corporation
+- type: x-developer
+  url: https://developers.payfirma.com/
+- type: x-developer
+  url: http://developers.payfirma.com/
+- type: x-developer
+  url: http://dev.payfirma.com
+- type: x-developers
+  url: http://developers.payfirma.com/
+- type: x-email
+  url: developers@payfirma.com
+- type: x-facebook
+  url: https://www.facebook.com/payfirma
+- type: x-github
+  url: https://github.com/Payfirma
+- type: x-linkedin
+  url: http://www.linkedin.com/company/payfirma-corporation
+- type: x-news
+  url: https://www.payfirma.com/newsroom/
+- type: x-partner
+  url: https://www.payfirma.com/partners/
+- type: x-partner
+  url: https://www.payfirma.com/partners/developers/
+- type: x-partner
+  url: https://www.payfirma.com/partner-faqs/
+- type: x-platform
+  url: https://www.payfirma.com/platform/
+- type: x-platform
+  url: https://www.payfirma.com/platform/ecommerce/
+- type: x-platform
+  url: https://www.payfirma.com/platform/invoicing/
+- type: x-platform
+  url: https://www.payfirma.com/platform/mobile/
+- type: x-platform
+  url: https://www.payfirma.com/platform/recurring-billing/
+- type: x-platform
+  url: https://www.payfirma.com/platform/web-terminal/
+- type: x-platform
+  url: https://www.payfirma.com/platform/integrations/
+- type: x-pricing
+  url: https://www.payfirma.com/pricing/
+- type: x-signup
+  url: https://www.payfirma.com/signup
+- type: x-signup
+  url: https://www.payfirma.com/signup/
+- type: x-support
+  url: https://support.payfirma.com
+- type: x-support
+  url: https://support.payfirma.com/
+- type: x-twitter
+  url: https://twitter.com/Payfirma
+- type: x-website
+  url: http://www.payfirma.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

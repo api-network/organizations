@@ -1,0 +1,36 @@
+---
+name: FerenSoft
+description: FerenSoft creates and sells picture framing and art gallery business
+  management software with U.S., Canadian, International, metric, point-of-sale, network,
+  multi-user, accounts receivable, bar coding, and computerized mat cutter link features
+  and options.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ferensoft.yaml
+tags:
+- Truvue
+- Rapido
+- Picture Framing Software
+- Pfm
+- Nielson
+- Neilson
+- Neilsen
+- Molding
+- Industry Specific
+- Colorplak
+- Art Software
+- Art Framing Software
+apis: []
+x-common:
+- type: x-website
+  url: https://www.ferensoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

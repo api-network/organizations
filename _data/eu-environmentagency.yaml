@@ -1,0 +1,82 @@
+---
+name: EU EnvironmentAgency
+description: The EEA provides geographic information system (GIS) application programming
+  interfaces (APIs) to obtain a wide range of environmental data for Europe, and helps
+  users create their own map services. Map services available from Discomap are freely
+  available for reuse. EEA content can be integrated in many different ways by developers
+  or by end users who wish to combine EEA's information with their own or other public
+  map services (mash-ups).
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/european-environment-agency.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "628"
+url: https://raw.githubusercontent.com/api-network/organizations/main/eu-environmentagency.yaml
+tags:
+- Maps
+- Have API
+- GIS
+- API Provider
+apis: []
+x-common:
+- type: x-about
+  url: https://europa.eu/european-union/about-eu_en
+- type: x-base
+  url: http://discomap.eea.europa.eu/ArcGIS/rest/services/
+- type: x-blog-rss
+  url: http://www.eea.europa.eu/highlights/archive/RSS2
+- type: x-code
+  url: https://www.eea.europa.eu/code
+- type: x-code
+  url: https://www.eea.europa.eu/code/gis
+- type: x-code
+  url: https://www.eea.europa.eu/code/gis/esri-api-examples
+- type: x-code
+  url: https://www.eea.europa.eu/code/design-elements
+- type: x-code
+  url: https://www.eea.europa.eu/code/software-development
+- type: x-code
+  url: https://www.eea.europa.eu/code/api
+- type: x-contact
+  url: https://www.eea.europa.eu/help/contact-info
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/european-union
+- type: x-facebook
+  url: http://www.facebook.com/European.Environment.Agency
+- type: x-facebook
+  url: https://www.facebook.com/European.Environment.Agency
+- type: x-github
+  url: https://github.com/eea/eea.docker.kgs/releases
+- type: x-login
+  url: https://www.eea.europa.eu/login/
+- type: x-login
+  url: https://www.eea.europa.eu/login_form
+- type: x-news
+  url: https://www.eea.europa.eu/subscription/news-feeds
+- type: x-status
+  url: https://status.eea.europa.eu
+- type: x-terms-of-service
+  url: https://www.eea.europa.eu/legal/copyright/copyright-en
+- type: x-terms-of-service
+  url: https://www.eea.europa.eu/legal/
+- type: x-twitter
+  url: http://www.twitter.com/discomap
+- type: x-twitter
+  url: http://twitter.com/euenvironment
+- type: x-twitter
+  url: https://twitter.com/euenvironment
+- type: x-twitter
+  url: https://twitter.com/EU_Commission
+- type: x-website
+  url: http://www.eea.europa.eu/code/gis
+- type: x-youtube
+  url: http://www.youtube.com/user/EEAvideos
+- type: x-youtube
+  url: https://www.youtube.com/user/EEAvideos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

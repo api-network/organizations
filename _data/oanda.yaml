@@ -1,0 +1,102 @@
+---
+name: OANDA
+description: 'OANDA: Award-winning leader in Currency Data, Forex & CFD Trading, offering
+  leveraged trading, payment and data services for businesses and investors.'
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/oanda-logo.jpeg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3976"
+url: https://raw.githubusercontent.com/api-network/organizations/main/oanda.yaml
+tags:
+- Trading
+- Silver
+- Profile
+- Precious Metals
+- Paid Tier
+- Market Data
+- Investment
+- Have API
+- Gold
+- Free Trial
+- Financial
+- Currencies
+- Contacts
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://oanda.com
+- type: x-about
+  url: http://developer.oanda.com/about/
+- type: x-blog
+  url: https://blog.oanda.com/
+- type: x-contact
+  url: http://www.oanda.com/corp/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/oanda
+- type: x-developer
+  url: http://developer.oanda.com
+- type: x-developers
+  url: http://developer.oanda.com/
+- type: x-email
+  url: fxdata@oanda.com
+- type: x-email
+  url: webservices@oanda.com
+- type: x-email
+  url: frontdesk@oanda.com
+- type: x-email
+  url: moneytransfer@oanda.com
+- type: x-email
+  url: accountid-eu@oanda.co.uk
+- type: x-email
+  url: auscompliance@oanda.com
+- type: x-email
+  url: new-accounts@oanda.com
+- type: x-email
+  url: privacyoffice@oanda.com
+- type: x-facebook
+  url: https://www.facebook.com/OANDAfx
+- type: x-facebook
+  url: https://www.facebook.com/OANDAfx/
+- type: x-forum
+  url: https://fxtrade.oanda.com/community/forex-forum/93/
+- type: x-github
+  url: https://github.com/oanda
+- type: x-instagram
+  url: https://www.instagram.com/oanda/
+- type: x-investor
+  url: https://www.nfa.futures.org/investors/index.html
+- type: x-linkedin
+  url: https://www.linkedin.com/company/oanda
+- type: x-linkedin
+  url: http://www.linkedin.com/company/oanda
+- type: x-privacy
+  url: http://www.oanda.com/site/privacy/
+- type: x-privacy-policy
+  url: https://www.oanda.com/resources/legal/united-states/legal/privacy
+- type: x-terms-of-service
+  url: https://www.oanda.com/resources/legal/united-states/legal/terms-of-use
+- type: x-terms-of-service
+  url: http://www.oanda.com/site/terms-of-use
+- type: x-terms-of-service
+  url: https://www1.oanda.com/resources/legal/
+- type: x-twitter
+  url: https://twitter.com/OANDA
+- type: x-website
+  url: http://www.oanda.com/
+- type: x-website
+  url: https://www.oanda.com
+- type: x-website
+  url: http://developer.oanda.com
+- type: x-youtube
+  url: http://www.youtube.com/user/oanda
+- type: x-youtube
+  url: https://www.youtube.com/oanda
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

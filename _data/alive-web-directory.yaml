@@ -1,0 +1,32 @@
+---
+name: Alive Web Directory
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "128798"
+url: https://raw.githubusercontent.com/api-network/organizations/main/alive-web-directory.yaml
+tags:
+- Directories
+apis: []
+x-common:
+- type: x-website
+  url: http://www.alivedirectory.com
+- type: x-facebook
+  url: https://www.facebook.com/alivedirectory
+- type: x-partner
+  url: http://www.bursapartner.net/
+- type: x-press
+  url: https://www.mlxexpress.com/
+- type: x-twitter
+  url: https://twitter.com/AliveDirectory
+- type: x-website
+  url: https://www.alivedirectory.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

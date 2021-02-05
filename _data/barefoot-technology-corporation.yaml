@@ -1,0 +1,58 @@
+---
+name: Barefoot Technology Corporation
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1639001"
+url: https://raw.githubusercontent.com/api-network/organizations/main/barefoot-technology-corporation.yaml
+tags:
+- Property Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.barefoot.com
+- type: x-customers
+  url: https://www.barefoot.com/our-customers
+- type: x-facebook
+  url: https://www.facebook.com/mybarefoot
+- type: x-login
+  url: https://agent5.barefoot.com/newcorp/login.asp
+- type: x-partner
+  url: https://www.barefoot.com/partners
+- type: x-partner
+  url: https://www.barefoot.com/partners/marketing-partners
+- type: x-partner
+  url: https://www.barefoot.com/partners/homeaway
+- type: x-partner
+  url: https://www.barefoot.com/partners/red-awning
+- type: x-partner
+  url: https://www.barefoot.com/partners/web-partners/lexicon
+- type: x-partner
+  url: https://www.barefoot.com/partners/truplace
+- type: x-partner
+  url: https://www.barefoot.com/partners/remotelock
+- type: x-partner
+  url: https://www.barefoot.com/partners/point-central
+- type: x-partner
+  url: https://www.barefoot.com/partners/web-partners
+- type: x-partner
+  url: https://www.barefoot.com/partners/payment-solutions
+- type: x-partner
+  url: https://www.barefoot.com/partners/workforce-management
+- type: x-pricing
+  url: https://www.barefoot.com/barefoot-pricing
+- type: x-support
+  url: https://www.barefoot.com/barefoot-support
+- type: x-twitter
+  url: https://twitter.com/BarefootVR
+- type: x-website
+  url: https://www.barefoot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

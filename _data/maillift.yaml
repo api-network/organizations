@@ -1,0 +1,32 @@
+---
+name: MailLift
+description: Handwritten letter service built for sales and marketing. Increase sales
+  with handwritten letters. Get a free sample of MailLift's handwritten notes today!
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29665-maillift-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "823668"
+url: https://raw.githubusercontent.com/api-network/organizations/main/maillift.yaml
+tags:
+- Mail
+- Letters
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/maillift
+- type: x-email
+  url: sales@maillift.com
+- type: x-email
+  url: legal@maillift.com
+- type: x-twitter
+  url: https://twitter.com/MailLift
+- type: x-website
+  url: http://maillift.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

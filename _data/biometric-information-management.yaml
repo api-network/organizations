@@ -1,0 +1,48 @@
+---
+name: Biometric Information Management
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5420046"
+url: https://raw.githubusercontent.com/api-network/organizations/main/biometric-information-management.yaml
+tags:
+- Companies
+apis: []
+x-common:
+- type: x-website
+  url: http://www.bioinfomgt.com
+- type: x-about
+  url: https://www.bioinfomgt.com/about-us/
+- type: x-about
+  url: https://www.bioinfomgt.com/about-us/directions/
+- type: x-about
+  url: http://bioinfomgt.com/about-us/
+- type: x-about
+  url: http://bioinfomgt.com/about-us/directions/
+- type: x-contact
+  url: https://www.bioinfomgt.com/contact/
+- type: x-contact
+  url: http://bioinfomgt.com/contact/
+- type: x-support
+  url: https://www.bioinfomgt.com/support/
+- type: x-support
+  url: https://www.bioinfomgt.com/support/training/
+- type: x-support
+  url: https://get.teamviewer.com/bimsupport
+- type: x-support
+  url: http://bioinfomgt.com/support/
+- type: x-twitter
+  url: https://twitter.com/bimohio
+- type: x-website
+  url: https://www.bioinfomgt.com
+- type: x-youtube
+  url: https://www.youtube.com/user/BIMOhio
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

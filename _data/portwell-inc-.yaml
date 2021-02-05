@@ -1,0 +1,38 @@
+---
+name: Portwell, Inc.
+description: Portwell designs and manufactures Network and Security Appliance along
+  with a full range of Industrial Computer, Embedded Computer, Computer on Module,
+  Single Board Computer and Portable PC.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1735957"
+url: https://raw.githubusercontent.com/api-network/organizations/main/portwell-inc-.yaml
+tags:
+- Single Board Computer
+- Power Supply
+- Portable Pc
+- Modular Computer
+- Industrial Main Board
+- Industrial Computer
+- Industrial Chassis
+- Industrial Backplane
+- Industrial
+- Extension Board
+- Embedded Computer
+apis: []
+x-common:
+- type: x-website
+  url: https://www.portwell.com.tw
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=uISDaV3WiDk
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=IFO-ZTND-4E
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

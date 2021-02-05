@@ -1,0 +1,23 @@
+---
+name: mid-day.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/midday-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.mid-day.com/articles/now-use-your-eye-as-a-key/16074170
+- type: x-website
+  url: http://mid-day.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

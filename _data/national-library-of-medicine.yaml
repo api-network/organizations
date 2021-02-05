@@ -1,0 +1,41 @@
+---
+name: National Library of Medicine
+description: <p>The United States National Library of Medicine (NLM), operated by
+  the United States federal government, is the world's largest medical library.[1]
+  Located in Bethesda, Maryland, the NLM is a division of the National Institutes
+  of Health. Its collections include more than seven million books, journals, technical
+  reports, manuscripts, microfilms, photographs, and images on medicine and related
+  sciences including some of the world's oldest and rarest works.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/440px-US-NationalLibraryOfMedicine-Logo.svg.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "115"
+url: https://raw.githubusercontent.com/api-network/organizations/main/national-library-of-medicine.yaml
+tags:
+- Have API
+- Data Provider
+- API Provider
+apis: []
+x-common:
+- type: x-developers
+  url: http://www.nlm.nih.gov/api/
+- type: x-facebook
+  url: https://www.facebook.com/nationallibraryofmedicine
+- type: x-github
+  url: https://github.com/national-library-of-medicine
+- type: x-open-source
+  url: https://openi.nlm.nih.gov/
+- type: x-website
+  url: http://www.nlm.nih.gov
+- type: x-wikipedia
+  url: http://en.wikipedia.org/wiki/National_Library_of_Medicine
+- type: x-youtube
+  url: https://www.youtube.com/user/NLMNIH
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

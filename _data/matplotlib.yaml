@@ -1,0 +1,36 @@
+---
+name: Matplotlib
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "12492"
+url: https://raw.githubusercontent.com/api-network/organizations/main/matplotlib.yaml
+tags:
+- Graphics
+apis: []
+x-common:
+- type: x-code
+  url: http://www.python.org/psf/codeofconduct/
+- type: x-documentation
+  url: https://scitools.org.uk/cartopy/docs/latest
+- type: x-github
+  url: https://github.com/matplotlib/matplotlib
+- type: x-github
+  url: https://github.com/matplotlib/matplotlib/issues
+- type: x-github
+  url: https://github.com/matplotlib/matplotlib/pulls
+- type: x-instagram
+  url: https://www.instagram.com/matplotart/
+- type: x-twitter
+  url: https://twitter.com/matplotlib
+- type: x-website
+  url: https://matplotlib.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

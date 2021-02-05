@@ -1,0 +1,33 @@
+---
+name: Seynur
+description: 'Seynur Bilgi Teknolojileri Data intensive solutions: We provide reliable,
+  scalable and maintainable data solutions to solve your business problems.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/seynur.yaml
+tags:
+- Independent
+apis: []
+x-common:
+- type: x-website
+  url: http://www.seynur.com
+- type: x-about
+  url: https://www.seynur.com/about
+- type: x-careers
+  url: https://www.seynur.com/jobs
+- type: x-linkedin
+  url: https://www.linkedin.com/company/1269351/
+- type: x-twitter
+  url: https://twitter.com/seynur
+- type: x-website
+  url: https://www.seynur.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

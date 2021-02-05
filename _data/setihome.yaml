@@ -1,0 +1,38 @@
+---
+name: Seti@Home
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1702"
+url: https://raw.githubusercontent.com/api-network/organizations/main/setihome.yaml
+tags:
+- Scientific
+apis: []
+x-common:
+- type: x-about
+  url: https://setiathome.berkeley.edu/sah_about.php
+- type: x-forum
+  url: https://setiathome.berkeley.edu/forum_index.php
+- type: x-forum
+  url: https://setiathome.berkeley.edu/forum_help_desk.php
+- type: x-login
+  url: https://setiathome.berkeley.edu/login_form.php
+- type: x-news
+  url: https://setiathome.berkeley.edu/tech_news.php
+- type: x-signup
+  url: https://setiathome.berkeley.edu/signup.php
+- type: x-status
+  url: https://setiathome.berkeley.edu/show_server_status.php
+- type: x-support
+  url: https://setiathome.berkeley.edu/sah_help.php
+- type: x-website
+  url: https://setiathome.berkeley.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,43 @@
+---
+name: MEN Mikro Elektronik GmbH
+description: Embedded Solutions - Rugged Computer Boards & System Solutions for Harsh,
+  Mobile & Mission-Critical Environments (Safe CompactPCI, COMs, Box & Panel PCs)
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2649609"
+url: https://raw.githubusercontent.com/api-network/organizations/main/men-mikro-elektronik-gmbh.yaml
+tags:
+- VMEbus
+- Transportation
+- Safe
+- Rugged
+- Railway
+- Mission-critical
+- Industrial
+- Embedded
+- CPCI
+- Computer-on-module
+- CompactPCI
+- Avionics
+- Airborne
+apis: []
+x-common:
+- type: x-about
+  url: https://plus.google.com/u/0/+MenMikroElektronik/about
+- type: x-linkedin
+  url: https://www.linkedin.com/company/men-mikro-elektronik
+- type: x-twitter
+  url: https://twitter.com/men_germany
+- type: x-website
+  url: https://www.men.de
+- type: x-youtube
+  url: https://www.youtube.com/user/MENGermany
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

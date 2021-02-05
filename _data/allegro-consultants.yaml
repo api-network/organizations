@@ -1,0 +1,26 @@
+---
+name: Allegro Consultants
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1462414"
+url: https://raw.githubusercontent.com/api-network/organizations/main/allegro-consultants.yaml
+tags:
+- Consultants
+apis: []
+x-common:
+- type: x-login
+  url: https://www.allegrosupport.com/login.cgi?init
+- type: x-press
+  url: http://www.crcpress.com/product/isbn/9781482232783
+- type: x-website
+  url: https://www.allegro.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

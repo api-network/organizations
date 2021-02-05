@@ -1,0 +1,55 @@
+---
+name: Precise Biometrics (Sweden)
+description: We provide products for authentication of digital identity using fingerprint
+  technology and smart card solutions.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1910624"
+url: https://raw.githubusercontent.com/api-network/organizations/main/precise-biometrics-sweden.yaml
+tags:
+- Companies
+apis: []
+x-common:
+- type: x-website
+  url: http://precisebiometrics.com
+- type: x-about
+  url: https://precisebiometrics.com/company/about-us/
+- type: x-blog
+  url: https://precisebiometrics.com/blog/
+- type: x-contact
+  url: https://precisebiometrics.com/company/contact/
+- type: x-investor
+  url: https://precisebiometrics.com/investor/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/precise-biometrics
+- type: x-news
+  url: https://precisebiometrics.com/news/
+- type: x-news
+  url: https://precisebiometrics.com/news/archive/
+- type: x-news
+  url: https://precisebiometrics.com/news/image-gallery/
+- type: x-news
+  url: https://precisebiometrics.com/news/#subscribe
+- type: x-privacy
+  url: https://precisebiometrics.com/privacy-policy/
+- type: x-support
+  url: https://precisebiometrics.com/products/support/
+- type: x-terms-of-service
+  url: https://precisebiometrics.com/legal-notice/
+- type: x-twitter
+  url: https://twitter.com/PBiometrics
+- type: x-website
+  url: https://www.precisebiometrics.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=rSWZmm9ZiyY
+- type: x-youtube
+  url: https://www.youtube.com/user/PreciseBiometrics
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

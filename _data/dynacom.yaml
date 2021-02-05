@@ -1,0 +1,29 @@
+---
+name: Dynacom
+description: "D\xE9couvrez Dynacom, le logiciel de comptabilit\xE9 pour tous les types
+  d'entreprise. Des \xE9ditions compl\xE8tes, modulables et personnalisables."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "728551"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dynacom.yaml
+tags:
+- Small Business
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.dynacom.com/a-propos/contactez-nous/
+- type: x-facebook
+  url: https://www.facebook.com/DynacomTechnologies/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/dynacom-technologies/
+- type: x-website
+  url: https://www.dynacom.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,51 @@
+---
+name: Backupify
+description: ""
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/backupify-review-300x300.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "163786"
+url: https://raw.githubusercontent.com/api-network/organizations/main/backupify.yaml
+tags:
+- Relative Data
+- Profile
+- No API Definition
+- Have API Paths
+- Have API
+- Backups
+- API Provider
+- API Not Found
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-website
+  url: http://www.backupify.com
+- type: x-blog
+  url: https://www.backupify.com/blog
+- type: x-facebook
+  url: https://www.facebook.com/backupify/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/backupify
+- type: x-privacy
+  url: https://www.datto.com/privacy-policy
+- type: x-privacy
+  url: https://www.backupify.com/privacy-policy
+- type: x-terms-of-service
+  url: https://www.backupify.com/terms-of-use
+- type: x-terms-of-service
+  url: https://www.datto.com/terms-of-use
+- type: x-twitter
+  url: https://twitter.com/dattobackupify
+- type: x-twitter
+  url: https://twitter.com/backupify
+- type: x-website
+  url: http://backupify.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

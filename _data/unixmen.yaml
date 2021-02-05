@@ -1,0 +1,52 @@
+---
+name: Unixmen
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "62092"
+url: https://raw.githubusercontent.com/api-network/organizations/main/unixmen.yaml
+tags:
+- News And Media
+apis: []
+x-common:
+- type: x-website
+  url: http://www.unixmen.com
+- type: x-about
+  url: https://www.unixmen.com/about-us/
+- type: x-contact
+  url: https://www.unixmen.com/contact-us/
+- type: x-contact
+  url: http://s24255.p822.sites.pressdns.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/unixmencom
+- type: x-feed
+  url: https://www.unixmen.com/feed/
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/3899550/profile
+- type: x-news
+  url: https://www.unixmen.com/category/news/
+- type: x-news
+  url: https://www.unixmen.com/category/news/software/
+- type: x-news
+  url: https://www.unixmen.com/category/news/releases/
+- type: x-open-source
+  url: https://www.unixmen.com/category/opensource/
+- type: x-tutorials
+  url: https://www.unixmen.com/category/linux-tutorials/
+- type: x-twitter
+  url: https://twitter.com/unixmen
+- type: x-website
+  url: https://www.unixmen.com
+- type: x-youtube
+  url: https://www.youtube.com/user/UnixmenVideos
+- type: x-youtube
+  url: https://www.youtube.com/UnixmenVideos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

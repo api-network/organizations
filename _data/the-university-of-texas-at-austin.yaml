@@ -1,0 +1,50 @@
+---
+name: The University of Texas at Austin
+description: The University of Texas at Austin is a public research university and
+  flagship institution of the University of Texas System.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/university-of-texas-austin-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "3587"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-university-of-texas-at-austin.yaml
+tags:
+- University In Progress
+- Has API
+apis: []
+x-common:
+- type: x-careers
+  url: https://facultyjobs.utexas.edu/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/the-university-of-texas-at-austin
+- type: x-developers
+  url: https://www.utexas.edu/its/utlogin/
+- type: x-facebook
+  url: http://www.facebook.com/UTAustinTX
+- type: x-instagram
+  url: https://instagram.com/utaustintx
+- type: x-news
+  url: https://news.utexas.edu/
+- type: x-news
+  url: https://www.news.utexas.edu
+- type: x-news
+  url: http://econnect.utexas.edu/utexas-newsletter-signup
+- type: x-privacy
+  url: https://www.utexas.edu/web-privacy-policy
+- type: x-twitter
+  url: https://twitter.com/UTAustin
+- type: x-twitter
+  url: http://twitter.com/utaustin
+- type: x-website
+  url: http://utexas.edu
+- type: x-website
+  url: http://www.utexas.edu/
+- type: x-youtube
+  url: http://www.youtube.com/utaustintexas
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

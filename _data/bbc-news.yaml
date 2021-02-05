@@ -1,0 +1,65 @@
+---
+name: BBC News
+description: Visit BBC News for up-to-the-minute news, breaking news, video, audio
+  and feature stories. BBC News provides trusted World and UK news as well as local
+  and regional perspectives. Also entertainment, business, science, technology and
+  health news.
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "79"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bbc-news.yaml
+tags:
+- Tech News
+- Profile
+- Have Swagger
+- Have API Paths
+- Have API
+apis: []
+x-common:
+- type: x-about
+  url: https://www.bbc.co.uk/aboutthebbc
+- type: x-blog-rss
+  url: http://feeds.bbci.co.uk/news/technology/rss.xml?edition=uk
+- type: x-blog-rss
+  url: http://feeds.bbci.co.uk/news/technology/rss.xml?edition=us
+- type: x-contact
+  url: https://www.bbc.co.uk/contact
+- type: x-news
+  url: https://www.bbc.co.uk/news
+- type: x-news
+  url: https://www.bbc.co.uk/news/localnews
+- type: x-news
+  url: https://www.bbc.co.uk/news/extra/mh9zgw7v5f/transplant
+- type: x-news
+  url: https://www.facebook.com/bbcnews
+- type: x-news
+  url: https://www.instagram.com/bbcnews
+- type: x-news
+  url: http://www.bbc.com/news/10628994
+- type: x-news
+  url: http://www.bbc.co.uk/news/help-41670342
+- type: x-news
+  url: https://www.bbc.co.uk/bbcnewsletter
+- type: x-news
+  url: https://www.bbc.com/news
+- type: x-privacy
+  url: https://www.bbc.co.uk/usingthebbc/privacy/
+- type: x-support
+  url: https://www.bbc.co.uk/help/web/links/
+- type: x-terms-of-service
+  url: https://www.bbc.co.uk/usingthebbc/terms/
+- type: x-twitter
+  url: https://twitter.com/BBCWorld
+- type: x-twitter
+  url: https://twitter.com/BBC_HaveYourSay
+- type: x-website
+  url: http://www.bbc.com/news
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

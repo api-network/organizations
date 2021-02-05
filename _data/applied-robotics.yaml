@@ -1,0 +1,44 @@
+---
+name: Applied Robotics
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/applied-robotics.yaml
+tags:
+- Components
+apis: []
+x-common:
+- type: x-about
+  url: https://www.appliedrobotics.com/about-2/
+- type: x-about
+  url: https://www.appliedrobotics.com/about-2/community/
+- type: x-about
+  url: https://www.appliedrobotics.com/about-2/history/
+- type: x-blog
+  url: https://www.appliedrobotics.com/blog/
+- type: x-careers
+  url: https://www.appliedrobotics.com/about-2/careers/
+- type: x-contact
+  url: https://www.appliedrobotics.com/contact-us/
+- type: x-customers
+  url: https://www.appliedrobotics.com/about-2/customers/
+- type: x-news
+  url: https://www.appliedrobotics.com/about-2/news-events/
+- type: x-news
+  url: https://www.appliedrobotics.com/about-2/news/
+- type: x-partner
+  url: https://www.appliedrobotics.com/partners/
+- type: x-privacy
+  url: https://www.appliedrobotics.com/privacy-policy/
+- type: x-website
+  url: https://www.arobotics.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

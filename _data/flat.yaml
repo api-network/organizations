@@ -1,0 +1,59 @@
+---
+name: Flat
+description: <p>Whether you're a beginner or a professional composer, our user-friendly
+  music composition software gives you all the tools that you need to make your own
+  sheet music. You can write, listen, share and discover music scores right in your
+  web browser on any device</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/flat-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "711"
+x-alexaRank: "31281"
+url: https://raw.githubusercontent.com/api-network/organizations/main/flat.yaml
+tags:
+- Sheet Music
+- Relative Data
+- Music
+- Have Swagger
+- Have OpenAPI
+- Have API Paths
+- Have API
+- General Data
+- API Provider
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-blog
+  url: https://blog.flat.io
+- type: x-careers
+  url: https://angel.co/company/flat-io/jobs
+- type: x-developers
+  url: https://flat.io/developers
+- type: x-embeddable
+  url: https://flat.io/developers/embed
+- type: x-facebook
+  url: https://facebook.com/flat.io
+- type: x-github
+  url: https://github.com/FlatIO
+- type: x-instagram
+  url: https://instagram.com/flat.io
+- type: x-pricing
+  url: https://flat.io/pricing
+- type: x-privacy-policy
+  url: https://flat.io/help/en/policies/#coppa-and-ferpa-compliance
+- type: x-support
+  url: https://flat.io/help
+- type: x-twitter
+  url: https://twitter.com/flat_io
+- type: x-website
+  url: http://flat.io
+- type: x-youtube
+  url: https://www.youtube.com/user/flatproject
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

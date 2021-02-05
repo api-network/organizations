@@ -1,0 +1,28 @@
+---
+name: YunoHost
+description: <p>YunoHost is a server operating system aiming to make self-hosting
+  accessible to everyone.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/YunoHost-Logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "349141"
+url: https://raw.githubusercontent.com/api-network/organizations/main/yunohost.yaml
+tags: []
+apis: []
+x-common:
+- type: x-documentation
+  url: http://api.yunohost.org/
+- type: x-forum
+  url: https://forum.yunohost.org/c/announcement
+- type: x-twitter
+  url: https://twitter.com/yunohost
+- type: x-website
+  url: https://yunohost.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

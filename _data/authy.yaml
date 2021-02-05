@@ -1,0 +1,63 @@
+---
+name: Authy
+description: Two-factor authentication (2FA) adds an additional layer of protection
+  beyond passwords. Download our free app today and follow our easy to use guides
+  to protect your accounts and personal information.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1306-authy.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "48083"
+url: https://raw.githubusercontent.com/api-network/organizations/main/authy.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: https://www.authy.com/
+- type: x-website
+  url: https://www.authy.com
+- type: x-blog
+  url: https://www.authy.com/blog/
+- type: x-blog
+  url: https://authy.com/blog/authy-vs-google-authenticator/
+- type: x-careers
+  url: https://www.twilio.com/company/jobs
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/authy-inc
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/authy-inc
+- type: x-developers
+  url: https://www.authy.com/developers/
+- type: x-facebook
+  url: https://www.facebook.com/authysec
+- type: x-github
+  url: https://github.com/authy
+- type: x-investor
+  url: https://investors.twilio.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/authy
+- type: x-login
+  url: https://www.authy.com/login/
+- type: x-press
+  url: https://www.twilio.com/press
+- type: x-support
+  url: https://support.authy.com/hc/en-us
+- type: x-support
+  url: https://support.authy.com
+- type: x-support
+  url: https://support.authy.com/hc/en-us/requests/new
+- type: x-terms-of-service
+  url: https://www.twilio.com/legal
+- type: x-terms-of-service
+  url: https://www.twilio.com/legal/privacy
+- type: x-twitter
+  url: https://twitter.com/authy
+- type: x-twitter
+  url: https://twitter.com/Authy?ref_src=twsrc%5Etfw
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

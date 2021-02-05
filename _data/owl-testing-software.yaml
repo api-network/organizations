@@ -1,0 +1,61 @@
+---
+name: OWL Testing Software
+description: OWL Testing Software provides online test management solutions to businesses,
+  governments, and educators. Manage the entire assessment cycle with one online test
+  management system.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2183619"
+url: https://raw.githubusercontent.com/api-network/organizations/main/owl-testing-software.yaml
+tags:
+- TOEFL
+- Testing And Evaluation
+- Test Scores
+- Test Results
+- Test Management System
+- Test Feedback
+- Surveys
+- SPEAK Test
+- SOPI
+- Secondary Education Testing
+- Quizzes
+- Quiz Builder
+- Primary Education Testing
+- Placement Exams
+- Oral Proficiency
+- Online Test Builder
+- Online Exams
+- Online Exam Builder
+- Online Assessments
+- Language Assessment
+- Human Resources
+- High Stakes Testing
+- ESL
+- Employment Screening
+- Computerized Testing
+- Computerized Assessments
+- Certification
+- CEFR
+- Assessment Software
+- Assessment Reports
+- ARELS
+- ACTFL
+apis: []
+x-common:
+- type: x-website
+  url: http://www.owlts.com
+- type: x-facebook
+  url: https://www.facebook.com/OWLTesting
+- type: x-twitter
+  url: https://twitter.com/owlts
+- type: x-website
+  url: https://owlts.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

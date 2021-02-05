@@ -1,0 +1,42 @@
+---
+name: AlarmTILT
+description: "Gestion de crise et d'alertes de masse. Outil d'envoi d'alerte pour
+  diffuser le bon message \xE0 la bonne personne, au bon moment. Outil pour vos plans
+  de continuit\xE9s des activit\xE9s (PCA / BCP). Automatisation des alertes d'urgence,
+  et gestion des processus et procedure de crise. Aide \xE0 la strat\xE9gie de gestion
+  de crise. D\xE9monstration personnalis\xE9e gratuite !"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1403058"
+url: https://raw.githubusercontent.com/api-network/organizations/main/alarmtilt.yaml
+tags:
+- Outil De Gestion De Crise
+- Outil
+- Message Services
+- Logiciel De Gestion De Crise
+- Logiciel
+- Gestion De Crise
+- "Continuit\xE9 Des Activit\xE9s"
+- Alerte De Masse
+- Alarmtilt
+apis: []
+x-common:
+- type: x-website
+  url: http://www.alarmtilt.com
+- type: x-facebook
+  url: https://www.facebook.com/alarmtilt/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/m-plify-s.a.
+- type: x-twitter
+  url: https://twitter.com/alarmtilt
+- type: x-website
+  url: https://www.alarmtilt.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

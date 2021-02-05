@@ -1,0 +1,23 @@
+---
+name: ryanjbaxter.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ryanjbaxter-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://ryanjbaxter.com/2015/07/06/an-introduction-to-the-new-ibm-containers-service/
+- type: x-website
+  url: http://ryanjbaxter.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

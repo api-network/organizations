@@ -1,0 +1,50 @@
+---
+name: West Yorkshire Linux Users' Group
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/west-yorkshire-linux-users-group.yaml
+tags:
+- Europe
+apis: []
+x-common:
+- type: x-website
+  url: http://www.wylug.org.uk/
+- type: x-about
+  url: https://www.wylug.org.uk/about/
+- type: x-about
+  url: https://www.wylug.org.uk/about/mailing-lists/
+- type: x-about
+  url: https://www.wylug.org.uk/about/meetings/
+- type: x-about
+  url: https://www.wylug.org.uk/about/membership/
+- type: x-blog
+  url: http://manchester.fsuk.org/blog/
+- type: x-contact
+  url: https://www.wylug.org.uk/about/contacts/
+- type: x-feed
+  url: https://www.wylug.org.uk/feed/
+- type: x-feed
+  url: https://www.wylug.org.uk/comments/feed/
+- type: x-login
+  url: https://www.wylug.org.uk/wp-login.php
+- type: x-press
+  url: https://wordpress.org/
+- type: x-press
+  url: http://wordpress.org/
+- type: x-support
+  url: https://mailman.lug.org.uk/mailman/listinfo/wylug-help
+- type: x-twitter
+  url: http://twitter.com/wylug
+- type: x-website
+  url: https://www.wylug.org.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,73 @@
+---
+name: Open311
+description: <p>Open311 is meant to facilitate an international effort to build open
+  interoperable systems that allow citizens to more directly interact with their cities.
+  Many 311 systems provide a broad range of information and services, but currently
+  the primary focus here is coordinating a standardized, open-access, read/write model
+  for citizens to report non-emergency issues. For a broad overview, see the Learn
+  More page, for an in-depth look see the post that describes Open311 as a specification
+  for an open platform, and for general information about 311, see the Wikipedia page
+  on 311.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/open311-logo.jpeg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "10"
+x-alexaRank: "4518704"
+url: https://raw.githubusercontent.com/api-network/organizations/main/open311.yaml
+tags:
+- Open311
+- Have API
+- "311"
+apis: []
+x-common:
+- type: x-blog-rss
+  url: http://open311.org/feed/
+- type: x-contact
+  url: http://www.open311.org/contact/
+- type: x-documentation
+  url: http://wiki.open311.org/GeoReport_v2_docs
+- type: x-documentation
+  url: https://github.com/mashery/iodocs
+- type: x-facebook
+  url: https://www.facebook.com/groups/cfachicago/
+- type: x-github
+  url: https://github.com/City-of-Bloomington/uReport
+- type: x-github
+  url: https://github.com/flatiron/api-easy
+- type: x-github
+  url: https://github.com/open311
+- type: x-marketplace
+  url: http://marketplace.civiccommons.org/apps/georeporter
+- type: x-twitter
+  url: https://twitter.com/search/%23Open311
+- type: x-twitter
+  url: https://twitter.com/search/%23ServiceTracker
+- type: x-twitter
+  url: https://twitter.com/chicagocto
+- type: x-twitter
+  url: https://twitter.com/danielledumerer
+- type: x-twitter
+  url: https://twitter.com/boundsj
+- type: x-twitter
+  url: https://twitter.com/angelk
+- type: x-twitter
+  url: https://twitter.com/@bensheldon
+- type: x-twitter
+  url: https://twitter.com/@Mr0grog
+- type: x-twitter
+  url: https://twitter.com/#%21/philipashlock
+- type: x-twitter
+  url: https://dev.twitter.com/console
+- type: x-twitter
+  url: https://twitter.com/heatherleson
+- type: x-twitter
+  url: https://twitter.com/open311
+- type: x-website
+  url: http://open311.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

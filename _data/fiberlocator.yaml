@@ -1,0 +1,42 @@
+---
+name: FiberLocator
+description: ""
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/FiberLocator-Logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "541778"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fiberlocator.yaml
+tags:
+- Telecommunications
+- Profile
+- Have API
+- Fiber Optic
+- API Provider
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.fiberlocator.com/contact/
+- type: x-customers
+  url: https://www.fiberlocator.com/customers/
+- type: x-customers
+  url: https://www.fiberlocator.com/customers/enterprise/
+- type: x-customers
+  url: https://www.fiberlocator.com/customers/data-centers/
+- type: x-customers
+  url: https://www.fiberlocator.com/customers/agents/
+- type: x-news
+  url: https://www.fiberlocator.com/category/news/
+- type: x-platform
+  url: https://www.fiberlocator.com/features/platform/
+- type: x-support
+  url: https://www.fiberlocator.com/support-and-training/
+- type: x-website
+  url: http://www.fiberlocator.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

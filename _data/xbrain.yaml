@@ -1,0 +1,33 @@
+---
+name: XBrain
+description: "In today\u2019s world, we expect increased connectivity and voice interaction
+  for a safer road.    With XBrain, you are in control: engage with your customers
+  and enhance the way they drive and interact with your vehicles.    XBrain\u2019s
+  technology provides th..."
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28253-xbrain-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xbrain.yaml
+tags:
+- Marketplaces
+apis: []
+x-common:
+- type: x-website
+  url: http://xbrain.io
+- type: x-contact
+  url: https://satisfaction.ai/contact-us/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/xbrain
+- type: x-twitter
+  url: https://twitter.com/XBrainInc
+- type: x-website
+  url: https://xbrain.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

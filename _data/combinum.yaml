@@ -1,0 +1,56 @@
+---
+name: Combinum
+description: COMBINUM is a configurator and a CPQ software designed for companies
+  selling complex products. The sales configurator guides the configuration of the
+  product.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8842884"
+url: https://raw.githubusercontent.com/api-network/organizations/main/combinum.yaml
+tags:
+- Automation
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.combinum.com/media/blog/
+- type: x-contact
+  url: https://www.combinum.com/contact/
+- type: x-contact
+  url: https://www.combinum.com/contact/live-demo/
+- type: x-contact
+  url: https://www.combinum.com/contact/about/
+- type: x-customers
+  url: https://www.combinum.com/customers/
+- type: x-customers
+  url: https://www.combinum.com/customers/aritco-lift/
+- type: x-customers
+  url: https://www.combinum.com/customers/asko-appliances/
+- type: x-customers
+  url: https://www.combinum.com/customers/pipelife/
+- type: x-customers
+  url: https://www.combinum.com/customers/schneider-electric/
+- type: x-customers
+  url: https://www.combinum.com/customers/stertil-koni/
+- type: x-customers
+  url: https://www.combinum.com/customers/valmet/
+- type: x-news
+  url: https://www.combinum.com/media/newsletter/
+- type: x-partner
+  url: https://www.combinum.com/partners/
+- type: x-partner
+  url: https://www.combinum.com/partners/become-a-partner/
+- type: x-partner
+  url: https://www.combinum.com/partners/partner-portal/
+- type: x-website
+  url: https://www.combinum.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=evpfDfw70Fk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

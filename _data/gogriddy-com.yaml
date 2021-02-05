@@ -1,0 +1,53 @@
+---
+name: gogriddy.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "372245"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gogriddy-com.yaml
+tags:
+- Profile
+- Has API
+- Energy
+- Electricity
+apis: []
+x-common:
+- type: x-website
+  url: http://www.griddy.com
+- type: x-about
+  url: https://www.gogriddy.com/about/
+- type: x-blog
+  url: https://www.gogriddy.com/blog/
+- type: x-contact
+  url: https://www.gogriddy.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/GoGriddy/
+- type: x-website
+  url: http://gogriddy.com
+- type: x-instagram
+  url: https://www.instagram.com/gogriddy/?hl=en
+- type: x-login
+  url: https://app.gogriddy.com/login
+- type: x-press
+  url: https://www.gogriddy.com/press/
+- type: x-pricing
+  url: https://www.gogriddy.com/your-home/#pricing
+- type: x-pricing
+  url: https://www.gogriddy.com/your-business/#pricing
+- type: x-privacy
+  url: https://www.gogriddy.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.gogriddy.com/legal/
+- type: x-terms-of-service
+  url: https://www.gogriddy.com/terms-conditions/
+- type: x-twitter
+  url: https://twitter.com/GoGriddy
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

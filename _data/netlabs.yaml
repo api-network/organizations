@@ -1,0 +1,40 @@
+---
+name: Netlabs
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9902731"
+url: https://raw.githubusercontent.com/api-network/organizations/main/netlabs.yaml
+tags:
+- Organizations
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.netlabs.org
+- type: x-contact
+  url: http://www.netlabs.org/site/contact.xml
+- type: x-developer
+  url: http://developer.netlabs.org
+- type: x-open-source
+  url: http://blog.zeit.de/open-data/author/lorenz-matzat/
+- type: x-open-source
+  url: http://opengovernmentdata.org/camp2010/
+- type: x-press
+  url: http://thepowerofpull.com/pull/book-stuff/press
+- type: x-twitter
+  url: http://twitter.com/netlabsorg
+- type: x-twitter
+  url: http://twitter.com/#!/markbirbeck
+- type: x-website
+  url: https://www.netlabs.org
+- type: x-youtube
+  url: http://www.youtube.com/watch?v=OGg8A2zfWKg
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,66 @@
+---
+name: SGO
+description: Beautifully Creative Technology
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "911044"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sgo.yaml
+tags:
+- Visual Effects
+- Stereo3D
+- Stereo
+- SI2K
+- Sgo
+- S3D
+- Red
+- Postproduction
+- Mistika
+- Finishing Arri
+- Fiesta 3D
+- DI
+- D21
+- Alexa
+- 3D Party
+apis: []
+x-common:
+- type: x-website
+  url: http://www.sgo.es
+- type: x-about
+  url: https://www.sgo.es/about-us/
+- type: x-contact
+  url: https://www.sgo.es/contact/
+- type: x-facebook
+  url: https://www.facebook.com/SGOMistika/
+- type: x-forum
+  url: https://forums.sgo.es/forums/
+- type: x-forum
+  url: https://forums.sgo.es/forums
+- type: x-instagram
+  url: https://www.instagram.com/sgomistika/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/992097/admin/
+- type: x-login
+  url: https://www.sgo.es/login
+- type: x-news
+  url: https://www.sgo.es/news/
+- type: x-privacy
+  url: https://www.sgo.es/privacy-policy-statement/
+- type: x-support
+  url: https://support.sgo.es/support/solutions
+- type: x-support
+  url: http://support.sgo.es/helpdesk/tickets
+- type: x-tutorials
+  url: https://www.sgo.es/tutorials/
+- type: x-twitter
+  url: https://twitter.com/SGO_group
+- type: x-website
+  url: https://www.sgo.es
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

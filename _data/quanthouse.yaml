@@ -1,0 +1,32 @@
+---
+name: QuantHouse
+description: QuantHouse, provides end-to-end systematic trading solutions. This includes
+  ultra-low latency market data technologies, algo-trading development framework,
+  proximity hosting and order routing services
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28305-www-quanthouse-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3147015"
+url: https://raw.githubusercontent.com/api-network/organizations/main/quanthouse.yaml
+tags:
+- Investment
+- Has API
+- Financial
+apis: []
+x-common:
+- type: x-website
+  url: http://www.quanthouse.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/quanthouse
+- type: x-twitter
+  url: https://twitter.com/QuantHouse
+- type: x-website
+  url: https://www.quanthouse.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,27 @@
+---
+name: Good Time Life
+description: GTL aims to become a global company that pursues the optimized total
+  living management enverionment by implementing a total life system with our clients.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27815-www-goodtime-life.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1728031"
+url: https://raw.githubusercontent.com/api-network/organizations/main/good-time-life.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-email
+  url: admin@goodtime.life
+- type: x-twitter
+  url: https://twitter.com/Good_Time_Life
+- type: x-website
+  url: http://www.goodtime.life
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

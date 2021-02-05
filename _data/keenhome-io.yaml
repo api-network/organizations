@@ -1,0 +1,31 @@
+---
+name: keenhome.io
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/keenhome-io.yaml
+tags: []
+apis: []
+x-common:
+- type: x-blog
+  url: https://shop.keenhome.io/blogs/community
+- type: x-facebook
+  url: https://www.facebook.com/KeenHome
+- type: x-linkedin
+  url: https://www.linkedin.com/company/keen-home-inc-
+- type: x-press
+  url: http://keenhome.iopress
+- type: x-curated-source
+  url: https://keenhome.io/
+- type: x-website
+  url: http://keenhome.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

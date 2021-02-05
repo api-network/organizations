@@ -1,0 +1,35 @@
+---
+name: phpBB
+description: phpBB is free and open source forum software that is easy to use, powerful,
+  and highly customisable. Our community offers extensive support to end users.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "20048"
+url: https://raw.githubusercontent.com/api-network/organizations/main/phpbb.yaml
+tags:
+- PhpBB
+apis: []
+x-common:
+- type: x-website
+  url: http://www.phpbb.com/
+- type: x-blog
+  url: https://blog.phpbb.com/2018/09/16/to-the-future/
+- type: x-blog
+  url: https://blog.phpbb.com/2017/09/09/were-in-budapest/
+- type: x-facebook
+  url: http://www.facebook.com/phpBB
+- type: x-feed
+  url: https://blog.phpbb.com/feed/
+- type: x-twitter
+  url: http://www.twitter.com/phpbb
+- type: x-website
+  url: https://www.phpbb.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

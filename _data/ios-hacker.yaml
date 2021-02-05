@@ -1,0 +1,43 @@
+---
+name: IOS Hacker
+description: iOSHacker is an Apple focused blog that provides in-depth news, reviews
+  and tutorials related to iPhone, iPad, Apple Watch, Mac, Apple TV and iOS.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "298829"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ios-hacker.yaml
+tags:
+- IOS
+apis: []
+x-common:
+- type: x-website
+  url: http://iOSHacker.com
+- type: x-about
+  url: https://ioshacker.com/about
+- type: x-contact
+  url: https://ioshacker.com/contact
+- type: x-facebook
+  url: http://facebook.com/ioshackr
+- type: x-facebook
+  url: https://www.facebook.com/ioshackr
+- type: x-instagram
+  url: http://instagram.com/ioshackr
+- type: x-news
+  url: https://ioshacker.com/category/news
+- type: x-privacy
+  url: https://ioshacker.com/privacy-policy
+- type: x-twitter
+  url: http://twitter.com/ioshacker1
+- type: x-website
+  url: https://ioshacker.com
+- type: x-youtube
+  url: http://youtube.com/ioshacker
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

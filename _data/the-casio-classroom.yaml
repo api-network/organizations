@@ -1,0 +1,41 @@
+---
+name: The Casio Classroom
+description: CASIO is committed to providing educational solutions that will enhance
+  both, teaching and learning in the classroom
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1406699"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-casio-classroom.yaml
+tags:
+- Casio Graphic Calculators
+apis: []
+x-common:
+- type: x-website
+  url: http://www.youtube.com/user/CasioPrizm
+- type: x-facebook
+  url: https://www.facebook.com/casioeducation
+- type: x-press
+  url: https://casioeducation.wordpress.com/
+- type: x-privacy
+  url: http://www.casio.com/support/helpdesk/privacy
+- type: x-support
+  url: https://edu.casio.com/support/en/
+- type: x-terms-of-service
+  url: http://www.casio.com/support/helpdesk/terms
+- type: x-twitter
+  url: https://twitter.com/casioeducate
+- type: x-website
+  url: https://www.casioeducation.com
+- type: x-youtube
+  url: https://www.youtube.com/user/CasioPrizm/videos
+- type: x-youtube
+  url: https://www.youtube.com/user/CasioPrizm
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

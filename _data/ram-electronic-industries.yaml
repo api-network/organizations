@@ -1,0 +1,51 @@
+---
+name: Ram Electronic Industries
+description: Audio Video and Computer Cables, HDMI, Custom, AV Wall Plates, Cable
+  and Wireless Extenders, Adapters, Converters, HDBaseT Distribution and Switchers
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "428247"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ram-electronic-industries.yaml
+tags:
+- Manufacturers
+- HDMI
+- HDBaseT Distribution And Switchers
+- Custom
+- Converters
+- Cable And Wireless Extenders
+- AV Wall Plates
+- Audio Video And Computer Cables
+- Adapters
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ramelectronics.net
+- type: x-blog
+  url: https://www.ramelectronics.net/blog/
+- type: x-contact
+  url: https://www.ramelectronics.net/contact.aspx
+- type: x-facebook
+  url: https://www.facebook.com/RamElectronics.Net
+- type: x-login
+  url: https://www.ramelectronics.net/login.php
+- type: x-support
+  url: https://www.ramelectronics.net/support.aspx
+- type: x-support
+  url: https://www.ramelectronics.net/ieee-1394_support.aspx
+- type: x-support
+  url: https://www.ramelectronics.net/scsi_help.aspx
+- type: x-twitter
+  url: https://twitter.com/RamElectronics
+- type: x-website
+  url: https://www.ramelectronics.net
+- type: x-youtube
+  url: https://www.youtube.com/user/RamElectronics
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

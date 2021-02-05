@@ -1,0 +1,23 @@
+---
+name: thecryds.wordpress.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/thecryds-wordpress-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: https://thecryds.wordpress.com/2015/02/25/explanations-what-is-an-api-what-it-means-for-gamers/
+- type: x-website
+  url: http://thecryds.wordpress.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

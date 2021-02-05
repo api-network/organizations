@@ -1,0 +1,54 @@
+---
+name: Comprenew
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1251227"
+url: https://raw.githubusercontent.com/api-network/organizations/main/comprenew.yaml
+tags:
+- Used
+apis: []
+x-common:
+- type: x-website
+  url: http://www.comprenew.org
+- type: x-about
+  url: https://comprenew.org/about/
+- type: x-about
+  url: https://comprenew.org/about/certifications/
+- type: x-careers
+  url: https://comprenew.org/pages/careers/
+- type: x-contact
+  url: https://comprenew.org/contact/
+- type: x-contact
+  url: https://comprenew.org/contact
+- type: x-developer
+  url: http://dev.comprenew.org
+- type: x-events
+  url: https://comprenew.org/events/
+- type: x-events
+  url: https://comprenew.org/category/events/
+- type: x-facebook
+  url: http://www.facebook.com/Comprenew
+- type: x-instagram
+  url: http://instagram.com/comprenew
+- type: x-linkedin
+  url: https://www.linkedin.com/company/2777603
+- type: x-news
+  url: https://comprenew.org/news/
+- type: x-news
+  url: https://comprenew.org/category/news/
+- type: x-news
+  url: https://comprenew.org/newsletter-sign-up/
+- type: x-twitter
+  url: http://www.twitter.com/Comprenew
+- type: x-website
+  url: https://comprenew.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

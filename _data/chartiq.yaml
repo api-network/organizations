@@ -1,0 +1,36 @@
+---
+name: ChartIQ
+description: <p>ChartIQ is a profitable fintech startup focused on delivering the
+  smartest software solutions to institutional banks, brokerages, and financial technology
+  companies around the world. We&rsquo;re laser-focused on providing the fastest path
+  to innovation and have successfully guided many institutions navigating the quagmire
+  of legacy technology and primitive mainframes to a lighter, more powerful stack.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/chartiq-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/chartiq.yaml
+tags:
+- Visualizations
+- Financial
+- Dashboards
+apis: []
+x-common:
+- type: x-blog-rss
+  url: https://blog.chartiq.com/rss.xml
+- type: x-github
+  url: https://github.com/ChartIQ
+- type: x-twitter
+  url: https://twitter.com/chartiq
+- type: x-website
+  url: https://www.chartiq.com/
+- type: x-blog
+  url: https://blog.chartiq.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

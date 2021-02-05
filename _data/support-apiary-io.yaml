@@ -1,0 +1,23 @@
+---
+name: support.apiary.io
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/support-apiary-io.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://support.apiary.io/forums/120125-general/suggestions/2970802-new-api-blueprint-format
+- type: x-website
+  url: http://support.apiary.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

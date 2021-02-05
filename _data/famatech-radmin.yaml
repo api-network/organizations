@@ -1,0 +1,50 @@
+---
+name: Famatech Radmin
+description: With Radmin, provide instant remote tech support to corporate network
+  users. Gain secure remote access to network computers and servers.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "357724"
+url: https://raw.githubusercontent.com/api-network/organizations/main/famatech-radmin.yaml
+tags:
+- Vnc
+- Telecommuting
+- System Administration
+- Secure Remote Access
+- Remote Support
+- Remote Desktop
+- Remote Control Software
+- Remote Computing
+- Remote Assistance
+- Remote Administrator
+- Remote Administration
+- Remote Access Software
+- Remote Access
+- Radmin
+- Help Desk
+- Famatech
+- Control Remote Pc
+- Control Pc Remotely
+- Access Remote Pc
+- Access Pc Remotely
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/radmin/
+- type: x-partner
+  url: https://www.radmin.com/partners/?register=yes
+- type: x-partner
+  url: https://www.radmin.com/partners/support/
+- type: x-twitter
+  url: https://twitter.com/Famatech
+- type: x-website
+  url: https://www.radmin.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,52 @@
+---
+name: Selerix
+description: Selerix Systems produces software BenSelect utilized by employers, brokers
+  & carriers to facilitate benefit administration, enrollment, employee engagement
+  and Affordable Care Act (ACA) reporting tools.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1749789"
+url: https://raw.githubusercontent.com/api-network/organizations/main/selerix.yaml
+tags:
+- Compensation And Benefits
+apis: []
+x-common:
+- type: x-website
+  url: http://selerix.com
+- type: x-about
+  url: https://www.selerix.com/about-us/our-story/
+- type: x-about
+  url: https://www.selerix.com/about-us/our-team/
+- type: x-careers
+  url: https://www.selerix.com/about-us/careers/
+- type: x-facebook
+  url: https://www.facebook.com/selerix/
+- type: x-linkedin
+  url: https://www.linkedin.com/company-beta/2350449/
+- type: x-news
+  url: https://www.selerix.com/news-blog/
+- type: x-partner
+  url: https://www.selerix.com/about-us/partners/
+- type: x-platform
+  url: https://www.selerix.com/technology/platform/
+- type: x-privacy
+  url: https://www.selerix.com/privacy-policy/
+- type: x-security
+  url: https://www.selerix.com/technology/security/
+- type: x-support
+  url: https://www.selerix.com/support/
+- type: x-terms-of-service
+  url: https://www.selerix.com/terms-and-conditions/
+- type: x-twitter
+  url: https://twitter.com/SelerixSystems
+- type: x-website
+  url: https://www.selerix.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

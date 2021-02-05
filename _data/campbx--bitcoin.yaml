@@ -1,0 +1,30 @@
+---
+name: CampBX - Bitcoin
+description: CampBX is a robust, easy, and trusted platform to buy and sell Bitcoins
+  for US Dollars.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26518-campbx---bitcoin.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "750927"
+url: https://raw.githubusercontent.com/api-network/organizations/main/campbx--bitcoin.yaml
+tags:
+- Marketplaces
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: https://CampBX.com/main.php?r=ADTwitter
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/campbx
+- type: x-twitter
+  url: https://twitter.com/CampBX
+- type: x-website
+  url: http://campbx.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

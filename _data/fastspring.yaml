@@ -1,0 +1,87 @@
+---
+name: FastSpring
+description: FastSpring is a SaaS company that offers a subscription billing service
+  & eCommerce platform for SaaS, software and other digital product & service companies
+  to monetize their products and services online.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28984-docs-fastspring-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10780"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fastspring.yaml
+tags:
+- Webhooks
+- Stores
+- Storefront
+- Sandbox
+- Risk Management
+- Regulation Compliance
+- Profile
+- PCI DSS
+- Payment
+- Global Online Payment
+- GDPR
+- Fraud Prevention
+- Compliance
+- Chargeback Management
+- Billing
+- API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.FastSpring.com
+- type: x-blog
+  url: https://fastspring.com/blog/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/fastspring
+- type: x-customers
+  url: https://fastspring.com/customers/
+- type: x-developers
+  url: https://fastspring.com/developers/
+- type: x-documentation
+  url: https://fastspring.com/docs
+- type: x-documentation
+  url: https://fastspring.com/docs/
+- type: x-email
+  url: dmca@fastspring.com
+- type: x-facebook
+  url: https://www.facebook.com/fastspring
+- type: x-faq
+  url: https://fastspring.com/frequently-asked-questions/
+- type: x-getting-started
+  url: https://docs.fastspring.com/getting-started-with-fastspring
+- type: x-github
+  url: https://github.com/FastSpring/
+- type: x-instagram
+  url: https://www.instagram.com/fastspringsb/
+- type: x-integrations
+  url: https://fastspring.com/integrations/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/fastspring
+- type: x-platform
+  url: https://fastspring.com/platform-overview/
+- type: x-press
+  url: https://fastspring.com/integrations/wordpress/
+- type: x-pricing
+  url: https://fastspring.com/pricing/
+- type: x-privacy
+  url: https://fastspring.com/privacy/
+- type: x-terms-of-service
+  url: https://fastspring.com/terms-use/
+- type: x-tutorials
+  url: https://docs.fastspring.com/video-tutorials
+- type: x-twitter
+  url: https://twitter.com/FastSpring
+- type: x-webhooks
+  url: https://docs.fastspring.com/integrating-with-fastspring/webhooks
+- type: x-documentation
+  url: https://docs.fastspring.com
+- type: x-website
+  url: https://fastspring.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,36 @@
+---
+name: Lake Financial Systems
+description: LAKE is a leading UK provider of accounting, business management and
+  procurement solutions based on Infor SunSystems, SAP Business One and Proactis software.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lake-financial-systems.yaml
+tags:
+- Vendors
+- Sunsystems
+- Sap Business One
+- Proactis
+- Infor
+- Ibm Cognos Express
+- Financial Management Software
+- Finance Software
+- Accounts Software
+- Accounting Software
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/lakefinancial
+- type: x-website
+  url: https://www.lake.co.uk
+- type: x-youtube
+  url: https://www.youtube.com/user/LakeFinancialSystems
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

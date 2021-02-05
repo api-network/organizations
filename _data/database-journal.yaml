@@ -1,0 +1,32 @@
+---
+name: Database Journal
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "126569"
+url: https://raw.githubusercontent.com/api-network/organizations/main/database-journal.yaml
+tags:
+- Databases
+apis: []
+x-common:
+- type: x-about
+  url: https://www.quinstreetb2btech.com/about_us/
+- type: x-about
+  url: https://www.quinstreetb2btech.com/about-us/
+- type: x-forum
+  url: http://forums.databasejournal.com
+- type: x-forum
+  url: http://forums.databasejournal.com/
+- type: x-support
+  url: http://www.dbasupport.com/
+- type: x-website
+  url: https://www.databasejournal.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

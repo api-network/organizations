@@ -1,0 +1,62 @@
+---
+name: BonitaSoft
+description: Bonitasoft helps innovative companies worldwide reinvent, automate and
+  gain deep visibility into their business processes. Bonitasoft's Bonita Digital
+  Process Automation platform enables collaboration between professional and citizen
+  developers to rapidly deliver automation projects and applications using best-of-breed
+  DevOps methodologies and tools.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "255433"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bonitasoft.yaml
+tags:
+- Products
+apis: []
+x-common:
+- type: x-website
+  url: http://www.bonitasoft.com
+- type: x-about
+  url: https://www.bonitasoft.com/overview-about-partners
+- type: x-about
+  url: https://www.bonitasoft.com/about-us
+- type: x-careers
+  url: https://www.bonitasoft.com/careers
+- type: x-contact
+  url: https://www.bonitasoft.com/contact-us
+- type: x-documentation
+  url: https://documentation.bonitasoft.com/
+- type: x-documentation
+  url: https://documentation.bonitasoft.com
+- type: x-events
+  url: https://www.bonitasoft.com/events
+- type: x-facebook
+  url: https://www.facebook.com/bonitasoftbpm
+- type: x-linkedin
+  url: https://www.linkedin.com/company/bonitasoft/
+- type: x-news
+  url: https://www.bonitasoft.com/news
+- type: x-partner
+  url: https://partner.bonitasoft.com/home
+- type: x-partner
+  url: https://www.bonitasoft.com/partners
+- type: x-platform
+  url: https://www.bonitasoft.com/bonita-platform
+- type: x-self-service-registration
+  url: https://www.bonitasoft.com/user/register
+- type: x-support
+  url: https://www.bonitasoft.com/support
+- type: x-twitter
+  url: https://twitter.com/bonitasoft
+- type: x-website
+  url: https://www.bonitasoft.com
+- type: x-youtube
+  url: https://www.youtube.com/user/BonitaSoft
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

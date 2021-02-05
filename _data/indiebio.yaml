@@ -1,0 +1,32 @@
+---
+name: IndieBio
+description: Accelerate Your Business & Science - 250k seed funding, 4 months, & life-long
+  experience.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29692-indiebio-co.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "860729"
+url: https://raw.githubusercontent.com/api-network/organizations/main/indiebio.yaml
+tags: []
+apis: []
+x-common:
+- type: x-blog
+  url: https://indiebio.co/blog/
+- type: x-careers
+  url: https://indiebio.co/jobs-postings/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/synbio-axlr8r
+- type: x-facebook
+  url: https://www.facebook.com/indiebio
+- type: x-twitter
+  url: https://twitter.com/indbio
+- type: x-website
+  url: http://indiebio.co
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

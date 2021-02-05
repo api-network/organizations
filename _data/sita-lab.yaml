@@ -1,0 +1,39 @@
+---
+name: SITA Lab
+description: ""
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/sita-api.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6660908"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sita-lab.yaml
+tags:
+- Profile
+- Have API
+- Flights
+- API LIfeycle
+- Airports
+- Airports
+apis: []
+x-common:
+- type: x-website
+  url: http://www.sita.aero/surveys-reports/sita-lab
+- type: x-base
+  url: https://bpass.api.aero/api
+- type: x-blog
+  url: https://www.developer.aero/blog
+- type: x-developers
+  url: https://www.developer.aero/
+- type: x-twitter
+  url: https://twitter.com/sitalab
+- type: x-website
+  url: https://www.developer.aero/
+- type: x-website
+  url: http://www.developer.aero
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

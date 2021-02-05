@@ -1,0 +1,37 @@
+---
+name: Think Toner
+description: Think Toner, Inc. provides affordable toner and ink cartridges delivered
+  to your door with free shipping on order over $85 in the continental United States.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7939937"
+url: https://raw.githubusercontent.com/api-network/organizations/main/think-toner.yaml
+tags:
+- Laser Toner
+apis: []
+x-common:
+- type: x-website
+  url: http://www.thinktoner.com
+- type: x-about
+  url: https://www.thinktoner.com/about-think-toner/
+- type: x-blog
+  url: https://www.thinktoner.com/blog/
+- type: x-contact
+  url: https://www.thinktoner.com/contact/
+- type: x-privacy
+  url: https://www.thinktoner.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.thinktoner.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/thinktoner
+- type: x-website
+  url: https://www.thinktoner.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

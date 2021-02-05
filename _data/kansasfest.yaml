@@ -1,0 +1,61 @@
+---
+name: KansasFest
+description: KansasFest 2020, the world\'s only annual convention dedicated to the
+  Apple II computer, will be held July 21-26 at Rockhurst University in Kansas City,
+  Missouri.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kansasfest.yaml
+tags:
+- Woz
+- Summer Camp
+- Rockhurst
+- Retrocomputing
+- Missouri
+- KFest
+- KansasFest
+- Kansas City
+- Jobs
+- IIGS
+- IIe
+- Hobby
+- Geeks
+- Convention
+- Conference
+- Avila
+- Apple II
+- Apple
+- A2
+- //c
+apis: []
+x-common:
+- type: x-website
+  url: https://www.kansasfest.org/
+- type: x-about
+  url: https://www.kansasfest.org/about/
+- type: x-contact
+  url: https://www.kansasfest.org/contact/
+- type: x-feed
+  url: https://kansasfest.org/feed/
+- type: x-news
+  url: https://www.kansasfest.org/category/news/
+- type: x-press
+  url: https://www.kansasfest.org/2019/07/first-impressions/
+- type: x-twitter
+  url: http://twitter.com/kansasfest
+- type: x-website
+  url: https://www.kansasfest.org
+- type: x-youtube
+  url: http://www.youtube.com/kansasfest
+- type: x-youtube
+  url: https://www.youtube.com/user/KansasFest
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,47 @@
+---
+name: SchoolTube
+description: |-
+  <p>Much like our universe, SchoolTube is ever expanding. As of 2013 we have registered users representing over 50,000 K-12 schools uploading over 1,000 videos a day. SchoolTube videos reach hundreds of thousands of people each day around the globe.</p>
+
+  <p>In 2006, we thought students and teachers needed a safe and fun place to share videos. So&#8230;we built one. SchoolTube???s key value centers on the premise that all videos published on SchoolTube are moderated by locally approved educators, ensuring a trusted and safe video sharing experience. SchoolTube supports the U.S. market of 5 million teachers and 55 million students (plus 1.4 billion students worldwide!) ??? with over 500,000 student and educator videos from across the globe.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/919_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "141717"
+url: https://raw.githubusercontent.com/api-network/organizations/main/schooltube.yaml
+tags:
+- No API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.schooltube.com
+- type: x-website
+  url: http://www.schooltube.com/
+- type: x-about
+  url: https://superview.schooltube.com/about/
+- type: x-about
+  url: https://superview.schooltube.com/about/sponsors/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/schooltube
+- type: x-github
+  url: https://github.com/schooltube
+- type: x-privacy
+  url: https://superview.schooltube.com/about/privacy-policy/
+- type: x-support
+  url: https://help.schooltube.com/hc/en-us
+- type: x-terms-of-service
+  url: https://superview.schooltube.com/about/terms/
+- type: x-tutorials
+  url: http://schooltube-4419116.hs-sites.com/user-tutorials
+- type: x-tutorials
+  url: https://learn.schooltube.com/user-tutorials
+- type: x-twitter
+  url: https://twitter.com/SchoolTube
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

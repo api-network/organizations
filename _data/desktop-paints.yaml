@@ -1,0 +1,28 @@
+---
+name: Desktop Paints
+description: Easy to make Screensaver with Water, Lighting, Snow, and much more. Turn
+  your static photos into stunning Animated Screensavers in just a few mouse clicks.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2483707"
+url: https://raw.githubusercontent.com/api-network/organizations/main/desktop-paints.yaml
+tags:
+- Wallpaper
+- Screensaver
+- Screen Saver
+- Maker
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.desktoppaints.com/
+- type: x-website
+  url: https://www.desktoppaints.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

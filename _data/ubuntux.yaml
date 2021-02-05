@@ -1,0 +1,42 @@
+---
+name: Ubuntux
+description: Trucos para ubuntu
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ubuntux.yaml
+tags:
+- Wine
+- Virtualbox
+- Ubuntu
+- Trucos
+- Truco
+- Terminal
+- Shutter
+- Mint
+- Linux
+- GNOME
+- Debian
+- Comandos
+- Ayuda
+apis: []
+x-common:
+- type: x-contact
+  url: https://ubuntux.info/contacto/
+- type: x-contact
+  url: https://ubuntux.info/contacto/#comment-39541
+- type: x-contact
+  url: https://ubuntux.info/contacto/#comment-36961
+- type: x-press
+  url: http://wordpress.org/
+- type: x-website
+  url: https://ubuntux.info
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

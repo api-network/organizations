@@ -1,0 +1,44 @@
+---
+name: Offtopic.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "55595"
+url: https://raw.githubusercontent.com/api-network/organizations/main/offtopic-com.yaml
+tags:
+- Message Boards
+apis: []
+x-common:
+- type: x-contact
+  url: https://offtopic.com/misc/contact/
+- type: x-forum
+  url: https://offtopic.com/forums/secret-santa-2019.176/
+- type: x-forum
+  url: https://offtopic.com/forums/off-topic.11/page-2
+- type: x-forum
+  url: https://offtopic.com/forums/off-topic.11/page-3
+- type: x-forum
+  url: https://offtopic.com/forums/off-topic.11/page-6654
+- type: x-forum
+  url: https://offtopic.com/forums/-/index.rss
+- type: x-login
+  url: https://offtopic.com/login/
+- type: x-self-service-registration
+  url: https://offtopic.com/register/
+- type: x-support
+  url: https://offtopic.com/help/
+- type: x-support
+  url: https://offtopic.com/help/cookies
+- type: x-terms-of-service
+  url: https://offtopic.com/help/terms/
+- type: x-website
+  url: https://www.offtopic.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

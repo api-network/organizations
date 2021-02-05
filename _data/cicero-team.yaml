@@ -1,0 +1,42 @@
+---
+name: Cicero Team
+description: <p><span>Cicero is a comprehensive database of elected officials and
+  legislative districts. Cicero enables you to match constituents with their representatives
+  based on address-level data, leading to endless possibilities.</span></p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Cicero.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2931645"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cicero-team.yaml
+tags:
+- Votes
+- Legislative Districts
+- Have API
+- Energy
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cicerodata.com
+- type: x-documentation
+  url: http://cicero.azavea.com/docs/getting_started.html
+- type: x-github
+  url: https://github.com/cicero-data
+- type: x-login
+  url: https://cicero.azavea.com/v3.1/accounts/login/
+- type: x-privacy
+  url: http://www.azavea.com/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/ciceroapi
+- type: x-twitter
+  url: https://twitter.com/azavea
+- type: x-website
+  url: https://www.cicerodata.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

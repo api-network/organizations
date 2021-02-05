@@ -1,0 +1,42 @@
+---
+name: TYPO3 BUZZ
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "90400"
+url: https://raw.githubusercontent.com/api-network/organizations/main/typo3-buzz.yaml
+tags:
+- TYPO3
+apis: []
+x-common:
+- type: x-website
+  url: http://www.typo3.org/contact/
+- type: x-about
+  url: https://typo3.com/about-typo3/why-typo3-cms/
+- type: x-code
+  url: https://www.in2code.de/
+- type: x-developer
+  url: http://developer.buzz.typo3.org
+- type: x-documentation
+  url: https://docs.typo3.org
+- type: x-facebook
+  url: https://www.facebook.com/typo3/
+- type: x-support
+  url: http://buzz.typo3.org/help/
+- type: x-support
+  url: https://typo3.com/services/extended-support/
+- type: x-twitter
+  url: https://twitter.com/typo3
+- type: x-website
+  url: https://buzz.typo3.org
+- type: x-youtube
+  url: https://www.youtube.com/user/typo3
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

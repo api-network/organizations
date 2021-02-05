@@ -1,0 +1,48 @@
+---
+name: Checkfront
+description: Smart, Simplified Online Bookings for Tours, Activities and Rentals.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29013-api-checkfront-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "14335"
+url: https://raw.githubusercontent.com/api-network/organizations/main/checkfront.yaml
+tags:
+- Tours
+- Marketplaces
+- Has API
+- Bookings
+- Activities
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.checkfront.com/contact?cfcp=api
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/checkfront
+- type: x-documentation
+  url: https://readthedocs.org
+- type: x-documentation
+  url: http://www.readthedocs.org
+- type: x-email
+  url: sales@checkfront.com
+- type: x-email
+  url: support@checkfront.com
+- type: x-email
+  url: accounts@checkfront.com
+- type: x-email
+  url: intro@checkfront.com
+- type: x-github
+  url: https://github.com/rtfd/sphinx_rtd_theme
+- type: x-twitter
+  url: https://twitter.com/Checkfront
+- type: x-webhooks
+  url: http://api.checkfront.com/ref/notifications.html
+- type: x-website
+  url: http://api.checkfront.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

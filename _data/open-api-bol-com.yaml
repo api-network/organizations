@@ -1,0 +1,63 @@
+---
+name: Open API bol.com
+description: bol.com, de winkel van ons allemaal. Kies uit >15 miljoen artikelen.
+  Snel en vanaf 20,- gratis verzonden!
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/bol-com-logo-2.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3411"
+url: https://raw.githubusercontent.com/api-network/organizations/main/open-api-bol-com.yaml
+tags:
+- Postman Doc Search
+- Netherlands
+- Has API
+apis: []
+x-common:
+- type: x-blog-rss
+  url: http://developers.bol.com/feed/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/bol
+- type: x-developer
+  url: https://developers.bol.com/
+- type: x-developer
+  url: https://developers.bol.com/technical-updates/
+- type: x-developer
+  url: https://developers.bol.com/newretailerapiv3/
+- type: x-developer
+  url: https://developers.bol.com/manage-product-information/
+- type: x-developer
+  url: https://developers.bol.com/datamodel/
+- type: x-developer
+  url: https://developers.bol.com/api-v4-product-content/
+- type: x-developer
+  url: https://developers.bol.com/magento-module-by-bol-com/
+- type: x-developer
+  url: https://developers.bol.com/apiv3gettingstarted/
+- type: x-developer
+  url: https://api.bol.com/retailer/public/
+- type: x-developer
+  url: https://developers.bol.com/nieuws/
+- type: x-platform
+  url: https://partnerplatform.bol.com/nieuws/
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/6210127/S1LwzTbq
+- type: x-twitter
+  url: https://twitter.com/dev_bolcom
+- type: x-twitter
+  url: https://www.twitter.com/dev_bolcom
+- type: x-twitter
+  url: https://twitter.com/bol_com
+- type: x-twitter
+  url: https://twitter.com/bol_com_api
+- type: x-website
+  url: http://developers.bol.com/
+- type: x-website
+  url: http://developers.bol.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

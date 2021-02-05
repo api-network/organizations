@@ -1,0 +1,55 @@
+---
+name: LightMix Design Studio
+description: LightMix is a website design, web development, graphic design, branding,
+  UI/UX and digital marketing firm in Washington DC, Virginia, Maryland
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4279370"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lightmix-design-studio.yaml
+tags:
+- Washington, DC
+apis: []
+x-common:
+- type: x-website
+  url: http://www.lightmix.com
+- type: x-blog
+  url: https://www.lightmix.com/blog/
+- type: x-blog
+  url: https://www.lightmix.com/blog/branding/
+- type: x-blog
+  url: https://www.lightmix.com/blog/industries/
+- type: x-blog
+  url: https://www.lightmix.com/blog/interface-design-and-ue/
+- type: x-blog
+  url: https://www.lightmix.com/blog/marketing/
+- type: x-blog
+  url: https://www.lightmix.com/blog/recent-projects/
+- type: x-blog
+  url: https://www.lightmix.com/blog/small-business/
+- type: x-blog
+  url: https://www.lightmix.com/blog/website-design/
+- type: x-contact
+  url: https://www.lightmix.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/LightMixDesignStudio
+- type: x-instagram
+  url: https://www.instagram.com/lightmixdesign/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/3183278/
+- type: x-news
+  url: https://www.lightmix.com/news/
+- type: x-news
+  url: https://www.lightmix.com/blog/news-by-industry/
+- type: x-twitter
+  url: https://twitter.com/lightmix
+- type: x-website
+  url: https://www.lightmix.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

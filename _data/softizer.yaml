@@ -1,0 +1,33 @@
+---
+name: Softizer
+description: Airy YouTube downloader for Mac lets you download videos from YouTube
+  in various formats and resolution and extract mp3 files.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/softizer.yaml
+tags:
+- Directories
+apis: []
+x-common:
+- type: x-website
+  url: http://www.eltima.com/
+- type: x-facebook
+  url: https://www.facebook.com/EltimaSoftware
+- type: x-linkedin
+  url: https://www.linkedin.com/company/eltima-software
+- type: x-twitter
+  url: https://twitter.com/EltimaSoftware
+- type: x-website
+  url: https://www.softizer.com
+- type: x-youtube
+  url: https://www.youtube.com/user/eltimaofficial
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

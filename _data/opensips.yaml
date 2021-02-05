@@ -1,0 +1,68 @@
+---
+name: OpenSIPS
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "558396"
+url: https://raw.githubusercontent.com/api-network/organizations/main/opensips.yaml
+tags:
+- SIP
+apis: []
+x-common:
+- type: x-open-source
+  url: https://www.opensips.org
+- type: x-open-source
+  url: https://www.opensips.org/Login/Signup?action=login
+- type: x-open-source
+  url: https://www.opensips.org/Login/Signup
+- type: x-open-source
+  url: https://opensips.org/training/OpenSIPS_Bootcamp_2020/
+- type: x-open-source
+  url: https://www.opensips.org/events/Summit-2020Amsterdam/
+- type: x-open-source
+  url: https://www.opensips.org/About/WhoIsUsing
+- type: x-open-source
+  url: https://www.opensips.org/About/Features
+- type: x-open-source
+  url: https://www.opensips.org/About/PerformanceTests
+- type: x-open-source
+  url: https://www.opensips.org/Documentation/Manual
+- type: x-open-source
+  url: https://www.opensips.org/Documentation/Modules-3-1
+- type: x-open-source
+  url: http://opensips.org/pub/opensips/3.0.1
+- type: x-open-source
+  url: http://opensips.org/pub/opensips/2.4.6
+- type: x-open-source
+  url: https://blog.opensips.org/
+- type: x-open-source
+  url: https://www.opensips.org/About/Donate
+- type: x-open-source
+  url: https://voip.opensips.org/account
+- type: x-open-source
+  url: https://voip.opensips.org/account/reg/index.php
+- type: x-open-source
+  url: https://www.opensips.org/About/AvailableVersions
+- type: x-open-source
+  url: https://www.opensips.org/About/Version-Overview-3-0-0
+- type: x-open-source
+  url: https://www.opensips.org/Main/HomePage?action=edit
+- type: x-open-source
+  url: https://www.opensips.org/Main/HomePage?action=diff
+- type: x-open-source
+  url: https://www.opensips.org/Main/HomePage?action=print
+- type: x-open-source
+  url: https://www.opensips.org/Main/RecentChanges
+- type: x-open-source
+  url: https://www.opensips.org/Site/Search
+- type: x-website
+  url: https://www.opensips.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,52 @@
+---
+name: Templatic
+description: Premium WordPress Themes for your website. All our WP templates are responsive
+  and come with free installation and friendly support. Regular Updates. Guaranteed
+  Support. Open Source Code. SEO Friendly Themes. Check it out.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "21378"
+url: https://raw.githubusercontent.com/api-network/organizations/main/templatic.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-about
+  url: https://templatic.com/about/
+- type: x-blog
+  url: https://templatic.com/blog/
+- type: x-blog
+  url: https://templatic.com/wp/blogging-for-beginners/
+- type: x-careers
+  url: https://templatic.com/careers/
+- type: x-contact
+  url: https://templatic.com/contact/
+- type: x-documentation
+  url: https://templatic.com/docs/
+- type: x-gdpr
+  url: https://templatic.com/gdpr-policy/
+- type: x-press
+  url: https://templatic.com/wordpress-themes/
+- type: x-press
+  url: https://templatic.com/wordpress-plugins/
+- type: x-press
+  url: https://templatic.com/wordpress-hotel-themes/5-star/
+- type: x-press
+  url: https://templatic.com/wordpress-video-themes/video/
+- type: x-privacy
+  url: https://templatic.com/privacy-policy/
+- type: x-showcase
+  url: https://templatic.com/showcase/
+- type: x-terms-of-service
+  url: https://templatic.com/terms-of-use/
+- type: x-website
+  url: https://www.templatic.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

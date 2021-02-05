@@ -1,0 +1,33 @@
+---
+name: https://proximi.io
+description: ""
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/proximiio_logo_horz_transp.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/httpsproximi-io.yaml
+tags:
+- Locations
+- Have API Paths
+apis: []
+x-common:
+- type: x-authentication
+  url: https://proximi.io/docs/rest-api/#authentication
+- type: x-blog
+  url: https://proximi.io/blog/
+- type: x-developers
+  url: https://proximi.io/docs/rest-api/
+- type: x-documentation
+  url: https://proximi.io/docs/rest-api/
+- type: x-errors
+  url: https://proximi.io/docs/rest-api/#errors
+- type: x-website
+  url: https://proximi.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

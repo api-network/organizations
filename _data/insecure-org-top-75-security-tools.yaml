@@ -1,0 +1,42 @@
+---
+name: 'Insecure.org: Top 75 Security tools'
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "275596"
+url: https://raw.githubusercontent.com/api-network/organizations/main/insecure-org-top-75-security-tools.yaml
+tags:
+- Software
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.sectools.org
+- type: x-developer
+  url: http://www.secdev.org/projects/scapy/
+- type: x-documentation
+  url: https://nmap.org/docs.html
+- type: x-documentation
+  url: https://community.rapid7.com/docs/DOC-1875
+- type: x-open-source
+  url: http://www.openbsd.org/cgi-bin/cvsweb/src/usr.bin/nc/
+- type: x-open-source
+  url: http://www.openwall.com/john/
+- type: x-open-source
+  url: http://www.openssh.com/
+- type: x-open-source
+  url: http://www.openvas.org/
+- type: x-privacy
+  url: https://insecure.org/privacy.html
+- type: x-security
+  url: http://www.skullsecurity.org/wiki/index.php/Passwords
+- type: x-website
+  url: https://sectools.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

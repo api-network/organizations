@@ -1,0 +1,48 @@
+---
+name: WebSense
+description: "Forcepoint is transforming cybersecurity by focusing on understanding
+  people\u2019s intent as they interact with critical data wherever it resides. Our
+  uncompromising systems enable companies to empower employees with unobstructed access
+  to confidential data while protecting intellectual property and simplifying compliance."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "278062"
+url: https://raw.githubusercontent.com/api-network/organizations/main/websense.yaml
+tags:
+- Content Filtering
+- Application Layer Gateways
+apis: []
+x-common:
+- type: x-website
+  url: http://www.forcepoint.com
+- type: x-customers
+  url: https://www.forcepoint.com/company/customers
+- type: x-facebook
+  url: https://www.facebook.com/ForcepointLLC
+- type: x-partner
+  url: https://partners.forcepoint.com
+- type: x-partner
+  url: https://www.websense.com/content/partner-new-user.aspx
+- type: x-partner
+  url: https://www.forcepoint.com/partners/find-a-distributor
+- type: x-security
+  url: https://www.forcepoint.com/security/data-ip-protection
+- type: x-security
+  url: https://www.forcepoint.com/security/insider-threat
+- type: x-security
+  url: https://view.forcepoint.com/wsj-cybersecurity/p/1
+- type: x-support
+  url: https://support.forcepoint.com/
+- type: x-twitter
+  url: https://twitter.com/forcepointsec
+- type: x-website
+  url: https://www.websense.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

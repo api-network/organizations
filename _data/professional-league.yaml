@@ -1,0 +1,39 @@
+---
+name: Professional League
+description: "Software zur Verwaltung und statistischen Auswertung von Ligen, Pokalwettbewerben
+  und Turnieren in allen Sportarten (Fu\xDFball, Handball, Eishockey, Basketball etc.).
+  Shareware-Version zum kostenlosen Download."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/professional-league.yaml
+tags:
+- Windows
+- Tracker
+- Tournament
+- Statistics
+- Sports And Recreation
+- Soccer
+- Shareware
+- Manager
+- Leaguemanager
+- League-manager
+- League
+- Football
+- Features
+- Download
+- Cup
+- Bundesliga
+apis: []
+x-common:
+- type: x-website
+  url: https://www.ligaverwaltung.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,56 @@
+---
+name: ICP DAS USA
+description: "ICP DAS USA provides industrial data acquisition, data communication,
+  controllers, touch screen PLC\xE2\x80\x99s, HMI, SCADA, Ethernet switches and protocol
+  converters for systems integration, engineering firms, factories and machine builders
+  for control and monitoring systems."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1042421"
+url: https://raw.githubusercontent.com/api-network/organizations/main/icp-das-usa.yaml
+tags:
+- Zigbee
+- Wireless
+- Touch Screen PLC
+- Touch Screen Controller
+- Test & Measurement
+- Signal Conditioning
+- SCADA
+- Protocol Converters
+- PLC
+- PCI Boards
+- Modbus
+- Machine Automation
+- ISA Boards
+- Industrial Control Products
+- Industrial Automation
+- HMI
+- Ethernet Switches
+- Ethernet I/O
+- Embedded Controllers
+- Distributors
+- Data Communication
+- Data Acquisition
+apis: []
+x-common:
+- type: x-website
+  url: http://www.icpdas-usa.com
+- type: x-instagram
+  url: https://www.instagram.com/icpdasusa/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/icp-das-usa-inc-
+- type: x-twitter
+  url: https://twitter.com/icpdasusa
+- type: x-website
+  url: https://www.icpdas-usa.com
+- type: x-youtube
+  url: https://www.youtube.com/user/mariaICP
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

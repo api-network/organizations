@@ -1,0 +1,30 @@
+---
+name: ICON
+description: ICON??? ????????? Blockchain Community??? ??????? ???????????? ???????????????????.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26637-www-icon-foundation.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "124526"
+url: https://raw.githubusercontent.com/api-network/organizations/main/icon.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://icon.foundation
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/iconlabs
+- type: x-email
+  url: hello@icon.foundation
+- type: x-twitter
+  url: https://twitter.com/helloiconworld
+- type: x-website
+  url: https://www.icon.foundation
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

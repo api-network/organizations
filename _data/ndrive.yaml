@@ -1,0 +1,45 @@
+---
+name: NDrive
+description: 'NDrive empowers innovation. Every day millions of people around the
+  world use NDrive GPS products and maps. We change the way people travel and commute
+  everyday: either using their smartphones or the infotainment unit on the car, we
+  always get to the point!'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1055192"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ndrive.yaml
+tags:
+- Software
+apis: []
+x-common:
+- type: x-website
+  url: http://ndrive.com
+- type: x-about
+  url: https://ndrive.com/about/
+- type: x-blog
+  url: https://ndrive.com/blog/
+- type: x-careers
+  url: https://ndrive.com/careers/
+- type: x-facebook
+  url: https://www.facebook.com/ndrive
+- type: x-linkedin
+  url: https://www.linkedin.com/company/ndrive/
+- type: x-press
+  url: https://ndrive.com/presskit/
+- type: x-support
+  url: https://ndrive.com/support-ndrive11-2/
+- type: x-twitter
+  url: https://twitter.com/ndrive
+- type: x-website
+  url: https://www.ndrive.com
+- type: x-youtube
+  url: https://www.youtube.com/user/ndrivetv
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

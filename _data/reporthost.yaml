@@ -1,0 +1,26 @@
+---
+name: ReportHost
+description: Inspection software for home and property inspectors looking to deliver
+  great reports to their customers and agents.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "948965"
+url: https://raw.githubusercontent.com/api-network/organizations/main/reporthost.yaml
+tags:
+- ReportHost Home Inspection Software
+- Inspection
+apis: []
+x-common:
+- type: x-support
+  url: http://www.inspectionsupport.net
+- type: x-website
+  url: https://www.reporthost.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

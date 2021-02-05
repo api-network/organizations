@@ -1,0 +1,38 @@
+---
+name: TurnKey Internet
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "86541"
+url: https://raw.githubusercontent.com/api-network/organizations/main/turnkey-internet.yaml
+tags:
+- Service Providers
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.turnkeyinternet.net/
+- type: x-blog
+  url: https://blog.turnkeyinternet.net/
+- type: x-facebook
+  url: https://www.facebook.com/turnkeyinternetNY/
+- type: x-instagram
+  url: https://www.instagram.com/turnkeyinternet/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/turnkey-internet/
+- type: x-support
+  url: https://helpdesk.turnkeyinternet.net/
+- type: x-twitter
+  url: https://twitter.com/TurnKeyInternet
+- type: x-website
+  url: https://www.turnkeyinternet.net
+- type: x-youtube
+  url: https://www.youtube.com/user/TurnkeyInternet
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

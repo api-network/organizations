@@ -1,0 +1,37 @@
+---
+name: Zondera
+description: "Medarbetarunders\xF6kningar, kundunders\xF6kningar, pulsm\xE4tningar
+  och uppf\xF6ljning. Zondera har verktygen f\xF6r organisationsutveckling och ledarkapsutveckling."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zondera.yaml
+tags:
+- "Uppf\xF6ljning"
+- "Unders\xF6kningar"
+- Surveys
+- "Pulsm\xE4tningar"
+- Organisationsutveckling
+- "Medarbetarunders\xF6kning"
+- Ledarskapsutveckling
+- "Kundunders\xF6kning"
+- "360"
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/zonderacom
+- type: x-linkedin
+  url: https://se.linkedin.com/company/zonderacom
+- type: x-twitter
+  url: https://twitter.com/zonderacom
+- type: x-website
+  url: https://www.zondera.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

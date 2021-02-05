@@ -1,0 +1,28 @@
+---
+name: Information Sharing Environment (ISE)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/information-sharing-environment-ise.yaml
+tags:
+- Federal Government
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ise.gov
+- type: x-facebook
+  url: http://facebook.com/informationsharingenvironment
+- type: x-facebook
+  url: http://facebook.com/111231325622334
+- type: x-twitter
+  url: http://twitter.com/shareandprotect
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

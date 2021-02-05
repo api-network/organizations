@@ -1,0 +1,22 @@
+---
+name: AC3Filter
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1088512"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ac3filter.yaml
+tags:
+- Audio Formats
+apis: []
+x-common:
+- type: x-website
+  url: https://www.ac3filter.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

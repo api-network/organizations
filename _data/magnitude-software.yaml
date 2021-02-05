@@ -1,0 +1,75 @@
+---
+name: Magnitude Software
+description: 'Magnitude Software: a complete end-to-end platform that enables corporate
+  managers to harness data and make better and faster decisions for their companies.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "11252132"
+url: https://raw.githubusercontent.com/api-network/organizations/main/magnitude-software.yaml
+tags:
+- Decision Support Tools
+apis: []
+x-common:
+- type: x-about
+  url: https://magnitude.com/about/acquisitions/
+- type: x-about
+  url: https://magnitude.com/about/
+- type: x-about
+  url: https://magnitude.com/about/leadership/
+- type: x-blog
+  url: https://magnitude.com/blog
+- type: x-careers
+  url: https://magnitude.com/about/careers/
+- type: x-code
+  url: https://www.simba.com/drivers/simba-engine-sdk/
+- type: x-contact
+  url: https://magnitude.com/about/contact-us/
+- type: x-customers
+  url: https://magnitude.com/customers/
+- type: x-customers
+  url: https://magnitude.com/customers/success-stories/
+- type: x-customers
+  url: https://magnitude.com/customers/customer-success/
+- type: x-customers
+  url: https://magnitude.com/customers/customer-videos/
+- type: x-events
+  url: https://magnitude.com/about/events/
+- type: x-events
+  url: https://magnitude.com/about/events/web-seminars/
+- type: x-news
+  url: https://magnitude.com/about/newsroom/
+- type: x-news
+  url: https://magnitude.com/about/newsroom/media-coverage/
+- type: x-news
+  url: https://magnitude.com/news/2019-mdm-landscape-report/
+- type: x-partner
+  url: https://magnitude.com/partners/
+- type: x-partner
+  url: https://magnitude.com/partners/become-a-partner/
+- type: x-partner
+  url: https://magnitude.com/partners/technology-partners/
+- type: x-partner
+  url: https://magnitude.com/partners/value-added-resellers/
+- type: x-partner
+  url: https://magnitude.com/partners/systems-integrators/
+- type: x-press
+  url: https://magnitude.com/about/newsroom/press-releases/
+- type: x-privacy
+  url: https://magnitude.com/privacy-policy/
+- type: x-support
+  url: https://magnitude.com/online-support/
+- type: x-support
+  url: https://magnitude.com/software-services/support/
+- type: x-terms-of-service
+  url: https://magnitude.com/terms/
+- type: x-website
+  url: https://www.noetix.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

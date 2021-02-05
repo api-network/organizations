@@ -1,0 +1,32 @@
+---
+name: milonic.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "67514"
+url: https://raw.githubusercontent.com/api-network/organizations/main/milonic-com.yaml
+tags:
+- Site Navigation
+apis: []
+x-common:
+- type: x-blog
+  url: http://www.milonic.com/blog
+- type: x-contact
+  url: http://www.milonic.com/contactus.php
+- type: x-support
+  url: http://support.milonic.com/beginners/borders.htm
+- type: x-support
+  url: http://support.milonic.com/demos
+- type: x-support
+  url: http://support.milonic.com/beginners/css_styling/
+- type: x-website
+  url: https://www.milonic.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

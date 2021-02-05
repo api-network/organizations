@@ -1,0 +1,38 @@
+---
+name: Cloud Business Review
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5009297"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cloud-business-review.yaml
+tags:
+- Cloud Computing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cbrdigital.com
+- type: x-about
+  url: https://www.cbrdigital.com/about.html
+- type: x-about
+  url: https://www.cbrdigital.com/about/cbr-team.html
+- type: x-blog
+  url: https://www.cbrdigital.com/blog.html
+- type: x-contact
+  url: https://www.cbrdigital.com/contact.html
+- type: x-facebook
+  url: https://www.facebook.com/CBRdigital
+- type: x-feed
+  url: http://feeds.feedburner.com/CloudBusinessReview
+- type: x-twitter
+  url: https://twitter.com/cloudbizreview
+- type: x-website
+  url: https://www.cbrdigital.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

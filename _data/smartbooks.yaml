@@ -1,0 +1,23 @@
+---
+name: SmartBooks
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/smartbooks.yaml
+tags: []
+apis: []
+x-common:
+- type: x-contact
+  url: https://smartbooks.co.nz/contact-us/
+- type: x-website
+  url: https://www.smartbooks.co.nz
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

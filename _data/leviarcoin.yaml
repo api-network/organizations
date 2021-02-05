@@ -1,0 +1,26 @@
+---
+name: LeviarCoin
+description: LeviarCoin, an anonymous crypto currency and DRM over blockchain system.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27299-leviarcoin-org.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "814697"
+url: https://raw.githubusercontent.com/api-network/organizations/main/leviarcoin.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: https://leviar.io
+- type: x-twitter
+  url: https://twitter.com/leviarcoin_fdn
+- type: x-website
+  url: https://leviarcoin.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

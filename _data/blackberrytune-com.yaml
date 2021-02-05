@@ -1,0 +1,64 @@
+---
+name: BlackBerryTune.com
+description: BlackBerryTune.com providing latest BlackBerry News, Reviews, Free Wallpapers,
+  Free mp3 Ringtones, Software, Deals, How to guides, Apps and Themes to get most
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blackberrytune-com.yaml
+tags:
+- Themes
+- Storm2
+- Storm
+- Smartphone
+- RIM
+- Reviews
+- Pearl
+- News
+- Free Wallpapers
+- Free Mp3 Ringtones
+- Free Apps
+- Free
+- Curve
+- Bold
+- BlackBerryTune.com
+- BlackBerry Addicts
+- Blackberry
+- Apps
+- "9700"
+- "8520"
+apis: []
+x-common:
+- type: x-website
+  url: http://www.blackberrytune.com
+- type: x-about
+  url: http://www.blackberrytune.com/about/
+- type: x-about
+  url: http://www.blackberrytune.com/about/advertise/
+- type: x-contact
+  url: http://www.blackberrytune.com/about/contact/
+- type: x-facebook
+  url: http://www.facebook.com/blackberrytune
+- type: x-feed
+  url: http://feeds.feedburner.com/BlackberryTune
+- type: x-news
+  url: https://www.blackberrytune.com/category/news/
+- type: x-press
+  url: http://www.statcounter.com/wordpress.org/
+- type: x-privacy
+  url: http://www.blackberrytune.com/privacy-policy/
+- type: x-terms-of-service
+  url: http://www.blackberrytune.com/terms-and-conditions/
+- type: x-twitter
+  url: http://twitter.com/blackberrytune
+- type: x-website
+  url: https://www.blackberrytune.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

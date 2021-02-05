@@ -1,0 +1,65 @@
+---
+name: IDrive
+description: <p>Built with developers in mind, IDrive Encrypted Versioned file System
+  is a powerful, easy to use service that provides secure, encrypted and versioned
+  cloud storage. Unlike other generic storage systems, IDrive EVS has storage encryption,
+  versioning and block level incremental transfers built in both-ways for uploads
+  and downloads. This gives you the freedom to develop innovative applications to
+  customize your Backup, Storage, Sync, Sharing, Disaster recovery and more that are
+  highly efficient, scalable and require minimal coding. It provides powerful APIs
+  for uploading, retrieving, managing data and storage, at any time, from anywhere
+  on the Internet.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1055_logo..png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "34241"
+url: https://raw.githubusercontent.com/api-network/organizations/main/idrive.yaml
+tags:
+- Storage
+- Storage
+- Storage
+- Security
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.idrive.com/
+- type: x-base
+  url: https://evs.idrive.com/evs/
+- type: x-blog
+  url: https://blog.idrive.com/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/idrive
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/idrive-inc
+- type: x-developer
+  url: http://developer.idrive.com
+- type: x-developers
+  url: https://www.idrive.com/enterprise/centralized_console/
+- type: x-email
+  url: copyright@idrive.com
+- type: x-email
+  url: privacy@idrive.com
+- type: x-email
+  url: support@idrive.com
+- type: x-facebook
+  url: https://www.facebook.com/IDriveBackup
+- type: x-linkedin
+  url: https://www.linkedin.com/company/1498880
+- type: x-signup
+  url: https://www.idrive.com/idrive/signup/el/get90
+- type: x-twitter
+  url: https://twitter.com/IDriveBackup
+- type: x-website
+  url: https://www.idrive.com/
+- type: x-website
+  url: https://www.idrive.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

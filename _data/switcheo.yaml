@@ -1,0 +1,54 @@
+---
+name: Switcheo
+description: First Multichain Decentralized Exchange (DEX) - Cryptocurrency exchange
+  platform for NEP-5 token trades built on the NEO platform
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28807-docs-switcheo-network.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "361079"
+url: https://raw.githubusercontent.com/api-network/organizations/main/switcheo.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://switcheo.exchange
+- type: x-developer
+  url: https://test-api.switcheo.network
+- type: x-developer
+  url: https://api.switcheo.network
+- type: x-developer
+  url: https://test-api.switcheo.exchange/
+- type: x-documentation
+  url: https://socket.io/docs/#What-Socket-IO-is
+- type: x-documentation
+  url: https://socket.io/docs/rooms-and-namespaces/
+- type: x-email
+  url: info@switcheo.network
+- type: x-github
+  url: https://github.com/Switcheo/switcheo-js
+- type: x-github
+  url: https://github.com/Switcheo/awesome-switcheo
+- type: x-github
+  url: https://github.com/ethereum/web3.js/
+- type: x-github
+  url: https://github.com/EOSIO/eosjs-ecc
+- type: x-github
+  url: https://github.com/EOSIO/eosjs
+- type: x-github
+  url: https://github.com/CityOfZion/neon-js
+- type: x-github
+  url: https://github.com/socketio/socket.io#features
+- type: x-github
+  url: https://github.com/socketio/socket.io-protocol
+- type: x-twitter
+  url: https://twitter.com/SwitcheoNetwork
+- type: x-website
+  url: https://docs.switcheo.network
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

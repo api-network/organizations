@@ -1,0 +1,37 @@
+---
+name: Devbridge Group
+description: We ship mission-critical software at scale, under aggressive deadlines.
+  Our experienced teams deliver results 4x faster than industry average.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/11268-devbridge-group.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "255049"
+url: https://raw.githubusercontent.com/api-network/organizations/main/devbridge-group.yaml
+tags:
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://devbridge.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/devbridge-group
+- type: x-email
+  url: marketing@devbridge.com
+- type: x-facebook
+  url: http://www.facebook.com/Devbridge
+- type: x-linkedin
+  url: https://www.linkedin.com/company/devbridge-group
+- type: x-twitter
+  url: https://twitter.com/devbridge
+- type: x-website
+  url: http://www.devbridge.com
+- type: x-website
+  url: https://www.devbridge.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,52 @@
+---
+name: Pen Computing Magazine
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pen-computing-magazine.yaml
+tags:
+- News And Media
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.junipersys.com/gps-week-rollover/
+- type: x-blog
+  url: https://blog.havis.com
+- type: x-blog
+  url: https://www.ruggedtabletpc.com/blog
+- type: x-blog
+  url: http://blog.junipersys.com
+- type: x-blog
+  url: http://blog.junipersys.com/android-aosp-need-know/
+- type: x-news
+  url: http://ruggedpcreview.com/3_news_2019_06_18_zebra.html
+- type: x-news
+  url: http://ruggedpcreview.com/3_news_2019_05_10_zebra.html
+- type: x-news
+  url: http://ruggedpcreview.com/3_news_2019_04_05_elbit.html
+- type: x-news
+  url: http://ruggedpcreview.com/3_news_2019_02_21_janam.html
+- type: x-news
+  url: https://ruggedpcreview.com/3_news_2019_01_22_flir.html
+- type: x-news
+  url: http://www.amphibianweb.com/newspro/
+- type: x-news
+  url: https://www.pencomputing.com/news/origami.html
+- type: x-news
+  url: https://www.pencomputing.com/news/news_rtls.html
+- type: x-plans
+  url: http://www.chassis-plans.com/
+- type: x-website
+  url: https://www.pencomputing.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=eF01Wd305E0
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

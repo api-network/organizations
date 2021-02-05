@@ -1,0 +1,46 @@
+---
+name: Affiliated Acceptance Corporation
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2091395"
+url: https://raw.githubusercontent.com/api-network/organizations/main/affiliated-acceptance-corporation.yaml
+tags:
+- Products And Services
+apis: []
+x-common:
+- type: x-about
+  url: http://affiliatedacceptance.com/about/
+- type: x-blog
+  url: http://affiliatedacceptance.com/blog/
+- type: x-careers
+  url: http://affiliatedacceptance.com/careers/
+- type: x-contact
+  url: http://affiliatedacceptance.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/affiliatedacceptance
+- type: x-support
+  url: http://affiliatedacceptance.com/support/
+- type: x-support
+  url: http://affiliatedacceptance.com/clientsupport/
+- type: x-terms-of-service
+  url: http://affiliatedacceptance.com/terms/
+- type: x-twitter
+  url: https://twitter.com/AAC_Corporate
+- type: x-twitter
+  url: https://twitter.com/i/web/status/941351357239447555
+- type: x-twitter
+  url: http://twitter.com/YouTube
+- type: x-website
+  url: https://www.affiliated.org
+- type: x-youtube
+  url: https://www.youtube.com/user/affiliatedacceptance
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,29 @@
+---
+name: everus
+description: https://t.co/poCqzhRe4D     GLOBAL DECENTRALIZED CURRENCY    BLOCKCHAIN
+  APP PLATFORM
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27723-everus-org.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "476685"
+url: https://raw.githubusercontent.com/api-network/organizations/main/everus.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: https://everus.org/
+- type: x-email
+  url: info@everus.org
+- type: x-twitter
+  url: https://twitter.com/everusworld
+- type: x-website
+  url: https://everus.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

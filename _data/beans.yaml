@@ -1,0 +1,47 @@
+---
+name: Beans
+description: Beans is an incredibly powerful and flexible WordPress Theme Framework,
+  yet light weight and unbelievably fast. The magic is under the hood!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "561645"
+url: https://raw.githubusercontent.com/api-network/organizations/main/beans.yaml
+tags:
+- Free
+apis: []
+x-common:
+- type: x-website
+  url: http://www.getbeans.io
+- type: x-contact
+  url: https://www.getbeans.io/contact/
+- type: x-documentation
+  url: https://www.getbeans.io/documentation/
+- type: x-forum
+  url: https://community.getbeans.io/forum/support/
+- type: x-github
+  url: https://github.com/Getbeans/Beans
+- type: x-github
+  url: https://github.com/Getbeans/Beans/projects
+- type: x-press
+  url: http://wplift.com/beans-wordpress-theme-framework
+- type: x-press
+  url: http://www.cssauthor.com/wordpress-frameworks/#Theme
+- type: x-showcase
+  url: https://www.getbeans.io/showcase/
+- type: x-twitter
+  url: https://twitter.com/BeansPress
+- type: x-twitter
+  url: https://twitter.com/TweetyThierry
+- type: x-twitter
+  url: https://twitter.com/hellofromtonya
+- type: x-website
+  url: https://www.getbeans.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

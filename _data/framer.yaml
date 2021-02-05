@@ -1,0 +1,41 @@
+---
+name: Framer
+description: Got creative ideas? Bring them to life with Framer X.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/framer.yaml
+tags:
+- Visual Design
+- Sketch
+- Prototyping Tool
+- Prototyping
+- Online
+- Mockup
+- JavaScript
+- IOS
+- Interactive Design
+- Interaction Design
+- Interaction
+- Design Tool
+- Animation
+- Android
+apis: []
+x-common:
+- type: x-website
+  url: http://www.framer.com
+- type: x-blog
+  url: https://blog.framer.com/
+- type: x-twitter
+  url: https://twitter.com/framer
+- type: x-website
+  url: https://www.framerjs.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

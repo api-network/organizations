@@ -1,0 +1,23 @@
+---
+name: siliconangle.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/siliconangle-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://siliconangle.com/blog/2016/08/04/microsoft-launches-excel-api-to-let-developers-embed-number-crunching-functionality-in-their-apps/
+- type: x-website
+  url: http://siliconangle.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

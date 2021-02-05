@@ -1,0 +1,36 @@
+---
+name: SwissIX Swiss Internet Exchange
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/swissix-swiss-internet-exchange.yaml
+tags:
+- Switzerland
+apis: []
+x-common:
+- type: x-about
+  url: https://www.swissix.ch/about
+- type: x-about
+  url: https://www.swissix.ch/about/what-internet-exchange
+- type: x-contact
+  url: https://www.swissix.ch/about/contact
+- type: x-partner
+  url: https://www.swissix.ch/partners_sponsors
+- type: x-privacy
+  url: https://www.swissix.ch/about/privacy-policy
+- type: x-security
+  url: https://www.swissix.ch/about/security-policy
+- type: x-status
+  url: https://status.swissix.ch/
+- type: x-website
+  url: https://www.swissix.ch
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

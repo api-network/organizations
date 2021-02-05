@@ -1,0 +1,37 @@
+---
+name: Indiana University Knowledge Base
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4494"
+url: https://raw.githubusercontent.com/api-network/organizations/main/indiana-university-knowledge-base.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://uits.iu.edu
+- type: x-about
+  url: http://it.iu.edu/about/
+- type: x-careers
+  url: http://it.iu.edu/jobs/
+- type: x-facebook
+  url: http://www.facebook.com/iu.uits
+- type: x-support
+  url: http://ithelplive.iu.edu/
+- type: x-support
+  url: http://ithelplive.iu.edu
+- type: x-twitter
+  url: https://twitter.com/insideuits
+- type: x-website
+  url: https://kb.iu.edu
+- type: x-youtube
+  url: http://www.youtube.com/uitsatiu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

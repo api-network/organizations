@@ -1,0 +1,29 @@
+---
+name: TransferGo
+description: Send money abroad cheaper than a bank with next business day delivery
+  guarantee for just a low fixed fee. Online money transfers with TransferGo!
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26548-transfergo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "60974"
+url: https://raw.githubusercontent.com/api-network/organizations/main/transfergo.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: https://transfergo.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/transfergo
+- type: x-twitter
+  url: https://twitter.com/TransferGo
+- type: x-website
+  url: http://transfergo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,44 @@
+---
+name: Gentoo
+description: The website of Gentoo, a flexible Linux distribution.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "47146"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gentoo.yaml
+tags:
+- Gentoo
+apis: []
+x-common:
+- type: x-developer
+  url: http://dev.gentoo.org
+- type: x-facebook
+  url: https://www.facebook.com/gentoo.org
+- type: x-forum
+  url: https://forums.gentoo.org/
+- type: x-security
+  url: https://security.gentoo.org/
+- type: x-security
+  url: https://security.gentoo.org/glsa/201911-08
+- type: x-security
+  url: https://security.gentoo.org/glsa/201911-07
+- type: x-security
+  url: https://security.gentoo.org/glsa/201911-06
+- type: x-security
+  url: https://security.gentoo.org/glsa/201911-05
+- type: x-security
+  url: https://security.gentoo.org/glsa/201911-04
+- type: x-status
+  url: https://infra-status.gentoo.org/
+- type: x-twitter
+  url: https://twitter.com/gentoo
+- type: x-website
+  url: https://www.gentoo.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

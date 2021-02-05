@@ -1,0 +1,45 @@
+---
+name: 'About.com: Graphics Software'
+description: From free software to Adobe Photoshop and Illustrator resources, we have
+  the tutorials and guidance you need to nail that design.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6952"
+url: https://raw.githubusercontent.com/api-network/organizations/main/about-com-graphics-software.yaml
+tags:
+- Resources
+apis: []
+x-common:
+- type: x-about
+  url: https://www.lifewire.com/about-us
+- type: x-about
+  url: https://www.lifewire.com/about-us#EditorialGuidelines
+- type: x-about
+  url: https://www.lifewire.com/about-us#ContactUs
+- type: x-careers
+  url: https://www.dotdash.com/careers/
+- type: x-facebook
+  url: http://www.facebook.com/lifewire
+- type: x-login
+  url: https://www.lifewire.com/designing-a-good-ad-1074458
+- type: x-open-source
+  url: https://www.lifewire.com/opening-images-1701242
+- type: x-support
+  url: https://www.lifewire.com/getting-more-help-4102762
+- type: x-terms-of-service
+  url: https://www.lifewire.com/legal#privacy
+- type: x-terms-of-service
+  url: https://www.lifewire.com/legal#cookies-disclosure
+- type: x-terms-of-service
+  url: https://www.lifewire.com/legal#terms
+- type: x-website
+  url: https://graphicssoft.about.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

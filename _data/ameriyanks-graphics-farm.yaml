@@ -1,0 +1,32 @@
+---
+name: AmeriYank's Graphics Farm
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ameriyanks-graphics-farm.yaml
+tags:
+- CDs
+apis: []
+x-common:
+- type: x-about
+  url: http://ameriyank.com/aboutme.html
+- type: x-contact
+  url: http://ameriyank.com/contactme.html
+- type: x-press
+  url: http://www.cafepress.com/maryandjesus
+- type: x-press
+  url: http://ameriyank.com/cafe/cafepresslist.html
+- type: x-privacy
+  url: http://ameriyank.com/privacy.html
+- type: x-website
+  url: https://ameriyank.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

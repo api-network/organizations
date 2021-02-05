@@ -1,0 +1,31 @@
+---
+name: Junot Systems, Inc.
+description: Junot Systems provides a number of pre-built, out-of-the-box SAP integration
+  solutions that simplify Manufacturing Plant Floor to SAP integration.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/junot-systems-inc-.yaml
+tags:
+- Third-Party Tools
+apis: []
+x-common:
+- type: x-about
+  url: https://junotsystems.com/about/
+- type: x-contact
+  url: https://junotsystems.com/contact/
+- type: x-partner
+  url: https://junotsystems.com/partners/
+- type: x-support
+  url: https://junotsystems.com/support/
+- type: x-website
+  url: https://www.junotsystems.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

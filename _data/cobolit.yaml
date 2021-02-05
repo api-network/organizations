@@ -1,0 +1,27 @@
+---
+name: COBOL-IT
+description: COBOL-IT helps you modernize your legacy COBOL application while minimizing
+  risks and costs. Best Mainframe Alternative
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2248440"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cobolit.yaml
+tags:
+- Commercial Products And Services
+apis: []
+x-common:
+- type: x-about
+  url: https://www.cobol-it.com/about-us/
+- type: x-contact
+  url: https://www.cobol-it.com/contact/
+- type: x-website
+  url: https://www.cobol-it.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

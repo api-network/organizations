@@ -1,0 +1,49 @@
+---
+name: JWChat
+description: A free, web based instant messaging client for the XMPP aka Jabber network.
+  Through gateways it allows to connect to foreign networks like AIM, ICQ, Yahoo!
+  and MSN. It includes support for multi user conferences (groupchats or chat rooms)
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4434146"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jwchat.yaml
+tags:
+- XMPP
+- Web Based
+- Web Applications
+- SSL
+- Multi User
+- MUC
+- JavaScript
+- Jabber
+- Instant Messaging
+- HTTP Polling
+- HTTP Binding
+- HTML
+- Free
+- Ejabberd
+- Conferences
+- Client
+- Chat Rooms
+- Chat
+- Browser
+- BOSH
+- Apache
+- AJAX
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.jwchat.org/jwchat/
+- type: x-blog
+  url: http://blog.jwchat.org
+- type: x-website
+  url: https://jwchat.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

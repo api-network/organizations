@@ -1,0 +1,41 @@
+---
+name: Jangaroo
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jangaroo.yaml
+tags:
+- Web Application
+- Open Source
+- Maven
+- JavaScript
+- Development Tool
+- Compilers
+- Compiler
+- Apache 2
+- ANT
+- ActionScript
+apis: []
+x-common:
+- type: x-website
+  url: http://www.jangaroo.net
+- type: x-blog
+  url: http://blog.jangaroo.net/
+- type: x-blog
+  url: http://blog.jangaroo.net
+- type: x-github
+  url: https://github.com/CoreMedia/jangaroo-tools/wiki/FAQ
+- type: x-twitter
+  url: https://twitter.com/Jangaroo
+- type: x-website
+  url: https://www.jangaroo.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

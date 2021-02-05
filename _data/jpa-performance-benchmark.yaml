@@ -1,0 +1,35 @@
+---
+name: JPA Performance Benchmark
+description: About the Java Persistence API Performance Benchmark - Home.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3681122"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jpa-performance-benchmark.yaml
+tags:
+- Vs
+- Tuning
+- Speed
+- Slower
+- Slow
+- Jpa
+- Faster
+- Fast
+- Databases And Persistence
+- Database
+- Comparison
+- Cache
+- Boost
+- Benchmark
+apis: []
+x-common:
+- type: x-website
+  url: https://www.jpab.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

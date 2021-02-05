@@ -1,0 +1,67 @@
+---
+name: ClimaCell
+description: <p>ClimaCell provides the most accurate weather data in the world by
+  integrating proprietary data extracted from wireless networks and other new sensing
+  technologies with data from traditional sensors. With 90% correlation to ground
+  truth (vs. 50% using radar), it&rsquo;s the best you can get for your enterprise.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28707-climacell.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "911"
+x-alexaRank: "496880"
+url: https://raw.githubusercontent.com/api-network/organizations/main/climacell.yaml
+tags:
+- Weather
+- Have API Paths
+- Have API
+- General Data
+- API Provider
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-website
+  url: http://www.climacell.co/
+- type: x-blog
+  url: https://www.climacell.co/blog/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/climacell
+- type: x-developers
+  url: https://www.climacell.co/api/
+- type: x-email
+  url: info@climacell.co
+- type: x-email
+  url: support@climacell.co
+- type: x-email
+  url: sales@climacell.co
+- type: x-facebook
+  url: https://www.facebook.com/microweather
+- type: x-faq
+  url: https://developer.climacell.co/FAQ
+- type: x-github
+  url: https://github.com/climacell
+- type: x-instagram
+  url: https://www.instagram.com/climacell/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/climacell/
+- type: x-login
+  url: https://developer.climacell.co/login
+- type: x-pricing
+  url: https://developer.climacell.co/
+- type: x-privacy-policy
+  url: https://www.climacell.co/privacy/
+- type: x-terms-of-service
+  url: https://www.climacell.co/terms-of-service/
+- type: x-twitter
+  url: https://twitter.com/WeatherRevealed
+- type: x-twitter
+  url: https://twitter.com/climacell
+- type: x-website
+  url: https://www.climacell.co
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

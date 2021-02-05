@@ -1,0 +1,24 @@
+---
+name: morningstar.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/morningstar-com.yaml
+tags:
+- API Provider
+apis: []
+x-common:
+- type: x-curated-source
+  url: https://www.morningstar.com/news/pr-news-wire/PRNews_20160405NY63615/panasonic-announces-full-availability-of-honeywell-wifi-smart-thermostats-for-its-home-monitoring-system.html
+- type: x-website
+  url: http://morningstar.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

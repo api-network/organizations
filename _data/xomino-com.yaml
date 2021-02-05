@@ -1,0 +1,23 @@
+---
+name: xomino.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xomino-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: https://xomino.com/2016/08/23/psc-and-ldc-via-the-technical-reasons-for-our-strategic-partnership/
+- type: x-website
+  url: http://xomino.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

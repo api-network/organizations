@@ -1,0 +1,36 @@
+---
+name: FaxitFast
+description: |-
+  FaxitFast offers the best online faxing service which makes it easy to
+          sending and receiving faxes via email.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "555594"
+url: https://raw.githubusercontent.com/api-network/organizations/main/faxitfast.yaml
+tags:
+- Services
+- Sending Faxes From My Email
+- Receiving Faxes In My Email
+- Online Faxing Service
+- Online Faxing
+- Fax Via Email
+- FAX To EMAIL
+- Email Fax Service
+- Best Online Faxing Service
+apis: []
+x-common:
+- type: x-website
+  url: http://www.FaxitFast.com
+- type: x-twitter
+  url: https://twitter.com/#!/faxitfast
+- type: x-website
+  url: https://www.faxitfast.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

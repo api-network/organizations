@@ -1,0 +1,35 @@
+---
+name: BigBoulderInitiative
+description: Big Boulder Initiative is an invite-only conference for the social data
+  industry to learn and grow against the challenges facing the industry.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/2940-bigboulderinitiative.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bigboulderinitiative.yaml
+tags:
+- Reclaim Your Domain
+- Reclaim
+- Have API
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.bigboulderinitiative.org/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/big-boulder-initiative
+- type: x-email
+  url: mike@bbi.org
+- type: x-email
+  url: info@bbi.org
+- type: x-twitter
+  url: https://twitter.com/bbi
+- type: x-website
+  url: http://bigboulderinitiative.org/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

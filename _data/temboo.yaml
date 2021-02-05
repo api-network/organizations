@@ -1,0 +1,62 @@
+---
+name: Temboo
+description: "Kosmos is Temboo\u2019s all-in-one SaaS offering for Industrial Internet
+  of Things applications. A powerful software toolkit that lets companies develop,
+  deploy, and manage their own IoT systems - no coding required."
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/serviceproviders/Temboo-Logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "301693"
+url: https://raw.githubusercontent.com/api-network/organizations/main/temboo.yaml
+tags:
+- Scripts
+- Programming
+- IPaaS
+- IPaaS
+- IPaaS
+- Integrations
+- Have API
+- Automation
+- API LIfeycle
+apis: []
+x-common:
+- type: x-website
+  url: http://bit.ly/2ZjiM82
+- type: x-blog
+  url: http://blog.temboo.com/
+- type: x-blog
+  url: https://blog.temboo.com
+- type: x-blog-rss
+  url: http://blog.temboo.com/rss
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/temboo
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/temboo
+- type: x-email
+  url: privacy@temboo.com
+- type: x-facebook
+  url: https://www.facebook.com/temboo
+- type: x-github
+  url: https://github.com/temboo
+- type: x-instagram
+  url: https://www.instagram.com/temboo_iot/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/temboo-inc-
+- type: x-twitter
+  url: https://twitter.com/temboo
+- type: x-twitter
+  url: https://www.twitter.com/temboo
+- type: x-website
+  url: https://www.temboo.com/
+- type: x-website
+  url: https://temboo.com
+- type: x-youtube
+  url: https://www.youtube.com/temboo
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

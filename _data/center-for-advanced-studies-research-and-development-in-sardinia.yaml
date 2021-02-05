@@ -1,0 +1,66 @@
+---
+name: Center for Advanced Studies, Research and Development in Sardinia
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5713619"
+url: https://raw.githubusercontent.com/api-network/organizations/main/center-for-advanced-studies-research-and-development-in-sardinia.yaml
+tags:
+- Research Institutes
+apis: []
+x-common:
+- type: x-website
+  url: http://www.crs4.it
+- type: x-about
+  url: https://www.crs4.it/about/
+- type: x-about
+  url: https://www.crs4.it/about/organization/
+- type: x-careers
+  url: http://jobs.crs4.it
+- type: x-careers
+  url: https://www.crs4.it/jobs/stages/
+- type: x-contact
+  url: https://www.crs4.it/contacts/
+- type: x-events
+  url: https://www.crs4.it/events/
+- type: x-events
+  url: https://www.crs4.it/events_category/lectures/
+- type: x-events
+  url: https://www.crs4.it/events_category/workshop/
+- type: x-events
+  url: https://www.crs4.it/events_category/summer-school/
+- type: x-facebook
+  url: http://www.facebook.com/pages/CRS4/153623948010688
+- type: x-linkedin
+  url: http://www.linkedin.com/company/crs4
+- type: x-news
+  url: https://www.crs4.it/news_category/news/
+- type: x-open-source
+  url: https://www.crs4.it/results/open-source-software/
+- type: x-press
+  url: https://www.crs4.it/press-release/
+- type: x-press
+  url: https://www.crs4.it/press-review/
+- type: x-press
+  url: https://www.crs4.it/press-office/
+- type: x-privacy
+  url: https://www.crs4.it/privacy-policy/
+- type: x-slideshare
+  url: http://www.slideshare.net/CRS4
+- type: x-twitter
+  url: http://twitter.com/crs4research
+- type: x-website
+  url: https://www.crs4.it
+- type: x-youtube
+  url: https://www.youtube.com/user/CRS4video
+- type: x-youtube
+  url: http://www.youtube.com/CRS4video
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,43 @@
+---
+name: I/Gear Corporation, Inc.
+description: IGearonline provides communication solutions to manufacturers with manufacturing
+  software products like SQUEAKS
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7047581"
+url: https://raw.githubusercontent.com/api-network/organizations/main/igear-corporation-inc-.yaml
+tags:
+- SQUEAKS
+- Insight
+- IIoT
+- IGearOnline
+- IGear Online
+- IGear
+- I4.0
+- Connect
+- Automation
+- ASSIST
+- ANDON
+apis: []
+x-common:
+- type: x-about
+  url: https://www.igearonline.com/about
+- type: x-contact
+  url: https://www.igearonline.com/contact
+- type: x-linkedin
+  url: https://www.linkedin.com/company/igear-online-llc/
+- type: x-support
+  url: https://www.igearonline.com/support
+- type: x-twitter
+  url: https://twitter.com/IGearAlwaysOn
+- type: x-website
+  url: https://www.igearonline.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

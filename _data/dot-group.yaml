@@ -1,0 +1,42 @@
+---
+name: DOT Group
+description: The Dot Group is a leading specialist in Data Management Solutions -
+  architecture, design, development and support of enterprise quality Information
+  Management and Business Analytics solutions.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3382066"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dot-group.yaml
+tags:
+- Consultants
+apis: []
+x-common:
+- type: x-website
+  url: http://www.dotgroup.co.uk/
+- type: x-blog
+  url: https://blog.dotgroup.co.uk/
+- type: x-careers
+  url: https://www.dotgroup.co.uk/why-dot/careers/
+- type: x-customers
+  url: https://www.dotgroup.co.uk/customers/
+- type: x-gdpr
+  url: https://www.dotgroup.co.uk/services/gdpr/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/dot-group-limited/
+- type: x-partner
+  url: https://www.dotgroup.co.uk/partners/
+- type: x-support
+  url: https://www.dotgroup.co.uk/services/support/
+- type: x-twitter
+  url: https://twitter.com/DOTGroupLtd
+- type: x-website
+  url: https://www.dotgroup.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

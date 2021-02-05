@@ -1,0 +1,23 @@
+---
+name: beame.io
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/beame-io.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: https://www.beame.io
+- type: x-twitter
+  url: https://twitter.com/beame_io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

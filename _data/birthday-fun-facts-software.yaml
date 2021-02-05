@@ -1,0 +1,24 @@
+---
+name: Birthday Fun Facts Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10485815"
+url: https://raw.githubusercontent.com/api-network/organizations/main/birthday-fun-facts-software.yaml
+tags:
+- Software
+apis: []
+x-common:
+- type: x-news
+  url: https://clientbirthday.com/news.php
+- type: x-website
+  url: https://clientbirthday.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

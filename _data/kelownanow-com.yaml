@@ -1,0 +1,23 @@
+---
+name: kelownanow.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kelownanow-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: https://www.kelownanow.com/watercooler/news/news/Provincial/16/03/10/B_C_Government_Opens_Up_Traffic_Webcam_Data_to_Developers/
+- type: x-website
+  url: http://kelownanow.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

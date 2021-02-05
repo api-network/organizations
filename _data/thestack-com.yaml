@@ -1,0 +1,23 @@
+---
+name: thestack.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/thestack-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: https://thestack.com/data-centre/2015/03/12/the-crucial-role-of-storage-in-the-evolution-of-the-software-defined-data-centre-sddc/
+- type: x-website
+  url: http://thestack.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

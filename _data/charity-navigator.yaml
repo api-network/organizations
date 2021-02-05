@@ -1,0 +1,57 @@
+---
+name: Charity Navigator
+description: Charity Navigator is an American independent charity watchdog organization
+  that evaluates charitable organizations in the United States.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28893-www-charitynavigator-org.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "711"
+x-alexaRank: "45741"
+url: https://raw.githubusercontent.com/api-network/organizations/main/charity-navigator.yaml
+tags:
+- Have API Paths
+- Have API
+- Giving
+- General Data
+- Charities
+apis: []
+x-common:
+- type: x-blog-rss
+  url: http://blog.charitynavigator.org/feeds/posts/default?alt=rss
+- type: x-developers
+  url: https://charity.3scale.net/
+- type: x-documentation
+  url: https://charity.3scale.net/docs/data-api/reference
+- type: x-github
+  url: https://github.com/CharityNavigator
+- type: x-support
+  url: https://charity.3scale.net/support
+- type: x-website
+  url: http://www.charitynavigator.org
+- type: x-blog
+  url: http://blog.charitynavigator.org/
+- type: x-blog
+  url: http://blog.charitynavigator.org
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/charity-navigator
+- type: x-email
+  url: helpandsupport@charitynavigator.org
+- type: x-facebook
+  url: http://www.facebook.com/charitynavigator
+- type: x-linkedin
+  url: http://www.linkedin.com/company/charity-navigator
+- type: x-twitter
+  url: http://twitter.com/CharityNav
+- type: x-twitter
+  url: https://twitter.com/CharityNav
+- type: x-website
+  url: https://www.charitynavigator.org
+- type: x-youtube
+  url: http://www.youtube.com/charitynavigator
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

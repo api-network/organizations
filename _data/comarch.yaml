@@ -1,0 +1,35 @@
+---
+name: ComArch
+description: Comarch is a global software house delivering and integrating proprietary
+  IT product.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "97638"
+url: https://raw.githubusercontent.com/api-network/organizations/main/comarch.yaml
+tags:
+- Billing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.comarch.com
+- type: x-blog
+  url: https://blog.comarch.com/
+- type: x-instagram
+  url: https://www.instagram.com/comarch_group/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/comarch
+- type: x-press
+  url: http://www.comarch.com/press-center/news/
+- type: x-twitter
+  url: https://twitter.com/ComarchGroup
+- type: x-website
+  url: https://www.comarch.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

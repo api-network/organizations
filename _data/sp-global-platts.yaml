@@ -1,0 +1,46 @@
+---
+name: S&P Global Platts
+description: Independent energy news and the latest energy and prices for petrochemicals,
+  crude oil, metals, coal, sugar and biofuels available to purchase online today.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28089-trial-platts-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "94831"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sp-global-platts.yaml
+tags:
+- Energy
+- Agriculture
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/platts
+- type: x-email
+  url: support@platts.com
+- type: x-email
+  url: sales@platts.com
+- type: x-email
+  url: webteam@platts.com
+- type: x-email
+  url: oil@platts.com
+- type: x-email
+  url: power@platts.com
+- type: x-email
+  url: gas@platts.com
+- type: x-email
+  url: emissions@platts.com
+- type: x-email
+  url: agriculture@platts.com
+- type: x-email
+  url: nukes@platts.com
+- type: x-email
+  url: coal@platts.com
+- type: x-website
+  url: http://trial.platts.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

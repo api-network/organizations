@@ -1,0 +1,44 @@
+---
+name: Information Security Corporation
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/information-security-corporation.yaml
+tags:
+- Tools And Services
+apis: []
+x-common:
+- type: x-about
+  url: https://infoseccorp.com/about/
+- type: x-careers
+  url: https://infoseccorp.com/careers/
+- type: x-contact
+  url: https://infoseccorp.com/contact/
+- type: x-contact
+  url: https://www.infoseccorp.com/contact/
+- type: x-partner
+  url: https://infoseccorp.com/partners/
+- type: x-press
+  url: http://wordpress.org
+- type: x-security
+  url: https://envieta.com/hardware-security-modules
+- type: x-support
+  url: https://infoseccorp.com/support
+- type: x-support
+  url: https://infoseccorp.com/help
+- type: x-terms-of-service
+  url: https://infoseccorp.com/terms-of-use/
+- type: x-terms-of-service
+  url: https://www.infoseccorp.com/terms-of-use/
+- type: x-website
+  url: https://www.infoseccorp.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

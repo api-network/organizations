@@ -1,0 +1,41 @@
+---
+name: Architosh
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "911690"
+url: https://raw.githubusercontent.com/api-network/organizations/main/architosh.yaml
+tags:
+- Magazines And E-zines
+- Directories
+apis: []
+x-common:
+- type: x-website
+  url: http://www.architosh.com
+- type: x-blog
+  url: https://architosh.com/category/blog/
+- type: x-feed
+  url: https://architosh.com/feed
+- type: x-news
+  url: https://architosh.com/category/news/
+- type: x-news
+  url: https://architosh.com/category/news/analysis/
+- type: x-news
+  url: https://architosh.com/tag/apple-news/
+- type: x-open-source
+  url: https://architosh.com/tag/opengl/
+- type: x-press
+  url: https://architosh.com/press-releases-and-newsroom/
+- type: x-twitter
+  url: https://twitter.com/architosh
+- type: x-website
+  url: https://www.architosh.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

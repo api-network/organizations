@@ -1,0 +1,42 @@
+---
+name: UMBC Ebiquity Research Group
+description: <p>The UMBC Ebiquity Research Group consists of faculty and students
+  from the Department of Computer Science and Electrical Engineering (CSEE) of University
+  of Maryland, Baltimore County (UMBC), located in Baltimore MD.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/UMBC
+  Ebiquity Lab.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "25226"
+url: https://raw.githubusercontent.com/api-network/organizations/main/umbc-ebiquity-research-group.yaml
+tags:
+- Trust
+- Surveillance
+- Security Research
+- No API
+apis: []
+x-common:
+- type: x-blog
+  url: http://ebiquity.umbc.edu/blogger/
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/ebiquityStream
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/ebiquity
+- type: x-facebook
+  url: https://www.facebook.com/umbcebiquity/
+- type: x-feed
+  url: https://feeds.feedburner.com/ebiquityStream
+- type: x-github
+  url: https://github.com/Ebiquity
+- type: x-twitter
+  url: https://twitter.com/ebiquity/
+- type: x-website
+  url: http://ebiquity.umbc.edu/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

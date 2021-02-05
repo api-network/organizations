@@ -1,0 +1,23 @@
+---
+name: flascelles.wordpress.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/flascelles-wordpress-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: https://flascelles.wordpress.com/2013/07/09/federation-evolved-how-cloud-mobile-apis-change-the-way-we-broker-identity/
+- type: x-website
+  url: http://flascelles.wordpress.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

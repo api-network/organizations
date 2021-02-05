@@ -1,0 +1,28 @@
+---
+name: RealOrganized, Inc.
+description: RealtyJuggler Real Estate CRM Software is Internet based real estate
+  Customer Relationship Manager (CRM) for Realtors and other real estate professionals
+  for tracking prospects, deals and more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/realorganized-inc-.yaml
+tags:
+- Online Transaction Systems
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/realtyjuggler
+- type: x-website
+  url: https://www.realorganized.com
+- type: x-youtube
+  url: https://www.youtube.com/user/RealtyJuggler
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

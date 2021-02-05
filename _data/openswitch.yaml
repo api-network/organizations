@@ -1,0 +1,73 @@
+---
+name: OpenSwitch
+description: <p>Community-Based, Open Source, Full-Featured Network Operating System.
+  OpenSwitch provides a fully-featured L2/L3 control plane stack, traditional and
+  programmatic, declarative control plane. The 24x7 nature of global digital economy
+  and the explosion of data have changed how we think about data center networking.
+  It&rsquo;s time for the separation of switch hardware and software&mdash;delivered
+  through an open environment based on open source established practices and true
+  community involvement from developers and users.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1767716"
+url: https://raw.githubusercontent.com/api-network/organizations/main/openswitch.yaml
+tags:
+- Networks
+- Have API
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.openswitch.net/contact/
+- type: x-documentation
+  url: http://api.openswitch.net/rest/dist/index.html
+- type: x-documentation
+  url: https://github.com/open-switch/opx-docs/wiki
+- type: x-facebook
+  url: https://www.facebook.com/OpenSwitchNOS/
+- type: x-github
+  url: https://github.com/open-switch
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/8467572
+- type: x-news
+  url: https://www.openswitch.net/hardware/in-the-news/
+- type: x-news
+  url: https://www.lfnetworking.org/newsroom/
+- type: x-open-source
+  url: https://www.openswitch.net
+- type: x-open-source
+  url: https://www.openswitch.net/why-openswitch/
+- type: x-open-source
+  url: https://www.openswitch.net/technology/
+- type: x-open-source
+  url: https://www.openswitch.net/hardware/
+- type: x-open-source
+  url: https://www.openswitch.net/community/
+- type: x-open-source
+  url: https://www.openswitch.net/videos/
+- type: x-open-source
+  url: https://www.openswitch.net/community/faq/
+- type: x-open-source
+  url: https://www.openswitch.net/resources/
+- type: x-open-source
+  url: https://www.openswitch.net/about/
+- type: x-open-source
+  url: https://www.openswitch.net/about/leadership/
+- type: x-open-source
+  url: https://www.openswitch.net/join/
+- type: x-open-source
+  url: https://github.com/open-switch/
+- type: x-open-source
+  url: http://archive.openswitch.net/
+- type: x-open-source
+  url: http://openswitch.net/applications
+- type: x-website
+  url: http://openswitch.net/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

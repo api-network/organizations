@@ -1,0 +1,48 @@
+---
+name: Cherbonnier, Mayer and Associates
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2779757"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cherbonnier-mayer-and-associates.yaml
+tags:
+- IBM
+apis: []
+x-common:
+- type: x-about
+  url: https://www.cmaontheweb.com/about/
+- type: x-blog
+  url: https://www.cmaontheweb.com/blog/
+- type: x-blog
+  url: http://blog.cmaontheweb.com/technology
+- type: x-blog
+  url: http://www.cmaontheweb.com/blog/
+- type: x-careers
+  url: https://www.cmaontheweb.com/about/careers/
+- type: x-contact
+  url: https://www.cmaontheweb.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/CMATechnologySolutions
+- type: x-news
+  url: https://www.cmaontheweb.com/newsandevents/
+- type: x-privacy
+  url: https://www.cmaontheweb.com/privacy-policy/
+- type: x-support
+  url: http://cw.cmaontheweb.com/support
+- type: x-support
+  url: https://www.cmaontheweb.com/support/
+- type: x-twitter
+  url: https://twitter.com/CMATechSol
+- type: x-website
+  url: https://www.cmaontheweb.com
+- type: x-youtube
+  url: https://www.youtube.com/user/CMATechnology
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

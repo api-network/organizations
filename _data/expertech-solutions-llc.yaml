@@ -1,0 +1,37 @@
+---
+name: ExperTech Solutions, LLC
+description: Home - Expertech Solutions. Welcome to ExperTech Solutions Quality technology
+  products and services for your home and office needs.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4718226"
+url: https://raw.githubusercontent.com/api-network/organizations/main/expertech-solutions-llc.yaml
+tags:
+- Oregon
+apis: []
+x-common:
+- type: x-contact
+  url: https://expertech.guru/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/expertechsolutions
+- type: x-feed
+  url: http://www.techrepublic.com/rssfeeds/videos/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/expertechsolutions
+- type: x-news
+  url: https://expertech.guru/news/
+- type: x-support
+  url: http://expertechsupport.com/
+- type: x-support
+  url: http://expertechsupport.com
+- type: x-website
+  url: https://expertech.guru
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

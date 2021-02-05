@@ -1,0 +1,27 @@
+---
+name: Wizard Industries
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wizard-industries.yaml
+tags: []
+apis: []
+x-common:
+- type: x-contact
+  url: https://wizard-industries.com/contact
+- type: x-login
+  url: https://wizard-industries.com/login
+- type: x-self-service-registration
+  url: https://wizard-industries.com/register
+- type: x-website
+  url: https://www.wizard-industries.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

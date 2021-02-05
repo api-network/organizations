@@ -1,0 +1,47 @@
+---
+name: Memphis, TN
+description: Search the City of Memphis, public records using best found research
+  sources online. This City zip code is 37501 with a total population of 646,889.
+  Look up recorded information of Memphis, including demographics and local economy.
+  Link to all levels of Memphis, government and their sites with services which provide
+  public information. Current economy, business and housing data. Read about up to
+  date current events and what is occurring in the City of Memphis. Find out about
+  the background of residents and recorded statistics. Request criminal records specific
+  to the City of Memphis, from law enforcement departments with access to the state's
+  repository with official background check of arrests and convicted felonies. Access
+  a directory aimed toward producing open public records and instant information available
+  online. Memphis sources are added on a regular basis for the best and most current
+  services.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/pull_image_10-12-2019-03-09-pm.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "743392"
+url: https://raw.githubusercontent.com/api-network/organizations/main/memphis-tn.yaml
+tags:
+- Profile
+- Have API
+- Data Provider
+- City Government
+- API Provider
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.open-public-records.com/contact_us.htm
+- type: x-open-source
+  url: https://www.open-public-records.com
+- type: x-open-source
+  url: https://www.open-public-records.com/about_us.htm
+- type: x-open-source
+  url: https://www.open-public-records.com/terms.htm
+- type: x-open-source
+  url: https://www.open-public-records.com/articles.htm
+- type: x-website
+  url: http://www.open-public-records.com/tennessee/memphis_data.htm
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

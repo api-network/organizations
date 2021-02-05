@@ -1,0 +1,76 @@
+---
+name: Spreaker
+description: Spreaker provides you with all the tools you need to start a podcast
+  and distribute it on Apple Podcasts, Spotify and more. Try our monetization features,
+  analytics or enjoy our podcast catalogue.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/657_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "7366"
+url: https://raw.githubusercontent.com/api-network/organizations/main/spreaker.yaml
+tags:
+- Target
+- Relative Data
+- Radio
+- Podcasts
+- Have API Paths
+- Have API
+- General Data
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-base
+  url: http://api.spreaker.com/
+- type: x-blog
+  url: https://blog.spreaker.com
+- type: x-blog
+  url: http://blog.spreaker.com
+- type: x-blog-rss
+  url: http://blog.spreaker.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/spreaker
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/spreaker
+- type: x-developer
+  url: https://developers.spreaker.com
+- type: x-developers
+  url: http://developers.spreaker.com
+- type: x-email
+  url: info@spreaker.com
+- type: x-email
+  url: support@spreaker.com
+- type: x-email
+  url: advertise@spreaker.com
+- type: x-email
+  url: tonia.maffeo@spreaker.com
+- type: x-email
+  url: press@spreaker.com
+- type: x-email
+  url: legal@Spreaker.com
+- type: x-facebook
+  url: https://www.facebook.com/spreaker
+- type: x-github
+  url: https://github.com/spreaker
+- type: x-linkedin
+  url: https://www.linkedin.com/company/spreaker
+- type: x-linkedin
+  url: https://www.linkedin.com/company/spreaker/
+- type: x-pricing
+  url: http://www.spreaker.com/plans
+- type: x-status
+  url: https://status.spreaker.com
+- type: x-twitter
+  url: https://twitter.com/spreaker/
+- type: x-twitter
+  url: https://twitter.com/spreaker
+- type: x-website
+  url: http://spreaker.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

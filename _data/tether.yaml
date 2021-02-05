@@ -1,0 +1,29 @@
+---
+name: Tether
+description: Bringing real-world currency to the Blockchain
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26643-tether-to.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "40868"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tether.yaml
+tags:
+- Marketplaces
+- Blockchain
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/tether-technologies
+- type: x-email
+  url: support@tether.to
+- type: x-twitter
+  url: https://twitter.com/Tether_to
+- type: x-website
+  url: https://tether.to
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

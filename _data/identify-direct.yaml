@@ -1,0 +1,50 @@
+---
+name: Identify Direct
+description: Identify Direct Ltd is a specialist, UK-based, distributor of bar code
+  readers, OEM, scan engines, bar code verification and solutions for the industry.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/identify-direct.yaml
+tags:
+- Solution
+- OEM
+- Microscan
+- Machine Vision
+- Honeywell
+- Distributor
+- Datalogic
+- Barcode
+- Bar Code Verification
+- Bar Code Scanner
+- Bar Code
+- Axicon
+- 2d
+- 1d
+apis: []
+x-common:
+- type: x-about
+  url: https://identifydirect.com/about/
+- type: x-contact
+  url: https://identifydirect.com/contact/
+- type: x-developer
+  url: http://developer.identifydirect.com
+- type: x-news
+  url: https://identifydirect.com/product-news/
+- type: x-news
+  url: https://identifydirect.com/newsletter/
+- type: x-support
+  url: https://identifydirect.com/support/
+- type: x-tutorials
+  url: https://identifydirect.com/tutorials/
+- type: x-website
+  url: https://www.identifydirect.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

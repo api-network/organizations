@@ -1,0 +1,42 @@
+---
+name: Solaris certification exams and training
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "11083859"
+url: https://raw.githubusercontent.com/api-network/organizations/main/solaris-certification-exams-and-training.yaml
+tags:
+- Sun Microsystems
+apis: []
+x-common:
+- type: x-about
+  url: https://unixed.com/index.php/about-the-owner/
+- type: x-about
+  url: https://unixed.com/index.php/about/
+- type: x-blog
+  url: https://unixed.com/index.php/blog/
+- type: x-contact
+  url: https://unixed.com/index.php/contact/
+- type: x-events
+  url: https://unixed.com/index.php/events/
+- type: x-events
+  url: https://unixed.com/index.php/events/category/redhat/
+- type: x-events
+  url: https://unixed.com/index.php/events/category/linux/
+- type: x-privacy
+  url: https://unixed.com/index.php/privacy-policy/
+- type: x-self-service-registration
+  url: https://unixed.com/index.php/register-for-a-class/
+- type: x-self-service-registration
+  url: https://unixed.com/index.php/register-for-a-class-2/
+- type: x-website
+  url: https://www.unixed.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

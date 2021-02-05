@@ -1,0 +1,32 @@
+---
+name: ProtecT Keyboard Covers
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1228176"
+url: https://raw.githubusercontent.com/api-network/organizations/main/protect-keyboard-covers.yaml
+tags:
+- Keyboards
+apis: []
+x-common:
+- type: x-about
+  url: https://www.protectcovers.com/about.html
+- type: x-login
+  url: https://www.protectcovers.com/customer/account/login
+- type: x-support
+  url: https://www.protectcovers.com/support.html
+- type: x-support
+  url: https://www.protectcovers.com/help.html
+- type: x-terms-of-service
+  url: https://www.protectcovers.com/terms-of-use.html
+- type: x-website
+  url: https://www.protectcovers.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

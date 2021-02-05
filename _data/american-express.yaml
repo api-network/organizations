@@ -1,0 +1,37 @@
+---
+name: American Express
+description: The American Express Company, also known as Amex, is an American multinational
+  financial services corporation headquartered in Three World Financial Center in
+  New York City.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28740-developer-americanexpress-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "335"
+url: https://raw.githubusercontent.com/api-network/organizations/main/american-express.yaml
+tags:
+- Profile
+- Payments
+- Have API
+- Financial
+apis: []
+x-common:
+- type: x-website
+  url: http://amex.co/guidelines
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/americanexpress
+- type: x-documentation
+  url: https://developer.americanexpress.com/documentation#getting-started
+- type: x-support
+  url: https://developer.americanexpress.com/support/faq
+- type: x-twitter
+  url: https://twitter.com/AmericanExpress
+- type: x-website
+  url: https://developer.americanexpress.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

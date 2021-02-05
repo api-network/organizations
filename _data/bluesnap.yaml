@@ -1,0 +1,96 @@
+---
+name: BlueSnap
+description: The BlueSnap Payment API is designed for easy implementation and out-of-the-box
+  global payment processing. It supports credit and debit card payments, ACH/ECP,
+  SEPA Direct Debit, digital wallets and Paypal. Design your checkout form and start
+  accepting payments quickly.
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "12128"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bluesnap.yaml
+tags:
+- Profile
+- Payments
+- No API Definition
+- Has API
+apis: []
+x-common:
+- type: x-website
+  url: https://home.bluesnap.com
+- type: x-about
+  url: https://home.bluesnap.com/about-bluesnap/
+- type: x-blog
+  url: https://home.bluesnap.com/snap-center/blog/
+- type: x-careers
+  url: http://home.bluesnap.com/careers/
+- type: x-contact
+  url: https://home.bluesnap.com/contact-us/
+- type: x-developer
+  url: http://developer.bluesnap.com
+- type: x-developer
+  url: https://developers.bluesnap.com/
+- type: x-developers
+  url: http://developers.bluesnap.com
+- type: x-documentation
+  url: https://developers.bluesnap.com/docs/welcome
+- type: x-documentation
+  url: https://support.bluesnap.com/docs/currencies
+- type: x-documentation
+  url: https://support.bluesnap.com/docs/compliance
+- type: x-events
+  url: https://home.bluesnap.com/snap-center/events-calendar/
+- type: x-facebook
+  url: https://www.facebook.com/bluesnapmerchants?ref=hl
+- type: x-github
+  url: https://github.com/bluesnap/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/bluesnap
+- type: x-login
+  url: https://sandbox.bluesnap.com/jsp/developer_login.jsp
+- type: x-login
+  url: https://cp.bluesnap.com/jsp/developer_login.jsp?
+- type: x-marketplace
+  url: https://home.bluesnap.com/payments-for-marketplaces/
+- type: x-partner
+  url: https://home.bluesnap.com/partners/
+- type: x-partner
+  url: https://home.bluesnap.com/partners/woocommerce/
+- type: x-partner
+  url: https://home.bluesnap.com/partners/salesforce/
+- type: x-partner
+  url: https://home.bluesnap.com/partners/x-cart/
+- type: x-partner
+  url: https://home.bluesnap.com/partners/magento/
+- type: x-partner
+  url: https://home.bluesnap.com/partners/prestashop/
+- type: x-press
+  url: http://home.bluesnap.com/press-media/
+- type: x-pricing
+  url: https://home.bluesnap.com/payment-gateway-pricing/
+- type: x-privacy
+  url: https://home.bluesnap.com/privacy-policy/
+- type: x-security
+  url: https://home.bluesnap.com/security-bounty/
+- type: x-status
+  url: https://status.bluesnap.com/
+- type: x-support
+  url: https://support.bluesnap.com/
+- type: x-terms-of-service
+  url: https://home.bluesnap.com/legal/
+- type: x-terms-of-service
+  url: https://home.bluesnap.com/terms-and-conditions/
+- type: x-twitter
+  url: https://twitter.com/BlueSnapInc
+- type: x-website
+  url: http://bluesnap.com
+- type: x-youtube
+  url: https://www.youtube.com/user/BlueSnapVideo
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

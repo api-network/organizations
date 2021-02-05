@@ -1,0 +1,42 @@
+---
+name: Cezeo Software
+description: Instant messaging software for intranets, Intra office , inter office
+  messenger, conferencing and communication software. For corporations and enterprises,
+  from small to large offices. Instant messaging at work and home. Network management
+  and access software for Microsoft Windows
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2047664"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cezeo-software.yaml
+tags:
+- Winpopup
+- Security
+- Passwords Keeper
+- Password Manager
+- Network Messaging
+- Netsend
+- Net Send
+- Mesasging Software
+- Lantalk
+- Lan Talk
+- Lan Messenger
+- Lan Messaging
+- Intranet Messaging
+- Intra-office Messaging
+- Inter-office Messaging
+- Instant Messaging
+- Enterprise Messaging
+- Corporate Messaging
+apis: []
+x-common:
+- type: x-website
+  url: https://www.cezeo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

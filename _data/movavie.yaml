@@ -1,0 +1,46 @@
+---
+name: Movavie
+description: "Get great multimedia programs for your videos and photos. Movavi's movie
+  and photo programs are fast and easy to use \u2013 check them out today!"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3736"
+url: https://raw.githubusercontent.com/api-network/organizations/main/movavie.yaml
+tags:
+- Software
+- Digital Video
+apis: []
+x-common:
+- type: x-about
+  url: https://www.movavi.com/about/
+- type: x-about
+  url: https://www.movavi.com/about/job.html
+- type: x-contact
+  url: https://www.movavi.com/about/contact-us.html
+- type: x-facebook
+  url: https://www.facebook.com/Movavi/
+- type: x-instagram
+  url: https://www.instagram.com/movavi_software/
+- type: x-login
+  url: https://movavi.id/en/login.html?asrc=main_menu
+- type: x-partner
+  url: https://www.movavi.com/partners/
+- type: x-privacy
+  url: https://www.movavi.com/privacy.html
+- type: x-support
+  url: https://www.movavi.com/support/
+- type: x-support
+  url: https://www.movavi.com/support/how-to/
+- type: x-website
+  url: https://movavi.com
+- type: x-youtube
+  url: https://www.youtube.com/user/MovaviOfficial
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

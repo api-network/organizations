@@ -1,0 +1,90 @@
+---
+name: Pixmac
+description: Search the world's largest video collection plus millions of music tracks,
+  sound effects, motion graphics and images.  Over 20,000 new videos added daily.  Find
+  the perfect media for your next creative project.  Search now.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/636_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pixmac.yaml
+tags:
+- Stockphoto
+- Photos
+- Photos
+- Marketplaces
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.pixmac.com/api
+- type: x-about
+  url: https://www.pond5.com/about-us
+- type: x-blog
+  url: http://blog.pixmac.com
+- type: x-blog
+  url: https://blog.pond5.com
+- type: x-blog
+  url: https://blog.pond5.com/
+- type: x-blog
+  url: https://blog.pond5.com/25725-football-footage-clips/
+- type: x-blog-rss
+  url: http://blog.pixmac.com/feed/
+- type: x-careers
+  url: https://www.pond5.com/careers
+- type: x-contact
+  url: https://www.pond5.com/contact-us
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/pond5
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/pixmac
+- type: x-email
+  url: support@pond5.com
+- type: x-email
+  url: sales@pond5.com
+- type: x-email
+  url: press@pond5.com
+- type: x-email
+  url: business@pond5.com
+- type: x-email
+  url: submit@pond5.com
+- type: x-email
+  url: legal@pond5.com
+- type: x-facebook
+  url: https://www.facebook.com/pond5
+- type: x-instagram
+  url: https://www.instagram.com/pond5official/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/pond5/
+- type: x-news
+  url: https://www.pond5.com/stock-footage/tag/news/
+- type: x-news
+  url: https://www.pond5.com/after-effects/1/news.html
+- type: x-open-source
+  url: https://www.pond5.com/after-effects/1/openers.html
+- type: x-plans
+  url: https://www.pond5.com/review-plans
+- type: x-support
+  url: https://help.pond5.com/hc/en-us/
+- type: x-support
+  url: https://help.pond5.com/hc/en-us/articles/360029928151
+- type: x-terms-of-service
+  url: https://www.pond5.com/legal
+- type: x-terms-of-service
+  url: https://www.pond5.com/legal/terms
+- type: x-terms-of-service
+  url: https://www.pond5.com/legal/privacy
+- type: x-twitter
+  url: https://twitter.com/#!/pixmac
+- type: x-twitter
+  url: https://twitter.com/pond5
+- type: x-youtube
+  url: https://www.youtube.com/user/pond5
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

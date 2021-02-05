@@ -1,0 +1,28 @@
+---
+name: Isage Communications Pte Ltd
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/isage-communications-pte-ltd.yaml
+tags:
+- Hardware
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.isagecomm.com/contacts/
+- type: x-partner
+  url: https://www.isagecomm.com/partners/
+- type: x-terms-of-service
+  url: https://www.isagecomm.com/terms-of-use-isage-pdocpro/
+- type: x-website
+  url: https://www.isagecomm.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,42 @@
+---
+name: Moz
+description: Backed by the largest community of SEOs on the planet, Moz builds tools
+  that make SEO, inbound marketing, link building, and content marketing easy. Start
+  your free 30-day trial today!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5108"
+url: https://raw.githubusercontent.com/api-network/organizations/main/moz.yaml
+tags:
+- Promotion
+apis: []
+x-common:
+- type: x-about
+  url: https://moz.com/about
+- type: x-blog
+  url: https://moz.com/blog
+- type: x-careers
+  url: https://moz.com/about/jobs
+- type: x-contact
+  url: https://moz.com/about/contact
+- type: x-login
+  url: https://moz.com/login
+- type: x-login
+  url: https://moz.com/login/localapp
+- type: x-news
+  url: https://moz.com/about/news
+- type: x-privacy
+  url: https://moz.com/privacy-policy
+- type: x-support
+  url: https://moz.com/help
+- type: x-website
+  url: https://www.moz.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

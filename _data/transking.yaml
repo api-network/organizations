@@ -1,0 +1,42 @@
+---
+name: TransKing
+description: E-iceblue offers Excel(xls,xlsx), Word(doc,docx), PowerPoint, PDF .NET
+  components for converting, reading, creating, editing and printing in C#, VB.NET,
+  ASP.NET, etc.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "85910"
+url: https://raw.githubusercontent.com/api-network/organizations/main/transking.yaml
+tags:
+- Word .net
+- Tools
+- Powerpoint .net
+- Excel .net
+- C# Pdf
+- C# Excel
+- .NET Components
+apis: []
+x-common:
+- type: x-website
+  url: http://www.e-iceblue.com
+- type: x-facebook
+  url: http://www.facebook.com/eiceblue
+- type: x-github
+  url: https://eiceblue.github.io
+- type: x-security
+  url: https://www.securityforbikes.com/
+- type: x-twitter
+  url: https://twitter.com/eiceblue
+- type: x-website
+  url: https://www.e-iceblue.com
+- type: x-youtube
+  url: http://www.youtube.com/user/eiceblue
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

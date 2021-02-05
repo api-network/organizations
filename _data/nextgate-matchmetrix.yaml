@@ -1,0 +1,70 @@
+---
+name: NextGate MatchMetrix
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "314119"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nextgate-matchmetrix.yaml
+tags:
+- Customer
+apis: []
+x-common:
+- type: x-website
+  url: http://nextgate.com
+- type: x-about
+  url: https://nextgate.com/about-us/
+- type: x-about
+  url: https://nextgate.com/about-us/our-story/
+- type: x-about
+  url: https://nextgate.com/about-us/our-team/
+- type: x-about
+  url: https://nextgate.com/about-us/our-partners/
+- type: x-about
+  url: https://nextgate.com/about-us/resources/
+- type: x-about
+  url: https://nextgate.com/about-us/industry-memberships/
+- type: x-about
+  url: https://nextgate.com/about-us/blog/
+- type: x-about
+  url: https://nextgate.com/about-us/messages-from-the-ceo/
+- type: x-careers
+  url: https://nextgate.com/about-us/careers/
+- type: x-contact
+  url: https://nextgate.com/about-us/contact-us/
+- type: x-events
+  url: https://nextgate.com/events/
+- type: x-events
+  url: https://nextgate.com/events/himss20/
+- type: x-facebook
+  url: https://www.facebook.com/NextGate?_rdr
+- type: x-linkedin
+  url: https://www.linkedin.com/company/nextgate-solutions
+- type: x-news
+  url: https://nextgate.com/about-us/news-media/
+- type: x-privacy
+  url: https://www.nextgate.com/privacypolicy/
+- type: x-support
+  url: https://nextgate.com/our-services/support-training/
+- type: x-support
+  url: https://nextgate.com/how-we-can-help/
+- type: x-support
+  url: https://nextgate.com/how-we-can-help/hies-acos/
+- type: x-support
+  url: https://nextgate.com/how-we-can-help/imaging/
+- type: x-support
+  url: https://nextgate.com/how-we-can-help/interoperability/
+- type: x-support
+  url: https://nextgate.com/how-we-can-help/payers/
+- type: x-twitter
+  url: https://twitter.com/NextGate
+- type: x-website
+  url: https://www.nextgate.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,43 @@
+---
+name: UserApp
+description: "Create your apps faster and better with UserApp.\r  A powerful user
+  management system that you just plug in!"
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/2136_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/userapp.yaml
+tags:
+- Users
+- Target
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://userapp.io/
+- type: x-base
+  url: https://api.userapp.io/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/userapp
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/userapp
+- type: x-developers
+  url: https://app.userapp.io/#/docs/
+- type: x-email
+  url: INFO@USERAPP.IO
+- type: x-github
+  url: https://github.com/userapp-io
+- type: x-pricing
+  url: https://www.userapp.io/#pricing
+- type: x-twitter
+  url: https://twitter.com/userapp_io
+- type: x-website
+  url: https://www.userapp.io/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,40 @@
+---
+name: CrypKey
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5836660"
+url: https://raw.githubusercontent.com/api-network/organizations/main/crypkey.yaml
+tags:
+- Software Protection And License Control
+apis: []
+x-common:
+- type: x-website
+  url: https://www.crypkey.com/
+- type: x-about
+  url: https://www.crypkey.com/about/
+- type: x-contact
+  url: https://www.crypkey.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/CrypKey-247002442082595/
+- type: x-pricing
+  url: https://www.crypkey.com/pricing/
+- type: x-support
+  url: https://support.zoho.com/portal/crypkeysupport/home
+- type: x-support
+  url: https://www.crypkey.com/support/
+- type: x-support
+  url: https://www.crypkey.com/support/downloads/
+- type: x-twitter
+  url: https://twitter.com/Cryp_Key
+- type: x-website
+  url: https://www.crypkey.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

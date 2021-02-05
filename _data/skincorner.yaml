@@ -1,0 +1,45 @@
+---
+name: SkinCorner
+description: SkinCorner provide Blog Templates for Blogger and Wordpress Theme, Blogging
+  Tutorials and Entertainment and Technology News.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2736206"
+url: https://raw.githubusercontent.com/api-network/organizations/main/skincorner.yaml
+tags:
+- Naruto Template
+- Blogger Template
+- Blogger
+- Anime Template
+- Anime Blogger Template
+apis: []
+x-common:
+- type: x-about
+  url: https://www.skincorner.com/about/
+- type: x-blog
+  url: https://www.skincorner.com/beauty-blogger-template/
+- type: x-blog
+  url: https://www.skincorner.com/category/blogger-templates/
+- type: x-blog
+  url: https://www.skincorner.com/rock-star-blogger-template/
+- type: x-contact
+  url: https://www.skincorner.com/contact-me/
+- type: x-feed
+  url: http://www.feedburner.com
+- type: x-feed
+  url: http://feeds.feedburner.com/skincorner
+- type: x-press
+  url: https://www.skincorner.com/category/wordpress-theme/
+- type: x-privacy
+  url: https://www.skincorner.com/privacy-policy/
+- type: x-website
+  url: https://www.skincorner.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

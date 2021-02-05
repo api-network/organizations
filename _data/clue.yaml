@@ -1,0 +1,30 @@
+---
+name: CLUE
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/clue.yaml
+tags:
+- Advocacy
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.cluecan.ca/contact-us/
+- type: x-open-source
+  url: https://www.cluecan.ca/what-is-open-source-software/
+- type: x-privacy
+  url: https://www.cluecan.ca/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/OpenSourceOrg?ref_src=twsrc%5Etfw
+- type: x-website
+  url: https://www.cluecan.ca
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,63 @@
+---
+name: MokiMobility
+description: <p>MokiMobility makes device management simple. Easily deploy, manage,
+  and maintain Android &amp; iOS devices with our powerful management software tools.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1092_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mokimobility.yaml
+tags:
+- Tablets
+- Spelling
+- Profile
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.mokimobility.com/
+- type: x-blog
+  url: http://blog.mokimobility.com
+- type: x-blog
+  url: https://moki.com/blog/
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/MokimobilityBlog
+- type: x-careers
+  url: https://moki.com/company/careers/
+- type: x-case-studies
+  url: https://moki.com/why/case-studies/
+- type: x-contact
+  url: https://moki.com/contact/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/mokimobility
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/mokimobility
+- type: x-customers
+  url: https://moki.com/customers/
+- type: x-email
+  url: info@moki.com
+- type: x-facebook
+  url: https://www.facebook.com/MokiMDM
+- type: x-linkedin
+  url: https://www.linkedin.com/company/mokimdm
+- type: x-partner
+  url: https://moki.com/why/partners/
+- type: x-press
+  url: https://moki.com/press/
+- type: x-privacy
+  url: https://moki.com/privacy
+- type: x-support
+  url: https://support.moki.com/
+- type: x-twitter
+  url: https://twitter.com/#!/mokimobility
+- type: x-twitter
+  url: https://twitter.com/MokiMDM
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

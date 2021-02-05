@@ -1,0 +1,26 @@
+---
+name: SDK Critic
+description: <p>SDK Critic is a rating and review website for iOS and OS X frameworks.
+  Consult SDK Critic to determine how hesitant you should be about using an unfamiliar
+  framework and which parts of it you should be particularly wary of, based on the
+  consensus of the developer community.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/sdk-critic.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sdk-critic.yaml
+tags:
+- TempSave
+- No API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.sdkcritic.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

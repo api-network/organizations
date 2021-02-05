@@ -1,0 +1,77 @@
+---
+name: Open Bank Project
+description: <p>The Open Bank Project is an open source API and App store for banks
+  that empowers financial institutions to securely and rapidly enhance their digital
+  offerings using an ecosystem of 3rd party applications and services.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/open-bank-project.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "950849"
+url: https://raw.githubusercontent.com/api-network/organizations/main/open-bank-project.yaml
+tags:
+- Have Swagger
+- Have API Paths
+- Have API
+- Banking
+apis: []
+x-common:
+- type: x-website
+  url: http://www.openbankproject.com
+- type: x-contact
+  url: https://www.openbankproject.com/contact/
+- type: x-customers
+  url: https://www.openbankproject.com/customers/
+- type: x-facebook
+  url: https://www.facebook.com/openbankproject/
+- type: x-github
+  url: https://github.com/OpenBankProject
+- type: x-news
+  url: https://www.openbankproject.com/eventsandnews/
+- type: x-open-source
+  url: https://www.openbankproject.com/
+- type: x-open-source
+  url: https://www.openbankproject.com/apps/
+- type: x-open-source
+  url: https://www.openbankproject.com/openbankingmiddleware/
+- type: x-open-source
+  url: https://www.openbankproject.com/psd2/
+- type: x-open-source
+  url: https://www.openbankproject.com/hackathon/
+- type: x-open-source
+  url: https://www.openbankproject.com/training/
+- type: x-open-source
+  url: https://www.openbankproject.com/faq/
+- type: x-open-source
+  url: https://www.openbankproject.com/blog/
+- type: x-open-source
+  url: https://www.openbankproject.com/author/bernat/
+- type: x-open-source
+  url: https://www.openbankproject.com/reports/
+- type: x-open-source
+  url: https://www.openbankproject.com/about/
+- type: x-open-source
+  url: https://www.openbankproject.com/imprint/
+- type: x-open-source
+  url: https://www.openbankproject.com/privacy-policy/
+- type: x-open-source
+  url: https://www.openbankproject.com/brandassets/
+- type: x-open-source
+  url: https://www.openbankproject.com/jobs/
+- type: x-open-source
+  url: https://www.openbankproject.com/sitemap/
+- type: x-open-source
+  url: https://www.linkedin.com/company/open-bank-project/
+- type: x-partner
+  url: https://www.openbankproject.com/partners/
+- type: x-twitter
+  url: https://twitter.com/openbankproject
+- type: x-website
+  url: https://openbankproject.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,30 @@
+---
+name: Chrysanth Inventory Manager 2000
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8025387"
+url: https://raw.githubusercontent.com/api-network/organizations/main/chrysanth-inventory-manager-2000.yaml
+tags:
+- Inventory
+apis: []
+x-common:
+- type: x-about
+  url: http://www.chrysanth.com/about/
+- type: x-about
+  url: http://www.chrysanth.com/about/sitemap.html
+- type: x-blog
+  url: http://blog.chrysanth.com/
+- type: x-partner
+  url: http://www.chrysanth.com/partners/
+- type: x-website
+  url: https://www.chrysanth.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

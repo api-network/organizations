@@ -1,0 +1,45 @@
+---
+name: Ribbon
+description: ""
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1734_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1266618"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ribbon.yaml
+tags:
+- Have Swagger
+- Have OpenAPI
+- Have API Paths
+- Have API
+apis: []
+x-common:
+- type: x-api-json--authoritative
+  url: https://raw.githubusercontent.com/picsoung/apis.json/master/ribbon/apis.json
+- type: x-website
+  url: http://www.payout.com
+- type: x-about
+  url: https://ribbon.co/about/
+- type: x-blog
+  url: http://blog.ribbon.co
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/ribbon
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/ribbon
+- type: x-github
+  url: https://github.com/ribbon
+- type: x-news
+  url: https://ribbon.co/category/news/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-twitter
+  url: https://twitter.com/ribbon
+- type: x-website
+  url: https://www.ribbon.co/api
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

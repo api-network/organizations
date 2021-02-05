@@ -1,0 +1,59 @@
+---
+name: Muttr.com
+description: Muttr.com, the site where everything that irks you comes to life. Groan,
+  gripe, and complain your day away. Most importantly, Just Vent Anonymously!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "575658"
+url: https://raw.githubusercontent.com/api-network/organizations/main/muttr-com.yaml
+tags:
+- Web Anonymously
+- Vent Online
+- Vent Anonymously
+- Stress Relief
+- Social Network
+- Politics
+- People
+- Opinion
+- Online Complaints
+- Need To Vent
+- My Life Sucks
+- Message Boards
+- Love
+- Let It All Out
+- Just Vent
+- Irk
+- I Hate People
+- I Hate Everyone
+- I Hate
+- Humor
+- Hate My Life
+- Gripe
+- Get Off My Chest
+- Get It Off Your Chest
+- Funny Stories
+- Funny
+- Fml
+- Complain
+- Cathartic
+- Catharsis
+- Bitch
+- Anonymous Place To Vent
+- Anger Management
+apis: []
+x-common:
+- type: x-terms-of-service
+  url: https://muttr.com/terms
+- type: x-twitter
+  url: https://twitter.com/justventonmuttr
+- type: x-website
+  url: https://www.muttr.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

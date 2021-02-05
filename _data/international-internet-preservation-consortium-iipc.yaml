@@ -1,0 +1,74 @@
+---
+name: International Internet Preservation Consortium (IIPC)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1663761"
+url: https://raw.githubusercontent.com/api-network/organizations/main/international-internet-preservation-consortium-iipc.yaml
+tags:
+- Archives
+apis: []
+x-common:
+- type: x-website
+  url: http://netpreserve.org
+- type: x-about
+  url: https://netpreserve.org/about-us/
+- type: x-about
+  url: https://netpreserve.org/about-us/members/
+- type: x-about
+  url: https://netpreserve.org/about-us/leadership/
+- type: x-about
+  url: https://netpreserve.org/about-us/working-groups/
+- type: x-about
+  url: https://netpreserve.org/about-us/iipc-mailing-list/
+- type: x-about
+  url: https://netpreserve.org/web-archiving/about-archiving/
+- type: x-about
+  url: http://netpreserve.org/web-archiving/about-archiving
+- type: x-about
+  url: http://netpreserve.org/about-us/
+- type: x-about
+  url: http://netpreserve.org/about-us/members/
+- type: x-about
+  url: http://netpreserve.org/about-us/working-groups/
+- type: x-about
+  url: http://netpreserve.org/about-us/members/archiefweb.eu/
+- type: x-case-studies
+  url: https://netpreserve.org/web-archiving/case-studies/
+- type: x-case-studies
+  url: http://netpreserve.org/web-archiving/case-studies
+- type: x-code
+  url: https://netpreserve.org/code-of-conduct/
+- type: x-events
+  url: https://netpreserve.org/events/
+- type: x-github
+  url: https://github.com/iipc
+- type: x-open-source
+  url: https://netpreserve.org/web-archiving/openwayback/
+- type: x-press
+  url: https://netpreserveblog.wordpress.com/#new_tab
+- type: x-terms-of-service
+  url: https://netpreserve.org/web-archiving/legal-issues/
+- type: x-terms-of-service
+  url: https://netpreserve.org/web-archiving/legal-deposit/
+- type: x-twitter
+  url: https://twitter.com/hashtag/iipcGA20/
+- type: x-twitter
+  url: https://twitter.com/hashtag/iipcWAC20/
+- type: x-twitter
+  url: https://twitter.com/hashtag/iipcGA19/
+- type: x-twitter
+  url: https://twitter.com/hashtag/iipcWAC19/
+- type: x-twitter
+  url: https://twitter.com/netpreserve
+- type: x-website
+  url: https://netpreserve.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

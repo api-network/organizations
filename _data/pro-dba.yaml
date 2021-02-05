@@ -1,0 +1,60 @@
+---
+name: Pro DBA
+description: We're database experts, delivering Oracle, SQL Server and IFS Applications
+  support and consultancy globally from our 24/7 Edinburgh and London offices. Contact
+  us today to find out more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7788480"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pro-dba.yaml
+tags:
+- Database Administration
+apis: []
+x-common:
+- type: x-website
+  url: http://www.pro-dba.com
+- type: x-about
+  url: https://www.pro-dba.com/about/why-choose-us/
+- type: x-about
+  url: https://www.pro-dba.com/about/about-pro-dba/
+- type: x-about
+  url: https://www.pro-dba.com/about/faqs/
+- type: x-about
+  url: https://www.pro-dba.com/about/our-green-policy/
+- type: x-about
+  url: https://www.pro-dba.com/about/bids-tenders/
+- type: x-about
+  url: https://www.pro-dba.com/about/modern-slavery/
+- type: x-careers
+  url: https://www.pro-dba.com/about/careers/
+- type: x-case-studies
+  url: https://www.pro-dba.com/case-studies/finance-company/
+- type: x-case-studies
+  url: https://www.pro-dba.com/case-studies/nhs-trust/
+- type: x-case-studies
+  url: https://www.pro-dba.com/case-studies/law-firm/
+- type: x-case-studies
+  url: https://www.pro-dba.com/case-studies/construction/
+- type: x-case-studies
+  url: https://www.pro-dba.com/case-studies/mod-contractor/
+- type: x-facebook
+  url: https://www.facebook.com/ProDBAUK/
+- type: x-news
+  url: https://www.pro-dba.com/about/news/
+- type: x-partner
+  url: https://www.pro-dba.com/about/partner-scheme/
+- type: x-privacy
+  url: https://www.pro-dba.com/about/our-privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/ProDBAUK
+- type: x-website
+  url: https://www.pro-dba.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

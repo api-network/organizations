@@ -1,0 +1,38 @@
+---
+name: Mark Gurry & Associates
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mark-gurry-associates.yaml
+tags:
+- Databases
+apis: []
+x-common:
+- type: x-about
+  url: http://www.mga.com.au/about-us/
+- type: x-about
+  url: http://www.mga.com.au/about-us/ceo-profile-mark-gurry/
+- type: x-about
+  url: http://www.mga.com.au/about-us/publications/
+- type: x-blog
+  url: http://www.mga.com.au/mga-blog/
+- type: x-contact
+  url: http://www.mga.com.au/contact-us/
+- type: x-privacy
+  url: http://www.mga.com.au/privacy-policy/
+- type: x-support
+  url: http://www.mga.com.au/services/emergency-support/
+- type: x-support
+  url: http://www.mga.com.au/services/qatestingsupport/
+- type: x-website
+  url: https://www.mga.com.au
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

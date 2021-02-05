@@ -1,0 +1,42 @@
+---
+name: Data Memory Systems
+description: Data Memory Systems offers the best prices on the best quality Computer
+  Memory, Flash Memory and Hard Drives with free shipping. At Data Memory Systems
+  customer service is first.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "493796"
+url: https://raw.githubusercontent.com/api-network/organizations/main/data-memory-systems.yaml
+tags:
+- Sdram
+- RAM
+- Peripherals
+- PC Memory
+- Memory
+- Mac Memory
+- Hard Drives
+- Flash Memory
+- DMS
+- DDR3
+- DDR
+- DataMemorySystems.com
+- Apple Memory
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.datamemorysystems.com
+- type: x-facebook
+  url: http://www.facebook.com/DataMemorySystemsInc
+- type: x-twitter
+  url: http://twitter.com/DataMemoryDMS
+- type: x-website
+  url: https://www.datamemorysystems.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

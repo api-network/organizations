@@ -1,0 +1,49 @@
+---
+name: Talkspot.com
+description: Talkspot, do it yourself websites, online stores and bogs. Create your
+  website, free to start. Hosting included, custom website address, email Newsletters,
+  SEO tools
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1357513"
+url: https://raw.githubusercontent.com/api-network/organizations/main/talkspot-com.yaml
+tags:
+- WordPress
+- Wix
+- Weebly
+- Websites
+- Website Builder
+- Website Address
+- Talkspot
+- Squarespace
+- SEO
+- Online Tools
+- Online Store
+- Hosting
+- Eqwid
+- Email Newsletters
+- Bluehost
+- Blogs
+apis: []
+x-common:
+- type: x-website
+  url: http://www.talkspot.com
+- type: x-facebook
+  url: https://www.facebook.com/talkspotwebsites
+- type: x-instagram
+  url: https://www.instagram.com/talkspot/
+- type: x-support
+  url: https://www.talkspotsupport.com/Main/
+- type: x-twitter
+  url: https://twitter.com/Talkspotwebpage
+- type: x-website
+  url: https://www.talkspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,37 @@
+---
+name: Casual.PM
+description: Looking for a simple online project management tool? Casual.pm is the
+  best tool for managing your projects as visual workflows online.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "205144"
+url: https://raw.githubusercontent.com/api-network/organizations/main/casual-pm.yaml
+tags:
+- Web Based Project Management Tool
+- Web Based
+- Visual Project Management
+- Simple Project Management
+- Project Management Tool
+- Project Management
+- Online Project Management Tool
+- Online Project Management
+- Best Online Project Management Tool
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.casual.pm/
+- type: x-facebook
+  url: http://www.facebook.com/casual.pm
+- type: x-twitter
+  url: https://twitter.com/hashtag/startups?src=hash
+- type: x-website
+  url: https://casual.pm
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

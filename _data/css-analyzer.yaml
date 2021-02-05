@@ -1,0 +1,29 @@
+---
+name: CSS Analyzer
+description: CSS tool for analyzing the CSS code to get more optimized and ready for
+  use on the Mobile Web
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8768286"
+url: https://raw.githubusercontent.com/api-network/organizations/main/css-analyzer.yaml
+tags:
+- Tools
+- Css Validator
+- Css Tool
+- Css Layout
+- Css Analyzer
+- Color Analyzer
+- Analyzer
+apis: []
+x-common:
+- type: x-website
+  url: https://cssanalyzer.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

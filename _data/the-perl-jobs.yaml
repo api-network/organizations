@@ -1,0 +1,89 @@
+---
+name: The Perl Jobs
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "118786"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-perl-jobs.yaml
+tags:
+- Employment
+- Commercial Services
+apis: []
+x-common:
+- type: x-careers
+  url: https://nutmegjobs.zendesk.com/
+- type: x-careers
+  url: https://jobs.perl.org/job/21689
+- type: x-careers
+  url: https://www.ssaihq.com/employment/careers/careers.aspx
+- type: x-careers
+  url: https://jobs.perl.org/job/21688
+- type: x-careers
+  url: http://www.ssaihq.com/employment/careers/careers.aspx
+- type: x-careers
+  url: https://jobs.perl.org/job/21687
+- type: x-careers
+  url: https://jobs.perl.org/job/21686
+- type: x-careers
+  url: https://jobs.perl.org/job/21685
+- type: x-careers
+  url: https://jobs.perl.org/job/21683
+- type: x-careers
+  url: https://jobs.perl.org/job/21682
+- type: x-careers
+  url: https://job.perl.careers/6yej
+- type: x-careers
+  url: https://jobs.perl.org/job/21681
+- type: x-careers
+  url: https://job.perl.careers/denz
+- type: x-careers
+  url: https://jobs.perl.org/job/21679
+- type: x-careers
+  url: https://jobs.perl.org/job/21677
+- type: x-careers
+  url: https://jobs.perl.org/job/21676
+- type: x-careers
+  url: https://job.perl.careers/w1i5
+- type: x-careers
+  url: https://jobs.perl.org/job/21674
+- type: x-careers
+  url: https://jobs.perl.org/job/21562
+- type: x-careers
+  url: https://jobs.perl.org/job/21672
+- type: x-careers
+  url: https://job.perl.careers/nf59
+- type: x-careers
+  url: https://jobs.perl.org/job/21662
+- type: x-careers
+  url: https://jobs.perl.org/job/14104
+- type: x-careers
+  url: https://jobs.perl.org/job/21670
+- type: x-careers
+  url: https://job.perl.careers/9u99
+- type: x-careers
+  url: https://jobs.perl.org/job/21669
+- type: x-careers
+  url: https://jobs.perl.org/job/21668
+- type: x-careers
+  url: https://jobs.perl.org/job/21667
+- type: x-careers
+  url: https://jobs.perl.org/job/21666
+- type: x-careers
+  url: https://jobs.perl.org/job/21592
+- type: x-careers
+  url: https://jobs.perl.org/job/21663
+- type: x-careers
+  url: https://jobs.perl.org/job/21661
+- type: x-careers
+  url: https://jobs.perl.org/job/21660
+- type: x-website
+  url: https://jobs.perl.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

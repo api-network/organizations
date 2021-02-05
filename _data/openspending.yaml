@@ -1,0 +1,43 @@
+---
+name: OpenSpending
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3292651"
+url: https://raw.githubusercontent.com/api-network/organizations/main/openspending.yaml
+tags:
+- Politics
+- Has API
+apis: []
+x-common:
+- type: x-website
+  url: http://community.openspending.org/
+- type: x-website
+  url: https://openspending.org/
+- type: x-blog
+  url: http://community.openspending.org/blog/
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/openspending
+- type: x-documentation
+  url: https://docs.openspending.org/en/latest
+- type: x-github
+  url: https://github.com/openspending
+- type: x-open-source
+  url: https://gitter.im/openspending/chat
+- type: x-open-source
+  url: https://github.com/openspending
+- type: x-open-source
+  url: https://discuss.okfn.org/c/openspending
+- type: x-open-source
+  url: http://openbudgets.eu/
+- type: x-twitter
+  url: https://twitter.com/openspending
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,26 @@
+---
+name: Boomp3.com
+description: "Meteo - Toutes les pr\xE9visions m\xE9t\xE9o; votre bulletin m\xE9teorologique
+  sur 1 semaine"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/boomp3-com.yaml
+tags:
+- "Pr\xE9visions"
+- Music Related
+- Meteo
+- "M\xE9t\xE9o"
+apis: []
+x-common:
+- type: x-website
+  url: https://boomp3.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

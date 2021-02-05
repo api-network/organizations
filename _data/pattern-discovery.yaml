@@ -1,0 +1,48 @@
+---
+name: Pattern Discovery
+description: Pattern Discovery Technologies is a pioneer in data mining and predictive
+  analytics. Big data solutions with our powerful analytical algorithms, software
+  products and professional services.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pattern-discovery.yaml
+tags:
+- E-commerce
+apis: []
+x-common:
+- type: x-website
+  url: http://www.patterndiscovery.com
+- type: x-about
+  url: https://patterndiscovery.com/about/
+- type: x-about
+  url: https://patterndiscovery.com/about/management/
+- type: x-about
+  url: http://patterndiscovery.com/about/
+- type: x-careers
+  url: https://patterndiscovery.com/about/careers/
+- type: x-case-studies
+  url: https://patterndiscovery.com/services/case-studies/
+- type: x-contact
+  url: https://patterndiscovery.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/PatternDiscoveryTechnologies
+- type: x-partner
+  url: https://patterndiscovery.com/partners/
+- type: x-support
+  url: http://support.patterndiscovery.com
+- type: x-twitter
+  url: https://twitter.com/PatternDiscover
+- type: x-website
+  url: https://www.patterndiscovery.com
+- type: x-youtube
+  url: https://www.youtube.com/user/patterndiscovery
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

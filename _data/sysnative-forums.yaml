@@ -1,0 +1,33 @@
+---
+name: Sysnative Forums
+description: Blue Screen of Death (BSOD) crash analysis and debugging support, Malware
+  analysis and removal, and help for Windows Update, Microsoft Windows Operating...
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "179798"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sysnative-forums.yaml
+tags:
+- Technical Support And Troubleshooting
+apis: []
+x-common:
+- type: x-forum
+  url: https://www.sysnative.com/forums
+- type: x-forum
+  url: https://www.sysnative.com/forums/whats-new/
+- type: x-forum
+  url: https://www.sysnative.com/forums/pages/donate/
+- type: x-forum
+  url: https://www.sysnative.com/forums/help/bb-codes/
+- type: x-forum
+  url: https://www.sysnative.com/forums/account/preferences
+- type: x-website
+  url: https://www.sysnative.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

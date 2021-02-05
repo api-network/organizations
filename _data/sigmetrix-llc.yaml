@@ -1,0 +1,48 @@
+---
+name: Sigmetrix LLC
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1199555"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sigmetrix-llc.yaml
+tags:
+- Mechanical Design
+apis: []
+x-common:
+- type: x-website
+  url: http://www.sigmetrix.com
+- type: x-careers
+  url: https://www.sigmetrix.com/careers/
+- type: x-case-studies
+  url: https://www.sigmetrix.com/case-studies-2/
+- type: x-contact
+  url: https://www.sigmetrix.com/contact-sigmetrix/
+- type: x-events
+  url: https://www.sigmetrix.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/sigmetrix
+- type: x-linkedin
+  url: https://www.linkedin.com/company/sigmetrix
+- type: x-partner
+  url: https://www.sigmetrix.com/partners/
+- type: x-press
+  url: https://www.sigmetrix.com/press-releases-and-news/
+- type: x-press
+  url: https://www.sigmetrix.com/press-room/
+- type: x-support
+  url: https://www.sigmetrix.com/support
+- type: x-twitter
+  url: https://twitter.com/Sigmetrix
+- type: x-website
+  url: https://www.sigmetrix.com
+- type: x-youtube
+  url: https://www.youtube.com/user/Sigmetrix
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

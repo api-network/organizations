@@ -1,0 +1,46 @@
+---
+name: Straker Translations
+description: <p>Straker Translations is revolutionizing the translation industry by
+  offering fast, efficient and cost effective translations with their unique pay-per-hour
+  translation model, it enables clients to significantly reduce their ongoing translation
+  costs as well as simplifying the translation process.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/946_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/straker-translations.yaml
+tags:
+- Translations
+- Translations
+- Languages
+- Human Translation
+- Have API
+- Content
+apis: []
+x-common:
+- type: x-website
+  url: http://www.strakertranslations.com
+- type: x-base
+  url: http://api.strakertranslations.com/api/
+- type: x-blog
+  url: https://www.straker.ie/blog/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/straker-translations
+- type: x-developers
+  url: http://straker.ie/products/translation-api/en/translation-api_home.cfm
+- type: x-pricing
+  url: https://www.straker.ie/translation-pricing/
+- type: x-pricing
+  url: https://www.straker.ie/translation-pricing/
+- type: x-twitter
+  url: https://twitter.com/strakerglobal
+- type: x-website
+  url: http://straker.ie
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

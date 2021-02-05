@@ -1,0 +1,59 @@
+---
+name: Bika Lab Systems
+description: Since 2002. All the resources to successfully implement Bika / Senaite.
+  The best professionally supported OS LIMS by far
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8189119"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bika-lab-systems.yaml
+tags:
+- South Africa
+- Solution Providers
+- Senaite
+- Sample Tracking
+- Professional
+- Open Source
+- LIMS User Manual
+- LIMS Hosting
+- LIMS Glossary
+- LIMS Features
+- LIMS Demo
+- LIMS Community
+- LIMS Benefits
+- LIMS
+- FOSS Benefits
+- Cloud Based
+- Cape Town
+- Blog
+- Bika Senaite User Manual
+apis: []
+x-common:
+- type: x-about
+  url: https://www.bikalims.org/about-bika
+- type: x-blog
+  url: https://www.bikalims.org/blog
+- type: x-blog
+  url: https://www.bikalims.org/blog/the-year-that-was
+- type: x-contact
+  url: https://www.bikalims.org/contact-info
+- type: x-login
+  url: https://www.bikalims.org/login
+- type: x-news
+  url: https://www.bikalims.org/news/Bika_Health_Islamabad
+- type: x-news
+  url: https://www.bikalims.org/news
+- type: x-support
+  url: https://www.bikalims.org/support-and-service-provision
+- type: x-twitter
+  url: https://twitter.com/bikalims
+- type: x-website
+  url: https://www.bikalabs.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

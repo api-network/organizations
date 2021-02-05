@@ -1,0 +1,26 @@
+---
+name: Deallocated Objects
+description: 'Articles from Deallocated Objects. Delivered via Twitter. Also available
+  via RSS: http://t.co/1FISWOvYud'
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29281-deallocatedobjects-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/deallocated-objects.yaml
+tags:
+- Tech Blog
+- Profile
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/deallocatedobjs
+- type: x-website
+  url: http://deallocatedobjects.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

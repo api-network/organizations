@@ -1,0 +1,22 @@
+---
+name: Lynx for Win32 by Patakuti
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10683"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lynx-for-win32-by-patakuti.yaml
+tags:
+- Lynx
+apis: []
+x-common:
+- type: x-website
+  url: https://lynx-win32-pata.osdn.jp
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

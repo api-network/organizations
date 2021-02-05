@@ -1,0 +1,27 @@
+---
+name: Dan Miller Design
+description: seo description
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dan-miller-design.yaml
+tags:
+- Seo Keywords
+- Artists And Galleries
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/pages/exhibit-E/71197581581
+- type: x-instagram
+  url: https://instagram.com/exhibite/
+- type: x-website
+  url: https://danmillerdesign.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

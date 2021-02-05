@@ -1,0 +1,66 @@
+---
+name: Raspberry Pi
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4028"
+url: https://raw.githubusercontent.com/api-network/organizations/main/raspberry-pi.yaml
+tags:
+- Systems
+apis: []
+x-common:
+- type: x-website
+  url: http://www.raspberrypi.org
+- type: x-about
+  url: https://www.raspberrypi.org/about
+- type: x-about
+  url: https://www.raspberrypi.org/about/meet-the-team
+- type: x-about
+  url: https://www.raspberrypi.org/about/governance
+- type: x-about
+  url: https://www.raspberrypi.org/about/supporters
+- type: x-blog
+  url: https://www.raspberrypi.org/blog/
+- type: x-blog
+  url: https://www.raspberrypi.org/blog
+- type: x-code
+  url: https://codeclub.org
+- type: x-code
+  url: https://coderdojo.com/
+- type: x-contact
+  url: https://www.raspberrypi.org/contact
+- type: x-documentation
+  url: https://www.raspberrypi.org/documentation
+- type: x-facebook
+  url: https://www.facebook.com/raspberrypi
+- type: x-forum
+  url: https://www.raspberrypi.org/forums/
+- type: x-instagram
+  url: https://www.instagram.com/raspberrypifoundation/
+- type: x-press
+  url: https://store.rpipress.cc/products/book-if-making
+- type: x-press
+  url: https://store.rpipress.cc
+- type: x-privacy
+  url: https://www.raspberrypi.org/privacy
+- type: x-support
+  url: https://www.raspberrypi.org/help/
+- type: x-support
+  url: https://www.raspberrypi.org/help
+- type: x-support
+  url: https://www.raspberrypi.org/help/faqs
+- type: x-twitter
+  url: https://twitter.com/Raspberry_Pi
+- type: x-website
+  url: https://www.raspberrypi.org
+- type: x-youtube
+  url: https://youtube.com/raspberrypi
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

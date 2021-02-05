@@ -1,0 +1,47 @@
+---
+name: Steel Cloud
+description: SteelCloud automated STIG / CIS remediation creates policy compliant
+  environment in minutes. Cybersecurity compliance reporting for RMF I NIST-800-171
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1743861"
+url: https://raw.githubusercontent.com/api-network/organizations/main/steel-cloud.yaml
+tags:
+- Servers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.steelcloud.com
+- type: x-about
+  url: https://www.steelcloud.com/about-steelcloud/
+- type: x-contact
+  url: https://www.steelcloud.com/contact-us/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/steelcloud/
+- type: x-news
+  url: https://www.steelcloud.com/news-events/
+- type: x-privacy
+  url: https://www.steelcloud.com/privacy-policy-2/
+- type: x-security
+  url: https://www.steelcloud.com/configos-cybersecurity/
+- type: x-security
+  url: https://www.steelcloud.com/cloud-compliance-security/
+- type: x-support
+  url: https://www.steelcloud.com/training-support/
+- type: x-support
+  url: https://www.steelcloud.com/support-request/
+- type: x-support
+  url: https://www.steelcloud.com/support-announcements/
+- type: x-twitter
+  url: https://twitter.com/STIGAutomation
+- type: x-website
+  url: https://www.steelcloud.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

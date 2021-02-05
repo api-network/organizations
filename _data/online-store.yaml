@@ -1,0 +1,29 @@
+---
+name: Online Store
+description: Build an online store with our shopping cart software. For use on ecommerce
+  websites, it is compatible with Authorize Net, PayPal and WorldPay.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2963738"
+url: https://raw.githubusercontent.com/api-network/organizations/main/online-store.yaml
+tags:
+- WORLDPAY
+- Shopping Carts
+- Shopping Cart Software
+- PayPal
+- EPDQ
+- ECommerce
+- Carts
+apis: []
+x-common:
+- type: x-website
+  url: https://www.online-store.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

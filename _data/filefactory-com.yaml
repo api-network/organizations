@@ -1,0 +1,37 @@
+---
+name: FileFactory.com
+description: FileFactory is the best place to upload and share files with no limits
+  since 2005. Send and receive any type of file up to a massive 5GB with unlimited
+  file bandwidth.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8325"
+url: https://raw.githubusercontent.com/api-network/organizations/main/filefactory-com.yaml
+tags:
+- Online Photo Storage
+- Image Hosting
+- Free Music Downloads
+- Free Music
+- Free Mp3 Downloads
+- Free File Hosting
+- Free Cloud Storage
+- Free
+- File Hosting
+- Download Music
+- Download Free Music
+- Cloud Storage Free
+apis: []
+x-common:
+- type: x-support
+  url: http://helpdesk.filefactory.com/
+- type: x-website
+  url: https://www.filefactory.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

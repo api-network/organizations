@@ -1,0 +1,60 @@
+---
+name: Uptime Software
+description: Gain a unified view of IT with the up.time IT dashboard, which highlights
+  issues before they become serious and helps you react fast when incidents happen.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8057999"
+url: https://raw.githubusercontent.com/api-network/organizations/main/uptime-software.yaml
+tags:
+- Virtual Monitoring
+- Uptime Monitor
+- Systems Management
+- SLA Management
+- Server Monitoring Software
+- Server Monitoring
+- Performance Monitoring
+- Multi-datacenter Monitoring
+- Monitoring
+- It Services Monitoring
+- Downtime Monitor
+- Database Monitoring
+- Capacity Planning
+- Availabilty Monitoring
+- Availability Monitoring
+- Application Monitoring
+apis: []
+x-common:
+- type: x-website
+  url: http://www.uptimesoftware.com
+- type: x-blog
+  url: http://www.uptimesoftware.com/uptimeblog/
+- type: x-contact
+  url: http://www.uptimesoftware.com/contact.php
+- type: x-documentation
+  url: http://docs.uptimesoftware.com/
+- type: x-partner
+  url: http://www.uptimesoftware.com/partners.php
+- type: x-platform
+  url: http://www.uptimesoftware.com/platforms.php
+- type: x-press
+  url: http://www.uptimesoftware.com/pressroom.php
+- type: x-support
+  url: http://support.uptimesoftware.com/community/
+- type: x-support
+  url: http://support.uptimesoftware.com/
+- type: x-twitter
+  url: https://twitter.com/uptimesoftware
+- type: x-website
+  url: https://www.uptimesoftware.com
+- type: x-youtube
+  url: https://www.youtube.com/user/UptimeSoftware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

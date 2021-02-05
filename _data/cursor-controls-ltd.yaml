@@ -1,0 +1,43 @@
+---
+name: Cursor Controls Ltd
+description: Cursor Controls manufactures innovative and reliable trackballs for some
+  of the world's most demanding environments. Contact us today +44 (0) 1636 615 600
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cursor-controls-ltd.yaml
+tags:
+- Pointing Devices
+apis: []
+x-common:
+- type: x-about
+  url: https://www.cursorcontrols.com/about/
+- type: x-about
+  url: https://www.cursorcontrols.com/about/history/
+- type: x-about
+  url: https://www.cursorcontrols.com/about/opportunities/
+- type: x-about
+  url: https://www.cursorcontrols.com/about/videos/
+- type: x-about
+  url: https://www.cursorcontrols.com/about/quality/
+- type: x-contact
+  url: https://www.cursorcontrols.com/contact
+- type: x-contact
+  url: https://www.cursorcontrols.com/contact/
+- type: x-contact
+  url: http://www.cursorcontrols.com/contact/
+- type: x-news
+  url: https://www.cursorcontrols.com/news/
+- type: x-terms-of-service
+  url: https://www.cursorcontrols.com/terms-conditions/
+- type: x-website
+  url: https://www.cursorcontrols.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

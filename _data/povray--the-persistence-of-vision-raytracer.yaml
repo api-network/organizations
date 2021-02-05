@@ -1,0 +1,45 @@
+---
+name: POV-Ray - The Persistence of Vision Raytracer
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1266225"
+url: https://raw.githubusercontent.com/api-network/organizations/main/povray--the-persistence-of-vision-raytracer.yaml
+tags:
+- POV-Ray
+- Graphics
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/POV-Ray/povray/releases
+- type: x-github
+  url: https://github.com/cyborg5/pov2mesh
+- type: x-github
+  url: https://github.com/POV-Ray/povray
+- type: x-news
+  url: http://news.povray.org/groups/
+- type: x-news
+  url: news://news.povray.org/povray.beta-test
+- type: x-news
+  url: http://news.povray.org/povray.beta-test
+- type: x-news
+  url: http://news.povray.org
+- type: x-news
+  url: http://www.digimi.com/newsite/presite/home.jsp
+- type: x-news
+  url: http://www.symscape.com/news/symlab-rans-flow-released
+- type: x-open-source
+  url: http://www.opentk.com/
+- type: x-terms-of-service
+  url: http://www.povray.org/povlegal.html
+- type: x-website
+  url: https://www.povray.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

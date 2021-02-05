@@ -1,0 +1,56 @@
+---
+name: Jon Rosen Systems, Inc
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3711983"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jon-rosen-systems-inc.yaml
+tags:
+- New York
+apis: []
+x-common:
+- type: x-about
+  url: https://jonrosensystems.com/about/about-the-staff/
+- type: x-about
+  url: https://jonrosensystems.com/about/recent-projects/
+- type: x-about
+  url: https://jonrosensystems.com/about/internships/
+- type: x-about
+  url: https://jonrosensystems.com/about/site-map/
+- type: x-about
+  url: http://jonrosensystems.com/about/about-the-staff
+- type: x-blog
+  url: https://jonrosensystems.com/all-web-logblog-posts/
+- type: x-contact
+  url: https://jonrosensystems.com/contact/
+- type: x-contact
+  url: http://jonrosensystems.com/contact
+- type: x-contact
+  url: http://jonrosensystems.com/contact/
+- type: x-contact
+  url: http://jonrosensystems.com/services/contact
+- type: x-contact
+  url: http://jonrosensystems.com/computers/contact
+- type: x-news
+  url: https://jonrosensystems.com/software/virus-news/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-privacy
+  url: https://jonrosensystems.com/about/privacy/
+- type: x-terms-of-service
+  url: https://jonrosensystems.com/about/payment-terms/
+- type: x-terms-of-service
+  url: http://jonrosensystems.com/about/payment-terms
+- type: x-twitter
+  url: http://twitter.com
+- type: x-website
+  url: https://www.jonrosensystems.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

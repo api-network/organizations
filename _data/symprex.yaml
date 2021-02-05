@@ -1,0 +1,31 @@
+---
+name: Symprex
+description: 'Symprex: Outlook, Office 365 and Exchange Email Signature and Disclaimer
+  Management and Other Add-on Solutions.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2416118"
+url: https://raw.githubusercontent.com/api-network/organizations/main/symprex.yaml
+tags:
+- Utilities
+apis: []
+x-common:
+- type: x-website
+  url: http://www.symprex.com
+- type: x-facebook
+  url: https://www.facebook.com/symprex
+- type: x-linkedin
+  url: https://www.linkedin.com/company/symprex
+- type: x-twitter
+  url: https://twitter.com/symprex
+- type: x-website
+  url: https://www.symprex.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

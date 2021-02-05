@@ -1,0 +1,49 @@
+---
+name: Rich Media Localization
+description: 'Andovar is a global provider of multilingual content solutions: translation,
+  audio and video recording, localization of websites, eLearning and games.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "784847"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rich-media-localization.yaml
+tags:
+- Localization And Internationalization
+apis: []
+x-common:
+- type: x-about
+  url: https://www.andovar.com/about-us/company-background/
+- type: x-about
+  url: https://www.andovar.com/about-us/key-staff/
+- type: x-about
+  url: https://www.andovar.com/about-us/quality-management/
+- type: x-blog
+  url: https://blog.andovar.com/blog
+- type: x-blog
+  url: https://blog.andovar.com/blog/
+- type: x-case-studies
+  url: https://www.andovar.com/our-clients/case-studies/
+- type: x-contact
+  url: https://www.andovar.com/contact-us/careers/
+- type: x-contact
+  url: https://www.andovar.com/contact-us/get-in-touch/
+- type: x-facebook
+  url: https://www.facebook.com/andovar
+- type: x-linkedin
+  url: https://www.linkedin.com/company/andovar
+- type: x-privacy
+  url: https://www.andovar.com/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/andovarglobal
+- type: x-website
+  url: https://andovar.com
+- type: x-white-papers
+  url: https://www.andovar.com/resource-center/white-papers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

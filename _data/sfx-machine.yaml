@@ -1,0 +1,51 @@
+---
+name: SFX Machine
+description: SFX Machine Pro, Audio Unit and VST plugins for Mac OS X and Windows.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sfx-machine.yaml
+tags:
+- Windows
+- Vst
+- Vocal Removers
+- Sound
+- Sfxmachine
+- Sfx Machine
+- Sfx
+- Pro
+- Plugin
+- Plug-ins
+- Plug-in
+- Peak
+- PC
+- OS X
+- Music Software
+- MIDI
+- Macintosh
+- Mac
+- Logic Pro
+- Guitar Effects
+- Garageband
+- Flanger
+- Eq
+- Echo
+- Distortion
+- Chorus
+- Backwards Machine
+- Audio Unit
+- Audio Effects
+- Au
+apis: []
+x-common:
+- type: x-website
+  url: https://www.sfxmachine.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

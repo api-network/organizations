@@ -1,0 +1,32 @@
+---
+name: Linux Today
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "167956"
+url: https://raw.githubusercontent.com/api-network/organizations/main/linux-today.yaml
+tags:
+- News And Media
+apis: []
+x-common:
+- type: x-about
+  url: https://www.quinstreetb2btech.com/about_us/
+- type: x-about
+  url: https://www.quinstreetb2btech.com/about-us/
+- type: x-feed
+  url: https://www.linuxtoday.com/feedback.html
+- type: x-feed
+  url: https://feedproxy.google.com/linuxtoday/linux
+- type: x-news
+  url: https://www.linuxtoday.com/news/archives/
+- type: x-website
+  url: https://linuxtoday.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,43 @@
+---
+name: HTML5 Rocks
+description: A resource for developers looking to put HTML5 to use today, including
+  information on specific features and when to use them in your apps.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "36569"
+url: https://raw.githubusercontent.com/api-network/organizations/main/html5-rocks.yaml
+tags:
+- Web Workers
+- Video
+- Sse
+- Offline
+- Notifications
+- JavaScript
+- Indexeddb
+- Html5 Examples
+- Html5 Demos
+- HTML5
+- Html 5
+- Geolocation
+- Filereader
+- File API
+- Drag And Drop
+- CSS3
+- Chrome
+- Audio
+- Apppcache
+apis: []
+x-common:
+- type: x-developer
+  url: https://developers.google.com/web
+- type: x-website
+  url: https://www.html5rocks.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

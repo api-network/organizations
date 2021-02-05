@@ -1,0 +1,35 @@
+---
+name: Enlightenment
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "914700"
+url: https://raw.githubusercontent.com/api-network/organizations/main/enlightenment.yaml
+tags:
+- Window Managers
+- Start
+apis: []
+x-common:
+- type: x-website
+  url: http://www.enlightenment.org
+- type: x-facebook
+  url: http://www.facebook.com/enlightenment.org
+- type: x-news
+  url: https://www.enlightenment.org/news/efl-1.23.3
+- type: x-news
+  url: https://www.enlightenment.org/news/e0.23.1_release
+- type: x-open-source
+  url: https://openwide.fr
+- type: x-twitter
+  url: http://twitter.com/_Enlightenment_
+- type: x-website
+  url: https://www.enlightenment.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

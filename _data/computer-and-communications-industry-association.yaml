@@ -1,0 +1,64 @@
+---
+name: Computer and Communications Industry Association
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4248775"
+url: https://raw.githubusercontent.com/api-network/organizations/main/computer-and-communications-industry-association.yaml
+tags:
+- Organizations
+apis: []
+x-common:
+- type: x-about
+  url: https://www.ccianet.org/about/who-we-are/
+- type: x-about
+  url: https://www.ccianet.org/about/ccias-mission/
+- type: x-about
+  url: https://www.ccianet.org/about/members/
+- type: x-about
+  url: https://www.ccianet.org/about/board-of-directors/
+- type: x-about
+  url: https://www.ccianet.org/about/join/
+- type: x-blog
+  url: https://www.ccianet.org/blog/
+- type: x-careers
+  url: https://www.ccianet.org/careers/
+- type: x-contact
+  url: https://www.ccianet.org/about/staff-contacts/
+- type: x-facebook
+  url: https://www.facebook.com/ccianet
+- type: x-feed
+  url: https://www.ccianet.org/feed/
+- type: x-news
+  url: https://www.ccianet.org/news/
+- type: x-open-source
+  url: https://www.ccianet.org/issues/telecom/open-internet/
+- type: x-privacy
+  url: https://www.ccianet.org/about/privacy/
+- type: x-security
+  url: https://www.ccianet.org/issues/cybersecurity/
+- type: x-twitter
+  url: https://www.twitter.com/ccianet/
+- type: x-twitter
+  url: https://twitter.com/IntelPolicy
+- type: x-twitter
+  url: https://twitter.com/search?q=%23USMCA&src=hash
+- type: x-twitter
+  url: http://twitter.com/ccianet/status/1217847754220802048
+- type: x-twitter
+  url: http://twitter.com/ccianet/status/1217292200029184002
+- type: x-twitter
+  url: https://twitter.com/i/web/status/1217827276580102150
+- type: x-twitter
+  url: https://twitter.com/Ip2Innovate
+- type: x-website
+  url: https://www.ccianet.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

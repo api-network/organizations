@@ -1,0 +1,50 @@
+---
+name: Cell Phone Apps
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cell-phone-apps.yaml
+tags:
+- Resources
+apis: []
+x-common:
+- type: x-blog
+  url: https://cellapps.blogspot.com/2007/04/browsers.html
+- type: x-blog
+  url: https://www.blogger.com/profile/12653969083141914248
+- type: x-blog
+  url: https://cellapps.blogspot.com/
+- type: x-blog
+  url: https://cellapps.blogspot.com/2007/
+- type: x-blog
+  url: https://cellapps.blogspot.com/2007/04/
+- type: x-blog
+  url: https://cellapps.blogspot.com/2007/01/
+- type: x-blog
+  url: https://cellapps.blogspot.com/2006/
+- type: x-blog
+  url: https://cellapps.blogspot.com/2006/11/
+- type: x-blog
+  url: https://cellapps.blogspot.com/2005/
+- type: x-blog
+  url: https://cellapps.blogspot.com/2005/06/
+- type: x-code
+  url: http://www.shamikshah.com/code/textDirections.html
+- type: x-code
+  url: http://shamikshah.com/code/qif2csv/Converter.html
+- type: x-code
+  url: http://www.geocities.com/shamik45/code.zip
+- type: x-feed
+  url: https://cellapps.blogspot.com/feeds/posts/default
+- type: x-website
+  url: https://cellapps.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

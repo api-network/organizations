@@ -1,0 +1,33 @@
+---
+name: PCI-Z
+description: PCI-Z is a freeware lightweight system utility designed to provide information
+  about (unknown) PCI (PCI-E, PCI-X...) devices.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1323294"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pciz.yaml
+tags:
+- Unknown Windows Device
+- Unknown Wifi Device
+- Unknown Pci Device
+- Unknown Driver
+- System
+- Find Drivers
+- Driver Detect
+- Detect Unknown Wifi
+- Detect Unknown Pci
+apis: []
+x-common:
+- type: x-linkedin
+  url: http://hr.linkedin.com/in/brunobanelli
+- type: x-website
+  url: https://www.pci-z.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

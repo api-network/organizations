@@ -1,0 +1,37 @@
+---
+name: CheddarGetter
+description: Introducing metric-driven billing - a unique approach to subscription
+  management and recurring billing.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cheddargetter.yaml
+tags:
+- Subscription
+- Recurring
+- Billing
+apis: []
+x-common:
+- type: x-website
+  url: https://www.getcheddar.com/
+- type: x-blog
+  url: https://www.getcheddar.com/blog
+- type: x-login
+  url: https://login.getcheddar.com/client
+- type: x-status
+  url: https://status.getcheddar.com
+- type: x-status
+  url: http://status.getcheddar.com
+- type: x-twitter
+  url: https://twitter.com/get_cheddar
+- type: x-website
+  url: https://cheddargetter.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,71 @@
+---
+name: PayStand.com
+description: <p>PayStand is a next generation payment &amp; eCommerce checkout system
+  that enables any organization to receive money in their Website, Social Network,
+  or Web Application without transaction costs. We are the first multi-payment gateway
+  that accepts credit cards (Visa/MasterCard/Amex/Discover), eCheck (ACH/Dwolla),
+  and eCash (Bitcoins) with 0% transaction fees.&nbsp;</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/pay-stand.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "164474"
+url: https://raw.githubusercontent.com/api-network/organizations/main/paystand-com.yaml
+tags:
+- Payments
+- Payments
+- Payments
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: https://paystand.com/about
+- type: x-about
+  url: https://www.paystand.com/about
+- type: x-base
+  url: https://www.paystand.com/api/
+- type: x-blog
+  url: https://www.paystand.com/blog
+- type: x-careers
+  url: https://www.paystand.com/jobs
+- type: x-case-studies
+  url: https://www.paystand.com/resources/case-studies
+- type: x-contact
+  url: https://www.paystand.com/contact
+- type: x-developer
+  url: http://developer.paystand.com
+- type: x-developers
+  url: http://www.paystand.com/developers/
+- type: x-facebook
+  url: https://www.facebook.com/PayStand
+- type: x-linkedin
+  url: https://www.linkedin.com/company/paystand
+- type: x-login
+  url: https://dashboard.paystand.com/v2/signin
+- type: x-press
+  url: https://www.paystand.com/press
+- type: x-pricing
+  url: https://www.paystand.com/pricing
+- type: x-pricing
+  url: http://www.paystand.com/plans
+- type: x-privacy
+  url: https://www.paystand.com/privacy
+- type: x-support
+  url: https://www.paystand.com/support
+- type: x-terms-of-service
+  url: https://www.paystand.com/terms
+- type: x-twitter
+  url: https://twitter.com/paystand
+- type: x-webinars
+  url: https://www.paystand.com/resources/webinars
+- type: x-website
+  url: http://www.paystand.com/
+- type: x-white-papers
+  url: https://www.paystand.com/resources/whitepapers
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

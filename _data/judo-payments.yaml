@@ -1,0 +1,71 @@
+---
+name: Judo Payments
+description: "Judopay \u2013 Next generation mobile payments for an app experience
+  your customers will love"
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/2173_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "653274"
+url: https://raw.githubusercontent.com/api-network/organizations/main/judo-payments.yaml
+tags:
+- Payments
+- No API Definition
+- Merchants
+- Have API
+- Has API
+- API United Kingdom
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.judopay.com
+- type: x-about
+  url: https://www.judopay.com/about-us/
+- type: x-contact
+  url: https://www.judopay.com/contact-us/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/judo
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/judo
+- type: x-developers
+  url: https://www.judopay.com/developers/
+- type: x-email
+  url: hello@judopay.com
+- type: x-email
+  url: service@judopay.com
+- type: x-email
+  url: Help@Judopay.com
+- type: x-email
+  url: Developersupport@Judopay.com
+- type: x-email
+  url: Emergency@Judopay.com
+- type: x-email
+  url: CustomerSuccess@Judopay.com
+- type: x-email
+  url: Urgent@Judopay.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/judopay/
+- type: x-news
+  url: https://www.judopay.com/category/news/
+- type: x-privacy
+  url: https://www.judopay.com/privacy-policy/
+- type: x-support
+  url: https://www.judopay.com/who-weve-helped/
+- type: x-support
+  url: https://www.judopay.com/help/
+- type: x-terms-of-service
+  url: https://www.judopay.com/terms-and-conditions/
+- type: x-twitter
+  url: https://twitter.com/Judopay
+- type: x-twitter
+  url: https://twitter.com/JudoPayments
+- type: x-website
+  url: https://www.judopay.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

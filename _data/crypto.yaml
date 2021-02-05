@@ -1,0 +1,77 @@
+---
+name: Crypto++
+description: 'free C++ library for cryptography: includes ciphers, message authentication
+  codes, one-way hash functions, public-key cryptosystems, key agreement schemes,
+  and deflate compression'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1696780"
+url: https://raw.githubusercontent.com/api-network/organizations/main/crypto.yaml
+tags:
+- VIA Padlock
+- SSE4
+- SSE3
+- SSE2
+- SHANI
+- SHA
+- Security
+- Scrypt
+- Schemes
+- Scheme
+- RSA
+- RDSEED
+- RDRAND
+- Public Domain
+- PowerPC
+- POWER8
+- Open Source
+- NEON
+- Library
+- Key Agreement
+- HMAC
+- HKDF
+- Hash
+- Free
+- Elliptic Curve
+- DSA
+- Digest
+- DH
+- DES
+- Cryptosystem
+- CryptoPP
+- Cryptography
+- Cryptographic
+- Crypto++
+- Crypto
+- Codes
+- Code
+- Class Libraries
+- Ciphers
+- Cipher
+- C++
+- ASIMD
+- ARMv8a
+- ARMv7a
+- AESNI
+- AES
+apis: []
+x-common:
+- type: x-forum
+  url: http://groups.google.com/forum/#!forum/cryptopp-users
+- type: x-github
+  url: http://github.com/weidai11/cryptopp/releases
+- type: x-github
+  url: http://github.com/weidai11/cryptopp
+- type: x-security
+  url: http://www.research.ibm.com/security/mars.html
+- type: x-website
+  url: https://www.cryptopp.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

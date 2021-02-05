@@ -1,0 +1,62 @@
+---
+name: GeoRanker
+description: <p>This website is a technical reference for developers that are interested
+  to utilize the GeoRanker API. All content and documentation is created by the developers
+  GeoRanker team. Our API enables developers to make use of all functionalities available
+  on GeoRanker.com</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/GeoRanker-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "68211"
+url: https://raw.githubusercontent.com/api-network/organizations/main/georanker.yaml
+tags:
+- Target
+- RankTracker
+- LocalSERP
+- LocalSEO
+- LocalRankChecker
+- Have API
+- Georankings
+- Georanking
+- Geo
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.georanker.com
+- type: x-base
+  url: https://api.georanker.com/
+- type: x-contact
+  url: https://www.georanker.com/contactus
+- type: x-developers
+  url: http://apidocs.georanker.com
+- type: x-documentation
+  url: https://docs.georanker.com/reference
+- type: x-documentation
+  url: https://docs.georanker.com
+- type: x-facebook
+  url: https://www.facebook.com/GeoRanker
+- type: x-github
+  url: https://github.com/georanker
+- type: x-linkedin
+  url: https://www.linkedin.com/company/georanker
+- type: x-plans
+  url: https://www.georanker.com/plans
+- type: x-privacy
+  url: https://www.georanker.com/privacy-policy
+- type: x-self-service-registration
+  url: https://seoapp.georanker.com/register
+- type: x-terms-of-service
+  url: https://www.georanker.com/terms
+- type: x-twitter
+  url: https://twitter.com/georanker
+- type: x-website
+  url: http://georanker.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,40 @@
+---
+name: New York International Internet eXchange - NYIIX
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/new-york-international-internet-exchange--nyiix.yaml
+tags:
+- USA
+apis: []
+x-common:
+- type: x-website
+  url: http://www.telehouse.com
+- type: x-about
+  url: https://www.nyiix.net/about-us/
+- type: x-contact
+  url: https://www.nyiix.net/contact/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/telehouse-america/
+- type: x-marketplace
+  url: https://www.nyiix.net/marketplace/
+- type: x-news
+  url: https://www.nyiix.net/news/
+- type: x-privacy
+  url: https://www.nyiix.net/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/telehouse
+- type: x-website
+  url: https://www.nyiix.net
+- type: x-youtube
+  url: https://www.youtube.com/user/TELEHOUSEAmericaTV
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

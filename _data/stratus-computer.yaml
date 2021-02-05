@@ -1,0 +1,45 @@
+---
+name: Stratus Computer
+description: Stratus Technologies is the leading provider of availability solutions
+  for your critical infrastructure to stay always up, always on. Learn more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "475606"
+url: https://raw.githubusercontent.com/api-network/organizations/main/stratus-computer.yaml
+tags:
+- Servers
+apis: []
+x-common:
+- type: x-about
+  url: https://www.stratus.com/about/
+- type: x-blog
+  url: https://blog.stratus.com/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/stratus-technologies
+- type: x-partner
+  url: https://www.stratus.com/partners/technology-partners/
+- type: x-partner
+  url: https://partner.stratus.com
+- type: x-partner
+  url: https://partner.stratus.com/English/
+- type: x-partner
+  url: https://partner.stratus.com/
+- type: x-partner
+  url: https://www.stratus.com/partners/strategic-partners/
+- type: x-platform
+  url: https://www.stratus.com/solutions/platforms/ftserver/
+- type: x-platform
+  url: https://www.stratus.com/solutions/platforms/everrun/
+- type: x-twitter
+  url: https://twitter.com/StratusAlwaysOn
+- type: x-website
+  url: https://www.stratus.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

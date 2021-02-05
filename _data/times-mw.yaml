@@ -1,0 +1,23 @@
+---
+name: times.mw
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/times-mw.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.times.mw/monetising-whatsapp/
+- type: x-website
+  url: http://times.mw
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

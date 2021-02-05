@@ -1,0 +1,28 @@
+---
+name: Westlaw Intranet Solutions
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7755"
+url: https://raw.githubusercontent.com/api-network/organizations/main/westlaw-intranet-solutions.yaml
+tags:
+- Corporate Portals
+apis: []
+x-common:
+- type: x-about
+  url: http://www.thomson.com/corp/about/ab_home.jsp
+- type: x-privacy
+  url: http://west.thomson.com/privacy/
+- type: x-support
+  url: http://west.thomson.com/help/
+- type: x-website
+  url: https://intranetsolutions.westlaw.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

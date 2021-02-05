@@ -1,0 +1,36 @@
+---
+name: Apimac
+description: Download intuitive applications for Mac, iPhone and iPad.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "639047"
+url: https://raw.githubusercontent.com/api-network/organizations/main/apimac.yaml
+tags:
+- Shareware
+apis: []
+x-common:
+- type: x-about
+  url: https://www.apimac.com/about/cookie-policy/
+- type: x-about
+  url: https://www.apimac.com/about/copyright/
+- type: x-about
+  url: https://www.apimac.com/about/
+- type: x-blog
+  url: https://www.apimac.com/blog/
+- type: x-privacy
+  url: https://www.apimac.com/about/privacy/
+- type: x-support
+  url: https://www.apimac.com/support/
+- type: x-terms-of-service
+  url: https://www.apimac.com/about/terms/
+- type: x-website
+  url: https://www.apimac.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

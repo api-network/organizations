@@ -1,0 +1,55 @@
+---
+name: Ubidots
+description: Connect, Develop, and Deploy IoT Applications with Ubidots Intuative
+  IoT Development Platform
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/ubidots.jpeg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "135590"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ubidots.yaml
+tags:
+- Sensors
+- Internet Of Things
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ubidots.com
+- type: x-blog
+  url: https://ubidots.com/blog/
+- type: x-blog
+  url: http://ubidots.com/blog/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/ubidots
+- type: x-documentation
+  url: https://ubidots.com/docs/devices
+- type: x-documentation
+  url: https://ubidots.com/docs/devices/index.html#devices
+- type: x-email
+  url: sales@ubidots.com
+- type: x-email
+  url: support@ubidots.com
+- type: x-facebook
+  url: https://www.facebook.com/ubidots/
+- type: x-github
+  url: https://github.com/ubidots
+- type: x-linkedin
+  url: https://www.linkedin.com/company/ubidots
+- type: x-status
+  url: http://status.ubidots.com/
+- type: x-support
+  url: https://help.ubidots.com/
+- type: x-support
+  url: http://help.ubidots.com/
+- type: x-twitter
+  url: https://twitter.com/ubidots
+- type: x-website
+  url: http://ubidots.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

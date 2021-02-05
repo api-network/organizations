@@ -1,0 +1,47 @@
+---
+name: TensorFlow
+description: <p>TensorFlow&trade; is an open source software library for numerical
+  computation using data flow graphs. Nodes in the graph represent mathematical operations,
+  while the graph edges represent the multidimensional data arrays (tensors) communicated
+  between them. The flexible architecture allows you to deploy computation to one
+  or more CPUs or GPUs in a desktop, server, or mobile device with a single API.&nbsp;</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/pull_image_10-12-2019-04-47-pm.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "9515"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tensorflow.yaml
+tags:
+- Software
+- Profile
+- Machine Learning
+- Have API
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.tensorflow.org/
+- type: x-github
+  url: https://github.com/tensorflow
+- type: x-linkedin
+  url: https://www.linkedin.com/
+- type: x-twitter
+  url: https://twitter.com/tensorflo
+- type: x-twitter
+  url: https://twitter.com/hashtag/poweredbytf
+- type: x-twitter
+  url: https://twitter.com/
+- type: x-twitter
+  url: https://twitter.com/tensorflow
+- type: x-website
+  url: https://www.tensorflow.org/
+- type: x-website
+  url: https://www.tensorflow.org
+- type: x-youtube
+  url: https://www.youtube.com/tensorflow/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

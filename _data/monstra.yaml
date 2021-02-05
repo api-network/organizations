@@ -1,0 +1,29 @@
+---
+name: Monstra
+description: Monstra is simple and light-weighted Content Management System written
+  in PHP
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "496881"
+url: https://raw.githubusercontent.com/api-network/organizations/main/monstra.yaml
+tags:
+- XML
+- Simple
+- No Database
+- Monstra
+- Flat File
+- Content Management System
+- CMS
+apis: []
+x-common:
+- type: x-website
+  url: https://monstra.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,51 @@
+---
+name: PBHS Web Site Design
+description: "PBHS, exclusively endorsed by ADA, offers digital marketing services
+  including\_dental website design, logo design, SEO, Reputation and Social Media."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "354129"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pbhs-web-site-design.yaml
+tags:
+- Health And Medical
+apis: []
+x-common:
+- type: x-website
+  url: http://www.pbhs.com
+- type: x-about
+  url: https://www.pbhs.com/about-pbhs/our-story/
+- type: x-about
+  url: https://www.pbhs.com/about-pbhs/testimonials/
+- type: x-about
+  url: https://www.pbhs.com/about-pbhs/blog/
+- type: x-blog
+  url: https://www.pbhs.com/blog/
+- type: x-blog
+  url: https://www.pbhs.com/blog/2019/11/26/top-10-seo-faqs/
+- type: x-contact
+  url: https://www.pbhs.com/contact-us/website-consultation/
+- type: x-contact
+  url: https://www.pbhs.com/contact-us/contact-information/
+- type: x-contact
+  url: https://www.pbhs.com/contact-us/seo-consultation/
+- type: x-events
+  url: https://www.pbhs.com/about-pbhs/calendar-of-events/
+- type: x-facebook
+  url: https://www.facebook.com/PBHSInc
+- type: x-instagram
+  url: https://www.instagram.com/pbhs_inc/
+- type: x-support
+  url: https://pbhssupport.zendesk.com/hc/en-us
+- type: x-twitter
+  url: https://twitter.com/dentistwebsites
+- type: x-website
+  url: https://www.pbhs.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

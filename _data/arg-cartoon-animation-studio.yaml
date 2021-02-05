@@ -1,0 +1,32 @@
+---
+name: ARG! Cartoon Animation Studio
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "679284"
+url: https://raw.githubusercontent.com/api-network/organizations/main/arg-cartoon-animation-studio.yaml
+tags:
+- Animated GIFs
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.artie.com/blog/
+- type: x-careers
+  url: https://www.artie.com/careers/
+- type: x-press
+  url: https://www.artie.com/press/
+- type: x-privacy
+  url: https://www.artie.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.artie.com/terms-of-services/
+- type: x-website
+  url: https://artie.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

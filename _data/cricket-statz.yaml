@@ -1,0 +1,36 @@
+---
+name: Cricket Statz
+description: Online cricket results management system to help score games live, manage
+  results, produce stats and ladders. Great for cricket leagues, associations and
+  clubs.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4858758"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cricket-statz.yaml
+tags:
+- Sports And Recreation
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.cricketstatz.com/contact
+- type: x-facebook
+  url: https://www.facebook.com/cricketstatz
+- type: x-forum
+  url: https://www.cricketstatz.com/support-forum
+- type: x-pricing
+  url: https://www.cricketstatz.com/pricing
+- type: x-privacy
+  url: https://www2.cricketstatz.com/ss/privacy.aspx
+- type: x-signup
+  url: https://www2.cricketstatz.com/ss/signup.aspx
+- type: x-website
+  url: https://www.cricketstatz.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

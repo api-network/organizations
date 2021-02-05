@@ -1,0 +1,41 @@
+---
+name: Delivra
+description: Get the email and marketing automation tools every marketer wants at
+  the price every marketer needs, with fast implementation and ongoing support.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "203668"
+url: https://raw.githubusercontent.com/api-network/organizations/main/delivra.yaml
+tags:
+- Software
+- Email Marketing
+- Automation
+apis: []
+x-common:
+- type: x-website
+  url: http://www.delivra.com
+- type: x-careers
+  url: https://www.campaignmonitor.com/company/careers/
+- type: x-facebook
+  url: https://www.facebook.com/delivra
+- type: x-instagram
+  url: https://www.instagram.com/delivraemail/
+- type: x-news
+  url: https://cmgroup.com/newsroom/
+- type: x-showcase
+  url: https://www.linkedin.com/showcase/delivra/
+- type: x-support
+  url: https://support.delivra.com
+- type: x-twitter
+  url: https://twitter.com/delivra
+- type: x-website
+  url: https://www.delivra.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

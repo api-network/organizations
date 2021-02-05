@@ -1,0 +1,36 @@
+---
+name: Arsenal
+description: 'Arsenal: quickly turn your CAD project into an immersive Digital Mock-Up.
+  Effective tools for a design review up to industry 4.0, such as immersive digital
+  mock-ups and shared virtual environments for their analysis.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/arsenal.yaml
+tags:
+- Companies
+apis: []
+x-common:
+- type: x-about
+  url: https://www.arsenal.it/about-us/
+- type: x-contact
+  url: https://www.arsenal.it/contacts/
+- type: x-contact
+  url: https://www.arsenal.it/contacts/#company-info
+- type: x-news
+  url: https://www.arsenal.it/news/
+- type: x-privacy
+  url: https://www.arsenal.it/privacy-and-cookies-policy/
+- type: x-support
+  url: https://www.arsenal.it/support/
+- type: x-website
+  url: https://www.arsenal.it
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

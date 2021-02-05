@@ -1,0 +1,23 @@
+---
+name: MetroTransit Service Alerts
+description: Transit authority located in Halifax, NS, Canada<br />
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/metrotransit-service-alerts.yaml
+tags: []
+apis: []
+x-common:
+- type: x-gtfs-feed
+  url: http://gtfs.halifax.ca/realtime/Alert/Alerts.pb
+- type: x-website
+  url: http://www.halifax.ca/opendata/transit.php
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

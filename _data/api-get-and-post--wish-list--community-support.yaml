@@ -1,0 +1,24 @@
+---
+name: "API GET and POST \u2013 Wish List \u2013 Community Support"
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: ""
+url: https://raw.githubusercontent.com/api-network/organizations/main/api-get-and-post--wish-list--community-support.yaml
+tags:
+- Postman Doc Search
+apis: []
+x-common:
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/5481262/S17rvTgc
+- type: x-website
+  url: http://vitalpbx.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,61 @@
+---
+name: Groupon
+description: <p>Register for a Groupon API key (client_id) to develop your own Groupon
+  applications. Now, you can put all those great ideas for Groupon improvements, extensions,
+  and multiple-platform interfaces to work.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/groupon-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "811"
+x-alexaRank: "707"
+url: https://raw.githubusercontent.com/api-network/organizations/main/groupon.yaml
+tags:
+- Relative Data
+- Have API Paths
+- Have API
+- General Data
+- Deals
+- Coupons
+- Coupons
+- API Provider
+apis: []
+x-common:
+- type: x-api-json--authoritative
+  url: http://apis.io/apisdef/legacy/groupon.json
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-website
+  url: http://gr.pn/helpsavelocal
+- type: x-affiliates
+  url: https://sites.google.com/site/grouponapiv2/api-usage/commission-junction-link-guide
+- type: x-branding
+  url: http://www.groupon.com/pages/api-branding-requirements
+- type: x-careers
+  url: https://www.grouponcareers.com/en-us/
+- type: x-developers
+  url: http://www.groupon.com/pages/api
+- type: x-error-codes
+  url: https://sites.google.com/site/grouponapiv2/error-reporting
+- type: x-facebook
+  url: https://www.facebook.com/Groupon.US
+- type: x-forums
+  url: http://groups.google.com/group/grouponapi?hl=en
+- type: x-investor
+  url: http://investor.groupon.com/
+- type: x-registration
+  url: https://www.groupon.com/session/new
+- type: x-terms-of-service
+  url: http://www.groupon.com/pages/api-terms-of-use
+- type: x-twitter
+  url: https://twitter.com/groupon
+- type: x-website
+  url: http://www.groupon.com/
+- type: x-website
+  url: http://groupon.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

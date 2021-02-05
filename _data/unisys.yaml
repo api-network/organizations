@@ -1,0 +1,60 @@
+---
+name: Unisys
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "110324"
+url: https://raw.githubusercontent.com/api-network/organizations/main/unisys.yaml
+tags:
+- Authentication
+apis: []
+x-common:
+- type: x-website
+  url: http://www.unisys.com
+- type: x-about
+  url: https://www.unisys.com/about-us/support
+- type: x-about
+  url: https://www.unisys.com:443/aboutus/company-history
+- type: x-blog
+  url: http://blogs.unisys.com/
+- type: x-blog
+  url: http://blogs.unisys.com
+- type: x-careers
+  url: https://www.unisys.com:443/about-us/careers
+- type: x-careers
+  url: https://www.unisys.com/about-us/careers
+- type: x-contact
+  url: https://www.unisys.com/contact-us
+- type: x-events
+  url: https://www.unisys.com:443/events
+- type: x-events
+  url: https://www.unisys.com/events
+- type: x-facebook
+  url: https://www.facebook.com/unisyscorp
+- type: x-investor
+  url: https://www.unisys.com/investor-relations
+- type: x-linkedin
+  url: https://www.linkedin.com/company/unisys
+- type: x-terms-of-service
+  url: https://www.unisys.com/unisys-legal/cookies
+- type: x-terms-of-service
+  url: https://www.unisys.com/unisys-legal/privacy
+- type: x-terms-of-service
+  url: https://www.unisys.com/unisys-legal/terms-of-use
+- type: x-terms-of-service
+  url: https://www.unisys.com/unisys-legal/trademarks
+- type: x-twitter
+  url: https://twitter.com/unisyscorp
+- type: x-website
+  url: https://www.unisys.com
+- type: x-youtube
+  url: https://www.youtube.com/theunisyschannel
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

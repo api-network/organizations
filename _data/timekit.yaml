@@ -1,0 +1,46 @@
+---
+name: Timekit
+description: Hosted availability & scheduling API that empowers you to build real-time
+  booking solutions without reinventing the wheel. Manage appointments and calendars
+  - all on one platform.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26576-handwriting-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "486432"
+url: https://raw.githubusercontent.com/api-network/organizations/main/timekit.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/handwriting-io
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/timekit
+- type: x-email
+  url: support@handwriting.io
+- type: x-email
+  url: sales@handwriting.io
+- type: x-email
+  url: press@handwriting.io
+- type: x-email
+  url: yourfriends@timekit.io
+- type: x-email
+  url: doc.brown@timekit.io
+- type: x-email
+  url: marty.mcfly@timekit.io
+- type: x-twitter
+  url: https://twitter.com/handwritingio
+- type: x-twitter
+  url: https://twitter.com/TimekitHQ
+- type: x-website
+  url: http://handwriting.io
+- type: x-website
+  url: http://timekit.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,72 @@
+---
+name: Telecommunications Industry Association (TIA)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1189992"
+url: https://raw.githubusercontent.com/api-network/organizations/main/telecommunications-industry-association-tia.yaml
+tags:
+- Associations
+apis: []
+x-common:
+- type: x-website
+  url: http://www.tiaonline.org
+- type: x-about
+  url: https://tiaonline.org/about/
+- type: x-about
+  url: https://tiaonline.org/about/board-of-directors/
+- type: x-about
+  url: https://tiaonline.org/about/staff/
+- type: x-about
+  url: https://tiaonline.org/about/our-members/
+- type: x-about
+  url: https://tiaonline.org/about/history/
+- type: x-careers
+  url: https://tiaonline.org/about/careers/
+- type: x-contact
+  url: https://tiaonline.org/about/contact-us/
+- type: x-events
+  url: https://www.tiaonline.org/events/
+- type: x-events
+  url: https://tiaonline.org/what-we-do/events/
+- type: x-events
+  url: https://tiaonline.org/events/
+- type: x-facebook
+  url: https://www.facebook.com/TIAEvents/
+- type: x-forum
+  url: https://portal.questforum.org
+- type: x-login
+  url: https://tiaonline.org/login/
+- type: x-news
+  url: https://tiaonline.org/news/blog/
+- type: x-news
+  url: https://tiaonline.org/news/newsletters/
+- type: x-news
+  url: https://tiaonline.org/news/videos/
+- type: x-news
+  url: https://tiaonline.org/news/podcasts/
+- type: x-news
+  url: https://tiaonline.org/news/
+- type: x-news
+  url: https://tiaonline.org/news/standards-announcements/
+- type: x-press
+  url: https://tiaonline.org/news/press-releases/
+- type: x-privacy
+  url: https://tiaonline.org/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/TIAonline
+- type: x-webinars
+  url: https://tiaonline.org/what-we-do/events/webinars/
+- type: x-website
+  url: https://www.tiaonline.org
+- type: x-youtube
+  url: https://www.youtube.com/user/TheTIANow
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

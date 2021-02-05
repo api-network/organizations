@@ -1,0 +1,30 @@
+---
+name: Salt Lending
+description: SALT's Secure Automated Lending Technology allows you to keep your bitcoin,
+  ethereum & crypto and get your cash. Competitive interest rates & no credit check
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26651-www-saltlending-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "60136"
+url: https://raw.githubusercontent.com/api-network/organizations/main/salt-lending.yaml
+tags:
+- Marketplaces
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: https://saltlending.com/getaloan/?utm_term=twitter
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/salt-lending
+- type: x-twitter
+  url: https://twitter.com/SaltLending
+- type: x-website
+  url: https://www.saltlending.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

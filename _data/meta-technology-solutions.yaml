@@ -1,0 +1,41 @@
+---
+name: Meta Technology Solutions
+description: Managed IT Services Provider Portland Oregon. We provide expert business
+  IT Support, Managed IT Services, Cloud Services, Technical Support & Consulting
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/meta-technology-solutions.yaml
+tags:
+- Oregon
+apis: []
+x-common:
+- type: x-website
+  url: http://metatechnologysolutions.com
+- type: x-contact
+  url: https://metatechnologysolutions.com/contact-us/
+- type: x-facebook
+  url: https://facebook.com/MetaTechnologySolutions
+- type: x-login
+  url: https://metats.myportallogin.com/
+- type: x-news
+  url: https://metatechnologysolutions.com/technology-news/
+- type: x-news
+  url: https://metatechnologysolutions.com/news/
+- type: x-privacy
+  url: https://metatechnologysolutions.com/privacy-policy/
+- type: x-support
+  url: http://help.metatechnologysolutions.com
+- type: x-twitter
+  url: https://twitter.com/Meta_TS
+- type: x-website
+  url: https://metatechnologysolutions.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

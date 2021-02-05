@@ -1,0 +1,101 @@
+---
+name: Post Status
+description: Post Status is a WordPress news site devoted to covering the WordPress
+  ecosystem for WordPress professionals and enthusiasts.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "251529"
+url: https://raw.githubusercontent.com/api-network/organizations/main/post-status.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-about
+  url: https://poststatus.com/about/
+- type: x-careers
+  url: https://poststatus.com/jobs/
+- type: x-code
+  url: https://poststatus.com/profiles/lemonadecode/
+- type: x-contact
+  url: https://poststatus.com/contact/
+- type: x-facebook
+  url: http://facebook.com/poststatusblog
+- type: x-news
+  url: https://poststatus.com/newsletter/
+- type: x-partner
+  url: https://poststatus.com/partners/
+- type: x-press
+  url: https://poststatus.com/wordpress-jamstack/
+- type: x-press
+  url: https://poststatus.com/chat-with-a-wordpress-skeptic/
+- type: x-press
+  url: https://poststatus.com/wordpress-hosting-review/
+- type: x-status
+  url: https://poststatus.com/my-account/
+- type: x-status
+  url: https://poststatus.com/club
+- type: x-status
+  url: https://poststatus.com/my-account
+- type: x-status
+  url: https://poststatus.com/cory/
+- type: x-status
+  url: https://poststatus.com/profiles/brian-krogsgard/
+- type: x-status
+  url: https://poststatus.com/cory/#comments
+- type: x-status
+  url: https://poststatus.com/job/developer-writer/
+- type: x-status
+  url: https://poststatus.com/job/junior-developer/
+- type: x-status
+  url: https://poststatus.com/profiles/emily-miller/
+- type: x-status
+  url: https://poststatus.com/profiles/michelleames/
+- type: x-status
+  url: https://poststatus.com/profiles/easywp/
+- type: x-status
+  url: https://poststatus.com/profiles/asilver/
+- type: x-status
+  url: https://poststatus.com/salesforce-ventures-automattic/
+- type: x-status
+  url: https://poststatus.com/is-tumblr-a-social-network/
+- type: x-status
+  url: https://poststatus.com/profiles/jonathan-wold/
+- type: x-status
+  url: https://poststatus.com/preserving-the-wilderness-web/
+- type: x-status
+  url: https://poststatus.com/profiles/dan-knauss/
+- type: x-status
+  url: https://poststatus.com/page/2/
+- type: x-status
+  url: https://poststatus.com
+- type: x-status
+  url: https://poststatus.com/category/draft/
+- type: x-status
+  url: https://poststatus.com/profiles/
+- type: x-status
+  url: https://poststatus.com/organizations/
+- type: x-status
+  url: https://poststatus.com/hired/
+- type: x-status
+  url: https://poststatus.com/club/
+- type: x-status
+  url: https://poststatus.com/notes/
+- type: x-status
+  url: https://poststatus.com/publish/
+- type: x-status
+  url: https://poststatus.com/resources/
+- type: x-status
+  url: https://poststatus.com/deals/
+- type: x-twitter
+  url: https://twitter.com/post_status
+- type: x-website
+  url: https://poststatus.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

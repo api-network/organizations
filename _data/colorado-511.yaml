@@ -1,0 +1,28 @@
+---
+name: Colorado 511
+description: <p>511 for Colorado.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/cotrip.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/colorado-511.yaml
+tags:
+- "511"
+apis: []
+x-common:
+- type: x-website
+  url: http://www.codot.gov
+- type: x-twitter
+  url: https://twitter.com/ColoradoDOT
+- type: x-website
+  url: http://www.cotrip.org/
+- type: x-xml-feeds
+  url: http://www.cotrip.org/xmlFeed.htm
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

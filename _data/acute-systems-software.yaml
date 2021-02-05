@@ -1,0 +1,24 @@
+---
+name: Acute Systems Software
+description: Acute Systems software. TransMac - Open Mac APFS/HFS disks and dmg files
+  from a Windows PC. CrossFont - Convert OpenType, TrueType and PostScript type-1
+  pfb fonts between Mac and Windows PC.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "166457"
+url: https://raw.githubusercontent.com/api-network/organizations/main/acute-systems-software.yaml
+tags:
+- Utilities
+apis: []
+x-common:
+- type: x-website
+  url: https://www.acutesystems.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

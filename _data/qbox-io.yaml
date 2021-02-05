@@ -1,0 +1,50 @@
+---
+name: Qbox.io
+description: <p>Qbox.io provides search-as-a-service tools to developers with hosted
+  solutions, professional support, dedicated instances, and custom deployments. The
+  foundational hosted Elasticsearch product, Qbox.io, provides dedicated clusters
+  on one of 13 datacenters on 5 continents. Made by developers, for developers who
+  are constructing search applications, Qbox eliminates the need for developers to
+  install, maintain, patch, monitor, and scale their search infrastructure. The cluster
+  can be provisioned in minutes.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/qbox-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "177527"
+url: https://raw.githubusercontent.com/api-network/organizations/main/qbox-io.yaml
+tags:
+- Search
+- Have API
+- Elasticsearch
+apis: []
+x-common:
+- type: x-website
+  url: http://qbox.io
+- type: x-blog
+  url: http://blog.qbox.io/
+- type: x-blog-rss
+  url: http://blog.qbox.io/rss.xml
+- type: x-facebook
+  url: https://www.facebook.com/qboxio
+- type: x-github
+  url: https://github.com/qbox-io/policies
+- type: x-github
+  url: https://github.com/qbox
+- type: x-linkedin
+  url: https://www.linkedin.com/company/qbox-io
+- type: x-signup
+  url: https://qbox.io/signup
+- type: x-status
+  url: http://status.qbox.io
+- type: x-twitter
+  url: https://twitter.com/qboxio
+- type: x-website
+  url: http://qbox.io/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

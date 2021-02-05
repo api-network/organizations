@@ -1,0 +1,31 @@
+---
+name: SchemaHub
+description: <p>Writing data models can be tedious and boring. These are the main
+  reasons why most of the API machine-readable documentations don't contain proper
+  definitions for their data models. Most of the times they don't even have a definition.
+  We found that your business data models are not so different from the rest of the
+  companies, so why should we be writing these models over and over again? Let's share!</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/SchemaHub.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/schemahub.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: https://schemahub.io
+- type: x-github
+  url: https://github.com/schemahub
+- type: x-twitter
+  url: https://twitter.com/schemahub
+- type: x-website
+  url: http://schemahub.io/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

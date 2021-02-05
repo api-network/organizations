@@ -1,0 +1,25 @@
+---
+name: Socal Service Software
+description: "\u672C\u7F51\u7AD9\u81F4\u529B\u63D0\u4F9B12bet,\u63D0\u4F9B\u5373\u65F6\u65B0\u95FB,\u8D5B\u4E8B\u8D44\u8BAF\u7B49\u6709\u517312bet\u5B98\u7F51\u62E5\u6709\u6700\u9AD8\u7D20\u8D28\u7684\u670D\u52A1\u56E2\u961F,\u79C9\u627F\u4EE5\u5BA2\u6237\u4E3A\u4E0A\u5E1D\u7684\u5B97\u65E8\u8D62\u5F97\u5E7F\u5927\u7F51\u53CB\u7684\u9752\u775012bet\u7F51\u5740\u6B22\u8FCE\u70B9\u51FB\u4F53\u9A8C,\u671F\u5F85\u60A8\u6536\u85CF\u672C\u7AD9."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/socal-service-software.yaml
+tags:
+- Vendors
+- "12bet\u5B98\u7F51"
+- "12bet\u7F51\u5740"
+- 12bet
+apis: []
+x-common:
+- type: x-website
+  url: https://www.sbtbill.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

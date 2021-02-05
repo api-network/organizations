@@ -1,0 +1,71 @@
+---
+name: MCPressOnline
+description: MC Press Online - Technical resources and help for a wide variety of
+  business computing issues. Specializing in technologies related to AS/400 and iSeries
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1123766"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mcpressonline.yaml
+tags:
+- Visual Basic
+- System Administration
+- Showcase
+- Seminars
+- Publications
+- OS400
+- Networks
+- Network
+- Midrange Computing
+- Midrange
+- Java
+- ISeries
+- IBM
+- Groupware
+- Expert
+- E-Business
+- Domino
+- Conferences
+- AS400
+- AS/400
+- Application Development
+apis: []
+x-common:
+- type: x-login
+  url: http://jextensions.com/je-login-joomla-2.5/
+- type: x-press
+  url: http://www.mcpressonline.com/buyers-guide/?view=home
+- type: x-press
+  url: http://www.mcpressonline.com/forum/
+- type: x-press
+  url: https://www.mcpressonline.com/create-an-account
+- type: x-press
+  url: http://www.mcpressonline.com/career/
+- type: x-press
+  url: http://www.mcpressonline.com/programming/
+- type: x-press
+  url: http://www.mcpressonline.com/buyers-guide-2/?view=home
+- type: x-press
+  url: https://www.mcpressonline.com/
+- type: x-press
+  url: http://www.mcpressonline.com/programmings/
+- type: x-press
+  url: https://disqus.com/home/forums/mcpressonline/
+- type: x-press
+  url: https://www.disqus.com/home/forum/mcpressonline/
+- type: x-press
+  url: https://www.facebook.com/mcpressonline/
+- type: x-press
+  url: https://www.linkedin.com/company/mc-press-online-llc
+- type: x-security
+  url: https://www.mc-store.com/collections/security
+- type: x-website
+  url: https://mcpressonline.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

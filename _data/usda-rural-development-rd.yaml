@@ -1,0 +1,27 @@
+---
+name: USDA Rural Development (RD)
+description: <p><span>The United States Department of Agriculture, also known as the
+  Agriculture Department, is the U.S. federal executive department responsible for
+  developing and executing federal laws related to farming, forestry, rural economic
+  development, and food.</span></p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/usda-rural-development-rd.yaml
+tags:
+- Federal Government
+apis: []
+x-common:
+- type: x-website
+  url: http://www.rurdev.usda.gov
+- type: x-data
+  url: https://www.sc.egov.usda.gov/data/data_files.html
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,86 @@
+---
+name: FileFormat.Info
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "33642"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fileformat-info.yaml
+tags:
+- Data Formats
+apis: []
+x-common:
+- type: x-blog
+  url: https://nullprogram.com/blog/2019/12/28/
+- type: x-blog
+  url: https://www.joshmcguigan.com/blog/understanding-serde/
+- type: x-blog
+  url: https://www.b-list.org/weblog/2018/nov/26/case/
+- type: x-blog
+  url: https://blog.atomist.com/in-defense-of-yaml/
+- type: x-blog
+  url: https://nullprogram.com/blog/2019/05/29/
+- type: x-blog
+  url: https://swift.org/blog/utf8-string/
+- type: x-code
+  url: https://eng.getwisdom.io/awesome-unicode/
+- type: x-code
+  url: https://home.unicode.org/
+- type: x-code
+  url: https://begriffs.com/posts/2019-05-23-unicode-icu.html
+- type: x-code
+  url: http://xahlee.info/comp/unicode_utf8_history.html
+- type: x-github
+  url: https://github.com/ViGrey/gb-nes-pdf-html-zip
+- type: x-github
+  url: https://github.com/gabriel-vasile/mimetype
+- type: x-github
+  url: https://github.com/libvips/libvips
+- type: x-github
+  url: https://github.com/zelon88/HRConvert2
+- type: x-github
+  url: https://archiveprogram.github.com/
+- type: x-github
+  url: https://github.com/droe/acefile
+- type: x-github
+  url: https://github.com/epoberezkin/ajv
+- type: x-github
+  url: https://github.com/lclevy/libcraw2
+- type: x-github
+  url: https://github.com/zwegner/faster-utf8-validator
+- type: x-github
+  url: https://github.com/jzelinskie/faq
+- type: x-github
+  url: https://gchq.github.io/CyberChef/
+- type: x-github
+  url: https://github.com/itchyny/bed
+- type: x-github
+  url: https://github.com/treenotation/jtree
+- type: x-github
+  url: https://h2non.github.io/filetype.py/
+- type: x-github
+  url: https://github.com/tonton-pixel/unicopedia-plus
+- type: x-github
+  url: https://github.com/historicalsource?tab=repositories
+- type: x-github
+  url: https://chronoxor.github.io/FastBinaryEncoding/
+- type: x-github
+  url: https://github.com/pirate/ArchiveBox
+- type: x-news
+  url: https://news.ycombinator.com/item?id=21840140
+- type: x-news
+  url: https://news.ycombinator.com/item?id=19622019
+- type: x-open-source
+  url: https://github.com/opencomputeproject/Project-Zipline
+- type: x-press
+  url: https://parametric.press/issue-01/unraveling-the-jpeg/
+- type: x-website
+  url: https://www.fileformat.info
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

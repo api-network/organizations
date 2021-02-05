@@ -1,0 +1,59 @@
+---
+name: Overlord APIMan
+description: <p>Any computer system, whether it is centralized or distributed, needs
+  some form of governance, i.e., the act of monitoring and managing the system. Such
+  governance may be as simple as ensuring only authorized users have access to capabilities
+  (e.g. services), or as complex as guaranteeing the system and its components maintain
+  a level of availability or reliability in the presence of failures or increased
+  system load. Managing distributed systems has always been a critical aspect for
+  users, developers and administrators. As those distributed systems grew in scope
+  and scalability, spanning multiple organizations with different infrastructures
+  and trust boundaries, governance became more difficult but even more important.
+  Governance deals with the processes by which a system operates. In order to have
+  successful governance, some form of management, monitoring and administration is
+  required for these processes.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/project-overlord-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/overlord-apiman.yaml
+tags:
+- Has API
+apis: []
+x-common:
+- type: x-blog
+  url: http://jboss-overlord.blogspot.com
+- type: x-blog
+  url: http://jboss-overlord.blogspot.com/
+- type: x-blog-rss
+  url: http://jboss-overlord.blogspot.com/feeds/posts/default?alt=rss
+- type: x-contact
+  url: http://www.redhat.com/contact/sales.html
+- type: x-feed
+  url: http://feed.mikle.com/
+- type: x-github
+  url: https://github.com/Governance/
+- type: x-github
+  url: http://aeshell.github.io/
+- type: x-github
+  url: https://github.com/Governance/Governance.github.io
+- type: x-github
+  url: https://github.com/Governance
+- type: x-twitter
+  url: https://twitter.com/OverlordAPIMan
+- type: x-twitter
+  url: https://twitter.com/ArtificerRepo
+- type: x-twitter
+  url: https://twitter.com/OverlordDTGov
+- type: x-twitter
+  url: https://twitter.com/OverlordRTGov
+- type: x-website
+  url: http://www.projectoverlord.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

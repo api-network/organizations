@@ -1,0 +1,48 @@
+---
+name: Biometrics Institute (Australia)
+description: The Biometrics Institute promotes the responsible and ethical use of
+  biometrics through thought leadership and good practice guidance. Join our multi-stakeholder
+  community today.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4250858"
+url: https://raw.githubusercontent.com/api-network/organizations/main/biometrics-institute-australia.yaml
+tags:
+- Organizations
+apis: []
+x-common:
+- type: x-website
+  url: http://www.biometricsinstitute.org
+- type: x-about
+  url: https://www.biometricsinstitute.org/about/
+- type: x-about
+  url: https://www.biometricsinstitute.org/about/our-history/
+- type: x-about
+  url: https://www.biometricsinstitute.org/about/our-team/
+- type: x-about
+  url: https://www.biometricsinstitute.org/about/the-board/
+- type: x-contact
+  url: https://www.biometricsinstitute.org/contact/
+- type: x-events
+  url: https://www.biometricsinstitute.org/events/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/biometrics-institute
+- type: x-privacy
+  url: https://www.biometricsinstitute.org/privacyguidelines/
+- type: x-privacy
+  url: https://www.biometricsinstitute.org/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/BiometricsInsti
+- type: x-website
+  url: https://www.biometricsinstitute.org
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=ikJ1XXuT7rM&autoplay=1
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

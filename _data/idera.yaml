@@ -1,0 +1,36 @@
+---
+name: Idera
+description: "IDERA provides database management and data modeling tools for monitoring,
+  securing and improving data systems with confidence \u2013whether in the cloud or
+  on-premises."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "77130"
+url: https://raw.githubusercontent.com/api-network/organizations/main/idera.yaml
+tags:
+- SQL Databases
+apis: []
+x-common:
+- type: x-blog
+  url: http://community.idera.com/blog/
+- type: x-facebook
+  url: http://www.facebook.com/iderasoftware
+- type: x-linkedin
+  url: http://www.linkedin.com/company/idera-software
+- type: x-partner
+  url: http://partners.idera.com/
+- type: x-twitter
+  url: http://www.twitter.com/Idera_Software
+- type: x-website
+  url: https://www.idera.com
+- type: x-youtube
+  url: http://www.youtube.com/user/IderaSoftware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

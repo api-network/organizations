@@ -1,0 +1,48 @@
+---
+name: Commercial Open Source Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7795956"
+url: https://raw.githubusercontent.com/api-network/organizations/main/commercial-open-source-software.yaml
+tags:
+- News And Media
+apis: []
+x-common:
+- type: x-about
+  url: http://logioshermes.org/home/about-mission/about-us/
+- type: x-github
+  url: https://github.com/globaleaks/GlobaLeaks
+- type: x-linkedin
+  url: https://www.linkedin.com/in/galoppini
+- type: x-open-source
+  url: http://openoffice.org
+- type: x-press
+  url: http://wordpress.org/
+- type: x-press
+  url: https://wordpress.com/themes/p2
+- type: x-press
+  url: https://wordpress.com/themes/
+- type: x-privacy
+  url: https://robertogaloppini.net/privacy
+- type: x-twitter
+  url: https://twitter.com/hashtag/movingtogitlab?src=hash
+- type: x-twitter
+  url: https://twitter.com/clintbetts
+- type: x-twitter
+  url: https://twitter.com/stewart
+- type: x-twitter
+  url: https://twitter.com/OmarJohnson
+- type: x-twitter
+  url: https://twitter.com/RyanQualtrics
+- type: x-website
+  url: https://robertogaloppini.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

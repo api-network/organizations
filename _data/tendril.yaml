@@ -1,0 +1,60 @@
+---
+name: Tendril
+description: Solve your biggest customer energy challenges with solutions that drive
+  results. Visit Uplight to learn more about our unified energy management platform.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/257_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "2080430"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tendril.yaml
+tags:
+- Target
+- Have API
+- Energy
+- Buildings
+apis: []
+x-common:
+- type: x-about
+  url: https://uplight.com/about-us/
+- type: x-base
+  url: https://dpu-ten-web.tendril-connect.com/api/rest/
+- type: x-blog
+  url: http://www.tendrilinc.com/news-room/blog/
+- type: x-blog
+  url: https://uplight.com/blog/
+- type: x-blog-rss
+  url: http://www.tendrilinc.com/about-us/news-room/blog/feed
+- type: x-careers
+  url: https://uplight.com/careers/
+- type: x-contact
+  url: https://uplight.com/contact-us/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/tendril
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/tendril
+- type: x-developers
+  url: https://api.tendrilinc.com/
+- type: x-github
+  url: https://github.com/tendril
+- type: x-marketplace
+  url: https://uplight.com/solutions/marketplace/
+- type: x-news
+  url: https://uplight.com/newsroom/
+- type: x-press
+  url: https://uplight.com/press/uplight-leading-customer-energy-experience-company-becomes-a-certified-b-corporation/
+- type: x-press
+  url: https://uplight.com/press/uplight-names-angela-tucci-chief-operating-officer/
+- type: x-twitter
+  url: https://twitter.com/Tendril
+- type: x-twitter
+  url: https://twitter.com/mintendrileful
+- type: x-website
+  url: http://www.tendrilinc.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

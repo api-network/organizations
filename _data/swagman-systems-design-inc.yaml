@@ -1,0 +1,28 @@
+---
+name: Swagman Systems Design Inc
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/swagman-systems-design-inc.yaml
+tags:
+- Software Development
+apis: []
+x-common:
+- type: x-about
+  url: https://swagsys.com/about-us/
+- type: x-contact
+  url: https://swagsys.com/contact-us/
+- type: x-website
+  url: https://www.swagsys.com
+- type: x-youtube
+  url: https://www.youtube.com/user/swagmansoftware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

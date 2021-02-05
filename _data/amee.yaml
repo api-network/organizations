@@ -1,0 +1,75 @@
+---
+name: AMEE
+description: Data driven solutions to strengthen supply chain performance and risk.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/335_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1209533"
+url: https://raw.githubusercontent.com/api-network/organizations/main/amee.yaml
+tags:
+- Sustainability Rating
+- Supply Chain Sustainability
+- Supply Chain Monitoring
+- Supply Chain Management
+- Open Data
+- New
+- Have OpenAPI
+- Have API Paths
+- Have API
+- General Data
+- Flood Risk
+- Environmental Risk
+- Credit Score
+- Credit Risk
+- Climate Change
+- Cleanweb
+- Cleantech
+- Carbon Footprint
+- Carbon Emissions
+- Carbon
+- Business Intelligence
+- Business
+- Big Data
+- API Provider
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.amee.com/
+- type: x-blog
+  url: http://blog.amee.com
+- type: x-blog
+  url: http://www.amee.com/blog/
+- type: x-blog-rss
+  url: http://blog.amee.com/feed/
+- type: x-careers
+  url: https://jobs.lever.co/pibenchmark
+- type: x-code
+  url: https://www.linkedin.com/uas/oauth2/authorization?client_id=77z51276wkzhg4&raise_errors=true&redirect_uri=https%3A%2F%2Fwww.amee.com%2Fauth%2Flinkedin%2Fcallback&response_type=code&state=Yuxbh7Av1JmJzU%2FXgLmSYh7jfp%2FlkbekhW4rBBymyV0%3D
+- type: x-code
+  url: https://www.linkedin.com/uas/oauth2/authorization?client_id=77z51276wkzhg4&raise_errors=true&redirect_uri=https%3A%2F%2Fwww.amee.com%2Fauth%2Flinkedin%2Fcallback&response_type=code&state=SIqZ7iibZiJtLxugwjELs1VhLvJEPjsiK33lJGXg4vM%3D
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/amee
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/amee
+- type: x-developers
+  url: https://www.amee.com/api
+- type: x-documentation
+  url: https://www.amee.com/api
+- type: x-github
+  url: https://github.com/AMEE
+- type: x-partner
+  url: https://mixpanel.com/f/partner
+- type: x-twitter
+  url: https://twitter.com/ameeHQ
+- type: x-twitter
+  url: https://twitter.com/ameedev
+- type: x-website
+  url: https://www.amee.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

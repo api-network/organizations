@@ -1,0 +1,23 @@
+---
+name: Beloit Transit GTFS
+description: Transit authority located in Beloit, WI 53511, USA<br />
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/beloit-transit-gtfs.yaml
+tags: []
+apis: []
+x-common:
+- type: x-gtfs-feed
+  url: http://data.trilliumtransit.com/gtfs/beloittransit-wi-us/beloittransit-wi-us.zip
+- type: x-website
+  url: http://data.trilliumtransit.com/gtfs/beloittransit-wi-us/beloittransit-wi-us.zip
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

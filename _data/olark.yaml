@@ -1,0 +1,212 @@
+---
+name: Olark
+description: The Olark Live Chat JavaScript API documentation demonstrates how users
+  can customize the chat widget on their website.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/631_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "13551"
+url: https://raw.githubusercontent.com/api-network/organizations/main/olark.yaml
+tags:
+- JavaScript
+- Have API
+- Chats
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.olark.com/developer
+- type: x-about
+  url: https://www.olark.com/about
+- type: x-blog
+  url: http://blog.olark.com/
+- type: x-blog
+  url: https://blog.olark.com
+- type: x-blog
+  url: https://blog.olark.com/
+- type: x-blog-rss
+  url: http://www.olark.com/blog/feed/
+- type: x-careers
+  url: https://www.olark.com/jobs
+- type: x-contact
+  url: https://www.olark.com/contact
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/olark
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/olark
+- type: x-developer
+  url: https://www.olark.com/api/calloutbubble_slide/
+- type: x-developer
+  url: https://www.olark.com/api/calloutbubble_bubble_height/
+- type: x-developer
+  url: https://www.olark.com/api/calloutbubble_bubble_width/
+- type: x-developer
+  url: https://www.olark.com/api/features_attention_grabber/
+- type: x-developer
+  url: https://www.olark.com/api/system_hb_position/
+- type: x-developer
+  url: https://www.olark.com/api/system_hb_chatbox_size/
+- type: x-developer
+  url: https://www.olark.com/api/system_hb_custom_style_font/
+- type: x-developer
+  url: https://www.olark.com/api/system_right_to_left/
+- type: x-developer
+  url: https://www.olark.com/api/system_hb_disable_mobile/
+- type: x-developer
+  url: https://www.olark.com/api/system_hb_detached/
+- type: x-developer
+  url: https://www.olark.com/api/system_hb_dark_theme/
+- type: x-developer
+  url: https://www.olark.com/api/system_hb_primary_color/
+- type: x-developer
+  url: https://www.olark.com/api/system_hb_show_button_text/
+- type: x-developer
+  url: https://www.olark.com/api/system_hb_show_as_tab/
+- type: x-developer
+  url: https://www.olark.com/api/api_box_setlocale/
+- type: x-developer
+  url: https://www.olark.com/api/#system.localization
+- type: x-developer
+  url: https://www.olark.com/api/api_box_expand/
+- type: x-developer
+  url: https://www.olark.com/api/api_box_hide/
+- type: x-developer
+  url: https://www.olark.com/api/api_box_shrink/
+- type: x-developer
+  url: https://www.olark.com/api/api_box_onexpand/
+- type: x-developer
+  url: https://www.olark.com/api/api_box_onhide/
+- type: x-developer
+  url: https://www.olark.com/api/api_box_onshrink/
+- type: x-developer
+  url: https://www.olark.com/api/api_box_onshow/
+- type: x-developer
+  url: https://www.olark.com/api/api_box_show/
+- type: x-developer
+  url: https://www.olark.com/api/api_chat_setoperatorgroup/
+- type: x-developer
+  url: https://www.olark.com/api/api_chat_onready/
+- type: x-developer
+  url: https://www.olark.com/api/api_chat_onmessagetovisitor/
+- type: x-developer
+  url: https://www.olark.com/api/api_chat_onoperatorsaway/
+- type: x-developer
+  url: https://www.olark.com/api/system_allowed_domains/
+- type: x-developer
+  url: https://www.olark.com/api/system_localization/
+- type: x-developer
+  url: https://www.olark.com/api/
+- type: x-developer
+  url: https://www.olark.com/api/features_prechat_survey/
+- type: x-developer
+  url: https://www.olark.com/api/box_start_expanded/
+- type: x-developer
+  url: https://www.olark.com/api/system_hide_minimize_button/
+- type: x-developer
+  url: https://www.olark.com/api/box_inline/
+- type: x-developer
+  url: https://www.olark.com/api/system_group/
+- type: x-developer
+  url: https://www.olark.com/api/box_start_hidden/
+- type: x-developer
+  url: https://www.olark.com/api/features_google_analyics/
+- type: x-developer
+  url: https://www.olark.com/api/system_google_analytics_id/
+- type: x-developer
+  url: https://www.olark.com/api/features_greeter/
+- type: x-developer
+  url: https://www.olark.com/api/system_custom_prechat/
+- type: x-developer
+  url: https://www.olark.com/api/system_require_email/
+- type: x-developer
+  url: https://www.olark.com/api/system_require_name/
+- type: x-developer
+  url: https://www.olark.com/api/system_require_phone/
+- type: x-developer
+  url: https://www.olark.com/api/api_rules_definerule/
+- type: x-developer
+  url: https://www.olark.com/api/api_visitor_getdetails/
+- type: x-developer
+  url: https://www.olark.com/api/api_visitor_updatefullname/
+- type: x-email
+  url: gdpr@olark.com
+- type: x-email
+  url: dpo@olark.com
+- type: x-email
+  url: support@olark.com
+- type: x-email
+  url: privacy@olark.com
+- type: x-email
+  url: info@olark.com
+- type: x-email
+  url: sales@olark.com
+- type: x-facebook
+  url: https://www.facebook.com/olarklivechat/
+- type: x-feed
+  url: https://www.olark.com/api/features_feedback/
+- type: x-gdpr
+  url: https://www.olark.com/help/gdpr
+- type: x-github
+  url: https://github.com/olark
+- type: x-instagram
+  url: https://www.instagram.com/olarklivechat/
+- type: x-integrations
+  url: https://www.olark.com/integrations
+- type: x-linkedin
+  url: https://www.linkedin.com/company/469764/
+- type: x-login
+  url: https://www.olark.com/login
+- type: x-press
+  url: https://www.olark.com/press
+- type: x-pricing
+  url: https://www.olark.com/pricing
+- type: x-privacy
+  url: https://www.olark.com/privacy-policy
+- type: x-signup
+  url: https://www.olark.com/signup/create_new_account/trial
+- type: x-status
+  url: http://status.olark.com/
+- type: x-support
+  url: https://www.olark.com/help
+- type: x-support
+  url: https://www.olark.com/help/develop
+- type: x-support
+  url: http://www.olark.com/help/languages
+- type: x-support
+  url: https://www.olark.com/help/attention-grabbers
+- type: x-support
+  url: https://www.olark.com/help/addimage
+- type: x-support
+  url: https://www.olark.com/help/targeted-chat
+- type: x-support
+  url: https://www.olark.com/help/commands
+- type: x-support
+  url: https://www.olark.com/help/languages
+- type: x-support
+  url: https://www.olark.com/help/prechat-survey
+- type: x-support
+  url: https://www.olark.com/help/ticket
+- type: x-support
+  url: https://www.olark.com/help/inline-chatbox
+- type: x-support
+  url: https://www.olark.com/help/visitor-notifications
+- type: x-support
+  url: https://www.olark.com/help/ipaddresses
+- type: x-support
+  url: https://www.olark.com/help/webhooks
+- type: x-twitter
+  url: https://twitter.com/olark
+- type: x-twitter
+  url: https://twitter.com/#!/olark
+- type: x-webhooks
+  url: https://www.olark.com/integrations/webhooks/
+- type: x-website
+  url: https://www.olark.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

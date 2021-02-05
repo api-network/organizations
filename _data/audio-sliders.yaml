@@ -1,0 +1,36 @@
+---
+name: Audio Sliders
+description: TeraCopy, Direct Folders and other applications by Code Sector.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "107067"
+url: https://raw.githubusercontent.com/api-network/organizations/main/audio-sliders.yaml
+tags:
+- Players
+apis: []
+x-common:
+- type: x-code
+  url: http://codesector.kayako.com
+- type: x-code
+  url: http://blog.codesector.com
+- type: x-code
+  url: https://codesector.onfastspring.com
+- type: x-code
+  url: http://support.codesector.com
+- type: x-code
+  url: https://codesector.kayako.com
+- type: x-code
+  url: https://ideas.codesector.com
+- type: x-code
+  url: https://plus.google.com/+codesector
+- type: x-website
+  url: https://www.codesector.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,36 @@
+---
+name: Chicago Microsystems Incorporated
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/chicago-microsystems-incorporated.yaml
+tags:
+- Illinois
+apis: []
+x-common:
+- type: x-website
+  url: http://www.chimicro.com
+- type: x-about
+  url: https://www.chimicro.com/about/
+- type: x-blog
+  url: https://www.chimicro.com/category/blog/
+- type: x-contact
+  url: https://www.chimicro.com/contact/
+- type: x-partner
+  url: https://www.chimicro.com/partners/
+- type: x-security
+  url: https://www.chimicro.com/network-security/
+- type: x-twitter
+  url: https://twitter.com/chicagomicrosys
+- type: x-website
+  url: https://www.chimicro.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

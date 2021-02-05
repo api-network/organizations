@@ -1,0 +1,24 @@
+---
+name: Enterprise Web Content Management, Self Service &amp; eForms Systems by TERMINALFOUR
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "740521"
+url: https://raw.githubusercontent.com/api-network/organizations/main/enterprise-web-content-management-self-service-amp-eforms-systems-by-terminalfour.yaml
+tags:
+- Content Management
+apis: []
+x-common:
+- type: x-documentation
+  url: https://docs.terminalfour.com/
+- type: x-website
+  url: https://www.terminalfour.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

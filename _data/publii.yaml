@@ -1,0 +1,55 @@
+---
+name: Publii
+description: HTML CMS for building Ultra-Fast and Secure Static Sites for Mac, Windows
+  and Linux users. Publii works as dynamic but generates static websites.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "211623"
+url: https://raw.githubusercontent.com/api-network/organizations/main/publii.yaml
+tags:
+- Flat File
+apis: []
+x-common:
+- type: x-about
+  url: https://getpublii.com/about/
+- type: x-blog
+  url: https://getpublii.com/blog/
+- type: x-documentation
+  url: https://getpublii.com/docs/
+- type: x-facebook
+  url: https://www.facebook.com/publii
+- type: x-forum
+  url: https://getpublii.com/forum/
+- type: x-forum
+  url: https://getpublii.com/forum//
+- type: x-github
+  url: https://github.com/GetPublii/Publii
+- type: x-github
+  url: https://github.com/dziudek
+- type: x-instagram
+  url: https://www.instagram.com/getpublii/
+- type: x-marketplace
+  url: https://marketplace.getpublii.com/
+- type: x-marketplace
+  url: https://marketplace.getpublii.com/log-in/
+- type: x-open-source
+  url: https://opencollective.com/publii/
+- type: x-privacy
+  url: https://getpublii.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://getpublii.com/terms-and-conditions/
+- type: x-twitter
+  url: https://twitter.com/tezjnr/status/894445261430308868
+- type: x-twitter
+  url: https://twitter.com/getpublii
+- type: x-website
+  url: https://getpublii.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

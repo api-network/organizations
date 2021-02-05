@@ -1,0 +1,67 @@
+---
+name: Men and Mice
+description: Consolidate control of your DNS, DHCP, and IP Address Management on-premises
+  or in the cloud, Gain increased network efficiency with the Men&Mice DDI Suite.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "448947"
+url: https://raw.githubusercontent.com/api-network/organizations/main/men-and-mice.yaml
+tags:
+- Address Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.menandmice.com
+- type: x-about
+  url: https://www.menandmice.com/about-us/
+- type: x-about
+  url: https://www.menandmice.com/about-us/of-men-mice/
+- type: x-about
+  url: https://www.menandmice.com/about-us/trademarks/
+- type: x-about
+  url: https://www.menandmice.com/about-us/cookie-policy/
+- type: x-blog
+  url: https://menandmice.com/blog
+- type: x-blog
+  url: http://info.menandmice.com/blog
+- type: x-careers
+  url: https://www.menandmice.com/about-us/careers/
+- type: x-contact
+  url: https://www.menandmice.com/about-us/contact-us/
+- type: x-developer
+  url: https://www.menandmice.com/solutions/api/
+- type: x-facebook
+  url: https://www.facebook.com/menandmice
+- type: x-linkedin
+  url: https://www.linkedin.com/company/69680
+- type: x-news
+  url: https://www.menandmice.com/news-events/
+- type: x-partner
+  url: https://www.menandmice.com/partners/partner-program/
+- type: x-privacy
+  url: https://www.menandmice.com/about-us/privacy-statement/
+- type: x-security
+  url: https://www.menandmice.com/solutions/network-security/
+- type: x-support
+  url: https://www.menandmice.com/support/technical-support/
+- type: x-support
+  url: https://www.menandmice.com/support/professional/
+- type: x-support
+  url: https://www.menandmice.com/support/dig/
+- type: x-terms-of-service
+  url: https://www.menandmice.com/about-us/user-terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/menandmice
+- type: x-website
+  url: https://www.menandmice.com
+- type: x-youtube
+  url: https://www.youtube.com/user/TheMenandmice/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

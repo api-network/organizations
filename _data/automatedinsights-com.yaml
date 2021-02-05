@@ -1,0 +1,29 @@
+---
+name: automatedinsights.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/automatedinsights-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-blog
+  url: http://automatedinsights.com/blog
+- type: x-facebook
+  url: https://www.facebook.com/AutomatedInsights/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/automated-insights-inc-
+- type: x-website
+  url: http://automatedinsights.com
+- type: x-website
+  url: ""
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

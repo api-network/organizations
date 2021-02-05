@@ -1,0 +1,80 @@
+---
+name: Gengo Human Translation
+description: People-powered translation at scale. Gengo provides fast, affordable
+  and quality translations by native speakers located worldwide.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/gengo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "43155"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gengo-human-translation.yaml
+tags:
+- Volume
+- Translations
+- Translations
+- Human
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-about
+  url: https://gengo.com/about-us/
+- type: x-base
+  url: http://api.sandbox.gengo.com/
+- type: x-blog
+  url: http://blog.gengo.com/
+- type: x-blog
+  url: https://gengo.com/blog/
+- type: x-careers
+  url: http://careers.gengo.com/
+- type: x-contact
+  url: https://gengo.com/contact-sales-new/
+- type: x-contact
+  url: https://gengo.com/contact-sales-new/?from=bottom
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/gengo
+- type: x-customers
+  url: https://gengo.com/customers/
+- type: x-developer
+  url: http://developers.gengo.com/
+- type: x-developer
+  url: https://developers.gengo.com/client_libraries/
+- type: x-developers
+  url: http://gengo.com/api/
+- type: x-email
+  url: support@gengo.com
+- type: x-facebook
+  url: http://www.facebook.com/mygengo
+- type: x-linkedin
+  url: https://www.linkedin.com/company/gengo
+- type: x-login
+  url: https://gengo.com/auth/form/login/
+- type: x-press
+  url: https://gengo.com/translation-solutions/wordpress/
+- type: x-press
+  url: https://gengo.com/press/coverage/
+- type: x-pricing
+  url: https://gengo.com/pricing-languages/
+- type: x-pricing
+  url: https://gengo.com/#pricing
+- type: x-pricing
+  url: https://gengo.com/#pricing
+- type: x-pricing
+  url: https://gengo.com/#pricing
+- type: x-support
+  url: https://support.gengo.com/hc/en-us/community/topics
+- type: x-terms-of-service
+  url: https://gengo.com/terms-of-service/
+- type: x-twitter
+  url: https://twitter.com/gengoit
+- type: x-website
+  url: http://gengo.com
+- type: x-youtube
+  url: https://www.youtube.com/user/gengo
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

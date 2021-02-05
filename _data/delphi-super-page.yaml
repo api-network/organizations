@@ -1,0 +1,22 @@
+---
+name: Delphi Super Page
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "36406"
+url: https://raw.githubusercontent.com/api-network/organizations/main/delphi-super-page.yaml
+tags:
+- Components
+apis: []
+x-common:
+- type: x-website
+  url: https://delphi.icm.edu.pl
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

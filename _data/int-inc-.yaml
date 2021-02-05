@@ -1,0 +1,41 @@
+---
+name: INT, Inc.
+description: "INT software helps the world\u2019s leading oil & gas, service, and
+  technical companies build complex 2D/3D data visualization and analytics solutions."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1533743"
+url: https://raw.githubusercontent.com/api-network/organizations/main/int-inc-.yaml
+tags:
+- Companies
+apis: []
+x-common:
+- type: x-about
+  url: https://www.int.com/about-us/
+- type: x-about
+  url: https://www.int.com/about-us/meet-our-team/
+- type: x-blog
+  url: https://www.int.com/blog/
+- type: x-careers
+  url: https://www.int.com/about-us/careers/
+- type: x-events
+  url: https://www.int.com/about-us/events/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/int-inc-
+- type: x-news
+  url: https://www.int.com/about-us/news/
+- type: x-support
+  url: https://www.int.com/support/
+- type: x-twitter
+  url: https://twitter.com/int_inc
+- type: x-website
+  url: https://www.int.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

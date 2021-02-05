@@ -1,0 +1,23 @@
+---
+name: securitycafe.ro
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/securitycafe-ro.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: https://securitycafe.ro/2015/02/18/when-cryptographic-api-design-goes-wrong/
+- type: x-website
+  url: http://securitycafe.ro
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

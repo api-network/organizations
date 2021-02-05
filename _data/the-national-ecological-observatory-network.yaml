@@ -1,0 +1,39 @@
+---
+name: The National Ecological Observatory Network
+description: <p>The National Ecological Observatory Network (NEON), operated by Battelle
+  and sponsored by the National Science Foundation, offers open data and infrastructure
+  to study ecological change in the United States.&nbsp; With over 80 field sites
+  across the US collecting standardized data with automated instruments, observational
+  field sampling and remote sensing surveys, NEON provides unprecedented opportunity
+  for scientists and land managers to better understand and predict how and why ecosystems
+  change.The Nati</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/logo--blue-neon-data.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-national-ecological-observatory-network.yaml
+tags:
+- Archives
+- Agriculture
+apis: []
+x-common:
+- type: x-website
+  url: http://www.neonscience.org
+- type: x-blog
+  url: https://www.neonscience.org/observatory/observatory-blog
+- type: x-developers
+  url: http://data.neonscience.org/home
+- type: x-documentation
+  url: http://data.neonscience.org/data-api
+- type: x-twitter
+  url: https://twitter.com/NEON_Sci
+- type: x-website
+  url: https://www.neonscience.org/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

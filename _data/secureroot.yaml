@@ -1,0 +1,32 @@
+---
+name: SecureRoot
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10442024"
+url: https://raw.githubusercontent.com/api-network/organizations/main/secureroot.yaml
+tags:
+- Directories
+apis: []
+x-common:
+- type: x-forum
+  url: https://www.secureroot.com/forum/search.php
+- type: x-forum
+  url: https://www.secureroot.com/category/forums/
+- type: x-news
+  url: https://www.secureroot.com/category/news/
+- type: x-security
+  url: https://www.secureroot.com/category/Os_security/
+- type: x-security
+  url: https://www.secureroot.com/category/security/
+- type: x-website
+  url: https://www.secureroot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

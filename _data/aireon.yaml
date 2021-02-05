@@ -1,0 +1,61 @@
+---
+name: Aireon
+description: Aireon's space-based ADS-B will make global air traffic surveillance
+  a powerful reality. In 2018 Aireon will extend air traffic visibility across the
+  planet
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28177-aireon-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2654067"
+url: https://raw.githubusercontent.com/api-network/organizations/main/aireon.yaml
+tags:
+- No API Definition
+- Air Traffic
+apis: []
+x-common:
+- type: x-website
+  url: http://www.aireon.com
+- type: x-blog
+  url: https://aireon.com/1090-global/
+- type: x-careers
+  url: https://aireon.com/careers/
+- type: x-contact
+  url: https://aireon.com/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/aireon
+- type: x-email
+  url: info@aireon.com
+- type: x-email
+  url: public.relations@aireon.com
+- type: x-email
+  url: publicrelations@aireon.com
+- type: x-events
+  url: https://aireon.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/AireonLLC
+- type: x-linkedin
+  url: https://www.linkedin.com/company/aireon-llc/
+- type: x-news
+  url: https://aireon.com/news/
+- type: x-partner
+  url: https://aireon.com/partners/
+- type: x-press
+  url: https://aireon.com/category/press-releases/
+- type: x-privacy
+  url: https://aireon.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://aireon.com/legal/
+- type: x-twitter
+  url: https://www.twitter.com/AireonLLC
+- type: x-twitter
+  url: https://twitter.com/AireonLLC
+- type: x-website
+  url: https://aireon.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

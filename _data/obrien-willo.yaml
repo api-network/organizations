@@ -1,0 +1,43 @@
+---
+name: O'Brien, Willo
+description: Transformational business coach, providing emotional & strategic support
+  for creative entrepreneurs & small business owners taking heart-centered action!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3915430"
+url: https://raw.githubusercontent.com/api-network/organizations/main/obrien-willo.yaml
+tags:
+- Portfolios
+apis: []
+x-common:
+- type: x-website
+  url: http://WilloLovesYou.com/offerings
+- type: x-about
+  url: https://willolovesyou.com/about
+- type: x-contact
+  url: https://willolovesyou.com/contact
+- type: x-facebook
+  url: https://www.facebook.com/WilloLovesYou/
+- type: x-instagram
+  url: https://instagram.com/willolovesyou/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/willolovesyou
+- type: x-privacy
+  url: https://willolovesyou.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://willolovesyou.com/terms/
+- type: x-twitter
+  url: http://twitter.com/willolovesyou
+- type: x-website
+  url: https://willolovesyou.com
+- type: x-youtube
+  url: https://www.youtube.com/willolovesyou
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

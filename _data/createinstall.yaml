@@ -1,0 +1,27 @@
+---
+name: CreateInstall
+description: The ideology behind the CreateInstall installer is based on two main
+  principles. Complete control over the installation process and unlimited scalability.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9618320"
+url: https://raw.githubusercontent.com/api-network/organizations/main/createinstall.yaml
+tags:
+- Shareware
+- Installer
+- CreateInstall
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/gentee/gentee
+- type: x-website
+  url: https://www.createinstall.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

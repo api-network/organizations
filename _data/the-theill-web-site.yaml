@@ -1,0 +1,121 @@
+---
+name: The Theill Web Site
+description: "Peter Theill is a software developer from Denmark having worked on Drivr,
+  GoMore, Click A Taxi, Familio, Outbound, Spiri, B\xF8rn i Byen & Forward"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10525012"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-theill-web-site.yaml
+tags:
+- Authors
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.theill.com/blog/tag/shoutsms/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/sidse/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/sister/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/spaceneedle/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/tip/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/tivoli/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/uber/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/vacation/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/vacationhouse/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/wallpapers/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/wallpapery/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/washington/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/women-shoes/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/xmasparty/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/abu-dhabi/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/apple/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/betterfinds/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/bulksms/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/burgers/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/charity/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/commanigy/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/company/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/denmark/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/doinggood/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/donate/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/drivr/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/el-capitan/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/family/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/forward/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/friends/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/fun/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/macosx/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/marathon/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/miami/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/microsoft/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/molly/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/nephew/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/ohdiary/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/osx/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/paris/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/playground/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/sanfrancisco/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/seattle/
+- type: x-blog
+  url: https://www.theill.com/blog/tag/shoes/
+- type: x-contact
+  url: https://www.theill.com/contact/
+- type: x-feed
+  url: https://www.theill.com/theill-familio-feed/
+- type: x-github
+  url: http://github.com/theill
+- type: x-open-source
+  url: https://www.theill.com/blog/tag/copenhagen/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-website
+  url: https://www.theill.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

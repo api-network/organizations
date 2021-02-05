@@ -1,0 +1,59 @@
+---
+name: Clearfly Communications
+description: Clearfly Communications is a provider of unified communications services
+  for small-medium businesses in the United States.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29273-clearfly-net.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "2360028"
+url: https://raw.githubusercontent.com/api-network/organizations/main/clearfly-communications.yaml
+tags:
+- VOIP
+- Telecommunications
+- SIP Trunking
+- Profile
+- PBX
+- ISP
+- Commissions
+apis: []
+x-common:
+- type: x-website
+  url: https://www.clearfly.net
+- type: x-blog
+  url: https://www.clearfly.net/blog/
+- type: x-contact-form
+  url: https://www.clearfly.net/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/divitas-networks
+- type: x-email
+  url: netops@clearfly.net
+- type: x-email
+  url: billing@clearfly.net
+- type: x-email
+  url: info@clearfly.net
+- type: x-email
+  url: sales@clearfly.net
+- type: x-email
+  url: support@clearfly.net
+- type: x-email
+  url: copyright@clearfly.net
+- type: x-faq
+  url: https://www.clearfly.net/support/faq/
+- type: x-news
+  url: https://www.clearfly.net/news/
+- type: x-partners
+  url: https://www.clearfly.net/partners/
+- type: x-support
+  url: https://www.clearfly.net/support/
+- type: x-twitter
+  url: https://twitter.com/clearfly
+- type: x-website
+  url: http://clearfly.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

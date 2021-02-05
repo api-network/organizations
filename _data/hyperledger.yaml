@@ -1,0 +1,42 @@
+---
+name: Hyperledger
+description: The Hyperledger Project is a collaborative effort created to advance
+  blockchain technology by identifying and addressing important features and currently
+  missing requirements, for a cross-industry open standard for distributed ledgers
+  that can transfor...
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28863-www-hyperledger-org.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "2"
+x-alexaRank: "66138"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hyperledger.yaml
+tags:
+- Have API Paths
+- Blockchain
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/hyperledger
+- type: x-website
+  url: https://www.hyperledger.org/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/hyperledger-2
+- type: x-email
+  url: pr@hyperledger.org
+- type: x-email
+  url: events@hyperledger.org
+- type: x-email
+  url: info@hyperledger.org
+- type: x-email
+  url: legal@hyperledger.org
+- type: x-twitter
+  url: https://twitter.com/Hyperledger
+- type: x-website
+  url: https://www.hyperledger.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

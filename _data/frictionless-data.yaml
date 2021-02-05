@@ -1,0 +1,28 @@
+---
+name: Frictionless Data
+description: <p>Data Packages are a lightweight containerization format for data.
+  They provide the foundation for frictionless data transport.&nbsp;<span>Tools and
+  integrations to make it easy to integrate Data Packages into your data processing
+  and publishing workflows.&nbsp;<span>Learn how to get started using and developing
+  with Data Packages through our guides, tutorials and documentation.</span></span></p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/frictionlessdata-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/frictionless-data.yaml
+tags:
+- Schema
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/frictionlessdata
+- type: x-website
+  url: http://specs.frictionlessdata.io/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

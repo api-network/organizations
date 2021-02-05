@@ -1,0 +1,26 @@
+---
+name: adChain
+description: Unlocking the Blockchain for Digital Advertising
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26844-adtoken-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "377993"
+url: https://raw.githubusercontent.com/api-network/organizations/main/adchain.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: https://medium.com/metax-publication
+- type: x-twitter
+  url: https://twitter.com/ad_chain
+- type: x-website
+  url: https://adtoken.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

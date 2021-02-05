@@ -1,0 +1,21 @@
+---
+name: Public Substation API for the Smart Service Intelligent Autonomous Grid
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/public-substation-api-for-the-smart-service-intelligent-autonomous-grid.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://api.smartservice.energy
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

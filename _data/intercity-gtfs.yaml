@@ -1,0 +1,23 @@
+---
+name: InterCity GTFS
+description: Transit authority located in New Zealand<br />
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/intercity-gtfs.yaml
+tags: []
+apis: []
+x-common:
+- type: x-gtfs-feed
+  url: http://www.intercitygroup.co.nz/transit/gtfs_base.zip
+- type: x-website
+  url: http://transitfeeds.com/p/intercity-group/744
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

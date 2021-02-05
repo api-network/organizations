@@ -1,0 +1,36 @@
+---
+name: USB Gear OnLine Catalog
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1420898"
+url: https://raw.githubusercontent.com/api-network/organizations/main/usb-gear-online-catalog.yaml
+tags:
+- Peripherals
+apis: []
+x-common:
+- type: x-press
+  url: https://www.usbgear.com/laptop-express-cards.html
+- type: x-press
+  url: https://www.usbgear.com/pci-express-cards.html
+- type: x-press
+  url: https://www.usbgear.com/press.html
+- type: x-privacy
+  url: https://www.usbgear.com/privacy-policy.html
+- type: x-security
+  url: https://www.usbgear.com/security.html
+- type: x-support
+  url: https://www.usbgear.com/gethelp.php
+- type: x-terms-of-service
+  url: https://www.usbgear.com/terms.html
+- type: x-website
+  url: https://www.usbgear.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

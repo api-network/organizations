@@ -1,0 +1,42 @@
+---
+name: OpenPermit
+description: <p>Open Permit uses the internet to make the permitting process transparent
+  by employing modern technology to define a set of open standards that allow a jurisdiction
+  to publish information and interact with citizens and businesses through an electronic
+  medium. This means that requirements and process details can be provided by jurisdictions
+  in a machine readable and automated form consumable by all applications with access
+  to the internet, eliminating paper based workflows. An open standards model also
+  allows for multiple jurisdictions to follow the same best practice approaches, minimizing
+  inconsistencies when citizens go to obtain a permit from one jurisdiction to the
+  next. Open Permit is also about making the technology itself open so that applications
+  can be built in a way that are interoperable and can be used to streamline automate
+  and better visualize permitting.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/OpenPermit.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/openpermit.yaml
+tags:
+- Have API
+- Construction
+- Building Permits
+apis: []
+x-common:
+- type: x-documentation
+  url: http://www.openpermit.org/docs/index.html
+- type: x-github
+  url: https://github.com/openpermit
+- type: x-open-source
+  url: https://github.com/openpermit
+- type: x-twitter
+  url: https://twitter.com/openpermit
+- type: x-website
+  url: http://www.openpermit.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

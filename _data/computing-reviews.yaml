@@ -1,0 +1,112 @@
+---
+name: Computing Reviews
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "32840"
+url: https://raw.githubusercontent.com/api-network/organizations/main/computing-reviews.yaml
+tags:
+- Journals
+apis: []
+x-common:
+- type: x-website
+  url: https://www.reviews.com/
+- type: x-about
+  url: https://www.reviews.com/about/
+- type: x-blog
+  url: https://www.reviews.com/blog/homeowners-insurance-faq/
+- type: x-blog
+  url: https://www.reviews.com/blog/moving-car-insurance/
+- type: x-blog
+  url: https://www.reviews.com/blog/aaa-membership-perks/
+- type: x-blog
+  url: https://www.reviews.com/blog/shop-life-insurance/
+- type: x-blog
+  url: https://www.reviews.com/blog/term-vs-whole-life/
+- type: x-blog
+  url: https://www.reviews.com/blog/how-much-life-insurance/
+- type: x-blog
+  url: https://www.reviews.com/blog/debt-after-death/
+- type: x-blog
+  url: https://www.reviews.com/blog/prevent-id-theft/
+- type: x-blog
+  url: https://www.reviews.com/blog/equifax-breach-upside/
+- type: x-blog
+  url: https://www.reviews.com/blog/consider-before-agreeing/
+- type: x-blog
+  url: https://www.reviews.com/blog/investment-apps-saving/
+- type: x-blog
+  url: https://www.reviews.com/blog/commission-free-trading/
+- type: x-blog
+  url: https://www.reviews.com/blog/medical-alert-guide/
+- type: x-blog
+  url: https://www.reviews.com/blog/install-smart-thermostat/
+- type: x-blog
+  url: https://www.reviews.com/blog/air-conditioner-size/
+- type: x-blog
+  url: https://www.reviews.com/blog/closing-costs/
+- type: x-blog
+  url: https://www.reviews.com/blog/
+- type: x-blog
+  url: https://www.reviews.com/blog
+- type: x-blog
+  url: https://www.reviews.com/blog/guide-to-online-colleges/
+- type: x-blog
+  url: https://www.reviews.com/blog/?blog_cat=resources
+- type: x-blog
+  url: https://www.reviews.com/blog/admitme-tv/
+- type: x-blog
+  url: https://www.reviews.com/blog/online-masters-nursing/
+- type: x-blog
+  url: https://www.reviews.com/blog/types-of-bank-accounts/
+- type: x-blog
+  url: https://www.reviews.com/blog/secure-internet-guide/
+- type: x-blog
+  url: https://www.reviews.com/blog/connect-to-the-internet/
+- type: x-careers
+  url: https://careers.redventures.com/reviews-com.html
+- type: x-facebook
+  url: https://www.facebook.com/Reviewscom/
+- type: x-instagram
+  url: https://www.instagram.com/reviews_com/
+- type: x-news
+  url: https://www.reviews.com/blog/?blog_cat=news
+- type: x-plans
+  url: https://www.reviews.com/cell-phone-plans/
+- type: x-platform
+  url: https://www.reviews.com/mooc-platforms/
+- type: x-platform
+  url: https://www.reviews.com/student-internship-platforms/
+- type: x-press
+  url: https://www.reviews.com/espresso-machine/
+- type: x-press
+  url: https://www.reviews.com/pressure-cooker/
+- type: x-press
+  url: https://www.reviews.com/press/
+- type: x-privacy
+  url: https://www.reviews.com/privacy-policy/
+- type: x-security
+  url: https://www.reviews.com/home-security-systems/
+- type: x-security
+  url: https://www.reviews.com/home-security-systems/diy/
+- type: x-security
+  url: https://www.reviews.com/home-security-systems/vivint/
+- type: x-security
+  url: https://www.reviews.com/home-security-systems/adt/
+- type: x-security
+  url: https://www.reviews.com/home-security-systems/cameras/
+- type: x-twitter
+  url: https://twitter.com/Reviews
+- type: x-twitter
+  url: https://www.twitter.com/Reviews
+- type: x-website
+  url: https://www.reviews.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,40 @@
+---
+name: VisualCron
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "564899"
+url: https://raw.githubusercontent.com/api-network/organizations/main/visualcron.yaml
+tags:
+- System
+apis: []
+x-common:
+- type: x-facebook
+  url: http://www.facebook.com/pages/VisualCron/271033348930
+- type: x-forum
+  url: https://www.visualcron.com/forum.aspx
+- type: x-linkedin
+  url: http://www.linkedin.com/groups?home=&gid=2134609
+- type: x-twitter
+  url: http://www.twitter.com/VisualCron
+- type: x-twitter
+  url: https://twitter.com/search?q=webmacro
+- type: x-twitter
+  url: https://twitter.com/search?q=rpa
+- type: x-twitter
+  url: https://twitter.com/search?q=automation
+- type: x-twitter
+  url: https://twitter.com/search?q=bpa
+- type: x-website
+  url: https://visualcron.com
+- type: x-youtube
+  url: https://www.youtube.com/user/VisualCron
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

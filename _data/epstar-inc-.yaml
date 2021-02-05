@@ -1,0 +1,35 @@
+---
+name: Epstar, Inc.
+description: Industry leading job candidate testing and assessment. We can predict
+  job success!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/epstar-inc-.yaml
+tags:
+- Testing And Evaluation
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.epstar.com/contact-epstar/
+- type: x-facebook
+  url: https://facebook.com/
+- type: x-feed
+  url: https://epstarcom.dxpsites.com/feed/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-privacy
+  url: https://www.epstar.com/epstar-privacy-statement/
+- type: x-twitter
+  url: https://twitter.com/
+- type: x-website
+  url: https://www.epstar.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,38 @@
+---
+name: Gemalto
+description: Gemalto is an international digital security company providing software
+  applications, secure personal devices such as smart cards and tokens, and managed
+  services.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28794-www-gemalto-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "6"
+x-alexaRank: "36642"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gemalto.yaml
+tags:
+- ISP
+- Internet Of Things
+- Have API Paths
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/gemalto
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/gemalto
+- type: x-email
+  url: privacy@gemalto.com
+- type: x-email
+  url: ddlpilot@gemalto.com
+- type: x-email
+  url: Didier.bonnet@gemalto.com
+- type: x-twitter
+  url: https://twitter.com/Gemalto
+- type: x-website
+  url: https://www.gemalto.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

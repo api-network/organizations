@@ -1,0 +1,28 @@
+---
+name: Underground Computers Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/underground-computers-inc-.yaml
+tags:
+- Vendors
+apis: []
+x-common:
+- type: x-about
+  url: https://undcom.com/about/
+- type: x-contact
+  url: https://undcom.com/contact-us/
+- type: x-security
+  url: https://undcom.com/privacy-and-security/
+- type: x-website
+  url: https://www.undcom.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

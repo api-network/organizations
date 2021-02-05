@@ -1,0 +1,40 @@
+---
+name: NYCEDC
+description: New York City Economic Development Corporation's mission is to encourage
+  economic growth in each of the five boroughs of New York City by strengthening the
+  city's competitive position and facilitating investments.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28144-www-nycedc-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nycedc.yaml
+tags:
+- Marketplaces
+- Have API
+- City Government
+apis: []
+x-common:
+- type: x-website
+  url: http://edc.nyc
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/economic-development-corporation-nycedc
+- type: x-facebook
+  url: https://www.facebook.com/NYCEDC
+- type: x-instagram
+  url: https://www.instagram.com/NYCEDC/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/nycedc/
+- type: x-twitter
+  url: https://twitter.com/NYCEDC
+- type: x-website
+  url: https://www.nycedc.com
+- type: x-youtube
+  url: https://www.youtube.com/user/NYCEDC
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

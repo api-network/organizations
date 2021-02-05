@@ -1,0 +1,103 @@
+---
+name: Canterbury, University of
+description: Computer Science and Software Engineering are about designing computer
+  systems to help people do their work efficiently and effectively.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "35379"
+url: https://raw.githubusercontent.com/api-network/organizations/main/canterbury-university-of.yaml
+tags:
+- Software Engineering
+- New Zealand
+- Home Page
+- Computer Science
+- Canterbury
+apis: []
+x-common:
+- type: x-about
+  url: https://www.canterbury.ac.nz/about/
+- type: x-about
+  url: https://www.canterbury.ac.nz/about/uc7/
+- type: x-about
+  url: https://www.canterbury.ac.nz/about/ako/
+- type: x-about
+  url: https://www.canterbury.ac.nz/about/governance/
+- type: x-about
+  url: https://www.canterbury.ac.nz/about/leadership/
+- type: x-about
+  url: https://www.canterbury.ac.nz/about/health-and-safety/
+- type: x-about
+  url: https://www.canterbury.ac.nz/about/hr/
+- type: x-about
+  url: https://www.canterbury.ac.nz/about/capitalworks/
+- type: x-about
+  url: https://www.canterbury.ac.nz/about/history/
+- type: x-about
+  url: https://onedrive.live.com/about/en-nz/
+- type: x-about
+  url: https://www.canterbury.ac.nz/about/ssac/services-a-z/
+- type: x-careers
+  url: https://www.canterbury.ac.nz/careers/
+- type: x-contact
+  url: https://www.canterbury.ac.nz/about/contacts/
+- type: x-contact
+  url: https://www.canterbury.ac.nz/enrol/contact/
+- type: x-contact
+  url: https://www.canterbury.ac.nz/support/contact-us/
+- type: x-contact
+  url: https://www.canterbury.ac.nz/research/contact-us/
+- type: x-contact
+  url: https://www.canterbury.ac.nz/engineering/contact-us/
+- type: x-documentation
+  url: https://www.canterbury.ac.nz/enrol/docs/
+- type: x-events
+  url: https://www.canterbury.ac.nz/events/
+- type: x-events
+  url: https://www.canterbury.ac.nz/events/tours-and-events/
+- type: x-feed
+  url: https://www.canterbury.ac.nz/digital/feedback/
+- type: x-login
+  url: https://www.canterbury.ac.nz/login/
+- type: x-login
+  url: https://www.canterbury.ac.nz/login/more-logins/
+- type: x-news
+  url: https://www.canterbury.ac.nz/news/
+- type: x-news
+  url: https://www.canterbury.ac.nz/research/news/
+- type: x-partner
+  url: https://www.canterbury.ac.nz/engage/partnerships/
+- type: x-support
+  url: https://www.canterbury.ac.nz/support/academic/
+- type: x-support
+  url: https://www.canterbury.ac.nz/support/
+- type: x-support
+  url: https://www.canterbury.ac.nz/support/get-support/
+- type: x-support
+  url: https://www.canterbury.ac.nz/support/needtotalk/
+- type: x-support
+  url: https://www.canterbury.ac.nz/support/health/
+- type: x-support
+  url: https://www.canterbury.ac.nz/support/concerns/
+- type: x-support
+  url: https://www.canterbury.ac.nz/support/equity/
+- type: x-support
+  url: https://www.canterbury.ac.nz/support/get-support/new/
+- type: x-support
+  url: https://www.canterbury.ac.nz/support/akonga-maori/
+- type: x-support
+  url: https://www.canterbury.ac.nz/support/onsite-services/
+- type: x-support
+  url: https://www.canterbury.ac.nz/support/asc/
+- type: x-support
+  url: https://www.canterbury.ac.nz/library/support/
+- type: x-website
+  url: https://www.cosc.canterbury.ac.nz
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

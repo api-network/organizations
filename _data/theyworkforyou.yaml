@@ -1,0 +1,76 @@
+---
+name: TheyWorkForYou
+description: TheyWorkForYou is a website which makes it easy to keep track of your
+  local MP's activities.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/498-theyworkforyou.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "116157"
+url: https://raw.githubusercontent.com/api-network/organizations/main/theyworkforyou.yaml
+tags:
+- TheyWorkForYou API
+- TheyWorkForYou
+- Scottish Parliament
+- Politics
+- Peers
+- Peer
+- Parliament
+- Official Report
+- Northern Ireland Assembly
+- MSPs
+- MSP
+- MPs
+- MP
+- MLAs
+- MLA
+- Member Of Parliament
+- Lords
+- London Assembly Members
+- House Of Lords
+- House Of Commons
+- Has API
+- Hansard
+- Government
+- Commons
+apis: []
+x-common:
+- type: x-website
+  url: http://www.theyworkforyou.com/api/
+- type: x-website
+  url: http://www.theyworkforyou.com
+- type: x-code
+  url: http://hurring.com/code/python/serialize/
+- type: x-code
+  url: https://code.google.com/archive/p/twfython/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/theyworkforyou-com
+- type: x-email
+  url: support@theyworkforyou.com
+- type: x-facebook
+  url: https://www.facebook.com/TheyWorkForYou
+- type: x-github
+  url: https://github.com/rubenarakelyan/twfyapi/
+- type: x-github
+  url: https://github.com/rhinocratic/twfy
+- type: x-github
+  url: https://github.com/jamtho/twfy
+- type: x-github
+  url: https://github.com/ifraixedes/node-theyworkforyou-api
+- type: x-github
+  url: https://github.com/conjugateprior/twfy
+- type: x-github
+  url: https://github.com/bruce/twfy
+- type: x-github
+  url: https://github.com/mysociety/theyworkforyou
+- type: x-news
+  url: https://www.mysociety.org/privacy#newsletter
+- type: x-twitter
+  url: https://twitter.com/TheyWorkForYou
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

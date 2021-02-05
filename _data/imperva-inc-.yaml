@@ -1,0 +1,51 @@
+---
+name: Imperva Inc.
+description: "Imperva provides complete cyber security by protecting what really matters
+  most\u2014your data and applications\u2014whether on-premises or in the cloud."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "19700"
+url: https://raw.githubusercontent.com/api-network/organizations/main/imperva-inc-.yaml
+tags:
+- Application Layer Gateways
+apis: []
+x-common:
+- type: x-website
+  url: http://www.imperva.com
+- type: x-documentation
+  url: https://docs.imperva.com/
+- type: x-facebook
+  url: http://www.facebook.com/imperva
+- type: x-linkedin
+  url: http://www.linkedin.com/company/imperva
+- type: x-login
+  url: https://www.imperva.com/login
+- type: x-login
+  url: https://support.prevoty.com/support/login
+- type: x-login
+  url: https://bots.imperva.com/sign_in
+- type: x-partner
+  url: https://partners.imperva.com/
+- type: x-slideshare
+  url: http://www.slideshare.net/imperva
+- type: x-status
+  url: https://status.imperva.com/
+- type: x-support
+  url: https://support.incapsula.com/hc/en-us
+- type: x-support
+  url: https://help.distilnetworks.com/
+- type: x-twitter
+  url: http://twitter.com/imperva
+- type: x-website
+  url: https://www.imperva.com
+- type: x-youtube
+  url: http://www.youtube.com/user/ImpervaChannel
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,46 @@
+---
+name: Michael Still
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/michael-still.yaml
+tags:
+- Personal Pages
+apis: []
+x-common:
+- type: x-events
+  url: https://www.madebymikal.com/category/events/
+- type: x-feed
+  url: http://www.madebymikal.com/feed/
+- type: x-feed
+  url: http://www.madebymikal.com/category/openstack/feed/
+- type: x-github
+  url: https://github.com/arendst/Tasmota
+- type: x-github
+  url: https://github.com/ct-Open-Source/tuya-convert
+- type: x-github
+  url: https://github.com/arendst/Tasmota/wiki/TuyaMCU
+- type: x-github
+  url: https://github.com/arendst/Tasmota/wiki/Tuya-Protocols
+- type: x-open-source
+  url: https://blog.openshift.com/tag/podctl/
+- type: x-open-source
+  url: https://www.madebymikal.com/category/open-source/
+- type: x-open-source
+  url: https://www.madebymikal.com/category/openstack/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-security
+  url: https://www.madebymikal.com/category/security/
+- type: x-website
+  url: https://www.stillhq.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

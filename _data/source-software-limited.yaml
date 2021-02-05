@@ -1,0 +1,46 @@
+---
+name: Source Software Limited
+description: Home Insurance, Let Property Insurance, Unemployment Insurance, Income
+  Protection Insurance and Commercial Insurance quotation software for Brokers, IFAs
+  and Financial Intermediaries.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2933447"
+url: https://raw.githubusercontent.com/api-network/organizations/main/source-software-limited.yaml
+tags:
+- Property And Casualty
+apis: []
+x-common:
+- type: x-website
+  url: https://www.thesource.co.uk/
+- type: x-about
+  url: https://www.aboutcookies.org/
+- type: x-contact
+  url: https://www.thesource.co.uk/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/Source.Insurance.ltd
+- type: x-linkedin
+  url: https://www.linkedin.com/company/source-insurance-ltd/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/source-insurance-ltd
+- type: x-self-service-registration
+  url: https://gi.thesource.co.uk/user/register
+- type: x-terms-of-service
+  url: https://www.thesource.co.uk/terms-of-business/
+- type: x-twitter
+  url: https://twitter.com/DeloitteUK
+- type: x-twitter
+  url: https://twitter.com/MindCharity
+- type: x-twitter
+  url: https://twitter.com/SourceInsurance
+- type: x-website
+  url: https://www.thesource.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

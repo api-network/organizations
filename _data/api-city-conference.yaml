@@ -1,0 +1,41 @@
+---
+name: API City Conference
+description: |-
+  <p>API City Conference is a non-profit community event that brings together a diverse set of developers and business people to network and learn about APIs and the business value they can bring to you and your company. With a focus on diversity and accessibility, our 3 track conference creates an open event where everyone is welcome.</p>
+  <p>Our 2018 event is being held at the Kitsap Conference Center from October 3rd - October 4th. The venue is located on the waterfront in Bremerton, WA and just one block from the ferry terminal. We are expecting 400 attendees this year. In addition to a great line-up of speakers, we will be providing live captioning in the main room for people hard of hearing, and a Women &amp; Non-Binary luncheon event. We hope you can join us for our inaugural event this Fall!</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/api-city-conference.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/api-city-conference.yaml
+tags:
+- No API
+- API Events
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/apicityconf
+- type: x-twitter-search
+  url: '#APICity'
+- type: x-website
+  url: https://apicity.io/
+- type: x-website
+  url: https://apicity.io
+- type: x-facebook
+  url: https://www.facebook.com/apicity
+- type: x-instagram
+  url: https://www.instagram.com/apicityconf/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/seattle-api-city/
+- type: x-open-source
+  url: https://www.openapis.org/
+- type: x-twitter
+  url: https://twitter.com/tessamero/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,28 @@
+---
+name: Joomlapolis - Home of the Joomla Community Builder
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "205636"
+url: https://raw.githubusercontent.com/api-network/organizations/main/joomlapolis--home-of-the-joomla-community-builder.yaml
+tags:
+- Extensions And Templates
+apis: []
+x-common:
+- type: x-code
+  url: https://www.joomlapolis.com/addons/cb-code-field
+- type: x-twitter
+  url: https://twitter.com/joomlapolis
+- type: x-website
+  url: https://www.joomlapolis.com
+- type: x-youtube
+  url: https://www.youtube.com/user/Joomlapolis/playlists
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

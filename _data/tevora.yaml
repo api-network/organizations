@@ -1,0 +1,59 @@
+---
+name: Tevora
+description: Tevora is the leader in information security and data protection services.
+  We specialize in compliance across multiple industries, computer incident response,
+  enterprise risk management and more. Our clients are among the most successful companies
+  in the world; if you need data security, you need Tevora.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1064281"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tevora.yaml
+tags:
+- Penetration Testing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.tevora.com
+- type: x-blog
+  url: https://www.tevora.com/blog/
+- type: x-careers
+  url: https://www.tevora.com/who-we-are/careers/
+- type: x-contact
+  url: https://www.tevora.com/contact-us/
+- type: x-events
+  url: https://www.tevora.com/events/
+- type: x-events
+  url: https://www.tevora.com/connect/events/
+- type: x-facebook
+  url: https://www.facebook.com/Tevora-153084858035395/
+- type: x-news
+  url: https://www.tevora.com/connect/news-releases/
+- type: x-privacy
+  url: https://www.tevora.com/services/data-privacy/
+- type: x-privacy
+  url: https://www.tevora.com/services/data-privacy/gdrp/
+- type: x-privacy
+  url: https://www.tevora.com/privacy-policy/
+- type: x-security
+  url: https://www.tevora.com/cloud-security/
+- type: x-security
+  url: http://cybersecurityventures.com/cybersecurity-500/
+- type: x-terms-of-service
+  url: https://www.tevora.com/terms-of-service/
+- type: x-twitter
+  url: https://twitter.com/tevora
+- type: x-webinars
+  url: https://www.tevora.com/resources/webinars/
+- type: x-website
+  url: https://www.tevora.com
+- type: x-white-papers
+  url: https://www.tevora.com/resources/whitepapers-2/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

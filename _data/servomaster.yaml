@@ -1,0 +1,22 @@
+---
+name: ServoMaster
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "433"
+url: https://raw.githubusercontent.com/api-network/organizations/main/servomaster.yaml
+tags:
+- Control
+apis: []
+x-common:
+- type: x-website
+  url: https://servomaster.sourceforge.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

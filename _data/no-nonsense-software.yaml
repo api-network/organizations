@@ -1,0 +1,30 @@
+---
+name: No Nonsense Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2328260"
+url: https://raw.githubusercontent.com/api-network/organizations/main/no-nonsense-software.yaml
+tags:
+- Windows
+apis: []
+x-common:
+- type: x-contact
+  url: https://no-nonsense-software.com/contact
+- type: x-facebook
+  url: https://www.facebook.com/nononsensesoftware
+- type: x-press
+  url: https://wordpress.org/plugins/gdpr-cookie-compliance
+- type: x-self-service-registration
+  url: https://no-nonsense-software.com/register
+- type: x-website
+  url: https://no-nonsense-software.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

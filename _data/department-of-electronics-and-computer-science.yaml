@@ -1,0 +1,78 @@
+---
+name: Department of Electronics and Computer Science
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "15253"
+url: https://raw.githubusercontent.com/api-network/organizations/main/department-of-electronics-and-computer-science.yaml
+tags:
+- University Of Southampton
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ecs.soton.ac.uk/
+- type: x-about
+  url: https://www.southampton.ac.uk/about.page
+- type: x-about
+  url: https://www.southampton.ac.uk/about/visit.page
+- type: x-about
+  url: https://www.southampton.ac.uk/about/departments.page
+- type: x-careers
+  url: https://www.jobs.soton.ac.uk/
+- type: x-contact
+  url: https://www.southampton.ac.uk/contact.page
+- type: x-facebook
+  url: https://www.facebook.com/ECSUoS/
+- type: x-facebook
+  url: https://www.facebook.com/unisouthampton
+- type: x-instagram
+  url: https://instagram.com/uni_southampton
+- type: x-linkedin
+  url: https://www.linkedin.com/edu/school?id=12721
+- type: x-news
+  url: https://www.southampton.ac.uk/news.page
+- type: x-news
+  url: https://www.southampton.ac.uk/news/events.page
+- type: x-news
+  url: https://www.ecs.soton.ac.uk/news/6576
+- type: x-news
+  url: https://www.ecs.soton.ac.uk/news
+- type: x-news
+  url: https://www.youtube.com/user/ecsnews
+- type: x-partner
+  url: https://www.southampton.ac.uk/research/partners.page
+- type: x-support
+  url: https://www.southampton.ac.uk/alumni-supporters.page
+- type: x-twitter
+  url: http://twitter.com/ECSUoS/status/1219305828764868613
+- type: x-twitter
+  url: https://twitter.com/theUKESF
+- type: x-twitter
+  url: https://twitter.com/timeshighered
+- type: x-twitter
+  url: http://twitter.com/ECSUoS
+- type: x-twitter
+  url: http://twitter.com/ECSUoS/status/1219272082456006657
+- type: x-twitter
+  url: https://twitter.com/unisouthampton
+- type: x-twitter
+  url: http://twitter.com/ECSUoS/status/1219250976672100352
+- type: x-twitter
+  url: https://twitter.com/rees_p
+- type: x-twitter
+  url: https://twitter.com/WoldinghamSch
+- type: x-twitter
+  url: https://twitter.com/ECSUoS
+- type: x-website
+  url: https://www.ecs.soton.ac.uk
+- type: x-youtube
+  url: https://www.youtube.com/user/sotoncomms
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

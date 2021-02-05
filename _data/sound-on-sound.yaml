@@ -1,0 +1,36 @@
+---
+name: Sound On Sound
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "22754"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sound-on-sound.yaml
+tags:
+- Music And Audio
+apis: []
+x-common:
+- type: x-website
+  url: https://www.soundonsound.com/
+- type: x-facebook
+  url: http://www.facebook.com/soundonsoundmag
+- type: x-forum
+  url: https://www.soundonsound.com/forum/viewforum.php?f=15
+- type: x-forum
+  url: https://www.soundonsound.com/forum/viewforum.php?f=23
+- type: x-instagram
+  url: https://www.instagram.com/soundonsoundmag/
+- type: x-twitter
+  url: http://www.twitter.com/soundonsoundmag
+- type: x-website
+  url: https://www.soundonsound.com
+- type: x-youtube
+  url: https://www.youtube.com/user/soundonsoundvideo
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

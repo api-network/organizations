@@ -1,0 +1,62 @@
+---
+name: MS SQL Server Guide
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ms-sql-server-guide.yaml
+tags:
+- Microsoft SQL Server
+apis: []
+x-common:
+- type: x-blog
+  url: http://mssqlserverguide.blogspot.com/search/label/AND
+- type: x-blog
+  url: https://www.blogger.com/profile/11594786579026247568
+- type: x-blog
+  url: http://softwaretestingguide.blogspot.com/
+- type: x-blog
+  url: http://quicktestproguide.blogspot.com
+- type: x-blog
+  url: http://qualitycenterguide.blogspot.com
+- type: x-blog
+  url: http://winrunnerfaqs.blogspot.com
+- type: x-blog
+  url: http://mssqlserverguide.blogspot.com/2007/08/
+- type: x-blog
+  url: http://mssqlserverguide.blogspot.com/2007/09/
+- type: x-blog
+  url: http://mssqlserverguide.blogspot.com/2008/06/
+- type: x-blog
+  url: http://mssqlserverguide.blogspot.com/2008/09/
+- type: x-blog
+  url: http://mssqlserverguide.blogspot.com/2009/01/
+- type: x-blog
+  url: http://mssqlserverguide.blogspot.com/2009/02/
+- type: x-blog
+  url: http://mssqlserverguide.blogspot.com/2009/09/
+- type: x-blog
+  url: http://mssqlserverguide.blogspot.com/2011/07/
+- type: x-blog
+  url: http://mssqlserverguide.blogspot.com/2011/08/
+- type: x-blog
+  url: http://mssqlserverguide.blogspot.com/2011/09/
+- type: x-blog
+  url: http://mssqlserverguide.blogspot.com/2011/11/
+- type: x-blog
+  url: http://mssqlserverguide.blogspot.com/2011/12/
+- type: x-blog
+  url: http://mssqlserverguide.blogspot.com/2012/01/
+- type: x-blog
+  url: http://www.blogsearchengine.com
+- type: x-website
+  url: https://mssqlserverguide.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

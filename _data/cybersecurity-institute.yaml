@@ -1,0 +1,42 @@
+---
+name: CyberSecurity Institute
+description: CyberSecurity Academy offers the Certified Ethical Hacker, Certified
+  Hacking Forensic Investigator, and Certified Incident Handler at the best prices
+  available anywhere for instructor led on-ground training.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cybersecurity-institute.yaml
+tags:
+- Infosec
+- Information Security And Digital Forensics
+- Information Security
+- Hacking
+- Ethical Hacking
+- DOD Directive 8570
+- DoD 8570
+- Digital Forensics
+- Cybersecurity Training
+- Cybersecurity
+- Cyber Security Training
+- Cyber Security
+- Computer Forensics
+- CHFI
+- Certified Hacking Forensic Investigator
+- Certified Ethical Hacker Certification
+- Certified Ethical Hacker
+- CEH Certification
+- CEH
+apis: []
+x-common:
+- type: x-website
+  url: https://www.cybersecurityinstitute.biz
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

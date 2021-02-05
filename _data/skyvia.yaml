@@ -1,0 +1,42 @@
+---
+name: Skyvia
+description: <p>Wizard-based integration with no effort, no coding, and no need for
+  special knowledge, performed completely in a cloud.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/skyvia-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "125745"
+url: https://raw.githubusercontent.com/api-network/organizations/main/skyvia.yaml
+tags:
+- IPaaS
+- Integrations
+- Has API
+- Extraction And Transformation
+apis: []
+x-common:
+- type: x-documentation
+  url: https://docs.skyvia.com/
+- type: x-facebook
+  url: https://www.facebook.com/pages/Skyvia/793874847316814
+- type: x-linkedin
+  url: https://www.linkedin.com/company/skyvia
+- type: x-login
+  url: https://app.skyvia.com/login
+- type: x-self-service-registration
+  url: https://app.skyvia.com/register
+- type: x-support
+  url: https://support.skyvia.com/
+- type: x-twitter
+  url: https://twitter.com/SkyviaService
+- type: x-website
+  url: https://skyvia.com
+- type: x-website
+  url: https://skyvia.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

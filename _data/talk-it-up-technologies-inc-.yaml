@@ -1,0 +1,32 @@
+---
+name: Talk It Up Technologies, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/talk-it-up-technologies-inc-.yaml
+tags:
+- Resellers
+apis: []
+x-common:
+- type: x-about
+  url: http://www.talkitup.ca/about-us/
+- type: x-facebook
+  url: https://www.facebook.com/talkitup
+- type: x-login
+  url: https://www.talkitup.ca/login.php
+- type: x-press
+  url: http://talkituptechnologies.wordpress.com/
+- type: x-website
+  url: https://www.talkitup.ca
+- type: x-youtube
+  url: https://www.youtube.com/user/talkituptechnologies
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

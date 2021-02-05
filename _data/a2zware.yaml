@@ -1,0 +1,34 @@
+---
+name: A2ZWare
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/a2zware.yaml
+tags:
+- Shareware
+apis: []
+x-common:
+- type: x-website
+  url: http://www.a2zware.com
+- type: x-contact
+  url: http://a2zwaresolutions.com/contact-a2zware/
+- type: x-developer
+  url: http://developer.a2zware.com
+- type: x-facebook
+  url: http://www.facebook.com/pages/A2ZWare/196539192150
+- type: x-press
+  url: http://wordpress.org/
+- type: x-twitter
+  url: http://twitter.com/A2ZWare
+- type: x-website
+  url: https://www.a2zware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

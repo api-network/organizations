@@ -1,0 +1,35 @@
+---
+name: Logicalware
+description: "Build real relationships with your customers through Logicalware CX\u2019s
+  comprehensive support and engagement platform."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "11178903"
+url: https://raw.githubusercontent.com/api-network/organizations/main/logicalware.yaml
+tags:
+- Response Tools
+apis: []
+x-common:
+- type: x-website
+  url: http://www.logicalware.com
+- type: x-blog
+  url: https://www.logicalware.com/blog/
+- type: x-facebook
+  url: https://www.facebook.com/logicalwareltd/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/logicalware-ltd
+- type: x-support
+  url: https://support.logicalware.com/
+- type: x-twitter
+  url: https://twitter.com/logicalware
+- type: x-website
+  url: https://www.logicalware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,26 @@
+---
+name: Easy Tec Samos
+description: Easy tec Samos internet cafe in kokkari samos island greece
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10117079"
+url: https://raw.githubusercontent.com/api-network/organizations/main/easy-tec-samos.yaml
+tags:
+- Samos Island Greece
+- Internet Cafe Kokkari
+- Internet Access Samos
+- Greece
+- Easy Tec Samos
+apis: []
+x-common:
+- type: x-website
+  url: https://www.easy-tec.samos-travel.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

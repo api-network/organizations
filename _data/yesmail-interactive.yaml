@@ -1,0 +1,57 @@
+---
+name: Yesmail Interactive
+description: Yesmail is a leading provider of email and digital marketing services.
+  Truly connect with your customers through our revolutionary cross-channel solutions.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1224_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "357814"
+url: https://raw.githubusercontent.com/api-network/organizations/main/yesmail-interactive.yaml
+tags:
+- IPhone
+- Have API
+- Email Marketing
+- Campaigns
+- Campaigns
+apis: []
+x-common:
+- type: x-website
+  url: http://www.yesmail.com/Services/Enterprise-Web-Services/Available-APIs.aspx
+- type: x-website
+  url: http://www.yesmarketing.com
+- type: x-blog
+  url: http://yesmail.com/resources/email-marketing-lounge
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/EmailMarketingLounge
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/yesmail
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/yes-lifecycle-marketing
+- type: x-developer
+  url: http://developer.yesmail.com
+- type: x-email
+  url: sales@yeslifecyclemarketing.com
+- type: x-facebook
+  url: https://www.facebook.com/yesmarketingus
+- type: x-github
+  url: https://github.com/yesmail
+- type: x-login
+  url: https://intelligence.yesmail.com/#/login
+- type: x-news
+  url: https://www.yesmarketing.com/email-newsletter-sign
+- type: x-privacy
+  url: https://www.yesmarketing.com/privacy-policy
+- type: x-twitter
+  url: https://twitter.com/YesLifecycleMkt
+- type: x-twitter
+  url: https://twitter.com/#!/Yesmail
+- type: x-twitter
+  url: https://twitter.com/Yesmarketingus
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,51 @@
+---
+name: SAP Development
+description: SAP ABAP source code, tutorials and step by step guides for all areas
+  and levels of SAP development from core ABAP to html web and Fiori apps
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sap-development.yaml
+tags:
+- Web Dynpro
+- SD
+- SAP Training
+- Sap HR
+- SAP FI
+- SAP Development
+- SAP BW
+- SAP
+- R3
+- R/3
+- Programming
+- MM
+- JCo
+- Java
+- ERP
+- Dialog Screens
+- CRM
+- BSP
+- Basis
+- ABAP/4
+- ABAP OO
+- ABAP Objects
+- ABAP Development
+- ABAP Certification
+- ABAP
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.sapdev.co.uk
+- type: x-tutorials
+  url: http://www.erpworkbench.com/tutorials/
+- type: x-website
+  url: https://www.sapdev.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

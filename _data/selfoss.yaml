@@ -1,0 +1,31 @@
+---
+name: selfoss
+description: selfoss the web based open source rss reader and multi source mashup
+  aggregator
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2728296"
+url: https://raw.githubusercontent.com/api-network/organizations/main/selfoss.yaml
+tags:
+- Web Based
+apis: []
+x-common:
+- type: x-blog
+  url: http://www.aditu.de//#filter=.blog
+- type: x-github
+  url: https://github.com/SSilence/selfoss
+- type: x-github
+  url: https://github.com/SSilence/selfoss/wiki/
+- type: x-github
+  url: https://github.com/atmos/camo
+- type: x-website
+  url: https://selfoss.aditu.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

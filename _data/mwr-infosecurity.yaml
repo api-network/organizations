@@ -1,0 +1,72 @@
+---
+name: mwr InfoSecurity
+description: A global cyber security consultancy serving from 11 different locations
+  on 4 different continents. We use research to secure current and emerging technologies
+  and defend organizations from cyber attacks.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "621606"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mwr-infosecurity.yaml
+tags:
+- Penetration Testing
+apis: []
+x-common:
+- type: x-website
+  url: http://blog.f-secure.com
+- type: x-about
+  url: https://www.f-secure.com/en/about-us
+- type: x-blog
+  url: https://labs.f-secure.com/blog
+- type: x-blog
+  url: https://blog.f-secure.com
+- type: x-careers
+  url: https://www.f-secure.com/en/web/about_global/careers
+- type: x-contact
+  url: https://www.f-secure.com/en/web/about_global/contact
+- type: x-contact
+  url: https://www.f-secure.com/en/business/contact-us
+- type: x-events
+  url: https://www.f-secure.com/en/consulting/events
+- type: x-facebook
+  url: https://www.facebook.com/pages/F-Secure/107471754306
+- type: x-github
+  url: https://www.github.com/fsecurelabs
+- type: x-investor
+  url: https://www.f-secure.com/en/investors
+- type: x-linkedin
+  url: https://www.linkedin.com/company/f-secure-corporation
+- type: x-partner
+  url: https://www.f-secure.com/en/partners/business-products
+- type: x-partner
+  url: https://www.f-secure.com/en/partners/consumer-products
+- type: x-partner
+  url: https://www.f-secure.com/en/partners/operators
+- type: x-partner
+  url: https://www.f-secure.com/en/partners
+- type: x-press
+  url: https://press.f-secure.com/
+- type: x-showcase
+  url: https://www.linkedin.com/showcase/f-secure-consulting
+- type: x-support
+  url: https://www.f-secure.com/en/home/support
+- type: x-terms-of-service
+  url: https://www.f-secure.com/en/legal/terms/websites
+- type: x-terms-of-service
+  url: https://www.f-secure.com/en/legal/privacy/websites
+- type: x-twitter
+  url: https://twitter.com/fsecure_consult
+- type: x-twitter
+  url: https://twitter.com/FSecure
+- type: x-website
+  url: https://www.mwrinfosecurity.com
+- type: x-youtube
+  url: https://www.youtube.com/user/FSecureNews
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

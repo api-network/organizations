@@ -1,0 +1,45 @@
+---
+name: PolyScript
+description: Polyscript is an advanced, user friendly, secure flexible telnet client
+  with SSH, SSH2 connectivity and a revolutionary telnet scripting engine.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/polyscript.yaml
+tags:
+- Windows 7
+- Windows
+- Telnet Scripting Tool
+- Telnet Scripting
+- Telnet Client For Windows 7
+- Telnet Client For  Vista
+- Telnet
+- SSH2
+- SSH Scripting
+- Ssh Client
+- SFTP
+- Probit
+- Polyscript
+- Kerberos
+- Internet
+- Client
+- Automated Telnet
+apis: []
+x-common:
+- type: x-website
+  url: http://www.probit.co.il
+- type: x-about
+  url: http://olark.com/about
+- type: x-twitter
+  url: http://twitter.com/probitsoftware
+- type: x-website
+  url: https://www.probit.co.il
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

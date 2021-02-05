@@ -1,0 +1,32 @@
+---
+name: Dick Streefland
+description: Homepage of Dick Streefland with Linux, Atmel AVR and Nokia Mediamaster
+  stuff.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "34625"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dick-streefland.yaml
+tags:
+- Satellite
+- Personal Pages
+- Nokia
+- Mediamaster
+- Linux
+- DVB2000
+- D-Box
+- "9600"
+- "9500"
+- "9200"
+apis: []
+x-common:
+- type: x-website
+  url: https://dicks.home.xs4all.nl
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

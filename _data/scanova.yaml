@@ -1,0 +1,79 @@
+---
+name: Scanova
+description: Scanova QR Code Generator is the easiest way to create, design, manage,
+  and track QR Codes. Get started with a free trial account now!
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29693-scanova-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "102929"
+url: https://raw.githubusercontent.com/api-network/organizations/main/scanova.yaml
+tags:
+- Profile
+apis: []
+x-common:
+- type: x-website
+  url: https://scanova.io/
+- type: x-about
+  url: https://scanova.io/about-us.html
+- type: x-blog
+  url: https://scanova.io/blog/
+- type: x-blog
+  url: https://scanova.io/blog/qrbatch/
+- type: x-blog
+  url: https://scanova.io/blog
+- type: x-blog
+  url: https://scanova.io/blog/qrbatch
+- type: x-code
+  url: https://plus.google.com/+ScanovaIo-qrcode
+- type: x-code
+  url: https://scanova.io/design-qr-code-generator.html
+- type: x-code
+  url: https://sdk.scanova.io/
+- type: x-code
+  url: https://sdk.scanova.io
+- type: x-code
+  url: https://scanova.io/blog/what-is-a-qr-code/
+- type: x-code
+  url: https://scanova.io/blog/how-to-make-qr-codes/
+- type: x-code
+  url: https://scanova.io/blog/how-to-use-qr-codes/
+- type: x-code
+  url: https://scanova.io/blog/how-to-make-a-custom-qr-code/
+- type: x-code
+  url: https://scanova.io/blog/qr-code-statistics/
+- type: x-code
+  url: https://scanova.io/blog/types-of-qr-code-examples/
+- type: x-code
+  url: https://scanova.io/blog/qr-code-sdk/
+- type: x-contact
+  url: https://scanova.io/contact-support.html
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/scanova
+- type: x-developer
+  url: https://api.scanova.io
+- type: x-facebook
+  url: https://www.facebook.com/scanovatech/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/scanova
+- type: x-login
+  url: https://app.scanova.io/api/accounts/login/
+- type: x-privacy
+  url: https://scanova.io/privacy-policy.html
+- type: x-self-service-registration
+  url: https://app.scanova.io/api/accounts/register?planId=48
+- type: x-support
+  url: https://help.scanova.io/?q=api
+- type: x-terms-of-service
+  url: https://scanova.io/terms-of-use.html
+- type: x-twitter
+  url: https://twitter.com/scanovatech
+- type: x-website
+  url: http://scanova.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

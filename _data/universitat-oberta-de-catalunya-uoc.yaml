@@ -1,0 +1,48 @@
+---
+name: Universitat Oberta de Catalunya (UOC)
+description: "La UOC \xE9s una universitat online que ofereix cursos de grau, postgraus,
+  m\xE0sters i idiomes."
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/uoc-logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "12635"
+url: https://raw.githubusercontent.com/api-network/organizations/main/universitat-oberta-de-catalunya-uoc.yaml
+tags:
+- University In Progress
+- Has API
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/open-university-of-catalonia
+- type: x-developers
+  url: http://open-api.uoc.edu/
+- type: x-email
+  url: uocbarcelona@uoc.edu
+- type: x-email
+  url: uoclleida@uoc.edu
+- type: x-email
+  url: uocmadrid@uoc.edu
+- type: x-email
+  url: uocmanresa@uoc.edu
+- type: x-email
+  url: uocpalma@uoc.edu
+- type: x-email
+  url: uocreus@uoc.edu
+- type: x-email
+  url: uocsalt@uoc.edu
+- type: x-email
+  url: uocsevilla@uoc.edu
+- type: x-email
+  url: uocterrassa@uoc.edu
+- type: x-email
+  url: uoctortosa@uoc.edu
+- type: x-website
+  url: http://uoc.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,23 @@
+---
+name: 9to5mac.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/9to5mac-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://9to5mac.com/2013/05/16/pebble-releases-updated-pebblekit-sdk-sports-api-with-full-support-for-ios-android-apps/
+- type: x-website
+  url: http://9to5mac.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,36 @@
+---
+name: Marionette.js
+description: A scalable and composite application architecture.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "676708"
+url: https://raw.githubusercontent.com/api-network/organizations/main/marionette-js.yaml
+tags:
+- JavaScript
+apis: []
+x-common:
+- type: x-website
+  url: http://marionettejs.com
+- type: x-about
+  url: http://about.me
+- type: x-blog
+  url: https://medium.com/blog-marionettejs
+- type: x-contact
+  url: http://constantcontact.com
+- type: x-github
+  url: https://github.com/marionettejs/backbone.marionette
+- type: x-support
+  url: http://www.helpscout.com
+- type: x-twitter
+  url: https://twitter.com/marionettejs
+- type: x-website
+  url: https://marionettejs.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

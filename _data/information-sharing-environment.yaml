@@ -1,0 +1,40 @@
+---
+name: Information Sharing Environment
+description: <p><span>ISE.gov uses the Drupal Content API Module to make its documents
+  and other content available to the public. As an agency responsible for developing
+  and promoting information sharing, we are committed to supporting open data initiatives
+  whenever secure and practical. The Content API module makes our content accessible
+  to any application or platform, while leveraging Drupal&rsquo;s strengths as a content
+  management system. Easily publishing content to multiple applications and devices
+  promotes transparency and accessibility.</span></p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/ise-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/information-sharing-environment.yaml
+tags:
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.odni.gov
+- type: x-developers
+  url: http://ise.gov/developers
+- type: x-facebook
+  url: http://www.facebook.com/dni.gov
+- type: x-open-source
+  url: http://www.whitehouse.gov/open
+- type: x-twitter
+  url: https://www.twitter.com/odnigov
+- type: x-website
+  url: http://ise.gov
+- type: x-youtube
+  url: http://www.youtube.com/odnigov
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

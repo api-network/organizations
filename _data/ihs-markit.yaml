@@ -1,0 +1,52 @@
+---
+name: IHS Markit
+description: '<p>IHS Markit is a global leader in information, analytics and solutions
+  for the major industries and markets that drive economies worldwide. Our company
+  partners with clients in business, finance and government to help them see the big
+  picture with unrivaled insights that lead to well-informed, confident decisions.
+  IHS Markit serves more than 50,000 key customers in over 140 countries, including
+  85 percent of the Fortune Global 500. Headquartered in London, IHS Markit (Nasdaq:
+  INFO) is committed to sustainable, profitable growth.</p>'
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28310-ihsmarkit-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "52335"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ihs-markit.yaml
+tags:
+- Market Data
+- Financial
+- Data Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ihsmarkit.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/ihs-markit
+- type: x-email
+  url: Accommodation@ihs.com
+- type: x-email
+  url: dpa@ihsmarkit.com
+- type: x-email
+  url: privacy@ihsmarkit.com
+- type: x-email
+  url: informationcompliance@ihsmarkit.com
+- type: x-email
+  url: mk_alliancepartners@markit.com
+- type: x-email
+  url: privacy@ihs.com
+- type: x-email
+  url: tim.mclaughlin@ihsmarkit.com
+- type: x-github
+  url: https://github.com/markitondemand
+- type: x-twitter
+  url: https://twitter.com/IHSMarkit
+- type: x-website
+  url: https://ihsmarkit.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

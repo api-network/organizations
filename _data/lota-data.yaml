@@ -1,0 +1,44 @@
+---
+name: Lota Data
+description: ""
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/lotadata-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4627811"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lota-data.yaml
+tags:
+- Relative Data
+- Have Swagger
+- Have API Paths
+- Have API
+- General Data
+- API Provider
+- Analysis
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.lotadata.com/blog/
+- type: x-developers
+  url: https://docs.lotadata.com/
+- type: x-documentation
+  url: https://docs.lotadata.com/apis.html
+- type: x-documentation
+  url: https://docs.lotadata.com/
+- type: x-documentation
+  url: https://docs.lotadata.com/geosdk
+- type: x-documentation
+  url: https://docs.lotadata.com/apis
+- type: x-documentation
+  url: https://docs.lotadata.com/geopush
+- type: x-monetization
+  url: https://docs.lotadata.com/monetization.html
+- type: x-website
+  url: http://lotadata.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

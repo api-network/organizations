@@ -1,0 +1,40 @@
+---
+name: Parabon Computation
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/parabon-computation.yaml
+tags:
+- Synthetic DNA
+- Phenomics
+- Nanotechnology
+- Nanostructure
+- Nanoscale
+- Nanobiology
+- Genomics
+- Genetics
+- DNA Self-assembly
+- Computational Biology
+- Companies
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/pages/Parabon/139039799481663
+- type: x-news
+  url: https://apnews.com/a6670441f85f4b1c8f56419d0096b349
+- type: x-news
+  url: https://apnews.com/1e499329875a42c09055b6511103dadc
+- type: x-twitter
+  url: https://www.twitter.com/Parabon
+- type: x-website
+  url: https://www.parabon.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

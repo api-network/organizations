@@ -1,0 +1,25 @@
+---
+name: "Json Api - Bot B\xE1n H\xE0ng"
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: ""
+url: https://raw.githubusercontent.com/api-network/organizations/main/json-api--bot-bn-hng.yaml
+tags:
+- Postman Doc Search
+- New
+apis: []
+x-common:
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/8752962/SVmqz1BB
+- type: x-website
+  url: http://docs.botbanhang.vn
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

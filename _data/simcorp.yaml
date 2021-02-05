@@ -1,0 +1,35 @@
+---
+name: Simcorp
+description: Leading provider of investment management software solutions for the
+  world's leading financial organizations. Discover SimCorp Dimension.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "643400"
+url: https://raw.githubusercontent.com/api-network/organizations/main/simcorp.yaml
+tags:
+- Resellers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.simcorp.com
+- type: x-facebook
+  url: https://www.facebook.com/SimCorp-137969019578871/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/simcorp
+- type: x-support
+  url: https://supportportal.simcorp.com
+- type: x-twitter
+  url: https://twitter.com/SimCorp
+- type: x-website
+  url: https://www.simcorp.com
+- type: x-youtube
+  url: https://www.youtube.com/user/SimCorpTV
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

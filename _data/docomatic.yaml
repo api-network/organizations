@@ -1,0 +1,53 @@
+---
+name: Doc-O-Matic
+description: Doc-O-Matic is a software source code documentation and Help authoring
+  tool. It takes source code and comments, adds conceptual topics and external input
+  and produces documentation from it. With its single-source approach it generates
+  many different kinds of output from a single documentation base.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/docomatic.yaml
+tags:
+- XML Doc
+- Windows Help
+- Visual Studio
+- VB.NET
+- Tools
+- Source Code Documentation Tool
+- Source Code Documentation
+- Source Code
+- Software Documentation
+- Quality Assurance
+- Qa
+- PHP
+- Matlab
+- JSP
+- JavaScript
+- JavaDoc
+- Java
+- IDL
+- Html Help
+- Help Viewer
+- Help Authoring Tool
+- HAT
+- DOCOMATIC
+- Doc-O-Matic
+- Delphi
+- C/C++
+- C#
+- Automated Help System Generation
+- ASPX
+apis: []
+x-common:
+- type: x-website
+  url: https://www.doc-o-matic.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

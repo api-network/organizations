@@ -1,0 +1,39 @@
+---
+name: Check Point ZoneAlarm
+description: Secure your PC and mobile with the most protective, real-time security
+  software and mobile apps.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "45498"
+url: https://raw.githubusercontent.com/api-network/organizations/main/check-point-zonealarm.yaml
+tags:
+- Personal Firewalls
+apis: []
+x-common:
+- type: x-website
+  url: http://www.zonealarm.com
+- type: x-blog
+  url: https://blog.zonealarm.com
+- type: x-careers
+  url: https://careers.checkpoint.com/careers
+- type: x-code
+  url: https://checkpoint.centercode.com/welcome
+- type: x-facebook
+  url: https://www.facebook.com/ZoneAlarm
+- type: x-instagram
+  url: https://www.instagram.com/zonealarm
+- type: x-security
+  url: https://www.youtube.com/zonealarmsecurity
+- type: x-twitter
+  url: https://twitter.com/zonealarm
+- type: x-website
+  url: https://www.zonealarm.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

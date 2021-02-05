@@ -1,0 +1,24 @@
+---
+name: Kaggle
+description: Download Open Datasets on 1000s of Projects + Share Projects on One Platform.
+  Explore Popular Topics Like Government, Sports, Medicine, Fintech, Food, More. Flexible
+  Data Ingestion.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2892"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kaggle.yaml
+tags:
+- Companies
+apis: []
+x-common:
+- type: x-website
+  url: https://www.kaggle.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,37 @@
+---
+name: Relate Software
+description: Relate Software for Practice Management, CRM, Accounts Production, Company
+  Secretarial, Personal & Corporation Tax and Cloud Accounting Software.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8574098"
+url: https://raw.githubusercontent.com/api-network/organizations/main/relate-software.yaml
+tags:
+- Industry Specific
+apis: []
+x-common:
+- type: x-website
+  url: http://www.relate-software.com/
+- type: x-about
+  url: https://www.relate-software.com/about/
+- type: x-blog
+  url: https://www.relate-software.com/blog/
+- type: x-contact
+  url: https://www.relate-software.com/contact/
+- type: x-support
+  url: https://www.relate-software.com/support/
+- type: x-twitter
+  url: https://twitter.com/RelateSoftware
+- type: x-website
+  url: https://www.relate-software.com
+- type: x-youtube
+  url: https://www.youtube.com/user/relatesoftware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

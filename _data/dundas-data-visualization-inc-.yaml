@@ -1,0 +1,38 @@
+---
+name: Dundas Data Visualization Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "219651"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dundas-data-visualization-inc-.yaml
+tags:
+- Retailers
+apis: []
+x-common:
+- type: x-documentation
+  url: https://www.dundas.com/support/learning/documentation/
+- type: x-partner
+  url: https://partner.microsoft.com/en-us
+- type: x-support
+  url: https://www.dundas.com/support/
+- type: x-support
+  url: https://www.dundas.com/support/videos/
+- type: x-support
+  url: https://www.dundas.com/support/developer/
+- type: x-support
+  url: https://www.dundas.com/support/dundas-bi-free-trial
+- type: x-twitter
+  url: https://twitter.com/dundasdata
+- type: x-website
+  url: https://www.dundas.com
+- type: x-youtube
+  url: https://www.youtube.com/user/dundasdv
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

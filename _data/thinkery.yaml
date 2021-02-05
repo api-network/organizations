@@ -1,0 +1,45 @@
+---
+name: thinkery
+description: 'Thinkery is a fast and lightweight tool for storing notes, bookmarks,
+  todos, organized through #hashtags. Bookmarks are stored in full-text. Android and
+  iOS app available.'
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1736_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "467448"
+url: https://raw.githubusercontent.com/api-network/organizations/main/thinkery.yaml
+tags:
+- Have API
+- Bookmarks
+apis: []
+x-common:
+- type: x-website
+  url: http://thinkery.me
+- type: x-blog
+  url: http://www.findyourflo.com/blog/
+- type: x-blog
+  url: http://blog.thinkery.me
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/flo-thinkery
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/thinkery
+- type: x-developer
+  url: http://developer.thinkery.me
+- type: x-facebook
+  url: http://facebook.com/thinkery
+- type: x-github
+  url: https://github.com/thinkery
+- type: x-twitter
+  url: https://twitter.com/thinkeryme
+- type: x-twitter
+  url: http://twitter.com/thinkeryme
+- type: x-website
+  url: https://thinkery.me/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

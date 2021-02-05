@@ -1,0 +1,47 @@
+---
+name: Lifen
+description: "Lifen est votre messagerie m\xE9dicale simple et s\xE9curis\xE9e. Envoyez
+  et recevez des courriers m\xE9dicaux entre professionnels de sant\xE9. D\xE9mat\xE9rialisez
+  jusqu'\xE0 80% des envois de comptes rendus. Compatible avec tous les logiciels
+  de cabinet et tous les outils ..."
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28166-developers-lifen-fr.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1777969"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lifen.yaml
+tags:
+- Healthcare
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.lifen.fr
+- type: x-contact
+  url: https://www.lifen.fr/contact/
+- type: x-developer
+  url: https://www.lifen.fr/api/
+- type: x-developer
+  url: http://developers.lifen.fr/
+- type: x-developers
+  url: http://developers.lifen.fr/
+- type: x-facebook
+  url: https://www.facebook.com/teamlifen/
+- type: x-instagram
+  url: https://instagram.com/teamlifen/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/honestica/
+- type: x-terms-of-service
+  url: https://www.lifen.fr/mentions-legales/
+- type: x-twitter
+  url: https://twitter.com/lifen_fr
+- type: x-website
+  url: http://lifen.fr
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

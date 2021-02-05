@@ -1,0 +1,23 @@
+---
+name: techworld.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/techworld-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.techworld.com/news/personal-tech/toyota-use-fords-in-car-smartphone-interface-3614451/
+- type: x-website
+  url: http://techworld.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

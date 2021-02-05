@@ -1,0 +1,70 @@
+---
+name: MecSoft Corporation
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "549367"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mecsoft-corporation.yaml
+tags:
+- Computer Aided Manufacturing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.mecsoft.com
+- type: x-blog
+  url: https://mecsoft.com/blog/
+- type: x-blog
+  url: http://www.mecsoft.com/blog
+- type: x-careers
+  url: https://mecsoft.com/careers/
+- type: x-case-studies
+  url: https://mecsoft.com/casestudies
+- type: x-case-studies
+  url: https://mecsoft.com/casestudies/
+- type: x-contact
+  url: https://mecsoft.com/contactus/
+- type: x-contact
+  url: https://www.constantcontact.com/legal/service-provider
+- type: x-facebook
+  url: http://www.facebook.com/MecSoft
+- type: x-facebook
+  url: https://www.facebook.com/MecSoft
+- type: x-linkedin
+  url: https://www.linkedin.com/company/mecsoft-corporation
+- type: x-login
+  url: https://mecsoft.com/mecsoft-visualserve-login/
+- type: x-news
+  url: https://mecsoft.com/news/
+- type: x-news
+  url: https://mecsoft.com/newsletters/
+- type: x-partner
+  url: https://mecsoft.com/partners/
+- type: x-privacy
+  url: https://mecsoft.com/mecsoft-privacy-policy-2/
+- type: x-self-service-registration
+  url: https://mecsoft.com/register-products/
+- type: x-showcase
+  url: https://mecsoft.com/showcase/
+- type: x-support
+  url: https://mecsoft.com/customer-support/
+- type: x-support
+  url: https://mecsoft.com/request-support/
+- type: x-twitter
+  url: http://twitter.com/MecSoft
+- type: x-twitter
+  url: https://www.twitter.com/MecSoft
+- type: x-webinars
+  url: https://mecsoft.com/webinar/
+- type: x-website
+  url: https://www.mecsoft.com
+- type: x-youtube
+  url: http://youtube.com/user/MecSoftCorporation
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

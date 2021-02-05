@@ -1,0 +1,29 @@
+---
+name: NEM
+description: NEM is a blockchain based community initiative with currently over 70
+  highly active and rewarded team members from around the globe; rewarded because
+  NEM believes everyone???s contribution is important. With its proof-of-importance
+  (POI) algorithm, NEM h...
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26624-nem-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "43570"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nem.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: https://nem.io
+- type: x-twitter
+  url: https://twitter.com/NEMofficial
+- type: x-website
+  url: http://nem.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

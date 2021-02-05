@@ -1,0 +1,22 @@
+---
+name: Turtle by Perm-A-Store
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1824574"
+url: https://raw.githubusercontent.com/api-network/organizations/main/turtle-by-permastore.yaml
+tags:
+- Storage
+apis: []
+x-common:
+- type: x-website
+  url: https://www.turtlecase.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

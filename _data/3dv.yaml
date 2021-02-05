@@ -1,0 +1,39 @@
+---
+name: 3DV
+description: We are your local reseller for all things 3D related. We specialize in
+  Autodesk, ZBrush, V-Ray, Marvolus Designer, Maxon, Wacom, Formlabs and Ultimaker.
+  If you need to create a digital asset we have the solution. Just ask any of sales
+  associates at sales@3DV.com
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2666652"
+url: https://raw.githubusercontent.com/api-network/organizations/main/3dv.yaml
+tags:
+- Zbrush
+- Wacom
+- V-Ray
+- Ultimaker
+- Maxon
+- Marvelous Designer
+- Formlabs
+- Companies
+- Autodesk
+apis: []
+x-common:
+- type: x-website
+  url: http://www.3dv.com
+- type: x-facebook
+  url: https://www.facebook.com/3DVCorp/
+- type: x-twitter
+  url: https://twitter.com/3dvcorp
+- type: x-website
+  url: https://www.3dv.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

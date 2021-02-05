@@ -1,0 +1,26 @@
+---
+name: Genetic-Programming.org
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "821942"
+url: https://raw.githubusercontent.com/api-network/organizations/main/geneticprogramming-org.yaml
+tags:
+- Genetic Programming
+apis: []
+x-common:
+- type: x-events
+  url: http://ehw.jpl.nasa.gov/events/nasaeh04/
+- type: x-press
+  url: http://mitpress.mit.edu/
+- type: x-website
+  url: https://www.genetic-programming.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

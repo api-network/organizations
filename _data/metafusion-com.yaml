@@ -1,0 +1,60 @@
+---
+name: MetaFusion.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/metafusion-com.yaml
+tags:
+- Mass Sellers
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.teamwave.com/
+- type: x-blog
+  url: https://blog.teamwave.com/10-best-asana-alternatives/
+- type: x-blog
+  url: https://blog.teamwave.com/basecamp-vs-asana/
+- type: x-blog
+  url: https://blog.teamwave.com/author/leoharsha/
+- type: x-blog
+  url: https://blog.teamwave.com/category/general/
+- type: x-blog
+  url: https://blog.teamwave.com/category/teamwave-projects/
+- type: x-blog
+  url: https://blog.teamwave.com/category/uncategorized/
+- type: x-blog
+  url: https://blog.teamwave.com/tag/asana/
+- type: x-blog
+  url: https://blog.teamwave.com/tag/asana-alternatives/
+- type: x-blog
+  url: https://blog.teamwave.com/tag/basecamp-vs-asana/
+- type: x-blog
+  url: https://blog.teamwave.com/tag/project-management/
+- type: x-blog
+  url: https://blog.teamwave.com/tag/price-objections/
+- type: x-blog
+  url: https://blog.teamwave.com/tag/sales-objection/
+- type: x-blog
+  url: https://blog.teamwave.com/best-crm-for-gmail/
+- type: x-blog
+  url: https://blog.teamwave.com/tag/objection-handling/
+- type: x-blog
+  url: https://blog.teamwave.com/page/2/
+- type: x-blog
+  url: https://blog.teamwave.com/page/47/
+- type: x-developer
+  url: http://developer.metafusion.com
+- type: x-press
+  url: https://wordpress.org/
+- type: x-website
+  url: https://www.metafusion.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

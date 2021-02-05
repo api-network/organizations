@@ -1,0 +1,36 @@
+---
+name: Tryten
+description: For over 20 years, Tryten Technologies has been an industry leader in
+  secure solutions for tech hardware. Buy iPad Kiosks, Laptop Locks, & Computer Lockers
+  at www.tryten.com.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2336084"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tryten.yaml
+tags:
+- Tracking, Prevention And Recovery
+apis: []
+x-common:
+- type: x-website
+  url: http://www.tryten.com
+- type: x-facebook
+  url: https://www.facebook.com/TrytenTech
+- type: x-linkedin
+  url: https://www.linkedin.com/company/tryten-technologies/
+- type: x-showcase
+  url: https://www.tryten.com/news/showcase/
+- type: x-twitter
+  url: https://twitter.com/Tryten
+- type: x-website
+  url: https://www.tryten.com
+- type: x-youtube
+  url: https://www.youtube.com/c/Tryten
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

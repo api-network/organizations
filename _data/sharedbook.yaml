@@ -1,0 +1,72 @@
+---
+name: SharedBook
+description: SharedBook provides secure mobile delivery of workbooks, manuals, reports,
+  and other content for trainers, management consultants, publishers, and associations.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/928_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1314664"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sharedbook.yaml
+tags:
+- Have API
+- Books
+apis: []
+x-common:
+- type: x-website
+  url: http://www.sharedbook.com/dev/
+- type: x-website
+  url: http://www.sharedbook.com
+- type: x-about
+  url: https://www.sharedbook.com/about-us
+- type: x-blog
+  url: https://blog.sharedbook.com
+- type: x-blog
+  url: http://blog.sharedbook.com/
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/sharedbook
+- type: x-contact
+  url: https://www.sharedbook.com/contact-us
+- type: x-contact
+  url: https://https://www.sharedbook.com/contact
+- type: x-contact
+  url: https://www.sharedbook.com/contact
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/sharedbook
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/sharedbook
+- type: x-email
+  url: support@sharedbook.com
+- type: x-email
+  url: marketing@sharedbook.com
+- type: x-email
+  url: legalnotices@sharedbook.com
+- type: x-facebook
+  url: https://www.facebook.com/SharedBookInc/
+- type: x-linkedin
+  url: https://www.linkedin.com/company-beta/47531/
+- type: x-platform
+  url: https://www.sharedbook.com/platform
+- type: x-pricing
+  url: https://www.sharedbook.com/pricing
+- type: x-privacy
+  url: https://www.sharedbook.com/privacy-policy
+- type: x-terms-of-service
+  url: https://www.sharedbook.com/terms-of-service
+- type: x-tutorials
+  url: https://www.sharedbook.com/tutorials
+- type: x-tutorials
+  url: https://www.sharedbook.com/tutorials#2
+- type: x-tutorials
+  url: https://www.sharedbook.com/tutorials#4
+- type: x-tutorials
+  url: https://www.sharedbook.com/tutorials#5
+- type: x-twitter
+  url: https://twitter.com/MySharedBook
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

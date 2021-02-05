@@ -1,0 +1,46 @@
+---
+name: Captivate Mail
+description: Our email marketing software and email marketing services provide the
+  best solution to create and send email newsletters and autoresponders to your customers.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/captivate-mail.yaml
+tags:
+- Web Based Email Marketing Software
+- Online Tools
+- Mass Email Software
+- Mass Email Marketing Software
+- Email Marketing Tool
+- Email Marketing Solutions
+- Email Marketing Software
+- Email Marketing Services
+- Email Marketing
+- Direct Email Marketing Software
+- Bulk Email Marketing
+- Best Email Marketing Software
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.captivatemail.com.au/contact-us/
+- type: x-facebook
+  url: http://www.facebook.com/captivatemail/
+- type: x-pricing
+  url: https://www.captivatemail.com.au/pricing/
+- type: x-privacy
+  url: https://www.captivatemail.com.au/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.captivatemail.com.au/terms-of-use/
+- type: x-twitter
+  url: http://www.twitter.com/captivatemail/
+- type: x-website
+  url: https://www.captivatemail.com.au
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

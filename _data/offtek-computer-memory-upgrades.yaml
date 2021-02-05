@@ -1,0 +1,68 @@
+---
+name: Offtek Computer Memory Upgrades
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1037580"
+url: https://raw.githubusercontent.com/api-network/organizations/main/offtek-computer-memory-upgrades.yaml
+tags:
+- Memory
+apis: []
+x-common:
+- type: x-website
+  url: http://www.offtek.co.uk
+- type: x-about
+  url: https://www.offtek.co.uk/about/
+- type: x-about
+  url: https://www.offtek.co.uk/about/credit-account
+- type: x-about
+  url: https://www.offtek.co.uk/about/why-buy-from-us
+- type: x-about
+  url: https://www.offtek.co.uk/about
+- type: x-about
+  url: https://www.offtek.co.uk/about/compatibility-guarantee
+- type: x-about
+  url: https://www.offtek.co.uk/about/payment
+- type: x-about
+  url: https://www.offtek.co.uk/about/returns
+- type: x-about
+  url: https://www.offtek.co.uk/about/glossary
+- type: x-about
+  url: https://www.offtek.co.uk/about/weee
+- type: x-blog
+  url: https://www.offtek.co.uk/blog/
+- type: x-blog
+  url: https://www.offtek.co.uk/blog/why-upgrade-to-an-ssd/
+- type: x-blog
+  url: https://www.offtek.co.uk/blog/printer-memory-errors/
+- type: x-contact
+  url: https://www.offtek.co.uk/about/contact-us
+- type: x-facebook
+  url: https://www.facebook.com/offtek
+- type: x-linkedin
+  url: https://uk.linkedin.com/in/offtek-ltd-4bb99b6a
+- type: x-open-source
+  url: https://www.offtek.co.uk/aopen
+- type: x-security
+  url: https://www.offtek.co.uk/about/security
+- type: x-self-service-registration
+  url: https://www.offtek.co.uk/user/register
+- type: x-support
+  url: https://www.offtek.co.uk/help-and-faqs
+- type: x-support
+  url: https://www.offtek.co.uk/help-and-faqs/new-to-offtek
+- type: x-terms-of-service
+  url: https://www.offtek.co.uk/about/terms-and-conditions
+- type: x-twitter
+  url: https://twitter.com/OFFTEK
+- type: x-website
+  url: https://www.offtek.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,62 @@
+---
+name: Wake Forest University
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "43596"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wake-forest-university.yaml
+tags:
+- North Carolina
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cs.wfu.edu/
+- type: x-about
+  url: https://about.wfu.edu/directories/
+- type: x-about
+  url: https://cs.wfu.edu/about/
+- type: x-about
+  url: https://cs.wfu.edu/about/why-join-us/
+- type: x-about
+  url: https://cs.wfu.edu/about/faculty-staff/
+- type: x-about
+  url: https://cs.wfu.edu/about/cs-center/
+- type: x-about
+  url: https://cs.wfu.edu/about/scholarships-aid/
+- type: x-about
+  url: https://graduate.wfu.edu/about-winston-salem/
+- type: x-about
+  url: https://about.wfu.edu/visiting/directions/
+- type: x-about
+  url: https://about.wfu.edu/academics/academic-calendars/
+- type: x-careers
+  url: https://hr.wfu.edu/careers/
+- type: x-contact
+  url: https://cs.wfu.edu/contact/
+- type: x-developer
+  url: http://dev.cs.wfu.edu
+- type: x-events
+  url: https://cs.wfu.edu/category/events/
+- type: x-events
+  url: https://cs.wfu.edu/events/
+- type: x-instagram
+  url: https://www.instagram.com/wfucomputer_science/
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/4088330/
+- type: x-news
+  url: https://cs.wfu.edu/news/
+- type: x-privacy
+  url: https://cs.wfu.edu/privacy/
+- type: x-twitter
+  url: https://twitter.com/wfucompsci
+- type: x-website
+  url: https://www.cs.wfu.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

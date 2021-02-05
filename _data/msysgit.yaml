@@ -1,0 +1,24 @@
+---
+name: Msysgit
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "680239"
+url: https://raw.githubusercontent.com/api-network/organizations/main/msysgit.yaml
+tags:
+- Git
+apis: []
+x-common:
+- type: x-github
+  url: https://git-for-windows.github.io/
+- type: x-website
+  url: https://msysgit.github.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,44 @@
+---
+name: Baseline Business Geographics
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/baseline-business-geographics.yaml
+tags:
+- Consultants
+apis: []
+x-common:
+- type: x-about
+  url: https://www.baselinegeo.com/company/about-baseline/
+- type: x-careers
+  url: https://www.baselinegeo.com/company/careers/
+- type: x-case-studies
+  url: https://www.baselinegeo.com/resources/case-studies/
+- type: x-contact
+  url: https://www.baselinegeo.com/contact/
+- type: x-contact
+  url: http://www.baselinegeo.com/contact/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/2546422
+- type: x-news
+  url: https://www.baselinegeo.com/news/blog/
+- type: x-news
+  url: https://www.baselinegeo.com/news/enewsletter/
+- type: x-news
+  url: https://www.baselinegeo.com/news/published/
+- type: x-partner
+  url: https://www.baselinegeo.com/company/partners/
+- type: x-website
+  url: https://www.baselinegeo.com
+- type: x-white-papers
+  url: https://www.baselinegeo.com/resources/white-papers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

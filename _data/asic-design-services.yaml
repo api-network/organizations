@@ -1,0 +1,32 @@
+---
+name: ASIC Design Services
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/asic-design-services.yaml
+tags:
+- Programable
+- FPGA
+- Electronics
+- Electronic Component
+- Distribution
+- ASICs And Chips
+- Asic
+apis: []
+x-common:
+- type: x-about
+  url: http://asic.co.za/aboutus.htm
+- type: x-contact
+  url: http://asic.co.za/contactus.htm
+- type: x-website
+  url: https://www.asic.co.za
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

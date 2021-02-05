@@ -1,0 +1,35 @@
+---
+name: Seventh String Software
+description: Seventh String Software - the home of Transcribe!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "363655"
+url: https://raw.githubusercontent.com/api-network/organizations/main/seventh-string-software.yaml
+tags:
+- Windows
+- Transcription
+- Transcribe
+- Spectrum Analysis
+- Software
+- Slow Down
+- Seventh String
+- Pitch
+- Music
+- MP3
+- Mac
+- Linux
+- Jazz
+- Educational
+apis: []
+x-common:
+- type: x-website
+  url: https://www.seventhstring.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

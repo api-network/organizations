@@ -1,0 +1,49 @@
+---
+name: Viatests
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/viatests.yaml
+tags: []
+apis: []
+x-common:
+- type: x-blog
+  url: http://apimetrics.io/blog/
+- type: x-contact
+  url: http://apimetrics.io/contact/
+- type: x-facebook
+  url: https://www.facebook.com/apimetrics
+- type: x-login
+  url: https://client.apimetrics.io/login/
+- type: x-press
+  url: http://apimetrics.io/category/press-release/
+- type: x-pricing
+  url: http://apimetrics.io/pricing/
+- type: x-privacy
+  url: http://apimetrics.io/privacy/
+- type: x-self-service-registration
+  url: https://client.apimetrics.io/register/
+- type: x-self-service-registration
+  url: http://client.apimetrics.io/register/
+- type: x-self-service-registration
+  url: http://client.apimetrics.io/register
+- type: x-self-service-registration
+  url: https://client.apimetrics.io/register
+- type: x-status
+  url: http://apimetrics.io/api-status/
+- type: x-twitter
+  url: https://twitter.com/apimetricstats
+- type: x-twitter
+  url: https://twitter.com/Viatests
+- type: x-website
+  url: http://www.viatests.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

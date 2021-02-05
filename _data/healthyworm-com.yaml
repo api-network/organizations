@@ -1,0 +1,27 @@
+---
+name: HealthyWorm.com
+description: ???? Order on https://t.co/ksqrdkUNtG today ????   ????  We DO NOT USE
+  polycarbonates  ????????????  Wisconsin, USA, based company  ????????
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27546-healthyworm-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "659795"
+url: https://raw.githubusercontent.com/api-network/organizations/main/healthyworm-com.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-email
+  url: sales@healthyworm.com
+- type: x-twitter
+  url: https://twitter.com/HealthyWormCoin
+- type: x-website
+  url: http://healthyworm.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

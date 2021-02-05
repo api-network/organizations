@@ -1,0 +1,38 @@
+---
+name: Somatic
+description: '<p>We are AI enthusiasts on a mission to make deep learning easily available
+  to everyone. We focus on building cutting edge tools that can be integrated into
+  existing apps cheaply and with minimal work. We work across various models, but
+  our focus is on image processing deep learning. For a quick demo of what we can
+  do, check out our Fast Demo Page. Our API has been used in a number of applications:
+  to build an image transformation mobile app, to create an amazing photo booth, and
+  to add a unique twist on custom printing.</p>'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/somatic.yaml
+tags:
+- Machine Learning
+apis: []
+x-common:
+- type: x-website
+  url: http://www.somatic.io
+- type: x-blog
+  url: http://www.somatic.io/blog
+- type: x-documentation
+  url: http://www.somatic.io/docs
+- type: x-pricing
+  url: http://www.somatic.io/subscribers/new?t=image
+- type: x-twitter
+  url: https://twitter.com/somaticapi
+- type: x-website
+  url: http://www.somatic.io/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

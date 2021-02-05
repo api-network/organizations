@@ -1,0 +1,31 @@
+---
+name: Burn4Free
+description: Easy and freeware DVD burning software, copy and burn your data in 1
+  click. Download now.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1238310"
+url: https://raw.githubusercontent.com/api-network/organizations/main/burn4free.yaml
+tags:
+- Music And Audio
+apis: []
+x-common:
+- type: x-about
+  url: https://www.burn4free.com/about.htm
+- type: x-contact
+  url: https://www.burn4free.com/contact-info.htm
+- type: x-privacy
+  url: https://www.burn4free.com/privacy.htm
+- type: x-support
+  url: https://www.burn4free.com/tutorial-help.htm
+- type: x-website
+  url: https://www.burn4free.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

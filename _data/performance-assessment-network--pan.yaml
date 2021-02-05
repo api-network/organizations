@@ -1,0 +1,46 @@
+---
+name: Performance Assessment Network - pan
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "813020"
+url: https://raw.githubusercontent.com/api-network/organizations/main/performance-assessment-network--pan.yaml
+tags:
+- Testing And Evaluation
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.psionline.com/blog/
+- type: x-careers
+  url: https://www.psionline.com/company/careers/
+- type: x-events
+  url: https://www.psionline.com/company/events/
+- type: x-facebook
+  url: https://www.facebook.com/psiexams
+- type: x-linkedin
+  url: https://www.linkedin.com/company/psi-services-llc/
+- type: x-platform
+  url: https://www.psionline.com/platforms/atlas/
+- type: x-platform
+  url: https://www.psionline.com/platforms/psi-bridge/
+- type: x-platform
+  url: https://www.psionline.com/platforms/psi-dimensions/
+- type: x-platform
+  url: https://www.psionline.com/platforms/psi-true-talent/
+- type: x-platform
+  url: https://www.psionline.com/platforms/amijobready/
+- type: x-platform
+  url: https://www.psionline.com/platforms/
+- type: x-twitter
+  url: https://www.twitter.com/PSIServicesLLC
+- type: x-website
+  url: https://www.panpowered.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

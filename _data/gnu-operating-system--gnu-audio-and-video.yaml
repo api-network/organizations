@@ -1,0 +1,24 @@
+---
+name: "GNU Operating System \u2014 GNU Audio and Video"
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10522"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gnu-operating-system--gnu-audio-and-video.yaml
+tags:
+- Stallman, Richard
+apis: []
+x-common:
+- type: x-about
+  url: http://www.fsf.org/about/dmca-notice
+- type: x-website
+  url: https://audio-video.gnu.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

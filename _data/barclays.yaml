@@ -1,0 +1,46 @@
+---
+name: Barclays
+description: Barclays plc is a British multinational investment bank and financial
+  services company headquartered in London.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29687-barclaycardus-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3697"
+url: https://raw.githubusercontent.com/api-network/organizations/main/barclays.yaml
+tags:
+- Has API
+- Financial
+- Banks
+- Banking
+apis: []
+x-common:
+- type: x-about
+  url: https://cards.barclaycardus.com/banking/about-us/
+- type: x-contact
+  url: https://cards.barclaycardus.com/banking/contact-us/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/barclaycard
+- type: x-facebook
+  url: https://www.facebook.com/barclaysbankus
+- type: x-instagram
+  url: https://www.instagram.com/barclaysbankus
+- type: x-support
+  url: https://cards.barclaycardus.com/banking/support/
+- type: x-terms-of-service
+  url: https://cards.barclaycardus.com/banking/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/BarclaycardUS
+- type: x-twitter
+  url: https://www.twitter.com/barclaysbankus
+- type: x-website
+  url: http://barclaycardus.com
+- type: x-youtube
+  url: https://www.youtube.com/c/BarclaysBankUS
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

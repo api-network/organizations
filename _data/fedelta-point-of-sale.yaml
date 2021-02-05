@@ -1,0 +1,49 @@
+---
+name: Fedelta Point of Sale
+description: Fedelta POS is Australia's leading point of sale provider in hospitality
+  and retail industries. With true enterprise functionality, we offer powerful POS
+  Software and POS Hardware for a range of businesses. Contact us to boost your business'
+  performance today!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2571097"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fedelta-point-of-sale.yaml
+tags:
+- Point Of Sale
+apis: []
+x-common:
+- type: x-website
+  url: http://www.fedeltapos.com
+- type: x-about
+  url: https://www.fedeltapos.com/about/
+- type: x-contact
+  url: https://www.fedeltapos.com/contact/
+- type: x-contact
+  url: https://www.fedeltapos.com/contact/#tab-brisbane
+- type: x-contact
+  url: https://www.fedeltapos.com/contact/#tab-sydney
+- type: x-contact
+  url: https://www.fedeltapos.com/contact/#tab-melbourne
+- type: x-contact
+  url: https://www.fedeltapos.com/contact/#tab-auckland
+- type: x-facebook
+  url: https://www.facebook.com/fedeltapos
+- type: x-linkedin
+  url: https://www.linkedin.com/company/fedelta-point-of-sale
+- type: x-login
+  url: https://www.fedeltapos.com/login/
+- type: x-privacy
+  url: https://www.fedeltapos.com/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/FedeltaPOS
+- type: x-website
+  url: https://www.fedeltapos.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,23 @@
+---
+name: "eSURETY\u2122"
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/esurety.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: https://www.tinubu.com/solutions-products/surety/esurety/
+- type: x-twitter
+  url: https://twitter.com/eSURETY
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

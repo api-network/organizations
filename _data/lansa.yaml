@@ -1,0 +1,71 @@
+---
+name: Lansa
+description: 30 years and thousands of customers perfecting the best Mobile and Low-Code
+  Development Platform | Data Integration | MDM, PIM and GDSN
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "599250"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lansa.yaml
+tags:
+- Development Environments
+apis: []
+x-common:
+- type: x-website
+  url: http://www.lansa.com
+- type: x-about
+  url: https://www.lansa.com/about/
+- type: x-blog
+  url: https://blog.lansa.com
+- type: x-blog
+  url: https://developer.lansa.com/blog/
+- type: x-case-studies
+  url: https://www.lansa.com/casestudies/
+- type: x-contact
+  url: https://www.lansa.com/about/contact-us.htm
+- type: x-developer
+  url: https://developer.lansa.com/
+- type: x-developer
+  url: https://developer.lansa.com/download/
+- type: x-developer
+  url: http://developer.lansa.com
+- type: x-developer
+  url: https://developer.lansa.com
+- type: x-developer
+  url: https://developer.lansa.com/resources/
+- type: x-developer
+  url: https://developer.lansa.com/visual-lansa-in-100-words/
+- type: x-developer
+  url: https://developer.lansa.com/sample-apps/
+- type: x-developer
+  url: https://developer.lansa.com/rdmlx-2fa-authy/
+- type: x-facebook
+  url: https://www.facebook.com/lansasoftware
+- type: x-linkedin
+  url: https://www.linkedin.com/company/lansa
+- type: x-news
+  url: https://www.lansa.com/support/v14news/highlights.htm
+- type: x-support
+  url: https://support.lansa.com/
+- type: x-support
+  url: https://www.lansa.com/services/support.htm
+- type: x-terms-of-service
+  url: https://www.lansa.com/legal.htm#privacy
+- type: x-terms-of-service
+  url: https://www.lansa.com/legal.htm
+- type: x-terms-of-service
+  url: https://www.lansa.com/legal.htm#cookies
+- type: x-twitter
+  url: https://twitter.com/lansa
+- type: x-website
+  url: https://www.lansa.com
+- type: x-youtube
+  url: https://www.youtube.com/c/LANSASoftware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

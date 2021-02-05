@@ -1,0 +1,46 @@
+---
+name: RealVNC
+description: "The original and best for remote access across desktop and mobile. VNC\xAE
+  software enables you to remotely access and securely control your desktop or mobile
+  device. Your computer whenever and wherever you need it."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "24929"
+url: https://raw.githubusercontent.com/api-network/organizations/main/realvnc.yaml
+tags:
+- Virtual Network Computing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.realvnc.com
+- type: x-blog
+  url: https://discover.realvnc.com/blog
+- type: x-customers
+  url: https://www.realvnc.com/connect/customers/#g2crowd
+- type: x-developer
+  url: https://manage.developer.realvnc.com/
+- type: x-developer
+  url: http://developer.realvnc.com
+- type: x-documentation
+  url: https://www.realvnc.com/en/connect/docs/faq/index.html
+- type: x-facebook
+  url: https://www.facebook.com/realvnc
+- type: x-linkedin
+  url: https://www.linkedin.com/company/realvnc
+- type: x-status
+  url: https://realvnc.statuspage.io/
+- type: x-twitter
+  url: https://twitter.com/realvnc
+- type: x-website
+  url: https://www.realvnc.com
+- type: x-youtube
+  url: https://www.youtube.com/user/RealVNCLtd
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

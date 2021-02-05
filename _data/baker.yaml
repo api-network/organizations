@@ -1,0 +1,58 @@
+---
+name: Baker
+description: |-
+  Baker is the leading CRM for the cannabis industry, helping dispensaries
+  generate more revenue and build relationships with their customers in one
+  easy-to-use platform.
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "266682"
+url: https://raw.githubusercontent.com/api-network/organizations/main/baker.yaml
+tags:
+- Retail
+- Profile
+- Online Store
+- Dispensary
+- Data Security
+- CRM
+- Compliance
+- Cannabis
+apis: []
+x-common:
+- type: x-website
+  url: https://trybaker.com
+- type: x-about
+  url: https://www.trybaker.com/company
+- type: x-blog
+  url: https://www.trybaker.com/blog-gateway
+- type: x-case-studies
+  url: https://www.trybaker.com/mercy-wellness-utilizes-baker-online-ordering-case-study
+- type: x-contact
+  url: https://info.trybaker.com/contact
+- type: x-facebook
+  url: https://www.facebook.com/bakertechnologies
+- type: x-instagram
+  url: https://www.instagram.com/try_baker/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/bakertechnologies
+- type: x-press
+  url: https://www.trybaker.com/press
+- type: x-privacy
+  url: https://www.trybaker.com/privacy-principles
+- type: x-terms-of-service
+  url: https://info.trybaker.com/tc
+- type: x-twitter
+  url: https://twitter.com/try_baker
+- type: x-webinars
+  url: https://www.trybaker.com/webinars
+- type: x-website
+  url: http://www.trybaker.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

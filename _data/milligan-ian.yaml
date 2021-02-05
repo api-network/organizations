@@ -1,0 +1,38 @@
+---
+name: Milligan, Ian
+description: Associate Professor of History
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/milligan-ian.yaml
+tags:
+- Archives
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/ianmilligan1
+- type: x-github
+  url: https://github.com/archivesunleashed
+- type: x-github
+  url: https://cedwarc.github.io
+- type: x-press
+  url: http://ianmilli.wordpress.com
+- type: x-press
+  url: http://ianmilli.wordpress.org
+- type: x-press
+  url: http://www.ubcpress.ca/rebel-youth
+- type: x-twitter
+  url: https://twitter.com/ianmilligan1
+- type: x-twitter
+  url: https://twitter.com/unleasharchives
+- type: x-website
+  url: https://ianmilligan.ca
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

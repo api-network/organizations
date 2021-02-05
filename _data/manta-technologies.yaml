@@ -1,0 +1,32 @@
+---
+name: Manta Technologies
+description: Manta offers a complete library of courses for programmers, operators,
+  system administrators, and users of the IBM i operating system and its predecessors,
+  i5/OS and OS/400. These operating systems run on POWER6, System i, iSeries, and
+  AS/400 hardware.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4838460"
+url: https://raw.githubusercontent.com/api-network/organizations/main/manta-technologies.yaml
+tags:
+- System I
+- Seminars
+- Manta Technologies
+- Manta
+- IBM I
+- IBM
+- AS400
+- AS-400
+apis: []
+x-common:
+- type: x-website
+  url: https://www.mantatech.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

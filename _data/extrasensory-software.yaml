@@ -1,0 +1,22 @@
+---
+name: Extrasensory Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3452211"
+url: https://raw.githubusercontent.com/api-network/organizations/main/extrasensory-software.yaml
+tags:
+- Clipper
+apis: []
+x-common:
+- type: x-website
+  url: https://www.extrasensory.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

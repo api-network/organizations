@@ -1,0 +1,54 @@
+---
+name: American Civil Liberties Union (ACLU)
+description: <p>For almost 100 years, the ACLU has worked to defend and preserve the
+  individual rights and liberties guaranteed by the Constitution and laws of the United
+  States.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/aclu-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "29089"
+url: https://raw.githubusercontent.com/api-network/organizations/main/american-civil-liberties-union-aclu.yaml
+tags:
+- Surveillance
+- Privacy
+- API Not Found
+apis: []
+x-common:
+- type: x-website
+  url: http://www.aclu.org
+- type: x-blog
+  url: https://www.aclu.org/blog-feed/gamut
+- type: x-blog-rss
+  url: https://www.aclu.org/blog-feed/all/feed
+- type: x-careers
+  url: https://www.aclu.org/careers
+- type: x-careers
+  url: https://www.aclu.org/careers/
+- type: x-contact
+  url: https://www.aclu.org/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/aclu
+- type: x-instagram
+  url: https://www.instagram.com/aclu_nationwide/
+- type: x-news
+  url: https://www.aclu.org/news
+- type: x-press
+  url: https://www.aclu.org/press-releases
+- type: x-privacy
+  url: https://www.aclu.org/issues/privacy-technology
+- type: x-security
+  url: https://www.aclu.org/issues/national-security
+- type: x-twitter
+  url: https://twitter.com/aclu
+- type: x-website
+  url: https://www.aclu.org
+- type: x-youtube
+  url: https://www.youtube.com/aclu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

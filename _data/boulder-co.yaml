@@ -1,0 +1,39 @@
+---
+name: Boulder, CO
+description: Welcome to Boulder's Open Data Catalog. The purpose of Boulder Open Data
+  Catalog is to increase public access to high value, machine readable datasets generated
+  by the City of Boulder. We invite you to actively participate in shaping the future
+  of Boulder's Open Data Catalog by contacting us to suggest additional datasets or
+  building and submitting applications with the available data.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/pull_image_10-12-2019-01-49-pm.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "151373"
+url: https://raw.githubusercontent.com/api-network/organizations/main/boulder-co.yaml
+tags:
+- Profile
+- Have API
+- Data Provider
+- City Government
+apis: []
+x-common:
+- type: x-website
+  url: http://www.BoulderColorado.gov
+- type: x-facebook
+  url: https://www.facebook.com/bouldercolorado.gov
+- type: x-instagram
+  url: https://www.instagram.com/cityofboulder/
+- type: x-twitter
+  url: https://twitter.com/bouldercolorado
+- type: x-website
+  url: https://bouldercolorado.gov/open-data
+- type: x-youtube
+  url: https://www.youtube.com/bouldercoloradogov
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

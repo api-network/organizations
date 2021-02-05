@@ -1,0 +1,39 @@
+---
+name: thevideomode.com
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "513464"
+url: https://raw.githubusercontent.com/api-network/organizations/main/thevideomode-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.thevideomode.com
+- type: x-facebook
+  url: https://www.facebook.com/thevideomode/
+- type: x-news
+  url: http://www.thevideomode.com/news/
+- type: x-privacy
+  url: http://www.timeincuk.com/privacy/
+- type: x-showcase
+  url: http://www.thevideomode.com/showcase/
+- type: x-terms-of-service
+  url: http://www.timeincuk.com/terms-and-conditions/
+- type: x-curated-source
+  url: http://www.thevideomode.com/news/dji-introduces-first-integrated-aerial-zoom-camera-2952/
+- type: x-website
+  url: http://thevideomode.com
+- type: x-twitter
+  url: https://twitter.com/thevideomode
+- type: x-website
+  url: http://mode.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,39 @@
+---
+name: RAD Data Communications
+description: "RAD\u2019s telecom access solutions for service providers and critical
+  infrastructure network operators include vCPE Toolbox for NFV and SD-WAN edge virtualization,
+  TDM migration to packet, operational WAN, secure Industrial IoT communications and
+  fog computing, Carrier Ethernet access devices (EAD) and 5G xhaul."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "796079"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rad-data-communications.yaml
+tags:
+- Manufacturers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.rad.com
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/7487992
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/3772195
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/4105421
+- type: x-linkedin
+  url: http://www.linkedin.com/companies/7369
+- type: x-twitter
+  url: http://twitter.com/raddatacomms
+- type: x-website
+  url: https://www.rad.com
+- type: x-youtube
+  url: http://www.youtube.com/user/radwebmaster#g/u
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

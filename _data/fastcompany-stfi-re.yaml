@@ -1,0 +1,23 @@
+---
+name: fastcompany.stfi.re
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fastcompany-stfi-re.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.fastcompany.stfi.re/3054027/elasticity/ge-wants-to-move-all-your-health-data-to-the-cloud
+- type: x-website
+  url: http://fastcompany.stfi.re
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

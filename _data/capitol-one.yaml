@@ -1,0 +1,37 @@
+---
+name: Capitol One
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4375294"
+url: https://raw.githubusercontent.com/api-network/organizations/main/capitol-one.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://api.reimaginebanking.com
+- type: x-website
+  url: http://reimaginebanking.com
+- type: x-developer
+  url: https://developer.capitalone.com/
+- type: x-github
+  url: http://github.com
+- type: x-github
+  url: https://github.com/swagger-api/swagger-ui
+- type: x-github
+  url: https://github.com/nessieisreal
+- type: x-press
+  url: http://expressjs.com/
+- type: x-privacy
+  url: https://www.capitalone.com/privacy/
+- type: x-twitter
+  url: https://twitter.com/hacknessie
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

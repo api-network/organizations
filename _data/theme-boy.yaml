@@ -1,0 +1,89 @@
+---
+name: Theme Boy
+description: Our premium themes and free SportsPress plugin are specifically designed
+  for sporting organizations looking to create professional club and league websites.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "122667"
+url: https://raw.githubusercontent.com/api-network/organizations/main/theme-boy.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-website
+  url: http://themeboy.com
+- type: x-blog
+  url: https://www.themeboy.com/blog/
+- type: x-careers
+  url: https://www.themeboy.com/jobs/
+- type: x-facebook
+  url: https://www.facebook.com/themeboy
+- type: x-partner
+  url: https://www.themeboy.com/partners/
+- type: x-partner
+  url: https://www.themeboy.com/partners/rates/
+- type: x-press
+  url: https://www.themeboy.com/sportspress-pro/
+- type: x-press
+  url: https://www.themeboy.com/sportspress-pro/features/
+- type: x-press
+  url: https://www.themeboy.com/sportspress-pro/pricing/
+- type: x-press
+  url: https://www.themeboy.com/sportspress-pro/reviews/
+- type: x-press
+  url: https://www.themeboy.com/sportspress-pro/compare/
+- type: x-press
+  url: https://www.themeboy.com/sportspress-extensions/
+- type: x-pricing
+  url: https://www.themeboy.com/courtside/pricing/
+- type: x-pricing
+  url: https://www.themeboy.com/football-club/pricing/
+- type: x-pricing
+  url: https://www.themeboy.com/marquee/pricing/
+- type: x-pricing
+  url: https://www.themeboy.com/emblem/pricing/
+- type: x-pricing
+  url: https://www.themeboy.com/premier/pricing/
+- type: x-pricing
+  url: https://www.themeboy.com/varsity/pricing/
+- type: x-pricing
+  url: https://www.themeboy.com/rookie-plus/pricing/
+- type: x-pricing
+  url: https://www.themeboy.com/boxseat/pricing/
+- type: x-privacy
+  url: https://www.themeboy.com/privacy/
+- type: x-privacy
+  url: https://www.themeboy.com/privacy/data-protection/
+- type: x-showcase
+  url: https://www.themeboy.com/showcase/
+- type: x-showcase
+  url: https://www.themeboy.com/showcase/wifc/
+- type: x-showcase
+  url: https://www.themeboy.com/showcase/saints/
+- type: x-showcase
+  url: https://www.themeboy.com/showcase/ruckinrugby/
+- type: x-showcase
+  url: https://www.themeboy.com/showcase/battlebots/
+- type: x-showcase
+  url: https://www.themeboy.com/showcase/polecats/
+- type: x-support
+  url: https://support.themeboy.com/
+- type: x-support
+  url: https://www.themeboy.com/support-policy/
+- type: x-terms-of-service
+  url: https://www.themeboy.com/terms/
+- type: x-twitter
+  url: https://twitter.com/themeboy
+- type: x-website
+  url: https://themeboy.com
+- type: x-youtube
+  url: https://www.youtube.com/user/themeboyteam
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

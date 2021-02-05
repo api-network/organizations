@@ -1,0 +1,46 @@
+---
+name: CleverTap
+description: CleverTap is a SaaS based behavioral analytics company based in Sunnyvale,
+  California.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29009-developer-clevertap-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "79350"
+url: https://raw.githubusercontent.com/api-network/organizations/main/clevertap.yaml
+tags:
+- Behavioral
+- Analytics
+apis: []
+x-common:
+- type: x-website
+  url: https://clevertap.com/blog/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/wizrocket-technologies
+- type: x-email
+  url: support@clevertap.com
+- type: x-email
+  url: sales@clevertap.com
+- type: x-email
+  url: press@clevertap.com
+- type: x-email
+  url: info@clevertap.com
+- type: x-email
+  url: salesqueries@clevertap.com
+- type: x-email
+  url: security@clevertap.com
+- type: x-email
+  url: unsubscribe@clevertap.com
+- type: x-twitter
+  url: https://twitter.com/CleverTap
+- type: x-webhooks
+  url: https://developer.clevertap.com/docs/webhooks
+- type: x-website
+  url: https://developer.clevertap.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,23 @@
+---
+name: so-co-it.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/socoit-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.so-co-it.com/post/367348/twilio-announces-first-round-of-speakers-for-signal-the-modern-communications-conference.html/
+- type: x-website
+  url: http://so-co-it.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

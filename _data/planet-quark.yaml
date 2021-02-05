@@ -1,0 +1,53 @@
+---
+name: Planet Quark
+description: Planet Quark is an independent website, created and maintained BY users
+  of Quark products, FOR users of Quark products.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "900715"
+url: https://raw.githubusercontent.com/api-network/organizations/main/planet-quark.yaml
+tags:
+- Quark
+apis: []
+x-common:
+- type: x-documentation
+  url: https://www.planetquark.com/tag/long-docs/
+- type: x-news
+  url: https://www.planetquark.com/category/news/
+- type: x-press
+  url: https://www.planetquark.com/category/quarkxpress/
+- type: x-press
+  url: http://content.quark.com/switch-to-quarkxpress-us.html
+- type: x-press
+  url: http://www.quarkxpress.com
+- type: x-press
+  url: https://www.planetquark.com/tag/quarkxpress/
+- type: x-press
+  url: https://www.planetquark.com/tag/quarkxpress-7/
+- type: x-press
+  url: https://www.planetquark.com/tag/quarkxpress-8/
+- type: x-press
+  url: https://www.planetquark.com/tag/quarkxpress-9/
+- type: x-press
+  url: https://www.planetquark.com/tag/quarkxpress-10/
+- type: x-press
+  url: https://www.planetquark.com/tag/quarkxpress-2015/
+- type: x-press
+  url: https://www.planetquark.com/tag/quarkxpress-2016/
+- type: x-press
+  url: https://www.planetquark.com/tag/quarkxpress-2017/
+- type: x-press
+  url: https://www.planetquark.com/tag/quarkxpress-2018/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-website
+  url: https://www.planetquark.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

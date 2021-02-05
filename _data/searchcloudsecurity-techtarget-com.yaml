@@ -1,0 +1,23 @@
+---
+name: searchcloudsecurity.techtarget.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/searchcloudsecurity-techtarget-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://searchcloudsecurity.techtarget.com/opinion/Cloud-API-security-How-to-interface-with-DevOps
+- type: x-website
+  url: http://searchcloudsecurity.techtarget.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

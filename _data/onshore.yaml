@@ -1,0 +1,33 @@
+---
+name: onShore
+description: onShore Cybersecurity Leadership starts with a Cyber Security Maturity
+  Assessment, then policy creation, governance, risk & compliance (GRC), and CISO
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1578521"
+url: https://raw.githubusercontent.com/api-network/organizations/main/onshore.yaml
+tags:
+- Open Source
+apis: []
+x-common:
+- type: x-case-studies
+  url: https://www.onshore.com/case-studies/
+- type: x-facebook
+  url: https://www.facebook.com/OnShoreSec
+- type: x-security
+  url: https://www.onshore.com/cybersecurity-leadership/
+- type: x-security
+  url: https://www.linkedin.com/company/onshoresecurity
+- type: x-twitter
+  url: https://twitter.com/onShoreSecurity
+- type: x-website
+  url: https://www.onshore.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

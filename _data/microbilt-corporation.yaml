@@ -1,0 +1,56 @@
+---
+name: MicroBilt Corporation
+description: Mircrobilt provides businesses with powerful alternative credit data
+  and risk management solutions to help them grow their business.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "597317"
+url: https://raw.githubusercontent.com/api-network/organizations/main/microbilt-corporation.yaml
+tags:
+- Trace
+- Skiptracing
+- Skip Tracing
+- Risk Management
+- Microbilt
+- Lease To Own
+- Id Verify
+- Id Verification
+- Ibv
+- Free Credit Report
+- Employment Credit Reports
+- Credits Report
+- Credit Report
+- Credit Decisioning
+- Credit And Collection
+- Consumer Credit Reports
+- Consumer Credit Data
+- Collection And Recovery
+- Big Data
+- Bank Verification
+- Alternative Credit Score
+- Alternative Credit Data
+apis: []
+x-common:
+- type: x-website
+  url: http://www.microbilt.com
+- type: x-developer
+  url: http://developer.microbilt.com
+- type: x-facebook
+  url: https://www.facebook.com/MicroBilt/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/microbilt-corporation
+- type: x-twitter
+  url: https://twitter.com/microbilt
+- type: x-website
+  url: https://www.microbilt.com
+- type: x-youtube
+  url: https://www.youtube.com/user/MicroBilt
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

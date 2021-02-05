@@ -1,0 +1,102 @@
+---
+name: Microsoft
+description: At Microsoft our mission and values are to help people and businesses
+  throughout the world realize their full potential.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/2668-microsoft.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "33"
+url: https://raw.githubusercontent.com/api-network/organizations/main/microsoft.yaml
+tags:
+- Telecommunications
+- Postman Doc Search
+- Operating System
+- New
+- Microsoft Corporation
+- Have Swagger
+- Have OpenAPI
+- Have API Paths
+- Have API
+- Computers
+apis: []
+x-common:
+- type: x-about
+  url: https://onedrive.live.com/about/en-us/
+- type: x-about
+  url: https://www.microsoft.com/en-us/about
+- type: x-careers
+  url: https://careers.microsoft.com/
+- type: x-contact
+  url: https://support.microsoft.com/en-us/contactus
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/microsoft
+- type: x-developer
+  url: http://developer.microsoft.com
+- type: x-developer
+  url: https://developer.xamarin.com
+- type: x-developer
+  url: https://dev.botframework.com
+- type: x-developer
+  url: https://developer.microsoft.com/graph
+- type: x-developer
+  url: https://developer.microsoft.com/en-us/windows
+- type: x-developer
+  url: https://developer.microsoft.com/en-us/office
+- type: x-documentation
+  url: https://docs.microsoft.com/aspnet
+- type: x-documentation
+  url: https://docs.microsoft.com/cpp/
+- type: x-documentation
+  url: https://docs.microsoft.com
+- type: x-documentation
+  url: https://docs.microsoft.com/learn/
+- type: x-documentation
+  url: https://docs.microsoft.com/teamblog
+- type: x-documentation
+  url: https://docs.microsoft.com/en-us/
+- type: x-facebook
+  url: https://www.facebook.com/Microsoft
+- type: x-feed
+  url: https://aka.ms/sitefeedback
+- type: x-forum
+  url: https://social.msdn.microsoft.com/forums
+- type: x-github
+  url: https://azure.github.io/AzureDataLake/
+- type: x-investor
+  url: https://www.microsoft.com/investor/default.aspx
+- type: x-linkedin
+  url: https://www.linkedin.com/company/microsoft
+- type: x-news
+  url: https://news.microsoft.com/?p=435758
+- type: x-news
+  url: https://news.microsoft.com/
+- type: x-partner
+  url: https://www.bing.com/partners/developers
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/2733299/waves-full-node/RVnWiKZJ&nbsp
+- type: x-privacy
+  url: https://privacy.microsoft.com/en-us
+- type: x-security
+  url: https://www.microsoft.com/en-us/security/default.aspx
+- type: x-self-service-registration
+  url: https://developer.microsoft.com/en-us/store/register
+- type: x-support
+  url: https://support.microsoft.com/en-us
+- type: x-transparency-report
+  url: https://www.microsoft.com/about/csr/transparencyhub/
+- type: x-twitter
+  url: https://twitter.com/microsoft
+- type: x-website
+  url: http://www.microsoft.com/
+- type: x-website
+  url: https://www.microsoft.com
+- type: x-website
+  url: http://powerusers.microsoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

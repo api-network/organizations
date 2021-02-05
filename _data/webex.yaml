@@ -1,0 +1,32 @@
+---
+name: Webex
+description: Cisco WebEx, formerly WebEx Communications Inc., is a company that provides
+  on-demand collaboration, online meeting, web conferencing and videoconferencing
+  applications.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28943-api-ciscospark-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "620"
+url: https://raw.githubusercontent.com/api-network/organizations/main/webex.yaml
+tags:
+- Telecommunications
+- Networks
+- Have API Paths
+apis: []
+x-common:
+- type: x-website
+  url: http://www.webex.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/webex-communications
+- type: x-twitter
+  url: https://twitter.com/Webex
+- type: x-website
+  url: http://api.ciscospark.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

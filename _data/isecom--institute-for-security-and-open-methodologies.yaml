@@ -1,0 +1,31 @@
+---
+name: ISECOM - Institute for Security and Open Methodologies
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2625978"
+url: https://raw.githubusercontent.com/api-network/organizations/main/isecom--institute-for-security-and-open-methodologies.yaml
+tags:
+- Policy
+- Certification
+apis: []
+x-common:
+- type: x-website
+  url: http://www.isecom.org
+- type: x-facebook
+  url: https://www.facebook.com/isecom
+- type: x-login
+  url: https://www.isecom.org/memberships/login
+- type: x-twitter
+  url: https://twitter.com/isecom
+- type: x-website
+  url: https://www.isecom.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

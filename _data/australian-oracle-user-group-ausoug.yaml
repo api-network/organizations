@@ -1,0 +1,34 @@
+---
+name: Australian Oracle User Group (AUSOUG)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/australian-oracle-user-group-ausoug.yaml
+tags:
+- User Groups
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.ausoug.org.au/blog/
+- type: x-contact
+  url: https://www.ausoug.org.au/contact/
+- type: x-news
+  url: https://www.ausoug.org.au/category/news/
+- type: x-partner
+  url: https://www.ausoug.org.au/partners-sponsors/
+- type: x-privacy
+  url: https://www.ausoug.org.au/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.ausoug.org.au/terms-conditions/
+- type: x-website
+  url: https://www.ausoug.org.au
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

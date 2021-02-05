@@ -1,0 +1,27 @@
+---
+name: JSLint
+description: |-
+  JSLint, The JavaScript Code Quality Tool. This file allows JSLint
+      to be run from a web browser. It can accept a source program and analyze
+      it without sending it over the network.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "298487"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jslint.yaml
+tags:
+- Lints
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/douglascrockford/JSLint
+- type: x-website
+  url: https://www.jslint.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

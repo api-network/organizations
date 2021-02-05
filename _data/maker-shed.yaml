@@ -1,0 +1,30 @@
+---
+name: Maker Shed
+description: 'Shop the online store of Make: magazine & Maker Faire. Find great DIY
+  projects for the whole family - 3D Printing, Arduino, Raspberry Pi, drones, robotics,
+  STEM'
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28347-maker-shed.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "588659"
+url: https://raw.githubusercontent.com/api-network/organizations/main/maker-shed.yaml
+tags:
+- Maker
+- Have API
+- 3D Printing
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/maker-shed
+- type: x-twitter
+  url: https://twitter.com/MakerShed
+- type: x-website
+  url: http://makershed.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

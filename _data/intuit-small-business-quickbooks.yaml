@@ -1,0 +1,64 @@
+---
+name: 'Intuit Small Business: QuickBooks'
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "235"
+url: https://raw.githubusercontent.com/api-network/organizations/main/intuit-small-business-quickbooks.yaml
+tags:
+- Small Business
+apis: []
+x-common:
+- type: x-careers
+  url: http://careers.intuit.com
+- type: x-contact
+  url: https://help.quickbooks.intuit.com/en_US/contact
+- type: x-contact
+  url: https://quickbooks.intuit.com/contact/
+- type: x-developer
+  url: https://developer.intuit.com/
+- type: x-facebook
+  url: https://www.facebook.com/IntuitQuickBooks/
+- type: x-login
+  url: https://quickbooks.intuit.com/sign-in-offer/
+- type: x-login
+  url: https://qbo.intuit.com/login?pagereq=proadvisor
+- type: x-login
+  url: https://qbo.intuit.com/login
+- type: x-login
+  url: https://app.tsheets.com/signin
+- type: x-login
+  url: https://quickbooks.intuit.com/login/
+- type: x-partner
+  url: https://www.intuit.com/partners/
+- type: x-press
+  url: https://www.intuit.com/company/press-room/
+- type: x-pricing
+  url: https://quickbooks.intuit.com/pricing/
+- type: x-pricing
+  url: https://quickbooks.intuit.com/pricing/?trial=true
+- type: x-privacy
+  url: https://www.intuit.com/privacy
+- type: x-security
+  url: https://security.intuit.com/
+- type: x-showcase
+  url: https://www.linkedin.com/showcase/quickbooks/
+- type: x-terms-of-service
+  url: https://accounts.intuit.com/terms-of-service
+- type: x-terms-of-service
+  url: https://www.intuit.com/legal/
+- type: x-twitter
+  url: https://twitter.com/QuickBooks
+- type: x-website
+  url: https://quickbooks.intuit.com
+- type: x-youtube
+  url: https://www.youtube.com/user/Quickbooks
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

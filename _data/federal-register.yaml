@@ -1,0 +1,38 @@
+---
+name: Federal Register
+description: <p>The Federal Register, abbreviated FR or sometimes Fed. Reg., is the
+  official journal of the federal government of the United States that contains government
+  agency rules, proposed rules, and public notices.[1] It is published daily, except
+  on federal holidays. The final rules promulgated by a federal agency and published
+  in the Federal Register are ultimately reorganized by topic or subject matter and
+  codified in the Code of Federal Regulations (CFR), which is updated annually.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/450px-FedRegI.JPG
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "44637"
+url: https://raw.githubusercontent.com/api-network/organizations/main/federal-register.yaml
+tags:
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-developers
+  url: http://www.federalregister.gov/blog/learn/developers
+- type: x-facebook
+  url: https://www.facebook.com/FederalRegister/
+- type: x-self-service-registration
+  url: https://www.federalregister.gov/my/profile/edit
+- type: x-twitter
+  url: https://twitter.com/FedRegister
+- type: x-website
+  url: http://www.federalregister.gov
+- type: x-wikipedia
+  url: http://en.wikipedia.org/wiki/Federal_Register
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

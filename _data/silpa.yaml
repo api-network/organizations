@@ -1,0 +1,37 @@
+---
+name: Silpa
+description: Swathanthra Malayalam Computing
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1046118"
+url: https://raw.githubusercontent.com/api-network/organizations/main/silpa.yaml
+tags:
+- Wiki
+- Swathanthra Malayalam Computing
+- SMC
+- Malayalam
+- Indic
+- Community
+apis: []
+x-common:
+- type: x-website
+  url: http://smc.org.in
+- type: x-blog
+  url: https://blog.smc.org.in/
+- type: x-code
+  url: https://smc.org.in/code-of-conduct.html
+- type: x-facebook
+  url: https://www.facebook.com/SMC.Project
+- type: x-twitter
+  url: https://twitter.com/smcproject
+- type: x-website
+  url: https://smc.org.in
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

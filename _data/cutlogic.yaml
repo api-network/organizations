@@ -1,0 +1,35 @@
+---
+name: CutLogic
+description: Panel cutting optimizer CutLogic 2D. Length cutting optimizer CutLogic
+  1D. Download free 30-day trial. Save time, eliminate waste, and maximize your profits.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3768581"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cutlogic.yaml
+tags:
+- Process
+apis: []
+x-common:
+- type: x-about
+  url: https://www.tmachines.com/about-us/
+- type: x-contact
+  url: https://www.tmachines.com/contact/
+- type: x-privacy
+  url: https://www.tmachines.com/apps/privacy-policy.pdf
+- type: x-support
+  url: https://www.tmachines.com/cl1d/help/
+- type: x-support
+  url: https://www.tmachines.com/cl2d/help/
+- type: x-website
+  url: https://www.tmachines.com
+- type: x-youtube
+  url: https://www.youtube.com/user/CutLogic/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

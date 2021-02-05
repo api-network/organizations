@@ -1,0 +1,35 @@
+---
+name: Web Hypertext Application Technology Working Group (WATWG)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "31461"
+url: https://raw.githubusercontent.com/api-network/organizations/main/web-hypertext-application-technology-working-group-watwg.yaml
+tags:
+- Organizations
+- HTML5
+apis: []
+x-common:
+- type: x-website
+  url: https://whatwg.org/
+- type: x-blog
+  url: https://blog.whatwg.org/
+- type: x-developer
+  url: http://developer.whatwg.org
+- type: x-github
+  url: https://github.com/whatwg
+- type: x-github
+  url: https://github.com/whatwg/meta/issues/new
+- type: x-twitter
+  url: https://twitter.com/WHATWG
+- type: x-website
+  url: https://www.whatwg.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

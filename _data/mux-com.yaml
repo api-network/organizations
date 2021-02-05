@@ -1,0 +1,55 @@
+---
+name: mux.com
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "179029"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mux-com.yaml
+tags:
+- Video Encoding
+- Video
+apis: []
+x-common:
+- type: x-website
+  url: http://www.mux.com
+- type: x-documentation
+  url: https://docs.mux.com/docs/data
+- type: x-documentation
+  url: https://docs.mux.com/docs/video
+- type: x-documentation
+  url: https://docs.mux.com/
+- type: x-documentation
+  url: https://docs.mux.com/v1/reference
+- type: x-documentation
+  url: https://docs.mux.com/docs/configure-broadcast-software
+- type: x-documentation
+  url: https://docs.mux.com/docs/live-streaming-from-an-app
+- type: x-documentation
+  url: https://docs.mux.com/reference#thumbnails
+- type: x-facebook
+  url: https://www.facebook.com/MuxHQ
+- type: x-instagram
+  url: https://www.instagram.com/muxhq/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/mux/
+- type: x-login
+  url: https://dashboard.mux.com/login
+- type: x-curated-source
+  url: https://mux.com/
+- type: x-website
+  url: http://mux.com
+- type: x-press
+  url: https://mux.com/files/mux-press-kit.zip
+- type: x-signup
+  url: https://dashboard.mux.com/signup?type=video
+- type: x-twitter
+  url: https://twitter.com/muxhq
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

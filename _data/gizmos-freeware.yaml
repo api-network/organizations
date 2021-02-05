@@ -1,0 +1,33 @@
+---
+name: Gizmo's Freeware
+description: The best freeware independently reviewed and rated by the web's most
+  popular freeware review site
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "46444"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gizmos-freeware.yaml
+tags:
+- Collections
+apis: []
+x-common:
+- type: x-website
+  url: http://www.techsupportalert.com
+- type: x-feed
+  url: http://feeds.feedburner.com/gizmosbest
+- type: x-forum
+  url: https://www.techsupportalert.com/freeware-forum
+- type: x-support
+  url: http://www.xmarks.com/site/www.techsupportalert.com/#r
+- type: x-twitter
+  url: http://twitter.com/GizmosFreeware
+- type: x-website
+  url: https://www.techsupportalert.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

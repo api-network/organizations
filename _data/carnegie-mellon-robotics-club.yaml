@@ -1,0 +1,32 @@
+---
+name: Carnegie Mellon Robotics Club
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3425171"
+url: https://raw.githubusercontent.com/api-network/organizations/main/carnegie-mellon-robotics-club.yaml
+tags:
+- Organizations
+apis: []
+x-common:
+- type: x-website
+  url: http://roboclub.org
+- type: x-documentation
+  url: https://roboticsclub.org/docs/
+- type: x-facebook
+  url: https://www.facebook.com/groups/cmuroboclub/?ref=br_tf
+- type: x-github
+  url: https://github.com/CMU-Robotics-Club
+- type: x-twitter
+  url: https://twitter.com/roboclub
+- type: x-website
+  url: https://www.roboticsclub.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

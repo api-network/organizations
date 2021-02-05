@@ -1,0 +1,48 @@
+---
+name: e-on software
+description: |-
+  e-on software is the leading developer of solutions for the creation, animation, rendering and integration of natural 3D environments.
+
+  Our products are used worldwide by the film, television, architecture, game, science, educational and entertainment industries.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "445377"
+url: https://raw.githubusercontent.com/api-network/organizations/main/eon-software.yaml
+tags:
+- Vue
+- Companies
+apis: []
+x-common:
+- type: x-blog
+  url: https://info.e-onsoftware.com/blog
+- type: x-blog
+  url: https://info.e-onsoftware.com/blog/black-friday-2019
+- type: x-blog
+  url: https://info.e-onsoftware.com/0409181153/blog
+- type: x-careers
+  url: https://www.bentley.com/en/about-us/careers
+- type: x-facebook
+  url: https://www.facebook.com/eonsoftware/
+- type: x-instagram
+  url: https://www.instagram.com/eonsoftware/
+- type: x-login
+  url: https://store.e-onsoftware.com/login.php
+- type: x-press
+  url: https://info.e-onsoftware.com/press-releases
+- type: x-privacy
+  url: https://www.bentley.com/en/privacy-policy
+- type: x-twitter
+  url: https://twitter.com/e_onsoftware
+- type: x-website
+  url: https://www.e-onsoftware.com
+- type: x-youtube
+  url: https://www.youtube.com/user/eonsoftware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

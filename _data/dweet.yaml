@@ -1,0 +1,52 @@
+---
+name: Dweet
+description: simple messaging and alerts for the Internet of Things.
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1188242"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dweet.yaml
+tags:
+- Profile
+- Messaging Service
+- Messaging
+- Have Swagger
+- Have API Paths
+- API
+- Alerts
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-faq
+  url: http://dweet.io/faq
+- type: x-github
+  url: https://github.com/jheising/HAPI
+- type: x-github
+  url: https://github.com/buglabs/node-dweetio
+- type: x-github
+  url: https://github.com/buglabs/dweetio-client
+- type: x-github
+  url: https://github.com/paddycarey/dweepy
+- type: x-github
+  url: https://github.com/bliti/pydweet
+- type: x-github
+  url: https://github.com/vannell/ruby-dweetio
+- type: x-privacy
+  url: https://dweet.io/privacy_and_terms
+- type: x-twitter
+  url: https://twitter.com/dweet_io
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-base-url
+  url: vz.dweet.io
+- type: x-website
+  url: http://dweet.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

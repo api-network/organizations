@@ -1,0 +1,24 @@
+---
+name: Multilingual Translation Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8461276"
+url: https://raw.githubusercontent.com/api-network/organizations/main/multilingual-translation-software.yaml
+tags:
+- Retailers
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.allvirtualware.com
+- type: x-website
+  url: https://www.allvirtualware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

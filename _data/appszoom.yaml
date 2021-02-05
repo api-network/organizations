@@ -1,0 +1,40 @@
+---
+name: Appszoom
+description: 'Download all available Android and iPhone apps: browse among thousands
+  of reviewed and rated apps, games and themes.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "458688"
+url: https://raw.githubusercontent.com/api-network/organizations/main/appszoom.yaml
+tags:
+- YouTube
+- WhatsApp Messenger
+- Software
+- Instagram
+apis: []
+x-common:
+- type: x-website
+  url: http://www.appszoom.com
+- type: x-facebook
+  url: https://facebook.appszoom.com/android
+- type: x-facebook
+  url: https://www.facebook.com/appszoom
+- type: x-instagram
+  url: https://instagram.appszoom.com/android
+- type: x-instagram
+  url: https://instagram.com/appszoom
+- type: x-twitter
+  url: https://www.twitter.com/appszoom
+- type: x-website
+  url: https://www.appszoom.com
+- type: x-youtube
+  url: https://www.youtube.com/user/Appszoomvideos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

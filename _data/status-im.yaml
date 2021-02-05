@@ -1,0 +1,28 @@
+---
+name: Status.im
+description: Status is an interface to access Ethereum, built for Android & iOS. Enjoy
+  encrypted messaging, a cryptocurrency wallet, and seamless access to DApps.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26658-status-im.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "124670"
+url: https://raw.githubusercontent.com/api-network/organizations/main/status-im.yaml
+tags:
+- Networks
+- Blockchain
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/status-im
+- type: x-twitter
+  url: https://twitter.com/ethstatus
+- type: x-website
+  url: http://status.im
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

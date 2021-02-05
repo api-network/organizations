@@ -1,0 +1,41 @@
+---
+name: Vesalia Computer
+description: Our shop offers a large range of hardware and software products for Amiga,
+  Commodore and other retro systems.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "715888"
+url: https://raw.githubusercontent.com/api-network/organizations/main/vesalia-computer.yaml
+tags:
+- Vesalia Computer
+- Software
+- Sam 440
+- Retrocomputing
+- Retailers
+- Pegasos
+- Mail Order
+- Hardware
+- Computer Shop
+- Commodore 64
+- C64
+- AmigaOS
+- Amiga
+apis: []
+x-common:
+- type: x-website
+  url: http://www.vesalia.de
+- type: x-facebook
+  url: https://www.facebook.com/vesalia.de
+- type: x-twitter
+  url: http://twitter.com/vesaliacomputer
+- type: x-website
+  url: https://www.vesalia.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

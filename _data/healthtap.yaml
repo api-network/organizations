@@ -1,0 +1,66 @@
+---
+name: HealthTap
+description: Online doctor visits via video or text chat, available 24/7. The only
+  100% virtual healthcare provider that handles everything when you get sick, from
+  diagnosis, to virtual doctor visit, treatment plan, and follow up.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/health-tap-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "84653"
+url: https://raw.githubusercontent.com/api-network/organizations/main/healthtap.yaml
+tags:
+- Healthcare
+- Have API
+- API Provider
+- Answers
+- Advice
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.healthtap.com/blog/
+- type: x-blog
+  url: http://blog.healthtap.com/
+- type: x-blog-rss
+  url: http://blog.healthtap.com/feed/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/healthtap
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/healthtap
+- type: x-developers
+  url: https://developers.healthtap.com/
+- type: x-email
+  url: support@healthtap.com
+- type: x-email
+  url: dispute-notice@healthtap.com
+- type: x-facebook
+  url: https://www.facebook.com/HealthTap
+- type: x-github
+  url: https://github.com/HealthTap
+- type: x-instagram
+  url: https://www.instagram.com/healthtap
+- type: x-linkedin
+  url: https://www.linkedin.com/company/healthtap
+- type: x-login
+  url: https://admins.healthtap.com/admin/login
+- type: x-login
+  url: https://providers.healthtap.com/provider/login
+- type: x-news
+  url: https://www.healthtap.com/newsroom/
+- type: x-signup
+  url: https://providers.healthtap.com/provider/signup
+- type: x-support
+  url: https://healthtaphelp.zendesk.com/hc/en-us
+- type: x-twitter
+  url: https://twitter.com/healthtap
+- type: x-website
+  url: https://www.healthtap.com
+- type: x-youtube
+  url: https://www.youtube.com/user/HealthTap
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

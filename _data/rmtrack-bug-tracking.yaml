@@ -1,0 +1,50 @@
+---
+name: RMTrack Bug Tracking
+description: A web-based bug tracker, issue tracker, and defect tracker application.
+  Downloadable. Free 30-day trial.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4765895"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rmtrack-bug-tracking.yaml
+tags:
+- Tracking Problems
+- Test
+- Software Testing
+- Software Quality Assurance
+- Software
+- Quality Assurance
+- QADB
+- Qa
+- Project Management
+- Problem Tracking Tool
+- Problem Tracking
+- Problem Tracker
+- Issue Tracking Tool
+- Issue Tracking
+- Issue Tracker
+- Help Desk
+- Develop
+- Defect Tracking Tool
+- Defect Tracking
+- Defect Tracker
+- Defect Management
+- Bugs
+- Bug Tracking Tool
+- Bug Tracking
+- Bug Tracker
+- Bug Track
+- Bug Database
+- Bug
+apis: []
+x-common:
+- type: x-website
+  url: https://www.rmtrack.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

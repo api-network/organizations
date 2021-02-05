@@ -1,0 +1,83 @@
+---
+name: TechAcute
+description: Online magazine with news and stories about technology, gaming, enterprise
+  and innovation in the connected reality.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28378-techacute-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "553801"
+url: https://raw.githubusercontent.com/api-network/organizations/main/techacute.yaml
+tags:
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.techacute.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/techacute-com
+- type: x-events
+  url: https://techacute.com/events/
+- type: x-events
+  url: https://techacute.com/category/business/events/
+- type: x-facebook
+  url: https://facebook.com/techacute
+- type: x-feed
+  url: https://techacute.com/feed
+- type: x-instagram
+  url: https://www.instagram.com/techacute/
+- type: x-instagram
+  url: https://www.instagram.com/techacute
+- type: x-instagram
+  url: https://www.instagram.com/p/B7WQuahIU91/
+- type: x-instagram
+  url: https://www.instagram.com/p/B6nH1bSIn8s/
+- type: x-instagram
+  url: https://www.instagram.com/p/B5ViipUIW00/
+- type: x-instagram
+  url: https://www.instagram.com/p/B5KuMUGoAeI/
+- type: x-instagram
+  url: https://www.instagram.com/p/B5GE_-boj7U/
+- type: x-instagram
+  url: https://www.instagram.com/p/B5EVeMcILoF/
+- type: x-instagram
+  url: https://www.instagram.com/p/B40OqMgIvbu/
+- type: x-instagram
+  url: https://www.instagram.com/p/B4SyN0Gohx9/
+- type: x-instagram
+  url: https://www.instagram.com/p/B4DKikHoU7f/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/techacute
+- type: x-privacy
+  url: https://techacute.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://techacute.com/terms-and-conditions/
+- type: x-twitter
+  url: https://twitter.com/TechAcuteCom
+- type: x-website
+  url: http://techacute.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=C6uOulbGMIQ
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=kZ-IjDSq5Go
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=LWk1p081YhQ
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=kfT8LjzsOJU
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=zRezlC0WUEY
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=IV50XRryQaI
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=NJcRL5hUnfE
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=0wwaR-uuRLQ
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=_mkiGMtbrPM
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,39 @@
+---
+name: Reindex
+description: Building apps and tools for GraphQL.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/reindex-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "4311926"
+url: https://raw.githubusercontent.com/api-network/organizations/main/reindex.yaml
+tags:
+- Single Page Applications
+- Have API
+- Graph Database
+- Databases
+apis: []
+x-common:
+- type: x-website
+  url: https://www.reindex.io
+- type: x-blog
+  url: https://www.reindex.io/blog/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/reindex
+- type: x-email
+  url: hello@reindex.io
+- type: x-github
+  url: https://github.com/reindexio
+- type: x-pricing
+  url: https://www.reindex.io/pricing/
+- type: x-twitter
+  url: https://twitter.com/reindexio
+- type: x-website
+  url: https://www.reindex.io/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

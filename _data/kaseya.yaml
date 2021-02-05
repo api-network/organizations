@@ -1,0 +1,60 @@
+---
+name: Kaseya
+description: Kaseya helps MSPs and IT Departments better manage their business with
+  our IT management software suite, IT Complete. Come explore Kaseya's remote monitoring,
+  management, security, and compliance solutions. Learn more and get started today.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "97257"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kaseya.yaml
+tags:
+- Network Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.kaseya.com
+- type: x-blog
+  url: https://www.kaseya.com/blog/
+- type: x-careers
+  url: https://www.kaseya.com/careers/
+- type: x-case-studies
+  url: https://www.kaseya.com/case-studies/
+- type: x-contact
+  url: https://www.kaseya.com/contact-us/
+- type: x-events
+  url: https://www.kaseya.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/KaseyaFan
+- type: x-integrations
+  url: https://www.kaseya.com/integrations/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/kaseya
+- type: x-news
+  url: https://www.kaseya.com/in-the-news/
+- type: x-press
+  url: https://www.kaseya.com/press-release/
+- type: x-support
+  url: https://helpdesk.kaseya.com/hc/en-gb
+- type: x-support
+  url: https://helpdesk.kaseya.com/
+- type: x-terms-of-service
+  url: https://www.kaseya.com/legal/
+- type: x-terms-of-service
+  url: https://www.kaseya.com/legal/website-terms-of-use/
+- type: x-terms-of-service
+  url: https://www.kaseya.com/legal/kaseya-privacy-statement/
+- type: x-twitter
+  url: https://twitter.com/kaseyacorp
+- type: x-website
+  url: https://www.kaseya.com
+- type: x-youtube
+  url: https://www.youtube.com/user/kaseyacorp
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

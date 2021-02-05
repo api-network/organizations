@@ -1,0 +1,54 @@
+---
+name: Netogram
+description: At the netogram.com website you can download and watch free videoclips,
+  lookup Worldwide Public and Bank Holidays, look in Free databases with trivia, search
+  in the database of Pop music hits database with hits from the fifties, sixties,
+  seventies, eighties, ninetees and two-thousands. We also have a database with all
+  songs ever recorded by Frank Sinatra. Netogram.com also has free sports databases
+  with all Golf tournaments, all tennis tournaments, the Super Bowl 2011, football
+  and soccer.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4947712"
+url: https://raw.githubusercontent.com/api-network/organizations/main/netogram.yaml
+tags:
+- Videoclips
+- TV Series
+- Special Interest
+- Religious Holidays
+- Public Holidays
+- Psion 5mx
+- Psion 5
+- Psion 3
+- Psion
+- Pophits
+- Popcharts
+- PocketPC
+- Palm-PDA
+- Nokia
+- National Holidays
+- Music Hits
+- Movie Database
+- Legal Holidays
+- "Jours De F\xEAte"
+- Free Videoclips
+- Free Video Clips
+- Frank Sinatra
+- Feiertage
+- DOS
+- Dias Festivos Mundiales
+- Databases
+- Bank Holidays
+apis: []
+x-common:
+- type: x-website
+  url: https://www.netogram.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

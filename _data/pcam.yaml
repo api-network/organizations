@@ -1,0 +1,30 @@
+---
+name: Pcam
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5870499"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pcam.yaml
+tags:
+- Computer Aided Manufacturing
+apis: []
+x-common:
+- type: x-about
+  url: https://en.pcam.com/about/
+- type: x-news
+  url: https://en.pcam.com/news/
+- type: x-support
+  url: https://en.pcam.com/supporto-on-line/
+- type: x-support
+  url: https://en.pcam.com/support/release-notes/
+- type: x-website
+  url: https://www.pcam.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

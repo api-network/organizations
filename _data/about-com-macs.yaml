@@ -1,0 +1,43 @@
+---
+name: 'About.com: Macs'
+description: Your Mac is a powerful system that is waiting for you to ask it do to
+  even more. Let's explore what it can do.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6952"
+url: https://raw.githubusercontent.com/api-network/organizations/main/about-com-macs.yaml
+tags:
+- Macintosh
+apis: []
+x-common:
+- type: x-about
+  url: https://www.lifewire.com/about-us
+- type: x-about
+  url: https://www.lifewire.com/about-us#EditorialGuidelines
+- type: x-about
+  url: https://www.lifewire.com/about-us#ContactUs
+- type: x-careers
+  url: https://www.dotdash.com/careers/
+- type: x-facebook
+  url: http://www.facebook.com/lifewire
+- type: x-support
+  url: https://www.lifewire.com/getting-more-help-4102762
+- type: x-terms-of-service
+  url: https://www.lifewire.com/legal#privacy
+- type: x-terms-of-service
+  url: https://www.lifewire.com/legal#cookies-disclosure
+- type: x-terms-of-service
+  url: https://www.lifewire.com/legal#terms
+- type: x-tutorials
+  url: https://www.lifewire.com/macs-tutorials-4102714
+- type: x-website
+  url: https://macs.about.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

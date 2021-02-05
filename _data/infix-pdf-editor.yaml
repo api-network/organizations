@@ -1,0 +1,33 @@
+---
+name: Infix PDF Editor
+description: |-
+  Fast, affordable and reliable PDF editing solutions including Infix PDF Editor, TransPDF & Infix
+      Server
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "383875"
+url: https://raw.githubusercontent.com/api-network/organizations/main/infix-pdf-editor.yaml
+tags:
+- Windows Tools And Drivers
+- PDF Editor
+- Pdf Editing
+- PDF
+apis: []
+x-common:
+- type: x-website
+  url: http://www.iceni.com/
+- type: x-forum
+  url: https://forum.iceni.com
+- type: x-twitter
+  url: http://twitter.com/InfixPDF
+- type: x-website
+  url: https://www.iceni.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

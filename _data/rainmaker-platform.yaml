@@ -1,0 +1,53 @@
+---
+name: Rainmaker Platform
+description: Build your audience with articles, audio, video, and email. Sell membership
+  programs, online courses, physical products, digital products, and much more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1056738"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rainmaker-platform.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-contact
+  url: https://rainmakerdigital.com/contact/
+- type: x-platform
+  url: https://rainmakerplatform.com/
+- type: x-platform
+  url: https://rainmakerplatform.com/platform/trial/
+- type: x-platform
+  url: https://rainmakerplatform.com/performance/
+- type: x-platform
+  url: https://rainmakerplatform.com/design/
+- type: x-platform
+  url: https://rainmakerplatform.com/content/
+- type: x-platform
+  url: https://rainmakerplatform.com/email/
+- type: x-platform
+  url: https://rainmakerplatform.com/commerce/
+- type: x-platform
+  url: https://rainmakerplatform.com/plugins/
+- type: x-platform
+  url: https://rainmakerplatform.com/membership-sites/
+- type: x-platform
+  url: https://rainmakerplatform.com/online-courses/
+- type: x-platform
+  url: https://rainmakerplatform.com/traffic/
+- type: x-platform
+  url: https://rainmakerplatform.com/conversion/
+- type: x-platform
+  url: https://rainmakerplatform.com/results/
+- type: x-status
+  url: http://status.rainmakerdigital.com/
+- type: x-website
+  url: https://rainmakerplatform.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

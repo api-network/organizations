@@ -1,0 +1,22 @@
+---
+name: No Error
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "932613"
+url: https://raw.githubusercontent.com/api-network/organizations/main/no-error.yaml
+tags:
+- Music
+apis: []
+x-common:
+- type: x-website
+  url: https://noerror.scene.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

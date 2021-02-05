@@ -1,0 +1,70 @@
+---
+name: Internet2
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "265268"
+url: https://raw.githubusercontent.com/api-network/organizations/main/internet2.yaml
+tags:
+- Protocols
+apis: []
+x-common:
+- type: x-website
+  url: http://www.internet2.edu
+- type: x-about
+  url: http://www.internet2.edu/about-us/
+- type: x-about
+  url: http://www.internet2.edu/about-us/membership/
+- type: x-about
+  url: http://www.internet2.edu/about-us/leadership/
+- type: x-about
+  url: http://www.internet2.edu/about-us/financial-overview/
+- type: x-about
+  url: http://www.internet2.edu/about-us/community-awards/
+- type: x-about
+  url: http://www.internet2.edu/about-us/staff-directory/
+- type: x-about
+  url: http://www.internet2.edu/about-us/media-kit/
+- type: x-about
+  url: http://www.internet2.edu/about-us/media-kit/video-kit/
+- type: x-blog
+  url: http://www.internet2.edu/blogs/
+- type: x-careers
+  url: http://www.internet2.edu/about-us/careers/
+- type: x-contact
+  url: http://www.internet2.edu/about-us/contact-us/
+- type: x-facebook
+  url: http://www.facebook.com/pages/Internet2/139036148088
+- type: x-linkedin
+  url: http://www.linkedin.com/company/internet2
+- type: x-news
+  url: http://www.internet2.edu/news-events/
+- type: x-news
+  url: http://www.internet2.edu/news-events/news/
+- type: x-news
+  url: http://www.internet2.edu/news-events/events/
+- type: x-news
+  url: http://www.internet2.edu/news-events/events/ppsp-live/
+- type: x-news
+  url: http://www.internet2.edu/news-events/social-media/
+- type: x-news
+  url: http://www.internet2.edu/news/detail/8133/
+- type: x-privacy
+  url: http://www.internet2.edu/policies/privacy/
+- type: x-support
+  url: http://www.internet2.edu/products-services/support/
+- type: x-terms-of-service
+  url: http://www.internet2.edu/policies/terms-of-use/
+- type: x-twitter
+  url: http://twitter.com/Internet2
+- type: x-website
+  url: https://internet2.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

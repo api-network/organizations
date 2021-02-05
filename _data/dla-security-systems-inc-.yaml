@@ -1,0 +1,26 @@
+---
+name: DLA Security Systems, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dla-security-systems-inc-.yaml
+tags:
+- Products And Tools
+apis: []
+x-common:
+- type: x-pricing
+  url: https://www.dlaco.com/pricing.htm
+- type: x-support
+  url: https://www.dlaco.com/dla_support/info.htm
+- type: x-website
+  url: https://www.dlaco.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

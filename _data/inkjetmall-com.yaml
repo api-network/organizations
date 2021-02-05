@@ -1,0 +1,43 @@
+---
+name: Inkjetmall.com
+description: InkjetMall is the place to get high-end inkjet ink and printer cleaning
+  supplies. We have helped thousands of printmakers since the 90s!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "402661"
+url: https://raw.githubusercontent.com/api-network/organizations/main/inkjetmall-com.yaml
+tags:
+- Surecolor
+- Supplies
+- Stylus Pro
+- Products
+- Printing
+- Printer
+- Maintenance
+- Inkjet
+- Epson
+- Cleaning
+- Bottles
+apis: []
+x-common:
+- type: x-blog
+  url: https://shop.inkjetmall.com/blog/ink-on-paper-blog-2
+- type: x-forum
+  url: https://forums.piezography.com
+- type: x-support
+  url: https://www.digitalprintmaking.com/supported-papers
+- type: x-terms-of-service
+  url: https://inkjetmall.odoo.com/terms-and-conditions
+- type: x-website
+  url: https://www.inkjetmall.com
+- type: x-youtube
+  url: https://www.youtube.com/user/Inkjetmall
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

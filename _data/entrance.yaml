@@ -1,0 +1,40 @@
+---
+name: Entrance
+description: Entrance Consulting Company offers software consulting & development
+  services for medium and enterprise level businesses across the U.S. Call today for
+  a free consultation.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "932379"
+url: https://raw.githubusercontent.com/api-network/organizations/main/entrance.yaml
+tags:
+- Business Applications
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.entranceconsulting.com/blog/
+- type: x-case-studies
+  url: https://www.entranceconsulting.com/case-studies/
+- type: x-contact
+  url: https://www.entranceconsulting.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/EntranceSoftware
+- type: x-linkedin
+  url: https://www.linkedin.com/company/entrance
+- type: x-news
+  url: https://www.entranceconsulting.com/newsroom/
+- type: x-twitter
+  url: https://twitter.com/CustomSoftware
+- type: x-website
+  url: https://www.entranceconsulting.com
+- type: x-youtube
+  url: https://www.youtube.com/user/CustomSoftware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

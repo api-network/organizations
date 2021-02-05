@@ -1,0 +1,49 @@
+---
+name: TechTarget
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2213"
+url: https://raw.githubusercontent.com/api-network/organizations/main/techtarget.yaml
+tags: []
+apis: []
+x-common:
+- type: x-about
+  url: https://www.techtarget.com/about-us/
+- type: x-careers
+  url: https://www.techtarget.com/about-us/careers
+- type: x-contact
+  url: https://www.techtarget.com/contact-us/
+- type: x-contact
+  url: http://reg.techtarget.com/contact-us.html
+- type: x-facebook
+  url: https://www.facebook.com/techtargetinc/
+- type: x-investor
+  url: https://investor.techtarget.com/CorporateProfile
+- type: x-linkedin
+  url: https://www.linkedin.com/in/laurenchelseaginter/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/alanhokt/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/emilyketchum/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/kenny-dellovo-22b4852/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/techtarget
+- type: x-privacy
+  url: https://www.techtarget.com/privacy-policy/
+- type: x-privacy
+  url: https://www.techtarget.com/ccpa-privacy-notice/
+- type: x-twitter
+  url: https://twitter.com/techtarget
+- type: x-website
+  url: https://www.techtarget.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

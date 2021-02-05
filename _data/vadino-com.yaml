@@ -1,0 +1,26 @@
+---
+name: Vadino.com
+description: Privately held company which creating tools and technologies for search
+  and research.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/vadino-com.yaml
+tags:
+- Search
+- Research
+- Intelligence
+- Directories
+apis: []
+x-common:
+- type: x-website
+  url: https://www.vadino.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

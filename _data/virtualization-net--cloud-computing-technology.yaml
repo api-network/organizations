@@ -1,0 +1,54 @@
+---
+name: Virtualization.net  Cloud Computing Technology
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4053663"
+url: https://raw.githubusercontent.com/api-network/organizations/main/virtualization-net--cloud-computing-technology.yaml
+tags:
+- Intel X86 Architecture
+apis: []
+x-common:
+- type: x-about
+  url: https://www.virtualization.net/about/
+- type: x-blog
+  url: https://www.virtualization.net/category/blog/
+- type: x-careers
+  url: https://www.virtualization.net/jobs/
+- type: x-contact
+  url: https://www.virtualization.net/forums/misc/contact
+- type: x-feed
+  url: https://www.virtualization.net/feeds/
+- type: x-forum
+  url: https://www.virtualization.net/forums/
+- type: x-forum
+  url: https://www.virtualization.net/forums/sendmessage.php
+- type: x-news
+  url: https://www.virtualization.net/category/news/
+- type: x-news
+  url: https://www.virtualization.net/category/news/desktop/
+- type: x-news
+  url: https://www.virtualization.net/category/news/hardware/
+- type: x-news
+  url: https://www.virtualization.net/category/news/network/
+- type: x-news
+  url: https://www.virtualization.net/category/news/server/
+- type: x-news
+  url: https://www.virtualization.net/category/news/storage/
+- type: x-open-source
+  url: https://www.virtualization.net/author/openstack/
+- type: x-privacy
+  url: https://www.virtualization.net/about/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.virtualization.net/about/terms-of-use/
+- type: x-website
+  url: https://www.virtualization.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

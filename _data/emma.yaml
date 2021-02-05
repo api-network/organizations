@@ -1,0 +1,58 @@
+---
+name: Emma
+description: "Design and optimize targeted email marketing campaigns. Emma\u2019s
+  digital marketing platform drives results with personalization, segmentation and
+  automation."
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29029-api-myemma-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "76768"
+url: https://raw.githubusercontent.com/api-network/organizations/main/emma.yaml
+tags:
+- Troubleshooting
+- Python
+- Public API
+- Profile
+- PHP
+- JSON
+- API Key
+- API Calls
+- API
+apis: []
+x-common:
+- type: x-blog
+  url: https://content.myemma.com/blog
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/emma
+- type: x-email
+  url: privacy@myemma.com
+- type: x-email
+  url: marketing@myemma.com
+- type: x-email
+  url: DPO@myemma.com
+- type: x-email
+  url: billing@myemma.com
+- type: x-email
+  url: contracts@myemma.com
+- type: x-email
+  url: legal@myemma.com
+- type: x-email
+  url: support@myemma.com
+- type: x-github
+  url: https://github.com/myemma
+- type: x-twitter
+  url: https://twitter.com/emmaemail
+- type: x-webhooks
+  url: http://api.myemma.com/webhooks.html
+- type: x-webinars
+  url: https://myemma.com/webinars
+- type: x-website
+  url: http://api.myemma.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

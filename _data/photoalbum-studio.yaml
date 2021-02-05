@@ -1,0 +1,64 @@
+---
+name: PhotoAlbum Studio
+description: Got digital pictures? Get Photo Album Studio 2!! PAS 2 is complete solution
+  to organize and share your digital photos. The photo album is displayed with thumbnail
+  index, smart picture display and optional slide show. The images can be resized
+  for web optimized photo album. The photo albums can be burnt on a CD for easy distribution.
+  A portable album viewer called Easy Album (rm) is bundled with the built catalog.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/photoalbum-studio.yaml
+tags:
+- Web Gallery
+- Viewing
+- View
+- Thumbnail Viewer
+- Thumbnail Index
+- Slideshow
+- Slide Show Creator
+- Slide Show
+- Show Images
+- Sharing
+- Shareware
+- Share
+- Resizer
+- Picture Resize
+- Picture Index
+- Photoalbumstudio
+- Photo Albums
+- Photo Album Studio
+- Photo Album
+- Oragnize Pictures
+- Managing
+- Manage
+- Java Viewer
+- Java
+- Indexing And Publishing
+- Image Resize
+- Freeware
+- Exapower.com
+- Exapower
+- Easyalbum (rm)
+- Easy Album (rm)
+- Distribute On CD
+- Digital Pictures
+- Digital Photography
+- Digital Camera
+- Creating
+- Create
+- CD
+- Auto Resizer
+apis: []
+x-common:
+- type: x-website
+  url: https://exapower.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

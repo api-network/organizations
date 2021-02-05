@@ -1,0 +1,73 @@
+---
+name: Bureau of Alcohol, Tobacco, Firearms, and Explosives
+description: <p>The Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF, BATF,
+  and BATFE) is a federal law enforcement organization within the United States Department
+  of Justice.[4] Its responsibilities include the investigation and prevention of
+  federal offenses involving the unlawful use, manufacture and possession of firearms
+  and explosives; acts of arson and bombings; and illegal trafficking of alcohol and
+  tobacco products. The ATF also regulates via licensing the sale, possession, and
+  transportation of firearms, ammunition, and explosives in interstate commerce. Many
+  of ATF's activities are carried out in conjunction with task forces made up of state
+  and local law enforcement officers, such as Project Safe Neighborhoods. ATF operates
+  a unique fire research laboratory in Beltsville, Maryland, where full-scale mock-ups
+  of criminal arson can be reconstructed.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/399px-US-AlcoholTobaccoFirearmsAndExplosives-Seal.svg.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "911"
+x-alexaRank: "88145"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bureau-of-alcohol-tobacco-firearms-and-explosives.yaml
+tags:
+- Surveillance
+- Historical Data API
+- Have API
+- General Data
+- Federal Government
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://atf.gov/
+- type: x-careers
+  url: https://www.atf.gov/careers
+- type: x-contact
+  url: https://www.atf.gov/contact/submit-tip
+- type: x-data
+  url: https://www.atf.gov/resource-center/data-statistics
+- type: x-developers
+  url: https://data.atf.gov/developers
+- type: x-facebook
+  url: http://www.facebook.com/HQATF
+- type: x-instagram
+  url: https://instagram.com/atfhq/
+- type: x-news
+  url: https://www.atf.gov/news/advisories
+- type: x-news
+  url: https://www.atf.gov/news/reward-notices
+- type: x-open-source
+  url: http://www.justice.gov/open
+- type: x-press
+  url: https://www.atf.gov/news/press-releases
+- type: x-privacy
+  url: http://www.justice.gov/doj/privacy-policy
+- type: x-status
+  url: http://www.justice.gov/jmd/eeo-program-status-report
+- type: x-terms-of-service
+  url: http://www.justice.gov/legalpolicies
+- type: x-twitter
+  url: http://www.twitter.com/atfhq
+- type: x-website
+  url: http://atf.gov
+- type: x-website
+  url: https://www.atf.gov
+- type: x-wikipedia
+  url: http://en.wikipedia.org/wiki/Bureau_of_Alcohol,_Tobacco,_Firearms,_and_Explosives
+- type: x-youtube
+  url: http://www.youtube.com/user/ATFHQ
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

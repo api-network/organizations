@@ -1,0 +1,32 @@
+---
+name: AVS 4 You
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "26941"
+url: https://raw.githubusercontent.com/api-network/organizations/main/avs-4-you.yaml
+tags:
+- Internet
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.avs4you.com/blog/
+- type: x-facebook
+  url: https://www.facebook.com/avs4you
+- type: x-login
+  url: https://support.avs4you.com/login.aspx
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-website
+  url: https://www.avs4you.com
+- type: x-youtube
+  url: https://www.youtube.com/user/avs4you
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

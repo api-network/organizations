@@ -1,0 +1,30 @@
+---
+name: AllPodcasts
+description: All the podcast info you could want
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "535561"
+url: https://raw.githubusercontent.com/api-network/organizations/main/allpodcasts.yaml
+tags:
+- Directories
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.allpodcasts.com/contact/
+- type: x-feed
+  url: https://feed.podbean.com/talkinglion/feed.xml
+- type: x-news
+  url: https://www.allpodcasts.com/category/news/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-website
+  url: https://www.allpodcasts.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

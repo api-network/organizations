@@ -1,0 +1,30 @@
+---
+name: NextgenID
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4896689"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nextgenid.yaml
+tags:
+- Companies
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.nextgenid.com/contact/
+- type: x-developer
+  url: http://developer.nextgenid.com
+- type: x-news
+  url: https://www.nextgenid.com/insight-news/
+- type: x-platform
+  url: https://www.nextgenid.com/ngid-trust-platform/
+- type: x-website
+  url: https://www.nextgenid.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

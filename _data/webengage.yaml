@@ -1,0 +1,41 @@
+---
+name: WebEngage
+description: "WebEngage\u2019s B2C marketing automation software helps in customer
+  retention & user engagement across all channels with Journey Designer. Get a Demo
+  Now!"
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28990-docs-webengage-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "18205"
+url: https://raw.githubusercontent.com/api-network/organizations/main/webengage.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://WebEngage.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/webengage
+- type: x-documentation
+  url: https://knowledgebase.webengage.com/docs
+- type: x-documentation
+  url: https://docs.webengage.com/docs
+- type: x-documentation
+  url: https://docs.adjust.com/en/special-partners/webengage/
+- type: x-email
+  url: legal@webengage.com
+- type: x-login
+  url: https://dashboard.webengage.com/login
+- type: x-twitter
+  url: https://twitter.com/WebEngage
+- type: x-webhooks
+  url: https://docs.webengage.com/docs/webhooks
+- type: x-website
+  url: https://docs.webengage.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

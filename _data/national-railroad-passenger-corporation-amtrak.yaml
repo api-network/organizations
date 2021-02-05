@@ -1,0 +1,31 @@
+---
+name: National Railroad Passenger Corporation (AMTRAK)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/national-railroad-passenger-corporation-amtrak.yaml
+tags:
+- Data Provider
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.amtrak.com
+- type: x-website
+  url: http://amtrak.com
+- type: x-facebook
+  url: http://facebook.com/Amtrak
+- type: x-twitter
+  url: http://twitter.com/amtrak
+- type: x-youtube
+  url: http://youtube.com/amtrak
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

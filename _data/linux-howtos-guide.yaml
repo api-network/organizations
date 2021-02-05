@@ -1,0 +1,35 @@
+---
+name: Linux howto's guide
+description: Lintut provides technical information about server configuration and
+  software installation on CentOS, Ubuntu and other Linux distribution.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "350327"
+url: https://raw.githubusercontent.com/api-network/organizations/main/linux-howtos-guide.yaml
+tags:
+- Tutorials
+- Linux Commands
+- Linux
+- Howtos
+- Guides
+apis: []
+x-common:
+- type: x-about
+  url: https://lintut.com/about-us/
+- type: x-feed
+  url: http://feeds.feedburner.com/lintut
+- type: x-open-source
+  url: https://lintut.com/category/openvz/
+- type: x-privacy
+  url: https://lintut.com/privacy-policy/
+- type: x-website
+  url: https://lintut.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

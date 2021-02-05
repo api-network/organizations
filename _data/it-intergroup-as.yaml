@@ -1,0 +1,47 @@
+---
+name: IT InterGroup A/S
+description: Get 85% password self-service success with focus on users. Best practices
+  for end-users and service desk work-flow. Avoid data breaches with FastPass
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/it-intergroup-as.yaml
+tags:
+- Password Tools
+apis: []
+x-common:
+- type: x-website
+  url: http://www.fastpasscorp.com
+- type: x-careers
+  url: https://www.fastpasscorp.com/careers/
+- type: x-contact
+  url: https://www.fastpasscorp.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/FastPassCorp-152663844925203/
+- type: x-investor
+  url: https://www.fastpasscorp.com/investor-relations/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/69231/
+- type: x-login
+  url: https://helpdesk.fastpasscorp.com/support/login
+- type: x-news
+  url: https://www.fastpasscorp.com/news/
+- type: x-partner
+  url: https://www.fastpasscorp.com/partners/
+- type: x-privacy
+  url: https://www.fastpasscorp.com/privacy-policy/
+- type: x-support
+  url: https://www.fastpasscorp.com/help-desk-business-case/
+- type: x-twitter
+  url: https://twitter.com/FastPassCorpAS
+- type: x-website
+  url: https://www.fastpasscorp.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

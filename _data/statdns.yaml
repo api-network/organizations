@@ -1,0 +1,30 @@
+---
+name: StatDNS
+description: <p>This is a REST API allowing to perform DNS queries over HTTP, and
+  to get reverse PTR records for both IPv4 and IPv6 addresses. It outputs JSON-encoded
+  DNS responses and can be useful in server-side environments where you cannot perform
+  DNS queries locally, for client-side Web Applications (including Web browser extensions),
+  and for DNS operators. There is no rate limit of any sort at the moment, and the
+  service is free for everyone to use.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/StatDNS-Logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "3893159"
+url: https://raw.githubusercontent.com/api-network/organizations/main/statdns.yaml
+tags:
+- Have API
+- DNS
+apis: []
+x-common:
+- type: x-developers
+  url: http://www.statdns.com/api/
+- type: x-website
+  url: http://www.statdns.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

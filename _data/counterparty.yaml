@@ -1,0 +1,32 @@
+---
+name: Counterparty
+description: A peer-to-peer financial platform built over the bitcoin protocol, which
+  enables the creation and use of many financial instruments.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26767-counterparty-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "282757"
+url: https://raw.githubusercontent.com/api-network/organizations/main/counterparty.yaml
+tags:
+- Marketplaces
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://counterparty.io/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/counterparty
+- type: x-email
+  url: projects@counterparty.io
+- type: x-twitter
+  url: https://twitter.com/CounterpartyXCP
+- type: x-website
+  url: http://counterparty.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

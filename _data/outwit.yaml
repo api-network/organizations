@@ -1,0 +1,53 @@
+---
+name: OutWit
+description: 'OutWit Applications: Find and extract data, images, text from Webpage
+  HTML code or any text document... OutWit Technologies provides the Internet community
+  with innovative software and online services, to easily find and harvest online
+  information.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "543644"
+url: https://raw.githubusercontent.com/api-network/organizations/main/outwit.yaml
+tags:
+- Webpage
+- Tables
+- Software
+- Search Tools
+- Scrape
+- Programs
+- OutWit
+- Images
+- HTML
+- Find Online Information
+- Extraction
+apis: []
+x-common:
+- type: x-about
+  url: https://www.outwit.com/about/about.html
+- type: x-blog
+  url: http://blog.outwit.com/?p=887
+- type: x-blog
+  url: http://blog.outwit.com
+- type: x-contact
+  url: https://www.outwit.com/support/feedback/contact.php
+- type: x-documentation
+  url: https://www.outwit.com/products/docs/
+- type: x-documentation
+  url: https://www.outwit.com/products/docs/license.php
+- type: x-terms-of-service
+  url: https://www.outwit.com/terms-of-service/
+- type: x-terms-of-service
+  url: https://www.outwit.com/legal/license.txt
+- type: x-tutorials
+  url: https://www.outwit.com/support/help/tutorials/
+- type: x-website
+  url: https://www.outwit.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

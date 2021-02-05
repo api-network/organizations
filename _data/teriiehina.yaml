@@ -1,0 +1,25 @@
+---
+name: teriiehina
+description: just hanging around
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29378-teriiehina-net.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "5"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/teriiehina.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.teriiehina.net/
+- type: x-twitter
+  url: https://twitter.com/teriiehina
+- type: x-website
+  url: http://teriiehina.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

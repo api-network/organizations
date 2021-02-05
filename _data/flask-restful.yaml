@@ -1,0 +1,24 @@
+---
+name: Flask Restful
+description: '<p>Flask-RESTful is an extension for Flask that adds support for quickly
+  building REST APIs. It is a lightweight abstraction that works with your existing
+  ORM/libraries. Flask-RESTful encourages best practices with minimal setup.&nbsp;<span
+  style="white-space: pre;"> </span></p>'
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/flask-restful-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: ""
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/flask-restful.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: https://flask-restful.readthedocs.org/en/0.3.2/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

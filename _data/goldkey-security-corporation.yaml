@@ -1,0 +1,43 @@
+---
+name: GoldKey Security Corporation
+description: CybrSec is the developer of b2 cryptography, which is the most significant
+  new security innovation since public key cryptography.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4728029"
+url: https://raw.githubusercontent.com/api-network/organizations/main/goldkey-security-corporation.yaml
+tags:
+- File Encryption
+apis: []
+x-common:
+- type: x-about
+  url: https://www.goldkey.com/about-us/
+- type: x-blog
+  url: https://www.goldkey.com/blog/
+- type: x-contact
+  url: https://www.goldkey.com/contact-us/
+- type: x-events
+  url: https://events.techconnect.org/DTCFall/bio2018.html
+- type: x-feed
+  url: https://www.goldkey.com/feed/
+- type: x-login
+  url: https://www.goldkeyid.com/sign-in/index.php
+- type: x-security
+  url: https://www.goldkey.com/goldkey-security-token/
+- type: x-security
+  url: https://www.cybrsecurity.com
+- type: x-support
+  url: https://www.goldkey.com/support-center/
+- type: x-terms-of-service
+  url: https://www.goldkey.com/goldkey-legal/
+- type: x-website
+  url: https://www.goldkey.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

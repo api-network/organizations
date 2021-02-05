@@ -1,0 +1,64 @@
+---
+name: While(nan)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/whilenan.yaml
+tags:
+- Weblogs
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.blogger.com/profile/02909587337938463354
+- type: x-blog
+  url: https://while-nan.blogspot.com/search/label/mercuial
+- type: x-blog
+  url: https://while-nan.blogspot.com/search/label/Software
+- type: x-blog
+  url: https://while-nan.blogspot.com/search/label/D%20Nation
+- type: x-blog
+  url: https://while-nan.blogspot.com/2007/06/const-wars.html
+- type: x-blog
+  url: https://while-nan.blogspot.com/search/label/Const
+- type: x-blog
+  url: https://while-nan.blogspot.com/search/label/D%202.0
+- type: x-blog
+  url: https://while-nan.blogspot.com/
+- type: x-blog
+  url: http://odefu.blogspot.com/
+- type: x-blog
+  url: http://kirkmcdonald.blogspot.com/
+- type: x-blog
+  url: http://dblog.aldacron.net/
+- type: x-blog
+  url: https://while-nan.blogspot.com/search/label/CTFE
+- type: x-blog
+  url: https://while-nan.blogspot.com/search/label/Mixins
+- type: x-blog
+  url: https://while-nan.blogspot.com/2010/
+- type: x-blog
+  url: https://while-nan.blogspot.com/2010/04/
+- type: x-blog
+  url: https://while-nan.blogspot.com/2007/
+- type: x-blog
+  url: https://while-nan.blogspot.com/2007/11/
+- type: x-blog
+  url: https://while-nan.blogspot.com/2007/08/
+- type: x-blog
+  url: https://while-nan.blogspot.com/2007/07/
+- type: x-blog
+  url: https://while-nan.blogspot.com/2007/06/
+- type: x-feed
+  url: https://while-nan.blogspot.com/feeds/posts/default
+- type: x-website
+  url: https://while-nan.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

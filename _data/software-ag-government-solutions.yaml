@@ -1,0 +1,31 @@
+---
+name: Software AG Government Solutions
+description: Software AG Government Solutions is a growth-oriented software company
+  dedicated to serving the U.S. Federal and State & Local Government market as well
+  as the Aerospace and Defense sector. We are headquartered in Herndon, Virginia and
+  operate independently with the backing of our billion-dollar corporate parent. Software
+  AG is the developer of the global leading webMethods integration platform that connects
+  disparate systems both on-prem and in the cloud. We specialize in large scale, mission
+  critical, systems that demand full auditability with real-time response across complex
+  extended enterprises.
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/software-ag-government-solutions.yaml
+tags:
+- Profile
+- Management
+- Government
+apis: []
+x-common:
+- type: x-website
+  url: http://softwareaggov.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

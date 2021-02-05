@@ -1,0 +1,50 @@
+---
+name: Erste Group Bank
+description: Erste Group is one of the largest financial services providers in Central
+  and Eastern Europe.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27999-www-erstegroup-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "215970"
+url: https://raw.githubusercontent.com/api-network/organizations/main/erste-group-bank.yaml
+tags:
+- EU Bank
+- Assets
+apis: []
+x-common:
+- type: x-website
+  url: http://www.erstegroup.com/en/Investors/disclaimer
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/erste-group
+- type: x-email
+  url: daniel.rath@erstegroup.com
+- type: x-email
+  url: contact@erstegroup.com
+- type: x-email
+  url: norbert.bacher@erstegroup.com
+- type: x-email
+  url: herbert.zitzler@erstegroup.com
+- type: x-email
+  url: hephzibah.druml@erstegroup.com
+- type: x-email
+  url: ombudsstelle@erstegroup.com
+- type: x-email
+  url: veronika.bernhart@erstegroup.com
+- type: x-email
+  url: peter.wendecker@erstegroup.com
+- type: x-email
+  url: gabor.dobrovolni@erstegroup.com
+- type: x-email
+  url: frederik.silzer@erstegroup.com
+- type: x-twitter
+  url: https://twitter.com/ErsteGroupIR
+- type: x-website
+  url: https://www.erstegroup.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

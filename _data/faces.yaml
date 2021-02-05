@@ -1,0 +1,44 @@
+---
+name: Faces
+description: Shop online your favourite makeup, skincare and fragrances brands on
+  Faces, the new face of Wojooh and enjoy free speed delivery, 100% original products,
+  gifts with every order and multiple payment options.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "147346"
+url: https://raw.githubusercontent.com/api-network/organizations/main/faces.yaml
+tags:
+- Social Networking
+apis: []
+x-common:
+- type: x-website
+  url: https://www.faces.com/
+- type: x-about
+  url: https://www.faces.com/ae-en/about-us
+- type: x-contact
+  url: https://www.faces.com/ae-en/contact
+- type: x-developer
+  url: https://api.whatsapp.com/send?phone=971525929749
+- type: x-facebook
+  url: https://www.facebook.com/FacesBeautyMiddleEast/
+- type: x-instagram
+  url: https://www.instagram.com/facesbeautymiddleeast/
+- type: x-privacy
+  url: https://www.faces.com/ae-en/privacy-policy
+- type: x-terms-of-service
+  url: https://www.faces.com/ae-en/terms-and-conditions
+- type: x-twitter
+  url: https://twitter.com/FacesBeautyME
+- type: x-website
+  url: https://www.faces.com
+- type: x-youtube
+  url: https://www.youtube.com/user/FacesWojooh
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

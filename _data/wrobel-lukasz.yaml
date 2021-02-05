@@ -1,0 +1,61 @@
+---
+name: Wrobel, Lukasz
+description: "Blog on software development kept by \u0141ukasz Wr\xF3bel. High quality
+  tutorials and examples."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1638059"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wrobel-lukasz.yaml
+tags:
+- "\u0141ukasz Wr\xF3bel"
+- Weblogs
+- Ruby On Rails
+- Ruby
+- Programming
+- PHP
+- Blog
+apis: []
+x-common:
+- type: x-website
+  url: https://lukaszwrobel.pl/
+- type: x-blog
+  url: https://lukaszwrobel.pl/blog/rails-girls/
+- type: x-blog
+  url: https://lukaszwrobel.pl/blog/sinatra-cookbook/
+- type: x-blog
+  url: https://lukaszwrobel.pl/blog/e-book-proposals/
+- type: x-blog
+  url: https://lukaszwrobel.pl/blog/ternary-search-tree/
+- type: x-blog
+  url: https://lukaszwrobel.pl/blog/ruby-is-nil/
+- type: x-blog
+  url: https://lukaszwrobel.pl/blog/memcached-and-ruby/
+- type: x-blog
+  url: https://lukaszwrobel.pl/blog/rake-tutorial/
+- type: x-blog
+  url: https://lukaszwrobel.pl/blog/rupy-2009-conference/
+- type: x-blog
+  url: https://lukaszwrobel.pl/blog/rspec-rake-task/
+- type: x-blog
+  url: https://lukaszwrobel.pl/blog/ruby-hash-default-value/
+- type: x-blog
+  url: https://lukaszwrobel.pl/blog/copy-object-in-ruby/
+- type: x-blog
+  url: https://lukaszwrobel.pl/blog/what-is-a-sitemap/
+- type: x-blog
+  url: https://lukaszwrobel.pl/blog/math-parser-part-4-tests/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/lukaszwrobel
+- type: x-twitter
+  url: https://twitter.com/lukaszwrobel
+- type: x-website
+  url: https://lukaszwrobel.pl
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

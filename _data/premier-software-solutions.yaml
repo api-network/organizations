@@ -1,0 +1,62 @@
+---
+name: Premier Software Solutions
+description: Discover Premier Software management solutions designed specifically
+  for the spa, wellness and leisure industries, hair and beauty industry and training
+  colleges, helping to improve the client's journey and support business growth.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1014006"
+url: https://raw.githubusercontent.com/api-network/organizations/main/premier-software-solutions.yaml
+tags:
+- Salon Management
+apis: []
+x-common:
+- type: x-about
+  url: https://www.premiersoftware.uk/about-us/social-wall/
+- type: x-about
+  url: https://www.premiersoftware.uk/about-us/
+- type: x-blog
+  url: https://www.premiersoftware.uk/blogprem/
+- type: x-careers
+  url: https://www.premiersoftware.uk/careers/
+- type: x-case-studies
+  url: https://www.premiersoftware.uk/case-studies/
+- type: x-contact
+  url: https://www.premiersoftware.uk/contact-us/
+- type: x-facebook
+  url: https://en-gb.facebook.com/PremierSoftwareSolutions/
+- type: x-instagram
+  url: https://www.instagram.com/premiersoftware/
+- type: x-login
+  url: https://www.premiersoftware.uk/login-form/
+- type: x-news
+  url: https://www.premiersoftware.uk/news/
+- type: x-news
+  url: https://www.premiersoftware.uk/newsletter-sign-up/
+- type: x-partner
+  url: https://www.premiersoftware.uk/about-us/partners/
+- type: x-privacy
+  url: https://www.premiersoftware.uk/privacy-policy/
+- type: x-support
+  url: https://www.premiersoftware.uk/support/
+- type: x-terms-of-service
+  url: https://www.premiersoftware.uk/terms/
+- type: x-terms-of-service
+  url: https://www.premiersoftware.uk/salonlite-terms/
+- type: x-twitter
+  url: https://twitter.com/premiersoftware
+- type: x-twitter
+  url: https://twitter.com/corebypremier?lang=en
+- type: x-webinars
+  url: https://www.premiersoftware.uk/support/webinars/
+- type: x-website
+  url: https://www.premiersoftware.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,54 @@
+---
+name: RedCappi
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "337911"
+url: https://raw.githubusercontent.com/api-network/organizations/main/redcappi.yaml
+tags:
+- Online Tools
+apis: []
+x-common:
+- type: x-website
+  url: https://getredcappi.com
+- type: x-about
+  url: https://getredcappi.com/about/
+- type: x-blog
+  url: https://getredcappi.com/blog/
+- type: x-contact
+  url: https://getredcappi.com/contact-us/
+- type: x-developer
+  url: https://getredcappi.com/api/
+- type: x-facebook
+  url: http://www.facebook.com/redcappi
+- type: x-feed
+  url: https://www.redcappi.com/feed/
+- type: x-login
+  url: https://www.redcappi.com/user/login
+- type: x-pricing
+  url: https://getredcappi.com/pricing-4/
+- type: x-pricing
+  url: https://getredcappi.com/pricing/
+- type: x-privacy
+  url: https://getredcappi.com/privacy-statement/
+- type: x-signup
+  url: https://www.redcappi.com/signup
+- type: x-support
+  url: https://getredcappi.com/how-can-we-help-you/
+- type: x-terms-of-service
+  url: https://getredcappi.com/terms-and-conditions/
+- type: x-twitter
+  url: http://twitter.com/redcappi
+- type: x-website
+  url: https://www.redcappi.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=0EaEWX5woag
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

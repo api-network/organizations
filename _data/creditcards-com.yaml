@@ -1,0 +1,50 @@
+---
+name: CreditCards.com
+description: CreditCards.com features an award-winning news team which reports news
+  about credit cards, debit cards and other aspects of personal finance. The staff
+  recently won a Society of American Business Editors and Writers award for its coverage
+  of the Credit...
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28297-www-creditcards-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9119"
+url: https://raw.githubusercontent.com/api-network/organizations/main/creditcards-com.yaml
+tags:
+- Have API
+- API Not Found
+apis: []
+x-common:
+- type: x-blog
+  url: https://blogs.creditcards.com/
+- type: x-careers
+  url: https://careers.redventures.com/credit-cards-com.html
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/creditcards-com
+- type: x-email
+  url: support@creditcards.com
+- type: x-facebook
+  url: https://www.facebook.com/CreditCards.com
+- type: x-instagram
+  url: https://www.instagram.com/creditcardscom/
+- type: x-news
+  url: https://www.creditcards.com/credit-card-news/
+- type: x-news
+  url: https://www.creditcards.com/credit-card-news/glossary/
+- type: x-press
+  url: https://www.creditcards.com/american-express/
+- type: x-signup
+  url: https://www.creditcards.com/signup-bonuses/
+- type: x-twitter
+  url: https://twitter.com/CreditCardsCom
+- type: x-website
+  url: https://www.creditcards.com
+- type: x-youtube
+  url: https://www.youtube.com/user/creditcardstv
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

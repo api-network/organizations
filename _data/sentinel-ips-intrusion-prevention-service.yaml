@@ -1,0 +1,39 @@
+---
+name: Sentinel IPS Intrusion Prevention Service
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sentinel-ips-intrusion-prevention-service.yaml
+tags:
+- Products And Tools
+- Managed Security Service Providers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.sentinelips.com
+- type: x-blog
+  url: https://sentinelips.com/blog/
+- type: x-careers
+  url: https://sentinelips.com/careers/
+- type: x-facebook
+  url: https://www.facebook.com/sentinelips
+- type: x-linkedin
+  url: https://www.linkedin.com/company/sentinel-ips/
+- type: x-partner
+  url: https://sentinelips.com/partners/
+- type: x-support
+  url: https://sentinelips.com/support/
+- type: x-twitter
+  url: https://twitter.com/sentinelips
+- type: x-website
+  url: https://networkcloaking.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

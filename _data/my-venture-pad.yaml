@@ -1,0 +1,24 @@
+---
+name: My Venture Pad
+description: My Venture Pad provides latest tech news, startup ventures, information
+  , stories, reviewing new products, and breaking business news.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28383-myventurepad-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "352607"
+url: https://raw.githubusercontent.com/api-network/organizations/main/my-venture-pad.yaml
+tags: []
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/myventurepad
+- type: x-website
+  url: http://myventurepad.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

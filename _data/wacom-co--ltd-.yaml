@@ -1,0 +1,39 @@
+---
+name: Wacom Co. Ltd.
+description: Wacom provides interactive pen displays, pen tablets, and styluses to
+  equip and inspire everyone make the world a more creative place.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7937"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wacom-co--ltd-.yaml
+tags:
+- Pointing Devices
+apis: []
+x-common:
+- type: x-website
+  url: http://bit.ly/WacomSITE
+- type: x-developer
+  url: http://developer.wacom.com
+- type: x-developer
+  url: https://developer.wacom.com/
+- type: x-facebook
+  url: http://www.facebook.com/wacom
+- type: x-investor
+  url: http://investors.wacom.com/en-jp/index.html
+- type: x-login
+  url: https://account.wacom.com/en-us/sign-in
+- type: x-privacy
+  url: https://www.wacom.com/en-us/privacy#14
+- type: x-twitter
+  url: http://twitter.com/wacom
+- type: x-website
+  url: https://www.wacom.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

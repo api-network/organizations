@@ -1,0 +1,39 @@
+---
+name: Brightbox Systems Ltd.
+description: "Brightbox provides simple and flexible UK owned and operated cloud hosting
+  designed for 100% uptime. Get started now with \xA320 free credit."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/brightbox-systems-ltd-.yaml
+tags:
+- Hosting
+apis: []
+x-common:
+- type: x-website
+  url: https://www.brightbox.com
+- type: x-documentation
+  url: https://www.terraform.io/docs/providers/brightbox/
+- type: x-facebook
+  url: https://www.facebook.com/brightbox
+- type: x-github
+  url: https://github.com/brightbox/gobrightbox
+- type: x-login
+  url: https://manage.brightbox.com/login
+- type: x-signup
+  url: https://manage.brightbox.com/signup
+- type: x-status
+  url: http://status.brightbox.com/
+- type: x-twitter
+  url: https://twitter.com/brightbox
+- type: x-website
+  url: https://www.brightbox.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,39 @@
+---
+name: Xelex Digital - WebChartMD
+description: WebChartMD is the premier transcription software platform for managing
+  your medical dictation and transcription workflow.
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/api-butterfly.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3908018"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xelex-digital--webchartmd.yaml
+tags:
+- Healthcare
+apis: []
+x-common:
+- type: x-about
+  url: https://www.webchartmd.org/about-us
+- type: x-email
+  url: carter@webchartmd.com
+- type: x-email
+  url: info@webchartmd.com
+- type: x-email
+  url: sales@webchartmd.com
+- type: x-email
+  url: support@webchartmd.com
+- type: x-email
+  url: privacy@webchartmd.com
+- type: x-login
+  url: https://beta.webchartmd.com/login
+- type: x-login
+  url: https://www.webchartmd.org/login
+- type: x-website
+  url: http://webchartmd.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

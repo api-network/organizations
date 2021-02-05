@@ -1,0 +1,38 @@
+---
+name: Fast Rhino
+description: Tucson Computer Repair, PC Paramedic serving Rancho Vistoso, Oro Valley
+  and Northwest Tucson, Arizona. We specialize in computer repair house calls.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fast-rhino.yaml
+tags:
+- Virus
+- Tucson Computer
+- Tucson
+- Sun City
+- Rancho Vistoso
+- Pc Repair
+- PC
+- Oro Valley
+- Computer Repair
+- Computer
+- Clean
+- Arizona
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.fastrhino.com
+- type: x-facebook
+  url: https://www.facebook.com/FastRhino
+- type: x-website
+  url: https://www.fastrhino.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

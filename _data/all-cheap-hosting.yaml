@@ -1,0 +1,42 @@
+---
+name: All Cheap Hosting
+description: Looking for a reliable and inexpensive web hosting for your business
+  website or blog? We at AllCheapHosting will help you to find and choose the right
+  hosting company and plan for your needs and budget.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/all-cheap-hosting.yaml
+tags:
+- Directories
+apis: []
+x-common:
+- type: x-about
+  url: https://allcheaphosting.com/about/
+- type: x-blog
+  url: https://allcheaphosting.com/start-successful-blog/
+- type: x-contact
+  url: https://allcheaphosting.com/contact/
+- type: x-open-source
+  url: https://allcheaphosting.com/opencart-hosting/
+- type: x-press
+  url: https://allcheaphosting.com/start-wordpress-blog/
+- type: x-press
+  url: https://allcheaphosting.com/wordpress-seo/
+- type: x-press
+  url: https://allcheaphosting.com/wordpress-hosting/
+- type: x-privacy
+  url: https://allcheaphosting.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://allcheaphosting.com/terms-of-use/
+- type: x-website
+  url: https://www.allcheaphosting.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

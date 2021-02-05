@@ -1,0 +1,48 @@
+---
+name: Giganews
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "156023"
+url: https://raw.githubusercontent.com/api-network/organizations/main/giganews.yaml
+tags:
+- Feed Services
+apis: []
+x-common:
+- type: x-news
+  url: https://www.giganews.com/auth?destination=%2F
+- type: x-news
+  url: https://www.giganews.com/
+- type: x-news
+  url: https://fr.giganews.com/
+- type: x-news
+  url: https://br.giganews.com/
+- type: x-news
+  url: https://cn.giganews.com/
+- type: x-news
+  url: https://de.giganews.com/
+- type: x-news
+  url: https://es.giganews.com/
+- type: x-news
+  url: https://jp.giganews.com/
+- type: x-news
+  url: https://kr.giganews.com/
+- type: x-news
+  url: https://nl.giganews.com/
+- type: x-news
+  url: https://tw.giganews.com/
+- type: x-news
+  url: https://www.facebook.com/giganews
+- type: x-news
+  url: https://www.youtube.com/giganews
+- type: x-website
+  url: https://www.giganews.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

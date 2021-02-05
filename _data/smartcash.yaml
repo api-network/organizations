@@ -1,0 +1,27 @@
+---
+name: SmartCash
+description: SmartCash is a brand new decentralized digital currency, where every
+  investor has a voice while remaining safe, secure and fungible all at the same time!
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26720-smartcash-cc.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "144335"
+url: https://raw.githubusercontent.com/api-network/organizations/main/smartcash.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/smartcash
+- type: x-twitter
+  url: https://twitter.com/scashofficial
+- type: x-website
+  url: https://smartcash.cc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

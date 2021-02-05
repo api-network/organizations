@@ -1,0 +1,41 @@
+---
+name: SolarWinds
+description: SolarWinds IT monitoring and management tools are built for SysAdmins
+  and network engineers who need powerful and affordable tools. Get a free trial today.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "12721"
+url: https://raw.githubusercontent.com/api-network/organizations/main/solarwinds.yaml
+tags:
+- Network Management
+apis: []
+x-common:
+- type: x-careers
+  url: https://solarwinds.jobs/
+- type: x-facebook
+  url: https://www.facebook.com/SolarWinds
+- type: x-investor
+  url: https://investors.solarwinds.com/overview/default.aspx
+- type: x-linkedin
+  url: https://www.linkedin.com/company/solarwinds
+- type: x-partner
+  url: https://partner.solarwinds.com/
+- type: x-support
+  url: https://support.solarwinds.com/Success_Center
+- type: x-support
+  url: https://support.solarwinds.com/SuccessCenter/s/
+- type: x-twitter
+  url: https://twitter.com/solarwinds
+- type: x-website
+  url: https://www.solarwinds.com
+- type: x-youtube
+  url: https://www.youtube.com/user/solarwindsinc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

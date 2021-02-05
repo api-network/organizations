@@ -1,0 +1,67 @@
+---
+name: H5
+description: H5 is the leading provider of e-discovery, technology-assisted review,
+  critical document identification, and case preparation support.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1284699"
+url: https://raw.githubusercontent.com/api-network/organizations/main/h5.yaml
+tags:
+- Fulltext
+apis: []
+x-common:
+- type: x-website
+  url: http://www.h5.com
+- type: x-about
+  url: https://www.h5.com/about-us/
+- type: x-blog
+  url: https://www.h5.com/category/blog/
+- type: x-careers
+  url: https://www.h5.com/careers/
+- type: x-case-studies
+  url: https://www.h5.com/category/case-studies/
+- type: x-case-studies
+  url: https://h5.com/category/case-studies/
+- type: x-contact
+  url: https://www.h5.com/contact-us/
+- type: x-events
+  url: https://www.h5.com/category/events/
+- type: x-events
+  url: https://h5.com/category/events/
+- type: x-facebook
+  url: https://www.facebook.com/H5Technologies
+- type: x-linkedin
+  url: https://www.linkedin.com/company/h5
+- type: x-news
+  url: https://www.h5.com/category/news/
+- type: x-news
+  url: https://h5.com/category/news/
+- type: x-privacy
+  url: https://www.h5.com/privacy-policy/
+- type: x-support
+  url: https://www.h5.com/how-we-help/
+- type: x-terms-of-service
+  url: https://www.h5.com/terms-of-use/
+- type: x-twitter
+  url: https://www.twitter.com/h5technologies
+- type: x-webinars
+  url: https://www.h5.com/category/webinars/
+- type: x-website
+  url: https://www.h5.com
+- type: x-white-papers
+  url: https://www.h5.com/category/white-papers/
+- type: x-youtube
+  url: https://www.youtube.com/embed/ir5AK6NQHJs
+- type: x-youtube
+  url: https://www.youtube.com/embed/bkxPr-D1xb0
+- type: x-youtube
+  url: https://www.youtube.com/user/H5ediscovery
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,42 @@
+---
+name: Objectivity Ltd.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3026104"
+url: https://raw.githubusercontent.com/api-network/organizations/main/objectivity-ltd-.yaml
+tags:
+- Unify
+apis: []
+x-common:
+- type: x-website
+  url: http://www.objectivity.co.uk/
+- type: x-blog
+  url: http://blog.objectivity.co.uk/
+- type: x-blog
+  url: https://blog.objectivity.co.uk/
+- type: x-contact
+  url: https://www.objectivity.co.uk/contact/
+- type: x-facebook
+  url: https://www.facebook.com/ObjectivityLtd
+- type: x-facebook
+  url: https://www.facebook.com/ObjectivityLtd/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/objectivityltd
+- type: x-privacy
+  url: https://www.objectivity.co.uk/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/objectivityltd
+- type: x-website
+  url: https://www.objectivity.co.uk
+- type: x-youtube
+  url: https://www.youtube.com/user/ObjectivityLtd
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

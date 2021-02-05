@@ -1,0 +1,38 @@
+---
+name: IT Governance Ltd.
+description: IT Governance - the one-stop-shop for IT Governance including books,
+  tools, learning and consultancy so that your organization can compete and win in
+  today's world.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "124572"
+url: https://raw.githubusercontent.com/api-network/organizations/main/it-governance-ltd-.yaml
+tags:
+- Standards
+apis: []
+x-common:
+- type: x-website
+  url: http://www.itgovernance.co.uk/blog/
+- type: x-blog
+  url: https://www.itgovernance.co.uk/blog
+- type: x-facebook
+  url: https://www.facebook.com/ITGovernanceLtd
+- type: x-gdpr
+  url: https://gdpr.co.uk/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/it-governance
+- type: x-twitter
+  url: https://twitter.com/ITGovernance
+- type: x-website
+  url: https://www.itgovernance.co.uk
+- type: x-youtube
+  url: http://www.youtube.com/itgovernanceltd
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

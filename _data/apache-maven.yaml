@@ -1,0 +1,32 @@
+---
+name: Apache Maven
+description: <p>Apache Maven is a software project management and comprehension tool.
+  Based on the concept of a project object model (POM), Maven can manage a project's
+  build, reporting and documentation from a central piece of information.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/apache-maven.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1791"
+url: https://raw.githubusercontent.com/api-network/organizations/main/apache-maven.yaml
+tags:
+- Build Manager Tools
+- API Tools
+- Apache
+apis: []
+x-common:
+- type: x-events
+  url: https://www.apache.org/events/current-event.html
+- type: x-twitter
+  url: https://twitter.com/ASFMavenProject
+- type: x-website
+  url: https://maven.apache.org
+- type: x-website
+  url: https://maven.apache.org/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

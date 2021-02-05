@@ -1,0 +1,28 @@
+---
+name: Monotone
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6028131"
+url: https://raw.githubusercontent.com/api-network/organizations/main/monotone.yaml
+tags:
+- Tools
+apis: []
+x-common:
+- type: x-code
+  url: http://code.monotone.ca/p/monotone/issues/
+- type: x-code
+  url: https://code.monotone.ca/p/monotone/
+- type: x-documentation
+  url: http://www.monotone.ca/docs
+- type: x-website
+  url: https://monotone.ca
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

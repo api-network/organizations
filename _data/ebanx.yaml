@@ -1,0 +1,96 @@
+---
+name: EBANX
+description: EBANX is a global financial group that offer smart payments solutions.
+  Sell more by offering the most relevant payment methods in Latin America.
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "13777"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ebanx.yaml
+tags:
+- Profile
+- Payments
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ebanx.com
+- type: x-about
+  url: https://business.ebanx.com/en/about-ebanx
+- type: x-code
+  url: https://developers.ebanx.com/mobile-sdk/
+- type: x-code
+  url: https://developers.ebanx.com/mobile-sdk/ebanx-ios-sdk/
+- type: x-contact
+  url: https://business.ebanx.com/en/contact
+- type: x-developer
+  url: https://developers.ebanx.com/
+- type: x-developer
+  url: https://developers.ebanx.com/getting-started/
+- type: x-developer
+  url: https://developers.ebanx.com/integration-faq/
+- type: x-developer
+  url: https://developers.ebanx.com
+- type: x-developer
+  url: https://developers.ebanx.com/single-product-checkout/
+- type: x-developer
+  url: https://developers.ebanx.com/api-reference/
+- type: x-developer
+  url: https://developers.ebanx.com/guides/
+- type: x-developer
+  url: https://developers.ebanx.com/guides/downloads/
+- type: x-developer
+  url: https://developers.ebanx.com/sandbox-testing/
+- type: x-developer
+  url: https://developers.ebanx.com/dashboard/
+- type: x-developer
+  url: https://developers.ebanx.com/dashboard/overview/
+- type: x-developer
+  url: https://developers.ebanx.com/dashboard/finance/
+- type: x-developer
+  url: https://developers.ebanx.com/dashboard/transactions/
+- type: x-developer
+  url: https://developers.ebanx.com/dashboard/logs/
+- type: x-developer
+  url: https://developers.ebanx.com/dashboard/settings/
+- type: x-developer
+  url: https://developers.ebanx.com/ebanx-track/
+- type: x-developer
+  url: https://developers.ebanx.com/shopify-app/
+- type: x-events
+  url: https://business.ebanx.com/en/events/futurecom
+- type: x-events
+  url: https://business.ebanx.com/en/events/money2020vegas
+- type: x-events
+  url: https://business.ebanx.com/en/events
+- type: x-github
+  url: https://github.com/ebanx
+- type: x-instagram
+  url: https://www.instagram.com/ebanxlife/
+- type: x-integrations
+  url: https://developers.ebanx.com/integrations/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/ebanx/
+- type: x-partner
+  url: https://business.ebanx.com/en/partners
+- type: x-press
+  url: https://business.ebanx.com/en/press-room
+- type: x-pricing
+  url: https://business.ebanx.com/en/pricing
+- type: x-terms-of-service
+  url: https://business.ebanx.com/en/legal/privacy-policy
+- type: x-terms-of-service
+  url: https://business.ebanx.com/en/legal/compliance
+- type: x-twitter
+  url: https://twitter.com/EbanxBR
+- type: x-developers
+  url: http://developers.ebanx.com
+- type: x-website
+  url: http://ebanx.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

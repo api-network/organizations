@@ -1,0 +1,48 @@
+---
+name: All About Remote Backup
+description: RBackup gives you the freedom to host your own Online Backup Service
+  on your own server or in any data center, including most cloud solutions.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1873206"
+url: https://raw.githubusercontent.com/api-network/organizations/main/all-about-remote-backup.yaml
+tags:
+- White Label Backup
+- Vembu Replacement
+- Vembu Alternative
+- Remote Backup Software
+- Remote Backup
+- Rbackup
+- Online Backup
+- Msp Backup
+- Data Backup Software
+- Data Backup
+- Backup Business
+- Backup
+- Ahsay Replacement
+- Ahsay Alternative
+apis: []
+x-common:
+- type: x-website
+  url: http://Remote-Backup.com
+- type: x-blog
+  url: http://blog.remote-backup.com
+- type: x-support
+  url: http://remote-backup.com/remotehelp/
+- type: x-support
+  url: http://help.remote-backup.com/demo/
+- type: x-twitter
+  url: https://twitter.com/remote_backup
+- type: x-twitter
+  url: http://www.twitter.com/remote_backup
+- type: x-website
+  url: https://remote-backup.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,27 @@
+---
+name: Consistent Systems
+description: Automate your cognos administration environment quickly and easily. Consistent
+  Systems streamlines the user access process, and grants access fast!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/consistent-systems.yaml
+tags:
+- Informational Reporting
+apis: []
+x-common:
+- type: x-blog
+  url: https://consistentsystems.blogspot.com/
+- type: x-blog
+  url: https://www.blogger.com
+- type: x-website
+  url: https://consistentsystems.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,38 @@
+---
+name: Opendedup
+description: Opensource Dedupe to Cloud and Local Storage
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5698510"
+url: https://raw.githubusercontent.com/api-network/organizations/main/opendedup.yaml
+tags:
+- Data Integrity And Cleansing Tools
+apis: []
+x-common:
+- type: x-documentation
+  url: https://opendedup.org/odd/documentation/
+- type: x-open-source
+  url: https://opendedup.org/odd/
+- type: x-open-source
+  url: https://opendedup.org/odd/download/
+- type: x-open-source
+  url: https://github.com/opendedup/sdfs
+- type: x-open-source
+  url: https://opendedup.org/odd/2016/09/16/cloud-capabile/
+- type: x-open-source
+  url: https://opendedup.org/odd/2016/09/15/secure/
+- type: x-open-source
+  url: https://opendedup.org/odd/2016/09/15/filesystem/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-website
+  url: https://www.opendedup.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

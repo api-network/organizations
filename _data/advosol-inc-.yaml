@@ -1,0 +1,36 @@
+---
+name: Advosol Inc.
+description: Advosol offers .NET toolkits for the development of OPC Server and Client
+  applications.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/advosol-inc-.yaml
+tags:
+- OPC UA
+- OPC Toolkit
+- OPC SDK
+- OPC HDA
+- OPC DA
+- OPC AE
+- OPC .NET
+- Automation
+apis: []
+x-common:
+- type: x-website
+  url: http://advosol.com
+- type: x-facebook
+  url: https://www.facebook.com/Advosol
+- type: x-twitter
+  url: https://twitter.com/AdvosolSales
+- type: x-website
+  url: https://www.advosol.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

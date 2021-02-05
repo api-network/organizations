@@ -1,0 +1,50 @@
+---
+name: Basis Technologies
+description: Our SAP automation software enables Agile and DevOps for SAP, simplifying
+  continuous delivery and landscape optimization so that our customers can keep pace
+  with theirs.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "918012"
+url: https://raw.githubusercontent.com/api-network/organizations/main/basis-technologies.yaml
+tags:
+- Third-Party Tools
+apis: []
+x-common:
+- type: x-website
+  url: http://www.basistechnologies.com
+- type: x-about
+  url: https://www.basistechnologies.com/about/
+- type: x-blog
+  url: https://www.basistechnologies.com/blog/
+- type: x-contact
+  url: https://www.basistechnologies.com/contact/
+- type: x-contact
+  url: https://www.olark.com/site/8816-312-10-5781/contact
+- type: x-customers
+  url: https://www.basistechnologies.com/customers/
+- type: x-events
+  url: https://www.basistechnologies.com/events/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/basistechnologies/
+- type: x-news
+  url: https://www.basistechnologies.com/news/
+- type: x-partner
+  url: https://www.basistechnologies.com/partners/
+- type: x-privacy
+  url: https://www.basistechnologies.com/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/basistechltd
+- type: x-webinars
+  url: https://www.basistechnologies.com/webinars/
+- type: x-website
+  url: https://www.basistechnologies.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

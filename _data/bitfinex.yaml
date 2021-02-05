@@ -1,0 +1,67 @@
+---
+name: Bitfinex
+description: Bitfinex is the world's leading cryptocurrency exchange. Try us!
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26478-cex-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1438"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bitfinex.yaml
+tags:
+- Marketplaces
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: https://www.bitfinex.com/trading
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/blockchain-info
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/bitstamp
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/magnr/funding_rounds/funding_rounds_list
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/campbx
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/btc-e
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/bitfinex
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/cex-io
+- type: x-email
+  url: webmaster@cex.io
+- type: x-email
+  url: support@cex.io
+- type: x-twitter
+  url: https://twitter.com/cex_io
+- type: x-twitter
+  url: https://twitter.com/blockchain
+- type: x-twitter
+  url: https://twitter.com/Bitstamp
+- type: x-twitter
+  url: https://twitter.com/magnr
+- type: x-twitter
+  url: https://twitter.com/CampBX
+- type: x-twitter
+  url: https://twitter.com/btcecom
+- type: x-twitter
+  url: https://twitter.com/bitfinex
+- type: x-website
+  url: http://bitstamp.net
+- type: x-website
+  url: http://magnr.com
+- type: x-website
+  url: http://campbx.com
+- type: x-website
+  url: http://btc-e.com
+- type: x-website
+  url: http://bitfinex.com
+- type: x-website
+  url: https://cex.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

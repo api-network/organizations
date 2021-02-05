@@ -1,0 +1,37 @@
+---
+name: Broken links at a glance
+description: Broken Links at a Glance is a free online broken link checker which works
+  like a charm.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "885991"
+url: https://raw.githubusercontent.com/api-network/organizations/main/broken-links-at-a-glance.yaml
+tags:
+- Link Checking
+- Link
+- Checker
+- Broken Linkchecker
+- Broken
+apis: []
+x-common:
+- type: x-about
+  url: http://about.zomdir.com/broken-links-at-a-glance.htm
+- type: x-about
+  url: http://about.zomdir.com/hans-van-der-graaf.htm
+- type: x-about
+  url: http://about.zomdir.com/copyright.htm
+- type: x-about
+  url: http://about.zomdir.com/disclaimer.htm
+- type: x-privacy
+  url: http://about.zomdir.com/privacy.htm
+- type: x-website
+  url: https://brokenlinks.zomdir.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

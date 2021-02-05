@@ -1,0 +1,71 @@
+---
+name: ISTABAI
+description: <p>Istabai is an application that allows users to manage their home heating
+  systems from anywhere with an internet connection. Users can set the service up
+  simply by changing their radiator head and plugging in Istabai's internet cable.
+  The Istabai mobile application and web solution will relay the current temperature
+  to the user and allow them to regulate it as they like. The system can also be accessed
+  and controlled programmatically via REST API. The Istabai website is provided in
+  English, Russian, and Latvian.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/istabai-logo.jpeg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3924466"
+url: https://raw.githubusercontent.com/api-network/organizations/main/istabai.yaml
+tags:
+- Internet Of Things
+- Have API
+- Buildings
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://Istabai.com
+- type: x-about
+  url: http://istabai.com/about
+- type: x-about
+  url: http://dev.istabai.com/about
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/istabia
+- type: x-developer
+  url: http://dev.istabai.com/shop
+- type: x-developer
+  url: http://dev.istabai.com/solutions
+- type: x-developer
+  url: http://dev.istabai.com/article/set/basic
+- type: x-developer
+  url: http://dev.istabai.com/article/set/wireless
+- type: x-developer
+  url: http://dev.istabai.com/article/set/hot-water-floor
+- type: x-developer
+  url: http://dev.istabai.com/article/set/electric-floor
+- type: x-developer
+  url: http://dev.istabai.com
+- type: x-developers
+  url: https://istabai.com/api/?lang=en
+- type: x-developers
+  url: https://istabai.com/api/
+- type: x-email
+  url: info@istabai.com
+- type: x-facebook
+  url: http://www.facebook.com/istabai
+- type: x-linkedin
+  url: https://www.linkedin.com/company/15231663
+- type: x-support
+  url: http://istabai.com/support
+- type: x-support
+  url: http://dev.istabai.com/support
+- type: x-twitter
+  url: https://twitter.com/istabai
+- type: x-twitter
+  url: http://www.twitter.com/Istabai
+- type: x-website
+  url: http://istabai.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

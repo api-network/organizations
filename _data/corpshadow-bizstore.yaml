@@ -1,0 +1,52 @@
+---
+name: CorpShadow Bizstore
+description: CorpShadow Inc, work as a conventional distributor and reseller for IoT
+  (Internet of Things) and SBC (Single board computers) components, and a small range
+  of wireless cards and parts as well to support our existing hardware.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "929674"
+url: https://raw.githubusercontent.com/api-network/organizations/main/corpshadow-bizstore.yaml
+tags:
+- Distributors
+apis: []
+x-common:
+- type: x-website
+  url: http://www.corpshadow.biz
+- type: x-blog
+  url: https://corpshadow.biz/blog/
+- type: x-connectors
+  url: https://corpshadow.biz/power-connectors
+- type: x-connectors
+  url: https://corpshadow.biz/connectors
+- type: x-contact
+  url: https://corpshadow.biz/contact-us
+- type: x-facebook
+  url: https://facebook.com/corpshadow
+- type: x-instagram
+  url: https://instagram.com/corpshadow
+- type: x-press
+  url: https://corpshadow.biz/espressobin
+- type: x-press
+  url: https://corpshadow.biz/espressobin-v7-marvell
+- type: x-press
+  url: https://corpshadow.biz/espressobin-cases
+- type: x-privacy
+  url: https://corpshadow.biz/content/privacy-policy
+- type: x-support
+  url: https://support.corpshadow.com
+- type: x-terms-of-service
+  url: https://corpshadow.biz/content/terms-and-conditions
+- type: x-twitter
+  url: https://twitter.com/corpshadow
+- type: x-website
+  url: https://www.corpshadow.biz
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

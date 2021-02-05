@@ -1,0 +1,35 @@
+---
+name: GenerateCSS
+description: A free online tool to generate CSS and stylesheets for your website.
+  Includes support for all browsers.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4519997"
+url: https://raw.githubusercontent.com/api-network/organizations/main/generatecss.yaml
+tags:
+- Tools
+- Stylesheets
+- Generator
+- CSS3
+- CSS
+apis: []
+x-common:
+- type: x-website
+  url: http://www.generatecss.com
+- type: x-facebook
+  url: http://www.facebook.com/generatecss
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-twitter
+  url: http://www.twitter.com/generatecss
+- type: x-website
+  url: https://www.generatecss.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

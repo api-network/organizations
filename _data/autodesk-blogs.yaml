@@ -1,0 +1,98 @@
+---
+name: Autodesk Blogs
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "548483"
+url: https://raw.githubusercontent.com/api-network/organizations/main/autodesk-blogs.yaml
+tags:
+- AutoCAD
+apis: []
+x-common:
+- type: x-website
+  url: http://autodesk.blogs.com/
+- type: x-about
+  url: https://autodesk.blogs.com/about.html
+- type: x-blog
+  url: https://autodesk.blogs.com/between_the_lines/
+- type: x-blog
+  url: http://www.autodesk.com/blogs
+- type: x-blog
+  url: https://autodesk.blogs.com/between_the_lines/rss.xml
+- type: x-blog
+  url: https://autodesk.blogs.com/between_the_lines/MISC/
+- type: x-blog
+  url: https://autodesk.blogs.com/between_the_lines/portland/
+- type: x-blog
+  url: https://autodesk.blogs.com/between_the_lines/aec/
+- type: x-blog
+  url: https://autodesk.blogs.com/between_the_lines/bim/
+- type: x-blog
+  url: https://autodesk.blogs.com/between_the_lines/cloud/
+- type: x-blog
+  url: https://autodesk.blogs.com/between_the_lines/webtech/
+- type: x-blog
+  url: https://autodesk.blogs.com/between_the_lines/arvr/
+- type: x-blog
+  url: https://autodesk.blogs.com/between_the_lines/history/
+- type: x-blog
+  url: https://autodesk.blogs.com/between_the_lines/revit/
+- type: x-blog
+  url: https://autodesk.blogs.com/between_the_lines/autodesk/
+- type: x-blog
+  url: https://autodesk.blogs.com/between_the_lines/travel/
+- type: x-blog
+  url: https://autodesk.blogs.com/between_the_lines/page/2/
+- type: x-blog
+  url: https://autodesk.blogs.com/between_the_lines/ai/
+- type: x-blog
+  url: https://autodesk.blogs.com/between_the_lines/autocad/
+- type: x-blog
+  url: https://autodesk.blogs.com/between_the_lines/octo/
+- type: x-blog
+  url: https://autodesk.blogs.com/between_the_lines/design/
+- type: x-blog
+  url: https://autodesk.blogs.com/between_the_lines/forge/
+- type: x-blog
+  url: https://autodesk.blogs.com/between_the_lines/funny/
+- type: x-blog
+  url: https://autodesk.blogs.com/between_the_lines/hardware/
+- type: x-blog
+  url: https://autodesk.blogs.com/between_the_lines/iot/
+- type: x-blog
+  url: https://autodesk.blogs.com/between_the_lines/maker/
+- type: x-blog
+  url: https://autodesk.blogs.com/between_the_lines/science/
+- type: x-blog
+  url: https://autodesk.blogs.com/between_the_lines/uas/
+- type: x-blog
+  url: https://autodesk.blogs.com/between_the_lines/video/
+- type: x-blog
+  url: https://autodesk.blogs.com/between_the_lines/web/
+- type: x-blog
+  url: https://autodesk.blogs.com/between_the_lines/weblogs/
+- type: x-events
+  url: https://autodesk.blogs.com/between_the_lines/events/
+- type: x-facebook
+  url: https://www.facebook.com/shaan.hurley
+- type: x-feed
+  url: https://feeds.feedburner.com/blogs/btl
+- type: x-linkedin
+  url: https://www.linkedin.com/in/shaanhurley
+- type: x-twitter
+  url: https://www.twitter.com/ShaanHurley
+- type: x-twitter
+  url: https://twitter.com/ShaanHurley
+- type: x-website
+  url: https://autodesk.blogs.com
+- type: x-youtube
+  url: https://www.youtube.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

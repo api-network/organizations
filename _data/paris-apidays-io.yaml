@@ -1,0 +1,23 @@
+---
+name: paris.apidays.io
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/paris-apidays-io.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://paris.apidays.io/2013//refid=LinkedIn
+- type: x-website
+  url: http://paris.apidays.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

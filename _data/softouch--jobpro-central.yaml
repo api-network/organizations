@@ -1,0 +1,45 @@
+---
+name: Softouch - JobPro Central
+description: JobPro Central customisable filemaker theme for small and medium sized
+  businesses crm shipping accounting integrations works orders purchase orders tasks
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/softouch--jobpro-central.yaml
+tags:
+- Budgeting
+apis: []
+x-common:
+- type: x-website
+  url: http://www.jobprocentral.com
+- type: x-about
+  url: https://jobprocentral.com/about-filemaker/
+- type: x-about
+  url: https://jobprocentral.com/jobpro-about-us/
+- type: x-blog
+  url: https://jobprocentral.com/blog/
+- type: x-contact
+  url: https://jobprocentral.com/contact-us/
+- type: x-pricing
+  url: https://jobprocentral.com/filemaker-jobpro-pricing/
+- type: x-terms-of-service
+  url: https://jobprocentral.com/jobpro-terms-and-conditions/
+- type: x-tutorials
+  url: https://jobprocentral.com/filemaker-video-tutorials/
+- type: x-tutorials
+  url: https://jobprocentral.com/video-tutorials/
+- type: x-twitter
+  url: https://twitter.com/JobProCentral
+- type: x-website
+  url: https://www.jobprocentral.com
+- type: x-youtube
+  url: https://www.youtube.com/user/jobprocentral/videos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

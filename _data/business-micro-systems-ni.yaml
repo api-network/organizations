@@ -1,0 +1,49 @@
+---
+name: Business Micro Systems (NI)
+description: Payroll for Windows with time-sheets and online filing with optional
+  links to accounts, clock systems and job costing software for small/medium businesses.
+  Options for sub-contractors, contract-orders in construction. Downloadable demos,
+  source code available.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/business-micro-systems-ni.yaml
+tags:
+- Subcontracts
+- Source
+- Software
+- Payroll
+- Online
+- Nominal
+- Maxton
+- Ledger
+- Job
+- Filing
+- Develop
+- Costing
+- Contracts
+- Contractor
+- Construction
+- Code
+- Builder
+- Bespoke
+- Accounts
+apis: []
+x-common:
+- type: x-website
+  url: http://maxtonSoftware.co.uk
+- type: x-facebook
+  url: https://www.facebook.com/BusinessMicroSystems/
+- type: x-twitter
+  url: https://twitter.com/maxtonsoftware
+- type: x-website
+  url: https://www.businessmicrosystems.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

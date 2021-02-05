@@ -1,0 +1,66 @@
+---
+name: Cadence Design Systems
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "54571"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cadence-design-systems.yaml
+tags:
+- Electronic Design Automation
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cadence.com
+- type: x-blog
+  url: https://community.cadence.com/cadence_blogs_8/
+- type: x-blog
+  url: http://community.cadence.com/cadence_blogs_8/
+- type: x-blog
+  url: https://community.cadence.com/cadence_blogs_8/b/can
+- type: x-blog
+  url: https://community.cadence.com/cadence_blogs_8/b/cic/
+- type: x-blog
+  url: https://community.cadence.com/cadence_blogs_8/b/di/
+- type: x-blog
+  url: https://community.cadence.com/cadence_blogs_8/b/fv/
+- type: x-blog
+  url: https://community.cadence.com/cadence_blogs_8/b/pkg/
+- type: x-blog
+  url: https://community.cadence.com/cadence_blogs_8/b/ms/
+- type: x-blog
+  url: https://community.cadence.com/cadence_blogs_8/b/pcb/
+- type: x-blog
+  url: https://community.cadence.com/cadence_blogs_8/b/rf/
+- type: x-blog
+  url: https://community.cadence.com/cadence_blogs_8/b/spi/
+- type: x-blog
+  url: https://community.cadence.com/cadence_blogs_8/b/sd/
+- type: x-blog
+  url: https://community.cadence.com/cadence_blogs_8/b/ip/
+- type: x-blog
+  url: http://community.cadence.com/cadence_blogs_8
+- type: x-events
+  url: https://www.cadence.com/en_US/home/company/events.html
+- type: x-facebook
+  url: https://www.facebook.com/CadenceDesign
+- type: x-privacy
+  url: https://www.cadence.com/en_US/home/privacy-policy.html
+- type: x-support
+  url: https://www.cadence.com/en_US/home/support.html
+- type: x-support
+  url: http://support.cadence.com
+- type: x-twitter
+  url: https://twitter.com/cadence
+- type: x-website
+  url: https://www.cadence.com
+- type: x-youtube
+  url: http://www.youtube.com/user/CadenceDesign
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

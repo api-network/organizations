@@ -1,0 +1,44 @@
+---
+name: Solid State Group
+description: At Solid State Group, we help design and build new digital products,
+  drag legacy technology up to date, and make all your systems work together.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4819524"
+url: https://raw.githubusercontent.com/api-network/organizations/main/solid-state-group.yaml
+tags:
+- Ux Design
+- User Interface Design
+- Technology
+- Systems Integration
+- Software Development
+- React Native
+- Mobile Application Development
+- IoT
+- Digital
+- Custom
+- Content Management
+- Cloud Infrastructure
+- Bespoke
+- API Development
+apis: []
+x-common:
+- type: x-website
+  url: http://www.solidstategroup.com
+- type: x-facebook
+  url: https://facebook.com/solidstategroup
+- type: x-github
+  url: https://github.com/SolidStateGroup
+- type: x-twitter
+  url: https://twitter.com/solidstategroup
+- type: x-website
+  url: https://www.solidstategroup.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

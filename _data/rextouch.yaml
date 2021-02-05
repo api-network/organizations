@@ -1,0 +1,47 @@
+---
+name: Rextouch
+description: Interactive PCAP touchscreen, PCT touch foil, Android Digital Signage,
+  Panel PC
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rextouch.yaml
+tags:
+- Ultra Wide Stretched Digital Signage
+- Touch Screen
+- Touch Foil
+- PCAP Multi-touch Solutions
+- Interactive Touchscreen Solutions
+- Information Kiosks
+- Industrial Panel PCs
+- Digital Totems
+- Digital Displays
+- Bar Type LCD Signage
+- Android Digital Signage Players
+apis: []
+x-common:
+- type: x-website
+  url: http://www.rextouch.com
+- type: x-about
+  url: https://www.rextouch.com/about/
+- type: x-blog
+  url: https://www.rextouch.com/blog/
+- type: x-contact
+  url: https://www.rextouch.com/contact/
+- type: x-linkedin
+  url: https://linkedin.com/in/rextouch
+- type: x-twitter
+  url: https://twitter.com/rextouchchina
+- type: x-website
+  url: https://www.rextouch.com
+- type: x-youtube
+  url: https://youtube.com/Rextouch
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

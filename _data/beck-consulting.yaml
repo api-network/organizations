@@ -1,0 +1,41 @@
+---
+name: Beck Consulting
+description: Beck Consulting supplies a full set of ERP services that are on time,
+  on budget, and to expectations as well as fantastic enhancements for Dynamics 365
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10960643"
+url: https://raw.githubusercontent.com/api-network/organizations/main/beck-consulting.yaml
+tags:
+- Consultants
+apis: []
+x-common:
+- type: x-linkedin
+  url: https://www.linkedin.com/company/beck-consulting
+- type: x-open-source
+  url: https://www.beckconsulting.com/open-positions/
+- type: x-privacy
+  url: https://www.beckconsulting.com/privacy-policy/
+- type: x-support
+  url: https://www.bcfooderp.com/bcfood-erp-support/
+- type: x-support
+  url: https://www.bcerp.com/bcmobile-support/
+- type: x-support
+  url: https://www.bcerp.com/bcedi-support/
+- type: x-support
+  url: https://www.bcerp.com/bcpacknship-support/
+- type: x-terms-of-service
+  url: https://www.beckconsulting.com/terms-and-conditions/
+- type: x-website
+  url: https://www.beckconsulting.com
+- type: x-youtube
+  url: https://www.youtube.com/user/BeckConsulting
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

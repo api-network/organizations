@@ -1,0 +1,50 @@
+---
+name: Blogger Templates
+description: Free Blogger Templates for Blogspot like Professional Blog Designs. Download
+  XML Blogger Templates with CSS multi columns Layouts.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "765464"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blogger-templates.yaml
+tags:
+- Free Blogger Templates
+- Blogspot Templates
+- Blogger Templates
+- Blogger Template
+- Blogger
+- Blog Template
+apis: []
+x-common:
+- type: x-website
+  url: http://www.zoomtemplate.com
+- type: x-blog
+  url: http://blog.zoomtemplate.com/
+- type: x-blog
+  url: http://statcounter.com/blogger/
+- type: x-blog
+  url: http://www.allblogtools.com/
+- type: x-facebook
+  url: http://www.facebook.com/zoomtemplate
+- type: x-feed
+  url: http://feeds2.feedburner.com/zoomtemplate
+- type: x-feed
+  url: https://www.zoomtemplate.com/feeds/posts/default
+- type: x-terms-of-service
+  url: http://www.zoomtemplate.com/2008/09/terms-of-use.html
+- type: x-tutorials
+  url: http://videotutorials.zoomtemplate.com/
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-twitter
+  url: https://twitter.com/zoomtemplate
+- type: x-website
+  url: https://www.zoomtemplate.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

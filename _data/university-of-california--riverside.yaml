@@ -1,0 +1,36 @@
+---
+name: University of California - Riverside
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "13345"
+url: https://raw.githubusercontent.com/api-network/organizations/main/university-of-california--riverside.yaml
+tags:
+- California
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cs.ucr.edu
+- type: x-about
+  url: https://www.ucr.edu/about/visitors
+- type: x-facebook
+  url: https://www.facebook.com/UCRCompSciEng
+- type: x-privacy
+  url: https://www.ucr.edu/privacy.html
+- type: x-status
+  url: https://campusstatus.ucr.edu/
+- type: x-terms-of-service
+  url: https://www.ucr.edu/terms.html
+- type: x-twitter
+  url: https://twitter.com/ucr_cse
+- type: x-website
+  url: https://www.cs.ucr.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

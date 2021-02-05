@@ -1,0 +1,55 @@
+---
+name: Epocrates
+description: iPhone, iPad, Android and Blackberry medical software for drug interaction,
+  EHR, EMR, drug prices, dosing, disease, medical dictionary, ICD9 Code, Medicare
+  Part D, and CME
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "110291"
+url: https://raw.githubusercontent.com/api-network/organizations/main/epocrates.yaml
+tags:
+- Medicare Part D
+- Medical Software
+- Medical Dictionary
+- Medical
+- IPhone
+- IPad
+- ICD9 Code
+- EMR
+- EHR
+- Drug Prices
+- Drug Interaction
+- Dosing
+- Disease
+- CME
+- Blackberry
+- Android
+apis: []
+x-common:
+- type: x-website
+  url: http://www.epocrates.com
+- type: x-facebook
+  url: http://www.facebook.com/Epocrates
+- type: x-privacy
+  url: https://www.epocrates.com/privacy#opt-out
+- type: x-support
+  url: https://www.epocrates.com/support<spanid=
+- type: x-support
+  url: https://www.epocrates.com/support/?cid=topnav
+- type: x-support
+  url: https://www.epocrates.com/support?cid=footerSupport
+- type: x-twitter
+  url: http://www.twitter.com/epocrates
+- type: x-website
+  url: https://www.epocrates.com
+- type: x-youtube
+  url: http://www.youtube.com/user/epocratespr
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

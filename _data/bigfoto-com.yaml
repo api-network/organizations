@@ -1,0 +1,37 @@
+---
+name: Bigfoto.com
+description: Welcome to BigFoto, a place where we offer you free photo download and
+  free images for download, as well as some cool travel articles which you can read.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "605049"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bigfoto-com.yaml
+tags:
+- Pictures
+apis: []
+x-common:
+- type: x-about
+  url: https://bigfoto.com/about/
+- type: x-contact
+  url: https://bigfoto.com/contact/
+- type: x-open-source
+  url: https://bigfoto.com/europe/copenhagen/
+- type: x-open-source
+  url: https://bigfoto.com/europe/copenhagen/#respond
+- type: x-press
+  url: https://wordpress.org
+- type: x-privacy
+  url: https://bigfoto.com/privacy/
+- type: x-support
+  url: https://bigfoto.com/please-support-bigfoto-com/
+- type: x-website
+  url: https://www.bigfoto.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

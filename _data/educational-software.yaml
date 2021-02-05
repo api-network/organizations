@@ -1,0 +1,39 @@
+---
+name: Educational software
+description: We produce software for use in schools.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/educational-software.yaml
+tags:
+- Word Processing
+- Teachers Help
+- Secondary School
+- Primary School
+- National Curriculum
+- Mail Merge
+- FlexiWRITE
+- FlexiTREE
+- FlexiData
+- FlexiCAD
+- Flexible Software Ltd
+- Educational Software
+- Database
+- Data Handling
+- Curriculum Online
+- Computer Aided Design
+- Branching Database
+- 2-d Drawing
+apis: []
+x-common:
+- type: x-website
+  url: https://www.flexible.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

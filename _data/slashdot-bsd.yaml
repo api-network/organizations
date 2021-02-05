@@ -1,0 +1,51 @@
+---
+name: 'Slashdot: BSD'
+description: 'Slashdot: News for nerds, stuff that matters. Timely news source for
+  technology related news with a heavy slant towards Linux and Open Source issues.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7163"
+url: https://raw.githubusercontent.com/api-network/organizations/main/slashdot-bsd.yaml
+tags:
+- BSD
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.netbsd.org/tnf/entry/kernel_aslr_on_amd64
+- type: x-facebook
+  url: http://www.facebook.com/slashdot
+- type: x-facebook
+  url: http://www.facebook.com/pages/Slashdotorg/267995220856
+- type: x-linkedin
+  url: https://www.linkedin.com/company/slashdot
+- type: x-news
+  url: https://betanews.com/2018/03/14/gnome-328-linux-de/
+- type: x-open-source
+  url: http://www.openbsd.org/64.html
+- type: x-open-source
+  url: https://www.openbsd.org/64.html
+- type: x-open-source
+  url: https://man.openbsd.org/sysctl.2
+- type: x-open-source
+  url: https://www.openbsd.org/ftp.html
+- type: x-open-source
+  url: https://www.openbsd.org/62.html
+- type: x-privacy
+  url: http://slashdotmedia.com/privacy-statement/
+- type: x-terms-of-service
+  url: http://slashdotmedia.com/terms-of-use/
+- type: x-twitter
+  url: http://twitter.com/slashdot
+- type: x-twitter
+  url: https://twitter.com/BeauHD
+- type: x-website
+  url: https://bsd.slashdot.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

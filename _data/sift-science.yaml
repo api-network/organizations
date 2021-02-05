@@ -1,0 +1,82 @@
+---
+name: Sift Science
+description: Block fraud, provide a better customer experience, and grow your revenue
+  through the machine learning Sift Science Trust Platform. Fast, accurate, and reliable
+  data. Talk to a fraud expert today.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1475_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1001480"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sift-science.yaml
+tags:
+- Target
+- Security
+- Security
+- Have API
+- Commerce
+- Commerce
+- Analysis
+apis: []
+x-common:
+- type: x-base
+  url: https://api.siftscience.com/
+- type: x-blog
+  url: https://blog.siftscience.com
+- type: x-blog
+  url: https://blog.sift.com
+- type: x-case-studies
+  url: https://resources.sift.com/case-studies
+- type: x-case-studies
+  url: https://resources.sift.com/case-studies/harrys
+- type: x-case-studies
+  url: https://resources.sift.com/case-studies/poshmark
+- type: x-case-studies
+  url: https://resources.sift.com/case-studies/turo
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/sift-science
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/sift-science
+- type: x-developers
+  url: https://siftscience.com/resources/tutorials/integration-guide.html
+- type: x-email
+  url: support@siftscience.com
+- type: x-email
+  url: info@siftscience.com
+- type: x-email
+  url: privacy@siftscience.com
+- type: x-facebook
+  url: https://www.facebook.com/GetSift/
+- type: x-github
+  url: https://github.com/siftscience
+- type: x-instagram
+  url: https://www.instagram.com/get_sift/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/2994835/
+- type: x-press
+  url: https://resources.sift.com/news-and-press-resources
+- type: x-pricing
+  url: https://siftscience.com/pricing
+- type: x-privacy
+  url: https://sift.com/site-privacy
+- type: x-privacy
+  url: https://www.nextroll.com/privacy
+- type: x-status
+  url: https://status.sift.com/
+- type: x-support
+  url: https://support.sift.com/hc/en-us
+- type: x-twitter
+  url: https://twitter.com/GetSift
+- type: x-twitter
+  url: https://twitter.com/siftscience
+- type: x-webinars
+  url: https://resources.sift.com/?filter=webinars
+- type: x-website
+  url: https://siftscience.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

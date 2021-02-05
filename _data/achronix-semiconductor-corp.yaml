@@ -1,0 +1,35 @@
+---
+name: Achronix Semiconductor Corp
+description: Achronix, developers of Speedcore embedded FPGA (eFPGA) IP, is a privately
+  held corporation offering high-performance FPGA solutions and supporting design
+  tools. With the silicon-proven Speedcore embedded FPGA, any company can embed FPGA
+  technology into their ASIC.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1633883"
+url: https://raw.githubusercontent.com/api-network/organizations/main/achronix-semiconductor-corp.yaml
+tags:
+- Manufacturers
+apis: []
+x-common:
+- type: x-website
+  url: https://www.achronix.com/vectorpath/?utm_source=achronix&utm_medium=social&utm_campaign=vectorpath_l
+- type: x-facebook
+  url: https://www.facebook.com/achronix/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/57668/
+- type: x-support
+  url: https://support.achronix.com/
+- type: x-twitter
+  url: https://twitter.com/Achronixcorp
+- type: x-website
+  url: https://www.achronix.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,32 @@
+---
+name: Cryptonator
+description: Online cryptocurrency wallet with multi-cryptocurrency accounts. Securely
+  store, easily receive or send and quickly exchange your bitcoin, ethereum, litecoin
+  and other cryptocurrencies.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26462-www-cryptonator-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "6848"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cryptonator.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/cryptonator
+- type: x-email
+  url: support@cryptonator.com
+- type: x-email
+  url: contact@cryptonator.com
+- type: x-twitter
+  url: https://twitter.com/cryptonatorcom
+- type: x-website
+  url: https://www.cryptonator.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

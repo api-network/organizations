@@ -1,0 +1,25 @@
+---
+name: GPGTools
+description: Everything you need to get started with secure communication and encrypting
+  files in one simple package leveraging the power of OpenPGP/GPG
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "570141"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gpgtools.yaml
+tags:
+- Software
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/GPGTools
+- type: x-website
+  url: https://gpgtools.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

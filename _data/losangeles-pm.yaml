@@ -1,0 +1,70 @@
+---
+name: LosAngeles.pm
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "400592"
+url: https://raw.githubusercontent.com/api-network/organizations/main/losangeles-pm.yaml
+tags:
+- United States
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.afoolishmanifesto.com
+- type: x-blog
+  url: http://blog.plover.com
+- type: x-blog
+  url: http://blog.stratopan.com
+- type: x-facebook
+  url: http://www.facebook.com/groups/119158178096277
+- type: x-github
+  url: http://github.com/frioux
+- type: x-github
+  url: http://github.com/RandalSchwartz
+- type: x-github
+  url: http://github.com/thaljef/Pinto
+- type: x-github
+  url: https://github.com/maxcabral/PerlTube
+- type: x-github
+  url: https://github.com/mateoconfeugo/bus-bootcamp
+- type: x-github
+  url: https://github.com/btilly/Template-ExpandHash
+- type: x-github
+  url: https://github.com/daoswald/Inline-C-Perl-Mongers-Talk
+- type: x-github
+  url: http://github.com/bluefeet/SQL-Dialect
+- type: x-github
+  url: http://github.com/bluefeet/SQL-Abstract-Query
+- type: x-github
+  url: http://github.com/bluefeet/DBIx-ResultSet
+- type: x-github
+  url: http://github.com/bluefeet/DBIx-AutoID
+- type: x-github
+  url: https://github.com/justone/dfm_present
+- type: x-github
+  url: https://github.com/justone/dotfiles
+- type: x-github
+  url: https://github.com/schwern/method-signatures/issues/36
+- type: x-github
+  url: http://github.com/spazm/config
+- type: x-github
+  url: http://github.com/beppu/stardust
+- type: x-linkedin
+  url: http://www.linkedin.com/groups?gid=2804627
+- type: x-linkedin
+  url: http://www.linkedin.com/groups?gid=40830
+- type: x-linkedin
+  url: http://www.linkedin.com/pub/theron-stanford/3/b53/5a9
+- type: x-website
+  url: https://losangeles.pm.org
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=AWwQsdHMT7Y
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

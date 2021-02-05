@@ -1,0 +1,42 @@
+---
+name: Mohanlal Sukhadia University - Udaipur
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "177932"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mohanlal-sukhadia-university--udaipur.yaml
+tags:
+- India
+apis: []
+x-common:
+- type: x-website
+  url: http://www.mlsu.ac.in
+- type: x-about
+  url: https://www.mlsu.ac.in/about-organisation
+- type: x-login
+  url: https://college.mlsuportal.in/loginpage.aspx
+- type: x-support
+  url: https://www.mlsu.ac.in/support/
+- type: x-support
+  url: https://www.mlsu.ac.in/helpline
+- type: x-twitter
+  url: https://twitter.com/mlsuniversity
+- type: x-website
+  url: https://www.mlsu.ac.in
+- type: x-youtube
+  url: https://www.youtube.com/embed/G3kc57r86hw
+- type: x-youtube
+  url: https://www.youtube.com/embed/zj5LyeQ8xcA
+- type: x-youtube
+  url: https://www.youtube.com/embed/A1dx48RDxE0
+- type: x-youtube
+  url: https://www.youtube.com/embed/Barl9k4--2k
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

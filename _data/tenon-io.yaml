@@ -1,0 +1,43 @@
+---
+name: Tenon.io
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "591035"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tenon-io.yaml
+tags:
+- Accessibility
+- A11y
+apis: []
+x-common:
+- type: x-website
+  url: http://www.tenon.io
+- type: x-blog
+  url: https://blog.tenon.io/
+- type: x-code
+  url: https://tenon.io/get-code
+- type: x-github
+  url: https://github.com/tenon-io
+- type: x-linkedin
+  url: https://www.linkedin.com/company/tenon-io/
+- type: x-login
+  url: https://tenon.io/login.php
+- type: x-pricing
+  url: https://tenon.io/pricing.php
+- type: x-self-service-registration
+  url: https://tenon.io/register.php
+- type: x-terms-of-service
+  url: https://www.accessibility.legal/index.html
+- type: x-twitter
+  url: https://twitter.com/TenonAPI
+- type: x-website
+  url: https://tenon.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

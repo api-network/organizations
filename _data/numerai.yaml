@@ -1,0 +1,30 @@
+---
+name: Numerai
+description: Numerai is new kind of hedge fund built by a network of data scientists.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26819-numer-ai.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "227677"
+url: https://raw.githubusercontent.com/api-network/organizations/main/numerai.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://numer.ai
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/numerai
+- type: x-email
+  url: contact@numer.ai
+- type: x-twitter
+  url: https://twitter.com/numerai
+- type: x-website
+  url: https://numer.ai
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

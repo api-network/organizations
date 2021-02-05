@@ -1,0 +1,36 @@
+---
+name: MyLG
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mylg.yaml
+tags:
+- Network Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.mylg.io
+- type: x-contact
+  url: https://www.mylg.io/contact/
+- type: x-facebook
+  url: https://facebook.com/mylg.io
+- type: x-facebook
+  url: https://www.facebook.com/mylg.io/
+- type: x-github
+  url: https://github.com/mehrdadrad/mylg
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/7066315
+- type: x-twitter
+  url: https://twitter.com/mylgio
+- type: x-website
+  url: https://mylg.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

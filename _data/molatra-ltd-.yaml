@@ -1,0 +1,32 @@
+---
+name: Molatra Ltd.
+description: Chinese-English dictionary for simplified and traditional Chinese with
+  audio examples and many informations about Chinese characters, words and memorization
+  methods. Learn Chinese on your PC, with iPhone, iPad or Android phones and tablets.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "141688"
+url: https://raw.githubusercontent.com/api-network/organizations/main/molatra-ltd-.yaml
+tags:
+- Chinese
+apis: []
+x-common:
+- type: x-website
+  url: http://www.trainchinese.com
+- type: x-facebook
+  url: http://www.facebook.com/trainchinese
+- type: x-linkedin
+  url: http://www.linkedin.com/company/trainchinese
+- type: x-twitter
+  url: http://twitter.com/trainchinese
+- type: x-website
+  url: https://www.trainchinese.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

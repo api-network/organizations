@@ -1,0 +1,30 @@
+---
+name: Neuro
+description: Neuro (NRO) - cryptocurrency for neural networks, machine learning and
+  big data.    Journey to the future begins today!
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27376-neurocoin-org.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "3781724"
+url: https://raw.githubusercontent.com/api-network/organizations/main/neuro.yaml
+tags:
+- Networks
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: https://neurocoin.org/
+- type: x-email
+  url: support@neurocoin.org
+- type: x-twitter
+  url: https://twitter.com/neurocoinnews
+- type: x-website
+  url: http://neurocoin.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

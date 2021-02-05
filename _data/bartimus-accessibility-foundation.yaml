@@ -1,0 +1,30 @@
+---
+name: "Bartim\xE9us Accessibility Foundation"
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bartimus-accessibility-foundation.yaml
+tags:
+- Companies And Consultants
+apis: []
+x-common:
+- type: x-website
+  url: http://www.accessibility.nl
+- type: x-facebook
+  url: http://www.facebook.com/accessibilitynl
+- type: x-linkedin
+  url: https://nl.linkedin.com/company/accessibilitynl
+- type: x-twitter
+  url: https://twitter.com/AccessibilityNL
+- type: x-website
+  url: https://www.accessibility.nl
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

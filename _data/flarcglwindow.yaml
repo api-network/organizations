@@ -1,0 +1,26 @@
+---
+name: Fl-Arc-GlWindow
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/flarcglwindow.yaml
+tags:
+- FLTK
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.blogger.com/profile/03525349586802595799
+- type: x-blog
+  url: https://fl-arc-glwindow.blogspot.com/
+- type: x-website
+  url: https://fl-arc-glwindow.blogspot.ca
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

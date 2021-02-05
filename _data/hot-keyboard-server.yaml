@@ -1,0 +1,50 @@
+---
+name: Hot Keyboard Server
+description: Create macros and do not waste time on everyday monotone work! Hot Keyboard
+  assumes all your repetitive work on the computer.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2913587"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hot-keyboard-server.yaml
+tags:
+- Windows Cd Player
+- Volume Control
+- Typing
+- RSI
+- Repetitive Strain Injury
+- Perfect Keyboard
+- Network Commands
+- Mouse And Keyboard
+- Macros
+- Macro Recorder
+- Macro Magic
+- Macro Express
+- Keyboarding Programs
+- Keyboarding
+- Keyboard Shortcuts
+- Keyboard Macros
+- Keyboard Macro
+- Keyboard
+- Hotkeyboard
+- Hot Keys
+- Hot Keyboard
+- Ez Macro
+apis: []
+x-common:
+- type: x-contact
+  url: http://www.hot-keyboard.com/support/contact.htm
+- type: x-documentation
+  url: http://www.hot-keyboard.com/docs4/
+- type: x-documentation
+  url: http://www.hot-keyboard.com/docs/
+- type: x-website
+  url: https://www.hot-keyboard.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

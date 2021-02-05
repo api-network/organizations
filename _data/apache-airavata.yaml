@@ -1,0 +1,28 @@
+---
+name: Apache Airavata
+description: <p>Apache AiravataTM is a software framework that enables you to compose,
+  manage, execute, and monitor large scale applications and workflows on distributed
+  computing resources such as local clusters, supercomputers,computational grids,
+  and computing clouds.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/apache-airavata.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/apache-airavata.yaml
+tags:
+- Orchestration
+- Microservices
+- Apache Data
+- Apache
+apis: []
+x-common:
+- type: x-website
+  url: https://airavata.apache.org/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

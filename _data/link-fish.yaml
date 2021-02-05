@@ -1,0 +1,61 @@
+---
+name: link.fish
+description: <p>Automatically get the information of the websites you are interested
+  in and work with it together with others in real-time. Depending on the page you
+  bookmark link.fish automatically extracts the data you actually care about. No matter
+  if bedrooms for apartments, rating of movies or the cook time of your favorite recipe.
+  Invite other people to your collection to work with them or make it public for everbody
+  to see. All changes made will immediately be visible by everyone.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/link-fish-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "2"
+x-alexaRank: "10510624"
+url: https://raw.githubusercontent.com/api-network/organizations/main/link-fish.yaml
+tags:
+- Scraping
+- Relative Data
+- Links
+- Have API Paths
+- Have API
+- Content
+- API Provider
+apis: []
+x-common:
+- type: x-developer
+  url: https://link.fish/api/
+- type: x-developer
+  url: https://api.link.fish/explorer
+- type: x-developers
+  url: https://link.fish/api/
+- type: x-documentation
+  url: https://api.link.fish/docs
+- type: x-facebook
+  url: https://www.facebook.com/link.fish
+- type: x-github
+  url: https://github.com/link-fish
+- type: x-linkedin
+  url: https://www.linkedin.com/company/link-fish/
+- type: x-login
+  url: https://app.link.fish/#/login
+- type: x-privacy
+  url: https://link.fish/privacy-policy/
+- type: x-self-service-registration
+  url: https://app.link.fish/?#/register-api-free
+- type: x-self-service-registration
+  url: https://app.link.fish/#/register-api-free
+- type: x-terms-of-service
+  url: https://link.fish/terms-of-service/
+- type: x-twitter
+  url: https://twitter.com/linkfish_
+- type: x-website
+  url: http://link.fish
+- type: x-youtube
+  url: https://www.youtube.com/c/LinkFishWeb
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

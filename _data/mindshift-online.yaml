@@ -1,0 +1,38 @@
+---
+name: mindSHIFT Online
+description: Hosted Exchange 2013 and Office 365 Provider mindSHIFT Online offers
+  Microsoft Exchange hosting, Office 365, Dedicated & Shared Exchange Server 2013,
+  hosted email, and SharePoint Hosting. Enterprise, Business, and Individual plans
+  all to meet your needs.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3861622"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mindshift-online.yaml
+tags:
+- Sharepoint Hosting
+- Server Management IT Services
+- Mindshift Online
+- IT Help Desk
+- Hosted Exchange Server
+- Hosted Exchange 2013
+- Hosted Exchange
+- Hosted Email
+- Exchange Hosting Services
+- Exchange Hosting
+- Email Hosting
+- Cloud Services
+- Cloud Server
+- Business Email
+apis: []
+x-common:
+- type: x-website
+  url: https://mindshiftonline.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

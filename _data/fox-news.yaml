@@ -1,0 +1,37 @@
+---
+name: Fox News
+description: 'Breaking News, Latest News and Current News from FOXNews.com. Breaking
+  news and video. Latest Current News: U.S., World, Entertainment, Health, Business,
+  Technology, Politics, Sports.'
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26572-fox-news.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "267"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fox-news.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.foxnews.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/fox-news-channel
+- type: x-email
+  url: newsmanager@foxnews.com
+- type: x-email
+  url: deleteaccount@foxnews.com
+- type: x-email
+  url: ldepartment@foxnews.com
+- type: x-email
+  url: foxnewsonline@foxnews.com
+- type: x-twitter
+  url: https://twitter.com/FoxNews
+- type: x-website
+  url: http://foxnews.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

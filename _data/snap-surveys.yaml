@@ -1,0 +1,31 @@
+---
+name: Snap Surveys
+description: Advanced survey software and research expertise to optimize engagement
+  and transform data into knowledge. Request a live demo.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "80779"
+url: https://raw.githubusercontent.com/api-network/organizations/main/snap-surveys.yaml
+tags:
+- Surveys
+apis: []
+x-common:
+- type: x-customers
+  url: https://www.snapsurveys.com/customers/
+- type: x-gdpr
+  url: https://www.snapsurveys.com/gdpr/
+- type: x-support
+  url: https://www.snapsurveys.com/support/
+- type: x-support
+  url: https://www.snapsurveys.com/support/updates/
+- type: x-website
+  url: https://www.snapsurveys.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

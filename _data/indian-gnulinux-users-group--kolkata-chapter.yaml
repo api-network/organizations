@@ -1,0 +1,32 @@
+---
+name: Indian GNU/Linux Users Group - Kolkata Chapter
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/indian-gnulinux-users-group--kolkata-chapter.yaml
+tags:
+- India
+apis: []
+x-common:
+- type: x-about
+  url: https://ilug-cal.org/about/
+- type: x-blog
+  url: https://ilug-cal.org/blog/
+- type: x-contact
+  url: https://ilug-cal.org/contact-us/
+- type: x-feed
+  url: https://ilug-cal.org/feed/
+- type: x-open-source
+  url: https://ilug-cal.org/category/india/open-source/
+- type: x-website
+  url: https://www.ilug-cal.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,33 @@
+---
+name: Nautilus
+description: The complete system to upgrade your station
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nautilus.yaml
+tags:
+- Radio Automation
+- Playback Automation
+- News Editing
+- Music Scheduling
+- Music Scheduler
+- Digital Playout
+- Commercial Scheduling
+- Billing
+apis: []
+x-common:
+- type: x-contact
+  url: http://nautilus.hu/contact-us/
+- type: x-news
+  url: http://nautilus.hu/news/
+- type: x-website
+  url: https://www.nautilus.hu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

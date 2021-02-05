@@ -1,0 +1,23 @@
+---
+name: UseNeXT
+description: With a retention time of over 3,800 days, UseNeXT is one of the best
+  Usenet providers worldwide.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "68114"
+url: https://raw.githubusercontent.com/api-network/organizations/main/usenext.yaml
+tags:
+- Feed Services
+apis: []
+x-common:
+- type: x-website
+  url: https://www.usenext.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

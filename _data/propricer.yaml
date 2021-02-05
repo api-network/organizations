@@ -1,0 +1,51 @@
+---
+name: ProPricer
+description: PROPRICER's government contract pricing software is the most efficient
+  way to price and analyze cost proposals subject to Federal Acquisition Regulation.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1750238"
+url: https://raw.githubusercontent.com/api-network/organizations/main/propricer.yaml
+tags:
+- Estimating
+apis: []
+x-common:
+- type: x-website
+  url: http://www.propricer.com
+- type: x-about
+  url: https://www.propricer.com/about-propricer
+- type: x-blog
+  url: https://www.propricer.com/blog
+- type: x-contact
+  url: https://www.propricer.com/contact
+- type: x-customers
+  url: https://www.propricer.com/our-customers
+- type: x-facebook
+  url: https://www.facebook.com/propricer/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/propricer/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/propricer
+- type: x-news
+  url: https://www.propricer.com/news-and-events
+- type: x-partner
+  url: https://www.propricer.com/partners
+- type: x-support
+  url: https://www.propricer.com/support
+- type: x-support
+  url: https://www.propricer.com/technical-support
+- type: x-twitter
+  url: https://twitter.com/propricer
+- type: x-twitter
+  url: https://www.twitter.com/propricer
+- type: x-website
+  url: https://www.propricer.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

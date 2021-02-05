@@ -1,0 +1,51 @@
+---
+name: Pixel2Life
+description: Pixel2life is the largest tutorial search engine on the internet catering
+  to graphic designers and programmers. From Photoshop to Poser to C++, we have it
+  all in the fastest and friendliest search tool around.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "412587"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pixel2life.yaml
+tags:
+- Tutorials
+- Tutorial Search Engine
+- Tutorial Index
+- SQL
+- Sig Files
+- Services
+- Search
+- PHP Coding
+- Photoshop Tutorials
+- Photoshop
+- Photopaint
+- Macromedia
+- HTML Tips And Tricks
+- Help
+- Free Tutorials
+- Free Image Hosting
+- Free Hosting
+- Forums
+- Flash
+- CorelDraw
+- Corel
+- Asp
+- Adobe
+- 3D Studio Max
+apis: []
+x-common:
+- type: x-tutorials
+  url: http://www.tutorialseek.com
+- type: x-twitter
+  url: https://twitter.com/pixel2life
+- type: x-website
+  url: https://www.pixel2life.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

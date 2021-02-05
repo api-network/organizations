@@ -1,0 +1,59 @@
+---
+name: GeckoEngage
+description: Institutions can now communicate with students one-to-one, and at scale,
+  with our AI-powered conversational messaging platform, Chat. Our clients consolidate
+  all their messaging channels into a single, collaborative inbox. And then, using
+  our customizable bots, they capture leads, answer questions and register event attendees
+  on autopilot, 24/7.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29276-geckoengage-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "589785"
+url: https://raw.githubusercontent.com/api-network/organizations/main/geckoengage.yaml
+tags:
+- Profile
+- Marketplaces
+- Event Management
+- Chatbot
+apis: []
+x-common:
+- type: x-website
+  url: http://www.geckoengage.com
+- type: x-about
+  url: https://geckoengage.com/about-us/
+- type: x-blog
+  url: https://geckoengage.com/blog/
+- type: x-contact
+  url: https://geckoengage.com/contact/
+- type: x-contact-form
+  url: https://geckoengage.com/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/gecko
+- type: x-email
+  url: info@geckoengage.com
+- type: x-email
+  url: support@geckoengage.com
+- type: x-email
+  url: privacy@geckoengage.com
+- type: x-events
+  url: https://geckoengage.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/geckoengage
+- type: x-linkedin
+  url: https://www.linkedin.com/company/geckolabs/
+- type: x-privacy
+  url: https://geckoengage.com/privacy-policy/
+- type: x-status
+  url: http://status.geckoform.com
+- type: x-twitter
+  url: https://twitter.com/geckoengage
+- type: x-website
+  url: http://geckoengage.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

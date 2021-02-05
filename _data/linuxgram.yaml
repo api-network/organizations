@@ -1,0 +1,30 @@
+---
+name: LinuxGram
+description: Just another WordPress site
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/linuxgram.yaml
+tags:
+- News And Media
+apis: []
+x-common:
+- type: x-feed
+  url: https://linuxgram.com/?feed=rss2
+- type: x-feed
+  url: https://linuxgram.com/?feed=comments-rss2
+- type: x-login
+  url: https://linuxgram.com/wp-login.php
+- type: x-press
+  url: https://wordpress.org/
+- type: x-website
+  url: https://linuxgram.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,31 @@
+---
+name: Mailprotector
+description: Mailprotector provides reseller-focused email services. Give your customers
+  a powerful and easy to use email solution.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "527635"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mailprotector.yaml
+tags:
+- Filtering
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.mailprotector.com
+- type: x-facebook
+  url: https://www.facebook.com/mailprotector
+- type: x-status
+  url: http://status.mailprotector.com
+- type: x-twitter
+  url: https://twitter.com/mailprotector
+- type: x-website
+  url: https://www.mailprotector.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,55 @@
+---
+name: Logility
+description: Supply chain management software by Logility optimizes sales and operations
+  planning (s&op), demand forecasting, demand planning, and inventory management.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "694641"
+url: https://raw.githubusercontent.com/api-network/organizations/main/logility.yaml
+tags:
+- Supply Chain Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.logility.com
+- type: x-blog
+  url: https://www.logility.com/blog/
+- type: x-careers
+  url: https://www.logility.com/company/careers/
+- type: x-contact
+  url: https://www.logility.com/company/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/Logilityinc
+- type: x-investor
+  url: https://www.logility.com/company/investor-relations/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/logility/
+- type: x-news
+  url: https://www.logility.com/news/
+- type: x-news
+  url: https://www.logility.com/news/in-the-news/
+- type: x-news
+  url: https://www.logility.com/news/events-and-conferences/
+- type: x-partner
+  url: https://www.logility.com/company/partners/
+- type: x-press
+  url: https://www.logility.com/news/press-releases/
+- type: x-press
+  url: https://www.logility.com/news/press-inquiries/
+- type: x-support
+  url: https://www.logility.com/customer-support/
+- type: x-twitter
+  url: https://twitter.com/logilityinc
+- type: x-website
+  url: https://www.logility.com
+- type: x-youtube
+  url: https://www.youtube.com/user/supplychainsoftware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

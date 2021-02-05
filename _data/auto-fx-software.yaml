@@ -1,0 +1,26 @@
+---
+name: Auto FX Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "525436"
+url: https://raw.githubusercontent.com/api-network/organizations/main/auto-fx-software.yaml
+tags:
+- Plugins
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.autofx.com
+- type: x-login
+  url: http://www.autofx.com/my-account/gen3login.html
+- type: x-website
+  url: https://www.autofx.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

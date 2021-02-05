@@ -1,0 +1,54 @@
+---
+name: Trustwave
+description: Trustwave is a leading cybersecurity and managed security services provider
+  that helps businesses fight cybercrime, protect data and reduce security risk. Offering
+  a comprehensive portfolio of managed security services, security testing, consulting,
+  technology solutions and cybersecurity education, Trustwave helps businesses embrace
+  digital transformation securely.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "47342"
+url: https://raw.githubusercontent.com/api-network/organizations/main/trustwave.yaml
+tags:
+- Third Party Certificate Authorities
+- Security Testing
+- Security Technology
+- Security Consulting
+- MSS
+- Managed Security Services
+- Cybersecurity Education
+- Cybersecurity
+- Cyber-security
+apis: []
+x-common:
+- type: x-careers
+  url: https://jobs.jobvite.com/trustwave
+- type: x-careers
+  url: https://jobs.jobvite.com/trustwave/jobs
+- type: x-careers
+  url: https://jobs.jobvite.com/trustwave/p/paths
+- type: x-careers
+  url: https://jobs.jobvite.com/trustwave/p/globe
+- type: x-careers
+  url: https://jobs.jobvite.com/trustwave/p/why
+- type: x-facebook
+  url: https://www.facebook.com/Trustwave/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/trustwave
+- type: x-login
+  url: https://login.trustwave.com/portal-core/home
+- type: x-security
+  url: http://www.securitycolony.com/
+- type: x-twitter
+  url: https://twitter.com/Trustwave
+- type: x-website
+  url: https://www.trustwave.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

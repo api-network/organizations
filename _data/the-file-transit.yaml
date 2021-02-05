@@ -1,0 +1,48 @@
+---
+name: The File Transit
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "206788"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-file-transit.yaml
+tags:
+- Directories
+apis: []
+x-common:
+- type: x-about
+  url: http://www.filetransit.com/index.php?action=about
+- type: x-contact
+  url: http://www.filetransit.com/index.php?action=contact
+- type: x-developer
+  url: http://net-developer.downloads.filetransit.com
+- type: x-developer
+  url: http://gx-developer.downloads.filetransit.com
+- type: x-developer
+  url: http://mobile-apps-developer.downloads.filetransit.com
+- type: x-developer
+  url: http://developer.freeware.filetransit.com
+- type: x-developer
+  url: http://developer.demo.filetransit.com
+- type: x-developer
+  url: http://developer.filetransit.com
+- type: x-forum
+  url: http://forum-xda-developer.downloads.filetransit.com
+- type: x-news
+  url: http://news-reader-portable.downloads.filetransit.com
+- type: x-open-source
+  url: http://portable-open-project.downloads.filetransit.com
+- type: x-press
+  url: http://add-press-release.downloads.filetransit.com
+- type: x-press
+  url: http://wordpress-tag-clouds.downloads.filetransit.com
+- type: x-website
+  url: https://www.filetransit.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

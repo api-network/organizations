@@ -1,0 +1,107 @@
+---
+name: OpenMenu
+description: Get connected and let us do the work for you...
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/881_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "2225419"
+url: https://raw.githubusercontent.com/api-network/organizations/main/openmenu.yaml
+tags:
+- Target
+- Restaurants
+- Menus
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://openmenu.com/
+- type: x-base
+  url: http://openmenu.com/api/
+- type: x-blog
+  url: http://openmenu.com/blog
+- type: x-contact
+  url: https://openmenu.com/contact.php
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/openmenu
+- type: x-developers
+  url: http://openmenu.org/api/
+- type: x-documentation
+  url: https://openmenu.com/api/docs/search.php
+- type: x-documentation
+  url: https://openmenu.com/api/docs/restaurant.php
+- type: x-documentation
+  url: https://openmenu.com/api/docs/location.php
+- type: x-documentation
+  url: https://openmenu.com/api/docs/deals.php
+- type: x-documentation
+  url: https://openmenu.com/api/docs/ingredients.php
+- type: x-facebook
+  url: https://www.facebook.com/OpenMenu
+- type: x-github
+  url: https://github.com/OpenMenu
+- type: x-open-source
+  url: https://openmenu.com/
+- type: x-open-source
+  url: https://www.linkedin.com/company/openmenu
+- type: x-open-source
+  url: https://openmenu.com/search/
+- type: x-open-source
+  url: https://openmenu.com/ingredient.php
+- type: x-open-source
+  url: https://openmenu.com/help/
+- type: x-open-source
+  url: https://openmenu.com/about.php
+- type: x-open-source
+  url: https://openmenu.com/signup.php
+- type: x-open-source
+  url: https://openmenu.com/use.php
+- type: x-open-source
+  url: https://openmenu.com/api/embed.php
+- type: x-open-source
+  url: https://openmenu.com/joomla-module-plugin.php
+- type: x-open-source
+  url: https://openmenu.com/templates.php
+- type: x-open-source
+  url: http://www.yext.com/products/apps/openmenu/
+- type: x-open-source
+  url: https://openmenu.com/blog/
+- type: x-open-source
+  url: https://openmenu.com/account/index.php
+- type: x-open-source
+  url: https://openmenu.com/account/api.php
+- type: x-open-source
+  url: https://openmenu.com/tos-api.php
+- type: x-open-source
+  url: https://openmenu.com/search
+- type: x-open-source
+  url: https://openmenu.com/help/upgrading-your-account/
+- type: x-open-source
+  url: https://openmenu.com/help/adding-a-deal-coupon/
+- type: x-open-source
+  url: http://openmenu.com/use.php
+- type: x-open-source
+  url: https://openmenu.com/api/
+- type: x-open-source
+  url: http://openmenu.com/tos-api.php
+- type: x-open-source
+  url: https://openmenu.com/tos.php
+- type: x-open-source
+  url: https://openmenu.com/privacy.php
+- type: x-open-source
+  url: https://openmenu.com/responsible_disclosure.php
+- type: x-press
+  url: https://openmenu.com/wordpress-plugin.php
+- type: x-twitter
+  url: https://twitter.com/OpenMenu
+- type: x-twitter
+  url: https://twitter.com/#!/OpenMenu
+- type: x-website
+  url: http://openmenu.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

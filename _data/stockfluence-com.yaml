@@ -1,0 +1,45 @@
+---
+name: StockFluence.com
+description: StockFluence.com provides financial sentiment analysis for investors
+  to discover, react and respond to market opinions. We monitor (social) media channels
+  and analyze the overall sentiment with our algorithms. Based on the sentiment, we
+  make prediction...
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/stockfluence.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "6827376"
+url: https://raw.githubusercontent.com/api-network/organizations/main/stockfluence-com.yaml
+tags:
+- Target
+- Stocks
+- Have API
+- Financial
+- Financial
+apis: []
+x-common:
+- type: x-base
+  url: http://api.stockfluence.com/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/stockfluence
+- type: x-developers
+  url: http://www.stockfluence.com/api
+- type: x-email
+  url: info@stockfluence.com
+- type: x-email
+  url: bas@stockfluence.com
+- type: x-email
+  url: ali@stockfluence.com
+- type: x-email
+  url: press@stockfluence.com
+- type: x-twitter
+  url: https://twitter.com/StockFluence
+- type: x-website
+  url: http://www.stockfluence.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,23 @@
+---
+name: eproximiti
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: ""
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/eproximiti.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.eproximiti.com
+- type: x-twitter
+  url: https://twitter.com/eproximiti
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

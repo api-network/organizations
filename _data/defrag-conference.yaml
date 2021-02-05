@@ -1,0 +1,35 @@
+---
+name: Defrag Conference
+description: <p>At Defrag, we explore the frontiers of technology&rsquo;s intersections
+  with society, government, education, healthcare, and commerce through discussions
+  and sessions rooted in topics like cloud computing, APIs, mobile technologies, big
+  data, devops, the internet of things, and next generation human computer interaction.
+  Defrag&rsquo;s intimacy, careful curation, and focus on providing an unparalleled
+  attendee experience, offer a one-of-a-kind opportunity for the busy leaders of technology
+  to gather together, make valuable connections, and inspire each other with insight,
+  foresight and new learnings.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/defrag-conference-logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "11095672"
+url: https://raw.githubusercontent.com/api-network/organizations/main/defrag-conference.yaml
+tags:
+- Profile
+- API Not Found
+- API Events
+apis: []
+x-common:
+- type: x-blog
+  url: http://www.defragcon.com/2014/blog/
+- type: x-blog-rss
+  url: http://www.defragcon.com/2014/feed/
+- type: x-website
+  url: http://www.defragcon.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

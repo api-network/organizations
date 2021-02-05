@@ -1,0 +1,49 @@
+---
+name: NewYorkConnect.Net
+description: NYCT is the Internet Service Provider you can count on.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4626767"
+url: https://raw.githubusercontent.com/api-network/organizations/main/newyorkconnect-net.yaml
+tags:
+- NYCT.net
+- NYCT
+- Nyc Cable Internet
+- Ny Broadband Service
+- New York DSL
+- New York Connect
+- New York Broadband Service
+- ISP NYC
+- ISP New York City
+- ISP New York
+- ISP
+- Internet Service Provider
+- DSL Provider
+- DSL NYC
+- DSL New York City
+- DSL New York
+- Cable Internet New York City
+- Cable Internet
+- Cable
+- Business Internet Service Provider
+- Business Internet Service
+- Broadband Nyc
+- Broadband New York City
+- Best ISP
+- Best Internet Service Provider NYC
+- Best Internet Service Provider New York City
+- Best Internet Service Provider
+- Best DSL Provider
+apis: []
+x-common:
+- type: x-website
+  url: https://www.nyct.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

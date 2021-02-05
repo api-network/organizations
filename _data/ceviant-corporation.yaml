@@ -1,0 +1,37 @@
+---
+name: Ceviant Corporation
+description: Ceviant is the best China supplier of refrigeration products for supermarket
+  and convenience store. Checkout Ceviant Freezing's selection of island freezer,
+  bottle display refrigerator, multi-deck refrigerator, upright display refrigerator,
+  glass door refrigerator for drinking, fruit, cake, meat and deli food.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ceviant-corporation.yaml
+tags:
+- E-commerce
+apis: []
+x-common:
+- type: x-about
+  url: https://www.ceviant.com/about-us/
+- type: x-contact
+  url: https://www.ceviant.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/refrigerations.ceviant
+- type: x-linkedin
+  url: https://www.linkedin.com/in/ceviant-fridges/
+- type: x-open-source
+  url: https://www.ceviant.com/open-display-refrigerator/
+- type: x-twitter
+  url: https://twitter.com/ceviant1
+- type: x-website
+  url: https://www.ceviant.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

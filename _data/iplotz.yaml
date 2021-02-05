@@ -1,0 +1,42 @@
+---
+name: iPlotz
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4032142"
+url: https://raw.githubusercontent.com/api-network/organizations/main/iplotz.yaml
+tags:
+- Business Drawing
+apis: []
+x-common:
+- type: x-website
+  url: http://iplotz.com
+- type: x-blog
+  url: http://blog.iplotz.com/
+- type: x-contact
+  url: http://iplotz.com/contact.php
+- type: x-facebook
+  url: https://www.facebook.com/iplotzdotcom/
+- type: x-forum
+  url: http://iplotz.com/forum
+- type: x-login
+  url: http://iplotz.com/login.php
+- type: x-self-service-registration
+  url: http://iplotz.com/register.php
+- type: x-support
+  url: http://iplotz.com/helpvideo.php
+- type: x-support
+  url: http://iplotz.com/support.php
+- type: x-twitter
+  url: https://twitter.com/iplotz
+- type: x-website
+  url: https://www.iplotz.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

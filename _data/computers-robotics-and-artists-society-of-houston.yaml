@@ -1,0 +1,22 @@
+---
+name: Computers, Robotics, and Artists Society of Houston
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6291214"
+url: https://raw.githubusercontent.com/api-network/organizations/main/computers-robotics-and-artists-society-of-houston.yaml
+tags:
+- Organizations
+apis: []
+x-common:
+- type: x-website
+  url: https://www.crash.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

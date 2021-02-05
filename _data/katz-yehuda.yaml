@@ -1,0 +1,30 @@
+---
+name: Katz, Yehuda
+description: |-
+  Long-form writing by Yehuda Katz,
+  co-creator of Ember.js and serial Open Sourcerer.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1128548"
+url: https://raw.githubusercontent.com/api-network/organizations/main/katz-yehuda.yaml
+tags:
+- Merb
+apis: []
+x-common:
+- type: x-about
+  url: https://yehudakatz.com/about/
+- type: x-github
+  url: https://github.com/zutrinken/attila
+- type: x-twitter
+  url: https://twitter.com/wycats
+- type: x-website
+  url: https://yehudakatz.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

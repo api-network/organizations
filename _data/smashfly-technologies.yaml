@@ -1,0 +1,57 @@
+---
+name: SmashFly Technologies
+description: "SmashFly's recruitment marketing platform combines AI, CRM, career site,
+  events, and analytics \u2014 a smarter, seamless experience."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "180141"
+url: https://raw.githubusercontent.com/api-network/organizations/main/smashfly-technologies.yaml
+tags:
+- Recruitment Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.smashfly.com/
+- type: x-about
+  url: https://www.smashfly.com/about-us
+- type: x-about
+  url: https://www.smashfly.com/about-us/leadership-team
+- type: x-about
+  url: https://www.smashfly.com/about-us/board-of-directors
+- type: x-blog
+  url: http://blog.smashfly.com/
+- type: x-careers
+  url: https://jobs.smashfly.com/
+- type: x-careers
+  url: http://jobs.smashfly.com/
+- type: x-contact
+  url: https://www.smashfly.com/contact-us
+- type: x-events
+  url: https://www.smashfly.com/product/events
+- type: x-facebook
+  url: https://www.facebook.com/smashflytechnologies
+- type: x-instagram
+  url: https://www.instagram.com/smashflytech/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/smashfly-technologies
+- type: x-news
+  url: https://www.smashfly.com/newsroom
+- type: x-partner
+  url: https://www.smashfly.com/product/partners
+- type: x-privacy
+  url: https://www.smashfly.com/privacy-policy
+- type: x-terms-of-service
+  url: https://www.smashfly.com/terms-conditions
+- type: x-twitter
+  url: https://twitter.com/smashfly
+- type: x-website
+  url: https://www.smashfly.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

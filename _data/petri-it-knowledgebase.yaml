@@ -1,0 +1,36 @@
+---
+name: Petri IT Knowledgebase
+description: IT Knowledgebase
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "79965"
+url: https://raw.githubusercontent.com/api-network/organizations/main/petri-it-knowledgebase.yaml
+tags:
+- Microsoft
+apis: []
+x-common:
+- type: x-contact
+  url: https://bwwmediagroup.com/contact-us
+- type: x-facebook
+  url: https://www.facebook.com/itpetrikb
+- type: x-forum
+  url: https://www.petri.com/forums
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/95390/
+- type: x-security
+  url: https://www.petri.com/category/security
+- type: x-terms-of-service
+  url: https://www.bwwmediagroup.com/terms-and-conditions/
+- type: x-terms-of-service
+  url: http://bwwmediagroup.com/terms-and-conditions/
+- type: x-website
+  url: https://www.petri.co.il
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

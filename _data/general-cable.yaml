@@ -1,0 +1,28 @@
+---
+name: General Cable
+description: General Cable is the leading manufacturer of wire and cable solutions
+  in the world. Learn more about us today.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "365754"
+url: https://raw.githubusercontent.com/api-network/organizations/main/general-cable.yaml
+tags:
+- Wire
+- Manufacturers
+- General Cable
+- Cable
+apis: []
+x-common:
+- type: x-investor
+  url: https://www.prysmiangroup.com/en/investors
+- type: x-website
+  url: https://www.generalcable.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

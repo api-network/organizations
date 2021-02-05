@@ -1,0 +1,92 @@
+---
+name: Bww bitwise works
+description: |-
+  bww bitwise works GmbH develops market-leading cross-platform unified end-to-end
+      firewall/vpn software and OEM Developer Toolkits for Windows, Linux, OS/2, ArcaOS, eComStation and BSD.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bww-bitwise-works.yaml
+tags:
+- Windows Firewall
+- Traffic Shaping
+- Software
+- Site-to-site
+- Safemail
+- Pptp Client
+- Pppoe Client
+- PPP
+- Personal Firewall
+- Packet Sniffing
+- Packet Sniffer
+- Packet Capture
+- Os2 Warp
+- Os2 Firewall
+- Os2
+- Os/2 Firewall
+- Os/2
+- Oem Firewall
+- Next Generation Firewall
+- Ndis Tool Kit
+- Ndis Sdk
+- Ndis Driver
+- Ndis Developer Tool Kit
+- Nat
+- Multi-platform
+- Miniport
+- Linux Firewall
+- Linux
+- Ipsec Tunnel
+- Ipsec Tool Kit
+- Ipsec Server
+- Ipsec Sdk
+- Ipsec Oem
+- Ipsec Library
+- Ipsec Gateway
+- Ipsec For Linux
+- Ipsec Enable
+- Ipsec Developer Toolkit
+- Ipsec Client
+- Ipsec Api
+- Ipsec Acceleration
+- Intrusion Detection
+- Internet Gateway
+- Intermediate
+- Free Bsd
+- Enterprise Security
+- End-to-End
+- Embedded Firewall
+- Ecs
+- Ecomstation
+- Easy Firewall
+- Dynamic
+- Dial-up
+- Dial-in
+- Deep Packet Inspection
+- Cross-platform
+- Connectivity
+- Bandwidth Management
+- ArcaOS
+- Anti-Virus
+- Anti Virus
+- Active Response
+- Access Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.bitwiseworks.com
+- type: x-facebook
+  url: http://www.facebook.com/bitwiseworks
+- type: x-twitter
+  url: http://www.twitter.com/bitwiseworks
+- type: x-website
+  url: https://www.bitwiseworks.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

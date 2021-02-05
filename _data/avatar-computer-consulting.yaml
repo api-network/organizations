@@ -1,0 +1,65 @@
+---
+name: Avatar Computer Consulting
+description: Los Angeles area computer consultants helping businesses manage their
+  computers and networks.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/avatar-computer-consulting.yaml
+tags:
+- Wireless Networking
+- Windows Servers
+- VPN
+- Virus Removal
+- Spyware
+- Small Business Server
+- Security
+- Remote Access
+- Printers
+- Networking
+- Network
+- Migrations
+- Microsoft Windows
+- Microsoft Share Point
+- Los Angeles
+- IT Project Management
+- Internet
+- Desktops
+- California
+- Backup
+- Active Directory
+apis: []
+x-common:
+- type: x-about
+  url: https://avatar-computer.com/about-avatar.php
+- type: x-about
+  url: https://avatar-computer.com/about-avatar/services.php
+- type: x-about
+  url: https://avatar-computer.com/about-avatar/rates.php
+- type: x-about
+  url: https://avatar-computer.com/about-avatar/staffing.php
+- type: x-about
+  url: https://avatar-computer.com/about-avatar/sitemap.php
+- type: x-about
+  url: https://avatar-computer.com/about-avatar/our-blog.php
+- type: x-contact
+  url: https://avatar-computer.com/contact.php
+- type: x-support
+  url: https://avatar-computer.com/pc-support.php
+- type: x-support
+  url: https://avatar-computer.com/server-support.php
+- type: x-support
+  url: http://avatar-computer.com/pc-support.php
+- type: x-support
+  url: http://avatar-computer.com/server-support.php
+- type: x-website
+  url: https://www.avatar-computer.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,27 @@
+---
+name: GNU Solfege
+description: "Solfege.org est r\xE9dig\xE9 par des professionels et passion\xE9s de
+  musique. Retrouvez nos guides remplis de conseils pertinents pour bien vous \xE9quiper."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "673524"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gnu-solfege.yaml
+tags:
+- Theory And Ear Training
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.solfege.org/contact/
+- type: x-terms-of-service
+  url: https://www.solfege.org/mentionslegales/
+- type: x-website
+  url: https://www.solfege.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

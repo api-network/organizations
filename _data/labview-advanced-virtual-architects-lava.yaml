@@ -1,0 +1,114 @@
+---
+name: LabVIEW Advanced Virtual Architects (LAVA)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "599595"
+url: https://raw.githubusercontent.com/api-network/organizations/main/labview-advanced-virtual-architects-lava.yaml
+tags:
+- LabVIEW
+apis: []
+x-common:
+- type: x-contact
+  url: https://lavag.org/contact/
+- type: x-forum
+  url: https://lavag.org/forum/7-labview-general/
+- type: x-forum
+  url: https://lavag.org/forum/8-labview-by-category/
+- type: x-forum
+  url: https://lavag.org/forum/11-user-interface/
+- type: x-forum
+  url: https://lavag.org/forum/17-vi-scripting/
+- type: x-forum
+  url: https://lavag.org/forum/44-certification-and-training/
+- type: x-forum
+  url: https://lavag.org/forum/29-source-code-control/
+- type: x-forum
+  url: https://lavag.org/forum/24-database-and-file-io/
+- type: x-forum
+  url: https://lavag.org/forum/25-calling-external-code/
+- type: x-forum
+  url: https://lavag.org/forum/10-machine-vision-and-imaging/
+- type: x-forum
+  url: https://lavag.org/forum/30-teststand/
+- type: x-forum
+  url: https://lavag.org/forum/13-real-time/
+- type: x-forum
+  url: https://lavag.org/forum/14-mobile/
+- type: x-forum
+  url: https://lavag.org/forum/20-embedded/
+- type: x-forum
+  url: https://lavag.org/forum/21-linux/
+- type: x-forum
+  url: https://lavag.org/forum/22-apple-macintosh/
+- type: x-forum
+  url: https://lavag.org/forum/12-hardware/
+- type: x-forum
+  url: https://lavag.org/forum/34-resources/
+- type: x-forum
+  url: https://lavag.org/forum/55-labview-getting-started/
+- type: x-forum
+  url: https://lavag.org/forum/45-openg/
+- type: x-forum
+  url: https://lavag.org/forum/47-openg-general-discussions/
+- type: x-forum
+  url: https://lavag.org/forum/49-openg-developers/
+- type: x-forum
+  url: https://lavag.org/forum/56-gcentral/
+- type: x-forum
+  url: https://lavag.org/forum/40-code-repository-certified/
+- type: x-forum
+  url: https://lavag.org/forum/52-general/
+- type: x-forum
+  url: https://lavag.org/forum/53-end-user-support/
+- type: x-forum
+  url: https://lavag.org/forum/38-code-in-development/
+- type: x-forum
+  url: https://lavag.org/forum/18-community/
+- type: x-forum
+  url: https://lavag.org/forum/19-lava-lounge/
+- type: x-forum
+  url: https://lavag.org/forum/28-niweek/
+- type: x-forum
+  url: https://lavag.org/forum/39-labview-feedback-for-ni/
+- type: x-forum
+  url: https://lavag.org/forum/35-labview-bugs/
+- type: x-forum
+  url: https://lavag.org/forum/27-labview-ecosystem/
+- type: x-forum
+  url: https://lavag.org/forum/31-job-listings/
+- type: x-forum
+  url: https://lavag.org/forum/32-announcements/
+- type: x-forum
+  url: https://lavag.org/forum/1-lava-site-related/
+- type: x-forum
+  url: https://lavag.org/forum/5-site-feedback-amp-support/
+- type: x-forum
+  url: https://lavag.org/forum/2-for-testing/
+- type: x-forum
+  url: https://lavag.org/forum/54-wiki-help/
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/89402/
+- type: x-login
+  url: https://lavag.org/login/
+- type: x-news
+  url: https://lavag.org/forum/3-site-news/
+- type: x-privacy
+  url: https://lavag.org/privacy/
+- type: x-self-service-registration
+  url: https://lavag.org/register/
+- type: x-terms-of-service
+  url: https://lavag.org/terms/
+- type: x-twitter
+  url: https://twitter.com/lavag
+- type: x-website
+  url: https://lavag.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

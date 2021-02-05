@@ -1,0 +1,32 @@
+---
+name: oss.oracle.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "504"
+url: https://raw.githubusercontent.com/api-network/organizations/main/oss-oracle-com.yaml
+tags:
+- Oracle Corporation
+apis: []
+x-common:
+- type: x-feed
+  url: https://www.oracle.com/us/syndication/feeds/index.html
+- type: x-github
+  url: https://github.com/oracle
+- type: x-terms-of-service
+  url: https://www.oracle.com/legal/copyright.html
+- type: x-terms-of-service
+  url: https://www.oracle.com/legal/privacy/index.html
+- type: x-website
+  url: https://oss.oracle.com
+- type: x-youtube
+  url: https://www.youtube.com/oracle/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

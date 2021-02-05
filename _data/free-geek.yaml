@@ -1,0 +1,33 @@
+---
+name: Free Geek
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "763065"
+url: https://raw.githubusercontent.com/api-network/organizations/main/free-geek.yaml
+tags:
+- Retrocomputing
+- Non-Profit
+apis: []
+x-common:
+- type: x-website
+  url: http://freegeek.org
+- type: x-facebook
+  url: https://facebook.com/freegeekmothership
+- type: x-instagram
+  url: http://instagram.com/freegeekmothership
+- type: x-support
+  url: https://digitalinclusion.org/support
+- type: x-twitter
+  url: https://twitter.com/freegeekpdx
+- type: x-website
+  url: https://www.freegeek.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

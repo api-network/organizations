@@ -1,0 +1,51 @@
+---
+name: SecurityMetrics
+description: Protect your network and your customers with PCI and HIPAA compliance
+  assessments from SecurityMetrics.  We offer a full line of data security solutions.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "120887"
+url: https://raw.githubusercontent.com/api-network/organizations/main/securitymetrics.yaml
+tags:
+- Products And Tools
+apis: []
+x-common:
+- type: x-website
+  url: http://www.securitymetrics.com
+- type: x-security
+  url: https://www.linkedin.com/company/securitymetrics
+- type: x-security
+  url: https://www.facebook.com/securitymetrics
+- type: x-security
+  url: https://www.youtube.com/securitymetricsinc
+- type: x-security
+  url: https://plus.google.com/+securitymetrics
+- type: x-security
+  url: https://info.securitymetrics.com/pci-compliance-quote
+- type: x-security
+  url: http://info.securitymetrics.com/pci-guide
+- type: x-security
+  url: http://info.securitymetrics.com/hipaa-guide
+- type: x-security
+  url: https://academy.securitymetrics.com/
+- type: x-security
+  url: https://info.securitymetrics.com/pci-guide
+- type: x-security
+  url: https://info.securitymetrics.com/hipaa-guide
+- type: x-security
+  url: http://www.pcisecuritystandards.org/
+- type: x-security
+  url: https://www.securitymetrics.com/blog
+- type: x-twitter
+  url: https://twitter.com/SecurityMetrics
+- type: x-website
+  url: https://www.securitymetrics.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

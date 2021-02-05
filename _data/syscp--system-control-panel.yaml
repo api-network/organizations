@@ -1,0 +1,55 @@
+---
+name: SysCP - System Control Panel
+description: Freelancing, sports and earning cash from home! Discover tips for working
+  online and read our blog with many interesting topics.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3929543"
+url: https://raw.githubusercontent.com/api-network/organizations/main/syscp--system-control-panel.yaml
+tags:
+- Configuration
+apis: []
+x-common:
+- type: x-about
+  url: https://www.syscp.org/about-us/
+- type: x-blog
+  url: https://www.syscp.org/blog/
+- type: x-blog
+  url: https://www.syscp.org/how-to-make-money-blogging/
+- type: x-blog
+  url: https://moz.com/blog
+- type: x-blog
+  url: https://litmus.com/blog
+- type: x-contact
+  url: https://www.syscp.org/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/
+- type: x-feed
+  url: https://litmus.com/blog/feed
+- type: x-press
+  url: https://feedpress.me/mozblog
+- type: x-press
+  url: http://tracking.feedpress.it/link/9375/13177281
+- type: x-press
+  url: http://tracking.feedpress.it/link/9375/13174086
+- type: x-press
+  url: http://tracking.feedpress.it/link/9375/13164228
+- type: x-press
+  url: http://tracking.feedpress.it/link/9375/13157029
+- type: x-press
+  url: http://tracking.feedpress.it/link/9375/13153669
+- type: x-twitter
+  url: https://twitter.com/
+- type: x-website
+  url: https://www.syscp.org
+- type: x-youtube
+  url: https://www.youtube.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

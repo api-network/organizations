@@ -1,0 +1,36 @@
+---
+name: Axandra
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "538624"
+url: https://raw.githubusercontent.com/api-network/organizations/main/axandra.yaml
+tags:
+- Website Promotion
+apis: []
+x-common:
+- type: x-code
+  url: http://www.axandra.com/company/code-of-ethics.htm
+- type: x-login
+  url: https://www.seoprofiler.com/account/login
+- type: x-news
+  url: http://newsletter.seoprofiler.com
+- type: x-news
+  url: http://newsletter.seoprofiler.com/
+- type: x-privacy
+  url: http://www.axandra.com/company/privacy-policy.htm
+- type: x-support
+  url: http://www.axandra.com/fast-help/
+- type: x-support
+  url: http://www.axandra.com/fast-help
+- type: x-website
+  url: https://www.axandra.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

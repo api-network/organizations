@@ -1,0 +1,39 @@
+---
+name: MP3 Remix
+description: FxSound software provides high quality audio at a price you can afford.
+  Boost sound quality and get hi-fi audio for your for your music, movies, audio transcription
+  and more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "111711"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mp3-remix.yaml
+tags:
+- Players
+- Editors
+apis: []
+x-common:
+- type: x-website
+  url: http://www.fxsound.com
+- type: x-facebook
+  url: https://www.facebook.com/getfxsound
+- type: x-instagram
+  url: https://www.instagram.com/getfxsound
+- type: x-support
+  url: https://dfxsupport.zendesk.com/
+- type: x-support
+  url: https://dfxsupport.zendesk.com/hc/en-us
+- type: x-twitter
+  url: https://twitter.com/getfxsound
+- type: x-website
+  url: https://www.fxsound.com
+- type: x-youtube
+  url: https://www.youtube.com/c/fxsound
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

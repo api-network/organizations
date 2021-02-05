@@ -1,0 +1,49 @@
+---
+name: Motive Systems
+description: M-Files Intelligent Information Management helps enterprises find, share,
+  and secure documents and information. Ideal for regulatory compliance.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6132345"
+url: https://raw.githubusercontent.com/api-network/organizations/main/motive-systems.yaml
+tags:
+- File And Batch Processing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.m-files.com
+- type: x-blog
+  url: http://www.m-files.com/blog
+- type: x-blog
+  url: http://blog.m-files.com/
+- type: x-careers
+  url: https://www.m-files.com/en/careers
+- type: x-contact
+  url: https://www.m-files.com/en/contact-us
+- type: x-customers
+  url: https://www.m-files.com/en/customers
+- type: x-facebook
+  url: https://www.facebook.com/MFilesEasyDocumentManagement
+- type: x-linkedin
+  url: https://www.linkedin.com/company/m-files-corporation
+- type: x-login
+  url: https://catalog.m-files.com/shop/docusign-integration/
+- type: x-news
+  url: https://www.m-files.com/en/newsletter-join
+- type: x-partner
+  url: https://www.m-files.com/en/partners
+- type: x-twitter
+  url: https://twitter.com/m_files
+- type: x-website
+  url: https://www.motivesys.com
+- type: x-youtube
+  url: https://www.youtube.com/user/MFilesDMS
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

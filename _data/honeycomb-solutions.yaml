@@ -1,0 +1,62 @@
+---
+name: Honeycomb Solutions
+description: Honeycomb Solutions delivers design, manufacturing and service solutions.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9848340"
+url: https://raw.githubusercontent.com/api-network/organizations/main/honeycomb-solutions.yaml
+tags:
+- Resellers And Consultants
+apis: []
+x-common:
+- type: x-website
+  url: http://www.concurrent-engineering.co.uk
+- type: x-about
+  url: https://www.honeycomb.ie/about
+- type: x-about
+  url: https://www.concurrent-engineering.co.uk/about
+- type: x-careers
+  url: https://www.honeycomb.ie/careers
+- type: x-contact
+  url: https://www.honeycomb.ie/contact
+- type: x-events
+  url: https://www.honeycomb.ie/events
+- type: x-facebook
+  url: https://www.facebook.com/Concurrent.Engineering/
+- type: x-instagram
+  url: https://www.instagram.com/concurrent_eng/
+- type: x-partner
+  url: https://www.honeycomb.ie/partner
+- type: x-platform
+  url: https://www.honeycomb.ie/support/platform-support
+- type: x-press
+  url: https://www.honeycomb.ie/download-mathcad-express
+- type: x-privacy
+  url: https://www.honeycomb.ie/privacy-policy
+- type: x-support
+  url: https://www.honeycomb.ie/support
+- type: x-support
+  url: https://www.honeycomb.ie/support/64-bit-support
+- type: x-support
+  url: https://www.honeycomb.ie/support/licensing
+- type: x-support
+  url: https://www.honeycomb.ie/support/software-downloads
+- type: x-support
+  url: https://www.honeycomb.ie/support/maintenance-support
+- type: x-terms-of-service
+  url: https://www.honeycomb.ie/terms-of-use
+- type: x-twitter
+  url: https://twitter.com/ConcurrentEng
+- type: x-website
+  url: https://www.honeycomb.ie
+- type: x-youtube
+  url: https://www.youtube.com/user/concurrenteng
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

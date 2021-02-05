@@ -1,0 +1,42 @@
+---
+name: vBulletin.org
+description: This is a discussion forum powered by vBulletin. To find out about vBulletin,
+  go to http://www.vbulletin.com/ .
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "131567"
+url: https://raw.githubusercontent.com/api-network/organizations/main/vbulletin-org.yaml
+tags:
+- VBulletin
+- Site Review
+- Programming
+- Modifications
+- Jelsoft
+- Hacks
+- Forum
+- Discussion
+- Bulletin Board
+- Bbs
+- Articles
+- AddOns
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.vbulletin.org
+- type: x-login
+  url: http://www.vbgermany.vbtest.biz/login.php
+- type: x-support
+  url: https://www.vbgermany.vbtest.biz/index.php?do=support
+- type: x-terms-of-service
+  url: https://www.internetbrands.com/ibterms/
+- type: x-website
+  url: https://www.vbulletin.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

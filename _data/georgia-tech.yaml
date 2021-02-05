@@ -1,0 +1,31 @@
+---
+name: Georgia Tech
+description: <p>I came across the Georgia Tech API at a gathering of Universities
+  to talk about another project, but learned they had a pretty robust API defined
+  used Swagger. Looks like it is still a work in progress, but a great model to look
+  at.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/georgia-tech.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5169"
+url: https://raw.githubusercontent.com/api-network/organizations/main/georgia-tech.yaml
+tags:
+- University In Progress
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-developers
+  url: https://oae.gatech.edu/docs/rest
+- type: x-documentation
+  url: https://oae.gatech.edu/docs/
+- type: x-website
+  url: https://oae.gatech.edu/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

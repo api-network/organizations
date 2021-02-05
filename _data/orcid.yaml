@@ -1,0 +1,40 @@
+---
+name: Orcid
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5160"
+url: https://raw.githubusercontent.com/api-network/organizations/main/orcid.yaml
+tags:
+- Research
+- Have Swagger
+- Have API Paths
+apis: []
+x-common:
+- type: x-blog
+  url: https://orcid.org/blog/2019/12/19/orcid-china
+- type: x-contact
+  url: https://members.orcid.org/contact
+- type: x-developer
+  url: https://members.orcid.org/api/workflow
+- type: x-developer
+  url: https://members.orcid.org/api/integrate
+- type: x-privacy
+  url: https://orcid.org/privacy-policy#TrackingTechnology
+- type: x-self-service-registration
+  url: https://orcid.org/content/register-client-application
+- type: x-support
+  url: https://support.orcid.org/hc/categories/360000661773
+- type: x-webhooks
+  url: https://members.orcid.org/api/tutorial/webhooks
+- type: x-website
+  url: https://members.orcid.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

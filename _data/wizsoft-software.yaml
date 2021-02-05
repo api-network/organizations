@@ -1,0 +1,49 @@
+---
+name: WizSoft Software
+description: WizSoft develops data-mining tools for analyzing the data, issuing predictions,
+  revealing interesting cases, and revealing errors and frauds.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6205774"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wizsoft-software.yaml
+tags:
+- Tool Vendors
+apis: []
+x-common:
+- type: x-about
+  url: https://www.wizsoft.com/about-our-company/
+- type: x-about
+  url: https://www.wizsoft.com/about-our-company/locations/
+- type: x-case-studies
+  url: https://www.wizsoft.com/case-studies/
+- type: x-contact
+  url: https://www.wizsoft.com/contact-demo/
+- type: x-contact
+  url: https://www.wizsoft.com/contact-demo/download-demo/
+- type: x-partner
+  url: https://www.wizsoft.com/about-our-company/partners/
+- type: x-privacy
+  url: https://www.wizsoft.com/index.php/privacy-policy
+- type: x-support
+  url: https://www.wizsoft.com/support/
+- type: x-support
+  url: https://www.wizsoft.com/support/download-brochures/
+- type: x-support
+  url: https://www.wizsoft.com/support/download-user-manuals/
+- type: x-support
+  url: https://www.wizsoft.com/support/training-videos/
+- type: x-support
+  url: https://www.wizsoft.com/support/courses/
+- type: x-terms-of-service
+  url: https://www.wizsoft.com/index.php/legal-information
+- type: x-website
+  url: https://www.wizsoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

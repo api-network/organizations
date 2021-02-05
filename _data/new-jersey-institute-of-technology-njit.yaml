@@ -1,0 +1,26 @@
+---
+name: New Jersey Institute of Technology (NJIT)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "24688"
+url: https://raw.githubusercontent.com/api-network/organizations/main/new-jersey-institute-of-technology-njit.yaml
+tags:
+- New Jersey
+apis: []
+x-common:
+- type: x-events
+  url: http://www.njit.edu/featuredevents
+- type: x-news
+  url: https://news.njit.edu
+- type: x-website
+  url: https://ccs.njit.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

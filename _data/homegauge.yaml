@@ -1,0 +1,31 @@
+---
+name: HomeGauge
+description: Home inspection software for commercial and home inspectors. The best
+  software for making easy to read inspection reports for agents and home buyers.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "108536"
+url: https://raw.githubusercontent.com/api-network/organizations/main/homegauge.yaml
+tags:
+- Inspection
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/HomeGauge
+- type: x-support
+  url: https://support.homegauge.com
+- type: x-twitter
+  url: https://twitter.com/homegauge
+- type: x-website
+  url: https://www.homegauge.com
+- type: x-youtube
+  url: https://www.youtube.com/user/HomeGaugeSoftware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

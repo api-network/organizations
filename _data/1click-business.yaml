@@ -1,0 +1,37 @@
+---
+name: 1Click business
+description: Send business proposals online and manage your invoices in the cloud!
+  1ClickBusiness is an online business proposal and invoicing software, which ease
+  your business life. Be professional, choose 1ClickBusiness!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/1click-business.yaml
+tags:
+- Send Proposals Online
+- Send Invoices Online
+- Send Business Proposals Online
+- Online Proposal Software
+- Online Invoicing Software
+- Online Business Proposal Software
+- Online Billing Software
+- Invoicing And Billing Software
+- Business Management In The Cloud
+- Billing
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/1ClickBusiness
+- type: x-twitter
+  url: https://twitter.com/1ClickBusiness1
+- type: x-website
+  url: https://www.1clickbusiness.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

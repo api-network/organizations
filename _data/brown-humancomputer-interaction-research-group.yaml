@@ -1,0 +1,36 @@
+---
+name: Brown Human-Computer Interaction Research Group
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10353"
+url: https://raw.githubusercontent.com/api-network/organizations/main/brown-humancomputer-interaction-research-group.yaml
+tags:
+- Academic
+apis: []
+x-common:
+- type: x-github
+  url: https://ekyi.github.io
+- type: x-github
+  url: https://skylion007.github.io/
+- type: x-github
+  url: http://jinayoon.github.io/
+- type: x-github
+  url: https://rlizbins.github.io/index.html
+- type: x-github
+  url: http://13hsha.github.io/me/
+- type: x-github
+  url: http://dmetaxak.github.io/
+- type: x-signup
+  url: https://brownhci.slack.com/signup
+- type: x-website
+  url: https://hci.cs.brown.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

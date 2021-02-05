@@ -1,0 +1,26 @@
+---
+name: Filament Group
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "276929"
+url: https://raw.githubusercontent.com/api-network/organizations/main/filament-group.yaml
+tags:
+- Companies And Consultants
+apis: []
+x-common:
+- type: x-website
+  url: http://filamentgroup.com
+- type: x-twitter
+  url: https://twitter.com/filamentgroup
+- type: x-website
+  url: https://www.filamentgroup.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

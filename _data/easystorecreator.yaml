@@ -1,0 +1,33 @@
+---
+name: EasyStoreCreator
+description: Ecommerce website builder includes free custom ecommerce website template
+  and an online store builder. Works with any web browser, nothing to download or
+  install.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/easystorecreator.yaml
+tags:
+- Online Store Builder
+- Ecommerce Website Templates
+- Ecommerce Website Builder
+- E-commerce
+apis: []
+x-common:
+- type: x-about
+  url: https://www.easystorecreator.com/aboutus.asp
+- type: x-feed
+  url: http://www.feedbackroad.com/customer-feedback-tools
+- type: x-privacy
+  url: https://www.easystorecreator.com/privacy.asp
+- type: x-website
+  url: https://www.easystorecreator.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

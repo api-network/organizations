@@ -1,0 +1,39 @@
+---
+name: Mindcandy
+description: Mind Candy is a British entertainment company, formed in 2004 by UK internet
+  entrepreneur Michael Acton Smith, and based in Shoreditch, London, England.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5471952"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mindcandy.yaml
+tags:
+- Foundries
+apis: []
+x-common:
+- type: x-about
+  url: https://mindcandy.com/about
+- type: x-careers
+  url: https://mindcandy.com/careers
+- type: x-contact
+  url: https://mindcandy.com/contact
+- type: x-linkedin
+  url: https://www.linkedin.com/company/mind-candy
+- type: x-press
+  url: https://mindcandy.com/press
+- type: x-privacy
+  url: https://mindcandy.com/privacy
+- type: x-terms-of-service
+  url: https://mindcandy.com/legal
+- type: x-twitter
+  url: https://twitter.com/MindCandy
+- type: x-website
+  url: https://www.mindcandy.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

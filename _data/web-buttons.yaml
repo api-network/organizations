@@ -1,0 +1,23 @@
+---
+name: Web Buttons
+description: Web Buttons helps you create 3D cool web menus and buttons with ease
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1207779"
+url: https://raw.githubusercontent.com/api-network/organizations/main/web-buttons.yaml
+tags:
+- Graphics
+- Buttons
+apis: []
+x-common:
+- type: x-website
+  url: https://www.web-buttons.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

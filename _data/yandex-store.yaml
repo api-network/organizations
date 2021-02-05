@@ -1,0 +1,39 @@
+---
+name: Yandex.Store
+description: More than 100,000 apps. Easy to find, simple to download, and convenient
+  to use.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "518"
+url: https://raw.githubusercontent.com/api-network/organizations/main/yandex-store.yaml
+tags:
+- Yandex.store
+- Yandex Store
+- Markets
+- Download Free Android Market
+- Download Android Market
+- App Store
+- Android Store
+- Android Market
+- Android App Store
+apis: []
+x-common:
+- type: x-developer
+  url: https://developer.store.yandex.com/
+- type: x-developer
+  url: http://developer.store.yandex.com
+- type: x-partner
+  url: http://store.yandex.com/partner/
+- type: x-terms-of-service
+  url: http://legal.yandex.com/store_termsofuse/
+- type: x-website
+  url: https://store.yandex.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,65 @@
+---
+name: CSS-Tricks
+description: Daily articles about CSS, HTML, JavaScript, and all things related to
+  web design and development.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5941"
+url: https://raw.githubusercontent.com/api-network/organizations/main/csstricks.yaml
+tags:
+- Examples
+apis: []
+x-common:
+- type: x-careers
+  url: https://css-tricks.com/tag/jobs/
+- type: x-careers
+  url: https://qualitycounts.recruiterbox.com/jobs/fk03e7n
+- type: x-careers
+  url: https://twentyoverten.com/careers/ui-ux-designer
+- type: x-code
+  url: https://github.com/smooth-code/jest-puppeteer
+- type: x-code
+  url: https://codepen.io/petebarr/pen/eYmeXMj
+- type: x-code
+  url: https://codepen.io/jobs/
+- type: x-code
+  url: https://codepen.io/
+- type: x-facebook
+  url: https://www.facebook.com/CSSTricks/
+- type: x-feed
+  url: https://css-tricks.com/feed/
+- type: x-github
+  url: https://github.com/garris/BackstopJS
+- type: x-github
+  url: https://rphunt.github.io/eleventy-walkthrough/
+- type: x-github
+  url: https://github.com/philhawksworth/eleventyone
+- type: x-github
+  url: https://github.com/philhawksworth/eleventail
+- type: x-github
+  url: https://apandhi.github.io/Autumn/
+- type: x-instagram
+  url: https://www.instagram.com/real_css_tricks/
+- type: x-news
+  url: https://css-tricks.com/netnewswire-and-feedbin/
+- type: x-news
+  url: https://ranchero.com/netnewswire/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-twitter
+  url: https://twitter.com/css
+- type: x-twitter
+  url: https://twitter.com/PKodmad/status/1194381059950927872
+- type: x-website
+  url: https://css-tricks.com
+- type: x-youtube
+  url: https://www.youtube.com/user/realcsstricks
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

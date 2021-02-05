@@ -1,0 +1,97 @@
+---
+name: Nozbe
+description: Busy people and effective teams get tasks and projects done thanks to
+  Nozbe system and apps for the Mac, Windows, Linux, Android, iPad and iPhone.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "32916"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nozbe.yaml
+tags:
+- Windows
+- Trial
+- To Do
+- Team
+- Tasks
+- Task
+- Support
+- Projects
+- Project
+- Productivity
+- Osx
+- Organized
+- Nozbe
+- Macos
+- Mac
+- Linux
+- Learn
+- IPhone
+- IPad
+- Hosted
+- Gtd
+- Getting Things Done
+- Free
+- Email
+- Android
+apis: []
+x-common:
+- type: x-website
+  url: https://nozbe.com
+- type: x-about
+  url: https://nozbe.com/about
+- type: x-blog
+  url: https://nozbe.com/blog
+- type: x-blog
+  url: https://nozbe.com/blog/nozbe-values
+- type: x-contact
+  url: https://nozbe.com/contact
+- type: x-facebook
+  url: https://facebook.com/Nozbe
+- type: x-facebook
+  url: https://www.facebook.com/groups/ultimateproductivity
+- type: x-instagram
+  url: https://instagram.com/nozbe
+- type: x-login
+  url: https://nozbe.com/login-en
+- type: x-press
+  url: https://nozbe.com/press
+- type: x-pricing
+  url: https://nozbe.com/pricing
+- type: x-pricing
+  url: https://nozbe.com/pricing/?plan=80&cycle=y
+- type: x-pricing
+  url: https://nozbe.com/pricing/?plan=70&cycle=y
+- type: x-pricing
+  url: https://nozbe.com/pricing/?plan=60&cycle=y
+- type: x-security
+  url: https://help.nozbe.com/gtd/security/
+- type: x-signup
+  url: https://nozbe.com/signup
+- type: x-support
+  url: https://help.nozbe.com
+- type: x-support
+  url: https://help.nozbe.com/gtd/nozbe-apps/
+- type: x-support
+  url: https://help.nozbe.com/gtd/video-tutorial/
+- type: x-support
+  url: https://help.nozbe.com/gtd/affiliate-program/
+- type: x-terms-of-service
+  url: https://nozbe.com/terms/#privacy
+- type: x-terms-of-service
+  url: https://nozbe.com/terms/
+- type: x-terms-of-service
+  url: https://nozbe.com/terms
+- type: x-twitter
+  url: https://twitter.com/nozbe
+- type: x-website
+  url: https://www.nozbe.com
+- type: x-youtube
+  url: https://youtube.com/user/NozbeCom
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

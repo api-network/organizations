@@ -1,0 +1,29 @@
+---
+name: Earn.com
+description: Set up an Earn.com profile to receive paid messages from people outside
+  your network. Keep the money, or donate it to charity.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26607-bitcoinfees-earn-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "30949"
+url: https://raw.githubusercontent.com/api-network/organizations/main/earn-com.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: https://earn.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/earn-com
+- type: x-twitter
+  url: https://twitter.com/earndotcom
+- type: x-website
+  url: https://bitcoinfees.earn.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

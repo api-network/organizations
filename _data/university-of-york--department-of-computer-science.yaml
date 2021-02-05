@@ -1,0 +1,40 @@
+---
+name: University of York - Department of Computer Science
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "26879"
+url: https://raw.githubusercontent.com/api-network/organizations/main/university-of-york--department-of-computer-science.yaml
+tags:
+- United Kingdom
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cs.york.ac.uk
+- type: x-about
+  url: http://www.york.ac.uk/about/departments/a-to-z/
+- type: x-about
+  url: http://www.york.ac.uk/about/departments/
+- type: x-facebook
+  url: https://www.facebook.com/ComputerScienceYork
+- type: x-terms-of-service
+  url: http://www.york.ac.uk/about/legal-statements/
+- type: x-terms-of-service
+  url: http://www.york.ac.uk/about/legal-statements/#tab-4
+- type: x-terms-of-service
+  url: http://www.york.ac.uk/about/legal-statements/cookies/
+- type: x-twitter
+  url: https://twitter.com/UoY_CS
+- type: x-website
+  url: https://www.cs.york.ac.uk
+- type: x-youtube
+  url: https://www.youtube.com/user/ComputerScienceUoY
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

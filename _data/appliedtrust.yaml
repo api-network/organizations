@@ -1,0 +1,36 @@
+---
+name: AppliedTrust
+description: Our IT consulting services will enable you and your business to improve
+  the reliability and performance of systems and the effectiveness of security programs.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7961431"
+url: https://raw.githubusercontent.com/api-network/organizations/main/appliedtrust.yaml
+tags:
+- Professional IT Services
+- IT Consultants
+- Flexential
+- Colorado
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/flexential/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/flexential
+- type: x-partner
+  url: https://partners.flexential.com/
+- type: x-twitter
+  url: http://twitter.com/flexential
+- type: x-website
+  url: https://www.appliedtrust.com
+- type: x-youtube
+  url: https://www.youtube.com/c/Flexential
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

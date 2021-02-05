@@ -1,0 +1,28 @@
+---
+name: GDAX
+description: US based digital asset exchange with trading FIX API and REST API. Easy
+  to deposit funds with Coinbase wallet, bank transfer, wire transfer, or digital
+  currency.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26465-docs-gdax-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1458"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gdax.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/dax
+- type: x-twitter
+  url: https://twitter.com/GDAX
+- type: x-website
+  url: https://docs.gdax.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,51 @@
+---
+name: TempWorks Software
+description: Over 20 years of experience as the premier staffing software and payroll
+  processing and funding solutions for temporary staffing companies.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "233091"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tempworks-software.yaml
+tags:
+- Recruitment Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.tempworks.com
+- type: x-about
+  url: https://www.tempworks.com/about/
+- type: x-about
+  url: https://www.tempworks.com/about/tempworks-community/
+- type: x-about
+  url: https://www.tempworks.com/about/leadership-team/
+- type: x-about
+  url: https://www.tempworks.com/about/sales-team/
+- type: x-about
+  url: https://www.tempworks.com/about/secure-data/
+- type: x-careers
+  url: https://www.tempworks.com/about/careers/
+- type: x-contact
+  url: https://www.tempworks.com/contact-sales/
+- type: x-facebook
+  url: https://www.facebook.com/TempWorks
+- type: x-linkedin
+  url: https://www.linkedin.com/company/tempworks-software
+- type: x-news
+  url: https://www.tempworks.com/news/
+- type: x-support
+  url: https://www.tempworks.com/support/
+- type: x-twitter
+  url: https://twitter.com/TempWorks
+- type: x-webinars
+  url: https://www.tempworks.com/training/webinars/
+- type: x-website
+  url: https://www.tempworks.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

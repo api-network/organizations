@@ -1,0 +1,30 @@
+---
+name: S&H Entertainment Localization
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sh-entertainment-localization.yaml
+tags:
+- Localization And Internationalization
+apis: []
+x-common:
+- type: x-about
+  url: https://www.shentloc.com/about-us
+- type: x-careers
+  url: https://www.shentloc.com/jobs
+- type: x-contact
+  url: https://www.shentloc.com/contact
+- type: x-privacy
+  url: https://www.shentloc.com/privacypolicy
+- type: x-website
+  url: https://www.shentloc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

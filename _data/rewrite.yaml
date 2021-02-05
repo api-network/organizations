@@ -1,0 +1,81 @@
+---
+name: Rewrite
+description: Rewrite! The search for innovation in newspapers. An inside look at journalistic
+  sausage-making.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rewrite.yaml
+tags:
+- Working At A Newsaper
+- Resources
+- Reporter
+- Online News
+- Newspapers
+- Newspaper Management
+- Newspaper Industry
+- Newspaper Design
+- News On The Web
+- News
+- Editor
+apis: []
+x-common:
+- type: x-blog
+  url: http://wef.blogs.com/editors/
+- type: x-blog
+  url: http://www.hypergene.net/blog/weblog.php
+- type: x-blog
+  url: http://mediaminded.blogspot.com/
+- type: x-blog
+  url: http://www.journaltimes.com/nucleus/index.php?blogid=1
+- type: x-login
+  url: http://t.extreme-dm.com/?login=mmoobb
+- type: x-news
+  url: http://newsresearch.blogspot.com
+- type: x-news
+  url: http://www.newsdesigner.com/blog
+- type: x-news
+  url: http://www.poynter.org/medianews/
+- type: x-news
+  url: http://www.ap.org/pages/indnews/
+- type: x-news
+  url: http://www.onlinenewsassociation.org/
+- type: x-news
+  url: http://www.newspagedesigner.com
+- type: x-news
+  url: http://www.newseum.org/todaysfrontpages/
+- type: x-news
+  url: http://chicagonewspapers.blogspot.com/
+- type: x-news
+  url: http://www.andukar.org/index.php?s=newspaper
+- type: x-news
+  url: http://www.chicagojewishnews.com/goldashira1.jsp
+- type: x-news
+  url: http://www.roanoke.com/roatimes/news/story144038.html
+- type: x-press
+  url: http://www.americanpressinstitute.org/mediacenter
+- type: x-press
+  url: http://www.americanpressinstitute.org
+- type: x-press
+  url: http://www.wan-press.org/index.php3
+- type: x-press
+  url: http://www.naa.org/presstime/PTArtPage.cfm?AID=4146
+- type: x-press
+  url: http://www.chicagomag.com/pressbox/pressbox_story.htm
+- type: x-press
+  url: http://www.wan-press.org/article2529.html
+- type: x-press
+  url: http://www.wan-press.org/
+- type: x-press
+  url: http://www.naa.org/presstime/0004/circ.html
+- type: x-website
+  url: https://rewrite.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

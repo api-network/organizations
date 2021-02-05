@@ -1,0 +1,35 @@
+---
+name: Picqer
+description: Easy online warehouse management software, specificly designed for small
+  warehouses. Directly in the cloud as a hosted solution. Easy warehouse management
+  with Picqer.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28994-picqer-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "4"
+x-alexaRank: "1049410"
+url: https://raw.githubusercontent.com/api-network/organizations/main/picqer.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://picqer.com/nl
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/picqer
+- type: x-email
+  url: hello@picqer.com
+- type: x-email
+  url: info@picqer.com
+- type: x-twitter
+  url: https://twitter.com/Picqer
+- type: x-webhooks
+  url: https://picqer.com/en/api/webhooks
+- type: x-website
+  url: https://picqer.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

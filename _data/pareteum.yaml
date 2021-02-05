@@ -1,0 +1,71 @@
+---
+name: Pareteum
+description: '<p>Pareteum''s mobile core network platform utilizes virtualized SDN
+  and NFV software technologies enabling mobile operators and MNVOs to eliminate complexity,
+  speed time to market and improve ROI. Pareteum Corporation is a leading Global provider
+  of mobile networking software and services. Our mission is to provide a single solution
+  to the problem of fully enabling and securing the Mobile Cloud.Pareteum covers the
+  entire globe, with a customer base and network of partners in every continent. Rapid
+  Deployment of Solutions for: CSPs, MVNO providers, IoT providers and Enterprise
+  Fully operational services @ the Speed of Need! Pareteum&rsquo;s secure software
+  and services enable customers to achieve business growth and scaling</p>'
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28212-www-pareteum-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "577071"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pareteum.yaml
+tags:
+- Networks
+- ISP
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.pareteum.com
+- type: x-about
+  url: https://www.pareteum.com/about/
+- type: x-blog
+  url: https://www.pareteum.com/blog/
+- type: x-blog
+  url: https://www.pareteum.com/blog-sms-advantage/
+- type: x-contact
+  url: https://www.pareteum.com/products-contact-center/
+- type: x-email
+  url: Info@pareteum.com
+- type: x-email
+  url: investorrelations@pareteum.com
+- type: x-events
+  url: https://www.pareteum.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/Pareteum/
+- type: x-investor
+  url: http://investors.pareteum.com
+- type: x-investor
+  url: https://investors.pareteum.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/pareteum-corporation
+- type: x-platform
+  url: https://www.pareteum.com/iot-platform/
+- type: x-platform
+  url: https://www.pareteum.com/platform/
+- type: x-platform
+  url: https://www.pareteum.com/platform/#cloud
+- type: x-press
+  url: https://www.pareteum.com/press/
+- type: x-privacy
+  url: https://www.pareteum.com/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/Pareteum1
+- type: x-website
+  url: https://www.pareteum.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=dPK-9GlI8v8
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

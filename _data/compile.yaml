@@ -1,0 +1,40 @@
+---
+name: Compile
+description: <p>The next-gen in company intelligence. Compile delivers deep insights
+  on businesses that matter. Move beyond static firmographics and experience data
+  that actually gives your business a lift. Power your analytics with richer, more
+  dynamic data.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28850-www-compile-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "6"
+x-alexaRank: "3337709"
+url: https://raw.githubusercontent.com/api-network/organizations/main/compile.yaml
+tags:
+- Sciences
+- Have API Paths
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.compile.com/blog/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/compile
+- type: x-email
+  url: privacy@compile.com
+- type: x-github
+  url: https://opensource.compile.com/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/compile-inc/
+- type: x-postman-collection
+  url: https://app.getpostman.com/run-collection/be55328272c8ea604c3f
+- type: x-twitter
+  url: https://twitter.com/CompileInc
+- type: x-website
+  url: https://www.compile.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

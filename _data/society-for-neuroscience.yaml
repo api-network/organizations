@@ -1,0 +1,40 @@
+---
+name: Society for Neuroscience
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "240931"
+url: https://raw.githubusercontent.com/api-network/organizations/main/society-for-neuroscience.yaml
+tags:
+- Organizations
+apis: []
+x-common:
+- type: x-website
+  url: https://www.sfn.org/
+- type: x-careers
+  url: https://neurojobs.sfn.org/jobs
+- type: x-careers
+  url: https://neurojobs.sfn.org/employers/
+- type: x-careers
+  url: http://sfncareers.applicantpro.com/jobs/
+- type: x-facebook
+  url: http://www.facebook.com/societyforneuroscience
+- type: x-instagram
+  url: https://www.instagram.com/societyforneuroscience/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/30745
+- type: x-twitter
+  url: https://twitter.com/sfntweets
+- type: x-website
+  url: https://www.sfn.org
+- type: x-youtube
+  url: http://www.youtube.com/sfnvideo
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

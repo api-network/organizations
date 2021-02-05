@@ -1,0 +1,61 @@
+---
+name: Newsweaver
+description: Poppulo (formerly Newsweaver) has two dedicated product brand offerings
+  for Internal Communications and Email Marketing.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "106375"
+url: https://raw.githubusercontent.com/api-network/organizations/main/newsweaver.yaml
+tags:
+- Online Tools
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.newsweaver.com/contact/
+- type: x-news
+  url: https://www.newsweaver.com/
+- type: x-news
+  url: https://www.newsweaver.com/about-us/
+- type: x-news
+  url: https://www.newsweaver.com/features/
+- type: x-news
+  url: https://www.newsweaver.com/pricing/
+- type: x-news
+  url: https://www.newsweaver.com/blog/
+- type: x-news
+  url: https://www.newsweaver.com/knowledgebase/
+- type: x-news
+  url: http://login.newsweaver.com/
+- type: x-news
+  url: https://www.newsweaver.com/security/
+- type: x-news
+  url: https://www.newsweaver.com/cookies/
+- type: x-news
+  url: https://www.newsweaver.com/legal-terms-and-conditions/
+- type: x-news
+  url: https://www.newsweaver.com/legal-secure-email/
+- type: x-news
+  url: https://www.newsweaver.com/legal-anti-spam-policy/
+- type: x-news
+  url: https://www.newsweaver.com/legal-privacy-policy/
+- type: x-news
+  url: https://www.newsweaver.com/privacy-cookie-policy/
+- type: x-news
+  url: https://www.facebook.com/newsweaver
+- type: x-news
+  url: https://www.linkedin.com/company/newsweaver
+- type: x-news
+  url: https://www.newsweaver.com/cookies
+- type: x-status
+  url: https://www.poppulo.com/status/
+- type: x-website
+  url: https://www.newsweaver.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

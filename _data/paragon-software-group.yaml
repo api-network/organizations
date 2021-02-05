@@ -1,0 +1,42 @@
+---
+name: Paragon Software Group
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "33433"
+url: https://raw.githubusercontent.com/api-network/organizations/main/paragon-software-group.yaml
+tags:
+- Disk Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.paragon-software.com
+- type: x-blog
+  url: http://blog.paragon-software.com/
+- type: x-blog
+  url: https://blog.paragon-software.com/
+- type: x-contact
+  url: https://www.paragon-software.com/about/#contact_form
+- type: x-login
+  url: https://my.paragon-software.com/#/login
+- type: x-partner
+  url: https://partner.paragon-software.com/#/signup
+- type: x-support
+  url: https://support.paragon-software.com/
+- type: x-support
+  url: http://support.paragon-software.com/
+- type: x-twitter
+  url: https://twitter.com/paragonsoftware
+- type: x-website
+  url: https://www.paragon-software.com
+- type: x-youtube
+  url: https://www.youtube.com/user/ParagonSoftwareGroup
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

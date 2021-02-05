@@ -1,0 +1,63 @@
+---
+name: Imanami
+description: GroupID for managing identity and access management in your enterprise
+  directory such as Active Directory, Azure Active Directory, Office 365 and G Suite
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "566854"
+url: https://raw.githubusercontent.com/api-network/organizations/main/imanami.yaml
+tags:
+- Utilities
+apis: []
+x-common:
+- type: x-website
+  url: http://www.imanami.com
+- type: x-blog
+  url: https://www.imanami.com/blog/
+- type: x-careers
+  url: https://www.imanami.com/careers/
+- type: x-case-studies
+  url: http://www.imanami.com/case-studies/grant-thornton/
+- type: x-contact
+  url: https://www.imanami.com/contact/
+- type: x-events
+  url: https://www.imanami.com/media-events/
+- type: x-facebook
+  url: https://www.facebook.com/Imanami-108722089214693/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/imanami-corporation
+- type: x-partner
+  url: https://www.imanami.com/partners/
+- type: x-support
+  url: https://www.imanami.com/support/
+- type: x-support
+  url: http://support.imanami.com/hc/en-us/requests/new
+- type: x-support
+  url: http://support.imanami.com/hc/en-us/community/topics
+- type: x-support
+  url: https://www.imanami.com/support/support-lifecycle/
+- type: x-support
+  url: https://www.imanami.com/support/support-options/
+- type: x-support
+  url: https://support.imanami.com/hc/en-us/requests/new
+- type: x-support
+  url: https://support.imanami.com/hc/en-us
+- type: x-support
+  url: http://www.imanami.com/support/support-lifecycle/
+- type: x-support
+  url: http://www.imanami.com/support/support-options/
+- type: x-support
+  url: https://support.imanami.com/hc/en-us/community/topics
+- type: x-twitter
+  url: https://twitter.com/Imanami
+- type: x-website
+  url: https://www.imanami.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

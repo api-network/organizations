@@ -1,0 +1,40 @@
+---
+name: Prevalent Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/prevalent-software.yaml
+tags:
+- Document Imaging
+apis: []
+x-common:
+- type: x-contact
+  url: https://prevasoft.com/contact-us/
+- type: x-facebook
+  url: http://facebook.com/prevasoft
+- type: x-feed
+  url: https://prevasoft.com/feed/
+- type: x-support
+  url: https://prevasoft.com/community-support/
+- type: x-support
+  url: https://prevasoft.com/services/product-support-2/
+- type: x-terms-of-service
+  url: https://prevasoft.com/terms-of-use/
+- type: x-twitter
+  url: http://twitter.com/prevalentsw
+- type: x-twitter
+  url: http://twitter.com/prevalentsw/
+- type: x-twitter
+  url: https://twitter.com/prevalentsw
+- type: x-website
+  url: https://prevasoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

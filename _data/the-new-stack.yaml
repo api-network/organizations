@@ -1,0 +1,167 @@
+---
+name: The New Stack
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "47669"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-new-stack.yaml
+tags:
+- Tech Blog
+- No API
+apis: []
+x-common:
+- type: x-website
+  url: http://thenewstack.io
+- type: x-blog-rss
+  url: http://thenewstack.io/rss-feeds
+- type: x-contact
+  url: https://thenewstack.io/about-and-contact-info/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/6611720
+- type: x-news
+  url: https://thenewstack.io/category/storage/
+- type: x-news
+  url: https://thenewstack.io/category/development/
+- type: x-news
+  url: https://thenewstack.io/category/cloud-services/
+- type: x-news
+  url: https://thenewstack.io/category/data/
+- type: x-news
+  url: https://thenewstack.io/category/machine-learning/
+- type: x-news
+  url: https://thenewstack.io/category/security/
+- type: x-news
+  url: https://thenewstack.io/category/ci-cd/
+- type: x-news
+  url: https://thenewstack.io/category/culture/
+- type: x-news
+  url: https://thenewstack.io/category/devops/
+- type: x-news
+  url: https://thenewstack.io/category/kubernetes/
+- type: x-news
+  url: https://thenewstack.io/category/monitoring/
+- type: x-news
+  url: https://thenewstack.io/category/service-mesh/
+- type: x-news
+  url: https://thenewstack.io/category/tools/
+- type: x-news
+  url: https://thenewstack.io/author/jennifer-riggins/
+- type: x-news
+  url: https://thenewstack.io/author/bart_copeland/
+- type: x-news
+  url: https://thenewstack.io/author/andrew-sullivan/
+- type: x-news
+  url: https://thenewstack.io/author/mike-melanson/
+- type: x-news
+  url: https://thenewstack.io/author/chip-childers/
+- type: x-news
+  url: https://thenewstack.io/author/pete-abrams/
+- type: x-news
+  url: https://thenewstack.io/observability-and-elk/
+- type: x-news
+  url: https://thenewstack.io/author/lawrence-hecht/
+- type: x-news
+  url: https://thenewstack.io/author/thomas-hatch/
+- type: x-news
+  url: https://thenewstack.io/author/joab/
+- type: x-news
+  url: https://thenewstack.io/author/alex/
+- type: x-news
+  url: https://thenewstack.io/author/bruce-gain/
+- type: x-news
+  url: https://thenewstack.io/author/bethan-vincent/
+- type: x-news
+  url: https://thenewstack.io/author/diego-oppenheimer/
+- type: x-news
+  url: https://thenewstack.io/author/kimberleymok/
+- type: x-news
+  url: https://thenewstack.io/category/technology/
+- type: x-news
+  url: https://thenewstack.io/author/destiny/
+- type: x-news
+  url: https://thenewstack.io/author/tns-staff/
+- type: x-news
+  url: https://thenewstack.io/author/jack-wallen/
+- type: x-news
+  url: https://thenewstack.io/author/janakiram/
+- type: x-news
+  url: https://thenewstack.io/author/matt-howard/
+- type: x-news
+  url: https://thenewstack.io/author/brian-levine/
+- type: x-news
+  url: https://thenewstack.io/author/arvind-gupta/
+- type: x-news
+  url: https://thenewstack.io/author/karen-bruner/
+- type: x-news
+  url: https://thenewstack.io/author/nico-meisenzahl/
+- type: x-news
+  url: https://www.thenewstack.io/newsletter-archive
+- type: x-news
+  url: https://thenewstack.io/sponsors/
+- type: x-news
+  url: https://thenewstack.io/disclosure-guidelines/
+- type: x-news
+  url: https://thenewstack.io/contributions/
+- type: x-news
+  url: https://www.facebook.com/thenewstack
+- type: x-news
+  url: http://thenewstack.io/rss-feeds
+- type: x-news
+  url: https://thenewstack.io/
+- type: x-news
+  url: https://thenewstack.io/ebooks/
+- type: x-news
+  url: https://thenewstack.io/ebooks/storage/
+- type: x-news
+  url: https://thenewstack.io/ebooks/devops/
+- type: x-news
+  url: https://thenewstack.io/ebooks/serverless/
+- type: x-news
+  url: https://thenewstack.io/ebooks/microservices/
+- type: x-news
+  url: https://thenewstack.io/ebooks/kubernetes/
+- type: x-news
+  url: https://thenewstack.io/ebooks/docker-and-containers/
+- type: x-news
+  url: https://thenewstack.io/podcasts/
+- type: x-news
+  url: https://thenewstack.io/podcasts/at-scale/
+- type: x-news
+  url: https://thenewstack.io/podcasts/analysts/
+- type: x-news
+  url: https://thenewstack.io/podcasts/context/
+- type: x-news
+  url: https://thenewstack.io/podcasts/makers/
+- type: x-news
+  url: https://thenewstack.io/events/
+- type: x-news
+  url: https://thenewstack.io/newsletter/
+- type: x-news
+  url: https://thenewstack.io/ebooks/machine-learning/
+- type: x-news
+  url: https://thenewstack.io/category/cloud-native/
+- type: x-news
+  url: https://thenewstack.io/category/containers/
+- type: x-news
+  url: https://thenewstack.io/category/edge-iot/
+- type: x-news
+  url: https://thenewstack.io/category/microservices/
+- type: x-news
+  url: https://thenewstack.io/category/networking/
+- type: x-news
+  url: https://thenewstack.io/category/serverless/
+- type: x-slideshare
+  url: http://www.slideshare.net/TheNewStack
+- type: x-twitter
+  url: https://twitter.com/thenewstack
+- type: x-website
+  url: http://thenewstack.io/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,48 @@
+---
+name: Neurotic Media
+description: We design and build custom, private label music services for retailers,
+  brand marketers, content owners and mobile operators.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/868-neurotic-media.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1595653"
+url: https://raw.githubusercontent.com/api-network/organizations/main/neurotic-media.yaml
+tags:
+- Shopping
+- Have API
+- Digital Media Marketing
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.neuroticmedia.com
+- type: x-website
+  url: https://www.neuroticmedia.com/
+- type: x-blog
+  url: https://www.neuroticmedia.com/blog/
+- type: x-blog-rss
+  url: http://www.neuroticmedia.com/feed
+- type: x-case-studies
+  url: https://www.neuroticmedia.com/case-studies/
+- type: x-contact
+  url: https://www.neuroticmedia.com/contact/
+- type: x-developers
+  url: https://www.neuroticmedia.com/api-developer-lab/
+- type: x-email
+  url: hello@neuroticmedia.com
+- type: x-email
+  url: partner@neuroticmedia.com
+- type: x-email
+  url: info@neuroticmedia.com
+- type: x-email
+  url: service@neuroticmedia.com
+- type: x-twitter
+  url: https://twitter.com/NeuroticMedia
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

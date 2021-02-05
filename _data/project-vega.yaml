@@ -1,0 +1,35 @@
+---
+name: Project VEGA
+description: 'VEGA Image Processing software with full support for 16-bit RGB image
+  processing. It is one of the best tools for noise reduction, image restoration,
+  edge detection, image sharpening, extraction of image details, super-resolution.
+  The presented algorithm can be applied in :  satellite imaging,  medical imaging,
+  graphic arts, etc.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/project-vega.yaml
+tags:
+- Unblur
+- Security
+- Satelite
+- Noise
+- Medical
+- Image Processing
+- Image Manipulation
+- Forensics
+- Filtering
+- 16bit RGB
+apis: []
+x-common:
+- type: x-website
+  url: https://img-service.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

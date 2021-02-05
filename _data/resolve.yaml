@@ -1,0 +1,56 @@
+---
+name: RESOLVE
+description: Public Education and Resolving Computer problems is our mission.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "406169"
+url: https://raw.githubusercontent.com/api-network/organizations/main/resolve.yaml
+tags:
+- Windows Operating System Support
+- Windows 7
+- Windows 10
+- Technical Support And Troubleshooting
+- Remove Computer Virus
+- Fix Computer Problems
+- Computer Virus
+- Computer Tutorials
+- Computer Problems
+apis: []
+x-common:
+- type: x-code
+  url: http://www.code.org/
+- type: x-news
+  url: http://www.cnet.com/rss/news/
+- type: x-security
+  url: https://resolvecomputer.com/security
+- type: x-security
+  url: http://ghostsecuritygroup.com/
+- type: x-tutorials
+  url: https://resolvecomputer.com/computer-tutorials
+- type: x-twitter
+  url: http://twitter.com/Resolvecompute1
+- type: x-twitter
+  url: http://twitter.com/F5Security
+- type: x-twitter
+  url: http://twitter.com/search?q=%23CordCutting
+- type: x-twitter
+  url: http://twitter.com/search?q=%23Windows7
+- type: x-twitter
+  url: http://twitter.com/search?q=%23Windows10
+- type: x-twitter
+  url: http://twitter.com/search?q=%23cryptojacking
+- type: x-twitter
+  url: http://twitter.com/search?q=%23Ransomware
+- type: x-twitter
+  url: http://twitter.com/Verge
+- type: x-website
+  url: https://www.resolvecomputer.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

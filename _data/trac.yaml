@@ -1,0 +1,22 @@
+---
+name: Trac
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "565865"
+url: https://raw.githubusercontent.com/api-network/organizations/main/trac.yaml
+tags:
+- Free
+apis: []
+x-common:
+- type: x-website
+  url: https://trac.edgewall.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

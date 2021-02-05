@@ -1,0 +1,36 @@
+---
+name: 'Subtext: Alarming Development'
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/subtext-alarming-development.yaml
+tags:
+- Visual
+apis: []
+x-common:
+- type: x-website
+  url: http://alarmingdevelopment.org
+- type: x-feed
+  url: https://alarmingdevelopment.org/?feed=rss2
+- type: x-feed
+  url: https://alarmingdevelopment.org/?feed=comments-rss2
+- type: x-login
+  url: https://alarmingdevelopment.org/wp-login.php
+- type: x-press
+  url: https://wordpress.org/
+- type: x-twitter
+  url: https://twitter.com/patrickc
+- type: x-twitter
+  url: https://twitter.com/@jonathoda
+- type: x-website
+  url: https://alarmingdevelopment.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

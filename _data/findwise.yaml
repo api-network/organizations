@@ -1,0 +1,40 @@
+---
+name: Findwise
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1843929"
+url: https://raw.githubusercontent.com/api-network/organizations/main/findwise.yaml
+tags:
+- Providers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.findwise.com
+- type: x-blog
+  url: http://www.findwise.com/blog/
+- type: x-blog
+  url: https://findwise.com/blog/
+- type: x-careers
+  url: http://career.findwise.com/jobs/2110-exjobb-goteborg
+- type: x-careers
+  url: http://career.findwise.com/jobs
+- type: x-facebook
+  url: https://www.facebook.com/Findwise
+- type: x-linkedin
+  url: https://www.linkedin.com/company/findwise-ab
+- type: x-privacy
+  url: https://findwise.com/en/privacy-policy
+- type: x-twitter
+  url: https://twitter.com/Findwise
+- type: x-website
+  url: https://www.findwise.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

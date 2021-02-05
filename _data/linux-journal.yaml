@@ -1,0 +1,32 @@
+---
+name: Linux Journal
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "87727"
+url: https://raw.githubusercontent.com/api-network/organizations/main/linux-journal.yaml
+tags:
+- Magazines And E-zines
+apis: []
+x-common:
+- type: x-website
+  url: http://www.LinuxJournal.com
+- type: x-events
+  url: https://events.drupal.org/minneapolis2020
+- type: x-facebook
+  url: https://www.facebook.com/linuxjournal/
+- type: x-twitter
+  url: https://twitter.com/linuxjournal
+- type: x-website
+  url: https://linuxjournal.com
+- type: x-youtube
+  url: https://youtube.com/linuxjournalonline
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

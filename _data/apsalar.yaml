@@ -1,0 +1,53 @@
+---
+name: Apsalar
+description: The world's top marketers at companies like Lyft, LinkedIn, Rovio and
+  Microsoft use Singular to unify marketing data, apply attribution, and expose performance
+  insights needed to drive growth.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/690-apsalar.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "338629"
+url: https://raw.githubusercontent.com/api-network/organizations/main/apsalar.yaml
+tags: []
+apis: []
+x-common:
+- type: x-about
+  url: https://apsalar.com/about/
+- type: x-blog
+  url: http://apsalar.com/blog/
+- type: x-blog
+  url: https://apsalar.com/blog/
+- type: x-blog-rss
+  url: http://apsalar.com/feed/
+- type: x-careers
+  url: https://apsalar.com/careers/
+- type: x-contact
+  url: https://apsalar.com/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/apsalar
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/apsalar
+- type: x-facebook
+  url: https://www.facebook.com/apsalarinc
+- type: x-linkedin
+  url: https://www.linkedin.com/company/apsalar
+- type: x-press
+  url: https://apsalar.com/press/
+- type: x-press
+  url: https://apsalar.com/press/in-the-news/
+- type: x-press
+  url: https://apsalar.com/press/press-releases/
+- type: x-support
+  url: http://support.apsalar.com/
+- type: x-twitter
+  url: https://twitter.com/apsalarinc
+- type: x-website
+  url: http://apsalar.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

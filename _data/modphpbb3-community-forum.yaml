@@ -1,0 +1,22 @@
+---
+name: ModphpBB3 Community Forum
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/modphpbb3-community-forum.yaml
+tags:
+- PhpBB
+apis: []
+x-common:
+- type: x-website
+  url: https://www.modphpbb3.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

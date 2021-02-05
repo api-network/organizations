@@ -1,0 +1,40 @@
+---
+name: DNS & BIND Resources
+description: DNS, BIND, DHCP, LDAP and Directory Services
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5951942"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dns-bind-resources.yaml
+tags:
+- Rndc
+- Nameserver
+- Named
+- LDAP
+- Isc Bind
+- Epp
+- Domain Registration
+- Domain Name System
+- Dns Server
+- DNS
+- Dig
+- DHCP
+- Bind9
+- Bind8
+- Bind Manual
+- Bind 9
+- Bind 8
+apis: []
+x-common:
+- type: x-security
+  url: http://www.securitybooks.org/
+- type: x-website
+  url: https://www.bind9.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

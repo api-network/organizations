@@ -1,0 +1,43 @@
+---
+name: CSH Computer Services
+description: Computer Services for Homes and Businesses in Leicestershire, based near
+  Hinckley and Lutterworth. The mobile computer shop - no call out charge. 01455 209505.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/csh-computer-services.yaml
+tags:
+- Repair
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cshcomputerservices.com
+- type: x-about
+  url: https://www.cshcomputerservices.com/about-us/
+- type: x-blog
+  url: https://www.cshcomputerservices.com/blog/
+- type: x-contact
+  url: https://www.cshcomputerservices.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/CSHCompServices/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/723213
+- type: x-plans
+  url: https://www.cshcomputerservices.com/service-plans-2/
+- type: x-privacy
+  url: https://www.cshcomputerservices.com/privacy/
+- type: x-support
+  url: https://www.cshcomputerservices.com/network-support-2/
+- type: x-twitter
+  url: https://twitter.com/CSHCompServices
+- type: x-website
+  url: https://www.cshcomputerservices.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

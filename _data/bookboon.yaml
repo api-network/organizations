@@ -1,0 +1,32 @@
+---
+name: Bookboon
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "41185"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bookboon.yaml
+tags:
+- Titles
+apis: []
+x-common:
+- type: x-blog
+  url: https://bookboon.com/blog
+- type: x-blog
+  url: https://bookboon.com/blog/en/bookboon-com/faq
+- type: x-contact
+  url: https://bookboon.com/blog/en/bookboon-com/contact
+- type: x-gdpr
+  url: https://bookboon.com/blog/en/about-the-website/gdpr
+- type: x-pricing
+  url: http://bookboonglobal.com/pricing/
+- type: x-website
+  url: https://bookboon.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

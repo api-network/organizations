@@ -1,0 +1,40 @@
+---
+name: Netscape Internet Service
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "341067"
+url: https://raw.githubusercontent.com/api-network/organizations/main/netscape-internet-service.yaml
+tags:
+- Web Portals
+apis: []
+x-common:
+- type: x-about
+  url: https://adinfo.aol.com/about-our-ads/
+- type: x-blog
+  url: https://www.autoblog.com/
+- type: x-careers
+  url: https://www.aol.com/careers/
+- type: x-contact
+  url: https://isp.netscape.com/help/contact.jsp
+- type: x-privacy
+  url: http://privacy.aol.com/
+- type: x-privacy
+  url: https://guce.aol.com/privacy-dashboard?locale=en-US
+- type: x-support
+  url: https://help.aol.com/
+- type: x-support
+  url: https://isp.netscape.com/help/
+- type: x-terms-of-service
+  url: http://legal.aol.com/TOS/
+- type: x-website
+  url: https://isp.netscape.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

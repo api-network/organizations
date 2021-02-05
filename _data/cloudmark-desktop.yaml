@@ -1,0 +1,67 @@
+---
+name: Cloudmark Desktop
+description: "Cloudmark is a trusted leader in intelligent threat protection against
+  known and future attacks, safeguarding 12 percent of the world\u2019s inboxes from
+  wide-scale and targeted email threats."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "212214"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cloudmark-desktop.yaml
+tags:
+- Spam Filtering
+- Software
+apis: []
+x-common:
+- type: x-about
+  url: https://www.proofpoint.com/us/company/about
+- type: x-about
+  url: https://www.cloudmark.com/en/s/about
+- type: x-about
+  url: https://www.cloudmark.com/en/s/about/management-team
+- type: x-blog
+  url: https://blog.cloudmark.com
+- type: x-blog
+  url: https://blog.cloudmark.com/2019/03/04/sms-sex-scams/
+- type: x-blog
+  url: http://blog.cloudmark.com
+- type: x-careers
+  url: https://www.proofpoint.com/us/company/careers
+- type: x-case-studies
+  url: https://www.cloudmark.com/en/s/resources/casestudies
+- type: x-contact
+  url: https://www.cloudmark.com/en/contact
+- type: x-events
+  url: https://www.cloudmark.com/en/events
+- type: x-feed
+  url: http://blog.cloudmark.com/feed/
+- type: x-news
+  url: https://www.cloudmark.com/en/s/news
+- type: x-partner
+  url: https://www.cloudmark.com/en/s/about/partners
+- type: x-partner
+  url: https://www.cloudmark.com/en/partners
+- type: x-partner
+  url: https://www.cloudmark.com/en/partners/find
+- type: x-partner
+  url: https://www.cloudmark.com/en/partner-portal
+- type: x-partner
+  url: https://www.cloudmark.com/en/partners/access
+- type: x-support
+  url: https://www.cloudmark.com/en/support
+- type: x-terms-of-service
+  url: https://www.cloudmark.com/en/s/legal
+- type: x-webinars
+  url: https://www.cloudmark.com/en/s/resources/webinars
+- type: x-website
+  url: https://www.cloudmark.com
+- type: x-white-papers
+  url: https://www.cloudmark.com/en/s/resources/whitepapers
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

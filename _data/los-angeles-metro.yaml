@@ -1,0 +1,51 @@
+---
+name: Los Angeles Metro
+description: Your train, bike, bus, vanpool, express lanes, commute-saving, LA-loving
+  agency.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/11672-metro-developer.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "62352"
+url: https://raw.githubusercontent.com/api-network/organizations/main/los-angeles-metro.yaml
+tags:
+- Have API
+- Buses
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.metro.net/service/advisories/
+- type: x-developer
+  url: https://developer.metro.net/gtfs-schedule-data/
+- type: x-developer
+  url: https://developer.metro.net/apis/
+- type: x-developer
+  url: https://developer.metro.net/
+- type: x-developer
+  url: https://developer.metro.net/portfolio-item/gis-data/
+- type: x-documentation
+  url: http://developer.metro.net/docs/
+- type: x-email
+  url: customerrelations@metro.net
+- type: x-feed
+  url: https://developer.metro.net/feed/
+- type: x-feed
+  url: https://developer.metro.net/comments/feed/
+- type: x-login
+  url: https://developer.metro.net/wp-login.php
+- type: x-blog-rss
+  url: http://developer.metro.net/feed/atom/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-twitter
+  url: https://twitter.com/metrolaalerts
+- type: x-website
+  url: https://developer.metro.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

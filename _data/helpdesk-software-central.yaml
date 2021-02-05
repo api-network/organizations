@@ -1,0 +1,29 @@
+---
+name: Helpdesk software central
+description: Hard drive recovery service provider offering hard drive repair, RAID
+  array recovery, and mac data recovery services.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/helpdesk-software-central.yaml
+tags:
+- Raid Recovery
+- Mac Data Recovery
+- Hdd Recovery
+- Hard Drive Recovery
+- Hard Drive Data Recovery
+- Hard Disk Repair
+- Directories
+apis: []
+x-common:
+- type: x-website
+  url: https://www.helpdesksoftwarecentral.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

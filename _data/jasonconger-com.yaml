@@ -1,0 +1,46 @@
+---
+name: JasonConger.com
+description: Cloud, Big Data, Virtualization
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jasonconger-com.yaml
+tags:
+- Thin Clients
+apis: []
+x-common:
+- type: x-website
+  url: http://www.shawnbass.com
+- type: x-about
+  url: http://jasonconger.com/about
+- type: x-blog
+  url: http://www.thinclient.net/blog/?p=473
+- type: x-feed
+  url: https://jasonconger.com/feed/
+- type: x-feed
+  url: https://jasonconger.com/comments/feed/
+- type: x-github
+  url: https://github.com/JasonConger
+- type: x-github
+  url: http://github.com/JasonConger
+- type: x-github
+  url: https://github.com/JasonConger/SplunkOctoblu
+- type: x-login
+  url: https://jasonconger.com/wp-login.php
+- type: x-press
+  url: https://wordpress.org/
+- type: x-twitter
+  url: http://twitter.com/JasonConger
+- type: x-twitter
+  url: https://twitter.com/shawnbass
+- type: x-website
+  url: https://www.jasonconger.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,37 @@
+---
+name: MuckRock
+description: <p>MuckRock is a collaborative news site that brings together journalists,
+  researchers, activists, and regular citizens to request, analyze &amp; share government
+  documents, making politics more transparent and democracies more informed. The site
+  provides a repository of hundreds of thousands of pages of original government materials,
+  information on how to file requests, and tools to make the requesting process easier.
+  In addition, MuckRock staff and outside contributors do original reporting and analysis
+  of many of the documents received through the site. MuckRock's unique form of investigative
+  and accountability journalism has been recognized by the Sunlight Foundation, The
+  Freedom of the Press Foundation, and hundreds of local and national news outlets
+  for its groundbreaking work in areas such as government spending, surveillance,
+  and public safety.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/muckrock_medium.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "232076"
+url: https://raw.githubusercontent.com/api-network/organizations/main/muckrock.yaml
+tags:
+- Have API
+- FOIA
+apis: []
+x-common:
+- type: x-website
+  url: https://muckrock.com
+- type: x-twitter
+  url: https://twitter.com/muckrock
+- type: x-website
+  url: https://www.muckrock.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

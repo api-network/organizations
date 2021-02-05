@@ -1,0 +1,31 @@
+---
+name: GameCredits
+description: Game Payment Platform.    The Game Credits Team have begun specifying
+  and sponsoring the creation of a new Game Payment Platform.    This platform will
+  provide a simple and familiar gateway to cryptographic payments for Gamers and Game
+  Developers alike...
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26684-gamecredits-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "175639"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gamecredits.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://gamecredits.org
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/gamecredits
+- type: x-twitter
+  url: https://twitter.com/gamecredits
+- type: x-website
+  url: http://gamecredits.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

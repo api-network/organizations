@@ -1,0 +1,61 @@
+---
+name: PayPlug
+description: "Acceptez les paiements par carte avec PayPlug, solution de paiement
+  en ligne 100% con\uFFFDue pour les PME. Integration simple et rapide, sans frais
+  d'installation."
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28299-www-payplug-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "110344"
+url: https://raw.githubusercontent.com/api-network/organizations/main/payplug.yaml
+tags:
+- Payments
+- Have API
+apis: []
+x-common:
+- type: x-about
+  url: https://www.payplug.com/about
+- type: x-careers
+  url: https://www.payplug.com/jobs
+- type: x-contact
+  url: https://www.payplug.com/contact
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/payplug
+- type: x-customers
+  url: https://www.payplug.com/our-customers
+- type: x-customers
+  url: https://www.payplug.com/our-customers?hsLang=en
+- type: x-documentation
+  url: https://docs.payplug.com/api/
+- type: x-facebook
+  url: https://www.facebook.com/PayPlug
+- type: x-linkedin
+  url: https://linkedin.com/company/payplug
+- type: x-login
+  url: https://portal.payplug.com/login
+- type: x-plugins
+  url: https://www.payplug.com/our-plugins
+- type: x-pricing
+  url: https://www.payplug.com/pricing
+- type: x-privacy
+  url: https://www.payplug.com/privacy-policy
+- type: x-signup
+  url: https://portal.payplug.com/signup
+- type: x-status
+  url: http://status.payplug.com/
+- type: x-support
+  url: http://support.payplug.com/customer/en/portal/articles
+- type: x-terms-of-service
+  url: https://www.payplug.com/legal-notices
+- type: x-twitter
+  url: https://twitter.com/payplug
+- type: x-website
+  url: https://www.payplug.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

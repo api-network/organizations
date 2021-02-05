@@ -1,0 +1,47 @@
+---
+name: 360logica.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "163795"
+url: https://raw.githubusercontent.com/api-network/organizations/main/360logica-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-blog
+  url: http://360logica.com/blog/
+- type: x-press
+  url: http://www.360logica.com/insight/press-releases/
+- type: x-website
+  url: http://www.360logica.com
+- type: x-curated-source
+  url: http://www.360logica.com/insight/blog/api-software-testing/
+- type: x-website
+  url: http://360logica.com
+- type: x-about
+  url: https://www.360logica.com/company/about-us/
+- type: x-blog
+  url: https://www.360logica.com/blog/
+- type: x-careers
+  url: https://www.360logica.com/company/careers/
+- type: x-case-studies
+  url: https://www.360logica.com/offering/case-studies/
+- type: x-contact
+  url: https://www.360logica.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/360logica/
+- type: x-partner
+  url: https://www.360logica.com/company/partners/
+- type: x-twitter
+  url: https://twitter.com/360logica
+- type: x-youtube
+  url: https://www.youtube.com/user/360logica
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

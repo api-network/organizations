@@ -1,0 +1,42 @@
+---
+name: Docklight
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1627390"
+url: https://raw.githubusercontent.com/api-network/organizations/main/docklight.yaml
+tags:
+- Testing And Tools
+apis: []
+x-common:
+- type: x-contact
+  url: https://docklight.de/contact/
+- type: x-contact
+  url: http://docklight.de/contact/
+- type: x-login
+  url: https://docklight.de/wp-login.php
+- type: x-news
+  url: https://docklightnews.blogspot.de/
+- type: x-press
+  url: http://docklight.de/impressum/
+- type: x-privacy
+  url: http://docklight.de/data-privacy-policy/
+- type: x-support
+  url: https://docklight.de/support/
+- type: x-support
+  url: http://docklight.de/support/
+- type: x-terms-of-service
+  url: https://order.shareit.com/info/legal_notice
+- type: x-twitter
+  url: http://www.twitter.com/
+- type: x-website
+  url: https://www.docklight.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

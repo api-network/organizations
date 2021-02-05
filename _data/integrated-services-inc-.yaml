@@ -1,0 +1,41 @@
+---
+name: Integrated Services, Inc.
+description: "Industry-leading Fast Lube Management System. Featuring LubeSoft\xAE,
+  Modulube\xAE"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2890995"
+url: https://raw.githubusercontent.com/api-network/organizations/main/integrated-services-inc-.yaml
+tags:
+- Point Of Sale
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ints.com
+- type: x-contact
+  url: https://www.ints.com/contact
+- type: x-events
+  url: https://www.ints.com/category/events-tradeshows
+- type: x-news
+  url: https://www.ints.com/category/news-announcements
+- type: x-partner
+  url: https://www.ints.com/company/partners
+- type: x-pricing
+  url: https://www.ints.com/pricing-request
+- type: x-support
+  url: https://www.ints.com/support
+- type: x-terms-of-service
+  url: https://www.ints.com/terms-conditions
+- type: x-twitter
+  url: http://twitter.com/IntegratedSrvcs
+- type: x-website
+  url: https://www.ints.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,54 @@
+---
+name: commzGATE SMS Application Ser vers
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "982186"
+url: https://raw.githubusercontent.com/api-network/organizations/main/commzgate-sms-application-ser-vers.yaml
+tags:
+- Servers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.commzgate.sg
+- type: x-about
+  url: http://www.commzgate.com/page/about-us
+- type: x-about
+  url: http://www.commzgate.com/page/about-us#office
+- type: x-about
+  url: http://www.commzgate.com/page/about-us#office-sg
+- type: x-careers
+  url: http://www.commzgate.com/page/jobs
+- type: x-contact
+  url: http://www.commzgate.com/page/about-us#contact
+- type: x-developer
+  url: http://developer.commzgate.com
+- type: x-facebook
+  url: http://www.facebook.com/commzgateSG
+- type: x-pricing
+  url: http://www.commzgate.com/page/cloud-pricing
+- type: x-pricing
+  url: http://www.commzgate.com/page/mach-pricing
+- type: x-privacy
+  url: http://www.commzgate.com/page/privacy-policy
+- type: x-signup
+  url: http://portal.commzgate.com/app/signup.php
+- type: x-support
+  url: http://support.commzgate.com/
+- type: x-support
+  url: http://support.commzgate.com/anonymous_requests/new
+- type: x-support
+  url: http://support.commzgate.com/access
+- type: x-twitter
+  url: http://www.twitter.com/commzgateSG
+- type: x-website
+  url: https://www.commzgate.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

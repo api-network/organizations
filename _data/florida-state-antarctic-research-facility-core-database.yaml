@@ -1,0 +1,53 @@
+---
+name: Florida State Antarctic Research Facility Core Database
+description: <p>I just found the one arctic research API at Florida State University,
+  but it is a sign there is more, and now they are on my radar. I think that Florida
+  State University reflects another trend I'm seeing with APIs being born out of university
+  research.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/florida-state-university.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "6422"
+url: https://raw.githubusercontent.com/api-network/organizations/main/florida-state-antarctic-research-facility-core-database.yaml
+tags:
+- University Science
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.fsu.edu
+- type: x-about
+  url: http://about.research.fsu.edu/
+- type: x-careers
+  url: https://jobs.fsu.edu/
+- type: x-developers
+  url: http://arf.fsu.edu/coresdb/docs
+- type: x-facebook
+  url: https://www.facebook.com/floridastate
+- type: x-instagram
+  url: https://instagram.com/floridastateuniversity/
+- type: x-linkedin
+  url: https://www.linkedin.com/edu/school?id=18100
+- type: x-news
+  url: https://news.fsu.edu/
+- type: x-news
+  url: https://news.fsu.edu/for-journalists/media-resources/
+- type: x-news
+  url: https://news.fsu.edu/student-stars/
+- type: x-support
+  url: https://servicecenter.fsu.edu/university-help-desks
+- type: x-twitter
+  url: https://twitter.com/floridastate
+- type: x-website
+  url: http://www.fsu.edu/
+- type: x-youtube
+  url: https://www.youtube.com/FloridaState
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

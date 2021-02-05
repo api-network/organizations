@@ -1,0 +1,37 @@
+---
+name: Computer Lab International (CLI)
+description: Computer Lab International Home Page.  Thin Clients are what we do and
+  all that we do.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/computer-lab-international-cli.yaml
+tags:
+- Thin Clients
+- Thin Client
+- Android
+apis: []
+x-common:
+- type: x-contact
+  url: http://computerlab.com/index.php/contact-sales
+- type: x-facebook
+  url: https://www.facebook.com/computerlabinternational
+- type: x-linkedin
+  url: https://www.linkedin.com/company/316056/
+- type: x-partner
+  url: https://computerlab.com/index.php/sales/partnerplus
+- type: x-support
+  url: http://support.computerlab.com/
+- type: x-twitter
+  url: https://twitter.com/CLI_ComputerLab
+- type: x-website
+  url: https://www.computerlab.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

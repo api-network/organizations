@@ -1,0 +1,48 @@
+---
+name: DALnet
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "448828"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dalnet.yaml
+tags:
+- Networks
+apis: []
+x-common:
+- type: x-code
+  url: https://www.dal.net/?page=coders
+- type: x-contact
+  url: https://www.dal.net/contact/
+- type: x-contact
+  url: https://www.dal.net/contact/contacthc.php
+- type: x-contact
+  url: https://www.dal.net/contact/contactmassads.php
+- type: x-contact
+  url: https://www.dal.net/contact/contactweb.php
+- type: x-documentation
+  url: https://www.dal.net/?page=documentation-team
+- type: x-documentation
+  url: http://docs.dal.net
+- type: x-news
+  url: https://www.dal.net/news/
+- type: x-news
+  url: https://www.dal.net/news/shownews.php?id=169
+- type: x-news
+  url: https://www.dal.net/news/shownews.php?id=168
+- type: x-news
+  url: https://www.dal.net/news/shownews.php?id=167
+- type: x-support
+  url: https://www.dal.net/?page=help
+- type: x-support
+  url: http://help.dal.net
+- type: x-website
+  url: https://www.dal.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

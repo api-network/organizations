@@ -1,0 +1,52 @@
+---
+name: Datasmith Payroll Central
+description: |-
+  Brochure and downloadable payroll
+        program demos, tax forms, product support info, tax calculator,
+        windows 95/98/NT/2000/XP setup tips.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/datasmith-payroll-central.yaml
+tags:
+- Withholding
+- W-2
+- Tax
+- Personnel
+- Payroll
+- |-
+  Payroll
+        Software
+- Micr
+- Magnetic Media Filing
+- Laser W-2
+- |-
+  Laser
+        Check
+- Job Cost
+- |-
+  Earned Income
+        Credit
+- Direct Deposit
+- Deduction
+- Calculator
+- "941"
+apis: []
+x-common:
+- type: x-press
+  url: http://www.pressurecentral.com/index.htm
+- type: x-support
+  url: https://www.datasmithpayroll.com/support/supptpw.htm
+- type: x-support
+  url: https://www.datasmithpayroll.com/support/lsrtest.htm
+- type: x-website
+  url: https://www.datasmithpayroll.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

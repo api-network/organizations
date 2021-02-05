@@ -1,0 +1,45 @@
+---
+name: Arbutus Software
+description: What makes Arbutus different? Why 1000's of users in 60+ countries rely
+  on Arbutus Software? Experience the Arbutus platform for yourself!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1674960"
+url: https://raw.githubusercontent.com/api-network/organizations/main/arbutus-software.yaml
+tags:
+- Middleware
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ArbutusAnalytics.com
+- type: x-careers
+  url: https://www.arbutussoftware.com/company/careers
+- type: x-contact
+  url: https://www.arbutussoftware.com/company/contact-us
+- type: x-customers
+  url: https://www.arbutussoftware.com/company/customers
+- type: x-forum
+  url: http://forum.arbutussoftware.com/
+- type: x-partner
+  url: https://www.arbutussoftware.com/partners
+- type: x-privacy
+  url: https://www.arbutussoftware.com/privacy-policy
+- type: x-support
+  url: https://www.arbutussoftware.com/support
+- type: x-support
+  url: https://www.arbutussoftware.com/support/downloads
+- type: x-terms-of-service
+  url: https://www.arbutussoftware.com/terms-of-use
+- type: x-twitter
+  url: https://twitter.com/arbutussoftware
+- type: x-website
+  url: https://www.arbutussoftware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,29 @@
+---
+name: CCH ProSystem fx
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "923792"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cch-prosystem-fx.yaml
+tags:
+- Sales And Use Tax
+- Corporate Tax
+apis: []
+x-common:
+- type: x-privacy
+  url: https://support.cch.com/privacy/default.aspx
+- type: x-support
+  url: http://support.cch.com
+- type: x-website
+  url: https://prosystemfxsupport.tax.cchgroup.com
+- type: x-website
+  url: https://tax.cchgroup.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

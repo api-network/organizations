@@ -1,0 +1,55 @@
+---
+name: Domaining.com
+description: Domaining is the business of making money with internet domain names.
+  Find out here the latest news and views about the domain industry.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "56541"
+url: https://raw.githubusercontent.com/api-network/organizations/main/domaining-com.yaml
+tags:
+- Resources
+- Domains
+- Domaining
+- Domainers
+- Domainer
+- Domain News
+- Domain Names
+- Domain Name News
+- Domain Name Industry
+- Domain Name
+- Domain Industry
+apis: []
+x-common:
+- type: x-feed
+  url: https://www.domaining.com/feed/morganlinton/
+- type: x-feed
+  url: https://www.domaining.com/feed/onlinedomain/
+- type: x-feed
+  url: https://www.domaining.com/feed/domain-name-wire/
+- type: x-feed
+  url: https://www.domaining.com/feed/the-domains/
+- type: x-feed
+  url: https://www.domaining.com/feed/domaining-tips/
+- type: x-feed
+  url: https://www.domaining.com/feed/domaingang/
+- type: x-feed
+  url: https://www.domaining.com/feed/uniregistry/
+- type: x-feed
+  url: https://www.domaining.com/feed/domainincite/
+- type: x-investor
+  url: https://www.domaining.com/feed/tldinvestors/
+- type: x-news
+  url: http://www.domaining.com/newsletter/
+- type: x-twitter
+  url: http://www.twitter.com/domainingcom/
+- type: x-website
+  url: https://www.domaining.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

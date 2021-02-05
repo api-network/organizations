@@ -1,0 +1,48 @@
+---
+name: Bricks and Beams eCrater Store
+description: At Bricks and Beams we sell a wide variety of new and used items including
+  Lego Bionicle (New and Used), Lego Star Wars (New and Used), Mega Blok ProBuilder,
+  Vintage Computing (Vintage Software, Games, Computers), Vintage Video Games and
+  Consoles, Collectible Model RR Trains and Sets, and much more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bricks-and-beams-ecrater-store.yaml
+tags:
+- Vintage Video Games
+- Vintage Software
+- Vintage Models
+- Vintage Keyboards
+- Used Lego
+- Tsr
+- Top Secret
+- Retrocomputing
+- New Lego
+- Nerd Gifts
+- Lego Bionicle
+- Lego
+- Intellivision
+- Geek Gifts
+- Dbase
+- Bionicle Toys
+apis: []
+x-common:
+- type: x-about
+  url: https://bricksandbeams.ecrater.com/about.php
+- type: x-contact
+  url: https://bricksandbeams.ecrater.com/contact.php
+- type: x-support
+  url: https://bricksandbeams.ecrater.com/help.php
+- type: x-terms-of-service
+  url: https://bricksandbeams.ecrater.com/terms.php
+- type: x-website
+  url: https://bricksandbeams.ecrater.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

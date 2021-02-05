@@ -1,0 +1,54 @@
+---
+name: Wave Arts
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "614011"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wave-arts.yaml
+tags:
+- Plug-ins
+apis: []
+x-common:
+- type: x-website
+  url: http://wavearts.com
+- type: x-about
+  url: https://wavearts.com/about/
+- type: x-about
+  url: https://wavearts.com/about/artists/
+- type: x-contact
+  url: https://wavearts.com/contact/
+- type: x-contact
+  url: https://wavearts.com/contact/#contact_form
+- type: x-contact
+  url: https://wavearts.com/contact/#mailing_list
+- type: x-contact
+  url: https://wavearts.com/contact/#address
+- type: x-news
+  url: https://wavearts.com/about/news/
+- type: x-news
+  url: https://wavearts.com/about/news/mojave-support/
+- type: x-press
+  url: https://wavearts.com/about/press/
+- type: x-support
+  url: https://wavearts.com/support/
+- type: x-support
+  url: https://wavearts.com/support/faq/category/purchasing/
+- type: x-support
+  url: https://wavearts.com/support/faq/category/panorama/
+- type: x-support
+  url: https://wavearts.com/support/videos/
+- type: x-support
+  url: https://wavearts.com/support/registration/
+- type: x-twitter
+  url: http://twitter.com/#!/Wave_Arts
+- type: x-website
+  url: https://www.wavearts.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

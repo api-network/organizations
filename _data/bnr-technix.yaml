@@ -1,0 +1,25 @@
+---
+name: BnR Technix
+description: BnR technix has how to linux guides as well Live USB STicks preinstalled
+  with any OS! shop today!
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27401-www-bnrtx-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "4753119"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bnr-technix.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/bnrtx
+- type: x-website
+  url: http://www.bnrtx.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

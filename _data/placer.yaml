@@ -1,0 +1,57 @@
+---
+name: Placer
+description: Placer provides instant access to location insights derived from foot-traffic
+  of millions of consumers, delivering visibility into offline behavior. Our highly
+  efficient SDK runs 24/7 in the background, identifying location visits while consuming
+  less ...
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28802-www-placer-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/placer.yaml
+tags:
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: https://www.placer.ai/
+- type: x-about
+  url: https://www.placer.ai/company/about-us/
+- type: x-blog
+  url: https://www.placer.ai/blog/
+- type: x-contact
+  url: https://www.placer.ai/company/about-us/#contact
+- type: x-contact
+  url: https://www.placer.ai/company/about-us/#contact-us
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/placer-labs-inc
+- type: x-developer
+  url: https://www.placer.ai/products/api/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/placer/
+- type: x-login
+  url: https://analytics.placer.ai/#!/pages/signin
+- type: x-press
+  url: https://www.placer.ai/resources/press/
+- type: x-pricing
+  url: https://www.placer.ai/pricing/
+- type: x-privacy
+  url: https://www.placer.ai/privacy-policy/
+- type: x-signup
+  url: https://analytics.placer.ai/#!/pages/signup
+- type: x-status
+  url: https://www.placer.ai/system-status/
+- type: x-terms-of-service
+  url: https://www.placer.ai/terms-of-service/
+- type: x-twitter
+  url: https://twitter.com/placer_ai
+- type: x-website
+  url: https://www.placer.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,40 @@
+---
+name: HotLinuxJobs.Com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hotlinuxjobs-com.yaml
+tags:
+- Employment
+apis: []
+x-common:
+- type: x-careers
+  url: http://blog.hotlinuxjobs.com
+- type: x-careers
+  url: http://hotlinuxjobs.com/jobslist.php
+- type: x-careers
+  url: http://www.cafeshops.com/hotlinuxjobs
+- type: x-careers
+  url: http://www.hotlinuxjobs.com/certification.php
+- type: x-careers
+  url: http://www.hotlinuxjobs.com/jobtipsarchive.php
+- type: x-careers
+  url: http://www.hotlinuxjobs.com
+- type: x-careers
+  url: http://www.rubyonrailsjobs.com
+- type: x-news
+  url: http://www.hotlinuxjobs.com/newsarchive.php
+- type: x-news
+  url: http://linuxworld.com.au/news.php3?nid=2137&tid=1
+- type: x-website
+  url: https://www.hotlinuxjobs.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

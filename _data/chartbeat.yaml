@@ -1,0 +1,60 @@
+---
+name: Chartbeat
+description: Improve audience engagement, inform editorial decisions, and increase
+  readership. Chartbeat delivers real-time analytics, content intelligence, and transformative
+  newsroom tools for digital media and publishing companies around the world.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28952-support-chartbeat-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "11567"
+url: https://raw.githubusercontent.com/api-network/organizations/main/chartbeat.yaml
+tags:
+- Has API
+apis: []
+x-common:
+- type: x-website
+  url: http://chartbeat.com
+- type: x-about
+  url: http://chartbeat.com/about
+- type: x-blog
+  url: http://blog.chartbeat.com/
+- type: x-careers
+  url: http://chartbeat.com/careers
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/chartbeat
+- type: x-email
+  url: hello@chartbeat.com
+- type: x-email
+  url: support@chartbeat.com
+- type: x-email
+  url: privacy@chartbeat.com
+- type: x-email
+  url: legal@chartbeat.com
+- type: x-email
+  url: insights@chartbeat.com
+- type: x-facebook
+  url: https://www.facebook.com/chartbeat
+- type: x-linkedin
+  url: https://www.linkedin.com/company/chartbeat.com
+- type: x-press
+  url: http://chartbeat.com/press
+- type: x-privacy
+  url: http://chartbeat.com/privacy
+- type: x-status
+  url: http://status.chartbeat.com
+- type: x-terms-of-service
+  url: http://chartbeat.com/terms
+- type: x-twitter
+  url: http://twitter.com/chartcorps
+- type: x-twitter
+  url: https://twitter.com/Chartbeat
+- type: x-website
+  url: http://support.chartbeat.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

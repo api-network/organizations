@@ -1,0 +1,25 @@
+---
+name: Advox Omnigate 6
+description: "Advox SMS tj\xE4nster och SMS produkter. Skicka SMS fr\xE5n ert It-system
+  och e-postsystem. V\xE5ra SMS tj\xE4nster fungerar med Mitel CMG, Microsoft Outlook
+  och webbsystem. Advox kan \xE4ven hj\xE4lpa med att anpassa ert system f\xF6r till
+  exempel dubelriktad SMS kommunikation."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/advox-omnigate-6.yaml
+tags:
+- Mail
+apis: []
+x-common:
+- type: x-website
+  url: https://www.advox.se
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

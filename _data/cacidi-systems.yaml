@@ -1,0 +1,58 @@
+---
+name: Cacidi Systems
+description: Cacidi are the easy and smart way of creating InDesign Jobs, with Extreme
+  creativity and a Live connection to your data. When Mail Merge or Data Merge is'n
+  enough
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2770754"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cacidi-systems.yaml
+tags:
+- XML
+- ODBC
+- MySQL
+- Marketing Portal
+- Indesign Plugin
+- Database Connectivity
+- Companies
+- Catalogue Production
+- Barcodes
+- Automation Server
+- AdBuilder
+apis: []
+x-common:
+- type: x-code
+  url: https://www.cacidi.com/products/cacidi-barcodes-cc/
+- type: x-contact
+  url: https://www.cacidi.com/contact/
+- type: x-contact
+  url: https://www.cacidi.com/contact/#comment-829
+- type: x-contact
+  url: https://www.cacidi.com/contact/#comment-828
+- type: x-contact
+  url: https://www.cacidi.com/contact/#comment-827
+- type: x-contact
+  url: https://www.cacidi.com/contact/#comment-826
+- type: x-login
+  url: https://www.cacidi.com/webshop/login/
+- type: x-news
+  url: https://www.cacidi.com/news/
+- type: x-news
+  url: https://www.cacidi.com/category/news/
+- type: x-press
+  url: http://wordpress.org/
+- type: x-tutorials
+  url: https://www.cacidi.com/category/tutorials/
+- type: x-twitter
+  url: https://twitter.com/CacidiInfo
+- type: x-website
+  url: https://www.cacidi.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

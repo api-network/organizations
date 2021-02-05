@@ -1,0 +1,33 @@
+---
+name: AnimatedBanner.com
+description: Custom banner ad design for $45.00. Pay only if you like your banner.
+  Custom ad banners since 1998.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8919193"
+url: https://raw.githubusercontent.com/api-network/organizations/main/animatedbanner-com.yaml
+tags:
+- Banners
+apis: []
+x-common:
+- type: x-website
+  url: http://www.animatedbanner.com
+- type: x-contact
+  url: https://www.animatedbanner.com/aninews/contact-us
+- type: x-facebook
+  url: https://www.facebook.com/AnimatedBanner
+- type: x-news
+  url: https://www.animatedbanner.com/aninews/feed
+- type: x-twitter
+  url: https://www.twitter.com/AnimatedBanner
+- type: x-website
+  url: https://www.animatedbanner.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

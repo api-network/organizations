@@ -1,0 +1,41 @@
+---
+name: ACT Canada
+description: 'Members interests: SRC; open banking; real-time payments; AI; innovation;
+  fraud; digital ID; disruption; fintechs; UX; KYC; blockchain; crypto; APIs; tokenization'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7453885"
+url: https://raw.githubusercontent.com/api-network/organizations/main/act-canada.yaml
+tags:
+- Associations
+apis: []
+x-common:
+- type: x-about
+  url: https://www.actcda.com/about-us/
+- type: x-events
+  url: https://www.actcda.com/events-calendar/
+- type: x-facebook
+  url: https://www.facebook.com/ACTCanadaStakeholders/
+- type: x-forum
+  url: https://www.actcda.com/act-canada-forum/
+- type: x-instagram
+  url: https://www.instagram.com/act_canada/?hl=en
+- type: x-login
+  url: https://business.actcda.com/login
+- type: x-news
+  url: https://www.actcda.com/act-newsletter/
+- type: x-press
+  url: https://www.actcda.com/press-releases/
+- type: x-twitter
+  url: https://twitter.com/act_canada?lang=en
+- type: x-website
+  url: https://www.actcda.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

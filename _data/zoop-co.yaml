@@ -1,0 +1,42 @@
+---
+name: Zoop.co
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "470662"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zoop-co.yaml
+tags:
+- Resources
+apis: []
+x-common:
+- type: x-blog
+  url: https://zoop.com.br/blog
+- type: x-blog
+  url: https://zoop.com.br/blog/
+- type: x-documentation
+  url: https://docs.zoop.co/
+- type: x-documentation
+  url: https://docs.zoop.com.br
+- type: x-instagram
+  url: https://www.instagram.com/zoopbrasil/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/zoopbrasil
+- type: x-login
+  url: https://dashboard.zoop.com.br/login
+- type: x-website
+  url: https://zoop.co
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=dzEsUZH3hxA
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=zLYnRAp5yFg
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=Xlbj5mRmzuU
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

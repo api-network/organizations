@@ -1,0 +1,27 @@
+---
+name: Velocity Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5913759"
+url: https://raw.githubusercontent.com/api-network/organizations/main/velocity-software.yaml
+tags:
+- ZOSMON
+- Z/OS Real Time Performance
+- Z/OS Performance Management
+- Z/OS Performance
+- Software
+- SMF Analysis
+apis: []
+x-common:
+- type: x-website
+  url: https://www.velocitysoftware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

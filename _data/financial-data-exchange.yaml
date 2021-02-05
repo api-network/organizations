@@ -1,0 +1,32 @@
+---
+name: Financial Data Exchange
+description: <p>The Financial Data Exchange (FDX) is a nonprofit organization that
+  is dedicated to unifying the financial industry around a common, interoperable and
+  royalty-free standard for the secure access of user permissioned financial data,
+  aptly named the FDX API. FDX has an international membership that includes financial
+  institutions, financial data aggregators, fintechs, payment networks, consumer groups,
+  financial industry groups and utilities and other permissioned parties in the user
+  permissioned financial data ecosystem.</p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: ""
+url: https://raw.githubusercontent.com/api-network/organizations/main/financial-data-exchange.yaml
+tags:
+- Sectors
+- Financial
+- Definitions
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-website
+  url: https://financialdataexchange.org/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

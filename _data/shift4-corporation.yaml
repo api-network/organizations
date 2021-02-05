@@ -1,0 +1,46 @@
+---
+name: Shift4 Corporation
+description: Shift4 Payments is the leader in secure payment processing solutions,
+  including point-to-point encryption, tokenization, EMV technology and point-of-sale
+  (POS) systems
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "402787"
+url: https://raw.githubusercontent.com/api-network/organizations/main/shift4-corporation.yaml
+tags:
+- E-commerce
+apis: []
+x-common:
+- type: x-about
+  url: https://www.shift4.com/about-us/
+- type: x-careers
+  url: https://www.shift4.com/careers/
+- type: x-contact
+  url: https://www.shift4.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/Shift4Payments/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/shift4-payments/
+- type: x-marketplace
+  url: https://www.shift4.com/marketplace/
+- type: x-news
+  url: https://www.shift4.com/newsroom/
+- type: x-partner
+  url: https://www.shift4.com/partners/
+- type: x-security
+  url: https://www.shift4.com/security-corner/
+- type: x-support
+  url: https://www.shift4.com/support/
+- type: x-twitter
+  url: https://twitter.com/shift4payments/
+- type: x-website
+  url: https://www.shift4.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

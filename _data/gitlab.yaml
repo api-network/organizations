@@ -1,0 +1,65 @@
+---
+name: GitLab
+description: <p>GitLab is a web-based Git-repository manager with wiki, issue-tracking
+  and CI/CD pipelines features, using an open-source license, developed by GitLab
+  Inc.&nbsp;</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/githlab-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "811"
+x-alexaRank: "2292"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gitlab.yaml
+tags:
+- Versioning
+- Static
+- Relative Data
+- Project Hosting
+- Profile
+- Postman Doc Search
+- Orchestration
+- New
+- Integration Landscape
+- Have Swagger
+- Have API Paths
+- Have API
+- Code
+- Ci/cd
+apis: []
+x-common:
+- type: x-about
+  url: https://about.gitlab.com/direction/verify/load_testing
+- type: x-customers
+  url: https://customers.gitlab.com/
+- type: x-documentation
+  url: https://docs.gitlab.com/
+- type: x-facebook
+  url: https://www.facebook.com/gitlab
+- type: x-github
+  url: https://github.com/gitlab
+- type: x-linkedin
+  url: https://www.linkedin.com/company/gitlab-com
+- type: x-login
+  url: https://gitlab.com/users/sign_in
+- type: x-pricing
+  url: https://about.gitlab.com/pricing/
+- type: x-privacy-policy
+  url: https://about.gitlab.com/privacy/
+- type: x-status
+  url: https://status.gitlab.com/
+- type: x-support
+  url: https://support.gitlab.com/
+- type: x-terms-of-service
+  url: https://about.gitlab.com/terms/
+- type: x-twitter
+  url: https://twitter.com/gitlab
+- type: x-webhooks
+  url: https://docs.gitlab.com/ce/user/project/integrations/webhooks.html
+- type: x-website
+  url: http://gitlab.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

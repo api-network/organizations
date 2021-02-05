@@ -1,0 +1,35 @@
+---
+name: Wallaroo Labs
+description: Ultrafast and scalable data processing
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28809-blog-wallaroolabs-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1529700"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wallaroo-labs.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: https://www.wallaroolabs.com/
+- type: x-blog
+  url: https://blog.wallaroolabs.com/index.xml
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/sendence
+- type: x-email
+  url: info@wallaroolabs.com
+- type: x-email
+  url: sales@wallaroolabs.com
+- type: x-github
+  url: https://github.com/wallaroolabs/wallaroo
+- type: x-twitter
+  url: https://twitter.com/WallarooLabs
+- type: x-website
+  url: https://blog.wallaroolabs.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

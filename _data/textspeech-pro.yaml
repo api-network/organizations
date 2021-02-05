@@ -1,0 +1,22 @@
+---
+name: TextSpeech Pro
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4897872"
+url: https://raw.githubusercontent.com/api-network/organizations/main/textspeech-pro.yaml
+tags:
+- Desktop Readers
+apis: []
+x-common:
+- type: x-website
+  url: https://www.textspeechpro.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

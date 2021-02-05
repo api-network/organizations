@@ -1,0 +1,37 @@
+---
+name: Tenant File
+description: Property Management Software by Tenant File - Easy to use desktop rental
+  property software for landlords of residential and commercial rentals.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2655994"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tenant-file.yaml
+tags:
+- Tenant File
+- Software For Landlords
+- Residential Management Software
+- Rental Property Software
+- Property Management Software
+- Property Management
+- Landlord Software
+- Commercial Property Management Software
+- Apartment Management Software
+apis: []
+x-common:
+- type: x-website
+  url: http://www.TenantFile.com
+- type: x-blog
+  url: https://tfblog.tenantfile.com
+- type: x-twitter
+  url: https://twitter.com/TenantFile
+- type: x-website
+  url: https://www.tenantfile.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

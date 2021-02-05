@@ -1,0 +1,30 @@
+---
+name: DSType
+description: Discover everything about our latest typographic releases and products.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1485590"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dstype.yaml
+tags:
+- Foundries
+apis: []
+x-common:
+- type: x-website
+  url: http://www.dstype.com
+- type: x-facebook
+  url: https://www.facebook.com/dstype/
+- type: x-instagram
+  url: https://www.instagram.com/dstype_foundry/
+- type: x-twitter
+  url: https://twitter.com/DSType_Foundry
+- type: x-website
+  url: https://www.dstype.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

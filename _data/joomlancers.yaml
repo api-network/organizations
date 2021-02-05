@@ -1,0 +1,29 @@
+---
+name: JoomLancers
+description: 'Find your Joomla Developer from the top Joomla Freelance Marketplace
+  JoomLancers - the Freelance Portal for Opensouce Projects: Joomla Magento Drupal
+  WordPress Vbulletin'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1310018"
+url: https://raw.githubusercontent.com/api-network/organizations/main/joomlancers.yaml
+tags:
+- Joomla Magento Drupal WordPress
+- Joomla
+apis: []
+x-common:
+- type: x-website
+  url: http://www.joomlancers.com
+- type: x-twitter
+  url: https://twitter.com/joomlancers
+- type: x-website
+  url: https://www.joomlancers.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

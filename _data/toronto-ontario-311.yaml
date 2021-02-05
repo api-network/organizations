@@ -1,0 +1,35 @@
+---
+name: Toronto Ontario 311
+description: <p>311 provides residents, businesses and visitors with easy access to
+  non-emergency City services, programs and information 24 hours a day, seven days
+  a week. 311 can offer assistance in more than 180 languages.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+  Shot 2017-12-26 at 9.42.45 PM.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "17184"
+url: https://raw.githubusercontent.com/api-network/organizations/main/toronto-ontario-311.yaml
+tags:
+- Open311
+- Have API
+- "311"
+apis: []
+x-common:
+- type: x-website
+  url: http://www.toronto.ca/311
+- type: x-open-311-feed
+  url: https://secure.toronto.ca/webwizard/ws/services.xml?jurisdiction_id=toronto.ca
+- type: x-signup
+  url: https://secure.toronto.ca/webwizard/start.jsp?_wiz_id=API_key_request
+- type: x-twitter
+  url: https://twitter.com/311Toronto
+- type: x-website
+  url: https://www.toronto.ca/home/311-toronto-at-your-service/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,23 @@
+---
+name: tzuyi.wordpress.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tzuyi-wordpress-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: https://tzuyi.wordpress.com/2015/04/03/data-mining-the-city/
+- type: x-website
+  url: http://tzuyi.wordpress.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

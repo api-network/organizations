@@ -1,0 +1,76 @@
+---
+name: Tower
+description: <p>Over 100,000 developers and designers are more productive with Tower
+  - the most powerful Git client for Mac and Windows.</p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "36008"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tower.yaml
+tags:
+- Windows
+- Version Control
+- Vcs
+- Mac
+- GUI
+- Git Gui
+- Git Client
+- Git App
+- Git
+- Client
+apis: []
+x-common:
+- type: x-about
+  url: https://www.git-tower.com/company/about
+- type: x-blog
+  url: https://www.git-tower.com/blog
+- type: x-careers
+  url: https://www.fournova.com/jobs
+- type: x-case-studies
+  url: https://www.git-tower.com/use-cases/developers
+- type: x-case-studies
+  url: https://www.git-tower.com/use-cases/designers
+- type: x-case-studies
+  url: https://www.git-tower.com/use-cases/teams
+- type: x-case-studies
+  url: https://www.git-tower.com/use-cases/enterprise
+- type: x-case-studies
+  url: https://www.git-tower.com/use-cases
+- type: x-contact
+  url: https://www.git-tower.com/support/contact
+- type: x-documentation
+  url: https://www.git-tower.com/support/documentation
+- type: x-integrations
+  url: https://www.git-tower.com/features/integrations
+- type: x-news
+  url: https://www.git-tower.com/newsletter
+- type: x-press
+  url: https://www.git-tower.com/company/press
+- type: x-pricing
+  url: https://www.git-tower.com/pricing
+- type: x-support
+  url: https://www.git-tower.com/support/help-center
+- type: x-support
+  url: https://www.git-tower.com/support/learn
+- type: x-support
+  url: https://www.git-tower.com/support
+- type: x-support
+  url: https://www.git-tower.com/help
+- type: x-terms-of-service
+  url: https://www.git-tower.com/legal/eula
+- type: x-terms-of-service
+  url: https://www.git-tower.com/legal/privacy-policy
+- type: x-terms-of-service
+  url: https://www.git-tower.com/legal/imprint
+- type: x-twitter
+  url: http://www.twitter.com/gittower
+- type: x-website
+  url: https://www.git-tower.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

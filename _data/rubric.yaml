@@ -1,0 +1,49 @@
+---
+name: Rubric
+description: A trusted global content partner, helping companies achieve their global
+  strategy goals through translation and localization services.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3667345"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rubric.yaml
+tags:
+- Localization And Internationalization
+apis: []
+x-common:
+- type: x-website
+  url: https://rubric.com
+- type: x-about
+  url: https://rubric.com/en-US/about-rubric/
+- type: x-blog
+  url: https://rubric.com/en-US/blog/
+- type: x-blog
+  url: https://rubric.com/blog
+- type: x-blog
+  url: https://rubric.com/en-US/blog/industrial-translation/
+- type: x-blog
+  url: https://rubric.com/en-US/blog/author/rebecca/
+- type: x-contact
+  url: https://rubric.com/en-US/contact-us/
+- type: x-contact
+  url: https://rubric.com/en-US/contact-us
+- type: x-facebook
+  url: https://www.facebook.com/rubrictranslations/
+- type: x-facebook
+  url: https://www.facebook.com/rubrictranslations
+- type: x-linkedin
+  url: http://www.linkedin.com/company/rubric
+- type: x-linkedin
+  url: https://www.linkedin.com/company/rubric/
+- type: x-twitter
+  url: https://twitter.com/rubricinc
+- type: x-website
+  url: https://www.rubric.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

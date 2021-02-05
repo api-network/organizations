@@ -1,0 +1,41 @@
+---
+name: Cedalo
+description: Individual IoT processes - 100% codefree
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28782-cedalo-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10562840"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cedalo.yaml
+tags:
+- Spreadsheets
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: https://cedalo.com/
+- type: x-blog
+  url: https://streamsheets.blog/
+- type: x-documentation
+  url: https://docs.cedalo.com/introduction.html
+- type: x-email
+  url: info@cedalo.com
+- type: x-forum
+  url: https://forum.streamsheets.com/
+- type: x-github
+  url: https://github.com/cedalo/streamsheets
+- type: x-linkedin
+  url: https://de.linkedin.com/company/cedalo-ag
+- type: x-press
+  url: https://cedalo.com/impressum/
+- type: x-twitter
+  url: https://twitter.com/cedalo_com
+- type: x-website
+  url: https://cedalo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

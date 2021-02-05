@@ -1,0 +1,23 @@
+---
+name: blog.cohesiveft.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blog-cohesiveft-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://blog.cohesiveft.com/2015/03/how-to-customize-vns3-with-our-api.html
+- type: x-website
+  url: http://blog.cohesiveft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

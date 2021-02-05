@@ -1,0 +1,41 @@
+---
+name: Versadial
+description: "CALL RECORDING\_software Record Your Business Telephones - Know The
+  Voice of Your Customer\_Compatible with VoIP, PRI, T1, Analog, Digital, Radio (RoIP),"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "208665"
+url: https://raw.githubusercontent.com/api-network/organizations/main/versadial.yaml
+tags:
+- Recorders
+apis: []
+x-common:
+- type: x-website
+  url: http://www.versadial.com
+- type: x-blog
+  url: https://www.versadial.com/blog/2020/01/08/
+- type: x-blog
+  url: https://www.versadial.com/blog/2020/01/06/
+- type: x-contact
+  url: https://www.versadial.com/contact-versadial/
+- type: x-facebook
+  url: https://www.facebook.com/versadial
+- type: x-linkedin
+  url: https://www.linkedin.com/company/versadial-solutions/
+- type: x-support
+  url: https://www.versadial.com/versadial-customer-support/
+- type: x-twitter
+  url: https://twitter.com/versadial
+- type: x-website
+  url: https://www.versadial.com
+- type: x-youtube
+  url: https://www.youtube.com/c/Versadial
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

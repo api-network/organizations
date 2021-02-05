@@ -1,0 +1,48 @@
+---
+name: WPTidBits - WordPress TidBits and Web Design Resource
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2027497"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wptidbits--wordpress-tidbits-and-web-design-resource.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-website
+  url: http://wptidbits.com
+- type: x-about
+  url: http://wptidbits.com/about/
+- type: x-about
+  url: https://wptidbits.com/about/
+- type: x-blog
+  url: http://wptidbits.com/blog
+- type: x-blog
+  url: https://wptidbits.com/category/blog/
+- type: x-contact
+  url: https://wptidbits.com/contact/
+- type: x-facebook
+  url: http://www.facebook.com/wptidbits
+- type: x-feed
+  url: http://feeds2.feedburner.com/wptidbits
+- type: x-news
+  url: http://www.designznews.com/
+- type: x-press
+  url: https://wptidbits.com/wptidbits/psd-to-wordpress/
+- type: x-privacy
+  url: https://wptidbits.com/privacy/
+- type: x-tutorials
+  url: https://wptidbits.com/category/public-posts/tutorials/
+- type: x-twitter
+  url: http://twitter.com/wptbits
+- type: x-website
+  url: https://wptidbits.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

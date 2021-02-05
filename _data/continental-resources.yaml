@@ -1,0 +1,56 @@
+---
+name: Continental Resources
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1054769"
+url: https://raw.githubusercontent.com/api-network/organizations/main/continental-resources.yaml
+tags:
+- Components
+apis: []
+x-common:
+- type: x-website
+  url: https://www.conres.com/
+- type: x-about
+  url: https://www.conres.com/about/
+- type: x-about
+  url: https://www.conres.com/about/executive-team/
+- type: x-about
+  url: https://www.conres.com/about/women-owned-business/
+- type: x-about
+  url: https://www.conres.com/about/conres-connected-women/
+- type: x-blog
+  url: https://www.conres.com/blog/
+- type: x-careers
+  url: https://www.conres.com/careers/
+- type: x-contact
+  url: https://www.conres.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/ConResIT/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/conres-it/
+- type: x-news
+  url: https://www.conres.com/about/news-awards/
+- type: x-partner
+  url: https://www.conres.com/partners/
+- type: x-privacy
+  url: https://www.conres.com/privacy-policy/
+- type: x-security
+  url: https://www.conres.com/solutions/cybersecurity/
+- type: x-terms-of-service
+  url: https://www.conres.com/terms-conditions/
+- type: x-twitter
+  url: https://twitter.com/ConRes
+- type: x-website
+  url: https://www.conres.com
+- type: x-youtube
+  url: http://www.youtube.com/user/continentalresources
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

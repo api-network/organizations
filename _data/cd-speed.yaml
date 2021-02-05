@@ -1,0 +1,36 @@
+---
+name: CD Speed
+description: Opti Drive Control
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2327421"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cd-speed.yaml
+tags:
+- Speed
+- Resources
+- Po
+- PIF
+- Pi
+- Opti
+- DVD
+- Drive
+- Control
+- CD
+- C2
+- C1
+- Blu-ray
+- Bler
+- Benchmark
+apis: []
+x-common:
+- type: x-website
+  url: https://www.cdspeed2000.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

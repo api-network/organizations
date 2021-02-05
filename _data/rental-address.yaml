@@ -1,0 +1,28 @@
+---
+name: Rental Address
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1229223"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rental-address.yaml
+tags:
+- Property Management
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.rentaladdress.com
+- type: x-login
+  url: http://www.ellipseinc.com/login.asp
+- type: x-press
+  url: http://www.rentalexpress.com/
+- type: x-website
+  url: https://www.rentaladdress.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

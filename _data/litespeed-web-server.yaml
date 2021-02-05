@@ -1,0 +1,52 @@
+---
+name: LiteSpeed Web Server
+description: LiteSpeed provides one-stop web-acceleration solutions that embrace and
+  advance cutting-edge technologies. Web server, load balancer, cache solutions, and
+  more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "27365"
+url: https://raw.githubusercontent.com/api-network/organizations/main/litespeed-web-server.yaml
+tags:
+- Web Server
+- Web
+- Speed Up My Site
+- Quic
+- Optimization
+- Load Balancer
+- Litespeed
+- Internet
+- HTTP2
+- Fast Website
+- Cutting Edge
+- Cache
+- Accelerated
+apis: []
+x-common:
+- type: x-website
+  url: http://www.litespeedtech.com
+- type: x-blog
+  url: http://blog.litespeedtech.com
+- type: x-blog
+  url: https://blog.litespeedtech.com
+- type: x-documentation
+  url: https://docs.litespeedtech.com/
+- type: x-facebook
+  url: https://www.facebook.com/litespeedtech/
+- type: x-github
+  url: https://github.com/litespeedtech/lsquic
+- type: x-instagram
+  url: https://www.instagram.com/litespeed_technologies/
+- type: x-twitter
+  url: https://twitter.com/litespeedtech
+- type: x-website
+  url: https://www.litespeedtech.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

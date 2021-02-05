@@ -1,0 +1,49 @@
+---
+name: TheAllINeed.com
+description: The All I Need is a classical website, an old web portal converted to
+  a magazine including info and news about politics, business, health, travel and
+  many more topics.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "493043"
+url: https://raw.githubusercontent.com/api-network/organizations/main/theallineed-com.yaml
+tags:
+- Web Portals
+- Travel
+- Politics
+- News
+- Health
+- Business
+apis: []
+x-common:
+- type: x-website
+  url: http://www.theallineed.com
+- type: x-contact
+  url: https://www.theallineed.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/theallineed/
+- type: x-facebook
+  url: https://www.facebook.com/theallineed
+- type: x-feed
+  url: https://www.theallineed.com/feed/
+- type: x-linkedin
+  url: https://www.linkedin.com/company-beta/11056059
+- type: x-news
+  url: https://www.theallineed.com/category/news/
+- type: x-news
+  url: https://www.technationnews.com
+- type: x-terms-of-service
+  url: https://www.theallineed.com/privacy-and-legal-issues/
+- type: x-twitter
+  url: https://twitter.com/theallineed
+- type: x-website
+  url: https://www.theallineed.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

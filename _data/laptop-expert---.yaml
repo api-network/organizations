@@ -1,0 +1,22 @@
+---
+name: "Laptop Expert - \u05DC\u05D0\u05E4\u05D8\u05D5\u05E4 \u05D0\u05E7\u05E1\u05E4\u05E8\u05D8"
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4382821"
+url: https://raw.githubusercontent.com/api-network/organizations/main/laptop-expert---.yaml
+tags:
+- Repair
+apis: []
+x-common:
+- type: x-website
+  url: https://www.laptopexpert.co.il
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

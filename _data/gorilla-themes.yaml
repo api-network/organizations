@@ -1,0 +1,45 @@
+---
+name: Gorilla Themes
+description: WordPress themes with cutting edge features and unmatched support. Responsive
+  WordPress themes for Car Dealers, Real Estate, Travel, Entertainment and more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "559195"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gorilla-themes.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.gorillathemes.com/contact/
+- type: x-contact
+  url: https://gorillathemes.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/gorillathemes/
+- type: x-feed
+  url: https://feeds.feedburner.com/gorillathemes
+- type: x-press
+  url: https://www.gorillathemes.com/wordpress-services/
+- type: x-press
+  url: https://www.gorillathemes.com/wordpress-hosting/
+- type: x-press
+  url: https://www.gorillathemes.com/wordpress-tourism-theme/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-support
+  url: http://help.gorillathemes.com
+- type: x-terms-of-service
+  url: https://gorillathemes.com/terms-of-purchase/
+- type: x-twitter
+  url: https://www.twitter.com/gorillathemes/
+- type: x-website
+  url: https://gorillathemes.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

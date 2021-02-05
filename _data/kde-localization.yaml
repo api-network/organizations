@@ -1,0 +1,25 @@
+---
+name: KDE Localization
+description: K Desktop Environment Homepage, KDE.org
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "38127"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kde-localization.yaml
+tags: []
+apis: []
+x-common:
+- type: x-contact
+  url: http://www.kde.org/contact/impressum.php
+- type: x-documentation
+  url: http://l10n.kde.org/docs/translation-howto
+- type: x-website
+  url: https://i18n.kde.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

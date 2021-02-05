@@ -1,0 +1,32 @@
+---
+name: Plugg.to
+description: "Pare de procurar por hub de integra\xE7\xE3o! Conhe\xE7a a Plugg.to
+  fa\xE7a Integra\xE7\xE3o Marketplace de forma simples, r\xE1pida e pr\xE1tica, sem
+  pre\xE7os abusivos. Venda mais!"
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28934-api-plugg-to.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "249482"
+url: https://raw.githubusercontent.com/api-network/organizations/main/plugg-to.yaml
+tags:
+- Have API Paths
+apis: []
+x-common:
+- type: x-website
+  url: http://plugg.to
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/plugg
+- type: x-email
+  url: contato@plugg.to
+- type: x-twitter
+  url: https://twitter.com/pluggto
+- type: x-website
+  url: http://api.plugg.to
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

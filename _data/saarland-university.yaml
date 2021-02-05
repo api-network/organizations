@@ -1,0 +1,30 @@
+---
+name: Saarland, University
+description: "Studium, Forschung & Karriere in Informatik \u25B6 Universit\xE4t des
+  Saarlandes im Herzen Europas \u25B6 6 Internationale Informatik Forschungsinstitute
+  \u25B6 4 SFBs"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "56967"
+url: https://raw.githubusercontent.com/api-network/organizations/main/saarland-university.yaml
+tags:
+- Germany
+apis: []
+x-common:
+- type: x-facebook
+  url: https://de-de.facebook.com/SaarlandUniversityCS/
+- type: x-instagram
+  url: https://www.instagram.com/saarland_informatics_campus/
+- type: x-twitter
+  url: https://twitter.com/SIC_Saar?lang=de
+- type: x-website
+  url: https://www.cs.uni-saarland.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

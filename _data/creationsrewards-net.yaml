@@ -1,0 +1,46 @@
+---
+name: CreationsRewards.Net
+description: Earn free gift cards taking surveys, watching videos, shopping online,
+  and more. Get started now, free.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "320854"
+url: https://raw.githubusercontent.com/api-network/organizations/main/creationsrewards-net.yaml
+tags:
+- Work At Home
+- Sponsored Sites
+- Rewards Program
+- Rebates
+- Points Program
+- GPT
+- Deals
+- Creationsrewards
+- Creation Reward
+- Coupons
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/creationsrewards
+- type: x-login
+  url: https://www.creationsrewards.net/login
+- type: x-privacy
+  url: https://www.creationsrewards.net/privacy-policy
+- type: x-support
+  url: http://help.creationsrewards.net
+- type: x-support
+  url: https://help.creationsrewards.net
+- type: x-terms-of-service
+  url: https://www.creationsrewards.net/terms-of-service
+- type: x-twitter
+  url: https://twitter.com/creationsreward
+- type: x-website
+  url: https://www.creationsrewards.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

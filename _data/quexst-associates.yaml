@@ -1,0 +1,42 @@
+---
+name: Quexst Associates
+description: Quexst solutions provides certificate courses after MBBS for medical
+  education, PG courses and fellowship courses to enhance clinical expertise. Contact
+  us now!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/quexst-associates.yaml
+tags:
+- Commercial Services
+apis: []
+x-common:
+- type: x-about
+  url: https://www.quexst.com/about-us/
+- type: x-about
+  url: https://www.quexst.com/about-quexst-healthcare/
+- type: x-blog
+  url: https://www.quexst.com/blog/
+- type: x-facebook
+  url: https://www.facebook.com/QuexstFellowships
+- type: x-news
+  url: https://www.quexst.com/news/
+- type: x-partner
+  url: https://www.quexst.com/partner-institutions/
+- type: x-privacy
+  url: https://www.quexst.com/privacy-policy/
+- type: x-self-service-registration
+  url: http://register.quexst.com/enquiry
+- type: x-terms-of-service
+  url: https://www.quexst.com/terms-conditions/
+- type: x-website
+  url: https://www.quexst.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

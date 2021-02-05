@@ -1,0 +1,49 @@
+---
+name: Vendini, Inc.
+description: Promote events, track patrons, take donations and sell more tickets with
+  Vendini ticketing and box office management software system.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "28652"
+url: https://raw.githubusercontent.com/api-network/organizations/main/vendini-inc-.yaml
+tags:
+- Box Office
+apis: []
+x-common:
+- type: x-website
+  url: http://www.vendini.com
+- type: x-about
+  url: https://vendini.com/company/about-us/
+- type: x-blog
+  url: https://vendini.com/blog/
+- type: x-careers
+  url: https://vendini.com/company/careers/
+- type: x-case-studies
+  url: https://vendini.com/resources/case-studies/
+- type: x-contact
+  url: https://vendini.com/company/contact-us/
+- type: x-events
+  url: https://vendini.com/ticketing/venues-events/
+- type: x-facebook
+  url: https://www.facebook.com/vendini.inc
+- type: x-instagram
+  url: https://instagram.com/vendini/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/vendini
+- type: x-twitter
+  url: https://twitter.com/vendini
+- type: x-webinars
+  url: https://vendini.com/resources/webinars/
+- type: x-website
+  url: https://www.vendini.com
+- type: x-youtube
+  url: https://www.youtube.com/user/VendiniOfficial
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

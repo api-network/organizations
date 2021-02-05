@@ -1,0 +1,40 @@
+---
+name: WideBand Corporation
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wideband-corporation.yaml
+tags:
+- Manufacturers
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.wband.com/blog/
+- type: x-contact
+  url: https://www.wband.com/company/contact/
+- type: x-developer
+  url: http://developer.wband.com
+- type: x-facebook
+  url: http://www.facebook.com/wideband/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/wideband-corporation/
+- type: x-news
+  url: https://www.wband.com/company/newsroom/
+- type: x-security
+  url: https://www.cybrsecurity.com
+- type: x-support
+  url: https://www.wband.com/support/
+- type: x-twitter
+  url: http://www.twitter.com/wideband/
+- type: x-website
+  url: https://www.wband.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

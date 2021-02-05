@@ -1,0 +1,50 @@
+---
+name: AFS Analytics
+description: 'All in one Analytics : metrics, user behavior analysis and SEO tool.
+  AFS Analytics provides a real-time website analytics tool.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "115734"
+url: https://raw.githubusercontent.com/api-network/organizations/main/afs-analytics.yaml
+tags:
+- Wordpress Analytics
+- Website Tracking
+- Website Statistics
+- Website Analytics
+- Web Stats
+- Web Analytics
+- Measure
+- Free
+- Event Tracking
+- AFS Analytics
+apis: []
+x-common:
+- type: x-code
+  url: https://www.afsanalytics.com/test-tracking-code.php
+- type: x-contact
+  url: https://www.afsanalytics.com/contact.html
+- type: x-facebook
+  url: https://www.facebook.com/afsanalytics
+- type: x-pricing
+  url: https://www.afsanalytics.com/pricing.php
+- type: x-privacy
+  url: https://www.afsanalytics.com/privacy.html
+- type: x-terms-of-service
+  url: https://www.afsanalytics.com/legal.html
+- type: x-twitter
+  url: https://twitter.com/afsanalytics
+- type: x-website
+  url: https://www.afsanalytics.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=w-EQKl0il0
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=OFdAtJzRkyQ
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

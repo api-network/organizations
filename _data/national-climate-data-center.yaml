@@ -1,0 +1,65 @@
+---
+name: National Climate Data Center
+description: NOAA understands and predicts changes in the Earth's environment, from
+  the depths of the ocean to the surface of the sun, and conserves and manages our
+  coastal and marine resources. Visit www.noaa.gov and follow us on Twitter via @NOAA.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/National_Climatic_Data_Center_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "1936"
+url: https://raw.githubusercontent.com/api-network/organizations/main/national-climate-data-center.yaml
+tags:
+- Have API
+- Data Provider
+- API Provider
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.noaa.gov
+- type: x-about
+  url: https://www.ncei.noaa.gov/about
+- type: x-base
+  url: http://www.ncdc.noaa.gov/cdo-web/api/
+- type: x-contact
+  url: http://www.ncdc.noaa.gov/contact
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/national-oceanic-and-atmospheric-administration
+- type: x-developers
+  url: http://www.ncdc.noaa.gov/cdo-web/
+- type: x-email
+  url: outreach@noaa.gov
+- type: x-email
+  url: NOAA.Staff.Directory@noaa.gov
+- type: x-email
+  url: webmaster@noaa.gov
+- type: x-email
+  url: john.sokich@noaa.gov
+- type: x-facebook
+  url: https://www.facebook.com/NOAANCEI/
+- type: x-news
+  url: https://www.ncei.noaa.gov/news
+- type: x-news
+  url: https://www.ncdc.noaa.gov/news
+- type: x-news
+  url: http://www.ncei.noaa.gov/news/ams-2020
+- type: x-news
+  url: http://www.ncei.noaa.gov/news/white-christmas
+- type: x-news
+  url: https://www.ncei.noaa.gov/news.xml
+- type: x-twitter
+  url: https://twitter.com/NOAANCEIclimate
+- type: x-twitter
+  url: https://twitter.com/NOAA
+- type: x-website
+  url: http://www.ncdc.noaa.gov
+- type: x-wikipedia
+  url: http://en.wikipedia.org/wiki/National_Climatic_Data_Center
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

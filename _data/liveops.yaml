@@ -1,0 +1,109 @@
+---
+name: LiveOps
+description: Liveops is a pioneer in the contact center industry, with the largest
+  U.S.-based cloud contact center of more than 20,000 home-based, independent agents.
+  In 2000, we started the journey to help establish the work-from-home model in customer
+  service. Si...
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1338_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "176560"
+url: https://raw.githubusercontent.com/api-network/organizations/main/liveops.yaml
+tags:
+- Have API
+- Customers
+- Contacts
+- API Provider
+- API LIfeycle
+apis: []
+x-common:
+- type: x-website
+  url: http://www.liveops.com
+- type: x-about
+  url: https://www.liveops.com/about-us/
+- type: x-about
+  url: https://www.liveops.com/about-us
+- type: x-base
+  url: https://api.liveops.com/
+- type: x-blog
+  url: http://blogs.liveops.com/
+- type: x-blog-rss
+  url: http://www.liveops.com/company/pressroom/news.xml
+- type: x-careers
+  url: https://www.liveops.com/careers/
+- type: x-careers
+  url: https://careers-liveops.icims.com/
+- type: x-case-studies
+  url: http://www.liveops.com/use-cases/
+- type: x-case-studies
+  url: https://www.liveops.com/use-cases/customer-service/
+- type: x-case-studies
+  url: https://www.liveops.com/use-cases/inbound/
+- type: x-case-studies
+  url: https://www.liveops.com/use-cases/outbound/
+- type: x-case-studies
+  url: https://www.liveops.com/use-cases/lead-generation/
+- type: x-case-studies
+  url: https://www.liveops.com/resources/case-studies/
+- type: x-contact
+  url: https://www.liveops.com/about-us/contact/
+- type: x-contact
+  url: https://www.liveops.com/about-us/contact
+- type: x-contact
+  url: https://join.liveops.com/contact
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/liveops
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/liveops
+- type: x-developers
+  url: http://developer.liveops.com/
+- type: x-developers
+  url: https://knowledge.liveops.com/developer
+- type: x-email
+  url: sales@liveops.com
+- type: x-email
+  url: privacy@liveops.com
+- type: x-email
+  url: hello@liveops.com
+- type: x-email
+  url: press@liveops.com
+- type: x-email
+  url: joinliveops@liveops.com
+- type: x-email
+  url: loginsupport@liveops.com
+- type: x-email
+  url: terminatedagents@liveops.com
+- type: x-facebook
+  url: https://www.facebook.com/LiveOpsInc/?fref=ts&ref=br_tf
+- type: x-facebook
+  url: https://www.facebook.com/LiveOpsAgentCommunity
+- type: x-github
+  url: https://github.com/liveops
+- type: x-news
+  url: https://www.liveops.com/news/
+- type: x-news
+  url: https://www.liveops.com/news
+- type: x-privacy
+  url: https://www.liveops.com/privacy
+- type: x-terms-of-service
+  url: https://www.liveops.com/terms-of-service
+- type: x-twitter
+  url: https://twitter.com/liveopsathome
+- type: x-twitter
+  url: https://twitter.com/liveops
+- type: x-webinars
+  url: https://www.liveops.com/resources/webinars/
+- type: x-website
+  url: http://liveops.com/
+- type: x-white-papers
+  url: https://www.liveops.com/resources/white-papers/
+- type: x-youtube
+  url: https://www.youtube.com/c/Liveops
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

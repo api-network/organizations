@@ -1,0 +1,44 @@
+---
+name: USA.gov
+description: We help you discover official U.S. government information and services
+  on the Internet.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/usagov_logo1.gif
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "7722"
+url: https://raw.githubusercontent.com/api-network/organizations/main/usa-gov.yaml
+tags:
+- Rent
+- Registry
+- Have Swagger
+- Have API Paths
+- Have API
+- Federal Government
+apis: []
+x-common:
+- type: x-api-json--authoritative
+  url: http://apis.io/apisdef/legacy/usagov.json
+- type: x-base
+  url: http://registry.usa.gov/
+- type: x-contact
+  url: https://usa.gov/espanol/contactenos
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/us-government
+- type: x-facebook
+  url: https://www.facebook.com/USAgov
+- type: x-instagram
+  url: https://www.instagram.com/usagov/
+- type: x-twitter
+  url: https://twitter.com/USAgov
+- type: x-website
+  url: http://www.usa.gov/About/developer-resources/social-media-registry.shtml
+- type: x-youtube
+  url: https://www.youtube.com/usagov1
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

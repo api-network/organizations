@@ -1,0 +1,75 @@
+---
+name: Planbox
+description: "Planbox is the pioneering provider of cloud-based AI-Powered Agile Innovation
+  Management solutions\u2014from creative ideas to winning projects."
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/895_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1344032"
+url: https://raw.githubusercontent.com/api-network/organizations/main/planbox.yaml
+tags:
+- Tasks
+- Projects
+- Projects
+- Projects
+- Have API
+apis: []
+x-common:
+- type: x-about
+  url: https://www.planbox.com/about/
+- type: x-base
+  url: http://www.planbox.com/api/
+- type: x-blog
+  url: http://blog.planbox.com
+- type: x-blog-rss
+  url: https://www.planbox.com/feed
+- type: x-careers
+  url: https://www.planbox.com/careers/
+- type: x-contact
+  url: https://www.planbox.com/contact-us/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/planbox
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/planbox
+- type: x-developers
+  url: http://support.planbox.com/knowledgebase/topics/34846-api-documentation
+- type: x-email
+  url: careers@planbox.com
+- type: x-email
+  url: sales@planbox.com
+- type: x-email
+  url: support-innovate@planbox.com
+- type: x-email
+  url: support-work@planbox.com
+- type: x-email
+  url: media@planbox.com
+- type: x-facebook
+  url: https://www.facebook.com/planbox
+- type: x-github
+  url: https://github.com/Planbox
+- type: x-linkedin
+  url: https://www.linkedin.com/company/planbox
+- type: x-login
+  url: https://work.planbox.com/login
+- type: x-news
+  url: http://newsroom.planbox.com
+- type: x-open-source
+  url: https://planbox.com/solutions/open-innovation-software
+- type: x-privacy
+  url: https://www.planbox.com/privacy-policy/
+- type: x-security
+  url: https://www.planbox.com/security-trust-privacy/
+- type: x-twitter
+  url: https://twitter.com/PlanboxInc
+- type: x-twitter
+  url: https://twitter.com/planbox
+- type: x-website
+  url: http://www.planbox.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

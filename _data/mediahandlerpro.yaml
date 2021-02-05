@@ -1,0 +1,39 @@
+---
+name: MediaHandlerPro
+description: 'MediaSoft Pro: Leading Starter Kits, Components, Scripts and Solutions
+  Provider for .NET (ASP.NET CORE, MVC), Angular, Cloud (AWS, AZURE) and other platforms'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7002606"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mediahandlerpro.yaml
+tags:
+- Software
+apis: []
+x-common:
+- type: x-website
+  url: http://www.mediasoftpro.com
+- type: x-blog
+  url: https://www.mediasoftpro.com/product/blogengine
+- type: x-facebook
+  url: https://www.facebook.com/mediasoftpro/
+- type: x-github
+  url: https://github.com/mediasoftpro
+- type: x-linkedin
+  url: https://www.linkedin.com/company/mediasoftpro/
+- type: x-login
+  url: https://www.mediasoftpro.com/login
+- type: x-signup
+  url: https://www.mediasoftpro.com/signup
+- type: x-twitter
+  url: https://twitter.com/mediasoftpro
+- type: x-website
+  url: https://www.mediasoftpro.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

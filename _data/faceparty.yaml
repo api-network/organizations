@@ -1,0 +1,33 @@
+---
+name: FaceParty
+description: With thousands of members online now, you're sure to find hundreds of
+  like-minded people, meet dozens of new friends and fall victim to the odd one night
+  stand! Our free chat and dating service is the ultimate online entertainment.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "373712"
+url: https://raw.githubusercontent.com/api-network/organizations/main/faceparty.yaml
+tags:
+- Social Networking
+- People Search
+- People Finder
+- Free Personal Ads
+- Free Online Dating
+- Free Chatrooms
+- Free Chat Rooms
+- Dating
+- Chat Rooms
+- Chat
+apis: []
+x-common:
+- type: x-website
+  url: https://www.faceparty.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

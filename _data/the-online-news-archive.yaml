@@ -1,0 +1,26 @@
+---
+name: The Online News Archive
+description: The Online News Archive is a comprehensive and constantly-growing database
+  of crawled news articles that anyone can access on-demand.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28949-onlinenewsarchive-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5522761"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-online-news-archive.yaml
+tags:
+- News
+- Historical Data API
+- Have API
+- General Data
+apis: []
+x-common:
+- type: x-website
+  url: https://onlinenewsarchive.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

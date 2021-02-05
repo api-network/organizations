@@ -1,0 +1,33 @@
+---
+name: Xceed Software Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "226893"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xceed-software-inc-.yaml
+tags:
+- Data Compression
+- Components
+apis: []
+x-common:
+- type: x-about
+  url: https://xceed.com/about-us/
+- type: x-careers
+  url: https://xceed.com/careers/
+- type: x-documentation
+  url: https://xceed.com/documentation-center/
+- type: x-forum
+  url: https://xceed.com/forums
+- type: x-support
+  url: https://xceed.com/support/
+- type: x-website
+  url: https://xceed.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

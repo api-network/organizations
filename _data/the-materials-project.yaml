@@ -1,0 +1,34 @@
+---
+name: The Materials Project
+description: The Materials Project's mission is to accelerate the the discovery of
+  new technological materials through advanced scientific computing and innovative
+  design tools.
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/api-butterfly.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "178124"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-materials-project.yaml
+tags:
+- Has API
+apis: []
+x-common:
+- type: x-website
+  url: https://materialsproject.org/wiki/index.php/The_Materials_API
+- type: x-email
+  url: feedback@materialsproject.org
+- type: x-github
+  url: https://github.com/materialsproject/mapidoc
+- type: x-github
+  url: http://gist.github.com/shyuep
+- type: x-github
+  url: http://gist.github.com
+- type: x-slideshare
+  url: http://www.slideshare.net/shyuep/the-materials-api-v1
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

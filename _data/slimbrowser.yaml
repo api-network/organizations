@@ -1,0 +1,26 @@
+---
+name: SlimBrowser
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "328537"
+url: https://raw.githubusercontent.com/api-network/organizations/main/slimbrowser.yaml
+tags:
+- Browsers
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/slimbrowser
+- type: x-website
+  url: https://www.slimbrowser.net
+- type: x-youtube
+  url: https://www.youtube.com/user/flashpeakinc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

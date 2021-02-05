@@ -1,0 +1,39 @@
+---
+name: Landing.jobs
+description: Create a free, private profile and get matchmade to the best tech firms,
+  startups and innovative businesses
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29438-landing-jobs.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "146745"
+url: https://raw.githubusercontent.com/api-network/organizations/main/landing-jobs.yaml
+tags:
+- Marketplaces
+apis: []
+x-common:
+- type: x-website
+  url: http://bit.ly/Landingjobs
+- type: x-careers
+  url: https://blog.landing.jobs
+- type: x-careers
+  url: https://www.instagram.com/landing.jobs
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/landingjobs
+- type: x-facebook
+  url: https://www.facebook.com/LandingJobsPage
+- type: x-github
+  url: https://github.com/LandingJobs
+- type: x-linkedin
+  url: https://www.linkedin.com/company/3363375
+- type: x-twitter
+  url: https://twitter.com/Landing_jobs
+- type: x-website
+  url: http://landing.jobs
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

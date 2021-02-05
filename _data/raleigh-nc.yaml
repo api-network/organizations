@@ -1,0 +1,40 @@
+---
+name: Raleigh, NC
+description: The City of Raleigh is a partner in the open government community and
+  strives to become a worldwide model for an open source city. Through the Open Raleigh
+  initiative, the City seeks to develop opportunities for economic development, commerce,
+  increased investment, and civic engagement.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "166147"
+url: https://raw.githubusercontent.com/api-network/organizations/main/raleigh-nc.yaml
+tags:
+- No API
+- City Government
+apis: []
+x-common:
+- type: x-website
+  url: http://www.raleighnc.gov
+- type: x-documentation
+  url: http://opensource.org/docs/osd
+- type: x-facebook
+  url: http://www.facebook.com/CityofRaleigh
+- type: x-instagram
+  url: http://instagram.com/raleighgov
+- type: x-open-source
+  url: http://openmaps.raleighnc.gov/budgetvisualization/
+- type: x-twitter
+  url: http://twitter.com/RaleighGov
+- type: x-website
+  url: http://www.raleighnc.gov/open
+- type: x-youtube
+  url: http://youtube.com/cityofraleigh
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

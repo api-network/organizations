@@ -1,0 +1,32 @@
+---
+name: LogiGear Corporation
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "451167"
+url: https://raw.githubusercontent.com/api-network/organizations/main/logigear-corporation.yaml
+tags:
+- Software Testing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.logigear.com
+- type: x-facebook
+  url: https://www.facebook.com/logigearcorporation/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/logigear-corporation/
+- type: x-twitter
+  url: https://twitter.com/logigear
+- type: x-website
+  url: https://www.logigear.com
+- type: x-youtube
+  url: https://www.youtube.com/user/LogiGearCorporation
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

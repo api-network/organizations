@@ -1,0 +1,39 @@
+---
+name: i360technologies, Inc.
+description: Providing agile and innovative enterprise solutions in a timely and fiscally
+  responsible manner - i360technologies, Oracle Enterprise Solutions
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8117654"
+url: https://raw.githubusercontent.com/api-network/organizations/main/i360technologies-inc-.yaml
+tags:
+- Professional Services
+apis: []
+x-common:
+- type: x-about
+  url: https://i360technologies.com/about-i360technologies/
+- type: x-careers
+  url: http://i360technologies.com/careers/
+- type: x-contact
+  url: http://i360technologies.com/contact-us/
+- type: x-contact
+  url: https://i360technologies.com/contact-us/
+- type: x-contact
+  url: http://i360technologies.com/contact-us
+- type: x-facebook
+  url: https://www.facebook.com/i360technologies/
+- type: x-login
+  url: https://tbe.taleo.net/MANAGER/dispatcher/login.jsp
+- type: x-twitter
+  url: https://twitter.com/i360tech
+- type: x-website
+  url: https://www.i360technologies.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

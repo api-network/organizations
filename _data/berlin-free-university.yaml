@@ -1,0 +1,24 @@
+---
+name: Berlin, Free University
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "11514"
+url: https://raw.githubusercontent.com/api-network/organizations/main/berlin-free-university.yaml
+tags:
+- Germany
+apis: []
+x-common:
+- type: x-news
+  url: http://www.idw-online.de/en/news581671
+- type: x-website
+  url: https://www.inf.fu-berlin.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,29 @@
+---
+name: The Robot World Cup Initiative
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "814375"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-robot-world-cup-initiative.yaml
+tags:
+- RoboCup
+- Contests
+apis: []
+x-common:
+- type: x-website
+  url: http://www.robocup.org
+- type: x-facebook
+  url: https://www.facebook.com/robocup.org
+- type: x-twitter
+  url: https://twitter.com/robocup_org
+- type: x-website
+  url: https://www.robocup.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,30 @@
+---
+name: Mission Critical Systems
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mission-critical-systems.yaml
+tags:
+- Products And Tools
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/MissionCriticalSystems/
+- type: x-linkedin
+  url: https://www.linkedin.com/company-beta/40899/
+- type: x-partner
+  url: https://www.locked.com/partner/swimlane
+- type: x-support
+  url: https://support.locked.com/
+- type: x-website
+  url: https://www.locked.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

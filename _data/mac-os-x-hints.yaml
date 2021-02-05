@@ -1,0 +1,33 @@
+---
+name: Mac OS X Hints
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8567"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mac-os-x-hints.yaml
+tags: []
+apis: []
+x-common:
+- type: x-contact
+  url: http://www.macworld.com/contact.html
+- type: x-forum
+  url: http://forums.macosxhints.com
+- type: x-github
+  url: https://github.com/alexzielenski/Mousecape
+- type: x-news
+  url: http://hints.macworld.com/index.php?topic=1sitenews
+- type: x-press
+  url: http://onflapp.wordpress.com/lincastor/
+- type: x-privacy
+  url: http://www.macworld.com/info/privacy/
+- type: x-website
+  url: https://hints.macworld.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,55 @@
+---
+name: Endouble.com
+description: 'Endouble builds and optimises global data-driven career platforms. Recruit
+  more efficiently and focus on the most important thing: hire the best people.'
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29328-endouble-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/endouble-com.yaml
+tags:
+- Recruitment
+- Profile
+- Marketing
+- Human Resources
+- Ats
+apis: []
+x-common:
+- type: x-about
+  url: https://endouble.com/about/
+- type: x-blog
+  url: https://endouble.com/blog/
+- type: x-blog
+  url: https://offer.endouble.com/subscribe-to-blog
+- type: x-blog
+  url: https://blog.endouble.com/
+- type: x-contact
+  url: https://endouble.com/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/endouble
+- type: x-email
+  url: joanna@endouble.com
+- type: x-email
+  url: info@endouble.com
+- type: x-events
+  url: https://endouble.com/events
+- type: x-facebook
+  url: https://www.facebook.com/endoublecom
+- type: x-linkedin
+  url: https://www.linkedin.com/company/endouble-com
+- type: x-privacy
+  url: https://endouble.com/privacy-statement/
+- type: x-terms-of-service
+  url: https://endouble.com/termsandconditions/
+- type: x-twitter
+  url: https://twitter.com/endoublecom
+- type: x-website
+  url: http://endouble.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

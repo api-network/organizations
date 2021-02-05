@@ -1,0 +1,25 @@
+---
+name: BlogJet
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2747081"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blogjet.yaml
+tags: []
+apis: []
+x-common:
+- type: x-feed
+  url: http://www.blogjet.com/feed.xml
+- type: x-press
+  url: http://codex.wordpress.org/Custom_Fields
+- type: x-website
+  url: https://www.blogjet.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,36 @@
+---
+name: RapidSVN
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "585138"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rapidsvn.yaml
+tags:
+- Subversion
+apis: []
+x-common:
+- type: x-code
+  url: http://www.open.collab.net/cloud/?cid=tigriscodesion
+- type: x-code
+  url: http://www.open.collab.net/cloud?cid=tigriscodesion
+- type: x-developer
+  url: http://developer.rapidsvn.tigris.org
+- type: x-open-source
+  url: http://www.open.collab.net/products/subversion
+- type: x-open-source
+  url: http://ankhsvn.open.collab.net/
+- type: x-press
+  url: http://tigrisdotorg.wordpress.com
+- type: x-twitter
+  url: http://twitter.com/tigrisdotorg
+- type: x-website
+  url: https://rapidsvn.tigris.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,40 @@
+---
+name: Wireless Time Clock
+description: See the latest web-based time clocks at competitive prices at WirelessTimeClock.com.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wireless-time-clock.yaml
+tags:
+- Time Tracking
+apis: []
+x-common:
+- type: x-about
+  url: https://wirelesstimeclock.com/about-us/
+- type: x-blog
+  url: https://wirelesstimeclock.com/blog/
+- type: x-contact
+  url: https://www.wirelesstimeclock.com/contact/
+- type: x-contact
+  url: https://wirelesstimeclock.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/pg/wirelesstimeclock1
+- type: x-plans
+  url: https://www.wirelesstimeclock.com/service-plans/
+- type: x-plans
+  url: https://wirelesstimeclock.com/service-plans/
+- type: x-privacy
+  url: https://wirelesstimeclock.com/privacy-policy/
+- type: x-signup
+  url: https://trackmytime.com/signup/
+- type: x-website
+  url: https://www.wirelesstimeclock.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

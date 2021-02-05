@@ -1,0 +1,42 @@
+---
+name: PCB West
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3962144"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pcb-west.yaml
+tags:
+- Conferences
+apis: []
+x-common:
+- type: x-website
+  url: http://www.pcbwest.com/
+- type: x-contact
+  url: https://pcbwest.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/PCBwest/
+- type: x-instagram
+  url: https://www.instagram.com/pcbwest2020/
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/2910497
+- type: x-news
+  url: https://pcbwest.com/news/
+- type: x-press
+  url: https://pcbwest.com/media-press/
+- type: x-press
+  url: https://www.protoexpress.com/
+- type: x-support
+  url: https://pcbwest.com/help-faq/
+- type: x-twitter
+  url: https://twitter.com/PCBWest
+- type: x-website
+  url: https://pcbwest.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

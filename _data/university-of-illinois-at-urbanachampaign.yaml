@@ -1,0 +1,44 @@
+---
+name: University of Illinois at Urbana-Champaign
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3383"
+url: https://raw.githubusercontent.com/api-network/organizations/main/university-of-illinois-at-urbanachampaign.yaml
+tags:
+- Illinois
+apis: []
+x-common:
+- type: x-about
+  url: https://cs.illinois.edu/about-us/awards
+- type: x-about
+  url: https://cs.illinois.edu/about-us/awards/alumni-awards
+- type: x-facebook
+  url: https://www.facebook.com/CSatIllinois/
+- type: x-instagram
+  url: https://www.instagram.com/illinoiscs/
+- type: x-linkedin
+  url: http://www.linkedin.com/groups?gid=4531628
+- type: x-news
+  url: https://cs.illinois.edu/news/click-magazine
+- type: x-news
+  url: https://cs.illinois.edu/news/e-news
+- type: x-news
+  url: https://cs.illinois.edu/alumni#news
+- type: x-privacy
+  url: https://www.vpaa.uillinois.edu/resources/web_privacy
+- type: x-twitter
+  url: https://twitter.com/IllinoisCS
+- type: x-website
+  url: https://www.cs.illinois.edu
+- type: x-youtube
+  url: https://www.youtube.com/user/IllinoisCS
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

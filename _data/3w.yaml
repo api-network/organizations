@@ -1,0 +1,36 @@
+---
+name: 3W
+description: 3W is an IT security company delivering enterprise mobility business
+  solutions and services
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/3w.yaml
+tags:
+- IT Security
+- Europe
+- Business Mobility
+- 3W
+apis: []
+x-common:
+- type: x-about
+  url: https://www.3w.com.pt/about
+- type: x-careers
+  url: https://www.3w.com.pt/careers
+- type: x-contact
+  url: https://www.3w.com.pt/contacts
+- type: x-customers
+  url: https://www.3w.com.pt/customers
+- type: x-terms-of-service
+  url: https://www.3w.com.pt/terms-of-use
+- type: x-website
+  url: https://www.3w.com.pt
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

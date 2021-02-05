@@ -1,0 +1,35 @@
+---
+name: Nippur
+description: Uitgerust met brede vakkennis werken de BI specialisten van Nippur met
+  je samen aan een passende en verantwoorde data-oplossing.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nippur.yaml
+tags:
+- Consultants
+apis: []
+x-common:
+- type: x-website
+  url: http://www.nippur.nl
+- type: x-blog
+  url: https://nippur.nl/blogs/
+- type: x-contact
+  url: https://nippur.nl/contact/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/nippur/
+- type: x-twitter
+  url: https://twitter.com/nippurbi
+- type: x-website
+  url: https://www.nippur.nl
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=vcS_PDfx8wQ
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,33 @@
+---
+name: Veign's Freeware Tools
+description: Veign provides machine learning insights and understanding.  Know before
+  you spend the big money.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5614577"
+url: https://raw.githubusercontent.com/api-network/organizations/main/veigns-freeware-tools.yaml
+tags:
+- Veign
+- Machine Learning
+- Developers
+apis: []
+x-common:
+- type: x-website
+  url: https://veign.com/
+- type: x-facebook
+  url: https://www.facebook.com/veignllc
+- type: x-linkedin
+  url: https://www.linkedin.com/company/veign
+- type: x-twitter
+  url: https://twitter.com/veign
+- type: x-website
+  url: https://www.veign.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

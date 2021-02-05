@@ -1,0 +1,57 @@
+---
+name: Acnodes Corp.
+description: Acondes - solutions for automation, military & industrial computer applications.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "761136"
+url: https://raw.githubusercontent.com/api-network/organizations/main/acnodes-corp-.yaml
+tags:
+- Rack Mount Monitor
+- Rack Mount Computer
+- Panel PC
+- Industrial Monitor
+- Industrial Computer
+- Industrial
+apis: []
+x-common:
+- type: x-website
+  url: http://www.acnodes.com
+- type: x-about
+  url: https://www.acnodes.com/about/
+- type: x-about
+  url: https://www.acnodes.com/about
+- type: x-blog
+  url: https://www.acnodes.com/blog/
+- type: x-blog
+  url: https://www.acnodes.com/blog/pc8278/
+- type: x-blog
+  url: https://www.acnodes.com/blog
+- type: x-contact
+  url: https://www.acnodes.com/contact-us/
+- type: x-contact
+  url: https://www.acnodes.com/contacts
+- type: x-developer
+  url: http://dev.acnodes.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/acnodes-corporation
+- type: x-login
+  url: https://www.acnodes.com/customer/account/login
+- type: x-login
+  url: https://www.acnodes.com/customer/account/login/
+- type: x-support
+  url: https://www.acnodes.com/support-page/
+- type: x-support
+  url: https://www.acnodes.com/support-page
+- type: x-twitter
+  url: https://twitter.com/#!/acnodescorp
+- type: x-website
+  url: https://www.acnodes.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

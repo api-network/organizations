@@ -1,0 +1,38 @@
+---
+name: Meetingbird
+description: <p>Meetingbird's simple interface and powerful integrations make scheduling
+  meetings seamless. Clean and professional, Meetingbird's scheduling interface makes
+  it easy for your clients or colleagues to find a time to meet. And with Meetingbird's
+  robust preferences, you can effortlessly customize meeting times, locations, timezones,
+  and more.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28426-www-meetingbird-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "328163"
+url: https://raw.githubusercontent.com/api-network/organizations/main/meetingbird.yaml
+tags:
+- Meetings
+- Marketplaces
+- Integrations
+- Calendars
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://meetingbird.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/meetingbird
+- type: x-developers
+  url: https://www.meetingbirdapi.com/
+- type: x-twitter
+  url: https://twitter.com/meetingbird
+- type: x-website
+  url: https://www.meetingbird.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

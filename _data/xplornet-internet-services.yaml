@@ -1,0 +1,74 @@
+---
+name: Xplornet Internet Services
+description: Looking for fast and reliable high-speed Internet? Look no further. We
+  offer great internet service anywhere in Canada. Call 1-877-969-3152 or visit us.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "217811"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xplornet-internet-services.yaml
+tags:
+- Satellite
+- Alberta
+apis: []
+x-common:
+- type: x-website
+  url: http://www.xplornet.com
+- type: x-about
+  url: https://www.xplornet.com/about/
+- type: x-about
+  url: https://www.xplornet.com/about
+- type: x-about
+  url: https://www.xplornet.com/about/government-programs/
+- type: x-blog
+  url: https://www.xplornet.com/blog/are-you-phishing-savvy/
+- type: x-blog
+  url: https://www.xplornet.com/blog/
+- type: x-careers
+  url: https://www.xplornet.com/about/careers/
+- type: x-contact
+  url: https://www.xplornet.com/contact-us/
+- type: x-contact
+  url: https://www.xplornet.com/contact-us/sales/
+- type: x-contact
+  url: https://www.xplornet.com/contact-us/customer-support/
+- type: x-customers
+  url: https://xplornet.force.com/customers/loginCommunity
+- type: x-facebook
+  url: https://www.facebook.com/Xplornet
+- type: x-investor
+  url: https://www.xplornet.com/about/investor-relations/
+- type: x-news
+  url: https://www.xplornet.com/about/news/
+- type: x-support
+  url: https://www.xplornet.com/support/
+- type: x-support
+  url: https://www.xplornet.com/support/internet/
+- type: x-support
+  url: https://www.xplornet.com/support/home-phone/
+- type: x-support
+  url: https://www.xplornet.com/support/getting-started/
+- type: x-support
+  url: https://www.xplornet.com/support/troubleshooting/
+- type: x-support
+  url: https://www.xplornet.com/support/billing-account/
+- type: x-terms-of-service
+  url: https://www.xplornet.com/legal/
+- type: x-terms-of-service
+  url: https://www.xplornet.com/legal/usage-traffic-policies/
+- type: x-terms-of-service
+  url: https://www.xplornet.com/legal/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/Xplornet
+- type: x-website
+  url: https://www.xplornet.com
+- type: x-youtube
+  url: https://www.youtube.com/xplornetonline
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

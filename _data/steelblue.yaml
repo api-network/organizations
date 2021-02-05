@@ -1,0 +1,43 @@
+---
+name: SteelBlue
+description: Built for comfort, made for work. We stand behind the comfort and quality
+  of our Steel Blue work boots with our 100% Comfort Guarantee.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1251831"
+url: https://raw.githubusercontent.com/api-network/organizations/main/steelblue.yaml
+tags:
+- Open Source
+apis: []
+x-common:
+- type: x-about
+  url: https://steelblue.com/us/about/
+- type: x-contact
+  url: https://steelblue.com/us/contact/
+- type: x-facebook
+  url: https://www.facebook.com/STEELBLUEBoots
+- type: x-instagram
+  url: http://instagram.com/steelblueboots
+- type: x-linkedin
+  url: http://www.linkedin.com/company/steel-blue-boots
+- type: x-login
+  url: https://steelblue.com/us/distributor-login/
+- type: x-news
+  url: https://steelblue.com/us/category/news-us/
+- type: x-privacy
+  url: https://steelblue.com/us/privacy-policy/
+- type: x-support
+  url: https://steelblue.com/us/customer-support/
+- type: x-website
+  url: https://www.steelblue.com
+- type: x-youtube
+  url: https://www.youtube.com/user/steelblueboots
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

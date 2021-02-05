@@ -1,0 +1,27 @@
+---
+name: Genesis Vision
+description: Genesis Vision is the platform for the private trust management market,
+  built on Blockchain technology and Smart Contracts.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26862-genesis-vision.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "99062"
+url: https://raw.githubusercontent.com/api-network/organizations/main/genesis-vision.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/genesis-campus
+- type: x-twitter
+  url: https://twitter.com/genesis_vision
+- type: x-website
+  url: https://genesis.vision
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

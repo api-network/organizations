@@ -1,0 +1,23 @@
+---
+name: resources.sdtimes.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/resources-sdtimes-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://resources.sdtimes.com/whitepaper-neotys-testing-in-production
+- type: x-website
+  url: http://resources.sdtimes.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

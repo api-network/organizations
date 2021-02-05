@@ -1,0 +1,23 @@
+---
+name: mindfulcyborgs.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mindfulcyborgs-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://mindfulcyborgs.com/shows/2013/12/6/episode-16-data-hacking-with-fanatics-and-the-api-coming-out-party
+- type: x-website
+  url: http://mindfulcyborgs.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

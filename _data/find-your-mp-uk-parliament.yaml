@@ -1,0 +1,32 @@
+---
+name: Find Your MP- UK Parliament
+description: Parliament is made up of the House of Commons and House of Lords. It
+  is responsible for making laws, deciding taxes and scrutinising the Government.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/785-find-your-mp--uk-parliament.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "18246"
+url: https://raw.githubusercontent.com/api-network/organizations/main/find-your-mp-uk-parliament.yaml
+tags:
+- Politics
+- Parliament
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://findyourmp.parliament.uk/api
+- type: x-website
+  url: http://www.parliament.uk/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/parliament
+- type: x-twitter
+  url: https://twitter.com/UKParliament
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

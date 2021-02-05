@@ -1,0 +1,70 @@
+---
+name: Misfit
+description: '<p>Misfit is focused on developing great wearable products: things that
+  people would want to wear all the time for a long time. A pioneer in the emerging
+  world of wearable sensor technology, the company is making products and services
+  in the consumer health and fitness space to inspire people be more active and develop
+  healthy habits. Misfit&rsquo;s first product is the Shine, an elegant personal activity
+  tracker that you can instantly sync with your smartphone just by placing the device
+  on the screen.</p>'
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/misfit-wearables.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "190998"
+url: https://raw.githubusercontent.com/api-network/organizations/main/misfit.yaml
+tags:
+- Wearables
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.misfit.com
+- type: x-about
+  url: https://www.fossilgroup.com/about-us/
+- type: x-blog
+  url: http://blog.misfit.com
+- type: x-blog
+  url: http://blog.misfit.com/
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/MisfitWearablesBlog
+- type: x-careers
+  url: https://misfit.com/jobs/
+- type: x-contact
+  url: http://enterprise.misfit.com/contactus
+- type: x-contact
+  url: https://misfit.com/contactform/
+- type: x-facebook
+  url: http://www.facebook.com/MisfitWearables
+- type: x-github
+  url: https://github.com/Misfit-Developers
+- type: x-instagram
+  url: https://instagram.com/misfitwearables/
+- type: x-support
+  url: https://misfit.com/catalogsearch/result/support/
+- type: x-support
+  url: https://misfit.com/support/
+- type: x-terms-of-service
+  url: https://misfit.com/legal/terms_of_use/
+- type: x-terms-of-service
+  url: https://misfit.com/legal/privacy_policy/
+- type: x-terms-of-service
+  url: https://misfit.com/legal/app_privacy_policy/
+- type: x-terms-of-service
+  url: https://misfit.com/legal/return_policy/
+- type: x-terms-of-service
+  url: https://misfit.com/legal/warranty_policy/
+- type: x-twitter
+  url: https://twitter.com/Misfit
+- type: x-website
+  url: https://build.misfit.com/
+- type: x-youtube
+  url: https://youtube.com/c/Misfit
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,59 @@
+---
+name: L-Soft
+description: L-Soft is the exclusive provider of LISTSERV brand email list software,
+  email marketing software and email list hosting services.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "567797"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lsoft.yaml
+tags:
+- Software
+- Permission Email Marketing
+- Opt-in List
+- Opt-in Email Marketing
+- Mailing List Software
+- Mailing List Manager
+- Mailing List Management Software
+- Mailing List
+- LISTSERV Maestro
+- Listserv
+- ListPlex
+- List Server
+- Email Newsletter
+- Email Marketing Software
+- Email Marketing
+- Email List Software
+- Email List Manager
+- Email List Management Software
+- Email List Hosting
+- Email List
+- Email Community
+- Discussion List
+- Discussion Group
+- Discussion Forum
+- Discussion Community
+apis: []
+x-common:
+- type: x-website
+  url: http://www.LSOFT.COM
+- type: x-facebook
+  url: https://www.facebook.com/listserv
+- type: x-instagram
+  url: https://instagram.com/lsoftlistserv
+- type: x-linkedin
+  url: https://www.linkedin.com/company/l-soft
+- type: x-twitter
+  url: https://twitter.com/LSoftLISTSERV
+- type: x-website
+  url: https://www.lsoft.com
+- type: x-youtube
+  url: https://www.youtube.com/LSoftLISTSERV
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

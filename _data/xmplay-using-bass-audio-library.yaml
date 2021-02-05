@@ -1,0 +1,22 @@
+---
+name: XMPlay using BASS audio library
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1441864"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xmplay-using-bass-audio-library.yaml
+tags:
+- Players
+apis: []
+x-common:
+- type: x-website
+  url: https://www.un4seen.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

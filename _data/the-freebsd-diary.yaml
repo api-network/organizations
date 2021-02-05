@@ -1,0 +1,32 @@
+---
+name: The FreeBSD Diary
+description: The FreeBSD Diary is a collection of how-to guides for the FreeBSD operating
+  system. Provding practical examples since 1998.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3952535"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-freebsd-diary.yaml
+tags:
+- Unix
+- Tips
+- Sample
+- Install
+- Guide
+- FreeBSD
+- Example
+- Diary
+apis: []
+x-common:
+- type: x-news
+  url: http://www.supernews.com/
+- type: x-website
+  url: https://www.freebsddiary.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,29 @@
+---
+name: SPC for Excel
+description: Provider of SPC for Excel software and SPC training and consulting
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "312515"
+url: https://raw.githubusercontent.com/api-network/organizations/main/spc-for-excel.yaml
+tags:
+- Statistical Process Control
+- Spc Software
+- Process
+- Excel Spc Software
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/spcforexcel
+- type: x-linkedin
+  url: https://www.linkedin.com/company/3569889
+- type: x-website
+  url: https://www.spcforexcel.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

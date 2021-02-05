@@ -1,0 +1,58 @@
+---
+name: Magento
+description: Magento empowers thousands of retailers and brands with the best eCommerce
+  platforms and flexible cloud solutions to rapidly innovate and grow.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "296130"
+url: https://raw.githubusercontent.com/api-network/organizations/main/magento.yaml
+tags:
+- E-commerce
+- Commerce
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-developer
+  url: https://developer.magento.com/
+- type: x-documentation
+  url: https://devdocs.magento.com
+- type: x-events
+  url: https://magento.com/events
+- type: x-facebook
+  url: https://facebook.com/magento
+- type: x-github
+  url: https://github.com/magento/magento2
+- type: x-instagram
+  url: https://www.instagram.com/magentocommerce/
+- type: x-linkedin
+  url: https://linkedin.com/company/magento
+- type: x-login
+  url: https://account.magento.com/customer/account/login
+- type: x-marketplace
+  url: https://marketplace.magento.com/
+- type: x-partner
+  url: https://partners.magento.com/portal/directory/
+- type: x-partner
+  url: https://partners.magento.com/portal/directory
+- type: x-support
+  url: https://support.magento.com/
+- type: x-support
+  url: https://support.magento.com
+- type: x-terms-of-service
+  url: https://magento.com/legal/terms/privacy-shield
+- type: x-twitter
+  url: https://twitter.com/magento
+- type: x-website
+  url: https://www.magentocommerce.com
+- type: x-youtube
+  url: https://youtube.com/user/magentocommerce/featured
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

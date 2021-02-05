@@ -1,0 +1,68 @@
+---
+name: Chicago.pm
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "400592"
+url: https://raw.githubusercontent.com/api-network/organizations/main/chicago-pm.yaml
+tags:
+- United States
+apis: []
+x-common:
+- type: x-website
+  url: http://preaction.me
+- type: x-about
+  url: https://metacpan.org/about/meta_hack
+- type: x-blog
+  url: http://blog.wlindley.com
+- type: x-blog
+  url: http://blogs.perl.org/users/joel_berger/
+- type: x-documentation
+  url: https://docs.perl6.org/language/grammars
+- type: x-events
+  url: https://www.meetup.com/ChicagoPM/events/243591009/
+- type: x-events
+  url: https://www.meetup.com/ChicagoPM/events/240742773/
+- type: x-events
+  url: https://www.meetup.com/ChicagoPM/events/239773480/
+- type: x-events
+  url: https://www.meetup.com/ChicagoPM/events/238505149/
+- type: x-events
+  url: https://www.meetup.com/ChicagoPM/events/237694944/
+- type: x-events
+  url: https://www.meetup.com/ChicagoPM/events/237417941/
+- type: x-events
+  url: https://www.meetup.com/ChicagoPM/events/236748063
+- type: x-github
+  url: http://github.com/ChicagoPM
+- type: x-github
+  url: https://github.com/preaction
+- type: x-github
+  url: https://github.com/cromedome
+- type: x-github
+  url: http://github.com/lindleyw
+- type: x-github
+  url: https://github.com/briandfoy
+- type: x-github
+  url: http://mschilli.github.io/log4perl/
+- type: x-github
+  url: http://github.com/jberger
+- type: x-twitter
+  url: http://twitter.com/preaction
+- type: x-twitter
+  url: https://twitter.com/cromedome
+- type: x-twitter
+  url: http://twitter.com/briandfoy_perl
+- type: x-twitter
+  url: http://twitter.com/joelaberger
+- type: x-website
+  url: https://chicago.pm.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

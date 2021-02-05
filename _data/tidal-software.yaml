@@ -1,0 +1,38 @@
+---
+name: Tidal Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2825370"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tidal-software.yaml
+tags:
+- System Management
+apis: []
+x-common:
+- type: x-about
+  url: https://www.tidalsoftware.com/about/
+- type: x-about
+  url: https://www.tidalsoftware.com/about/leadership/
+- type: x-careers
+  url: https://www.tidalsoftware.com/about/careers/
+- type: x-contact
+  url: https://www.tidalsoftware.com/contact/
+- type: x-integrations
+  url: https://www.tidalsoftware.com/integrations/
+- type: x-partner
+  url: https://www.tidalsoftware.com/about/partnerships/
+- type: x-privacy
+  url: https://www.tidalsoftware.com/privacy-policy/
+- type: x-support
+  url: https://support.tidalautomation.com/
+- type: x-website
+  url: https://www.tidalsoftware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

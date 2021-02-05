@@ -1,0 +1,62 @@
+---
+name: ClaimVantage
+description: Industry-leading software for managing Life, Health and Absence claims
+  efficiently and securely, to deliver superior customer service for a competitive
+  edge.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1802417"
+url: https://raw.githubusercontent.com/api-network/organizations/main/claimvantage.yaml
+tags:
+- Claims Handling
+apis: []
+x-common:
+- type: x-website
+  url: http://www.claimvantage.com
+- type: x-blog
+  url: https://claimvantage.com/blogs/
+- type: x-careers
+  url: https://claimvantage.com/company-overview/careers/
+- type: x-careers
+  url: https://claimvantage.com/careers/
+- type: x-case-studies
+  url: https://claimvantage.com/case-studies/
+- type: x-case-studies
+  url: https://claimvantage.com/case-studies/irish-life/
+- type: x-case-studies
+  url: https://claimvantage.com/case-studies/amerihealth/
+- type: x-contact
+  url: https://claimvantage.com/contact-us/
+- type: x-customers
+  url: https://claimvantage.com/our-customers/
+- type: x-events
+  url: https://claimvantage.com/company-overview/events/
+- type: x-facebook
+  url: https://www.facebook.com/ClaimVantage
+- type: x-linkedin
+  url: https://www.linkedin.com/company/claimvantage/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/252325/?trk=tyah
+- type: x-news
+  url: https://claimvantage.com/news/
+- type: x-pricing
+  url: https://claimvantage.com/software-pricing/
+- type: x-privacy
+  url: https://claimvantage.com/privacy-policy/
+- type: x-security
+  url: https://claimvantage.com/security/
+- type: x-twitter
+  url: https://twitter.com/claimvantage
+- type: x-website
+  url: https://www.claimvantage.com
+- type: x-youtube
+  url: https://www.youtube.com/user/ClaimVantage
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

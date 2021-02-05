@@ -1,0 +1,23 @@
+---
+name: archive2.capradio.org
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/archive2-capradio-org.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://archive2.capradio.org/articles/2012/05/29/sacramento-hackathon-set-for-saturday
+- type: x-website
+  url: http://archive2.capradio.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

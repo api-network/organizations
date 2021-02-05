@@ -1,0 +1,38 @@
+---
+name: Zeropaid.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2424634"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zeropaid-com.yaml
+tags:
+- File Sharing
+apis: []
+x-common:
+- type: x-about
+  url: https://www.zeropaid.com/about-us/
+- type: x-contact
+  url: https://www.zeropaid.com/contact-us/
+- type: x-forum
+  url: http://forums.zeropaid.com/
+- type: x-forum
+  url: http://forums.zeropaid.com/find-new/posts
+- type: x-forum
+  url: http://forums.zeropaid.com/find-popular/content
+- type: x-news
+  url: https://www.zeropaid.com/news/103103/speedify/
+- type: x-privacy
+  url: https://www.zeropaid.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.zeropaid.com/terms-and-conditions/
+- type: x-website
+  url: https://www.zeropaid.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

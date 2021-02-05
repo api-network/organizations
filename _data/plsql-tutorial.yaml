@@ -1,0 +1,25 @@
+---
+name: PLSQL Tutorial
+description: This Oracle PL SQL tutorial teaches you the basics of programming in
+  PL/SQL like cursors, stored procedures, PlSQL functions
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/plsql-tutorial.yaml
+tags:
+- Pl Sql Tutorial
+- Pl Sql Programming
+- Learning Pl Sql
+apis: []
+x-common:
+- type: x-website
+  url: https://www.plsqltutorial.info
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

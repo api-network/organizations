@@ -1,0 +1,36 @@
+---
+name: YeteSoft
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "901541"
+url: https://raw.githubusercontent.com/api-network/organizations/main/yetesoft.yaml
+tags:
+- Bulk Mailers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.1and1soft.com
+- type: x-blog
+  url: https://www.yetesoft.com/blog/
+- type: x-contact
+  url: https://www.yetesoft.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/1and1Mail
+- type: x-twitter
+  url: https://twitter.com/1and1Mail
+- type: x-website
+  url: https://www.yetesoft.com
+- type: x-youtube
+  url: https://www.youtube.com/user/1and1Mail
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=yw7_ijj6dJI
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

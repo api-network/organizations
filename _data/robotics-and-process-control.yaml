@@ -1,0 +1,25 @@
+---
+name: Robotics and Process Control
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "30802"
+url: https://raw.githubusercontent.com/api-network/organizations/main/robotics-and-process-control.yaml
+tags:
+- Research
+- Germany
+apis: []
+x-common:
+- type: x-website
+  url: https://ag-vp-www.informatik.uni-kl.de
+- type: x-website
+  url: https://www.informatik.uni-kl.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

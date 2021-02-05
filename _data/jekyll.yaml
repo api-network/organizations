@@ -1,0 +1,36 @@
+---
+name: Jekyll
+description: Transform your plain text into static websites and blogs
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "57291"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jekyll.yaml
+tags:
+- Publishers
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/jekyll/jekyll/releases/tag/v4.0.0
+- type: x-github
+  url: https://github.com/jekyll/jekyll
+- type: x-github
+  url: https://github.com/Shopify/liquid/wiki
+- type: x-github
+  url: https://pages.github.com/
+- type: x-github
+  url: https://github.com/jekyll/jekyll/blob/master/LICENSE
+- type: x-github
+  url: https://github.com
+- type: x-github
+  url: https://github.com/jekyll/jekyll#sponsors
+- type: x-website
+  url: https://jekyllrb.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

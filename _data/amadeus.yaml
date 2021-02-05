@@ -1,0 +1,84 @@
+---
+name: Amadeus
+description: Amadeus travel technology helps businesses connect to the global travel
+  ecosystem, manage operations more effectively and serve travellers better than ever
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28139-sandbox-amadeus-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "2406"
+url: https://raw.githubusercontent.com/api-network/organizations/main/amadeus.yaml
+tags:
+- Self-Service API Test Envionment
+- Self Service API
+- Relative Data
+- Profile
+- Marketplaces
+- JSON
+- Insurance API
+- Hotels
+- Have Swagger
+- Have API Paths
+- Have API
+- General Data
+- Booking API
+- Booking
+- API Provider
+- Airlines
+apis: []
+x-common:
+- type: x-website
+  url: https://amadeus.com/en/insights/blog
+- type: x-blog
+  url: https://developers.amadeus.com/blog
+- type: x-careers
+  url: https://jobs.amadeus.com/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/amadeus
+- type: x-developer
+  url: https://developers.amadeus.com/
+- type: x-documentation
+  url: https://developers.amadeus.com/self-service/apis-docs
+- type: x-documentation
+  url: https://sandbox.amadeus.com/api-catalog
+- type: x-facebook
+  url: https://www.facebook.com/AmadeusITGroup/?fref=ts
+- type: x-facebook
+  url: https://www.facebook.com/AmadeusITGroup/
+- type: x-getting-started
+  url: https://developers.amadeus.com/get-started/category?id=79&durl=334&parentId=NaN
+- type: x-github
+  url: https://github.com/AmadeusITGroup
+- type: x-linkedin
+  url: https://www.linkedin.com/company/amadeus
+- type: x-pricing
+  url: https://developers.amadeus.com/pricing
+- type: x-privacy
+  url: https://developers.amadeus.com/legal/privacy-policy
+- type: x-privacy-policy
+  url: http://www.amadeus.com/web/amadeus/en_1A-corporate/Amadeus-Home/Amadeus_IT_Group_SA-Legal-notices-2014/1319560218660-Page-AMAD_Detail_PopUp_Ppal?assetid=1319607040997&assettype=DataProtection_C
+- type: x-sandbox
+  url: https://sandbox.amadeus.com
+- type: x-stack-overflow
+  url: https://stackoverflow.com/questions/tagged/amadeus
+- type: x-support
+  url: https://developers.amadeus.com/support
+- type: x-terms-of-service
+  url: http://www.amadeus.com/web/amadeus/en_1A-corporate/Amadeus-Home/Amadeus_IT_Group_SA-Legal-notices-2014/1319560218660-Page-AMAD_Detail_PopUp_Ppal?assetid=1319607040997&assettype=DataProtection_C
+- type: x-twitter
+  url: https://twitter.com/AmadeusITGroup
+- type: x-twitter
+  url: https://twitter.com/amadeusinnov
+- type: x-website
+  url: http://developers.amadeus.com
+- type: x-website
+  url: https://amadeus.com
+- type: x-youtube
+  url: https://www.youtube.com/user/AmadeusITGroup
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,30 @@
+---
+name: Acegreetings.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5671544"
+url: https://raw.githubusercontent.com/api-network/organizations/main/acegreetings-com.yaml
+tags:
+- E-greetings
+apis: []
+x-common:
+- type: x-about
+  url: https://www.acegreetings.com/about-us/
+- type: x-contact
+  url: https://www.acegreetings.com/contact-us/
+- type: x-news
+  url: https://www.acegreetings.com/category/latest-news/
+- type: x-privacy
+  url: https://www.acegreetings.com/privacy-policy/
+- type: x-website
+  url: https://www.acegreetings.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,23 @@
+---
+name: thewire.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/thewire-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.thewire.com/national/2014/06/colorado-governor-gives-approval-to-new-banking-system-for-pot-sales/372357/
+- type: x-website
+  url: http://thewire.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

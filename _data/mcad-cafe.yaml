@@ -1,0 +1,42 @@
+---
+name: MCAD Cafe
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "436861"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mcad-cafe.yaml
+tags:
+- Schools Associations Directories Training
+apis: []
+x-common:
+- type: x-blog
+  url: https://www10.MCADcafe.com/blogs/jeffrowe/
+- type: x-blog
+  url: https://www10.MCADcafe.com/blogs/
+- type: x-blog
+  url: http://www10.mcadcafe.com/blogs/jeffrowe
+- type: x-blog
+  url: https://www10.mcadcafe.com/blogs/jeffrowe
+- type: x-blog
+  url: https://www10.mcadcafe.com/blogs/prostep
+- type: x-documentation
+  url: https://www10.MCADcafe.com/documentation/ad_spec.php
+- type: x-documentation
+  url: https://www10.MCADcafe.com/documentation/mailblast.php
+- type: x-news
+  url: https://pacdesignshow.designnews.com
+- type: x-privacy
+  url: https://www10.MCADcafe.com/policy/privacy_policy.php
+- type: x-terms-of-service
+  url: https://www10.MCADcafe.com/rss/terms.php
+- type: x-website
+  url: https://www.mcadcafe.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

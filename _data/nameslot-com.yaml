@@ -1,0 +1,94 @@
+---
+name: Nameslot.com
+description: A Free Domain name forum to Buy Sell and Talk Domain Names
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1378620"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nameslot-com.yaml
+tags:
+- Resources
+apis: []
+x-common:
+- type: x-blog
+  url: https://whoapi.com/blog
+- type: x-careers
+  url: https://whoapi.com/page/careers
+- type: x-contact
+  url: https://whoapi.com/page/contact
+- type: x-developer
+  url: https://whoapi.com/
+- type: x-developer
+  url: https://whoapi.com/page/api
+- type: x-developer
+  url: https://domainnames.whoapi.com/
+- type: x-developer
+  url: https://whoapi.com/screenshot_api
+- type: x-developer
+  url: https://whoapi.com/geolocation_api
+- type: x-developer
+  url: https://whoapi.com/page/console_tool_page
+- type: x-developer
+  url: https://whoapi.com/page/team
+- type: x-developer
+  url: https://whoapi.com/page/promo
+- type: x-documentation
+  url: https://whoapi.com/documentation/api/whois
+- type: x-documentation
+  url: https://whoapi.com/documentation
+- type: x-documentation
+  url: https://whoapi.com/documentation/tlds
+- type: x-documentation
+  url: https://whoapi.com/documentation/code_examples
+- type: x-documentation
+  url: https://whoapi.com/documentation/api/domain-score
+- type: x-facebook
+  url: http://facebook.com/nameslotcom
+- type: x-facebook
+  url: https://facebook.com/nameslotcom
+- type: x-facebook
+  url: http://facebook.com/whoapi
+- type: x-forum
+  url: https://nameslot.com/forums/fixed-price-domain-name.5/
+- type: x-forum
+  url: https://nameslot.com/forums/auction-domain-names.7/
+- type: x-forum
+  url: https://nameslot.com/forums/domain-name-request.6/
+- type: x-forum
+  url: https://nameslot.com/forums/websites-for-sale.37/
+- type: x-forum
+  url: https://nameslot.com/forums/nameslot-helpdesk.27/
+- type: x-forum
+  url: https://nameslot.com/forums/domain-discussions.39/
+- type: x-forum
+  url: https://whoapi.com/forum
+- type: x-investor
+  url: https://whoapi.com/page/investors_and_partners
+- type: x-login
+  url: https://whoapi.com/user/login
+- type: x-news
+  url: https://nameslot.com/forums/domain-news.23/
+- type: x-privacy
+  url: https://whoapi.com/page/privacy_policy
+- type: x-signup
+  url: https://whoapi.com/user/signup
+- type: x-support
+  url: https://nameslot.com/help/nosale/
+- type: x-terms-of-service
+  url: https://whoapi.com/page/terms_of_use
+- type: x-twitter
+  url: http://twitter.com
+- type: x-twitter
+  url: http://twitter.com/whoapi
+- type: x-twitter
+  url: http://twitter.com/nameslot
+- type: x-website
+  url: https://www.nameslot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

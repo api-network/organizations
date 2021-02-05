@@ -1,0 +1,50 @@
+---
+name: www.ZEDO.com
+description: ZEDO is a leading global online ad platform with one of the best ad servers,
+  high-impact ad formats with viewable impressions, and private exchange solutions.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6968"
+url: https://raw.githubusercontent.com/api-network/organizations/main/www-zedo-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-about
+  url: https://www.zedo.com/about-zedo/
+- type: x-about
+  url: https://www.zedo.com/about-zedo/management-team/
+- type: x-about
+  url: https://www.zedo.com/about-zedo/job-opportunities/
+- type: x-about
+  url: https://www.zedo.com/about-zedo/fight-spyware/
+- type: x-about
+  url: https://www.zedo.com/about-zedo/opt-out/
+- type: x-blog
+  url: https://www.zedo.com/blog/
+- type: x-contact
+  url: https://www.zedo.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/ZEDOadsolutions
+- type: x-investor
+  url: https://www.zedo.com/about-zedo/investors/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/zedo
+- type: x-news
+  url: https://www.zedo.com/news/
+- type: x-privacy
+  url: https://www.zedo.com/about-zedo/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/ZEDOinc
+- type: x-twitter
+  url: https://twitter.com/TwitterDev
+- type: x-website
+  url: https://www.zedo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

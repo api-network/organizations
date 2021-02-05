@@ -1,0 +1,42 @@
+---
+name: Cabling-Design
+description: CAT5, CAT6 and Fiber answers in our FREE Helpdesk. Ask you cabling question
+  for FREE. Find pinouts, color codes and other great references here.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1941018"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cablingdesign.yaml
+tags:
+- Home Cabling
+- Cabling
+apis: []
+x-common:
+- type: x-code
+  url: http://www.cabling-design.com/references/colorcodes/
+- type: x-contact
+  url: http://www.cabling-design.com/contact.shtml
+- type: x-forum
+  url: http://forums.cabling-design.com/
+- type: x-marketplace
+  url: http://www.cabling-design.com/marketplace/books/
+- type: x-news
+  url: http://www.cabling-design.com/newsletter/
+- type: x-news
+  url: http://www.cabling-design.com/news/industrynews.cgi
+- type: x-news
+  url: http://www.cabling-design.com/news/site/
+- type: x-support
+  url: http://www.cabling-design.com/helpdesk/
+- type: x-support
+  url: http://www.cabling-design.com/help.shtml
+- type: x-website
+  url: https://www.cabling-design.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

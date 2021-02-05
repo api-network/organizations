@@ -1,0 +1,84 @@
+---
+name: WinCustomize
+description: Download wallpapers, icons, skins, themes for Windows 10/7/Vista/XP,
+  sound schemes, WindowBlinds, Deskscapes, WinAmp, ObjectDock and More!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "67992"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wincustomize.yaml
+tags:
+- XP Visual Styles
+- XP Themes
+- XP Styles
+- WinStyles
+- Windows 10
+- WindowBlinds
+- WinAmp Skins
+- Win Media Player
+- Wallpapers
+- ThemeXP
+- Stardock
+- Sound Schemes
+- Skinz
+- Skins
+- Object Bar
+- NextStart
+- Msstyles
+- LiteStep
+- Icon Packager
+- Directories
+- DesktopX
+- Customize
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.wincustomize.com
+- type: x-forum
+  url: https://forums.wincustomize.com/
+- type: x-forum
+  url: https://forums.wincustomize.com/498323
+- type: x-forum
+  url: https://forums.wincustomize.com/498272
+- type: x-forum
+  url: https://forums.wincustomize.com/498254
+- type: x-forum
+  url: https://forums.wincustomize.com/498274
+- type: x-forum
+  url: https://forums.wincustomize.com/498312
+- type: x-forum
+  url: https://forums.wincustomize.com/496466
+- type: x-forum
+  url: https://forums.wincustomize.com/498314
+- type: x-forum
+  url: https://forums.wincustomize.com/498119
+- type: x-forum
+  url: https://forums.wincustomize.com/498300
+- type: x-forum
+  url: https://forums.wincustomize.com/498285
+- type: x-forum
+  url: https://forums.wincustomize.com
+- type: x-forum
+  url: https://forums.wincustomize.com/forum/153
+- type: x-forum
+  url: https://forums.wincustomize.com/498323/#replies
+- type: x-forum
+  url: https://forums.wincustomize.com/498272/#replies
+- type: x-forum
+  url: https://forums.wincustomize.com/498254/#replies
+- type: x-forum
+  url: https://forums.wincustomize.com/498274/#replies
+- type: x-forum
+  url: https://forums.wincustomize.com/498312/#replies
+- type: x-forum
+  url: https://forums.wincustomize.com/recent
+- type: x-website
+  url: https://www.wincustomize.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

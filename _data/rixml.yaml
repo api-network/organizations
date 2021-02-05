@@ -1,0 +1,34 @@
+---
+name: RIXML
+description: '<p>The RIXML Standards Suite is made up of the following XML standards:
+  RIXML Research Standard, Interactions Standard, RIXML Analyst Roster Standard, and
+  RIXML Coverage Standard. These standards were created by a consortium of buy-side,
+  sell-side, and vendor firms, and are modified as needed to address changes in the
+  marketplace and to incorporate feedback from its member firms stemming from implementation
+  projects and substantial exposure to real instance documents produced industry-wide.
+  Using the RIXML standard enables firms to improve the process of categorizing, aggregating,
+  comparing, sorting, searching, and distributing global financial research, and of
+  accurately describing interactions to facilitate compliance with MiFID II.</p>'
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/rixml.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rixml.yaml
+tags:
+- Standards
+- Have API
+- Financial
+apis: []
+x-common:
+- type: x-linkedin
+  url: https://www.linkedin.com/company/rixml-org
+- type: x-website
+  url: http://www.rixml.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

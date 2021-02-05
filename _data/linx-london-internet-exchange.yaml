@@ -1,0 +1,62 @@
+---
+name: LINX London Internet Exchange
+description: The London Internet Exchange is one of the largest Internet exchanges
+  in the world, connecting over 880 member ASNs from over 80 countries- Join LINX
+  today!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "524223"
+url: https://raw.githubusercontent.com/api-network/organizations/main/linx-london-internet-exchange.yaml
+tags:
+- United Kingdom
+apis: []
+x-common:
+- type: x-website
+  url: http://www.linx.net
+- type: x-about
+  url: https://www.linx.net/about/
+- type: x-about
+  url: https://www.linx.net/about/our-network/
+- type: x-about
+  url: https://www.linx.net/about-pa/
+- type: x-about
+  url: https://www.linx.net/about/meettheteam/
+- type: x-about
+  url: https://www.linx.net/about/linxaward/
+- type: x-about
+  url: https://www.linx.net/about/training/
+- type: x-contact
+  url: https://www.linx.net/about/contact-us/
+- type: x-contact
+  url: https://www.linx.net/contact/linx-news/
+- type: x-contact
+  url: https://www.linx.net/contact/events/
+- type: x-contact
+  url: https://www.linx.net/contact/newsevents-hotlinx/
+- type: x-contact
+  url: https://www.linx.net/contact/linx-newsletter/
+- type: x-contact
+  url: https://www.linx.net/contact/linx-news/author/lynsey/
+- type: x-contact
+  url: https://www.linx.net/contact/linx-news/author/jeremy/
+- type: x-facebook
+  url: https://www.facebook.com/LondonInternetExchange/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/linx
+- type: x-privacy
+  url: https://www.linx.net/privacy-policies/
+- type: x-twitter
+  url: https://twitter.com/linx_network
+- type: x-website
+  url: https://www.linx.net
+- type: x-youtube
+  url: https://www.youtube.com/user/LINXnetwork
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

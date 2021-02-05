@@ -1,0 +1,94 @@
+---
+name: TelAPI
+description: Zang offers business communications tools & voice app development platforms
+  that bring innovation and ease to unified communications & collaboration solutions.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1176_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/telapi.yaml
+tags:
+- Telecommunications
+- Telecommunications
+- Target
+- Relative Data
+- Messages
+- Messages
+- Have API Paths
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.zang.io
+- type: x-base
+  url: https://api.telapi.com
+- type: x-blog
+  url: http://www.TelAPI.com/blog/
+- type: x-blog
+  url: http://blog.zang.io/send-sms-service-built-on-zang
+- type: x-blog-rss
+  url: http://www.telapi.com/blog/feed/
+- type: x-case-studies
+  url: https://www.avaya.com/en/case-studies/volar_mobile_cs/
+- type: x-case-studies
+  url: https://www.avaya.com/en/case-studies/travalet_cs/
+- type: x-case-studies
+  url: https://www.avaya.com/en/case-studies/whatconverts_cs
+- type: x-contact-form
+  url: http://www.telapi.com/contact
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/telapi
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/zang-io
+- type: x-developers
+  url: http://www.telapi.com/docs/
+- type: x-documentation
+  url: http://docs.zang.io
+- type: x-email
+  url: support@telapi.com
+- type: x-facebook
+  url: https://www.facebook.com/Zangio-967065406723493/
+- type: x-github
+  url: https://github.com/TelAPI
+- type: x-instagram
+  url: https://www.instagram.com/zang_io/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/zang-inc.
+- type: x-login
+  url: https://accounts.zang.io/account/login
+- type: x-partner
+  url: https://store.zang.io/partners
+- type: x-partner
+  url: https://store.zang.io/partners/sales
+- type: x-partner
+  url: https://store.zang.io/partners/referral
+- type: x-pricing
+  url: http://www.telapi.com/pricing
+- type: x-privacy
+  url: https://www.avaya.com/en/privacy/website/
+- type: x-privacy
+  url: https://www.telapi.com/legal/privacy-policy
+- type: x-registration
+  url: https://www.telapi.com/signup
+- type: x-status
+  url: http://status.telapi.com/
+- type: x-terms-of-service
+  url: https://www.telapi.com/legal/tos
+- type: x-twitter
+  url: https://twitter.com/TelAPI
+- type: x-twitter
+  url: https://twitter.com/Zang_io
+- type: x-website
+  url: http://www.telapi.com
+- type: x-website
+  url: http://telapi.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=T12nmJfOqeE
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

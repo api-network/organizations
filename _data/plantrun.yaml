@@ -1,0 +1,32 @@
+---
+name: Plantrun
+description: OEE, Production Monitoring & Shopfloor Data Collection Systems. Increase
+  output, cut costs. Supports lean manufacturing and CI programs.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "11197315"
+url: https://raw.githubusercontent.com/api-network/organizations/main/plantrun.yaml
+tags:
+- Shopfloordata Collectionmachine Downtime
+- Production Monitoring
+- OEE
+- Manufacturing Information System
+- Machine Utilisation
+- Automation
+apis: []
+x-common:
+- type: x-about
+  url: https://www.linkedin.com/company/9267720/about/
+- type: x-twitter
+  url: https://www.twitter.com/plantrun
+- type: x-website
+  url: https://plantrun.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

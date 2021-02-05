@@ -1,0 +1,41 @@
+---
+name: CSS Minifier
+description: Online CSS Minifier/Compressor. Free! Provides an API. Simple Quick and
+  Fast.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "40066"
+url: https://raw.githubusercontent.com/api-network/organizations/main/css-minifier.yaml
+tags:
+- Web Development
+- Web
+- Tools
+- Minify Css
+- Minified Css
+- JavaScript
+- HTML
+- Hosting
+- Cssminifier
+- CSS3
+- Css Minify
+- Css Minifier
+- Css Minification
+- CSS
+- Compress Css
+apis: []
+x-common:
+- type: x-blog
+  url: https://webdev.sh/blog/category-css-minifier
+- type: x-twitter
+  url: https://twitter.com/andychilton
+- type: x-website
+  url: https://cssminifier.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,39 @@
+---
+name: Testshop
+description: Test Generator - powerful test and quiz maker.  Desktop, Network, Intranet
+  or Internet test delivery. Question banks, randomization, automatic scoring, 20+
+  report types, 125+ features and test behaviors.  Great support and training.  Customization
+  services.  Hosting by us or on your own server.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2173457"
+url: https://raw.githubusercontent.com/api-network/organizations/main/testshop.yaml
+tags:
+- Testing And Evaluation
+- Test Authoring
+- Authoring
+apis: []
+x-common:
+- type: x-about
+  url: https://www.testshop.com/about-new
+- type: x-blog
+  url: https://www.testshop.com/blog
+- type: x-contact
+  url: https://www.testshop.com/contact
+- type: x-support
+  url: https://www.testshop.com/tg-support-request
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-website
+  url: https://www.testshop.com
+- type: x-youtube
+  url: https://www.youtube.com/user/TestGenerator
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

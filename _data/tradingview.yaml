@@ -1,0 +1,43 @@
+---
+name: TradingView
+description: Live quotes, free charts and expert trading ideas. TradingView is a social
+  network for traders and investors on Stock and Futures and Forex markets!
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28294-www-tradingview-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "312"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tradingview.yaml
+tags:
+- Services
+- Have API
+- Finacial
+apis: []
+x-common:
+- type: x-website
+  url: http://www.tradingview.com
+- type: x-blog
+  url: https://www.tradingview.com/blog/en/
+- type: x-careers
+  url: https://hire.withgoogle.com/public/jobs/tradingviewcom
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/tradingview
+- type: x-facebook
+  url: https://www.facebook.com/tradingview/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/tradingview/
+- type: x-status
+  url: https://status.tradingview.com/
+- type: x-twitter
+  url: https://twitter.com/tradingview
+- type: x-twitter
+  url: https://twitter.com/tradingview/
+- type: x-website
+  url: https://www.tradingview.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

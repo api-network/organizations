@@ -1,0 +1,54 @@
+---
+name: OptifiNow
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3492612"
+url: https://raw.githubusercontent.com/api-network/organizations/main/optifinow.yaml
+tags:
+- Online Tools
+apis: []
+x-common:
+- type: x-about
+  url: https://www.optifinow.com/about-us/
+- type: x-about
+  url: https://www.optifinow.com/about-us/our-team/
+- type: x-blog
+  url: https://www.optifinow.com/resources/blog/
+- type: x-case-studies
+  url: https://www.optifinow.com/resources/case-studies/
+- type: x-contact
+  url: https://www.optifinow.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/OptifiNow/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/optifinow/
+- type: x-partner
+  url: https://www.optifinow.com/partners/
+- type: x-platform
+  url: https://www.optifinow.com/our-platform/
+- type: x-platform
+  url: https://www.optifinow.com/our-platform/crm/
+- type: x-platform
+  url: https://www.optifinow.com/our-platform/api/
+- type: x-privacy
+  url: https://www.optifinow.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.optifinow.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/optifinow?lang=en
+- type: x-website
+  url: https://www.optifinow.com
+- type: x-white-papers
+  url: https://www.optifinow.com/resources/white-papers/
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=tsUmhwL7Qps
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

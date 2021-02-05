@@ -1,0 +1,25 @@
+---
+name: Buzz2Phone
+description: Buzz with Mobile Technology Blog about latest news related to mobile
+  - phones, gadgets, apps, companies, reviews, top lists. Complete online
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/api-butterfly.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "997923"
+url: https://raw.githubusercontent.com/api-network/organizations/main/buzz2phone.yaml
+tags:
+- Networks
+apis: []
+x-common:
+- type: x-email
+  url: info@buzz2fone.com
+- type: x-website
+  url: http://buzz2fone.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

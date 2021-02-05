@@ -1,0 +1,55 @@
+---
+name: discoDSP
+description: Professional VST AU Audio Plug-ins (Software Synthesizers, Bliss Sampler,
+  Effects and Sounds)
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1952287"
+url: https://raw.githubusercontent.com/api-network/organizations/main/discodsp.yaml
+tags:
+- Windows
+- VSTi
+- Vst Sampler
+- Vst Instruments
+- Vst Effects
+- Vst
+- Synths
+- Synthesizers
+- Software
+- Plug-ins
+- Music Software
+- Macos
+- Mac
+- Linux
+- IOS
+- Effects
+- Auv3
+- Audiounits
+- Audio Plugins
+- Au
+- 64bit
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/discodsp/
+- type: x-instagram
+  url: https://www.instagram.com/discodsp/
+- type: x-news
+  url: https://www.discodsp.com/news/
+- type: x-support
+  url: https://www.discodsp.com/support/
+- type: x-twitter
+  url: https://www.twitter.com/discodsp/
+- type: x-website
+  url: https://www.discodsp.com
+- type: x-youtube
+  url: https://www.youtube.com/discodsp/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

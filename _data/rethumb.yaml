@@ -1,0 +1,43 @@
+---
+name: Rethumb
+description: rethumb is a image management service for professional web developers
+  and webmasters - create square thumbnails, resize images and get exif data, all
+  using a simple url based API
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1472_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2162092"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rethumb.yaml
+tags:
+- Thumbnails
+- Tasks
+- Photos
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://rethumb.com/api
+- type: x-website
+  url: http://rethumb.com
+- type: x-blog
+  url: http://blog.rethumb.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/opinionaided
+- type: x-github
+  url: https://github.com/rethumb/rethumb-examples
+- type: x-login
+  url: https://dashboard.rethumb.com/login
+- type: x-self-service-registration
+  url: https://dashboard.rethumb.com/register
+- type: x-support
+  url: https://rethumb.helprace.com
+- type: x-twitter
+  url: https://twitter.com/rethumb
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

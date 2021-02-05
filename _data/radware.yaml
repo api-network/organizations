@@ -1,0 +1,51 @@
+---
+name: Radware
+description: Continuously adaptive real-time DDoS services for the most sophisticated
+  web security threats through best-in-class cloud WAF and DDoS protection technologies.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "115568"
+url: https://raw.githubusercontent.com/api-network/organizations/main/radware.yaml
+tags:
+- Load Balancing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.radware.com
+- type: x-blog
+  url: https://blog.radware.com/
+- type: x-facebook
+  url: https://www.facebook.com/Radware
+- type: x-linkedin
+  url: https://www.linkedin.com/company/radware
+- type: x-linkedin
+  url: https://www.linkedin.com/companies/165642
+- type: x-login
+  url: https://portal.radwarecloud.com/login
+- type: x-security
+  url: https://security.radware.com/
+- type: x-support
+  url: https://support.radware.com/
+- type: x-support
+  url: https://support.radware.com/app/ask
+- type: x-support
+  url: https://support.radware.com/app/account/questions/list
+- type: x-support
+  url: https://support.radware.com
+- type: x-twitter
+  url: https://twitter.com/radware
+- type: x-website
+  url: https://www.radware.com
+- type: x-youtube
+  url: https://www.youtube.com/user/radwareinc
+- type: x-youtube
+  url: https://www.youtube.com/radwareinc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,28 @@
+---
+name: Code for Anisotropies in the Microwave Background (CAMB)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/code-for-anisotropies-in-the-microwave-background-camb.yaml
+tags:
+- Physics
+apis: []
+x-common:
+- type: x-documentation
+  url: https://camb.readthedocs.org/en/latest/
+- type: x-documentation
+  url: https://camb.readthedocs.io/en/latest/symbolic.html
+- type: x-forum
+  url: http://cosmocoffee.info/viewforum.php?f=11
+- type: x-website
+  url: https://camb.info
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

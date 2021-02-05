@@ -1,0 +1,61 @@
+---
+name: RI.gov Open Data
+description: The Official Web Site of the State of Rhode Island
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/ri-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "44027"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ri-gov-open-data.yaml
+tags:
+- Working In Rhode Island
+- Voting And Elections
+- Vital Record And Population
+- Visiting Rhode Island
+- Taxes And Government Revenue
+- State Of Rhode Island
+- State Government
+- Services
+- Rhode Island Portal
+- Rhode Island Government
+- Rhode Island Counties
+- Rhode Island Cities And Towns
+- Rhode Island
+- Online Services
+- Online Forms
+- Online Applications
+- Official Web Site Of Rhode Island
+- Living In Rhode Island
+- Have API
+- Governor Gina Raimondo
+- EServices
+- Education In Rhode Island
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ri.gov/
+- type: x-base
+  url: http://www.ri.gov/links/
+- type: x-careers
+  url: http://www.dlt.ri.gov/jobsri/coluniv.htm
+- type: x-developers
+  url: http://www.ri.gov/data/
+- type: x-facebook
+  url: https://www.facebook.com/GinaMRaimondo
+- type: x-twitter
+  url: https://twitter.com/govraimondo
+- type: x-twitter
+  url: http://www.twitter.com/rigov/
+- type: x-twitter
+  url: https://twitter.com/rigov
+- type: x-website
+  url: http://www.ri.gov
+- type: x-youtube
+  url: http://www.youtube.com/user/RIGovernment
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

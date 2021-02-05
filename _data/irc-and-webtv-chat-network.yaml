@@ -1,0 +1,30 @@
+---
+name: IRC and WebTV Chat Network
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/irc-and-webtv-chat-network.yaml
+tags:
+- Networks
+apis: []
+x-common:
+- type: x-about
+  url: https://www.irchat.tv/about.html
+- type: x-forum
+  url: http://forums.ircstorm.net/
+- type: x-support
+  url: https://www.irchat.tv/helpers.html
+- type: x-support
+  url: irc://irc.irchat.tv/help
+- type: x-website
+  url: https://www.irchat.tv
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

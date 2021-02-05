@@ -1,0 +1,42 @@
+---
+name: Fas Formulas
+description: MS Excel spreadsheets configured with formulas in many different subject
+  areas - Finance, Marketing, Operations Management, Accounting, Electrical, Mechanical
+  and Civil Engineering
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6197444"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fas-formulas.yaml
+tags:
+- Three Phase
+- Textbook
+- Spreadsheets
+- Operations Management
+- Mechanical
+- Marketing
+- Interactive
+- Formulas
+- Formula
+- Finance
+- Excel
+- Engineering
+- Electrical
+- Economics
+- Civil
+- Circuits
+- Business
+- Add-Ins
+- Academic
+apis: []
+x-common:
+- type: x-website
+  url: https://www.fastformulas.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

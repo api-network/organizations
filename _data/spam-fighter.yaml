@@ -1,0 +1,33 @@
+---
+name: Spam Fighter
+description: SPAMfighter is a global provider of state-of-the-art computer, mobile
+  and server utility and security products to millions of users from 235 countries.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "191817"
+url: https://raw.githubusercontent.com/api-network/organizations/main/spam-fighter.yaml
+tags:
+- Spam Filtering
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.spamfighter.com/
+- type: x-facebook
+  url: https://www.facebook.com/SPAMfighters
+- type: x-linkedin
+  url: http://www.linkedin.com/company/spamfighter
+- type: x-twitter
+  url: https://twitter.com/spamfighter
+- type: x-website
+  url: https://www.spamfighter.com
+- type: x-youtube
+  url: https://www.youtube.com/user/spamfightercom
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,26 @@
+---
+name: Erik S. Klein's Vintage Computer Collection
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2251755"
+url: https://raw.githubusercontent.com/api-network/organizations/main/erik-s--kleins-vintage-computer-collection.yaml
+tags:
+- Retrocomputing
+apis: []
+x-common:
+- type: x-forum
+  url: http://www.vcfed.org/forum/
+- type: x-forum
+  url: http://vcfed.org/forum
+- type: x-website
+  url: https://www.vintage-computer.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

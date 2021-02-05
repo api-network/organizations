@@ -1,0 +1,37 @@
+---
+name: Thawte Digital Certificates
+description: Premium protection from a trusted certificate authority. Find the SSL
+  certificate that's right for your site, including Wildcard, SSL123 and server certs.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "203207"
+url: https://raw.githubusercontent.com/api-network/organizations/main/thawte-digital-certificates.yaml
+tags:
+- Wildcard Ssl
+- Third Party Certificate Authorities
+- Thawte
+- Ssl Certificate
+- SSL
+- Ev Ssl Certificate
+- Digital Certificate
+- Certificate Authority
+- 128-bit Encryption
+apis: []
+x-common:
+- type: x-privacy
+  url: https://www.digicert.com/digicert-privacy-policy/
+- type: x-privacy
+  url: https://www.digicert.com/digicert-privacy-policy
+- type: x-privacy
+  url: https://www.digicert.com/online-cookies-privacy/
+- type: x-website
+  url: https://www.thawte.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

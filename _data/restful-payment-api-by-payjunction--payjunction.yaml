@@ -1,0 +1,25 @@
+---
+name: RESTful Payment API by PayJunction | PayJunction
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "1"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/restful-payment-api-by-payjunction--payjunction.yaml
+tags: []
+apis: []
+x-common:
+- type: x-about
+  url: https://www.payjunction.com/payments/about.html
+- type: x-developers
+  url: https://www.payjunction.com/payments/payment-api.html
+- type: x-pricing
+  url: https://www.payjunction.com/payments/pricing.html
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

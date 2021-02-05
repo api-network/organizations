@@ -1,0 +1,36 @@
+---
+name: Rex Black Consulting Services
+description: Software testing training services and QA consulting.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3645501"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rex-black-consulting-services.yaml
+tags:
+- United States
+apis: []
+x-common:
+- type: x-website
+  url: http://www.rbcs-us.com
+- type: x-facebook
+  url: https://www.facebook.com/RBCS-Inc-111442000072/
+- type: x-instagram
+  url: https://www.instagram.com/rbcs_inc/
+- type: x-marketplace
+  url: https://rbcs-marketplace.myshopify.com/
+- type: x-marketplace
+  url: https://rbcs-marketplace.myshopify.com
+- type: x-twitter
+  url: https://twitter.com/RBCS
+- type: x-website
+  url: https://www.rbcs-us.com
+- type: x-youtube
+  url: https://www.youtube.com/user/RBCSINC
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

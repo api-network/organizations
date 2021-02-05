@@ -1,0 +1,44 @@
+---
+name: GMS Accounting
+description: Grants Management Systems, Inc. specializes in nonprofit accounting software
+  and revolving loan servicing software to support all of your financial management
+  needs.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gms-accounting.yaml
+tags:
+- Not For Profit
+- Grant
+- Financial Reporting Software
+- Financial Accounting Software
+- Best Nonprofit Accounting Software
+- Best Financial Management Software
+- Best Accounting Software For Nonprofits
+- Accounting Software For Nonprofits
+- Accounting Software For Federal Grants
+apis: []
+x-common:
+- type: x-website
+  url: http://about.me/nonprofitaccounting
+- type: x-blog
+  url: https://www.gmsactg.com/gms-blog
+- type: x-facebook
+  url: https://www.facebook.com/pages/GMS-Inc/120540254682450
+- type: x-linkedin
+  url: http://www.linkedin.com/company/1539303
+- type: x-twitter
+  url: https://twitter.com/GMSinc
+- type: x-website
+  url: https://www.gmsactg.com
+- type: x-youtube
+  url: https://www.youtube.com/user/Videos4GMS
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

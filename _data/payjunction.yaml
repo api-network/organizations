@@ -1,0 +1,75 @@
+---
+name: PayJunction
+description: <p>PayJunction is a Level 1 PCI Compliant Service Provider that services
+  thousands of businesses in every state in the United States. Since 2000, PayJunction
+  has rapidly become a leading developer and provider of cutting edge merchant technology.
+  PayJunction has also formed strategic alliances with leading financial institutions
+  and technology partners to deliver the most comprehensive services in the industry.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1463_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "911"
+x-alexaRank: "98651"
+url: https://raw.githubusercontent.com/api-network/organizations/main/payjunction.yaml
+tags:
+- Target
+- Syndication
+- Relative Data
+- Profile
+- POS
+- Payments
+- Payments
+- Have API Paths
+- Have API
+- Credit
+apis: []
+x-common:
+- type: x-postman-collection
+  url: https://developer.payjunction.com/hc/article_attachments/360005001354/PayJunction%20API%20Basic.postman_collection.json
+- type: x-website
+  url: http://www.payjunction.com
+- type: x-base
+  url: https://api.payjunction.com
+- type: x-blog
+  url: https://blog.payjunction.com/
+- type: x-blog
+  url: https://blog.payjunction.com/tag/pj-university/
+- type: x-blog
+  url: http://www.pathable.com/category/blog/
+- type: x-blog-rss
+  url: http://blog.pathable.com/feeds/posts/default?alt=rss
+- type: x-careers
+  url: https://www2.payjunction.com/careers
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/payjunction
+- type: x-developer
+  url: http://developer.payjunction.com
+- type: x-developers
+  url: http://developer.payjunction.com/
+- type: x-facebook
+  url: https://www.facebook.com/PayJunction/
+- type: x-facebook
+  url: https://facebook.com/payjunction
+- type: x-github
+  url: https://github.com/PayJunction
+- type: x-instagram
+  url: https://www.instagram.com/_payjunction/
+- type: x-instagram
+  url: https://instagram.com/_payjunction/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/payjunction/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/payjunction
+- type: x-support
+  url: https://support.payjunction.com/
+- type: x-twitter
+  url: https://twitter.com/PayJunction
+- type: x-website
+  url: http://payjunction.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,42 @@
+---
+name: MealTime
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10082428"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mealtime.yaml
+tags:
+- Administration And School Management
+apis: []
+x-common:
+- type: x-about
+  url: https://mealtimeclm.com/about-us/
+- type: x-about
+  url: https://mealtimeclm.com/about-us/company-philosophy/
+- type: x-contact
+  url: https://mealtimeclm.com/contact/
+- type: x-contact
+  url: https://mealtimeclm.com/contact/careers/
+- type: x-contact
+  url: https://mealtimeclm.com/contact/contact-us/
+- type: x-documentation
+  url: https://mealtimeclm.com/classic-documentation/
+- type: x-documentation
+  url: http://mealtimeclm.com/classic-documentation/
+- type: x-login
+  url: http://mealtimeclm.com/mockup/wp-login.php
+- type: x-support
+  url: https://mealtimeclm.com/support/
+- type: x-support
+  url: https://mealtimeclm.com/support/professional-services/
+- type: x-website
+  url: https://www.mealtimeclm.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

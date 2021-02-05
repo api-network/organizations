@@ -1,0 +1,44 @@
+---
+name: ConceptDraw
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "63659"
+url: https://raw.githubusercontent.com/api-network/organizations/main/conceptdraw.yaml
+tags:
+- Business Drawing
+apis: []
+x-common:
+- type: x-about
+  url: https://my.conceptdraw.com/buy/upgrade.php#about
+- type: x-about
+  url: https://www.conceptdraw.com/samples/about-samples
+- type: x-about
+  url: https://www.conceptdraw.com/about
+- type: x-contact
+  url: https://www.conceptdraw.com/products/contact-us
+- type: x-login
+  url: https://my.conceptdraw.com/registration/login.php
+- type: x-news
+  url: https://www.conceptdraw.com/news/list
+- type: x-privacy
+  url: https://www.conceptdraw.com/products/privacy
+- type: x-support
+  url: https://helpdesk.conceptdraw.com/ticket.php
+- type: x-support
+  url: https://www.conceptdraw.com/helpdesk/home
+- type: x-support
+  url: https://www.conceptdraw.com/helpdesk/visio-replace
+- type: x-terms-of-service
+  url: https://www.conceptdraw.com/products/terms-of-service
+- type: x-website
+  url: https://www.conceptdraw.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

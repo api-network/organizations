@@ -1,0 +1,60 @@
+---
+name: Pin Payments
+description: <p>An all-in-one developer API for accepting credit card payments online
+  in multiple currencies. Through integrations with key e-commerce &amp; business
+  platforms (https://pin.net.au/partners) Pin Payments also enables small businesses
+  to start accepting payments online quickly &amp; easily.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/2179_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "851137"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pin-payments.yaml
+tags:
+- Payments
+- Payments
+- Payments
+- Payments
+- Have API
+- Financial
+- Debit
+- Credit
+apis: []
+x-common:
+- type: x-website
+  url: https://pinpayments.com
+- type: x-base
+  url: http://api.pin.net.au
+- type: x-blog
+  url: https://pin.net.au/blog
+- type: x-blog-rss
+  url: https://pin.net.au/blog.atom
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/pin-payments
+- type: x-developers
+  url: https://pin.net.au/docs/guides/request-payments
+- type: x-facebook
+  url: https://facebook.com/pinpayments
+- type: x-instagram
+  url: https://instagram.com/pinpayments
+- type: x-linkedin
+  url: https://au.linkedin.com/company/pin-payments
+- type: x-login
+  url: https://dashboard.pinpayments.com/login
+- type: x-pricing
+  url: https://pin.net.au/pricing
+- type: x-status
+  url: https://pinpayments.com/status
+- type: x-twitter
+  url: https://twitter.com/pinpayments
+- type: x-twitter
+  url: https://twitter.com/pin_payments
+- type: x-website
+  url: https://pin.net.au/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

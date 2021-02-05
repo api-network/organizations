@@ -1,0 +1,45 @@
+---
+name: Maintec Technologies
+description: Maintec Technologies provides Mainframe Operation and support includes
+  outsourcing, colocation, disaster recovery, hosting, and data center management
+  services for enterprises that rely on IBM Mainframes (System z, Linux for z) and
+  IBM Power Systems (IBM i, AIX, Linux).
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "364468"
+url: https://raw.githubusercontent.com/api-network/organizations/main/maintec-technologies.yaml
+tags:
+- Z Linux
+- Remote Infrastructure Management
+- Mainframes
+- Mainframe Training
+- Mainframe Outsourcing
+- Mainframe Migration Services
+- Mainframe Managed Services
+- IT Infrastructure
+- Hosting Services
+- Disaster Recovery Services
+- Disaster Recovery
+apis: []
+x-common:
+- type: x-website
+  url: http://www.maintec.com
+- type: x-careers
+  url: https://www.maintec.com/careers.html
+- type: x-facebook
+  url: https://www.facebook.com/MaintecTechnologies/
+- type: x-privacy
+  url: https://www.maintec.com/privacy-policy.html
+- type: x-twitter
+  url: https://twitter.com/Maintec_Tech
+- type: x-website
+  url: https://www.maintec.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

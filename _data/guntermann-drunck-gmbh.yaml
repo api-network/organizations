@@ -1,0 +1,45 @@
+---
+name: Guntermann & Drunck GmbH
+description: "Hochwertige KVM-L\xF6sungen optimiert f\xFCr Ihre Anwendung. KVM-Leidenschaft
+  aus Deutschland seit \xFCber 30 Jahren."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3454937"
+url: https://raw.githubusercontent.com/api-network/organizations/main/guntermann-drunck-gmbh.yaml
+tags:
+- Manufacturers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.gdsys.de
+- type: x-blog
+  url: http://blog.gdsys.de/
+- type: x-blog
+  url: http://blog.gdsys.de
+- type: x-blog
+  url: http://blog.gdsys.de/en
+- type: x-events
+  url: https://www.gdsys.de/events/termin-vereinbaren/
+- type: x-news
+  url: https://www.gdsys.de/newsletter-anmeldung/
+- type: x-open-source
+  url: https://www.hamburg-open.de/
+- type: x-support
+  url: https://www.gdsys.de/support/kvm-training/
+- type: x-twitter
+  url: http://www.twitter.com/gdsys
+- type: x-website
+  url: https://www.gdsys.de
+- type: x-youtube
+  url: https://www.youtube.com/user/GuntermannDrunck
+- type: x-youtube
+  url: http://www.youtube.com/user/GuntermannDrunck
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

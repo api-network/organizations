@@ -1,0 +1,41 @@
+---
+name: MozInfo701
+description: Mozilla News, Resource and Information Centre from SillyDog701, home
+  of Netscape Browser Archive.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8824084"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mozinfo701.yaml
+tags:
+- SeaMonkey
+- Resource
+- News And Media
+- Netscape
+- Mozilla
+- Information
+- Info
+- Gecko
+- Camino
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.pu7o.info/
+- type: x-forum
+  url: http://sillydog.org/forum/sdt_12427.php
+- type: x-forum
+  url: http://sillydog.org/forum/member_4758.php
+- type: x-forum
+  url: http://sillydog.org/forum/sdt_12351.php
+- type: x-forum
+  url: http://sillydog.org/forum/sdt_12355.php
+- type: x-website
+  url: https://moz.sillydog.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,92 @@
+---
+name: Epam Systems
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "37620"
+url: https://raw.githubusercontent.com/api-network/organizations/main/epam-systems.yaml
+tags:
+- Software Development
+apis: []
+x-common:
+- type: x-website
+  url: http://www.epam-group.ru
+- type: x-careers
+  url: https://careers.epam.by
+- type: x-careers
+  url: https://careers.epam.hu
+- type: x-careers
+  url: https://en.careers.epam-czech.cz
+- type: x-careers
+  url: https://careers.epam-czech.cz
+- type: x-careers
+  url: https://careers.epam-poland.pl
+- type: x-careers
+  url: https://careers.epam.cn
+- type: x-careers
+  url: https://careers.epam.ua
+- type: x-contact
+  url: https://www.epam.com/about/who-we-are/contact
+- type: x-facebook
+  url: https://www.facebook.com/EPAM.Mexico
+- type: x-facebook
+  url: https://www.facebook.com/EPAM.Global
+- type: x-facebook
+  url: https://www.facebook.com/EPAMBulgaria
+- type: x-facebook
+  url: https://www.facebook.com/EPAM.CzechRepublic
+- type: x-facebook
+  url: https://www.facebook.com/Epam.Hungary
+- type: x-facebook
+  url: https://www.facebook.com/EPAMNetherlands
+- type: x-facebook
+  url: https://www.facebook.com/Epam.Poland
+- type: x-facebook
+  url: https://www.facebook.com/EPAM.Ukraine
+- type: x-facebook
+  url: https://www.facebook.com/EPAM.APAC
+- type: x-facebook
+  url: https://www.facebook.com/EPAMArmenia/
+- type: x-facebook
+  url: https://www.facebook.com/EPAM.Belarus
+- type: x-facebook
+  url: https://www.facebook.com/epam.kazakhstan/
+- type: x-facebook
+  url: https://www.facebook.com/EPAM.Russia
+- type: x-instagram
+  url: https://www.instagram.com/epamsystems/
+- type: x-instagram
+  url: https://www.instagram.com/epam.belarus/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/epam-systems/
+- type: x-press
+  url: https://www.youtube.com/user/EPAMpress
+- type: x-twitter
+  url: https://twitter.com/EPAM_Mexico
+- type: x-twitter
+  url: https://twitter.com/EPAMSYSTEMS
+- type: x-twitter
+  url: https://twitter.com/EPAM_Hungary
+- type: x-twitter
+  url: https://twitter.com/EPAM_NL
+- type: x-twitter
+  url: https://twitter.com/epam_ukraine
+- type: x-twitter
+  url: https://twitter.com/EPAMSystems_UK
+- type: x-twitter
+  url: https://twitter.com/epam_belarus
+- type: x-twitter
+  url: https://twitter.com/EPAMKazakhstan
+- type: x-twitter
+  url: https://twitter.com/ru_epam
+- type: x-website
+  url: https://www.epam.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

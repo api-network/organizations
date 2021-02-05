@@ -1,0 +1,35 @@
+---
+name: Coolhead Tech
+description: We work with IT Departments with 50 to 5,000 users. We help migrate mail
+  and docs to G Suite Business Apps and provide ongoing apps administration.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "398342"
+url: https://raw.githubusercontent.com/api-network/organizations/main/coolhead-tech.yaml
+tags:
+- Service Providers
+apis: []
+x-common:
+- type: x-website
+  url: http://coolheadtech.com
+- type: x-blog
+  url: https://www.coolheadtech.com/blog/topic/google-cloud
+- type: x-contact
+  url: https://www.coolheadtech.com/contact
+- type: x-linkedin
+  url: https://linkedin.com/company/coolhead-tech
+- type: x-twitter
+  url: https://twitter.com/coolheadtech
+- type: x-website
+  url: https://www.coolheadtech.com
+- type: x-youtube
+  url: http://youtube.com/coolheadtech
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

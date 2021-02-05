@@ -1,0 +1,26 @@
+---
+name: https://data.donorfy.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1838934"
+url: https://raw.githubusercontent.com/api-network/organizations/main/httpsdata-donorfy-com.yaml
+tags:
+- Profile
+apis: []
+x-common:
+- type: x-documentation
+  url: https://data.donorfy.com/help/index#/
+- type: x-status
+  url: https://status.squarespace.com
+- type: x-website
+  url: https://donorfy.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

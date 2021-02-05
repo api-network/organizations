@@ -1,0 +1,25 @@
+---
+name: Open Data Challenge for Public Transportation in Tokyo
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: ""
+url: https://raw.githubusercontent.com/api-network/organizations/main/open-data-challenge-for-public-transportation-in-tokyo.yaml
+tags:
+- Postman Doc Search
+- New
+apis: []
+x-common:
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/6375424/RznJkbB5
+- type: x-website
+  url: http://tokyochallenge.odpt.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

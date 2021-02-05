@@ -1,0 +1,37 @@
+---
+name: C-Pen
+description: "Pen scanners from C-PEN\xAE are specifically developed with productivity
+  and assistive technology for reading and learning in mind."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "541219"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cpen.yaml
+tags:
+- Portable
+apis: []
+x-common:
+- type: x-website
+  url: http://cpen.com
+- type: x-contact
+  url: https://cpen.com/contact/
+- type: x-integrations
+  url: https://cpen.com/apps-and-integrations/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/virrata-ab
+- type: x-privacy
+  url: https://cpen.com/privacy-policy-at-c-pen/
+- type: x-twitter
+  url: https://twitter.com/cpen_dh
+- type: x-website
+  url: https://www.cpen.com
+- type: x-youtube
+  url: http://youtube.cpen.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

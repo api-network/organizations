@@ -1,0 +1,22 @@
+---
+name: Linux Driver for the HP OfficeJet Project
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "429"
+url: https://raw.githubusercontent.com/api-network/organizations/main/linux-driver-for-the-hp-officejet-project.yaml
+tags:
+- Printing
+apis: []
+x-common:
+- type: x-website
+  url: https://hpoj.sourceforge.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

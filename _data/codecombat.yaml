@@ -1,0 +1,38 @@
+---
+name: CodeCombat
+description: Learn typed code through a programming game. Learn Python, JavaScript,
+  and HTML as you solve puzzles and learn to make your own coding games and websites.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "67918"
+url: https://raw.githubusercontent.com/api-network/organizations/main/codecombat.yaml
+tags:
+- Python
+- JavaScript
+- Coding Games
+- CodeCombat
+apis: []
+x-common:
+- type: x-code
+  url: https://codecombat.com/apcsp
+- type: x-code
+  url: https://www.commonsense.org/education/game/codecombat
+- type: x-code
+  url: https://code.org/educate/curriculum/middle-school
+- type: x-code
+  url: http://blog.codecombat.com/
+- type: x-code
+  url: https://github.com/codecombat/codecombat
+- type: x-code
+  url: http://discourse.codecombat.com/
+- type: x-website
+  url: https://codecombat.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

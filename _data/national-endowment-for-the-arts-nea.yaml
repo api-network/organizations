@@ -1,0 +1,50 @@
+---
+name: National Endowment for the Arts (NEA)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/national-endowment-for-the-arts-nea.yaml
+tags:
+- Podcasts
+- Performing Arts
+- Media Arts
+- Literature
+- Healing Arts
+- Federal Government
+- Federal Funding
+- Data Provider
+- Creativity
+- Creative Placemaking
+- Community Revitalization
+- Arts Funding
+- Arts Education
+- Arts
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.arts.gov
+- type: x-website
+  url: http://www.nea.gov
+- type: x-facebook
+  url: https://www.facebook.com/NationalEndowmentfortheArts
+- type: x-instagram
+  url: https://www.instagram.com/neaarts
+- type: x-pinterest
+  url: https://www.pinterest.com/artsgov
+- type: x-twitter
+  url: http://twitter.com/NEAarts
+- type: x-youtube
+  url: https://www.youtube.com/NEAarts
+- type: x-youtube
+  url: http://youtube.com/NEAarts
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

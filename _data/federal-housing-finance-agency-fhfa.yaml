@@ -1,0 +1,39 @@
+---
+name: Federal Housing Finance Agency (FHFA)
+description: <p>The Federal Housing Finance Agency (FHFA) is an independent federal
+  agency in the United States created as the successor regulatory agency of the Federal
+  Housing Finance Board (FHFB), the Office of Federal Housing Enterprise Oversight
+  (OFHEO), and the U.S. Department of Housing and Urban Development government-sponsored
+  enterprise mission team,[2] absorbing the powers and regulatory authority of both
+  entities, with expanded legal and regulatory authority, including the ability to
+  place government sponsored enterprises (GSEs) into receivership or conservatorship.</p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/federal-housing-finance-agency-fhfa.yaml
+tags:
+- Federal Government
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.FHFA.gov
+- type: x-website
+  url: http://www.fhfa.gov/
+- type: x-data
+  url: https://www.fhfa.gov/DataTools/Downloads
+- type: x-linkedin
+  url: https://www.linkedin.com/company/fhfa
+- type: x-twitter
+  url: https://twitter.com/FHFA
+- type: x-youtube
+  url: https://www.youtube.com/channel/UCoKP7Om6nsRkEav9yInFekw
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,34 @@
+---
+name: Computer Assisted Telephony Systems
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/computer-assisted-telephony-systems.yaml
+tags:
+- Telephony
+apis: []
+x-common:
+- type: x-about
+  url: http://www.ivr.co.za/about.jsp
+- type: x-code
+  url: http://www.ivr.co.za/semacodes.jsp
+- type: x-contact
+  url: http://www.ivr.co.za/contact.jsp
+- type: x-news
+  url: http://www.ivr.co.za/news.jsp
+- type: x-press
+  url: http://www.ivr.co.za/press.jsp
+- type: x-support
+  url: http://www.ivr.co.za/support.jsp
+- type: x-website
+  url: https://www.ivr.co.za
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

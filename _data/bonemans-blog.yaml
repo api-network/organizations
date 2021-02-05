@@ -1,0 +1,120 @@
+---
+name: Boneman's Blog
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bonemans-blog.yaml
+tags:
+- Windows Installer
+apis: []
+x-common:
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/search/label/WIX
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/
+- type: x-blog
+  url: https://www.blogger.com/profile/16752950454936948886
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/search/label/C%23
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/search/label/C%2B%2B
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/search/label/Quality
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/search/label/Security
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/search/label/XMLRPC
+- type: x-blog
+  url: http://blogs.msdn.com/astebner/default.aspx
+- type: x-blog
+  url: http://blogs.msdn.com/ericlippert/default.aspx
+- type: x-blog
+  url: http://blogs.msdn.com/larryosterman/default.aspx
+- type: x-blog
+  url: http://blogs.msdn.com/oldnewthing/default.aspx
+- type: x-blog
+  url: http://blogs.msdn.com/rflaming/default.aspx
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/2018/
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/2018/06/
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/2012/
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/2012/01/
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/2011/
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/2011/03/
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/2009/
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/2009/08/
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/2008/
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/2008/12/
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/2008/02/
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/2006/
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/2006/01/
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/2005/
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/2005/12/
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/2005/11/
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/2005/10/
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/2005/09/
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/2005/07/
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/2005/06/
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/2005/04/
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/2005/03/
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/2005/02/
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/2005/01/
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/2004/
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/2004/12/
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/2004/11/
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/2004/10/
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/2004/09/
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/2004/08/
+- type: x-blog
+  url: https://bonemanblog.blogspot.com/2004/06/
+- type: x-feed
+  url: https://bonemanblog.blogspot.com/feeds/posts/default
+- type: x-feed
+  url: http://feeds.feedburner.com/BonemansBlog
+- type: x-linkedin
+  url: http://www.linkedin.com/in/stevenbone
+- type: x-open-source
+  url: http://extremetracking.com/open?login=sbone100
+- type: x-press
+  url: http://toomey.senate.gov/?p=press_release&id=429
+- type: x-website
+  url: https://bonemanblog.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

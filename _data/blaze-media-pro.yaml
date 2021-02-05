@@ -1,0 +1,49 @@
+---
+name: Blaze Media Pro
+description: All-in-one audio and video editing software, converter (CD, MP3, WAV,
+  WMA, OGG, AVI, MPEG, WMV, etc.), CD/DVD burning, CD ripper, and much more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "819063"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blaze-media-pro.yaml
+tags:
+- Wav To Mp3 Conversion
+- Wav Mp3 Converter
+- Video Recording
+- Video Encoding
+- Video Editing
+- Video Decoding
+- Mpeg Player
+- Mpeg Encoder
+- Mp3 To Wav Converter
+- Mp3 To Wav
+- Mp3 Sound Recorder
+- Mp3 Recorder
+- Mp3 Player Recorder
+- Mp3 Player
+- Free Multimedia Player
+- Avi To Mpeg Encoder
+- Audio Recording
+- Audio Encoding
+- Audio Editing
+- Audio Decoding
+- All-In-One
+apis: []
+x-common:
+- type: x-contact
+  url: http://www.blazemp.com/contact.asp
+- type: x-support
+  url: http://www.blazemp.com/help/
+- type: x-support
+  url: http://www.blazemp.com/#supportedconversions
+- type: x-website
+  url: https://www.blazemp.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

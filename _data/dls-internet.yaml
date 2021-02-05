@@ -1,0 +1,54 @@
+---
+name: DLS Internet
+description: DLS Internet specialize in providing the communications solutions such
+  as VoIP phone system, cloud based virtual PBX for business. Call us at 800-323-2099!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4401971"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dls-internet.yaml
+tags:
+- Shell Providers
+- DSL
+apis: []
+x-common:
+- type: x-website
+  url: http://www.dls.net/
+- type: x-blog
+  url: https://www.dls.net/category/blog/
+- type: x-contact
+  url: https://www.dls.net/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/DLSInternet
+- type: x-linkedin
+  url: https://www.linkedin.com/company/dls-internet-services
+- type: x-news
+  url: https://www.dls.net/category/news/
+- type: x-partner
+  url: https://www.dls.net/partners/
+- type: x-pricing
+  url: https://www.dls.net/virtual-pbx-pricing/
+- type: x-pricing
+  url: https://www.dls.net/pricing/
+- type: x-pricing
+  url: https://www.dls.net/meeting-room-pricing/
+- type: x-pricing
+  url: https://www.dls.net/colocation-pricing/
+- type: x-pricing
+  url: https://www.dls.net/hosted-nas-pricing/
+- type: x-privacy
+  url: https://www.dls.net/privacy-policy/
+- type: x-support
+  url: https://www.dls.net/support/
+- type: x-twitter
+  url: https://www.twitter.com/DLSInternet
+- type: x-website
+  url: https://www.dls.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

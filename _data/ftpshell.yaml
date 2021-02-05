@@ -1,0 +1,38 @@
+---
+name: FTPshell
+description: Secure FTP client and FTP server for automated file transfer and website
+  management. Compare and synchronize folders, resume and schedule.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9495767"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ftpshell.yaml
+tags:
+- Windows Ftp
+- Upload
+- Synchronize
+- Sync
+- Secure Ftp
+- Script
+- Robotftp
+- Fxp
+- Ftp Site
+- Ftp Server
+- Ftp Client
+- FTP
+- File Transfer
+- Download
+- Data Transfer
+- Compare
+apis: []
+x-common:
+- type: x-website
+  url: https://www.ftpshell.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

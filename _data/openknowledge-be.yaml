@@ -1,0 +1,23 @@
+---
+name: openknowledge.be
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/openknowledge-be.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.openknowledge.be/2016/02/11/introducing-our-crowdsourcing-template-and-why-were-building-it/
+- type: x-website
+  url: http://openknowledge.be
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

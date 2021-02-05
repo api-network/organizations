@@ -1,0 +1,29 @@
+---
+name: LanaCoin - LANA
+description: LanaCoin is a cryptocurrency (sha256 hybrid pow/pos). Max coin supply
+  7,506 B Coins. I dedicate this ledger to my daughter Lana. Genesis block 7.may 2016,6:39
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27289-lanacoin-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "2645719"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lanacoin--lana.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://tokens.lanacoin.com
+- type: x-email
+  url: lana@lanacoin.com
+- type: x-twitter
+  url: https://twitter.com/LanaCoin
+- type: x-website
+  url: https://lanacoin.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

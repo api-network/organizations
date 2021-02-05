@@ -1,0 +1,44 @@
+---
+name: EveryBlock
+description: EveryBlock is the leading Web site for neighborhood discussions and block-level
+  news, including the latest news stories, crime reports, real estate listings and
+  business reviews.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/589-everyblock.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5796648"
+url: https://raw.githubusercontent.com/api-network/organizations/main/everyblock.yaml
+tags:
+- News
+- Marketplaces
+- Local
+- Have API
+- Content Discovery
+- Content
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.EveryBlock.com/
+- type: x-blog
+  url: http://blog.everyblock.com/
+- type: x-blog-rss
+  url: http://blog.everyblock.com/feed/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/everyblock
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/everyblock
+- type: x-github
+  url: https://github.com/everyblock
+- type: x-twitter
+  url: https://twitter.com/everyblock
+- type: x-website
+  url: http://www.everyblock.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

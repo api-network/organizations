@@ -1,0 +1,55 @@
+---
+name: PayTrace
+description: PayTrace began as an idea. The idea that payment systems could be better.
+  Merchants didn't have to settle for mediocre gateways offering little to no support.
+  It was possible to delight merchants with 5-star service and a system that was comprehensive,
+  lowered processing costs, and increased security. Today, we live and breathe this
+  idea. Innovation drives improvements to our systems while our team is committed
+  to serving merchants and partners. At PayTrace, we are proud to be advancing payments
+  one relationship at a time.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/pull_image_10-06-2019-08-21-am.svg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "118571"
+url: https://raw.githubusercontent.com/api-network/organizations/main/paytrace.yaml
+tags:
+- Profile
+- Payments
+- No API Definition
+- Has API
+apis: []
+x-common:
+- type: x-developers
+  url: https://www.paytrace.net/developers/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/paytrace/
+- type: x-login
+  url: https://www.paytrace.com/login.pay
+- type: x-login
+  url: https://paytrace.com/login.pay
+- type: x-login
+  url: http://paytrace.com/login.pay
+- type: x-partner
+  url: https://www.paytrace.net/partner-now/
+- type: x-sandbox
+  url: https://www.paytrace.net/sandbox-account/
+- type: x-status
+  url: http://status.paytrace.com
+- type: x-support
+  url: http://help.paytrace.com/
+- type: x-support
+  url: http://help.paytrace.com/recommended-hardware/
+- type: x-support
+  url: http://help.paytrace.com/api/
+- type: x-twitter
+  url: https://twitter.com/paytrace/
+- type: x-website
+  url: https://www.paytrace.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

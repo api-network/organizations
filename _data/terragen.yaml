@@ -1,0 +1,52 @@
+---
+name: Terragen
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "460036"
+url: https://raw.githubusercontent.com/api-network/organizations/main/terragen.yaml
+tags:
+- Terragen
+apis: []
+x-common:
+- type: x-website
+  url: http://www.planetside.co.uk
+- type: x-about
+  url: https://planetside.co.uk/about-planetside-software/
+- type: x-change-log
+  url: https://planetside.co.uk/change-logs/
+- type: x-contact
+  url: https://planetside.co.uk/contact-us/
+- type: x-customers
+  url: https://planetside.co.uk/returning-customers/
+- type: x-facebook
+  url: https://www.facebook.com/PlanetsideSoftware
+- type: x-forum
+  url: https://planetside.co.uk/forums
+- type: x-news
+  url: https://planetside.co.uk/news/
+- type: x-news
+  url: https://planetside.co.uk/category/news/
+- type: x-partner
+  url: https://planetside.co.uk/partners/
+- type: x-privacy
+  url: https://planetside.co.uk/privacy-policy/
+- type: x-showcase
+  url: https://planetside.co.uk/terragen-showcase/
+- type: x-tutorials
+  url: https://planetside.co.uk/terragen-tutorials/
+- type: x-twitter
+  url: https://twitter.com/terragen
+- type: x-website
+  url: https://planetside.co.uk
+- type: x-youtube
+  url: https://www.youtube.com/user/PlanetsideSoftware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

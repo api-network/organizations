@@ -1,0 +1,30 @@
+---
+name: Data Management Association (DAMA)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1082664"
+url: https://raw.githubusercontent.com/api-network/organizations/main/data-management-association-dama.yaml
+tags:
+- Organizations
+apis: []
+x-common:
+- type: x-website
+  url: http://www.dama.org
+- type: x-facebook
+  url: http://www.facebook.com/group.php?gid=60672945489
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/56773/
+- type: x-twitter
+  url: https://twitter.com/@DAMA_I
+- type: x-website
+  url: https://www.dama.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

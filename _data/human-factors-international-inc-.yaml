@@ -1,0 +1,46 @@
+---
+name: Human Factors International, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "326351"
+url: https://raw.githubusercontent.com/api-network/organizations/main/human-factors-international-inc-.yaml
+tags:
+- Companies And Consultants
+apis: []
+x-common:
+- type: x-about
+  url: https://humanfactors.com/about_us/index.asp
+- type: x-about
+  url: https://humanfactors.com/about_us/profile.asp
+- type: x-about
+  url: https://humanfactors.com/about_us/executive_team.asp
+- type: x-about
+  url: https://humanfactors.com/about_us/clients.asp
+- type: x-about
+  url: https://humanfactors.com/about_us/testimonials.asp
+- type: x-about
+  url: https://humanfactors.com/about_us/awards.asp
+- type: x-careers
+  url: https://humanfactors.com/careers/growth.asp
+- type: x-contact
+  url: https://humanfactors.com/contact.asp
+- type: x-news
+  url: https://humanfactors.com/about_us/news_and_events.asp
+- type: x-news
+  url: https://humanfactors.com/coolstuff/newsletters.asp
+- type: x-showcase
+  url: https://humanfactors.com/uxsetup/showcase_projects.asp
+- type: x-website
+  url: https://www.humanfactors.com
+- type: x-white-papers
+  url: https://humanfactors.com/coolstuff/whitepapers.asp
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,53 @@
+---
+name: Apptus
+description: We provide software solutions that deliver great customer experiences
+  across your e-commerce site. Proven to increase conversions, revenue and profit.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "902392"
+url: https://raw.githubusercontent.com/api-network/organizations/main/apptus.yaml
+tags:
+- Providers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.apptus.com
+- type: x-about
+  url: https://www.apptus.com/about
+- type: x-blog
+  url: https://www.apptus.com/blog
+- type: x-blog
+  url: https://www.apptus.com/blog/online-merchandising
+- type: x-case-studies
+  url: https://www.apptus.com/resources#case-studies
+- type: x-contact
+  url: https://www.apptus.com/contact
+- type: x-customers
+  url: https://www.apptus.com/customers
+- type: x-documentation
+  url: https://docs.apptus.com/
+- type: x-facebook
+  url: https://www.facebook.com/Apptus
+- type: x-news
+  url: https://www.apptus.com/news
+- type: x-partner
+  url: https://www.apptus.com/partners
+- type: x-support
+  url: https://www.apptus.com/support
+- type: x-twitter
+  url: https://twitter.com/apptus
+- type: x-webinars
+  url: https://www.apptus.com/resources#webinars
+- type: x-website
+  url: https://www.apptus.com
+- type: x-youtube
+  url: https://www.youtube.com/user/apptustechnologies
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

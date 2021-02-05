@@ -1,0 +1,22 @@
+---
+name: PMBase Inc.
+description: "2019\u4E2D\u8003\u7F51\u662F\u56FD\u5185\u4E13\u4E1A\u8272\u5929\u4F7F\u7684\u4E2D\u8003\u95E8\u6237\u7F51\u7AD9,\u8272\u5929\u5802\u4E3A\u5E7F\u5927\u8003\u751F\u63D0\u4F9B:\u638C\u4E2D\u5F69\u6CE8\u518C2019\u4E2D\u8003\u6210\u7EE9\u67E5\u8BE2\u3001\u8272\u5929\u4F7F\u5F71\u9662\u4E2D\u8003\u5206\u6570\u7EBF\u3001\u4E2D\u8003\u65F6\u95F4\u3001\u4E2D\u8003\u62A5\u540D\u3001\u4E2D\u8003\u6EE1\u5206\u4F5C\u6587\u3001\u8272\u5929\u4F7F\u5F71\u97F3\u5148\u950B\u4E2D\u8003\u8BD5\u9898\u7B54\u6848\u7B492019\u5E74\u4E2D\u8003\u53CA\u65F6\u8D44\u8BAF"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pmbase-inc-.yaml
+tags:
+- PMI
+apis: []
+x-common:
+- type: x-website
+  url: https://www.pmbase.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

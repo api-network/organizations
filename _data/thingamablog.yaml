@@ -1,0 +1,35 @@
+---
+name: Thingamablog
+description: Thingamablog desktop blogging platform. Create your own blog easily with
+  Thingamablog
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4517651"
+url: https://raw.githubusercontent.com/api-network/organizations/main/thingamablog.yaml
+tags:
+- Flat File
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.thingamablog.com/index.html
+- type: x-blog
+  url: http://www.thingamablog.com
+- type: x-blog
+  url: http://www.thingamablog.com/download.html
+- type: x-blog
+  url: http://www.thingamablog.com/translate.html
+- type: x-blog
+  url: https://www.thingamablog.com/rss.xml
+- type: x-forum
+  url: http://forums.thingamablog.com
+- type: x-website
+  url: https://www.thingamablog.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,30 @@
+---
+name: MaidSafe
+description: MaidSafe's distributed platform enables the creation of fast and secure
+  applications that help ensure digital privacy, security and freedom for all.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26660-maidsafe-net.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "192255"
+url: https://raw.githubusercontent.com/api-network/organizations/main/maidsafe.yaml
+tags:
+- Networks
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: https://safenetwork.tech/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/maidsafe
+- type: x-twitter
+  url: https://twitter.com/maidsafe
+- type: x-website
+  url: http://maidsafe.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

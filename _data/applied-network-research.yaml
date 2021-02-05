@@ -1,0 +1,36 @@
+---
+name: Applied Network Research
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3694"
+url: https://raw.githubusercontent.com/api-network/organizations/main/applied-network-research.yaml
+tags:
+- Wireless
+apis: []
+x-common:
+- type: x-website
+  url: http://hpwren.ucsd.edu
+- type: x-facebook
+  url: https://www.facebook.com/HPWREN.UCSD.EDU/
+- type: x-news
+  url: http://hpwren.ucsd.edu/news/
+- type: x-news
+  url: http://hpwren.ucsd.edu/news/20191213/
+- type: x-twitter
+  url: https://twitter.com/hpwren
+- type: x-website
+  url: https://hpwren.ucsd.edu
+- type: x-youtube
+  url: https://www.youtube.com/user/hpwren/videos
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=ekxA7KQ2kQo
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

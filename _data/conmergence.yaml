@@ -1,0 +1,102 @@
+---
+name: Conmergence
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/conmergence.yaml
+tags:
+- Weblogs
+apis: []
+x-common:
+- type: x-about
+  url: https://edodds.blogs.com/mblog/about_mblog.html
+- type: x-blog
+  url: https://edodds.blogs.com/mblog/
+- type: x-blog
+  url: https://edodds.blogs.com/mblog/interoperancy/
+- type: x-blog
+  url: https://edodds.blogs.com/mblog/2011/08/test.html
+- type: x-blog
+  url: https://edodds.blogs.com/mblog/submit_explanation.html
+- type: x-blog
+  url: http://blog.himss.org/
+- type: x-blog
+  url: https://edodds.blogs.com/mblog/himss/
+- type: x-blog
+  url: https://edodds.blogs.com/mblog/mpayment/
+- type: x-blog
+  url: https://edodds.blogs.com/mblog/medical_consumerism/
+- type: x-blog
+  url: http://conmergence.com/blog/?page_id=1238
+- type: x-blog
+  url: https://edodds.blogs.com/mblog/mhealth/
+- type: x-blog
+  url: http://www.healthtechnica.com/blogsphere/
+- type: x-blog
+  url: http://www.mbproject.org/blog/
+- type: x-blog
+  url: http://mblog.mbproject.org
+- type: x-blog
+  url: https://geekdoctor.blogspot.com
+- type: x-blog
+  url: https://edodds.blogs.com/mblog/venture-capital/
+- type: x-blog
+  url: https://edodds.blogs.com/mblog/atom.xml
+- type: x-blog
+  url: https://edodds.blogs.com/mblog/index.rdf
+- type: x-blog
+  url: https://edodds.blogs.com/mblog/archives.html
+- type: x-blog
+  url: https://edodds.blogs.com/mblog/2011/08/index.html
+- type: x-blog
+  url: https://edodds.blogs.com/mblog/2010/08/index.html
+- type: x-blog
+  url: https://edodds.blogs.com/mblog/2010/06/index.html
+- type: x-blog
+  url: https://edodds.blogs.com/mblog/2010/05/index.html
+- type: x-blog
+  url: https://edodds.blogs.com/mblog/2010/04/index.html
+- type: x-blog
+  url: https://edodds.blogs.com/mblog/2010/03/index.html
+- type: x-blog
+  url: https://edodds.blogs.com/mblog/2010/02/index.html
+- type: x-blog
+  url: https://edodds.blogs.com/mblog/2010/01/index.html
+- type: x-blog
+  url: https://edodds.blogs.com/mblog/2009/12/index.html
+- type: x-blog
+  url: https://edodds.blogs.com/mblog/2009/08/index.html
+- type: x-documentation
+  url: http://www.gacha.org/docs/2010CallforProposals.pdf
+- type: x-documentation
+  url: http://www.himssconference.org/docs/HIMSS10Preview.pdf
+- type: x-forum
+  url: https://edodds.blogs.com/mblog/leadership-forum/
+- type: x-linkedin
+  url: https://www.linkedin.com/e/gis/3102/63B2164D6495
+- type: x-linkedin
+  url: https://www.linkedin.com/e/gis/74285/183D9F20CD6D
+- type: x-linkedin
+  url: https://www.linkedin.com/pub/11/332/186
+- type: x-press
+  url: http://semtech2010.semanticuniverse.com/press.htm
+- type: x-security
+  url: http://blogs.zdnet.com/security/?p=2908
+- type: x-twitter
+  url: https://twitter.com/MedTradeCenter
+- type: x-twitter
+  url: https://twitter.com/cloudcomp_group
+- type: x-twitter
+  url: https://twitter.com/mbproject
+- type: x-website
+  url: https://edodds.blogs.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

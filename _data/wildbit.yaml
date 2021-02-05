@@ -1,0 +1,76 @@
+---
+name: Wildbit
+description: Where we write about building software, defining a remote team culture,
+  and growing a bootstrapped company.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28730-wildbit-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "525750"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wildbit.yaml
+tags: []
+apis: []
+x-common:
+- type: x-blog
+  url: https://wildbit.com/blog/2007/05/21/podcastpeople
+- type: x-blog
+  url: https://wildbit.com/blog/2008/10/05/turkey-were-here
+- type: x-blog
+  url: https://wildbit.com/blog/2011/11/08/a-difficult-day
+- type: x-blog
+  url: https://wildbit.com/blog/2014/09/11/dont-be-an-asshole
+- type: x-blog
+  url: https://wildbit.com/blog
+- type: x-careers
+  url: https://wildbit.com/jobs
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/wildbit
+- type: x-email
+  url: natalie@wildbit.com
+- type: x-email
+  url: privacy@wildbit.com
+- type: x-press
+  url: https://wildbit.com/press
+- type: x-privacy
+  url: https://wildbit.com/privacy-policy
+- type: x-twitter
+  url: https://twitter.com/Wildbit
+- type: x-twitter
+  url: https://twitter.com/cnagele/
+- type: x-twitter
+  url: https://twitter.com/natalienagele/
+- type: x-twitter
+  url: https://twitter.com/efedorenko/
+- type: x-twitter
+  url: https://twitter.com/ibalosh/
+- type: x-twitter
+  url: https://twitter.com/DmitrySabanin/
+- type: x-twitter
+  url: https://twitter.com/isabanin/
+- type: x-twitter
+  url: https://twitter.com/diraq/
+- type: x-twitter
+  url: https://twitter.com/chrisbowler/
+- type: x-twitter
+  url: https://twitter.com/atheken/
+- type: x-twitter
+  url: https://twitter.com/RianVDM/
+- type: x-twitter
+  url: https://twitter.com/thebriankerr/
+- type: x-twitter
+  url: https://twitter.com/jeremypolley/
+- type: x-twitter
+  url: https://twitter.com/@MattAntWest/
+- type: x-twitter
+  url: https://twitter.com/howdy_anna/
+- type: x-twitter
+  url: https://twitter.com/nickhammond/
+- type: x-website
+  url: https://wildbit.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

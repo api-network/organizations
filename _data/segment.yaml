@@ -1,0 +1,95 @@
+---
+name: Segment
+description: Segment is trusted by thousands of companies as their Customer Data Platform.
+  Collect user data with one API and send it to hundreds of tools or a data warehouse.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/serviceproviders/segment-io-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "2065258"
+url: https://raw.githubusercontent.com/api-network/organizations/main/segment.yaml
+tags:
+- Have API
+- Analysis
+- Aggregation
+apis: []
+x-common:
+- type: x-website
+  url: https://segment.com/
+- type: x-blog
+  url: https://segment.com/blog/
+- type: x-blog-rss
+  url: https://segment.com/blog/atom.xml
+- type: x-careers
+  url: https://segment.com/jobs/
+- type: x-contact
+  url: https://segment.com/contact/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/segment-io
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/segment-io
+- type: x-customers
+  url: https://segment.com/industry/customers/meredith/
+- type: x-customers
+  url: https://segment.com/industry/customers/ibm/
+- type: x-customers
+  url: https://segment.com/industry/customers/bonobos/
+- type: x-customers
+  url: https://segment.com/industry/customers/digitalocean-personas/
+- type: x-customers
+  url: https://segment.com/industry/customers/clearscore/
+- type: x-customers
+  url: https://segment.com/customers/
+- type: x-documentation
+  url: https://segment.com/docs/
+- type: x-documentation
+  url: https://segment.com/docs/sources/
+- type: x-email
+  url: privacy@segment.com
+- type: x-email
+  url: security@segment.com
+- type: x-events
+  url: https://segment.com/events/
+- type: x-gdpr
+  url: https://segment.com/product/gdpr/
+- type: x-github
+  url: https://github.com/segmentio
+- type: x-linkedin
+  url: https://www.linkedin.com/company/segment-io/
+- type: x-login
+  url: https://segment.com/login/
+- type: x-marketplace
+  url: https://segment.com/industry/marketplaces/
+- type: x-open-source
+  url: http://open.segment.com
+- type: x-partner
+  url: https://segment.com/partners/developer-center/
+- type: x-partner
+  url: https://segment.com/partners/
+- type: x-press
+  url: https://segment.com/press/
+- type: x-pricing
+  url: https://segment.com/pricing/
+- type: x-security
+  url: https://segment.com/security/
+- type: x-security
+  url: https://segment.com/security/bulletins/
+- type: x-signup
+  url: https://segment.com/signup/
+- type: x-support
+  url: https://segment.com/help/
+- type: x-twitter
+  url: https://twitter.com/segment
+- type: x-webhooks
+  url: https://segment.com/docs/destinations/webhooks/
+- type: x-website
+  url: https://segment.com
+- type: x-website
+  url: https://segment.io/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

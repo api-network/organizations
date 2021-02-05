@@ -1,0 +1,40 @@
+---
+name: Bluefruit Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3846475"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bluefruit-software.yaml
+tags:
+- Embedded Systems
+apis: []
+x-common:
+- type: x-website
+  url: http://www.bluefruit.co.uk
+- type: x-blog
+  url: https://www.bluefruit.co.uk/blog/
+- type: x-careers
+  url: https://www.bluefruit.co.uk/who-we-are/careers/
+- type: x-contact
+  url: https://www.bluefruit.co.uk/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/bluefruitsw
+- type: x-linkedin
+  url: https://www.linkedin.com/company/bluefruit-software
+- type: x-privacy
+  url: https://www.bluefruit.co.uk/privacy-policy/
+- type: x-twitter
+  url: https://www.twitter.com/BluefruitSW
+- type: x-website
+  url: https://www.bluefruit.co.uk
+- type: x-youtube
+  url: https://www.youtube.com/c/BluefruitCoUkSW
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

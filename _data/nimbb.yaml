@@ -1,0 +1,73 @@
+---
+name: Nimbb
+description: nimbb - Webcam Video Recorder - Embed Flash Video Recording - iPhone,
+  iPad, iPod, Android - API for Developers
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/nimbb.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3695381"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nimbb.yaml
+tags:
+- Webcams
+- Webcam API
+- Webcam
+- Video Widget
+- Video Component
+- Video API
+- Video
+- Streaming Video API
+- Streaming Video
+- Streaming API
+- Streaming
+- Share
+- Recording Video
+- Record
+- Programming Flv
+- Programming
+- Objective-C
+- Nimbb
+- IPod Touch
+- IPhone
+- IPad
+- IOS
+- Have API
+- Free Webcam
+- Flv Player
+- Flash Video Recorder
+- Flash Player
+- Embed Recorder
+- Embed
+- Developer
+- API Provider
+- API
+- Android
+apis: []
+x-common:
+- type: x-website
+  url: http://nimbb.com/Help/Api.aspx
+- type: x-website
+  url: http://nimbb.com
+- type: x-blog
+  url: http://blog.netvibes.com/
+- type: x-blog-rss
+  url: http://blog.netvibes.com/rss.php
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/netvibes
+- type: x-developer
+  url: http://developer.nimbb.com
+- type: x-facebook
+  url: http://www.facebook.com/d2soft.nimbb
+- type: x-twitter
+  url: https://twitter.com/#!/nimbb
+- type: x-twitter
+  url: http://twitter.com/nimbb
+- type: x-youtube
+  url: http://www.youtube.com/d2soft
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

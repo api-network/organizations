@@ -1,0 +1,56 @@
+---
+name: Zillman, Marcus P.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4148071"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zillman-marcus-p-.yaml
+tags:
+- People
+apis: []
+x-common:
+- type: x-website
+  url: https://about.me/zillman
+- type: x-blog
+  url: http://zillman.blogspot.com/2020/01/wasafiri.html
+- type: x-blog
+  url: http://zillman.blogspot.com/2019/12/when-is-good.html
+- type: x-blog
+  url: http://zillman.blogspot.com/2019/12/dark-data.html
+- type: x-blog
+  url: http://zillman.blogspot.com/rss/zillman.xml
+- type: x-blog
+  url: http://www.blogged.com
+- type: x-blog
+  url: http://www.blogburst.com/
+- type: x-blog
+  url: http://www.blogtalkradio.com/awarenesswatch/
+- type: x-code
+  url: https://curriculum.code.org/csp-19/unit4/
+- type: x-facebook
+  url: https://www.facebook.com/marcus.zillman
+- type: x-feed
+  url: http://feedjit.com/
+- type: x-open-source
+  url: https://beta.explore.openaire.eu/
+- type: x-privacy
+  url: http://www.privacyresources.info/
+- type: x-twitter
+  url: https://twitter.com/zillman
+- type: x-twitter
+  url: http://www.twitter.com/zillman
+- type: x-website
+  url: https://zillman.blogspot.com
+- type: x-white-papers
+  url: http://www.whitepapers.us/
+- type: x-white-papers
+  url: http://whitepapers.us/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

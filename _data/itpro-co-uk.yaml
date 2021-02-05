@@ -1,0 +1,26 @@
+---
+name: itpro.co.uk
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/itpro-co-uk.yaml
+tags:
+- News And Media
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.itpro.co.uk/security/22641/researchers-demonstrate-internet-of-things-hack
+- type: x-website
+  url: http://itpro.co.uk
+- type: x-website
+  url: https://www.itpro.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,33 @@
+---
+name: DFT.BA
+description: Buy High Quality Social Media Services for Your Brand. Followers, Likes
+  and Views for Instagram, Facebook, Twitter and Youtube. Cheap and Fast! Try Today
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2809402"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dft-ba.yaml
+tags:
+- Redirects
+apis: []
+x-common:
+- type: x-blog
+  url: https://dft.ba/blog/
+- type: x-contact
+  url: https://dft.ba/contact/
+- type: x-privacy
+  url: https://dft.ba/privacy-policy/
+- type: x-terms-of-service
+  url: https://dft.ba/terms-and-conditions/
+- type: x-twitter
+  url: http://twitter.com/share?url=https://dft.ba/&text=Home
+- type: x-website
+  url: https://dft.ba
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

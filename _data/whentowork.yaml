@@ -1,0 +1,38 @@
+---
+name: WhenToWork
+description: Employee Scheduling the fast, easy & affordable way - unique advanced
+  employee scheduling system keeps your employees happy and saves you time and money.
+  Try it free.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "18659"
+url: https://raw.githubusercontent.com/api-network/organizations/main/whentowork.yaml
+tags:
+- Personnel Scheduling
+apis: []
+x-common:
+- type: x-contact
+  url: https://whentowork.com/contact.htm
+- type: x-developer
+  url: http://dev.whentowork.com
+- type: x-login
+  url: https://whentowork.com/logins.htm
+- type: x-pricing
+  url: https://whentowork.com/pricing.htm
+- type: x-privacy
+  url: https://whentowork.com/privacy.htm
+- type: x-support
+  url: https://whentowork.com/support.htm
+- type: x-terms-of-service
+  url: https://whentowork.com/termsofservice.htm
+- type: x-website
+  url: https://whentowork.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

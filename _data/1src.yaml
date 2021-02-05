@@ -1,0 +1,36 @@
+---
+name: 1src
+description: "1SRC\_(One Source) is the first all-inclusive collection of fully verified
+  and vetted source of suppliers and processes for the aerospace and defense industry.
+  We want to reduce the lead time and friction cost it takes to on-board new suppliers.
+  We will also ensure that only the highest quality accredited providers are included
+  in our marketplace."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8319879"
+url: https://raw.githubusercontent.com/api-network/organizations/main/1src.yaml
+tags:
+- News And Media
+apis: []
+x-common:
+- type: x-facebook
+  url: https://facebook.com
+- type: x-instagram
+  url: https://instagram.com
+- type: x-linkedin
+  url: http://linkedin.com/company/1src
+- type: x-twitter
+  url: https://twitter.com
+- type: x-website
+  url: https://www.1src.com
+- type: x-youtube
+  url: https://youtube.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

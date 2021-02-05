@@ -1,0 +1,63 @@
+---
+name: Autodata
+description: Autodata is a trusted world leading supplier of technical information
+  to the automotive aftermarket, covering 8,000 motorcycle models from 65 manufacturers
+  worldwide.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28339-developer-autodata-group-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "70077"
+url: https://raw.githubusercontent.com/api-network/organizations/main/autodata.yaml
+tags:
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://developer.autodata-group.com
+- type: x-website
+  url: http://www.autodata-group.com
+- type: x-blog
+  url: https://developer.autodata-group.com/blog
+- type: x-contact
+  url: https://developer.autodata-group.com/contact
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/autodata
+- type: x-developer
+  url: https://developer.autodata-group.com/page
+- type: x-documentation
+  url: https://developer.autodata-group.com/docs
+- type: x-documentation
+  url: https://developer.autodata-group.com/io-docs
+- type: x-email
+  url: 20customersupport@autodata-group.com
+- type: x-email
+  url: customersupport@autodata-group.com
+- type: x-email
+  url: marketing@autodata-group.com
+- type: x-email
+  url: sales@autodata-group.com
+- type: x-email
+  url: aussales@autodata-group.com
+- type: x-email
+  url: nordics@autodata-group.com
+- type: x-email
+  url: frenchsales@autodata-group.com
+- type: x-email
+  url: service-commercial@autodata-group.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/autodata
+- type: x-twitter
+  url: https://twitter.com/Autodata_Group
+- type: x-twitter
+  url: https://twitter.com/autodata_api
+- type: x-website
+  url: https://developer.autodata-group.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

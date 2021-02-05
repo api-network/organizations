@@ -1,0 +1,38 @@
+---
+name: Smartkarma
+description: Smartkarma unites the fragmented research industry, empowering world's
+  leading investors and research analysts to collectively achieve their full potential.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28728-www-smartkarma-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "777898"
+url: https://raw.githubusercontent.com/api-network/organizations/main/smartkarma.yaml
+tags:
+- Investment
+- Financial
+apis: []
+x-common:
+- type: x-website
+  url: http://www.smartkarma.com
+- type: x-blog
+  url: https://blog.smartkarma.com/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/smartkarma
+- type: x-documentation
+  url: https://api.smartkarma.com/apipie
+- type: x-faq
+  url: https://www.smartkarma.com/home/frequently-asked-questions/
+- type: x-github
+  url: https://github.com/smartkarma
+- type: x-twitter
+  url: https://twitter.com/smartkarma
+- type: x-website
+  url: https://www.smartkarma.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

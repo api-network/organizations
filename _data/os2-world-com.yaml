@@ -1,0 +1,36 @@
+---
+name: OS2 World.Com
+description: OS2World web site
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4216714"
+url: https://raw.githubusercontent.com/api-network/organizations/main/os2-world-com.yaml
+tags:
+- OS/2 Warp
+- Os/2
+- Operating Systems
+- News And Media
+- IBM
+- Ecomstation
+- ArcaOS
+apis: []
+x-common:
+- type: x-website
+  url: http://www.os2world.com
+- type: x-facebook
+  url: https://www.facebook.com/os2world
+- type: x-github
+  url: https://github.com/os2world
+- type: x-twitter
+  url: https://www.twitter.com/os2world
+- type: x-website
+  url: https://www.os2world.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

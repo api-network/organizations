@@ -1,0 +1,35 @@
+---
+name: BCSC
+description: 'BCSC - Security Software and Services for z/OS and OS390: RACF Products,
+  Services, Consultancy and Training'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bcsc.yaml
+tags:
+- Z/OS
+- Software
+- Security
+- RACF Training
+- RACF Offline
+- RACF Add-on Products
+- RACF
+- OS390
+- OS/390
+- FixOwn
+- FixCon
+- BCSC
+- Add-Ons
+apis: []
+x-common:
+- type: x-website
+  url: https://www.bcsc.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

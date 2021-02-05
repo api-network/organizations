@@ -1,0 +1,30 @@
+---
+name: Vitek
+description: Applicure is the leading provider of web application security. We  create
+  products for web application protection, including web application firewall, ISA
+  security and IIS security.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3003712"
+url: https://raw.githubusercontent.com/api-network/organizations/main/vitek.yaml
+tags:
+- Web Site Security
+- Web Application Security
+- Web Application Protection
+- Web Application Firewall
+- Manufacturers
+- Isa Security
+- Iis Security
+apis: []
+x-common:
+- type: x-website
+  url: https://www.vitek.com.tw
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

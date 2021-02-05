@@ -1,0 +1,65 @@
+---
+name: Sign in | Entelo
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "405984"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sign-in--entelo.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.entelo.com
+- type: x-blog
+  url: https://blog.entelo.com/
+- type: x-blog
+  url: https://blog.entelo.com
+- type: x-careers
+  url: https://www.entelo.com/company/careers/
+- type: x-contact
+  url: https://www.entelo.com/company/contact/
+- type: x-customers
+  url: https://www.entelo.com/why-entelo/customers/
+- type: x-events
+  url: https://www.entelo.com/resources/events/
+- type: x-facebook
+  url: https://www.facebook.com/Entelo
+- type: x-login
+  url: https://www.entelo.com/users/login
+- type: x-news
+  url: https://www.entelo.com/company/news/
+- type: x-partner
+  url: https://www.entelo.com/products/partner-integrations/
+- type: x-platform
+  url: https://www.entelo.com/products/platform/
+- type: x-platform
+  url: https://www.entelo.com/products/platform/track/
+- type: x-platform
+  url: https://www.entelo.com/products/platform/reports/
+- type: x-platform
+  url: https://www.entelo.com/products/platform/search/
+- type: x-platform
+  url: https://www.entelo.com/products/platform/diversity/
+- type: x-privacy
+  url: https://www.entelo.com/privacy-policy/
+- type: x-security
+  url: https://www.entelo.com/products/security/
+- type: x-terms-of-service
+  url: https://www.entelo.com/terms-of-use/
+- type: x-terms-of-service
+  url: https://www.entelo.com/legal/dmca-policy/
+- type: x-twitter
+  url: https://twitter.com/Entelo
+- type: x-website
+  url: https://www.entelo.com
+- type: x-youtube
+  url: https://www.youtube.com/user/EnteloVideos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,22 @@
+---
+name: Namesonic
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4782177"
+url: https://raw.githubusercontent.com/api-network/organizations/main/namesonic.yaml
+tags:
+- Name Search
+apis: []
+x-common:
+- type: x-website
+  url: https://www.namesonic.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

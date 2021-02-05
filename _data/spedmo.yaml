@@ -1,0 +1,46 @@
+---
+name: Spedmo
+description: Get site information and details from the ground as it happens.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1800437"
+url: https://raw.githubusercontent.com/api-network/organizations/main/spedmo.yaml
+tags:
+- Online Tools
+apis: []
+x-common:
+- type: x-website
+  url: http://www.spedmo.com
+- type: x-facebook
+  url: https://www.facebook.com/spedmo.paragliding/
+- type: x-instagram
+  url: https://www.instagram.com/spedmo_paragliding
+- type: x-news
+  url: https://apple.news/TWOyUB34xR3adh3IkNZIxWw
+- type: x-news
+  url: https://www.spedmo.com/news.pg
+- type: x-news
+  url: https://pt.spedmo.com/news.pg
+- type: x-news
+  url: https://ko.spedmo.com/news.pg
+- type: x-news
+  url: https://es.spedmo.com/news.pg
+- type: x-news
+  url: https://fr.spedmo.com/news.pg
+- type: x-news
+  url: https://de.spedmo.com/news.pg
+- type: x-news
+  url: https://it.spedmo.com/news.pg
+- type: x-twitter
+  url: https://www.twitter.com/spedmo
+- type: x-website
+  url: https://www.spedmo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

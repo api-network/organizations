@@ -1,0 +1,22 @@
+---
+name: MongDB
+description: <p>MongoDB makes working with a database simple and elegant, providing
+  agility and freedom to scale.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/mongodb.jpeg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: ""
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mongdb.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: https://www.mongodb.org/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

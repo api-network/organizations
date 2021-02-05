@@ -1,0 +1,57 @@
+---
+name: Green Shades Software, Inc.
+description: Greenshades Software provides payroll tax filing solutions that fully
+  integrate into accounting systems like Microsoft Dynamics. Support is included.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "451155"
+url: https://raw.githubusercontent.com/api-network/organizations/main/green-shades-software-inc-.yaml
+tags:
+- Informational Reporting
+apis: []
+x-common:
+- type: x-website
+  url: http://www.greenshades.com
+- type: x-about
+  url: http://greenshades.com/about-greenshades-software.php
+- type: x-about
+  url: http://greenshades.com/about-company-history.php
+- type: x-about
+  url: http://greenshades.com/about-people.php
+- type: x-blog
+  url: https://greenshades.com/blog
+- type: x-blog
+  url: http://greenshades.com/blog
+- type: x-careers
+  url: http://greenshades.com/careers.php
+- type: x-careers
+  url: http://www.greenshades.com/careers.php
+- type: x-contact
+  url: http://greenshades.com/about-contact-us.php
+- type: x-contact
+  url: http://www.greenshades.com/about-contact-us.php
+- type: x-facebook
+  url: https://www.facebook.com/GreenshadesSoftware
+- type: x-partner
+  url: http://greenshades.com/partners.php
+- type: x-partner
+  url: http://www.greenshades.com/partners.php
+- type: x-privacy
+  url: http://www.greenshades.com/privacy.php
+- type: x-support
+  url: http://greenshades.com/support.php
+- type: x-support
+  url: http://www.greenshades.com/support.php
+- type: x-twitter
+  url: https://twitter.com/Greenshades_
+- type: x-website
+  url: https://www.greenshades.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

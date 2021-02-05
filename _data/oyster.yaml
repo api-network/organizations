@@ -1,0 +1,31 @@
+---
+name: Oyster
+description: Oyster enables websites to silently generate traffic revenue as visitors
+  perform Proof of Work for a decentralized storage ledger.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26956-oyster-ws.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "672962"
+url: https://raw.githubusercontent.com/api-network/organizations/main/oyster.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-email
+  url: contact@oyster.ws
+- type: x-email
+  url: brunoblock@oyster.ws
+- type: x-email
+  url: taylorfrench@oyster.ws
+- type: x-email
+  url: ianseyer@oyster.ws
+- type: x-website
+  url: https://oyster.ws
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,68 @@
+---
+name: Cronofy
+description: <p>Cronofy provides a single API for connecting to all calendar services.
+  Developers can&rsquo;t choose which calendar services their customers rely on. Supporting
+  them all is an unjustifiable development and maintenance burden. We take on that
+  burden and in turn are able to offer rich integration at a price point that enables
+  an array of valuable use cases</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/cronofy_logo_400.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "158904"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cronofy.yaml
+tags:
+- Target
+- Have API
+- Calendaring
+- API Provider
+- API LIfeycle
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cronofy.com
+- type: x-blog
+  url: https://www.cronofy.com/blog/
+- type: x-blog-rss
+  url: https://www.cronofy.com/feed/
+- type: x-contact
+  url: https://www.cronofy.com/contact/
+- type: x-documentation
+  url: https://docs.cronofy.com/developers/
+- type: x-documentation
+  url: https://docs.cronofy.com/developers/api/
+- type: x-documentation
+  url: https://docs.cronofy.com/developers/api-libraries/
+- type: x-documentation
+  url: https://docs.cronofy.com/developers/faqs/
+- type: x-documentation
+  url: https://docs.cronofy.com/
+- type: x-facebook
+  url: https://www.facebook.com/cronofy
+- type: x-github
+  url: https://github.com/cronofy
+- type: x-linkedin
+  url: https://www.linkedin.com/company/cronofy/
+- type: x-pricing
+  url: https://www.cronofy.com/pricing/
+- type: x-privacy
+  url: https://www.cronofy.com/privacy-policy/
+- type: x-self-service-registration
+  url: https://app.cronofy.com/sign_up
+- type: x-self-service-registration
+  url: https://app.cronofy.com/sign_up/developer
+- type: x-status
+  url: https://status.cronofy.com/
+- type: x-twitter
+  url: https://twitter.com/cronofy
+- type: x-slack
+  url: https://slack.cronofy.com
+- type: x-website
+  url: https://www.cronofy.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

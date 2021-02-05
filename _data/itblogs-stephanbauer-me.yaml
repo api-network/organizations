@@ -1,0 +1,23 @@
+---
+name: itblogs.stephanbauer.me
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/itblogs-stephanbauer-me.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://itblogs.stephanbauer.me/restful-service-design-how-to-overcome-the-crud-nature-of-the-rest-style/
+- type: x-website
+  url: http://itblogs.stephanbauer.me
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

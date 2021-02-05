@@ -1,0 +1,40 @@
+---
+name: Fireho
+description: "Solu\xE7\xF5es inteligentes que simplificam sua vida (sem instala\xE7\xE3o
+  e f\xE1ceis de usar) http://fireho.com"
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29370-fireho-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "4"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fireho.yaml
+tags: []
+apis: []
+x-common:
+- type: x-email
+  url: contato@fireho.com
+- type: x-email
+  url: com@fireho.com
+- type: x-email
+  url: tec@fireho.com
+- type: x-email
+  url: dev@fireho.com
+- type: x-email
+  url: admin@fireho.com
+- type: x-email
+  url: talk@fireho.com
+- type: x-email
+  url: jobs@fireho.com
+- type: x-email
+  url: support@fireho.com
+- type: x-twitter
+  url: https://twitter.com/firehobo
+- type: x-website
+  url: http://fireho.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

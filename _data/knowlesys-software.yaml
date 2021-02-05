@@ -1,0 +1,29 @@
+---
+name: KnowleSys Software
+description: Knowlesys provides the leading Open Source Intelligence Monitoring platform
+  for Twitter,Facebook, Youtube and more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1548240"
+url: https://raw.githubusercontent.com/api-network/organizations/main/knowlesys-software.yaml
+tags:
+- Web Intelligence Monitoring
+- Public Opinion Monitoring
+- OSINT
+- Open Source Intelligence
+- Microblog Monitoring
+- Extraction And Transformation
+- Big Data Deep Web Dark Web Monitoring
+apis: []
+x-common:
+- type: x-website
+  url: https://www.knowlesys.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,40 @@
+---
+name: SiteOrigin
+description: Download free WordPress themes and plugins.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "21181"
+url: https://raw.githubusercontent.com/api-network/organizations/main/siteorigin.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-about
+  url: https://siteorigin.com/about/
+- type: x-blog
+  url: https://siteorigin.com/blog/
+- type: x-facebook
+  url: https://www.facebook.com/SiteOrigin/
+- type: x-github
+  url: https://github.com/siteorigin
+- type: x-login
+  url: https://siteorigin.com/wp-login.php
+- type: x-login
+  url: https://siteorigin.com/wp-login.php?action=register
+- type: x-support
+  url: https://siteorigin.com/support/
+- type: x-twitter
+  url: https://twitter.com/siteorigin
+- type: x-website
+  url: https://siteorigin.com
+- type: x-youtube
+  url: https://www.youtube.com/c/siteoriginwp
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

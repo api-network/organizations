@@ -1,0 +1,37 @@
+---
+name: Escape Information Services
+description: The homepage of Escape OE, software publisher based in Thessaloniki,
+  Greece.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/escape-information-services.yaml
+tags:
+- Qpix
+- Qmedical
+- Qmedia
+- Qgrid
+- Qdrop
+- Plugin
+- Plug-in
+- Medical Viewer
+- Medical
+- EMV
+- Dicom Viewer
+- DICOM
+- Developers
+- 4th Dimension
+- 4d
+apis: []
+x-common:
+- type: x-website
+  url: https://www.escape.gr
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

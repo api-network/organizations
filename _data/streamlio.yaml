@@ -1,0 +1,69 @@
+---
+name: Streamlio
+description: Real-time solution for messaging, processing, and storage of streaming
+  data.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28190-streaml-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1580639"
+url: https://raw.githubusercontent.com/api-network/organizations/main/streamlio.yaml
+tags:
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.splunk.com
+- type: x-about
+  url: https://streaml.io/about
+- type: x-about
+  url: https://streaml.io/about/team
+- type: x-about
+  url: https://streaml.io/about/community
+- type: x-blog
+  url: https://streaml.io/blog
+- type: x-blog
+  url: https://streaml.io/blog/a-new-chapter-for-streamlio
+- type: x-contact
+  url: https://streaml.io/about/contact
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/getstream-io
+- type: x-documentation
+  url: https://streaml.io/docs/getting-started
+- type: x-documentation
+  url: https://streaml.io/docs
+- type: x-email
+  url: info@streaml.io
+- type: x-email
+  url: community@streaml.io
+- type: x-email
+  url: media@streaml.io
+- type: x-events
+  url: https://streaml.io/about/events
+- type: x-linkedin
+  url: https://www.linkedin.com/company/streamlio/
+- type: x-news
+  url: https://streaml.io/about/news
+- type: x-platform
+  url: https://streaml.io/product/platform
+- type: x-privacy
+  url: https://streaml.io/privacy/
+- type: x-security
+  url: https://streaml.io/resources/security
+- type: x-support
+  url: https://streaml.io/support
+- type: x-terms-of-service
+  url: https://streaml.io/website-terms-of-use/
+- type: x-tutorials
+  url: https://streaml.io/resources/tutorials
+- type: x-twitter
+  url: https://twitter.com/streamlio
+- type: x-website
+  url: https://streaml.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

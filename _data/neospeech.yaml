@@ -1,0 +1,30 @@
+---
+name: NeoSpeech
+description: |-
+  NeoSpeech specializes in creating high
+  quality Text-to-Speech (TTS) solutions that speak to you and your customers in a clear and natural voice,
+  without sacrificing quality or performance in several different languages with over 40 voices to choose
+  from, including Mexican Spanish, UK and US English and more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "361777"
+url: https://raw.githubusercontent.com/api-network/organizations/main/neospeech.yaml
+tags:
+- Speech Synthesis Cores
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.neospeech.com/
+- type: x-blog
+  url: http://blog.neospeech.com/
+- type: x-website
+  url: https://www.neospeech.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

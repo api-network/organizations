@@ -1,0 +1,96 @@
+---
+name: MYOB
+description: Business software that sets you up for success. Try our online accounting
+  solutions for tax, payroll, super and invoicing. Your 30-day free trial is waiting.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "30695"
+url: https://raw.githubusercontent.com/api-network/organizations/main/myob.yaml
+tags:
+- Small Business
+- Business
+apis: []
+x-common:
+- type: x-about
+  url: https://www.myob.com/au/about
+- type: x-about
+  url: https://www.myob.com/au/about/stories
+- type: x-about
+  url: https://www.myob.com/au/about/stories/lana-wilkinson
+- type: x-about
+  url: https://www.myob.com/au/about/stories/nic-coulter
+- type: x-about
+  url: https://www.myob.com/au/about/stories/megan-morton
+- type: x-about
+  url: https://www.myob.com/au/about/stories/sam-wood
+- type: x-about
+  url: https://www.myob.com/au/about/stories/brooke-meredith
+- type: x-about
+  url: https://www.myob.com/au/about/stories/adam-dovile
+- type: x-blog
+  url: https://www.myob.com/au/blog
+- type: x-blog
+  url: https://www.myob.com/au/blog/
+- type: x-careers
+  url: https://www.myob.com/au/careers
+- type: x-case-studies
+  url: https://www.myob.com/au/enterprise/case-studies
+- type: x-contact
+  url: https://developer.myob.com/contact
+- type: x-contact
+  url: https://www.myob.com/au/contact-us
+- type: x-developer
+  url: https://developer.myob.com/
+- type: x-developer
+  url: http://myobapi.tumblr.com
+- type: x-developer
+  url: http://developer.myob.com.au
+- type: x-documentation
+  url: https://companydocs.myob.com.au/Integrate/Integrate
+- type: x-facebook
+  url: https://www.facebook.com/MYOB
+- type: x-github
+  url: https://github.com/MYOB-Technology
+- type: x-instagram
+  url: http://instagram.com/myobapi/
+- type: x-instagram
+  url: https://www.instagram.com/myob/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/myob
+- type: x-login
+  url: https://my.kounta.com/login
+- type: x-login
+  url: https://my.payglobal.com/login
+- type: x-partner
+  url: https://partner.myob.com/
+- type: x-partner
+  url: https://partner.myob.com
+- type: x-support
+  url: https://apisupport.myob.com/hc/en-us
+- type: x-support
+  url: https://apisupport.myob.com/hc/en-us/
+- type: x-support
+  url: https://www.myob.com/au/support/downloads
+- type: x-support
+  url: https://www.myob.com/au/support
+- type: x-support
+  url: https://www.myob.com/au/support/upgrade
+- type: x-support
+  url: http://help.myob.com.au/showme/
+- type: x-twitter
+  url: http://www.twitter.com/myobapi
+- type: x-twitter
+  url: http://www.twitter.com/
+- type: x-twitter
+  url: https://twitter.com/MYOB
+- type: x-website
+  url: https://myob.com.au
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

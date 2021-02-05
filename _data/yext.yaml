@@ -1,0 +1,171 @@
+---
+name: Yext
+description: One platform to manage all your digital knowledge, including listings,
+  reviews, and local pages. Control business information across 100+ sites and apps.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28742-www-yext-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "13907"
+url: https://raw.githubusercontent.com/api-network/organizations/main/yext.yaml
+tags:
+- Profile
+apis: []
+x-common:
+- type: x-website
+  url: http://yext.com
+- type: x-about
+  url: https://www.yext.com/about/
+- type: x-about
+  url: https://www.yext.com/about/leadership/
+- type: x-blog
+  url: https://developer.yext.com/blog/
+- type: x-blog
+  url: https://www.yext.com/blog/
+- type: x-careers
+  url: https://www.yext.com/careers/
+- type: x-careers
+  url: https://www.yext.com/careers/upward/
+- type: x-code
+  url: https://www.yext.com/terms/vendor-code-conduct/
+- type: x-contact
+  url: https://developer.yext.com/support/contact-us/
+- type: x-contact
+  url: https://www.yext.com/about/contact/sales/
+- type: x-contact
+  url: https://www.yext.com/about/contact/
+- type: x-customers
+  url: https://www.yext.com/customers/
+- type: x-customers
+  url: https://www.yext.com/customers/dennys/
+- type: x-customers
+  url: https://www.yext.com/customers/t-mobile/
+- type: x-customers
+  url: https://www.yext.com/customers/taco-bell/
+- type: x-developer
+  url: https://developer.yext.com/
+- type: x-developer
+  url: https://developer.yext.com/?no_locale_redirect=true
+- type: x-developer
+  url: https://developer.yext.ca/?no_locale_redirect=true
+- type: x-developer
+  url: https://developer.yext.ca/fr?no_locale_redirect=true
+- type: x-developer
+  url: https://developer.yext.co.uk/?no_locale_redirect=true
+- type: x-developer
+  url: https://developer.yext.de/?no_locale_redirect=true
+- type: x-developer
+  url: https://developer.yext.com/developer-guides/
+- type: x-developer
+  url: https://developer.yext.com/reference/
+- type: x-developer
+  url: https://developer.yext.com/best-practices/
+- type: x-developer
+  url: http://developer.yext.com/
+- type: x-developer
+  url: http://developer.yext.com
+- type: x-documentation
+  url: https://developer.yext.com/docs/guides/get-started/
+- type: x-documentation
+  url: https://developer.yext.com/docs/
+- type: x-documentation
+  url: https://developer.yext.com/docs/guides/
+- type: x-documentation
+  url: https://developer.yext.com/docs/webhooks/
+- type: x-documentation
+  url: https://developer.yext.com/docs/api-reference/
+- type: x-documentation
+  url: https://developer.yext.com/docs/administrative-api/
+- type: x-documentation
+  url: https://developer.yext.com/docs/glossary/
+- type: x-documentation
+  url: https://developer.yext.com/docs/live-api/
+- type: x-documentation
+  url: https://developer.yext.com/docs/change-log/
+- type: x-events
+  url: https://www.yext.com/solutions/yext-for-events/
+- type: x-events
+  url: https://events.yext.com/
+- type: x-facebook
+  url: https://www.facebook.com/YextInc/
+- type: x-instagram
+  url: https://www.instagram.com/yextinc/
+- type: x-investor
+  url: http://investors.yext.com/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/yext
+- type: x-login
+  url: http://www.yext.com/signin/
+- type: x-login
+  url: https://www.yext.com/signin
+- type: x-login
+  url: https://www.yext.com/resources/cx/19-2/login-page/
+- type: x-news
+  url: https://www.yext.com/about/news-media/
+- type: x-open-source
+  url: https://www.yext.com/careers/open-positions/
+- type: x-partner
+  url: https://www.yext.com/partners/
+- type: x-platform
+  url: https://www.yext.com/resources/cx/19-2/platform/
+- type: x-platform
+  url: https://www.yext.com/resources/cx/19-2/platform/video/
+- type: x-privacy
+  url: http://www.yext.com/privacy-policy/
+- type: x-privacy
+  url: https://www.yext.com/privacy-policy/
+- type: x-privacy
+  url: https://www.yext.com/privacy-policy/#ad-choices
+- type: x-showcase
+  url: https://www.yext.com/partners/partner-showcase/
+- type: x-signup
+  url: https://www.yext.com/pl/developer-account/signup.html
+- type: x-support
+  url: https://developer.yext.com/support/
+- type: x-support
+  url: https://developer.yext.com/support/faqs/
+- type: x-support
+  url: https://help.yext.com/hc/en-us
+- type: x-support
+  url: https://help.yext.com/
+- type: x-terms-of-service
+  url: https://www.yext.com/terms/
+- type: x-terms-of-service
+  url: https://www.yext.com/terms/onward-terms/
+- type: x-terms-of-service
+  url: https://www.yext.com/terms/yext-enterprise-mm-msa/
+- type: x-terms-of-service
+  url: https://www.yext.com/terms/subprocessors/
+- type: x-terms-of-service
+  url: https://www.yext.com/terms/dpa/
+- type: x-terms-of-service
+  url: https://www.yext.com/terms/applicant-privacy-notice/
+- type: x-terms-of-service
+  url: https://www.yext.com/terms/es-product-terms/
+- type: x-terms-of-service
+  url: https://www.yext.com/terms/event-terms-and-conditions/
+- type: x-terms-of-service
+  url: https://www.yext.com/terms/it-product-terms/
+- type: x-terms-of-service
+  url: https://www.yext.com/terms/it-features-descriptions/
+- type: x-terms-of-service
+  url: https://www.yext.com/terms/es-dpa/
+- type: x-terms-of-service
+  url: https://www.yext.com/terms/copyright-policy/
+- type: x-terms-of-service
+  url: https://www.yext.com/terms/es-features-descriptions/
+- type: x-terms-of-service
+  url: https://www.yext.com/terms/ccpa-applicant-notice/
+- type: x-twitter
+  url: https://twitter.com/yext
+- type: x-webinars
+  url: https://events.yext.com/webinars.html
+- type: x-website
+  url: https://www.yext.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

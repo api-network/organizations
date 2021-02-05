@@ -1,0 +1,43 @@
+---
+name: Hire Success
+description: "Gather objective data on applicants and employees, identify top candidates,
+  easily conduct structured interviews \u2014 all with Hire Success."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "581974"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hire-success.yaml
+tags:
+- Testing And Evaluation
+apis: []
+x-common:
+- type: x-website
+  url: http://www.hiresuccess.com
+- type: x-about
+  url: https://www.hiresuccess.com/about
+- type: x-blog
+  url: https://www.hiresuccess.com/blog
+- type: x-contact
+  url: https://www.hiresuccess.com/contact
+- type: x-open-source
+  url: https://www.hiresuccess.com/features/job-openings
+- type: x-pricing
+  url: https://www.hiresuccess.com/pricing
+- type: x-status
+  url: https://status.hiresuccess.com/
+- type: x-support
+  url: https://www.hiresuccess.com/help
+- type: x-terms-of-service
+  url: https://www.hiresuccess.com/company/legal/terms
+- type: x-twitter
+  url: https://twitter.com/hiresuccess
+- type: x-website
+  url: https://www.hiresuccess.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

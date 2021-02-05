@@ -1,0 +1,37 @@
+---
+name: Outlook Freeware
+description: A large set of free add-ins and utilities for Microsoft Outlook. Working
+  with messages, contacts, calendars, tasks, notes and journals. Export and import,
+  processing attachments, managing categories, statistics and reports, and even more
+  extremely useful tools for every Outlook user.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "280983"
+url: https://raw.githubusercontent.com/api-network/organizations/main/outlook-freeware.yaml
+tags:
+- Microsoft Outlook
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.outlookfreeware.com/en/blog/
+- type: x-facebook
+  url: https://www.facebook.com/OutlookFreeware
+- type: x-forum
+  url: https://www.outlookfreeware.com/en/forum/
+- type: x-news
+  url: https://www.outlookfreeware.com/en/news/
+- type: x-twitter
+  url: https://twitter.com/OutlookFreeware
+- type: x-website
+  url: https://www.outlookfreeware.com
+- type: x-youtube
+  url: https://www.youtube.com/c/OutlookFreeware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

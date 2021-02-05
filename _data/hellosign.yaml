@@ -1,0 +1,125 @@
+---
+name: HelloSign
+description: HelloSign is the world's leading free eSignature platform. Send and receive
+  electronic signatures securely with our end-user solution or our eSignature API.
+  Soc2 and HIPAA compliant esignatures.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1422_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "8725"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hellosign.yaml
+tags:
+- Target
+- Signatures
+- Have API
+- Esignature
+- Contracts
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://hellosign.com
+- type: x-about
+  url: https://www.hellosign.com/info/aboutus
+- type: x-base
+  url: https://api.hellosign.com/
+- type: x-blog
+  url: https://www.hellosign.com/blog
+- type: x-careers
+  url: https://www.hellosign.com/careers
+- type: x-code
+  url: https://github.com/HelloFax/hellosign-python-sdk
+- type: x-code
+  url: https://github.com/HelloFax/hellosign-ruby-sdk
+- type: x-code
+  url: https://github.com/HelloFax/hellosign-php-sdk
+- type: x-code
+  url: https://github.com/HelloFax/hellosign-java-sdk
+- type: x-code
+  url: https://github.com/HelloFax/hellosign-nodejs-sdk
+- type: x-code
+  url: https://github.com/HelloFax/hellosign-dotnet-sdk
+- type: x-contact
+  url: https://www.hellosign.com/form/contact-us-general
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/hellosign
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/hellosign
+- type: x-customers
+  url: https://www.hellosign.com/customers/amenify
+- type: x-customers
+  url: https://www.hellosign.com/customers/instacart
+- type: x-customers
+  url: https://www.hellosign.com/customers/climb-credit
+- type: x-customers
+  url: https://www.hellosign.com/customers/advicepay
+- type: x-customers
+  url: https://www.hellosign.com/customers/cgia
+- type: x-developer
+  url: https://app.hellosign.com/api/libraries
+- type: x-developer
+  url: https://app.hellosign.com/api/reference
+- type: x-developer
+  url: https://app.hellosign.com/api/libraries#Official
+- type: x-developers
+  url: http://www.hellosign.com/info/api
+- type: x-documentation
+  url: https://app.hellosign.com/api/documentation
+- type: x-documentation
+  url: https://docs.helloworks.com/reference
+- type: x-documentation
+  url: https://app.hellosign.com/api/documentation#QuickStart
+- type: x-email
+  url: support@hellosign.com
+- type: x-email
+  url: legal@hellosign.com
+- type: x-email
+  url: bizdev@hellosign.com
+- type: x-email
+  url: no3pm@hellosign.com
+- type: x-email
+  url: apisupport@hellosign.com
+- type: x-email
+  url: security@hellosign.com
+- type: x-facebook
+  url: https://www.facebook.com/hellosignapp
+- type: x-integrations
+  url: https://www.hellosign.com/integrations/salesforce
+- type: x-linkedin
+  url: https://www.linkedin.com/company/hellosign
+- type: x-linkedin
+  url: https://www.linkedin.com/company/hellosign/
+- type: x-press
+  url: https://www.hellosign.com/press
+- type: x-pricing
+  url: https://app.hellosign.com/info/pricing
+- type: x-pricing
+  url: https://app.hellosign.com/api/pricing
+- type: x-pricing
+  url: https://www.hellosign.com/products/helloworks-pricing
+- type: x-pricing
+  url: https://app.hellofax.com/info/pricing
+- type: x-privacy
+  url: https://www.hellosign.com/info/privacyPolicy
+- type: x-privacy
+  url: https://www.hellosign.com/privacy
+- type: x-terms-of-service
+  url: https://www.hellosign.com/terms
+- type: x-twitter
+  url: https://twitter.com/HelloSign
+- type: x-twitter
+  url: https://twitter.com/HelloSignApp
+- type: x-twitter
+  url: https://www.twitter.com/HelloSign
+- type: x-website
+  url: https://faq.hellosign.com/hc/en-us/articles/208317867-How-to-Integrate-Slack-and-HelloSign
+- type: x-website
+  url: http://www.hellosign.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

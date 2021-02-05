@@ -1,0 +1,32 @@
+---
+name: Alpha-Digital
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8525162"
+url: https://raw.githubusercontent.com/api-network/organizations/main/alphadigital.yaml
+tags:
+- Used
+apis: []
+x-common:
+- type: x-website
+  url: http://www.alpha-digital.co.uk
+- type: x-facebook
+  url: https://www.facebook.com/AlphaDigitalUK
+- type: x-support
+  url: https://www.alpha-digital.co.uk/support-maintenance/
+- type: x-support
+  url: https://www.alpha-digital.co.uk/networking-support/
+- type: x-twitter
+  url: https://twitter.com/alphadigitaluk
+- type: x-website
+  url: https://www.alpha-digital.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

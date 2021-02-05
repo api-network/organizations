@@ -1,0 +1,45 @@
+---
+name: Dimension CAD
+description: Librerias de Bloques CAD para Arquitectura, Ingenieria, Infografia, Construccion,
+  Diagramas, Dibujos 2D y 3D.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "889454"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dimension-cad.yaml
+tags:
+- Simbolo
+- Proyecto
+- Plano
+- Libreria
+- Library
+- Libraries
+- Ingenieria
+- Dwg
+- Drawing
+- Download
+- Dibujo
+- Diagramas
+- Descarga
+- Construccion
+- CAD
+- Bloques
+- Block
+- Biblioteca
+- AutoCAD
+- Arquitectura
+- 3d Studio
+- 3D
+- 2d
+apis: []
+x-common:
+- type: x-website
+  url: https://www.dimensioncad.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

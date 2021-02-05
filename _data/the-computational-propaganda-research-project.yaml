@@ -1,0 +1,30 @@
+---
+name: The Computational Propaganda Research Project
+description: <p>The Computational Propaganda Research Project (COMPROP) investigates
+  the interaction of algorithms, automation and politics. This work includes analysis
+  of how tools like social media bots are used to manipulate public opinion by amplifying
+  or repressing political content, disinformation, hate speech, and junk news. We
+  use perspectives from organizational sociology, human computer interaction, communication,
+  information science, and political science to interpret and analyze the evidence
+  we are gathering. Our project is based at the Oxford Internet Institute, University
+  of Oxford.</p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-computational-propaganda-research-project.yaml
+tags: []
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/polbots
+- type: x-website
+  url: http://comprop.oii.ox.ac.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

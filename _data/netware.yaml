@@ -1,0 +1,24 @@
+---
+name: Netware
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6431567"
+url: https://raw.githubusercontent.com/api-network/organizations/main/netware.yaml
+tags:
+- Installation
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/netwargr/
+- type: x-website
+  url: https://www.netwar.gr
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

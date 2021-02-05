@@ -1,0 +1,58 @@
+---
+name: DSP Group, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4447421"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dsp-group-inc-.yaml
+tags:
+- Telephony
+apis: []
+x-common:
+- type: x-website
+  url: http://www.dspg.com
+- type: x-about
+  url: https://www.dspg.com/corporate/about-dsp-group/
+- type: x-careers
+  url: https://www.dspg.com/careers-2/
+- type: x-contact
+  url: https://www.dspg.com/contact-us/
+- type: x-customers
+  url: https://www.dspg.com/corporate/our-customers/
+- type: x-events
+  url: https://www.dspg.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/dspgroup2013
+- type: x-login
+  url: https://www.dspg.com/login-form/
+- type: x-news
+  url: http://ir.dspg.com/phoenix.zhtml?c=101665&p=irol-news
+- type: x-partner
+  url: https://www.dspg.com/corporate/partners/
+- type: x-press
+  url: https://www.dspg.com/press-1/analyst-quotes/
+- type: x-press
+  url: https://www.dspg.com/press-1/in-the-media/
+- type: x-privacy
+  url: https://www.dspg.com/privacy-policy/
+- type: x-support
+  url: https://www.dspg.com/support/
+- type: x-terms-of-service
+  url: https://www.dspg.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/DSPGInc
+- type: x-website
+  url: https://www.dspg.com
+- type: x-white-papers
+  url: https://www.dspg.com/press-1/whitepaper/
+- type: x-youtube
+  url: http://www.youtube.com/user/DSPGroupNews
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

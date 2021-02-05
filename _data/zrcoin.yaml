@@ -1,0 +1,44 @@
+---
+name: ZrCoin
+description: ZrCoin is the first ever blockchain option for investing in the production
+  of an in-demand industrial material.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27032-zrcoin-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2774615"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zrcoin.yaml
+tags:
+- Marketplaces
+- Blockchain
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/zrcoin/funding-rounds
+- type: x-facebook
+  url: https://www.facebook.com/mukaltin.sy
+- type: x-facebook
+  url: https://www.facebook.com/zrcoin/
+- type: x-platform
+  url: https://wavesplatform.com/
+- type: x-twitter
+  url: https://twitter.com/ZrCoin/media
+- type: x-twitter
+  url: https://twitter.com/ZrCoin
+- type: x-website
+  url: http://zrcoin.io
+- type: x-website
+  url: https://zrcoin.io
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=xHWsC3lY794
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=gjaYLSTnnPI
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=bgb0BWepYzE
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

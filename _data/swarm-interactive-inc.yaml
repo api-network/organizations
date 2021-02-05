@@ -1,0 +1,40 @@
+---
+name: Swarm Interactive, Inc
+description: Get patient education videos for your website, waiting room and more.
+  ViewMedica videos help you inform patients, improve outcomes and reduce readmissions.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/swarm-interactive-inc.yaml
+tags:
+- Website
+- Waiting Room
+- Patient Engagement
+- Patient Education
+- Health And Medical
+- Exam Room
+- EHR
+- Educational Videos
+- Digital Signage
+- CCTV
+apis: []
+x-common:
+- type: x-website
+  url: http://www.viewmedica.com
+- type: x-facebook
+  url: https://www.facebook.com/swarminteractive/
+- type: x-facebook
+  url: https://facebook.com/swarminteractive
+- type: x-twitter
+  url: https://twitter.com/viewmedica
+- type: x-website
+  url: https://www.swarminteractive.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

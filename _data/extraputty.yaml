@@ -1,0 +1,55 @@
+---
+name: ExtraPuTTY
+description: ExtraPuTTY - fork of putty. (Add win32 API,TestStand Steps, automatic
+  sequencing of command,shortcuts for pre-defined command ...)
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1814773"
+url: https://raw.githubusercontent.com/api-network/organizations/main/extraputty.yaml
+tags:
+- Windows
+- Win32
+- TestStand
+- Test
+- TELNET API
+- Telnet
+- SSH API
+- SSH
+- Shortcut
+- Serial Link
+- Send
+- Security
+- Rlogin
+- Receive
+- Raw
+- PuTTYcyg
+- Putty
+- Protocol
+- National Instrument
+- Lua
+- LabVIEW
+- Fork
+- ExtraPuTTY DLL
+- DLL
+- Cygterm
+- CVI
+- Command Manager
+- API
+- Addon
+apis: []
+x-common:
+- type: x-news
+  url: http://www.extraputty.com/news.xml
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-website
+  url: https://www.extraputty.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

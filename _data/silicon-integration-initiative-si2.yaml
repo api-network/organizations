@@ -1,0 +1,82 @@
+---
+name: Silicon Integration Initiative (Si2)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3703097"
+url: https://raw.githubusercontent.com/api-network/organizations/main/silicon-integration-initiative-si2.yaml
+tags:
+- Electronic Design Automation
+apis: []
+x-common:
+- type: x-website
+  url: http://www.si2.org
+- type: x-blog
+  url: https://www.si2.org/blog/
+- type: x-contact
+  url: https://www.si2.org/contact-us/
+- type: x-contact
+  url: https://www.si2.org/oa_contact_page/
+- type: x-events
+  url: https://www.si2.org/events/
+- type: x-facebook
+  url: https://www.facebook.com/siliconintegrationinitiative
+- type: x-forum
+  url: https://www.si2.org/forum_april_12/
+- type: x-news
+  url: https://www.si2.org/category/news/
+- type: x-open-source
+  url: https://www.si2.org/openaccess/
+- type: x-open-source
+  url: https://www.si2.org/open-cell-library/
+- type: x-open-source
+  url: https://www.si2.org/openstandards-2/
+- type: x-open-source
+  url: https://www.si2.org/join-openaccess/
+- type: x-open-source
+  url: https://projects.si2.org/openeda.si2.org/sso/login.php
+- type: x-open-source
+  url: https://www.si2.org/category/openstandards/
+- type: x-open-source
+  url: https://www.si2.org/category/openaccess/
+- type: x-open-source
+  url: https://www.si2.org/category/openaccess-membership/
+- type: x-open-source
+  url: https://www.si2.org/openstandards-3/
+- type: x-open-source
+  url: https://www.si2.org/open-model/
+- type: x-open-source
+  url: https://www.si2.org/openaccess-benefits/
+- type: x-open-source
+  url: https://www.si2.org/openaccess-dm6/
+- type: x-open-source
+  url: https://www.si2.org/category/open-model-interface/
+- type: x-open-source
+  url: https://www.si2.org/category/open3d/
+- type: x-open-source
+  url: https://www.si2.org/category/opendfm/
+- type: x-open-source
+  url: https://www.si2.org/category/opendfm-membership/
+- type: x-open-source
+  url: https://www.si2.org/category/openpdk-membership/
+- type: x-privacy
+  url: https://www.si2.org/privacy/
+- type: x-twitter
+  url: https://twitter.com/si2org
+- type: x-twitter
+  url: http://twitter.com/si2org/
+- type: x-webinars
+  url: https://www.si2.org/si2-webinar-registration/
+- type: x-webinars
+  url: https://www.si2.org/fruit-webinar/
+- type: x-website
+  url: https://www.si2.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

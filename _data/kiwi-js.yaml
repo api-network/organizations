@@ -1,0 +1,64 @@
+---
+name: Kiwi.js
+description: Kiwi.js is a mobile first HTML5 and Javascript game engine supporting
+  both Canvas and WebGL rendering.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "921629"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kiwi-js.yaml
+tags:
+- WebGL
+- JavaScript
+- HTML5
+- Canvas
+apis: []
+x-common:
+- type: x-website
+  url: http://www.kiwijs.org
+- type: x-about
+  url: https://www.kiwijs.org/about/about-kiwi-js/
+- type: x-blog
+  url: https://www.kiwijs.org/blog/
+- type: x-developer
+  url: http://www.kiwijs.org/api/
+- type: x-documentation
+  url: http://www.kiwijs.org/documentation/
+- type: x-feed
+  url: https://www.kiwijs.org/feed/
+- type: x-forum
+  url: https://www.kiwijs.org/forums/
+- type: x-github
+  url: https://github.com/gamelab/kiwi.js
+- type: x-github
+  url: https://github.com/gamelab/kiwi.js/issues/new
+- type: x-github
+  url: https://github.com/gamelab/kiwi.js/stargazers
+- type: x-github
+  url: http://github.com/gamelab/kiwi.js/graphs/contributors
+- type: x-login
+  url: https://www.kiwijs.org/login
+- type: x-login
+  url: https://www.kiwijs.org/hidden-login?action=register
+- type: x-login
+  url: https://www.kiwijs.org/hidden-login
+- type: x-press
+  url: https://wordpress.org/
+- type: x-support
+  url: https://www.kiwijs.org/help/
+- type: x-support
+  url: http://www.kiwijs.org/help/
+- type: x-tutorials
+  url: http://www.kiwijs.org/documentation/tutorials/
+- type: x-twitter
+  url: https://twitter.com/kiwijsengine
+- type: x-website
+  url: https://www.kiwijs.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

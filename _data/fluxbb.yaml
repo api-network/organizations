@@ -1,0 +1,81 @@
+---
+name: FluxBB
+description: FluxBB is a fast, light, user-friendly, free and open-source forum application
+  for your website.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "342143"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fluxbb.yaml
+tags:
+- Forums
+apis: []
+x-common:
+- type: x-website
+  url: http://fluxbb.org/
+- type: x-about
+  url: https://fluxbb.org/about/
+- type: x-about
+  url: https://fluxbb.org/about/features.html
+- type: x-about
+  url: https://fluxbb.org/about/tour.html
+- type: x-about
+  url: https://fluxbb.org/about/donations.html
+- type: x-about
+  url: https://fluxbb.org/about/supporters.html
+- type: x-contact
+  url: https://fluxbb.org/community/contact.html
+- type: x-documentation
+  url: https://fluxbb.org/docs/
+- type: x-forum
+  url: https://fluxbb.org/forums/register.php
+- type: x-forum
+  url: https://fluxbb.org/forums/index.php
+- type: x-forum
+  url: https://fluxbb.org/forums/viewtopic.php?id=9472
+- type: x-forum
+  url: https://fluxbb.org/forums/profile.php?id=62382
+- type: x-forum
+  url: https://fluxbb.org/forums/profile.php?id=63114
+- type: x-forum
+  url: https://fluxbb.org/forums/profile.php?id=54944
+- type: x-forum
+  url: https://fluxbb.org/forums/profile.php?id=61491
+- type: x-forum
+  url: https://fluxbb.org/forums/viewtopic.php?id=8856
+- type: x-forum
+  url: https://fluxbb.org/forums/viewtopic.php?id=8707
+- type: x-forum
+  url: https://fluxbb.org/forums/viewtopic.php?id=8670
+- type: x-forum
+  url: https://fluxbb.org/forums/viewtopic.php?id=8282
+- type: x-forum
+  url: https://fluxbb.org/forums/viewtopic.php?id=8203
+- type: x-forum
+  url: https://fluxbb.org/forums/viewtopic.php?id=8001
+- type: x-forum
+  url: https://fluxbb.org/forums/viewtopic.php?id=7951
+- type: x-forum
+  url: https://fluxbb.org/forums/viewtopic.php?id=7574
+- type: x-forum
+  url: https://fluxbb.org/forums/viewtopic.php?id=7513
+- type: x-github
+  url: https://github.com/fluxbb/fluxbb/commits/master.atom
+- type: x-login
+  url: https://fluxbb.org/login.html
+- type: x-news
+  url: https://fluxbb.org/community/newsletter.html
+- type: x-support
+  url: http://www.gandi.net/supports/
+- type: x-twitter
+  url: http://twitter.com/fluxbb
+- type: x-website
+  url: https://fluxbb.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

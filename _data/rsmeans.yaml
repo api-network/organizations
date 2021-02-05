@@ -1,0 +1,46 @@
+---
+name: RSMeans
+description: Brought to you by Gordian, RSMeans data provides accurate and up-to-date
+  cost information that helps owners, architects, engineers, contractors and others
+  to precisely project and control the cost of both new building construction and
+  renovation projects.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28841-www-rsmeans-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "436129"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rsmeans.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: https://www.rsmeans.com/
+- type: x-contact
+  url: https://www.rsmeans.com/info/contact/contact-us.aspx
+- type: x-contact
+  url: https://www.rsmeans.com/info/contact/about-us.aspx
+- type: x-developer
+  url: https://www.rsmeans.com/products/services/api.aspx
+- type: x-events
+  url: https://www.gordian.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/rsmeanscostdata
+- type: x-partner
+  url: https://www.rsmeans.com/partners/become-a-partner.aspx
+- type: x-self-service-registration
+  url: https://www.rsmeans.com/special-pages/register.aspx
+- type: x-showcase
+  url: https://www.linkedin.com/showcase/rsmeans
+- type: x-twitter
+  url: https://twitter.com/RSMeansdata
+- type: x-website
+  url: https://www.rsmeans.com
+- type: x-youtube
+  url: https://www.youtube.com/Gordian
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

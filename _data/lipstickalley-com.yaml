@@ -1,0 +1,31 @@
+---
+name: LipstickAlley.com
+description: The Internet's largest African American Forum. News, Sports, Celebrity
+  Gossip, Fashion and Hair Care from an African American perspective.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8584"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lipstickalley-com.yaml
+tags:
+- Social Networking
+apis: []
+x-common:
+- type: x-website
+  url: http://www.lipstickalley.com
+- type: x-developer
+  url: http://dev.lipstickalley.com
+- type: x-support
+  url: https://www.lipstickalley.com/help/
+- type: x-twitter
+  url: https://twitter.com/lipstickalley
+- type: x-website
+  url: https://www.lipstickalley.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

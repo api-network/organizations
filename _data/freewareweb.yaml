@@ -1,0 +1,51 @@
+---
+name: FreewareWeb
+description: FreewareWeb is your source for the latest and best freeware. Features
+  a quick loading, well organized, regularly updated and searchable freeware archive.
+  Now includes FTP Search, Top Downloads, Wallapers, one of the best FREE Newsletters,
+  and more!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2274061"
+url: https://raw.githubusercontent.com/api-network/organizations/main/freewareweb.yaml
+tags:
+- Windows Software
+- Windows
+- Wallpapers
+- Utility
+- Utilities
+- Themes
+- Software
+- Screen Savers
+- Multimedia
+- Graphics
+- Games
+- Freeware Download
+- Freeware
+- Free Ware
+- Free Software Downloads
+- Free Software
+- Free Programs
+- Free Downloads
+- Free Applications
+- Free
+- Fonts
+- Downloads
+- Download Freeware
+- Download
+- Directories
+- Desktop
+- Antivirus
+apis: []
+x-common:
+- type: x-website
+  url: https://www.freewareweb.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

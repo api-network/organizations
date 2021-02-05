@@ -1,0 +1,32 @@
+---
+name: RSSknip
+description: E-knip, de eerste e-knipseldienst ter wereld.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rssknip.yaml
+tags:
+- Knipt
+- Knipsels
+- Knipseldienst
+- Idd
+- Eknipsels
+- Eknip
+- E-mail Based
+- E-knip
+- Delft
+apis: []
+x-common:
+- type: x-open-source
+  url: https://www.openstreetmap.org/node/1343300122
+- type: x-website
+  url: https://www.rss-clipping.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,24 @@
+---
+name: VPython
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "684254"
+url: https://raw.githubusercontent.com/api-network/organizations/main/vpython.yaml
+tags:
+- Graphics
+apis: []
+x-common:
+- type: x-documentation
+  url: https://www.glowscript.org/docs/VPythonDocs/index.html
+- type: x-website
+  url: https://www.vpython.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

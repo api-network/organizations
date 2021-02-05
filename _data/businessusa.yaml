@@ -1,0 +1,44 @@
+---
+name: BusinessUSA
+description: <p>Too often, interactions with the government are burdensome and frustrating.
+  From seeking out financing opportunities to learning about the latest regulations
+  affecting them, hard-working businesses are spending too much time navigating the
+  federal bureaucracy. On October 28, 2011, the President issued a challenge to government
+  agencies to think beyond their organizational boundaries in the best interest of
+  serving America's business community, and start thinking and acting more like the
+  businesses they serve.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/businessusa-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "7722"
+url: https://raw.githubusercontent.com/api-network/organizations/main/businessusa.yaml
+tags:
+- Have API
+- Business
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://USA.gov
+- type: x-contact
+  url: https://usa.gov/espanol/contactenos
+- type: x-developers
+  url: http://business.usa.gov/developer
+- type: x-facebook
+  url: https://www.facebook.com/USAgov
+- type: x-instagram
+  url: https://www.instagram.com/usagov/
+- type: x-twitter
+  url: https://twitter.com/USAgov
+- type: x-website
+  url: http://business.usa.gov
+- type: x-youtube
+  url: https://www.youtube.com/usagov1
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,32 @@
+---
+name: Dialogoo
+description: Dialogoo is a free flash webcam video chat for your website or blog.
+  You can integrate this video chat system easily. Enjoy your free flash video webcam
+  chat.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3159636"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dialogoo.yaml
+tags:
+- Webcam Chat
+- Video Chat
+- Java
+- Free Webcam
+- Free Flash Chat
+- Free Chat
+- Flash Chat
+- Dialogoo
+- Chat In Flash
+apis: []
+x-common:
+- type: x-website
+  url: https://www.dialogoo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

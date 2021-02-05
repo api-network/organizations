@@ -1,0 +1,72 @@
+---
+name: PCDJ
+description: DJ software, video mixing software and karaoke software to host karaoke
+  nights, mix music files and music videos on a Windows PC or MAC.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "274855"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pcdj.yaml
+tags:
+- Windows Pc
+- Vj
+- Music Mixing Software
+- Mix Videos
+- Mac
+- Karaoke Software
+- Karaoke
+- Dj Software
+- DJ And Karaoke
+- Dj
+- Disc Jockey
+- Apple Computer
+apis: []
+x-common:
+- type: x-website
+  url: http://www.pcdj.com
+- type: x-about
+  url: https://www.pcdj.com/about-us/
+- type: x-blog
+  url: https://www.pcdj.com/pcdj-blog/
+- type: x-contact
+  url: https://www.pcdj.com/contact-support/
+- type: x-contact
+  url: https://www.pcdj.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/PCDJSoftware
+- type: x-facebook
+  url: https://www.facebook.com/PCDJSoftware/
+- type: x-facebook
+  url: https://www.facebook.com/groups/208451843303338/
+- type: x-forum
+  url: https://www.pcdj.com/forums/forum/general/
+- type: x-instagram
+  url: http://instagram.com/pcdjsoftware
+- type: x-linkedin
+  url: https://www.linkedin.com/company-beta/1286392/
+- type: x-news
+  url: https://www.pcdj.com/category/general-pcdj-news/
+- type: x-privacy
+  url: https://www.pcdj.com/support/privacy-policy/
+- type: x-support
+  url: https://www.pcdj.com/support/
+- type: x-support
+  url: https://www.pcdj.com/support/software-support/
+- type: x-terms-of-service
+  url: https://www.pcdj.com/support/legal/
+- type: x-twitter
+  url: https://twitter.com/#!/pcdjsoftware
+- type: x-twitter
+  url: https://twitter.com/pcdjsoftware
+- type: x-website
+  url: https://www.pcdj.com
+- type: x-youtube
+  url: http://www.youtube.com/user/D1Media
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

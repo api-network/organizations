@@ -1,0 +1,23 @@
+---
+name: globalresearch.ca
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/globalresearch-ca.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.globalresearch.ca/thousands-of-smart-meter-fires-new-whistleblower-and-court-evidence/5462760#st_refDomain=&st_refQuery=
+- type: x-website
+  url: http://globalresearch.ca
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,33 @@
+---
+name: Practo
+description: In May 2008, Practo Technologies was incepted to make the process of
+  accessing health care easier for patients. The company brings seekers and providers
+  of medical expertise on a common platform and also allows digitisation of medical
+  information and h...
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29447-practo-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "2902"
+url: https://raw.githubusercontent.com/api-network/organizations/main/practo.yaml
+tags:
+- Healthcare
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/practo-technologies-pvt-ltd
+- type: x-email
+  url: team-consult@practo.com
+- type: x-email
+  url: support@practo.com
+- type: x-twitter
+  url: https://twitter.com/Practo
+- type: x-website
+  url: http://practo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

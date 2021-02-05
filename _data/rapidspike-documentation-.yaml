@@ -1,0 +1,27 @@
+---
+name: RapidSpike Documentation -
+description: Monitor your API endpoints using our HTTP POST monitor, capable of sending
+  a request body and matching the response against an expected value with RapidSpike
+  API Monitoring.
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rapidspike-documentation-.yaml
+tags:
+- Profile
+- Monitoring
+apis: []
+x-common:
+- type: x-website
+  url: http://docs.rapidspike.com
+- type: x-website
+  url: http://www.rapidspike.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

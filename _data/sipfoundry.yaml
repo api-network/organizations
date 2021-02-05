@@ -1,0 +1,22 @@
+---
+name: SIPfoundry
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2587527"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sipfoundry.yaml
+tags:
+- SIP
+apis: []
+x-common:
+- type: x-website
+  url: https://www.sipfoundry.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,44 @@
+---
+name: X-Formation
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "815324"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xformation.yaml
+tags:
+- License Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.x-formation.com
+- type: x-about
+  url: https://www.x-formation.com/company/about-us/
+- type: x-blog
+  url: https://www.x-formation.com/blog/
+- type: x-facebook
+  url: https://www.facebook.com/xformation
+- type: x-linkedin
+  url: https://www.linkedin.com/company/x-formation
+- type: x-support
+  url: https://www.x-formation.com/support/
+- type: x-twitter
+  url: https://twitter.com/x_formation
+- type: x-webinars
+  url: https://www.x-formation.com/home/webinar/
+- type: x-webinars
+  url: https://www.x-formation.com/webinar/
+- type: x-website
+  url: https://www.x-formation.com
+- type: x-youtube
+  url: https://www.youtube.com/user/xformationTV
+- type: x-youtube
+  url: http://youtube.com/user/xformationTV
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

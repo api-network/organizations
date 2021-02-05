@@ -1,0 +1,65 @@
+---
+name: Flivver
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/flivver.yaml
+tags: []
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.mx17.net/
+- type: x-blog
+  url: https://blog.mx17.net/override-dns/
+- type: x-blog
+  url: https://blog.mx17.net/category/hardware/
+- type: x-blog
+  url: https://blog.mx17.net/category/hardware/raspberry-pi/
+- type: x-blog
+  url: https://blog.mx17.net/category/hardware/galaxy-nexus/
+- type: x-blog
+  url: https://blog.mx17.net/category/hardware/esp8266/
+- type: x-blog
+  url: https://blog.mx17.net/category/how-to/
+- type: x-blog
+  url: https://blog.mx17.net/tag/esp8266/
+- type: x-blog
+  url: https://blog.mx17.net/tag/espurna/
+- type: x-blog
+  url: https://blog.mx17.net/tag/sonoff/
+- type: x-blog
+  url: https://blog.mx17.net/author/max/
+- type: x-blog
+  url: https://blog.mx17.net/category/uncategorized/
+- type: x-blog
+  url: https://blog.mx17.net/category/android-2/
+- type: x-blog
+  url: https://blog.mx17.net/category/android-2/override-dns/
+- type: x-blog
+  url: https://blog.mx17.net/tag/android/
+- type: x-blog
+  url: https://blog.mx17.net/tag/dns/
+- type: x-blog
+  url: https://blog.mx17.net/tag/overridedns/
+- type: x-blog
+  url: https://blog.mx17.net/page/2/
+- type: x-contact
+  url: https://blog.mx17.net/contacts/
+- type: x-github
+  url: https://github.com/xoseperez/espurna
+- type: x-github
+  url: https://github.com/arendst/Tasmota/wiki/Sonoff-DIY
+- type: x-press
+  url: https://wordpress.org/
+- type: x-website
+  url: https://blog.mx17.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

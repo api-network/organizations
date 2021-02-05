@@ -1,0 +1,48 @@
+---
+name: Onix Networking
+description: The HTML5 Herald
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "637633"
+url: https://raw.githubusercontent.com/api-network/organizations/main/onix-networking.yaml
+tags:
+- Services
+apis: []
+x-common:
+- type: x-website
+  url: http://www.onixnet.com
+- type: x-about
+  url: https://www.onixnet.com/about/onix-outreach
+- type: x-careers
+  url: https://www.onixnet.com/careers
+- type: x-case-studies
+  url: https://www.onixnet.com/case-studies
+- type: x-contact
+  url: https://www.onixnet.com/contact-onix
+- type: x-customers
+  url: https://www.onixnet.com/customers
+- type: x-events
+  url: https://www.onixnet.com/events
+- type: x-facebook
+  url: https://www.facebook.com/onixnetworkingcorp/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/onix-networking-corp-
+- type: x-news
+  url: https://www.onixnet.com/newsletter
+- type: x-partner
+  url: https://www.onixnet.com/partners
+- type: x-support
+  url: https://www.onixnet.com/support
+- type: x-twitter
+  url: https://twitter.com/OnixNetworking
+- type: x-website
+  url: https://www.onixnet.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

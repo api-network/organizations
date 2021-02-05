@@ -1,0 +1,47 @@
+---
+name: High-Tech Bridge SA
+description: "ImmuniWeb\xAE AI Platform for Application Security Testing, Attack Surface
+  Management & Dark Web Monitoring. Try now."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hightech-bridge-sa.yaml
+tags:
+- Website Security Testing
+- Website Protection
+- Web Security Testing
+- Web Security Company
+- Web Security
+- Web Penetration Testing
+- Web Application Security Testing
+- Vulnerability Management
+- Ssl Security
+- PCI DSS Compliance
+- Continuous Monitoring
+- Companies
+- Application Security Audit
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/immuniweb/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/immuniweb/
+- type: x-login
+  url: https://portal.immuniweb.com/client/login/?from=header
+- type: x-privacy
+  url: https://www.immuniweb.com/pages/privacy.html
+- type: x-support
+  url: https://portal.immuniweb.com/client/support/questions/
+- type: x-twitter
+  url: https://twitter.com/immuniweb/
+- type: x-website
+  url: https://www.htbridge.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

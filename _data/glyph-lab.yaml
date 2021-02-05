@@ -1,0 +1,30 @@
+---
+name: Glyph Lab
+description: 'Information about our set of flat style stock icons, in seven sizes
+  for all displays and devices. Learn about our bespoke design service: custom icons
+  made for you.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8443250"
+url: https://raw.githubusercontent.com/api-network/organizations/main/glyph-lab.yaml
+tags:
+- Icons
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/GlyphLab
+- type: x-linkedin
+  url: https://uk.linkedin.com/in/glyphlabdavewilkinson
+- type: x-twitter
+  url: https://twitter.com/intent/follow?screen_name=glyphlab
+- type: x-website
+  url: https://www.glyphlab.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

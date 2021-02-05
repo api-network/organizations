@@ -1,0 +1,58 @@
+---
+name: WormBase
+description: WormBase is an NHGRI (US) and MRC/BBSRC (UK) funded project supporting
+  scientists using C. elegans as a model system.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1681-wormbase.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "662871"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wormbase.yaml
+tags:
+- Marketplaces
+- Biology
+apis: []
+x-common:
+- type: x-website
+  url: http://wormbase.org/
+- type: x-about
+  url: https://wormbase.org/about
+- type: x-about
+  url: https://wormbase.org/about/userguide
+- type: x-about
+  url: https://wormbase.org/about/userguide/for_developers
+- type: x-blog
+  url: http://blog.wormbase.org/
+- type: x-blog
+  url: http://blog.wormbase.org
+- type: x-contact
+  url: https://www.olark.com/site/6652-820-10-1192/contact
+- type: x-email
+  url: help@wormbase.org
+- type: x-feed
+  url: http://feeds.feedburner.com/wormbase
+- type: x-forum
+  url: http://forums.wormbase.org
+- type: x-github
+  url: https://github.com/WormBase
+- type: x-github
+  url: http://github.com/wormbase
+- type: x-press
+  url: http://www.textpresso.org/celegans/
+- type: x-twitter
+  url: http://www.twitter.com/wormbase
+- type: x-twitter
+  url: http://twitter.com/wormbase
+- type: x-twitter
+  url: https://twitter.com/wormbase
+- type: x-website
+  url: http://www.wormbase.org/about/userguide/for_developers/api-rest
+- type: x-youtube
+  url: https://www.youtube.com/user/WormBaseHD
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

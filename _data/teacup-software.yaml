@@ -1,0 +1,36 @@
+---
+name: Teacup Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1300907"
+url: https://raw.githubusercontent.com/api-network/organizations/main/teacup-software.yaml
+tags:
+- Plugins
+apis: []
+x-common:
+- type: x-website
+  url: http://www.teacupsoftware.com
+- type: x-about
+  url: https://www.teacupsoftware.com/about-us/
+- type: x-code
+  url: https://www.teacupsoftware.com/product/barcodemaker/
+- type: x-contact
+  url: https://www.teacupsoftware.com/contact-us/
+- type: x-facebook
+  url: http://facebook.com/teacupsoftware
+- type: x-news
+  url: https://www.teacupsoftware.com/news/
+- type: x-twitter
+  url: https://twitter.com/TeacupSoftware
+- type: x-website
+  url: https://www.teacupsoftware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

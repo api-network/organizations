@@ -1,0 +1,32 @@
+---
+name: Tectura
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2327262"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tectura.yaml
+tags:
+- Great Plains
+apis: []
+x-common:
+- type: x-contact
+  url: https://tectura.com/contact-us/
+- type: x-news
+  url: https://tectura.com/news/
+- type: x-news
+  url: http://tectura.com/news/
+- type: x-press
+  url: https://tectura.com/press-releases/
+- type: x-press
+  url: http://tectura.com/press-releases/
+- type: x-website
+  url: https://www.tectura.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

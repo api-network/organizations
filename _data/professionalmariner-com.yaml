@@ -1,0 +1,23 @@
+---
+name: professionalmariner.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/professionalmariner-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.professionalmariner.com/Web-Bulletin-2016/Videotels-new-API-enables-integration-with-crew-management-software/
+- type: x-website
+  url: http://professionalmariner.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

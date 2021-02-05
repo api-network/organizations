@@ -1,0 +1,44 @@
+---
+name: Jamf
+description: Jamf Pro is comprehensive enterprise management software for the Apple
+  platform, simplifying IT management for Mac, iPad, iPhone and Apple TV.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29034-developer-jamf-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "43633"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jamf.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.jamf.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/jamf-software
+- type: x-email
+  url: info@jamf.com
+- type: x-email
+  url: privacy@jamf.com
+- type: x-email
+  url: info@jamfsoftware.com
+- type: x-email
+  url: kaitlin.shinkle@jamf.com
+- type: x-email
+  url: recruiting@jamf.com
+- type: x-email
+  url: france@jamf.com
+- type: x-email
+  url: japan@jamf.com
+- type: x-twitter
+  url: https://twitter.com/JAMFSoftware
+- type: x-webhooks
+  url: https://developer.jamf.com/webhooks
+- type: x-website
+  url: https://developer.jamf.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

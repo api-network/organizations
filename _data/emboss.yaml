@@ -1,0 +1,48 @@
+---
+name: EMBOSS
+description: ""
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/EmblEbi-logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "28482"
+url: https://raw.githubusercontent.com/api-network/organizations/main/emboss.yaml
+tags:
+- VOIP
+- Have API
+- Genetics
+- Genetics
+- Genetics
+- Genetics
+- Genetics
+- Genetics
+- Genetics
+- Genetics
+- DNA Visualization Tool
+- DNA
+- Bioinformatics
+- Bioinformatics
+- Bioinformatics
+- Bioinformatics
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ebi.ac.uk/Tools/webservices/services/psa/emboss_water_soap
+- type: x-about
+  url: http://www.atlassian.com/about/connected.jsp?s_kwcid=Confluence-stayintouch
+- type: x-documentation
+  url: https://docs.atlassian.com/confluence/docs-613/
+- type: x-support
+  url: https://www.ebi.ac.uk/support/webservices
+- type: x-support
+  url: https://support.atlassian.com/help/confluence
+- type: x-terms-of-service
+  url: http://www.ebi.ac.uk/about/terms-of-use
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,30 @@
+---
+name: Cornell University Centre for Advanced Computing
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2299"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cornell-university-centre-for-advanced-computing.yaml
+tags:
+- Research Institutes
+apis: []
+x-common:
+- type: x-careers
+  url: http://www.boeing.com/boeing/careers/
+- type: x-contact
+  url: http://www.cac.cornell.edu/contact/
+- type: x-feed
+  url: http://www.cac.cornell.edu/datafeed/status.aspx
+- type: x-news
+  url: https://www.cac.cornell.edu/about/news/190819.aspx
+- type: x-website
+  url: https://www.cac.cornell.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

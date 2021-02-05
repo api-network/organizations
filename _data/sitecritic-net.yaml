@@ -1,0 +1,32 @@
+---
+name: Sitecritic.net
+description: Provides free and paid website reviews. We review websites and provide
+  accurate information in creating effective sites. You gain new website ideas by
+  looking at other sites.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5957938"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sitecritic-net.yaml
+tags:
+- Website Reviews
+- Site Review
+- SEO
+- Reviews
+- Articles
+apis: []
+x-common:
+- type: x-press
+  url: https://wordpress.org/
+- type: x-signup
+  url: http://www.iwebsitemaker.com/builder/signup/865.htm
+- type: x-website
+  url: https://www.sitecritic.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,47 @@
+---
+name: CorpNote
+description: CorpNote's suite of digital marketing & email communications tools includes
+  eCards, email newsletters, invitations and surveys for one low monthly price. All
+  features work seamlessly with our email list manager so you can manage multiple
+  email campaigns with real-time subscribe/unsubscribe.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10126955"
+url: https://raw.githubusercontent.com/api-network/organizations/main/corpnote.yaml
+tags:
+- Special Interest
+apis: []
+x-common:
+- type: x-about
+  url: https://www.corpnote.com/about/testimonials.asp
+- type: x-blog
+  url: https://www.corpnote.com/blog/index.asp
+- type: x-contact
+  url: https://www.corpnote.com/help/contactUs.asp
+- type: x-instagram
+  url: https://www.instagram.com/corpnote/
+- type: x-news
+  url: https://www.corpnote.com/news/index.asp
+- type: x-privacy
+  url: https://www.corpnote.com/about/privacy.asp
+- type: x-support
+  url: https://www.corpnote.com/help/cancelAccount.asp
+- type: x-support
+  url: https://www.corpnote.com/help/faq.asp
+- type: x-support
+  url: https://www.corpnote.com/help/index.asp
+- type: x-terms-of-service
+  url: https://www.corpnote.com/about/terms.asp
+- type: x-twitter
+  url: https://twitter.com/corpnote
+- type: x-website
+  url: https://www.corpnote.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

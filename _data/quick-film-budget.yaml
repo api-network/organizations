@@ -1,0 +1,43 @@
+---
+name: Quick Film Budget
+description: "Quick Film Budget is an online tool for filmmakers that automates the
+  \r\n            process of creating professional customized film budgets within
+  seconds."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/quick-film-budget.yaml
+tags:
+- TV
+- Television
+- Production Management
+- Production Budgeting Services
+- Movie Budget
+- Movie
+- Low Budget Film
+- Independent Film
+- Hollywood
+- Funding
+- Financing
+- Finance
+- Film Schedule
+- Film Budget
+- Film
+- Entertainment
+apis: []
+x-common:
+- type: x-website
+  url: http://QuickFilmBudget.com
+- type: x-twitter
+  url: http://twitter.com/QuickFilmBudget
+- type: x-website
+  url: https://www.quickfilmbudget.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

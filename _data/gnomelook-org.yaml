@@ -1,0 +1,26 @@
+---
+name: Gnome-Look.org
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "127233"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gnomelook-org.yaml
+tags:
+- Linux
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/opendesktop.org
+- type: x-support
+  url: https://www.pling.com/support
+- type: x-website
+  url: https://www.gnome-look.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

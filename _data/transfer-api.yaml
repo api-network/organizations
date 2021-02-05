@@ -1,0 +1,65 @@
+---
+name: Transfer API
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "152064"
+url: https://raw.githubusercontent.com/api-network/organizations/main/transfer-api.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: https://relativity.com
+- type: x-about
+  url: https://www.relativity.com/about-us/
+- type: x-blog
+  url: https://www.relativity.com/blog/
+- type: x-blog
+  url: https://www.relativity.com/blog/cat/product-spotlight/
+- type: x-contact
+  url: https://www.relativity.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/203740992994518/
+- type: x-instagram
+  url: https://www.instagram.com/relativity.hq/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/relativityhq
+- type: x-news
+  url: https://www.relativity.com/news-events/
+- type: x-platform
+  url: https://platform.relativity.com/RelativityOne/
+- type: x-platform
+  url: https://platform.relativity.com/10.2
+- type: x-platform
+  url: https://platform.relativity.com/10.1
+- type: x-platform
+  url: https://platform.relativity.com/10.0/
+- type: x-platform
+  url: https://platform.relativity.com/9.7/
+- type: x-platform
+  url: https://platform.relativity.com/9.6
+- type: x-privacy
+  url: https://www.relativity.com/privacy-and-cookies/
+- type: x-support
+  url: https://help.relativity.com/
+- type: x-support
+  url: https://www.relativity.com/support/
+- type: x-support
+  url: https://www.relativity.com/support/customer-success/
+- type: x-terms-of-service
+  url: https://www.relativity.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/RelativityHQ
+- type: x-website
+  url: http://platform.relativity.com
+- type: x-youtube
+  url: https://www.youtube.com/RelativityHQ
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

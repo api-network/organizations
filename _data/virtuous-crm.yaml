@@ -1,0 +1,40 @@
+---
+name: Virtuous CRM
+description: "Virtuous CRM is a powerful & easy to use all-in-one nonprofit CRM with
+  donor management software and back-office tools for growing nonprofits. Virtuous
+  CRM contains powerful marketing  tools like \u2013 Email marketing, campaign management
+  & marketing autom..."
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28677-www-virtuouscrm-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1845502"
+url: https://raw.githubusercontent.com/api-network/organizations/main/virtuous-crm.yaml
+tags:
+- Have API Paths
+- CRM
+apis: []
+x-common:
+- type: x-website
+  url: https://www.virtuouscrm.com/demo/video/watch
+- type: x-blog
+  url: https://blog.virtuouscrm.com/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/virtuous
+- type: x-github
+  url: https://github.com/virtuouscrm
+- type: x-integrations
+  url: https://www.virtuouscrm.com/software/nonprofit-crm/integrations
+- type: x-pricing
+  url: https://www.virtuouscrm.com/pricing
+- type: x-twitter
+  url: https://twitter.com/VirtuousCRM
+- type: x-website
+  url: https://www.virtuouscrm.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

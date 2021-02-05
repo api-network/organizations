@@ -1,0 +1,38 @@
+---
+name: Adium
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1041789"
+url: https://raw.githubusercontent.com/api-network/organizations/main/adium.yaml
+tags:
+- Instant Messaging
+apis: []
+x-common:
+- type: x-about
+  url: https://adium.im/about/
+- type: x-about
+  url: https://www.adium.im/about
+- type: x-blog
+  url: https://adium.im/blog/
+- type: x-developer
+  url: https://developer.apple.com/design/awards/
+- type: x-forum
+  url: http://forum.adium.im
+- type: x-support
+  url: https://adium.im/help/
+- type: x-support
+  url: https://support.apple.com/bonjour
+- type: x-twitter
+  url: http://twitter.com/
+- type: x-website
+  url: https://www.adium.im
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

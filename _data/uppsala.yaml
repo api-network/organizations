@@ -1,0 +1,29 @@
+---
+name: Uppsala
+description: Our research is focused on advanced design and use of computer systems
+  in science and technology.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10744"
+url: https://raw.githubusercontent.com/api-network/organizations/main/uppsala.yaml
+tags:
+- Sweden
+apis: []
+x-common:
+- type: x-about
+  url: http://www.uu.se//en/about-uu
+- type: x-contact
+  url: http://www.uu.se/about-uu/contact/registrar
+- type: x-facebook
+  url: https://www.facebook.com/ITinstitutionen
+- type: x-website
+  url: https://www.it.uu.se
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

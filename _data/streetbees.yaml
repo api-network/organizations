@@ -1,0 +1,29 @@
+---
+name: Streetbees
+description: Streetbees connects clients with real people on the ground to gather
+  real-time insights. With the power of Artificial Intelligence and geolocation technology,
+  Streetbees collect data from anyone, anywhere in the world.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26534-streetbees.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "269859"
+url: https://raw.githubusercontent.com/api-network/organizations/main/streetbees.yaml
+tags:
+- Market Data
+- Blockchain
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/streetbees
+- type: x-twitter
+  url: https://twitter.com/streetbees
+- type: x-website
+  url: http://streetbees.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,43 @@
+---
+name: Nextpointhost
+description: Professional web hosting services for top speed, unmatched security,
+  24/7 fast and expert support! Guaranteed uptime of 99.9999%.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "957539"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nextpointhost.yaml
+tags:
+- Service Providers
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/Nextpointhost
+- type: x-instagram
+  url: https://www.instagram.com/nextpointhost
+- type: x-news
+  url: https://nextpointhost.com/news
+- type: x-press
+  url: https://nextpointhost.com/wordpress-hosting
+- type: x-privacy
+  url: https://nextpointhost.com/privacy-policy
+- type: x-support
+  url: https://nextpointhost.com/tickets/support
+- type: x-support
+  url: https://nextpointhost.com/company#support
+- type: x-terms-of-service
+  url: https://nextpointhost.com/terms-of-service
+- type: x-twitter
+  url: https://twitter.com/Nextpointhost
+- type: x-website
+  url: https://nextpointhost.com
+- type: x-youtube
+  url: https://youtube.com/c/Nextpointhost
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

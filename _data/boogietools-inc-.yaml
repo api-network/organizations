@@ -1,0 +1,31 @@
+---
+name: BoogieTools, Inc.
+description: BoogieTools products allow you to recognize and categorize thousands
+  of email bounce formats.  Easy to use, robust, fast, and powerful.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/boogietools-inc-.yaml
+tags:
+- Undeliverable Email
+- Undeliverable
+- Tools
+- Soft Bounce
+- Returned Email
+- Hard Bounce
+- Email Bounce Format
+- Email Bounce
+- Bounced Email
+apis: []
+x-common:
+- type: x-website
+  url: https://www.boogietools.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

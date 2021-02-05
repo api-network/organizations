@@ -1,0 +1,37 @@
+---
+name: Brooks Internet Software
+description: Brooks products include a virtual print server which produces PDF, prints
+  to Windows printers, archives to disk and emails print jobs. Our print client sends
+  Windows print jobs to multiple IP printers. Our IPDS printing software creates searchable
+  PDFs.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1722502"
+url: https://raw.githubusercontent.com/api-network/organizations/main/brooks-internet-software.yaml
+tags:
+- Printing
+- Microsoft Terminal Services
+- File And Print Sharing
+apis: []
+x-common:
+- type: x-website
+  url: http://brooksnet.com
+- type: x-contact
+  url: https://www.brooksnet.com/contact
+- type: x-forum
+  url: https://www.brooksnet.com/forums/rpm-technical-support
+- type: x-support
+  url: https://www.brooksnet.com/content/online-help
+- type: x-twitter
+  url: https://twitter.com/BrooksSoftware
+- type: x-website
+  url: https://www.brooksnet.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

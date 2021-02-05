@@ -1,0 +1,35 @@
+---
+name: Sphinx
+description: |-
+  Sphinx is an open source full text search server, designed with performance, relevance (search quality),
+  and integration simplicity in mind. Sphinx lets you either batch index and search data stored in files, an SQL database, NoSQL storage --
+  or index and search data on the fly, working with Sphinx pretty much as with a database server.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "162039"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sphinx.yaml
+tags:
+- Search Engines
+apis: []
+x-common:
+- type: x-website
+  url: http://sphinxsearch.com
+- type: x-facebook
+  url: http://www.facebook.com/SphinxSearchServer
+- type: x-linkedin
+  url: http://www.linkedin.com/companies/sphinx-technologies
+- type: x-twitter
+  url: http://twitter.com/sphinxsearch
+- type: x-twitter
+  url: https://twitter.com/sphinxsearch
+- type: x-website
+  url: https://sphinxsearch.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

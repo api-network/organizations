@@ -1,0 +1,36 @@
+---
+name: Slipstick Outlook & Exchange Center
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "81654"
+url: https://raw.githubusercontent.com/api-network/organizations/main/slipstick-outlook-exchange-center.yaml
+tags:
+- Microsoft Exchange
+apis: []
+x-common:
+- type: x-about
+  url: https://www.slipstick.com/about-slipstick-systems/
+- type: x-contact
+  url: https://www.slipstick.com/business-contact-manager/
+- type: x-feed
+  url: https://www.slipstick.com/leave-feedback/
+- type: x-forum
+  url: https://forums.slipstick.com
+- type: x-forum
+  url: https://forums.slipstick.com/
+- type: x-news
+  url: https://www.slipstick.com/rssnews/whatsnew.aspx
+- type: x-tutorials
+  url: https://www.slipstick.com/video-tutorials/
+- type: x-website
+  url: https://www.slipstick.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

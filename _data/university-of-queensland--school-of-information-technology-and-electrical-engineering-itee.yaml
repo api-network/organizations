@@ -1,0 +1,47 @@
+---
+name: University of Queensland - School of Information Technology and Electrical Engineering
+  (ITEE)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "11219"
+url: https://raw.githubusercontent.com/api-network/organizations/main/university-of-queensland--school-of-information-technology-and-electrical-engineering-itee.yaml
+tags:
+- Australia
+apis: []
+x-common:
+- type: x-website
+  url: http://eait.uq.edu.au
+- type: x-about
+  url: http://www.uq.edu.au/about/cricos-link
+- type: x-contact
+  url: https://www.uq.edu.au/contacts/
+- type: x-contact
+  url: http://uq.edu.au/contacts
+- type: x-events
+  url: https://www.uq.edu.au/events/
+- type: x-facebook
+  url: https://www.facebook.com/UQEngTech/
+- type: x-feed
+  url: http://www.uq.edu.au/feedback
+- type: x-instagram
+  url: https://www.instagram.com/uqengtech/
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/4123315
+- type: x-news
+  url: https://www.uq.edu.au/news/
+- type: x-terms-of-service
+  url: http://www.uq.edu.au/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/UQ_EAIT
+- type: x-website
+  url: https://www.itee.uq.edu.au
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

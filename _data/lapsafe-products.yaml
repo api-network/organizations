@@ -1,0 +1,59 @@
+---
+name: LapSafe Products
+description: Easy device management, storage and charging trolleys, laptop carts,
+  self service lockers, device loans, laptops, Chromebooks, tablets Tel 0800 1303456
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2655574"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lapsafe-products.yaml
+tags:
+- Cases And Accessories
+apis: []
+x-common:
+- type: x-about
+  url: https://www.lapsafe.com/about-us
+- type: x-about
+  url: https://www.lapsafe.com/about-us/accreditations
+- type: x-case-studies
+  url: https://www.lapsafe.com/case-studies/petroc-college
+- type: x-case-studies
+  url: https://www.lapsafe.com/case-studies
+- type: x-contact
+  url: https://www.lapsafe.com/contact-us
+- type: x-facebook
+  url: https://www.facebook.com/LapSafe/
+- type: x-facebook
+  url: https://facebook.com/LapSafe
+- type: x-linkedin
+  url: https://www.linkedin.com/company/lapsafe
+- type: x-news
+  url: https://www.lapsafe.com/news/exhibitions
+- type: x-privacy
+  url: https://www.lapsafe.com/privacy
+- type: x-privacy
+  url: https://www.lapsafe.com/privacy/cookies
+- type: x-support
+  url: https://www.lapsafe.com/support/enquiry
+- type: x-support
+  url: https://www.lapsafe.com/support/keys
+- type: x-support
+  url: https://www.lapsafe.com/support/upgrade
+- type: x-support
+  url: https://www.lapsafe.com/support/activate-warranty
+- type: x-support
+  url: https://www.lapsafe.com/support/manuals
+- type: x-support
+  url: https://www.lapsafe.com/support
+- type: x-twitter
+  url: https://twitter.com/lapsafe
+- type: x-website
+  url: https://www.lapsafe.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

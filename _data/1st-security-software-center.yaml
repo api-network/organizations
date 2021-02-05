@@ -1,0 +1,64 @@
+---
+name: 1st Security Software Center
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6431106"
+url: https://raw.githubusercontent.com/api-network/organizations/main/1st-security-software-center.yaml
+tags:
+- Products And Tools
+apis: []
+x-common:
+- type: x-contact
+  url: http://1securitycenter.com/contact_us.html
+- type: x-security
+  url: http://1securitycenter.com/index.html
+- type: x-security
+  url: http://1securitycenter.com/downloads.html
+- type: x-security
+  url: http://1securitycenter.com/purchase.html
+- type: x-security
+  url: http://1securitycenter.com/faq.html
+- type: x-security
+  url: http://1securitycenter.com/software/links
+- type: x-security
+  url: http://1securitycenter.com/user_pc_time_control.html
+- type: x-security
+  url: http://1securitycenter.com/windows_security.html
+- type: x-security
+  url: http://1securitycenter.com/internet_security.html
+- type: x-security
+  url: http://1securitycenter.com/files_protector.html
+- type: x-security
+  url: http://www.1securitycenter.com/index.html
+- type: x-security
+  url: http://www.1securitycenter.com/articles.html
+- type: x-security
+  url: http://1securitycenter.com/utcc/order.html
+- type: x-security
+  url: http://1securitycenter.com/downloads/utcc.zip
+- type: x-security
+  url: http://www.1securitycenter.com/files_protector.html
+- type: x-security
+  url: http://1securitycenter.com/security_center.html
+- type: x-security
+  url: http://1securitycenter.com/security_center_order.html
+- type: x-security
+  url: http://1securitycenter.com/downloads/sc.zip
+- type: x-security
+  url: http://1securitycenter.com/downloads/iesecpro.zip
+- type: x-security
+  url: http://1securitycenter.com/downloads/stopinst.zip
+- type: x-security
+  url: http://1securitycenter.com/sitemap.html
+- type: x-website
+  url: https://www.1securitycenter.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

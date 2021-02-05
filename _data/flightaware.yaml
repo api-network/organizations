@@ -1,0 +1,38 @@
+---
+name: FlightAware
+description: 'Best Flight Tracker: Live Tracking Maps, Flight Status, and Airport
+  Delays for airline flights, private/GA flights, and airports.'
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28260-flightaware-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3209"
+url: https://raw.githubusercontent.com/api-network/organizations/main/flightaware.yaml
+tags:
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://flightaware.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/flightaware
+- type: x-email
+  url: support@flightaware.com
+- type: x-email
+  url: contact@flightaware.com
+- type: x-email
+  url: careers@flightaware.com
+- type: x-facebook
+  url: https://www.facebook.com/FlightAware
+- type: x-twitter
+  url: https://twitter.com/flightaware
+- type: x-website
+  url: https://flightaware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

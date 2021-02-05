@@ -1,0 +1,61 @@
+---
+name: Mr. Excel
+description: MrExcel is your one stop for Excel tips and solutions. MrExcel offers
+  help for excel including seminars and other training.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "11769"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mr--excel.yaml
+tags:
+- VBA
+- Podcasts
+- Mrexcel
+- Microsoft Excel
+- Macros
+- Excel Tips
+- Excel Help
+- Excel
+- Dashboards
+- Consultants
+- Consult
+apis: []
+x-common:
+- type: x-website
+  url: http://about.me/mrexcel
+- type: x-about
+  url: https://www.mrexcel.com/about-mrexcel/
+- type: x-contact
+  url: https://www.mrexcel.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/MrExcelSpeaker/
+- type: x-forum
+  url: https://www.mrexcel.com/forum/showthread.php?t=1112584
+- type: x-forum
+  url: https://www.mrexcel.com/forum/showthread.php?t=1112673
+- type: x-forum
+  url: https://www.mrexcel.com/forum/showthread.php?t=1112680
+- type: x-forum
+  url: https://www.mrexcel.com/forum/showthread.php?t=1112728
+- type: x-forum
+  url: https://www.mrexcel.com/forum/showthread.php?t=1112749
+- type: x-news
+  url: https://www.mrexcel.com/news/
+- type: x-news
+  url: http://paper.exceldailynews.com/
+- type: x-privacy
+  url: https://www.mrexcel.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.mrexcel.com/terms-of-use/
+- type: x-twitter
+  url: http://twitter.com/MrExcel
+- type: x-website
+  url: https://www.mrexcel.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

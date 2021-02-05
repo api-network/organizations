@@ -1,0 +1,53 @@
+---
+name: Tinychat
+description: Tinychat is easy and free video chat rooms for all. Browse through the
+  free video chat rooms to meet friends or make your own chat room. No downloads,
+  no signup, no problem.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "34246"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tinychat.yaml
+tags:
+- Webcam
+- Web 2.0
+- Voice
+- Video Chat
+- Video
+- Talk
+- Software
+- Service
+- Room
+- Network
+- Live
+- Free
+- Flash
+- Community
+- Chatroom
+- Chatline
+- Chat
+- AJAX
+apis: []
+x-common:
+- type: x-website
+  url: http://www.tinychat.com
+- type: x-privacy
+  url: https://tinychat.com/privacy.html
+- type: x-support
+  url: http://help.tinychat.com
+- type: x-terms-of-service
+  url: https://tinychat.com/terms.html
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-twitter
+  url: https://twitter.com/tinychat
+- type: x-website
+  url: https://tinychat.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

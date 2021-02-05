@@ -1,0 +1,57 @@
+---
+name: Central Test
+description: Psychometric testing and online assessments! Central Test provides psychometric
+  assessment solutions for recruitment, career management and employee's evaluation.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "202285"
+url: https://raw.githubusercontent.com/api-network/organizations/main/central-test.yaml
+tags:
+- Testing And Evaluation
+- Psychometric Testing
+- Psychometric Assessmen
+- Personality Test
+- Online Recruitment Solutions
+- Online Assessments
+- Leadership Assesssment
+- HR Assessments
+- Free Test
+- Free Psychometric Tests
+- Assessment Tools
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.centraltest.com/blog
+- type: x-careers
+  url: https://www.centraltest.com/corporate/careers
+- type: x-facebook
+  url: https://www.facebook.com/CentralTest/
+- type: x-instagram
+  url: https://www.instagram.com/central.test/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/central-test/
+- type: x-news
+  url: https://www.centraltest.com/news
+- type: x-partner
+  url: https://www.centraltest.com/partners
+- type: x-platform
+  url: https://www.centraltest.com/assessment-platform
+- type: x-terms-of-service
+  url: https://www.centraltest.com/legal-notice
+- type: x-twitter
+  url: https://twitter.com/CentralTest
+- type: x-twitter
+  url: https://twitter.com/CentralTest?ref_src=twsrc%5Etfw
+- type: x-website
+  url: https://www.centraltest.com
+- type: x-youtube
+  url: https://www.youtube.com/user/TheCentraltest
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

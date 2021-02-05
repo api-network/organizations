@@ -1,0 +1,49 @@
+---
+name: Ki Business Systems
+description: Bring Freedom, Growth and Balance to your Business with the KiBiz Business
+  Management Platform ERP.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4883391"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ki-business-systems.yaml
+tags:
+- Consultants And Developers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.kibizsystems.com
+- type: x-about
+  url: https://www.kibizsystems.com/about-kisystems/
+- type: x-blog
+  url: https://www.kibizsystems.com/kibiz-blog/
+- type: x-contact
+  url: https://www.kibizsystems.com/contact-kibiz/
+- type: x-contact
+  url: https://www.olark.com/site/9188-187-10-4163/contact
+- type: x-contact
+  url: https://www.olark.com/site/marksugarberg/contact
+- type: x-customers
+  url: https://www.kibizsystems.com/customers/
+- type: x-facebook
+  url: https://www.facebook.com/kibizsystems/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/kibiz-systems/
+- type: x-news
+  url: https://www.kibizsystems.com/category/news/
+- type: x-pricing
+  url: http://www.kibizsystems.com/kibiz-pricing-2/
+- type: x-support
+  url: https://www.kibizsystems.com/support/
+- type: x-twitter
+  url: https://twitter.com/KibizSystems
+- type: x-website
+  url: https://www.kibizsystems.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

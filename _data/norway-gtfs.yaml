@@ -1,0 +1,23 @@
+---
+name: Norway GTFS
+description: Transit authority located in Norway<br />
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/norway-gtfs.yaml
+tags: []
+apis: []
+x-common:
+- type: x-gtfs-feed
+  url: http://transitdata.reiseinfo.no/googlemaps/NRI_transitdata.zip
+- type: x-website
+  url: https://data.norge.no/data/norsk-reiseinformasjon/nasjonale-rutedata-norge
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

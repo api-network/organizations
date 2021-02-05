@@ -1,0 +1,24 @@
+---
+name: NormalURL.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9466741"
+url: https://raw.githubusercontent.com/api-network/organizations/main/normalurl-com.yaml
+tags:
+- Redirects
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.normalurl.com
+- type: x-website
+  url: https://normalurl.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

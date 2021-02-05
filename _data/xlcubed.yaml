@@ -1,0 +1,41 @@
+---
+name: XLCubed
+description: Discover business intelligence within Microsoft Excel with XLCubed's
+  reporting and analytics tool. Connect to your business data, design reports and
+  dashboards, and publish to a web platform to share with other users. UK HQ, global
+  customers.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3406398"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xlcubed.yaml
+tags:
+- Add-Ins
+apis: []
+x-common:
+- type: x-website
+  url: http://www.xlcubed.com
+- type: x-blog
+  url: https://blog.xlcubed.com/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/xlcubed-ltd
+- type: x-partner
+  url: https://partners.xlcubed.com
+- type: x-support
+  url: http://www.xlcubed.com/help/
+- type: x-twitter
+  url: https://twitter.com/XLCubed
+- type: x-website
+  url: https://www.xlcubed.com
+- type: x-youtube
+  url: https://www.youtube.com/user/XLCubed
+- type: x-youtube
+  url: https://www.youtube.com/xlcubed
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

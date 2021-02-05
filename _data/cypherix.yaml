@@ -1,0 +1,35 @@
+---
+name: Cypherix
+description: "Cypherix\xAE builds award winning, drag and drop personal data encryption
+  software and network security tools for individual and corporate users who require
+  elegant easy-to-use data encryption software products."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5984395"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cypherix.yaml
+tags:
+- Windows.
+- Windows 8
+- Windows 7
+- Review
+- Encryption Software
+- Encryption
+- Data Encryption Software
+- Cypherix
+- Crypto
+- Cryptainer
+apis: []
+x-common:
+- type: x-support
+  url: https://www.cypherix.com/support/reguser/index.php
+- type: x-website
+  url: https://www.cypherix.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

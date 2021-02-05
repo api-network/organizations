@@ -1,0 +1,28 @@
+---
+name: Tibco Now
+description: <p>In the spirit of companies transitioning from digital transformation
+  strategy to implementation, TIBCO NOW 2018 will focus on how businesses can continuously
+  adapt with innovation, and operate at the cutting edge. Innovation is the key to
+  differentiation. Whether you need to grow, transform, or even just survive, innovation
+  is the key to getting and staying ahead. However, more than 54% of executives surveyed
+  admit they struggle to align innovation strategy with business strategy.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/tibco-now.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tibco-now.yaml
+tags: []
+apis: []
+x-common:
+- type: x-twitter-search
+  url: '#TibcoNow'
+- type: x-website
+  url: https://now.tibco.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

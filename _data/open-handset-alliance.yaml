@@ -1,0 +1,32 @@
+---
+name: Open Handset Alliance
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1507788"
+url: https://raw.githubusercontent.com/api-network/organizations/main/open-handset-alliance.yaml
+tags:
+- Android
+apis: []
+x-common:
+- type: x-code
+  url: http://developer.android.com/sdk/
+- type: x-news
+  url: http://www.mediatek.com/en/news/info.php?sn=43
+- type: x-news
+  url: http://www.mips.com/news-events/newsroom/?i=43298
+- type: x-website
+  url: https://www.openhandsetalliance.com
+- type: x-youtube
+  url: http://www.youtube.com/watch?v=7Y4thikv-OM
+- type: x-youtube
+  url: http://www.youtube.com/watch?v=q1m4j676BCc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

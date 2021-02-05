@@ -1,0 +1,36 @@
+---
+name: Decision6
+description: Wi-fi hardware that has an easy setup and captures mobile phones signals
+  identifying people nearby as well as people close to the storefront and visiting
+  the store. All collected information is consolidated and made available in a very
+  easy-to-use web interface that helps store owners and management team understand
+  people flow inside the store and surroundings.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29377-decision6-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "6"
+x-alexaRank: "9943559"
+url: https://raw.githubusercontent.com/api-network/organizations/main/decision6.yaml
+tags:
+- Visitors
+- Visit Duration
+- Stores Comparision
+- Signals
+- Return Rate
+- Profile
+- Maps
+- Conversions
+- Analytics
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/decision6
+- type: x-website
+  url: http://decision6.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

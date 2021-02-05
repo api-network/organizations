@@ -1,0 +1,42 @@
+---
+name: Kids Email
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4450636"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kids-email.yaml
+tags:
+- Child Safety
+apis: []
+x-common:
+- type: x-website
+  url: http://www.kidsemail.org
+- type: x-blog
+  url: http://blog.kidsemail.org
+- type: x-facebook
+  url: https://www.facebook.com/KidsEmail.org
+- type: x-instagram
+  url: https://www.instagram.com/kidsemail/
+- type: x-login
+  url: https://www.kidsemail.org/parent-login.php
+- type: x-pricing
+  url: https://www.kidsemail.org/pricing.php
+- type: x-self-service-registration
+  url: https://www.kidsemail.org/register.php
+- type: x-support
+  url: https://www.kidsemail.org/support.php
+- type: x-terms-of-service
+  url: https://www.kidsemail.org/terms.php
+- type: x-twitter
+  url: http://twitter.com/#!/kidsemail
+- type: x-website
+  url: https://www.kidsemail.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

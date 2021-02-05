@@ -1,0 +1,71 @@
+---
+name: Betwext
+description: Text message and sms marketing is the next evolution of the smart phone.
+  It gives business owners and consumers a one to one connection. Text marketing
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/706-betwext.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "185520"
+url: https://raw.githubusercontent.com/api-network/organizations/main/betwext.yaml
+tags:
+- Telecommunications
+- SMS Marketing
+- Have API
+- Global
+- API Not Found
+apis: []
+x-common:
+- type: x-about
+  url: https://www.betwext.com/about/
+- type: x-blog
+  url: http://betwext.com/blog
+- type: x-blog
+  url: https://www.betwext.com/blog/
+- type: x-blog-rss
+  url: http://betwext.com/blog/feed/
+- type: x-case-studies
+  url: https://www.betwext.com/case-studies/
+- type: x-contact
+  url: http://www.betwext.com/contact-our-sales-team/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/betwext
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/betwext
+- type: x-documentation
+  url: http://betwext.helpscoutdocs.com/
+- type: x-documentation
+  url: https://betwext.helpscoutdocs.com/
+- type: x-email
+  url: help@betwext.com
+- type: x-email
+  url: support@betwext.com
+- type: x-email
+  url: info@betwext.com
+- type: x-facebook
+  url: https://www.facebook.com/betwext
+- type: x-integrations
+  url: https://zapier.com/apps/integrations
+- type: x-linkedin
+  url: https://www.linkedin.com/company/betwext
+- type: x-login
+  url: https://login.betwext.com/
+- type: x-partner
+  url: https://www.betwext.com/partner-with-betwext/
+- type: x-privacy
+  url: https://www.betwext.com/privacy/
+- type: x-signup
+  url: https://broadcast.betwext.com/auth/signup
+- type: x-terms-of-service
+  url: https://www.betwext.com/terms/
+- type: x-twitter
+  url: https://twitter.com/betwext
+- type: x-website
+  url: http://betwext.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

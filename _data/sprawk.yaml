@@ -1,0 +1,35 @@
+---
+name: Sprawk
+description: Sprawk helps you translate your website your way, and within your budget
+  - reaching more customers and increasing sales.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/sprawk-language.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sprawk.yaml
+tags:
+- Translations
+- Languages
+- Have API
+apis: []
+x-common:
+- type: x-developers
+  url: https://market.mashape.com/sprawk/language-detection
+- type: x-website
+  url: http://www.sprawk.com/
+- type: x-pricing
+  url: https://www.sprawk.com/en_US/features
+- type: x-pricing
+  url: https://www.sprawk.com/en_US/features
+- type: x-twitter
+  url: https://twitter.com/SprawkTranslate
+- type: x-website
+  url: https://www.sprawk.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

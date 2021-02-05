@@ -1,0 +1,35 @@
+---
+name: Elk River Systems, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/elk-river-systems-inc-.yaml
+tags:
+- Printing
+- Business And Finance
+apis: []
+x-common:
+- type: x-about
+  url: https://www.elkriversystems.com/about-us/
+- type: x-blog
+  url: http://blog.ticketprinting.com
+- type: x-contact
+  url: https://www.elkriversystems.com/about-us/contact-us/
+- type: x-customers
+  url: https://www.elkriversystems.com/ers-customers/
+- type: x-developer
+  url: http://dev.elkriversystems.com
+- type: x-press
+  url: http://www.wordpress.org
+- type: x-website
+  url: https://www.elkriversystems.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

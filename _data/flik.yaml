@@ -1,0 +1,29 @@
+---
+name: FLiK
+description: FLiK is an end-to-end entertainment ecosystem that allows for creative
+  projects to be funded, filmed, distributed, and paid for all within the FLiK framework.  This
+  is a revolutionary approach to the development and distribution of entertainment
+  as we kno
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27134-www-theflik-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "426233"
+url: https://raw.githubusercontent.com/api-network/organizations/main/flik.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/flikkety-flik
+- type: x-twitter
+  url: https://twitter.com/TheFlikIO
+- type: x-website
+  url: http://www.theflik.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,29 @@
+---
+name: Downland Veterinary Group
+description: "Downland Vets in Hampshire, East and West Sussex, are ready to provide
+  exceptional care to your pet. Find out more about our 12 vet clinics in the South
+  East of England. Including vets in \r\nBognor Regis, Eastbourne, Barnham and Chichester.
+  View the services we can provide for your pet."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/downland-veterinary-group.yaml
+tags:
+- Showcase
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/downlandvets
+- type: x-facebook
+  url: https://www.facebook.com/Downlandvetseastsussex/
+- type: x-website
+  url: https://www.downlandvets.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

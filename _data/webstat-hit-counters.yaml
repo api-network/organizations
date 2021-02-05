@@ -1,0 +1,41 @@
+---
+name: Web-Stat hit counters
+description: Track individual visitors using your website in real-time. Understand
+  & grow your traffic with free, live analytics. Add to your site in minutes!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/webstat-hit-counters.yaml
+tags:
+- Webstat
+- Web-stat
+- Web Traffic Measurements
+- Web Traffic Analysis
+- Web Tracker
+- Web Stats
+- Web Stat
+- Web Page Counter
+- Web Counter
+- Web Analytics
+- Tracker
+- Search Engine Tracker
+- Search Engine
+- Premium
+- Page Tracker
+- Live Analytics. Add To Your Site In Minutes!
+- Hit Counter
+- Counter
+- Analytics
+apis: []
+x-common:
+- type: x-website
+  url: https://www.web-stat.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

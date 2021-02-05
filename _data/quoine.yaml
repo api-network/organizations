@@ -1,0 +1,29 @@
+---
+name: Quoine
+description: a global liquidity platform for all crypto investors, token issuers and
+  a new generation of financial services customers.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26673-liquid-plus.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "111475"
+url: https://raw.githubusercontent.com/api-network/organizations/main/quoine.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: https://liquid.com
+- type: x-email
+  url: mario_gomez@hotmail.com
+- type: x-twitter
+  url: https://twitter.com/QUOINE_SG
+- type: x-website
+  url: https://liquid.plus
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,39 @@
+---
+name: RealGeeks
+description: <p>IDX provider Real Geeks offers custom IDX real estate websites and
+  web design for Realtors who want to convert more leads into clients. Contact us
+  today to get your real estate agent MLS IDX solution to produce at high level.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29367-realgeeks-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "58362"
+url: https://raw.githubusercontent.com/api-network/organizations/main/realgeeks.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.realgeeks.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/real-geeks
+- type: x-developer
+  url: http://developer.realgeeks.com
+- type: x-email
+  url: legal@realgeeks.com
+- type: x-facebook
+  url: https://www.facebook.com/realgeeks
+- type: x-instagram
+  url: https://www.instagram.com/realgeeks/
+- type: x-twitter
+  url: https://twitter.com/realgeeks
+- type: x-website
+  url: http://realgeeks.com
+- type: x-youtube
+  url: https://www.youtube.com/realgeeks
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,81 @@
+---
+name: Exact Target
+description: We offer email marketing software or cross-channel campaign features.
+  Our email marketing solutions build 1:1 relationships throughout the customer lifecycle.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5921"
+url: https://raw.githubusercontent.com/api-network/organizations/main/exact-target.yaml
+tags:
+- Software
+apis: []
+x-common:
+- type: x-about
+  url: https://www.salesforce.com/company/about-us/
+- type: x-blog
+  url: https://www.salesforce.com/blog
+- type: x-blog
+  url: https://www.salesforce.com/blog/?d=70130000000i80c
+- type: x-developer
+  url: https://developer.mulesoft.com/
+- type: x-developer
+  url: http://developer.pardot.com/
+- type: x-developer
+  url: https://developer.salesforce.com/
+- type: x-developer
+  url: https://developer.salesforce.com/calendar
+- type: x-events
+  url: https://www.salesforce.com/events
+- type: x-facebook
+  url: https://www.facebook.com/salesforcedevs
+- type: x-facebook
+  url: http://www.facebook.com/salesforce
+- type: x-investor
+  url: https://investor.salesforce.com/overview/default.aspx
+- type: x-linkedin
+  url: http://www.linkedin.com/company/salesforce
+- type: x-login
+  url: https://help.salesforce.com/htssologinpage
+- type: x-login
+  url: https://login.salesforce.com/
+- type: x-login
+  url: https://socialstudio.radian6.com/login
+- type: x-login
+  url: https://trailblazer.me/trailblazerlogin
+- type: x-partner
+  url: http://go.appexchange.com/partnerprogram
+- type: x-partner
+  url: https://partners.salesforce.com/
+- type: x-platform
+  url: https://developer.salesforce.com/platform
+- type: x-platform
+  url: https://developer.salesforce.com/platform/force.com
+- type: x-privacy
+  url: https://www.salesforce.com/company/privacy
+- type: x-support
+  url: https://help.salesforce.com/home
+- type: x-terms-of-service
+  url: https://trailblazer.me/terms
+- type: x-terms-of-service
+  url: https://www.salesforce.com/company/legal/
+- type: x-twitter
+  url: https://twitter.com/#!/salesforcedevs
+- type: x-twitter
+  url: http://twitter.com/salesforce
+- type: x-webinars
+  url: https://www.salesforce.com/events/webinars
+- type: x-website
+  url: https://exacttarget.com
+- type: x-youtube
+  url: https://www.youtube.com/user/DeveloperForce
+- type: x-youtube
+  url: http://www.youtube.com/Salesforce
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

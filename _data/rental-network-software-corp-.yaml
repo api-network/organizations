@@ -1,0 +1,45 @@
+---
+name: Rental Network Software Corp.
+description: RNS Vacation Rental Software has assisted professional property management
+  for 25 years! Online bookings, full-trust accounting, Marketing tools and so much
+  more!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2239521"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rental-network-software-corp-.yaml
+tags:
+- Vacation Rental Software
+- Vacation Property Management Software
+- RNS
+- Rental Network Software
+- Property Management
+- Professional Property Management
+apis: []
+x-common:
+- type: x-about
+  url: https://www.rental-network.com/about/
+- type: x-blog
+  url: https://www.rental-network.com/blog/
+- type: x-careers
+  url: https://www.rental-network.com/why-rns/careers-rns/
+- type: x-contact
+  url: https://www.rental-network.com/contact-us/
+- type: x-partner
+  url: https://www.rental-network.com/why-rns/partners/
+- type: x-partner
+  url: https://www.rental-network.com/index-php/partners/
+- type: x-pricing
+  url: https://www.rental-network.com/why-rns/pricing/
+- type: x-support
+  url: http://support.rental-network.com/
+- type: x-website
+  url: https://www.rental-network.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

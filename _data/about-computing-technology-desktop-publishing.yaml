@@ -1,0 +1,48 @@
+---
+name: 'About: Computing & Technology: Desktop Publishing'
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6935"
+url: https://raw.githubusercontent.com/api-network/organizations/main/about-computing-technology-desktop-publishing.yaml
+tags:
+- Desktop Publishing
+apis: []
+x-common:
+- type: x-about
+  url: https://www.lifewire.com/about-us
+- type: x-about
+  url: https://www.lifewire.com/about-us#EditorialGuidelines
+- type: x-about
+  url: https://www.lifewire.com/about-us#ContactUs
+- type: x-careers
+  url: https://www.dotdash.com/careers/
+- type: x-facebook
+  url: http://www.facebook.com/lifewire
+- type: x-news
+  url: https://www.lifewire.com/parts-of-a-newsletter-1078626
+- type: x-news
+  url: https://www.lifewire.com/newsprint-in-printing-1078129
+- type: x-press
+  url: https://www.lifewire.com/what-is-web-press-1074624
+- type: x-press
+  url: https://www.lifewire.com/sheet-fed-press-1074620
+- type: x-support
+  url: https://www.lifewire.com/getting-more-help-4102762
+- type: x-terms-of-service
+  url: https://www.lifewire.com/legal#privacy
+- type: x-terms-of-service
+  url: https://www.lifewire.com/legal#cookies-disclosure
+- type: x-terms-of-service
+  url: https://www.lifewire.com/legal#terms
+- type: x-website
+  url: https://desktoppub.about.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,85 @@
+---
+name: TotalChoice Hosting
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1159387"
+url: https://raw.githubusercontent.com/api-network/organizations/main/totalchoice-hosting.yaml
+tags:
+- TotalChoice Hosting Forums
+- Chats And Forums
+apis: []
+x-common:
+- type: x-website
+  url: http://www.totalchoicehosting.com
+- type: x-contact
+  url: https://forums.totalchoicehosting.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/TotalChoice
+- type: x-forum
+  url: https://forums.totalchoicehosting.com/discover/
+- type: x-forum
+  url: https://forums.totalchoicehosting.com/search/
+- type: x-forum
+  url: https://forums.totalchoicehosting.com/
+- type: x-forum
+  url: https://forums.totalchoicehosting.com/login/
+- type: x-forum
+  url: https://forums.totalchoicehosting.com/lostpassword/
+- type: x-forum
+  url: https://forums.totalchoicehosting.com/register/
+- type: x-forum
+  url: https://forums.totalchoicehosting.com
+- type: x-forum
+  url: https://forums.totalchoicehosting.com/guidelines/
+- type: x-forum
+  url: https://forums.totalchoicehosting.com/startTopic/
+- type: x-forum
+  url: https://forums.totalchoicehosting.com/forum/619-betsy/
+- type: x-forum
+  url: https://forums.totalchoicehosting.com/forum/637-birch/
+- type: x-forum
+  url: https://forums.totalchoicehosting.com/forum/620-brute/
+- type: x-forum
+  url: https://forums.totalchoicehosting.com/forum/623-burt/
+- type: x-forum
+  url: https://forums.totalchoicehosting.com/forum/635-cass/
+- type: x-forum
+  url: https://forums.totalchoicehosting.com/forum/643-elk/
+- type: x-forum
+  url: https://forums.totalchoicehosting.com/forum/626-fish/
+- type: x-forum
+  url: https://forums.totalchoicehosting.com/forum/653-goose/
+- type: x-forum
+  url: https://forums.totalchoicehosting.com/forum/615-kent/
+- type: x-forum
+  url: https://forums.totalchoicehosting.com/forum/663-neris/
+- type: x-forum
+  url: https://forums.totalchoicehosting.com/forum/668-rouge/
+- type: x-forum
+  url: https://forums.totalchoicehosting.com/forum/612-squaw/
+- type: x-forum
+  url: https://forums.totalchoicehosting.com/forum/609-titan/
+- type: x-forum
+  url: https://forums.totalchoicehosting.com/forum/658-torch/
+- type: x-forum
+  url: https://forums.totalchoicehosting.com/forum/645-zukey/
+- type: x-forum
+  url: https://forums.totalchoicehosting.com/forum/303-blogs/
+- type: x-forum
+  url: https://forums.totalchoicehosting.com/privacy/
+- type: x-support
+  url: https://support.totalchoicehosting.com/
+- type: x-twitter
+  url: https://twitter.com/totalchoicehost
+- type: x-website
+  url: https://forums.totalchoicehosting.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

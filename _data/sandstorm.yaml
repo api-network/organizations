@@ -1,0 +1,35 @@
+---
+name: Sandstorm
+description: Sandstorm is the leading Chicago marketing, brand experience, UX design
+  and usability firm with extensive technical and web development expertise.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/8818-sandstorm.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1697067"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sandstorm.yaml
+tags:
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://sandstormdesign.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/sandstorm-design
+- type: x-facebook
+  url: https://www.facebook.com/sandstormdesign
+- type: x-instagram
+  url: http://instagram.com/sandstormchicago
+- type: x-linkedin
+  url: https://www.linkedin.com/company/sandstorm-design
+- type: x-twitter
+  url: https://twitter.com/SandstormDesign
+- type: x-website
+  url: http://www.sandstormdesign.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

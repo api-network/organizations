@@ -1,0 +1,46 @@
+---
+name: ISACA - Serving IT Governance Professionals
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "38627"
+url: https://raw.githubusercontent.com/api-network/organizations/main/isaca--serving-it-governance-professionals.yaml
+tags:
+- Professional
+- Organizations
+- Associations
+apis: []
+x-common:
+- type: x-website
+  url: http://www.isaca.org
+- type: x-about
+  url: https://www.isaca.org/about-isaca/Pages/default.aspx
+- type: x-about
+  url: https://engage.isaca.org/volunteeropportunities/about
+- type: x-events
+  url: https://engage.isaca.org/events/calendar
+- type: x-facebook
+  url: https://www.facebook.com/ISACAHQ
+- type: x-forum
+  url: https://engage.isaca.org/communities/onlineforums
+- type: x-gdpr
+  url: https://www.isaca.org/info/gdpr/index.html
+- type: x-security
+  url: https://cybersecurity.isaca.org/nexus-articles
+- type: x-security
+  url: https://cybersecurity.isaca.org/
+- type: x-support
+  url: https://support.isaca.org
+- type: x-twitter
+  url: https://twitter.com/ISACANews
+- type: x-website
+  url: https://www.isaca.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

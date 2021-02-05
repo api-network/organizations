@@ -1,0 +1,54 @@
+---
+name: PL/PDF
+description: With PL/PDF Oracle database reporting is made simple. Use our Template
+  engine and your PL/SQL knowledge to create mesmerizing reports.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/plpdf.yaml
+tags:
+- Tools
+- Plsql Reporter
+- Plsql Reorting
+- Plsql PDF
+- Plsql Docx
+- Plsql Database Reporter
+- Plsql
+- Oracle Reporting Tool
+- Oracle Reporting
+- Oracle Reporter
+- Oracle Report
+- Oracle Pdf Generator
+- Oracle Pdf
+- Oracle Docx Generator
+- Oracle Docx
+- Database To Pdf
+- Database Reporting
+- Database Reporter
+- Database Pdf
+- Business Intelligence Reporting
+- Business Intelligence Reporter
+- Business Intelligence PDF
+apis: []
+x-common:
+- type: x-website
+  url: http://www.plpdf.com
+- type: x-facebook
+  url: https://www.facebook.com/plpdf/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/pl-pdf
+- type: x-twitter
+  url: https://twitter.com/plpdf
+- type: x-website
+  url: https://www.plpdf.com
+- type: x-youtube
+  url: https://www.youtube.com/c/Plpdf
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

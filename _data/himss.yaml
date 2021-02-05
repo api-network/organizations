@@ -1,0 +1,49 @@
+---
+name: HIMSS
+description: HIMSS is a global advisor and thought leader supporting the transformation
+  of the health ecosystem through information and technology. As a mission-driven
+  non-profit, HIMSS offers a unique depth and breadth of expertise in health innovation,
+  public policy, workforce development, research and analytics to advise global leaders,
+  stakeholders and influencers on best practices in health information and technology.
+  Through our innovation engine, HIMSS delivers key insights, education and engaging
+  events to healthcare providers, governments and market suppliers, ensuring they
+  have the right information at the point of decision. Headquartered in Chicago, Illinois,
+  HIMSS serves the global health information and technology communities with focused
+  operations across North America, Europe, the United Kingdom, the Middle East and
+  Asia Pacific. Our members include more than 80,000 individuals, 480 provider organizations,
+  470 non-profit partners and 650 health services organizations.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29311-himss-org.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "129467"
+url: https://raw.githubusercontent.com/api-network/organizations/main/himss.yaml
+tags:
+- Profile
+- Healthcare
+- Has API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.himss.org
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/himss-2
+- type: x-facebook
+  url: https://www.facebook.com/HIMSSpage
+- type: x-instagram
+  url: https://www.instagram.com/himssglobal
+- type: x-linkedin
+  url: https://www.linkedin.com/company/himss/
+- type: x-twitter
+  url: https://twitter.com/HIMSS
+- type: x-website
+  url: http://himss.org
+- type: x-youtube
+  url: http://youtube.com/himss
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

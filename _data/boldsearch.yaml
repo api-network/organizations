@@ -1,0 +1,30 @@
+---
+name: BoldSearch
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/boldsearch.yaml
+tags:
+- Search Engines
+apis: []
+x-common:
+- type: x-about
+  url: http://boldsearch.com/about.htm
+- type: x-contact
+  url: http://boldsearch.com/contact.html
+- type: x-news
+  url: http://boldsearch.com/news.php
+- type: x-terms-of-service
+  url: http://boldsearch.com/legal.html
+- type: x-website
+  url: https://www.boldsearch.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,31 @@
+---
+name: Epaccsys Limited
+description: Epicor ERP Software specialists Epaccsys deliver flexible, scalable &
+  robust ERP Software delivered with exceptional customer services. Top UK Reseller.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/epaccsys-limited.yaml
+tags:
+- Vendors
+apis: []
+x-common:
+- type: x-about
+  url: https://www.epaccsys.com/about-us/
+- type: x-contact
+  url: https://www.epaccsys.com/contact-us/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/epaccsys
+- type: x-twitter
+  url: https://twitter.com/epaccsys
+- type: x-website
+  url: https://www.epaccsys.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

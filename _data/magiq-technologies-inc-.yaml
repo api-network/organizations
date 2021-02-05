@@ -1,0 +1,49 @@
+---
+name: MagiQ Technologies Inc.
+description: Helping customers better communicate, safeguard, and secure their worlds.
+  Learn about MagiQ Technologies on our official website.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/magiq-technologies-inc-.yaml
+tags:
+- Quantum Computing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.magiqtech.com
+- type: x-blog
+  url: https://www.magiqtech.com/resources/blog/
+- type: x-careers
+  url: https://www.magiqtech.com/company/careers/
+- type: x-contact
+  url: https://www.magiqtech.com/contact-us/
+- type: x-contact
+  url: https://magiqtech.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/MagiQTech/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/magiq-technologies/
+- type: x-login
+  url: https://www.magiqtech.com/customer-login/
+- type: x-news
+  url: https://magiqtech.com/news-and-events
+- type: x-news
+  url: https://magiqtech.com/news-and-events#events
+- type: x-security
+  url: https://www.magiqtech.com/solutions/network-security/
+- type: x-security
+  url: https://magiqtech.com/solutions/network-security/
+- type: x-twitter
+  url: https://twitter.com/magiqtech
+- type: x-website
+  url: https://www.magiqtech.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

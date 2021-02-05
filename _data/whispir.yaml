@@ -1,0 +1,38 @@
+---
+name: Whispir
+description: The Whispir platform lets you automate, personalize and layer your communications
+  with smart workflows
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/whispir.yaml
+tags:
+- XML
+- JSON
+- API Key
+- API
+apis: []
+x-common:
+- type: x-contact-form
+  url: https://www.whispir.com/contact
+- type: x-documentation
+  url: https://developers.whispir.com/docs/whispir-platform-api
+- type: x-faq
+  url: https://www.whispir.com/faq
+- type: x-news
+  url: https://www.whispir.com/news
+- type: x-privacy
+  url: https://www.whispir.com/privacy-policy
+- type: x-support
+  url: https://www.whispir.com/support
+- type: x-terms-of-service
+  url: https://www.whispir.com/terms-of-service
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

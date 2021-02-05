@@ -1,0 +1,27 @@
+---
+name: Pipedream Design
+description: Creative agency - bespoke website design, development, digital marketing,
+  web hosting, wordpress and graphic design - Orpington, Bromley, Kent, London, UK
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pipedream-design.yaml
+tags:
+- Arts And Entertainment
+apis: []
+x-common:
+- type: x-about
+  url: https://www.pipedreamdesign.co.uk/who-we-are/about-us/
+- type: x-contact
+  url: https://www.pipedreamdesign.co.uk/contact/
+- type: x-website
+  url: https://www.pipedreamdesign.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

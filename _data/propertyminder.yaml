@@ -1,0 +1,48 @@
+---
+name: PropertyMinder
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2706983"
+url: https://raw.githubusercontent.com/api-network/organizations/main/propertyminder.yaml
+tags:
+- Real Estate
+apis: []
+x-common:
+- type: x-website
+  url: http://www.facebook.com/propertyminder
+- type: x-about
+  url: https://www.propertyminder.com/about-us
+- type: x-blog
+  url: http://activerain.com/blogs/propertyminder
+- type: x-careers
+  url: https://www.propertyminder.com/careers
+- type: x-contact
+  url: https://www.propertyminder.com/contact-us
+- type: x-facebook
+  url: https://www.facebook.com/propertyminder
+- type: x-linkedin
+  url: http://www.linkedin.com/company/propertyminder
+- type: x-pricing
+  url: https://www.propertyminder.com/pricing
+- type: x-support
+  url: https://www.propertyminder.com/support
+- type: x-support
+  url: https://www.propertyminder.com/help-desk
+- type: x-twitter
+  url: https://twitter.com/propertyminder
+- type: x-webinars
+  url: https://www.propertyminder.com/webinar
+- type: x-website
+  url: https://www.propertyminder.com
+- type: x-youtube
+  url: http://www.youtube.com/user/propertymindercom
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

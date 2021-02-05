@@ -1,0 +1,36 @@
+---
+name: Austria Card
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6304194"
+url: https://raw.githubusercontent.com/api-network/organizations/main/austria-card.yaml
+tags:
+- Manufacturers
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.austriacard.com/get-in-touch/contact-us/
+- type: x-events
+  url: https://www.austriacard.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/Inform-Lykos-125650464943957/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/inform-p--lykos-s-a-/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/nautilus-iot
+- type: x-press
+  url: https://www.austriacard.com/press-corner/
+- type: x-website
+  url: https://www.austriacard.at
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=dXgV2gBv1r0
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

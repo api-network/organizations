@@ -1,0 +1,42 @@
+---
+name: Newshosting
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "181825"
+url: https://raw.githubusercontent.com/api-network/organizations/main/newshosting.yaml
+tags:
+- Feed Services
+apis: []
+x-common:
+- type: x-news
+  url: https://support.newshosting.com/kb/section/38/
+- type: x-news
+  url: https://support.newshosting.com/
+- type: x-news
+  url: https://newshosting.com/usenet
+- type: x-news
+  url: https://controlpanel.newshosting.com/customer/
+- type: x-news
+  url: https://controlpanel.newshosting.com/signup/?rate=54
+- type: x-news
+  url: https://controlpanel.newshosting.com/signup/?rate=1
+- type: x-news
+  url: https://controlpanel.newshosting.com/signup/?rate=62
+- type: x-news
+  url: http://www.youtube.com/newshostingusenet
+- type: x-news
+  url: http://www.facebook.com/newshosting
+- type: x-partner
+  url: https://newshosting.com/usenet/partners/what-is-usenet
+- type: x-website
+  url: https://www.newshosting.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

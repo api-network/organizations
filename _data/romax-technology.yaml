@@ -1,0 +1,74 @@
+---
+name: Romax Technology
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2148369"
+url: https://raw.githubusercontent.com/api-network/organizations/main/romax-technology.yaml
+tags:
+- Mechanical Design
+apis: []
+x-common:
+- type: x-website
+  url: http://www.romaxtech.com
+- type: x-about
+  url: https://romaxtech.com/about-you/
+- type: x-about
+  url: https://romaxtech.com/about-you/software-partners/
+- type: x-about
+  url: https://romaxtech.com/about-you/academic-partners/
+- type: x-about
+  url: https://romaxtech.com/about-us/
+- type: x-about
+  url: https://romaxtech.com/about-us/company-profile/
+- type: x-about
+  url: https://romaxtech.com/about-us/our-people/
+- type: x-about
+  url: https://romaxtech.com/about-us/board-of-directors/
+- type: x-about
+  url: https://romaxtech.com/about-us/management+team
+- type: x-about
+  url: https://romaxtech.com/about-us/right-first-time
+- type: x-about
+  url: https://romaxtech.com/about-us/glossary
+- type: x-about
+  url: https://romaxtech.com/about-us/2018
+- type: x-careers
+  url: https://romaxtech.com/careers/
+- type: x-contact
+  url: https://romaxtech.com/contact-us/
+- type: x-events
+  url: https://romaxtech.com/events-and-resources
+- type: x-facebook
+  url: https://www.facebook.com/RomaxTechnology/
+- type: x-instagram
+  url: https://www.instagram.com/romaxtechnology/
+- type: x-linkedin
+  url: https://uk.linkedin.com/company/romax-technology
+- type: x-linkedin
+  url: https://www.linkedin.com/company/romax-technology/
+- type: x-login
+  url: https://support.romaxtech.com/login
+- type: x-news
+  url: https://romaxtech.com/events-and-resources/news/
+- type: x-privacy
+  url: https://romaxtech.com/privacy/
+- type: x-support
+  url: https://romaxtech.com/software/support-services/
+- type: x-terms-of-service
+  url: https://romaxtech.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/romaxtechnology?lang=en
+- type: x-twitter
+  url: https://twitter.com/RomaxTechnology
+- type: x-website
+  url: https://www.romaxtech.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

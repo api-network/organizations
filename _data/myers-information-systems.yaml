@@ -1,0 +1,43 @@
+---
+name: Myers Information Systems
+description: Myers Infosys ProTrack Broadcast Management System. Acquire, schedule,
+  monetize and distribute content with greater efficiency. See what sets us apart.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1804611"
+url: https://raw.githubusercontent.com/api-network/organizations/main/myers-information-systems.yaml
+tags:
+- Broadcast
+apis: []
+x-common:
+- type: x-website
+  url: http://www.myersinfosys.com
+- type: x-about
+  url: https://myersinfosys.com/about-myers/
+- type: x-careers
+  url: https://myersinfosys.com/careers/
+- type: x-contact
+  url: https://myersinfosys.com/contact-us/
+- type: x-integrations
+  url: https://myersinfosys.com/protrack-tv/integrations/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/myers
+- type: x-news
+  url: https://myersinfosys.com/news/
+- type: x-support
+  url: https://myersinfosys.com/support/
+- type: x-support
+  url: http://support.myersinfosys.com/kb/
+- type: x-twitter
+  url: https://twitter.com/MyersInfoSys
+- type: x-website
+  url: https://www.myersinfosys.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

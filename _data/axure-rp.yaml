@@ -1,0 +1,52 @@
+---
+name: Axure RP
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "54640"
+url: https://raw.githubusercontent.com/api-network/organizations/main/axure-rp.yaml
+tags:
+- Business Drawing
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.axure.com/blog
+- type: x-careers
+  url: https://www.axure.com/careers
+- type: x-documentation
+  url: http://docs.axure.com/
+- type: x-documentation
+  url: https://docs.axure.com
+- type: x-facebook
+  url: https://www.facebook.com/axurerp/
+- type: x-forum
+  url: https://forum.axure.com/
+- type: x-gdpr
+  url: https://www.axure.com/gdpr
+- type: x-instagram
+  url: https://www.instagram.com/axuresoftware
+- type: x-instagram
+  url: https://www.instagram.com/axuresoftware/
+- type: x-pricing
+  url: https://www.axure.com/pricing
+- type: x-privacy
+  url: https://www.axure.com/privacy
+- type: x-security
+  url: https://www.axure.com/security
+- type: x-support
+  url: https://www.axure.com/support
+- type: x-support
+  url: https://www.axure.com/support/trainers
+- type: x-twitter
+  url: https://twitter.com/axurerp
+- type: x-website
+  url: https://www.axure.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

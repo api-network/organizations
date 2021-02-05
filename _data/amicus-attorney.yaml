@@ -1,0 +1,45 @@
+---
+name: Amicus Attorney
+description: Simplify your law firm with legal practice case management software for
+  lawyers. It's customizable, compliant-ready, and easy to use. Get a free demo today!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/amicus-attorney.yaml
+tags:
+- Business
+apis: []
+x-common:
+- type: x-website
+  url: https://www.abacusnext.com/
+- type: x-case-studies
+  url: https://www.abacusnext.com/case-studies/hotdocs
+- type: x-case-studies
+  url: https://www.abacusnext.com/case-studies/abacuslaw
+- type: x-case-studies
+  url: https://www.abacusnext.com/case-studies/officetools
+- type: x-case-studies
+  url: https://www.abacusnext.com/case-studies/results-crm
+- type: x-documentation
+  url: https://www.hotdocs.com
+- type: x-facebook
+  url: https://www.facebook.com/abacuslaw/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/abacus-data-systems
+- type: x-partner
+  url: https://partner.abacusnext.com/
+- type: x-support
+  url: https://www.abacusnext.com/support#knowledgebases
+- type: x-twitter
+  url: https://twitter.com/Abacus_Next
+- type: x-website
+  url: https://www.amicusattorney.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

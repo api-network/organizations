@@ -1,0 +1,46 @@
+---
+name: Computer History Museum
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "116565"
+url: https://raw.githubusercontent.com/api-network/organizations/main/computer-history-museum.yaml
+tags:
+- History
+apis: []
+x-common:
+- type: x-website
+  url: http://www.computerhistory.org/
+- type: x-blog
+  url: https://computerhistory.org/blogs/
+- type: x-blog
+  url: https://computerhistory.org/blogs-all
+- type: x-blog
+  url: https://computerhistory.org/blog/where-to-next/
+- type: x-careers
+  url: https://computerhistory.org/careers/
+- type: x-events
+  url: https://computerhistory.org/events
+- type: x-facebook
+  url: https://www.facebook.com/computerhistory/
+- type: x-instagram
+  url: https://www.instagram.com/computerhistory/
+- type: x-privacy
+  url: https://computerhistory.org/privacy/
+- type: x-terms-of-service
+  url: https://computerhistory.org/terms/
+- type: x-twitter
+  url: https://twitter.com/ComputerHistory
+- type: x-website
+  url: https://computerhistory.org
+- type: x-youtube
+  url: https://www.youtube.com/user/ComputerHistory
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

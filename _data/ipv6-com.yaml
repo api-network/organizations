@@ -1,0 +1,36 @@
+---
+name: IPv6.com
+description: The complete resource for information related to Internet Protocol Version
+  6 aka IPv6. Learn about computer networking, IP Addresses, IPv6 Addressing Format,
+  Applications, Acceptance, Hardware, Security, Deployment and much more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1213198"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ipv6-com.yaml
+tags:
+- IPv6
+apis: []
+x-common:
+- type: x-about
+  url: https://www.ipv6.com/about-ipv6-com/
+- type: x-blog
+  url: https://www.ipv6.com/category/blog/
+- type: x-contact
+  url: https://www.ipv6.com/contact-us/
+- type: x-privacy
+  url: https://www.ipv6.com/privacy-policy/
+- type: x-security
+  url: https://www.ipv6.com/category/security/
+- type: x-terms-of-service
+  url: https://www.ipv6.com/terms-of-use/
+- type: x-website
+  url: https://www.ipv6.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

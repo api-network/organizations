@@ -1,0 +1,32 @@
+---
+name: Deck Keyboards
+description: Deck Keyboards are a line of premium mechanical gaming input devices
+  with unmatched backlighting capabilities; a Deck will truly be the last keyboard
+  you'll ever need.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5080197"
+url: https://raw.githubusercontent.com/api-network/organizations/main/deck-keyboards.yaml
+tags:
+- Keyboards
+apis: []
+x-common:
+- type: x-website
+  url: http://DeckKeyboards.com
+- type: x-facebook
+  url: https://www.facebook.com/deckkeyboards
+- type: x-twitter
+  url: https://twitter.com/deckkeyboards
+- type: x-website
+  url: https://www.deckkeyboards.com
+- type: x-youtube
+  url: https://www.youtube.com/user/DeckKeyboards
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

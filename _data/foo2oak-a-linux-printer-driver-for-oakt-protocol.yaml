@@ -1,0 +1,22 @@
+---
+name: 'foo2oak: a linux printer driver for OAKT protocol'
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8166708"
+url: https://raw.githubusercontent.com/api-network/organizations/main/foo2oak-a-linux-printer-driver-for-oakt-protocol.yaml
+tags:
+- Printing
+apis: []
+x-common:
+- type: x-website
+  url: https://foo2oak.rkkda.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

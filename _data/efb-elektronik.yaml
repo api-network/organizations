@@ -1,0 +1,31 @@
+---
+name: EFB Elektronik
+description: "Die EFB-Elektronik GmbH geh\xF6rt zu den f\xFChrenden Herstellern und
+  Systemanbietern f\xFCr Netzwerk- und Sicherheitstechnik sowie f\xFCr industrielle
+  Systeml\xF6sungen."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1734626"
+url: https://raw.githubusercontent.com/api-network/organizations/main/efb-elektronik.yaml
+tags:
+- Sicherheitstechnik
+- Netzwerktechnik
+- Manufacturers
+- "Industrielle Systeml\xF6sungen"
+- EFB-Elektronik
+- EFB
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.efb-elektronik.de
+- type: x-website
+  url: https://www.efb-elektronik.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

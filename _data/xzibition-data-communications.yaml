@@ -1,0 +1,83 @@
+---
+name: Xzibition Data Communications
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3129529"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xzibition-data-communications.yaml
+tags:
+- Wraith Shell
+- Web Proxy
+- Web Hosting
+- Unreal Ircd
+- UNIX Shells
+- Unix Shell Providers
+- UNIX Shell
+- Unix Hosting
+- Stable Ircd Hosting
+- Shell Providers
+- Shell Provider
+- Shell Account
+- Secure Web Hosting
+- Quality Hosting
+- Psybnc
+- Proxy Hosting
+- IRCd Shells
+- Ircd Service
+- Ircd Servers
+- Ircd Provider
+- Ircd Hosting
+- Ircd Host
+- Ircd Account
+- Irc Vhost
+- IRC Shells
+- Irc Server Hosting
+- IRC Bouncer
+- Irc Account
+- Hosting
+- Host Irc Server
+- Freebsd Shell
+- Email Hosting
+- Eggdrop Shells
+- Eggdrop Shell
+- Eggdrop Hosting
+- Eggdrop
+- Dns Hosting
+- Dedicated Servers
+- Dedicated Irc Servers
+- Ddos Protected
+- Cpanel Web Hosting
+- Cpanel
+- Cheap Web Hosting
+- Cheap Ircd Hosting
+- Buy Ircd
+- Bot Shell
+- BNC Shells
+- Bnc
+- Best Shell
+- Best Ircd Hosting
+- Anope Hosting
+- Anonymous Proxy
+apis: []
+x-common:
+- type: x-website
+  url: http://www.xzibition.com
+- type: x-open-source
+  url: https://www.godaddy.com/gdshop/ssl/ssl_opensource.asp
+- type: x-support
+  url: http://chat.xzibition.com/?chan=%23support
+- type: x-support
+  url: http://support.xzibition.com
+- type: x-twitter
+  url: https://twitter.com/XzibitionData
+- type: x-website
+  url: https://www.xzibition.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

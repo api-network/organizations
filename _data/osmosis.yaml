@@ -1,0 +1,41 @@
+---
+name: Osmosis
+description: Streamline your sales process from first contact to signed proposal.
+  Free 14-day trial - no credit card required.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1670_logo..png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1117966"
+url: https://raw.githubusercontent.com/api-network/organizations/main/osmosis.yaml
+tags:
+- Proposals
+- Has API
+- Design Briefs
+apis: []
+x-common:
+- type: x-website
+  url: https://www.getosmosis.com
+- type: x-blog
+  url: https://www.getosmosis.com/blog
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/osmosis
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/osmosis
+- type: x-developers
+  url: https://www.getosmosis.com/api-doc
+- type: x-email
+  url: support@getosmosis.com
+- type: x-twitter
+  url: http://twitter.com/getosmosis
+- type: x-twitter
+  url: https://twitter.com/getosmosis
+- type: x-website
+  url: https://www.getosmosis.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

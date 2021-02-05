@@ -1,0 +1,38 @@
+---
+name: Bits of Ivory
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bits-of-ivory.yaml
+tags:
+- Original
+apis: []
+x-common:
+- type: x-about
+  url: https://bitsofivory.com/about/
+- type: x-about
+  url: https://www.staging2.bitsofivory.com/about/
+- type: x-blog
+  url: https://bitsofivory.com/blog/
+- type: x-contact
+  url: https://bitsofivory.com/contact-us-3/
+- type: x-facebook
+  url: https://www.facebook.com/BitsOfIvory/
+- type: x-instagram
+  url: https://www.instagram.com/bitsofivory/
+- type: x-privacy
+  url: https://bitsofivory.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://bitsofivory.com/terms-of-use/
+- type: x-website
+  url: https://www.bitsofivory.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,84 @@
+---
+name: Open Source IT
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4838340"
+url: https://raw.githubusercontent.com/api-network/organizations/main/open-source-it.yaml
+tags:
+- Directories
+apis: []
+x-common:
+- type: x-facebook
+  url: https://facebook.com
+- type: x-open-source
+  url: https://opensource-it.com/open_source_erp
+- type: x-open-source
+  url: https://opensource-it.com/helpdesk_software/
+- type: x-open-source
+  url: https://opensource-it.com/open-source-ecm-dms/
+- type: x-open-source
+  url: https://opensource-it.com/wcm-cms/
+- type: x-open-source
+  url: https://opensource-it.com/the-top-4-headless-cms/
+- type: x-open-source
+  url: https://opensource-it.com/open_source_DAM
+- type: x-open-source
+  url: https://opensource-it.com/open_source_pim_software/
+- type: x-open-source
+  url: https://opensource-it.com/open_source_wiki_software/
+- type: x-open-source
+  url: https://opensource-it.com/open-source-etl/
+- type: x-open-source
+  url: https://opensource-it.com/load_balancing_software/
+- type: x-open-source
+  url: https://opensource-it.com/tags/database/
+- type: x-open-source
+  url: https://opensource-it.com/open_source_document_store/
+- type: x-open-source
+  url: https://opensource-it.com/open_source_nosql_databases/
+- type: x-open-source
+  url: https://opensource-it.com/open_source_graph_databases/
+- type: x-open-source
+  url: https://opensource-it.com/tags/pdf-tools/
+- type: x-open-source
+  url: https://opensource-it.com/open-source-pdf-editors/
+- type: x-open-source
+  url: https://opensource-it.com/open_source_pdf_software/
+- type: x-open-source
+  url: https://opensource-it.com/rocket-chat/
+- type: x-open-source
+  url: https://opensource-it.com/category/featured/
+- type: x-open-source
+  url: https://opensource-it.com/apache-hadoop/
+- type: x-open-source
+  url: https://opensource-it.com/interview-evan-you-patreon/
+- type: x-open-source
+  url: https://opensource-it.com/event/24781/
+- type: x-open-source
+  url: https://kinsta.com/?ref=opensource-it.com
+- type: x-open-source
+  url: https://opensource-it.com/
+- type: x-open-source
+  url: https://opensource-it.com/category/business-content/
+- type: x-open-source
+  url: https://opensource-it.com
+- type: x-open-source
+  url: https://opensource-it.com/open_source_survey_software/
+- type: x-open-source
+  url: https://opensource-it.com/open-source-crm-software/
+- type: x-open-source
+  url: https://opensource-it.com/Open_Source_POS
+- type: x-twitter
+  url: https://twitter.com
+- type: x-website
+  url: https://www.opensource-it.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

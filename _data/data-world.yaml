@@ -1,0 +1,48 @@
+---
+name: Data.World
+description: <p>Data's true potential is limited by outdated barriers from an era
+  when people, data, and impact were disconnected. These divisions prevent the vast
+  majority of people from contributing to, and benefiting fully from, data as a resource.
+  What would the world be like if everyone could use data to solve problems? Now is
+  the right time to find out. If we work together, we can do far more with data by
+  replacing needless barriers with meaningful connections.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/data-world-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/data-world.yaml
+tags:
+- Marketplaces
+- Have API Paths
+apis: []
+x-common:
+- type: x-website
+  url: http://data.world
+- type: x-blog
+  url: http://blog.data.world/
+- type: x-blog
+  url: http://meta.data.world/
+- type: x-blog-rss
+  url: https://blog.data.world/feed
+- type: x-blog-rss
+  url: https://meta.data.world/feed
+- type: x-developers
+  url: https://apidocs.data.world/
+- type: x-faq
+  url: https://apidocs.data.world/faq
+- type: x-github
+  url: https://github.com/datadotworld
+- type: x-pricing
+  url: https://data.world/pricing
+- type: x-twitter
+  url: https://twitter.com/datadotworld
+- type: x-website
+  url: https://data.world/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

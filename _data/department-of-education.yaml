@@ -1,0 +1,73 @@
+---
+name: Department of Education
+description: Welcome to my page.  If you're looking for the official source of information
+  about the U.S. Department of Education, please visit our homepage at www.ed.gov.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/US-DeptOfEducation-Seal.svg.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "959"
+url: https://raw.githubusercontent.com/api-network/organizations/main/department-of-education.yaml
+tags:
+- Have API
+- Federal Government
+- Data JSON
+- API Provider
+- API Provider
+apis: []
+x-common:
+- type: x-about
+  url: https://www2.ed.gov/about/landing.jhtml
+- type: x-about
+  url: https://www2.ed.gov/about/top-tasks.html?src=rn
+- type: x-about
+  url: https://www2.ed.gov/about/landing.jhtml?src=ft
+- type: x-blog
+  url: https://blog.ed.gov/?src=feature
+- type: x-careers
+  url: https://www.ed.gov/jobs?src=ft
+- type: x-contact
+  url: https://www2.ed.gov/about/contacts/gen
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/u-s-department-of-education
+- type: x-data
+  url: https://www2.ed.gov/rschstat/landing.jhtml?src=ft
+- type: x-developers
+  url: http://www.ed.gov/developers
+- type: x-email
+  url: answers@ed.gov
+- type: x-email
+  url: Ed.Language.Assistance@ed.gov
+- type: x-facebook
+  url: http://www.facebook.com/ed.gov
+- type: x-feed
+  url: https://www.ed.gov/feed
+- type: x-news
+  url: https://www2.ed.gov/news/staff/bios/devos.html?src=hp
+- type: x-news
+  url: https://www.ed.gov/news/?src=ft
+- type: x-press
+  url: https://eddataexpress.ed.gov/?src=ft
+- type: x-privacy
+  url: https://www2.ed.gov/privacy?src=ft
+- type: x-privacy
+  url: https://www2.ed.gov/notices/privacy/index.html?src=ft
+- type: x-security
+  url: https://www2.ed.gov/notices/security/index.html?src=ft
+- type: x-twitter
+  url: http://www.twitter.com/BetsyDeVosED
+- type: x-twitter
+  url: http://www.twitter.com/usedgov
+- type: x-twitter
+  url: https://twitter.com/usedgov
+- type: x-website
+  url: http://www.ed.gov
+- type: x-wikipedia
+  url: http://en.wikipedia.org/wiki/United_States_Department_of_Education
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,41 @@
+---
+name: Trovebox
+description: Trovebox lets you organize and archive your photos into a central location.
+  You can select which photo services you use and where you'd like to store your photos.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1591_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/trovebox.yaml
+tags:
+- Reclaim Your Domain
+- Photos
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: https://trovebox.com
+- type: x-base
+  url: http://current.trovebox.com/
+- type: x-blog
+  url: https://trovebox.com/blog/
+- type: x-blog-rss
+  url: https://trovebox.com/blog/feed/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/trovebox
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/trovebox
+- type: x-developers
+  url: https://trovebox.com/documentation
+- type: x-twitter
+  url: https://twitter.com/trovebox
+- type: x-website
+  url: https://trovebox.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

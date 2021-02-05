@@ -1,0 +1,42 @@
+---
+name: AddLive
+description: <p>AddLive is a simple, developer friendly way to integrate live video
+  and voice into applications. We see great opportunity in real-time applications,
+  and believe that live video and voice will be used in many apps. Our aim is to empower
+  the developer community to build tomorrow&rsquo;s real-time applications by giving
+  them easy access to this technology.</p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "6"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/addlive.yaml
+tags:
+- Videos
+- JavaScript
+- API United Kingdom
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.addlive.com
+- type: x-blog-rss
+  url: http://www.addlive.com/feed/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/addlive
+- type: x-developers
+  url: http://www.addlive.com/platform-overview/
+- type: x-github
+  url: https://github.com/addlive
+- type: x-twitter
+  url: https://twitter.com/getaddlive
+- type: x-website
+  url: http://live.com
+- type: x-website
+  url: http://www.addlive.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

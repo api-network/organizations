@@ -1,0 +1,26 @@
+---
+name: EPIC - Eclipse Perl Integration
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5516801"
+url: https://raw.githubusercontent.com/api-network/organizations/main/epic--eclipse-perl-integration.yaml
+tags:
+- Tools
+apis: []
+x-common:
+- type: x-forum
+  url: http://sourceforge.net/forum/?group_id=75859
+- type: x-github
+  url: https://github.com/jploski/epic-ide/
+- type: x-website
+  url: https://www.epic-ide.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

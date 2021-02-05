@@ -1,0 +1,98 @@
+---
+name: Multi-Paradigm
+description: A blog about multi-paradigm programming in C++.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/multiparadigm.yaml
+tags:
+- Personal Pages
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.blogger.com/profile/14715348728512729776
+- type: x-blog
+  url: https://yapb-soc.blogspot.com/
+- type: x-blog
+  url: https://yapb-soc.blogspot.com/2015/
+- type: x-blog
+  url: https://yapb-soc.blogspot.com/2015/02/
+- type: x-blog
+  url: https://yapb-soc.blogspot.com/2015/01/
+- type: x-blog
+  url: https://yapb-soc.blogspot.com/2014/
+- type: x-blog
+  url: https://yapb-soc.blogspot.com/2014/11/
+- type: x-blog
+  url: https://yapb-soc.blogspot.com/2014/02/
+- type: x-blog
+  url: https://yapb-soc.blogspot.com/2012/
+- type: x-blog
+  url: https://yapb-soc.blogspot.com/2012/12/
+- type: x-blog
+  url: https://yapb-soc.blogspot.com/2012/11/
+- type: x-blog
+  url: https://yapb-soc.blogspot.com/2012/10/
+- type: x-blog
+  url: https://yapb-soc.blogspot.com/2012/09/
+- type: x-blog
+  url: https://yapb-soc.blogspot.com/2012/08/
+- type: x-blog
+  url: https://yapb-soc.blogspot.com/2012/07/
+- type: x-blog
+  url: https://yapb-soc.blogspot.com/2012/06/
+- type: x-blog
+  url: https://yapb-soc.blogspot.com/search/label/monad
+- type: x-blog
+  url: https://yapb-soc.blogspot.com/search/label/algorithms
+- type: x-blog
+  url: https://yapb-soc.blogspot.com/search/label/c%2B%2B1y
+- type: x-blog
+  url: https://yapb-soc.blogspot.com/search/label/composition
+- type: x-blog
+  url: https://yapb-soc.blogspot.com/search/label/lambda
+- type: x-blog
+  url: https://yapb-soc.blogspot.com/search/label/Arrow
+- type: x-blog
+  url: https://yapb-soc.blogspot.com/search/label/C%2B%2B
+- type: x-blog
+  url: https://yapb-soc.blogspot.com/search/label/C%2B%2B11
+- type: x-blog
+  url: https://yapb-soc.blogspot.com/search/label/C%2B%2B14
+- type: x-blog
+  url: https://yapb-soc.blogspot.com/search/label/Kleisli
+- type: x-blog
+  url: https://yapb-soc.blogspot.com/search/label/clang
+- type: x-blog
+  url: https://yapb-soc.blogspot.com/search/label/functor
+- type: x-blog
+  url: https://yapb-soc.blogspot.com/search/label/gcc
+- type: x-blog
+  url: https://yapb-soc.blogspot.com/search/label/parsing
+- type: x-blog
+  url: https://www.blogger.com
+- type: x-feed
+  url: https://yapb-soc.blogspot.com/feeds/posts/default
+- type: x-github
+  url: https://github.com/splinterofchaos/fu
+- type: x-github
+  url: https://github.com/pfultz2/Fit/
+- type: x-github
+  url: https://github.com/beark/ftl
+- type: x-github
+  url: https://github.com/ericniebler/range-v3
+- type: x-github
+  url: http://pfultz2.github.io/Fit/doc/html/placeholders/
+- type: x-github
+  url: https://github.com/splinterofchaos/Pure
+- type: x-website
+  url: https://yapb-soc.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

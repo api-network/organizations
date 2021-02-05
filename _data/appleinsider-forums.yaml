@@ -1,0 +1,40 @@
+---
+name: AppleInsider Forums
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "11043"
+url: https://raw.githubusercontent.com/api-network/organizations/main/appleinsider-forums.yaml
+tags:
+- Chats And Forums
+apis: []
+x-common:
+- type: x-forum
+  url: https://forums.appleinsider.com/categories/genius-bar
+- type: x-forum
+  url: https://forums.appleinsider.com/categories/icloud
+- type: x-forum
+  url: https://forums.appleinsider.com/categories/iphone
+- type: x-forum
+  url: https://forums.appleinsider.com/categories/ipad
+- type: x-forum
+  url: https://forums.appleinsider.com/categories/apple-watch
+- type: x-forum
+  url: https://forums.appleinsider.com/categories/mac-os-x
+- type: x-forum
+  url: https://forums.appleinsider.com/categories/ios
+- type: x-forum
+  url: https://forums.appleinsider.com/categories/feedback
+- type: x-privacy
+  url: https://appleinsider.com/privacy/
+- type: x-website
+  url: https://forums.appleinsider.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

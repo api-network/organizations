@@ -1,0 +1,58 @@
+---
+name: Google AJAX Search API Blog
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6253495"
+url: https://raw.githubusercontent.com/api-network/organizations/main/google-ajax-search-api-blog.yaml
+tags:
+- Web APIs
+apis: []
+x-common:
+- type: x-blog
+  url: https://googleajaxsearchapi.blogspot.com/
+- type: x-blog
+  url: http://googleajaxsearchapi.blogspot.com/atom.xml
+- type: x-blog
+  url: https://www.blogger.com
+- type: x-code
+  url: http://googlecode.blogspot.com
+- type: x-code
+  url: https://code.google.com/apis/console/
+- type: x-code
+  url: http://code.google.com/apis/ajaxsearch/
+- type: x-code
+  url: http://code.google.com/apis/ajaxfeeds/
+- type: x-code
+  url: http://code.google.com/p/pubsubhubbub/
+- type: x-code
+  url: http://code.google.com/apis/feed/push/
+- type: x-code
+  url: http://code.google.com/labs/
+- type: x-code
+  url: http://code.google.com/p/t13n/
+- type: x-code
+  url: http://code.google.com/apis/ajaxsearch/terms.html
+- type: x-code
+  url: http://code.google.com/events/io/2010/
+- type: x-code
+  url: http://code.google.com/events/io/2010/officehours.html
+- type: x-code
+  url: http://code.google.com/apis/customsearch/
+- type: x-code
+  url: http://code.google.com/
+- type: x-documentation
+  url: http://code.google.com/apis/ajaxsearch/documentation/
+- type: x-feed
+  url: http://feeds.feedburner.com/blogspot/RBev
+- type: x-website
+  url: https://googleajaxsearchapi.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

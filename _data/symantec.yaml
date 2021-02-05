@@ -1,0 +1,32 @@
+---
+name: Symantec
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: ""
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/symantec.yaml
+tags:
+- Detection And Removal Tools
+apis: []
+x-common:
+- type: x-website
+  url: https://www.broadcom.com/support/security-center
+- type: x-blog
+  url: http://www.symantec.com/connect/symantec-blogs/symantec-security-response?inid=globalnav_scflyout_blogs
+- type: x-github
+  url: https://github.com/symantec
+- type: x-twitter
+  url: https://twitter.com/threatintel
+- type: x-website
+  url: https://www.symantec.com/
+- type: x-website
+  url: https://www.symantec.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

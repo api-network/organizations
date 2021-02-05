@@ -1,0 +1,67 @@
+---
+name: Delighted
+description: "Delighted uses Net Promoter Score to gather real feedback from your
+  customers \u2013 in minutes not weeks."
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/DelightedSlackbotDelightedSlackbot.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "26659"
+url: https://raw.githubusercontent.com/api-network/organizations/main/delighted.yaml
+tags:
+- Surveys
+- Have API
+- Feedback
+apis: []
+x-common:
+- type: x-website
+  url: https://delighted.com/
+- type: x-blog
+  url: https://blog.delighted.com/
+- type: x-blog
+  url: https://delighted.com/blog
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/delighted
+- type: x-developers
+  url: https://delighted.com/docs/api
+- type: x-email
+  url: privacy@delighted.com
+- type: x-email
+  url: legal@delighted.com
+- type: x-email
+  url: hello@delighted.com
+- type: x-embeddable
+  url: https://delighted.com/docs/api/web
+- type: x-facebook
+  url: https://www.facebook.com/delighted
+- type: x-github
+  url: https://github.com/delighted
+- type: x-integrations
+  url: https://delighted.com/our-integrations
+- type: x-pricing
+  url: https://delighted.com/pricing
+- type: x-privacy
+  url: https://delighted.com/privacy
+- type: x-security
+  url: https://delighted.com/security
+- type: x-support
+  url: https://help.delighted.com
+- type: x-support
+  url: https://help.delighted.com/collection/27-faq
+- type: x-support
+  url: https://help.delighted.com/category/357-projects
+- type: x-support
+  url: https://help.delighted.com/category/403-kiosk-guide
+- type: x-twitter
+  url: https://twitter.com/delighted
+- type: x-webhooks
+  url: https://delighted.com/docs/api/webhooks
+- type: x-website
+  url: https://delighted.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,40 @@
+---
+name: AMPSoft.net
+description: AMPsoft is a site in which you can find freeware utilities like AMP Font
+  Viewer, AMP WinOFF, MediaMenu or Cookie Monster and games like Continental
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "632296"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ampsoft-net.yaml
+tags:
+- Utilities
+- Screen Saver Control
+- MediaMenu
+- Hey Joe!
+- GemQuake
+- Games
+- Freeware
+- Fortunes
+- Developers
+- Cookie Monster
+- Continental
+- AMPsoft
+- AMP WinOFF
+- AMP Tile Viewer
+- AMP Font Viewer
+- AMP Calendar
+apis: []
+x-common:
+- type: x-support
+  url: http://www.techtv.com/callforhelp/
+- type: x-website
+  url: https://www.ampsoft.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

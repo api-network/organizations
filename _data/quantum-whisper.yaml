@@ -1,0 +1,46 @@
+---
+name: Quantum Whisper
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/quantum-whisper.yaml
+tags:
+- Rentable
+apis: []
+x-common:
+- type: x-about
+  url: https://www.quantumwhisper.com/about
+- type: x-blog
+  url: https://www.quantumwhisper.com/blog
+- type: x-contact
+  url: https://www.quantumwhisper.com/contact-us
+- type: x-linkedin
+  url: https://www.linkedin.com/company/382847
+- type: x-login
+  url: https://cloud.quantumwhisper.com/login
+- type: x-pricing
+  url: https://www.quantumwhisper.com/pricing
+- type: x-privacy
+  url: https://www.quantumwhisper.com/privacy-policy
+- type: x-security
+  url: https://www.quantumwhisper.com/security-safeguards
+- type: x-support
+  url: https://support.quantumwhisper.com
+- type: x-support
+  url: http://support.quantumwhisper.com
+- type: x-terms-of-service
+  url: https://www.quantumwhisper.com/terms-of-service
+- type: x-twitter
+  url: https://twitter.com/quantumwhisper
+- type: x-website
+  url: https://www.quantumwhisper.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

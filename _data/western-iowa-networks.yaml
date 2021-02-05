@@ -1,0 +1,47 @@
+---
+name: Western Iowa Networks
+description: Western Iowa Networks
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/western-iowa-networks.yaml
+tags:
+- Western Iowa Networks
+- DSL
+apis: []
+x-common:
+- type: x-website
+  url: http://www.westianet.com
+- type: x-about
+  url: http://westianet.com/about-us
+- type: x-careers
+  url: http://westianet.com/careers
+- type: x-code
+  url: http://tvonmyside.com/?zipcode=51401&memberid=TEL105
+- type: x-contact
+  url: http://westianet.com/contact-us
+- type: x-contact
+  url: http://www.westianet.com/contact-us
+- type: x-instagram
+  url: https://www.instagram.com/westianet/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/western-iowa-networks
+- type: x-privacy
+  url: http://westianet.com/privacy-policies
+- type: x-security
+  url: http://westianet.com/security-backup
+- type: x-support
+  url: http://westianet.com/help-desk
+- type: x-twitter
+  url: https://twitter.com/westianet
+- type: x-website
+  url: https://www.win-4-u.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

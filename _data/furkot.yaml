@@ -1,0 +1,80 @@
+---
+name: Furkot
+description: Schedule stops, find attractions, book hotels, share travel itineraries,
+  map routes. Plan your motorcycle ride, RV tour, car drive, bike track, backpacking
+  hike, family vacation, weekend outing. One planet, 6 continents, all roads
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28581-furkot-trips.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "377775"
+url: https://raw.githubusercontent.com/api-network/organizations/main/furkot.yaml
+tags:
+- Travel Plans
+- Profile
+- Motels
+- Marketplaces
+- Hotels
+- Have Swagger
+- Have OpenAPI
+- Have API Paths
+- Campgrounds
+- API Provider
+- Accommodations
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-website
+  url: https://trips.furkot.com
+- type: x-about
+  url: http://www.alessioatzeni.com/meteocons/#about
+- type: x-blog
+  url: https://blog.furkot.com
+- type: x-blog
+  url: https://blog.furkot.com/
+- type: x-developers
+  url: https://help.furkot.com/widgets/furkot-api.html
+- type: x-facebook
+  url: https://www.facebook.com/furkot
+- type: x-feed
+  url: https://help.furkot.com/feeds/all.xml
+- type: x-instagram
+  url: https://www.instagram.com/furkot.trips
+- type: x-open-source
+  url: http://www.openstreetmap.org/copyright
+- type: x-open-source
+  url: http://opendatacommons.org/licenses/odbl/
+- type: x-privacy
+  url: https://help.furkot.com/getting-started/privacy.html
+- type: x-support
+  url: https://help.furkot.com/
+- type: x-support
+  url: https://help.furkot.com/getting-started/tos.html
+- type: x-support
+  url: https://help.furkot.com/how-to/new-trip-wizard.html
+- type: x-support
+  url: https://help.furkot.com/how-to/reorder-stops.html
+- type: x-support
+  url: https://help.furkot.com/how-to/reverse.html
+- type: x-support
+  url: https://help.furkot.com/features/travel-mode.html
+- type: x-support
+  url: https://help.furkot.com/features/dive-sites.html
+- type: x-support
+  url: https://help.furkot.com/how-to/book-trip.html
+- type: x-support
+  url: https://help.furkot.com/getting-started/hotels.html
+- type: x-support
+  url: https://help.furkot.com
+- type: x-twitter
+  url: https://twitter.com/furkot
+- type: x-website
+  url: http://furkot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

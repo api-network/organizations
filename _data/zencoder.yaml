@@ -1,0 +1,89 @@
+---
+name: Zencoder
+description: Audio and video encoding/transcoding software as a service. Convert videos
+  online into web and mobile formats using our cloud encoding API.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/282_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "3"
+x-alexaRank: "422818"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zencoder.yaml
+tags:
+- Relative Data
+- Have OpenAPI
+- Have API Paths
+- Have API
+- Encoding
+apis: []
+x-common:
+- type: x-base
+  url: https://app.zencoder.com/api/
+- type: x-blog
+  url: http://blog.zencoder.com/
+- type: x-blog-rss
+  url: http://blog.zencoder.com/feed/
+- type: x-code
+  url: https://app.zencoder.com/signup/
+- type: x-code
+  url: https://www.brightcove.com/en/company/careers/open-positions#Engineering%20-%20Zencoder
+- type: x-code
+  url: https://app.zencoder.com/
+- type: x-code
+  url: https://app.zencoder.com/signup
+- type: x-code
+  url: http://blog.zencoder.com/2011/10/18/zencoder-benchmarked-2x-10x-faster-than-the-competition/
+- type: x-code
+  url: http://blog.zencoder.com/2011/12/02/how-zencoder-became-the-largest-cloud-transcoding-service-on-the-market/
+- type: x-code
+  url: http://blog.zencoder.com/feed/
+- type: x-code
+  url: http://blog.zencoder.com/
+- type: x-code
+  url: http://status.zencoder.com/
+- type: x-contact-form
+  url: https://zencoder.com/en/sales
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/zencoder
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/zencoder
+- type: x-developers
+  url: http://zencoder.com/api/
+- type: x-documentation
+  url: https://app.zencoder.com/docs
+- type: x-email
+  url: privacy@zencoder.com
+- type: x-error-codes
+  url: https://app.zencoder.com/docs/errors
+- type: x-facebook
+  url: http://www.facebook.com/zencoderinc
+- type: x-faq
+  url: https://app.zencoder.com/docs/faq
+- type: x-getting-started
+  url: https://app.zencoder.com/docs/guides/getting-started
+- type: x-github
+  url: https://github.com/zencoder
+- type: x-pricing
+  url: https://zencoder.com/en/file-transcoding/pricing#basic
+- type: x-pricing
+  url: https://zencoder.com/en/live-transcoding/pricing
+- type: x-privacy
+  url: https://www.brightcove.com/en/privacy
+- type: x-privacy
+  url: http://zencoder.com/privacy
+- type: x-registration
+  url: https://app.zencoder.com/signup
+- type: x-terms-of-service
+  url: http://zencoder.com/terms
+- type: x-twitter
+  url: https://twitter.com/zencoderinc
+- type: x-website
+  url: http://zencoder.com/
+- type: x-website
+  url: http://zencoder.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

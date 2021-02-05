@@ -1,0 +1,22 @@
+---
+name: City of Seattle 911
+description: City of Seattle, WA 911 data.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/city-of-seattle-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/city-of-seattle-911.yaml
+tags:
+- "911"
+apis: []
+x-common:
+- type: x-website
+  url: https://data.seattle.gov/Public-Safety/Seattle-Police-Department-911-Incident-Response/3k2p-39jp
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

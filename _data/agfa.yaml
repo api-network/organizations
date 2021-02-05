@@ -1,0 +1,54 @@
+---
+name: Agfa
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "397554"
+url: https://raw.githubusercontent.com/api-network/organizations/main/agfa.yaml
+tags:
+- Manufacturers
+apis: []
+x-common:
+- type: x-about
+  url: https://www.agfa.com/corporate/about-us/
+- type: x-about
+  url: https://www.agfa.com/corporate/about-us/our-company/
+- type: x-about
+  url: https://www.agfa.com/corporate/about-us/technology/
+- type: x-about
+  url: https://www.agfa.com/corporate/about-us/history/
+- type: x-careers
+  url: http://careers.agfa.com#new_tab
+- type: x-careers
+  url: https://careers.agfa.com
+- type: x-contact
+  url: https://www.agfa.com/corporate/contact/
+- type: x-contact
+  url: https://www.agfagraphics.com/global/en/contact-us.html
+- type: x-contact
+  url: https://medimg.agfa.com/main/contact/
+- type: x-contact
+  url: https://global.agfahealthcare.com/main/contact/
+- type: x-contact
+  url: https://www.agfa.com/specialty-products/contact/
+- type: x-investor
+  url: https://www.agfa.com/corporate/investor-relations/
+- type: x-news
+  url: https://www.agfa.com/printing/newspaper/
+- type: x-press
+  url: https://www.agfa.com/corporate/press/
+- type: x-security
+  url: https://www.agfa.com/printing/security/
+- type: x-support
+  url: https://www.agfa.com/corporate/support/msds/
+- type: x-website
+  url: https://www.agfa.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

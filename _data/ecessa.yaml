@@ -1,0 +1,58 @@
+---
+name: Ecessa
+description: "Ecessa SD-WAN creates Never Down\xAE networks that simply do not fail.
+  We guarantee uptime and keep our clients\u2019 businesses growing. Visit our website
+  to learn more."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1929454"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ecessa.yaml
+tags:
+- Load Balancing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ecessa.com
+- type: x-about
+  url: https://www.ecessa.com/about/
+- type: x-blog
+  url: https://www.ecessa.com/blog/
+- type: x-careers
+  url: https://www.ecessa.com/careers/
+- type: x-case-studies
+  url: https://www.ecessa.com/case-studies/
+- type: x-contact
+  url: https://www.ecessa.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/Ecessa
+- type: x-instagram
+  url: https://www.instagram.com/ecessa_sdwan/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/ecessa-corporation
+- type: x-news
+  url: https://www.ecessa.com/news-events/
+- type: x-partner
+  url: https://www.ecessa.com/partners/
+- type: x-privacy
+  url: https://www.ecessa.com/privacy-policy/
+- type: x-security
+  url: https://www.ecessa.com/security/
+- type: x-security
+  url: https://www.ecessa.com/security-compliance/
+- type: x-support
+  url: https://support.ecessa.com/hc/en-us
+- type: x-terms-of-service
+  url: https://www.ecessa.com/terms-and-conditions/
+- type: x-twitter
+  url: https://twitter.com/Ecessa
+- type: x-website
+  url: https://www.ecessa.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

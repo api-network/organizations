@@ -1,0 +1,36 @@
+---
+name: Canonical Ltd.
+description: Canonical publishes Ubuntu, provides commercial services and solutions
+  for Ubuntu, and works with hardware manufacturers, software vendors and public clouds
+  to certify Ubuntu.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "153417"
+url: https://raw.githubusercontent.com/api-network/organizations/main/canonical-ltd-.yaml
+tags:
+- Ubuntu
+apis: []
+x-common:
+- type: x-website
+  url: http://www.canonical.com
+- type: x-open-source
+  url: https://ubuntu.com/openstack
+- type: x-security
+  url: https://ubuntu.com/security
+- type: x-terms-of-service
+  url: https://ubuntu.com/legal
+- type: x-twitter
+  url: https://twitter.com/Canonical
+- type: x-website
+  url: https://www.canonical.com
+- type: x-youtube
+  url: https://www.youtube.com/user/celebrateubuntu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

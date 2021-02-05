@@ -1,0 +1,53 @@
+---
+name: Chatstack
+description: Live Chat software for customer support and sales. Instantly engage and
+  chat with your visitors, real-time web site monitoring.  Increase your sales and
+  conversions.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "558627"
+url: https://raw.githubusercontent.com/api-network/organizations/main/chatstack.yaml
+tags:
+- Scripts
+- PHP Live Support
+- Php Live Help
+- Php Live Chat
+- Live Support
+- Live Help Software
+- Live Chat Software
+- Help Desk Software
+apis: []
+x-common:
+- type: x-website
+  url: http://www.chatstack.com
+- type: x-about
+  url: https://www.chatstack.com/about
+- type: x-blog
+  url: https://www.chatstack.com/blog/
+- type: x-contact
+  url: https://www.chatstack.com/contact
+- type: x-developer
+  url: https://www.chatstack.com/api/
+- type: x-login
+  url: https://www.chatstack.com/#signin
+- type: x-open-source
+  url: https://www.opencart.com
+- type: x-press
+  url: https://wordpress.com
+- type: x-pricing
+  url: https://www.chatstack.com/pricing
+- type: x-privacy
+  url: https://www.chatstack.com/privacy
+- type: x-twitter
+  url: https://www.twitter.com/stardevelop
+- type: x-website
+  url: https://www.chatstack.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

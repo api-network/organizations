@@ -1,0 +1,63 @@
+---
+name: Both Worlds Software
+description: Top time & billing software for accountants for 20+ years. ImagineTime
+  is a practice management and client portal software helping CPAs create efficiency
+  and improve your bottom line.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2154184"
+url: https://raw.githubusercontent.com/api-network/organizations/main/both-worlds-software.yaml
+tags:
+- Time And Billing Software For Accountants
+- Time & Billing Software
+- Practice Management Software For CPAs
+- Imaginetime
+- Imagine Time
+- CPA Time & Billing
+- CPA
+- Client Portal Software For CPAs
+- Billing
+- Accountants Time & Billing Software
+apis: []
+x-common:
+- type: x-website
+  url: http://imaginetime.com
+- type: x-about
+  url: https://www.imaginetime.com/about-us/
+- type: x-blog
+  url: https://www.imaginetime.com/blog/
+- type: x-contact
+  url: https://www.imaginetime.com/contact-us/
+- type: x-customers
+  url: https://www.imaginetime.com/customers/
+- type: x-facebook
+  url: https://www.facebook.com/ImagineTime/
+- type: x-instagram
+  url: https://www.instagram.com/imaginetimesoftware/
+- type: x-integrations
+  url: https://www.imaginetime.com/integrations-overview/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/imaginetime-inc/
+- type: x-pricing
+  url: https://www.imaginetime.com/pricing/
+- type: x-privacy
+  url: https://www.imaginetime.com/privacy-policy/
+- type: x-support
+  url: https://imaginetime.freshdesk.com/support/home
+- type: x-terms-of-service
+  url: https://www.imaginetime.com/legal-software/
+- type: x-twitter
+  url: https://twitter.com/imaginetimesw
+- type: x-website
+  url: https://www.imaginetime.com
+- type: x-youtube
+  url: https://www.youtube.com/user/ImagineTimeSW/videos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,93 @@
+---
+name: Shellprox Hosting Services
+description: 'IRC Shell Account Provider: Stable and Affordable IRC Hosting at Reasonable
+  Cost!'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/shellprox-hosting-services.yaml
+tags:
+- ZNC Shells
+- ZNC Shell Accounts
+- ZNC Proxy
+- ZNC Hosting
+- ZNC Bouncer
+- ZNC Accounts
+- ZNC
+- Vhosts
+- Vhost
+- UNIX Shells
+- Unix Shell Providers
+- UNIX Shell Hosting
+- UNIX Shell Accounts
+- UNIX Shell
+- Stable
+- SSH
+- Shell Providers
+- Shell Hosting
+- Shell Accounts
+- PsyBNC Shells
+- PsyBNC Shell Accounts
+- PsyBNC Proxy
+- PsyBNC Hosting
+- PsyBNC Accounts
+- Psybnc
+- Proxy Accounts
+- Proxy
+- PayPal
+- IRCd Shells
+- IRCd Shell Accounts
+- Ircd Hosting
+- IRCd Accounts
+- IRCd
+- IRC Shells
+- IRC Shell Accounts
+- IRC Shell
+- Irc Hosting
+- IRC Bouncer
+- IRC Bot
+- IRC Accounts
+- Ips
+- Ip
+- Eggdrop Shells
+- Eggdrop Shell Accounts
+- Eggdrop Hosting
+- Eggdrop Accounts
+- Eggdrop
+- Daemons
+- Daemon
+- Custom
+- Crontab
+- Cheap Shells
+- Cheap Shell Accounts
+- Cheap Hosting
+- Bouncer Shells
+- Bouncer Shell Accounts
+- Bouncer Hosting
+- Bouncer Accounts
+- Bouncer
+- Bot Shells
+- Bot Shell Accounts
+- Bot Hosting
+- Bot Accounts
+- BNC Shells
+- BNC Shell Accounts
+- BNC Proxy
+- BNC Hosting
+- BNC Accounts
+- Bnc
+- Bitchx
+- Access
+apis: []
+x-common:
+- type: x-website
+  url: https://www.shellprox.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

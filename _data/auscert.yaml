@@ -1,0 +1,46 @@
+---
+name: AusCERT
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1580845"
+url: https://raw.githubusercontent.com/api-network/organizations/main/auscert.yaml
+tags:
+- Conferences
+apis: []
+x-common:
+- type: x-website
+  url: http://www.auscert.org.au/
+- type: x-about
+  url: https://auscert-conference.lndo.site/about/
+- type: x-code
+  url: https://auscert-conference.lndo.site/code-of-conduct/
+- type: x-contact
+  url: https://conference.auscert.org.au/contact/
+- type: x-contact
+  url: https://auscert-conference.lndo.site/contact/
+- type: x-events
+  url: https://conference.auscert.org.au/events-networking/
+- type: x-facebook
+  url: https://www.facebook.com/AusCERT
+- type: x-linkedin
+  url: https://www.linkedin.com/company/auscert/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/58100
+- type: x-self-service-registration
+  url: https://gems.eventsair.com/auscert2020/register
+- type: x-self-service-registration
+  url: https://gems.eventsair.com/auscert2020/register/Site
+- type: x-twitter
+  url: https://twitter.com/AusCERT
+- type: x-website
+  url: https://conference.auscert.org.au
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,85 @@
+---
+name: engadget.com
+description: Engadget is the original home for technology news and reviews. Since
+  its founding in 2004, we've grown from an exhaustive source for consumer tech news
+  to a global multimedia organization covering the intersection of technology, gaming
+  and entertainment.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/20636-engadget-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "930"
+url: https://raw.githubusercontent.com/api-network/organizations/main/engadget-com.yaml
+tags:
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.engadget.com
+- type: x-about
+  url: https://www.engadget.com/about/
+- type: x-about
+  url: https://www.engadget.com/about-our-advertising/
+- type: x-about
+  url: https://www.engadget.com/about/advertise/
+- type: x-about
+  url: https://www.engadget.com/about/buyers-guide/
+- type: x-about
+  url: https://www.engadget.com/about/tips/
+- type: x-about
+  url: https://www.engadget.com/about/support/
+- type: x-about
+  url: https://www.engadget.com/about/advertise
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/engadget
+- type: x-email
+  url: advertise@engadget.com
+- type: x-email
+  url: amber@engadget.com
+- type: x-email
+  url: andrew.tarantola@engadget.com
+- type: x-email
+  url: cherlynn.low@engadget.com
+- type: x-email
+  url: david.lumb@engadget.com
+- type: x-email
+  url: devindra@engadget.com
+- type: x-email
+  url: jon.turi@engadget.com
+- type: x-email
+  url: mat@engadget.com
+- type: x-email
+  url: nathan@engadget.com
+- type: x-email
+  url: nicole@engadget.com
+- type: x-curated-source
+  url: http://www.engadget.com/2016/05/05/disney-research-em-id/
+- type: x-website
+  url: http://engadget.com
+- type: x-facebook
+  url: https://www.facebook.com/engadget
+- type: x-forum
+  url: https://aol.uservoice.com/forums/917323
+- type: x-instagram
+  url: https://instagram.com/engadget
+- type: x-linkedin
+  url: https://www.linkedin.com/company/101421
+- type: x-open-source
+  url: https://open.spotify.com/show/07HhLnHxF9DjSPSpepDiD0
+- type: x-security
+  url: https://www.engadget.com/tags/security
+- type: x-terms-of-service
+  url: http://legal.aol.com/trademarks/
+- type: x-twitter
+  url: https://twitter.com/engadget
+- type: x-website
+  url: https://www.engadget.com
+- type: x-youtube
+  url: https://www.youtube.com/engadget
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

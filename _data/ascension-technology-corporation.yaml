@@ -1,0 +1,42 @@
+---
+name: Ascension Technology Corporation
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5098640"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ascension-technology-corporation.yaml
+tags:
+- Animation
+apis: []
+x-common:
+- type: x-about
+  url: https://www.ndigital.com/about/
+- type: x-about
+  url: https://www.ndigital.com/medical/about/
+- type: x-about
+  url: https://www.ndigital.com/about/patents/
+- type: x-careers
+  url: https://www.ndigital.com/careers/
+- type: x-careers
+  url: https://www.ndigital.com/category/jobs/
+- type: x-contact
+  url: https://www.ndigital.com/contact/
+- type: x-contact
+  url: http://www.ndigital.com/contact/
+- type: x-privacy
+  url: https://www.ndigital.com/privacy-policy/
+- type: x-support
+  url: http://support.ndigital.com/
+- type: x-support
+  url: https://support.ndigital.com/
+- type: x-website
+  url: https://www.ascension-tech.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

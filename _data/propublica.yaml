@@ -1,0 +1,54 @@
+---
+name: ProPublica
+description: 'A Pulitzer-winning, non-profit newsroom focused on investigative journalism
+  in the public interest. We are independent and funded largely through donations.
+  For more information, please see: http://www.propublica.org/about'
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1466-propublica.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "16709"
+url: https://raw.githubusercontent.com/api-network/organizations/main/propublica.yaml
+tags:
+- Profile
+- Politics
+- Have API
+- Death
+- Coroner
+apis: []
+x-common:
+- type: x-website
+  url: http://projects.propublica.org/forensics/api
+- type: x-website
+  url: http://www.propublica.org/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/propublica
+- type: x-email
+  url: feedback@propublica.org
+- type: x-email
+  url: Minhee.Cho@propublica.org
+- type: x-email
+  url: illinois@propublica.org
+- type: x-email
+  url: tips@propublica.org
+- type: x-email
+  url: media@propublica.org
+- type: x-email
+  url: mick.dumke@propublica.org
+- type: x-email
+  url: talia.buford@propublica.org
+- type: x-email
+  url: hello@propublica.org
+- type: x-facebook
+  url: https://www.facebook.com/propublica
+- type: x-feed
+  url: http://feeds.propublica.org/propublica/main
+- type: x-twitter
+  url: https://twitter.com/ProPublica
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

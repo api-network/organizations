@@ -1,0 +1,30 @@
+---
+name: ANUJ Technologies
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "795596"
+url: https://raw.githubusercontent.com/api-network/organizations/main/anuj-technologies.yaml
+tags:
+- Software Development
+apis: []
+x-common:
+- type: x-about
+  url: https://www.anuj.com/about/
+- type: x-contact
+  url: https://www.anuj.com/contact/
+- type: x-news
+  url: https://www.anuj.com/newsletter-archives/
+- type: x-security
+  url: https://www.anuj.com/aws-gcp-azure-security-audit/
+- type: x-website
+  url: https://www.anuj.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

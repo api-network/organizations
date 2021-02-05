@@ -1,0 +1,32 @@
+---
+name: Acorn Systems
+description: Focused on 100% Customer Success
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/acorn-systems.yaml
+tags:
+- Cost Allocation
+apis: []
+x-common:
+- type: x-about
+  url: http://ignitetech.com/about/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/ignite-technologies/
+- type: x-privacy
+  url: http://ignitetech.com/privacy/
+- type: x-support
+  url: https://support.ignitetech.com
+- type: x-terms-of-service
+  url: http://ignitetech.com/legal/
+- type: x-website
+  url: https://www.acornsys.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

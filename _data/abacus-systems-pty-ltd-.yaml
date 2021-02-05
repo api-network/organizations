@@ -1,0 +1,50 @@
+---
+name: Abacus Systems Pty Ltd.
+description: Affordable and configurable Service Desk and Help Desk solutions. Free
+  trial available.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/abacus-systems-pty-ltd-.yaml
+tags:
+- Workflow
+- Work Order
+- SLA
+- Service Level Agreement
+- Service Desk
+- Response
+- Problem Management
+- Knowledgebase
+- ITSM
+- ITIL
+- IT Services Management
+- IT Help Desk
+- Issue Tracking
+- Issue Management
+- Incident Management
+- Helpdesk
+- Help Desk
+- Field Service Management
+- FAQ
+- Defect Tracking
+- Customer Support
+- CRM
+- Configuration Management
+- Compliance Tracking
+- Change Management
+- Case Management
+- Call Centre
+- Asset Management
+apis: []
+x-common:
+- type: x-website
+  url: https://www.abacus-systems.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

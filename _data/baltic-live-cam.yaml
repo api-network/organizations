@@ -1,0 +1,41 @@
+---
+name: Baltic Live Cam
+description: Baltic Live Cam is the biggest webcam live stream online provider in
+  the Baltic region. Free reallifecam website for webcams, event streaming, TV streaming.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "125525"
+url: https://raw.githubusercontent.com/api-network/organizations/main/baltic-live-cam.yaml
+tags:
+- Outdoors
+apis: []
+x-common:
+- type: x-website
+  url: http://www.balticlivecam.com
+- type: x-about
+  url: https://balticlivecam.com/about/
+- type: x-blog
+  url: https://balticlivecam.com/blog/
+- type: x-contact
+  url: https://balticlivecam.com/contacts/
+- type: x-facebook
+  url: https://www.facebook.com/Balticlivecam/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/baltic-live-cam
+- type: x-news
+  url: https://balticlivecam.com/news/
+- type: x-privacy
+  url: https://balticlivecam.com/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/balticlivecam
+- type: x-website
+  url: https://balticlivecam.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

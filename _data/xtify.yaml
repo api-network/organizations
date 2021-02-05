@@ -1,0 +1,43 @@
+---
+name: Xtify
+description: For more than a century IBM has been dedicated to every client's success
+  and to creating innovations that matter for the world
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/xtify-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "2"
+x-alexaRank: "613"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xtify.yaml
+tags:
+- Telecommunications
+- Profile
+- Notifications
+- Locations
+- Have API
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.xtify.com
+- type: x-blog-rss
+  url: http://blog.xtify.com/feeds/posts/default?alt=rss
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/ibm
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/xtify
+- type: x-email
+  url: NETSUPP@us.ibm.com
+- type: x-github
+  url: https://github.com/Xtify
+- type: x-twitter
+  url: https://twitter.com/#!/xtify
+- type: x-twitter
+  url: https://twitter.com/IBM
+- type: x-website
+  url: http://developer.xtify.com/dashboard.action
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

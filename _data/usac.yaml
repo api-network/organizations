@@ -1,0 +1,50 @@
+---
+name: USAC
+description: Universal Service Programs    With the guidance of policy created by
+  the FCC, we collect and deliver funding through four programs focused on places
+  where broadband and connectivity needs are critical. These programs serve people
+  in rural, underserved,...
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28842-data-usac-org.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "268263"
+url: https://raw.githubusercontent.com/api-network/organizations/main/usac.yaml
+tags:
+- Telecommunications
+- ISP
+apis: []
+x-common:
+- type: x-website
+  url: http://www.usac.org
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/universal-service-administrative-company
+- type: x-email
+  url: privacy@usac.org
+- type: x-email
+  url: WebFeedback@usac.org
+- type: x-email
+  url: hccerts@usac.org
+- type: x-email
+  url: rhc-assist@usac.org
+- type: x-email
+  url: form499@usac.org
+- type: x-email
+  url: collections@usac.org
+- type: x-email
+  url: customersupport@usac.org
+- type: x-email
+  url: FINOPS-Processing@usac.org
+- type: x-email
+  url: hcappeals@usac.org
+- type: x-twitter
+  url: https://twitter.com/USACoutreach
+- type: x-website
+  url: https://data.usac.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

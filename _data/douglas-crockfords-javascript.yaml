@@ -1,0 +1,34 @@
+---
+name: Douglas Crockford's JavaScript
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "304240"
+url: https://raw.githubusercontent.com/api-network/organizations/main/douglas-crockfords-javascript.yaml
+tags:
+- People
+apis: []
+x-common:
+- type: x-blog
+  url: http://www.yuiblog.com/
+- type: x-blog
+  url: http://yuiblog.com/blog/2006/06/01/global-domination/
+- type: x-blog
+  url: http://yuiblog.com/blog/2006/09/26/for-in-intrigue/
+- type: x-blog
+  url: https://www.crockford.com/blog.html
+- type: x-code
+  url: https://www.crockford.com/code.html
+- type: x-support
+  url: http://www.JSLint.com/help.html
+- type: x-website
+  url: https://javascript.crockford.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,63 @@
+---
+name: www.EVDOinfo.com
+description: 5Gstore is the leader in wireless, cellular, and networking solutions
+  from antennas and amplifiers to failover routers and m2m gateways.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/www-evdoinfo-com.yaml
+tags:
+- Wilson
+- SureCall
+- Peplink
+- IP Switches
+- IP Power Switch
+- CradlePoint
+- CloudCam
+- 4G Routers
+- 4G Antennas
+- 4G Amplifiers
+- 3G
+apis: []
+x-common:
+- type: x-blog
+  url: http://5gstore.com/blog
+- type: x-blog
+  url: https://5gstore.com/blog
+- type: x-careers
+  url: https://5gstore.com/page/163_jobs.html
+- type: x-contact
+  url: https://5gstore.com/site/contact_us.html
+- type: x-developer
+  url: http://dev.evdoinfo.com
+- type: x-facebook
+  url: http://www.facebook.com/the5Gstore
+- type: x-feed
+  url: https://5gstore.com/site/feedback.html
+- type: x-feed
+  url: https://5gstore.com/site/support_feed.html
+- type: x-login
+  url: https://5gstore.com/site/login.html
+- type: x-press
+  url: https://5gstore.com/press
+- type: x-privacy
+  url: https://5gstore.com/site/privacy.html
+- type: x-support
+  url: https://5gstore.com/site/support.html
+- type: x-twitter
+  url: http://twitter.com/3GCustomerSvc
+- type: x-website
+  url: https://www.evdoinfo.com
+- type: x-youtube
+  url: http://www.youtube.com/user/3Gstore
+- type: x-youtube
+  url: http://youtube.com/user/3Gstore
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

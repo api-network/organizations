@@ -1,0 +1,50 @@
+---
+name: PerfectPatients
+description: Perfect Patients chiropractic website designs and marketing services
+  deliver results - more new patients choosing you as their chiropractor! Contact
+  us today to find out how you can grow your practice using the Internet.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "446513"
+url: https://raw.githubusercontent.com/api-network/organizations/main/perfectpatients.yaml
+tags:
+- Health And Medical
+apis: []
+x-common:
+- type: x-about
+  url: https://www.perfectpatients.com/about-us/
+- type: x-blog
+  url: https://www.perfectpatients.com/blog/
+- type: x-careers
+  url: https://www.perfectpatients.com/about-us/careers/
+- type: x-contact
+  url: https://www.perfectpatients.com/contact-support/
+- type: x-facebook
+  url: https://www.facebook.com/Perfect.Patients
+- type: x-linkedin
+  url: https://www.linkedin.com/company/perfect-patients
+- type: x-logos
+  url: https://www.perfectpatients.com/chiropractic-logos/
+- type: x-news
+  url: https://www.perfectpatients.com/practice-newsletters/
+- type: x-plans
+  url: https://www.perfectpatients.com/plans-pricing/
+- type: x-privacy
+  url: https://www.perfectpatients.com/privacy-policy/
+- type: x-support
+  url: https://www.perfectpatients.com/unlimited-support/
+- type: x-terms-of-service
+  url: https://www.perfectpatients.com/legal/
+- type: x-twitter
+  url: https://twitter.com/perfectpatients
+- type: x-website
+  url: https://www.perfectpatients.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

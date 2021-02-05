@@ -1,0 +1,31 @@
+---
+name: JRA On-Site Computer Repair
+description: McDonough computer repair, spyware removal, network setup, McDonough
+  computer repair, virus repair, McDonough, McDonough, Stockbridge!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jra-onsite-computer-repair.yaml
+tags:
+- Windows
+- Virus Repair
+- Spyware Removal
+- Network Setup
+- Microsoft
+- Michigan
+- McDonough Computer Service
+- McDonough Computer Repair
+- Data Recovery
+apis: []
+x-common:
+- type: x-website
+  url: https://www.jracomputer.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

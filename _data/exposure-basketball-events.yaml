@@ -1,0 +1,65 @@
+---
+name: Exposure Basketball Events
+description: Register today for our youth basketball event directory and youth basketball
+  tournament and league management software that include online registration and payments,
+  real-time results, standings, schedules and brackets, game notifications, branded
+  apps and much more.
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "196475"
+url: https://raw.githubusercontent.com/api-network/organizations/main/exposure-basketball-events.yaml
+tags:
+- XML
+- Widgets
+- Sports
+- Scoresheets
+- Scheduling
+- Profile
+- Messaging System
+- JSON
+- Has API
+- Basketball
+- API Key
+apis: []
+x-common:
+- type: x-about
+  url: https://basketball.exposureevents.com/about
+- type: x-contact-form
+  url: https://basketball.exposureevents.com/contact-us
+- type: x-documentation
+  url: https://basketball.exposureevents.com/api
+- type: x-events
+  url: http://support.exposureevents.com
+- type: x-facebook
+  url: https://facebook.com/exposurebasketballevents
+- type: x-getting-started
+  url: https://basketball.exposureevents.com/api/getting-started
+- type: x-instagram
+  url: https://instagram.com/exposurebasketball
+- type: x-login
+  url: https://basketball.exposureevents.com/login
+- type: x-pricing
+  url: https://basketball.exposureevents.com/pricing
+- type: x-privacy
+  url: https://basketball.exposureevents.com/privacy-policy
+- type: x-support
+  url: https://support.exposureevents.com/hc/en-us
+- type: x-terms-of-service
+  url: https://basketball.exposureevents.com/terms-of-service
+- type: x-twitter
+  url: https://twitter.com/exposurebball
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-website
+  url: http://basketball.exposureevents.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=G8GCMOK2lPU
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,44 @@
+---
+name: Voice Elements
+description: Voice Elements, powered by Inventive Labs offers programmable SMS & Voice.
+  Either cloud or premise based. From simple SMS to complex call center applications,
+  the Voice Elements team will quickly get you into production.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/voice-elements.yaml
+tags:
+- Telephony
+apis: []
+x-common:
+- type: x-about
+  url: https://www.voiceelements.com/about/
+- type: x-contact
+  url: https://www.voiceelements.com/contact/
+- type: x-feed
+  url: https://www.voiceelements.com/feed/
+- type: x-news
+  url: https://www.voiceelements.com/news/
+- type: x-press
+  url: http://www.wordpress.org
+- type: x-pricing
+  url: https://www.voiceelements.com/cloud-pricing/
+- type: x-pricing
+  url: https://www.voiceelements.com/premise-pricing/
+- type: x-pricing
+  url: https://www.voiceelements.com/sms-pricing/
+- type: x-privacy
+  url: https://www.voiceelements.com/privacy/
+- type: x-support
+  url: https://www.voiceelements.com/support/
+- type: x-website
+  url: https://www.voiceelements.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

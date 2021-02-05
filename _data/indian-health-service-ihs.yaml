@@ -1,0 +1,105 @@
+---
+name: Indian Health Service (IHS)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/indian-health-service-ihs.yaml
+tags:
+- Indianhealthservices
+- Indianhealthservice
+- Indian Health
+- Ihs
+- HHS
+- Federal Government
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ihs.gov/
+- type: x-facebook
+  url: https://www.facebook.com/IndianHealthServiceHealthProfessionsRecruitment/
+- type: x-facebook
+  url: http://facebook.com/IndianHealthService
+- type: x-facebook
+  url: https://www.facebook.com/WagnerIndianHealthService/
+- type: x-facebook
+  url: https://www.facebook.com/YakamaIHS
+- type: x-facebook
+  url: https://www.facebook.com/WWKMHCIHS
+- type: x-facebook
+  url: https://www.facebook.com/WindRiverIndianHealthService
+- type: x-facebook
+  url: https://www.facebook.com/WhiteriverIhsHospital
+- type: x-facebook
+  url: https://www.facebook.com/WhiteEarthIndianHealthService
+- type: x-facebook
+  url: https://www.facebook.com/WewokaIHS
+- type: x-facebook
+  url: https://www.facebook.com/WarmSpringsIHS
+- type: x-facebook
+  url: https://www.facebook.com/FortDuchesne
+- type: x-facebook
+  url: https://www.facebook.com/Standing-Rock-Indian-Health-Service-1524859007802663/
+- type: x-facebook
+  url: https://www.facebook.com/ShiprockServiceUnit
+- type: x-facebook
+  url: https://www.facebook.com/pimcihs
+- type: x-facebook
+  url: https://www.facebook.com/MicmacIHS/
+- type: x-facebook
+  url: https://www.facebook.com/MescaleroIHS
+- type: x-facebook
+  url: https://www.facebook.com/LawtonIHS
+- type: x-facebook
+  url: https://www.facebook.com/JicarillaIHS
+- type: x-facebook
+  url: https://www.facebook.com/FortPeckIndianHealthService/
+- type: x-facebook
+  url: https://www.facebook.com/EagleButteIHS
+- type: x-facebook
+  url: https://www.facebook.com/ColvilleIndianHealthService/
+- type: x-facebook
+  url: https://www.facebook.com/ClintonIHS/
+- type: x-facebook
+  url: https://www.facebook.com/ChinleHealthCare/
+- type: x-facebook
+  url: https://www.facebook.com/ChemawaIndianHealthService
+- type: x-facebook
+  url: https://www.facebook.com/CatawbaIHS/
+- type: x-facebook
+  url: https://www.facebook.com/BlackfeetIHS/
+- type: x-facebook
+  url: https://www.facebook.com/AcomaCanoncitoLagunaIHS
+- type: x-facebook
+  url: https://www.facebook.com/TucsonAreaIHS
+- type: x-facebook
+  url: https://www.facebook.com/ocaihs
+- type: x-facebook
+  url: https://www.facebook.com/IHSNAO/
+- type: x-facebook
+  url: https://www.facebook.com/GreatPlainsAreaIHS
+- type: x-facebook
+  url: https://www.facebook.com/BillingsAreaIndianHealthService
+- type: x-facebook
+  url: https://www.facebook.com/IHSAlbuquerque
+- type: x-facebook
+  url: https://www.facebook.com/IHSScholarshipProgram/
+- type: x-facebook
+  url: https://www.facebook.com/Indian-Health-Service-Pharmacists-145617032177794/
+- type: x-facebook
+  url: https://www.facebook.com/IHSBehavioralHealth
+- type: x-facebook
+  url: https://www.facebook.com/RedLakeIHS/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/indian-health-service
+- type: x-twitter
+  url: https://twitter.com/IHS_Jobs
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,40 @@
+---
+name: Director @ Night
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/director--night.yaml
+tags:
+- Weblogs
+apis: []
+x-common:
+- type: x-about
+  url: https://www.directoratnight.com/about/
+- type: x-blog
+  url: http://blogs.adobe.com/shockwaves/
+- type: x-blog
+  url: http://www.graphicpush.com/blogicons/
+- type: x-forum
+  url: http://www.directorforum.com/showthread.php?t=6824
+- type: x-forum
+  url: http://forums.adobe.com/thread/555135
+- type: x-forum
+  url: http://www.directorforum.com/
+- type: x-press
+  url: http://www.wordpress.org/
+- type: x-tutorials
+  url: http://www.deansdirectortutorials.com/
+- type: x-twitter
+  url: http://twitter.com/DirectorAtNight
+- type: x-website
+  url: https://www.directoratnight.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

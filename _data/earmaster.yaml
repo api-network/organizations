@@ -1,0 +1,47 @@
+---
+name: EarMaster
+description: Music theory and ear training software on PC, Mac and iPad. A complete
+  method to become a better musician. NAMM TEC Awards nominee.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "224115"
+url: https://raw.githubusercontent.com/api-network/organizations/main/earmaster.yaml
+tags:
+- Theory And Ear Training
+- Theory
+- Solfege
+- Software
+- Sight-reading
+- Sigh-singing
+- Rhythm
+- Music
+- Jazz
+- Ear Training
+- App
+apis: []
+x-common:
+- type: x-website
+  url: http://www.earmaster.com
+- type: x-facebook
+  url: http://www.facebook.com/earmaster
+- type: x-privacy
+  url: https://www.earmaster.com/privacy-policy.html
+- type: x-signup
+  url: https://cloud.earmaster.com/ssignup
+- type: x-support
+  url: https://www.earmaster.com/support/support-portal.html
+- type: x-twitter
+  url: http://www.twitter.com/earmaster
+- type: x-website
+  url: https://www.earmaster.com
+- type: x-youtube
+  url: https://www.youtube.com/c/EarTrainingForMusicians
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

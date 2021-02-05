@@ -1,0 +1,29 @@
+---
+name: ContextMagic.com
+description: Quick launch tool providing fast one-click access to the hierarchical
+  list of favorite programs, documents and folders. A small picture viewer providing
+  image files preview directly in the right-click menu. A tiny image viewer that displays
+  image thumbnails in a tooltip window next to the mouse pointer. A Windows Explorer
+  context menu extension that greatly extends functionality of the standard Send To
+  menu. A Windows shell infotip extension that displays extra data stored in the tag
+  fields of MP3, WMA and Ogg Vorbis files.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2420710"
+url: https://raw.githubusercontent.com/api-network/organizations/main/contextmagic-com.yaml
+tags:
+- Viewers
+- Music And Audio
+apis: []
+x-common:
+- type: x-website
+  url: https://www.contextmagic.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

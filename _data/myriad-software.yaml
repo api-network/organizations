@@ -1,0 +1,30 @@
+---
+name: Myriad Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/myriad-software.yaml
+tags:
+- Industry-Specific
+apis: []
+x-common:
+- type: x-contact
+  url: https://myriadsoftware.com/contact-us
+- type: x-contact
+  url: https://www.myriadsoftware.com/contact-us/
+- type: x-support
+  url: http://support.myriadsoftware.com/account/logon
+- type: x-support
+  url: https://www.myriadsoftware.com/support/
+- type: x-website
+  url: https://www.myriadsoftware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

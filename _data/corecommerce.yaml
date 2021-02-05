@@ -1,0 +1,70 @@
+---
+name: CoreCommerce
+description: CoreCommerce eCommerce Store builds your online presence & creates a
+  store with a new look & easy navigation, all automatically linked to the shopping
+  cart.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/743_logo..png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "240063"
+url: https://raw.githubusercontent.com/api-network/organizations/main/corecommerce.yaml
+tags:
+- Virtual Stores
+- Have API
+- Commerce
+- Commerce
+- API Provider
+apis: []
+x-common:
+- type: x-about
+  url: https://www.corecommerce.com/about-us/
+- type: x-blog
+  url: http://blog.corecommerce.com/rss.xml
+- type: x-blog
+  url: http://www.corecommerce.com/blog
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/corecommerce
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/corecommerce
+- type: x-developers
+  url: http://www.corecommerce.com/api
+- type: x-email
+  url: sales@corecommerce.com
+- type: x-email
+  url: support@corecommerce.com
+- type: x-facebook
+  url: https://www.facebook.com/CoreCommerce-97847857574/
+- type: x-feed
+  url: https://www.corecommerce.com/blog/feed/
+- type: x-github
+  url: https://github.com/CoreCommerce
+- type: x-linkedin
+  url: https://www.linkedin.com/company/corecommerce
+- type: x-platform
+  url: https://www.corecommerce.com/platform-features/
+- type: x-press
+  url: https://www.corecommerce.com/press/
+- type: x-pricing
+  url: https://www.corecommerce.com/pricing/
+- type: x-privacy
+  url: https://www.corecommerce.com/privacy/
+- type: x-support
+  url: https://www.corecommerce.com/support-2/
+- type: x-support
+  url: https://www.corecommerce.com/support/
+- type: x-terms-of-service
+  url: https://www.corecommerce.com/terms/
+- type: x-twitter
+  url: https://twitter.com/corecommerce
+- type: x-website
+  url: http://www.corecommerce.com
+- type: x-website
+  url: https://www.corecommerce.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

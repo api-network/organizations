@@ -1,0 +1,52 @@
+---
+name: Computalabel International
+description: Bar code generation software. MBC4 for Mac OS X. WBC4 for Windows. QR
+  Codes, UPC, EAN, Datamatrix, ISBN, ISSN, Code 39, ITF and Code 128 bar code symbologies.
+  Barcode fonts
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3012798"
+url: https://raw.githubusercontent.com/api-network/organizations/main/computalabel-international.yaml
+tags:
+- Windows
+- WBC4
+- UPC
+- QR Codes
+- OS X
+- MBC4
+- Macintosh
+- Mac Barcode
+- Labeling
+- ISBN
+- EAN
+- Code
+- Barcode Software
+- Barcode
+- Bar Codes
+- Bar Code Creator
+- Bar
+apis: []
+x-common:
+- type: x-about
+  url: https://www.computalabel.com/aboutus.htm
+- type: x-about
+  url: https://www.computalabel.com/aboutindex.htm
+- type: x-contact
+  url: https://www.computalabel.com/contactus.htm
+- type: x-facebook
+  url: https://www.facebook.com/computalabel
+- type: x-news
+  url: https://www.computalabel.com/news.htm
+- type: x-twitter
+  url: https://www.twitter.com/computalabel
+- type: x-website
+  url: https://www.computalabel.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

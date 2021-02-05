@@ -1,0 +1,36 @@
+---
+name: Mount Vernon Data Systems
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6642170"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mount-vernon-data-systems.yaml
+tags:
+- Companies
+apis: []
+x-common:
+- type: x-website
+  url: http://www.saveoursql.com/blog
+- type: x-about
+  url: https://mountvernondatasystems.com/about/
+- type: x-about
+  url: http://archive.mountvernondatasystems.com/about/
+- type: x-blog
+  url: https://mountvernondatasystems.com/blog/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/michellepoolet
+- type: x-privacy
+  url: https://mountvernondatasystems.com/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/saveoursql
+- type: x-website
+  url: https://www.mountvernondatasystems.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

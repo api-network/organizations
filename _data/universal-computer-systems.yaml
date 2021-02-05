@@ -1,0 +1,73 @@
+---
+name: Universal Computer Systems
+description: Specialists in industrial automation, data acquisition and industrial
+  computers. European supplier of Advantech, Portwell, ITOX and ICP DAS products.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8621414"
+url: https://raw.githubusercontent.com/api-network/organizations/main/universal-computer-systems.yaml
+tags:
+- Wolverhampton
+- UK
+- Systems
+- Soundcard
+- RS-485
+- RS-422
+- RS-232
+- RAM
+- Raid Chassis
+- Peripherals
+- PCL Modules
+- Motion Control
+- Motherboard
+- Monitor
+- Midlands
+- Memory
+- Keyboard
+- Interface Card
+- Industrial Computers
+- Industrial Computer
+- Industrial Chassis
+- Industrial Cabinet
+- Industrial
+- Hard Disk
+- Floppy Disk
+- Ethernet
+- England
+- DIO
+- Digital Input/output Card
+- Digital Input/output
+- Digital I/O
+- Data Acquisition
+- Daq
+- DAC
+- CPU Cards
+- CPU
+- Control Card
+- CAN BUS
+- Can
+- Biscuit Boards
+- Advantech
+- ADDA
+- ADC
+- Adam Units
+- ADAM Modules
+apis: []
+x-common:
+- type: x-about
+  url: https://www.ucs.co.uk/index.php?about=1
+- type: x-contact
+  url: https://www.ucs.co.uk/index.php?contact=1
+- type: x-developer
+  url: http://developer.ucs.co.uk
+- type: x-website
+  url: https://www.ucs.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

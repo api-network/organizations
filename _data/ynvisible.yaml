@@ -1,0 +1,52 @@
+---
+name: Ynvisible
+description: Ynvisible electrochromic displays - low power, thin, flexible, transparent,
+  robust displays.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2570087"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ynvisible.yaml
+tags:
+- Thin
+- Robust
+- Printed
+- Manufacturers
+- Low Power
+- Flexible
+- Electrochromics
+- Displays
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ynvisible.com
+- type: x-careers
+  url: https://www.ynvisible.com/jobs
+- type: x-contact
+  url: https://www.ynvisible.com/contact
+- type: x-facebook
+  url: https://www.facebook.com/ynvisible/
+- type: x-instagram
+  url: https://www.instagram.com/ynvisibleinteractive/
+- type: x-investor
+  url: https://www.ynvisible.com/investors
+- type: x-linkedin
+  url: https://www.linkedin.com/company/ynvisible
+- type: x-news
+  url: https://www.ynvisible.com/news
+- type: x-privacy
+  url: https://www.ynvisible.com/privacy-policy
+- type: x-terms-of-service
+  url: https://www.ynvisible.com/legal-notice
+- type: x-twitter
+  url: https://twitter.com/ynvisible
+- type: x-website
+  url: https://www.ynvisible.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

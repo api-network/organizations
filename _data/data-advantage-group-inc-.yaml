@@ -1,0 +1,37 @@
+---
+name: Data Advantage Group, Inc.
+description: Data Advantage Group offers Enterprise Metadata Management & Data Governance
+  solutions for enterprises to help them best govern their information assets.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/data-advantage-group-inc-.yaml
+tags:
+- Data Warehousing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.dag.com
+- type: x-blog
+  url: https://www.dag.com/blog
+- type: x-contact
+  url: https://www.dag.com/contact-us
+- type: x-linkedin
+  url: https://www.linkedin.com/company/data-advantage-group
+- type: x-privacy
+  url: https://www.dag.com/privacy-policy
+- type: x-support
+  url: https://www.dag.com/support
+- type: x-twitter
+  url: https://twitter.com/DataAdvantage
+- type: x-website
+  url: https://www.dag.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

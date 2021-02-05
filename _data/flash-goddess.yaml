@@ -1,0 +1,72 @@
+---
+name: Flash Goddess
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/flash-goddess.yaml
+tags:
+- Resources
+apis: []
+x-common:
+- type: x-website
+  url: https://www.annmariecheung.com
+- type: x-contact
+  url: https://flashgoddess.com/contact-us/
+- type: x-instagram
+  url: https://www.instagram.com/p/By3XB5CnlW6/
+- type: x-instagram
+  url: https://www.instagram.com/p/By2gXhsnlZM/
+- type: x-instagram
+  url: https://www.instagram.com/p/ByFhCGpHUA0/
+- type: x-instagram
+  url: https://www.instagram.com/p/ByB73d6HC2a/
+- type: x-instagram
+  url: https://www.instagram.com/p/ByB7IC4nKXg/
+- type: x-instagram
+  url: https://www.instagram.com/p/BxfcW8Yn--T/
+- type: x-instagram
+  url: https://www.instagram.com/p/Bw4kbD0Hc4n/
+- type: x-instagram
+  url: https://www.instagram.com/p/Bw4kQwCnoM-/
+- type: x-instagram
+  url: https://www.instagram.com/p/BvUHUNnn_AC/
+- type: x-instagram
+  url: https://www.instagram.com/p/BuBxaIlnTYR/
+- type: x-instagram
+  url: https://www.instagram.com/p/BryGmwvH2J4/
+- type: x-instagram
+  url: https://www.instagram.com/p/Bnyf0_5l_GP/
+- type: x-instagram
+  url: https://www.instagram.com/p/BkVFVWOlzm_/
+- type: x-instagram
+  url: https://www.instagram.com/p/BkNVK5iFn6i/
+- type: x-instagram
+  url: https://www.instagram.com/p/Bi0PDCKAodQ/
+- type: x-instagram
+  url: https://www.instagram.com/p/Bi0Od8XgzDI/
+- type: x-instagram
+  url: https://www.instagram.com/annmarie.cheung
+- type: x-instagram
+  url: https://www.instagram.com/p/B1MRE9vH79V/
+- type: x-instagram
+  url: https://www.instagram.com/p/B0oqCvdH18f/
+- type: x-instagram
+  url: https://www.instagram.com/p/B0gAhDKHJRZ/
+- type: x-instagram
+  url: https://www.instagram.com/p/By6XPiTnYcb/
+- type: x-news
+  url: https://flashgoddess.com/category/news/
+- type: x-twitter
+  url: https://twitter.com/FGNewMedia
+- type: x-website
+  url: https://www.flashgoddess.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

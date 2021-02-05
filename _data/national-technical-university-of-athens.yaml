@@ -1,0 +1,88 @@
+---
+name: National Technical University of Athens
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "52088"
+url: https://raw.githubusercontent.com/api-network/organizations/main/national-technical-university-of-athens.yaml
+tags:
+- Greece
+apis: []
+x-common:
+- type: x-website
+  url: http://ece.ntua.gr
+- type: x-contact
+  url: https://www.ece.ntua.gr/en/contact
+- type: x-contact
+  url: http://dev.ece.ntua.gr/en/contact
+- type: x-developer
+  url: http://dev.ece.ntua.gr/gr
+- type: x-developer
+  url: http://dev.ece.ntua.gr/en/undergraduate
+- type: x-developer
+  url: http://dev.ece.ntua.gr/en/postgraduate
+- type: x-developer
+  url: http://dev.ece.ntua.gr/en/doctoral
+- type: x-developer
+  url: http://dev.ece.ntua.gr/en/erasmus
+- type: x-developer
+  url: http://dev.ece.ntua.gr/en/impact
+- type: x-developer
+  url: http://dev.ece.ntua.gr/en/labs
+- type: x-developer
+  url: http://dev.ece.ntua.gr/en/iccs
+- type: x-developer
+  url: http://dev.ece.ntua.gr/en/libraries
+- type: x-developer
+  url: http://dev.ece.ntua.gr/en/staff/academic
+- type: x-developer
+  url: http://dev.ece.ntua.gr/en/staff/laboratory
+- type: x-developer
+  url: http://dev.ece.ntua.gr/en/staff/research
+- type: x-developer
+  url: http://dev.ece.ntua.gr/en/staff/administrative
+- type: x-developer
+  url: http://dev.ece.ntua.gr/en/history
+- type: x-developer
+  url: http://dev.ece.ntua.gr/en/organization
+- type: x-developer
+  url: http://dev.ece.ntua.gr/en/access
+- type: x-developer
+  url: http://dev.ece.ntua.gr/en/100years
+- type: x-developer
+  url: http://dev.ece.ntua.gr/en/staff/research/phd
+- type: x-developer
+  url: http://dev.ece.ntua.gr/en?page=2
+- type: x-developer
+  url: http://dev.ece.ntua.gr/en?page=3
+- type: x-developer
+  url: http://dev.ece.ntua.gr/en?page=4
+- type: x-developer
+  url: http://dev.ece.ntua.gr/en?page=5
+- type: x-developer
+  url: http://dev.ece.ntua.gr/en?page=6
+- type: x-developer
+  url: http://dev.ece.ntua.gr/en?page=7
+- type: x-developer
+  url: http://dev.ece.ntua.gr/en?page=8
+- type: x-developer
+  url: http://dev.ece.ntua.gr/en?page=9
+- type: x-developer
+  url: http://dev.ece.ntua.gr
+- type: x-developer
+  url: http://dev.ece.ntua.gr/en/alumni
+- type: x-facebook
+  url: https://www.facebook.com/ece.school.ntua
+- type: x-twitter
+  url: https://twitter.com/ecentua
+- type: x-website
+  url: https://www.ece.ntua.gr
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

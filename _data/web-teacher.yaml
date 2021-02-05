@@ -1,0 +1,47 @@
+---
+name: Web Teacher
+description: Tips, web design book reviews, resources and observations for teaching
+  and learning web development.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1126424"
+url: https://raw.githubusercontent.com/api-network/organizations/main/web-teacher.yaml
+tags:
+- Weblogs
+apis: []
+x-common:
+- type: x-website
+  url: http://oldaintdead.com
+- type: x-about
+  url: https://www.webteacher.ws/about/
+- type: x-blog
+  url: https://www.webteacher.ws/category/blogging/
+- type: x-blog
+  url: http://www.onblastblog.com/html5-cheat-sheet/
+- type: x-code
+  url: http://www.girlswhocode.com
+- type: x-events
+  url: https://www.webteacher.ws/category/events/
+- type: x-feed
+  url: https://www.webteacher.ws/feed/
+- type: x-feed
+  url: https://www.webteacher.ws/comments/feed/
+- type: x-github
+  url: https://teachaccess.github.io/tutorial/
+- type: x-press
+  url: https://www.webteacher.ws/tag/wordpress/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-twitter
+  url: https://twitter.com/vdebolt
+- type: x-website
+  url: https://www.webteacher.ws
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

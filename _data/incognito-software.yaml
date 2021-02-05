@@ -1,0 +1,55 @@
+---
+name: Incognito Software
+description: Service orchestration solutions for in-home broadband management, TR-069
+  device management over cable, fixed wireless access, DSL & fiber.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "595244"
+url: https://raw.githubusercontent.com/api-network/organizations/main/incognito-software.yaml
+tags:
+- Network Management
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.incognito.com
+- type: x-blog
+  url: https://blog.incognito.com/?hsLang=en
+- type: x-careers
+  url: https://www.incognito.com/careers/
+- type: x-careers
+  url: https://www.incognito.com/careers/?hsLang=en
+- type: x-contact
+  url: https://www.incognito.com/contact/
+- type: x-contact
+  url: https://www.incognito.com/contact/?hsLang=en
+- type: x-events
+  url: https://www.incognito.com/events/
+- type: x-events
+  url: https://www.incognito.com/events/?hsLang=en
+- type: x-linkedin
+  url: http://www.linkedin.com/company/incognito-software
+- type: x-press
+  url: https://www.incognito.com/press-room/
+- type: x-press
+  url: https://www.incognito.com/press-room/?hsLang=en
+- type: x-privacy
+  url: https://www.incognito.com/privacy-policy/?hsLang=en
+- type: x-support
+  url: https://support.incognito.com
+- type: x-support
+  url: https://support.incognito.com/hc/en-us
+- type: x-twitter
+  url: http://twitter.com/incognito_sfwr
+- type: x-website
+  url: https://www.incognito.com
+- type: x-youtube
+  url: http://www.youtube.com/incognitosoftware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

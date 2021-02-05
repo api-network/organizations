@@ -1,0 +1,36 @@
+---
+name: Virtual Places Chat
+description: Chat with your personalized avatar, play multi-player games, use instant
+  messaging or voice chat.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5340366"
+url: https://raw.githubusercontent.com/api-network/organizations/main/virtual-places-chat.yaml
+tags:
+- Virtual Places
+- Online Games
+- Online Discussions
+- Online Community
+- Free Web Space
+- Chat Rooms
+- Chat
+- Avatars
+apis: []
+x-common:
+- type: x-about
+  url: https://vpchat.com/about
+- type: x-privacy
+  url: https://vpchat.com/privacy
+- type: x-support
+  url: https://vpchat.com/help
+- type: x-website
+  url: https://www.vpchat.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

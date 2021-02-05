@@ -1,0 +1,62 @@
+---
+name: PocketNow
+description: Smartphone, Tablet, and Wearable Reviews, Videos, Editorials and News
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "66434"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pocketnow.yaml
+tags:
+- News And Media
+apis: []
+x-common:
+- type: x-website
+  url: http://pocketnow.com
+- type: x-about
+  url: https://pocketnow.com/about-us-pocketnow
+- type: x-contact
+  url: https://pocketnow.com/contact-us-pocketnow
+- type: x-facebook
+  url: https://facebook.com/pocketnow
+- type: x-feed
+  url: https://pocketnow.com/feed
+- type: x-instagram
+  url: https://www.instagram.com/pocketnow
+- type: x-privacy
+  url: https://pocketnow.com/privacy-policy
+- type: x-terms-of-service
+  url: https://pocketnow.com/terms-and-conditions
+- type: x-twitter
+  url: https://twitter.com/pocketnow
+- type: x-website
+  url: https://www.pocketnow.com
+- type: x-youtube
+  url: https://www.youtube.com/user/pocketnowvideo
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=3aqsPq3rZQs
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=yVD54J_K1ZY
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=XEQ7EuRxl2k
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=y-sBNWLd8JM
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=EFwThgxSlsk
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=I8BOYoLoqHc
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=thrM9T_aa18
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=e5xLgCkQQvY
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=8WCJYiXjBAY
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=WbXd1o_UpG4
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

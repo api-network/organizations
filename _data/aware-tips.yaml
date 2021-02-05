@@ -1,0 +1,64 @@
+---
+name: A'ware Tips
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/aware-tips.yaml
+tags:
+- Xtra
+- Web
+- WBT
+- Upgrades
+- U32
+- Tutorials
+- Tricks
+- Tips
+- Snippets
+- Showme
+- Shocked
+- Samples
+- Sale
+- Questions
+- Products
+- Problems
+- Mx
+- Multimedia
+- Media
+- Links
+- Kiosk
+- Help
+- Hardware
+- FAQs
+- Elearning
+- E-Learning
+- Development
+- Demo
+- Courseware
+- Conversion
+- Code
+- CD
+- CBT
+- Book
+- Aware
+- Authorware
+- Adobe Authorware
+- Adobe
+- A'ware
+apis: []
+x-common:
+- type: x-feed
+  url: http://feeds.feedburner.com/~r/ElearningChef/~6/1
+- type: x-plans
+  url: https://zebrazapps.com/#/plansAndPricing
+- type: x-website
+  url: https://www.awaretips.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,43 @@
+---
+name: Wire Association
+description: The Wire Association provides free press release distribution across
+  Europe. Reach journalists, editors & reporters
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1922281"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wire-association.yaml
+tags:
+- Press Release Services
+apis: []
+x-common:
+- type: x-about
+  url: https://www.wireassociation.eu/about/
+- type: x-careers
+  url: https://www.wireassociation.eu/jobs/type/pr/
+- type: x-careers
+  url: https://www.wireassociation.eu/jobs/advanced-search/
+- type: x-careers
+  url: https://www.wireassociation.eu/jobs/
+- type: x-careers
+  url: https://www.wireassociation.eu/jobs/category/energy/
+- type: x-careers
+  url: https://www.wireassociation.eu/jobs/category/fashion/
+- type: x-careers
+  url: https://www.wireassociation.eu/jobs/category/finance/
+- type: x-careers
+  url: https://www.wireassociation.eu/jobs/category/retail/
+- type: x-contact
+  url: https://www.wireassociation.eu/contact-us/
+- type: x-pricing
+  url: https://www.wireassociation.eu/pricing/
+- type: x-website
+  url: https://www.wireassociation.eu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

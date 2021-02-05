@@ -1,0 +1,88 @@
+---
+name: Actility
+description: 'Actility is the leader in low power wide area (LoRaWAN and 3GPP) network
+  connectivity management for the Internet of Things: the ThingPark platform'
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28250-www-actility-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1077185"
+url: https://raw.githubusercontent.com/api-network/organizations/main/actility.yaml
+tags:
+- Telecommunications
+- Sensors
+- Relative Data
+- Profile
+- Parking
+- No API Definition
+- Networks
+- LPWAN
+- ISP
+- Internet Of Things
+- Industrial
+- Have API Paths
+- Geolocation
+- Energy
+- API Provider
+- Agriculture
+apis: []
+x-common:
+- type: x-blog-rss
+  url: https://www.actility.com/blog/feed/
+- type: x-github
+  url: https://github.com/actility
+- type: x-website
+  url: http://www.actility.com
+- type: x-blog
+  url: https://www.actility.com/blog/
+- type: x-careers
+  url: https://www.actility.com/careers/
+- type: x-case-studies
+  url: https://www.actility.com/use-cases/
+- type: x-contact
+  url: https://www.actility.com/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/actility
+- type: x-developers
+  url: https://www.actility.com/developer/
+- type: x-documentation
+  url: https://dx-api.thingpark.com/core/latest/swagger-ui/index.html?shortUrl=tpdx-core-api-contract.json
+- type: x-events
+  url: https://www.actility.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/Actility/
+- type: x-investor
+  url: https://www.actility.com/investors/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/actility/
+- type: x-partner
+  url: https://www.actility.com/partners/
+- type: x-partner
+  url: https://www.actility.com/partners/thingpark-embedded/
+- type: x-partner
+  url: https://partners.thingpark.com/
+- type: x-partners
+  url: https://www.actility.com/partners/
+- type: x-press
+  url: https://www.actility.com/press-releases/
+- type: x-privacy
+  url: https://www.actility.com/privacy-policy/
+- type: x-security
+  url: https://www.actility.com/security/
+- type: x-terms-of-service
+  url: https://www.actility.com/legal-announcements/
+- type: x-terms-of-service
+  url: https://www.actility.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/Actility
+- type: x-website
+  url: https://www.actility.com
+- type: x-youtube
+  url: https://www.youtube.com/user/actility1
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

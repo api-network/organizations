@@ -1,0 +1,49 @@
+---
+name: Robot Kits Direct
+description: OWI Robotics is the creator and official manufacturer of award winning
+  educational robot kits.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1208785"
+url: https://raw.githubusercontent.com/api-network/organizations/main/robot-kits-direct.yaml
+tags:
+- Wind Power
+- Solar Kit
+- Robots
+- Robotics Kits For Kits
+- Robotics Kits
+- Robotics
+- Robotic Kits
+- Robot Kits
+- Robot Kit
+- Robot
+- Owikit
+- Owi
+- Kits
+apis: []
+x-common:
+- type: x-website
+  url: http://www.owirobot.com/
+- type: x-about
+  url: https://owirobot.com/about-us-1/
+- type: x-instagram
+  url: https://www.instagram.com/owirobotics/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/owi-robotics
+- type: x-news
+  url: https://owirobot.com/news/
+- type: x-twitter
+  url: https://twitter.com/OWI_Robotics
+- type: x-website
+  url: https://www.owirobot.com
+- type: x-youtube
+  url: https://www.youtube.com/user/owirobot
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

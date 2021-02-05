@@ -1,0 +1,26 @@
+---
+name: PInvoke.net - Interop Wiki
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "327780"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pinvoke-net--interop-wiki.yaml
+tags:
+- Resources
+apis: []
+x-common:
+- type: x-terms-of-service
+  url: http://www.pinvoke.net/termsofuse.htm
+- type: x-terms-of-service
+  url: http://www.red-gate.com/our-company/about/legal
+- type: x-website
+  url: https://www.pinvoke.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,40 @@
+---
+name: Webpagesize
+description: An online tool for previewing of entire website or selected web pages
+  in wide variety of screen resolutions without resizing users display resolution
+  or installing third party software.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8088852"
+url: https://raw.githubusercontent.com/api-network/organizations/main/webpagesize.yaml
+tags:
+- Website Resolution
+- View Webpage Resolution
+- Test Website
+- Test Webpage
+- Screen Resolution
+- Responsive Design
+- Resizing Screen Resolution
+- Preview Website
+- Preview Webpage
+- Display Resolutoin
+- Display Resolution
+apis: []
+x-common:
+- type: x-website
+  url: http://webpagesize.net/
+- type: x-facebook
+  url: https://www.facebook.com/webpagesize
+- type: x-twitter
+  url: https://twitter.com/webpagesize
+- type: x-website
+  url: https://webpagesize.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

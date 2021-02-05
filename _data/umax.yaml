@@ -1,0 +1,37 @@
+---
+name: Umax
+description: umax offers EinScan and FreeScan 3D professional scanners for 3D scanning
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1856498"
+url: https://raw.githubusercontent.com/api-network/organizations/main/umax.yaml
+tags:
+- Scanners
+- Professional 3D Scanners
+- Laser 3D Scanners
+- Handheld 3D Scanners
+apis: []
+x-common:
+- type: x-about
+  url: https://umax.com/about-us/
+- type: x-about
+  url: https://umax.com/about-shining-3d/
+- type: x-contact
+  url: https://umax.com/contact-us/
+- type: x-facebook
+  url: http://www.facebook.com/umax11343
+- type: x-privacy
+  url: https://umax.com/privacy-policy/
+- type: x-support
+  url: https://umax.com/support/
+- type: x-website
+  url: https://www.umax.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

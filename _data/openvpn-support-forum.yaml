@@ -1,0 +1,25 @@
+---
+name: OpenVPN Support Forum
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "20967"
+url: https://raw.githubusercontent.com/api-network/organizations/main/openvpn-support-forum.yaml
+tags: []
+apis: []
+x-common:
+- type: x-open-source
+  url: https://openvpn.net/index.php/open-source.html
+- type: x-open-source
+  url: https://community.openvpn.net/register
+- type: x-website
+  url: https://forums.openvpn.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

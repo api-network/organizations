@@ -1,0 +1,63 @@
+---
+name: JSFiddle
+description: Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle
+  code editor.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6965"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jsfiddle.yaml
+tags:
+- Testing Javascript Online
+- Scss Online Editor
+- Postman Doc Search
+- Online Javascript Editor
+- Online Ide
+- Online Code Editor
+- New
+- HTML
+- Editors
+- CSS
+- CoffeeScript
+apis: []
+x-common:
+- type: x-website
+  url: http://blog.zalewa.info
+- type: x-about
+  url: https://jsfiddle.net/about
+- type: x-documentation
+  url: https://docs.jsfiddle.net
+- type: x-github
+  url: https://github.com/jsfiddle/jsfiddle-issues/issues
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/1210930/S1ZxapVe
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/3729752/RWgxtZpC
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/3906161/SVzw41At
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/3906161/SVtN4XSh
+- type: x-status
+  url: http://status.jsfiddle.net
+- type: x-support
+  url: https://jsfiddle.gitbook.io/help/async-requests
+- type: x-twitter
+  url: http://twitter.com/zalun
+- type: x-twitter
+  url: http://twitter.com/oskar
+- type: x-website
+  url: http://feathersjs-mongoose.gitbook.io
+- type: x-website
+  url: https://jsfiddle.net
+- type: x-website
+  url: http://cloudinary.gitbook.io
+- type: x-website
+  url: http://passteam.gitbook.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

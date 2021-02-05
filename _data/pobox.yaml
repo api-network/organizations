@@ -1,0 +1,52 @@
+---
+name: Pobox
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "507879"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pobox.yaml
+tags:
+- Forwarding
+apis: []
+x-common:
+- type: x-about
+  url: https://www.pobox.com/about
+- type: x-blog
+  url: http://blog.pobox.com
+- type: x-login
+  url: https://www.pobox.com/login
+- type: x-pricing
+  url: https://www.pobox.com/pricing-group#corp
+- type: x-pricing
+  url: https://www.pobox.com/pricing
+- type: x-pricing
+  url: https://www.pobox.com/pricing-group#groups
+- type: x-pricing
+  url: https://www.pobox.com/pricing-group
+- type: x-privacy
+  url: https://www.pobox.com/privacy
+- type: x-security
+  url: https://www.pobox.com/security
+- type: x-signup
+  url: https://www.pobox.com/signup?service_type=mailstore
+- type: x-signup
+  url: https://www.pobox.com/signup?service_type=plus
+- type: x-signup
+  url: https://www.pobox.com/signup?service_type=basic
+- type: x-signup
+  url: https://www.pobox.com/signup
+- type: x-support
+  url: https://www.pobox.com/helpspot/?pg=request
+- type: x-support
+  url: https://www.pobox.com/helpspot/
+- type: x-website
+  url: https://www.pobox.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

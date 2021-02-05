@@ -1,0 +1,30 @@
+---
+name: PLC Manual
+description: 'What does ''PLC'' mean? A PLC (Programmable Logic Controllers) is an
+  industrial computer used to monitor inputs, and depending upon their state make
+  decisions based on its program or logic, to control (turn on/off) its outputs to
+  automate a machine or a process. NEMA defines a PROGRAMMABLE LOGIC CONTROLLER as:
+  "A'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "819445"
+url: https://raw.githubusercontent.com/api-network/organizations/main/plc-manual.yaml
+tags:
+- Automation
+apis: []
+x-common:
+- type: x-code
+  url: http://www.plcmanual.com/codesys
+- type: x-contact
+  url: http://www.plcmanual.com/contactus.htm
+- type: x-website
+  url: https://www.plcmanual.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

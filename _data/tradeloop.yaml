@@ -1,0 +1,24 @@
+---
+name: Tradeloop
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "241431"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tradeloop.yaml
+tags:
+- Used
+apis: []
+x-common:
+- type: x-security
+  url: https://www.tradeloop.com/security_message/hold
+- type: x-website
+  url: https://tradeloop.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

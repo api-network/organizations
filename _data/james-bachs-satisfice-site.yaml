@@ -1,0 +1,66 @@
+---
+name: James Bach's Satisfice Site
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "806211"
+url: https://raw.githubusercontent.com/api-network/organizations/main/james-bachs-satisfice-site.yaml
+tags:
+- Software Testing
+apis: []
+x-common:
+- type: x-about
+  url: https://www.satisfice.com/about-james-bach
+- type: x-blog
+  url: https://www.satisfice.com/blog
+- type: x-blog
+  url: https://www.satisfice.com/blog/archives/487086
+- type: x-blog
+  url: https://www.satisfice.com/blog/archives/6134
+- type: x-blog
+  url: https://www.satisfice.com/blog/archives/1669
+- type: x-blog
+  url: https://www.satisfice.com/blog/archives/1598
+- type: x-blog
+  url: https://www.satisfice.com/blog/archives/1577
+- type: x-blog
+  url: https://www.satisfice.com/blog/archives/1509
+- type: x-blog
+  url: https://www.satisfice.com/blog/archives/1504
+- type: x-blog
+  url: https://www.satisfice.com/blog/archives/1372
+- type: x-blog
+  url: https://www.satisfice.com/blog/archives/1364
+- type: x-blog
+  url: https://www.satisfice.com/blog/archives/1346
+- type: x-blog
+  url: https://www.satisfice.com/blog/archives/category/faq
+- type: x-blog
+  url: https://www.satisfice.com/blog/archives/category/rst
+- type: x-contact
+  url: https://www.satisfice.com/contact-james-bach
+- type: x-events
+  url: https://www.satisfice.com/events/tags/public
+- type: x-events
+  url: https://www.satisfice.com/events/categories/online
+- type: x-login
+  url: https://www.satisfice.com/wp-login.php
+- type: x-press
+  url: http://my.studiopress.com/themes/news/
+- type: x-press
+  url: https://www.studiopress.com/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-privacy
+  url: https://www.satisfice.com/privacy-policy
+- type: x-website
+  url: https://www.satisfice.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

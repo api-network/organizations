@@ -1,0 +1,53 @@
+---
+name: Syntec Business Systems, Inc.
+description: Insight Salon & Spa Software is a user-friendly business management program
+  with 25 years of experience. Whether you run a spa, hair salon, tattoo parlor, tanning
+  salon, or barber shop we provide the tools you need to grow your business including
+  online appointment scheduling and client management.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1101593"
+url: https://raw.githubusercontent.com/api-network/organizations/main/syntec-business-systems-inc-.yaml
+tags:
+- Salon Management
+apis: []
+x-common:
+- type: x-website
+  url: https://www.salon-software.com/
+- type: x-about
+  url: https://www.salon-software.com/about/
+- type: x-blog
+  url: https://insight.salon-software.com/blog
+- type: x-contact
+  url: https://www.salon-software.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/InsightSalonSoftware
+- type: x-instagram
+  url: https://www.instagram.com/insightsalonsoftware/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/6441058
+- type: x-login
+  url: https://www.salon-software.com/insight-client-login/
+- type: x-pricing
+  url: https://www.salon-software.com/pricing/
+- type: x-privacy
+  url: https://www.salon-software.com/privacy-policy/
+- type: x-support
+  url: https://www.salon-software.com/client-support/
+- type: x-support
+  url: https://www.salon-software.com/client-support/faqs/
+- type: x-terms-of-service
+  url: https://www.salon-software.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/insightsalonsft
+- type: x-website
+  url: https://salon-software.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

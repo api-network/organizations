@@ -1,0 +1,48 @@
+---
+name: Ruby on Rails Tutorial
+description: Learn Enough to Be Dangerous is designed to unleash your technical genius
+  by teaching you technical sophisticaion.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "267471"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ruby-on-rails-tutorial.yaml
+tags: []
+apis: []
+x-common:
+- type: x-about
+  url: https://www.learnenough.com/about
+- type: x-github
+  url: https://github.com/mhartl
+- type: x-login
+  url: https://www.learnenough.com/login
+- type: x-news
+  url: http://news.learnenough.com
+- type: x-pricing
+  url: https://www.learnenough.com/pricing
+- type: x-terms-of-service
+  url: https://www.learnenough.com/legal
+- type: x-twitter
+  url: https://twitter.com/LearnEnough?ref_src=twsrc%5Etfw
+- type: x-twitter
+  url: https://twitter.com/mhartl?ref_src=twsrc%5Etfw
+- type: x-twitter
+  url: https://twitter.com/RailsTutorial?ref_src=twsrc%5Etfw
+- type: x-twitter
+  url: https://twitter.com/mhartl
+- type: x-twitter
+  url: https://twitter.com/learnenough
+- type: x-twitter
+  url: https://twitter.com/railstutorial
+- type: x-website
+  url: https://www.railstutorial.org
+- type: x-youtube
+  url: https://www.youtube.com/c/LearnEnough
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,52 @@
+---
+name: Cobalt
+description: Cobalt.io is the future of penetration testing. We leverage global talent
+  and a software platform to deliver a better penetration test.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/cobalt-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "270001"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cobalt.yaml
+tags:
+- Security
+- Security
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: https://cobalt.io
+- type: x-blog
+  url: https://blog.cobalt.io
+- type: x-blog
+  url: https://cobalt.io/blog
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/cobalt-io
+- type: x-email
+  url: hello@cobalt.io
+- type: x-email
+  url: demo@cobalt.io
+- type: x-email
+  url: support@cobalt.io
+- type: x-email
+  url: partner@cobalt.io
+- type: x-email
+  url: press@cobalt.io
+- type: x-email
+  url: info@cobalt.io
+- type: x-facebook
+  url: https://www.facebook.com/cobaltsecured
+- type: x-linkedin
+  url: https://www.linkedin.com/company/cobalt_io
+- type: x-twitter
+  url: https://twitter.com/cobalt_io
+- type: x-website
+  url: https://cobalt.io/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

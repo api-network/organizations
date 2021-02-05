@@ -1,0 +1,50 @@
+---
+name: University of Limerick (ECE)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "38473"
+url: https://raw.githubusercontent.com/api-network/organizations/main/university-of-limerick-ece.yaml
+tags:
+- Ireland
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ece.ul.ie
+- type: x-about
+  url: http://www.ul.ie/about-ul/academic-faculties/
+- type: x-about
+  url: http://www.ul.ie/about-ul/directory-of-services/
+- type: x-about
+  url: http://www.ul.ie/about-ul
+- type: x-careers
+  url: https://careersportal.ie/school/index.php
+- type: x-contact
+  url: https://ece.ul.ie/main-contacts/
+- type: x-contact
+  url: https://ece.ul.ie/technical-contacts/
+- type: x-contact
+  url: https://ece.ul.ie/contact-2/
+- type: x-facebook
+  url: https://www.facebook.com/ECEatUL/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/ece-department-5615bb124/
+- type: x-news
+  url: https://ece.ul.ie/news/
+- type: x-news
+  url: https://www.ece.ul.ie/news/
+- type: x-security
+  url: https://ece.ul.ie/mobile-communications-a-security/
+- type: x-twitter
+  url: https://twitter.com/ECE_Dept_UL
+- type: x-website
+  url: https://www.ece.ul.ie
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

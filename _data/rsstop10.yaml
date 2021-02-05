@@ -1,0 +1,35 @@
+---
+name: RSStop10
+description: Create your own RSS Feed in less than 2 hours at zero cost and start
+  reaching thousands of new prospects!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "267934"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rsstop10.yaml
+tags:
+- Rss Syndication
+- RSS Feeds
+- RSS Feed Creation
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.rsstop10.com/blog/
+- type: x-blog
+  url: https://www.rentablogger.com/
+- type: x-contact
+  url: https://www.rsstop10.com/contact-india.htm
+- type: x-feed
+  url: https://www.rsstop10.com/rss-feed-steps.pdf
+- type: x-self-service-registration
+  url: https://taxmantra.com/register-company-singapore/
+- type: x-website
+  url: https://www.rsstop10.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

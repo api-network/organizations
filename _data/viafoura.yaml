@@ -1,0 +1,91 @@
+---
+name: Viafoura
+description: Experience the market-leading Viafoura audience engagement and development
+  platform. Offering media, broadcast and entertainment brands user registration,
+  comment moderation, analytics, push notifications and more.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1530_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "456890"
+url: https://raw.githubusercontent.com/api-network/organizations/main/viafoura.yaml
+tags:
+- Moderation
+- Have API
+- Conversations
+- Content
+- Community Engagement
+- Community
+- Audience Insights
+- Audience
+apis: []
+x-common:
+- type: x-base
+  url: https://api.viafoura.com/
+- type: x-blog
+  url: https://viafoura.com/live-blogging/
+- type: x-blog
+  url: https://viafoura.com/blog/
+- type: x-blog
+  url: https://viafoura.com/blog/ona-interview/
+- type: x-blog
+  url: http://viafoura.com/blog
+- type: x-careers
+  url: https://viafoura.com/careers/
+- type: x-contact
+  url: https://viafoura.com/contact-us/?ct=Website&cn=TestB
+- type: x-contact
+  url: https://viafoura.com/contact-us/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/viafoura
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/viafoura
+- type: x-customers
+  url: https://viafoura.com/our-customers/
+- type: x-developers
+  url: http://documentation.viafoura.com/
+- type: x-documentation
+  url: https://documentation.viafoura.com/
+- type: x-email
+  url: privacy@viafoura.com
+- type: x-events
+  url: https://viafoura.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/viafoura/
+- type: x-gdpr
+  url: https://viafoura.com/gdpr-compliance/
+- type: x-github
+  url: https://github.com/viafoura
+- type: x-instagram
+  url: https://www.instagram.com/viafoura/?hl=en
+- type: x-linkedin
+  url: https://www.linkedin.com/company/viafoura/
+- type: x-news
+  url: https://viafoura.com/news-coverage/
+- type: x-news
+  url: https://viafoura.com/news/the-virginian-pilot/
+- type: x-news
+  url: https://viafoura.com/news/
+- type: x-pricing
+  url: https://viafoura.com/pricing/
+- type: x-privacy
+  url: https://viafoura.com/privacy-policy/
+- type: x-support
+  url: https://support.viafoura.com/
+- type: x-twitter
+  url: https://twitter.com/viafoura
+- type: x-webinars
+  url: https://viafoura.com/webinars/
+- type: x-webinars
+  url: https://viafoura.com/blog/webinar-demand-cbc/
+- type: x-website
+  url: http://viafoura.com/
+- type: x-white-papers
+  url: https://viafoura.com/white-papers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

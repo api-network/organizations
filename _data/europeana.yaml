@@ -1,0 +1,52 @@
+---
+name: Europeana
+description: Explore 51,990,182 artworks, artefacts, books, videos and sounds from
+  more than 3,500 museums, galleries, libraries and archives across Europe.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/europeana-logo.jpeg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "911"
+x-alexaRank: "117521"
+url: https://raw.githubusercontent.com/api-network/organizations/main/europeana.yaml
+tags:
+- Profile
+- Museums
+- Libraries
+- History
+- Historical Data API
+- Have Swagger
+- Have API Paths
+- Have API
+- General Data
+- Art
+- API Provider
+- API LIfeycle
+apis: []
+x-common:
+- type: x-website
+  url: https://www.europeana.eu/
+- type: x-base
+  url: http://www.europeana.eu/api/
+- type: x-blog
+  url: http://blog.europeana.eu/
+- type: x-blog-rss
+  url: http://blog.europeana.eu/feed/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/europeana
+- type: x-developers
+  url: http://europeana.eu/portal/api-introduction.html
+- type: x-github
+  url: https://github.com/europeana
+- type: x-twitter
+  url: https://twitter.com/EuropeanaEU
+- type: x-website
+  url: http://europeana.eu/portal/
+- type: x-website
+  url: http://europeana.eu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

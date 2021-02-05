@@ -1,0 +1,50 @@
+---
+name: NCZOnline
+description: The personal web site of front end engineer, book author, and speaker
+  Nicholas C. Zakas.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6582926"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nczonline.yaml
+tags:
+- Zakas
+- Web
+- Speaker
+- People
+- Nicholas
+- NCZOnline
+- JavaScript
+- HTML
+- ECMAscript
+- Dom
+- DHTML
+- Author
+- Architecture
+- AJAX
+apis: []
+x-common:
+- type: x-code
+  url: https://www.instagram.com/humanwhocodes
+- type: x-feed
+  url: http://feeds.nczonline.net/blog/
+- type: x-github
+  url: https://www.github.com/nzakas/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/nzakas
+- type: x-slideshare
+  url: https://www.slideshare.net/nzakas/presentations/
+- type: x-twitter
+  url: https://twitter.com/slicknet?ref_src=twsrc%5Etfw
+- type: x-twitter
+  url: https://www.twitter.com/slicknet/
+- type: x-website
+  url: https://www.nczonline.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,51 @@
+---
+name: Hipcast
+description: Upload, Manage, and Publish your podcasts in the cloud with Hipcast.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "286901"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hipcast.yaml
+tags:
+- Vlog
+- Videoblogging
+- Videoblog
+- Video Blogging
+- Video Blog
+- Video
+- Typepad
+- Podcasts
+- Podcasting
+- Podcast
+- Pod Cast
+- Moveable Type
+- Movabletype
+- Blogware
+- Blogger
+- Blog
+- Audioblogger
+- Audioblog
+apis: []
+x-common:
+- type: x-website
+  url: http://www.hipcast.com
+- type: x-developer
+  url: http://developer.hipcast.com
+- type: x-facebook
+  url: http://www.facebook.com/hipcast
+- type: x-login
+  url: https://www.hipcast.com/login.htm
+- type: x-twitter
+  url: http://www.twitter.com/hipcast
+- type: x-twitter
+  url: https://twitter.com/hipcast
+- type: x-website
+  url: https://www.hipcast.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

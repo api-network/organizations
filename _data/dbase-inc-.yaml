@@ -1,0 +1,50 @@
+---
+name: dBASE, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "930673"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dbase-inc-.yaml
+tags:
+- Visual DBase
+apis: []
+x-common:
+- type: x-about
+  url: https://www.dbase.com/company/about/
+- type: x-careers
+  url: https://www.dbase.com/company/careers/
+- type: x-contact
+  url: https://www.dbase.com/company/contact/
+- type: x-facebook
+  url: http://www.facebook.com/dbasellc
+- type: x-linkedin
+  url: http://www.linkedin.com/company/dbasellc
+- type: x-news
+  url: http://news.dbase.com/newsgroups.php
+- type: x-support
+  url: https://www.dbase.com/dbasesql/online-help/
+- type: x-support
+  url: https://www.dbase.com/support/updates-and-fixes/
+- type: x-support
+  url: https://www.dbase.com/support/knowledgebase2019/
+- type: x-support
+  url: https://www.dbase.com/support/upgrade-policy/
+- type: x-support
+  url: https://www.dbase.com/support/options/
+- type: x-terms-of-service
+  url: https://www.dbase.com/company/legal/
+- type: x-twitter
+  url: https://twitter.com/dbaseworld
+- type: x-website
+  url: https://www.dbase.com
+- type: x-youtube
+  url: http://www.youtube.com/user/dBaseLLC
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

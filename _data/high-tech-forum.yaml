@@ -1,0 +1,96 @@
+---
+name: High Tech Forum
+description: 'The impetus for creating High Tech Forum - Richard Bennett was this
+  simple fact: Some of the most critical technology and telecommunications policy
+  ...'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2765982"
+url: https://raw.githubusercontent.com/api-network/organizations/main/high-tech-forum.yaml
+tags:
+- Weblogs
+apis: []
+x-common:
+- type: x-website
+  url: http://HighTechForum.org
+- type: x-contact
+  url: https://hightechforum.org/contact/
+- type: x-forum
+  url: https://hightechforum.org/
+- type: x-forum
+  url: https://hightechforum.org/feed/
+- type: x-forum
+  url: https://hightechforum.org/blog/
+- type: x-forum
+  url: https://hightechforum.org/category/podcasts/
+- type: x-forum
+  url: https://hightechforum.org/about/
+- type: x-forum
+  url: https://hightechforum.org/with-friends-like-google/
+- type: x-forum
+  url: https://hightechforum.org/the-internets-lost-decade/
+- type: x-forum
+  url: https://hightechforum.org/author/richard/
+- type: x-forum
+  url: https://hightechforum.org/stacie-hoffman-on-doh/
+- type: x-forum
+  url: https://hightechforum.org/wired-trolls-5g-security/
+- type: x-forum
+  url: https://hightechforum.org/tag/5g/
+- type: x-forum
+  url: https://hightechforum.org/tag/advertising/
+- type: x-forum
+  url: https://hightechforum.org/tag/broadband/
+- type: x-forum
+  url: https://hightechforum.org/tag/broadband-measurements/
+- type: x-forum
+  url: https://hightechforum.org/tag/broadband-speed/
+- type: x-forum
+  url: https://hightechforum.org/tag/congress/
+- type: x-forum
+  url: https://hightechforum.org/tag/cybersecurity/
+- type: x-forum
+  url: https://hightechforum.org/tag/engineering/
+- type: x-forum
+  url: https://hightechforum.org/tag/fcc/
+- type: x-forum
+  url: https://hightechforum.org/tag/internet/
+- type: x-forum
+  url: https://hightechforum.org/tag/internet-infrastructure/
+- type: x-forum
+  url: https://hightechforum.org/tag/net-neutrality/
+- type: x-forum
+  url: https://hightechforum.org/tag/net-neutralitytitle-ii/
+- type: x-forum
+  url: https://hightechforum.org/tag/privacy/
+- type: x-forum
+  url: https://hightechforum.org/tag/regulation/
+- type: x-forum
+  url: https://hightechforum.org/tag/regulatory/
+- type: x-forum
+  url: https://hightechforum.org/tag/rural-broadband/
+- type: x-forum
+  url: https://hightechforum.org/tag/spectrum/
+- type: x-forum
+  url: https://hightechforum.org/tag/wireless/
+- type: x-forum
+  url: https://hightechforum.org/spectrum-deployment/
+- type: x-forum
+  url: https://hightechforum.org/how-to-kill-wi-fi/
+- type: x-news
+  url: https://hightechforum.org/category/newsroom/
+- type: x-news
+  url: https://hightechforum.org/tag/fake-news/
+- type: x-twitter
+  url: http://twitter.com/HighTechForum
+- type: x-website
+  url: https://www.hightechforum.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,49 @@
+---
+name: GigaTrust
+description: Learn more about GigaTrust, a leading provider of endpoint security and
+  document in-use protection for Windows, iOS and Android devices.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1467244"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gigatrust.yaml
+tags:
+- Utilities
+apis: []
+x-common:
+- type: x-website
+  url: http://www.gigatrust.com
+- type: x-about
+  url: https://www.gigatrust.com/about-us/
+- type: x-about
+  url: https://www.gigatrust.com/about-us/success-stories/
+- type: x-careers
+  url: https://www.gigatrust.com/about-us/careers/
+- type: x-contact
+  url: https://www.gigatrust.com/contact-us/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/gigatrust
+- type: x-news
+  url: https://www.gigatrust.com/resources/news-room/
+- type: x-partner
+  url: https://www.gigatrust.com/about-us/partners/
+- type: x-privacy
+  url: https://www.gigatrust.com/privacy-policy
+- type: x-support
+  url: https://helpdesk.gigatrust.com
+- type: x-support
+  url: https://www.gigatrust.com/resources/support/
+- type: x-tutorials
+  url: https://www.gigatrust.com/resources/video-tutorials/
+- type: x-twitter
+  url: https://twitter.com/TrustGiga
+- type: x-website
+  url: https://www.gigatrust.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

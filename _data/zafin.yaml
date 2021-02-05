@@ -1,0 +1,60 @@
+---
+name: Zafin
+description: Our SaaS fintech platform enables banks to increase the relevance, precision
+  and flexibility of product and pricing strategies, enhancing growth, efficiency,
+  regulatory compliance and the customer experience.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "943055"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zafin.yaml
+tags:
+- Billing
+apis: []
+x-common:
+- type: x-website
+  url: http://zafin.com
+- type: x-about
+  url: https://zafin.com/about-zafin/
+- type: x-about
+  url: https://zafin.com/about-zafin/team/
+- type: x-blog
+  url: https://zafin.com/blog/
+- type: x-blog
+  url: https://zafin.uberflip.com/zafin-blog
+- type: x-careers
+  url: https://zafin.com/about-zafin/careers/
+- type: x-case-studies
+  url: https://zafin.uberflip.com/case-studies
+- type: x-contact
+  url: https://go.zafin.com/contact-zafin
+- type: x-contact
+  url: https://zafin.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/Zafin.Inc/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/35576/
+- type: x-login
+  url: https://mipartners.basecamphq.com/login
+- type: x-partner
+  url: https://zafin.uberflip.com/partners
+- type: x-press
+  url: https://zafin.com/pressroom/
+- type: x-privacy
+  url: https://zafin.com/privacy-policy/
+- type: x-support
+  url: https://support.zafin.com/hc/en-us
+- type: x-terms-of-service
+  url: https://zafin.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/Zafin
+- type: x-website
+  url: https://www.zafin.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

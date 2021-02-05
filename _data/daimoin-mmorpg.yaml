@@ -1,0 +1,47 @@
+---
+name: Daimoin MMORPG
+description: Daimonin MMORPG- Join this free to play open source mmorpg and become
+  more as a player. Become a developer and create the game.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5086719"
+url: https://raw.githubusercontent.com/api-network/organizations/main/daimoin-mmorpg.yaml
+tags:
+- Games
+apis: []
+x-common:
+- type: x-website
+  url: http://www.daimonin.org/
+- type: x-about
+  url: https://www.daimonin.org/about/
+- type: x-contact
+  url: https://www.daimonin.org/contact/
+- type: x-events
+  url: https://www.daimonin.org/events/
+- type: x-events
+  url: https://www.daimonin.org/events/year/2020/month/1/
+- type: x-events
+  url: https://www.daimonin.org/game-events/
+- type: x-facebook
+  url: https://www.facebook.com/Daimonin
+- type: x-forum
+  url: https://www.daimonin.org/forum/
+- type: x-login
+  url: https://www.daimonin.org/login/
+- type: x-signup
+  url: https://www.daimonin.org/signup/
+- type: x-support
+  url: https://www.daimonin.org/support/
+- type: x-twitter
+  url: https://twitter.com/DaimoninMMORPG
+- type: x-website
+  url: https://www.daimonin.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

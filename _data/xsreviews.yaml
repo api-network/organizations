@@ -1,0 +1,44 @@
+---
+name: XSReviews
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "674753"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xsreviews.yaml
+tags:
+- Reviews
+apis: []
+x-common:
+- type: x-website
+  url: http://eurogamer.net/digitalfoundry
+- type: x-about
+  url: https://xsreviews.co.uk/about/
+- type: x-contact
+  url: https://xsreviews.co.uk/contact-us/
+- type: x-contact
+  url: http://xsreviews.co.uk/contact-us/
+- type: x-facebook
+  url: http://facebook.com/xsreviews
+- type: x-linkedin
+  url: https://www.linkedin.com/in/wjudd/
+- type: x-news
+  url: https://xsreviews.co.uk/category/news/
+- type: x-news
+  url: https://xsreviews.co.uk/category/news/gaming-news/
+- type: x-news
+  url: https://xsreviews.co.uk/category/news/hardware-news/
+- type: x-news
+  url: https://xsreviews.co.uk/category/news/industry/
+- type: x-twitter
+  url: http://twitter.com/wsjudd
+- type: x-website
+  url: https://www.xsreviews.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

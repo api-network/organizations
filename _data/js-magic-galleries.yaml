@@ -1,0 +1,37 @@
+---
+name: J's Magic Galleries
+description: Offering free graphics and clip art, photography, poetry. stories for
+  all ages.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/js-magic-galleries.yaml
+tags:
+- Valentine
+- Thanksgiving
+- Story
+- Stories
+- Music
+- Mothers Day
+- Halloween
+- Graphics
+- Free
+- Fourth Of July
+- Fathers Day
+- Entertainment
+- Easter
+- Clip Art
+- Christmas
+apis: []
+x-common:
+- type: x-website
+  url: https://jsmagic.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

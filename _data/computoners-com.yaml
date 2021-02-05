@@ -1,0 +1,31 @@
+---
+name: CompuToners.com
+description: Copier Fax Inkjet Laser Toner computer printer supplies and more - always
+  on sale at Computoners.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3768942"
+url: https://raw.githubusercontent.com/api-network/organizations/main/computoners-com.yaml
+tags:
+- Supplies
+apis: []
+x-common:
+- type: x-about
+  url: https://www.computoners.com/about_us.php
+- type: x-contact
+  url: https://www.computoners.com/contact_us.php
+- type: x-privacy
+  url: https://www.computoners.com/privacy.php
+- type: x-security
+  url: https://www.computoners.com/credit_card_security.php
+- type: x-website
+  url: https://www.computoners.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

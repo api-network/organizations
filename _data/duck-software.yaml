@@ -1,0 +1,50 @@
+---
+name: Duck Software
+description: Database software to organize, track, and catalog your collections.  Free
+  shareware downloads to try out the collector programs.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/duck-software.yaml
+tags:
+- Video
+- Tracker
+- Track
+- Top
+- Shareware
+- Rated
+- Program
+- PC
+- Organizer Software
+- Organize
+- Music
+- Movie
+- Home
+- Free
+- Download
+- Database
+- Computer
+- Collector
+- Collection
+- Collect
+- Catalog
+- Card
+- Book
+- Best
+apis: []
+x-common:
+- type: x-about
+  url: https://www.ducksoftware.com/about.html
+- type: x-terms-of-service
+  url: https://www.ducksoftware.com/termsofuse.html
+- type: x-website
+  url: https://www.ducksoftware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

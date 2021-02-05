@@ -1,0 +1,55 @@
+---
+name: Sangoma Home Page
+description: Sangoma Technologies is a trusted leader delivering value-based Unified
+  Communications business phone systems, both on-premise and cloud-based.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "104756"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sangoma-home-page.yaml
+tags:
+- Networking
+apis: []
+x-common:
+- type: x-about
+  url: https://www.sangoma.com/about-us/
+- type: x-about
+  url: https://www.sangoma.com/about-us/locations/
+- type: x-about
+  url: https://www.sangoma.com/about-us/management/
+- type: x-careers
+  url: https://www.sangoma.com/about-us/careers/
+- type: x-events
+  url: https://www.sangoma.com/about-us/events/
+- type: x-facebook
+  url: https://www.facebook.com/sangoma
+- type: x-feed
+  url: https://www.sangoma.com/feedback/
+- type: x-investor
+  url: https://www.sangoma.com/investor-relations/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/sangoma/
+- type: x-open-source
+  url: https://www.sangoma.com/open-source/
+- type: x-partner
+  url: https://www.sangoma.com/partners/
+- type: x-partner
+  url: https://www.sangoma.com/partners/locate/
+- type: x-partner
+  url: https://www.sangoma.com/partners/portal/
+- type: x-support
+  url: https://www.sangoma.com/support/
+- type: x-twitter
+  url: https://www.twitter.com/sangoma
+- type: x-website
+  url: https://www.sangoma.com
+- type: x-youtube
+  url: https://www.youtube.com/user/SangomaTechnologies/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

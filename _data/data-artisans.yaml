@@ -1,0 +1,70 @@
+---
+name: Data Artisans
+description: data Artisans, founded by the original creators of Apache Flink, makes
+  stream processing easy for the enterprise with dA Platform, a complete stream processing
+  infrastructure that includes open-source Flink.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29183-data-artisans-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/data-artisans.yaml
+tags:
+- No API
+apis: []
+x-common:
+- type: x-website
+  url: http://ververica.com
+- type: x-website
+  url: http://www.data-artisans.com
+- type: x-about
+  url: https://www.ververica.com/about
+- type: x-about
+  url: https://www.ververica.com/about#team
+- type: x-blog
+  url: https://www.ververica.com/blog
+- type: x-careers
+  url: https://www.ververica.com/careers
+- type: x-contact
+  url: https://www.ververica.com/contact
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/data-artisans
+- type: x-documentation
+  url: https://docs.ververica.com/
+- type: x-email
+  url: sales@data-artisans.com
+- type: x-email
+  url: info@data-artisans.com
+- type: x-email
+  url: dataprotection@data-artisans.com
+- type: x-events
+  url: https://www.ververica.com/events-meetups
+- type: x-events
+  url: https://www.ververica.com/about/events-talks
+- type: x-linkedin
+  url: https://www.linkedin.com/company/data-artisans
+- type: x-partner
+  url: https://www.ververica.com/partner-program
+- type: x-platform
+  url: https://www.ververica.com/platform-overview
+- type: x-press
+  url: https://www.ververica.com/about/news-press
+- type: x-privacy
+  url: https://www.ververica.com/privacy-policy
+- type: x-security
+  url: https://www.ververica.com/multi-tenancy-security
+- type: x-support
+  url: https://www.ververica.com/support
+- type: x-twitter
+  url: https://twitter.com/VervericaData
+- type: x-twitter
+  url: https://twitter.com/dataArtisans
+- type: x-website
+  url: https://data-artisans.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

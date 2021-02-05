@@ -1,0 +1,61 @@
+---
+name: Intuit Canada
+description: ProFile is a professional tax preparation software integrated  with CRA
+  efile for T1, T2, T4s & more. Tax preparation & efiling is easy with this tax software.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "44862"
+url: https://raw.githubusercontent.com/api-network/organizations/main/intuit-canada.yaml
+tags:
+- Trusts
+- Tax Preparers Software
+- Tax Accounting
+- T5
+- T4a
+- T4
+- T3
+- T2
+- T1
+- Profile
+- Personal
+- Intuit
+- Efiling
+- Efile
+- Corporate
+- Canada
+- Best Professional Tax Software
+apis: []
+x-common:
+- type: x-careers
+  url: https://careers.intuit.com/
+- type: x-contact
+  url: https://www.intuit.com/ca/company/contact/
+- type: x-facebook
+  url: https://www.facebook.com/IntuitAccountants
+- type: x-pricing
+  url: https://profile.intuit.ca/pricing/
+- type: x-support
+  url: https://profile.intuit.ca/support/training/
+- type: x-support
+  url: https://profile.intuit.ca/support/system-requirements/
+- type: x-terms-of-service
+  url: https://www.intuit.com/ca/legal/
+- type: x-terms-of-service
+  url: https://www.intuit.com/ca/legal/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/intuitacctsca
+- type: x-webinars
+  url: https://profile.intuit.ca/support/webinars/
+- type: x-website
+  url: https://profile.intuit.ca
+- type: x-youtube
+  url: https://www.youtube.com/user/intuitaccountantsca
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

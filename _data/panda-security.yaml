@@ -1,0 +1,38 @@
+---
+name: Panda Security
+description: Buy now the best antivirus program for all your devices. Protect your
+  computer, tablet and smartphone against all types of viruses, malware and ransomware.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "15493"
+url: https://raw.githubusercontent.com/api-network/organizations/main/panda-security.yaml
+tags:
+- Security
+- Anti-Virus
+apis: []
+x-common:
+- type: x-website
+  url: http://www.pandasecurity.com
+- type: x-facebook
+  url: https://www.facebook.com/PandaSecurity
+- type: x-security
+  url: https://www.pandasecurity.com
+- type: x-security
+  url: http://www.linkedin.com/company/panda-security
+- type: x-security
+  url: https://www.instagram.com/pandasecurity/
+- type: x-twitter
+  url: https://twitter.com/#!/Panda_Security
+- type: x-website
+  url: https://www.pandasecurity.com
+- type: x-youtube
+  url: https://www.youtube.com/user/PandaSecurity1
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

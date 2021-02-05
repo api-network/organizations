@@ -1,0 +1,37 @@
+---
+name: Dino-Software
+description: Dino-Software Corporation (Dino-Software) develops z/OS enterprise solutions
+  for the optimization of complex IT environments and z/OS storage management.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dinosoftware.yaml
+tags:
+- Software
+apis: []
+x-common:
+- type: x-about
+  url: https://dino-software.com/about-2/
+- type: x-contact
+  url: https://dino-software.com/contact/
+- type: x-news
+  url: https://dino-software.com/news/
+- type: x-privacy
+  url: https://dino-software.com/dino-privacy-policy/
+- type: x-support
+  url: https://dino-software.com/technical-support/
+- type: x-support
+  url: https://dino-software.com/support-2/technical-support/
+- type: x-webinars
+  url: https://dino-software.com/webinars/
+- type: x-website
+  url: https://www.dino-software.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,24 @@
+---
+name: Chisel - Fossil SCM Hosting
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2034265"
+url: https://raw.githubusercontent.com/api-network/organizations/main/chisel--fossil-scm-hosting.yaml
+tags:
+- Fossil
+apis: []
+x-common:
+- type: x-open-source
+  url: http://opensource.org/licenses/ISC
+- type: x-website
+  url: https://chiselapp.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,47 @@
+---
+name: Compare and Merge
+description: Compare and Merge is a Windows file compare utility for detecting and
+  merging differences between files and folders. Manage source code, compare program
+  output, etc.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5504809"
+url: https://raw.githubusercontent.com/api-network/organizations/main/compare-and-merge.yaml
+tags:
+- Windows File Compare
+- Windows
+- Text File Merge
+- File Synchronizer
+- File Merge Utility
+- File Merge
+- File Folder Utility
+- File Directory Compare Utility
+- File Comparison Utility
+- File Comparison Software
+- File Comparison
+- File Compare Utility
+- File Compare Tool
+- File Compare Software
+- File Compare
+- Directory Compare Utility
+- Directory Compare
+- Compare Two Files
+- Compare Text Files
+- Compare Folders
+- Compare Files
+- Compare Document Files
+- Compare Directories
+- Compare
+apis: []
+x-common:
+- type: x-website
+  url: https://www.compareandmerge.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

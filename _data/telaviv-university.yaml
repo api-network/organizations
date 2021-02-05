@@ -1,0 +1,44 @@
+---
+name: Tel-Aviv University
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "23005"
+url: https://raw.githubusercontent.com/api-network/organizations/main/telaviv-university.yaml
+tags:
+- Israel
+apis: []
+x-common:
+- type: x-about
+  url: http://new.tau.ac.il/about
+- type: x-events
+  url: https://yedidim.tau.ac.il/events/events-lobby
+- type: x-facebook
+  url: https://www.facebook.com/cstau/
+- type: x-facebook
+  url: https://www.facebook.com/tau.main/
+- type: x-instagram
+  url: https://www.instagram.com/telavivuni/
+- type: x-linkedin
+  url: https://www.linkedin.com/school/3154?pathWildcard=3154
+- type: x-login
+  url: https://www.lis.tau.ac.il/bogrim/login.asp?
+- type: x-login
+  url: https://www.ims.tau.ac.il/md/rishum/login.aspx
+- type: x-news
+  url: https://www.tau.ac.il/news
+- type: x-press
+  url: http://www.taupress.co.il/
+- type: x-website
+  url: https://www.cs.tau.ac.il
+- type: x-youtube
+  url: https://www.youtube.com/user/TAUVOD
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

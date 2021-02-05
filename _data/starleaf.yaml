@@ -1,0 +1,66 @@
+---
+name: StarLeaf
+description: StarLeaf is a UK-based company that provides voice and video conferencing
+  systems for conference rooms and desktops, and software clients for mobile users.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29503-starleaf-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "181446"
+url: https://raw.githubusercontent.com/api-network/organizations/main/starleaf.yaml
+tags:
+- Telecommunications
+- Networking
+apis: []
+x-common:
+- type: x-website
+  url: http://www.starleaf.com
+- type: x-about
+  url: https://www.starleaf.com/about-us/
+- type: x-about
+  url: https://www.starleaf.com/about-us/become-a-partner/
+- type: x-careers
+  url: https://www.starleaf.com/careers/
+- type: x-case-studies
+  url: https://www.starleaf.com/resources/case-studies/
+- type: x-contact
+  url: https://www.starleaf.com/about-us/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/starleaf
+- type: x-email
+  url: work@starleaf.com
+- type: x-email
+  url: media@starleaf.com
+- type: x-email
+  url: romain.lasnier@starleaf.com
+- type: x-facebook
+  url: https://www.facebook.com/StarLeafCo
+- type: x-linkedin
+  url: http://www.linkedin.com/company/starleaf
+- type: x-news
+  url: https://www.starleaf.com/resources/news-and-blog/
+- type: x-partner
+  url: https://partners.starleaf.com/
+- type: x-platform
+  url: https://www.starleaf.com/products/starleaf-platform/
+- type: x-support
+  url: https://support.starleaf.com/
+- type: x-terms-of-service
+  url: https://www.starleaf.com/solutions/by-industry/legal/
+- type: x-terms-of-service
+  url: https://support.starleaf.com/legal-information/
+- type: x-twitter
+  url: https://twitter.com/StarLeafCo
+- type: x-website
+  url: http://starleaf.com
+- type: x-white-papers
+  url: https://www.starleaf.com/resources/whitepapers/
+- type: x-youtube
+  url: https://www.youtube.com/user/StarLeafCo
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

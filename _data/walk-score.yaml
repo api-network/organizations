@@ -1,0 +1,39 @@
+---
+name: Walk Score
+description: |-
+  <p>TidyClub is an enterprise-like cloud computing company built for your mother with a per transaction revenue model. The company is best known for making committee administration simple through combine CRM, Memberships, Tasks, Events, Payments, Finances, Meeting Minutes, SMS into one open environment. </p>
+
+  <p>TidyClub was founded in 2009 by Australian businessman Isaak Dury and launched to the public in November of 2011. TidyClub has been a pioneer in developing an enterprise-like platform for the &#8216;common person&#8217; through its open model allowing to extend the platform to specific needs for groups.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/pull_image_10-12-2019-04-58-pm.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "68285"
+url: https://raw.githubusercontent.com/api-network/organizations/main/walk-score.yaml
+tags:
+- Walking
+- Profile
+- Have API
+- Driving
+- Distance
+apis: []
+x-common:
+- type: x-website
+  url: http://www.walkscore.com
+- type: x-website
+  url: http://www.walkscore.com/professional/travel-time-api.php
+- type: x-blog
+  url: http://blog.walkscore.com/
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/WalkScoreBlog
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/tidyclub
+- type: x-twitter
+  url: https://twitter.com/walkscore
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

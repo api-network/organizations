@@ -1,0 +1,50 @@
+---
+name: Salt Edge
+description: Salt Edge Inc. offers financial solutions, such as financial data aggregation,
+  white label banking, and other valued added APIs.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28175-www-saltedge-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "500309"
+url: https://raw.githubusercontent.com/api-network/organizations/main/salt-edge.yaml
+tags:
+- PSD2
+- Have API
+- Contacts
+- Banking
+apis: []
+x-common:
+- type: x-website
+  url: https://www.saltedge.com/
+- type: x-blog
+  url: https://blog.saltedge.com/
+- type: x-blog
+  url: https://blog.saltedge.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/salt-edge-inc-
+- type: x-email
+  url: support@saltedge.com
+- type: x-email
+  url: privacy@saltedge.com
+- type: x-facebook
+  url: https://www.facebook.com/saltedgeinc
+- type: x-github
+  url: https://github.com/saltedge
+- type: x-linkedin
+  url: https://www.linkedin.com/company/saltedge
+- type: x-security
+  url: https://secure.trust-guard.com/security/9337
+- type: x-status
+  url: https://www.saltedgestatus.com/
+- type: x-twitter
+  url: https://twitter.com/saltedge
+- type: x-website
+  url: https://www.saltedge.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

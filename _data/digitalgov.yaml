@@ -1,0 +1,38 @@
+---
+name: DigitalGov
+description: "DigitalGov: We\u2019re helping you build a modern government."
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/2942-digitalgov.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "2335821"
+url: https://raw.githubusercontent.com/api-network/organizations/main/digitalgov.yaml
+tags:
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://digital.gov
+- type: x-about
+  url: https://www.gsa.gov/about
+- type: x-blog-rss
+  url: http://www.digitalgov.gov/feed/
+- type: x-contact
+  url: https://www.usa.gov/contact?ref=Digital.gov
+- type: x-facebook
+  url: https://www.facebook.com/digitalgov/
+- type: x-github
+  url: https://github.com/GSA/digitalgov.gov/
+- type: x-twitter
+  url: https://twitter.com/digital_gov
+- type: x-website
+  url: http://www.digitalgov.gov/
+- type: x-youtube
+  url: https://youtube.com/digitalgov
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

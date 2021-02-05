@@ -1,0 +1,35 @@
+---
+name: TradeKing
+description: "Ally Invest offers a wide range of self-directed and managed investment
+  products at among the industry\u2019s lowest fees."
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28326-investor-tradeking-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "93941"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tradeking.yaml
+tags:
+- Marketplaces
+- Has API
+- Financial
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/tradeking
+- type: x-investor
+  url: https://investor.tradeking.com
+- type: x-login
+  url: https://www.tradeking.com/forex/login.htm
+- type: x-signup
+  url: https://www.tradeking.com/forex/demo_signup_ft.htm
+- type: x-twitter
+  url: https://twitter.com/TradeKing
+- type: x-website
+  url: https://investor.tradeking.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

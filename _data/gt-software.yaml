@@ -1,0 +1,52 @@
+---
+name: GT Software
+description: Enterprise Software Solutions
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "999597"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gt-software.yaml
+tags:
+- Software
+apis: []
+x-common:
+- type: x-website
+  url: http://www.gtsoftware.com
+- type: x-about
+  url: https://www.gtsoftware.com/about/company/
+- type: x-about
+  url: https://www.gtsoftware.com/about/leadership/
+- type: x-blog
+  url: https://www.gtsoftware.com/resource/blog/
+- type: x-careers
+  url: https://www.gtsoftware.com/about/careers/
+- type: x-case-studies
+  url: https://www.gtsoftware.com/resource/case-studies/
+- type: x-contact
+  url: https://www.gtsoftware.com/contact-us/
+- type: x-events
+  url: https://www.gtsoftware.com/about/events/
+- type: x-facebook
+  url: https://www.facebook.com/GT-Software-127969061309384/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/gt-software/
+- type: x-news
+  url: https://www.gtsoftware.com/about/news/
+- type: x-privacy
+  url: https://www.gtsoftware.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.gtsoftware.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/gtsoftware
+- type: x-webinars
+  url: https://www.gtsoftware.com/resource/webinars/
+- type: x-website
+  url: https://www.gtsoftware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,38 @@
+---
+name: GetNetWise.org
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6192252"
+url: https://raw.githubusercontent.com/api-network/organizations/main/getnetwise-org.yaml
+tags:
+- Child Safety
+apis: []
+x-common:
+- type: x-about
+  url: https://www.getnetwise.org/index.php/about/
+- type: x-feed
+  url: https://www.getnetwise.org/index.php/feed/
+- type: x-feed
+  url: http://www.connectsafely.org/feed/
+- type: x-news
+  url: http://www.netfamilynews.org/feed
+- type: x-news
+  url: https://www.netfamilynews.org/
+- type: x-news
+  url: https://www.netfamilynews.org/the-tiktok-sensation
+- type: x-press
+  url: http://wordpress.org
+- type: x-privacy
+  url: https://www.getnetwise.org/index.php/privacy-policy/
+- type: x-website
+  url: https://www.getnetwise.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

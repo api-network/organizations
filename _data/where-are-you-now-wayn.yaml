@@ -1,0 +1,44 @@
+---
+name: Where Are You Now? (WAYN)
+description: Providing inspiration on where to travel next
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "59973"
+url: https://raw.githubusercontent.com/api-network/organizations/main/where-are-you-now-wayn.yaml
+tags:
+- Social Networking
+apis: []
+x-common:
+- type: x-blog
+  url: http://www.wayn.com/blog/
+- type: x-blog
+  url: https://www.wayn.com/blog/24-hours-rome
+- type: x-blog
+  url: https://www.wayn.com/blog/24-hours-cape-town
+- type: x-blog
+  url: https://www.wayn.com/blog/category/24h-guides
+- type: x-blog
+  url: https://www.wayn.com/blog/top-ecotourism-destinations
+- type: x-blog
+  url: https://www.wayn.com/blog/top-hen-party-destinations
+- type: x-blog
+  url: https://www.wayn.com/blog/top-7-cultural-cities-world
+- type: x-blog
+  url: https://www.wayn.com/blog/7-unbelievably-beaches
+- type: x-blog
+  url: https://www.wayn.com/blog/authors/-wayn
+- type: x-privacy
+  url: https://www.wayn.com/privacy-policy
+- type: x-terms-of-service
+  url: https://www.wayn.com/terms
+- type: x-website
+  url: https://www.wayn.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

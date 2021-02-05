@@ -1,0 +1,22 @@
+---
+name: OpenTech Alliance, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "838857"
+url: https://raw.githubusercontent.com/api-network/organizations/main/opentech-alliance-inc-.yaml
+tags:
+- Kiosks
+apis: []
+x-common:
+- type: x-website
+  url: https://www.opentechalliance.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

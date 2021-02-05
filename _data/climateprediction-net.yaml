@@ -1,0 +1,42 @@
+---
+name: ClimatePrediction.Net
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3958916"
+url: https://raw.githubusercontent.com/api-network/organizations/main/climateprediction-net.yaml
+tags:
+- Projects
+apis: []
+x-common:
+- type: x-website
+  url: http://climateprediction.net
+- type: x-about
+  url: https://www.climateprediction.net/about/
+- type: x-contact
+  url: http://www.climateprediction.net/about/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/climateprediction.net
+- type: x-forum
+  url: https://www.cpdn.org/forum_index.php
+- type: x-login
+  url: https://www.cpdn.org/login_form.php
+- type: x-news
+  url: https://www.climateprediction.net/news/
+- type: x-status
+  url: https://www.cpdn.org/server_status.php
+- type: x-support
+  url: https://www.climateprediction.net/support/
+- type: x-twitter
+  url: https://twitter.com/CPDN_BOINC
+- type: x-website
+  url: https://www.climateprediction.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

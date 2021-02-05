@@ -1,0 +1,40 @@
+---
+name: Toledo, OH
+description: This is the overview page where you can see the state of open data across
+  each key dataset.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "212055"
+url: https://raw.githubusercontent.com/api-network/organizations/main/toledo-oh.yaml
+tags:
+- No API
+- City Government
+apis: []
+x-common:
+- type: x-code
+  url: http://www.codeforamerica.org/
+- type: x-login
+  url: http://id.census.okfn.org/login
+- type: x-open-source
+  url: https://discuss.okfn.org/c/open-data-index
+- type: x-open-source
+  url: http://opendefinition.org/ossd/
+- type: x-open-source
+  url: http://opendefinition.org/okd/
+- type: x-open-source
+  url: http://opendatacommons.org/licenses/pddl/1.0
+- type: x-open-source
+  url: https://github.com/okfn/opendatacensus/
+- type: x-open-source
+  url: http://okfn.org/opendata/
+- type: x-website
+  url: http://us-city.census.okfn.org/place/toledo
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

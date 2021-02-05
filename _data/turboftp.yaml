@@ -1,0 +1,32 @@
+---
+name: TurboFTP
+description: TurboSoft, Inc. offers a complete file transfer solution to corporate
+  and businesses. Our fast and secure FTP/SFTP server helps you to transfer files
+  at turbo speed.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/turboftp.yaml
+tags:
+- Sftp Server
+- Secure File Transfer
+- Ftp File Transfer
+apis: []
+x-common:
+- type: x-forum
+  url: http://forum.tbsoftinc.com
+- type: x-privacy
+  url: https://www.tbsoftinc.com/company/privacy.html
+- type: x-support
+  url: http://www.tbsoftinc.com/support
+- type: x-website
+  url: https://www.turboftp.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

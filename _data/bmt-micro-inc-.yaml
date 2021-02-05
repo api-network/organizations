@@ -1,0 +1,52 @@
+---
+name: BMT Micro, Inc.
+description: BMT Micro, Inc. is a leader in software distribution and order fulfillment.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "76439"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bmt-micro-inc-.yaml
+tags:
+- Merchant Services
+apis: []
+x-common:
+- type: x-website
+  url: http://www.bmtmicro.com
+- type: x-about
+  url: https://www.bmtmicro.com/about-bmt/
+- type: x-blog
+  url: https://blog.bmtmicro.com/
+- type: x-blog
+  url: https://blog.bmtmicro.com/a-guide-to-chargebacks/
+- type: x-contact
+  url: https://www.bmtmicro.com/contact-us/
+- type: x-customers
+  url: https://customers.bmtmicro.com/
+- type: x-customers
+  url: https://www.bmtmicro.com/customers/
+- type: x-facebook
+  url: https://www.facebook.com/bmt.micro
+- type: x-feed
+  url: https://blog.bmtmicro.com/feed/
+- type: x-instagram
+  url: https://www.instagram.com/bmtmicro/
+- type: x-news
+  url: https://www.bmtmicro.com/news/
+- type: x-plans
+  url: https://www.bmtmicro.com/sign-up-plans/
+- type: x-pricing
+  url: https://blog.bmtmicro.com/pricingpsychology/
+- type: x-privacy
+  url: https://www.bmtmicro.com/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/BMTMicro
+- type: x-website
+  url: https://www.bmtmicro.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

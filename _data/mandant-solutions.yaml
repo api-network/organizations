@@ -1,0 +1,37 @@
+---
+name: Mandant Solutions
+description: Mandant Solutions - The SAP experts - Business Integration and Technical
+  consulting in SAP Netweaver and related technologies.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1788103"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mandant-solutions.yaml
+tags:
+- Consultants
+apis: []
+x-common:
+- type: x-about
+  url: https://www.mandant.net/about-us/
+- type: x-blog
+  url: http://blog.mandant.net
+- type: x-contact
+  url: https://www.mandant.net/contact-us/
+- type: x-partner
+  url: https://www.mandant.net/partners/
+- type: x-privacy
+  url: https://www.mandant.net/privacy-policy/
+- type: x-support
+  url: http://matrix-cloud.co.uk/helpdesk
+- type: x-twitter
+  url: https://twitter.com/@mandantuk
+- type: x-website
+  url: https://www.mandant.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

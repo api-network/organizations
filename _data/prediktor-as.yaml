@@ -1,0 +1,56 @@
+---
+name: Prediktor AS
+description: "Prediktor delivers advanced industrial IT tools and solutions to a wide
+  range of industries. Prediktor\u2019s products and solutions are based on deep process
+  knowledge and insights into our customers\u2019 processes, operations and needs."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/prediktor-as.yaml
+tags:
+- Process
+apis: []
+x-common:
+- type: x-about
+  url: https://www.prediktor.no/about-prediktor/
+- type: x-contact
+  url: https://www.prediktor.no/contact-us/
+- type: x-events
+  url: http://www.prediktor.no/events
+- type: x-events
+  url: https://www.prediktor.no/events/userconference2019/
+- type: x-events
+  url: https://www.prediktor.no/events/prediktor-at-aqua-nor/
+- type: x-facebook
+  url: http://www.facebook.com/PrediktorAS
+- type: x-feed
+  url: https://www.prediktor.no/food-feed/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/prediktor-as
+- type: x-news
+  url: http://www.prediktor.no/news
+- type: x-news
+  url: https://www.prediktor.no/news/ntnu-award/
+- type: x-news
+  url: https://www.prediktor.no/news/idekapital2019/
+- type: x-news
+  url: https://www.prediktor.no/news/elkemsolar/
+- type: x-news
+  url: https://www.prediktor.no/news/bkk-corporate-historian/
+- type: x-privacy
+  url: https://www.prediktor.no/privacy-policy/
+- type: x-support
+  url: https://www.prediktor.no/support/
+- type: x-terms-of-service
+  url: https://www.prediktor.no/terms-of-service/
+- type: x-website
+  url: https://www.prediktor.no
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

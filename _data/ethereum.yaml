@@ -1,0 +1,51 @@
+---
+name: Ethereum
+description: Ethereum is a decentralized platform for applications that run exactly
+  as programmed without any chance of fraud, censorship or third-party interference.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26618-www-ethereum-org.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "19773"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ethereum.yaml
+tags:
+- Have API
+- Blockchain
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://ethereum.org
+- type: x-blog
+  url: https://blog.ethereum.org/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/ethereum
+- type: x-email
+  url: info@ethereum.org
+- type: x-email
+  url: press@ethereum.org
+- type: x-email
+  url: donate@ethereum.org
+- type: x-email
+  url: notices@ethereum.org
+- type: x-github
+  url: https://github.com/ethereum/ethereum-org-website
+- type: x-github
+  url: https://oficinastk.github.io
+- type: x-github
+  url: https://github.com/ethereum
+- type: x-support
+  url: https://ecosystem.support/
+- type: x-twitter
+  url: https://twitter.com/ethereumproject
+- type: x-twitter
+  url: https://twitter.com/ethereum
+- type: x-website
+  url: https://www.ethereum.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

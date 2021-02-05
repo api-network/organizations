@@ -1,0 +1,36 @@
+---
+name: Easy XML Editor
+description: Easy XML Editor/XML Assistant - XML/XSD/XSL Software - Edit XML
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5409927"
+url: https://raw.githubusercontent.com/api-network/organizations/main/easy-xml-editor.yaml
+tags:
+- XSL
+- XSD
+- XML Editor
+- Xml Bearbeiten
+- XML
+- Viewer
+- Tool
+- Software
+- Markup
+- Language
+- Extensible
+- Editor
+- Download
+- Bearbeitung
+- Applications
+apis: []
+x-common:
+- type: x-website
+  url: https://www.edit-xml.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

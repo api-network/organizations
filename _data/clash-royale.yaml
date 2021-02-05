@@ -1,0 +1,39 @@
+---
+name: Clash Royale
+description: Clash Royale, Mobile, iOS, beta, App, Strategy, Pvp, card, Clans, game,
+  iPhone, Supercell, Official, Download, Install, Play, Free, iPad, Combat, Compete,
+  duel, collect this one
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28968-developer-clashroyale-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "52871"
+url: https://raw.githubusercontent.com/api-network/organizations/main/clash-royale.yaml
+tags:
+- Profile
+- Games
+apis: []
+x-common:
+- type: x-website
+  url: https://www.youtube.com/clashroyale
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/clash-royale-deck
+- type: x-getting-started
+  url: https://developer.clashroyale.com/#/getting-started
+- type: x-login
+  url: https://developer.clashroyale.com/#/login
+- type: x-registration
+  url: https://developer.clashroyale.com/#/register
+- type: x-terms-of-service
+  url: https://supercell.com/en/terms-of-service/
+- type: x-twitter
+  url: https://twitter.com/ClashRoyale
+- type: x-website
+  url: https://developer.clashroyale.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

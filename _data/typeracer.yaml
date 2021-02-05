@@ -1,0 +1,45 @@
+---
+name: TypeRacer
+description: The award-winning online typing competition, TypeRacer, is the best free
+  typing game in the world. Race against live opponents typing quotes from books,
+  movies, and songs.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "12454"
+url: https://raw.githubusercontent.com/api-network/organizations/main/typeracer.yaml
+tags:
+- Wpm
+- Typing Tutor
+- Typing Test
+- Typing Software
+- Typing Skills
+- Typing Practice
+- Typing Lessons
+- Typing Games For Kids
+- Typing Game
+- Typing
+- Touch Typing
+- Mavis Beacon
+- Free Typing Test
+- Free Typing Program
+- Free Typing Games
+- Best Typing Game
+apis: []
+x-common:
+- type: x-about
+  url: https://data.typeracer.com/misc/about
+- type: x-blog
+  url: http://blog.typeracer.com/
+- type: x-privacy
+  url: http://data.typeracer.com/pit/privacy_policy
+- type: x-website
+  url: https://typeracer.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

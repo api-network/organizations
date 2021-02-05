@@ -1,0 +1,32 @@
+---
+name: Smart PC Tools
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "678361"
+url: https://raw.githubusercontent.com/api-network/organizations/main/smart-pc-tools.yaml
+tags:
+- Products And Tools
+apis: []
+x-common:
+- type: x-blog
+  url: http://www.smartpctools.com/blog/
+- type: x-privacy
+  url: https://smartpctools.com/privacy-protector/
+- type: x-privacy
+  url: https://smartpctools.com/privacy-policy/
+- type: x-support
+  url: https://smartpctools.com/support/
+- type: x-support
+  url: http://www.smartpctools.com/support/
+- type: x-website
+  url: https://www.smartpctools.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,38 @@
+---
+name: Fortinet
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fortinet.yaml
+tags:
+- Telephony
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.fortinet.com/blog
+- type: x-facebook
+  url: https://www.facebook.com/fortinet
+- type: x-instagram
+  url: https://www.instagram.com/behindthefirewall/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/fortinet
+- type: x-signup
+  url: https://forticall.secureto.us/signup.php
+- type: x-twitter
+  url: https://www.twitter.com/fortinet
+- type: x-website
+  url: https://www.fortivoice.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=Bqe6KRG4kI0
+- type: x-youtube
+  url: https://www.youtube.com/user/SecureNetworks
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,48 @@
+---
+name: HQ Wallpapers
+description: Download high definition images for your desktop background, or wallpaper
+  for your tablets and mobile devices.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4253925"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hq-wallpapers.yaml
+tags:
+- Wallpapers
+- Hq Wallpapers
+- Hd Wallpapers
+- Hd Images
+- Free
+- Desktop Backgrounds
+apis: []
+x-common:
+- type: x-website
+  url: http://hqwalls.com
+- type: x-blog
+  url: http://adventurelogger.blogspot.com/
+- type: x-contact
+  url: https://www.hqwalls.com/contact
+- type: x-facebook
+  url: https://www.facebook.com/HQWalls/
+- type: x-feed
+  url: http://feeds.feedburner.com/MoviesWallpapers
+- type: x-instagram
+  url: http://instagram.com/hqwalls
+- type: x-press
+  url: https://www.hqwalls.com/tag/impressionism
+- type: x-press
+  url: https://wordpress.org/
+- type: x-privacy
+  url: https://www.hqwalls.com/privacy-policy
+- type: x-twitter
+  url: https://twitter.com/hqwalls
+- type: x-website
+  url: https://www.hqwalls.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

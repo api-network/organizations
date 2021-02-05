@@ -1,0 +1,42 @@
+---
+name: Inclarity
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10096779"
+url: https://raw.githubusercontent.com/api-network/organizations/main/inclarity.yaml
+tags:
+- Access Providers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.inclarity.co.uk
+- type: x-about
+  url: https://www.inclarity.co.uk/about-us/
+- type: x-careers
+  url: https://www.inclarity.co.uk/careers/
+- type: x-contact
+  url: https://www.inclarity.co.uk/contact-us/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/inclarity
+- type: x-news
+  url: https://www.inclarity.co.uk/news/
+- type: x-platform
+  url: https://www.inclarity.co.uk/broadsoft-platform/
+- type: x-privacy
+  url: https://www.inclarity.co.uk/privacy-policy/
+- type: x-support
+  url: https://www.inclarity.co.uk/support/
+- type: x-twitter
+  url: https://twitter.com/Inclarity_Comms
+- type: x-website
+  url: https://www.inclarity.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

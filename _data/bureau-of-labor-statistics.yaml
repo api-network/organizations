@@ -1,0 +1,44 @@
+---
+name: Bureau of Labor Statistics
+description: <p>The Bureau of Labor Statistics (BLS) is a unit of the United States
+  Department of Labor. It is the principal fact-finding agency for the U.S. government
+  in the broad field of labor economics and statistics and serves as a principal agency
+  of the U.S. Federal Statistical System. The BLS is a governmental statistical agency
+  that collects, processes, analyzes, and disseminates essential statistical data
+  to the American public, the U.S. Congress, other Federal agencies, State and local
+  governments, business, and labor representatives. The BLS also serves as a statistical
+  resource to the Department of Labor, and conducts research into how much families
+  need to earn to be able to enjoy a decent standard of living.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/400px-Bureau_of_labor_statistics_logo.svg.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "5746"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bureau-of-labor-statistics.yaml
+tags:
+- Labor
+- Have API
+- Federal Government
+- Data Provider
+- API Provider
+apis: []
+x-common:
+- type: x-blog
+  url: https://blogs.bls.gov/blog/
+- type: x-data
+  url: https://www.bls.gov/data/
+- type: x-developers
+  url: http://www.bls.gov/developers/
+- type: x-twitter
+  url: http://twitter.com/BLS_gov
+- type: x-website
+  url: http://www.bls.gov
+- type: x-wikipedia
+  url: http://en.wikipedia.org/wiki/Bureau_of_Labor_Statistics
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

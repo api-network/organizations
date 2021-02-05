@@ -1,0 +1,32 @@
+---
+name: Derek Hatchard Blogs On
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "11054850"
+url: https://raw.githubusercontent.com/api-network/organizations/main/derek-hatchard-blogs-on.yaml
+tags:
+- Weblogs
+apis: []
+x-common:
+- type: x-website
+  url: http://derekhat.com/about/
+- type: x-about
+  url: https://derekhat.com/about/
+- type: x-feed
+  url: http://derekhat.com/feed/
+- type: x-twitter
+  url: https://twitter.com/intent/follow?screen_name=derekhat
+- type: x-twitter
+  url: https://twitter.com/derekhat
+- type: x-website
+  url: https://www.derekhat.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

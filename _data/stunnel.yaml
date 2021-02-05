@@ -1,0 +1,35 @@
+---
+name: Stunnel
+description: 'Home page for stunnel: a multiplatform GNU/GPL-licensed proxy encrypting
+  arbitrary TCP connections with SSL/TLS.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "313387"
+url: https://raw.githubusercontent.com/api-network/organizations/main/stunnel.yaml
+tags:
+- TLS
+- TCP
+- Stunnel
+- SSL
+- Proxy
+- Protocols
+- OpenSSL
+apis: []
+x-common:
+- type: x-documentation
+  url: https://www.openssl.org/docs/fips.html
+- type: x-linkedin
+  url: https://www.linkedin.com/in/mtrojnar
+- type: x-open-source
+  url: https://www.openssl.org
+- type: x-website
+  url: https://www.stunnel.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

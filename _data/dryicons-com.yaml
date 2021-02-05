@@ -1,0 +1,29 @@
+---
+name: Dryicons.com
+description: Over 5000 high-quality web and vector icons in 77 Icon Sets, and more
+  than 1700 vector graphics for designers and developers.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "126075"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dryicons-com.yaml
+tags:
+- Icons
+apis: []
+x-common:
+- type: x-website
+  url: http://dryicons.com/
+- type: x-facebook
+  url: https://facebook.com/dryicons
+- type: x-twitter
+  url: https://twitter.com/dryicons
+- type: x-website
+  url: https://dryicons.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

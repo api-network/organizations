@@ -1,0 +1,75 @@
+---
+name: BIOBASE
+description: QIAGEN Bioinformatics software solutions and curated knowledge databases
+  help you transform your raw NGS data into relevant, actionable findings.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1246_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "289947"
+url: https://raw.githubusercontent.com/api-network/organizations/main/biobase.yaml
+tags:
+- Presentations
+- Postman Doc Search
+- New
+- Have API
+- Biotechnology
+- Biology
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.biobase-international.com
+- type: x-website
+  url: https://digitalinsights.qiagen.com
+- type: x-about
+  url: https://digitalinsights.qiagen.com/about/
+- type: x-about
+  url: https://digitalinsights.qiagen.com/about-corporate/
+- type: x-about
+  url: https://corporate.qiagen.com/about-us/
+- type: x-blog
+  url: http://www.biobase-international.com/blog
+- type: x-blog-rss
+  url: http://www.biobase-international.com/feed
+- type: x-careers
+  url: https://digitalinsights.qiagen.com/careers/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/biobase
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/qiagen
+- type: x-developers
+  url: https://rdrr.io/bioc/Biobase/api/
+- type: x-events
+  url: https://www.toxicology.org/events/am/AM2020/index.asp
+- type: x-facebook
+  url: https://www.facebook.com/Qiagenbiox
+- type: x-github
+  url: https://github.com/Biobase
+- type: x-instagram
+  url: https://www.instagram.com/qiagen/
+- type: x-login
+  url: https://secure.clcbio.com/myclc/login
+- type: x-login
+  url: https://digitalinsights.qiagen.com/product-login/
+- type: x-news
+  url: https://digitalinsights.qiagen.com/news/blog/
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/664302/S1ENwy59
+- type: x-tutorials
+  url: https://digitalinsights.qiagen.com/support/tutorials/
+- type: x-twitter
+  url: https://twitter.com/QIAGENBiox
+- type: x-twitter
+  url: https://twitter.com/biobase
+- type: x-website
+  url: http://rdrr.io
+- type: x-youtube
+  url: https://www.youtube.com/user/QIAGENvideos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,49 @@
+---
+name: Man & Machine
+description: Featuring a medical keyboard line for hospitals and doctors. Waterproof
+  keyboard line for factory or Industrial settings. Police Car Keyboards for cruisers.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5087986"
+url: https://raw.githubusercontent.com/api-network/organizations/main/man-machine.yaml
+tags:
+- Keyboards
+apis: []
+x-common:
+- type: x-website
+  url: http://www.man-machine.com
+- type: x-about
+  url: https://www.man-machine.com/about-man-and-machine/
+- type: x-contact
+  url: https://www.man-machine.com/contact-us/
+- type: x-contact
+  url: https://www.man-machine.com/contact-support/
+- type: x-events
+  url: https://www.man-machine.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/manAndMachine/
+- type: x-facebook
+  url: https://facebook.com/ManAndMachine
+- type: x-facebook
+  url: https://www.facebook.com/ManAndMachine
+- type: x-linkedin
+  url: http://linkedin.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/man-&-machine-europe
+- type: x-news
+  url: https://www.man-machine.com/news/
+- type: x-twitter
+  url: http://twitter.com
+- type: x-twitter
+  url: https://twitter.com/manandmachineco
+- type: x-website
+  url: https://www.man-machine.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

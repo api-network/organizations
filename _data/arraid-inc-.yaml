@@ -1,0 +1,26 @@
+---
+name: Arraid, Inc.
+description: Arraid, LLC manufactures replacement data storage solutions for computer
+  systems by Bull, DEC, Encore, Honeywell, HP, Evans and Sutherland, Pertec, and many
+  more. Arraid utilizes our proprietary FPGA based technology to replace aging and
+  refurbished drives offering reliable and programmable solid state flashdisk, solid
+  state flashtape  and solid state floppy disk drives.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7059442"
+url: https://raw.githubusercontent.com/api-network/organizations/main/arraid-inc-.yaml
+tags:
+- Data Storage Services
+apis: []
+x-common:
+- type: x-website
+  url: https://www.arraid.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

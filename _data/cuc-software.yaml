@@ -1,0 +1,35 @@
+---
+name: CUC Software
+description: CUC Software's Contractor Essentials software developed for HVAC contractors
+  from accounting and job costing to service dispatch and marketing
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4322523"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cuc-software.yaml
+tags:
+- Construction
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cucsoft.com
+- type: x-contact
+  url: https://www.cucsoft.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/CUCSoftware
+- type: x-linkedin
+  url: http://www.linkedin.com/company/cuc-software-inc-
+- type: x-support
+  url: https://www.cucsoft.com/support/
+- type: x-twitter
+  url: https://twitter.com/cucsoft
+- type: x-website
+  url: https://www.cucsoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

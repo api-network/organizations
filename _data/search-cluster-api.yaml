@@ -1,0 +1,52 @@
+---
+name: Search Cluster API
+description: ""
+image: http://doc.lucidworks.com
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "164120"
+url: https://raw.githubusercontent.com/api-network/organizations/main/search-cluster-api.yaml
+tags:
+- Profile
+apis: []
+x-common:
+- type: x-website
+  url: http://www.lucidworks.com
+- type: x-blog
+  url: https://lucidworks.com/blog/
+- type: x-careers
+  url: https://lucidworks.com/careers/
+- type: x-contact
+  url: https://lucidworks.com/contact/
+- type: x-customers
+  url: https://lucidworks.com/customers/
+- type: x-events
+  url: https://lucidworks.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/lucidworks/
+- type: x-github
+  url: https://github.com/lucidworks
+- type: x-linkedin
+  url: https://linkedin.com/company/lucidworks
+- type: x-partner
+  url: https://lucidworks.com/partners/
+- type: x-press
+  url: https://lucidworks.com/press/
+- type: x-terms-of-service
+  url: https://lucidworks.com/legal/
+- type: x-terms-of-service
+  url: https://lucidworks.com/legal/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/Lucidworks
+- type: x-website
+  url: http://lucidworks.com
+- type: x-youtube
+  url: https://www.youtube.com/user/LucidWorksSearch
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

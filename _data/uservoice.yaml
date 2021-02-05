@@ -1,0 +1,89 @@
+---
+name: UserVoice
+description: User feedback software to help you listen to your customers, focus product
+  development efforts on features that matter, and innovate efficiently.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/serviceproviders/UserVoice_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "7066"
+url: https://raw.githubusercontent.com/api-network/organizations/main/uservoice.yaml
+tags:
+- Relative Data
+- Have API Paths
+- Have API
+- Forums
+- Forums
+- Feedback
+- Customers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.uservoice.com
+- type: x-base
+  url: https://uservoice.com/api/
+- type: x-blog
+  url: https://community.uservoice.com/blog/
+- type: x-blog
+  url: http://community.uservoice.com/blog/category/uservoice-updates/
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/UnderstandingYourCustomers
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/uservoice
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/uservoice
+- type: x-developer
+  url: http://developer.uservoice.com
+- type: x-developer
+  url: https://developer.uservoice.com/
+- type: x-developers
+  url: https://developer.uservoice.com/
+- type: x-email
+  url: privacy@uservoice.com
+- type: x-feed
+  url: https://feedback.uservoice.com/knowledgebase
+- type: x-feed
+  url: https://feedback.uservoice.com/knowledgebase/
+- type: x-feed
+  url: https://feedback.uservoice.com/
+- type: x-feed
+  url: https://www.uservoice.com/surveys/the-influence-of-customer-feedback-on-the-product-development-process/
+- type: x-feed
+  url: https://community.uservoice.com/blog/category/product-feedback/popular/
+- type: x-feed
+  url: https://community.uservoice.com/blog/category/product-feedback/tips-tricks/
+- type: x-feed
+  url: https://community.uservoice.com/blog/category/product-feedback/how-to/
+- type: x-feed
+  url: https://community.uservoice.com/blog/category/product-feedback/internal-feedback/
+- type: x-feed
+  url: https://community.uservoice.com/blog/category/product-feedback/expert-advice/
+- type: x-feed
+  url: https://community.uservoice.com/blog/surprise-insights-coping-with-unexpected-product-feedback/
+- type: x-github
+  url: https://github.com/marcusnelson
+- type: x-github
+  url: https://github.com/uservoice
+- type: x-linkedin
+  url: https://www.linkedin.com/company/356606?trk=vsrp_companies_res_name&trkInfo=VSRPsearchId%3A1803180341422920317209%2CVSRPtargetId%3A356606%2CVSRPcmpt%3Aprimary
+- type: x-login
+  url: http://app.uservoice.com/signin
+- type: x-pricing
+  url: https://www.uservoice.com/plans/product-management/
+- type: x-pricing
+  url: https://www.uservoice.com/plans/customer-support/
+- type: x-status
+  url: https://status.uservoice.com/
+- type: x-twitter
+  url: https://twitter.com/uservoice
+- type: x-website
+  url: https://uservoice.com/
+- type: x-website
+  url: http:///user
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

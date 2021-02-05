@@ -1,0 +1,25 @@
+---
+name: x2go
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "646514"
+url: https://raw.githubusercontent.com/api-network/organizations/main/x2go.yaml
+tags:
+- Start
+- Remote Access
+apis: []
+x-common:
+- type: x-privacy
+  url: https://wiki.x2go.org/doku.php/privacystatement:start
+- type: x-website
+  url: https://www.x2go.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

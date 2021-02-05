@@ -1,0 +1,41 @@
+---
+name: iBeta
+description: iBeta offers a wide range of software testing and quality assurance services
+  including mobilie testing, website testing, load testing and more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2816285"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ibeta.yaml
+tags:
+- United States
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ibeta.com/
+- type: x-about
+  url: https://www.ibeta.com/about-ibeta/
+- type: x-case-studies
+  url: https://www.ibeta.com/ibeta-case-studies-2/
+- type: x-facebook
+  url: https://www.facebook.com/ibetaqa
+- type: x-news
+  url: https://www.ibeta.com/software-testing-news/
+- type: x-press
+  url: https://www.express.com/
+- type: x-privacy
+  url: https://policies.google.com/privacy
+- type: x-terms-of-service
+  url: https://policies.google.com/terms
+- type: x-twitter
+  url: https://twitter.com/ibetaqa
+- type: x-website
+  url: https://www.ibeta.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

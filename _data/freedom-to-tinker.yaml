@@ -1,0 +1,46 @@
+---
+name: Freedom to Tinker
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "872873"
+url: https://raw.githubusercontent.com/api-network/organizations/main/freedom-to-tinker.yaml
+tags:
+- Hardware
+apis: []
+x-common:
+- type: x-blog
+  url: https://freedom-to-tinker.com/tag/techlawpolicy-blogs/
+- type: x-events
+  url: https://freedom-to-tinker.com/tag/events/
+- type: x-feed
+  url: https://freedom-to-tinker.com/feed/rss/
+- type: x-feed
+  url: https://freedom-to-tinker.com/comments/feed/
+- type: x-login
+  url: https://freedom-to-tinker.com/wp-login.php
+- type: x-press
+  url: http://www.studiopress.com/themes/education
+- type: x-press
+  url: http://my.studiopress.com/themes/genesis/
+- type: x-press
+  url: http://wordpress.org/
+- type: x-privacy
+  url: https://freedom-to-tinker.com/tag/privacy/
+- type: x-security
+  url: https://freedom-to-tinker.com/tag/security/
+- type: x-terms-of-service
+  url: https://freedom-to-tinker.com/tag/misleading-terms/
+- type: x-twitter
+  url: https://twitter.com/halfin/status/1110302988?lang=en
+- type: x-website
+  url: https://www.freedom-to-tinker.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

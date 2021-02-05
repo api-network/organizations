@@ -1,0 +1,25 @@
+---
+name: Scuttlebutt
+description: <p>a decent(ralised) secure gossip platform</p>
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28775-www-scuttlebutt-nz.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2425074"
+url: https://raw.githubusercontent.com/api-network/organizations/main/scuttlebutt.yaml
+tags:
+- Have API
+- Decentralization
+apis: []
+x-common:
+- type: x-website
+  url: https://www.scuttlebutt.nz
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=8GE5C9-RUpg
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

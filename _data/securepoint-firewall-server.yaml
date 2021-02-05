@@ -1,0 +1,48 @@
+---
+name: Securepoint Firewall Server
+description: Securepoint represents secure and legally-compliant IT security products
+  that are made in Germany. Email archiving, UTM-Firewalls and Network Access Controller.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/securepoint-firewall-server.yaml
+tags:
+- VPN
+- UTM
+- UMA
+- Securepoint
+- Products
+- Network Access Controller
+- NAC
+- Made In Germany
+- Gateway
+- Email Archiving
+apis: []
+x-common:
+- type: x-website
+  url: http://www.securepoint.de
+- type: x-facebook
+  url: https://www.facebook.com/Securepoint.GmbH/
+- type: x-instagram
+  url: https://www.instagram.com/securepoint_gmbh/
+- type: x-login
+  url: https://my.securepoint.de/index/login
+- type: x-support
+  url: http://support.securepoint.de
+- type: x-support
+  url: https://support.securepoint.de/
+- type: x-twitter
+  url: https://twitter.com/SecurepointStat
+- type: x-website
+  url: https://www.securepoint.cc
+- type: x-youtube
+  url: https://www.youtube.com/user/Securepoint10
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

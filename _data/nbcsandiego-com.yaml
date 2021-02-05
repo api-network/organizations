@@ -1,0 +1,23 @@
+---
+name: nbcsandiego.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nbcsandiego-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.nbcsandiego.com/news/local/Dept-of-Child-Support-Services-7-Eleven-Payment-Option-San-Diego-321964222.html
+- type: x-website
+  url: http://nbcsandiego.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

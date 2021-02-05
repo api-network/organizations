@@ -1,0 +1,53 @@
+---
+name: Servoy
+description: Rapid Application Development and Deployment platform for ISVs and corporate
+  organizations looking to build and modernize large business applications.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1005086"
+url: https://raw.githubusercontent.com/api-network/organizations/main/servoy.yaml
+tags:
+- Servoy
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.servoy.com/
+- type: x-blog
+  url: http://blog.servoy.com
+- type: x-careers
+  url: https://servoy.com/jobs/
+- type: x-case-studies
+  url: https://servoy.com/case-studies/
+- type: x-contact
+  url: https://servoy.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/Servoy/
+- type: x-forum
+  url: https://forum.servoy.com
+- type: x-github
+  url: https://github.com/servoy
+- type: x-linkedin
+  url: http://nl.linkedin.com/company/servoy
+- type: x-partner
+  url: https://servoy.com/partners/
+- type: x-platform
+  url: https://servoy.com/low-code-platform/
+- type: x-pricing
+  url: https://servoy.com/pricing/
+- type: x-security
+  url: https://servoy.com/capabilities-tour/security
+- type: x-twitter
+  url: https://twitter.com/servoy?lang=en
+- type: x-webinars
+  url: https://servoy.com/webinars/
+- type: x-website
+  url: https://www.servoy.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

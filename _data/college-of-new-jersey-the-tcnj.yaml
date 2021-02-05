@@ -1,0 +1,66 @@
+---
+name: College of New Jersey, The (TCNJ)
+description: 'TCNJ offers a strong liberal arts core with degree programs offered
+  through seven schools: Arts and Communication; Business; Education; Engineering;
+  Humanities and Social Sciences; Nursing, Health, and Exercise Science; and Science.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "76911"
+url: https://raw.githubusercontent.com/api-network/organizations/main/college-of-new-jersey-the-tcnj.yaml
+tags:
+- New Jersey
+apis: []
+x-common:
+- type: x-website
+  url: http://www.tcnj.edu
+- type: x-about
+  url: https://tcnj.edu/about/campus-info/directions-to-tcnj/
+- type: x-about
+  url: https://www.tcnj.edu/about/campus-info/campus-map/
+- type: x-about
+  url: https://tcnj.edu/about/
+- type: x-about
+  url: https://tcnj.edu/about/at-a-glance/
+- type: x-about
+  url: https://tcnj.edu/about/mission/
+- type: x-about
+  url: https://tcnj.edu/about/national-acclaim/
+- type: x-about
+  url: https://tcnj.edu/about/campus-info/campus-map/
+- type: x-careers
+  url: https://careers.tcnj.edu/
+- type: x-events
+  url: https://tcnj.edu/events/
+- type: x-events
+  url: https://www.tcnj.edu/events/
+- type: x-facebook
+  url: http://www.facebook.com/tcnjlions
+- type: x-instagram
+  url: http://instagram.com/tcnj_official
+- type: x-news
+  url: https://news.tcnj.edu/2019/11/11/hear-her-roar/
+- type: x-news
+  url: https://news.tcnj.edu
+- type: x-news
+  url: https://news.tcnj.edu/world-wide-web-disclaimer/
+- type: x-open-source
+  url: https://graduate.tcnj.edu/open-houses/
+- type: x-privacy
+  url: https://privacy.pages.tcnj.edu/
+- type: x-self-service-registration
+  url: https://connect.tcnj.edu/register/prospect
+- type: x-twitter
+  url: http://twitter.com/tcnj
+- type: x-website
+  url: https://cs.tcnj.edu
+- type: x-youtube
+  url: http://www.youtube.com/tcnjvideo
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

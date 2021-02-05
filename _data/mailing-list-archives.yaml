@@ -1,0 +1,42 @@
+---
+name: Mailing list archives
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7750"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mailing-list-archives.yaml
+tags:
+- Debian
+apis: []
+x-common:
+- type: x-about
+  url: https://www.debian.org/intro/about
+- type: x-code
+  url: https://www.debian.org/code_of_conduct
+- type: x-contact
+  url: https://www.debian.org/contact
+- type: x-contact
+  url: http://www.debian.org/contact
+- type: x-events
+  url: https://www.debian.org/events/
+- type: x-partner
+  url: https://www.debian.org/partners/
+- type: x-security
+  url: https://www.debian.org/security/
+- type: x-support
+  url: https://www.debian.org/support
+- type: x-support
+  url: https://www.debian.org/support#usenet
+- type: x-support
+  url: https://www.debian.org/intro/help
+- type: x-website
+  url: https://lists.debian.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

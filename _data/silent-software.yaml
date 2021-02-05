@@ -1,0 +1,74 @@
+---
+name: Silent Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/silent-software.yaml
+tags:
+- Toolkits
+apis: []
+x-common:
+- type: x-blog
+  url: https://silentsoftware.blogspot.com/
+- type: x-blog
+  url: http://speakrightframework.blogspot.com/
+- type: x-blog
+  url: http://www.developersvista.com/blog/?p=17
+- type: x-blog
+  url: http://blogs.msdn.com/sprague/
+- type: x-blog
+  url: https://silentsoftware.blogspot.com/2008/
+- type: x-blog
+  url: https://silentsoftware.blogspot.com/2008/06/
+- type: x-blog
+  url: https://silentsoftware.blogspot.com/2007/
+- type: x-blog
+  url: https://silentsoftware.blogspot.com/2007/12/
+- type: x-blog
+  url: https://silentsoftware.blogspot.com/2007/08/
+- type: x-blog
+  url: https://silentsoftware.blogspot.com/2007/06/
+- type: x-blog
+  url: https://silentsoftware.blogspot.com/2007/05/
+- type: x-blog
+  url: https://silentsoftware.blogspot.com/2007/04/
+- type: x-blog
+  url: https://silentsoftware.blogspot.com/2007/03/
+- type: x-blog
+  url: https://silentsoftware.blogspot.com/2007/02/
+- type: x-blog
+  url: https://silentsoftware.blogspot.com/2007/01/
+- type: x-blog
+  url: https://silentsoftware.blogspot.com/2006/
+- type: x-blog
+  url: https://silentsoftware.blogspot.com/2006/10/
+- type: x-blog
+  url: https://silentsoftware.blogspot.com/2006/08/
+- type: x-blog
+  url: https://silentsoftware.blogspot.com/2006/06/
+- type: x-blog
+  url: https://silentsoftware.blogspot.com/2006/05/
+- type: x-blog
+  url: https://silentsoftware.blogspot.com/2005/
+- type: x-blog
+  url: https://silentsoftware.blogspot.com/2005/12/
+- type: x-blog
+  url: https://silentsoftware.blogspot.com/2004/
+- type: x-blog
+  url: https://silentsoftware.blogspot.com/2004/07/
+- type: x-blog
+  url: https://silentsoftware.blogspot.com/2004/06/
+- type: x-blog
+  url: https://silentsoftware.blogspot.com/2004/05/
+- type: x-website
+  url: https://silentsoftware.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

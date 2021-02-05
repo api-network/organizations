@@ -1,0 +1,24 @@
+---
+name: Great Plains Consultant
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/great-plains-consultant.yaml
+tags:
+- North America
+apis: []
+x-common:
+- type: x-support
+  url: https://supportx.sucuri.net/
+- type: x-website
+  url: https://www.cpa-mcse.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

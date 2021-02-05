@@ -1,0 +1,58 @@
+---
+name: Atmail
+description: White label email for telcos and service providers. Email hosting. On-premises
+  webmail. Linux mail server. GDPR compliant. Local AWS option.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "456733"
+url: https://raw.githubusercontent.com/api-network/organizations/main/atmail.yaml
+tags:
+- Web-Based
+- Mail
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.atmail.com/blog/
+- type: x-contact
+  url: https://atmail.com/contact/sales
+- type: x-events
+  url: https://www.atmail.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/atmailemail
+- type: x-gdpr
+  url: https://www.atmail.com/compliance/gdpr/
+- type: x-instagram
+  url: https://www.instagram.com/atmail/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/atmail
+- type: x-partner
+  url: https://www.atmail.com/partners/
+- type: x-partner
+  url: https://www.atmail.com/partners-login/
+- type: x-support
+  url: https://www.atmail.com/supportpackages/
+- type: x-support
+  url: https://help.atmail.com/hc/en-us
+- type: x-twitter
+  url: https://twitter.com/atmail
+- type: x-website
+  url: https://atmail.com
+- type: x-white-papers
+  url: https://www.atmail.com/white-papers/
+- type: x-white-papers
+  url: https://www.atmail.com/white-papers/email-migration/
+- type: x-white-papers
+  url: https://www.atmail.com/white-papers/fight-churn/
+- type: x-white-papers
+  url: https://www.atmail.com/white-papers/cloud/
+- type: x-youtube
+  url: https://www.youtube.com/c/atmail
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

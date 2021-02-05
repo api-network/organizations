@@ -1,0 +1,72 @@
+---
+name: Bistri Engineering
+description: Operator of interactive video communication, innovative and simple. Developer
+  Platform with API's and SDK's.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/bistri-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1431869"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bistri-engineering.yaml
+tags:
+- Video Calls
+- Networks
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-api-json--authoritative
+  url: http://apis.io/apisdef/bistri.json
+- type: x-website
+  url: http://bistri.com
+- type: x-about
+  url: https://developers.bistri.com/about-us/
+- type: x-blog
+  url: http://developers.bistri.com/blog/
+- type: x-blog-rss
+  url: http://developers.bistri.com/feed/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/bistri
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/bistri
+- type: x-customers
+  url: https://developers.bistri.com/customers/
+- type: x-developer
+  url: https://developers.bistri.com
+- type: x-developer
+  url: https://developers.bistri.com/our-offer/
+- type: x-developer
+  url: https://developers.bistri.com/our-access-tools/
+- type: x-developer
+  url: https://developers.bistri.com/bistri-lab/
+- type: x-developer
+  url: https://developers.bistri.com/your-account/
+- type: x-developer
+  url: http://developers.bistri.com/our-advanced-tools
+- type: x-developer
+  url: http://developers.bistri.com//plugin-and-snippet
+- type: x-email
+  url: contact@bistri.com
+- type: x-github
+  url: http://github.com/bistri
+- type: x-linkedin
+  url: http://www.linkedin.com/company/bistri
+- type: x-platform
+  url: https://developers.bistri.com/platform/
+- type: x-twitter
+  url: https://twitter.com/BistriEng
+- type: x-twitter
+  url: http://twitter.com/bistri
+- type: x-twitter
+  url: https://twitter.com/Bistri
+- type: x-website
+  url: http://developers.bistri.com
+- type: x-youtube
+  url: http://youtube.com/bistrihq
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

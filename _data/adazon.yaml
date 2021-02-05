@@ -1,0 +1,44 @@
+---
+name: Adazon
+description: Adazon is the leading provider of labeling and barcode equipment online.
+  We offer custom labels, printers, software, point of sale kits and more. Order today!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3813695"
+url: https://raw.githubusercontent.com/api-network/organizations/main/adazon.yaml
+tags:
+- Hand Held Scanners
+- Food Labels
+- Custom Labels
+- Barcode Printers
+- Barcode Labeling
+- Barcode
+apis: []
+x-common:
+- type: x-code
+  url: https://www.adazonusa.com/barcode-ribbons.html
+- type: x-code
+  url: https://www.adazonusa.com/barcode-labels
+- type: x-code
+  url: https://www.adazonusa.com/barcode-definitions
+- type: x-code
+  url: https://www.adazonusa.com/barcodegenerator
+- type: x-contact
+  url: https://www.adazonusa.com/contact-us
+- type: x-login
+  url: https://www.adazonusa.com/customer/account/login/
+- type: x-privacy
+  url: https://www.adazonusa.com/privacy
+- type: x-terms-of-service
+  url: https://www.adazonusa.com/terms-and-conditions
+- type: x-website
+  url: https://www.adazonusa.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

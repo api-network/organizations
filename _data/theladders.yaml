@@ -1,0 +1,48 @@
+---
+name: TheLadders
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "11585"
+url: https://raw.githubusercontent.com/api-network/organizations/main/theladders.yaml
+tags:
+- No API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.theladders.com
+- type: x-careers
+  url: https://www.theladders.com/jobs/search-jobs
+- type: x-facebook
+  url: https://www.facebook.com/workatladders/
+- type: x-facebook
+  url: https://www.facebook.com/LaddersHQ
+- type: x-feed
+  url: https://www.theladders.com/career-advice/feed
+- type: x-instagram
+  url: https://www.instagram.com/laddershq_
+- type: x-linkedin
+  url: https://www.linkedin.com/company/ladders
+- type: x-news
+  url: https://apple.news/TEBrfN8fiRsGlTyNhqBRN1Q
+- type: x-press
+  url: https://www.theladders.com/press
+- type: x-privacy
+  url: https://www.theladders.com/corporate/privacy
+- type: x-terms-of-service
+  url: https://www.theladders.com/corporate/terms
+- type: x-twitter
+  url: https://twitter.com/LaddersHQ
+- type: x-twitter
+  url: https://twitter.com/TheLadders
+- type: x-website
+  url: http://www.theladders.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

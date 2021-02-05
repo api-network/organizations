@@ -1,0 +1,29 @@
+---
+name: SoftwareVault.com
+description: Software Downloads - Freeware & shareware software downloads.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2881711"
+url: https://raw.githubusercontent.com/api-network/organizations/main/softwarevault-com.yaml
+tags:
+- Software Downloads
+- Free Software Downloads
+- Free Software
+- Download Software
+- Download Free Software
+- Directories
+apis: []
+x-common:
+- type: x-privacy
+  url: https://www.softwarevault.com/privacy.phtml
+- type: x-website
+  url: https://www.softwarevault.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

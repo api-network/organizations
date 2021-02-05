@@ -1,0 +1,34 @@
+---
+name: Intego
+description: Number 1 Leading Mac security and antivirus software since 1997. Award-winning
+  AV, network security, utility and parental control software exclusively for Mac
+  OS X and macOS
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "81241"
+url: https://raw.githubusercontent.com/api-network/organizations/main/intego.yaml
+tags:
+- Personal Firewalls
+apis: []
+x-common:
+- type: x-facebook
+  url: http://facebook.com/Intego
+- type: x-linkedin
+  url: http://linkedin.com/company/intego
+- type: x-support
+  url: https://support.intego.com/home
+- type: x-support
+  url: https://support.intego.com/hc/requests/new
+- type: x-website
+  url: https://www.intego.com
+- type: x-youtube
+  url: http://youtube.com/user/IntegoVideo
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

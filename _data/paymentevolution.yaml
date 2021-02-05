@@ -1,0 +1,52 @@
+---
+name: PaymentEvolution
+description: Provides online, secure, cost-effective payroll and payment services
+  to small and mid-sized businesses across Canada for a little or no cost. Features
+  free online payroll deductions calculator, secured online employee payslips and
+  other reports.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1657_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "177116"
+url: https://raw.githubusercontent.com/api-network/organizations/main/paymentevolution.yaml
+tags:
+- Payroll
+- Has API
+apis: []
+x-common:
+- type: x-website
+  url: http://paymentevolution.com
+- type: x-blog
+  url: https://blog.paymentevolution.com
+- type: x-blog
+  url: http://blog.paymentevolution.com/
+- type: x-blog-rss
+  url: http://blog.paymentevolution.com/feed/
+- type: x-contact
+  url: http://paymentevolution.com/contact
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/paymentevolution
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/paymentevolution
+- type: x-developer
+  url: http://developer.paymentevolution.com
+- type: x-facebook
+  url: https://www.facebook.com/PaymentEvolution
+- type: x-linkedin
+  url: https://www.linkedin.com/company/paymentevolution
+- type: x-plans
+  url: http://paymentevolution.com/accountantplans
+- type: x-support
+  url: https://help.paymentevolution.com
+- type: x-twitter
+  url: https://twitter.com/payevo
+- type: x-website
+  url: http://www.paymentevolution.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

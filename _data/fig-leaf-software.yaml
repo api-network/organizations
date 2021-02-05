@@ -1,0 +1,30 @@
+---
+name: Fig Leaf Software
+description: Get the online privacy control you deserve with the powerful privacy
+  application built around you. Mask your email, stop trackers, find out about data
+  leaks, and more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "969331"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fig-leaf-software.yaml
+tags:
+- Consultants
+apis: []
+x-common:
+- type: x-website
+  url: http://FigLeaf.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/figleafapp/
+- type: x-twitter
+  url: https://twitter.com/Figleaf_App
+- type: x-website
+  url: https://www.figleaf.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

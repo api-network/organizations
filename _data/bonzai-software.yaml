@@ -1,0 +1,122 @@
+---
+name: Bonzai Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bonzai-software.yaml
+tags:
+- 3D Engines
+apis: []
+x-common:
+- type: x-about
+  url: https://blog.bonzaisoftware.com/about/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/gldemos/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/gldemos/rthdribldf/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/gldemos/the-garden/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/gldemos/glow/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/gldemos/rtt-fx-2/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/gldemos/galtons-board/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/gldemos/rtt-fx/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/gldemos/naturise/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/ray-tracing/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/tnp/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/tnp/gl-water-tutorial/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/games-other-projects/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/category/allgemein/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/author/wp_admin/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/category/software/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/tag/deep-learning/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/tag/machine-learing/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/tag/mlp/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/category/gl/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/webgl-zen-doodle/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/tag/doodle/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/tag/webgl/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/category/bs/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/category/games/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/status-update/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/webgl-hello-world/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/tag/glsl/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/tag/html5/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/tag/gl/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/category/articles/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/tag/oit/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/lidar-rendering/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/tag/las/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/tag/lidar/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/tag/point-cloud/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/tag/rendering/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/bonzaisoftware-2013/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/2018/07/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/2018/05/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/2016/09/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/2016/04/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/2014/09/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/2013/08/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/2013/06/
+- type: x-blog
+  url: https://blog.bonzaisoftware.com/2013/05/
+- type: x-feed
+  url: https://blog.bonzaisoftware.com/feed
+- type: x-feed
+  url: https://blog.bonzaisoftware.com/comments/feed
+- type: x-press
+  url: https://wordpress.org/
+- type: x-website
+  url: https://www.bonzaisoftware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

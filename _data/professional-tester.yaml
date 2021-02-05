@@ -1,0 +1,34 @@
+---
+name: Professional Tester
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9950624"
+url: https://raw.githubusercontent.com/api-network/organizations/main/professional-tester.yaml
+tags:
+- Software Testing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.professionaltester.com
+- type: x-blog
+  url: https://www.professionaltester.com/blog/
+- type: x-contact
+  url: https://www.professionaltester.com/contact/
+- type: x-facebook
+  url: https://facebook.com/ProfessionalTester/
+- type: x-privacy
+  url: https://www.professionaltester.com/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/pt_wire
+- type: x-website
+  url: https://www.professionaltester.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

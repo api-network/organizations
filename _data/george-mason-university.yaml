@@ -1,0 +1,24 @@
+---
+name: George Mason University
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8652"
+url: https://raw.githubusercontent.com/api-network/organizations/main/george-mason-university.yaml
+tags:
+- Virginia
+apis: []
+x-common:
+- type: x-privacy
+  url: https://webdev.gmu.edu/internet-privacy/
+- type: x-website
+  url: https://cs.gmu.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

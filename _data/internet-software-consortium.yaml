@@ -1,0 +1,37 @@
+---
+name: Internet Software Consortium
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "179014"
+url: https://raw.githubusercontent.com/api-network/organizations/main/internet-software-consortium.yaml
+tags:
+- Software
+- Address Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.isc.org
+- type: x-documentation
+  url: https://kb.isc.org/docs/aa-00861
+- type: x-documentation
+  url: https://kb.isc.org/docs/aa-00896
+- type: x-documentation
+  url: https://kb.isc.org/docs/aa-00913
+- type: x-facebook
+  url: https://www.facebook.com/InternetSystemsConsortium/
+- type: x-twitter
+  url: https://twitter.com/ISCdotORG
+- type: x-website
+  url: https://www.isc.org
+- type: x-youtube
+  url: https://www.youtube.com/user/ISCdotorg
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

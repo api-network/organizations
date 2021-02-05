@@ -1,0 +1,73 @@
+---
+name: HiveMQ Message Broker
+description: HiveMQ is a MQTT broker - a messaging platform for fast, efficient and
+  reliable data movement to and from connected IoT devices and enterprise systems
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "241928"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hivemq-message-broker.yaml
+tags:
+- Servers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.hivemq.com
+- type: x-blog
+  url: https://www.hivemq.com/blog/
+- type: x-careers
+  url: https://careers.hivemq.com/
+- type: x-case-studies
+  url: https://www.hivemq.com/case-studies/acer-byoc/
+- type: x-case-studies
+  url: https://www.hivemq.com/case-studies/liberty-global/
+- type: x-case-studies
+  url: https://www.hivemq.com/case-studies/daimler/
+- type: x-contact
+  url: https://www.hivemq.com/contact/
+- type: x-contact
+  url: https://www.hivemq.com/contact-sales/
+- type: x-customers
+  url: https://www.hivemq.com/customers/
+- type: x-documentation
+  url: https://www.hivemq.com/docs/
+- type: x-events
+  url: https://www.hivemq.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/HiveMQ
+- type: x-feed
+  url: https://www.hivemq.com/feed.xml
+- type: x-github
+  url: https://www.github.com/HiveMQ
+- type: x-news
+  url: https://www.hivemq.com/news/
+- type: x-partner
+  url: https://www.hivemq.com/partners/
+- type: x-pricing
+  url: https://www.hivemq.com/pricing/
+- type: x-privacy
+  url: https://www.hivemq.com/privacy-policy/
+- type: x-security
+  url: https://www.hivemq.com/hivemq/security/
+- type: x-security
+  url: https://www.hivemq.com/mqtt-security-fundamentals/
+- type: x-showcase
+  url: https://www.linkedin.com/showcase/hivemq
+- type: x-support
+  url: https://www.hivemq.com/support/
+- type: x-twitter
+  url: https://www.twitter.com/HiveMQ
+- type: x-webinars
+  url: https://www.hivemq.com/developers/webinars/
+- type: x-website
+  url: https://www.hivemq.com
+- type: x-white-papers
+  url: https://www.hivemq.com/developers/white-papers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

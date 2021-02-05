@@ -1,0 +1,68 @@
+---
+name: FeedReader
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "20393"
+url: https://raw.githubusercontent.com/api-network/organizations/main/feedreader.yaml
+tags:
+- Windows
+apis: []
+x-common:
+- type: x-developer
+  url: http://dev.feedreader.com
+- type: x-facebook
+  url: https://www.facebook.com/FeedReaderOnline
+- type: x-feed
+  url: https://feedreader.com/observe/
+- type: x-feed
+  url: https://feedreader.com/observe/makeuseof.com
+- type: x-feed
+  url: https://feedreader.com/observe/businessinsider.com
+- type: x-feed
+  url: https://feedreader.com/observe/cbssports.com
+- type: x-feed
+  url: https://feedreader.com/observe/axishouse.net
+- type: x-feed
+  url: https://feedreader.com/observe/fleurdeforce.com
+- type: x-feed
+  url: https://feedreader.com/observe/lightintheboxblog.com
+- type: x-feed
+  url: https://feedreader.com/observe/incognitusscriptor.com
+- type: x-feed
+  url: https://feedreader.com/observe/treasureillustrated.com
+- type: x-feed
+  url: https://feedreader.com/observe/smokeyshope.com
+- type: x-feed
+  url: https://feedreader.com/observe/peexo.co.uk
+- type: x-feed
+  url: https://feedreader.com/observe/12bottlebar.com
+- type: x-feed
+  url: https://feedreader.com/observe/refgene.com
+- type: x-feed
+  url: https://feedreader.com/observe/numbermall.com
+- type: x-feed
+  url: https://feedreader.com/observe/blog.stevenalan.com
+- type: x-feed
+  url: https://feedreader.com/observe/malotine.com
+- type: x-feed
+  url: https://feedreader.com/observe/obatkuatsejati.com
+- type: x-feed
+  url: https://feedreader.com/observe/pokermonster.org
+- type: x-feed
+  url: https://feedreader.com/observe/oxy.edu
+- type: x-feed
+  url: https://feedreader.com/observe/gloriaestefan.com
+- type: x-twitter
+  url: https://twitter.com/FeedReaderOn
+- type: x-website
+  url: https://www.feedreader.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

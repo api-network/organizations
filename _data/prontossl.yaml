@@ -1,0 +1,43 @@
+---
+name: ProntoSSL
+description: Low cost SSL Certificates from Comodo, GeoTrust and RapidSSL. Single
+  Domain SSL, Multi Domain SSL and Wildcard SSL Certificates
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/prontossl.yaml
+tags:
+- Wildcard Ssl Certificate
+- Wildcard Certificate
+- Third Party Certificate Authorities
+- Ssl Security
+- Ssl Certificate
+- SSL
+- RapidSSL
+- Positive Ssl
+- Geotrust
+- Comodo Ssl
+- Comodo Certificate
+- Cheapssl
+- Cheap Ssl Certificate
+- Cheap Ssl
+- Buy Ssl Certificate
+apis: []
+x-common:
+- type: x-website
+  url: http://www.prontossl.com
+- type: x-facebook
+  url: https://www.facebook.com/ProntoSSL/
+- type: x-twitter
+  url: https://twitter.com/ProntoSSL
+- type: x-website
+  url: https://www.prontossl.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

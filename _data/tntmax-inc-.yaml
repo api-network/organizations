@@ -1,0 +1,47 @@
+---
+name: TNTmax, Inc.
+description: TNTMAX is a New Jersey Computer Service Company that provides IT Solutions,
+  web design, software development & more to New Jersey & NYC businesses
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4693213"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tntmax-inc-.yaml
+tags:
+- United States
+apis: []
+x-common:
+- type: x-website
+  url: http://www.tntmax.com
+- type: x-blog
+  url: https://www.tntmax.com/blog/
+- type: x-contact
+  url: https://www.tntmax.com/contact-us/
+- type: x-developer
+  url: http://dev.tntmax.com
+- type: x-facebook
+  url: https://www.facebook.com/TNTMAX
+- type: x-linkedin
+  url: https://www.linkedin.com/company/tntmax-llc
+- type: x-login
+  url: https://maxmail.tntmax.com/login.php
+- type: x-open-source
+  url: https://opensource.com/
+- type: x-privacy
+  url: https://www.tntmax.com/privacy-policy/
+- type: x-support
+  url: https://support.tntmax.com/
+- type: x-twitter
+  url: https://twitter.com/tntmax
+- type: x-website
+  url: https://tntmax.com
+- type: x-youtube
+  url: https://www.youtube.com/user/TNTMAX07481
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

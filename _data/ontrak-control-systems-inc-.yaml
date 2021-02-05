@@ -1,0 +1,40 @@
+---
+name: Ontrak Control Systems Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3307695"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ontrak-control-systems-inc-.yaml
+tags:
+- USB Relay
+- USB I/O
+- USB
+- Temperature
+- Strain
+- RS485
+- RS232 Relay
+- RS232
+- Relay I/O
+- Ontrak Control Systems
+- Ontrak Control
+- Ontrak
+- Interface
+- Digital I/O USB
+- Analog Outputs
+- Analog Inputs
+- ADU
+- Adr
+- 3rd Party Hardware And Software
+apis: []
+x-common:
+- type: x-website
+  url: https://www.ontrak.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

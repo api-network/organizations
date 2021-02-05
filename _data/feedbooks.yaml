@@ -1,0 +1,92 @@
+---
+name: Feedbooks
+description: Discover thousands of eBooks, including new releases and the best collection
+  of free public domain books, that you can read on any mobile device.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/403_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "44513"
+url: https://raw.githubusercontent.com/api-network/organizations/main/feedbooks.yaml
+tags:
+- Telecommunications
+- Public Domain Books
+- PDF
+- Kindle
+- IPhone
+- Hypermedia API
+- Have API
+- Free Pdf Ebooks
+- Free Kindle Ebooks
+- Free Epub Ebooks
+- Free Ebook
+- Free Downloadable Ebook
+- Epub Format
+- Epub Books
+- Epub
+- Ebook Store
+- Ebook
+- E-book
+- Books
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.feedbooks.com/
+- type: x-base
+  url: https://www.feedbooks.com
+- type: x-blog
+  url: http://blog.feedbooks.com
+- type: x-blog-rss
+  url: http://blog.feedbooks.com/feed/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/feedbooks
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/feedbooks
+- type: x-developers
+  url: http://www.feedbooks.com/api
+- type: x-email
+  url: hadrien.gardeur@feedbooks.com
+- type: x-email
+  url: loic.roussel@feedbooks.com
+- type: x-email
+  url: bernard.strainchamps@feedbooks.com
+- type: x-email
+  url: lara.touitou@feedbooks.com
+- type: x-feed
+  url: https://www.feedbooks.com/user/signin
+- type: x-feed
+  url: http://www.feedbooks.com/store/editorial_reviews
+- type: x-feed
+  url: http://www.feedbooks.com/store/awards
+- type: x-feed
+  url: http://www.feedbooks.com/list/2252
+- type: x-feed
+  url: http://www.feedbooks.com/list/2253
+- type: x-feed
+  url: http://www.feedbooks.com/book/91/frankenstein
+- type: x-feed
+  url: http://www.feedbooks.com/book/144/jane-eyre
+- type: x-feed
+  url: http://www.feedbooks.com/book/135/wuthering-heights
+- type: x-feed
+  url: https://feedbooks.zendesk.com
+- type: x-feed
+  url: http://www.facebook.com/feedbooks
+- type: x-feed
+  url: http://blog.feedbooks.com/
+- type: x-feed
+  url: http://m.feedbooks.com
+- type: x-github
+  url: https://github.com/Feedbooks
+- type: x-twitter
+  url: https://twitter.com/feedbooks
+- type: x-website
+  url: http://www.feedbooks.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

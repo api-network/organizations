@@ -1,0 +1,33 @@
+---
+name: Inkcarts.com
+description: Default Description
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/inkcarts-com.yaml
+tags:
+- Varien
+- Supplies
+- Magento
+- E-commerce
+apis: []
+x-common:
+- type: x-about
+  url: https://plus.google.com/102956719187289703173/about
+- type: x-contact
+  url: http://www.inkcarts.com/contact-us.html
+- type: x-login
+  url: http://www.inkcarts.com/customer/account/login/
+- type: x-twitter
+  url: https://twitter.com/inkcarts1
+- type: x-website
+  url: https://www.inkcarts.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

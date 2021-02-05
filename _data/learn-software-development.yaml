@@ -1,0 +1,60 @@
+---
+name: Learn Software Development
+description: Articles that help you improve your knowledge related to Scrum Process,
+  Scrum Problems, Scrum Detail, Scrum Challenges, software development, SDLC, Agile,
+  Scrum
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/learn-software-development.yaml
+tags:
+- Tips
+- Techniques
+- Sprint
+- Software
+- Scrum Process
+- Scrum Problems
+- Scrum Detail
+- Scrum Challenges
+- Scrum
+- Review
+- Requirements
+- Quality
+- Product
+- Planning
+- Metrics
+- Feature Development
+- Development
+- Coding
+- Articles
+- Analysis
+- Agile
+apis: []
+x-common:
+- type: x-code
+  url: https://learnsoftwareprocesses.com/category/code/
+- type: x-feed
+  url: https://learnsoftwareprocesses.com/category/feedback/
+- type: x-press
+  url: http://wordpress.org/
+- type: x-security
+  url: https://learnsoftwareprocesses.com/category/security/
+- type: x-status
+  url: https://learnsoftwareprocesses.com/category/status/
+- type: x-support
+  url: https://learnsoftwareprocesses.com/category/help/
+- type: x-support
+  url: https://learnsoftwareprocesses.com/category/support/
+- type: x-terms-of-service
+  url: https://learnsoftwareprocesses.com/category/terms/
+- type: x-website
+  url: https://learnsoftwareprocesses.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

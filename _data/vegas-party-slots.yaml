@@ -1,0 +1,52 @@
+---
+name: Vegas Party Slots
+description: "Bagelcode, Vegas Party Slots, \uBAA8\uBC14\uC77C\uAC8C\uC784, \uD68C\uC0AC
+  \uC18C\uAC1C, \uAC8C\uC784\uC815\uBCF4"
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29490-bagelcode-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2652347"
+url: https://raw.githubusercontent.com/api-network/organizations/main/vegas-party-slots.yaml
+tags: []
+apis: []
+x-common:
+- type: x-code
+  url: https://site.bagelcode.com/
+- type: x-code
+  url: https://site.bagelcode.com/offices
+- type: x-code
+  url: https://site.bagelcode.com/offices/circuscode
+- type: x-code
+  url: https://site.bagelcode.com/offices/gingercode
+- type: x-code
+  url: https://site.bagelcode.com/offices/dnipro
+- type: x-code
+  url: https://site.bagelcode.com/careers
+- type: x-code
+  url: https://site.bagelcode.com/offices/
+- type: x-code
+  url: https://help.circuscode.com/support/privacy/
+- type: x-code
+  url: https://help.circuscode.com/support/terms
+- type: x-code
+  url: https://www.linkedin.com/company/bagelcode/
+- type: x-email
+  url: support@bagelcode.com
+- type: x-facebook
+  url: https://apps.facebook.com/clubvegas
+- type: x-facebook
+  url: https://apps.facebook.com/jackpotjoyslots/
+- type: x-facebook
+  url: https://apps.facebook.com/starspinsslots
+- type: x-facebook
+  url: https://apps.facebook.com/bingolane
+- type: x-website
+  url: http://bagelcode.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

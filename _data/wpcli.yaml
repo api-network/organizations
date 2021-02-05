@@ -1,0 +1,89 @@
+---
+name: WP-CLI
+description: The command line interface for WordPress, maintained by https://t.co/bzFWADNl66
+  / @schlessera. For support, please see https://t.co/H8dbU4IXz1
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Commons_CLI.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "173710"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wpcli.yaml
+tags:
+- WordPress
+- Command Line Interface
+- Command Line Interface
+apis: []
+x-common:
+- type: x-blog
+  url: https://wp-cli.org/blog/
+- type: x-blog-rss
+  url: https://wp-cli.org/atom.xml
+- type: x-github
+  url: https://github.com/wp-cli
+- type: x-github
+  url: https://github.com/wp-cli/wp-cli
+- type: x-github
+  url: http://github.com/schlessera
+- type: x-github
+  url: https://github.com/drush-ops/drush
+- type: x-github
+  url: https://github.com/interconnectit/Search-Replace-DB
+- type: x-github
+  url: https://github.com/Automattic/WordPress-CLI-Exporter
+- type: x-github
+  url: https://github.com/Automattic/WordPress-CLI-Importer
+- type: x-github
+  url: https://github.com/andreascreten
+- type: x-github
+  url: https://github.com/scribu
+- type: x-press
+  url: https://developer.wordpress.org/cli/commands/
+- type: x-press
+  url: https://make.wordpress.org/cli/handbook/config/
+- type: x-press
+  url: https://make.wordpress.org/cli/handbook/
+- type: x-press
+  url: https://make.wordpress.org/cli/
+- type: x-press
+  url: https://make.wordpress.org/cli/handbook/contributing/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-press
+  url: https://make.wordpress.org/cli/subscribe/
+- type: x-press
+  url: https://make.wordpress.org/cli/handbook/roadmap/
+- type: x-press
+  url: https://make.wordpress.org/cli/handbook/quick-start/
+- type: x-press
+  url: https://make.wordpress.org/cli/handbook/shell-friends/
+- type: x-press
+  url: https://make.wordpress.org/cli/handbook/installing/
+- type: x-press
+  url: https://make.wordpress.org/cli/handbook/common-issues/
+- type: x-press
+  url: https://wordpress.org/support/topic-tag/wp-cli/
+- type: x-press
+  url: https://make.wordpress.org/chat/
+- type: x-press
+  url: https://make.wordpress.org/cli/handbook/bug-reports/
+- type: x-press
+  url: https://make.wordpress.org/cli/handbook/internal-api/
+- type: x-press
+  url: https://make.wordpress.org/cli/handbook/governance/
+- type: x-press
+  url: https://code.trac.wordpress.org/browser/wpshell
+- type: x-press
+  url: https://wordpress.org/plugins/regenerate-thumbnails/
+- type: x-press
+  url: https://github.com/benbalter/wordpress-plugin-tests/
+- type: x-twitter
+  url: https://twitter.com/wpcli
+- type: x-website
+  url: https://wp-cli.org/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

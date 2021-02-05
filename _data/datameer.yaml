@@ -1,0 +1,72 @@
+---
+name: Datameer
+description: Datameer delivers an agile, unified & governed approach to managing data
+  for analytics. Datameer???s modern analytic data platform transforms complex, diverse
+  data into a governed enterprise-wide network of data pipelines that feed your analytics
+  initiat...
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/176-datameer.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "256460"
+url: https://raw.githubusercontent.com/api-network/organizations/main/datameer.yaml
+tags:
+- Have API
+- API Not Found
+- Analysis
+- Analysis
+apis: []
+x-common:
+- type: x-website
+  url: http://www.datameer.com
+- type: x-about
+  url: https://www.datameer.com/about-us/
+- type: x-blog
+  url: https://www.datameer.com/blog/
+- type: x-blog
+  url: http://www.datameer.com/blog/
+- type: x-careers
+  url: https://www.datameer.com/careers/
+- type: x-contact
+  url: https://www.datameer.com/contact/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/datameer
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/datameer
+- type: x-customers
+  url: https://www.datameer.com/customers/
+- type: x-email
+  url: privacy@datameer.com
+- type: x-events
+  url: https://www.datameer.com/events/
+- type: x-github
+  url: https://github.com/datameer
+- type: x-linkedin
+  url: https://www.linkedin.com/company/datameer
+- type: x-news
+  url: https://www.datameer.com/news/
+- type: x-partner
+  url: https://www.datameer.com/partners/
+- type: x-platform
+  url: https://www.datameer.com/platform/
+- type: x-platform
+  url: https://www.datameer.com/platform/security-governance/
+- type: x-privacy
+  url: https://www.datameer.com/privacy-policy/
+- type: x-support
+  url: https://support.datameer.com/hc/en-us
+- type: x-terms-of-service
+  url: https://www.datameer.com/terms-of-use/
+- type: x-tutorials
+  url: https://www.datameer.com/tutorials/
+- type: x-twitter
+  url: https://twitter.com/datameer
+- type: x-website
+  url: http://www.datameer.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

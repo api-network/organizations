@@ -1,0 +1,52 @@
+---
+name: InnoMedia
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3462773"
+url: https://raw.githubusercontent.com/api-network/organizations/main/innomedia.yaml
+tags:
+- Telephony
+apis: []
+x-common:
+- type: x-website
+  url: http://www.innomedia.com
+- type: x-contact
+  url: https://www.innomedia.com/contact-us/
+- type: x-contact
+  url: https://www.innomedia.com/pr-contacts/
+- type: x-documentation
+  url: https://www.innomedia.com/documentation-center/
+- type: x-facebook
+  url: http://www.facebook.com/innomedia
+- type: x-linkedin
+  url: http://www.linkedin.com/company/InnoMedia
+- type: x-login
+  url: https://www.innomedia.com/membership-login/
+- type: x-partner
+  url: https://www.innomedia.com/partners/
+- type: x-press
+  url: https://www.innomedia.com/press-room/
+- type: x-press
+  url: https://www.innomedia.com/press-releases/
+- type: x-press
+  url: https://www.innomedia.com/partner-press-release/
+- type: x-press
+  url: https://www.innomedia.com/press-kit/
+- type: x-support
+  url: https://www.innomedia.com/support/
+- type: x-terms-of-service
+  url: https://www.innomedia.com/terms-of-use/
+- type: x-twitter
+  url: http://twitter.com/InnoMediaInc
+- type: x-website
+  url: https://www.innomedia.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

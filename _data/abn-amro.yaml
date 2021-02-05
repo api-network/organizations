@@ -1,0 +1,82 @@
+---
+name: ABN AMRO
+description: Welcome to ABN AMRO. ABN AMRO is an all-round Dutch bank that offers
+  a full range of products and services to retail, private, corporate clients.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28104-developer-abnamro-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "242252"
+url: https://raw.githubusercontent.com/api-network/organizations/main/abn-amro.yaml
+tags:
+- UK Banks
+- Profile
+- Postman
+- Have Swagger
+- Have OpenAPI
+- Have API Paths
+- Have API
+- Banking
+- Assets
+- API Provider
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-postman-collection
+  url: https://app.getpostman.com/run-collection/6bfdd4a3e87caa207b4d
+- type: x-postman-collection
+  url: https://app.getpostman.com/run-collection/5d1930ee774a7bc4796c
+- type: x-postman-collection
+  url: https://app.getpostman.com/run-collection/cf843a1e853a1dd22ebb
+- type: x-website
+  url: http://www.abnamro.com
+- type: x-about
+  url: https://www.abnamro.com/en/about-abnamro/index.html
+- type: x-blog
+  url: https://www.abnamro.com/en/newsroom/blogs/index.html
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/abn-amro
+- type: x-developer
+  url: http://developer.abnamro.com
+- type: x-developer
+  url: https://developer.abnamro.com/get-started
+- type: x-developers
+  url: https://developer.abnamro.com/
+- type: x-documentation
+  url: https://developer.abnamro.com/overview
+- type: x-faq
+  url: https://developer.abnamro.com/get-started#faqs
+- type: x-getting-started
+  url: https://developer.abnamro.com/get-started
+- type: x-github
+  url: https://github.com/ABNAMRO
+- type: x-login
+  url: https://developer.abnamro.com/user/login
+- type: x-news
+  url: https://www.abnamro.com/en/newsroom/newsarticles/index.html
+- type: x-privacy-policy
+  url: https://developer.abnamro.com/privacypolicy
+- type: x-self-service-registration
+  url: https://developer.abnamro.com/user/register
+- type: x-registration
+  url: https://developer.abnamro.com/user/register
+- type: x-support
+  url: https://developer.abnamro.com/contact
+- type: x-terms-of-service
+  url: https://developer.abnamro.com/legal
+- type: x-twitter
+  url: https://twitter.com/ABNAMRO_News
+- type: x-developers
+  url: https://developer.abnamro.com
+- type: x-website
+  url: https://www.abnamro.com
+- type: x-youtube
+  url: https://www.youtube.com/abnamro
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,27 @@
+---
+name: Power Mailer
+description: Bulk Email Marketing Service in India by PowerMailer helps you to design
+  email newsletters, Schedule your Email Campaigns, Track Email Campaigns
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1831425"
+url: https://raw.githubusercontent.com/api-network/organizations/main/power-mailer.yaml
+tags:
+- Online Tools
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/powermailer
+- type: x-twitter
+  url: http://www.twitter.com/powermailer
+- type: x-website
+  url: https://www.powermailer.in
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

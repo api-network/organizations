@@ -1,0 +1,41 @@
+---
+name: Data.Medicare.Gov
+description: 'Medicare.gov: the official U.S. government site for Medicare'
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/753-data-medicare-gov.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "11529"
+url: https://raw.githubusercontent.com/api-network/organizations/main/data-medicare-gov.yaml
+tags:
+- Medicare
+- Healthcare
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.medicare.gov
+- type: x-base
+  url: http://data.medicare.gov/resource/
+- type: x-blog
+  url: https://www.medicare.gov/blog
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/medicare-gov
+- type: x-developers
+  url: http://data.medicare.gov/
+- type: x-twitter
+  url: http://www.twitter.com/MedicareGov
+- type: x-twitter
+  url: https://twitter.com/MedicareGov
+- type: x-website
+  url: https://medicare.gov/
+- type: x-youtube
+  url: http://www.youtube.com/user/CMSHHSgov
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

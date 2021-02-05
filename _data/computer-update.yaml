@@ -1,0 +1,52 @@
+---
+name: Computer Update
+description: Wayzata based computer consulting firm offering on-site PC, workstation,
+  server and networking expertise, sales, and upgrades, to much of the Minneapolis,
+  MN area.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/computer-update.yaml
+tags:
+- Workstations
+- Windows
+- Win10
+- Web Design
+- Web Authoring
+- Wayzata
+- Upgrades
+- Updates
+- Troubleshooting
+- SQL
+- Setup
+- Servers
+- Server 2019
+- Mvp
+- MS MVP
+- Minnesota
+- Internet
+- Installs
+- ConfigMgr
+- Computerupdate
+- Computers
+- Abetterpc
+- Abeterpc
+- "6363636"
+- "6126363636"
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.blogger.com/start
+- type: x-press
+  url: https://wordpress.com/
+- type: x-website
+  url: https://www.abetterpc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

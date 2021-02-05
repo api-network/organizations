@@ -1,0 +1,51 @@
+---
+name: Ceptes
+description: CEPTES is a Salesforce silver consulting partner offering end-to-end
+  Salesforce solutions including Sales Cloud, Marketing Cloud, Service Cloud, Einstein
+  Analytics implementation, integration, lightning migration and consultation services
+  to varied industries across the globe. We are present in the US, India & NZ
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1352557"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ceptes.yaml
+tags:
+- Service Providers
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.ceptes.com/blog/
+- type: x-contact
+  url: https://www.ceptes.com/contact/
+- type: x-customers
+  url: https://www.ceptes.com/customers/
+- type: x-facebook
+  url: https://www.facebook.com/ceptes/
+- type: x-instagram
+  url: https://www.instagram.com/ceptessoftware/
+- type: x-partner
+  url: https://www.ceptes.com/partners/
+- type: x-support
+  url: https://www.ceptes.com/support-home/
+- type: x-twitter
+  url: https://twitter.com/ceptessoftware
+- type: x-webinars
+  url: https://www.ceptes.com/webinars/
+- type: x-webinars
+  url: https://www.dataarchiva.com/webinars/
+- type: x-website
+  url: https://www.ceptes.com
+- type: x-white-papers
+  url: https://www.ceptes.com/whitepapers/
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=PbKcbHCmisc
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=9bXxyX2-EME
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,46 @@
+---
+name: Genius Sports
+description: We are a global leader in sports data technology, distribution, and commercialisation
+  services. Our innovative data-driven solutions power over 250 leagues and federations.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28259-betting-geniussports-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "228911"
+url: https://raw.githubusercontent.com/api-network/organizations/main/genius-sports.yaml
+tags:
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.geniussports.com/sports
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/genius-sports
+- type: x-developers
+  url: http://developer.geniussports.com/
+- type: x-email
+  url: careers@geniussports.com
+- type: x-email
+  url: contactus@geniussport.com
+- type: x-email
+  url: careers@geniussport.com
+- type: x-email
+  url: investors@geniussports.com
+- type: x-email
+  url: press@geniussport.com
+- type: x-email
+  url: contactus@geniussports.com
+- type: x-email
+  url: press@geniussports.com
+- type: x-twitter
+  url: https://twitter.com/GeniusSports
+- type: x-website
+  url: http://betting.geniussports.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

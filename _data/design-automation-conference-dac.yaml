@@ -1,0 +1,30 @@
+---
+name: Design Automation Conference (DAC)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "548037"
+url: https://raw.githubusercontent.com/api-network/organizations/main/design-automation-conference-dac.yaml
+tags:
+- Conferences
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.dac.com/blog
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/84678/profile
+- type: x-security
+  url: https://dac.com/content/security
+- type: x-twitter
+  url: https://twitter.com/search?q=57thDAC
+- type: x-website
+  url: https://www.dac.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

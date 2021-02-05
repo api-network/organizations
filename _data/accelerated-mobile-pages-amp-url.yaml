@@ -1,0 +1,30 @@
+---
+name: Accelerated Mobile Pages (AMP) URL
+description: "404"
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/accelerated-mobile-pages-amp-url.yaml
+tags:
+- Profile
+- Postman Doc Search
+- Have Swagger
+- Have OpenAPI
+- Have API Paths
+apis: []
+x-common:
+- type: x-website
+  url: http://acceleratedmobilepageurl.googleapis.com
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/3379028/S17xr5ZJ
+- type: x-website
+  url: http://storage.googleapis.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

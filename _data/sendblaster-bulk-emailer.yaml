@@ -1,0 +1,45 @@
+---
+name: SendBlaster Bulk Emailer
+description: SendBlaster is the best bulk email software for managing your mailing
+  list. Download the free version now and start your email marketing campaign!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "45320"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sendblaster-bulk-emailer.yaml
+tags:
+- Bulk Mailers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.sendblaster.com
+- type: x-about
+  url: https://www.sendblaster.com/about-us/
+- type: x-blog
+  url: https://www.sendblaster.com/redirect/blog.php
+- type: x-facebook
+  url: https://www.facebook.com/sendblaster
+- type: x-press
+  url: http://wordpress.org/download/
+- type: x-press
+  url: http://codex.wordpress.org/FTP_Clients
+- type: x-press
+  url: http://www.joostdevalk.nl/wordpress/users-to-csv/
+- type: x-support
+  url: https://www.sendblaster.com/support/
+- type: x-support
+  url: https://www.sendblaster.com/trouble-ticket-support
+- type: x-support
+  url: https://www.sendblaster.com/support/lists-importing/
+- type: x-twitter
+  url: https://twitter.com/SendBlaster
+- type: x-website
+  url: https://www.sendblaster.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

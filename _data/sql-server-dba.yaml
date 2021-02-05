@@ -1,0 +1,30 @@
+---
+name: SQL Server DBA
+description: SQL DBA blog is dedicated in providing the highest quality and most in-depth
+  SQL Server material to boost your career or to make one more productive.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5244016"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sql-server-dba.yaml
+tags: []
+apis: []
+x-common:
+- type: x-careers
+  url: https://sqlserver-dba.co.uk/sql-jobs-2
+- type: x-contact
+  url: https://sqlserver-dba.co.uk/contact
+- type: x-events
+  url: https://sqlserver-dba.co.uk/category/extended-events
+- type: x-feed
+  url: https://sqlserver-dba.co.uk/feed
+- type: x-website
+  url: https://sqlserver-dba.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,28 @@
+---
+name: P&E Microcomputer Systems, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "916245"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pe-microcomputer-systems-inc-.yaml
+tags:
+- Embedded
+apis: []
+x-common:
+- type: x-blog
+  url: http://www.pemicro.com/blog/index.cfm?post_id=168
+- type: x-blog
+  url: https://www.pemicro.com/blog/index.cfm?post_id=165
+- type: x-login
+  url: https://www.pemicro.com/login.cfm
+- type: x-website
+  url: https://www.pemicro.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

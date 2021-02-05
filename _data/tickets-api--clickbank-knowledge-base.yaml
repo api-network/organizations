@@ -1,0 +1,35 @@
+---
+name: "Tickets API \u2013 ClickBank Knowledge Base"
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2661"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tickets-api--clickbank-knowledge-base.yaml
+tags: []
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.clickbank.com/blog/
+- type: x-facebook
+  url: https://www.facebook.com/ClickBank
+- type: x-linkedin
+  url: https://www.linkedin.com/company/clickbank
+- type: x-login
+  url: https://accounts.clickbank.com/login.htm
+- type: x-signup
+  url: https://accounts.clickbank.com/public/signup.html
+- type: x-twitter
+  url: https://www.twitter.com/ClickBank
+- type: x-website
+  url: http://support.clickbank.com
+- type: x-youtube
+  url: https://www.youtube.com/user/ClickBankcom
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

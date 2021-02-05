@@ -1,0 +1,23 @@
+---
+name: corp.klout.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/corp-klout-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://corp.klout.com/blog/2013/06/dash-video-moments/
+- type: x-website
+  url: http://corp.klout.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

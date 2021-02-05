@@ -1,0 +1,44 @@
+---
+name: Connecticut Computer Service Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1392775"
+url: https://raw.githubusercontent.com/api-network/organizations/main/connecticut-computer-service-inc-.yaml
+tags:
+- Certification
+apis: []
+x-common:
+- type: x-about
+  url: https://www.ctcomp.com/about-it-solutions/
+- type: x-careers
+  url: https://www.ctcomp.com/about-it-solutions/it-jobs/
+- type: x-contact
+  url: https://www.ctcomp.com/contact-it-professionals/
+- type: x-contact
+  url: https://www.ctcomp.com/contact-it-support/
+- type: x-events
+  url: https://www.ctcomp.com/category/events/
+- type: x-facebook
+  url: https://www.facebook.com/CTComp/
+- type: x-security
+  url: https://www.ctcomp.com/it-services/data-security/
+- type: x-security
+  url: https://www.ctcomp.com/layers-of-security-event-recap/
+- type: x-support
+  url: https://www.ctcomp.com/on-site-remote-it-support/
+- type: x-twitter
+  url: https://twitter.com/ctcomp_?lang=en
+- type: x-webinars
+  url: https://www.ctcomp.com/webinars/
+- type: x-website
+  url: https://www.ctcomp.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

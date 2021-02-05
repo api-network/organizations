@@ -1,0 +1,32 @@
+---
+name: Department of Computer Science
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8167"
+url: https://raw.githubusercontent.com/api-network/organizations/main/department-of-computer-science.yaml
+tags:
+- University Of Manchester
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/computersciencemcr/
+- type: x-instagram
+  url: https://www.instagram.com/uomcompsci/
+- type: x-twitter
+  url: https://twitter.com/csmcr
+- type: x-twitter
+  url: https://twitter.com/csmcr/
+- type: x-website
+  url: https://www.cs.manchester.ac.uk
+- type: x-youtube
+  url: https://www.youtube.com/user/UoMCompsci/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

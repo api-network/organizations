@@ -1,0 +1,58 @@
+---
+name: Open Referral
+description: <p>We develop data standards and open platforms that make it easy to
+  share and find information about community resources. The vision of Open Referral
+  is a world where everyone has access to &mdash; and the ability to effectively use
+  &mdash; information about the resources that are available in their community.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/open-referral-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "1918459"
+url: https://raw.githubusercontent.com/api-network/organizations/main/open-referral.yaml
+tags:
+- Services
+- Human Services
+- Have API
+- Definitions
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-blog
+  url: https://openreferral.org/category/blog/
+- type: x-blog-rss
+  url: https://openreferral.org/feed/
+- type: x-documentation
+  url: https://openreferral.readthedocs.io
+- type: x-github
+  url: https://github.com/openreferral
+- type: x-open-source
+  url: https://openreferral.org/
+- type: x-open-source
+  url: https://openreferral.org/about/watch-videos/
+- type: x-open-source
+  url: https://openreferral.org/about/history/
+- type: x-open-source
+  url: https://openreferral.org/about/strategic-overview/
+- type: x-open-source
+  url: https://openreferral.org/about/technology-overview/
+- type: x-open-source
+  url: https://openreferral.org/faq/
+- type: x-open-source
+  url: https://openreferral.org/category/blog/
+- type: x-open-source
+  url: https://openreferral.org/get-involved/
+- type: x-press
+  url: http://wordpress.org/
+- type: x-twitter
+  url: https://twitter.com/Open_Referral
+- type: x-website
+  url: https://openreferral.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

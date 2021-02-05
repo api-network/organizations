@@ -1,0 +1,58 @@
+---
+name: Augmate
+description: <p><span>Augmate is the first wearable platform that accelerates the
+  development of cloud-based smart eyewear applications. Our development environment
+  allows us to build applications that integrate with enterprise backend services
+  and a variety of API plug-ins. These capabilities enhance the user experience for
+  the deskless workers that utilize our applications.&nbsp;</span></p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/augmate-logo.jpeg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/augmate.yaml
+tags:
+- Profile
+- No API Definition
+- Internet Of Things
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.augmate.io
+- type: x-website
+  url: https://augmate.io/
+- type: x-about
+  url: https://augmate.io/about/company/
+- type: x-blog
+  url: https://augmate.io/blog/
+- type: x-contact
+  url: https://augmate.io/contact/
+- type: x-contact
+  url: http://www.augmate.io/contact/
+- type: x-email
+  url: info@augmate.com
+- type: x-facebook
+  url: https://www.facebook.com/augmate
+- type: x-linkedin
+  url: https://www.linkedin.com/company/augmate
+- type: x-partner
+  url: https://augmate.io/about/partners/
+- type: x-press
+  url: https://augmate.io/about/press/
+- type: x-privacy
+  url: https://augmate.io/privacy-policy-text-only/
+- type: x-privacy
+  url: https://www.sharethis.com/privacy/
+- type: x-twitter
+  url: https://twitter.com/augmate
+- type: x-website
+  url: http://augmate.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,104 @@
+---
+name: Qualgorithms
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/qualgorithms.yaml
+tags:
+- Quantum Computing
+apis: []
+x-common:
+- type: x-blog
+  url: http://qualgorithms.blogspot.com/atom.xml
+- type: x-blog
+  url: http://www.qinfo.org/people/nielsen/blog/
+- type: x-blog
+  url: http://www.chriscmooney.com/blog.asp
+- type: x-blog
+  url: http://www.cerezo.name/weblog/
+- type: x-blog
+  url: http://geomblog.blogspot.com/
+- type: x-blog
+  url: http://minki.blogspot.com/
+- type: x-blog
+  url: http://superconducting.blogspot.com/
+- type: x-blog
+  url: http://www.scottaaronson.com/blog/
+- type: x-blog
+  url: http://qualgorithms.blogspot.com/2003/11/
+- type: x-blog
+  url: http://qualgorithms.blogspot.com/2003/12/
+- type: x-blog
+  url: http://qualgorithms.blogspot.com/2004/01/
+- type: x-blog
+  url: http://qualgorithms.blogspot.com/2004/02/
+- type: x-blog
+  url: http://qualgorithms.blogspot.com/2004/03/
+- type: x-blog
+  url: http://qualgorithms.blogspot.com/2004/04/
+- type: x-blog
+  url: http://qualgorithms.blogspot.com/2004/05/
+- type: x-blog
+  url: http://qualgorithms.blogspot.com/2004/10/
+- type: x-blog
+  url: http://qualgorithms.blogspot.com/2004/11/
+- type: x-blog
+  url: http://qualgorithms.blogspot.com/2004/12/
+- type: x-blog
+  url: http://qualgorithms.blogspot.com/2005/01/
+- type: x-blog
+  url: http://qualgorithms.blogspot.com/2005/02/
+- type: x-blog
+  url: http://qualgorithms.blogspot.com/2005/03/
+- type: x-blog
+  url: http://qualgorithms.blogspot.com/2005/05/
+- type: x-blog
+  url: http://qualgorithms.blogspot.com/2005/06/
+- type: x-blog
+  url: http://qualgorithms.blogspot.com/2005/08/
+- type: x-blog
+  url: http://qualgorithms.blogspot.com/2005/09/
+- type: x-blog
+  url: http://qualgorithms.blogspot.com/2006/03/
+- type: x-blog
+  url: http://qualgorithms.blogspot.com/2006/11/
+- type: x-blog
+  url: http://qualgorithms.blogspot.com/2007/04/
+- type: x-blog
+  url: http://qualgorithms.blogspot.com/2008/12/
+- type: x-blog
+  url: http://scottaaronson.com/blog/?p=225
+- type: x-blog
+  url: http://www.chriscmooney.com/blog.asp?Id=2107
+- type: x-blog
+  url: http://www.physics.uq.edu.au/people/rohde/blog/?p=52
+- type: x-blog
+  url: http://blogshares.com/
+- type: x-blog
+  url: http://qualgorithms.blogspot.com/
+- type: x-blog
+  url: http://quantumbits.blogspot.com/
+- type: x-blog
+  url: http://weblog.fortnow.com/2004/11/nsf-budget.html
+- type: x-news
+  url: http://www.hurricane.lsu.edu/_in_the_news/houston.htm
+- type: x-news
+  url: http://physicsweb.org/articles/news/9/6/11/1
+- type: x-news
+  url: http://news.bbc.co.uk/2/hi/technology/2345933.stm
+- type: x-news
+  url: http://www.newscientist.com/article.ns?id=dn6510
+- type: x-news
+  url: http://www.azonano.com/news.asp?newsID=370
+- type: x-website
+  url: https://qualgorithms.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

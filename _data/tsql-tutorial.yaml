@@ -1,0 +1,46 @@
+---
+name: T-SQL Tutorial
+description: T-SQL Tutorial is a online tutorial dedicated to all developers beginners
+  and advanced, covering the main areas of tsql language, sql and ms sql server. Transact
+  SQL tutorial is based more by example than by a written documentation is a quicker
+  way to learn. PDF version of T-SQL Tutorial.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "516227"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tsql-tutorial.yaml
+tags:
+- Tsql Tutorial
+- Trigger
+- Transact
+- T-sql Language
+- SQL Server
+- Procedures
+- PDF
+- Learn
+- Index
+- Examples
+- Error
+- "2016"
+apis: []
+x-common:
+- type: x-website
+  url: http://www.tsql.info
+- type: x-contact
+  url: https://www.tsql.info/contact.php
+- type: x-facebook
+  url: https://www.facebook.com/TSQLinfo-284781558291216/
+- type: x-privacy
+  url: https://www.tsql.info/privacy-policy.php
+- type: x-twitter
+  url: https://twitter.com/tsqltutorial
+- type: x-website
+  url: https://www.tsql.info
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

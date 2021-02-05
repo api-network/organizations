@@ -1,0 +1,58 @@
+---
+name: Silanis Technology
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/silanis-technology.yaml
+tags:
+- Products And Tools
+apis: []
+x-common:
+- type: x-website
+  url: http://www.onespan.com
+- type: x-developer
+  url: https://developer.esignlive.com/
+- type: x-developer
+  url: https://developer.esignlive.com
+- type: x-documentation
+  url: https://docs.esignlive.com/
+- type: x-documentation
+  url: https://docs.esignlive.com/content/home.htm
+- type: x-facebook
+  url: https://www.facebook.com/onespan/
+- type: x-investor
+  url: https://investors.onespan.com
+- type: x-investor
+  url: https://investors.onespan.com/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/onespan/
+- type: x-login
+  url: https://cp.onespan.com/contracts/sign_in
+- type: x-login
+  url: https://seal.vasco.com/identikey/onespan_login.html
+- type: x-login
+  url: https://apps.e-signlive.com/login
+- type: x-login
+  url: https://apps.esignlive.com/login
+- type: x-login
+  url: https://apps.e-signlive.ca/login
+- type: x-login
+  url: https://apps.esignlive.com.au/login
+- type: x-login
+  url: https://apps.esignlive.eu/login
+- type: x-twitter
+  url: https://twitter.com/OneSpan
+- type: x-website
+  url: https://www.silanis.com
+- type: x-youtube
+  url: https://www.youtube.com/onespan
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

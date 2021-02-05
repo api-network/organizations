@@ -1,0 +1,111 @@
+---
+name: Simplehelp
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "184657"
+url: https://raw.githubusercontent.com/api-network/organizations/main/simplehelp.yaml
+tags: []
+apis: []
+x-common:
+- type: x-about
+  url: https://www.simplehelp.net/about/
+- type: x-feed
+  url: https://www.simplehelp.net/feedback/
+- type: x-github
+  url: https://github.com/LionelJouin/PiP-Tool
+- type: x-privacy
+  url: https://www.simplehelp.net/privacy-policy/
+- type: x-security
+  url: https://www.simplehelp.net/category/security/
+- type: x-support
+  url: https://www.simplehelp.net/
+- type: x-support
+  url: https://www.simplehelp.net/author/ross-mckillop/
+- type: x-support
+  url: https://www.simplehelp.net/page/2/
+- type: x-support
+  url: https://www.simplehelp.net/page/104/
+- type: x-support
+  url: https://www.simplehelp.net/category/app-of-the-month/
+- type: x-support
+  url: https://www.simplehelp.net/category/bittorrent/
+- type: x-support
+  url: https://www.simplehelp.net/category/blogging/
+- type: x-support
+  url: https://www.simplehelp.net/category/blu-ray/
+- type: x-support
+  url: https://www.simplehelp.net/category/boxee/
+- type: x-support
+  url: https://www.simplehelp.net/category/cable-modems/
+- type: x-support
+  url: https://www.simplehelp.net/category/chrome/
+- type: x-support
+  url: https://www.simplehelp.net/category/chromebook/
+- type: x-support
+  url: https://www.simplehelp.net/category/email/
+- type: x-support
+  url: https://www.simplehelp.net/category/facebook/
+- type: x-support
+  url: https://www.simplehelp.net/category/firefox/
+- type: x-support
+  url: https://www.simplehelp.net/category/flip-video/
+- type: x-support
+  url: https://www.simplehelp.net/category/gaming/
+- type: x-support
+  url: https://www.simplehelp.net/category/gopro/
+- type: x-support
+  url: https://www.simplehelp.net/category/home-networking/
+- type: x-support
+  url: https://www.simplehelp.net/category/instagram/
+- type: x-support
+  url: https://www.simplehelp.net/category/internet-explorer/
+- type: x-support
+  url: https://www.simplehelp.net/category/ipad/
+- type: x-support
+  url: https://www.simplehelp.net/category/ipod/
+- type: x-support
+  url: https://www.simplehelp.net/category/kindle/
+- type: x-support
+  url: https://www.simplehelp.net/category/links/
+- type: x-support
+  url: https://www.simplehelp.net/category/linux/
+- type: x-support
+  url: https://www.simplehelp.net/category/mac/
+- type: x-support
+  url: https://www.simplehelp.net/category/mobile/
+- type: x-support
+  url: https://www.simplehelp.net/category/mobile/android/
+- type: x-support
+  url: https://www.simplehelp.net/category/mobile/iphone/
+- type: x-support
+  url: https://www.simplehelp.net/category/mobile/symbian/
+- type: x-support
+  url: https://www.simplehelp.net/category/multimedia/
+- type: x-support
+  url: https://www.simplehelp.net/category/office/
+- type: x-support
+  url: https://www.simplehelp.net/category/other/
+- type: x-support
+  url: https://www.simplehelp.net/category/reviews/
+- type: x-support
+  url: https://www.simplehelp.net/category/safari/
+- type: x-support
+  url: https://www.simplehelp.net/category/smartwatches/
+- type: x-support
+  url: https://www.simplehelp.net/category/twitter/
+- type: x-support
+  url: https://www.simplehelp.net/category/windows/
+- type: x-support
+  url: https://www.simplehelp.net/category/wireless/
+- type: x-website
+  url: https://www.simplehelp.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

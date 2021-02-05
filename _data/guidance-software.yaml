@@ -1,0 +1,45 @@
+---
+name: Guidance Software
+description: "Guidance Software, now OpenText, is the maker of EnCase\xAE, the gold
+  standard in forensic security. Guidance Software provides deep 360-degree visibility
+  across all endpoints, devices and networks with field-tested and court-proven software."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "722604"
+url: https://raw.githubusercontent.com/api-network/organizations/main/guidance-software.yaml
+tags:
+- Forensics And Anti-Forensic Degaussers
+- Forensics
+- Endpoint Data Security
+- EDiscovery
+apis: []
+x-common:
+- type: x-investor
+  url: http://investors.opentext.com/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/guidance-software
+- type: x-open-source
+  url: https://support.opentext.com
+- type: x-open-source
+  url: http://www.opentext.com/who-we-are
+- type: x-open-source
+  url: http://www.opentext.com/who-we-are/careers
+- type: x-partner
+  url: https://partner.guidancesoftware.com
+- type: x-press
+  url: http://www.opentext.com/who-we-are/press-releases
+- type: x-twitter
+  url: http://www.twitter.com/encase
+- type: x-website
+  url: https://www.guidancesoftware.com
+- type: x-youtube
+  url: http://www.youtube.com/user/GuidanceSoftware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

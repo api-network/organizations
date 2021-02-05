@@ -1,0 +1,32 @@
+---
+name: L. Scott Hochberg Consulting Services
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1200969"
+url: https://raw.githubusercontent.com/api-network/organizations/main/l--scott-hochberg-consulting-services.yaml
+tags:
+- Promotion
+apis: []
+x-common:
+- type: x-code
+  url: https://savepostage.com/lostcodes.html
+- type: x-contact
+  url: https://savepostage.com/contact-change.html
+- type: x-partner
+  url: https://savepostage.com/partner_signup.html
+- type: x-privacy
+  url: https://savepostage.com/privacy.html
+- type: x-support
+  url: https://savepostage.com/pshelp.html
+- type: x-website
+  url: https://savepostage.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,33 @@
+---
+name: Interactive mathematics
+description: interactive exercises, mathematical tools, interactive puzzles, teaching
+  documents interactive exercises, online calculators and plotters, mathematical recreation
+  and games
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8317"
+url: https://raw.githubusercontent.com/api-network/organizations/main/interactive-mathematics.yaml
+tags:
+- Server Side Interactivity
+- Mathematics
+- Interactive Mathematics
+- Interactive Math
+apis: []
+x-common:
+- type: x-feed
+  url: feed://wimsedu.info/?feed=rss
+- type: x-feed
+  url: feed://wims.unice.fr/wims/rss/new.xml
+- type: x-forum
+  url: http://wimsedu.info/?post_type=forum
+- type: x-website
+  url: https://wims.unice.fr
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

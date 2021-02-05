@@ -1,0 +1,44 @@
+---
+name: WSCAD Electronic GmbH
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7030982"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wscad-electronic-gmbh.yaml
+tags:
+- AEC Design
+apis: []
+x-common:
+- type: x-website
+  url: http://www.wscad.com
+- type: x-blog
+  url: https://blog.wscad.com
+- type: x-events
+  url: https://www.wscad.com/events/
+- type: x-events
+  url: https://www.wscad.com/events
+- type: x-linkedin
+  url: https://www.linkedin.com/company/wscad-electronic-gmbh
+- type: x-logos
+  url: https://www.wscad.com/bilder-logos/
+- type: x-news
+  url: https://www.wscad.com/newsletter/
+- type: x-partner
+  url: https://www.wscad.com/partner/
+- type: x-press
+  url: https://www.wscad.com/impressum/
+- type: x-press
+  url: https://www.wscad.com/presseartikel/
+- type: x-twitter
+  url: https://twitter.com/wscad
+- type: x-website
+  url: https://www.wscad.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

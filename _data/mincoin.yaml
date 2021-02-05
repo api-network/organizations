@@ -1,0 +1,31 @@
+---
+name: MinCoin
+description: '[So Few To Be Mined] : Unlike a lot of other crypto coins that have   over
+  50 million coins Mincoin will only have 10 million total coins   making it a more
+  rare crypto to own.    1:[Low Inflation]: Unlike a lot of other coins that produce
+  over 100   t...'
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27492-www-mincoin-us.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "5814120"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mincoin.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://www.mincoin.us
+- type: x-email
+  url: developers@mincoin.us
+- type: x-twitter
+  url: https://twitter.com/MinCoinus
+- type: x-website
+  url: https://www.mincoin.us
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

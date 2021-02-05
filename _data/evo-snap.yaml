@@ -1,0 +1,51 @@
+---
+name: Evo Snap
+description: <p>Snap helps developers simplify payment acceptance &amp; business operations
+  for merchants and their customers. EVO Snap* empowers developers to create customized,
+  multi-channel commerce applications &amp; services to support their customers across
+  traditional POS, mobile and eCommerce touch points. Snap* streamlines the inclusion
+  of multiple payment and value-added services via one integration, and delivers bundles
+  of services to developers through one family of APIs.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/2172_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4819374"
+url: https://raw.githubusercontent.com/api-network/organizations/main/evo-snap.yaml
+tags:
+- Payments
+- Payments
+- Payments
+- No API Definition
+- Have API
+- Has API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.evosnap.com
+- type: x-about
+  url: https://www.evosnap.com/about-snap/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/evo-snap
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/evo-snap
+- type: x-email
+  url: info@evosnap.com
+- type: x-getting-started
+  url: https://www.evosnap.com/get-started/
+- type: x-github
+  url: https://github.com/evo-snap
+- type: x-partners
+  url: https://www.evosnap.com/partner-with-us/
+- type: x-twitter
+  url: https://twitter.com/canyousnap
+- type: x-website
+  url: http://www.evosnap.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

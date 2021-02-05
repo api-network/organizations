@@ -1,0 +1,22 @@
+---
+name: DOSarrest Internet Security  DDoS Protection
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1253746"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dosarrest-internet-security--ddos-protection.yaml
+tags:
+- Denial Of Service
+apis: []
+x-common:
+- type: x-website
+  url: https://www.dosarrest.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,28 @@
+---
+name: Worldcore
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/api-butterfly.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "45483"
+url: https://raw.githubusercontent.com/api-network/organizations/main/worldcore.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/worldcore
+- type: x-email
+  url: ico@worldcore.com
+- type: x-email
+  url: bounty@worldcore.com
+- type: x-website
+  url: https://worldcore.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

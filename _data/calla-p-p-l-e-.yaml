@@ -1,0 +1,56 @@
+---
+name: Call-A.P.P.L.E.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/calla-p-p-l-e-.yaml
+tags:
+- Apple II
+apis: []
+x-common:
+- type: x-website
+  url: http://www.callapple.org
+- type: x-about
+  url: https://www.callapple.org/about/
+- type: x-about
+  url: https://www.callapple.org/about/donations/
+- type: x-about
+  url: https://www.callapple.org/about/history/
+- type: x-about
+  url: https://www.callapple.org/about/staff/
+- type: x-contact
+  url: https://www.callapple.org/contact/
+- type: x-documentation
+  url: https://www.callapple.org/documentation/
+- type: x-events
+  url: https://www.callapple.org/events/
+- type: x-facebook
+  url: https://www.facebook.com/APPLEug/
+- type: x-facebook
+  url: https://www.facebook.com/APPLEug
+- type: x-feed
+  url: https://www.callapple.org/feed/
+- type: x-feed
+  url: https://www.callapple.org/comments/feed/
+- type: x-login
+  url: https://www.callapple.org/wp-login.php
+- type: x-news
+  url: https://www.callapple.org/category/general-news-items/
+- type: x-press
+  url: https://www.callapple.org/press/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-twitter
+  url: https://twitter.com/callapple
+- type: x-website
+  url: https://www.callapple.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,30 @@
+---
+name: Ctrl4 Enviro
+description: Provider of smart city solutions.   - Winner of the BCN Open Challenge
+  -
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28784-ctrl4enviro-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "17368217"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ctrl4-enviro.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://ctrl4enviro.com
+- type: x-email
+  url: info@ctrl4enviro.com
+- type: x-email
+  url: anton.goma@ctrl4enviro.com
+- type: x-twitter
+  url: https://twitter.com/Ctrl4Enviro
+- type: x-website
+  url: https://ctrl4enviro.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

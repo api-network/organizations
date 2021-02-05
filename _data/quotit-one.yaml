@@ -1,0 +1,39 @@
+---
+name: Quotit One
+description: Quotit provides health Insurance software and insurance marketing services
+  that increase your sales and increase your productivity. Our powerful quoting engine
+  simplifies your job by allowing you to run quotes for all types of insurance such
+  as IFP, small group, Medicare, and ancillary.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1195728"
+url: https://raw.githubusercontent.com/api-network/organizations/main/quotit-one.yaml
+tags:
+- Health
+apis: []
+x-common:
+- type: x-blog
+  url: https://hub.quotit.com/blog
+- type: x-facebook
+  url: https://www.facebook.com/quotitcorporation
+- type: x-investor
+  url: http://ir.nationalgeneral.com/investor-relations
+- type: x-linkedin
+  url: https://www.linkedin.com/company/quotit-corporation
+- type: x-privacy
+  url: https://www.nghcprivacy.com/ca-notice-at-collection
+- type: x-twitter
+  url: https://twitter.com/quotit
+- type: x-website
+  url: https://www.quotit.com
+- type: x-white-papers
+  url: https://www.quotit.com/whitepapers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

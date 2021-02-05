@@ -1,0 +1,26 @@
+---
+name: DigiPulse
+description: First Crypto and Digital Inheritance service. Beta out in January 2018
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27141-www-digipulse-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "427477"
+url: https://raw.githubusercontent.com/api-network/organizations/main/digipulse.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/digipulse
+- type: x-twitter
+  url: https://twitter.com/DigiPulseIO
+- type: x-website
+  url: https://www.digipulse.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

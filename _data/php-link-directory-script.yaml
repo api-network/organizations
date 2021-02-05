@@ -1,0 +1,44 @@
+---
+name: PHP Link Directory Script
+description: A versatile link directory script powered by PHP, Smarty, Jquery and
+  mySQL that is versatile enough to be an article directory script, link directory
+  script, classified ad site and much more
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "363115"
+url: https://raw.githubusercontent.com/api-network/organizations/main/php-link-directory-script.yaml
+tags:
+- Web Directory Script
+- Link Management
+- Link Exchange Software
+- Link Directory Script
+- Directory Software
+- Directory Script
+- Article Directory Script
+apis: []
+x-common:
+- type: x-feed
+  url: http://feeds.feedburner.com/phpld
+- type: x-forum
+  url: https://www.phplinkdirectory.com/category/forum/
+- type: x-news
+  url: https://www.phplinkdirectory.com/category/news/
+- type: x-support
+  url: https://www.phplinkdirectory.com/support.php
+- type: x-tutorials
+  url: https://www.phplinkdirectory.com/category/tutorials/
+- type: x-twitter
+  url: http://twitter.com/#!/phpld
+- type: x-website
+  url: https://www.phplinkdirectory.com
+- type: x-youtube
+  url: http://www.youtube.com/user/phplinkdirectory
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,27 @@
+---
+name: Marathon
+description: Marathon/OSS & MarathonITE are test automation tools for Java and Web
+  applications. They are affordable, easy-to-use and cross platform. Try them today.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "878191"
+url: https://raw.githubusercontent.com/api-network/organizations/main/marathon.yaml
+tags:
+- GUI
+apis: []
+x-common:
+- type: x-blog
+  url: https://marathontesting.com/blog/
+- type: x-contact
+  url: https://marathontesting.com/contact-us/
+- type: x-website
+  url: https://marathontesting.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,55 @@
+---
+name: DataValidation
+description: <p>A complete solution for email marketers and ESPs. The most comprehensive
+  API for realtime email validation, email list validation, and automating daily list
+  maintenance with Email Assurance. Check email list quality, or monitor list quality
+  over time with free vetting tokens included with every plan. Analyze the quality
+  of an email address at the point of signup. Our API can handle extremely high volume.
+  Clean email lists quickly and receive comprehensive email deliverability data on
+  each email address. Your entire list is returned to you with Email Assurance grades
+  ranging from A+ to F. Automate your email list maintenance with our API. Protect
+  your deliverability by integrating the complete Email Assurance solution. Set up
+  daily list monitoring, weekly list maintenance, and the realtime email validation
+  behind your webform. We analyze all email data daily, ensuring that your email list
+  is always ready for deployment.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/data-validation-api.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "225120"
+url: https://raw.githubusercontent.com/api-network/organizations/main/datavalidation.yaml
+tags:
+- Have API
+- Emails
+- API Provider
+apis: []
+x-common:
+- type: x-api-json--authoritative
+  url: https://developer.datavalidation.com/apis.json
+- type: x-website
+  url: http://www.datavalidation.com
+- type: x-blog
+  url: http://www.datavalidation.com/blog/
+- type: x-blog-rss
+  url: http://www.datavalidation.com/blog/feed.xml
+- type: x-documentation
+  url: http://docs.datavalidation.apiary.io/
+- type: x-documentation
+  url: https://developer.datavalidation.com/docs
+- type: x-login
+  url: https://dv3.datavalidation.com/login
+- type: x-pricing
+  url: https://developer.datavalidation.com/#pricing
+- type: x-signup
+  url: https://dv3.datavalidation.com/signup
+- type: x-twitter
+  url: https://twitter.com/datavalidation
+- type: x-website
+  url: https://developer.datavalidation.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,41 @@
+---
+name: Open Data Commons
+description: '<p>Open Data Commons exists to provide legal solutions for open data.
+  In March 2008 it launched the first ever open data license: the Public Domain Dedication
+  and License (PDDL). Open Data Commons is an Open Knowledge Foundation project run
+  by its Advisory Council and like the Foundation is a not-for-profit effort working
+  for the benefit of the general open knowledge community.</p>'
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/open-data-commons.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "573272"
+url: https://raw.githubusercontent.com/api-network/organizations/main/open-data-commons.yaml
+tags:
+- Licensing
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.opendatacommons.org/
+- type: x-open-source
+  url: https://opendefinition.org/
+- type: x-open-source
+  url: https://okfn.org/opendata/
+- type: x-open-source
+  url: http://opendatahandbook.org/
+- type: x-privacy
+  url: https://okfn.org/privacy-policy/
+- type: x-terms-of-service
+  url: https://okfn.org/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/opendatacommons
+- type: x-website
+  url: http://opendatacommons.org/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

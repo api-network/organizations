@@ -1,0 +1,28 @@
+---
+name: Pro Desks
+description: Laptop truck desks by Pro Desks are rugged, durable and professional.
+  Pro Desks provide heavy duty laptop mounts for trucks, cars, SUVs, vans, police
+  vehicles.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5200519"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pro-desks.yaml
+tags:
+- Vehicle Laptop Mounts
+- Truck Laptop Desks
+- Rolling Laptop Desks
+- Laptop Truck Desk
+- Cases And Accessories
+apis: []
+x-common:
+- type: x-website
+  url: https://www.pro-desks.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

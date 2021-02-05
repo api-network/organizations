@@ -1,0 +1,46 @@
+---
+name: India SMS
+description: IndiaSMS offers best Promotional, Transactional, Voice and Event bulk
+  SMS service. Trusted by 10,000+ customers. Reliable Service. Best response. Try
+  today!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "337886"
+url: https://raw.githubusercontent.com/api-network/organizations/main/india-sms.yaml
+tags:
+- Network Specific
+apis: []
+x-common:
+- type: x-website
+  url: http://www.indiasms.com
+- type: x-about
+  url: https://www.indiasms.com/about-us
+- type: x-blog
+  url: https://blog.indiasms.com
+- type: x-code
+  url: https://www.indiasms.com/virtual-number/long-code
+- type: x-code
+  url: https://www.indiasms.com/virtual-number/short-code
+- type: x-contact
+  url: https://www.indiasms.com/contact-us
+- type: x-developer
+  url: https://www.indiasms.com/api/manual
+- type: x-facebook
+  url: https://www.facebook.com/IndiaSMS
+- type: x-linkedin
+  url: https://www.linkedin.com/company/indiasms
+- type: x-privacy
+  url: https://www.indiasms.com/policies/privacy-policy
+- type: x-twitter
+  url: https://twitter.com/indiasms
+- type: x-website
+  url: https://www.indiasms.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

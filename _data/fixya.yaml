@@ -1,0 +1,56 @@
+---
+name: FixYa
+description: Product troubleshooting support, DIY advice, and help from experts &
+  local pros. Ask questions and get answers to fix, repair, and service any product.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1059-fixya.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4115"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fixya.yaml
+tags:
+- Questions
+- Questions
+- Plugins
+- Marketplaces
+- Have API
+- Forums
+- API Not Found
+- Answers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.fixya.com
+- type: x-blog
+  url: http://blog.fixya.com
+- type: x-blog-rss
+  url: http://blog.fixya.com/index.php/feed/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/fixya
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/fixya
+- type: x-email
+  url: support@fixya.com
+- type: x-facebook
+  url: https://www.facebook.com/pages/FixYa/315217715293
+- type: x-linkedin
+  url: https://www.linkedin.com/company/fixya
+- type: x-login
+  url: https://www.fixya.com/ssl/signin30.aspx
+- type: x-signup
+  url: https://www.fixya.com/ssl/signup.aspx?from=nav
+- type: x-signup
+  url: https://www.fixya.com/ssl/signup.aspx
+- type: x-twitter
+  url: https://twitter.com/#!/fixya
+- type: x-twitter
+  url: https://twitter.com/fixya
+- type: x-website
+  url: http://www.fixya.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

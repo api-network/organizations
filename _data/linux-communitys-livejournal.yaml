@@ -1,0 +1,32 @@
+---
+name: Linux Community's LiveJournal
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2180722"
+url: https://raw.githubusercontent.com/api-network/organizations/main/linux-communitys-livejournal.yaml
+tags:
+- Magazines And E-zines
+apis: []
+x-common:
+- type: x-documentation
+  url: http://open-ms.sourceforge.net/documentation/
+- type: x-login
+  url: https://www.livejournal.com/login.bml
+- type: x-open-source
+  url: http://www.openoffice.org/stats/aoo-downloads.txt
+- type: x-open-source
+  url: http://open-ms.sourceforge.net/
+- type: x-support
+  url: https://www.livejournal.com/support/
+- type: x-website
+  url: https://linux.livejournal.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

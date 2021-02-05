@@ -1,0 +1,30 @@
+---
+name: BSD Now
+description: A weekly podcast and the place to B...SD
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bsd-now.yaml
+tags:
+- BSD
+apis: []
+x-common:
+- type: x-website
+  url: http://www.bsdnow.tv/
+- type: x-facebook
+  url: https://facebook.com/bsdnow
+- type: x-github
+  url: https://github.com/jupiterbroadcasting
+- type: x-twitter
+  url: https://twitter.com/bsdnow
+- type: x-website
+  url: https://www.bsdnow.tv
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

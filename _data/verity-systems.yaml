@@ -1,0 +1,29 @@
+---
+name: Verity Systems
+description: Industry Leading Hard Drive Degaussers for Hard Drives, SSDs & Tapes
+  for Data Erasure and Destruction by VS Security.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2054901"
+url: https://raw.githubusercontent.com/api-network/organizations/main/verity-systems.yaml
+tags:
+- Devices
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/degaussing.hardware
+- type: x-security
+  url: https://www.linkedin.com/company/vs-security-products
+- type: x-twitter
+  url: https://twitter.com/VSSPltd
+- type: x-website
+  url: https://www.veritysystems.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,33 @@
+---
+name: Alps.io
+description: <p>Announcement account for the Application-Level Proile Semantics (ALPS)
+  specification for Web Service Description.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/alps-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "2705361"
+url: https://raw.githubusercontent.com/api-network/organizations/main/alps-io.yaml
+tags:
+- API Tools
+apis: []
+x-common:
+- type: x-website
+  url: http://alps.io
+- type: x-twitter
+  url: https://twitter.com/alps_io
+- type: x-github
+  url: http://github.com/alps-io/
+- type: x-open-source
+  url: http://alps.io/opensearch/
+- type: x-twitter
+  url: http://twitter.com/alps_io
+- type: x-website
+  url: http://alps.io/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

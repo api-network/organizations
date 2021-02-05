@@ -1,0 +1,41 @@
+---
+name: CMJ Technologies
+description: "Trusted IT support for businesses in Sycamore, DeKalb, Rochelle, Genoa,
+  and throughout Northern Illinois \u2013 Let us help you today!"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cmj-technologies.yaml
+tags:
+- Sycamore
+- Rochelle
+- Northern Illinois
+- IT Support
+- IT Solutions For Business
+- IT Solutions
+- IT
+- Illinois
+- Genoa
+- Dekalb
+- Cmj Technologies
+- CMJ
+- Business
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.cmjtechnologies.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/cmjtechnologies
+- type: x-partner
+  url: https://www.cmjtechnologies.com/partners/
+- type: x-website
+  url: https://www.cmjtechnologies.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

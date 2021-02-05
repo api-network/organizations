@@ -1,0 +1,48 @@
+---
+name: Free Graphic Land
+description: FreeGraphicLand where we offer thousands of free graphics on the best
+  clipart and graphic image website you will find on the net today.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/free-graphic-land.yaml
+tags:
+- Transportation
+- Symbol
+- Sport
+- People
+- Office
+- Nature
+- Music
+- Money
+- Internet
+- Holiday
+- Graphics
+- Graphic
+- Gifs
+- GIF
+- Free
+- Food
+- Flag
+- Download
+- Directories
+- Clipart
+- Clip
+- Cartoons
+- Art
+- Animals
+apis: []
+x-common:
+- type: x-login
+  url: http://www.freegraphicland.com/accounts.php?login
+- type: x-website
+  url: https://www.freegraphicland.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

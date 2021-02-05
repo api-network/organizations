@@ -1,0 +1,64 @@
+---
+name: Chicago Illinois 311
+description: <p>Call 311 for assistance with non-emergency City Services and for information
+  on events, programs and agencies within the City of Chicago.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/6A231614-652B-4334-852C-54261F4B13BD
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "151345"
+url: https://raw.githubusercontent.com/api-network/organizations/main/chicago-illinois-311.yaml
+tags:
+- Open311
+- Have API Paths
+- Have API
+- "311"
+apis: []
+x-common:
+- type: x-website
+  url: http://cityofchicago.org/311
+- type: x-developer
+  url: http://dev.cityofchicago.org
+- type: x-developer
+  url: http://dev.cityofchicago.org/index.html
+- type: x-developer
+  url: https://dev.socrata.com
+- type: x-developer
+  url: http://dev.socrata.com
+- type: x-developer
+  url: https://dev.socrata.com/consumers/getting-started.html
+- type: x-developer
+  url: https://dev.socrata.com/libraries/
+- type: x-documentation
+  url: https://api.chicagohealthatlas.org/api-docs/index.html
+- type: x-documentation
+  url: http://opengrid.readthedocs.io
+- type: x-documentation
+  url: http://dev.cityofchicago.org/docs/open311
+- type: x-documentation
+  url: http://api1.chicagopolice.org/clearpath/documentation
+- type: x-feed
+  url: http://feeds.divvybikes.com/stations/stations.json
+- type: x-github
+  url: https://www.github.com/Chicago
+- type: x-github
+  url: https://github.com/smartchicago/chicago-atlas/issues
+- type: x-open-311-feed
+  url: http://311api.cityofchicago.org/open311/v2/services.xml?jurisdiction_id=cityofchicago.org
+- type: x-twitter
+  url: https://twitter.com/Chicago311
+- type: x-twitter
+  url: https://twitter.com/chi311
+- type: x-twitter
+  url: https://www.twitter.com/ChicagoCDO
+- type: x-website
+  url: https://www.cityofchicago.org/city/en/depts/311.html
+- type: x-youtube
+  url: http://www.youtube.com/watch?v=PRLmRq423Ww
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

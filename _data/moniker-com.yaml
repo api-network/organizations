@@ -1,0 +1,46 @@
+---
+name: Moniker.com
+description: We offer a wide menu of enhanced domain name solutions - focused on getting
+  you the right domain, privacy and security. We make the domain registration process
+  simple with our intuitive domain search products.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "56163"
+url: https://raw.githubusercontent.com/api-network/organizations/main/moniker-com.yaml
+tags:
+- Appraisal
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/MonikerLLC
+- type: x-linkedin
+  url: https://www.linkedin.com/company/moniker-com
+- type: x-login
+  url: https://login.moniker.com
+- type: x-login
+  url: https://login.moniker.com/login
+- type: x-news
+  url: https://www.moniker.com/company/news
+- type: x-privacy
+  url: https://www.moniker.com/domains/domain-privacy
+- type: x-security
+  url: https://www.moniker.com/domains/domain-security
+- type: x-signup
+  url: https://www.moniker.com/signup
+- type: x-support
+  url: https://www.moniker.com/support
+- type: x-terms-of-service
+  url: https://www.moniker.com/legal
+- type: x-twitter
+  url: https://twitter.com/moniker
+- type: x-website
+  url: https://www.moniker.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

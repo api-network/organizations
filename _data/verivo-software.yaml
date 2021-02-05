@@ -1,0 +1,86 @@
+---
+name: Verivo Software
+description: "Verivo\u2019s enterprise mobility platform enables companies to centrally
+  build, deploy, manage and update their own mobile applications \u2013 rapidly and
+  securely."
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/verivo-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4449066"
+url: https://raw.githubusercontent.com/api-network/organizations/main/verivo-software.yaml
+tags:
+- Telecommunications
+- Networks
+- Have API
+- BaaS
+- Applications
+apis: []
+x-common:
+- type: x-website
+  url: http://www.verivo.com
+- type: x-about
+  url: https://www.verivo.com/about-us/
+- type: x-about
+  url: https://www.verivo.com/about-us/our-story/
+- type: x-about
+  url: https://www.verivo.com/about-us/leadership/
+- type: x-careers
+  url: https://www.verivo.com/about-us/careers/
+- type: x-contact
+  url: https://www.verivo.com/about-us/contact/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/verivo-software
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/verivo-software
+- type: x-customers
+  url: https://www.verivo.com/customers/
+- type: x-customers
+  url: https://www.verivo.com/customers/customers/
+- type: x-email
+  url: legal@verivo.com
+- type: x-email
+  url: marketing@verivo.com
+- type: x-email
+  url: info@verivo.com
+- type: x-email
+  url: hotjobs@verivo.com
+- type: x-facebook
+  url: http://www.facebook.com/VerivoSoftware
+- type: x-linkedin
+  url: http://www.linkedin.com/company/verivo
+- type: x-news
+  url: https://www.verivo.com/about-us/news/
+- type: x-partner
+  url: https://www.verivo.com/partners/
+- type: x-partner
+  url: https://www.verivo.com/partner-inquiry-form/
+- type: x-platform
+  url: https://www.verivo.com/mobile-platform/
+- type: x-platform
+  url: https://www.verivo.com/mobile-platform/overview/
+- type: x-privacy
+  url: https://www.verivo.com/privacy/
+- type: x-support
+  url: https://www.verivo.com/support/
+- type: x-terms-of-service
+  url: https://www.verivo.com/legal-information/
+- type: x-twitter
+  url: http://www.twitter.com/verivosoftware
+- type: x-twitter
+  url: https://twitter.com/verivosoftware
+- type: x-webinars
+  url: https://www.verivo.com/resources/webinars/
+- type: x-website
+  url: http://www.verivo.com/
+- type: x-white-papers
+  url: https://www.verivo.com/resources/white-papers/
+- type: x-youtube
+  url: http://www.youtube.com/user/verivosoftware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

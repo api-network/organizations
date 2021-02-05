@@ -1,0 +1,23 @@
+---
+name: The Official FVWM Homepage
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1959704"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-official-fvwm-homepage.yaml
+tags:
+- GUI
+- FVWM
+apis: []
+x-common:
+- type: x-website
+  url: https://fvwm.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,39 @@
+---
+name: The Site Wizard
+description: Free articles and tutorials on web design, promotion, PHP, CGI, JavaScript
+  scripting and earning money from your website
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "26871"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-site-wizard.yaml
+tags:
+- Server Side Scripting
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.thesitewizard.com/blogging/index.shtml
+- type: x-code
+  url: https://www.thefreecountry.com/sourcecode/xml.shtml
+- type: x-feed
+  url: https://www.thesitewizard.com/faqs/feedbackform.shtml
+- type: x-feed
+  url: https://www.thesitewizard.com/feedback.php
+- type: x-news
+  url: https://www.thesitewizard.com/archive/newsletter.shtml
+- type: x-news
+  url: https://www.thesitewizard.com/news/index.shtml
+- type: x-press
+  url: https://www.thesitewizard.com/topics/wordpress.shtml
+- type: x-privacy
+  url: https://www.thesitewizard.com/privacy.shtml
+- type: x-website
+  url: https://www.thesitewizard.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

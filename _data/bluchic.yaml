@@ -1,0 +1,49 @@
+---
+name: Bluchic
+description: Bluchic creates feminine WordPress Themes for female entrepreneurs and
+  bloggers, so you can build a beautiful & professional website or blog.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "81088"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bluchic.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-website
+  url: https://www.bluchic.com/powerful-online-presence/
+- type: x-about
+  url: https://www.bluchic.com/about/
+- type: x-blog
+  url: https://www.bluchic.com/blog/
+- type: x-contact
+  url: https://www.bluchic.com/contact/
+- type: x-facebook
+  url: https://facebook.com/bluchic
+- type: x-instagram
+  url: https://instagram.com/hibluchic
+- type: x-press
+  url: https://www.bluchic.com/shop/wordpress-themes/
+- type: x-press
+  url: https://www.bluchic.com/press
+- type: x-showcase
+  url: https://www.bluchic.com/showcase/
+- type: x-terms-of-service
+  url: https://www.bluchic.com/terms/
+- type: x-terms-of-service
+  url: https://www.bluchic.com/terms/#cookie
+- type: x-twitter
+  url: https://twitter.com/bluchic
+- type: x-website
+  url: https://www.bluchic.com
+- type: x-youtube
+  url: https://www.youtube.com/c/BluchicTV
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

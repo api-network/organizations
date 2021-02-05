@@ -1,0 +1,40 @@
+---
+name: Bughost
+description: Bug Tracking Software, Defect Tracking and Issue Management System -
+  Hosted by BugHost.com
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4158605"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bughost.yaml
+tags:
+- Tracking
+- Tracker
+- Track
+- Test
+- Software
+- Quality
+- Online
+- Hosting
+- Hosted
+- Free
+- Defects
+- Defect Tracking
+- Defect
+- Bugs
+- Bug Tracking
+- Bug
+apis: []
+x-common:
+- type: x-facebook
+  url: http://www.facebook.com/BugHostBugTracking
+- type: x-website
+  url: https://www.bughost.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

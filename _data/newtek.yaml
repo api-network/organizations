@@ -1,0 +1,45 @@
+---
+name: NewTek!
+description: Leader in innovation that fundamentally changes the way video is being
+  created - The future of live production today with IP Series, MediaDS, NDI Technology,
+  TriCaster, 3Play, TalkShow with SkypeTX and LightWave 3D.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "86597"
+url: https://raw.githubusercontent.com/api-network/organizations/main/newtek.yaml
+tags:
+- Retailers
+- Lightwave
+apis: []
+x-common:
+- type: x-website
+  url: http://www.newtek.com
+- type: x-code
+  url: https://ndi.tv/sdk/
+- type: x-facebook
+  url: http://www.facebook.com/newtekinc
+- type: x-forum
+  url: http://forums.newtek.com
+- type: x-forum
+  url: http://forums.newtek.com/
+- type: x-instagram
+  url: https://www.instagram.com/newtekinc/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/15419
+- type: x-self-service-registration
+  url: http://register.newtek.com/Splash.aspx
+- type: x-twitter
+  url: http://twitter.com/#!/newtekinc
+- type: x-website
+  url: https://www.newtek.com
+- type: x-youtube
+  url: https://www.youtube.com/newtekinc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

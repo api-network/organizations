@@ -1,0 +1,36 @@
+---
+name: SeeknClean
+description: SeeknClean 2019 - Disk Cleaner and System Optimizer for Windows XP/Vista
+  and Windows 7
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/seeknclean.yaml
+tags:
+- Seeknclean
+- Garbage File Cleaner
+- Drive Clean
+- Disk Clean
+- Deletion
+- Clean Windows
+- Clean Up Hard Drive
+- Clean Pc
+- Clean Hard Drive
+- Clean Disk
+apis: []
+x-common:
+- type: x-about
+  url: http://www.seeknclean.com/about.htm
+- type: x-support
+  url: http://www.seeknclean.com/support.htm
+- type: x-website
+  url: https://www.seeknclean.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

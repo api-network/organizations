@@ -1,0 +1,45 @@
+---
+name: Orisoft
+description: Orisoft is one of the leading Human Capital Management Solution Provider
+  in Malaysia. We offer Human Resource Management System (HR Software), Time Management
+  System & others.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5041779"
+url: https://raw.githubusercontent.com/api-network/organizations/main/orisoft.yaml
+tags:
+- System
+- Software
+- Resource
+- Orisoft
+- Malaysia
+- Human Resources
+- Human
+- HR
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.orisoft.com.my/contact/
+- type: x-customers
+  url: http://customers.orisoft.com.my/support
+- type: x-facebook
+  url: https://www.facebook.com/OrisoftHCM
+- type: x-news
+  url: https://www.orisoft.com.my/news_category/events/
+- type: x-news
+  url: https://www.orisoft.com.my/newsevents/
+- type: x-partner
+  url: https://www.orisoft.com.my/partners/
+- type: x-terms-of-service
+  url: https://www.orisoft.com.my/terms-of-use/
+- type: x-website
+  url: https://www.orisoft.com.my
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

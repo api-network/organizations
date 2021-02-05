@@ -1,0 +1,38 @@
+---
+name: Vertex Inc
+description: Vertex is the leading and most-trusted provider of comprehensive, integrated
+  tax technology solutions, having helped 10,000+ businesses since 1978.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "215536"
+url: https://raw.githubusercontent.com/api-network/organizations/main/vertex-inc.yaml
+tags:
+- Products And Services
+- Corporate Tax
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/vertexinc1/
+- type: x-instagram
+  url: https://www.instagram.com/lifeatvertex/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/vertex-inc./
+- type: x-login
+  url: https://auth.vertexsmb.com/identity/login
+- type: x-login
+  url: https://vertexinc.custhelp.com/app/utils/login_form
+- type: x-support
+  url: https://vertexinc.custhelp.com
+- type: x-twitter
+  url: https://twitter.com/vertexinc
+- type: x-website
+  url: https://www.vertexinc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

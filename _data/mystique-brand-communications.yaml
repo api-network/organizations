@@ -1,0 +1,43 @@
+---
+name: Mystique Brand Communications
+description: "Brand agency helping small, and not so small, business find their voice,
+  while making sure it\u2019s heard. Build your brand. Grow your business."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "551522"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mystique-brand-communications.yaml
+tags:
+- Branding
+apis: []
+x-common:
+- type: x-website
+  url: http://www.mystique.ca
+- type: x-blog
+  url: https://mystique.ca/blog/
+- type: x-contact
+  url: https://mystique.ca/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/MystiqueBrandCommunications
+- type: x-instagram
+  url: https://www.instagram.com/mystiquebrandcommunications/
+- type: x-privacy
+  url: https://mystique.ca/privacy-policy
+- type: x-support
+  url: https://mystique.ca/breast-cancer-support-fund
+- type: x-terms-of-service
+  url: https://mystique.ca/terms-conditions
+- type: x-twitter
+  url: https://twitter.com/MystiqueBrand
+- type: x-website
+  url: https://www.mystique.ca
+- type: x-youtube
+  url: https://www.youtube.com/user/MystiqueBrands
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

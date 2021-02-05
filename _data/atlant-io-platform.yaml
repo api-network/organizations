@@ -1,0 +1,30 @@
+---
+name: ATLANT.io Platform
+description: ATLANT ICO. Blockchain-based global real estate platform built over Ethereum.
+  Trade tokenized property and rent apartments without paying high fees.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27108-atlant-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "36291"
+url: https://raw.githubusercontent.com/api-network/organizations/main/atlant-io-platform.yaml
+tags:
+- Marketplaces
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://www.atlant.io
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/atlant
+- type: x-twitter
+  url: https://twitter.com/atlantio
+- type: x-website
+  url: https://atlant.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

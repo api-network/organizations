@@ -1,0 +1,66 @@
+---
+name: Consortiuminfo.org
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4885794"
+url: https://raw.githubusercontent.com/api-network/organizations/main/consortiuminfo-org.yaml
+tags:
+- Organizations
+apis: []
+x-common:
+- type: x-code
+  url: http://www.dronecode.org/
+- type: x-forum
+  url: http://www.broadband-forum.org/
+- type: x-forum
+  url: https://hdmiforum.org/
+- type: x-forum
+  url: http://www.nfc-forum.org
+- type: x-forum
+  url: http://www.ultrahdforum.org
+- type: x-forum
+  url: http://www.videoservicesforum.org/
+- type: x-open-source
+  url: https://www.oasis-open.org/
+- type: x-open-source
+  url: http://www.opengeospatial.org/
+- type: x-open-source
+  url: http://www.openbel.org/
+- type: x-open-source
+  url: https://openpowerfoundation.org/
+- type: x-open-source
+  url: http://opencapi.org/
+- type: x-open-source
+  url: http://www.opencontainers.org/
+- type: x-open-source
+  url: http://www.opendaylight.org/
+- type: x-open-source
+  url: http://opendof.org/
+- type: x-open-source
+  url: http://www.openfogconsortium.org/
+- type: x-open-source
+  url: http://opengamingalliance.org/
+- type: x-open-source
+  url: http://openid.net/
+- type: x-open-source
+  url: http://www.openmama.org/
+- type: x-open-source
+  url: http://openntf.org/main.nsf/
+- type: x-open-source
+  url: http://www.opensaf.org
+- type: x-platform
+  url: http://www.globalplatform.org/
+- type: x-security
+  url: https://www.pcisecuritystandards.org/
+- type: x-website
+  url: https://www.consortiuminfo.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

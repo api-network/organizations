@@ -1,0 +1,78 @@
+---
+name: TrueLayer
+description: Secure, reliable and easy access to banking infrastructure. A complete
+  toolkit for you to build modern financial applications through a delightful experience.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28806-truelayer-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "352148"
+url: https://raw.githubusercontent.com/api-network/organizations/main/truelayer.yaml
+tags:
+- Profile
+- Payments
+- No API Definition
+- Has API
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.truelayer.com
+- type: x-blog
+  url: https://blog.truelayer.com/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/truelayer
+- type: x-documentation
+  url: http://docs.truelayer.com
+- type: x-documentation
+  url: https://docs.truelayer.com/#getting-started
+- type: x-documentation
+  url: https://docs.truelayer.com/#access-methods
+- type: x-documentation
+  url: https://docs.truelayer.com/#data-api-v1
+- type: x-documentation
+  url: https://docs.truelayer.com/#payments-api-v1
+- type: x-documentation
+  url: https://docs.truelayer.com/#status-api-v1
+- type: x-documentation
+  url: http://docs.truelayer.com/#retrieve-an-account
+- type: x-documentation
+  url: http://docs.truelayer.com/#retrieve-account-balance
+- type: x-documentation
+  url: http://docs.truelayer.com/
+- type: x-email
+  url: privacy@truelayer.com
+- type: x-email
+  url: legal@truelayer.com
+- type: x-facebook
+  url: https://www.facebook.com/TrueLayerAPI/
+- type: x-github
+  url: https://github.com/truelayer
+- type: x-linkedin
+  url: https://www.linkedin.com/company/17954388/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/truelayer
+- type: x-login
+  url: https://console.truelayer.com/?auto=login
+- type: x-signup
+  url: https://console.truelayer.com/?auto=signup
+- type: x-status
+  url: https://status.truelayer.com/
+- type: x-status
+  url: https://status.truelayer.com
+- type: x-support
+  url: http://support.truelayer.com
+- type: x-twitter
+  url: https://twitter.com/TrueLayer
+- type: x-website
+  url: https://truelayer.com
+- type: x-website
+  url: http://docs.truelayer.com
+- type: x-website
+  url: http://truelayer.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

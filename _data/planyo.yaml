@@ -1,0 +1,86 @@
+---
+name: planyo
+description: Planyo is a flexible online reservation system / booking software for
+  any business which needs scheduling and managing their bookings.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/637-planyo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "269660"
+url: https://raw.githubusercontent.com/api-network/organizations/main/planyo.yaml
+tags:
+- System
+- Software
+- Scheduling
+- Reserve
+- Reservations
+- Reservations
+- Reservation
+- Online
+- Marketplaces
+- Hotels
+- Have API
+- Bookings
+- Booking
+- Book
+apis: []
+x-common:
+- type: x-website
+  url: http://www.planyo.com/
+- type: x-about
+  url: https://www.planyo.com/about-us.php
+- type: x-blog
+  url: http://www.planyo.com/whatsnew.php
+- type: x-blog-rss
+  url: http://www.planyo.com/feed/
+- type: x-contact
+  url: https://www.planyo.com/#contactus
+- type: x-contact
+  url: https://www.planyo.com/contact.php
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/planyo
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/pixmac
+- type: x-developer
+  url: https://www.planyo.fr/api.php
+- type: x-developer
+  url: https://www.planyo.ch/api.php
+- type: x-developer
+  url: https://www.planyo.it/api.php
+- type: x-developer
+  url: https://www.planyo.es/api.php
+- type: x-developer
+  url: https://www.planyo.pl/api.php
+- type: x-developer
+  url: https://www.planyo.com/api.php
+- type: x-facebook
+  url: http://www.facebook.com/planyocom
+- type: x-facebook
+  url: https://www.facebook.com/planyocom
+- type: x-feed
+  url: https://www.planyo.com/feed/
+- type: x-login
+  url: https://www.planyo.com/login/signup.php
+- type: x-login
+  url: https://www.planyo.com/login/login.php
+- type: x-press
+  url: https://www.planyo.com/wordpress-reservation-system/
+- type: x-pricing
+  url: https://www.planyo.com/pricing.php
+- type: x-privacy
+  url: https://www.planyo.com/privacy.php
+- type: x-support
+  url: https://www.planyo.com/help.php
+- type: x-tutorials
+  url: https://www.planyo.com/tutorials.php
+- type: x-twitter
+  url: https://twitter.com/planyo
+- type: x-twitter
+  url: https://twitter.com/planyocom
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

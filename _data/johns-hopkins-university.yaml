@@ -1,0 +1,91 @@
+---
+name: Johns Hopkins University
+description: <p>Johns Hopkins University provides a Hub API, opening up API access
+  to several campus resources including articles, events, galleries, issues, divisions,
+  locations, tags, and topics as simple API endpoints with documentation. Not much
+  else is provide via the portal.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/johns-hopkins-university-logo.gif
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "5216"
+url: https://raw.githubusercontent.com/api-network/organizations/main/johns-hopkins-university.yaml
+tags:
+- University In Progress
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://JHU.edu
+- type: x-about
+  url: https://www.jhu.edu/about/history/
+- type: x-about
+  url: https://www.jhu.edu/about/
+- type: x-about
+  url: https://www.jhu.edu/about/university-leadership/
+- type: x-about
+  url: https://www.jhu.edu/about/history/gilman-address/
+- type: x-about
+  url: https://www.jhu.edu/about/notable-alumni/
+- type: x-about
+  url: https://www.jhu.edu/about/community/
+- type: x-about
+  url: https://www.jhu.edu/about/international/
+- type: x-about
+  url: https://www.jhu.edu/life/about-baltimore/
+- type: x-careers
+  url: https://hrnt.jhu.edu/jhujobs/
+- type: x-careers
+  url: https://jobs.jhu.edu/
+- type: x-contact
+  url: https://www.jhu.edu/contact/
+- type: x-developers
+  url: https://api.hub.jhu.edu/docs
+- type: x-events
+  url: http://hub.jhu.edu/events
+- type: x-facebook
+  url: http://www.facebook.com/johnshopkinsuniversity
+- type: x-instagram
+  url: http://instagram.com/johnshopkinsu
+- type: x-instagram
+  url: https://www.instagram.com/p/B6w7qpgjtQK/
+- type: x-instagram
+  url: https://www.instagram.com/explore/tags/happy2020/
+- type: x-instagram
+  url: https://www.instagram.com/p/B6wCJYxB0bR/
+- type: x-instagram
+  url: https://www.instagram.com/p/B6OYt34iruR/
+- type: x-instagram
+  url: https://www.instagram.com/fryelock_on_top/
+- type: x-instagram
+  url: https://www.instagram.com/p/B6IwTEihMpi/
+- type: x-instagram
+  url: https://www.instagram.com/explore/tags/jhu/
+- type: x-instagram
+  url: https://www.instagram.com/explore/tags/finalsweek/
+- type: x-instagram
+  url: https://www.instagram.com/p/B3k621Uhdjb/
+- type: x-instagram
+  url: https://www.instagram.com/p/B03uKmuBKgj/
+- type: x-instagram
+  url: https://www.instagram.com/explore/tags/punstagram/
+- type: x-instagram
+  url: https://www.instagram.com/explore/tags/johnshopkins/
+- type: x-privacy
+  url: https://www.jhu.edu/privacystatement
+- type: x-security
+  url: https://www.jhu.edu/life/security/
+- type: x-twitter
+  url: http://www.twitter.com/JohnsHopkins
+- type: x-website
+  url: https://www.jhu.edu/
+- type: x-youtube
+  url: http://www.youtube.com/johnshopkins
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

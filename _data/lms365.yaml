@@ -1,0 +1,21 @@
+---
+name: LMS365
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "365"
+x-alexaRank: "511570"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lms365.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://api.365.systems
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

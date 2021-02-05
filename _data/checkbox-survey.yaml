@@ -1,0 +1,75 @@
+---
+name: Checkbox Survey
+description: Powerful .NET survey software. Install on-premises or access via online
+  subscription. White-labeling and source code available.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/checkbox-survey.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "994262"
+url: https://raw.githubusercontent.com/api-network/organizations/main/checkbox-survey.yaml
+tags:
+- Surveys
+- Surveys
+- Surveys
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-about
+  url: https://www.checkbox.com/about/
+- type: x-about
+  url: https://www.checkbox.com/about/clients/
+- type: x-blog
+  url: http://www.checkbox.com/about/news/
+- type: x-blog
+  url: https://www.checkbox.com/blog/
+- type: x-blog-rss
+  url: http://www.checkbox.com/feed/
+- type: x-case-studies
+  url: https://www.checkbox.com/category/case-studies/
+- type: x-contact
+  url: https://www.checkbox.com/contact-us/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/checkbox-inc-votos
+- type: x-customers
+  url: https://mycompany.checkbox.com/customersatisfaction
+- type: x-documentation
+  url: https://apidocs.checkbox.com/
+- type: x-email
+  url: info@checkbox.com
+- type: x-email
+  url: kfisher@checkbox.com
+- type: x-email
+  url: sales@checkbox.com
+- type: x-facebook
+  url: https://www.facebook.com/CheckboxSurvey
+- type: x-github
+  url: https://github.com/checkbox
+- type: x-linkedin
+  url: https://www.linkedin.com/company/6355391
+- type: x-login
+  url: https://www.checkbox.com/support/support-login/
+- type: x-login
+  url: https://www.checkbox.com/sign-in/
+- type: x-pricing
+  url: https://www.checkbox.com/pricing/
+- type: x-pricing
+  url: https://www.checkbox.com/pricing/online-subscription/
+- type: x-pricing
+  url: https://www.checkbox.com/pricing/on-premises-software/
+- type: x-support
+  url: https://www.checkbox.com/support/
+- type: x-support
+  url: https://www.checkbox.com/support/support_policies/
+- type: x-twitter
+  url: https://twitter.com/checkbox
+- type: x-website
+  url: http://www.checkbox.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

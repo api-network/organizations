@@ -1,0 +1,32 @@
+---
+name: Copy Cat Copiers
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/copy-cat-copiers.yaml
+tags:
+- North America
+apis: []
+x-common:
+- type: x-about
+  url: https://www.copycatcopierservice.com/about-us/
+- type: x-about
+  url: http://www.copycatcopierservice.com/website/about-us/
+- type: x-about
+  url: http://www.copycatcopierservice.com/about-us/
+- type: x-contact
+  url: https://www.copycatcopierservice.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/copycatcopiers
+- type: x-website
+  url: https://www.copycatcopierservice.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,45 @@
+---
+name: itracMarketer Inc.
+description: 'The itracMarketer platform: simple, flexible and powerful marketing
+  automation software to improve and grow your business.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2661318"
+url: https://raw.githubusercontent.com/api-network/organizations/main/itracmarketer-inc-.yaml
+tags:
+- Online Tools
+apis: []
+x-common:
+- type: x-about
+  url: https://itracmarketer.com/about-us/
+- type: x-blog
+  url: https://itracmarketer.com/resources/blog/
+- type: x-careers
+  url: https://itracmarketer.com/about-us/careers/
+- type: x-contact
+  url: https://itracmarketer.com/about-us/contact-us/
+- type: x-customers
+  url: https://itracmarketer.com/solutions/customers/
+- type: x-integrations
+  url: https://itracmarketer.com/solutions/integrations/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/itracmedia-inc
+- type: x-news
+  url: https://itracmarketer.com/about-us/news/
+- type: x-platform
+  url: https://itracmarketer.com/solutions/platform/
+- type: x-twitter
+  url: https://twitter.com/itracmarketer
+- type: x-website
+  url: https://itracmarketer.com
+- type: x-youtube
+  url: https://www.youtube.com/c/Itracmarketer
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

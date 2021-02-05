@@ -1,0 +1,50 @@
+---
+name: AccTech Systems
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2335841"
+url: https://raw.githubusercontent.com/api-network/organizations/main/acctech-systems.yaml
+tags:
+- ACCPAC
+apis: []
+x-common:
+- type: x-website
+  url: http://www.acctech.biz
+- type: x-about
+  url: https://acctech.biz/AccTech/about-us/
+- type: x-about
+  url: https://acctech.biz/AccTech/about-us/industry-awards/
+- type: x-about
+  url: https://plus.google.com/100033508119340638427/about
+- type: x-blog
+  url: https://acctech.biz/AccTech/blog/
+- type: x-blog
+  url: http://www.acctech.biz/blog/
+- type: x-careers
+  url: https://acctech.biz/AccTech/about-us/careers/
+- type: x-contact
+  url: https://acctech.biz/AccTech/contact/
+- type: x-contact
+  url: http://www.acctech.biz/about-us/contact/
+- type: x-events
+  url: https://acctech.biz/AccTech/about-us/upcoming-events/
+- type: x-facebook
+  url: https://www.facebook.com/AccTech-Systems-87589055508/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/acctech-systems
+- type: x-support
+  url: https://acctech.biz/AccTech/log-a-support-call/
+- type: x-twitter
+  url: https://twitter.com/acctechsystems
+- type: x-website
+  url: https://www.acctech.biz
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

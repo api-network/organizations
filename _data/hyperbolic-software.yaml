@@ -1,0 +1,32 @@
+---
+name: Hyperbolic Software
+description: Hyperbolicsoftware.com is the home of Tidy Up, the duplicate files finder
+  for expert Mac users, and other useful apps, such as DupeZap (find duplicate photos),
+  Smart Trash and Quick Print.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2205487"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hyperbolic-software.yaml
+tags:
+- Utilities
+- Mac File Finder
+- Find Duplicate Files Mac
+- Duplicate Photo Cleaner Mac
+- Duplicate Mp3 Finder Mac
+- Duplicate Finder Mac
+- Duplicate Cleaner Mac
+- Duplicate Cleaner For IPhoto
+- Delete Duplicate Files Mac
+apis: []
+x-common:
+- type: x-website
+  url: https://www.hyperbolicsoftware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,54 @@
+---
+name: iGLASS Networks
+description: Never be in the dark about your infrastructure's uptime and performance
+  with around the clock outsourced network monitoring. Monitor your entire IT infrastructure
+  including network, servers, applications, & more with iGLASS NOC services.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1161348"
+url: https://raw.githubusercontent.com/api-network/organizations/main/iglass-networks.yaml
+tags:
+- Network Management
+apis: []
+x-common:
+- type: x-about
+  url: https://www.iglass.net/about
+- type: x-about
+  url: https://www.iglass.net/about/why-iglass
+- type: x-about
+  url: https://www.iglass.net/about/our-story
+- type: x-about
+  url: https://www.iglass.net/about/core-values
+- type: x-about
+  url: https://www.iglass.net/about/our-team
+- type: x-blog
+  url: https://www.iglass.net/blog
+- type: x-blog
+  url: https://www.iglass.net/blog/happy-holidays-yall
+- type: x-blog
+  url: https://www.iglass.net/blog/iglass-goes-solar
+- type: x-contact
+  url: https://www.iglass.net/contact-us
+- type: x-linkedin
+  url: https://www.linkedin.com/company/iglass-networks/
+- type: x-news
+  url: https://www.iglass.net/news
+- type: x-pricing
+  url: https://www.iglass.net/noc-services-pricing
+- type: x-privacy
+  url: https://www.iglass.net/privacy-policy
+- type: x-support
+  url: https://www.iglass.net/support
+- type: x-terms-of-service
+  url: https://www.iglass.net/legal
+- type: x-website
+  url: https://www.iglass.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

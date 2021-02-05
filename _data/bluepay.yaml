@@ -1,0 +1,58 @@
+---
+name: BluePay
+description: "Accept credit and debit payments with Gold Stevie\xAE award-winner,
+  BluePay. Trusted by more than 76,000 businesses. More than just your money in the
+  bank, your BluePay credit card processing merchant account includes innovative technology
+  and expert support. Let us help meet your exact needs for accepting payment."
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "74623"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bluepay.yaml
+tags:
+- Profile
+- Payments
+- No API Definition
+- Has API
+apis: []
+x-common:
+- type: x-website
+  url: http://fiserv.com/firstdata
+- type: x-blog
+  url: https://blog.bluepay.com
+- type: x-blog
+  url: https://blog.bluepay.com/
+- type: x-blog
+  url: http://www.bluepay.com/blog
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/bluepay/CBMi
+- type: x-contact-form
+  url: https://www.bluepay.com/contact-us/
+- type: x-developers
+  url: http://www.bluepay.com/developers
+- type: x-developers
+  url: https://www.bluepay.com/developers/
+- type: x-facebook
+  url: https://www.facebook.com/FirstData/
+- type: x-github
+  url: https://github.com/BluePay/
+- type: x-status
+  url: https://status.bluepay.com/
+- type: x-support
+  url: https://www.bluepay.com/support/
+- type: x-twitter
+  url: https://twitter.com/FirstData
+- type: x-twitter
+  url: https://twitter.com/bluepay
+- type: x-website
+  url: http://www.bluepay.com
+- type: x-youtube
+  url: https://www.youtube.com/user/firstdata
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

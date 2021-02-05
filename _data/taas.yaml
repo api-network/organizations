@@ -1,0 +1,32 @@
+---
+name: TaaS
+description: Token-as-a-Service (TaaS) a first ever tokenized closed end fund that
+  allows its investors to capitalize on the rise of blockchain markets. Utilizing
+  Ethereum blockchain and its Cryptographic Audit technology, TaaS offers a brand
+  new comprehensive appr...
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26813-taas-fund.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "246749"
+url: https://raw.githubusercontent.com/api-network/organizations/main/taas.yaml
+tags:
+- Marketplaces
+- Blockchain
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/taas
+- type: x-email
+  url: CONTACT@TAAS.FUND
+- type: x-twitter
+  url: https://twitter.com/taasfund
+- type: x-website
+  url: https://taas.fund
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,41 @@
+---
+name: Ryder Systems
+description: partner settlement, rich communication services, messaging services,
+  reporting as a service, direct carrier billing, Premium SMS
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ryder-systems.yaml
+tags:
+- Billing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.rydersystems.com
+- type: x-about
+  url: https://www.rydersystems.com/about-us/
+- type: x-blog
+  url: https://www.rydersystems.com/category/blog/
+- type: x-contact
+  url: https://www.rydersystems.com/contact-us/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/ryder-systems
+- type: x-login
+  url: https://dc.rydersystems.com.au/engage/login.html
+- type: x-news
+  url: https://www.rydersystems.com/category/news/
+- type: x-privacy
+  url: https://www.rydersystems.com/privacy-policy/
+- type: x-twitter
+  url: http://twitter.com/Ryder_Systems
+- type: x-website
+  url: https://www.rydersystems.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

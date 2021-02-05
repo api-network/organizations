@@ -1,0 +1,36 @@
+---
+name: Hagen Business Systems Inc
+description: Just another WordPress site
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hagen-business-systems-inc.yaml
+tags:
+- Construction
+apis: []
+x-common:
+- type: x-website
+  url: http://www.hagenbusiness.com
+- type: x-blog
+  url: https://www.hagenbusiness.com/blog/
+- type: x-contact
+  url: https://www.hagenbusiness.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/HagenBusinessSystemsInc
+- type: x-linkedin
+  url: https://www.linkedin.com/in/carolhagen
+- type: x-plans
+  url: http://www.planslive.com/Hagen
+- type: x-twitter
+  url: http://www.twitter.com/carolhagen
+- type: x-website
+  url: https://www.hagenbusiness.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,32 @@
+---
+name: Andromeda
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/andromeda.yaml
+tags:
+- Implementations
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.andromeda-project.org/contact-us/
+- type: x-feed
+  url: https://www.andromeda-project.org/feed/
+- type: x-feed
+  url: https://www.andromeda-project.org/comments/feed/
+- type: x-login
+  url: https://www.andromeda-project.org/wp-login.php
+- type: x-press
+  url: https://wordpress.org/
+- type: x-website
+  url: https://www.andromeda-project.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

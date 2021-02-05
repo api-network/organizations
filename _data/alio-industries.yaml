@@ -1,0 +1,65 @@
+---
+name: ALIO Industries
+description: ALIO Industries designs and manufactures precision motion systems, Hexapods,
+  Hybrid Hexapods, rotary stages, air bearing stages & linear motion systems. Call
+  303-339-7500.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6867948"
+url: https://raw.githubusercontent.com/api-network/organizations/main/alio-industries.yaml
+tags:
+- Z-Lift Motion Platforms
+- Z-Lift And Vertical Axis Motion Systems
+- Vacuum Systems
+- Vacuum Motion Systems
+- Servo Motor
+- Screw Driven Actuators
+- Rotary Stages
+- Rotary Motion Systems
+- Precision Motion Systems
+- Precision Motion
+- Precise Nano-Scale Movements Manufacturing
+- Precise Nano-Scale Movements
+- Parallel Kinematics Motion Systems
+- Nano-Scale
+- Nano Precision Motion
+- Nano Precision
+- Micron 2 System
+- Linear Servo Motor Stages
+- Linear Servo
+- Linear Motor
+- Linear Motion Systems
+- Linear Motion Bearings
+- Linear Motion
+- Linear Bearings
+- Linear Actuator
+- Leadscrew
+- Industrial Robots
+- Industrial
+- Hybrid Hexapods
+- High Precision Motion Systems
+- Hexapods
+- Ballscrew
+- Ball Rail
+- Air Bearings
+- Air Bearing Stages
+- Actuator
+apis: []
+x-common:
+- type: x-about
+  url: https://www.alioindustries.com/company/about
+- type: x-blog
+  url: https://www.alioindustries.com/blogs/
+- type: x-contact
+  url: https://www.alioindustries.com/contact-alio
+- type: x-website
+  url: https://www.alioindustries.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,45 @@
+---
+name: My Voice Dialing
+description: My Voice Dialing is a voice broadcasting provider, that provides robo
+  calls, voice dialing and voice broadcast services.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/my-voice-dialing.yaml
+tags:
+- Voicebroadcasting
+- Voicebroadcast
+- Voice Dialing
+- Voice Broadcasting Software
+- Voice Broadcasting Leads
+- Voice Broadcasting Calls
+- Voice Broadcasting
+- Voice Broadcast Companies
+- Voice Broadcast
+- Travel Leads
+- Spanish Leads
+- Satellite Leads
+- Robocalls
+- Robo Calls
+- Robo Calling
+- Robo
+- Predictive Dialing
+- Predictive Dialers
+- Political Dialing
+- Political Calls
+- Mortgage Leads
+- Automated Calls
+- Autodialers
+apis: []
+x-common:
+- type: x-website
+  url: https://www.myvoicedialing.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

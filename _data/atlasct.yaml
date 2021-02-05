@@ -1,0 +1,54 @@
+---
+name: AtlasCT
+description: AtlasCT is a global leader in maps and location-based services (LBS)
+  technologies for mobile and web.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/353_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "6711326"
+url: https://raw.githubusercontent.com/api-network/organizations/main/atlasct.yaml
+tags:
+- Turn By Turn
+- Software
+- Navigation
+- Maps
+- Mapping
+- Locations
+- Location Based Services
+- LBS
+- HTML5
+- Have API
+- GIS
+- Checkins
+- API Provider
+- API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.atlasct.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/atlasct
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/atlasct
+- type: x-documentation
+  url: https://documentation.atlasct.com
+- type: x-email
+  url: info@atlasct.com
+- type: x-email
+  url: shlomoe@atlasct.com
+- type: x-email
+  url: yogev.triki@atlasct.com
+- type: x-email
+  url: benyr@atlasct.com
+- type: x-twitter
+  url: https://twitter.com/atlas_ct
+- type: x-website
+  url: http://www.atlasct.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

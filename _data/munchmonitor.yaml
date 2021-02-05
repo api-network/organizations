@@ -1,0 +1,22 @@
+---
+name: MunchMonitor
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "561877"
+url: https://raw.githubusercontent.com/api-network/organizations/main/munchmonitor.yaml
+tags:
+- Finance
+apis: []
+x-common:
+- type: x-website
+  url: https://www.munchmonitor.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

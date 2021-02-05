@@ -1,0 +1,122 @@
+---
+name: Ill Mob
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ill-mob.yaml
+tags:
+- Exploits
+apis: []
+x-common:
+- type: x-website
+  url: http://github.com/xillwillx
+- type: x-blog
+  url: https://intx0x80.blogspot.com/2019/10/JWT.html
+- type: x-blog
+  url: https://blog.hunniccyber.com/phishing-with-netlify/
+- type: x-github
+  url: https://github.com/felamos/weirdhta
+- type: x-github
+  url: https://github.com/s0md3v/Corsy
+- type: x-github
+  url: https://github.com/skelsec/pypykatz
+- type: x-github
+  url: https://github.com/rogerorr/DllSurrogate
+- type: x-github
+  url: https://github.com/phackt/stager.dll/
+- type: x-github
+  url: https://github.com/antonioCoco/RogueWinRM
+- type: x-github
+  url: https://github.com/xFreed0m/Disruption
+- type: x-github
+  url: https://github.com/b4rtik/ATPMiniDump
+- type: x-github
+  url: https://github.com/sachinkamath/ntlmrecon
+- type: x-github
+  url: https://github.com/FSecureLABS/awspx
+- type: x-github
+  url: https://github.com/leo-lb/wpbrute-rs
+- type: x-github
+  url: https://github.com/SukaraLin/CVE-2019-2890
+- type: x-github
+  url: https://github.com/harleo/asnip
+- type: x-github
+  url: https://github.com/sailay1996/UAC_Bypass_In_The_Wild
+- type: x-github
+  url: https://github.com/0vercl0k/CVE-2019-11708
+- type: x-github
+  url: https://github.com/byt3bl33d3r/WitnessMe
+- type: x-github
+  url: https://github.com/NotSoSecure/cloud-service-enum
+- type: x-github
+  url: https://github.com/theMiddleBlue/CVE-2019-11043
+- type: x-github
+  url: https://github.com/cobbr/Covenant
+- type: x-github
+  url: https://github.com/n1xbyte/donutCS
+- type: x-github
+  url: https://sqlectron.github.io/
+- type: x-github
+  url: https://github.com/nyxgeek/ntlmscan
+- type: x-github
+  url: https://github.com/initstring/uptux
+- type: x-github
+  url: https://github.com/b4rtik/RedPeanut
+- type: x-github
+  url: https://github.com/rvazarkar/SharpHound3
+- type: x-github
+  url: https://github.com/Binject/go-donut
+- type: x-github
+  url: https://github.com/infosecn1nja/MaliciousMacroMSBuild
+- type: x-github
+  url: https://github.com/0x09AL/RdpThief
+- type: x-github
+  url: https://github.com/Mr-Un1k0d3r/SCShell
+- type: x-github
+  url: https://github.com/liamg/pax
+- type: x-github
+  url: https://github.com/skelsec/jackdaw
+- type: x-github
+  url: https://github.com/h43z/dns-rebinding-tool/
+- type: x-github
+  url: https://github.com/Hackplayers/Salsa-tools
+- type: x-github
+  url: https://github.com/HunnicCyber/SharpSniper
+- type: x-github
+  url: https://github.com/3gstudent/GadgetToJScript
+- type: x-github
+  url: https://github.com/ZeroPointSecurity/GoldenTicket
+- type: x-github
+  url: https://thewover.github.io/Bear-Claw/
+- type: x-github
+  url: https://github.com/chrispetrou/HRShell
+- type: x-github
+  url: https://github.com/skelsec/pypykatz_wasm
+- type: x-github
+  url: https://github.com/zeropwn/spyse.py
+- type: x-github
+  url: https://github.com/infosecn1nja/SharpDoor
+- type: x-press
+  url: https://wordpress.org/
+- type: x-security
+  url: https://silentbreaksecurity.com/cve-2019-10617/
+- type: x-twitter
+  url: https://twitter.com/lorenzofb
+- type: x-twitter
+  url: https://twitter.com/harr0ey
+- type: x-twitter
+  url: https://twitter.com/Menin_TheMiddle
+- type: x-twitter
+  url: https://twitter.com/xillwillx
+- type: x-website
+  url: https://www.illmob.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

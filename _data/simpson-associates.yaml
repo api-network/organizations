@@ -1,0 +1,41 @@
+---
+name: Simpson Associates
+description: Simpson Associates gives data-driven organisations the confidence to
+  make fully informed decisions.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6698952"
+url: https://raw.githubusercontent.com/api-network/organizations/main/simpson-associates.yaml
+tags:
+- Consultants
+apis: []
+x-common:
+- type: x-about
+  url: https://www.simpson-associates.co.uk/about
+- type: x-about
+  url: https://www.simpson-associates.co.uk/about/values
+- type: x-blog
+  url: https://www.simpson-associates.co.uk/blog
+- type: x-careers
+  url: https://www.simpson-associates.co.uk/jobs
+- type: x-contact
+  url: https://www.simpson-associates.co.uk/contact
+- type: x-events
+  url: https://www.simpson-associates.co.uk/events
+- type: x-news
+  url: https://www.simpson-associates.co.uk/news
+- type: x-privacy
+  url: https://www.simpson-associates.co.uk/privacy-policy
+- type: x-terms-of-service
+  url: https://www.simpson-associates.co.uk/sectors/legal/
+- type: x-website
+  url: https://www.simpson-associates.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

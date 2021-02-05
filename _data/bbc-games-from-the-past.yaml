@@ -1,0 +1,23 @@
+---
+name: BBC Games from the Past
+description: Classic BBC Microcomputer games from the past, including the best Acornsoft
+  and Superior Software titles.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3851406"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bbc-games-from-the-past.yaml
+tags:
+- BBC
+apis: []
+x-common:
+- type: x-website
+  url: https://www.bbcmicrogames.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

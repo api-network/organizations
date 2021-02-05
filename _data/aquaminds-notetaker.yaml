@@ -1,0 +1,29 @@
+---
+name: AquaMinds NoteTaker
+description: Productivity software for MacOS. Notetaking and outlining tools for organizing
+  your ideas in personal notebooks.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/aquaminds-notetaker.yaml
+tags:
+- Organization And Productivity
+apis: []
+x-common:
+- type: x-about
+  url: https://www.aquaminds.com/about
+- type: x-blog
+  url: https://www.aquaminds.com/blog-1
+- type: x-support
+  url: https://www.aquaminds.com/support
+- type: x-website
+  url: https://www.aquaminds.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

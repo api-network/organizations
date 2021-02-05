@@ -1,0 +1,109 @@
+---
+name: Respoke
+description: <p>Respoke makes it incredibly easy to add real-time communications capabilities
+  to the things you build. Integrate text chat, audio calling, video collaboration,
+  screen sharing, and peer-to-peer data with just a few lines of JavaScript.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/respoke-web-communications-300x101.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "3"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/respoke.yaml
+tags:
+- Target
+- Relative Data
+- Have API Paths
+- Have API
+- Google+
+- Change Log Example
+apis: []
+x-common:
+- type: x-website
+  url: http://sangoma.com
+- type: x-about
+  url: https://www.sangoma.com/about-us/
+- type: x-about
+  url: https://www.sangoma.com/about-us/locations/
+- type: x-about
+  url: https://www.sangoma.com/about-us/management/
+- type: x-account-management
+  url: https://portal.respoke.io/#/account?section=Profile
+- type: x-application-management
+  url: https://portal.respoke.io/#/apps
+- type: x-authentication
+  url: https://docs.respoke.io/tutorials/brokered-auth.html
+- type: x-billing-management
+  url: https://portal.respoke.io/#/account?section=Payments
+- type: x-blog
+  url: http://blog.respoke.io/
+- type: x-blog-rss
+  url: http://blog.respoke.io/rss
+- type: x-careers
+  url: https://www.sangoma.com/about-us/careers/
+- type: x-change-logs
+  url: https://docs.respoke.io/reference/changelog.html
+- type: x-developers
+  url: https://portal.respoke.io
+- type: x-documentation
+  url: https://docs.respoke.io/
+- type: x-email
+  url: info@respoke.io
+- type: x-events
+  url: https://www.sangoma.com/about-us/events/
+- type: x-facebook
+  url: https://www.facebook.com/respokeIO
+- type: x-facebook
+  url: https://www.facebook.com/sangoma
+- type: x-feed
+  url: https://www.sangoma.com/feedback/
+- type: x-forums
+  url: http://community.respoke.io/
+- type: x-github
+  url: https://github.com/respoke
+- type: x-google-plus
+  url: https://plus.google.com/+RespokeIo
+- type: x-investor
+  url: https://www.sangoma.com/investor-relations/
+- type: x-javascript-library
+  url: https://docs.respoke.io/js-library/respoke.html
+- type: x-linkedin
+  url: https://www.linkedin.com/company/sangoma/
+- type: x-node-js-library
+  url: http://respoke.github.io/node-respoke-admin
+- type: x-open-source
+  url: https://www.sangoma.com/open-source/
+- type: x-partner
+  url: https://www.sangoma.com/partners/
+- type: x-partner
+  url: https://www.sangoma.com/partners/locate/
+- type: x-partner
+  url: https://www.sangoma.com/partners/portal/
+- type: x-pricing
+  url: https://www.respoke.io/#pricing
+- type: x-registration
+  url: https://www.respoke.io/#sign-up-form
+- type: x-starter-apps
+  url: https://docs.respoke.io/tutorials/example-apps.html
+- type: x-support
+  url: https://www.sangoma.com/support/
+- type: x-terms-of-service
+  url: https://www.respoke.io/files/respoke-tos-20141007.pdf
+- type: x-twitter
+  url: https://twitter.com/respoke
+- type: x-twitter
+  url: https://www.twitter.com/sangoma
+- type: x-website
+  url: https://www.respoke.io
+- type: x-website
+  url: https://plus.google.com
+- type: x-website
+  url: http://respoke.io
+- type: x-youtube
+  url: https://www.youtube.com/user/SangomaTechnologies/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

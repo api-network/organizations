@@ -1,0 +1,39 @@
+---
+name: SendPulse
+description: "Automate your marketing and combine all delivery channels on one platform:
+  email, web push notifications, SMS, Viber. \xA9 2020"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "12855"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sendpulse.yaml
+tags:
+- Online Tools
+apis: []
+x-common:
+- type: x-website
+  url: https://sendpulse.com/
+- type: x-facebook
+  url: https://facebook.com/SendPulse
+- type: x-feed
+  url: https://sendpulse.com/blog/feed
+- type: x-linkedin
+  url: https://www.linkedin.com/company/sendpulse
+- type: x-login
+  url: https://login.sendpulse.com/login/?l=en
+- type: x-login
+  url: https://login.sendpulse.com/forgot/?l=en
+- type: x-login
+  url: https://login.sendpulse.com/login/
+- type: x-twitter
+  url: https://twitter.com/SendPulseCom
+- type: x-website
+  url: https://sendpulse.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

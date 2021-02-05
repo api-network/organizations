@@ -1,0 +1,38 @@
+---
+name: Success Performance Solutions
+description: Success Performance Solutions has pre-employment assessments to help
+  you find the right candidate and attract top talent by creating an awesome candidate
+  experience with recruitment marketing.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2955075"
+url: https://raw.githubusercontent.com/api-network/organizations/main/success-performance-solutions.yaml
+tags:
+- Testing And Evaluation
+apis: []
+x-common:
+- type: x-website
+  url: http://www.successperformancesolutions.com/
+- type: x-blog
+  url: https://www.successperformancesolutions.com/blog/
+- type: x-facebook
+  url: https://www.facebook.com/SuccessPerformanceSolutions/
+- type: x-twitter
+  url: https://twitter.com/HireAuthority
+- type: x-website
+  url: https://www.successperformancesolutions.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=b6w5jvDeAXI
+- type: x-youtube
+  url: http://www.youtube.com/irawolfe
+- type: x-youtube
+  url: https://www.youtube.com/irawolfe
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

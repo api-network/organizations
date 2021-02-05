@@ -1,0 +1,51 @@
+---
+name: Balance Innovations
+description: Streamlined cash management connects all points of your cash operations,
+  providing actionable data to increase efficiency across the enterprise.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1260885"
+url: https://raw.githubusercontent.com/api-network/organizations/main/balance-innovations.yaml
+tags:
+- Point Of Sale
+apis: []
+x-common:
+- type: x-website
+  url: http://www.balanceinnovations.com
+- type: x-about
+  url: https://www.balanceinnovations.com/about-us/
+- type: x-blog
+  url: https://www.balanceinnovations.com/blog/
+- type: x-contact
+  url: https://www.balanceinnovations.com/contact-us-2/
+- type: x-facebook
+  url: https://www.facebook.com/balanceinnovations
+- type: x-integrations
+  url: https://www.balanceinnovations.com/integrations/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/balance-innovations
+- type: x-news
+  url: https://www.balanceinnovations.com/news-resources/
+- type: x-news
+  url: https://www.balanceinnovations.com/news-and-events/
+- type: x-privacy
+  url: https://www.brinks.com/en/privacy-policy
+- type: x-terms-of-service
+  url: https://www.balanceinnovations.com/legal/
+- type: x-terms-of-service
+  url: https://www.balanceinnovations.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/balanceinnov
+- type: x-website
+  url: https://balanceinnovations.com
+- type: x-youtube
+  url: https://www.youtube.com/user/BalanceInnovations
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

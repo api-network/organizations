@@ -1,0 +1,39 @@
+---
+name: Midcontinent Independent System Operator (MISO)
+description: The Midcontinent Independent System Operator, Inc., formerly named Midwest
+  Independent Transmission System Operator, Inc.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28838-www-misoenergy-org.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "436168"
+url: https://raw.githubusercontent.com/api-network/organizations/main/midcontinent-independent-system-operator-miso.yaml
+tags:
+- Energy
+apis: []
+x-common:
+- type: x-developers
+  url: https://www.misoenergy.org/markets-and-operations/RTDataAPIs/
+- type: x-email
+  url: SOC1@misoenergy.org
+- type: x-email
+  url: clientrelations@misoenergy.org
+- type: x-email
+  url: media@misoenergy.org
+- type: x-email
+  url: generalcounsel@misoenergy.org
+- type: x-email
+  url: misoparalegals@misoenergy.org
+- type: x-email
+  url: mabrown@misoenergy.org
+- type: x-twitter
+  url: https://twitter.com/miso_energy
+- type: x-website
+  url: https://www.misoenergy.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

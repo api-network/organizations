@@ -1,0 +1,68 @@
+---
+name: S.L.I. Systems Learning Search System
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "214643"
+url: https://raw.githubusercontent.com/api-network/organizations/main/s-l-i--systems-learning-search-system.yaml
+tags:
+- Search
+apis: []
+x-common:
+- type: x-website
+  url: http://sli-systems.com
+- type: x-about
+  url: https://www.sli-systems.com/about
+- type: x-about
+  url: https://www.sli-systems.com/about/our-story
+- type: x-about
+  url: https://www.sli-systems.com/about/coverage
+- type: x-about
+  url: https://www.sli-systems.com/about/awards
+- type: x-about
+  url: https://www.sli-systems.com/about/working-at-sli
+- type: x-about
+  url: https://www.sli-systems.com/about/culture
+- type: x-blog
+  url: http://blog.sli-systems.com/
+- type: x-careers
+  url: https://www.sli-systems.com/about/careers
+- type: x-contact
+  url: https://www.sli-systems.com/contact/office-locations
+- type: x-contact
+  url: https://www.sli-systems.com/contact-us-2
+- type: x-developer
+  url: http://developer.sli-systems.com
+- type: x-facebook
+  url: https://www.facebook.com/slisystems/
+- type: x-investor
+  url: https://www.sli-systems.com/about/investors
+- type: x-login
+  url: https://tools.sli-systems.com/sli_systems/login
+- type: x-news
+  url: https://www.sli-systems.com/about/news-room
+- type: x-press
+  url: https://www.sli-systems.com/category/press-releases
+- type: x-press
+  url: https://www.sli-systems.com/about/press-kit
+- type: x-privacy
+  url: http://www.sli-systems.com/privacy-policy
+- type: x-terms-of-service
+  url: http://www.sli-systems.com/legal
+- type: x-twitter
+  url: https://twitter.com/slisystems
+- type: x-webinars
+  url: https://www.sli-systems.com/webinars
+- type: x-website
+  url: https://www.sli-systems.com
+- type: x-youtube
+  url: https://www.youtube.com/user/SLISiteSearch/videos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

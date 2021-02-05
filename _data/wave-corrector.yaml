@@ -1,0 +1,47 @@
+---
+name: Wave Corrector
+description: audio restoration software
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7298862"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wave-corrector.yaml
+tags:
+- Vinyl
+- Transfer
+- Software
+- Shareware
+- Record
+- Noise Removal
+- Noise Reduction
+- Music And Audio
+- Lp To Cd
+- Lp
+- Ganymede
+- Editor
+- Denoise
+- Dehiss
+- Declick
+- De-hiss
+- De-click
+- Corrector
+- Click Removal
+- Click
+- CDR
+- CD-R
+- Audio Wave
+- '"vinyl To Cd'
+apis: []
+x-common:
+- type: x-forum
+  url: https://forum.wavecor.co.uk
+- type: x-website
+  url: https://www.wavecor.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,53 @@
+---
+name: RISC
+description: Founded in 1992, RISC Inc's enterprise LMS integrates training, assessment
+  and competency management into a single system with robust, real-time reporting.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/risc.yaml
+tags:
+- Delivery And Management Systems
+apis: []
+x-common:
+- type: x-website
+  url: http://www.risc-inc.com
+- type: x-about
+  url: https://risc-inc.com/about_us/
+- type: x-about
+  url: https://risc-inc.com/about_us/risc-partners/
+- type: x-about
+  url: https://atdconference.td.org/about
+- type: x-blog
+  url: https://risc-inc.com/blog/
+- type: x-contact
+  url: https://risc-inc.com/contact/
+- type: x-events
+  url: https://risc-inc.com/events/atd-techknowledge-2020/
+- type: x-events
+  url: https://risc-inc.com/events/learning-solutions-conf/
+- type: x-facebook
+  url: https://www.facebook.com/RISCInc
+- type: x-linkedin
+  url: https://www.linkedin.com/company/riscinc
+- type: x-privacy
+  url: https://risc-inc.com/privacy-policy/
+- type: x-support
+  url: https://risc-inc.com/services/technical-support/
+- type: x-support
+  url: https://risc-inc.com/proven-customer-support/
+- type: x-twitter
+  url: https://twitter.com/RISC_Inc
+- type: x-website
+  url: https://www.risc-inc.com
+- type: x-youtube
+  url: https://www.youtube.com/user/RISCInc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

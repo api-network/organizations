@@ -1,0 +1,75 @@
+---
+name: Synformation
+description: While maintaining an enterprise web application framework for the Java
+  platform, there's still time to do other things
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/synformation.yaml
+tags:
+- Weblogs
+- Web
+- VPN
+- Violation
+- Suspension
+- Setup
+- Orwell
+- Motorsport
+- Legal
+- Law
+- JavaScript
+- Ipredator
+- Internet
+- George
+- Forzadroid
+- Forza
+- Farm
+- Change
+- Calculator
+- Animal
+- Android
+apis: []
+x-common:
+- type: x-about
+  url: https://blog.synformation.com/page-about/
+- type: x-blog
+  url: https://blog.synformation.com
+- type: x-blog
+  url: https://blog.synformation.com/page-synformation/
+- type: x-blog
+  url: https://blog.synformation.com/page-sitemap/
+- type: x-blog
+  url: https://blog.synformation.com/page-imprint/
+- type: x-blog
+  url: https://blog.synformation.com/2016/01/15/fail2ban/
+- type: x-blog
+  url: https://blog.synformation.com/2010/01/13/forzadroid
+- type: x-blog
+  url: https://blog.synformation.com/page/2/
+- type: x-blog
+  url: https://blog.synformation.com/2010/01/13/forzadroid/
+- type: x-blog
+  url: https://blog.synformation.com/category/development/
+- type: x-blog
+  url: https://blog.synformation.com/category/java/
+- type: x-blog
+  url: https://blog.synformation.com/category/life/
+- type: x-blog
+  url: https://blog.synformation.com/category/politics/
+- type: x-blog
+  url: https://blog.synformation.com/category/synformation/
+- type: x-blog
+  url: https://blog.synformation.com/category/thoughts/
+- type: x-blog
+  url: https://blog.synformation.com/category/web-20/
+- type: x-website
+  url: https://blog.synformation.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

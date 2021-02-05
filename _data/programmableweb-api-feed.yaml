@@ -1,0 +1,21 @@
+---
+name: 'ProgrammableWeb: API Feed'
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: ""
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/programmableweb-api-feed.yaml
+tags: []
+apis: []
+x-common:
+- type: x-blog-rss
+  url: http://feeds2.feedburner.com/programmableweb/apis
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

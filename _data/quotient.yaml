@@ -1,0 +1,28 @@
+---
+name: Quotient
+description: Thousands of businesses choose Quotient to deliver 5-star quotes to their
+  customers. Quotient organizes your sales process and makes you look good.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29025-www-quotientapp-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "72740"
+url: https://raw.githubusercontent.com/api-network/organizations/main/quotient.yaml
+tags: []
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/quotient
+- type: x-twitter
+  url: https://twitter.com/QuotientApp
+- type: x-webhooks
+  url: https://www.quotientapp.com/webhooks
+- type: x-website
+  url: https://www.quotientapp.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

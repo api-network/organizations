@@ -1,0 +1,22 @@
+---
+name: Norton Identity Safe
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "430"
+url: https://raw.githubusercontent.com/api-network/organizations/main/norton-identity-safe.yaml
+tags:
+- Password Tools
+apis: []
+x-common:
+- type: x-website
+  url: https://identitysafe.norton.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

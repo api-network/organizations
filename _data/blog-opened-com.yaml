@@ -1,0 +1,23 @@
+---
+name: blog.opened.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blog-opened-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://blog.opened.com/post/68679196416/what-does-it-mean-to-be-truly-open-the-next
+- type: x-website
+  url: http://blog.opened.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

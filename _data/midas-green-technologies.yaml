@@ -1,0 +1,39 @@
+---
+name: Midas Green Technologies
+description: "State-of-the-art immersion technology merged with carefully- crafted
+  dielectric fluid, yielding a process that is more than 1,000 times more efficient
+  than traditional cooling methods,\_reducing standard cooling costs by up to 90%,
+  maximizing server density, and eliminating carbon footprint. Imme ..."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/midas-green-technologies.yaml
+tags:
+- Service Providers
+apis: []
+x-common:
+- type: x-website
+  url: http://midasgt.com
+- type: x-contact
+  url: https://midasgt.com/contact/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/midas-green-tech-llc
+- type: x-partner
+  url: https://midasgt.com/partners/
+- type: x-press
+  url: https://midasgt.com/category/press-releases/
+- type: x-twitter
+  url: https://twitter.com/midasgreen
+- type: x-website
+  url: https://www.midasgt.com
+- type: x-white-papers
+  url: https://midasgt.com/category/white-papers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

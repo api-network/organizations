@@ -1,0 +1,52 @@
+---
+name: Dartmouth College
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10162"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dartmouth-college.yaml
+tags:
+- New Hampshire
+apis: []
+x-common:
+- type: x-website
+  url: http://dartmouth.edu/
+- type: x-careers
+  url: http://dartgo.org/facjobs
+- type: x-careers
+  url: https://web.cs.dartmouth.edu/tags/jobs
+- type: x-careers
+  url: https://jobs.dartmouth.edu/
+- type: x-contact
+  url: https://web.cs.dartmouth.edu/contact-us
+- type: x-contact
+  url: https://home.dartmouth.edu/contact
+- type: x-facebook
+  url: https://www.facebook.com/Dartmouth
+- type: x-feed
+  url: https://itc.dartmouth.edu/site-feedback
+- type: x-instagram
+  url: https://www.instagram.com/dartmouthcollege/
+- type: x-news
+  url: https://web.cs.dartmouth.edu/news/tags/alumni
+- type: x-news
+  url: https://news.dartmouth.edu/events
+- type: x-news
+  url: https://news.dartmouth.edu/
+- type: x-privacy
+  url: https://home.dartmouth.edu/privacy
+- type: x-twitter
+  url: https://www.twitter.com/dartmouth
+- type: x-website
+  url: https://www.cs.dartmouth.edu
+- type: x-youtube
+  url: https://www.youtube.com/Dartmouth
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

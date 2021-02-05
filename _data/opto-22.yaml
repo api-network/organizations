@@ -1,0 +1,68 @@
+---
+name: Opto 22
+description: Opto 22 manufactures controllers, I/O, solid-state-relays, and software
+  products that link electrical, mechanical, and electronic devices to networks and
+  computers.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Opto_22_-_PAC_controllers__industrial_I_O__solid_state_relays_for_industrial_automation__energy_management__remote_monitoring__data_acquisition.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "491401"
+url: https://raw.githubusercontent.com/api-network/organizations/main/opto-22.yaml
+tags:
+- Industrial
+- Have API
+- Automation
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.opto22.com/
+- type: x-blog-rss
+  url: http://blog.opto22.com/optoblog/rss.xml
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/opto-22
+- type: x-developer
+  url: http://developer.opto22.com
+- type: x-developers
+  url: http://developer.opto22.com
+- type: x-email
+  url: sales@opto22.com
+- type: x-email
+  url: support@opto22.com
+- type: x-email
+  url: systemseng@opto22.com
+- type: x-email
+  url: newsite@opto22.com
+- type: x-email
+  url: asinha@opto22.com
+- type: x-email
+  url: bensonh@opto22.com
+- type: x-email
+  url: bludwig@opto22.com
+- type: x-email
+  url: bsheffres@opto22.com
+- type: x-email
+  url: bbarrett@opto22.com
+- type: x-email
+  url: bcampbell@opto22.com
+- type: x-facebook
+  url: http://www.facebook.com/opto22
+- type: x-github
+  url: https://github.com/Opto22
+- type: x-linkedin
+  url: https://www.linkedin.com/company/opto-22
+- type: x-twitter
+  url: https://twitter.com/opto22
+- type: x-twitter
+  url: http://twitter.com/opto22
+- type: x-website
+  url: http://opto22.com
+- type: x-youtube
+  url: http://www.youtube.com/optovideo
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

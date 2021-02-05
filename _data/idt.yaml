@@ -1,0 +1,40 @@
+---
+name: IDT
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/idt.yaml
+tags:
+- Time Keeping Systems
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.idttime.com/sales/contact-sales/
+- type: x-contact
+  url: https://www.idttime.com/contact-2/contact/
+- type: x-contact
+  url: https://www.idttime.com/contact-2/about/
+- type: x-contact
+  url: https://www.idttime.com/contact-2/news/
+- type: x-feed
+  url: https://www.idttime.com/feed/
+- type: x-login
+  url: https://login.idttime.com/
+- type: x-support
+  url: https://www.idttime.com/support/professional-services/
+- type: x-support
+  url: https://www.idttime.com/support/faqs/
+- type: x-support
+  url: https://www.idttime.com/support/support-ticket/
+- type: x-website
+  url: https://www.idttime.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

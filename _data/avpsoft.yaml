@@ -1,0 +1,30 @@
+---
+name: AVPSoft
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2729219"
+url: https://raw.githubusercontent.com/api-network/organizations/main/avpsoft.yaml
+tags:
+- Backup
+apis: []
+x-common:
+- type: x-blog
+  url: https://avpsoft.com/blog/2018/04/03/new_timetophoto30/
+- type: x-facebook
+  url: https://www.facebook.com/avpsoft/
+- type: x-forum
+  url: https://groups.google.com/forum/#!forum/AVPSoft/join
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-website
+  url: https://avpsoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

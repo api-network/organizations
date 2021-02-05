@@ -1,0 +1,23 @@
+---
+name: fool.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fool-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.fool.com/investing/general/2016/03/09/amazons-new-smart-pitcher-is-a-piece-of-a-larger-p.aspx
+- type: x-website
+  url: http://fool.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,67 @@
+---
+name: Open Knowledge
+description: Open Knowledge International is a worldwide non-profit network of people
+  passionate about openness, using advocacy, technology and training to unlock information
+  and enable people to work with it to create and share knowledge.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/10158-open-knowledge.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "212055"
+url: https://raw.githubusercontent.com/api-network/organizations/main/open-knowledge.yaml
+tags:
+- Have API
+- Cities
+apis: []
+x-common:
+- type: x-website
+  url: http://okfn.org
+- type: x-blog
+  url: https://blog.okfn.org
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/open-knowledge-foundation
+- type: x-email
+  url: press@okfn.org
+- type: x-email
+  url: ip@okfn.org
+- type: x-email
+  url: Mark.Gibbs@okfn.org
+- type: x-email
+  url: paul.walsh@okfn.org
+- type: x-email
+  url: rufus.pollock@okfn.org
+- type: x-email
+  url: stephen.abbottpugh@okfn.org
+- type: x-email
+  url: jo.barratt@okfn.org
+- type: x-email
+  url: christopher.hovey@okfn.org
+- type: x-email
+  url: diana.krebs@okfn.org
+- type: x-email
+  url: sander.vanderwaal@okfn.org
+- type: x-facebook
+  url: https://facebook.com/OKFNetwork
+- type: x-github
+  url: https://github.com/okfn/foundation/
+- type: x-open-source
+  url: https://okfn.org/opendata/
+- type: x-open-source
+  url: https://opendefinition.org/
+- type: x-open-source
+  url: https://openspending.org/
+- type: x-open-source
+  url: http://opendatahandbook.org/
+- type: x-open-source
+  url: http://opendataday.org/
+- type: x-twitter
+  url: https://twitter.com/OKFN
+- type: x-website
+  url: https://okfn.org/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,52 @@
+---
+name: Bitrix24
+description: Bitrix24 is a free (for small businesses) social enterprise platform.
+  It is a united work space which handles the many aspects of daily operations and
+  tasks. Create your own social intranet in minutes!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5837"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bitrix24.yaml
+tags:
+- Social Networking
+- Social Intranet
+- Social Enterprise Platform
+- Project Tracking
+- Project Management
+- Free
+- Content Management
+apis: []
+x-common:
+- type: x-documentation
+  url: https://helpdesk.bitrix24.com/documentation.php
+- type: x-facebook
+  url: https://www.facebook.com/bitrix24
+- type: x-instagram
+  url: https://www.instagram.com/bitrix24/
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/4426654/profile
+- type: x-partner
+  url: https://partners.bitrix24.com/
+- type: x-partner
+  url: https://partners.bitrix24.com/private/
+- type: x-support
+  url: https://helpdesk.bitrix24.com/
+- type: x-support
+  url: https://helpdesk.bitrix24.com/ticket.php
+- type: x-twitter
+  url: https://twitter.com/bitrix24
+- type: x-website
+  url: https://www.bitrix24.com
+- type: x-youtube
+  url: https://www.youtube.com/user/Bitrix24/videos
+- type: x-youtube
+  url: https://www.youtube.com/user/Bitrix24
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

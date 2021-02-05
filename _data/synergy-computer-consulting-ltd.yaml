@@ -1,0 +1,30 @@
+---
+name: Synergy Computer Consulting Ltd
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/synergy-computer-consulting-ltd.yaml
+tags:
+- Products And Services
+apis: []
+x-common:
+- type: x-contact
+  url: https://synergycc.com/software/contact-us/
+- type: x-contact
+  url: http://synergycc.com/software/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/synergycc/
+- type: x-feed
+  url: https://synergycc.com/software/feed/
+- type: x-website
+  url: https://www.synergycc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

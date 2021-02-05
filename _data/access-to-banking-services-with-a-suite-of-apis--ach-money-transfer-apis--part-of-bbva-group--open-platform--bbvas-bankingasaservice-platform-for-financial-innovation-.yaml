@@ -1,0 +1,27 @@
+---
+name: "Access to banking services with a suite of APIs | ACH & Money Transfer APIs
+  | Part of BBVA Group | Open Platform - BBVA\u2019s Banking-as-a-Service platform
+  for financial innovation."
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/access-to-banking-services-with-a-suite-of-apis--ach-money-transfer-apis--part-of-bbva-group--open-platform--bbvas-bankingasaservice-platform-for-financial-innovation-.yaml
+tags:
+- Move Money
+- Identity Verification
+- Credit Cards
+- Account Origination
+apis: []
+x-common:
+- type: x-website
+  url: http://bbvaopenplatform.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

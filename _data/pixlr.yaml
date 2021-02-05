@@ -1,0 +1,31 @@
+---
+name: Pixlr
+description: Discover free and premium online photo editor! Effects, filters, overlays,
+  simple to expert tools. You'll find a Pixlr image editor just for you!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1090"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pixlr.yaml
+tags:
+- Image Editing
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/pixlr
+- type: x-instagram
+  url: https://instagram.com/pixlr
+- type: x-instagram
+  url: https://www.instagram.com/pixlr/
+- type: x-twitter
+  url: https://www.twitter.com/pixlr/
+- type: x-website
+  url: https://www.pixlr.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

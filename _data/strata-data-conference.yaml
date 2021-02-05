@@ -1,0 +1,38 @@
+---
+name: Strata Data Conference
+description: '<p>Strata is a three-day deep dive into the business of data, where
+  you''ll get a first look at the emerging trends that will rock the data industry&mdash;and
+  the insight you need to prepare your career and business for the future. You''ll
+  get an insider''s perspective on data''s latest tools and technologies&mdash;and
+  the technical expertise and detailed case studies you need to make your data strategies
+  and implementations work today. And you''ll share ideas and best practices with
+  thousands of the leading minds in technology and business: data scientists, AI researchers,
+  developers, analysts, engineers, and executives from a wide range of industries.</p>'
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/strata-data-conference.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/strata-data-conference.yaml
+tags:
+- SDIOI Events
+- Data Events
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/strataconf
+- type: x-twitter-search
+  url: '#StrataData'
+- type: x-website
+  url: http://oreilly.com
+- type: x-website
+  url: https://conferences.oreilly.com/strata
+- type: x-website
+  url: http://strataconf.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

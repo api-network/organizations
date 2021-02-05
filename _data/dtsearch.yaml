@@ -1,0 +1,33 @@
+---
+name: dtSearch
+description: dtSearch - full-text indexing & search software for professionals, software
+  developers & the enterprise. Unicode - search 100+ languages.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4927362"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dtsearch.yaml
+tags:
+- Search
+apis: []
+x-common:
+- type: x-website
+  url: http://www.dtsearch.co.uk
+- type: x-facebook
+  url: https://facebook.com/dtsearch.uk
+- type: x-support
+  url: http://support.dtsearch.com/faq/default.htm
+- type: x-twitter
+  url: https://twitter.com/dtSearchUK
+- type: x-website
+  url: https://www.dtsearch.co.uk
+- type: x-youtube
+  url: https://www.youtube.com/dtsearchuk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,36 @@
+---
+name: Movex Palmarium ERP
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/movex-palmarium-erp.yaml
+tags:
+- Enterprise Applications - ERP And ERM
+apis: []
+x-common:
+- type: x-website
+  url: http://www.palmarium.co.uk
+- type: x-about
+  url: https://palmarium.co.uk/about/
+- type: x-blog
+  url: https://palmarium.co.uk/blog/
+- type: x-contact
+  url: https://palmarium.co.uk/contact/
+- type: x-partner
+  url: https://palmarium.co.uk/partners/
+- type: x-support
+  url: https://palmarium.co.uk/helpdesk/
+- type: x-twitter
+  url: http://twitter.com/m3vex
+- type: x-website
+  url: https://www.palmarium.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

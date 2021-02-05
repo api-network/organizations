@@ -1,0 +1,58 @@
+---
+name: Predix
+description: Predix (IoT PaaS) helps you develop apps that connect people with industrial
+  machines through analytics and data for better business outcomes.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28711-www-predix-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "260214"
+url: https://raw.githubusercontent.com/api-network/organizations/main/predix.yaml
+tags:
+- Relative Data
+- Internet Of Things
+- Have API Paths
+- Have API
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-website
+  url: https://www.predix.io/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/predix
+- type: x-documentation
+  url: https://docs.predix.io
+- type: x-documentation
+  url: https://docs.predix.io/en/service
+- type: x-documentation
+  url: https://apps-docs.predix.io
+- type: x-documentation
+  url: https://docs.predix.io/en-US/platform
+- type: x-facebook
+  url: https://www.facebook.com/PredixOS/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/ge-digital
+- type: x-partner
+  url: http://predix.com/partners
+- type: x-platform
+  url: https://docs.predix.io/en/platform
+- type: x-platform
+  url: https://www.ge.com/digital/iiot-platform
+- type: x-slideshare
+  url: https://www.slideshare.net/predixdevelopers
+- type: x-status
+  url: http://status.predix.io/
+- type: x-status
+  url: https://status.predix.io
+- type: x-twitter
+  url: https://twitter.com/Predix
+- type: x-website
+  url: https://www.predix.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

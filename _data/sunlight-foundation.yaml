@@ -1,0 +1,103 @@
+---
+name: Sunlight Foundation
+description: "Sunlight is said to be the best of disinfectants\u2026"
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/sunlight-lab-screenshot.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "562102"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sunlight-foundation.yaml
+tags:
+- Lobbyists
+- Has API
+- Cities
+- Candidates
+apis: []
+x-common:
+- type: x-website
+  url: https://sunlightfoundation.com/web-integrity-project/
+- type: x-about
+  url: https://sunlightfoundation.com/about/
+- type: x-about
+  url: https://sunlightfoundation.com/about/board/
+- type: x-about
+  url: https://sunlightfoundation.com/about/team/
+- type: x-about
+  url: https://sunlightfoundation.com/about/funding/
+- type: x-base
+  url: https://sunlightfoundation.com/
+- type: x-blog
+  url: http://sunlightfoundation.com/blog/
+- type: x-blog
+  url: https://sunlightfoundation.com/blog/
+- type: x-blog-rss
+  url: http://sunlightfoundation.com/feeds/latest/
+- type: x-careers
+  url: https://sunlightfoundation.com/jobs/
+- type: x-contact
+  url: https://sunlightfoundation.com/contact/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/sunlight-foundation
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/sunlight-foundation
+- type: x-developers
+  url: http://sunlightfoundation.com/api/
+- type: x-email
+  url: press@sunlightfoundation.com
+- type: x-email
+  url: alex@sunlightfoundation.com
+- type: x-email
+  url: ahoward@sunlightfoundation.com
+- type: x-email
+  url: international@sunlightfoundation.com
+- type: x-email
+  url: kabazajian@sunlightfoundation.com
+- type: x-email
+  url: slarrick@sunlightfoundation.com
+- type: x-email
+  url: jwonderlich@sunlightfoundation.com
+- type: x-email
+  url: dschuman@sunlightfoundation.com
+- type: x-email
+  url: opencities@sunlightfoundation.com
+- type: x-facebook
+  url: https://www.facebook.com/sunlightfoundation
+- type: x-github
+  url: https://github.com/sunlightlabs
+- type: x-instagram
+  url: http://instagram.com/sunfoundation
+- type: x-open-source
+  url: https://sunlightfoundation.com/our-work/open-cities/
+- type: x-open-source
+  url: https://sunlightfoundation.com/2019/12/18/access-and-impact-bringing-open-data-to-novices/
+- type: x-open-source
+  url: https://sunlightfoundation.com/2019/12/03/community-engagement-and-open-data-in-action-boulder-gilbert-philadelphia/
+- type: x-open-source
+  url: https://sunlightfoundation.com/2019/11/26/community-engagement-and-open-data-impact-framework-applications/
+- type: x-press
+  url: https://sunlightfoundation.com/press/
+- type: x-press
+  url: https://sunlightfoundation.com/press/releases/
+- type: x-press
+  url: https://sunlightfoundation.com/press/success/
+- type: x-press
+  url: https://sunlightfoundation.com/press/experts/
+- type: x-press
+  url: https://sunlightfoundation.com/press/logos/
+- type: x-twitter
+  url: https://twitter.com/sunfoundation
+- type: x-twitter
+  url: https://twitter.com/SunlightCities
+- type: x-twitter
+  url: https://twitter.com/SunWebIntegrity
+- type: x-website
+  url: http://sunlightfoundation.com/
+- type: x-youtube
+  url: https://www.youtube.com/user/SunlightFoundation
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

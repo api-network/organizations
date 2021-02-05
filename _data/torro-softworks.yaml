@@ -1,0 +1,56 @@
+---
+name: Torro Softworks
+description: 'CAD Software for engineering professionals: Viewer and Manager for <b>HPGL,DWG,DXF,DGN,CGM
+  </b>and Calcomp Plot files'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/torro-softworks.yaml
+tags:
+- Wpm32
+- Visualization
+- Viewer
+- Vectorization
+- Vector Graphics
+- Shareware
+- Redline
+- Reader
+- Raster To Vector
+- PRN
+- Print
+- PLT
+- PlotVision
+- Plot2PDF
+- Plot To PDF
+- Plot File Viewer
+- Pcx
+- Open
+- Markup
+- HPGL/2
+- HPGL Viewer
+- Hpgl
+- HPG
+- HP-GL
+- HP RLT
+- HGL
+- DXF
+- Dwg
+- Dgn
+- Conversion
+- Cgm
+- Calsg4
+- Calcomp
+- CAD Software
+apis: []
+x-common:
+- type: x-website
+  url: https://www.torro-softworks.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

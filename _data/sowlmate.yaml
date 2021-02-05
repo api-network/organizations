@@ -1,0 +1,30 @@
+---
+name: Sowlmate
+description: "Zeitgem\xE4\xDFe Technologieberatung mit frischer Methodik f\xFCr einen
+  gemeinsamen Erfolg - Impressum: https://t.co/UBrdmG29mv"
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29452-sowlmate-de.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "4"
+x-alexaRank: "9138812"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sowlmate.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: https://sowlmate.de/
+- type: x-email
+  url: hallo@sowlmate.de
+- type: x-email
+  url: info@sowlmate.de
+- type: x-twitter
+  url: https://twitter.com/sowlmateHQ
+- type: x-website
+  url: http://sowlmate.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

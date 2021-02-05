@@ -1,0 +1,31 @@
+---
+name: M Squared Technologies LLC
+description: Resource Standard Metrics, or RSM provides a standard method for analyzing
+  C, ANSI C++, C# and Java source code across operating systems.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/m-squared-technologies-llc.yaml
+tags:
+- Source Code Metrics
+- RSM
+- Resource Standard Metrics
+- Products And Tools
+- M Squared Technologies LLC
+- Java
+- C/C++
+- C#
+- Analyzing Source Code
+apis: []
+x-common:
+- type: x-website
+  url: https://msquaredtechnologies.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

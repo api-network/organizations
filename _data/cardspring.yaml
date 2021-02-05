@@ -1,0 +1,45 @@
+---
+name: CardSpring
+description: Build applications for payment cards. CardSpring is a simple API that
+  lets developers add web and mobile applications like coupons, loyalty programs and
+  digital receipts to payment cards.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/995-cardspring.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "5"
+x-alexaRank: "10578531"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cardspring.yaml
+tags:
+- Rewards
+- Rewards
+- Payments
+- Merchants
+- Loyalty Programs
+- Loyalty
+- Has API
+- Financial
+- Deals
+- Coupons
+apis: []
+x-common:
+- type: x-website
+  url: https://cardspring.com
+- type: x-base
+  url: https://api.cardspring.com/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/cardspring
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/cardspring
+- type: x-github
+  url: https://github.com/cardspring
+- type: x-twitter
+  url: https://twitter.com/CardSpring
+- type: x-website
+  url: https://cardspring.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

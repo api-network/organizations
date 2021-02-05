@@ -1,0 +1,40 @@
+---
+name: Syntrio Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3690597"
+url: https://raw.githubusercontent.com/api-network/organizations/main/syntrio-inc-.yaml
+tags:
+- Delivery And Management Systems
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.syntrio.com/blog/
+- type: x-blog
+  url: https://www.syntrio.com/blog/author/jason-lunday/
+- type: x-blog
+  url: https://www.syntrio.com/blog/author/jonathan-gonzalez/
+- type: x-blog
+  url: https://www.syntrio.com/blog/author/larry-bograd/
+- type: x-contact
+  url: https://www.syntrio.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/syntrio/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/syntrio-inc-/
+- type: x-twitter
+  url: https://twitter.com/syntrio
+- type: x-website
+  url: https://www.syntrio.com
+- type: x-youtube
+  url: https://www.youtube.com/user/syntrioinc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

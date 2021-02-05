@@ -1,0 +1,23 @@
+---
+name: Apinik Android Market
+description: An exclusive Android marketplace which let you to install everything
+  for Free with a flat-fee subscription.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4913820"
+url: https://raw.githubusercontent.com/api-network/organizations/main/apinik-android-market.yaml
+tags:
+- Markets
+apis: []
+x-common:
+- type: x-website
+  url: https://apinik.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

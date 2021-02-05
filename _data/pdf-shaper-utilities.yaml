@@ -1,0 +1,37 @@
+---
+name: PDF Shaper Utilities
+description: PDF Shaper is a full-featured PDF software that allows you to convert,
+  split, merge, protect and watermark PDF documents, extract pages, text and images.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "351427"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pdf-shaper-utilities.yaml
+tags:
+- System
+- Protect Pdf
+- Printing Software
+- Pdf Converter
+- Optimize Pdf
+- Free Pdf Viewer
+- Free Pdf Software
+- Free Pdf Printer
+- Encrypt Decrypt Pdf
+apis: []
+x-common:
+- type: x-website
+  url: http://www.burnaware.com
+- type: x-facebook
+  url: https://www.facebook.com/burnawarecompany
+- type: x-twitter
+  url: https://www.twitter.com/burnaware
+- type: x-website
+  url: https://www.pdfshaper.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

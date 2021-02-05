@@ -1,0 +1,56 @@
+---
+name: Business Computer Associates, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/business-computer-associates-inc-.yaml
+tags:
+- North America
+apis: []
+x-common:
+- type: x-website
+  url: http://www.bcainc.com
+- type: x-about
+  url: https://www.bcainc.com/about-us/
+- type: x-about
+  url: https://www.bcainc.com/about-us/why-bca/
+- type: x-about
+  url: https://www.bcainc.com/about-us/support-center/
+- type: x-about
+  url: https://www.bcainc.com/about-us/referral-program/
+- type: x-blog
+  url: https://www.bcainc.com/resources/blog/
+- type: x-careers
+  url: https://www.bcainc.com/about-us/careers/
+- type: x-contact
+  url: https://www.bcainc.com/about-us/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/bcacorp
+- type: x-news
+  url: https://www.bcainc.com/resources/newsletter-archive/
+- type: x-partner
+  url: https://www.bcainc.com/partners/erp-partners/
+- type: x-partner
+  url: https://www.bcainc.com/partners/
+- type: x-partner
+  url: https://www.bcainc.com/partners/it-partners/
+- type: x-privacy
+  url: https://www.bcainc.com/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/bcai_
+- type: x-twitter
+  url: https://twitter.com/BcaSage
+- type: x-website
+  url: https://www.bcainc.com
+- type: x-white-papers
+  url: https://www.bcainc.com/resources/white-papers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

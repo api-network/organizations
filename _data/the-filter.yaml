@@ -1,0 +1,33 @@
+---
+name: The Filter
+description: "The Filter\u2019s TV personalisation technology increases viewing, loyalty
+  and revenue. Our Data Science approach blends software and machine learning to extract
+  meaning from data to steer business decisions of the world\u2019s most forward thinking
+  broadcasters. Where TV meets A.I."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6441328"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-filter.yaml
+tags:
+- Web Portals
+apis: []
+x-common:
+- type: x-website
+  url: http://www.thefilter.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/thefilter/
+- type: x-privacy
+  url: https://thefilter.com/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/TheFilter
+- type: x-website
+  url: https://thefilter.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

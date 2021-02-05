@@ -1,0 +1,22 @@
+---
+name: SKS keyservers
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2901997"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sks-keyservers.yaml
+tags:
+- Key Servers
+apis: []
+x-common:
+- type: x-website
+  url: https://sks-keyservers.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

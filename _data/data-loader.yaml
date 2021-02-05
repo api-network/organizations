@@ -1,0 +1,31 @@
+---
+name: Data Loader
+description: Data Loader is the most powerful tool for Oracle and to Convert MSSQL,
+  Access, CSV & Oracle to MySQL, import FoxPro, etc. Download the free version now!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1122288"
+url: https://raw.githubusercontent.com/api-network/organizations/main/data-loader.yaml
+tags:
+- MySQL Import CSV
+- MSSQL To MySQL
+- Extraction And Transformation
+- Data Loader
+- Convert Oracle To MySQL
+- Convert Oracle To MSSQL
+- Convert MSSQL To MySQL
+- Convert MS Access To MySQL
+- Convert CSV To MySQL
+apis: []
+x-common:
+- type: x-website
+  url: https://www.dbload.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

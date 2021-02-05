@@ -1,0 +1,33 @@
+---
+name: ECR Software Corporation
+description: ECRS provides a front-to-back retail automation solution suite built
+  with a class-leading technology platform. Learn more about our POS solutions!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "689124"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ecr-software-corporation.yaml
+tags:
+- Point Of Sale
+apis: []
+x-common:
+- type: x-careers
+  url: https://www.ecrs.com/company/careers/
+- type: x-contact
+  url: https://www.ecrs.com/company/contact/
+- type: x-privacy
+  url: https://www.ecrs.com/company/privacy-policy/
+- type: x-webinars
+  url: https://www.ecrs.com/resources/library/c/webinars/
+- type: x-website
+  url: https://www.ecrsoft.com
+- type: x-white-papers
+  url: https://www.ecrs.com/resources/library/c/whitepapers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

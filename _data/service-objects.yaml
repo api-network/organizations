@@ -1,0 +1,75 @@
+---
+name: Service Objects
+description: With our suite of data verification APIs for phone, email, address and
+  more, you can keep your business's database clean, accurate, and up to date.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/371_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "404085"
+url: https://raw.githubusercontent.com/api-network/organizations/main/service-objects.yaml
+tags:
+- Zip Codes
+- Verification
+- Validations
+- Validations
+- Validations
+- Validations
+- Validations
+- Validations
+- Telecommunications
+- Taxes
+- Stocks
+- SalesSales
+- Phones
+- Names
+- Name Verification
+- Money
+- Mail
+- Locations
+- Locations
+- Locations
+- Locations
+- Have API
+- Geo
+- Forecast
+- Financial
+- Demographics
+- Credit Cards
+- Credit
+- Addresses
+- Addresses
+- Addresses
+- Address Verification
+- Address Verification
+apis: []
+x-common:
+- type: x-website
+  url: https://www.serviceobjects.com/
+- type: x-blog
+  url: https://www.serviceobjects.com/blog/best-practices-for-address-validation/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/service-objects
+- type: x-documentation
+  url: https://docs.serviceobjects.com/display/devguide/Getting+Started+with+Service+Objects
+- type: x-email
+  url: sales@serviceobjects.com
+- type: x-email
+  url: jobs@serviceobjects.com
+- type: x-github
+  url: https://github.com/ServiceObjects
+- type: x-support
+  url: https://support.serviceobjects.com/
+- type: x-support
+  url: https://support.serviceobjects.com
+- type: x-twitter
+  url: https://twitter.com/serviceobjects
+- type: x-website
+  url: http://www.serviceobjects.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

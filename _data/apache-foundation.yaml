@@ -1,0 +1,67 @@
+---
+name: Apache Foundation
+description: <p>Provides support for the Apache Community of open-source software
+  projects, which provide software products for the public good.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/asf_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1791"
+url: https://raw.githubusercontent.com/api-network/organizations/main/apache-foundation.yaml
+tags:
+- Licensing
+- API Tools
+- Apache Software Foundation
+apis: []
+x-common:
+- type: x-about
+  url: https://community.apache.org/about/
+- type: x-blog
+  url: https://blogs.apache.org/foundation
+- type: x-blog
+  url: https://blogs.apache.org
+- type: x-blog
+  url: https://blogs.apache.org/conferences
+- type: x-blog
+  url: https://blogs.apache.org/
+- type: x-blog
+  url: https://blogs.apache.org/foundation/
+- type: x-blog-rss
+  url: https://blogs.apache.org/foundation/feed/entries/rss
+- type: x-events
+  url: https://events.apache.org/
+- type: x-github
+  url: https://github.com/apache
+- type: x-open-source
+  url: http://openjpa.apache.org/
+- type: x-open-source
+  url: http://openmeetings.apache.org/
+- type: x-open-source
+  url: http://opennlp.apache.org/
+- type: x-open-source
+  url: http://openoffice.apache.org/
+- type: x-open-source
+  url: http://openwebbeans.apache.org/
+- type: x-open-source
+  url: http://openwhisk.apache.org/
+- type: x-status
+  url: http://status.apache.org
+- type: x-status
+  url: https://status.apache.org/
+- type: x-support
+  url: https://helpwanted.apache.org/
+- type: x-twitter
+  url: https://twitter.com/theasf
+- type: x-twitter
+  url: http://twitter.com/TheASF
+- type: x-website
+  url: https://www.apache.org
+- type: x-website
+  url: http://www.apache.org/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

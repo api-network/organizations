@@ -1,0 +1,50 @@
+---
+name: Webmonkey
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "84006"
+url: https://raw.githubusercontent.com/api-network/organizations/main/webmonkey.yaml
+tags:
+- Webmaster Resources
+apis: []
+x-common:
+- type: x-website
+  url: http://www.wired.com
+- type: x-about
+  url: https://www.wired.com/about/faq/
+- type: x-about
+  url: https://www.wired.com/about/accessibility-help/
+- type: x-careers
+  url: https://www.wired.com/about/wired-jobs/
+- type: x-facebook
+  url: https://www.facebook.com/wired
+- type: x-feed
+  url: https://www.wired.com/about/feedback/
+- type: x-feed
+  url: https://www.wired.com/about/rss_feeds/
+- type: x-instagram
+  url: https://instagram.com/wired
+- type: x-press
+  url: https://www.wired.com/about/press/
+- type: x-privacy
+  url: https://policies.google.com/privacy
+- type: x-privacy
+  url: http://www.condenast.com/privacy-policy#privacypolicy
+- type: x-terms-of-service
+  url: https://policies.google.com/terms
+- type: x-twitter
+  url: http://www.twitter.com/wired
+- type: x-website
+  url: https://www.webmonkey.com
+- type: x-youtube
+  url: http://www.youtube.com/wired
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

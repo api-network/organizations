@@ -1,0 +1,36 @@
+---
+name: Hudson Technical Support Outsourcing
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6990860"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hudson-technical-support-outsourcing.yaml
+tags:
+- Independent Tech Support
+apis: []
+x-common:
+- type: x-about
+  url: https://www.hudsonsoft.com/about-us/
+- type: x-blog
+  url: https://www.hudsonsoft.com/hudson-blog/
+- type: x-careers
+  url: https://www.hudsonsoft.com/careers/
+- type: x-contact
+  url: https://www.hudsonsoft.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/HudsonSoftware
+- type: x-support
+  url: https://www.hudsonsoft.com/technical-support/
+- type: x-twitter
+  url: http://twitter.com/HudsonSoftware
+- type: x-website
+  url: https://www.hudsonsoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

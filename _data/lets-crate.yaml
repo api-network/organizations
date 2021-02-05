@@ -1,0 +1,33 @@
+---
+name: Lets Crate
+description: |-
+  <p>Crate makes sharing files with your family and friends ridiculously easy.</p>
+
+  <p>Crate has tens of thousands of users.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/836_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1462671"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lets-crate.yaml
+tags:
+- Have API
+- File Sharing
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://letscrate.com
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/crate
+- type: x-twitter
+  url: https://twitter.com/#!/letscrate
+- type: x-website
+  url: http://letscrate.com/api
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

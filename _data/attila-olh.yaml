@@ -1,0 +1,26 @@
+---
+name: "Attila Ol\xE1h"
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6423466"
+url: https://raw.githubusercontent.com/api-network/organizations/main/attila-olh.yaml
+tags:
+- Personal Pages
+apis: []
+x-common:
+- type: x-code
+  url: https://golang.org/pkg/encoding/json/#Decoder.Decode
+- type: x-github
+  url: https://stedolan.github.io/jq/
+- type: x-website
+  url: https://attilaolah.eu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

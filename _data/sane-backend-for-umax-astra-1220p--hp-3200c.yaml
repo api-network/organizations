@@ -1,0 +1,22 @@
+---
+name: SANE backend for UMAX Astra 1220P / HP 3200C
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "429"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sane-backend-for-umax-astra-1220p--hp-3200c.yaml
+tags:
+- Scanners
+apis: []
+x-common:
+- type: x-website
+  url: https://umax1220p.sourceforge.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

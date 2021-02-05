@@ -1,0 +1,23 @@
+---
+name: Institute for Process Control and Robotics
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1056770"
+url: https://raw.githubusercontent.com/api-network/organizations/main/institute-for-process-control-and-robotics.yaml
+tags:
+- Research Groups
+- Research
+apis: []
+x-common:
+- type: x-website
+  url: https://wwwipr.ira.uka.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,85 @@
+---
+name: MINDBODY
+description: See how MINDBODY business management software serves gyms, spas and salons
+  worldwide, and helps people find and book with them.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/850_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "2548"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mindbody.yaml
+tags:
+- Schedules
+- Salon Management
+- Point Of Sale
+- Have API
+- Bookings
+- API Crap
+- Affiliate
+apis: []
+x-common:
+- type: x-blog
+  url: http://mindbodyonline.com/blog
+- type: x-careers
+  url: https://company.mindbodyonline.com/careers
+- type: x-contact
+  url: https://company.mindbodyonline.com/contact-us
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/mindbody
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/mindbody
+- type: x-developer
+  url: http://developer.mindbodyonline.com
+- type: x-developers
+  url: http://www.mindbodyonline.com/api
+- type: x-email
+  url: privacy@mindbodyonline.com
+- type: x-email
+  url: support@mindbodyonline.com
+- type: x-email
+  url: unsubscribe@mindbodyonline.com
+- type: x-email
+  url: legal@mindbodyonline.com
+- type: x-email
+  url: ClientCare@mindbodyonline.com
+- type: x-facebook
+  url: https://www.facebook.com/mindbodyinc
+- type: x-github
+  url: https://github.com/mindbody
+- type: x-instagram
+  url: https://www.instagram.com/mindbody/?hl=en
+- type: x-linkedin
+  url: https://www.linkedin.com/company/mindbody/
+- type: x-marketplace
+  url: https://marketplace.mindbodyonline.com/solutions/
+- type: x-partner
+  url: https://partnerportal.mindbody.io/
+- type: x-press
+  url: https://company.mindbodyonline.com/press
+- type: x-security
+  url: https://company.mindbodyonline.com/security
+- type: x-status
+  url: http://status.mindbodyonline.com/
+- type: x-terms-of-service
+  url: https://company.mindbodyonline.com/legal
+- type: x-twitter
+  url: https://twitter.com/askmindbody
+- type: x-twitter
+  url: https://twitter.com/mindbodyonline
+- type: x-webhooks
+  url: https://developers.mindbodyonline.com/WebhooksDocumentation
+- type: x-website
+  url: https://www.mindbodyonline.com
+- type: x-website
+  url: http://developers.mindbodyonline.com
+- type: x-website
+  url: http://www.mindbodyonline.com
+- type: x-youtube
+  url: https://www.youtube.com/MINDBODY
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

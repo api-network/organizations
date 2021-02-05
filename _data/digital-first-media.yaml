@@ -1,0 +1,65 @@
+---
+name: Digital First Media
+description: As our name implies, Digital First Media is out to transform the local
+  news business.     We are a management company overseeing more than 800 multi-platform
+  local news products across 18 states, making us the second-largest newspaper company
+  in the U....
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/2648-digital-first-media.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1576099"
+url: https://raw.githubusercontent.com/api-network/organizations/main/digital-first-media.yaml
+tags:
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: https://www.digitalfirstmedia.com
+- type: x-blog-rss
+  url: http://www.digitalfirstmedia.com/feed/rss/
+- type: x-contact
+  url: https://www.medianewsgroup.com/contact/
+- type: x-contact
+  url: http://www.adtaxi.com/about-us/contact-us/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/digital-first-media
+- type: x-linkedin
+  url: https://www.linkedin.com/company/digital-first-media/
+- type: x-news
+  url: https://www.medianewsgroup.com/
+- type: x-news
+  url: https://www.medianewsgroup.com/who-we-are/
+- type: x-news
+  url: https://www.medianewsgroup.com/our-brands/
+- type: x-news
+  url: https://www.medianewsgroup.com/in-the-news/
+- type: x-news
+  url: https://www.medianewsgroup.com/advertise-with-us/
+- type: x-news
+  url: https://www.medianewsgroup.com/careers/
+- type: x-news
+  url: https://www.medianewsgroup.com/feed/
+- type: x-news
+  url: https://www.medianewsgroup.com/copyright/
+- type: x-news
+  url: https://www.medianewsgroup.com/privacy-policy/
+- type: x-news
+  url: https://www.medianewsgroup.com/terms-of-use/
+- type: x-news
+  url: https://www.medianewsgroup.com/cookie-policy/
+- type: x-news
+  url: https://www.medianewsgroup.com/arbitration/
+- type: x-twitter
+  url: https://twitter.com/MediaNewsGroup
+- type: x-twitter
+  url: https://twitter.com/digitalfirst
+- type: x-website
+  url: http://www.digitalfirstmedia.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

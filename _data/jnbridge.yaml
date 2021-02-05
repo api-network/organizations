@@ -1,0 +1,53 @@
+---
+name: JNBridge
+description: Bridge anything Java with anything .NET, anywhere. JNBridge makes the
+  incompatible compatible, managing the complexities so you don't have to.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1742841"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jnbridge.yaml
+tags:
+- Implementations
+apis: []
+x-common:
+- type: x-about
+  url: https://jnbridge.com/about
+- type: x-about
+  url: https://jnbridge.com/about/us
+- type: x-about
+  url: https://jnbridge.com/about/product-history
+- type: x-about
+  url: https://jnbridge.com/about/media-coverage
+- type: x-blog
+  url: https://jnbridge.com/blog/new-jnbridgepro-8-0
+- type: x-blog
+  url: https://jnbridge.com/blog/new-jnbridgepro-8-0#respond
+- type: x-blog
+  url: https://jnbridge.com/blog/javaone-observations
+- type: x-blog
+  url: https://jnbridge.com/blog/javaone-observations#respond
+- type: x-contact
+  url: https://jnbridge.com/about/contact
+- type: x-customers
+  url: https://jnbridge.com/about/customers
+- type: x-press
+  url: https://jnbridge.com/about/press-releases
+- type: x-support
+  url: https://jnbridge.com/support
+- type: x-support
+  url: https://jnbridge.com/support/overview
+- type: x-support
+  url: https://jnbridge.com/support/knowledge-base
+- type: x-support
+  url: https://jnbridge.com/support/license-key
+- type: x-website
+  url: https://www.jnbridge.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

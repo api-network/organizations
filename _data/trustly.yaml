@@ -1,0 +1,41 @@
+---
+name: Trustly
+description: <p>At Trustly, we envision a world in which online payments are fast,
+  simple and secure for merchants, consumers and banks alike.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/trustly-generic.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "100487"
+url: https://raw.githubusercontent.com/api-network/organizations/main/trustly.yaml
+tags:
+- Payments
+- Have API
+- Banking
+apis: []
+x-common:
+- type: x-website
+  url: https://trustly.net
+- type: x-facebook
+  url: https://www.facebook.com/trustly
+- type: x-github
+  url: https://github.com/trustly
+- type: x-instagram
+  url: https://www.instagram.com/trustly/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/trustly/
+- type: x-twitter
+  url: https://twitter.com/Trustly
+- type: x-twitter
+  url: https://twitter.com/trustlySE
+- type: x-website
+  url: https://trustly.com/en/
+- type: x-youtube
+  url: https://www.youtube.com/user/TrustlySE
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

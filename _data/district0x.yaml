@@ -1,0 +1,49 @@
+---
+name: district0x
+description: A network of decentralized markets and communities. Create, operate,
+  and govern. Powered by Ethereum, Aragon, and IPFS.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26783-district0x-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "119120"
+url: https://raw.githubusercontent.com/api-network/organizations/main/district0x.yaml
+tags:
+- Networks
+- Marketplaces
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: https://discord.gg/P9RQejv
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/district0x
+- type: x-email
+  url: matus@district0x.io
+- type: x-email
+  url: joe@district0x.io
+- type: x-email
+  url: alexander@district0x.io
+- type: x-email
+  url: mike@district0x.io
+- type: x-email
+  url: pj@district0x.io
+- type: x-email
+  url: brady@district0x.io
+- type: x-email
+  url: filip@district0x.io
+- type: x-email
+  url: hello@district0x.io
+- type: x-email
+  url: hello@district0x.com
+- type: x-twitter
+  url: https://twitter.com/district0x
+- type: x-website
+  url: https://district0x.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

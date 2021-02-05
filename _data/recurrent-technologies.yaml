@@ -1,0 +1,35 @@
+---
+name: Recurrent Technologies
+description: Recurrent buys & sells used networking hardware. We REFURBISH to manufacturer's
+  specs. Lifetime warranty incl. Same or next day delivery. Located San Jose.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3656248"
+url: https://raw.githubusercontent.com/api-network/organizations/main/recurrent-technologies.yaml
+tags:
+- Sun
+apis: []
+x-common:
+- type: x-website
+  url: http://www.recurrent.com
+- type: x-about
+  url: https://www.recurrent.com/about-recurrent/
+- type: x-contact
+  url: https://www.recurrent.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/recurrenttechnologies
+- type: x-instagram
+  url: https://www.instagram.com/recurrenttechnologies/
+- type: x-twitter
+  url: https://twitter.com/recurrent_tech
+- type: x-website
+  url: https://www.recurrent.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

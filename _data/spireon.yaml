@@ -1,0 +1,41 @@
+---
+name: Spireon
+description: GPS Vehicle Tracking - As North America???s leading connected vehicle
+  intelligence company with nearly 4 million active subscribers, Spireon provides
+  businesses and consumers with powerful insights to track, manage and protect their
+  most valuable mobile ...
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28279-api-spireon-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "423899"
+url: https://raw.githubusercontent.com/api-network/organizations/main/spireon.yaml
+tags:
+- Surveillance
+- Locations
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.spireon.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/spireon
+- type: x-email
+  url: customer_support@spireon.com
+- type: x-email
+  url: KahuSupport@spireon.com
+- type: x-email
+  url: ati-support@spireon.com
+- type: x-email
+  url: vehiclepath-service@spireon.com
+- type: x-twitter
+  url: https://twitter.com/Spireon
+- type: x-website
+  url: https://api.spireon.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

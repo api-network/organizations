@@ -1,0 +1,64 @@
+---
+name: Orbital Insight
+description: Understanding global and national trends through advanced image processing
+  and data science at petabyte scale.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28245-orbitalinsight-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "481290"
+url: https://raw.githubusercontent.com/api-network/organizations/main/orbital-insight.yaml
+tags:
+- Satellites
+- Have API
+apis: []
+x-common:
+- type: x-about
+  url: http://www.aboutcookies.org/
+- type: x-blog
+  url: https://orbitalinsight.com/blog/
+- type: x-careers
+  url: https://orbitalinsight.com/company/careers/
+- type: x-contact
+  url: https://orbitalinsight.com/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/orbital-insight-inc
+- type: x-email
+  url: marketing@orbitalinsight.com
+- type: x-email
+  url: press@orbitalinsight.com
+- type: x-email
+  url: sales.japan@orbitalinsight.com
+- type: x-email
+  url: info@orbitalinsight.com
+- type: x-email
+  url: sales@orbitalinsight.com
+- type: x-facebook
+  url: https://www.facebook.com/orbitalinsight/
+- type: x-github
+  url: https://github.com/orbitalinsight
+- type: x-investor
+  url: https://orbitalinsight.com/company/investors/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/orbital-insight-inc-
+- type: x-partner
+  url: https://orbitalinsight.com/company/partners/
+- type: x-press
+  url: https://orbitalinsight.com/press/
+- type: x-privacy
+  url: https://orbitalinsight.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://orbitalinsight.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/orbital_insight
+- type: x-website
+  url: http://orbitalinsight.com
+- type: x-website
+  url: https://orbitalinsight.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

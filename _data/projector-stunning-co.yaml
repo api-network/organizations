@@ -1,0 +1,23 @@
+---
+name: projector.stunning.co
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/projector-stunning-co.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: https://projector.stunning.co
+- type: x-website
+  url: http://projector.stunning.co
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

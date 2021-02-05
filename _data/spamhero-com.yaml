@@ -1,0 +1,40 @@
+---
+name: SpamHero.com
+description: Be spam free today! Protect your domain from spam and viruses with SpamHero.
+  Removes over 98% of the spam and viruses sent to your domain. Setup takes 5 minutes.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "782382"
+url: https://raw.githubusercontent.com/api-network/organizations/main/spamhero-com.yaml
+tags:
+- Spam Filter
+- Hosted Spam Filter
+- Free Spam Filter
+- Filtering
+- Email Spam Filter
+- Anti Spam
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.spamhero.com/contact
+- type: x-login
+  url: https://www.spamhero.com/sign-in
+- type: x-pricing
+  url: https://www.spamhero.com/pricing
+- type: x-privacy
+  url: https://www.spamhero.com/privacy
+- type: x-support
+  url: https://www.spamhero.com/support
+- type: x-terms-of-service
+  url: https://www.spamhero.com/terms
+- type: x-website
+  url: https://www.spamhero.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

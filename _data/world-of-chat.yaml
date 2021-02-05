@@ -1,0 +1,35 @@
+---
+name: World of Chat
+description: Uk based chat rooms with no sign up required, free chat rooms for people
+  looking for online chatting and web based or webcam chat room.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/world-of-chat.yaml
+tags:
+- Chat Rooms
+apis: []
+x-common:
+- type: x-about
+  url: https://www.worldofchat.co.uk/about-woc/
+- type: x-blog
+  url: https://www.worldofchat.co.uk/chatblog/
+- type: x-contact
+  url: https://www.worldofchat.co.uk/contact-us/
+- type: x-login
+  url: https://www.worldofchat.co.uk/login
+- type: x-privacy
+  url: https://www.worldofchat.co.uk/privacy-policy/
+- type: x-self-service-registration
+  url: https://www.worldofchat.co.uk/register/
+- type: x-website
+  url: https://www.worldofchat.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

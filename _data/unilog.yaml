@@ -1,0 +1,70 @@
+---
+name: Unilog
+description: Unilog is a global technology company that delivers powerful, affordable
+  eCommerce solutions and product data enrichment services for the B2B marketplace.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "361337"
+url: https://raw.githubusercontent.com/api-network/organizations/main/unilog.yaml
+tags:
+- Unilog
+- Product Data
+- Product Content
+- Ecommerce Technology
+- Ecommerce Software
+- Consultants
+- Cimm2
+- B2b Ecommerce Software
+apis: []
+x-common:
+- type: x-website
+  url: http://unilogcorp.com
+- type: x-about
+  url: https://www.unilogcorp.com/about-us/company/
+- type: x-about
+  url: https://www.unilogcorp.com/about/leadership/
+- type: x-about
+  url: https://www.unilogcorp.com/about/associations/
+- type: x-blog
+  url: https://www.unilogcorp.com/blog/
+- type: x-careers
+  url: https://www.unilogcorp.com/about/careers/
+- type: x-contact
+  url: https://www.unilogcorp.com/contact-us/
+- type: x-customers
+  url: https://www.unilogcorp.com/customers/
+- type: x-events
+  url: https://www.unilogcorp.com/events/
+- type: x-login
+  url: https://unilog.force.com/Community/login
+- type: x-news
+  url: https://www.unilogcorp.com/in-the-news/
+- type: x-partner
+  url: https://www.unilogcorp.com/about/partners/
+- type: x-platform
+  url: https://www.unilogcorp.com/b2b-ecommerce-platform/
+- type: x-press
+  url: https://www.unilogcorp.com/press-releases/
+- type: x-privacy
+  url: https://www.unilogcorp.com/privacy-policy/
+- type: x-twitter
+  url: http://twitter.com/unilog1
+- type: x-website
+  url: https://www.unilogcorp.com
+- type: x-white-papers
+  url: https://www.unilogcorp.com/white-papers/
+- type: x-youtube
+  url: https://www.youtube.com/c/UnilogcorpUSA
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=LJT2BQxkjH4
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=u-mNNjvFj04
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,38 @@
+---
+name: Data Center Solutions - Ricoh India
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "341531"
+url: https://raw.githubusercontent.com/api-network/organizations/main/data-center-solutions--ricoh-india.yaml
+tags:
+- Infrastructure As A Service Providers
+apis: []
+x-common:
+- type: x-about
+  url: https://plus.google.com/u/0/+Ricohidc/about
+- type: x-contact
+  url: https://www.ricohidc.com/contact.php
+- type: x-documentation
+  url: https://www.ricohdocs.com/
+- type: x-facebook
+  url: https://www.facebook.com/ricohidc
+- type: x-linkedin
+  url: https://www.linkedin.com/company/ricoh-india-ltd
+- type: x-partner
+  url: https://www.ricohidc.com/partner.php
+- type: x-privacy
+  url: https://www.ricohidc.com/privacy-policy.php
+- type: x-twitter
+  url: https://twitter.com/ricohidc
+- type: x-website
+  url: https://www.ricohidc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,49 @@
+---
+name: Fractal Analytics
+description: Fractal Analytics helps global Fortune 500 companies power every human
+  decision in the enterprise by bringing analytics and AI to the decision.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6792252"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fractal-analytics.yaml
+tags:
+- Consultants
+apis: []
+x-common:
+- type: x-website
+  url: https://fractal.ai/
+- type: x-contact
+  url: https://fractal.ai/contact-us/
+- type: x-events
+  url: https://fractal.ai/events/
+- type: x-instagram
+  url: https://www.instagram.com/lifeatfractal/
+- type: x-news
+  url: https://fractal.ai/news-room/
+- type: x-open-source
+  url: https://fractal.ai/job-openings/
+- type: x-privacy
+  url: https://fractal.ai/privacy-policy/
+- type: x-privacy
+  url: https://fractal.ai/privacy-cookies/
+- type: x-terms-of-service
+  url: https://fractal.ai/legal-disclaimer/
+- type: x-terms-of-service
+  url: https://fractal.ai/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/fractalites
+- type: x-website
+  url: https://www.fractalanalytics.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=UVnYsU6TwVo
+- type: x-youtube
+  url: https://www.youtube.com/user/Fractalanalytics
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

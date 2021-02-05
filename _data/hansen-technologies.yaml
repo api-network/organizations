@@ -1,0 +1,41 @@
+---
+name: Hansen Technologies
+description: Hansen Technologies is a leading global provider of customer care, billing
+  software and data management systems.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "901526"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hansen-technologies.yaml
+tags:
+- Telecommunications
+- Hansen Utilities
+- Hansen Telco
+- Hansen Technologies
+- Energy Trading
+- Energy Billing
+- Customer Care
+- CIS
+- Catalog
+- Billing Software
+- Billing
+apis: []
+x-common:
+- type: x-website
+  url: http://hansencx.com
+- type: x-facebook
+  url: https://www.facebook.com/hansentechnologies/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/14520/
+- type: x-twitter
+  url: https://twitter.com/Hansen_Tech
+- type: x-website
+  url: https://www.hsntech.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

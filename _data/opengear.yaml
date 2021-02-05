@@ -1,0 +1,179 @@
+---
+name: Opengear
+description: Opengear offers Network Monitoring, Data Center & IT Infrastructure Management
+  Solutions for secure remote access to all of your critical systems.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "687412"
+url: https://raw.githubusercontent.com/api-network/organizations/main/opengear.yaml
+tags:
+- Switching Devices
+apis: []
+x-common:
+- type: x-website
+  url: http://www.opengear.com
+- type: x-case-studies
+  url: https://opengear.com/case-studies/
+- type: x-contact
+  url: https://opengear.com/contact-us/
+- type: x-documentation
+  url: https://opengear.com/support/documentation/
+- type: x-forum
+  url: https://opengear.zendesk.com/forums/21087337-cabling
+- type: x-news
+  url: https://opengear.com/about-us/news-events/
+- type: x-open-source
+  url: https://opengear.com/support/resource-archives/
+- type: x-open-source
+  url: https://opengear.com/audio-blogs
+- type: x-open-source
+  url: http://ftp.opengear.com/download/visio/Opengear.vss
+- type: x-open-source
+  url: https://opengear.com/customer-success/
+- type: x-open-source
+  url: https://opengear.com/deal-registration/us
+- type: x-open-source
+  url: https://opengear.com/strategic-alliances/
+- type: x-open-source
+  url: https://opengear.com/about-us/
+- type: x-open-source
+  url: https://opengear.com/about-us/leadership/
+- type: x-open-source
+  url: https://opengear.com/about-us/careers/
+- type: x-open-source
+  url: https://lighthouse.opengear.com
+- type: x-open-source
+  url: https://opengear.com/networkrq/
+- type: x-open-source
+  url: https://opengear.com/request-demo/
+- type: x-open-source
+  url: https://opengear.com/buy-opengear-products/
+- type: x-open-source
+  url: https://opengear.com/ch/out_of_band
+- type: x-open-source
+  url: https://opengear.com/fr/out_of_band
+- type: x-open-source
+  url: https://opengear.com/gr/out_of_band
+- type: x-open-source
+  url: https://opengear.com/jp/translation-page-1/
+- type: x-open-source
+  url: https://opengear.com/sp/out_of_band
+- type: x-open-source
+  url: https://opengear.com/terms-conditions/
+- type: x-open-source
+  url: https://opengear.com/privacy-policy/
+- type: x-open-source
+  url: https://opengear.com/site-map/
+- type: x-open-source
+  url: https://www.linkedin.com/company/opengear
+- type: x-open-source
+  url: https://www.youtube.com/user/opengeartech
+- type: x-open-source
+  url: https://opengear.com/blog
+- type: x-open-source
+  url: https://opengear.com
+- type: x-open-source
+  url: https://opengear.com/schedule-demo/
+- type: x-open-source
+  url: https://opengear.com/blog/
+- type: x-open-source
+  url: https://opengear.com/solutions/
+- type: x-open-source
+  url: https://opengear.com/solution/failover-to-cellular
+- type: x-open-source
+  url: https://opengear.com/solution/sd-wan-and-out-of-band/
+- type: x-open-source
+  url: https://opengear.com/solution/5g/
+- type: x-open-source
+  url: https://opengear.com/solution/zero-touch-provisioning
+- type: x-open-source
+  url: https://opengear.com/solution/network-resilience
+- type: x-open-source
+  url: https://opengear.com/solution/data-centers
+- type: x-open-source
+  url: https://opengear.com/solution/remote-sites
+- type: x-open-source
+  url: https://opengear.com/solution/hyperscale
+- type: x-open-source
+  url: https://opengear.com/solution/environmental-monitoring
+- type: x-open-source
+  url: https://opengear.com/solution/internet-of-things
+- type: x-open-source
+  url: https://opengear.com/solution/m2m
+- type: x-open-source
+  url: https://opengear.com/solution/network-labs/
+- type: x-open-source
+  url: https://opengear.com/solution/retail
+- type: x-open-source
+  url: https://opengear.com/solution/financial-services
+- type: x-open-source
+  url: https://opengear.com/solution/healthcare
+- type: x-open-source
+  url: https://opengear.com/solution/government
+- type: x-open-source
+  url: https://opengear.com/solution/education
+- type: x-open-source
+  url: https://opengear.com/solution/cloudproviders
+- type: x-open-source
+  url: https://opengear.com/solution/telecommunications
+- type: x-open-source
+  url: https://opengear.com/solution/oil-gas-mining/
+- type: x-open-source
+  url: https://opengear.com/products/
+- type: x-open-source
+  url: https://opengear.com/products/core
+- type: x-open-source
+  url: https://opengear.com/products/cm7100-console-server
+- type: x-open-source
+  url: http://lighthouse.opengear.com
+- type: x-open-source
+  url: https://opengear.com/products/edge
+- type: x-open-source
+  url: https://opengear.com/products/remote-site-gateway
+- type: x-open-source
+  url: https://opengear.com/products/netops
+- type: x-open-source
+  url: https://opengear.com/product-feature-comparison
+- type: x-open-source
+  url: https://opengear.com/product-selector/
+- type: x-open-source
+  url: https://opengear.com/support/
+- type: x-open-source
+  url: https://opengear.zendesk.com/anonymous_requests/new
+- type: x-open-source
+  url: https://opengear.zendesk.com
+- type: x-open-source
+  url: https://opengear.com/support/device-updates/
+- type: x-open-source
+  url: https://opengear.com/feature-product-request
+- type: x-open-source
+  url: https://opengear.com/support/regulatory-compliance/
+- type: x-open-source
+  url: https://opengear.com/eula/
+- type: x-open-source
+  url: https://opengear.com/support/datasheets/
+- type: x-open-source
+  url: https://opengear.com/e-books/
+- type: x-open-source
+  url: https://opengear.com/videos/
+- type: x-partner
+  url: http://partners.opengear.com
+- type: x-partner
+  url: https://opengear.com/partner/
+- type: x-partner
+  url: https://opengear.com/partner
+- type: x-twitter
+  url: https://twitter.com/Opengear
+- type: x-webinars
+  url: https://opengear.com/webinars/
+- type: x-website
+  url: https://www.opengear.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

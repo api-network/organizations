@@ -1,0 +1,40 @@
+---
+name: Blogging Pro
+description: "Are you new to blogging and want to grow it as fast as you can? Or maybe
+  you\u2019ve grown tired of attempting to grow your blog and are about to give up.
+  Stop"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "102746"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blogging-pro.yaml
+tags:
+- Resources
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.bloggingpro.com
+- type: x-blog
+  url: https://www.bloggingpro.com/blog/
+- type: x-blog
+  url: https://www.bloggingpro.com/post-a-job/
+- type: x-blog
+  url: https://www.bloggingpro.com/blogging-books/
+- type: x-careers
+  url: https://www.bloggingpro.com/jobs/
+- type: x-contact
+  url: https://www.bloggingpro.com/contact/
+- type: x-feed
+  url: https://www.bloggingpro.com/feed/
+- type: x-feed
+  url: https://www.bloggingpro.com/jobs/feed/job_feed
+- type: x-website
+  url: https://www.bloggingpro.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

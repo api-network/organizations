@@ -1,0 +1,62 @@
+---
+name: Check Point
+description: "Check Point Software Technologies Ltd. (www.checkpoint.com) is a leading
+  provider of cyber security solutions to corporate enterprises and governments globally.
+  Its solutions protect customers from 5th-generation cyber-attacks with an industry
+  leading catch rate of malware, ransomware and other targeted attacks. Check Point
+  offers a multilevel security architecture with our new Gen V advanced threat prevention
+  that protects all networks, cloud and mobile operations of a business against all
+  known attacks combined with the industry\u2019s most comprehensive and intuitive
+  single point of control management system."
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "22991"
+url: https://raw.githubusercontent.com/api-network/organizations/main/check-point.yaml
+tags:
+- Profile
+- Products And Tools
+- Products
+- Network
+- Mobile Security
+- Advanced Network Threat Prevention
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.checkpoint.com
+- type: x-blog
+  url: https://blog.checkpoint.com/
+- type: x-careers
+  url: https://careers.checkpoint.com/careers/
+- type: x-contact-form
+  url: https://www.checkpoint.com/about-us/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/checkpointsoftware
+- type: x-partner
+  url: https://partners.us.checkpoint.com/partnerlocator/
+- type: x-security
+  url: https://pages.checkpoint.com/security-checkup.html
+- type: x-support
+  url: https://supportcenter.checkpoint.com/
+- type: x-support
+  url: https://help.checkpoint.com/s/
+- type: x-twitter
+  url: https://twitter.com/checkpointsw
+- type: x-webinars
+  url: https://pages.checkpoint.com/webinar-zero-trust.html
+- type: x-webinars
+  url: https://pages.checkpoint.com/webinar-maestro.html
+- type: x-website
+  url: https://www.checkpoint.com/
+- type: x-website
+  url: https://www.checkpoint.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=gr2f2LqjUAE
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,44 @@
+---
+name: DAZ3D - 3D Software & Content
+description: Free 3D Software Suite for modeling & rendering realistic characters,
+  clothes and scenes. Buy 3D models, anime characters, poses, and thousands of other
+  professional ready-made items.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "12334"
+url: https://raw.githubusercontent.com/api-network/organizations/main/daz3d--3d-software-content.yaml
+tags:
+- Poser
+- Daz3d
+- Daz
+- Companies
+- 3D Software
+- 3d Models
+- 3D Animation
+apis: []
+x-common:
+- type: x-website
+  url: https://www.daz3d.com/
+- type: x-blog
+  url: https://blog.daz3d.com
+- type: x-facebook
+  url: https://www.facebook.com/DAZ3D.FanPage
+- type: x-forum
+  url: https://www.daz3d.com/forums/
+- type: x-support
+  url: https://www.daz3d.com/help/
+- type: x-twitter
+  url: https://twitter.com/jack_tomalin
+- type: x-twitter
+  url: https://twitter.com/Daz3d
+- type: x-website
+  url: https://daz3d.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

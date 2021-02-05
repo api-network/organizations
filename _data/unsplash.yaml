@@ -1,0 +1,33 @@
+---
+name: Unsplash
+description: <p>Welcome to the Official Unsplash API. Create with the largest collection
+  of high-quality, CC0 photographs.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+  Shot 2017-05-09 at 10.56.43 AM.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/unsplash.yaml
+tags: []
+apis: []
+x-common:
+- type: x-best-practices
+  url: https://community.unsplash.com/developersblog/unsplash-api-guidelines
+- type: x-code
+  url: https://unsplash.com/documentation#libraries
+- type: x-developers
+  url: https://unsplash.com/developers
+- type: x-documentation
+  url: https://unsplash.com/documentation
+- type: x-status
+  url: https://status.unsplash.com/
+- type: x-website
+  url: https://unsplash.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

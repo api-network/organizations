@@ -1,0 +1,30 @@
+---
+name: Polynomial Neural Network
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4274275"
+url: https://raw.githubusercontent.com/api-network/organizations/main/polynomial-neural-network.yaml
+tags:
+- Software Development
+apis: []
+x-common:
+- type: x-website
+  url: http://pnnsoft.com
+- type: x-facebook
+  url: https://ru-ru.facebook.com/pnnsoft/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/pnn-soft/
+- type: x-twitter
+  url: https://twitter.com/pnn_soft
+- type: x-website
+  url: https://www.pnn.com.ua
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

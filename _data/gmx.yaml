@@ -1,0 +1,51 @@
+---
+name: GMX
+description: "Personal & professional email  \u27A4 100% free \u27A4 spam filter \u27A4
+  Convenient mail collector \u27A4  Mobile app \u27A4 Register with GMX today."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5879"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gmx.yaml
+tags:
+- Web-Based
+apis: []
+x-common:
+- type: x-website
+  url: https://www.gmx.com/
+- type: x-facebook
+  url: https://www.facebook.com/GMX
+- type: x-login
+  url: https://signup.gmx.com#.1559516-header-login1-2
+- type: x-login
+  url: https://www.gmx.com/#.1559516-header-navlogin1-1
+- type: x-login
+  url: https://www.gmx.com/#.1559516-header-navlogin2-1
+- type: x-press
+  url: https://www.gmx.com/press/#.1559516-footer-nav1-4
+- type: x-signup
+  url: https://signup.gmx.com#.1559516-header-signup1-1
+- type: x-signup
+  url: https://signup.gmx.com#.1559516-header-signup2-1
+- type: x-signup
+  url: https://signup.gmx.com
+- type: x-support
+  url: https://support.gmx.com/home/browser/javascript.html
+- type: x-support
+  url: https://support.gmx.com#.1559516-header-help1-1
+- type: x-support
+  url: https://support.gmx.com
+- type: x-support
+  url: https://support.gmx.com/index.html
+- type: x-twitter
+  url: https://twitter.com/gmxmail
+- type: x-website
+  url: https://www.gmx.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

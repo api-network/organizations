@@ -1,0 +1,33 @@
+---
+name: Usability.gov
+description: Usability.gov is the one-stop source for user experience best practices
+  and strategies. Learn how to create more usable, useful, and accessible websites.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "99825"
+url: https://raw.githubusercontent.com/api-network/organizations/main/usability-gov.yaml
+tags:
+- Web Usability
+- Ux In Government
+- User Experience
+- Us
+- Government Usability
+apis: []
+x-common:
+- type: x-website
+  url: http://usability.gov/
+- type: x-open-source
+  url: http://www.hhs.gov/open/plain-writing/index.html
+- type: x-twitter
+  url: https://twitter.com/usabilitygov
+- type: x-website
+  url: https://www.usability.gov
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

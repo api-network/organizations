@@ -1,0 +1,23 @@
+---
+name: Virginia Beach, VA
+description: Hampton Roads Open Datasets. A growing list of links to public data that
+  we can use.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "29296"
+url: https://raw.githubusercontent.com/api-network/organizations/main/virginia-beach-va.yaml
+tags:
+- City Government
+apis: []
+x-common:
+- type: x-website
+  url: http://hropendatalist.meteor.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

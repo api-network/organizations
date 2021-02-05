@@ -1,0 +1,31 @@
+---
+name: ISO 27000 Toolkit
+description: ISO 27001 Toolkit - Resources and materials to support ISO17799, ISO27002
+  and BS7799
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6032375"
+url: https://raw.githubusercontent.com/api-network/organizations/main/iso-27000-toolkit.yaml
+tags:
+- Template
+- Standards
+- Security
+- Sdtandard
+- Iso27001
+- Iso 27002
+- ISO 27001
+- Bs7799
+- Bs 7799
+apis: []
+x-common:
+- type: x-website
+  url: https://www.17799-toolkit.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,28 @@
+---
+name: Central Florida Oracle Users Group
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/central-florida-oracle-users-group.yaml
+tags:
+- User Groups
+apis: []
+x-common:
+- type: x-events
+  url: http://orlando.techevents.us/
+- type: x-website
+  url: https://www.cfcs.org
+- type: x-youtube
+  url: http://https://www.youtube.com/watch?v=kJIeeIkgHgI
+- type: x-youtube
+  url: http://www.youtube.com/apcugvideos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

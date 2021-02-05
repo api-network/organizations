@@ -1,0 +1,57 @@
+---
+name: MXOtech, Inc.
+description: "We\u2019re the Chicago IT support firm that stands out from the crowd.
+  We\u2019re MXOtech \u2014 and we\u2019re here to help."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1295592"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mxotech-inc-.yaml
+tags:
+- Illinois
+apis: []
+x-common:
+- type: x-website
+  url: http://www.mxotech.com
+- type: x-about
+  url: https://www.mxotech.com/about-us/
+- type: x-about
+  url: https://www.mxotech.com/about-us/leadership/
+- type: x-about
+  url: https://www.mxotech.com/about-us/7-reasons-it-better/
+- type: x-about
+  url: https://www.mxotech.com/about-us/client-testimonials/
+- type: x-about
+  url: https://www.mxotech.com/about-us/blog/
+- type: x-about
+  url: https://www.mxotech.com/about-us/refer-someone/
+- type: x-careers
+  url: https://www.mxotech.com/about-us/careers/
+- type: x-case-studies
+  url: https://www.mxotech.com/about-us/case-studies/
+- type: x-contact
+  url: https://www.mxotech.com/about-us/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/MXOtech
+- type: x-linkedin
+  url: https://www.linkedin.com/company/mxotech-inc/
+- type: x-news
+  url: https://www.mxotech.com/news-center/
+- type: x-security
+  url: https://www.mxotech.com/cyber-security-chicago/
+- type: x-security
+  url: https://www.mxotech.com/employee-security-training/
+- type: x-support
+  url: https://www.mxotech.com/it-support-chicago/
+- type: x-twitter
+  url: https://twitter.com/mxotech
+- type: x-website
+  url: https://www.mxotech.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

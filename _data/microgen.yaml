@@ -1,0 +1,42 @@
+---
+name: Microgen
+description: Business Critical Software
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3019264"
+url: https://raw.githubusercontent.com/api-network/organizations/main/microgen.yaml
+tags:
+- Financial
+apis: []
+x-common:
+- type: x-about
+  url: https://www.microgen.com/about-us/company/
+- type: x-about
+  url: https://www.microgen.com/about-us/microgen-partners/
+- type: x-blog
+  url: https://blog.microgen.com/
+- type: x-blog
+  url: https://blog.microgen.com/n.i.h.t.i.o
+- type: x-blog
+  url: https://blog.microgen.com/microgen-in-action-fjva
+- type: x-careers
+  url: https://www.microgen.com/careers/
+- type: x-contact
+  url: https://www.microgen.com/contact/
+- type: x-privacy
+  url: https://www.microgen.com/our-privacy-notice/
+- type: x-support
+  url: https://www.microgen.com/support/
+- type: x-terms-of-service
+  url: http://www.microgen.com/terms-and-conditions/
+- type: x-website
+  url: https://www.microgen.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

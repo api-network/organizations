@@ -1,0 +1,26 @@
+---
+name: IconExperience
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "518140"
+url: https://raw.githubusercontent.com/api-network/organizations/main/iconexperience.yaml
+tags:
+- Icons
+apis: []
+x-common:
+- type: x-contact
+  url: http://www.incors.com/contact/
+- type: x-terms-of-service
+  url: http://www.incors.com/legal/
+- type: x-website
+  url: https://www.iconexperience.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

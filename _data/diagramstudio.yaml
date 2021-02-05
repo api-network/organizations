@@ -1,0 +1,30 @@
+---
+name: DiagramStudio
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/diagramstudio.yaml
+tags:
+- Business Drawing
+apis: []
+x-common:
+- type: x-contact
+  url: http://www.gadwin.com/contactus.htm
+- type: x-pricing
+  url: http://www.gadwin.com/purchase/pricing.htm
+- type: x-privacy
+  url: http://www.gadwin.com/privacy.htm
+- type: x-support
+  url: http://www.gadwin.com/support/
+- type: x-website
+  url: https://www.diagramstudio.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

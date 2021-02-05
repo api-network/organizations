@@ -1,0 +1,26 @@
+---
+name: The Photoshop Roadmap
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "225864"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-photoshop-roadmap.yaml
+tags:
+- Photoshop
+apis: []
+x-common:
+- type: x-privacy
+  url: http://www.development01.com/privacy.html
+- type: x-tutorials
+  url: https://photoshoproadmap.com/c/photoshop-tutorials/
+- type: x-website
+  url: https://www.photoshoproadmap.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

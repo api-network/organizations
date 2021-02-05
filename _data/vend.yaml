@@ -1,0 +1,74 @@
+---
+name: Vend
+description: Vend is cloud-based point-of-sale and retail management software that
+  lets retailers run their business in-store, online, and via mobile.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29030-docs-vendhq-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10309"
+url: https://raw.githubusercontent.com/api-network/organizations/main/vend.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.vendhq.com
+- type: x-about
+  url: https://www.vendhq.com/about-us
+- type: x-blog
+  url: http://blog.vendhq.com
+- type: x-blog
+  url: https://www.vendhq.com/blog/
+- type: x-careers
+  url: https://www.vendhq.com/careers
+- type: x-contact
+  url: https://www.vendhq.com/contact
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/vendhq
+- type: x-developer
+  url: https://developers.vendhq.com/developer/sign-up
+- type: x-documentation
+  url: https://docs.vendhq.com
+- type: x-documentation
+  url: https://docs.vendhq.com/
+- type: x-email
+  url: privacy@vendhq.com
+- type: x-facebook
+  url: http://facebook.com/vend.pos
+- type: x-facebook
+  url: https://www.facebook.com/Vend.POS
+- type: x-forum
+  url: http://support.vendhq.com/forums
+- type: x-linkedin
+  url: http://www.linkedin.com/groups/Vend-Point-Sale-3949587
+- type: x-linkedin
+  url: https://nz.linkedin.com/company/vendhq-com
+- type: x-login
+  url: https://developers.vendhq.com/developer/sign-in
+- type: x-partner
+  url: https://www.vendhq.com/partners
+- type: x-privacy
+  url: https://www.vendhq.com/privacy-policy
+- type: x-status
+  url: https://status.vendhq.com/
+- type: x-support
+  url: http://support.vendhq.com
+- type: x-support
+  url: https://support.vendhq.com/
+- type: x-terms-of-service
+  url: https://www.vendhq.com/terms
+- type: x-terms-of-service
+  url: https://www.vendhq.com/terms-of-use
+- type: x-twitter
+  url: https://twitter.com/vendhq
+- type: x-twitter
+  url: http://www.twitter.com/vendhq
+- type: x-website
+  url: https://docs.vendhq.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

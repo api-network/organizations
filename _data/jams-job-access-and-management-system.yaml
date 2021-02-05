@@ -1,0 +1,84 @@
+---
+name: 'JAMS: Job Access and Management System'
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "854460"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jams-job-access-and-management-system.yaml
+tags:
+- Software
+apis: []
+x-common:
+- type: x-website
+  url: http://www.JAMSScheduler.com
+- type: x-blog
+  url: https://www.jamsscheduler.com/blog/
+- type: x-case-studies
+  url: https://www.jamsscheduler.com/case-studies/
+- type: x-customers
+  url: https://www.jamsscheduler.com/customers/
+- type: x-events
+  url: https://www.jamsscheduler.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/jamsscheduler
+- type: x-integrations
+  url: https://www.jamsscheduler.com/integrations/restapi/
+- type: x-integrations
+  url: https://www.jamsscheduler.com/integrations/
+- type: x-integrations
+  url: https://www.jamsscheduler.com/integrations/mainframe/
+- type: x-integrations
+  url: https://www.jamsscheduler.com/integrations/oracle/
+- type: x-integrations
+  url: https://www.jamsscheduler.com/integrations/sas/
+- type: x-integrations
+  url: https://www.jamsscheduler.com/integrations/netezza/
+- type: x-integrations
+  url: https://www.jamsscheduler.com/integrations/sap/
+- type: x-integrations
+  url: https://www.jamsscheduler.com/integrations/peoplesoft/
+- type: x-integrations
+  url: https://www.jamsscheduler.com/integrations/jd-edwards/
+- type: x-integrations
+  url: https://www.jamsscheduler.com/integrations/banner/
+- type: x-integrations
+  url: https://www.jamsscheduler.com/integrations/ecometry/
+- type: x-integrations
+  url: https://www.jamsscheduler.com/integrations/hadoop/
+- type: x-platform
+  url: https://www.jamsscheduler.com/platforms/windows/
+- type: x-platform
+  url: https://www.jamsscheduler.com/platforms/linux-unix/
+- type: x-platform
+  url: https://www.jamsscheduler.com/platforms/cloud/aws/
+- type: x-platform
+  url: https://www.jamsscheduler.com/platforms/cloud/azure/
+- type: x-platform
+  url: https://www.jamsscheduler.com/platforms/openvms/
+- type: x-platform
+  url: https://www.jamsscheduler.com/platforms/system-i/
+- type: x-pricing
+  url: https://www.jamsscheduler.com/pricing/
+- type: x-support
+  url: https://support.jamsscheduler.com/
+- type: x-support
+  url: https://www.helpsystems.com
+- type: x-support
+  url: https://support.jamsscheduler.com
+- type: x-twitter
+  url: https://twitter.com/jamsscheduler
+- type: x-webinars
+  url: https://www.jamsscheduler.com/webinars/
+- type: x-website
+  url: https://www.jamsscheduler.com
+- type: x-youtube
+  url: https://www.youtube.com/user/JAMSSupport
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,26 @@
+---
+name: Grammatica
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4455486"
+url: https://raw.githubusercontent.com/api-network/organizations/main/grammatica.yaml
+tags:
+- Lexer And Parser Generators
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/cederberg/grammatica/releases
+- type: x-github
+  url: https://github.com/cederberg/grammatica
+- type: x-website
+  url: https://grammatica.percederberg.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

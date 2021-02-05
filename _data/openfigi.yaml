@@ -1,0 +1,47 @@
+---
+name: OpenFIGI
+description: Eliminate redundant mapping processes, streamline the trade workflow
+  and reduce operational risk with more than 300 trillion potential identifiers available.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28890-openfigi-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2492784"
+url: https://raw.githubusercontent.com/api-network/organizations/main/openfigi.yaml
+tags:
+- Standards
+- Risk Management
+- Profile
+- Portfolio Management
+- Market Data
+- Have API
+- Financial
+apis: []
+x-common:
+- type: x-contact-form
+  url: https://www.openfigi.com/feedback
+- type: x-documentation
+  url: https://www.openfigi.com/api
+- type: x-email
+  url: support@openfigi.com
+- type: x-faq
+  url: https://www.openfigi.com/docs/faqs
+- type: x-login
+  url: https://www.openfigi.com/user/login
+- type: x-privacy
+  url: https://www.openfigi.com/docs/privacy-policy
+- type: x-rate-limits
+  url: https://www.openfigi.com/api#rate-limit
+- type: x-selfservice-registration
+  url: https://www.openfigi.com/user/signup
+- type: x-terms-of-service
+  url: https://www.openfigi.com/docs/terms-of-service
+- type: x-website
+  url: https://openfigi.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

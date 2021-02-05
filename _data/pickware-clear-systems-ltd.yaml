@@ -1,0 +1,44 @@
+---
+name: Pick-Ware (Clear Systems Ltd)
+description: "Clear Systems Ltd is closing down due to retirement and will cease trading
+  on 31st October 2019 \u2013 more information here. We at Clear Systems recommend
+  post"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pickware-clear-systems-ltd.yaml
+tags:
+- Time & Attendance
+- Products And Services
+- Data Collection
+- Clocking In
+- Bar-codes
+apis: []
+x-common:
+- type: x-website
+  url: https://clearcomputerhelp.co.uk/
+- type: x-contact
+  url: https://pick-ware.co.uk/contact/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-press
+  url: https://presscustomizr.com/hueman/
+- type: x-privacy
+  url: https://pick-ware.co.uk/privacy-and-cookies/
+- type: x-support
+  url: https://pick-ware.co.uk/thoughts-help-and-advice-2/
+- type: x-terms-of-service
+  url: https://pick-ware.co.uk/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/clearsystems
+- type: x-website
+  url: https://www.pick-ware.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

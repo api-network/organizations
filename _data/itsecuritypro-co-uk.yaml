@@ -1,0 +1,23 @@
+---
+name: itsecuritypro.co.uk
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/itsecuritypro-co-uk.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://itsecuritypro.co.uk/2012/06/15/intel-expert-warns-of-open-api-security-issues/
+- type: x-website
+  url: http://itsecuritypro.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

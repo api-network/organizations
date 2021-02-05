@@ -1,0 +1,74 @@
+---
+name: Dynistics
+description: Business Intelligence Dashboard Software from Dynistics makes business
+  reporting and analysis simple with easy to read charts and graphs, find out more
+  about our award winning software today!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8737776"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dynistics.yaml
+tags:
+- E-commerce
+apis: []
+x-common:
+- type: x-website
+  url: http://www.glantus.com
+- type: x-about
+  url: https://www.dynistics.com/company/about-dynistics/
+- type: x-blog
+  url: https://www.dynistics.com/blog/
+- type: x-blog
+  url: https://www.dynistics.com/category/blog/
+- type: x-careers
+  url: https://www.dynistics.com/careers/
+- type: x-case-studies
+  url: https://www.dynistics.com/case-studies/
+- type: x-connectors
+  url: https://www.dynistics.com/connectors/
+- type: x-contact
+  url: https://www.dynistics.com/company/contact-us/
+- type: x-events
+  url: https://www.dynistics.com/company/events/
+- type: x-facebook
+  url: https://www.facebook.com/DynisticsLtd
+- type: x-linkedin
+  url: https://www.linkedin.com/company/dynistics
+- type: x-news
+  url: https://www.dynistics.com/company/news/
+- type: x-partner
+  url: https://www.dynistics.com/partners/
+- type: x-partner
+  url: https://www.dynistics.com/partners/partner-programmes/
+- type: x-partner
+  url: https://www.dynistics.com/partners/oem/
+- type: x-partner
+  url: https://www.dynistics.com/partners/var/
+- type: x-partner
+  url: https://www.dynistics.com/partners/referral/
+- type: x-partner
+  url: https://www.dynistics.com/partners/benefits/
+- type: x-partner
+  url: https://www.dynistics.com/partners/requirements/
+- type: x-privacy
+  url: https://www.dynistics.com/privacy-policy/
+- type: x-support
+  url: https://www.dynistics.com/services/support/
+- type: x-support
+  url: https://support.glantus.com/portal/home
+- type: x-support
+  url: https://support.dynistics.com/support/home
+- type: x-support
+  url: https://support.dynistics.com/support/discussions
+- type: x-twitter
+  url: https://twitter.com/dynistics
+- type: x-website
+  url: https://www.dynistics.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

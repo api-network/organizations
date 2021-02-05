@@ -1,0 +1,46 @@
+---
+name: METALogic n.v.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7952393"
+url: https://raw.githubusercontent.com/api-network/organizations/main/metalogic-n-v-.yaml
+tags:
+- Companies
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.metalogic.be/
+- type: x-blog
+  url: http://metalogic-nl.blogspot.be/p/vacatures.html
+- type: x-blog
+  url: http://metalogic-nl.blogspot.be
+- type: x-blog
+  url: https://metalogic-nl.blogspot.be/p/nieuws.html
+- type: x-blog
+  url: http://metalogic-nl.blogspot.be/p/faq.html
+- type: x-blog
+  url: https://metalogic-nl.blogspot.be/
+- type: x-blog
+  url: https://blog.metalogic.be/
+- type: x-contact
+  url: https://www.metalogic.be/contact/
+- type: x-events
+  url: https://metalogic-nl.blogspot.be/p/events.html
+- type: x-linkedin
+  url: http://www.linkedin.com
+- type: x-linkedin
+  url: http://www.linkedin.com/
+- type: x-twitter
+  url: https://twitter.com/Metalogic_NL
+- type: x-website
+  url: https://www.metalogic.be
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

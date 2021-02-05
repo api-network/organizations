@@ -1,0 +1,45 @@
+---
+name: LLBLGen
+description: 'LLBLGen Pro: Using databases in your .NET code made easy. The entity
+  modeling solution for Entity Framework, LLBLGen Pro Runtime Framework, NHibernate
+  and Linq to SQL.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1505543"
+url: https://raw.githubusercontent.com/api-network/organizations/main/llblgen.yaml
+tags:
+- Tools
+- ORM
+- OR Mapper
+- O/r Mapper
+- Nhibernate
+- LLBLGen
+- Linq To SQL
+- Entity Framework Core
+- Entity Framework
+- Designer
+- .NET Core
+- .NET
+apis: []
+x-common:
+- type: x-website
+  url: http://www.llblgen.com
+- type: x-facebook
+  url: https://facebook.com/LLBLGenPro
+- type: x-github
+  url: https://github.com/SolutionsDesign
+- type: x-login
+  url: https://www.llblgen.com/Pages/customerlogin.aspx
+- type: x-twitter
+  url: https://twitter.com/llblgenpro
+- type: x-website
+  url: https://www.llblgen.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

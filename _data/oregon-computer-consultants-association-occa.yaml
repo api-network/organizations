@@ -1,0 +1,24 @@
+---
+name: Oregon Computer Consultants Association (OCCA)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/oregon-computer-consultants-association-occa.yaml
+tags:
+- Professional Associations
+apis: []
+x-common:
+- type: x-linkedin
+  url: https://ptdrv.linkedin.com/rpe5i30
+- type: x-website
+  url: https://www.occa.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

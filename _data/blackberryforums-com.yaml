@@ -1,0 +1,77 @@
+---
+name: BlackBerryForums.com
+description: Online support community forums for BlackBerry users. Featuring BlackBerry
+  Technical Help, How-To Guide's, Software, Apps, Themes, Wallpapers and Contests.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "67719"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blackberryforums-com.yaml
+tags:
+- Wallpaper
+- Torch
+- Thunder
+- Themes
+- Support
+- Rimclub
+- RIM
+- Research In Motion
+- Playbook
+- News
+- Kickstart
+- Help
+- Forums
+- Forum
+- Discussions
+- Discussion
+- Device
+- Curve
+- Clubs
+- Club
+- Bold
+- Blackberryforums
+- Blackberryforum
+- Blackberryclub
+- Blackberry News
+- Blackberry Help
+- Blackberry
+- Black-berry
+- Black Berry
+- Berryclub
+- Berry-black
+- Bbclub
+- BBC
+- "9800"
+- "9500"
+- "9300"
+- "9100"
+- "9000"
+- "8820"
+- "8810"
+- "8800"
+- "8330"
+- "8320"
+- "8310"
+- "8100"
+- "7290"
+- 7100t
+apis: []
+x-common:
+- type: x-forum
+  url: https://www.blackberryforums.com/rss.php
+- type: x-forum
+  url: http://www.blackberryforums.com/register.php
+- type: x-forum
+  url: https://www.blackberryforums.com
+- type: x-forum
+  url: http://www.blackberryforums.com
+- type: x-website
+  url: https://www.blackberryforums.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

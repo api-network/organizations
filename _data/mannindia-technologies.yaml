@@ -1,0 +1,40 @@
+---
+name: Mann-India Technologies
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1682175"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mannindia-technologies.yaml
+tags:
+- Business Applications
+apis: []
+x-common:
+- type: x-about
+  url: https://mann-india.com/about-us.html
+- type: x-blog
+  url: https://mann-india.com/blog.html
+- type: x-contact
+  url: https://mann-india.com/contact.html
+- type: x-developer
+  url: http://developer.mann-india.com
+- type: x-facebook
+  url: https://www.facebook.com/followMannIndia/
+- type: x-facebook
+  url: https://facebook.com/106654809405835
+- type: x-platform
+  url: https://mann-india.com/micro-lending-platform.html
+- type: x-twitter
+  url: https://twitter.com/hashtag/MannIndiaTechnologies
+- type: x-twitter
+  url: https://twitter.com/followmannindia
+- type: x-website
+  url: https://www.mann-india.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

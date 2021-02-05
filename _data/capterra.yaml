@@ -1,0 +1,38 @@
+---
+name: Capterra
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4701"
+url: https://raw.githubusercontent.com/api-network/organizations/main/capterra.yaml
+tags:
+- Directories
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.capterra.com
+- type: x-blog
+  url: https://blog.capterra.com/
+- type: x-facebook
+  url: https://www.facebook.com/Capterra/
+- type: x-instagram
+  url: https://www.instagram.com/capterra/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/capterra
+- type: x-login
+  url: https://www.capterra.com/vp/login
+- type: x-twitter
+  url: https://twitter.com/capterra
+- type: x-website
+  url: https://www.capterra.com
+- type: x-youtube
+  url: https://www.youtube.com/user/CapterraTV
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

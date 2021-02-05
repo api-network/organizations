@@ -1,0 +1,36 @@
+---
+name: Commercial Laser Technologies
+description: 'CLT: Providing re-manufactured toner cartridges, printer repair, service
+  & maintenance to the GTA. Authorized Printer Repair & service for brother, Lexmark,
+  Xerox, Fujitsu & OKIdata.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/commercial-laser-technologies.yaml
+tags:
+- North America
+apis: []
+x-common:
+- type: x-website
+  url: http://comlaser.ca
+- type: x-about
+  url: https://www.comlaser.ca/about-us/
+- type: x-contact
+  url: https://www.comlaser.ca/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/ComLaser/
+- type: x-news
+  url: https://www.comlaser.ca/news/
+- type: x-twitter
+  url: https://twitter.com/clt_inc
+- type: x-website
+  url: https://www.comlaser.ca
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

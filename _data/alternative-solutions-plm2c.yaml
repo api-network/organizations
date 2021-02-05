@@ -1,0 +1,34 @@
+---
+name: Alternative Solutions- PLM2C
+description: PLM2C is a compiler-translator which accepts PLM sources files and produces
+  the corresponding ANSI C or K&R C source files ready to be compiled with a C compiler.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/alternative-solutions-plm2c.yaml
+tags:
+- PLM2C
+- PLM Translator
+- PLM To C Translator
+- PL-M
+- Intel Corp
+- C Translator
+- C Converter
+- C Compiler
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/sharer/sharer.php?u=plm2c.com
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-website
+  url: https://plm2c.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

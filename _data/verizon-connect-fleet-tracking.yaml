@@ -1,0 +1,35 @@
+---
+name: Verizon Connect Fleet Tracking
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "43817"
+url: https://raw.githubusercontent.com/api-network/organizations/main/verizon-connect-fleet-tracking.yaml
+tags:
+- Have Swagger
+- Have API Paths
+apis: []
+x-common:
+- type: x-website
+  url: https://www.verizonconnect.com/
+- type: x-facebook
+  url: https://www.facebook.com/verizonconnect/
+- type: x-curated-source
+  url: https://www.fleetmatics.com/about-us/18
+- type: x-website
+  url: http://fleetmatics.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/verizon-connect/
+- type: x-login
+  url: https://payments.tprosecure.com/Telogis/login.aspx
+- type: x-twitter
+  url: https://twitter.com/verizonconnect
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

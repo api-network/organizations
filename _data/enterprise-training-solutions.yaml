@@ -1,0 +1,33 @@
+---
+name: Enterprise Training Solutions
+description: Government Training Programs & Staff Development Training. Our online
+  training platform offers training for government employees since 1997.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3319320"
+url: https://raw.githubusercontent.com/api-network/organizations/main/enterprise-training-solutions.yaml
+tags:
+- Certification
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.enterprisetraining.com
+- type: x-careers
+  url: https://www.enterprisetraining.com/careers.html
+- type: x-contact
+  url: https://www.enterprisetraining.com/contact.html
+- type: x-news
+  url: https://www.enterprisetraining.com/news.html
+- type: x-pricing
+  url: https://www.enterprisetraining.com/pricing.html
+- type: x-website
+  url: https://www.enterprisetraining.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

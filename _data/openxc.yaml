@@ -1,0 +1,49 @@
+---
+name: OpenXC
+description: <p>OpenXC is a combination of open source hardware and software that
+  lets you extend your vehicle with custom applications and pluggable modules. It
+  uses standard, well-known tools to open up a wealth of data from the vehicle to
+  developers. OpenXC is an API to your car - by installing a small hardware module
+  to read and translate metrics from a car's internal network, the data becomes accessible
+  from most Android applications using the OpenXC library. You can start making vehicle-aware
+  applications that have better interfaces based on context, can minimize distraction
+  while driving, are integrated with other connected services, and can offer you more
+  insight into your car's operation.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Logo_transparentbg298x139.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2554671"
+url: https://raw.githubusercontent.com/api-network/organizations/main/openxc.yaml
+tags:
+- Has API
+- Automobiles
+apis: []
+x-common:
+- type: x-developers
+  url: http://openxcplatform.com/getting-started/index.html
+- type: x-github
+  url: https://github.com/openxc
+- type: x-open-source
+  url: https://github.com/openxc/openxc-message-format
+- type: x-open-source
+  url: https://github.com/openxc/vi-firmware
+- type: x-open-source
+  url: https://github.com/openxc/vi-firmware/releases/latest
+- type: x-open-source
+  url: https://github.com/openxc/openxc-android
+- type: x-open-source
+  url: https://github.com/openxc/openxc-python
+- type: x-platform
+  url: https://shop.openxcplatform.com/
+- type: x-privacy
+  url: https://www.ford.com/help/privacy/
+- type: x-website
+  url: http://openxcplatform.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

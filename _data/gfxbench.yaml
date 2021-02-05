@@ -1,0 +1,35 @@
+---
+name: GFXBench
+description: Unified cross-platform 3D graphics benchmark database
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "505679"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gfxbench.yaml
+tags:
+- Utilities
+- Benchmarks
+apis: []
+x-common:
+- type: x-website
+  url: http://kishonti.net
+- type: x-linkedin
+  url: http://www.linkedin.com/company/kishonti-informatics
+- type: x-login
+  url: https://gfxbench.com/login
+- type: x-twitter
+  url: https://twitter.com/#!/KishontiI
+- type: x-website
+  url: https://xbench.com
+- type: x-website
+  url: https://gfxbench.com
+- type: x-youtube
+  url: http://www.youtube.com/user/KishontiLtd/videos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

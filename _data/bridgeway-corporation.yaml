@@ -1,0 +1,52 @@
+---
+name: Bridgeway Corporation
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4693222"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bridgeway-corporation.yaml
+tags:
+- Network Management
+apis: []
+x-common:
+- type: x-about
+  url: https://www.bridgeway.com/about-us/
+- type: x-about
+  url: https://www.bridgeway.com/about-us/investment-process/
+- type: x-about
+  url: https://www.bridgeway.com/about-us/people/
+- type: x-about
+  url: https://www.bridgeway.com/about-us/people/leadership/
+- type: x-about
+  url: https://www.bridgeway.com/about-us/people/trading/
+- type: x-about
+  url: https://www.bridgeway.com/about-us/people/compliance/
+- type: x-about
+  url: https://www.bridgeway.com/about-us/people/foundation/
+- type: x-careers
+  url: https://www.bridgeway.com/about-us/careers/
+- type: x-contact
+  url: https://www.bridgeway.com/contact-us/
+- type: x-news
+  url: https://www.bridgeway.com/news/
+- type: x-news
+  url: https://www.bridgeway.com/newsletter-signup/
+- type: x-open-source
+  url: https://www.bridgeway.com/invest/open-account/
+- type: x-press
+  url: https://www.bridgeway.com/category/press-release/
+- type: x-privacy
+  url: https://www.bridgeway.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.bridgeway.com/legal-information/
+- type: x-website
+  url: https://www.bridgeway.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

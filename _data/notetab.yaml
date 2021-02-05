@@ -1,0 +1,35 @@
+---
+name: NoteTab
+description: "It\u2019s a versatile text editor, a popular Notepad replacement, and
+  a blazingly fast HTML editor. NoteTab gets more done in less time. Try it!"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "613077"
+url: https://raw.githubusercontent.com/api-network/organizations/main/notetab.yaml
+tags:
+- Editors
+apis: []
+x-common:
+- type: x-linkedin
+  url: https://www.linkedin.com/company/fookes-software
+- type: x-partner
+  url: https://www.fookes.com/partners/find-a-partner
+- type: x-partner
+  url: https://www.fookes.com/partners/become-a-partner
+- type: x-press
+  url: https://www.fookes.com/press-release
+- type: x-support
+  url: https://help.fookes.com/support/home
+- type: x-twitter
+  url: https://twitter.com/FookesSoftware
+- type: x-website
+  url: https://www.notetab.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

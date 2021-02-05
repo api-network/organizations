@@ -1,0 +1,30 @@
+---
+name: New Jersey Macintosh Users Group, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/new-jersey-macintosh-users-group-inc-.yaml
+tags:
+- New Jersey
+apis: []
+x-common:
+- type: x-website
+  url: http://www.njmug.org
+- type: x-customers
+  url: https://customers.machighway.com/aff.php?aff=359
+- type: x-facebook
+  url: http://www.facebook.com/pages/NJMUG/57033571662
+- type: x-twitter
+  url: https://twitter.com/#!/njmug
+- type: x-website
+  url: https://njmug.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

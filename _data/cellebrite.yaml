@@ -1,0 +1,41 @@
+---
+name: Cellebrite
+description: '<p>Cellebrite develops advanced mobile data solutions, enabling the
+  extensive use and management of mobile phone data to provide value for two distinct
+  business divisions: mobile lifecycle and mobile forensics. In the mobile lifecycle
+  division, retailers and operators can offer customers unique in-store phone-to-phone
+  content transfer, backup and restore; in-store and remote diagnostics and repair
+  avoidance; application and content delivery; automated BuyBack and secure device
+  Wipe. In the mobile forensics division, our data extraction, decoding, analysis
+  and reporting solutions support law enforcement, military, intelligence, corporate
+  security, and eDiscovery agencies in the successful performance of their duties.</p>'
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/sjdebj9c4xp2isjszebe.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cellebrite.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cellebrite.com
+- type: x-blog-rss
+  url: http://www.cellebrite.com/rss?projection=1880
+- type: x-linkedin
+  url: https://www.linkedin.com/company/100045
+- type: x-twitter
+  url: https://twitter.com/Cellebrite
+- type: x-website
+  url: http://www.cellebrite.com/
+- type: x-wikipedia
+  url: https://en.wikipedia.org/wiki/Cellebrite
+- type: x-youtube
+  url: https://www.youtube.com/user/CellebriteUFED
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,47 @@
+---
+name: VoiceBunny API
+description: Listen to thousands of voiceovers by professional voice-actors that collectively
+  speak 50+ languages and dialects. Book one or submit a contest and get auditions.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1210_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "99206"
+url: https://raw.githubusercontent.com/api-network/organizations/main/voicebunny-api.yaml
+tags:
+- Telecommunications
+- Have API
+- Games
+apis: []
+x-common:
+- type: x-base
+  url: http://api.voicebunny.com
+- type: x-blog
+  url: http://blog.voicebunny.com/
+- type: x-blog-rss
+  url: http://blog.voicebunny.com/feed/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/voicebunny
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/voicebunny
+- type: x-developer
+  url: http://dev.voicebunny.com
+- type: x-developers
+  url: http://voicebunny.com/developers/index
+- type: x-github
+  url: https://github.com/VoiceBunny
+- type: x-pricing
+  url: https://voicebunny.com/how-it-works/
+- type: x-twitter
+  url: https://twitter.com/VoiceBunny
+- type: x-twitter
+  url: https://twitter.com/VoiceBunnyAPI
+- type: x-website
+  url: http://voicebunny.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

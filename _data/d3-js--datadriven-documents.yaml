@@ -1,0 +1,49 @@
+---
+name: D3.js - Data-Driven Documents
+description: D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "61199"
+url: https://raw.githubusercontent.com/api-network/organizations/main/d3-js--datadriven-documents.yaml
+tags:
+- Visualization
+- JavaScript
+- Frameworks
+- Dom
+- D3.js
+- D3
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/d3/d3/wiki/Gallery
+- type: x-github
+  url: https://github.com/d3/d3/wiki
+- type: x-github
+  url: https://github.com/d3/d3/blob/master/API.md
+- type: x-github
+  url: https://github.com/d3/d3
+- type: x-github
+  url: https://github.com/d3/d3/releases/latest
+- type: x-github
+  url: https://github.com/d3/d3/zipball/master
+- type: x-github
+  url: https://github.com/d3/d3/wiki/Tutorials
+- type: x-github
+  url: https://github.com/d3/d3-selection
+- type: x-github
+  url: https://github.com/d3/d3-shape
+- type: x-github
+  url: https://mbostock.github.io/protovis/
+- type: x-open-source
+  url: https://opensource.org/licenses/BSD-3-Clause
+- type: x-website
+  url: https://d3js.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

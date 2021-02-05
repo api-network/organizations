@@ -1,0 +1,48 @@
+---
+name: SmartMenus DHTML Menu
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "524722"
+url: https://raw.githubusercontent.com/api-network/organizations/main/smartmenus-dhtml-menu.yaml
+tags:
+- Site Navigation
+apis: []
+x-common:
+- type: x-website
+  url: http://vadikom.com
+- type: x-about
+  url: https://www.smartmenus.org/about/themes/
+- type: x-about
+  url: http://vadikom.com/about/#vasil-dinkov
+- type: x-about
+  url: https://www.smartmenus.org/about/vadikom/
+- type: x-about
+  url: http://vadikom.com/about/
+- type: x-about
+  url: https://www.smartmenus.org/about/
+- type: x-blog
+  url: https://www.smartmenus.org/blog/
+- type: x-documentation
+  url: https://www.smartmenus.org/docs/
+- type: x-feed
+  url: http://feeds.feedburner.com/SmartMenus
+- type: x-press
+  url: http://wordpress.org/
+- type: x-support
+  url: https://www.smartmenus.org/support/
+- type: x-support
+  url: https://www.smartmenus.org/support/premium-support/
+- type: x-twitter
+  url: https://twitter.com/vadikom
+- type: x-website
+  url: https://www.smartmenus.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

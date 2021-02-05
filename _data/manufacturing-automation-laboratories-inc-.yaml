@@ -1,0 +1,68 @@
+---
+name: Manufacturing Automation Laboratories Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9204279"
+url: https://raw.githubusercontent.com/api-network/organizations/main/manufacturing-automation-laboratories-inc-.yaml
+tags:
+- Discrete
+apis: []
+x-common:
+- type: x-website
+  url: http://malinc.com
+- type: x-about
+  url: https://www.malinc.com/about-us/
+- type: x-about
+  url: https://www.malinc.com/about-us/companyoverview/
+- type: x-about
+  url: https://www.malinc.com/about-us/testimonials/
+- type: x-about
+  url: https://www.malinc.com/about-us/community-involvement/
+- type: x-about
+  url: http://www.malinc.com/about-us/companyoverview/
+- type: x-blog
+  url: https://www.malinc.com/blog/
+- type: x-careers
+  url: https://www.malinc.com/about-us/careers/
+- type: x-case-studies
+  url: https://www.malinc.com/services/case-studies/
+- type: x-contact
+  url: https://www.malinc.com/contact/
+- type: x-contact
+  url: http://www.malinc.com/contact/
+- type: x-customers
+  url: https://www.malinc.com/about-us/customers/
+- type: x-news
+  url: https://www.malinc.com/about-us/news/
+- type: x-news
+  url: http://www.malinc.com/about-us/news/
+- type: x-news
+  url: http://www.malinc.com/about-us/news/#tabs-3
+- type: x-support
+  url: https://www.malinc.com/support/
+- type: x-support
+  url: https://www.malinc.com/helpdesk/
+- type: x-support
+  url: https://www.malinc.com/support/faq/
+- type: x-support
+  url: https://www.malinc.com/helpdesk
+- type: x-support
+  url: http://www.malinc.com/helpdesk
+- type: x-terms-of-service
+  url: https://www.malinc.com/website-terms-of-service/
+- type: x-twitter
+  url: https://twitter.com/MALsoftware
+- type: x-website
+  url: https://www.malinc.com
+- type: x-youtube
+  url: https://www.youtube.com/user/MALmanufacturing
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

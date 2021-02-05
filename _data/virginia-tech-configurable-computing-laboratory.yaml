@@ -1,0 +1,22 @@
+---
+name: Virginia Tech Configurable Computing Laboratory
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7140"
+url: https://raw.githubusercontent.com/api-network/organizations/main/virginia-tech-configurable-computing-laboratory.yaml
+tags:
+- Reconfigurable
+apis: []
+x-common:
+- type: x-website
+  url: https://www.ccm.ece.vt.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

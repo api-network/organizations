@@ -1,0 +1,36 @@
+---
+name: SalesBoom
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "445472"
+url: https://raw.githubusercontent.com/api-network/organizations/main/salesboom.yaml
+tags:
+- Contact Management
+apis: []
+x-common:
+- type: x-connectors
+  url: https://tomcat.apache.org/download-connectors.cgi
+- type: x-connectors
+  url: https://tomcat.apache.org/connectors-doc/
+- type: x-contact
+  url: https://tomcat.apache.org/contact.html
+- type: x-github
+  url: https://github.com/apache/tomcat/tree/master
+- type: x-security
+  url: https://tomcat.apache.org/security.html
+- type: x-support
+  url: https://tomcat.apache.org/findhelp.html
+- type: x-terms-of-service
+  url: https://tomcat.apache.org/legal.html
+- type: x-website
+  url: https://www.salesboom.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

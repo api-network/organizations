@@ -1,0 +1,32 @@
+---
+name: myRealPage.com
+description: Websites for realtors made easy, automated and effective. myRealPage
+  offers solutions for realtors, teams and brokers seeking superior online marketing.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "175746"
+url: https://raw.githubusercontent.com/api-network/organizations/main/myrealpage-com.yaml
+tags:
+- Websites For Realtors
+- Template Sites
+apis: []
+x-common:
+- type: x-blog
+  url: https://myrealpage.com/real-estate-marketing-blog/
+- type: x-contact
+  url: https://myrealpage.com/contact/
+- type: x-press
+  url: https://myrealpage.com/products/idx-plugin-wordpress/
+- type: x-pricing
+  url: https://myrealpage.com/pricing/
+- type: x-website
+  url: https://www.myrealpage.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

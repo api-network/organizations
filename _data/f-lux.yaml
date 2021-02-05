@@ -1,0 +1,24 @@
+---
+name: f.lux
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "27143"
+url: https://raw.githubusercontent.com/api-network/organizations/main/f-lux.yaml
+tags:
+- Desktop Customization
+apis: []
+x-common:
+- type: x-forum
+  url: https://forum.justgetflux.com/
+- type: x-website
+  url: https://justgetflux.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

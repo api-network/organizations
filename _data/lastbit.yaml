@@ -1,0 +1,36 @@
+---
+name: Lastbit
+description: 'Need to recover a lost password? Password recovery tools for most popular
+  applications: Access, Excel, Word, Outlook, Zip, Quickbooks, SQL and password security
+  tools by LastBit Corp. Learn more about password recovery methods and tools.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1094751"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lastbit.yaml
+tags:
+- Word
+- Winzip
+- SQL
+- Software
+- Recovery
+- Password Recovery
+- Password
+- Outlook
+- Lost
+- Excel
+- Crackers
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.lastbit.com
+- type: x-website
+  url: https://lastbit.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

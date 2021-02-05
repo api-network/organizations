@@ -1,0 +1,36 @@
+---
+name: Ring-Zero Software
+description: Ring-Zero Software provides custom and commercial integrations for software
+  development and automated testing tools.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ringzero-software.yaml
+tags:
+- WinRunner
+- Test Manager
+- Telelogic
+- Ring-Zero
+- Rational
+- QuickTest
+- QTP
+- Products And Tools
+- Mercury
+- IBM
+- Eclipse
+- DOORS
+- CQTM
+- ClearQuest
+apis: []
+x-common:
+- type: x-website
+  url: https://www.ring-zero.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

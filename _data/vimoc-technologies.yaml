@@ -1,0 +1,45 @@
+---
+name: VIMOC Technologies
+description: <p>The Landscape-Computing infrastructure provides Infrastructure Service
+  Providers a robust and scalable computing platform to deliver a new generation of
+  applications, and provides city officials, businesses and the public not only sensory
+  intelligence but flexible computing resources to correlate specific sensory data
+  with inputs from a wide variety of additional sensors. This is provided through
+  a dynamic, scalable API that facilitates access to sensory data, with in-built statistical
+  analysis, and a framework for distributing workloads for processing via the novel
+  distributed computing architecture offered by the VIMOC Landscape-Computing infrastructure.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/vimoc-technologies-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/vimoc-technologies.yaml
+tags:
+- Sensors
+apis: []
+x-common:
+- type: x-website
+  url: http://www.vimoc.com
+- type: x-blog
+  url: http://vimoc.me/
+- type: x-blog-rss
+  url: http://vimoc.me/feed/
+- type: x-instagram
+  url: https://www.instagram.com/vimoctech/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/vimoc-technologies/
+- type: x-news
+  url: https://www.vimoc.com/news
+- type: x-privacy
+  url: https://www.vimoc.com/privacy-policy
+- type: x-twitter
+  url: https://twitter.com/vimoc
+- type: x-website
+  url: http://www.vimoctechnologies.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

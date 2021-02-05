@@ -1,0 +1,30 @@
+---
+name: Cofound.it
+description: Great ideas come from the most unexpected places. Until now, great ideas
+  had an advantage when born in Silicon Valley. Apple, Facebook, Google and Amazon
+  all benefited from being in the right place and reaching the right people. The distributed
+  economy...
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26746-cofound-it.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "170182"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cofound-it.yaml
+tags:
+- Marketplaces
+- Blockchain
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/cofound-it
+- type: x-twitter
+  url: https://twitter.com/cofound_it
+- type: x-website
+  url: https://cofound.it
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

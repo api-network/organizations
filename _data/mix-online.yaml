@@ -1,0 +1,60 @@
+---
+name: Mix Online
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "381724"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mix-online.yaml
+tags:
+- Music And Audio
+apis: []
+x-common:
+- type: x-website
+  url: http://mixonline.com/
+- type: x-about
+  url: https://www.mixonline.com/about
+- type: x-blog
+  url: https://www.mixonline.com/blog/live-sound-blog
+- type: x-blog
+  url: https://www.mixonline.com/blog
+- type: x-blog
+  url: https://www.mixonline.com/blog/recording-blog
+- type: x-contact
+  url: https://www.mixonline.com/contact
+- type: x-events
+  url: https://www.mixonline.com/events
+- type: x-events
+  url: https://www.mixonline.com/events/video
+- type: x-events
+  url: https://www.mixonline.com/events/soundworks-collection
+- type: x-events
+  url: https://www.mixonline.com/events/sponsored-videos
+- type: x-facebook
+  url: https://www.facebook.com/MixMagazine
+- type: x-feed
+  url: https://www.mixonline.com/feed
+- type: x-news
+  url: https://www.mixonline.com/technology/news-products
+- type: x-news
+  url: https://www.mixonline.com/news
+- type: x-news
+  url: https://www.mixonline.com/news/featured
+- type: x-news
+  url: https://www.mixonline.com/news/finneas-on-fire
+- type: x-privacy
+  url: https://www.futureplc.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.futureplc.com/terms-conditions/
+- type: x-twitter
+  url: https://twitter.com/Mix_Magazine
+- type: x-website
+  url: https://www.mixonline.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

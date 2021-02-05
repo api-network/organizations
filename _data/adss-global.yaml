@@ -1,0 +1,35 @@
+---
+name: ADSS Global
+description: 'Founded in 1981, ADSS Global has been successful in making information
+  work in an efficient and profitable way for many companies and organizations. We
+  support Sage 100, Sage CRM, Sage HRMS and are the #1 Sage 300 software provider
+  in North America.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/adss-global.yaml
+tags:
+- ACCPAC
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.adssglobal.net/company/contact-support/
+- type: x-contact
+  url: https://www.adssglobal.net/company/contact/
+- type: x-news
+  url: https://www.adssglobal.net/company/newsletters/
+- type: x-press
+  url: https://www.adssglobal.net/company/press/
+- type: x-support
+  url: https://www.adssglobal.net/company/customer-support/
+- type: x-website
+  url: https://www.adssglobal.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,52 @@
+---
+name: Aitech Defense Systems Inc.
+description: "Aitech is a leading supplier of rugged computer systems optimized for
+  harsh environments offering:\n\n\t\n\t\tThe only source of rugged, industrial, MIL-SPEC
+  AND&nbsp;Space-qualified boards and subsystems\n\t\tthat operate from -55&deg;C
+  to +85&deg;C\n\t\n\t\tUnique"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2339093"
+url: https://raw.githubusercontent.com/api-network/organizations/main/aitech-defense-systems-inc-.yaml
+tags:
+- VMEbus
+- VME
+- Vetronics
+- Space Station
+- SBC
+- Rugged Vme
+- Rugged Gpgpu
+- Rugged Computing
+- Rugged Computer
+- Ppc
+- PowerPC
+- Industrial Subsystems
+- Industrial
+- Gpgpu
+- COTS
+- Avionics
+- Aitech
+- Aerospace
+apis: []
+x-common:
+- type: x-website
+  url: https://aitechsystems.com
+- type: x-feed
+  url: http://feeds.feedburner.com/PressRoom-Aitech
+- type: x-linkedin
+  url: http://www.linkedin.com/company/aitech
+- type: x-twitter
+  url: http://twitter.com/AitechDefense
+- type: x-website
+  url: https://www.rugged.com
+- type: x-white-papers
+  url: http://resource.rugged.com/gpgpu-whitepaper/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

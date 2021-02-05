@@ -1,0 +1,58 @@
+---
+name: Billion Electric
+description: Billion Electric provides a complete portfolio of M2M, 3G, 4G LTE, and
+  DSL networking for SOHO/SMB users.(M2M, 3G Router,  Wireless Router, LTE Router,  VDSL
+  Router,  ADSL Router, LED Driver). We are the global leading broadband networking
+  and energy management solutions provider for more than 42 years. Through our dedication
+  to providing customer-oriented innovation and trusted partnerships, we are committed
+  to creating optimal values for our current telecom operators, enterprises partners
+  and future consumers.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "486804"
+url: https://raw.githubusercontent.com/api-network/organizations/main/billion-electric.yaml
+tags:
+- Wireless Router
+- Wireless
+- Wifi
+- Vendors
+- VDSL Router
+- Save Energy
+- Routers
+- Router
+- NetComm
+- M2M
+- LTE Router
+- LED Driver
+- IoT
+- Industrial
+- Energy Management
+- ADSL Router
+- 5G
+- 4G
+- 3G
+apis: []
+x-common:
+- type: x-about
+  url: https://www.billion.com/about/Solutions/M2M%7CIoT
+- type: x-about
+  url: http://www.eztrust.com.tw/html/about/index.aspx
+- type: x-facebook
+  url: https://www.facebook.com/billionglobal
+- type: x-instagram
+  url: https://www.instagram.com/billion_global/
+- type: x-twitter
+  url: https://twitter.com/BillionGlobal/
+- type: x-website
+  url: https://www.billion.com
+- type: x-youtube
+  url: https://www.youtube.com/user/billionglobal
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

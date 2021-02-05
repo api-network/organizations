@@ -1,0 +1,37 @@
+---
+name: Omise Co.
+description: Omise is a payment gateway for Southeast Asia, based in Thailand, providing
+  a secure and white label solution to merchants and enterprise businesses. Fast Live
+  Account activation, plugins for major languages, libraries for mobile payment SDK,
+  Woocommer...
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26636-omg-omise-co.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "42618"
+url: https://raw.githubusercontent.com/api-network/organizations/main/omise-co-.yaml
+tags:
+- Scheduled Billings
+- Profile
+- Payments
+- Blockchain
+- Auto Payouts
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/omise-co-ltd
+- type: x-email
+  url: support@omise.co
+- type: x-twitter
+  url: https://twitter.com/Omise
+- type: x-webhooks
+  url: https://www.omise.co/api-webhooks
+- type: x-website
+  url: https://omg.omise.co
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

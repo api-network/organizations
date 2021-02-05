@@ -1,0 +1,139 @@
+---
+name: PeopleBrowsr API
+description: "Discover and activate Profiles, Contacts and Conversations for your
+  community. Developers instantly deploy SocialOS\u2122 BaaS for Parse, Slack and
+  Twitter apps."
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/239_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "664225"
+url: https://raw.githubusercontent.com/api-network/organizations/main/peoplebrowsr-api.yaml
+tags:
+- Twitter
+- Social Influence
+- Social Analytics
+- Social Analytics
+- Influence
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.PeopleBrowsr.com
+- type: x-blog
+  url: http://blog.kred.com
+- type: x-blog
+  url: http://blog.peoplebrowsr.com
+- type: x-blog
+  url: http://blog.peoplebrowsr.com/
+- type: x-blog-rss
+  url: feed://blog.peoplebrowsr.com/feed/
+- type: x-contact
+  url: https://developer.peoplebrowsr.com/contact
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/peoplebrowsr
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/peoplebrowsr
+- type: x-developer
+  url: https://developer.peoplebrowsr.com/kred/kredscore
+- type: x-developer
+  url: https://developer.peoplebrowsr.com/kred/kredcommunity
+- type: x-developer
+  url: https://developer.peoplebrowsr.com/deep/kredentials
+- type: x-developer
+  url: https://developer.peoplebrowsr.com/deep/kredscore
+- type: x-developer
+  url: https://developer.peoplebrowsr.com/deep/kredpoints
+- type: x-developer
+  url: https://developer.peoplebrowsr.com/deep/activitystream
+- type: x-developer
+  url: https://developer.peoplebrowsr.com/find/kredinfluence/
+- type: x-developer
+  url: https://developer.peoplebrowsr.com/find/kredoutreach/
+- type: x-developer
+  url: https://developer.peoplebrowsr.com/action/mentions
+- type: x-developer
+  url: https://developer.peoplebrowsr.com/action/popularity
+- type: x-developer
+  url: https://developer.peoplebrowsr.com/action/wordcloud
+- type: x-developer
+  url: https://developer.peoplebrowsr.com/action/hashtag
+- type: x-developer
+  url: https://developer.peoplebrowsr.com/action/atname
+- type: x-developer
+  url: https://developer.peoplebrowsr.com/action/sentiment
+- type: x-developer
+  url: https://developer.peoplebrowsr.com/action/topurls
+- type: x-developer
+  url: https://developer.peoplebrowsr.com/action/toppics
+- type: x-developer
+  url: https://developer.peoplebrowsr.com/action/topvideos
+- type: x-developer
+  url: https://developer.peoplebrowsr.com/deep/reach
+- type: x-developer
+  url: https://developer.peoplebrowsr.com/deep/relationsreach
+- type: x-developer
+  url: https://developer.peoplebrowsr.com/deep/density
+- type: x-developer
+  url: https://developer.peoplebrowsr.com/deep/topus
+- type: x-developer
+  url: https://developer.peoplebrowsr.com/deep/countries
+- type: x-developer
+  url: https://developer.peoplebrowsr.com/find/topfollowers
+- type: x-developer
+  url: http://developer.peoplebrowsr.com
+- type: x-documentation
+  url: https://docs.socialos.io/
+- type: x-documentation
+  url: https://docs.socialos.io/docs/onboarding
+- type: x-documentation
+  url: https://docs.socialos.io/docs/authentication
+- type: x-documentation
+  url: https://docs.socialos.io/docs/identity
+- type: x-documentation
+  url: https://docs.socialos.io/docs/relationship_database
+- type: x-documentation
+  url: https://docs.socialos.io/docs/social_actions
+- type: x-documentation
+  url: https://docs.socialos.io/docs/gamification
+- type: x-documentation
+  url: https://docs.socialos.io/docs/feeds
+- type: x-documentation
+  url: https://docs.socialos.io/docs/enterprise-feeds
+- type: x-documentation
+  url: https://docs.socialos.io/docs/analytics
+- type: x-documentation
+  url: https://docs.socialos.io/docs/search
+- type: x-documentation
+  url: https://docs.socialos.io/docs/templates
+- type: x-documentation
+  url: https://docs.socialos.io/docs/scripts
+- type: x-documentation
+  url: https://docs.socialos.io/docs/filters
+- type: x-documentation
+  url: https://docs.socialos.io/docs/scaling
+- type: x-documentation
+  url: https://docs.socialos.io/docs/data-definitions
+- type: x-github
+  url: https://github.com/traviswallis
+- type: x-news
+  url: http://www.pitchengine.com/newsroom.php?id=11662
+- type: x-privacy
+  url: http://kred.com/privacy
+- type: x-security
+  url: https://docs.socialos.io/docs/security
+- type: x-terms-of-service
+  url: http://www.peoplebrowsr.com/termsofuse
+- type: x-twitter
+  url: https://twitter.com/PeopleBrowsr
+- type: x-twitter
+  url: https://twitter.com/PBAPI
+- type: x-website
+  url: http://www.peoplebrowsr.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

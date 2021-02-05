@@ -1,0 +1,53 @@
+---
+name: SMARTer Manager
+description: Manufacturing ERP Software | Manufacturing Management Software - SMARTer
+  manufacturers choose SMe Software. Upgrade your manufacturing erp software today.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1753249"
+url: https://raw.githubusercontent.com/api-network/organizations/main/smarter-manager.yaml
+tags:
+- Discrete
+apis: []
+x-common:
+- type: x-website
+  url: http://smartermanager.com
+- type: x-blog
+  url: https://smartermanager.com/blog/
+- type: x-blog
+  url: http://smartermanager.com/blog/
+- type: x-blog
+  url: https://smartermanager.com/blog
+- type: x-blog
+  url: https://smartermanager.com/blog/workflow-automation/
+- type: x-contact
+  url: https://smartermanager.com/contact-us/
+- type: x-contact
+  url: http://smartermanager.com/sales-contact/
+- type: x-contact
+  url: http://smartermanager.com/support-contact/
+- type: x-facebook
+  url: https://www.facebook.com/SMeSoftwareInc/
+- type: x-feed
+  url: http://smartermanager.com/blog/feed/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/sme-software-inc
+- type: x-open-source
+  url: https://smartermanager.com/current-openings/
+- type: x-twitter
+  url: http://twitter.com/smartermanager
+- type: x-webinars
+  url: https://smartermanager.com/training-webinars/
+- type: x-website
+  url: https://www.smartermanager.com
+- type: x-youtube
+  url: https://www.youtube.com/user/SMARTerManager
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

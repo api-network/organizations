@@ -1,0 +1,32 @@
+---
+name: Barcode Products
+description: Your one-stop Barcoding shop. We provide tailored barcoding solutions
+  and after-sale support. Contact now for a free personalised barcoding consultation
+  to help your business increase efficiency.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/barcode-products.yaml
+tags:
+- Barcode
+apis: []
+x-common:
+- type: x-code
+  url: https://facebook.com/barcodeproductsnz
+- type: x-code
+  url: http://bit.ly/barcodeproductsfooter
+- type: x-contact
+  url: https://www.barcodeproducts.co.nz/contact
+- type: x-contact
+  url: http://www.barcodeproducts.co.nz/contact
+- type: x-website
+  url: https://www.barcodeproducts.co.nz
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,129 @@
+---
+name: DjangoCon US
+description: DjangoCon US 2019 conference will take place in San Diego from September
+  22-27, 2019!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3598314"
+url: https://raw.githubusercontent.com/api-network/organizations/main/djangocon-us.yaml
+tags:
+- Conferences
+apis: []
+x-common:
+- type: x-website
+  url: http://heats.life
+- type: x-code
+  url: https://labcodes.com.br/
+- type: x-code
+  url: http://frances.codes
+- type: x-facebook
+  url: https://www.facebook.com/djangoconus/
+- type: x-github
+  url: https://github.com/tracymakes/
+- type: x-github
+  url: https://github.com/vishvajitp/
+- type: x-github
+  url: https://github.com/djangocon/
+- type: x-github
+  url: https://github.com/adamfast/
+- type: x-github
+  url: https://github.com/bdeangelis/
+- type: x-github
+  url: https://github.com/craigbruce/
+- type: x-github
+  url: https://github.com/davidfischer/
+- type: x-github
+  url: https://github.com/dawnwages/
+- type: x-github
+  url: https://github.com/drewbrew/
+- type: x-github
+  url: https://github.com/felipe-lee/
+- type: x-github
+  url: https://github.com/thepomeranian/
+- type: x-github
+  url: https://github.com/jefftriplett/
+- type: x-github
+  url: https://github.com/deatonjm/
+- type: x-github
+  url: https://github.com/jlgimeno/
+- type: x-github
+  url: https://github.com/xirdneh/
+- type: x-github
+  url: https://github.com/KatherineMichel/
+- type: x-github
+  url: https://katherinemichel.github.io/
+- type: x-github
+  url: https://github.com/katialira/
+- type: x-github
+  url: https://github.com/kennethlove/
+- type: x-github
+  url: https://github.com/kojoidrissa/
+- type: x-github
+  url: https://github.com/williln/
+- type: x-github
+  url: https://github.com/MicahLyle/
+- type: x-github
+  url: https://github.com/oboechick/
+- type: x-github
+  url: https://github.com/raiderrobert/
+- type: x-github
+  url: https://github.com/saradgore/
+- type: x-github
+  url: https://github.com/FlipperPA/
+- type: x-twitter
+  url: https://twitter.com/djangocon
+- type: x-twitter
+  url: https://twitter.com/adamcanfly
+- type: x-twitter
+  url: https://twitter.com/craigbruce
+- type: x-twitter
+  url: https://twitter.com/dawnwagessays
+- type: x-twitter
+  url: https://twitter.com/felipeleeg
+- type: x-twitter
+  url: https://twitter.com/h34th3r329
+- type: x-twitter
+  url: https://twitter.com/webology
+- type: x-twitter
+  url: https://twitter.com/__deatz__
+- type: x-twitter
+  url: https://twitter.com/JorgeGimeno8
+- type: x-twitter
+  url: https://twitter.com/eusoj_xirdneh
+- type: x-twitter
+  url: https://twitter.com/KatiMichel
+- type: x-twitter
+  url: https://twitter.com/lakatialira
+- type: x-twitter
+  url: https://twitter.com/kennethlove
+- type: x-twitter
+  url: https://twitter.com/Transition
+- type: x-twitter
+  url: https://twitter.com/laceynwilliams
+- type: x-twitter
+  url: https://twitter.com/mvioletmurphy
+- type: x-twitter
+  url: https://twitter.com/phildini
+- type: x-twitter
+  url: https://twitter.com/rebeccakindschi
+- type: x-twitter
+  url: https://twitter.com/raiderrobert
+- type: x-twitter
+  url: https://twitter.com/saradgore
+- type: x-twitter
+  url: https://twitter.com/FlipperPA
+- type: x-twitter
+  url: https://twitter.com/tracymakes
+- type: x-twitter
+  url: https://twitter.com/PathakVishvajit
+- type: x-website
+  url: https://www.djangocon.us
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

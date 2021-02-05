@@ -1,0 +1,45 @@
+---
+name: PocketDroid  We speak Android
+description: PocketDroid - Fresh and breaking current Android version news, App &
+  Game reviews, Smartphone & Tablet reviews, Firmware updates, Tutorials and more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "11056148"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pocketdroid--we-speak-android.yaml
+tags:
+- News And Media
+apis: []
+x-common:
+- type: x-website
+  url: http://www.pocketdroid.net
+- type: x-about
+  url: https://www.pocketdroid.net/about/
+- type: x-contact
+  url: https://www.pocketdroid.net/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/PocketdroidDotNet
+- type: x-news
+  url: https://www.pocketdroid.net/android-news/
+- type: x-news
+  url: https://www.pocketdroid.net/android-news/breaking-2/
+- type: x-news
+  url: https://www.pocketdroid.net/android-news/video-news/
+- type: x-privacy
+  url: https://www.pocketdroid.net/privacy-policy/
+- type: x-tutorials
+  url: https://www.pocketdroid.net/tutorials/
+- type: x-twitter
+  url: https://twitter.com/pocketdroid
+- type: x-website
+  url: https://www.pocketdroid.net
+- type: x-youtube
+  url: https://www.youtube.com/user/pocketdroidchannel
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

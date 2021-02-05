@@ -1,0 +1,23 @@
+---
+name: blog.digitalinsights.in
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blog-digitalinsights-in.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://blog.digitalinsights.in/data-visualization-tools/05267687.html
+- type: x-website
+  url: http://blog.digitalinsights.in
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

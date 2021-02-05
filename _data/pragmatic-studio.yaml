@@ -1,0 +1,48 @@
+---
+name: Pragmatic Studio
+description: Premium video courses for software developers. Real apps. Real code.
+  Really good stuff!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "448968"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pragmatic-studio.yaml
+tags:
+- Ruby Course
+- Rails Course
+- Rails
+- Learn Ruby On Rails
+- Learn Ruby
+- Learn Rails
+- Learn Elm
+- Elm Course
+apis: []
+x-common:
+- type: x-news
+  url: https://news.ycombinator.com/item?id=14877861
+- type: x-tutorials
+  url: https://pragmaticstudio.com/tutorials/what-is-graphql
+- type: x-tutorials
+  url: https://pragmaticstudio.com/tutorials/what-is-absinthe
+- type: x-tutorials
+  url: https://pragmaticstudio.com/tutorials/vue-cli
+- type: x-tutorials
+  url: https://pragmaticstudio.com/tutorials/elm-with-rails
+- type: x-tutorials
+  url: https://pragmaticstudio.com/tutorials/debug-elm-apps
+- type: x-tutorials
+  url: https://pragmaticstudio.com/tutorials/ruby-macros
+- type: x-twitter
+  url: https://twitter.com/pragmaticstudio
+- type: x-twitter
+  url: https://twitter.com/toranb/status/1064527459780083713
+- type: x-website
+  url: https://pragmaticstudio.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

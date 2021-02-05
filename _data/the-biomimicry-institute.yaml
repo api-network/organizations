@@ -1,0 +1,46 @@
+---
+name: The Biomimicry Institute
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "318995"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-biomimicry-institute.yaml
+tags:
+- Biomimicry
+apis: []
+x-common:
+- type: x-careers
+  url: https://biomimicry.org/careers/
+- type: x-contact
+  url: https://biomimicry.org/contact/
+- type: x-events
+  url: https://biomimicry.org/network-events/
+- type: x-facebook
+  url: https://www.facebook.com/biomimicryinstitute
+- type: x-instagram
+  url: http://instagram.com/biomimicryinstitute/
+- type: x-instagram
+  url: https://www.instagram.com/biomimicryinstitute/
+- type: x-news
+  url: https://biomimicry.org/newsroom/
+- type: x-support
+  url: https://biomimicry.org/supporters/
+- type: x-terms-of-service
+  url: https://biomimicry.org/terms/
+- type: x-terms-of-service
+  url: https://asknature.org/terms-of-service-privacy-policy
+- type: x-twitter
+  url: https://twitter.com/BiomimicryInst
+- type: x-twitter
+  url: https://twitter.com/biomimicryinst/
+- type: x-website
+  url: https://biomimicry.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

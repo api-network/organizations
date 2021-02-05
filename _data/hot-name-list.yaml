@@ -1,0 +1,22 @@
+---
+name: Hot Name List
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6262013"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hot-name-list.yaml
+tags:
+- Resources
+apis: []
+x-common:
+- type: x-website
+  url: https://hotnamelist.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

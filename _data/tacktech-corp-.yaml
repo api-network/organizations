@@ -1,0 +1,31 @@
+---
+name: TACKtech Corp.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "628441"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tacktech-corp-.yaml
+tags: []
+apis: []
+x-common:
+- type: x-blog
+  url: https://blogs.nvidia.com
+- type: x-forum
+  url: http://forums.hexus.net/archive/index.php/t-20748.html
+- type: x-linkedin
+  url: https://www.linkedin.com/settings/?tab=groups
+- type: x-press
+  url: http://www.nerdpress.com/
+- type: x-security
+  url: http://securityresponse.symantec.com/
+- type: x-website
+  url: https://www.tacktech.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

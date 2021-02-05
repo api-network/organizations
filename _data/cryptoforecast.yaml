@@ -1,0 +1,29 @@
+---
+name: CryptoForecast
+description: Cryptoforecast is an application based on an algorithm called PILLAR,
+  that is able to forecast the future movement of BTC or other cryptourrencies.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27246-cryptoforecast-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1522228"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cryptoforecast.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-email
+  url: info@cryptoforecast.com
+- type: x-email
+  url: support@cryptoforecast.com
+- type: x-twitter
+  url: https://twitter.com/CryptoForecast
+- type: x-website
+  url: https://cryptoforecast.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

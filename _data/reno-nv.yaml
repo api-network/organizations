@@ -1,0 +1,33 @@
+---
+name: Reno, NV
+description: Welcome to OpenDataReno, a place to see and exchange data relevant to
+  the greater Reno/Sparks/Washoe County area. Feel free to browse! If you are interested
+  in contributing data, please sign up for an account and we'll be happy to help you.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/reno-nv.yaml
+tags:
+- No API
+- City Government
+apis: []
+x-common:
+- type: x-open-source
+  url: https://opendatareno.org
+- type: x-open-source
+  url: https://opendatareno.org/jk-1/
+- type: x-open-source
+  url: https://opendatareno.org/jk-2/
+- type: x-open-source
+  url: https://opendatareno.org/
+- type: x-website
+  url: http://opendatareno.org/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

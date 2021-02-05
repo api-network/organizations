@@ -1,0 +1,42 @@
+---
+name: KEMP Technologies
+description: Kemp is transforming application delivery and security by providing the
+  most flexible deployment, delivery and licensing options for customers embracing
+  cloud and hybrid infrastructures.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "178493"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kemp-technologies.yaml
+tags:
+- Load Balancing
+apis: []
+x-common:
+- type: x-website
+  url: https://kemp.ax
+- type: x-blog
+  url: https://kemptechnologies.com/blog/
+- type: x-blog
+  url: http://loadbalancerblog.com/
+- type: x-facebook
+  url: https://www.facebook.com/KempTechnologies
+- type: x-github
+  url: https://github.com/Kemptechnologies/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/kemp-technologies
+- type: x-support
+  url: https://support.kemptechnologies.com
+- type: x-twitter
+  url: https://twitter.com/KempTech
+- type: x-website
+  url: https://www.kemptechnologies.com
+- type: x-youtube
+  url: https://www.youtube.com/user/kemploadbalancer
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

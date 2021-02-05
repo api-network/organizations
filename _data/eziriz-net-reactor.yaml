@@ -1,0 +1,33 @@
+---
+name: Eziriz NET Reactor
+description: .NET Code Protection & Licensing - Code/String/Resource Encryption, License
+  Manager, Obfuscation, Merging, Control Flow Obfuscation and much more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "624376"
+url: https://raw.githubusercontent.com/api-network/organizations/main/eziriz-net-reactor.yaml
+tags:
+- Protector
+- Protection
+- Obfuscators
+- Obfuscator
+- Obfuscation
+- Licensing
+- Hardware ID
+- Code Encryption
+- .NET Obfuscator
+- .NET Licensing
+- .NET License
+apis: []
+x-common:
+- type: x-website
+  url: https://www.eziriz.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

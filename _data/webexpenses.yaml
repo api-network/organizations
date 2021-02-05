@@ -1,0 +1,63 @@
+---
+name: WebExpenses
+description: A leading global expense software and app, Webexpenses helps businesses
+  automate and manage expenses, travel, and invoices online.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "231619"
+url: https://raw.githubusercontent.com/api-network/organizations/main/webexpenses.yaml
+tags:
+- Expenses
+apis: []
+x-common:
+- type: x-about
+  url: https://www.webexpenses.com/us/about/
+- type: x-about
+  url: https://www.webexpenses.com/us/about/awards/
+- type: x-blog
+  url: https://www.webexpenses.com/us/blog/
+- type: x-blog
+  url: https://www.webexpenses.com/us/blog/clients/
+- type: x-careers
+  url: https://www.webexpenses.com/us/about/careers/
+- type: x-contact
+  url: https://www.webexpenses.com/contact/
+- type: x-customers
+  url: https://www.webexpenses.com/us/customers/
+- type: x-developer
+  url: http://developer.webexpenses.com
+- type: x-documentation
+  url: http://httpd.apache.org/docs/2.4/mod/mod_userdir.html
+- type: x-integrations
+  url: https://www.webexpenses.com/us/integrations/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/webexpenses/
+- type: x-login
+  url: https://login.webexpenses.com/we/
+- type: x-news
+  url: https://www.webexpenses.com/us/news/
+- type: x-news
+  url: https://www.webexpenses.com/us/about/newsletter/
+- type: x-partner
+  url: https://www.webexpenses.com/us/partners/
+- type: x-pricing
+  url: https://www.webexpenses.com/us/pricing/
+- type: x-twitter
+  url: https://twitter.com/webexpenses
+- type: x-webinars
+  url: https://www.webexpenses.com/us/2019-events-webinars/
+- type: x-website
+  url: https://www.webexpenses.com
+- type: x-white-papers
+  url: https://www.webexpenses.com/types/white-papers/
+- type: x-youtube
+  url: https://www.youtube.com/user/WebExpenses
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

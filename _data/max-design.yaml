@@ -1,0 +1,59 @@
+---
+name: Max Design
+description: Max Design specialises in Responsive Web Design, User Experience Design,
+  Front-end development and tailoried on-site Web development training
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "66465"
+url: https://raw.githubusercontent.com/api-network/organizations/main/max-design.yaml
+tags:
+- Weblogs
+- User Experience Design
+- Responsive Web Design
+- On-site Training
+- Front-end Development
+apis: []
+x-common:
+- type: x-website
+  url: http://twittercounter.com/russmaxdesign
+- type: x-about
+  url: https://maxdesign.com.au/about/
+- type: x-facebook
+  url: https://www.facebook.com/russweakley
+- type: x-github
+  url: https://github.com/russmaxdesign
+- type: x-linkedin
+  url: https://www.linkedin.com/in/russweakley
+- type: x-login
+  url: https://maxdesign.com.au/maxdesign/wp-login.php
+- type: x-news
+  url: https://maxdesign.com.au/category/news/
+- type: x-news
+  url: https://maxdesign.com.au/news/some-links-446/
+- type: x-news
+  url: https://maxdesign.com.au/news/some-links-445/
+- type: x-news
+  url: https://maxdesign.com.au/news/some-links-444/
+- type: x-news
+  url: https://maxdesign.com.au/news/some-links-443/
+- type: x-news
+  url: https://maxdesign.com.au/news/some-links-442/
+- type: x-press
+  url: http://my.studiopress.com/themes/parallax/
+- type: x-press
+  url: https://www.studiopress.com/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-twitter
+  url: https://twitter.com/russmaxdesign
+- type: x-website
+  url: https://www.maxdesign.com.au
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

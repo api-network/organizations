@@ -1,0 +1,282 @@
+---
+name: Privacy Guard
+description: "The launch of the iPhone X brought along with it a revolutionary unlock
+  feature, known to many as the facial recognition scanner. With the Face ID, the
+  iPhone X users can unlock their phone by utilizing its front camera to scan their
+  unique facial feature. This is a step up from the fingerprint sensor. While it does
+  sound convenient for the users to unlock their phones, there have been some concerns
+  especially voiced by privacy experts regarding the protection of privacy that the
+  device itself provides. Of course, the Face ID prevents people from accessing your
+  phone, but is the data of your facial features protected from going out from your
+  device and falling into the wrong hands? Here, we will take a closer look at the
+  storage of the data of your facial scan, as well as how Apple handles it in its
+  latest smartphone. Before we even get into the issue, we should address whether
+  the Face ID does provide adequate protection in the first place. Apple claims that
+  the Face ID is secure, as it should be, and that touting internal data shows a very
+  low chance (one in a million) that the phone will unlock with a different person's
+  face. To unlock the phone, the device stores the user's face scan inside on a secure
+  enclave[1]. That means your facial data remains inside the device. However, one
+  cannot dismiss the possibility that app developers can, albeit limited, access that
+  data. Here, some technology commentators are worried about who can have access to
+  the sensor. One potential use of the sensor for advertisers, according to Geoffrey
+  Fowler in his review for the Washington Post, is the fact that they can use the
+  camera to determine exactly where the user is looking on the screen during their
+  advertisements if you are looking at them at all. He also mentioned that the Apple's
+  terms for app developers forbid them from accessing the camera without permission
+  or use the face data for advertising. Moreover, Fowler pressed the Apple executives
+  and saw one positive change: applications that use the face data are required to
+  publish a privacy policy. However, how well that protects the user's privacy remains
+  to be seen. Apple actually allows app developers to take certain facial data from
+  the phone and store it on the developer's own server, as long as they ask the user
+  for their permission, and not sell that data to third parties. Although the data
+  access is limited, the app developers can capture a rough map of the user's face
+  and numerous expressions. That means the app developers can and will know when you
+  smile, blink, or raise an eyebrow.[2] According to the documentation about the face
+  unlock system which Apple released to security researchers, the data of the user's
+  face that is accessible to the developers cannot be used to unlock a phone. To unlock
+  the phone, a mathematical representation of the face is required as opposed to the
+  requirement of a visual map of the face[3]. At least, that means app developers
+  cannot remotely unlock your phone and access your data. Still, the fact that the
+  authentication data can be shared does not sit well with everyone. This is where
+  the privacy protection becomes really questionable. By enabling app developers to
+  store the user's rough facial data on their own server, just how well can Apple
+  enforce their privacy protection rule upon those developers? After all, advertisers
+  need the facial data to tell whether their advertisements are effective, or to simply
+  study their target audience. Apple remains firm that they are sure that their enforcement
+  tools, which are pre-publication reviews, audits of applications, and the threat
+  of removing the app from the app store, are effective. The problem here is that
+  Apple does not thoroughly review the source code of the applications, according
+  to 2011 Congressional testimony from Bud Trible. Moreover, Apple relies instead
+  on random spot checks or complaints, which is a very ineffective means of defense
+  against privacy abuse. When it comes to privacy policies published by the application
+  developer, it is long and complex, and it will most likely not be read by the users.
+  Another means of enforcement is the threat of kicking apps out of the App Store.
+  While it is true that Apple has a good record of holding developers accountable
+  for their violations, the challenge here is the fact that Apple has to find them
+  first, according to American Civil Liberties Union's Stanley. While these enforcement
+  rules may seem strong on paper, in actuality, small application developers will
+  most likely follow Apple's rules. Still, larger companies like Uber, have a record
+  of breaking Apple's rules[4]. That brings Apple's enforcement mechanism into question.
+  All-in-all, the introduction of the Face ID authentication system is, without a
+  doubt, revolutionary in the race to smartphone supremacy. However, one should not
+  dismiss the security flaws offered by new, and flashy technologies. Here, the user's
+  privacy may not be as protected as they think. While Apple does have its defense
+  mechanisms against privacy violations from application developers, their effectiveness
+  remains to be seen. [1] [2][3] [4] \xA9 2018 by Privacyguard.net, an LiVenture.
+  All rights reserved. No part of this document may be reproduced or transmitted in
+  any form or by any means, electronic, mechanical, photocopying, recording, or otherwise,
+  without prior written permission of LiVentures."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/privacy-guard.yaml
+tags:
+- YouTube
+- Your
+- Work
+- Website
+- Web
+- USA
+- Twitter
+- TV
+- Tracked
+- Traced
+- Theblaze
+- The
+- Technology
+- SXSW
+- Subject)
+- Staying
+- Software
+- Security
+- Safe
+- Ruptly
+- Right
+- Rete
+- Responsibilities
+- Reputation
+- Rand
+- Public
+- Proxies
+- Protocol
+- Program
+- Privacy
+- Ponentine
+- Pietro
+- Paul
+- Password
+- Online
+- Onl
+- News
+- Network
+- My
+- Media
+- Magna
+- Legislation
+- IPO
+- Iphone X
+- Iphone Privacy
+- IPhone
+- Ip
+- Interv
+- Internet
+- Industry
+- Ikeepsafe
+- Hu
+- Hogesc
+- Hide
+- Glenn
+- Genre)
+- Freedom
+- Frank
+- For
+- Footprints
+- Flikr
+- Find
+- Factory
+- Facebook
+- Encryption
+- En
+- Email
+- Dmc
+- Digitale
+- Digital
+- Digitaal
+- Decryption
+- Cronache
+- Creator)
+- Cookies
+- Communicatie
+- Champion
+- Category)
+- Carta
+- Capital
+- Biase
+- Best
+- Beck
+- Austin
+- Arenzano
+- Apple
+- API
+- Age
+- Address
+- Activity
+- (literature
+- (invention)
+apis: []
+x-common:
+- type: x-feed
+  url: https://www.privacyguard.net/feed/
+- type: x-news
+  url: https://www.privacyguard.net/tag/news/
+- type: x-privacy
+  url: https://www.privacyguard.net/
+- type: x-privacy
+  url: https://www.privacyguard.net/about/
+- type: x-privacy
+  url: https://www.privacyguard.net/category/mobile-privacy/
+- type: x-privacy
+  url: https://www.privacyguard.net/category/privacy-info/
+- type: x-privacy
+  url: https://www.privacyguard.net/author/editor/
+- type: x-privacy
+  url: https://www.privacyguard.net/page/2/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/act/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/anonymous/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/attorney/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/csr/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/cyber/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/data/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/digital/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/facebook/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/good/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/google/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/industry/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/information/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/internet/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/law/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/lawyer/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/media/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/micro/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/nsa/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/of/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/onli/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/online/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/privacy/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/protection/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/reputation/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/rights/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/rt/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/safety/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/social/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/software/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/spying/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/states/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/story/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/submissions/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/surveillance/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/technology/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/the/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/trend/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/united/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/video/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/voting/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/web/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/whats/
+- type: x-privacy
+  url: https://www.privacyguard.net/tag/your/
+- type: x-security
+  url: https://www.privacyguard.net/tag/security/
+- type: x-website
+  url: https://www.privacyguard.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

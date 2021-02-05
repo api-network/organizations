@@ -1,0 +1,31 @@
+---
+name: Sandbox
+description: <p>Quick and easy mock RESTful API and SOAP webservices. Generate from
+  API definitions, instant deploy, collaborative build, and debugging tools for integration.</p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sandbox.yaml
+tags:
+- Virtualizations
+- Sandbox
+- Mocking
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-website
+  url: https://getsandbox.com/
+- type: x-documentation
+  url: https://getsandbox.com/docs/getting-started
+- type: x-pricing
+  url: https://getsandbox.com/pricing
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

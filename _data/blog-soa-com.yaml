@@ -1,0 +1,23 @@
+---
+name: blog.soa.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blog-soa-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: https://blog.soa.com/does-one-api-description-language-fit-an-entire-enterprise/
+- type: x-website
+  url: http://blog.soa.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

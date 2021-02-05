@@ -1,0 +1,50 @@
+---
+name: Hectrix Limited
+description: Actatek is the leading web- and cloud-based biometric and RFID solutions
+  provider for access control, video surveillance, time attendant, payroll and work
+  force management applications.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hectrix-limited.yaml
+tags:
+- Work Force Management
+- Web-Based
+- Video Surveillance
+- Vein Recognition
+- Time Attendant
+- Smart Card
+- RFID
+- Payroll
+- Nvr
+- Iris Recognition
+- IP Camera
+- ID Management
+- Fingerprint
+- Facial Recognition
+- Companies
+- Biometric
+- Access Control
+apis: []
+x-common:
+- type: x-contact
+  url: https://sites.google.com/site/contactactatek/
+- type: x-facebook
+  url: http://www.facebook.com/actatek/
+- type: x-facebook
+  url: https://www.facebook.com/pages/ACTAtek/189396584409911
+- type: x-support
+  url: http://sites.google.com/site/actatekhelpdesk/
+- type: x-twitter
+  url: https://twitter.com/actatek/
+- type: x-website
+  url: https://www.hectrix.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

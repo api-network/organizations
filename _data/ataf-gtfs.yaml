@@ -1,0 +1,23 @@
+---
+name: ATAF GTFS
+description: Transit authority located in Florence, Italy<br />
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ataf-gtfs.yaml
+tags: []
+apis: []
+x-common:
+- type: x-gtfs-feed
+  url: http://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/a53a10ae-4d08-4f41-a9d0-0b99826ff00c/download/ataflinea.gtfs
+- type: x-website
+  url: http://transitfeeds.com/p/azienda-trasporti-dellarea-fiorentina/739
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

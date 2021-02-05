@@ -1,0 +1,29 @@
+---
+name: FXLibrary
+description: FXLibrary is a database system for cataloguing, digitizing, searching
+  and playing sound effects from CD or custom collections
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9291065"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fxlibrary.yaml
+tags:
+- Sound Effects
+- Sfx Search Software
+- Sfx
+- FXLibrary
+- Collection Catalogers
+- CDBase
+- CD-Base
+apis: []
+x-common:
+- type: x-website
+  url: https://www.fxlibrary.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

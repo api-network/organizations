@@ -1,0 +1,41 @@
+---
+name: Grasshopper.com
+description: A virtual phone system can help your business stay organized with many
+  calls coming in. Sound professional and stay connected.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "15252"
+url: https://raw.githubusercontent.com/api-network/organizations/main/grasshopper-com.yaml
+tags:
+- Services
+apis: []
+x-common:
+- type: x-website
+  url: http://grasshopper.com
+- type: x-facebook
+  url: https://www.facebook.com/grasshopper
+- type: x-gdpr
+  url: https://www.logmeininc.com/gdpr/what-is-gdpr
+- type: x-privacy
+  url: https://secure.logmein.com/home/en/policies/privacy/
+- type: x-showcase
+  url: https://www.linkedin.com/showcase/grasshopper
+- type: x-support
+  url: https://support.grasshopper.com/products
+- type: x-terms-of-service
+  url: https://www.logmeininc.com/legal/terms-and-conditions
+- type: x-twitter
+  url: https://twitter.com/grasshopper
+- type: x-website
+  url: https://www.grasshopper.com
+- type: x-youtube
+  url: https://www.youtube.com/user/GetGrasshopper
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,34 @@
+---
+name: Gencodicephp
+description: gencodex - generatori di pagine php e jsp
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gencodicephp.yaml
+tags:
+- Php_geno_it
+- Php_geno
+- Php_annuncigen
+- Php_advertsgen
+- Geno_it
+- Geno
+- Generatore Di Pagine Php
+- Generatore Di Pagine Jsp
+- Development Tools
+- Da Mysql A Pagine Php
+- Da Mysql A Pagine Jsp
+- Annuncigen
+- Advertsgen
+apis: []
+x-common:
+- type: x-website
+  url: https://www.gencodex.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

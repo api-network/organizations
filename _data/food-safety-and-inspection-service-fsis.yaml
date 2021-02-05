@@ -1,0 +1,27 @@
+---
+name: Food Safety and Inspection Service (FSIS)
+description: <p><span>The Food Safety and Inspection Service, an agency of the United
+  States Department of Agriculture, is the public health regulatory agency responsible
+  for ensuring that United States' commercial supply of meat, poultry, and egg products
+  is safe, wholesome, and correctly labeled and packaged.</span></p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/food-safety-and-inspection-service-fsis.yaml
+tags:
+- Federal Government
+apis: []
+x-common:
+- type: x-website
+  url: http://www.fsis.usda.gov/
+- type: x-data
+  url: https://www.fsis.usda.gov/wps/portal/fsis/topics/data-collection-and-reports/fsis-data-analysis-and-reporting/fsis-data/data-collection
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

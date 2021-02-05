@@ -1,0 +1,40 @@
+---
+name: Payssion
+description: One-stop solution for global payment processing.One API for 200  local
+  payment methods worldwide.
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "25199"
+url: https://raw.githubusercontent.com/api-network/organizations/main/payssion.yaml
+tags:
+- Profile
+- Payments
+- Have OpenAPI
+- Have API Paths
+apis: []
+x-common:
+- type: x-developers
+  url: https://payssion.com/en/docs/
+- type: x-documentation
+  url: https://payssion.com/en/docs/
+- type: x-getting-started
+  url: https://payssion.com/en/docs/#introduction-getting-started
+- type: x-partner
+  url: https://mixpanel.com/f/partner
+- type: x-pricing
+  url: https://www.payssion.com/en/pricing.html
+- type: x-privacy
+  url: https://payssion.com/privacy-policy.html
+- type: x-terms-of-service
+  url: https://payssion.com/terms-of-service.html
+- type: x-website
+  url: http://www.payssion.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

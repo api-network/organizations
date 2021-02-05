@@ -1,0 +1,28 @@
+---
+name: Factory Systems SPC
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6593807"
+url: https://raw.githubusercontent.com/api-network/organizations/main/factory-systems-spc.yaml
+tags:
+- Automation
+apis: []
+x-common:
+- type: x-about
+  url: https://www.factorysystems.net/about/
+- type: x-contact
+  url: https://www.factorysystems.net/contact-us/
+- type: x-support
+  url: https://www.factorysystems.net/support/
+- type: x-website
+  url: https://www.factorysystems.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

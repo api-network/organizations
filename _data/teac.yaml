@@ -1,0 +1,54 @@
+---
+name: Teac
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1015724"
+url: https://raw.githubusercontent.com/api-network/organizations/main/teac.yaml
+tags:
+- Storage
+apis: []
+x-common:
+- type: x-website
+  url: http://teac.jp/
+- type: x-about
+  url: http://www.teac.co.jp/about/jp/koukoku.html
+- type: x-about
+  url: http://www.esoteric.jp/about/whatsnew/20170809-2.html
+- type: x-about
+  url: http://www.esoteric.jp/about/whatsnew/20170809-1.html
+- type: x-contact
+  url: https://teac.jp/jp/support/contact/product/teac
+- type: x-contact
+  url: https://tascam.jp/jp/support/contact/product/tascam
+- type: x-facebook
+  url: https://www.facebook.com/teacconsumer/
+- type: x-news
+  url: https://loadcell.jp/news/503.html
+- type: x-news
+  url: https://datarecorder.jp/news/20180827.html
+- type: x-news
+  url: https://tascam.jp/jp/support/news/6118
+- type: x-news
+  url: https://tascam.jp/jp/support/news/6115
+- type: x-news
+  url: https://www.teac.co.jp/jp/support/news/6082
+- type: x-news
+  url: https://tascam.jp/jp/support/news/6076
+- type: x-news
+  url: https://tascam.jp/jp/support/news/6070
+- type: x-twitter
+  url: https://twitter.com/TEAC_jp
+- type: x-website
+  url: https://www.teac.com
+- type: x-youtube
+  url: https://www.youtube.com/user/TEACJP
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,47 @@
+---
+name: Ihse GmbH
+description: "Hochentwickelte KVM-L\xF6sungen f\xFCr Zugriff und Management von Rechnernetzwerken.
+  Ma\xDFgeschneidert f\xFCr Ihre spezifische Anwendung."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ihse-gmbh.yaml
+tags:
+- Switching Devices
+apis: []
+x-common:
+- type: x-about
+  url: https://www.ihse.de/about-ihse/
+- type: x-events
+  url: https://www.ihse.de/events/singapore-airshow/
+- type: x-events
+  url: https://www.ihse.de/events/ise-amsterdam/
+- type: x-events
+  url: https://www.ihse.de/events/watmc/
+- type: x-facebook
+  url: https://de-de.facebook.com/IHSE.GmbH
+- type: x-linkedin
+  url: https://de.linkedin.com/company/ihse-gmbh
+- type: x-open-source
+  url: https://www.ihse.de/events/hamburg-open/
+- type: x-press
+  url: https://www.ihse.de/presse/
+- type: x-press
+  url: https://www.ihse.de/pressespiegel/
+- type: x-support
+  url: https://www.ihse.de/technischer-support/
+- type: x-twitter
+  url: https://twitter.com/IHSE_NEWS
+- type: x-website
+  url: https://www.ihse.de
+- type: x-youtube
+  url: https://www.youtube.com/user/IHSEGmbH
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

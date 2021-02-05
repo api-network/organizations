@@ -1,0 +1,28 @@
+---
+name: Santiment
+description: The Datafeeds and market intelligence platform.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26671-santiment-net.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "338563"
+url: https://raw.githubusercontent.com/api-network/organizations/main/santiment.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: https://tinyurl.com/y6qhjy9n
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/santiment
+- type: x-twitter
+  url: https://twitter.com/santimentfeed
+- type: x-website
+  url: https://santiment.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

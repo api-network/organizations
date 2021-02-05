@@ -1,0 +1,42 @@
+---
+name: Office of Scientific and Technical Information
+description: '<p>The Office of Scientific and Technical Information (OSTI) is a component
+  of the Office of Science within the U.S. Department of Energy (DOE). The Energy
+  Policy Act PL 109-58, Section 982, called out the responsibility of OSTI: &ldquo;The
+  Secretary, through the Office of Scientific and Technical Information, shall maintain
+  with the Department publicly available collections of scientific and technical information
+  resulting from research, development, demonstration, and commercial applications
+  activities supported by the Department.&rdquo;</p>'
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Ostigov200.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "41116"
+url: https://raw.githubusercontent.com/api-network/organizations/main/office-of-scientific-and-technical-information.yaml
+tags:
+- Have API
+- Data Provider
+- API Provider
+apis: []
+x-common:
+- type: x-base
+  url: http://www.osti.gov/pages/pagesxml
+- type: x-developers
+  url: http://www.osti.gov/XMLServices
+- type: x-facebook
+  url: https://www.facebook.com/ostigov
+- type: x-twitter
+  url: https://twitter.com/OSTIgov
+- type: x-website
+  url: http://www.osti.gov
+- type: x-wikipedia
+  url: http://en.wikipedia.org/wiki/Office_of_Scientific_and_Technical_Information
+- type: x-youtube
+  url: https://www.youtube.com/user/ostigov
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

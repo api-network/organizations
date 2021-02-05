@@ -1,0 +1,58 @@
+---
+name: Oberlin College
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "94734"
+url: https://raw.githubusercontent.com/api-network/organizations/main/oberlin-college.yaml
+tags:
+- Ohio
+apis: []
+x-common:
+- type: x-careers
+  url: https://www.cs.oberlin.edu/category/jobsinternships/
+- type: x-events
+  url: https://www.cs.oberlin.edu/events/
+- type: x-events
+  url: https://www.cs.oberlin.edu/events/ocwic-2015/
+- type: x-events
+  url: https://www.cs.oberlin.edu/events/mcurcsm-2009/
+- type: x-events
+  url: https://www.cs.oberlin.edu/events/2010-spring-social/
+- type: x-events
+  url: https://www.cs.oberlin.edu/events/2009-spring-picnic/
+- type: x-events
+  url: https://www.cs.oberlin.edu/events/2008-spring-picnic/
+- type: x-events
+  url: https://www.cs.oberlin.edu/category/events/contests/
+- type: x-events
+  url: https://www.cs.oberlin.edu/category/events/
+- type: x-events
+  url: https://www.cs.oberlin.edu/category/events/talks/
+- type: x-feed
+  url: https://www.cs.oberlin.edu/feed/
+- type: x-feed
+  url: https://www.cs.oberlin.edu/comments/feed/
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/8416892
+- type: x-login
+  url: https://www.cs.oberlin.edu/wp-login.php
+- type: x-press
+  url: https://wordpress.org/
+- type: x-press
+  url: http://wordpress.org/
+- type: x-showcase
+  url: https://www.cs.oberlin.edu/events/2012-games-showcase/
+- type: x-showcase
+  url: https://www.cs.oberlin.edu/events/2009-games-showcase/
+- type: x-website
+  url: https://cs.oberlin.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

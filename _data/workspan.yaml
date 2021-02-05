@@ -1,0 +1,59 @@
+---
+name: WorkSpan
+description: "WorkSpan is the only Alliance Relationship Management Network\u2014where
+  partners automate & report on joint sales, marketing, & solution initiatives with
+  you."
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29386-workspan-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "675490"
+url: https://raw.githubusercontent.com/api-network/organizations/main/workspan.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.workspan.com
+- type: x-about
+  url: https://www.workspan.com/about-us/
+- type: x-blog
+  url: https://www.workspan.com/blog/
+- type: x-careers
+  url: https://www.workspan.com/careers/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/workspan
+- type: x-email
+  url: contact@workspan.com
+- type: x-email
+  url: privacy@workspan.com
+- type: x-email
+  url: unsubscribe@workspan.com
+- type: x-email
+  url: hiring@workspan.com
+- type: x-facebook
+  url: https://facebook.com/workspan
+- type: x-linkedin
+  url: https://linkedin.com/company/workspan
+- type: x-login
+  url: https://app.workspan.com/login
+- type: x-partner
+  url: https://www.workspan.com/partners/
+- type: x-partner
+  url: https://www.workspan.com/partner-managers
+- type: x-press
+  url: https://www.workspan.com/news-press/
+- type: x-support
+  url: https://support.workspan.com/hc/en-us
+- type: x-twitter
+  url: https://twitter.com/WorkSpan
+- type: x-website
+  url: http://workspan.com
+- type: x-youtube
+  url: https://www.youtube.com/workspan
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

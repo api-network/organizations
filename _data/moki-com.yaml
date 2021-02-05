@@ -1,0 +1,23 @@
+---
+name: moki.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/moki-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://moki.com/mokimobility-blog/create-engaging-memorable-in-store-customer-experiences-with-tablet-kiosks/588
+- type: x-website
+  url: http://moki.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,67 @@
+---
+name: Mesh Factory
+description: High quality, highly detailed 3d models in MAX, 3DS, Maya MB, LWO, OBJ
+  and FBX formats.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6264022"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mesh-factory.yaml
+tags:
+- Turbosquid
+- Softimage
+- Obj
+- Motion Builder
+- Models
+- Modeling
+- Model
+- Military
+- Meshes
+- Mesh
+- Mental Ray
+- Maya
+- Max
+- Lightwave
+- Lightscape
+- Imagine
+- Humvee
+- Free
+- Fighter
+- Datasets
+- CGI
+- Art
+- Animation
+- Aircraft
+- 3dsmax
+- 3ds
+- 3dmodels
+- 3d-models
+- 3d Models
+- 3d Model
+- 3D
+apis: []
+x-common:
+- type: x-website
+  url: http://www.meshfactory.com
+- type: x-about
+  url: https://www.meshfactory.com/about_us
+- type: x-blog
+  url: http://blog.meshfactory.com
+- type: x-facebook
+  url: https://www.facebook.com/Mesh-Factory-149907082368/
+- type: x-instagram
+  url: https://www.instagram.com/meshfactory/
+- type: x-privacy
+  url: https://www.meshfactory.com/privacy
+- type: x-twitter
+  url: http://www.twitter.com/MeshFactory
+- type: x-website
+  url: https://www.meshfactory.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

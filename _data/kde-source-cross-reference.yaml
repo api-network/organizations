@@ -1,0 +1,26 @@
+---
+name: KDE Source Cross Reference
+description: KDE Source Cross Reference
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "38127"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kde-source-cross-reference.yaml
+tags:
+- Development
+apis: []
+x-common:
+- type: x-contact
+  url: http://kde.org/contact/
+- type: x-contact
+  url: http://www.kde.org/contact/impressum.php
+- type: x-website
+  url: https://lxr.kde.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

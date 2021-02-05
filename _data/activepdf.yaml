@@ -1,0 +1,67 @@
+---
+name: ActivePDF
+description: ActivePDF is the leading global provider of automated, server-side PDF
+  tools. We work with Developers, Product Managers, CIOs, and CTOs to embed digital
+  transformation in their enterprise applications. Get Started with one of our software
+  packages and download a free trial today!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1009568"
+url: https://raw.githubusercontent.com/api-network/organizations/main/activepdf.yaml
+tags:
+- Windows Tools And Drivers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.activepdf.com/
+- type: x-about
+  url: https://www.activepdf.com/about
+- type: x-blog
+  url: https://www.activepdf.com/blog
+- type: x-case-studies
+  url: https://www.activepdf.com/case-studies
+- type: x-case-studies
+  url: https://www.activepdf.com/case-studies/pwc?hsLang=en
+- type: x-case-studies
+  url: https://www.activepdf.com/case-studies/dod?hsLang=en
+- type: x-contact
+  url: https://www.activepdf.com/contact/sales
+- type: x-contact
+  url: https://www.activepdf.com/contact
+- type: x-documentation
+  url: https://www.activepdf.com/products/docspace
+- type: x-documentation
+  url: https://docspacesupport.activepdf.com/hc/en-us
+- type: x-facebook
+  url: https://www.facebook.com/ActivePDF
+- type: x-github
+  url: https://github.com/ActivePDF
+- type: x-linkedin
+  url: https://www.linkedin.com/company/activepdf
+- type: x-open-source
+  url: https://www.activepdf.com/careers/open-positions
+- type: x-partner
+  url: https://www.activepdf.com/partners
+- type: x-privacy
+  url: https://www.activepdf.com/policies/privacy
+- type: x-support
+  url: https://support.activepdf.com/
+- type: x-support
+  url: https://www.activepdf.com/support/documentlinks
+- type: x-terms-of-service
+  url: https://www.activepdf.com/solutions/legal
+- type: x-terms-of-service
+  url: https://www.activepdf.com/policies/legal
+- type: x-twitter
+  url: https://twitter.com/ActivePDF
+- type: x-website
+  url: https://www.activepdf.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

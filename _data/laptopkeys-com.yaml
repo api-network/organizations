@@ -1,0 +1,36 @@
+---
+name: Laptop-keys.com
+description: Replacement laptop keys for all major laptop brands. Quick and easy replacement
+  keys for Acer, Apple, Compaq, Dell, HP, Lenovo, Toshiba.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "772189"
+url: https://raw.githubusercontent.com/api-network/organizations/main/laptopkeys-com.yaml
+tags:
+- Replacement Laptop Keys
+- Laptop Keys
+- Keyboards
+- Keyboard Repair
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.laptop-keys.com/blog.php
+- type: x-contact
+  url: https://www.laptop-keys.com/contact.php
+- type: x-privacy
+  url: https://www.laptop-keys.com/privacy-policies.php
+- type: x-status
+  url: https://www.laptop-keys.com/status.php
+- type: x-terms-of-service
+  url: https://www.laptop-keys.com/terms-and-conditions.php
+- type: x-website
+  url: https://www.laptop-keys.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

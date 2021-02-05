@@ -1,0 +1,48 @@
+---
+name: Arlington National Cemetery
+description: "Welcome to Arlington National Cemetery\u2019s official Facebook page.
+  \   Arlington National Cemetery is our nation\u2019s most hallowed ground. More
+  than 400,000 people are buried here, to include veterans from all our nation\u2019s
+  wars. Arlington has been the final..."
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/600px-Arlington_National_Cemetery_2012.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "445370"
+url: https://raw.githubusercontent.com/api-network/organizations/main/arlington-national-cemetery.yaml
+tags:
+- Veterans
+- Historical Data API
+- Have API Paths
+- Have API
+- General Data
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: https://www.ArlingtonCemetery.mil/COVID-19
+- type: x-about
+  url: https://www.arlingtoncemetery.mil/about
+- type: x-base
+  url: http://wspublic.iss.army.mil/
+- type: x-developers
+  url: http://www.arlingtoncemetery.mil/Developers
+- type: x-facebook
+  url: https://www.facebook.com/ArlingtonNatl
+- type: x-instagram
+  url: https://www.instagram.com/arlingtonnatl/
+- type: x-twitter
+  url: https://twitter.com/arlingtonnatl
+- type: x-website
+  url: http://wspublic.iss.army.mil
+- type: x-website
+  url: http://www.arlingtoncemetery.mil/
+- type: x-wikipedia
+  url: http://en.wikipedia.org/wiki/Arlington_National_Cemetary
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

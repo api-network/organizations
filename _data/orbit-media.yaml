@@ -1,0 +1,64 @@
+---
+name: Orbit Media
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "26363"
+url: https://raw.githubusercontent.com/api-network/organizations/main/orbit-media.yaml
+tags:
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: https://www.orbitmedia.com
+- type: x-about
+  url: https://www.orbitmedia.com/about/
+- type: x-about
+  url: https://www.orbitmedia.com/about/team-bios/
+- type: x-about
+  url: https://www.orbitmedia.com/about/awards/
+- type: x-about
+  url: https://www.orbitmedia.com/about/culture/
+- type: x-about
+  url: https://www.orbitmedia.com/about/content-chemistry/
+- type: x-about
+  url: https://www.orbitmedia.com/about/chicago-cause/
+- type: x-about
+  url: https://www.orbitmedia.com/about/b-corp/
+- type: x-blog
+  url: https://www.orbitmedia.com/blog/
+- type: x-blog
+  url: https://www.orbitmedia.com/blog/web-design-tips/
+- type: x-careers
+  url: https://www.orbitmedia.com/about/careers/
+- type: x-contact
+  url: https://www.orbitmedia.com/contact/
+- type: x-contact
+  url: https://www.orbitmedia.com/contact/support/
+- type: x-events
+  url: https://www.orbitmedia.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/orbitmediastudios
+- type: x-press
+  url: https://www.orbitmedia.com/wordpress-development/
+- type: x-privacy
+  url: https://www.orbitmedia.com/privacy-policy/
+- type: x-support
+  url: https://www.orbitmedia.com/hosting-support/
+- type: x-twitter
+  url: https://twitter.com/orbiteers
+- type: x-twitter
+  url: http://twitter.com/orbiteers
+- type: x-website
+  url: http://www.orbitmedia.com/
+- type: x-youtube
+  url: https://www.youtube.com/Orbitmedia
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

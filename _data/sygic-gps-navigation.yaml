@@ -1,0 +1,54 @@
+---
+name: Sygic Gps Navigation
+description: "Redefining the travel experience with the world\u2019s most advanced
+  offline GPS Navigation app for iPhone, Android and Windows phone. Trusted by 200
+  mil. drivers."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "59123"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sygic-gps-navigation.yaml
+tags:
+- Apps
+apis: []
+x-common:
+- type: x-website
+  url: http://www.sygic.com
+- type: x-about
+  url: https://www.sygic.com/about
+- type: x-blog
+  url: https://www.sygic.com/blog
+- type: x-careers
+  url: https://careers.sygic.com/
+- type: x-code
+  url: https://www.sygic.com/developers/sygic-maps-sdk/ios
+- type: x-code
+  url: https://www.sygic.com/developers/mobile-sdk/ios
+- type: x-code
+  url: https://www.sygic.com/developers/mobile-sdk/android
+- type: x-contact
+  url: https://www.sygic.com/company/contact
+- type: x-facebook
+  url: https://www.facebook.com/sygicofficial/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/sygic/
+- type: x-press
+  url: https://www.sygic.com/press
+- type: x-support
+  url: https://help.sygic.com/en
+- type: x-terms-of-service
+  url: https://www.sygic.com/company/legal-documents
+- type: x-twitter
+  url: https://twitter.com/sygicofficial
+- type: x-website
+  url: https://www.sygic.com
+- type: x-youtube
+  url: https://www.youtube.com/user/Sygic
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

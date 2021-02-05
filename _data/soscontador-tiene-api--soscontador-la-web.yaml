@@ -1,0 +1,24 @@
+---
+name: SOS-Contador tiene API | SOS-Contador, la web
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: ""
+url: https://raw.githubusercontent.com/api-network/organizations/main/soscontador-tiene-api--soscontador-la-web.yaml
+tags:
+- Postman Doc Search
+apis: []
+x-common:
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/1566360/SWTD6vnC
+- type: x-website
+  url: http://www.sos-contador.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

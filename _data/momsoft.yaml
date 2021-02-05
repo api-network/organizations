@@ -1,0 +1,42 @@
+---
+name: MomSoft
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/momsoft.yaml
+tags:
+- Microsoft Office
+apis: []
+x-common:
+- type: x-about
+  url: https://momsoftco.com/about/
+- type: x-about
+  url: http://localhost/momsoft/about/
+- type: x-blog
+  url: https://momsoftco.com/blog/
+- type: x-contact
+  url: https://momsoftco.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/MomSoft-212867499313735
+- type: x-feed
+  url: https://momsoftco.com/feed/
+- type: x-news
+  url: https://momsoftco.com/control-runner-5-news/
+- type: x-privacy
+  url: http://localhost/momsoft/privacy-policy/
+- type: x-support
+  url: https://momsoftco.com/support/
+- type: x-twitter
+  url: https://twitter.com/momsoft
+- type: x-website
+  url: https://www.momsoftco.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

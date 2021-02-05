@@ -1,0 +1,23 @@
+---
+name: Progress Talk
+description: ProgressTalk.com, the fastest growing Progress user's group, offers a
+  web-based discussion forum on over 50 topics relating to using Progress.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "683099"
+url: https://raw.githubusercontent.com/api-network/organizations/main/progress-talk.yaml
+tags:
+- Progress
+apis: []
+x-common:
+- type: x-website
+  url: https://www.progresstalk.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

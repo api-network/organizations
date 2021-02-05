@@ -1,0 +1,44 @@
+---
+name: Veeam
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "11382"
+url: https://raw.githubusercontent.com/api-network/organizations/main/veeam.yaml
+tags:
+- Microsoft Terminal Services
+apis: []
+x-common:
+- type: x-careers
+  url: https://careers.veeam.com/?ad=menu-company
+- type: x-facebook
+  url: https://www.facebook.com/VeeamSoftware
+- type: x-forum
+  url: https://forums.veeam.com/?ad=top-sub-menu
+- type: x-forum
+  url: https://forums.veeam.com/?ad=menu-resources
+- type: x-forum
+  url: https://forums.veeam.com/?ad=homepage
+- type: x-linkedin
+  url: https://www.linkedin.com/company/veeam-software
+- type: x-partner
+  url: https://propartner.veeam.com?ad=menu-partners
+- type: x-privacy
+  url: https://www.veeam.com/privacy-policy.html
+- type: x-privacy
+  url: https://www.veeam.com/privacy-policy.html?ad=footer
+- type: x-twitter
+  url: https://twitter.com/veeam
+- type: x-website
+  url: https://www.veeam.com
+- type: x-youtube
+  url: https://www.youtube.com/user/YouVeeam
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

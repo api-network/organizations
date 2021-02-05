@@ -1,0 +1,26 @@
+---
+name: Stinkyink.Com
+description: Printer ink cartridge Superstore. One Stop shop for all your ink, ink
+  cartridges, laser toner cartridges and Fax ink and ribbons - FREE Shipping for all
+  UK orders.  Don't think ink - think Stinkyink
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "252238"
+url: https://raw.githubusercontent.com/api-network/organizations/main/stinkyink-com.yaml
+tags:
+- Supplies
+apis: []
+x-common:
+- type: x-facebook
+  url: http://facebook.com/stinkyinkshop
+- type: x-website
+  url: https://www.stinkyinkshop.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

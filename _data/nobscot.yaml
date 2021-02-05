@@ -1,0 +1,28 @@
+---
+name: Nobscot
+description: Exit interviews and other HR data analytics to reduce employee turnover.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2662825"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nobscot.yaml
+tags:
+- Testing And Evaluation
+apis: []
+x-common:
+- type: x-website
+  url: http://www.nobscot.com
+- type: x-linkedin
+  url: http://www.linkedin.com/in/bethcarvin
+- type: x-twitter
+  url: http://twitter.com/nobscot
+- type: x-website
+  url: https://www.nobscot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

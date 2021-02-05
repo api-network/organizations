@@ -1,0 +1,41 @@
+---
+name: Diaspark Inc.
+description: Diaspark is a CMMi Level 5 global technology services & solutions provider
+  driving digital transformation across industries for more than two decades.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "501465"
+url: https://raw.githubusercontent.com/api-network/organizations/main/diaspark-inc-.yaml
+tags:
+- Companies
+apis: []
+x-common:
+- type: x-website
+  url: http://www.diaspark.com
+- type: x-about
+  url: https://www.diaspark.com/about-us/
+- type: x-blog
+  url: https://www.diaspark.com/blog/
+- type: x-contact
+  url: https://www.diaspark.com/contact-us/
+- type: x-facebook
+  url: http://www.facebook.com/Diaspark/
+- type: x-instagram
+  url: http://www.instagram.com/diaspark/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/diaspark-inc/
+- type: x-platform
+  url: https://www.diaspark.com/data-platform-modernization/
+- type: x-twitter
+  url: http://twitter.com/DiasparkInc
+- type: x-website
+  url: https://www.diaspark.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,42 @@
+---
+name: Just Eat Tenant
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10928155"
+url: https://raw.githubusercontent.com/api-network/organizations/main/just-eat-tenant.yaml
+tags:
+- Profile
+- Have Swagger
+- Have API Paths
+apis: []
+x-common:
+- type: x-website
+  url: http://tech.just-eat.com/
+- type: x-blog
+  url: https://www.just-eat.co.uk/blog/category/tech/
+- type: x-careers
+  url: https://careers.just-eat.com/departments/technology
+- type: x-contact
+  url: https://developers.just-eat.com/docs/contact-us
+- type: x-developer
+  url: https://developers.just-eat.com/reference
+- type: x-github
+  url: https://github.com/justeat
+- type: x-website
+  url: http://public.je-apis.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/just-eat-group/
+- type: x-open-source
+  url: https://tech.just-eat.com/open-source/
+- type: x-twitter
+  url: http://twitter.com/justeat_tech
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,31 @@
+---
+name: iTech College
+description: New Internet Technology, Online Education, E-Learning, Technician Training,
+  Tech Tutorials, Distance Education, Virtual Learning College
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/itech-college.yaml
+tags:
+- Virtual Learning
+- Technician Training
+- Tech Tutorials
+- Online Education
+- Internet Technology
+- E-Learning
+- Distance Education
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.itechcollege.com
+- type: x-website
+  url: https://www.itechcollege.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

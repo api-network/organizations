@@ -1,0 +1,67 @@
+---
+name: Scholl Consulting Group, Inc
+description: Scholl Consulting Group, INC. provides IT consulting and programming
+  services. We specialize in Custom solutions, GUI interfaces to legacy applications,
+  multi-value databases and solutions for the healthcare industry. The X12 Claim Printer
+  allows the printing of 837 transaction sets onto UB92 and  HCFA-1500 forms.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/scholl-consulting-group-inc.yaml
+tags:
+- X12
+- Visual Basic
+- Unix
+- Universe
+- Uniobjects
+- Unidata
+- UB92
+- Systems Integration
+- Software
+- Scholl Consulting Group
+- Restaurant Delivery
+- Raining Data
+- Programming
+- Products And Services
+- PICK Systems
+- ObJex
+- Multi-value
+- MHC
+- Medical
+- Martin Scholl
+- Linux
+- JBASE
+- Java
+- IT
+- Informix
+- Information Technology
+- Inc.
+- HIPAA
+- Healthcare
+- HCFA-1500
+- GUI
+- Forms
+- Envoy-NEIC
+- EDI
+- Database
+- CSC
+- Consulting
+- Consultancy
+- Compliance
+- Claims
+- Basic
+- Ardent
+- "837"
+apis: []
+x-common:
+- type: x-website
+  url: https://www.martinscholl.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,39 @@
+---
+name: Bee Docs
+description: Present historical events with Timeline 3D to reveal connections and
+  clarify relationships. Make timeline charts of world history, family trees, fictional
+  stories or business deadlines. Timelines help you understand and present history
+  with new perspective!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1530499"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bee-docs.yaml
+tags:
+- Why Timelines
+- Timeline Software
+- Timeline
+- Storytelling
+- Software
+- Mac OS X
+- History
+- Freeware
+- Beedocs
+- Bee Docs Timeline
+- Bee Docs
+apis: []
+x-common:
+- type: x-documentation
+  url: https://blog.beedocs.com
+- type: x-documentation
+  url: http://www.beedocs.com/help/articles/termsOfUse.php
+- type: x-website
+  url: https://www.beedocs.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

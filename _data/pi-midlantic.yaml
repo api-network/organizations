@@ -1,0 +1,45 @@
+---
+name: PI Midlantic
+description: The official website of PIMidlantic. Optimizing performance through the
+  Predictive Index System, psychometric assessment tools with dedicated consultants.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3225626"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pi-midlantic.yaml
+tags:
+- Testing And Evaluation
+apis: []
+x-common:
+- type: x-website
+  url: http://www.pimidlantic.com
+- type: x-about
+  url: https://www.pimidlantic.com/content/about-pi-midlantic
+- type: x-blog
+  url: https://www.pimidlantic.com/blog
+- type: x-case-studies
+  url: https://www.pimidlantic.com/case-studies
+- type: x-facebook
+  url: https://www.facebook.com/PIMidlantic
+- type: x-linkedin
+  url: https://www.linkedin.com/company/pi-midlantic
+- type: x-news
+  url: https://www.pimidlantic.com/news-and-events
+- type: x-open-source
+  url: https://www.pimidlantic.com/open_workshops
+- type: x-twitter
+  url: https://twitter.com/PIMidlantic
+- type: x-webinars
+  url: https://www.pimidlantic.com/webinar
+- type: x-website
+  url: https://www.pimidlantic.com
+- type: x-youtube
+  url: https://www.youtube.com/user/pimidlantic
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

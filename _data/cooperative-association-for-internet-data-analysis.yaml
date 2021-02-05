@@ -1,0 +1,40 @@
+---
+name: Cooperative Association for Internet Data Analysis
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "259093"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cooperative-association-for-internet-data-analysis.yaml
+tags:
+- Statistics And Demographics
+apis: []
+x-common:
+- type: x-website
+  url: http://www.caida.org/
+- type: x-blog
+  url: https://blog.caida.org/
+- type: x-developer
+  url: https://api.manic.caida.org/v1/
+- type: x-documentation
+  url: https://api.asrank.caida.org/docs
+- type: x-documentation
+  url: https://bgpstream.caida.org/docs/api
+- type: x-feed
+  url: https://blog.caida.org/best_available_data/feed
+- type: x-login
+  url: https://viz.manic.caida.org/login
+- type: x-login
+  url: http://www.verisigninc.com/
+- type: x-twitter
+  url: https://twitter.com/caidaorg
+- type: x-website
+  url: https://www.caida.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

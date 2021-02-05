@@ -1,0 +1,41 @@
+---
+name: Talent Analytics
+description: 'We predict successful employees! #Workforce performance & #turnover
+  #prehire in roles like #Sales #Finance #Banking #CallCenters & more via #predictive
+  modeling'
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1174_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2781712"
+url: https://raw.githubusercontent.com/api-network/organizations/main/talent-analytics.yaml
+tags:
+- Testing And Evaluation
+- Recruiting
+- Human Resources
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://TalentAnalytics.com
+- type: x-blog
+  url: http://swiftype.com/blog
+- type: x-blog-rss
+  url: http://www.talentanalytics.com/technology/api/feed/
+- type: x-blog-rss
+  url: http://www.talentanalytics.com/think-tank/blog/feed/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/swiftype
+- type: x-twitter
+  url: https://twitter.com/#!/TalentAnalytics
+- type: x-website
+  url: http://www.talentanalytics.com/
+- type: x-website
+  url: https://www.talentanalytics.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,62 @@
+---
+name: Thegrideon Software
+description: Forensics and password recovery tools for Access, Excel, Outlook, Word,
+  PowerPoint, Project, VBA, Bitcoin, BitLocker, DMG, Lotus, QuickBooks, WordPerfect
+  Office, PDF, Zip, etc. Password recovery services.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2095569"
+url: https://raw.githubusercontent.com/api-network/organizations/main/thegrideon-software.yaml
+tags:
+- XLSX
+- Xlsb
+- XLS
+- WordPerfect
+- Word
+- VBA
+- Unprotection
+- Thegrideon
+- SQL
+- Quickbooks
+- Qbw
+- Qbb
+- Pst
+- Protection Removal
+- Password Recovery
+- Outlook
+- Ost
+- Onenote
+- One
+- Office
+- Nvidea
+- Mdb
+- Lotus
+- Intel
+- GPU
+- Forensics
+- Exchange
+- Excel
+- Dwg
+- Decryption
+- Database Tools
+- Data Recovery
+- CorelDraw
+- Bitlocker
+- AutoCAD
+- Anywhere
+- AMD
+- Access
+- Accdb
+apis: []
+x-common:
+- type: x-website
+  url: https://www.thegrideon.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

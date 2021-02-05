@@ -1,0 +1,23 @@
+---
+name: The Onion
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: ""
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-onion.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: https://www.theonion.com/
+- type: x-twitter
+  url: https://twitter.com/theonion
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

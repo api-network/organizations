@@ -1,0 +1,61 @@
+---
+name: GeoIPs
+description: 'Create an instant connection with your website visitors. Real-time IP
+  Lookup: country, country code, city, latitude, longitude, timezone, owner.'
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/geo-ip-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10307034"
+url: https://raw.githubusercontent.com/api-network/organizations/main/geoips.yaml
+tags:
+- Pim
+- Maps
+- IP Address
+- Have API
+- Geo
+- Geo
+- API Provider
+apis: []
+x-common:
+- type: x-about
+  url: https://www.iplocate.com/en/company/about
+- type: x-base
+  url: http://api.geoips.com/
+- type: x-blog-rss
+  url: http://www.geoips.com/feed/rss
+- type: x-code
+  url: https://www.iplocate.com/en/developer/geo-code
+- type: x-contact
+  url: https://www.iplocate.com/en/company/contact
+- type: x-contact
+  url: https://ipstack.com/contact
+- type: x-developer
+  url: https://api.iplocate.com/
+- type: x-developers
+  url: http://www.geoips.com/developer/
+- type: x-login
+  url: https://www.iplocate.com/en/auth/login
+- type: x-news
+  url: https://www.iplocate.com/en/newsletter/subscribe
+- type: x-pricing
+  url: https://www.iplocate.com/en/services/pricing
+- type: x-pricing
+  url: https://www.geoips.com/en/services/pricing
+- type: x-privacy
+  url: https://www.iplocate.com/en/company/privacy
+- type: x-self-service-registration
+  url: https://www.iplocate.com/en/auth/register
+- type: x-terms-of-service
+  url: https://www.iplocate.com/en/company/terms
+- type: x-twitter
+  url: https://twitter.com/geoips_com/
+- type: x-website
+  url: http://www.geoips.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

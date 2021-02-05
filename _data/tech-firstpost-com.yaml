@@ -1,0 +1,23 @@
+---
+name: tech.firstpost.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tech-firstpost-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://tech.firstpost.com/news-analysis/facebook-messenger-tens-of-thousands-of-developers-working-on-chatbots-already-has-2500-merchants-through-shopify-314201.html
+- type: x-website
+  url: http://tech.firstpost.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

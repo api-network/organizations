@@ -1,0 +1,65 @@
+---
+name: Watchful
+description: <p>Watchful resulted from the need for a single, unified dashboard to
+  easily monitor all of the web sites in our portfolios. After years of evolution,
+  our solution has matured into a simple, complete and professional service.&nbsp;</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/watchful-li-logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1276037"
+url: https://raw.githubusercontent.com/api-network/organizations/main/watchful.yaml
+tags:
+- Websites
+- Security
+- Relative Data
+- Have Swagger
+- Have API Paths
+- Have API
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-application-gallery
+  url: https://watchful.li/apps/
+- type: x-blog
+  url: https://watchful.net/blog/
+- type: x-blog
+  url: http://www.joomlablogger.net
+- type: x-blog
+  url: https://watchful.li/news/
+- type: x-blog-rss
+  url: https://watchful.li/news/feed/rss.html
+- type: x-developers
+  url: https://watchful.li/support-services/kb/article/watchful-rest-api
+- type: x-facebook
+  url: https://www.facebook.com/watchfulli
+- type: x-faq
+  url: https://watchful.li/support-services/faq.html
+- type: x-google-plus
+  url: https://plus.google.com/+WatchfulLi
+- type: x-knowledgebase
+  url: https://watchful.li/support-services/kb.html
+- type: x-login
+  url: https://app.watchful.li/app/#/login
+- type: x-login
+  url: https://app.watchful.li/login.html
+- type: x-pricing
+  url: https://watchful.li/pricing
+- type: x-privacy
+  url: https://watchful.li/privacy-policy.html
+- type: x-terms-of-service
+  url: https://watchful.li/terms-of-service.html
+- type: x-twitter
+  url: https://twitter.com/watchfulli
+- type: x-website
+  url: http://watchful.li
+- type: x-website
+  url: https://watchful.li/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

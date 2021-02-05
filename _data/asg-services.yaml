@@ -1,0 +1,43 @@
+---
+name: ASG Services
+description: ASG Services are leading manufacturers of custom warehouse signs, line
+  striping and warehouse labels, from design through project managed installations.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1165006"
+url: https://raw.githubusercontent.com/api-network/organizations/main/asg-services.yaml
+tags:
+- Labels And Equipment
+apis: []
+x-common:
+- type: x-website
+  url: http://www.asgservices.com
+- type: x-about
+  url: https://www.asgservices.com/about-us/
+- type: x-about
+  url: https://www.asgservices.com/about-us/testimonials/
+- type: x-blog
+  url: https://www.asgservices.com/blog/
+- type: x-case-studies
+  url: https://www.asgservices.com/case-studies/
+- type: x-contact
+  url: https://www.asgservices.com/contact-us/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/asg-services-llc
+- type: x-privacy
+  url: https://www.asgservices.com/privacy-policy/
+- type: x-self-service-registration
+  url: https://www.modexshow.com/register.aspx?ref=attendees
+- type: x-twitter
+  url: https://twitter.com/ASGServices
+- type: x-website
+  url: https://www.asgservices.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

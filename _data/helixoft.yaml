@@ -1,0 +1,44 @@
+---
+name: Helixoft
+description: VSdocman - Visual Studio tool for documenting C#, and VB .NET source
+  code. Insert XML doc comments and generate API documentation easily.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1618593"
+url: https://raw.githubusercontent.com/api-network/organizations/main/helixoft.yaml
+tags:
+- XML Comments
+- VSdocman
+- Visual Studio
+- VBdocman
+- VB .NET
+- Msdn
+- Helixoft
+- Generate
+- Documenting
+- Documentation
+- CSharp
+- Create
+- Commenting
+- Class Library
+- Add-Ins
+- .NET
+apis: []
+x-common:
+- type: x-website
+  url: http://www.helixoft.com
+- type: x-news
+  url: http://feeds2.feedburner.com/helixoft_news?format=xml
+- type: x-twitter
+  url: https://twitter.com/Helixoft
+- type: x-website
+  url: https://www.helixoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

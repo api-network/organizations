@@ -1,0 +1,49 @@
+---
+name: GetStream.io
+description: Scalable & Fast API for building social networks, activity feeds, news
+  feeds and activity streams.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26600-getstream-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "6"
+x-alexaRank: "127527"
+url: https://raw.githubusercontent.com/api-network/organizations/main/getstream-io.yaml
+tags:
+- Have API Paths
+- General Data
+- Feeds
+apis: []
+x-common:
+- type: x-blog
+  url: https://getstream.io/blog/
+- type: x-blog-rss
+  url: https://getstream.io/blog/feed/
+- type: x-github
+  url: https://github.com/GetStream
+- type: x-website
+  url: http://getstream.io/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/getstream-io
+- type: x-documentation
+  url: https://getstream.io/docs_rest/
+- type: x-email
+  url: sales@getstream.io
+- type: x-email
+  url: support@getstream.io
+- type: x-pricing
+  url: https://getstream.io/pricing/
+- type: x-status
+  url: http://status.getstream.io/
+- type: x-twitter
+  url: https://twitter.com/getstream_io
+- type: x-webhooks
+  url: https://getstream.io/docs/#realtime-webhooks
+- type: x-website
+  url: https://getstream.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

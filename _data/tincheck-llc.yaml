@@ -1,0 +1,24 @@
+---
+name: TINCheck LLC
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "514114"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tincheck-llc.yaml
+tags:
+- Informational Reporting
+apis: []
+x-common:
+- type: x-press
+  url: https://home.treasury.gov/news/press-releases/sm658
+- type: x-website
+  url: https://www.tincheck.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

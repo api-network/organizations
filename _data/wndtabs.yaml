@@ -1,0 +1,45 @@
+---
+name: WndTabs
+description: WndTabs.com -- Resources For Visual C++ Developers.  Home of the WndTabs
+  Visual C++ add-in, offering useful code and tools for VC++ and VS.NET developers.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wndtabs.yaml
+tags:
+- WndTabs
+- Window Tabs
+- VS.NET Addins
+- Visual C++
+- VC Addins
+- Spelly
+- Programming
+- MSDEV
+- LineCounter
+- DevStudio
+- Development
+- AIC
+- Addins For VS.NET
+- Addins For Visual Studio.NET
+- AddInComm
+- Addin For Visual C++
+- AddIn
+- Add-In
+- .NET Addins
+apis: []
+x-common:
+- type: x-code
+  url: http://www.codeproject.com/KB/macros/linecount.aspx
+- type: x-code
+  url: http://www.codeproject.com/KB/macros/wndtabs.aspx
+- type: x-website
+  url: https://www.wndtabs.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

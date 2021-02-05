@@ -1,0 +1,27 @@
+---
+name: Remicoin
+description: Remicoin is a trial new computerized cash that empowers moment installments
+  to anybody, anyplace on the planet.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27217-www-remicoin-org.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "3416688"
+url: https://raw.githubusercontent.com/api-network/organizations/main/remicoin.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://www.remicoin.org/
+- type: x-twitter
+  url: https://twitter.com/remicoin
+- type: x-website
+  url: http://www.remicoin.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

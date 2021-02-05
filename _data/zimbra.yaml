@@ -1,0 +1,90 @@
+---
+name: Zimbra
+description: 100s of millions of people rely on Zimbra and enjoy enterprise-class
+  open source email collaboration at the lowest TCO in the industry. Discover the
+  benefits!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "25483"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zimbra.yaml
+tags:
+- Open Source
+apis: []
+x-common:
+- type: x-about
+  url: https://www.synacor.com/about-us/
+- type: x-about
+  url: https://synacor.com/about-us/
+- type: x-blog
+  url: https://blog.zimbra.com/
+- type: x-blog
+  url: https://blog.zimbra.com
+- type: x-careers
+  url: https://www.synacor.com/careers/
+- type: x-contact
+  url: https://www.zimbra.com/contact-us/
+- type: x-customers
+  url: https://www.zimbra.com/customers/
+- type: x-documentation
+  url: https://www.zimbra.com/documentation/
+- type: x-events
+  url: https://www.zimbra.com/company/events/
+- type: x-facebook
+  url: https://www.facebook.com/Zimbra
+- type: x-feed
+  url: https://blog.zimbra.com/feed
+- type: x-feed
+  url: https://blog.zimbra.com/feed/
+- type: x-forum
+  url: https://forums.zimbra.org/
+- type: x-forum
+  url: https://forums.zimbra.org
+- type: x-linkedin
+  url: https://www.linkedin.com/companies/zimbra
+- type: x-news
+  url: https://www.zimbra.com/newsletters/
+- type: x-open-source
+  url: https://www.zimbra.com/open-source-email-overview/
+- type: x-open-source
+  url: https://www.zimbra.com/open-source-support/
+- type: x-partner
+  url: https://www.zimbra.com/partners/
+- type: x-partner
+  url: https://www.zimbra.com/partners/cloud-providers/
+- type: x-partner
+  url: https://www.zimbra.com/partners/resellers/
+- type: x-partner
+  url: https://www.zimbra.com/partners/become-partner/
+- type: x-privacy
+  url: https://www.synacor.com/privacy-policy/
+- type: x-support
+  url: https://www.zimbra.com/support/
+- type: x-support
+  url: https://www.zimbra.com/support/support-offerings/
+- type: x-support
+  url: https://www.zimbra.com/support/training/
+- type: x-support
+  url: https://support.zimbra.com/
+- type: x-support
+  url: https://support.zimbra.com/submitcase
+- type: x-twitter
+  url: https://twitter.com/Zimbra
+- type: x-website
+  url: https://www.zimbra.com
+- type: x-youtube
+  url: https://www.youtube.com/c/zimbra
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=Z0SVg_P_FU4
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=V5Wwesq4g0A
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=_Vjc7hiIOCg
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

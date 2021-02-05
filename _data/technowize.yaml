@@ -1,0 +1,55 @@
+---
+name: Technowize
+description: Technowize Magazine is one of the most premier media brands in the world.
+  We are an innovative, digitally oriented magazine with a unique editorial vision.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28379-www-technowize-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "655782"
+url: https://raw.githubusercontent.com/api-network/organizations/main/technowize.yaml
+tags:
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: https://www.technowize.com/
+- type: x-about
+  url: https://www.technowize.com/about/
+- type: x-careers
+  url: https://www.technowize.com/careers/
+- type: x-contact
+  url: https://www.technowize.com/contact/
+- type: x-events
+  url: https://www.technowize.com/events
+- type: x-facebook
+  url: https://facebook.com/people/@/technowize
+- type: x-feed
+  url: https://www.technowize.com/feed/
+- type: x-instagram
+  url: https://www.instagram.com/technowize/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/technowize
+- type: x-login
+  url: https://www.technowize.com/login/
+- type: x-news
+  url: https://www.technowize.com/news/
+- type: x-plans
+  url: https://www.technowize.com/subscription-plans/
+- type: x-press
+  url: http://www.wonderplugin.com/wordpress-carousel/
+- type: x-privacy
+  url: https://www.technowize.com/privacy/
+- type: x-terms-of-service
+  url: https://www.technowize.com/terms/
+- type: x-twitter
+  url: https://twitter.com/technowize
+- type: x-website
+  url: https://www.technowize.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

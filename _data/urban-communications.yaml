@@ -1,0 +1,37 @@
+---
+name: Urban Communications
+description: Urbancom.net provides fixed wireless microwave and fiber optic internet,
+  voice & data center services, and other hosted solutions to the Chicago Metro area.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8945988"
+url: https://raw.githubusercontent.com/api-network/organizations/main/urban-communications.yaml
+tags:
+- DSL
+apis: []
+x-common:
+- type: x-about
+  url: https://www.urbancom.net/about/
+- type: x-careers
+  url: https://www.urbancom.net/careers/
+- type: x-contact
+  url: https://www.urbancom.net/contact-us/
+- type: x-news
+  url: https://www.urbancom.net/recent-news/
+- type: x-partner
+  url: https://www.urbancom.net/partners/
+- type: x-terms-of-service
+  url: https://www.urbancom.net/financial-and-legal/
+- type: x-terms-of-service
+  url: https://www.urbancom.net/terms/
+- type: x-website
+  url: https://www.urbancom.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

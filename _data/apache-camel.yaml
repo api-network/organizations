@@ -1,0 +1,50 @@
+---
+name: Apache Camel
+description: <p>Camel empowers you to define routing and mediation rules in a variety
+  of domain-specific languages, including a Java-based Fluent API, Spring or Blueprint
+  XML Configuration files, and a Scala DSL. This means you get smart completion of
+  routing rules in your IDE, whether in a Java, Scala or XML editor. Apache Camel
+  uses URIs to work directly with any kind of Transport or messaging model such as
+  HTTP, ActiveMQ, JMS, JBI, SCA, MINA or CXF, as well as pluggable Components and
+  Data Format options. Apache Camel is a small library with minimal dependencies for
+  easy embedding in any Java application. Apache Camel lets you work with the same
+  API regardless which kind of Transport is used - so learn the API once and you can
+  interact with all the Components provided out-of-box. Apache Camel provides support
+  for Bean Binding and seamless integration with popular frameworks such as Spring,
+  Blueprint and Guice. Camel also has extensive support for unit testing your routes.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/apache-camel.jpeg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1791"
+url: https://raw.githubusercontent.com/api-network/organizations/main/apache-camel.yaml
+tags:
+- Provider
+- Messages
+- IPaaS
+- Integrations
+- Integration
+- DSL
+- API Tools
+- Apache
+apis: []
+x-common:
+- type: x-website
+  url: https://camel.apache.org
+- type: x-events
+  url: https://www.apache.org/events/current-event.html
+- type: x-github
+  url: https://github.com/apache/camel/
+- type: x-security
+  url: https://www.apache.org/security/
+- type: x-twitter
+  url: https://twitter.com/ApacheCamel
+- type: x-website
+  url: http://camel.apache.org/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

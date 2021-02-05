@@ -1,0 +1,36 @@
+---
+name: ExtraView
+description: Web-Based Issue Tracking, Compliance & Change Management Software for
+  the Enterprise - Bug Tracking, Helpdesk, Quality Management, Adverse Events, Food
+  Safety & more
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5907056"
+url: https://raw.githubusercontent.com/api-network/organizations/main/extraview.yaml
+tags:
+- Workflow
+- Regulatory Reporting
+- Quality Management
+- Quality Issue Tracking
+- Food Safety
+- Defect Tracking
+- Compliance
+- Change Management
+- CAPA
+- Bug Tracking
+- Audit Software
+- Agile
+- Adverse Event
+apis: []
+x-common:
+- type: x-website
+  url: https://www.extraview.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

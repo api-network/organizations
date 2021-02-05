@@ -1,0 +1,30 @@
+---
+name: Datiris
+description: Intuitive data profiling tool to automate data analysis and find data
+  quality issues.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/datiris.yaml
+tags:
+- Profile Data
+- Data Quality
+- Data Profiling Tool
+- Data Integrity And Cleansing Tools
+- Data Analysis Program
+- Analyze Data
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-website
+  url: https://www.datiris.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

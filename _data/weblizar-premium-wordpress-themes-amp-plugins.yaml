@@ -1,0 +1,64 @@
+---
+name: Weblizar Premium Wordpress Themes &amp; Plugins
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "52756"
+url: https://raw.githubusercontent.com/api-network/organizations/main/weblizar-premium-wordpress-themes-amp-plugins.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-website
+  url: http://www.weblizar.com
+- type: x-blog
+  url: https://weblizar.com/blog/
+- type: x-blog
+  url: http://consulting.blog.br/
+- type: x-blog
+  url: http://www.createablognow.com/
+- type: x-contact
+  url: https://weblizar.com/contact/
+- type: x-documentation
+  url: https://weblizar.com/documentation/
+- type: x-facebook
+  url: https://www.facebook.com/Weblizarwp/
+- type: x-forum
+  url: https://weblizar.com/forum/
+- type: x-instagram
+  url: https://www.instagram.com/p/9nG4mXQOlJ/
+- type: x-linkedin
+  url: https://in.linkedin.com/in/weblizar
+- type: x-login
+  url: https://weblizar.com/amember/login
+- type: x-press
+  url: https://weblizar.com/hire-php-wordpress-developer/
+- type: x-press
+  url: https://weblizar.com/best-free-wordpress-themes/
+- type: x-press
+  url: https://weblizar.com/free-wordpress-plugins/
+- type: x-press
+  url: https://presse-wk.de/
+- type: x-press
+  url: https://profiles.wordpress.org/weblizar
+- type: x-signup
+  url: https://weblizar.com/amember/signup/all-themes-plugins
+- type: x-signup
+  url: https://weblizar.com/amember/signup
+- type: x-support
+  url: https://weblizar.com/support/
+- type: x-terms-of-service
+  url: https://weblizar.com/terms-services/
+- type: x-twitter
+  url: https://twitter.com/weblizar
+- type: x-website
+  url: https://weblizar.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

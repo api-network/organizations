@@ -1,0 +1,32 @@
+---
+name: Vanteon
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6270340"
+url: https://raw.githubusercontent.com/api-network/organizations/main/vanteon.yaml
+tags:
+- Software Engineering
+apis: []
+x-common:
+- type: x-careers
+  url: https://vanteon.com/careers/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/vanteon-corporation
+- type: x-news
+  url: https://vanteon.com/news/
+- type: x-privacy
+  url: http://vps46716.inmotionhosting.com/~vanteo5/privacy/
+- type: x-terms-of-service
+  url: http://vps46716.inmotionhosting.com/~vanteo5/legal/
+- type: x-website
+  url: https://www.vanteon.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

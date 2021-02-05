@@ -1,0 +1,22 @@
+---
+name: Emulator2001 and DSVZ200
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/emulator2001-and-dsvz200.yaml
+tags:
+- Emulators
+apis: []
+x-common:
+- type: x-website
+  url: https://www.gstsoftware.co.nz
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

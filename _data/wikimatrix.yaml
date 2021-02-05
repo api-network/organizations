@@ -1,0 +1,25 @@
+---
+name: WikiMatrix
+description: WikiMatrix allows you to compare the features of various Wikis in comfortable
+  side-by-side tables and helps you to pick the right Wiki software for your needs.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "845375"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wikimatrix.yaml
+tags:
+- Wiki Engines
+apis: []
+x-common:
+- type: x-code
+  url: https://www.cosmocode.de
+- type: x-website
+  url: https://www.wikimatrix.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

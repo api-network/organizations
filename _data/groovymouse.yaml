@@ -1,0 +1,52 @@
+---
+name: GroovyMouse
+description: "Computer mouse for kids, Computermouse for children, Computermaus f\xFCr
+  Kinder, Rat\xF3n de computadora para ni\xF1os, Topo di computer per bambini, souris
+  d'ordinateur pour enfants"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/groovymouse.yaml
+tags:
+- Topo
+- Souris
+- Raton
+- Pointing Devices
+- Peripheral
+- Periferiche
+- Periferica
+- "P\xE9riph\xE9rie"
+- Ordinateur
+- Ordenador
+- "Ni\xF1os"
+- Mouse
+- Maus
+- Lobotronic
+- Kinder
+- Kids
+- Hardware
+- GroovyMouse
+- Formati
+- Enfants
+- Educazione
+- Educacion
+- Computermouse
+- Computer Mouse
+- Computer
+- Computadora
+- Children
+- Bildung
+- Bambini
+apis: []
+x-common:
+- type: x-website
+  url: https://www.lobotronic.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,49 @@
+---
+name: Cyberonic
+description: Cyberonic offers business grade high-speed multi-location Internet solutions.
+  Internet, VoIP, Managed Network, and Security Services.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1708961"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cyberonic.yaml
+tags:
+- DSL
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cyberonic.com/
+- type: x-about
+  url: https://www.cyberonic.com/about-us
+- type: x-about
+  url: https://cyberonic.com/about-us/
+- type: x-contact
+  url: https://cyberonic.com/contact/
+- type: x-contact
+  url: https://www.cyberonic.com/contact
+- type: x-security
+  url: https://cyberonic.com/network-security/
+- type: x-security
+  url: https://www.cyberonic.com/network-security
+- type: x-security
+  url: https://cyberonic.com/network-security/#sd-wan
+- type: x-support
+  url: https://cyberonic.com/support/
+- type: x-support
+  url: https://cyberonic.com/help/
+- type: x-terms-of-service
+  url: https://cyberonic.com/terms_of_service-shtml/
+- type: x-terms-of-service
+  url: https://cyberonic.com/legal-notes/
+- type: x-twitter
+  url: https://twitter.com/Cyberonic_ISP
+- type: x-website
+  url: https://www.cyberonic.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

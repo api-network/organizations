@@ -1,0 +1,36 @@
+---
+name: LastHalo
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "11111861"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lasthalo.yaml
+tags:
+- Commenting
+apis: []
+x-common:
+- type: x-blog
+  url: http://lasthalo.uzyn.com/2005/09/blog-title-popup.html
+- type: x-blog
+  url: http://blogger.com
+- type: x-blog
+  url: http://www.blogger.com
+- type: x-documentation
+  url: http://lasthalo.uzyn.com/2005/03/documentations.html
+- type: x-forum
+  url: http://www.haloscan.com/forum/index.php?showtopic=5967
+- type: x-signup
+  url: http://lasthalo.uzyn.com/premium/signup.php
+- type: x-support
+  url: http://lasthalo.uzyn.com/2006/02/ad-supported.html
+- type: x-website
+  url: https://lasthalo.uzyn.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

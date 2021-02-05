@@ -1,0 +1,55 @@
+---
+name: ClockOn
+description: Australia's most powerful Rostering, Attendance and Payroll system, especially
+  popular within the pharmacy, medical, retail and hospitality industries. ClockOn
+  also offers a full-service managed payroll service and a free 30 day trial. Free
+  mobile app for rosters, timesheets, and payslips.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1595365"
+url: https://raw.githubusercontent.com/api-network/organizations/main/clockon.yaml
+tags:
+- Personnel Scheduling
+apis: []
+x-common:
+- type: x-website
+  url: https://www.clockon.com/
+- type: x-about
+  url: https://www.clockon.com.au/clockon/about
+- type: x-blog
+  url: https://www.clockon.com.au/blog
+- type: x-contact
+  url: https://www.clockon.com.au/contact
+- type: x-facebook
+  url: https://www.facebook.com/ClockOn-1369377766510854/
+- type: x-instagram
+  url: https://www.instagram.com/clockonaus
+- type: x-linkedin
+  url: https://www.linkedin.com/company/clockon/
+- type: x-login
+  url: https://clockon.freshdesk.com/support/login
+- type: x-login
+  url: https://clockon.freshdesk.com/support/login?
+- type: x-partner
+  url: https://www.clockon.com.au/partners
+- type: x-pricing
+  url: https://www.clockon.com.au/pricing
+- type: x-support
+  url: https://www.clockon.com.au/support/overview
+- type: x-support
+  url: https://www.clockon.com.au/support/refund
+- type: x-terms-of-service
+  url: https://www.clockon.com.au/support/terms
+- type: x-twitter
+  url: https://twitter.com/ClockOnAus
+- type: x-website
+  url: https://www.clockon.com.au
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

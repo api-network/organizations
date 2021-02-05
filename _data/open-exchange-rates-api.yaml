@@ -1,0 +1,59 @@
+---
+name: Open Exchange Rates API
+description: The original simple, accurate and transparent exchange rates and currency
+  conversion data API.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Open-Exchange-Rates.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "135752"
+url: https://raw.githubusercontent.com/api-network/organizations/main/open-exchange-rates-api.yaml
+tags:
+- Marketplaces
+- Have API
+- Financial
+- Financial
+- Exchange
+- Currencies
+- Conversions
+apis: []
+x-common:
+- type: x-base
+  url: http://openexchangerates.org/api/
+- type: x-developers
+  url: http://openexchangerates.org/documentation
+- type: x-documentation
+  url: https://docs.openexchangerates.org
+- type: x-documentation
+  url: https://openexchangerates.org/documentation
+- type: x-documentation
+  url: https://oxr.readme.io/docs/supported-currencies
+- type: x-email
+  url: jobs@openexchangerates.org
+- type: x-email
+  url: support@openexchangerates.org
+- type: x-email
+  url: privacy@openexchangerates.org
+- type: x-email
+  url: enterprise@openexchangerates.org
+- type: x-email
+  url: legal@openexchangerates.org
+- type: x-open-source
+  url: http://support.openexchangerates.org
+- type: x-open-source
+  url: https://status.openexchangerates.org
+- type: x-open-source
+  url: https://github.com/openexchangerates
+- type: x-open-source
+  url: https://openexchangerates.org/status
+- type: x-website
+  url: https://openexchangerates.org
+- type: x-website
+  url: http://openexchangerates.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

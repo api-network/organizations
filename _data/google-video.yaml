@@ -1,0 +1,32 @@
+---
+name: Google Video
+description: Search millions of videos from across the web.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1"
+url: https://raw.githubusercontent.com/api-network/organizations/main/google-video.yaml
+tags:
+- Video Sharing
+apis: []
+x-common:
+- type: x-about
+  url: https://www.google.com/intl/en/about/products?tab=vh
+- type: x-blog
+  url: https://www.blogger.com/?tab=vj
+- type: x-documentation
+  url: https://docs.google.com/document/?usp=docs_alc
+- type: x-news
+  url: https://news.google.com/nwshp?hl=en&tab=vn
+- type: x-website
+  url: https://video.google.com
+- type: x-youtube
+  url: https://www.youtube.com/?gl=US&tab=v1
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

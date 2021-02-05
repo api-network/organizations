@@ -1,0 +1,47 @@
+---
+name: RichWP
+description: Lean, Fast & Simplified Responsive Premium WordPress Themes 2 for 1 Special
+  - Purchase one WordPress Theme and get a second one for FREE! Just forward your
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "588165"
+url: https://raw.githubusercontent.com/api-network/organizations/main/richwp.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-website
+  url: http://RichWP.com
+- type: x-about
+  url: https://richwp.com/about/
+- type: x-blog
+  url: https://richwp.com/themes/videoblog/
+- type: x-contact
+  url: https://richwp.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/richwp
+- type: x-press
+  url: https://richwp.com/themes/wordpress-portfolio-theme/
+- type: x-press
+  url: https://richwp.com/themes/wordpress-video-theme/
+- type: x-press
+  url: https://richwp.com/impressum/
+- type: x-privacy
+  url: https://richwp.com/privacy-notice/
+- type: x-support
+  url: https://richwp.com/support/
+- type: x-terms-of-service
+  url: https://richwp.com/terms-conditions/
+- type: x-twitter
+  url: https://twitter.com/richwp
+- type: x-website
+  url: https://richwp.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

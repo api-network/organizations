@@ -1,0 +1,48 @@
+---
+name: AudioRealism
+description: Audio Software Developer specialised in emulating 303, 808 and 909 synths
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1042306"
+url: https://raw.githubusercontent.com/api-network/organizations/main/audiorealism.yaml
+tags:
+- Vst
+- Virtual Synthesizer
+- Tr909
+- Tr808
+- Tr-909
+- Tr-808
+- Tr-606
+- Tb303
+- Tb-303
+- Synthesizers
+- Plug-in
+- Drum Machine
+- Audio Units
+- Audio
+- "909"
+- "808"
+- "303"
+apis: []
+x-common:
+- type: x-website
+  url: http://www.audiorealism.se
+- type: x-contact
+  url: http://www.audiorealism.se/contact
+- type: x-facebook
+  url: https://www.facebook.com/AudioRealism
+- type: x-twitter
+  url: https://twitter.com/audiorealism
+- type: x-website
+  url: https://www.audiorealism.se
+- type: x-youtube
+  url: https://www.youtube.com/user/audiorealism
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,31 @@
+---
+name: SAP Insider
+description: A trusted source of articles, white papers, case studies, videos, magazines
+  and conferences for SAP professionals and companies.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "189989"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sap-insider.yaml
+tags:
+- SAP
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/pages/SAPinsider/109948704645
+- type: x-linkedin
+  url: https://www.linkedin.com/company/sapinsider/
+- type: x-twitter
+  url: https://twitter.com/sapinsider
+- type: x-website
+  url: https://sapinsider.wispubs.com
+- type: x-youtube
+  url: http://www.youtube.com/user/SAPinsider
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

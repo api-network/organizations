@@ -1,0 +1,116 @@
+---
+name: HubSpot
+description: "HubSpot offers a full platform of marketing, sales, customer service,
+  and CRM software \u2014 plus the methodology, resources, and support \u2014 to help
+  businesses grow better. Get started with free tools, and upgrade as you grow."
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/213_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "695"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hubspot.yaml
+tags:
+- Prospects
+- Prospects
+- Leads
+- Leads
+- Lead Management
+- Lead Management
+- Keywords
+- Have OpenAPI
+- Have API Paths
+- Have API
+- Event Management
+- Copy
+- API Provider
+apis: []
+x-common:
+- type: x-base
+  url: https://api.hubapi.com
+- type: x-blog
+  url: https://www.hubspot.com/products/marketing/blog
+- type: x-blog
+  url: https://www.hubspot.com/blog-topic-generator
+- type: x-blog
+  url: https://designers.hubspot.com/blog
+- type: x-blog
+  url: http://blog.hubspot.com/
+- type: x-blog-rss
+  url: http://blog.hubspot.com/marketing/rss.xml
+- type: x-code
+  url: https://designers.hubspot.com/code-gallery
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/hubspot
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/hubspot
+- type: x-developer
+  url: https://developers.hubspot.com/changelog
+- type: x-developer
+  url: https://developers.hubspot.com/apisbytier
+- type: x-developer
+  url: https://developers.hubspot.com/get-started
+- type: x-developer
+  url: http://developer.hubspot.com
+- type: x-developers
+  url: http://developers.hubspot.com/
+- type: x-documentation
+  url: https://developers.hubspot.com/docs/overview
+- type: x-documentation
+  url: https://designers.hubspot.com/docs
+- type: x-email
+  url: privacy@hubspot.com
+- type: x-events
+  url: https://designers.hubspot.com/events
+- type: x-facebook
+  url: https://www.facebook.com/hubspot
+- type: x-github
+  url: https://github.com/HubSpot
+- type: x-github
+  url: https://github.hubspot.com/
+- type: x-instagram
+  url: https://www.instagram.com/hubspot
+- type: x-integrations
+  url: https://www.hubspot.com/integrations
+- type: x-linkedin
+  url: https://www.linkedin.com/company/hubspot
+- type: x-login
+  url: https://app.hubspot.com/login
+- type: x-marketplace
+  url: https://marketplace.hubspot.com/products
+- type: x-open-source
+  url: https://designers.hubspot.com/open-source
+- type: x-partner
+  url: https://www.hubspot.com/partners/connect
+- type: x-press
+  url: https://www.hubspot.com/integrations/wordpress
+- type: x-signup
+  url: https://app.hubspot.com/signup/crm?hubs_signup-url=www.hubspot.com&hubs_signup-cta=homepage-crm
+- type: x-support
+  url: https://help.hubspot.com/
+- type: x-terms-of-service
+  url: https://legal.hubspot.com/legal-stuff
+- type: x-terms-of-service
+  url: https://legal.hubspot.com/privacy-policy
+- type: x-twitter
+  url: https://twitter.com/HubSpot
+- type: x-twitter
+  url: https://twitter.com/HubSpotDev
+- type: x-webhooks
+  url: https://developers.hubspot.com/docs/methods/webhooks/webhooks-overview
+- type: x-website
+  url: https://developers.hubspot.com
+- type: x-website
+  url: http://www.hubspot.com/
+- type: x-website
+  url: http://developers.hubspot.com
+- type: x-website
+  url: https://www.hubspot.com
+- type: x-youtube
+  url: https://youtube.com/user/HubSpot
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

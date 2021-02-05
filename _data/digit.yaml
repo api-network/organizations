@@ -1,0 +1,59 @@
+---
+name: "Digit\xE9"
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "350985"
+url: https://raw.githubusercontent.com/api-network/organizations/main/digit.yaml
+tags:
+- Project Management
+- Collaboration
+apis: []
+x-common:
+- type: x-about
+  url: https://www.digite.com/about-us/the-team/
+- type: x-about
+  url: https://www.digite.com/about-us/cookie-policy/
+- type: x-blog
+  url: https://www.digite.com/blog/
+- type: x-careers
+  url: https://www.digite.com/careers/
+- type: x-customers
+  url: https://www.digite.com/about-us/customers/
+- type: x-facebook
+  url: https://www.facebook.com/digite/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/digite-inc/
+- type: x-login
+  url: https://www.digite.com/login/
+- type: x-news
+  url: https://www.digite.com/news-and-events/
+- type: x-news
+  url: https://www.digite.com/newsletters/
+- type: x-partner
+  url: https://www.digite.com/partners/
+- type: x-pricing
+  url: https://www.digite.com/swiftkanban/pricing/
+- type: x-pricing
+  url: https://www.digite.com/swiftly/pricing/
+- type: x-privacy
+  url: https://www.digite.com/about-us/privacy-policy/
+- type: x-support
+  url: https://www.digite.com/services/customer-support/
+- type: x-terms-of-service
+  url: https://www.digite.com/about-us/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/digiteinc
+- type: x-webinars
+  url: https://www.digite.com/webinars/
+- type: x-website
+  url: https://www.digite.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

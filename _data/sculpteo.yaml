@@ -1,0 +1,47 @@
+---
+name: Sculpteo
+description: Sculpteo offers everyone rapid online 3D printing services. Get your
+  parts in a few days thanks to our professional 3D printers!
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1748_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "71011"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sculpteo.yaml
+tags:
+- Local
+- Have API
+- 3D Printing
+apis: []
+x-common:
+- type: x-base
+  url: http://www.sculpteo.com/
+- type: x-blog
+  url: https://www.sculpteo.com/blog/
+- type: x-blog
+  url: https://www.sculpteo.com/blog
+- type: x-blog
+  url: http://blog.sculpteo.com/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/sculpteo
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/sculpteo
+- type: x-developers
+  url: http://www.sculpteo.com/en/developer/webapi/
+- type: x-facebook
+  url: https://www.facebook.com/sculpteo
+- type: x-linkedin
+  url: https://www.linkedin.com/company/sculpteo
+- type: x-twitter
+  url: https://twitter.com/sculpteo
+- type: x-website
+  url: http://www.sculpteo.com
+- type: x-youtube
+  url: https://www.youtube.com/user/Sculpteo
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

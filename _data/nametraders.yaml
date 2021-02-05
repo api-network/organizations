@@ -1,0 +1,31 @@
+---
+name: NameTraders
+description: NameTraders.com specializes in premium aftermarket domain names
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nametraders.yaml
+tags:
+- Premium Domain Names
+- For Sale Or Auction
+- Domain Names For Sale
+- Domain Names
+- Domain Name For Sale
+- Aftermarket Domain Names
+apis: []
+x-common:
+- type: x-login
+  url: http://www.enomcentral.com/login.aspx
+- type: x-support
+  url: http://www.providesupport.com?monitor=brainweaver
+- type: x-website
+  url: https://www.nametraders.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,29 @@
+---
+name: UniBit
+description: UniBit is an Interactive News publishing company powered by Natural Language
+  Processing and Machine Intelligence. UniBit deploys data-based newsfeeds and handles
+  search queries to fulfill information demand.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28376-www-unibit-ai.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "952341"
+url: https://raw.githubusercontent.com/api-network/organizations/main/unibit.yaml
+tags:
+- News
+- Machine Learning
+- Have API
+- API Not Found
+apis: []
+x-common:
+- type: x-email
+  url: Vincent@unibit.ai
+- type: x-website
+  url: https://www.unibit.ai
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

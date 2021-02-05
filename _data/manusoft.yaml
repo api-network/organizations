@@ -1,0 +1,29 @@
+---
+name: Manusoft
+description: ManuSoft Online
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5383339"
+url: https://raw.githubusercontent.com/api-network/organizations/main/manusoft.yaml
+tags:
+- SuperPurge
+- QuikPik
+- Productivity Utilities
+- Periscope
+- ManuSoft
+- AutoCAD
+apis: []
+x-common:
+- type: x-feed
+  url: http://feeds.feedburner.com/manusoft
+- type: x-website
+  url: https://www.manusoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,26 @@
+---
+name: iBook-User.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ibookuser-com.yaml
+tags:
+- IBook
+apis: []
+x-common:
+- type: x-login
+  url: https://ibook-user.com/wp-login.php
+- type: x-press
+  url: https://bluehost.com/wordpress
+- type: x-website
+  url: https://www.ibook-user.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

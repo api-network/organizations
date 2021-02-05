@@ -1,0 +1,30 @@
+---
+name: Financial Software Innovations, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/financial-software-innovations-inc-.yaml
+tags:
+- Insurance
+apis: []
+x-common:
+- type: x-about
+  url: https://www.fsi-inc.com/about/
+- type: x-blog
+  url: http://www.fsi-inc.com/blog/info-demo/
+- type: x-blog
+  url: http://www.fsi-inc.com/blog/unclaimed-property/
+- type: x-blog
+  url: http://www.fsi-inc.com/blog/statutory-reporting//
+- type: x-website
+  url: https://www.fsi-inc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

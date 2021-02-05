@@ -1,0 +1,69 @@
+---
+name: Pew Research Center
+description: A nonpartisan fact tank that informs the public about the issues, attitudes
+  and trends shaping America and the world. It conducts public opinion polling,
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/9086-pew-research-center.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8895"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pew-research-center.yaml
+tags:
+- No API
+apis: []
+x-common:
+- type: x-website
+  url: https://www.pewresearch.org/
+- type: x-about
+  url: https://www.pewresearch.org/about
+- type: x-about
+  url: https://www.pewresearch.org/about/experts/
+- type: x-about
+  url: https://www.pewresearch.org/about/
+- type: x-about
+  url: https://www.pewresearch.org/about/use-policy/
+- type: x-blog-rss
+  url: http://www.pewresearch.org/feed/
+- type: x-careers
+  url: https://www.pewresearch.org/about/careers/
+- type: x-code
+  url: https://medium.com/pew-research-center-decoded
+- type: x-contact
+  url: https://www.pewresearch.org/contact-form/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/pew-research-center
+- type: x-email
+  url: facttank@pewresearch.org
+- type: x-email
+  url: info@pewresearch.org
+- type: x-email
+  url: Licensing@pewresearch.org
+- type: x-facebook
+  url: https://www.facebook.com/pewresearch
+- type: x-feed
+  url: https://www.pewresearch.org/feed/
+- type: x-forum
+  url: https://www.pewforum.org
+- type: x-news
+  url: https://www.pewresearch.org/quiz/news-statements-quiz/
+- type: x-news
+  url: https://www.journalism.org/essay/searching-for-news/
+- type: x-press
+  url: https://www.people-press.org
+- type: x-privacy
+  url: https://www.pewresearch.org/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.pewresearch.org/terms-and-conditions/
+- type: x-twitter
+  url: https://twitter.com/pewresearch
+- type: x-website
+  url: http://www.pewresearch.org/
+- type: x-youtube
+  url: http://www.youtube.com/user/PewResearchCenter/featured
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

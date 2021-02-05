@@ -1,0 +1,28 @@
+---
+name: Centre for Development of Advanced Computing
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7221"
+url: https://raw.githubusercontent.com/api-network/organizations/main/centre-for-development-of-advanced-computing.yaml
+tags:
+- Research Institutes
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cdac.in/
+- type: x-facebook
+  url: https://www.facebook.com/CDACINDIA
+- type: x-twitter
+  url: https://twitter.com/cdacindia
+- type: x-website
+  url: https://www.cdac.in
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

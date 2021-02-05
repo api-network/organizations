@@ -1,0 +1,34 @@
+---
+name: AudioVideoWeb.com
+description: "24/7 technical support and an incredibly user-friendly account management
+  system: Just two of the many ways AudioVideoweb helps deliver your content worldwide.
+  As one of the longest-running content delivery networks (CDN), we\u2019ll make sure
+  your content is delivered seamlessly to every device, every time. You can count
+  on it."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "637224"
+url: https://raw.githubusercontent.com/api-network/organizations/main/audiovideoweb-com.yaml
+tags:
+- Service Providers
+apis: []
+x-common:
+- type: x-about
+  url: http://www.audiovideoweb.com/about.php
+- type: x-contact
+  url: http://www.audiovideoweb.com/contact.php
+- type: x-facebook
+  url: https://www.facebook.com/audiovideoweb
+- type: x-support
+  url: http://www.audiovideoweb.com/tech-support.php
+- type: x-website
+  url: https://www.audiovideoweb.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

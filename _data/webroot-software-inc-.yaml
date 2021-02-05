@@ -1,0 +1,31 @@
+---
+name: Webroot Software, Inc.
+description: Webroot delivers multi-vector protection for endpoints and networks and
+  threat intelligence services to protect businesses and individuals in a connected
+  world.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "19569"
+url: https://raw.githubusercontent.com/api-network/organizations/main/webroot-software-inc-.yaml
+tags:
+- Utilities
+- Cache Tools
+apis: []
+x-common:
+- type: x-code
+  url: https://www.brightcloud.com/web-service/code-samples
+- type: x-contact
+  url: https://www.brightcloud.com/contact
+- type: x-login
+  url: https://webroot.flow.tiekinetix.net/login/
+- type: x-website
+  url: https://www.webroot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,31 @@
+---
+name: Wild Crypto
+description: The worlds first global, fully regulated, crypto lottery. Wild Crypto
+  accepts crypto currency in return for WILD Tokens (Ethereum ERC20) and pays out
+  Ether either back to your wallet or to a credit card that can be used anywhere.
+  Unlike other ICO???s 90%...
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27689-wildcrypto-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "459017"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wild-crypto.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://wildcrypto.com/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/wild-crypto
+- type: x-twitter
+  url: https://twitter.com/WildCrypto
+- type: x-website
+  url: https://wildcrypto.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

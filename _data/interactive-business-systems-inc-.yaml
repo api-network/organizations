@@ -1,0 +1,44 @@
+---
+name: Interactive Business Systems, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1785014"
+url: https://raw.githubusercontent.com/api-network/organizations/main/interactive-business-systems-inc-.yaml
+tags:
+- Consultants
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ibs.com
+- type: x-about
+  url: https://www.ibs.com/about-ibs/
+- type: x-blog
+  url: https://www.ibs.com/blog/
+- type: x-careers
+  url: https://interactivebusinesssystems.jobs.net/
+- type: x-careers
+  url: https://www.ibs.com/careers/
+- type: x-case-studies
+  url: https://www.ibs.com/case-studies/
+- type: x-contact
+  url: https://www.ibs.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/InteractiveBusinessSystems
+- type: x-privacy
+  url: https://www.ibs.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.ibs.com/terms-of-use/
+- type: x-twitter
+  url: https://www.twitter.com/IBS_1981
+- type: x-website
+  url: https://www.ibs.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,52 @@
+---
+name: Spreedly
+description: For online merchants and marketplaces, our API provides simple and secure
+  PCI compliance, credit card vault and forwarding of online payments. Try for free.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/486_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "3"
+x-alexaRank: "336741"
+url: https://raw.githubusercontent.com/api-network/organizations/main/spreedly.yaml
+tags:
+- Target
+- Payments
+- Payments
+- Payments
+- Payments
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: https://www.spreedly.com/
+- type: x-base
+  url: https://core.spreedly.com/
+- type: x-blog
+  url: http://blog.spreedly.com/
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/spreedly-blog
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/spreedly
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/spreedly
+- type: x-developers
+  url: https://docs.spreedly.com/
+- type: x-email
+  url: support@spreedly.com
+- type: x-email
+  url: success@spreedly.com
+- type: x-github
+  url: https://github.com/spreedly
+- type: x-pricing
+  url: https://spreedly.com/pricing
+- type: x-twitter
+  url: https://twitter.com/spreedly
+- type: x-website
+  url: https://spreedly.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

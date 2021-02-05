@@ -1,0 +1,39 @@
+---
+name: Patient | DSTU 2 API
+description: We facilitate high-performing networks and align, engage and empower
+  health care stakeholders through our industry-recognized platform, technologies
+  and services. Our value-driven, communitywide approach supports clinical, financial
+  and operational needs for providers, health organizations, communities, employers,
+  payers, and state and federal governments across the continuum for today and tomorrow.
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "28600"
+url: https://raw.githubusercontent.com/api-network/organizations/main/patient--dstu-2-api.yaml
+tags:
+- Healthcare
+- Health Management
+apis: []
+x-common:
+- type: x-code
+  url: https://code.cerner.com
+- type: x-code
+  url: https://code.cerner.com/faqs
+- type: x-facebook
+  url: https://www.facebook.com/Cerner/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/cerner-corporation
+- type: x-twitter
+  url: https://twitter.com/cerner/
+- type: x-website
+  url: http://fhir.cerner.com
+- type: x-youtube
+  url: https://www.youtube.com/user/CernerCorporation
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

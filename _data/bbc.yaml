@@ -1,0 +1,104 @@
+---
+name: BBC
+description: Breaking news, sport, TV, radio and a whole lot more. The BBC informs,
+  educates and entertains - wherever you are, whatever your age.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28554-bbc-nitro.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "80"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bbc.yaml
+tags:
+- Radio
+- News
+- Historical Data API
+- Have API Paths
+- Have API
+- General Data
+- Broadcasts
+- API Provider
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-about
+  url: https://www.bbc.co.uk/aboutthebbc
+- type: x-contact
+  url: https://www.bbc.co.uk/contact
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/bbc-news
+- type: x-email
+  url: dataprotection@bbc.com
+- type: x-email
+  url: bbcworldwidelearning@bbc.com
+- type: x-news
+  url: https://www.bbc.co.uk/news
+- type: x-news
+  url: https://www.bbc.co.uk/news/localnews
+- type: x-news
+  url: https://www.bbc.com/news/uk-51129896
+- type: x-news
+  url: https://www.bbc.com/news/world-asia-china-51130644
+- type: x-news
+  url: https://www.bbc.com/news/technology-51130904
+- type: x-news
+  url: http://www.bbc.com/news
+- type: x-news
+  url: http://www.bbc.com/news/uk
+- type: x-news
+  url: http://www.bbc.com/news/health/
+- type: x-news
+  url: https://www.bbc.com/news/business-11428889
+- type: x-news
+  url: https://www.bbc.com/news/business-50233206
+- type: x-news
+  url: http://www.bbc.com/news/world_radio_and_tv/
+- type: x-news
+  url: http://www.bbcnewschannelfinder.com
+- type: x-news
+  url: https://www.bbc.com/news/technology-51106526
+- type: x-news
+  url: https://www.bbc.co.uk/news/business-51107136
+- type: x-news
+  url: http://www.bbc.com/news/business/
+- type: x-news
+  url: https://www.bbc.com/news/business-50673541
+- type: x-news
+  url: https://www.bbc.com/news/world-asia-india-51117315
+- type: x-news
+  url: https://www.bbc.com/news/world-asia-51029280
+- type: x-news
+  url: https://www.bbc.com/news/science-environment-51063469
+- type: x-news
+  url: https://www.bbc.com/news/world-us-canada-51098219
+- type: x-news
+  url: https://www.bbc.com/news/world-asia-india-51088907
+- type: x-news
+  url: https://www.bbc.com/news/science-environment-51070870
+- type: x-news
+  url: https://www.bbc.co.uk/news/business-22449886
+- type: x-news
+  url: https://www.bbc.com/news/business-51048617
+- type: x-news
+  url: https://www.bbc.com/news/business
+- type: x-news
+  url: https://www.bbc.com/news/business-50265414
+- type: x-news
+  url: https://www.bbc.co.uk/bbcnewsletter
+- type: x-privacy
+  url: https://www.bbc.co.uk/usingthebbc/privacy/
+- type: x-support
+  url: https://www.bbc.co.uk/help/web/links/
+- type: x-terms-of-service
+  url: https://www.bbc.co.uk/usingthebbc/terms/
+- type: x-twitter
+  url: https://twitter.com/BBCNews
+- type: x-website
+  url: http://www.bbc.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

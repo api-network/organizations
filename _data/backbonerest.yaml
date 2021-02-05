@@ -1,0 +1,41 @@
+---
+name: BackboneREST
+description: <p>By using BackboneREST on the server and BackboneORM's JSON rendering
+  DSL, you can save time in defining JSON APIs.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/backbone-rest.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4735"
+url: https://raw.githubusercontent.com/api-network/organizations/main/backbonerest.yaml
+tags:
+- Postman Doc Search
+- No API
+- New
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.npmjs.org/
+- type: x-documentation
+  url: https://docs.npmjs.com
+- type: x-github
+  url: https://github.com/vidigami/backbone-rest
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/487539/RWaHwoLV
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/11039305/SzYgRvVW
+- type: x-press
+  url: http://expressjs.com/
+- type: x-status
+  url: http://status.npmjs.org/
+- type: x-website
+  url: http://www.npmjs.com
+- type: x-website
+  url: https://www.npmjs.com/package/backbone-rest
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

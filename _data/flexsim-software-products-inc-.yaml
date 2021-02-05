@@ -1,0 +1,44 @@
+---
+name: Flexsim Software Products, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "285025"
+url: https://raw.githubusercontent.com/api-network/organizations/main/flexsim-software-products-inc-.yaml
+tags:
+- Manufacturing
+apis: []
+x-common:
+- type: x-website
+  url: https://www.flexsim.com/
+- type: x-blog
+  url: https://www.flexsim.com/blog/
+- type: x-case-studies
+  url: https://www.flexsim.com/case-studies/
+- type: x-contact
+  url: https://www.flexsim.com/contact/
+- type: x-documentation
+  url: https://docs.flexsim.com
+- type: x-facebook
+  url: https://www.facebook.com/flexsim/
+- type: x-press
+  url: https://account.flexsim.com/flexsim-express
+- type: x-privacy
+  url: https://www.flexsim.com/privacy/
+- type: x-support
+  url: https://www.flexsim.com/support/
+- type: x-twitter
+  url: https://twitter.com/FlexSim
+- type: x-website
+  url: https://www.flexsim.com
+- type: x-youtube
+  url: https://www.youtube.com/flexsim
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,53 @@
+---
+name: Decision Toolworks
+description: Point-and-click and easily create a decision tree diagram in your Excel
+  worksheet with automatic formulas for solution. For Mac Excel and Windows Excel.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1310499"
+url: https://raw.githubusercontent.com/api-network/organizations/main/decision-toolworks.yaml
+tags:
+- Add-Ins
+apis: []
+x-common:
+- type: x-support
+  url: https://treeplan.com/support/
+- type: x-support
+  url: https://treeplan.com/support/#Refund-Q-and-A
+- type: x-support
+  url: http://treeplan.com/support/#Questions-and-Answers
+- type: x-support
+  url: https://treeplan.com/support#Purchase-Q-and-A
+- type: x-support
+  url: https://treeplan.com/support#Download-Q-and-A
+- type: x-support
+  url: https://treeplan.com/support#Install-Q-and-A
+- type: x-support
+  url: https://treeplan.com/support#Refund-Q-and-A
+- type: x-support
+  url: https://treeplan.com/support#All-Add-ins-Q-and-A
+- type: x-support
+  url: https://treeplan.com/support#TreePlan-Q-and-A
+- type: x-support
+  url: https://treeplan.com/support#SensIt-Q-and-A
+- type: x-support
+  url: https://treeplan.com/support#SimVoi-Q-and-A
+- type: x-support
+  url: http://treeplan.com/support/#Version-History
+- type: x-support
+  url: http://treeplan.com/support/#TreePlan-Version-History
+- type: x-support
+  url: http://treeplan.com/support/#SensIt-Version-History
+- type: x-support
+  url: http://treeplan.com/support/#SimVoi-Version-History
+- type: x-website
+  url: https://www.treeplan.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,78 @@
+---
+name: AtHoc
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2167016"
+url: https://raw.githubusercontent.com/api-network/organizations/main/athoc.yaml
+tags:
+- Telephony
+apis: []
+x-common:
+- type: x-blog
+  url: https://blogs.blackberry.com/en
+- type: x-blog
+  url: https://devblog.blackberry.com/en
+- type: x-careers
+  url: https://www.blackberry.com/us/en/company/careers
+- type: x-contact
+  url: https://us.blackberry.com/support/contact
+- type: x-developer
+  url: https://developers.blackberry.com/us/en/community.html
+- type: x-developer
+  url: https://developers.blackberry.com/
+- type: x-documentation
+  url: https://docs.blackberry.com/en
+- type: x-events
+  url: https://www.blackberry.com/us/en/company/events
+- type: x-facebook
+  url: https://www.facebook.com/BlackBerry/
+- type: x-instagram
+  url: https://www.instagram.com/blackberry/
+- type: x-investor
+  url: https://www.blackberry.com/us/en/company/investors
+- type: x-linkedin
+  url: https://www.linkedin.com/company/blackberry
+- type: x-marketplace
+  url: https://marketplace.blackberry.com/#/apps
+- type: x-marketplace
+  url: https://marketplace.blackberry.com/apps
+- type: x-news
+  url: https://www.blackberry.com/us/en/company/newsroom
+- type: x-partner
+  url: https://blackberry.qnx.com/en/partners
+- type: x-support
+  url: https://support.blackberry.com/kb/
+- type: x-support
+  url: https://helpblog.blackberry.com/
+- type: x-support
+  url: https://helpblog.blackberry.com/en
+- type: x-support
+  url: https://www.blackberry.com/us/en/support/overview
+- type: x-terms-of-service
+  url: https://www.blackberry.com/us/en/legal
+- type: x-terms-of-service
+  url: https://www.blackberry.com/us/en/legal/accessibility
+- type: x-terms-of-service
+  url: https://www.blackberry.com/us/en/legal/trademarks
+- type: x-terms-of-service
+  url: https://www.blackberry.com/us/en/legal/privacy-policy
+- type: x-terms-of-service
+  url: https://us.blackberry.com/legal/privacy-policy
+- type: x-twitter
+  url: https://twitter.com/blackberry
+- type: x-website
+  url: https://www.athoc.com
+- type: x-youtube
+  url: https://www.youtube.com/user/blackberrysupport
+- type: x-youtube
+  url: https://www.youtube.com/user/BlackBerry
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

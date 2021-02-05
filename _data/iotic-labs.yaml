@@ -1,0 +1,30 @@
+---
+name: Iotic Labs
+description: Iotic Labs website, Experience the Internet Of Things!
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27932-iotic-labs-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "5272975"
+url: https://raw.githubusercontent.com/api-network/organizations/main/iotic-labs.yaml
+tags:
+- Internet Of Things
+apis: []
+x-common:
+- type: x-website
+  url: http://iotic-labs.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/iotic-labs
+- type: x-email
+  url: info@iotic-labs.com
+- type: x-twitter
+  url: https://twitter.com/ioticlabs
+- type: x-website
+  url: https://iotic-labs.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,42 @@
+---
+name: Intermedix
+description: Intermedix provides revenue cycle management, practice management and
+  data analytics solutions to hospitals, physicians and EMS agencies.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29104-www-intermedix-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "534815"
+url: https://raw.githubusercontent.com/api-network/organizations/main/intermedix.yaml
+tags:
+- Healthcare
+- Has API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.r1rcm.com/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/intermedix-corporation
+- type: x-email
+  url: info@intermedix.com
+- type: x-email
+  url: compliance@intermedix.com
+- type: x-email
+  url: privacy@intermedix.com
+- type: x-facebook
+  url: https://www.facebook.com/R1RCM
+- type: x-linkedin
+  url: https://www.linkedin.com/company/r1-rcm
+- type: x-twitter
+  url: https://twitter.com/r1rcm
+- type: x-twitter
+  url: https://twitter.com/imxcorp
+- type: x-website
+  url: https://www.intermedix.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,63 @@
+---
+name: Data Recovery Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2190460"
+url: https://raw.githubusercontent.com/api-network/organizations/main/data-recovery-software.yaml
+tags:
+- Detection And Removal Tools
+- Backup
+apis: []
+x-common:
+- type: x-contact
+  url: https://unistal.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/UnistalGlobal
+- type: x-gdpr
+  url: https://unistal.com/gdpr-compliance-services/
+- type: x-instagram
+  url: https://www.instagram.com/unistalglobal/
+- type: x-partner
+  url: https://unistal.com/partners/
+- type: x-platform
+  url: https://unistal.com/cross-platform-apps-services/
+- type: x-press
+  url: https://unistal.com/outlook-express-password-recovery/
+- type: x-press
+  url: https://unistal.com/outlook-express-recovery-software/
+- type: x-press
+  url: https://unistal.com/press-room/
+- type: x-privacy
+  url: https://unistal.com/privacy-policy-2/
+- type: x-security
+  url: https://unistal.com/data-security-data-recovery/
+- type: x-security
+  url: https://unistal.com/total-security/
+- type: x-security
+  url: https://unistal.com/complete-security/
+- type: x-security
+  url: https://unistal.com/protegent-enterprise-security/
+- type: x-security
+  url: https://unistal.com/locate-laptop-desktop-security/
+- type: x-security
+  url: https://unistal.com/locate-laptop-enterprise-security/
+- type: x-support
+  url: https://unistal.com/cyber-crime-support-services/
+- type: x-support
+  url: https://unistal.com/support/
+- type: x-twitter
+  url: https://twitter.com/UnistalGlobal
+- type: x-website
+  url: https://www.unistal.com
+- type: x-youtube
+  url: https://www.youtube.com/user/UnistalGlobal
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

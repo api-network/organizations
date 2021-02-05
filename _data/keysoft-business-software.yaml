@@ -1,0 +1,29 @@
+---
+name: Key-Soft Business Software
+description: The international project of Kulcs-Soft Nyrt is launched in 2009, is
+  a software development company with the goal to provide home and family businesses
+  as well as small and medium sized companies with easy-to-use high quality business
+  software applications.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/keysoft-business-software.yaml
+tags:
+- Invoice Software
+- Invoice
+- Inventory Software
+- Inventory
+- Billing
+apis: []
+x-common:
+- type: x-website
+  url: https://www.key-soft.eu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,51 @@
+---
+name: MDT Software
+description: Advanced backup and version control software that protects intellectual
+  property and enables manufacturers to avoid risk and recover quickly from failures.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5572667"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mdt-software.yaml
+tags:
+- Automation
+apis: []
+x-common:
+- type: x-about
+  url: https://www.mdt-software.com/about-mdt-software/
+- type: x-contact
+  url: https://www.mdt-software.com/contact-mdt/
+- type: x-facebook
+  url: https://www.facebook.com/MDT-Software-169727343037868/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/mdt-software
+- type: x-news
+  url: https://www.mdt-software.com/mdt_news/
+- type: x-platform
+  url: https://www.mdt-software.com/autosave-system-platform/
+- type: x-privacy
+  url: https://www.mdt-software.com/privacypolicy_0518/
+- type: x-support
+  url: https://www.mdt-software.com/supported-devices/
+- type: x-support
+  url: https://www.mdt-software.com/industry-support/
+- type: x-support
+  url: https://www.mdt-software.com/mdt-support/
+- type: x-support
+  url: https://www.mdt-software.com/mdt-customer-support/
+- type: x-support
+  url: https://www.mdt-software.com/mdt-partner-support/
+- type: x-twitter
+  url: https://twitter.com/MDT_AutoSave
+- type: x-website
+  url: https://www.mdt-software.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=rRyFS_-ReiM&rel=0
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

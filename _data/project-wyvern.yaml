@@ -1,0 +1,25 @@
+---
+name: Project Wyvern
+description: Wyvern is the cryptocurrency for gamers.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27490-www-projectwyvern-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "4214949"
+url: https://raw.githubusercontent.com/api-network/organizations/main/project-wyvern.yaml
+tags:
+- Marketplaces
+- Blockchain
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/WyvernExchange
+- type: x-website
+  url: https://www.projectwyvern.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

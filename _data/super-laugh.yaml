@@ -1,0 +1,32 @@
+---
+name: Super Laugh
+description: I bet I can make you smile :D
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8219130"
+url: https://raw.githubusercontent.com/api-network/organizations/main/super-laugh.yaml
+tags:
+- E-greetings
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.superlaugh.com/contact/
+- type: x-forum
+  url: https://sextlocal.com/blog/sexting-forums/
+- type: x-terms-of-service
+  url: https://www.superlaugh.com/terms-and-conditions/
+- type: x-website
+  url: https://www.superlaugh.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=4IK-Mk3V8Ts
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=OQSNhk5ICTI
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

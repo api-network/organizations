@@ -1,0 +1,32 @@
+---
+name: ASICS.ws
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4323587"
+url: https://raw.githubusercontent.com/api-network/organizations/main/asics-ws.yaml
+tags:
+- Consultants
+apis: []
+x-common:
+- type: x-about
+  url: https://asics.ws/v6/about-us/
+- type: x-developer
+  url: http://developer.asics.ws
+- type: x-news
+  url: https://asics.ws/v6/news/asics-ws-sata-host-ip-core/
+- type: x-news
+  url: https://asics.ws/v6/news/7nm-asic-design-fabrication/
+- type: x-news
+  url: https://asics.ws/v6/news/october-26-2014/
+- type: x-website
+  url: https://www.asics.ws
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

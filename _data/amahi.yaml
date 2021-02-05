@@ -1,0 +1,84 @@
+---
+name: Amahi
+description: Amahi is a media, home and app server software known for its easy-to-use
+  user interface. Amahi has the best media, backup and web apps for small networks.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "452027"
+url: https://raw.githubusercontent.com/api-network/organizations/main/amahi.yaml
+tags:
+- Webapps
+- Webapp
+- Web Apps
+- VPN
+- Ubuntu
+- Setting Up Home Server
+- Samba
+- Rpmfusion
+- Rpm Fusion
+- PXE Server
+- Personal Server
+- Personal Cloud
+- Own Cloud
+- Open Source Home Server
+- Networking
+- Network Storage
+- NAS
+- Media Server
+- Local Cloud
+- Linux Server Home
+- Linux Server
+- Linux Network Server
+- Linux Media Server
+- Linux Homeserver
+- Linux Home Server Use
+- Linux Home Server Howto
+- Linux Home Server
+- Linux Home Network
+- Linux For Home Server
+- Linux File Server
+- Linux Based Home Server
+- Linux
+- Linix Home Server
+- LAMP
+- IP Address
+- Howto Home Server
+- Hosting At Home
+- Homeserver
+- Home Server Using Linux
+- Home Server Simple
+- Home Server Linux
+- Home Server
+- File Sharing
+- Fedora Linux
+- Fedora Home Server
+- Fedora
+- Easy Networking
+- Easy Media Server
+- Easy Home Server
+- Easiest Home Server
+- Build Linux Home Server
+- Build A Linux Home Server
+- Best Linux Home Server
+- Best Linux For Home Server
+- Best Home Server
+- Backups
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.amahi.org
+- type: x-forum
+  url: https://forums.amahi.org
+- type: x-github
+  url: https://github.com/amahi
+- type: x-website
+  url: https://www.amahi.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

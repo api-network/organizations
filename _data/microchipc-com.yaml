@@ -1,0 +1,26 @@
+---
+name: MicrochipC.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6401406"
+url: https://raw.githubusercontent.com/api-network/organizations/main/microchipc-com.yaml
+tags:
+- PIC
+apis: []
+x-common:
+- type: x-code
+  url: http://www.eagleairaust.com.au/sampcode.htm
+- type: x-github
+  url: https://github.com/MicrochipC/
+- type: x-website
+  url: https://www.microchipc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

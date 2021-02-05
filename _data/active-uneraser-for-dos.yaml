@@ -1,0 +1,49 @@
+---
+name: Active@ Uneraser for DOS
+description: Active@ UNERASER is a free unerase software for DOS and Windows that
+  can recover files and folders on FAT/exFAT, HFS+, Ext2/Ext3/Ext4, BtrFS, XFS, UFS
+  and NTFS
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3121238"
+url: https://raw.githubusercontent.com/api-network/organizations/main/active-uneraser-for-dos.yaml
+tags:
+- Utility
+- Uneraser
+- Unerase Freeware
+- Unerase
+- Undelete
+- Tool
+- Restore
+- Repair
+- Recovery
+- Partitions
+- Hard Drive
+- Freeware
+- Free Uneraser
+- Free Undelete
+- Files
+- File Uneraser
+- Error Checking And Repair
+- DOS
+- Disk Uneraser
+- Disk
+- Data Recovery Software
+- Data Recovery
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/#!/lsoft_net
+- type: x-website
+  url: https://www.uneraser.com
+- type: x-youtube
+  url: https://www.youtube.com/user/LsoftTechnologies
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

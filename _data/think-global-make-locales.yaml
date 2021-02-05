@@ -1,0 +1,76 @@
+---
+name: Think Global, Make Locales!
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8937760"
+url: https://raw.githubusercontent.com/api-network/organizations/main/think-global-make-locales.yaml
+tags:
+- Add-on Development
+apis: []
+x-common:
+- type: x-about
+  url: https://blog.babelzilla.org/about/
+- type: x-blog
+  url: https://blog.babelzilla.org/
+- type: x-blog
+  url: https://blog.babelzilla.org/page/2/
+- type: x-blog
+  url: https://blog.babelzilla.org/author/admin-2/
+- type: x-blog
+  url: https://blog.babelzilla.org/category/tech-room/
+- type: x-blog
+  url: https://blog.babelzilla.org/category/localization/
+- type: x-blog
+  url: https://blog.babelzilla.org/author/goofy/
+- type: x-blog
+  url: https://blog.babelzilla.org/author/daveg/
+- type: x-blog
+  url: https://blog.babelzilla.org/category/mozilla/
+- type: x-blog
+  url: https://blog.babelzilla.org/tag/babelzilla-2/
+- type: x-blog
+  url: https://blog.babelzilla.org/tag/community/
+- type: x-blog
+  url: https://blog.babelzilla.org/tag/contributors/
+- type: x-blog
+  url: https://blog.babelzilla.org/tag/localization/
+- type: x-blog
+  url: https://blog.babelzilla.org/tag/translation/
+- type: x-blog
+  url: https://blog.babelzilla.org/tag/mozilla/
+- type: x-blog
+  url: https://blog.babelzilla.org/tag/transvision/
+- type: x-blog
+  url: https://blog.babelzilla.org/category/amo/
+- type: x-blog
+  url: https://blog.babelzilla.org/fr/
+- type: x-blog
+  url: https://blog.babelzilla.org/nl/
+- type: x-forum
+  url: https://babelzilla.org/forum/
+- type: x-github
+  url: https://github.com/BabelZilla/WTS
+- type: x-github
+  url: https://github.com/tymofij/adofex
+- type: x-github
+  url: https://github.com/tymofij/adofex/issues
+- type: x-github
+  url: https://github.com/mozfr/transvision
+- type: x-news
+  url: http://transvision.mozfr.org/news/#v1.7
+- type: x-news
+  url: http://transvision.mozfr.org/news/#v1.6
+- type: x-press
+  url: https://wordpress.org/
+- type: x-website
+  url: https://blog.babelzilla.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

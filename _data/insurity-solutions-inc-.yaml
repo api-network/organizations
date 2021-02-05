@@ -1,0 +1,50 @@
+---
+name: Insurity Solutions, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1032378"
+url: https://raw.githubusercontent.com/api-network/organizations/main/insurity-solutions-inc-.yaml
+tags:
+- E-Business
+apis: []
+x-common:
+- type: x-website
+  url: http://www.insurity.com
+- type: x-about
+  url: https://www.insurity.com/about/
+- type: x-about
+  url: https://www.insurity.com/about/leadership/
+- type: x-blog
+  url: https://www.insurity.com/resources/blog/
+- type: x-careers
+  url: https://www.insurity.com/careers/
+- type: x-contact
+  url: https://www.insurity.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/InsurityInc/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/insurity/
+- type: x-news
+  url: https://www.insurity.com/news-events/
+- type: x-news
+  url: https://www.insurity.com/resources/newsletters/
+- type: x-partner
+  url: https://www.insurity.com/our-approach/partners/
+- type: x-twitter
+  url: https://twitter.com/Insurity
+- type: x-webinars
+  url: https://www.insurity.com/resources/webinars/
+- type: x-website
+  url: https://www.insurity.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=Gnq5m68aYiY
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,116 @@
+---
+name: RIPE NCC
+description: '<p>We''re a not-for-profit membership association, a Regional Internet
+  Registry and the secretariat for the RIPE community supporting the Internet through
+  technical coordination.<span style="white-space: pre;"> </span></p>'
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28832-www-ripe-net.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "22748"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ripe-ncc.yaml
+tags:
+- Networks
+- ISP
+- Assignment
+apis: []
+x-common:
+- type: x-about
+  url: https://www.ripe.net/about-us
+- type: x-about
+  url: https://www.ripe.net/about-us/what-we-do
+- type: x-about
+  url: https://www.ripe.net/about-us/staff
+- type: x-about
+  url: https://www.ripe.net/about-us/staff/structure
+- type: x-about
+  url: https://www.ripe.net/about-us/executive-board
+- type: x-about
+  url: https://www.ripe.net/about-us/executive-board/minutes
+- type: x-about
+  url: https://www.ripe.net/about-us/financial-information
+- type: x-contact
+  url: https://www.ripe.net/manage-ips-and-asns/contact
+- type: x-contact
+  url: https://www.ripe.net/support/contact
+- type: x-contact
+  url: https://www.ripe.net/support/contact/report-form
+- type: x-contact
+  url: https://www.ripe.net/about-us/contact
+- type: x-contact
+  url: https://www.ripe.net/support/contact/social-networking
+- type: x-documentation
+  url: https://atlas.ripe.net/docs/data_struct/
+- type: x-documentation
+  url: https://www.ripe.net/support/documentation
+- type: x-documentation
+  url: https://www.ripe.net/support/documentation/faqs
+- type: x-documentation
+  url: https://www.ripe.net/publications/docs
+- type: x-documentation
+  url: https://www.ripe.net/publications/docs/ripe-documents
+- type: x-documentation
+  url: https://www.ripe.net/publications/docs/ripe-policies
+- type: x-documentation
+  url: https://www.ripe.net/publications/docs/charging
+- type: x-documentation
+  url: https://www.ripe.net/publications/docs/ripe-737
+- type: x-documentation
+  url: https://www.ripe.net/publications/docs/ripe-735
+- type: x-documentation
+  url: https://www.ripe.net/publications/docs/ripe-736
+- type: x-documentation
+  url: https://stat.ripe.net/docs/data_api
+- type: x-forum
+  url: https://www.ripe.net/participate/mail/ripe-forum
+- type: x-news
+  url: https://www.ripe.net/publications/news
+- type: x-news
+  url: https://www.ripe.net/publications/news/feeds
+- type: x-press
+  url: https://www.ripe.net/about-us/press-centre
+- type: x-support
+  url: https://www.ripe.net/manage-ips-and-asns/db/support
+- type: x-support
+  url: https://www.ripe.net/participate/member-support
+- type: x-support
+  url: https://www.ripe.net/support
+- type: x-support
+  url: https://www.ripe.net/support/training
+- type: x-support
+  url: https://www.ripe.net/support/training/courses
+- type: x-support
+  url: https://www.ripe.net/support/training/ripe-ncc-academy
+- type: x-support
+  url: https://www.ripe.net/support/training/ripe-ncc-educa
+- type: x-support
+  url: https://www.ripe.net/support/training/videos
+- type: x-support
+  url: https://www.ripe.net/support/training/material
+- type: x-support
+  url: https://www.ripe.net/support/abuse
+- type: x-support
+  url: https://www.ripe.net/support/service-announcements
+- type: x-support
+  url: https://www.ripe.net/support/cpf
+- type: x-support
+  url: https://www.ripe.net/support/certified-professionals
+- type: x-terms-of-service
+  url: https://www.ripe.net/support/cpf/terms-and-conditions
+- type: x-terms-of-service
+  url: https://www.ripe.net/about-us/legal
+- type: x-terms-of-service
+  url: https://www.ripe.net/about-us/legal/cookies
+- type: x-terms-of-service
+  url: https://www.ripe.net/about-us/legal/terms-of-service
+- type: x-webinars
+  url: https://www.ripe.net/support/training/webinars
+- type: x-website
+  url: https://www.ripe.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,32 @@
+---
+name: ISPConfig
+description: "Manage your Servers directly through your Browser.\_ISPConfig 3 is an
+  open source panel for Linux which is capable of managing multiple servers from one
+  control panel."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "75501"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ispconfig.yaml
+tags:
+- Configuration
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.ispconfig.org/blog/
+- type: x-documentation
+  url: https://www.ispconfig.org/documentation/
+- type: x-news
+  url: https://www.ispconfig.org/newsletter/
+- type: x-support
+  url: https://www.ispconfig.org/support/
+- type: x-website
+  url: https://www.ispconfig.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

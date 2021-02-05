@@ -1,0 +1,28 @@
+---
+name: Gnosis
+description: Gnosis is the platform for the next generation of prediction market applications.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26687-gnosis-pm.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "150393"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gnosis.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: https://gnosis.io
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/gnosis
+- type: x-twitter
+  url: https://twitter.com/gnosisPM
+- type: x-website
+  url: https://gnosis.pm
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

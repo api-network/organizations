@@ -1,0 +1,26 @@
+---
+name: Occupational Safety and Health Administration (OSHA)
+description: <p><span>The Occupational Safety and Health Administration is a large
+  regulatory agency of the United States Department of Labor that originally had federal
+  visitorial powers to inspect and examine workplaces.</span></p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/occupational-safety-and-health-administration-osha.yaml
+tags:
+- Federal Government
+apis: []
+x-common:
+- type: x-website
+  url: http://www.osha.gov/
+- type: x-data
+  url: https://www.osha.gov/data
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

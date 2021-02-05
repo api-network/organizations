@@ -1,0 +1,39 @@
+---
+name: The Omni Group
+description: Creators of Mac, iPad, and iPhone productivity software. Proud to bring
+  you OmniFocus, OmniOutliner, OmniGraffle, and OmniPlan.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "68978"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-omni-group.yaml
+tags:
+- Mac OS
+apis: []
+x-common:
+- type: x-website
+  url: http://www.omnigroup.com/
+- type: x-blog
+  url: https://microblog.omnigroup.com/
+- type: x-documentation
+  url: https://support.omnigroup.com/documentation
+- type: x-facebook
+  url: https://www.facebook.com/theomnigroup/
+- type: x-instagram
+  url: https://www.instagram.com/omnigroup/
+- type: x-support
+  url: https://support.omnigroup.com/catalina/
+- type: x-support
+  url: https://support.omnigroup.com
+- type: x-twitter
+  url: https://twitter.com/OmniGroup
+- type: x-website
+  url: https://www.omnigroup.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

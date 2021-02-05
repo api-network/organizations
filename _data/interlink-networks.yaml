@@ -1,0 +1,52 @@
+---
+name: Interlink Networks
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7628655"
+url: https://raw.githubusercontent.com/api-network/organizations/main/interlink-networks.yaml
+tags:
+- Retailers
+apis: []
+x-common:
+- type: x-about
+  url: https://www.interlinknetworks.com/about/
+- type: x-about
+  url: http://www.interlinknetworks.com/about/#our-history
+- type: x-case-studies
+  url: https://www.interlinknetworks.com/case-studies/
+- type: x-code
+  url: https://www.interlinknetworks.com/aaa-sdk/
+- type: x-code
+  url: http://www.interlinknetworks.com/aaa-sdk/
+- type: x-contact
+  url: https://www.interlinknetworks.com/contact-us/
+- type: x-contact
+  url: http://www.interlinknetworks.com/contact-us/
+- type: x-documentation
+  url: https://www.interlinknetworks.com/aaa-documentation/
+- type: x-feed
+  url: http://www.interlinknetworks.com/feed
+- type: x-linkedin
+  url: https://www.linkedin.com/company/interlink-networks
+- type: x-pricing
+  url: https://www.interlinknetworks.com/pricing/
+- type: x-support
+  url: https://www.interlinknetworks.com/support-form/
+- type: x-support
+  url: https://www.interlinknetworks.com/aaa-support/
+- type: x-support
+  url: http://www.interlinknetworks.com/support-form
+- type: x-website
+  url: https://www.interlinknetworks.com
+- type: x-white-papers
+  url: https://www.interlinknetworks.com/aaa-white-papers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

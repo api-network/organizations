@@ -1,0 +1,23 @@
+---
+name: PayUmoney Developer Guide | Payment Gateway Integration -
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "1"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/payumoney-developer-guide--payment-gateway-integration-.yaml
+tags: []
+apis: []
+x-common:
+- type: x-developers
+  url: https://developer.payumoney.com/
+- type: x-webhooks
+  url: https://developer.payumoney.com/general/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

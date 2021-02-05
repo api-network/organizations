@@ -1,0 +1,34 @@
+---
+name: BTV
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "640028"
+url: https://raw.githubusercontent.com/api-network/organizations/main/btv.yaml
+tags:
+- Animation
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/bensoftware
+- type: x-twitter
+  url: http://twitter.com/meggydavidson
+- type: x-twitter
+  url: http://twitter.com/Bensoftware
+- type: x-twitter
+  url: http://twitter.com/DTTpodcast
+- type: x-twitter
+  url: http://twitter.com/m_pout
+- type: x-twitter
+  url: http://twitter.com/DeepExplorer9
+- type: x-website
+  url: https://www.bensoftware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

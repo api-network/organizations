@@ -1,0 +1,28 @@
+---
+name: RBRVS EZ-Fees
+description: '%'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rbrvs-ezfees.yaml
+tags:
+- Health
+apis: []
+x-common:
+- type: x-contact
+  url: https://rbrvs.net/contact/
+- type: x-pricing
+  url: https://rbrvs.net/pricing/
+- type: x-support
+  url: https://rbrvs.net/support/
+- type: x-website
+  url: https://www.rbrvs.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

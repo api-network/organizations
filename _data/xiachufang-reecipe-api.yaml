@@ -1,0 +1,21 @@
+---
+name: Xiachufang Reecipe API
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xiachufang-reecipe-api.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://garland.api.dev.xiachufang.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

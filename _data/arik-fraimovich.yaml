@@ -1,0 +1,27 @@
+---
+name: Arik Fraimovich
+description: Creator of Redash, an open source tool that helps companies become more
+  data driven https://t.co/lZGryMqF7x. Creative Geek, Problem Solver.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29379-arikfr-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "6"
+x-alexaRank: "11006334"
+url: https://raw.githubusercontent.com/api-network/organizations/main/arik-fraimovich.yaml
+tags:
+- Individual
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/person/arik-fraimovich
+- type: x-twitter
+  url: https://twitter.com/arikfr
+- type: x-website
+  url: http://arikfr.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

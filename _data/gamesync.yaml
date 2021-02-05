@@ -1,0 +1,47 @@
+---
+name: GameSync
+description: Try us FREE! Play at the only fiber Internet powered 24 hour gaming center
+  around and enjoy lag-free performance on the best equipment. It's gaming Nirvana!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3917411"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gamesync.yaml
+tags:
+- United States
+apis: []
+x-common:
+- type: x-website
+  url: http://gamesync.us
+- type: x-code
+  url: http://gamesync.us/couponcodes/
+- type: x-contact
+  url: http://gamesync.us/contact/
+- type: x-contact
+  url: http://gamesync.us/contact
+- type: x-facebook
+  url: https://www.facebook.com/groups/GameSyncFGC/
+- type: x-facebook
+  url: https://www.facebook.com/groups/GameSyncSmash/
+- type: x-facebook
+  url: https://www.facebook.com/GameSyncEsports/
+- type: x-facebook
+  url: https://facebook.com/GameSyncEsports
+- type: x-news
+  url: http://gamesync.us/cat/gamesync-company-news/
+- type: x-pricing
+  url: http://gamesync.us/pricing/
+- type: x-twitter
+  url: https://twitter.com/GameSync
+- type: x-website
+  url: https://gamesync.us
+- type: x-youtube
+  url: https://www.youtube.com/c/GameSyncGaming
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

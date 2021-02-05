@@ -1,0 +1,68 @@
+---
+name: Blueleaf Advisor
+description: Blueleaf increases the revenue of financial advisors by helping them
+  win more clients, growing existing clients and driving referrals.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1313_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "167871"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blueleaf-advisor.yaml
+tags:
+- Have API
+- Financial
+- CRM
+- API United Kingdom
+apis: []
+x-common:
+- type: x-website
+  url: http://www.blueleaf.com/advisor
+- type: x-about
+  url: https://www.blueleaf.com/about-blueleaf/
+- type: x-about
+  url: https://pages.blueleaf.com/question-about-blueleaf
+- type: x-blog
+  url: https://blog.blueleaf.com/
+- type: x-blog
+  url: http://blog.blueleaf.com/category/savings-investments/
+- type: x-blog-rss
+  url: http://blog.blueleaf.com/feed/
+- type: x-careers
+  url: https://www.blueleaf.com/jobs/
+- type: x-contact
+  url: https://www.blueleaf.com/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/blueleaf
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/blueleaf
+- type: x-email
+  url: vipsupport@blueleaf.com
+- type: x-github
+  url: https://github.com/Blueleaf
+- type: x-login
+  url: https://secure.blueleaf.com/sign_in
+- type: x-partner
+  url: https://www.blueleaf.com/partners/
+- type: x-pricing
+  url: https://www.blueleaf.com/pricing/
+- type: x-privacy
+  url: https://www.blueleaf.com/privacy-policy/
+- type: x-security
+  url: https://www.blueleaf.com/security/
+- type: x-support
+  url: https://pages.blueleaf.com/help_form
+- type: x-support
+  url: https://support.blueleaf.com/
+- type: x-terms-of-service
+  url: https://www.blueleaf.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/blueleafadvisor
+- type: x-website
+  url: http://www.blueleaf.com/developer/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

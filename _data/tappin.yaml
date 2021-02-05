@@ -1,0 +1,39 @@
+---
+name: TappIn
+description: TappIn revolutionizes your ability to securely and easily share and access
+  digital files stores on a home or work computer from any web browser or smartphone.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/949_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tappin.yaml
+tags:
+- Storage
+- Storage
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.TappIn.com
+- type: x-blog
+  url: http://www.tappin.com/blog
+- type: x-blog-rss
+  url: http://www.tappin.com/blog/feed/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/tappin
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/tappin
+- type: x-developers
+  url: http://www.tappin.com/developer-api
+- type: x-twitter
+  url: https://twitter.com/Tapp_In
+- type: x-website
+  url: http://www.tappin.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,36 @@
+---
+name: Macfixit
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "293763"
+url: https://raw.githubusercontent.com/api-network/organizations/main/macfixit.yaml
+tags:
+- Apple
+apis: []
+x-common:
+- type: x-website
+  url: http://www.macfixit.com.au
+- type: x-blog
+  url: https://www.macfixit.com.au/blog/
+- type: x-blog
+  url: https://blog.macfixit.com.au
+- type: x-contact
+  url: https://www.macfixit.com.au/contacts/
+- type: x-facebook
+  url: https://www.facebook.com/macfixitaustralia/
+- type: x-support
+  url: http://support.macfixit.com.au/
+- type: x-twitter
+  url: https://twitter.com/macfixit
+- type: x-website
+  url: https://www.macfixit.com.au
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

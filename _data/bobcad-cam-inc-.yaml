@@ -1,0 +1,36 @@
+---
+name: BobCAD CAM Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "936375"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bobcad-cam-inc-.yaml
+tags:
+- Computer Aided Manufacturing
+apis: []
+x-common:
+- type: x-website
+  url: http://bobcad.com
+- type: x-facebook
+  url: https://www.facebook.com/BobCADCAMInc
+- type: x-instagram
+  url: https://www.instagram.com/bobcadcam/
+- type: x-instagram
+  url: yourapp://www.instagram.com/?screen=bobcadcam/
+- type: x-support
+  url: http://bobcadsupport.com?source=BobCADSUPPORT_TOPNAV
+- type: x-support
+  url: http://bobcadsupport.com
+- type: x-twitter
+  url: https://twitter.com/bobcad_cam
+- type: x-website
+  url: https://www.bobcad.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

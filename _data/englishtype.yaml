@@ -1,0 +1,35 @@
+---
+name: Englishtype
+description: Try the UK's best touch typing tutor, developed by an Educational Psychologist,
+  designed for the UK curriculum, special needs friendly. Visit English Type.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2192249"
+url: https://raw.githubusercontent.com/api-network/organizations/main/englishtype.yaml
+tags:
+- Typing
+apis: []
+x-common:
+- type: x-blog
+  url: https://englishtype.com/blog/
+- type: x-contact
+  url: https://englishtype.com/contact-us/
+- type: x-privacy
+  url: https://englishtype.com/website-privacy-policy/
+- type: x-support
+  url: https://englishtype.com/helping-pupils-with-dyspraxia/
+- type: x-terms-of-service
+  url: https://englishtype.com/terms-and-conditions/
+- type: x-terms-of-service
+  url: https://englishtype.com/website-terms-and-conditions/
+- type: x-website
+  url: https://www.englishtype.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

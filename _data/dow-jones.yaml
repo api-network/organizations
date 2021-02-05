@@ -1,0 +1,49 @@
+---
+name: Dow Jones
+description: Dow Jones publishes the world???s most trusted business news and financial
+  information in a variety of media. It delivers breaking news, exclusive insights,
+  expert commentary and personal finance strategies.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28182-developer-dowjones-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "10205"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dow-jones.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: https://www.dowjones.com/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/dow-jones-venturewire
+- type: x-developer
+  url: https://developer.dowjones.com/site/global/home/index.gsp
+- type: x-email
+  url: sophie.bent@dowjones.com
+- type: x-email
+  url: privacypolicy@dowjones.com
+- type: x-email
+  url: constantine.panagiotatos@dowjones.com
+- type: x-email
+  url: Colleen.Schwartz@dowjones.com
+- type: x-email
+  url: Steve.Severinghaus@dowjones.com
+- type: x-email
+  url: Jessica.Mara@dowjones.com
+- type: x-email
+  url: Andrew.Robinson@dowjones.com
+- type: x-email
+  url: toby.doman@dowjones.com
+- type: x-email
+  url: annie.choi@dowjones.com
+- type: x-twitter
+  url: https://twitter.com/DowJones
+- type: x-website
+  url: https://developer.dowjones.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

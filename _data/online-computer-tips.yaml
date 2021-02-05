@@ -1,0 +1,29 @@
+---
+name: Online Computer Tips
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "539881"
+url: https://raw.githubusercontent.com/api-network/organizations/main/online-computer-tips.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.onlinecomputertips.com/
+- type: x-facebook
+  url: https://www.facebook.com/OnlineComputerTips/
+- type: x-twitter
+  url: https://twitter.com/OnlineCompTips
+- type: x-website
+  url: https://www.onlinecomputertips.com
+- type: x-youtube
+  url: https://www.youtube.com/user/OnlineComputerTips
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

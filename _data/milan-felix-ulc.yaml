@@ -1,0 +1,27 @@
+---
+name: "Milan Felix \u0160ulc"
+description: "I am Milan \u0160ulc and I develop for living."
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29481-f3l1x-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "7001375"
+url: https://raw.githubusercontent.com/api-network/organizations/main/milan-felix-ulc.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: https://f3l1x.io
+- type: x-email
+  url: hack@f3l1x.io
+- type: x-twitter
+  url: https://twitter.com/xf3l1x
+- type: x-website
+  url: http://f3l1x.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

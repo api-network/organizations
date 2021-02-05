@@ -1,0 +1,26 @@
+---
+name: GreenCoin Foundation
+description: GreenCoin is a digital asset that is issued directly to Renewable Producers
+  for free. An example of a Renewable Producer is a home solar array owner, and producers
+  receive the coins on behalf of the carbon-mitigated production. GreenCoins can be
+  held, ...
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27149-www-grcoin-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1051213"
+url: https://raw.githubusercontent.com/api-network/organizations/main/greencoin-foundation.yaml
+tags:
+- Energy
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://www.grcoin.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

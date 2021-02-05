@@ -1,0 +1,36 @@
+---
+name: X-Ray Application Software
+description: X-Ray - powerfull email assistant.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xray-application-software.yaml
+tags:
+- Xray Mail Assistant
+- Xray
+- X-ray Mail Assistant
+- X-ray
+- X-Mailer
+- Tools
+- RFC
+- Received
+- Mail
+- Headers
+- Header
+- Filter Program
+- Filter Agent.
+- Filter
+- E-mail
+apis: []
+x-common:
+- type: x-website
+  url: https://www.xrayapp.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

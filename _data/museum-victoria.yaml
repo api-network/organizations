@@ -1,0 +1,56 @@
+---
+name: Museum Victoria
+description: Australia's largest public museum organisation. Our venues are Melbourne
+  Museum incorporating Bunjilaka and IMAX Melbourne, Scienceworks, Immigration Museum
+  and the Royal Exhibition Building.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/mvlogo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "838143"
+url: https://raw.githubusercontent.com/api-network/organizations/main/museum-victoria.yaml
+tags:
+- Victoria
+- Museums
+- Have API
+- Australia
+- API Provider
+apis: []
+x-common:
+- type: x-about
+  url: https://museumsvictoria.com.au/about-us/
+- type: x-base
+  url: http://museumvictoria.com.au/collections/api/
+- type: x-careers
+  url: https://museumsvictoria.com.au/careers/
+- type: x-contact
+  url: https://museumsvictoria.com.au/contact-us/
+- type: x-developers
+  url: http://museumvictoria.com.au/collections/help/api
+- type: x-documentation
+  url: https://solcast.com.au/api/docs/
+- type: x-facebook
+  url: https://www.facebook.com/museumvictoria/
+- type: x-faq
+  url: https://solcast.com.au/api/faq/
+- type: x-github
+  url: https://github.com/museumvictoria
+- type: x-instagram
+  url: https://www.instagram.com/museumsvictoria/
+- type: x-support
+  url: https://museumsvictoria.com.au/join-support/
+- type: x-terms-of-service
+  url: https://museumsvictoria.com.au/legals/
+- type: x-twitter
+  url: https://twitter.com/museumsvictoria/
+- type: x-twitter
+  url: https://twitter.com/museumvictoria
+- type: x-website
+  url: http://museumvictoria.com.au
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

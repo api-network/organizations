@@ -1,0 +1,42 @@
+---
+name: Managed and Optimized Drupal Hosting with Varnish, Apache Solr, APC
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/managed-and-optimized-drupal-hosting-with-varnish-apache-solr-apc.yaml
+tags:
+- Commercial Services
+apis: []
+x-common:
+- type: x-website
+  url: http://www.altagrade.com
+- type: x-about
+  url: https://www.altagrade.com/about/data-centers
+- type: x-about
+  url: https://www.altagrade.com/about/why-altagrade
+- type: x-blog
+  url: https://www.altagrade.com/blog
+- type: x-contact
+  url: https://www.altagrade.com/contact-us
+- type: x-facebook
+  url: https://www.facebook.com/altagrade
+- type: x-login
+  url: https://my.altagrade.com/user/login
+- type: x-partner
+  url: https://www.altagrade.com/about/partner-program
+- type: x-platform
+  url: https://www.altagrade.com/about/platform
+- type: x-twitter
+  url: https://www.twitter.com/goaltagrade
+- type: x-website
+  url: https://drupion.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

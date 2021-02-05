@@ -1,0 +1,46 @@
+---
+name: AfterDawn.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "24914"
+url: https://raw.githubusercontent.com/api-network/organizations/main/afterdawn-com.yaml
+tags:
+- Digital Video
+apis: []
+x-common:
+- type: x-website
+  url: http://www.afterdawn.com/
+- type: x-facebook
+  url: https://www.facebook.com/pages/AfterDawn/134850391475
+- type: x-feed
+  url: https://feeds.afterdawn.com/afterdawn
+- type: x-feed
+  url: https://www.afterdawn.com/general/feedback.cfm
+- type: x-forum
+  url: https://forums.afterdawn.com/
+- type: x-login
+  url: https://login.afterdawn.com/create_new_account.cfm
+- type: x-login
+  url: https://login.afterdawn.com/lost_password.cfm
+- type: x-news
+  url: https://www.afterdawn.com/news/
+- type: x-support
+  url: https://www.afterdawn.com/tech_support/
+- type: x-terms-of-service
+  url: https://www.afterdawn.com/general/legal.cfm
+- type: x-twitter
+  url: https://twitter.com/afterdawn
+- type: x-website
+  url: https://www.afterdawn.com
+- type: x-youtube
+  url: https://www.youtube.com/user/afterdawncom
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

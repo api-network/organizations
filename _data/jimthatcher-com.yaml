@@ -1,0 +1,31 @@
+---
+name: JimThatcher.com
+description: Accessibility Consulting, Services, Training and Experience
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1465947"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jimthatcher-com.yaml
+tags:
+- Web Accessibility
+- |-
+  WCAG
+  Site Evaluations
+- Users With Disabilities
+- Section 508
+- Screen Readers
+- Companies And Consultants
+- Blind
+- Accessibility Training
+apis: []
+x-common:
+- type: x-website
+  url: https://www.jimthatcher.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

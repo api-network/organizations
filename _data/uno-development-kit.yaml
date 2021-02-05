@@ -1,0 +1,38 @@
+---
+name: UNO Development Kit
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8995"
+url: https://raw.githubusercontent.com/api-network/organizations/main/uno-development-kit.yaml
+tags:
+- Component Frameworks
+apis: []
+x-common:
+- type: x-blog
+  url: https://blogs.apache.org/ooo/
+- type: x-code
+  url: http://download.openoffice.org/sdk.html
+- type: x-open-source
+  url: https://openoffice.apache.org/get-involved.html
+- type: x-open-source
+  url: http://wiki.services.openoffice.org/wiki/KR
+- type: x-open-source
+  url: http://wiki.services.openoffice.org/wiki/SB
+- type: x-open-source
+  url: http://projects.openoffice.org/accepted.html
+- type: x-open-source
+  url: http://www.openoffice.org
+- type: x-open-source
+  url: http://wiki.services.openoffice.org/wiki/Uno/Efforts
+- type: x-website
+  url: https://udk.openoffice.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

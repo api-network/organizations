@@ -1,0 +1,37 @@
+---
+name: Terremark vCloud Express
+description: Verizon Enterprise technology solutions innovate how you do   business
+  with industry leading cloud services, mobility   solutions, security, other managed
+  IT solutions.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/496_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/terremark-vcloud-express.yaml
+tags:
+- Networks
+- Have API
+apis: []
+x-common:
+- type: x-blog
+  url: http://terremark.com/blog
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/verizon-enterprise-solutions
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/terremark-worldwide
+- type: x-developers
+  url: http://vcloudexpress.terremark.com/api.aspx
+- type: x-twitter
+  url: https://twitter.com/http://www.tendrilinc.com/about-us/news-room/blog/feed
+- type: x-twitter
+  url: https://twitter.com/VZEnterprise
+- type: x-website
+  url: http://vcloudexpress.terremark.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

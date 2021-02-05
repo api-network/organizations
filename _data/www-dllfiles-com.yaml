@@ -1,0 +1,27 @@
+---
+name: www.dll-files.com
+description: "Download missing DLL files for free to fix DLL errors. If you want help
+  to install DLL files, DLL\u2011files.com Client is the DLL fixer you need."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10545"
+url: https://raw.githubusercontent.com/api-network/organizations/main/www-dllfiles-com.yaml
+tags:
+- Software
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.dll-files.com
+- type: x-facebook
+  url: https://www.facebook.com/dllfiles/
+- type: x-website
+  url: https://www.dll-files.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

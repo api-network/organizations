@@ -1,0 +1,52 @@
+---
+name: RedLine13 Zip Code Distance
+description: RedLine13 is an "almost" free load testing service that allows users
+  to run a range load, stress, and performance tests with popular tools like JMeter.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1900-redline13-zip-code-distance.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "638427"
+url: https://raw.githubusercontent.com/api-network/organizations/main/redline13-zip-code-distance.yaml
+tags:
+- Nonprofit
+- Have API
+- Conversions
+- Calculator
+apis: []
+x-common:
+- type: x-website
+  url: http://www.redline13.com
+- type: x-code
+  url: http://zipcodedistanceapi.redline13.com/RealTime
+- type: x-code
+  url: https://blog.zipcodeapi.com/
+- type: x-code
+  url: https://blog.zipcodeapi.com/a-zipcodeapi-customer/
+- type: x-code
+  url: https://blog.zipcodeapi.com/students-use-zipcodeapi/
+- type: x-code
+  url: https://blog.zipcodeapi.com/zipcodeapi-user/
+- type: x-code
+  url: https://blog.zipcodeapi.com/greyhound-uses-zipcodeapi/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/redline13
+- type: x-developer
+  url: https://realtimemapapi.com
+- type: x-email
+  url: info@redline13.com
+- type: x-signup
+  url: https://runsignup.com/Realtime
+- type: x-signup
+  url: https://runsignup.com
+- type: x-twitter
+  url: https://twitter.com/redlinethirteen
+- type: x-website
+  url: http://zipcodedistanceapi.redline13.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

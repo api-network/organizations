@@ -1,0 +1,48 @@
+---
+name: Check Processes
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/check-processes.yaml
+tags:
+- "\u0637\u0631\u064A\u0642\u0629 \u0633\u0631\u064A\u0639\u0629 \u0644\u062A\u0646\u0638\u064A\u0641
+  \u0627\u0644\u0645\u0637\u0628\u062E"
+- "\u0637\u0631\u064A\u0642\u0629 \u0633\u0631\u064A\u0639\u0629 \u0644\u062A\u0646\u0638\u064A\u0641
+  \u0627\u0644\u0645\u0646\u0632\u0644"
+- "\u0637\u0631\u064A\u0642\u0629 \u062A\u0646\u0638\u064A\u0641 \u062F\u0648\u0627\u0644\u064A\u0628
+  \u0627\u0644\u0645\u0637\u0628\u062E"
+- "\u0637\u0631\u064A\u0642\u0629 \u062A\u0646\u0638\u064A\u0641 \u0627\u0644\u0643\u0646\u0628
+  \u0627\u0644\u0645\u062A\u0633\u062E"
+- "\u0637\u0631\u064A\u0642\u0629 \u062A\u0646\u0638\u064A\u0641 \u0648\u0631\u0642
+  \u0627\u0644\u062C\u062F\u0631\u0627\u0646"
+- "\u062A\u0646\u0638\u064A\u0641 \u062F\u0648\u0627\u0644\u064A\u0628 \u0627\u0644\u0645\u0637\u0628\u062E"
+- "\u062A\u0646\u0638\u064A\u0641 \u0627\u0644\u0645\u0637\u0628\u062E"
+- "\u062A\u0646\u0638\u064A\u0641 \u0627\u0644\u0645\u0646\u0632\u0644"
+- "\u062A\u0646\u0638\u064A\u0641 \u0627\u0644\u0643\u0646\u0628 \u0627\u0644\u0645\u062A\u0633\u062E"
+- "\u0627\u0632\u0627\u0644\u0629 \u0627\u0644\u062D\u0628\u0631 \u0645\u0646 \u0648\u0631\u0642
+  \u0627\u0644\u062C\u062F\u0631\u0627\u0646"
+- Spyware And Adware
+apis: []
+x-common:
+- type: x-feed
+  url: https://checkprocesses.com/feed/
+- type: x-feed
+  url: https://checkprocesses.com/comments/feed/
+- type: x-login
+  url: https://checkprocesses.com/wp-login.php
+- type: x-press
+  url: http://ar.wordpress.org/
+- type: x-press
+  url: http://wordpress.org/
+- type: x-website
+  url: https://www.checkprocesses.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

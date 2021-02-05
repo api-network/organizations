@@ -1,0 +1,46 @@
+---
+name: certifypro
+description: Save tons of money on your certification exams using our tips and tricks.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/certifypro.yaml
+tags:
+- Training And Certification
+- Switch
+- Router
+- Rhce
+- Red Hat
+- Network+
+- Microsoft Certified Systems Engineer
+- MCSD
+- MCP
+- LPI
+- Linux
+- Inexpensive
+- I-Net+
+- Discount Exam Vouchers
+- CompTIA
+- CIW
+- CISSP
+- Cisco
+- Cheap
+- CCNP
+- CCNA
+- CCIE
+- Books
+- A+
+- A Plus
+apis: []
+x-common:
+- type: x-website
+  url: https://www.certifypro.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

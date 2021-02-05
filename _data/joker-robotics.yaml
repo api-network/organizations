@@ -1,0 +1,29 @@
+---
+name: Joker Robotics
+description: "Essayez-nous ! Entreprise de d\xE9pannage informatique s\xE9rieuse et
+  rapide sur lYON"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/joker-robotics.yaml
+tags:
+- "Soci\xE9t\xE9 D\xE9pannage Informatique LYON"
+- Kits
+- "Entreprise D\xE9pannage Informatique LYON"
+- "D\xE9pannage Informatique LYON"
+- "D\xE9pannage Informatique 69"
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.joker-robotics.com/blog/
+- type: x-website
+  url: https://www.joker-robotics.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,30 @@
+---
+name: PlayStation
+description: "Know PlayStation\xAE Official Site - PlayStation Console, Games, Accessories,
+  for Playstation console from the official PlayStation website. Explore PlayStation\xAE
+  Official Site - PlayStation Console, Games, Accessories game detail, demo, images,
+  videos, re..."
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29334-playstation-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "490"
+url: https://raw.githubusercontent.com/api-network/organizations/main/playstation.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: https://www.playstation.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/playstation-network
+- type: x-twitter
+  url: https://twitter.com/PlayStation
+- type: x-website
+  url: http://playstation.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

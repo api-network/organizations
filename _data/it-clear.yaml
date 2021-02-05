@@ -1,0 +1,40 @@
+---
+name: IT Clear
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/it-clear.yaml
+tags:
+- Used
+apis: []
+x-common:
+- type: x-website
+  url: http://www.itcsales.co.uk/
+- type: x-about
+  url: https://www.itclear.com/about-us/
+- type: x-about
+  url: https://plus.google.com/+ItcsalesCoUk/about
+- type: x-contact
+  url: https://www.itclear.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/itcgroup/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/itc-sales
+- type: x-news
+  url: https://www.itclear.com/news/
+- type: x-privacy
+  url: http://www.itclear.com/privacy-policy
+- type: x-twitter
+  url: https://twitter.com/ITC_Sales
+- type: x-website
+  url: https://www.itclear.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

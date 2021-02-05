@@ -1,0 +1,38 @@
+---
+name: Extentia Information Technology
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "887996"
+url: https://raw.githubusercontent.com/api-network/organizations/main/extentia-information-technology.yaml
+tags:
+- Software Development
+apis: []
+x-common:
+- type: x-website
+  url: http://www.extentia.com/contact-us
+- type: x-contact
+  url: https://www.extentia.com/contact-us
+- type: x-facebook
+  url: https://www.facebook.com/Extentia
+- type: x-instagram
+  url: https://www.instagram.com/extentia_illustrated/
+- type: x-platform
+  url: https://www.extentia.com/sap-hana-cloud-platform
+- type: x-privacy
+  url: https://www.extentia.com/privacy-policy
+- type: x-twitter
+  url: https://twitter.com/Extentia
+- type: x-website
+  url: https://www.extentia.com
+- type: x-youtube
+  url: https://www.youtube.com/user/ExtentiaTech
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

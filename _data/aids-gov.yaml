@@ -1,0 +1,67 @@
+---
+name: AIDS.gov
+description: "HIV.gov is the federal government\u2019s leading source for information
+  about HIV."
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/aids-gov-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "800"
+x-alexaRank: "116745"
+url: https://raw.githubusercontent.com/api-network/organizations/main/aids-gov.yaml
+tags:
+- No API Definition
+- Healthcare
+- Healthcare
+- Have API Paths
+- Have API
+- API Provider
+- AIDS
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.aids.gov/
+- type: x-website
+  url: http://www.HIV.gov
+- type: x-email
+  url: contact@AIDS.gov
+- type: x-email
+  url: press@AIDS.gov
+- type: x-events
+  url: https://www.hiv.gov/events/awareness-days/world-aids-day
+- type: x-facebook
+  url: https://www.facebook.com/HIV.gov/
+- type: x-instagram
+  url: https://www.instagram.com/hivgov/
+- type: x-press
+  url: https://www.facebook.com/sharer.php?u=http://www.hiv.gov/blog/hrsa-announces-highest-hiv-viral-suppression-rate-new-ryan-white-hivaids-program-client-level-0
+- type: x-press
+  url: https://www.facebook.com/sharer.php?u=http://www.hiv.gov/blog/hot-presses-read-all-about-world-aids-day-2019
+- type: x-privacy
+  url: https://www.hhs.gov/privacy.html
+- type: x-security
+  url: https://www.facebook.com/sharer.php?u=http://www.hiv.gov/blog/icymi-how-prevent-5-common-security-incidents
+- type: x-twitter
+  url: https://twitter.com/HIVGov
+- type: x-twitter
+  url: https://twitter.com/AIDSgov
+- type: x-twitter
+  url: https://www.twitter.com/hivgov
+- type: x-webinars
+  url: https://www.facebook.com/sharer.php?u=http://www.hiv.gov/blog/prep-program-webinar-fridayregister-now
+- type: x-webinars
+  url: https://www.facebook.com/sharer.php?u=http://www.hiv.gov/blog/prep-program-webinar-next-weekregister-now
+- type: x-webinars
+  url: https://www.facebook.com/sharer.php?u=http://www.hiv.gov/blog/national-latinx-aids-awareness-day-webinar-ending-hiv-epidemic
+- type: x-webinars
+  url: https://www.facebook.com/sharer.php?u=http://www.hiv.gov/blog/webinar-syringe-service-programs-state-and-local-perspectives-role-policy-funding-and
+- type: x-website
+  url: https://www.hiv.gov/
+- type: x-youtube
+  url: https://www.youtube.com/hivgov
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

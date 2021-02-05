@@ -1,0 +1,67 @@
+---
+name: Digital Public Library of America
+description: "The Digital Public Library of America (DPLA) is an all-digital library
+  that aggregates metadata \u2014 or information describing an item \u2014 and thumbnails
+  for millions of photographs, manuscripts, books, sounds, moving images, and more
+  from libraries, archiv..."
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/digital-public-library-of-america-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "10"
+x-alexaRank: "120823"
+url: https://raw.githubusercontent.com/api-network/organizations/main/digital-public-library-of-america.yaml
+tags:
+- Target
+- Libraries
+- Libraries
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://dp.la
+- type: x-blog-rss
+  url: http://dp.la/info/feed
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/digital-public-library-of-america
+- type: x-email
+  url: info@dp.la
+- type: x-email
+  url: education@dp.la
+- type: x-email
+  url: andy@dp.la
+- type: x-email
+  url: arielle@dp.la
+- type: x-email
+  url: audrey@dp.la
+- type: x-email
+  url: emily@dp.la
+- type: x-email
+  url: franky@dp.la
+- type: x-email
+  url: gretchen@dp.la
+- type: x-email
+  url: bracken@dp.la
+- type: x-email
+  url: kelcy@dp.la
+- type: x-events
+  url: https://pro.dp.la/events
+- type: x-facebook
+  url: https://www.facebook.com/digitalpubliclibraryofamerica
+- type: x-github
+  url: https://github.com/dpla
+- type: x-instagram
+  url: https://www.instagram.com/digpublib/
+- type: x-news
+  url: https://dp.la/news
+- type: x-twitter
+  url: https://twitter.com/dpla
+- type: x-website
+  url: http://dp.la/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

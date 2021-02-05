@@ -1,0 +1,41 @@
+---
+name: Combit List & Label
+description: "Seit 1989 entwickelt combit ausgezeichnete Software f\xFCr den deutschen
+  & internationalen Markt in den Bereichen Entwicklungskomponenten & Kontaktmanagement."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "815054"
+url: https://raw.githubusercontent.com/api-network/organizations/main/combit-list-label.yaml
+tags:
+- Reporting
+apis: []
+x-common:
+- type: x-website
+  url: http://www.combit.net
+- type: x-blog
+  url: https://blog.combit.net/blog/entwicklung/
+- type: x-developer
+  url: http://developer.combit.net
+- type: x-facebook
+  url: https://www.facebook.com/combit
+- type: x-news
+  url: https://www.combit.net/news/
+- type: x-press
+  url: https://www.combit.net/impressum/
+- type: x-support
+  url: https://support.combit.net/teamviewer/
+- type: x-support
+  url: https://support.combit.net/mein-konto/
+- type: x-twitter
+  url: https://twitter.com/combit
+- type: x-website
+  url: https://www.combit.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

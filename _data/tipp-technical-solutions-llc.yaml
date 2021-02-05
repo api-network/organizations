@@ -1,0 +1,24 @@
+---
+name: Tipp Technical Solutions, LLC
+description: Kerio Connect Email Hosting Cloud
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tipp-technical-solutions-llc.yaml
+tags:
+- Ohio
+apis: []
+x-common:
+- type: x-partner
+  url: http://partners.carbonite.com/tipptechnicalsolutions
+- type: x-website
+  url: https://www.tipptech.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

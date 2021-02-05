@@ -1,0 +1,31 @@
+---
+name: TYPO3 Multishop
+description: Setting up a web shop has never been that easy, with the click & play
+  TYPO3 plugin Multishop. Multishop puts you fast into e-commerce business and is
+  incredibly user friendly.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5129182"
+url: https://raw.githubusercontent.com/api-network/organizations/main/typo3-multishop.yaml
+tags:
+- Typo3shop
+- Typo3 Webshop
+- Typo3 Web Shop
+- Typo3 Shop
+- Typo3 Ecommerce
+- Typo3 E-commerce
+- TYPO3
+- T3shop
+apis: []
+x-common:
+- type: x-website
+  url: https://www.typo3multishop.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

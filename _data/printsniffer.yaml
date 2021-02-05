@@ -1,0 +1,24 @@
+---
+name: PrintSniffer
+description: "PrintSniffer - Solution for monitoring of printers, Print Auditing,\r\n\t\t\tAudit,
+  Manage, Management, Track Printing, Windows NT Printing, Print Manager, Print Console,
+  Print Management, Track Printing"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "11207477"
+url: https://raw.githubusercontent.com/api-network/organizations/main/printsniffer.yaml
+tags:
+- File And Print Sharing
+apis: []
+x-common:
+- type: x-website
+  url: https://www.printsniffer.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

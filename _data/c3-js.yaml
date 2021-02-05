@@ -1,0 +1,160 @@
+---
+name: C3.js
+description: D3 based reusable chart library
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "304819"
+url: https://raw.githubusercontent.com/api-network/organizations/main/c3-js.yaml
+tags:
+- JavaScript
+apis: []
+x-common:
+- type: x-forum
+  url: https://groups.google.com/forum/#!forum/c3js
+- type: x-github
+  url: https://github.com/c3js/c3
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.7.12
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.7.11
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.7.10
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.7.9
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.7.8
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.7.7
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.7.6
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.7.5
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.7.4
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.7.3
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.7.2
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.7.1
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.7.0
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.6.14
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.6.13
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.6.12
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.6.11
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.6.10
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.6.9
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.6.8
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.6.7
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.6.6
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.6.5
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.6.4
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.6.3
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.6.2
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.4.23
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.6.1
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.6.0
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.5.4
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.5.3
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.5.2
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.5.1
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.5.0
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.4.22
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.4.21
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.4.20
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.4.19
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.4.18
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.4.17
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.4.16
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.4.15
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.4.14
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.4.13
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/v0.4.12
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/0.4.11
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/0.4.10
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/0.4.9
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/0.4.8
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/0.4.7
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/0.4.6
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/0.4.5
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/0.4.4
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/0.4.3
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/0.4.2
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/0.4.1
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/0.4.0
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/0.3.0
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/0.2.5
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/0.2.4
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/0.2.3
+- type: x-github
+  url: https://github.com/danelkhen
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/0.2.2
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/0.2.1
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/0.2.0
+- type: x-github
+  url: https://github.com/c3js/c3/releases/tag/0.1.42
+- type: x-github
+  url: https://github.com/mbostock/d3
+- type: x-website
+  url: https://c3js.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

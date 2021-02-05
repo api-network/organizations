@@ -1,0 +1,47 @@
+---
+name: HistoryAtState
+description: <p>The Office of the Historian is an office of the United States Department
+  of State within the Bureau of Public Affairs. The Office is responsible, under law,
+  for the preparation and publication of the official historical documentary record
+  of U.S. foreign policy in the Foreign Relations of the United States series. It
+  researches and writes historical studies on aspects of U.S. diplomacy for use by
+  policymakers in the Department and in other agencies as well for the public.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/440px-Department_of_state.svg.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "562"
+url: https://raw.githubusercontent.com/api-network/organizations/main/historyatstate.yaml
+tags:
+- Have API
+- Federal Government
+- API Provider
+apis: []
+x-common:
+- type: x-developers
+  url: http://history.state.gov/developer
+- type: x-twitter
+  url: https://twitter.com/HistoryAtState
+- type: x-twitter
+  url: https://twitter.com/FSIatState
+- type: x-twitter
+  url: https://twitter.com/search?q=%23FSI&src=hash
+- type: x-twitter
+  url: https://twitter.com/RPublicService
+- type: x-twitter
+  url: https://twitter.com/search?q=%23FEDBPTW&src=hash
+- type: x-twitter
+  url: https://twitter.com/search?q=%23Top9of2019&src=hash
+- type: x-twitter
+  url: https://twitter.com/GWBLibrary
+- type: x-website
+  url: http://history.state.gov
+- type: x-wikipedia
+  url: http://en.wikipedia.org/wiki/Office_of_the_Historian
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

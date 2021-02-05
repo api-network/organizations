@@ -1,0 +1,36 @@
+---
+name: Truecaller
+description: "Truecaller is transforming today\u2019s phonebook to make it more intelligent
+  and useful."
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/turecaller-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3195"
+url: https://raw.githubusercontent.com/api-network/organizations/main/truecaller.yaml
+tags:
+- Telecommunications
+- Have API
+- Directories
+- Crowdsourcing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.truecaller.com
+- type: x-blog
+  url: http://www.truecaller.com/blog
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/bistri
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/true-software-scandinavia
+- type: x-twitter
+  url: https://twitter.com/truecaller
+- type: x-website
+  url: https://dev.truecaller.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,152 @@
+---
+name: WindowsBro
+description: Windows 7 and Windows 8 fixes, tricks, and stuff you may not know.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/windowsbro.yaml
+tags:
+- Windows 7
+apis: []
+x-common:
+- type: x-about
+  url: http://globalgamejam.org/about
+- type: x-blog
+  url: https://windowsbro.blogspot.com/
+- type: x-blog
+  url: http://windowsbro.blogspot.com/p/sitemap.html
+- type: x-blog
+  url: http://windowsbro.blogspot.com/p/policy.html
+- type: x-blog
+  url: http://windowsbro.blogspot.com/search/label/windows
+- type: x-blog
+  url: http://windowsbro.blogspot.com/search/label/windows8
+- type: x-blog
+  url: http://windowsbro.blogspot.com/search/label/tip
+- type: x-blog
+  url: http://windowsbro.blogspot.com/search/label/how-to
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/mail
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/oblytile
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/windows8
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/fon
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/ggj13
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/odium
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/skopje
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/unity
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/.net
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/c%23
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/dotnet
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/windows7
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/eclipse
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/c
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/c%2B%2B
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/compiler
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/java
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/antivirus
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/virus
+- type: x-blog
+  url: https://www.blogger.com
+- type: x-blog
+  url: https://windowsbro.blogspot.com/2013/
+- type: x-blog
+  url: https://windowsbro.blogspot.com/2013/03/
+- type: x-blog
+  url: https://windowsbro.blogspot.com/2013/01/
+- type: x-blog
+  url: https://windowsbro.blogspot.com/2012/
+- type: x-blog
+  url: https://windowsbro.blogspot.com/2012/11/
+- type: x-blog
+  url: https://windowsbro.blogspot.com/2012/10/
+- type: x-blog
+  url: https://windowsbro.blogspot.com/2012/09/
+- type: x-blog
+  url: https://windowsbro.blogspot.com/2012/08/
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/windows
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/chrome
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/fix
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/plugin
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/adware
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/asus
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/block
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/bookmark
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/buffering
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/how-to
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/icaros
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/ip
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/libraries
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/magnet
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/netbeans
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/network
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/photoshop
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/subtitles
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/tabs
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/tips
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/torrent
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/transfer
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/trick
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/vlc
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/widget
+- type: x-blog
+  url: https://windowsbro.blogspot.com/search/label/youtube
+- type: x-blog
+  url: http://www.bloganol.com/
+- type: x-feed
+  url: https://windowsbro.blogspot.com/feeds/posts/default
+- type: x-feed
+  url: https://windowsbro.blogspot.com/feeds/comments/default
+- type: x-website
+  url: https://windowsbro.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

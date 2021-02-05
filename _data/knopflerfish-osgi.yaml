@@ -1,0 +1,31 @@
+---
+name: Knopflerfish OSGi
+description: Knopflerfish OSGi is an open source OSGi SDK and run-time of the OSGi
+  specifications R6, R5, R4 and R3
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/knopflerfish-osgi.yaml
+tags:
+- Libraries And Frameworks
+apis: []
+x-common:
+- type: x-website
+  url: http://www.knopflerfish.org
+- type: x-blog
+  url: https://knopflerfish.blogspot.com/
+- type: x-github
+  url: https://github.com/knopflerfish
+- type: x-twitter
+  url: https://www.twitter.com/knopflerfish
+- type: x-website
+  url: https://www.knopflerfish.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

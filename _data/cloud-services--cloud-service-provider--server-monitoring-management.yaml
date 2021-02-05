@@ -1,0 +1,64 @@
+---
+name: Cloud Services  Cloud Service Provider  Server Monitoring, Management
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "16689"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cloud-services--cloud-service-provider--server-monitoring-management.yaml
+tags:
+- Service Providers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cloudways.com
+- type: x-about
+  url: https://www.cloudways.com/en/about_us.php
+- type: x-blog
+  url: https://www.cloudways.com/blog/updates/
+- type: x-blog
+  url: https://www.cloudways.com/blog/
+- type: x-careers
+  url: https://www.cloudways.com/en/careers.php
+- type: x-contact
+  url: https://www.cloudways.com/en/contact_us.php
+- type: x-facebook
+  url: https://www.facebook.com/cloudways
+- type: x-feed
+  url: http://feedback.cloudways.com/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/cloudways
+- type: x-partner
+  url: https://www.cloudways.com/en/partners.php
+- type: x-platform
+  url: https://platform.cloudways.com/login
+- type: x-platform
+  url: https://platform.cloudways.com/signup
+- type: x-platform
+  url: https://platform.cloudways.com/login?chat_support=1
+- type: x-press
+  url: https://www.cloudways.com/en/wordpress-hosting.php
+- type: x-pricing
+  url: https://www.cloudways.com/en/pricing.php
+- type: x-status
+  url: http://status.cloudways.com/
+- type: x-support
+  url: https://support.cloudways.com/
+- type: x-support
+  url: https://www.cloudways.com/en/support.php
+- type: x-terms-of-service
+  url: https://www.cloudways.com/en/terms.php#cookie
+- type: x-terms-of-service
+  url: https://www.cloudways.com/en/terms.php
+- type: x-twitter
+  url: https://twitter.com/cloudways
+- type: x-website
+  url: https://www.cloudways.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

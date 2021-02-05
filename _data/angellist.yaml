@@ -1,0 +1,85 @@
+---
+name: AngelList
+description: AngelList is where the world meets startups. Find a great startup job,
+  invest in a startup, or raise money
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/angellist-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "4758"
+url: https://raw.githubusercontent.com/api-network/organizations/main/angellist.yaml
+tags:
+- Startups
+- Startup
+- Relative Data
+- Profile
+- My API Stack
+- Marketplaces
+- Investing
+- Hiring
+- Have Swagger
+- Have API Paths
+- Have API
+- General Data
+- Directories
+- Business
+- API Provider
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-blog
+  url: https://blog.angel.co
+- type: x-base-url
+  url: http://api.angel.co/
+- type: x-blog
+  url: https://angel.co/blog
+- type: x-blog
+  url: http://blog.angel.co
+- type: x-blog-rss
+  url: http://blog.angel.co/rss
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/angellist
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/angellist
+- type: x-developers
+  url: https://angel.co/api
+- type: x-email
+  url: copyright@angel.co
+- type: x-email
+  url: syndicates@angel.co
+- type: x-email
+  url: team@angel.co
+- type: x-email
+  url: talent@angel.co
+- type: x-email
+  url: privacy@angel.co
+- type: x-email
+  url: abuse@angel.co
+- type: x-github
+  url: https://github.com/angellist
+- type: x-guides
+  url: https://angel.co/login
+- type: x-login
+  url: https://angel.co/login
+- type: x-postman-collection
+  url: http://theapistack.com/data/angellist/angellist-postman-collection.json
+- type: x-privacy
+  url: https://angel.co/privacy
+- type: x-sdks-io
+  url: https://sdks.io/SDK/View/angellist-startup-api
+- type: x-support
+  url: https://angel.co/help
+- type: x-terms-of-service
+  url: https://angel.co/terms
+- type: x-twitter
+  url: https://twitter.com/angellist
+- type: x-website
+  url: http://angel.co
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

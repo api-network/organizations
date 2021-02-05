@@ -1,0 +1,22 @@
+---
+name: Go Programming Language Resources
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "677862"
+url: https://raw.githubusercontent.com/api-network/organizations/main/go-programming-language-resources.yaml
+tags:
+- Concurrent
+apis: []
+x-common:
+- type: x-website
+  url: https://go-lang.cat-v.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

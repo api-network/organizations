@@ -1,0 +1,43 @@
+---
+name: Skillsarena
+description: 100s of different employment tests including aptitude tests, psychometric
+  tests, literacy tests and situational judgement tests. Test your candidates today.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2169260"
+url: https://raw.githubusercontent.com/api-network/organizations/main/skillsarena.yaml
+tags:
+- Testing And Evaluation
+apis: []
+x-common:
+- type: x-website
+  url: http://skillsarena.com/
+- type: x-about
+  url: https://skillsarena.com/about-skillsarena/
+- type: x-case-studies
+  url: https://skillsarena.com/case-studies/
+- type: x-contact
+  url: https://skillsarena.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/skillsarena
+- type: x-feed
+  url: https://skillsarena.com/360-degree-feedback-2/
+- type: x-news
+  url: https://skillsarena.com/news/
+- type: x-privacy
+  url: https://skillsarena.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://skillsarena.com/terms-and-conditions/
+- type: x-twitter
+  url: https://twitter.com/skillsarena
+- type: x-website
+  url: https://www.skillsarena.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

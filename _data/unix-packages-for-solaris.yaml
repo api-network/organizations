@@ -1,0 +1,115 @@
+---
+name: UNIX Packages for Solaris
+description: More than 21,000 open source freeware package/application binaries and
+  sources, downloads available for Solaris 11, 10, 9, 8, to 2.5. (SPARC and x86/Intel/AMD)
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2517811"
+url: https://raw.githubusercontent.com/api-network/organizations/main/unix-packages-for-solaris.yaml
+tags:
+- Software
+apis: []
+x-common:
+- type: x-about
+  url: https://unixpackages.com/about/
+- type: x-about
+  url: https://unixpackages.com/about/team/
+- type: x-contact
+  url: https://unixpackages.com/about/contact-us/
+- type: x-facebook
+  url: http://facebook.com/unixpackages
+- type: x-feed
+  url: https://unixpackages.com/support/feedback/
+- type: x-login
+  url: https://unixpackages.com/home/login-welcome-page/
+- type: x-news
+  url: https://www.openssl.org/news/changelog.html
+- type: x-news
+  url: https://www.openssl.org/news/changelog.html#x1
+- type: x-news
+  url: https://www.openssl.org/news/cl102.txt
+- type: x-news
+  url: https://www.openssl.org/news/secadv/20171102.txt
+- type: x-news
+  url: https://www.openssl.org/news/secadv/20170216.txt
+- type: x-news
+  url: https://www.openssl.org/news/secadv/20170126.txt
+- type: x-news
+  url: https://www.openssl.org/news/secadv/20161110.txt
+- type: x-news
+  url: https://www.openssl.org/news/secadv/20160926.txt
+- type: x-news
+  url: https://www.openssl.org/news/cl110.txt
+- type: x-news
+  url: https://www.openssl.org/news/secadv/20160503.txt
+- type: x-news
+  url: https://www.openssl.org/news/secadv/20160301.txt
+- type: x-news
+  url: http://openssl.org/news/secadv/20160128.txt
+- type: x-news
+  url: http://openssl.org/news/secadv/20151203.txt
+- type: x-news
+  url: http://openssl.org/news/secadv_20150709.txt
+- type: x-news
+  url: https://www.openssl.org/news/secadv_20150611.txt
+- type: x-news
+  url: https://www.openssl.org/news/secadv_20150319.txt
+- type: x-open-source
+  url: https://www.openssh.com/txt/release-8.1
+- type: x-open-source
+  url: https://www.openssh.com/txt/release-8.0
+- type: x-open-source
+  url: https://www.openssh.com/txt/release-7.9
+- type: x-open-source
+  url: https://www.openssh.com/txt/release-7.8
+- type: x-open-source
+  url: https://www.openssh.com/txt/release-7.7
+- type: x-open-source
+  url: https://www.openssh.com/txt/release-7.6
+- type: x-open-source
+  url: https://www.openssh.com/txt/release-7.5
+- type: x-open-source
+  url: https://www.openssh.com/txt/release-7.4
+- type: x-open-source
+  url: http://www.openssh.com/txt/release-7.3
+- type: x-open-source
+  url: http://www.openssh.com/txt/release-7.2p2
+- type: x-open-source
+  url: http://www.openssh.com/txt/release-7.2
+- type: x-open-source
+  url: http://www.openssh.com/txt/release-7.1p2
+- type: x-open-source
+  url: http://www.openssh.com/txt/release-7.1
+- type: x-open-source
+  url: http://www.openssh.com/txt/release-7.0
+- type: x-open-source
+  url: http://www.openssh.com/txt/release-6.9
+- type: x-status
+  url: https://unixpackages.com/status/
+- type: x-support
+  url: https://unixpackages.com/support/
+- type: x-support
+  url: https://unixpackages.com/support/help/
+- type: x-support
+  url: https://unixpackages.com/support/support-request/
+- type: x-support
+  url: https://unixpackages.com/support/faq/
+- type: x-support
+  url: https://unixpackages.com/support/md5-checksum/
+- type: x-support
+  url: https://unixpackages.com/support/file-sizes/
+- type: x-support
+  url: https://unixpackages.com/support/admin-index/
+- type: x-terms-of-service
+  url: https://unixpackages.com/legal/
+- type: x-website
+  url: https://unixpackages.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

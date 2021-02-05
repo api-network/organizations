@@ -1,0 +1,36 @@
+---
+name: University of Warwick
+description: "Department of Computer Science,\r\nUniversity of Warwick"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10591"
+url: https://raw.githubusercontent.com/api-network/organizations/main/university-of-warwick.yaml
+tags:
+- United Kingdom
+apis: []
+x-common:
+- type: x-website
+  url: https://warwick.ac.uk/fac/sci/dcs
+- type: x-facebook
+  url: https://www.facebook.com/warwickdcs/
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/38372/
+- type: x-news
+  url: https://warwick.ac.uk/news
+- type: x-privacy
+  url: http://warwick.ac.uk/privacy
+- type: x-terms-of-service
+  url: http://warwick.ac.uk/terms/general
+- type: x-twitter
+  url: https://twitter.com/WarwickDCS
+- type: x-website
+  url: https://www.dcs.warwick.ac.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

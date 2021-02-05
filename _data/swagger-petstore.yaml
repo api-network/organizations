@@ -1,0 +1,21 @@
+---
+name: Swagger Petstore
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "192168"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/swagger-petstore.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://192.168.0.193
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

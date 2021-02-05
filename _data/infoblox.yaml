@@ -1,0 +1,96 @@
+---
+name: Infoblox
+description: Infoblox Actionable Network Intelligence controls and secures your network
+  from the core - One unified platform including DNS, DHCP, and IPAM (DDI).
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Infoblox_logo_tagline.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "93544"
+url: https://raw.githubusercontent.com/api-network/organizations/main/infoblox.yaml
+tags:
+- Networks
+- ISP
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-blog
+  url: https://blogs.infoblox.com/
+- type: x-blog
+  url: https://community.infoblox.com/t5/Blogs/ct-p/blogs
+- type: x-blog-rss
+  url: https://community.infoblox.com/cixhp49439/rss/Category?category.id=blogs&interaction.style=blog&feeds.replies=true
+- type: x-careers
+  url: https://www.infoblox.com/company/careers/
+- type: x-contact
+  url: https://www.infoblox.com/company/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/infoblox
+- type: x-customers
+  url: https://www.infoblox.com/company/customers/
+- type: x-email
+  url: sales-sin@infoblox.com
+- type: x-email
+  url: infojapan@infoblox.com
+- type: x-email
+  url: GCG@infoblox.com
+- type: x-email
+  url: sales-anz@infoblox.com
+- type: x-email
+  url: sales-korea@infoblox.com
+- type: x-email
+  url: sales-india@infoblox.com
+- type: x-email
+  url: info@infoblox.com
+- type: x-email
+  url: privacy@infoblox.com
+- type: x-email
+  url: community@infoblox.com
+- type: x-email
+  url: legal@Infoblox.com
+- type: x-events
+  url: https://www.infoblox.com/company/events/
+- type: x-facebook
+  url: https://www.facebook.com/Infobloxinc
+- type: x-feed
+  url: http://info.infoblox.com/feedback-form
+- type: x-github
+  url: https://github.com/Infoblox-API
+- type: x-github
+  url: https://github.com/Infoblox-CTO
+- type: x-github
+  url: https://github.com/infobloxopen
+- type: x-investor
+  url: https://www.infoblox.com/company/investor-relations/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/infoblox/
+- type: x-partner
+  url: https://www.infoblox.com/partners/
+- type: x-press
+  url: https://www.infoblox.com/company/press-releases/
+- type: x-security
+  url: https://www.infoblox.com/products/secure-dns-security/
+- type: x-security
+  url: https://www.infoblox.com/solutions/network-security/
+- type: x-status
+  url: https://status.infoblox.com/
+- type: x-support
+  url: https://www.infoblox.com/support/
+- type: x-support
+  url: https://www.infoblox.com/support/support-overview/
+- type: x-support
+  url: https://www.infoblox.com/support/training/
+- type: x-twitter
+  url: https://twitter.com/infoblox
+- type: x-website
+  url: https://infoblox.com
+- type: x-youtube
+  url: https://www.youtube.com/InfobloxInc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

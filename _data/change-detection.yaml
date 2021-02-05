@@ -1,0 +1,26 @@
+---
+name: Change Detection
+description: With more than 1 million users and a 100% free plan, Visualping is the
+  easiest to use website checker, webpage change monitoring, website change detector
+  and web page change alert software. Contrary to other website change monitoring
+  services like ChangeDetector, Versionista and Wachete, we track changes visual and
+  alert you via email.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4150584"
+url: https://raw.githubusercontent.com/api-network/organizations/main/change-detection.yaml
+tags:
+- Site Management
+apis: []
+x-common:
+- type: x-website
+  url: https://changedetection.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

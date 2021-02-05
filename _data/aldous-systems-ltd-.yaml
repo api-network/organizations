@@ -1,0 +1,41 @@
+---
+name: Aldous Systems Ltd.
+description: Aldous Systems is a trade only distributor for a niche set of brands
+  for residencial and commercial applications. We have built a range of solutions
+  to suite the profesional installer including networking, security, building control,
+  audio, video and structured cabling. We offer in depth installer training both online
+  and classroom based. Our strong technical background can support installation companies
+  all the way through the project.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7863626"
+url: https://raw.githubusercontent.com/api-network/organizations/main/aldous-systems-ltd-.yaml
+tags:
+- Manufacturers
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.aldoussystems.co.uk/contact/
+- type: x-security
+  url: https://www.aldoussystems.co.uk/security.html
+- type: x-security
+  url: https://www.aldoussystems.co.uk/security/panels.html
+- type: x-security
+  url: https://www.aldoussystems.co.uk/security/keypads.html
+- type: x-security
+  url: https://www.aldoussystems.co.uk/security/sounders.html
+- type: x-security
+  url: https://www.aldoussystems.co.uk/security/software.html
+- type: x-support
+  url: https://www.aldoussystems.co.uk/technical_support/
+- type: x-website
+  url: https://www.aldoussystems.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

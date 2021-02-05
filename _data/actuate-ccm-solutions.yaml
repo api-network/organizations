@@ -1,0 +1,89 @@
+---
+name: Actuate CCM Solutions
+description: Integrated Products for all your Output Transformation and Management
+  Needs
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/actuate-ccm-solutions.yaml
+tags:
+- Software
+apis: []
+x-common:
+- type: x-investor
+  url: http://investors.opentext.com/
+- type: x-open-source
+  url: https://developer.opentext.com
+- type: x-open-source
+  url: http://mysupport.opentext.com/
+- type: x-open-source
+  url: https://knowledge.opentext.com/knowledge/cs.dll/kcs/kb
+- type: x-open-source
+  url: https://blogs.opentext.com/
+- type: x-open-source
+  url: https://www.opentext.com/choose-country
+- type: x-open-source
+  url: https://www.opentext.com
+- type: x-open-source
+  url: https://www.opentext.com.au
+- type: x-open-source
+  url: https://www.opentext.com.br
+- type: x-open-source
+  url: https://www.opentext.de
+- type: x-open-source
+  url: https://www.opentext.fr
+- type: x-open-source
+  url: https://www.opentext.jp
+- type: x-open-source
+  url: https://www.opentext.se
+- type: x-open-source
+  url: https://www.opentext.co.uk
+- type: x-open-source
+  url: https://searchopentext.com/
+- type: x-open-source
+  url: https://www.opentext.com/products-and-solutions
+- type: x-open-source
+  url: https://www.opentext.com/products-and-solutions/ot2
+- type: x-open-source
+  url: https://www.opentext.com/customer-stories
+- type: x-open-source
+  url: https://developer.opentext.com/
+- type: x-open-source
+  url: https://mysupport.opentext.com/
+- type: x-open-source
+  url: https://www.opentext.com/enterprise-world
+- type: x-open-source
+  url: https://www.opentext.com/enfuse
+- type: x-open-source
+  url: https://epay.opentext.com/
+- type: x-open-source
+  url: https://www.opentext.com/about
+- type: x-open-source
+  url: https://www.opentext.com/about/board-of-directors
+- type: x-open-source
+  url: https://www.opentext.com/about/careers
+- type: x-open-source
+  url: https://www.opentext.com/about/office-locations
+- type: x-open-source
+  url: https://www.opentext.com/
+- type: x-open-source
+  url: https://www.linkedin.com/company/opentext
+- type: x-open-source
+  url: https://www.youtube.com/user/opentextcorp
+- type: x-press
+  url: https://www.opentext.com/about/press-releases
+- type: x-twitter
+  url: https://twitter.com/OpenText
+- type: x-webinars
+  url: https://www.opentext.com/events-and-webinars
+- type: x-website
+  url: https://ccm.actuate.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

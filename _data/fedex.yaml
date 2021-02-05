@@ -1,0 +1,89 @@
+---
+name: FedEx
+description: Access development tools, sample code, and documentation from the FedEx
+  Developer Resource Center (DRC) to integrate shipping software into your website.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/199_logo..png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "305"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fedex.yaml
+tags:
+- Have API
+- Freight
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.fedex.com
+- type: x-about
+  url: https://about.van.fedex.com/
+- type: x-about
+  url: https://about.van.fedex.com/our-story/company-structure/
+- type: x-about
+  url: https://about.van.fedex.com/blog/
+- type: x-about
+  url: https://about.van.fedex.com/social-responsibility/csr-policy-statements/
+- type: x-base
+  url: http://www.fedex.com/ws/
+- type: x-careers
+  url: https://careers.fedex.com/fedex/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/fedex
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/fedex
+- type: x-developer
+  url: https://www.fedex.com/en-us/developer.html
+- type: x-documentation
+  url: https://www.fedex.com/en-us/developer/web-services/process.html#documentation
+- type: x-documentation
+  url: https://www.fedex.com/en-us/developer/ship-manager-server/process.html#documentation
+- type: x-documentation
+  url: https://www.fedex.com/en-us/developer/web-services/office/process.html#documentation
+- type: x-email
+  url: privacypolicy@corp.ds.fedex.com
+- type: x-email
+  url: webmaster@fedex.com
+- type: x-email
+  url: laccroconosur@fedex.com
+- type: x-email
+  url: cobranzas@mail.fedex.com
+- type: x-facebook
+  url: https://www.facebook.com/fedex
+- type: x-github
+  url: https://github.com/fedex
+- type: x-website
+  url: http://www.fedex.com/us/developer/index.html
+- type: x-instagram
+  url: http://www.instagram.com/fedex
+- type: x-investor
+  url: http://investors.fedex.com/investor-home/default.aspx
+- type: x-linkedin
+  url: http://www.linkedin.com/company/fedex
+- type: x-news
+  url: https://about.van.fedex.com/newsroom/global-english/
+- type: x-press
+  url: https://www.fedex.com/ratefinder/home?cc=US&language=en&locId=express
+- type: x-security
+  url: http://www.fedex.com/us/securityupgrade/
+- type: x-support
+  url: https://www.fedex.com/en-us/customer-support/claims.html
+- type: x-support
+  url: https://www.fedex.com/en-us/customer-support.html
+- type: x-support
+  url: https://www.fedex.com/en-us/customer-support/claims.html?search=true
+- type: x-support
+  url: https://www.fedex.com/en-us/developer/get-support.html
+- type: x-terms-of-service
+  url: https://www.fedex.com/en-us/terms-of-use.html
+- type: x-twitter
+  url: https://twitter.com/fedex
+- type: x-youtube
+  url: http://www.youtube.com/fedex
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

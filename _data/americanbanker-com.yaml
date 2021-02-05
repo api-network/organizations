@@ -1,0 +1,31 @@
+---
+name: americanbanker.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/americanbanker-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-blog-rss
+  url: http://www.americanbanker.com/resources/rssfeeds.html
+- type: x-facebook
+  url: http://www.facebook.com/americanbanker
+- type: x-linkedin
+  url: http://www.linkedin.com/groups/American-Banker-3853492
+- type: x-news
+  url: http://americanbanker.com/news/
+- type: x-curated-source
+  url: http://www.americanbanker.com/news/bank-technology/uk-regulator-looks-to-apis-to-enable-bank-switching-1090648-1.html
+- type: x-website
+  url: http://americanbanker.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

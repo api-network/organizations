@@ -1,0 +1,99 @@
+---
+name: Webscan Inc.
+description: The best way to check the quality of barcodes is to use a Webscan barcode
+  verifier that will analyze a number of different parameters and assign a grade.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3628455"
+url: https://raw.githubusercontent.com/api-network/organizations/main/webscan-inc-.yaml
+tags:
+- Webscan
+- Verifier
+- Verification
+- UPC
+- Uid
+- UDI
+- Trucheck
+- RSS
+- QR Code
+- Postnet
+- Oharmacode
+- Mil-STD-130
+- Labels And Equipment
+- ITF-14
+- ISO-15415
+- ISO TR 29158
+- IMB
+- I 2 Of 5
+- Handheld
+- GS1-128
+- GS1 Data Bar
+- GS1
+- Grader
+- EAN
+- Dpm Barcode Verifier
+- Data Matrix
+- Code 93
+- Code 39
+- Codabar
+- Checker
+- Barcode
+- Bar Code Check
+- Bar Code
+- Aztec Code
+- ANSI Parameters
+- AIM DPM 2006
+- AIM DPM
+- 2d
+- 1D/2D
+apis: []
+x-common:
+- type: x-about
+  url: https://webscaninc.com/about/
+- type: x-about
+  url: https://webscaninc.com/about/webscan-history/
+- type: x-about
+  url: https://webscaninc.com/about/available-positions/
+- type: x-blog
+  url: https://webscaninc.com/webscan-blog/
+- type: x-code
+  url: https://webscaninc.com/bar-code-check/
+- type: x-code
+  url: https://webscaninc.com/bar-code-check/2d-matrix-codes/
+- type: x-code
+  url: https://webscaninc.com/bar-code-check/gs1-coupon-code/
+- type: x-code
+  url: https://webscaninc.com/bar-code-check/trucheck-2d-uv/
+- type: x-code
+  url: https://webscaninc.com/bar-code-check/imbpostnet/
+- type: x-code
+  url: https://webscaninc.com/barcode-symbologies/
+- type: x-code
+  url: https://webscaninc.com/barcode-symbologies/2d-matrix/
+- type: x-contact
+  url: https://webscaninc.com/about/contact-us/
+- type: x-contact
+  url: https://webscaninc.com/contact/webscan-partners/
+- type: x-contact
+  url: https://webscaninc.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/WebscanInc
+- type: x-linkedin
+  url: https://www.linkedin.com/company/webscan-inc
+- type: x-press
+  url: https://webscaninc.com/newspress-releases/
+- type: x-support
+  url: https://webscaninc.com/resources/helpful-tips/
+- type: x-twitter
+  url: http://www.twitter.com/https://twitter.com/WebscanInc
+- type: x-website
+  url: https://www.webscaninc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

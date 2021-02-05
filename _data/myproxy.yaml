@@ -1,0 +1,104 @@
+---
+name: My-Proxy
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "110569"
+url: https://raw.githubusercontent.com/api-network/organizations/main/myproxy.yaml
+tags:
+- Chats And Forums
+apis: []
+x-common:
+- type: x-about
+  url: https://www.simplemachines.org/about/smf/license.php
+- type: x-forum
+  url: https://forum.my-proxy.com/
+- type: x-forum
+  url: https://forum.my-proxy.com/login/
+- type: x-forum
+  url: https://forum.my-proxy.com/register/
+- type: x-forum
+  url: https://forum.my-proxy.com/activate/
+- type: x-forum
+  url: https://forum.my-proxy.com/help/
+- type: x-forum
+  url: https://forum.my-proxy.com/search/
+- type: x-forum
+  url: https://forum.my-proxy.com/high-anonymous-proxies/
+- type: x-forum
+  url: https://forum.my-proxy.com/profile/terry-2/
+- type: x-forum
+  url: https://forum.my-proxy.com/profile/teknolasana-109171/
+- type: x-forum
+  url: https://forum.my-proxy.com/anonymous-proxies/
+- type: x-forum
+  url: https://forum.my-proxy.com/profile/proxygo-108284/
+- type: x-forum
+  url: https://forum.my-proxy.com/transparent-proxies/
+- type: x-forum
+  url: https://forum.my-proxy.com/socks-proxies/
+- type: x-forum
+  url: https://forum.my-proxy.com/profile/dichvusocks-104903/
+- type: x-forum
+  url: https://forum.my-proxy.com/my-ip-hide-service/
+- type: x-forum
+  url: https://forum.my-proxy.com/elite-proxy-switcher/
+- type: x-forum
+  url: https://forum.my-proxy.com/suggestions-eps/
+- type: x-forum
+  url: https://forum.my-proxy.com/http-proxy-list-service/
+- type: x-forum
+  url: https://forum.my-proxy.com/socks-proxy-checker/
+- type: x-forum
+  url: https://forum.my-proxy.com/profile/alzir512-11953/
+- type: x-forum
+  url: https://forum.my-proxy.com/suggestions-spc/
+- type: x-forum
+  url: https://forum.my-proxy.com/socks-proxy-list-service/
+- type: x-forum
+  url: https://forum.my-proxy.com/forum-proxy-leecher/
+- type: x-forum
+  url: https://forum.my-proxy.com/profile/mikey327-107145/
+- type: x-forum
+  url: https://forum.my-proxy.com/proxy-site-report/
+- type: x-forum
+  url: https://forum.my-proxy.com/proxy-questions/
+- type: x-forum
+  url: https://forum.my-proxy.com/web-proxies/
+- type: x-forum
+  url: https://forum.my-proxy.com/profile/95itman-82232/
+- type: x-forum
+  url: https://forum.my-proxy.com/profile/proxfree-99245/
+- type: x-forum
+  url: https://forum.my-proxy.com/general-chat/
+- type: x-forum
+  url: https://forum.my-proxy.com/profile/independent-2698/
+- type: x-forum
+  url: https://forum.my-proxy.com/suggestion-site/
+- type: x-forum
+  url: https://forum.my-proxy.com/profile/dwaynnyt-97204/
+- type: x-forum
+  url: https://forum.my-proxy.com/stats/
+- type: x-forum
+  url: https://forum.my-proxy.com/profile/williamnip-111876/
+- type: x-forum
+  url: https://forum.my-proxy.com/recent/
+- type: x-forum
+  url: https://forum.my-proxy.com/kitsitemap/
+- type: x-forum
+  url: https://forum.my-proxy.com/credits/
+- type: x-forum
+  url: https://forum.my-proxy.com/larboardlocomotive.php
+- type: x-news
+  url: https://forum.my-proxy.com/myproxy-news/
+- type: x-website
+  url: https://forum.my-proxy.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

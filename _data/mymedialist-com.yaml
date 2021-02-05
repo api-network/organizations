@@ -1,0 +1,59 @@
+---
+name: myMediaList.com
+description: myMediaList.com lets you easily add and update a list of music, books,
+  films & games on your blog or website.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mymedialist-com.yaml
+tags:
+- X-Box Games
+- Webmaster
+- Weblogs
+- Web Promotion
+- Web Design
+- Videogames
+- Video
+- VHS
+- Tools
+- PS2 Games
+- PC Games
+- MyMediaList.com
+- MyMediaList
+- My Media List
+- My Media
+- My List
+- Music
+- Media List
+- Games
+- Gamecube Games
+- Films
+- DVD
+- Dreamcast Games
+- Books
+- Blogs
+- Blogging
+- Blog Tools
+- Affiliate Programs
+- Affiliate
+apis: []
+x-common:
+- type: x-blog
+  url: http://www.lights.com/weblogs/tools.html
+- type: x-blog
+  url: http://www.weblogs.com
+- type: x-blog
+  url: http://www.blogger.com
+- type: x-blog
+  url: http://hidayatdenature.blogspot.co.id
+- type: x-website
+  url: https://www.mymedialist.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

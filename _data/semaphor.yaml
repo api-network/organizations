@@ -1,0 +1,46 @@
+---
+name: Semaphor
+description: Semaphor website
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/semaphor.yaml
+tags:
+- WebTV
+- WebSphere
+- Web
+- Team
+- Semaphor
+- SameTime
+- RTC
+- ReadyWebGo
+- Rational
+- Notes
+- Lotus
+- Java
+- IBM
+- Hotel
+- Hosting
+- Eclipse
+- Dominohotel
+- Dominohosting
+- Domino
+- Concert
+- CMS
+- Business Partners
+- Bots
+apis: []
+x-common:
+- type: x-support
+  url: http://support.semaphor.dk/
+- type: x-website
+  url: https://www.semaphor.dk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

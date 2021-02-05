@@ -1,0 +1,23 @@
+---
+name: callcenterinfo.tmcnet.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/callcenterinfo-tmcnet-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://callcenterinfo.tmcnet.com/Analysis/articles/395984-interactive-intelligence-releases-new-purecloud-based-enterprise-collaboration.htm
+- type: x-website
+  url: http://callcenterinfo.tmcnet.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

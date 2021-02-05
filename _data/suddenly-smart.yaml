@@ -1,0 +1,43 @@
+---
+name: Suddenly Smart
+description: SmartBuilder is the fastest elearning authoring tool for creating serious
+  elearning including scenarios, gamification, branching, assessments and more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/suddenly-smart.yaml
+tags:
+- Authoring
+apis: []
+x-common:
+- type: x-website
+  url: http://www.smartbuilder.com
+- type: x-about
+  url: https://www.smartbuilder.com/about/
+- type: x-facebook
+  url: https://www.facebook.com/smartbuilderelearning/
+- type: x-forum
+  url: https://portal.smartbuilder.com/web/smartbuilder/forum
+- type: x-pricing
+  url: https://www.smartbuilder.com/product/pricing/
+- type: x-privacy
+  url: https://www.smartbuilder.com/privacy/
+- type: x-support
+  url: https://www.smartbuilder.com/support/
+- type: x-support
+  url: http://www.providesupport.com?monitor=smartbuilder
+- type: x-twitter
+  url: https://twitter.com/smrtbuilder
+- type: x-website
+  url: https://www.suddenlysmart.com
+- type: x-youtube
+  url: http://youtube.com/user/SmartBuilderVideos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

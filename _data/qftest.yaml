@@ -1,0 +1,30 @@
+---
+name: QF-Test
+description: "Automate your GUI tests with QF-Test, the professional & reliable testing
+  tool! \u2713 Platform independent cross-browser \u2713 user-friendly \u2713! Start
+  easily"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2886132"
+url: https://raw.githubusercontent.com/api-network/organizations/main/qftest.yaml
+tags:
+- User Interface Testing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.qfs.de
+- type: x-facebook
+  url: https://www.facebook.com/QualityFirstSoftware
+- type: x-twitter
+  url: https://twitter.com/qftest_qfs
+- type: x-website
+  url: https://www.qfs.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

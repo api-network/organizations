@@ -1,0 +1,66 @@
+---
+name: Celebrity Cards
+description: Contact 59,000+ Celebrities, Influencers & Public Figures Worldwide.
+  Get their verified email, address, agent, manager & publicist. Recommended by CNN,
+  Entrepreneur Magazine, Forbes.com, Tim Ferriss and more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/celebrity-cards.yaml
+tags:
+- Celebrities
+apis: []
+x-common:
+- type: x-contact
+  url: https://contactanycelebrity.com/cac/
+- type: x-contact
+  url: https://contactanycelebrity.com/cac/checkout/
+- type: x-contact
+  url: https://contactanycelebrity.com/cac/about/
+- type: x-contact
+  url: https://contactanycelebrity.com/cac/faq/
+- type: x-contact
+  url: https://contactanycelebrity.com/cac/articles/
+- type: x-contact
+  url: https://contactanycelebrity.com/cac/testimonials/
+- type: x-contact
+  url: https://contactanycelebrity.com/cac/login/
+- type: x-contact
+  url: https://contactanycelebrity.com/trial/do/celebrityList
+- type: x-contact
+  url: https://contactanycelebrity.com/cac/contact/
+- type: x-contact
+  url: https://contactanycelebrity.com/cac/about/clients/
+- type: x-contact
+  url: https://contactanycelebrity.com/cac/guarantee/
+- type: x-contact
+  url: https://contactanycelebrity.com/cac/blog/
+- type: x-contact
+  url: https://contactanycelebrity.com/cac/checkout
+- type: x-contact
+  url: https://contactanycelebrity.com/cac/testimonials/fans/
+- type: x-contact
+  url: https://contactanycelebrity.com/cac/cnn-interview/
+- type: x-contact
+  url: https://contactanycelebrity.com/cac/sitemap_index.xml
+- type: x-contact
+  url: https://contactanycelebrity.com/cac/about/affiliates/
+- type: x-contact
+  url: https://contactanycelebrity.com/cac/database/
+- type: x-contact
+  url: https://contactanycelebrity.com/cac/privacy/
+- type: x-contact
+  url: https://contactanycelebrity.com/cac/terms/
+- type: x-website
+  url: https://www.celebrity-cards.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=sLkLqimKMp8
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,36 @@
+---
+name: Land and Expand
+description: We are the Developer Relations Agency. If you are thinking of engaging
+  with developers or want to up level your existing program we can help.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29272-landandexpand-net.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/land-and-expand.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: https://www.landandexpand.net/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/land-and-expand
+- type: x-email
+  url: hello@landandexpand.net
+- type: x-facebook
+  url: https://www.facebook.com/jamespartonuk
+- type: x-linkedin
+  url: https://www.linkedin.com/in/jamesparton/
+- type: x-twitter
+  url: https://twitter.com/jamesparton
+- type: x-twitter
+  url: https://twitter.com/landandexpand
+- type: x-website
+  url: http://landandexpand.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

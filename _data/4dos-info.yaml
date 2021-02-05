@@ -1,0 +1,36 @@
+---
+name: 4DOS Info
+description: Everything about 4DOS and Batch Programming - Alles zu 4DOS und Batch-Programmierung
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4725929"
+url: https://raw.githubusercontent.com/api-network/organizations/main/4dos-info.yaml
+tags:
+- TCMD
+- TAKE COMMAND
+- Software
+- Shell
+- Script
+- Prompt
+- JPSOFT
+- DOS
+- Command
+- BTM
+- Batch
+- 4XBTM
+- 4OS2
+- 4NT
+- 4DOS
+apis: []
+x-common:
+- type: x-website
+  url: https://www.4dos.info
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

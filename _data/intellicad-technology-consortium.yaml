@@ -1,0 +1,50 @@
+---
+name: IntelliCAD Technology Consortium
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1579535"
+url: https://raw.githubusercontent.com/api-network/organizations/main/intellicad-technology-consortium.yaml
+tags:
+- IntelliCAD
+apis: []
+x-common:
+- type: x-about
+  url: https://www.intellicad.org/about-membership
+- type: x-about
+  url: https://www.intellicad.org/about-itc
+- type: x-about
+  url: https://www.intellicad.org/about-intellicad
+- type: x-contact
+  url: https://www.intellicad.org/contact
+- type: x-facebook
+  url: https://www.facebook.com/148492521253
+- type: x-linkedin
+  url: https://www.linkedin.com/company/2708479
+- type: x-login
+  url: https://members.intellicad.org/membersadmin/login.php
+- type: x-platform
+  url: https://www.intellicad.org/platform-success-stories
+- type: x-platform
+  url: https://www.intellicad.org/mobile-platform
+- type: x-privacy
+  url: http://intellicad.org/privacy-policy
+- type: x-support
+  url: https://www.intellicad.org/support
+- type: x-terms-of-service
+  url: http://intellicad.org/terms-of-use
+- type: x-twitter
+  url: https://twitter.com/IntelliCAD
+- type: x-website
+  url: https://www.intellicad.org
+- type: x-youtube
+  url: http://www.youtube.com/user/intellicadofficial
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,41 @@
+---
+name: Blogger Hints and Tips
+description: Hints and tips for using Blogger, Google's free tool for creating blogs,
+  blogsites and websites.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "249578"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blogger-hints-and-tips.yaml
+tags:
+- Blogger
+apis: []
+x-common:
+- type: x-blog
+  url: https://blogger-hints-and-tips.blogspot.com/
+- type: x-blog
+  url: http://www.stylifyyourblog.com/?utm_src=STYLIFY_random
+- type: x-blog
+  url: http://blogger-hints-and-tips.blogspot.com/
+- type: x-blog
+  url: https://www.blogger.com
+- type: x-facebook
+  url: https://www.facebook.com/BloggerHAT
+- type: x-feed
+  url: http://feeds.feedburner.com/blogspot/HTuVg
+- type: x-feed
+  url: http://feeds.feedburner.com/Blogger-hints-and-tips
+- type: x-feed
+  url: http://feedburner.google.com
+- type: x-twitter
+  url: http://www.twitter.com/BloggerHAT
+- type: x-website
+  url: https://blogger-hints-and-tips.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

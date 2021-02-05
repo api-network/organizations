@@ -1,0 +1,35 @@
+---
+name: HD wallpapers
+description: "Bring your screen to life with our extensive collection of beautiful
+  HD wallpapers. All backgrounds can be downloaded for free in almost every mainstream
+  resolution (from 1080p up to 4K) to better fit your desktop, laptop, or mobile phone
+  home screen. No more distorted\_or\_stretched images!"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "424552"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hd-wallpapers.yaml
+tags:
+- Directories
+apis: []
+x-common:
+- type: x-website
+  url: https://www.hdwallpapers.net/
+- type: x-developer
+  url: http://developer.hdwallpapers.net
+- type: x-facebook
+  url: https://www.facebook.com/www.hdwallpapers.net
+- type: x-twitter
+  url: https://twitter.com/@HDwallpapersnet
+- type: x-twitter
+  url: https://twitter.com/HDwallpapersnet
+- type: x-website
+  url: https://www.hdwallpapers.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

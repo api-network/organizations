@@ -1,0 +1,48 @@
+---
+name: AETEA Information Technology Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1506645"
+url: https://raw.githubusercontent.com/api-network/organizations/main/aetea-information-technology-inc-.yaml
+tags:
+- Consultants
+apis: []
+x-common:
+- type: x-website
+  url: http://WWW.AETEA.COM
+- type: x-about
+  url: https://aetea.com/about-us/overview/
+- type: x-about
+  url: https://aetea.com/about-us/leadership/
+- type: x-about
+  url: https://aetea.com/about-us/vision-mission-values/
+- type: x-about
+  url: https://aetea.com/about-us/industry-specialization/
+- type: x-about
+  url: https://aetea.com/about-us/locations/
+- type: x-careers
+  url: https://aetea.com/about-us/careers-work-for-aetea/
+- type: x-contact
+  url: https://aetea.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/aeteaIT
+- type: x-instagram
+  url: https://www.instagram.com/aetea_/
+- type: x-twitter
+  url: http://www.twitter.com/aetea
+- type: x-twitter
+  url: https://twitter.com/intent/user?screen_name=AETEA
+- type: x-twitter
+  url: http://twitter.com
+- type: x-website
+  url: https://www.aetea.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

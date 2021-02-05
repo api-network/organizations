@@ -1,0 +1,36 @@
+---
+name: Kappa Computer Solutions, LLC
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kappa-computer-solutions-llc.yaml
+tags:
+- Unix Systems
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.kappacs.com/category/internet/blogging/
+- type: x-feed
+  url: https://www.kappacs.com/feed/
+- type: x-feed
+  url: https://www.kappacs.com/comments/feed/
+- type: x-login
+  url: https://www.kappacs.com/wp-login.php
+- type: x-press
+  url: https://wordpress.org/
+- type: x-privacy
+  url: https://www.kappacs.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.kappacs.com/terms-of-use/
+- type: x-website
+  url: https://www.kappacs.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

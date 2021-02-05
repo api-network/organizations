@@ -1,0 +1,26 @@
+---
+name: ZettelsPersonal Knowledge Management
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zettelspersonal-knowledge-management.yaml
+tags:
+- Personal Information Managers
+apis: []
+x-common:
+- type: x-contact
+  url: https://zettels.info/en/contact/default.asp
+- type: x-press
+  url: https://zettels.info/en/inf/impressum.asp
+- type: x-website
+  url: https://www.zettels.info
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

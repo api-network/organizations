@@ -1,0 +1,30 @@
+---
+name: Elphel, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2850773"
+url: https://raw.githubusercontent.com/api-network/organizations/main/elphel-inc-.yaml
+tags:
+- Open Source
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.elphel.com
+- type: x-blog
+  url: https://blog.elphel.com/2010/11/zoom-in-now-enhance/
+- type: x-blog
+  url: https://blog.elphel.com/2019/08/tpnet-with-lwir/
+- type: x-news
+  url: https://www3.elphel.com/all_news
+- type: x-website
+  url: https://www3.elphel.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,51 @@
+---
+name: Transform Magazine
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/transform-magazine.yaml
+tags:
+- Magazines
+- Document Management
+apis: []
+x-common:
+- type: x-careers
+  url: https://www.darkreading.com/careers-and-people.asp
+- type: x-facebook
+  url: https://www.facebook.com/informationweek
+- type: x-feed
+  url: https://informationweek.com/rss_feeds.asp?s
+- type: x-linkedin
+  url: https://www.linkedin.com/company/informationweek
+- type: x-linkedin
+  url: https://www.linkedin.com/company/informationweek/
+- type: x-privacy
+  url: https://tech.informa.com/privacy-policy
+- type: x-security
+  url: https://www.darkreading.com/application-security.asp
+- type: x-security
+  url: https://www.darkreading.com/cloud-security.asp
+- type: x-security
+  url: https://www.darkreading.com/endpoint-security.asp
+- type: x-security
+  url: https://www.darkreading.com/mobile-security.asp
+- type: x-security
+  url: https://www.darkreading.com/security-analytics.asp
+- type: x-terms-of-service
+  url: https://tech.informa.com/terms-and-conditions
+- type: x-twitter
+  url: https://twitter.com/InformationWeek
+- type: x-website
+  url: https://www.transformmag.com
+- type: x-white-papers
+  url: https://www.informationweek.com/whitepaper
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

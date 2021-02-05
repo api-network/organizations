@@ -1,0 +1,58 @@
+---
+name: Server Room
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "108141"
+url: https://raw.githubusercontent.com/api-network/organizations/main/server-room.yaml
+tags:
+- Service Providers
+apis: []
+x-common:
+- type: x-website
+  url: http://serverroom.net
+- type: x-code
+  url: https://www.serverroom.net/encoders/liveshell/
+- type: x-code
+  url: https://www.serverroom.net/encoders/epiphan-pearl/
+- type: x-code
+  url: https://www.serverroom.net/encoders/teradek/
+- type: x-code
+  url: https://www.serverroom.net/encoders/zerhex/
+- type: x-code
+  url: https://www.serverroom.net/encoders/barix/
+- type: x-code
+  url: https://www.serverroom.net/encoders/deva-broadcasting/
+- type: x-code
+  url: https://www.serverroom.net/encoders/streamit-sas220/
+- type: x-contact
+  url: https://www.serverroom.net/contact/
+- type: x-facebook
+  url: https://www.facebook.com/ServerRoom.net
+- type: x-linkedin
+  url: https://www.linkedin.com/company/server-room
+- type: x-login
+  url: https://www.serverroom.net/login
+- type: x-plans
+  url: https://www.serverroom.net/dedicated/free/#plans
+- type: x-pricing
+  url: https://www.serverroom.net/dedicated/pricing/
+- type: x-privacy
+  url: https://www.serverroom.net/privacy-policy
+- type: x-support
+  url: https://www.serverroom.net/support/
+- type: x-twitter
+  url: https://twitter.com/serverroomnet
+- type: x-website
+  url: https://www.serverroom.net
+- type: x-youtube
+  url: https://www.youtube.com/c/ServerroomNet
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

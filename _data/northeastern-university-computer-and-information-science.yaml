@@ -1,0 +1,54 @@
+---
+name: Northeastern University Computer and Information Science
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10481"
+url: https://raw.githubusercontent.com/api-network/organizations/main/northeastern-university-computer-and-information-science.yaml
+tags:
+- Massachusetts
+apis: []
+x-common:
+- type: x-website
+  url: http://www.khoury.northeastern.edu
+- type: x-about
+  url: https://www.khoury.northeastern.edu/about/
+- type: x-careers
+  url: https://careers.northeastern.edu/
+- type: x-contact
+  url: https://www.khoury.northeastern.edu/contact/
+- type: x-documentation
+  url: https://www.khoury.northeastern.edu/role/post-docs/
+- type: x-events
+  url: https://www.ccis.northeastern.edu/events/
+- type: x-events
+  url: https://www.khoury.northeastern.edu/events
+- type: x-facebook
+  url: http://www.facebook.com/khourycollege
+- type: x-instagram
+  url: http://www.instagram.com/khourycollege
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/1943637
+- type: x-news
+  url: https://www.khoury.northeastern.edu/news/
+- type: x-news
+  url: https://www.khoury.northeastern.edu/news
+- type: x-open-source
+  url: https://www.khoury.northeastern.edu/open-positions/
+- type: x-open-source
+  url: https://www.ccis.northeastern.edu/open-positions/
+- type: x-privacy
+  url: https://www.northeastern.edu/privacy-information/
+- type: x-twitter
+  url: http://www.twitter.com/khourycollege
+- type: x-website
+  url: https://www.ccis.northeastern.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

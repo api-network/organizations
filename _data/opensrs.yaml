@@ -1,0 +1,135 @@
+---
+name: OpenSRS
+description: OpenSRS is a Tucows company. Join the go-to platform for resellers of
+  Domain Names, Hosted Email, SSL Certificates and Security and Privacy Products.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/open-srs.jpeg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "55898"
+url: https://raw.githubusercontent.com/api-network/organizations/main/opensrs.yaml
+tags:
+- Has API
+apis: []
+x-common:
+- type: x-blog-rss
+  url: http://www.opensrs.com/blog/feed/
+- type: x-contact
+  url: https://opensrs.com/why/contact/
+- type: x-contact
+  url: https://opensrs.com/contact
+- type: x-contact
+  url: https://ting.formstack.com/forms/opensrs_sales_contact
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/opensrs
+- type: x-developers
+  url: https://opensrs.com/integration/api/
+- type: x-documentation
+  url: https://opensrs.com/resources/documentation/
+- type: x-email
+  url: help@opensrs.com
+- type: x-github
+  url: https://github.com/OpenSRS
+- type: x-investor
+  url: http://www.tucows.com/investors/
+- type: x-news
+  url: https://opensrs.com/blog/category/industry-news/
+- type: x-news
+  url: http://www.tucows.com/news/
+- type: x-open-source
+  url: http://www.opensrsstatus.com/
+- type: x-open-source
+  url: https://opensrs.com/manage/
+- type: x-open-source
+  url: https://opensrs.com/
+- type: x-open-source
+  url: https://opensrs.com/why/
+- type: x-open-source
+  url: https://opensrs.com/why/our-resellers/
+- type: x-open-source
+  url: https://opensrs.com/services/
+- type: x-open-source
+  url: https://opensrs.com/services/domains/
+- type: x-open-source
+  url: https://opensrs.com/services/domains/domain-pricing/
+- type: x-open-source
+  url: https://opensrs.com/services/domains/promotions/
+- type: x-open-source
+  url: https://opensrs.com/services/domains/new-tlds/
+- type: x-open-source
+  url: https://opensrs.com/services/domains/premium-domains/
+- type: x-open-source
+  url: https://opensrs.com/domain-add-ons/
+- type: x-open-source
+  url: https://opensrs.com/services/ssl/
+- type: x-open-source
+  url: https://opensrs.com/services/ssl/sectigo-ssl-products/
+- type: x-open-source
+  url: https://opensrs.com/services/ssl/thawte-ssl-products/
+- type: x-open-source
+  url: https://opensrs.com/encryption-everywhere/
+- type: x-open-source
+  url: https://opensrs.com/services/hosted-email/
+- type: x-open-source
+  url: https://opensrs.com/email-migration/
+- type: x-open-source
+  url: https://opensrs.com/integration/
+- type: x-open-source
+  url: https://opensrs.com/integration/control-panel/
+- type: x-open-source
+  url: https://opensrs.com/integration/api/
+- type: x-open-source
+  url: https://opensrs.com/integration/tools/
+- type: x-open-source
+  url: https://opensrs.com/integration/tools/whmcs/
+- type: x-open-source
+  url: https://opensrs.com/integration/tools/odin/
+- type: x-open-source
+  url: https://opensrs.com/resources/
+- type: x-open-source
+  url: https://opensrs.com/resources/marketing-resources/
+- type: x-open-source
+  url: https://opensrs.com/quickstart/
+- type: x-open-source
+  url: https://kb.opensrs.com
+- type: x-open-source
+  url: https://opensrs.com/blog/
+- type: x-open-source
+  url: https://opensrs.com/join/
+- type: x-open-source
+  url: https://campaigns.opensrs.com/webmail/
+- type: x-open-source
+  url: https://opensrs.com/services
+- type: x-open-source
+  url: https://opensrs.com/why
+- type: x-open-source
+  url: https://opensrs.com/integration
+- type: x-open-source
+  url: https://opensrs.com/tld/dot-club/
+- type: x-open-source
+  url: https://opensrs.com/tld/dot-me/
+- type: x-open-source
+  url: https://opensrs.com/tld/dot-org/
+- type: x-open-source
+  url: https://opensrs.com/blog/category/product-updates/
+- type: x-open-source
+  url: https://opensrs.com/blog/2019/11/icann66-recap/
+- type: x-open-source
+  url: http://help.opensrs.com/home
+- type: x-open-source
+  url: https://opensrs.com/privacy-policy/
+- type: x-security
+  url: https://opensrs.com/services/security-and-privacy/
+- type: x-tutorials
+  url: https://opensrs.com/resources/video-tutorials/
+- type: x-twitter
+  url: https://twitter.com/OpenSRS
+- type: x-website
+  url: http://opensrs.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

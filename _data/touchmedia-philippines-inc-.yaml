@@ -1,0 +1,40 @@
+---
+name: TouchMedia Philippines, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8736540"
+url: https://raw.githubusercontent.com/api-network/organizations/main/touchmedia-philippines-inc-.yaml
+tags:
+- Kiosks
+apis: []
+x-common:
+- type: x-about
+  url: http://www.touchmedia.biz/about-us/
+- type: x-about
+  url: http://www.touchmedia.biz/about-us/our-profile
+- type: x-about
+  url: http://www.touchmedia.biz/about-us/our-people
+- type: x-about
+  url: http://www.touchmedia.biz/about-us/our-partners
+- type: x-contact
+  url: http://www.touchmedia.biz/contact-us
+- type: x-facebook
+  url: http://www.facebook.com/
+- type: x-linkedin
+  url: http://linkedin.com
+- type: x-twitter
+  url: http://www.twitter.com/
+- type: x-website
+  url: https://touchmedia.biz
+- type: x-youtube
+  url: http://youtube.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

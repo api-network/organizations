@@ -1,0 +1,46 @@
+---
+name: HireDesk
+description: The HireDesk software is the most configurable on-demand applicant tracking
+  system (ATS) for small to medium-sized companies. Automate and streamline your hiring
+  process.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4895771"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hiredesk.yaml
+tags:
+- Recruitment Management
+apis: []
+x-common:
+- type: x-blog
+  url: https://hiredesk.com/blog/
+- type: x-contact
+  url: https://hiredesk.com/contact/
+- type: x-feed
+  url: http://www.hiredesk.com/blog/feed/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/hiredesk
+- type: x-privacy
+  url: http://www.hiredesk.com/privacy-policy
+- type: x-support
+  url: https://hiredesk.com/support/
+- type: x-terms-of-service
+  url: http://www.hiredesk.com/terms-of-use
+- type: x-twitter
+  url: https://twitter.com/hiredesk
+- type: x-twitter
+  url: https://twitter.com/HireDesk/status/981957815899222016
+- type: x-twitter
+  url: https://twitter.com/HireDesk/status/966413311825924096
+- type: x-twitter
+  url: https://twitter.com/HireDesk/status/963838048717955072
+- type: x-website
+  url: https://hiredesk.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

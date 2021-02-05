@@ -1,0 +1,47 @@
+---
+name: Fontspring
+description: "Want a better way to buy fonts online? Pay one fee for your font and
+  @font-face license. Use your font online or in print\u2014it\u2019s up to you. No
+  subscription. No pageview limits."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "13281"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fontspring.yaml
+tags:
+- Web Fonts
+- Ttf Fonts
+- Repositories
+- Fonts Online
+- Find Fonts
+- Buy Fonts
+apis: []
+x-common:
+- type: x-website
+  url: http://www.fontspring.com
+- type: x-blog
+  url: https://blog.fontspring.com/
+- type: x-blog
+  url: https://blog.fontspring.com
+- type: x-facebook
+  url: https://www.facebook.com/fontspring
+- type: x-facebook
+  url: https://facebook.com/fontspring
+- type: x-feed
+  url: https://blog.fontspring.com/feed
+- type: x-instagram
+  url: https://www.instagram.com/fontspring/
+- type: x-instagram
+  url: https://instagram.com/fontspring
+- type: x-twitter
+  url: https://twitter.com/fontspring
+- type: x-website
+  url: https://www.fontspring.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

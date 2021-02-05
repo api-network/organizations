@@ -1,0 +1,53 @@
+---
+name: Sentieo
+description: Research, visualize & supercharge your financial data search with Sentieo.
+  Real time data, sec filings, equity research, mobile app, excel plugin and more!
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28724-sentieo-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "65126"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sentieo.yaml
+tags:
+- Has API
+- Financial
+- API Not Found
+apis: []
+x-common:
+- type: x-website
+  url: https://sentieo.com?utm_source=twitter&utm_medium=organic&utm_campaign=twitter-profile
+- type: x-blog
+  url: https://sentieo.com/blog/
+- type: x-blog
+  url: https://sentieo.com/blog
+- type: x-careers
+  url: https://sentieo.com/content/pages/careers.html
+- type: x-contact
+  url: https://resources.sentieo.com/contact-us
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/sentieo
+- type: x-developer
+  url: http://dev.sentieo.com
+- type: x-email
+  url: info@sentieo.com
+- type: x-investor
+  url: https://resources.sentieo.com/sentieo-investors
+- type: x-press
+  url: https://resources.sentieo.com/sentieo-in-press
+- type: x-pricing
+  url: https://resources.sentieo.com/request-custom-quote
+- type: x-terms-of-service
+  url: https://sentieo.com/content/legal/privacy-policy.html
+- type: x-twitter
+  url: https://twitter.com/Sentieo
+- type: x-webinars
+  url: https://resources.sentieo.com/upcoming-webinars
+- type: x-website
+  url: https://sentieo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

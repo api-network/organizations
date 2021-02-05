@@ -1,0 +1,34 @@
+---
+name: International Federation of Robotics
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "293785"
+url: https://raw.githubusercontent.com/api-network/organizations/main/international-federation-of-robotics.yaml
+tags:
+- Companies
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ifr.org
+- type: x-careers
+  url: https://www.ifr.org/robots-create-jobs
+- type: x-events
+  url: https://www.ifr.org/events/iera-award/
+- type: x-news
+  url: https://www.bbc.co.uk/news/world-europe-49726811
+- type: x-privacy
+  url: https://ifr.org/privacy-policy
+- type: x-twitter
+  url: https://twitter.com/IFR_Robots
+- type: x-website
+  url: https://www.ifr.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

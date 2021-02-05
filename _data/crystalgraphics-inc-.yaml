@@ -1,0 +1,47 @@
+---
+name: CrystalGraphics, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "76762"
+url: https://raw.githubusercontent.com/api-network/organizations/main/crystalgraphics-inc-.yaml
+tags:
+- Video Backgrounds
+- Themes
+- Slides
+- Ppt
+- PowerPoint Templates
+- Diagrams
+- Companies
+- Charts
+- Animation
+- 3D Transitions
+apis: []
+x-common:
+- type: x-about
+  url: https://www.google.com/intl/en/slides/about/
+- type: x-contact
+  url: https://powerpoint.crystalgraphics.com/contactus/
+- type: x-contact
+  url: https://www.crystalgraphics.com/contact.asp
+- type: x-documentation
+  url: https://support.google.com/docs/?hl=en#topic=2811776
+- type: x-facebook
+  url: https://www.facebook.com/crystalgraphicsinc/
+- type: x-privacy
+  url: https://www.crystalgraphics.com/privacy.asp
+- type: x-support
+  url: https://powerpoint.crystalgraphics.com/support
+- type: x-support
+  url: https://support.office.com/en-us/powerpoint
+- type: x-website
+  url: https://www.crystalgraphics.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

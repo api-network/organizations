@@ -1,0 +1,50 @@
+---
+name: PHP-Fusion
+description: The official development site of PHP-Fusion, a content management system.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "765233"
+url: https://raw.githubusercontent.com/api-network/organizations/main/phpfusion.yaml
+tags:
+- Wondercms
+- Websitebaker
+- Webhosting
+- Themes
+- SSL
+- Portal
+- PHPFusion
+- PHP-Fusion
+- PHP
+- Open Source
+- MySQL
+- HTML
+- Hosting
+- Fusion Cms
+- Forums
+- Favicon
+- Domains
+- Domain Suggestion
+- Domain Finder
+- Digital Publishing
+- Content Management
+- CMS
+- AGPL
+apis: []
+x-common:
+- type: x-website
+  url: http://www.php-fusion.co.uk
+- type: x-facebook
+  url: https://www.facebook.com/GenuineFusion
+- type: x-twitter
+  url: https://www.twitter.com/PHPFusion
+- type: x-website
+  url: https://www.php-fusion.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

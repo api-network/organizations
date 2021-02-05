@@ -1,0 +1,65 @@
+---
+name: Fandango
+description: "We\u2019re excited to present you the Fandango and Rotten Tomatoes API
+  platforms. Partners can now access movie, theater and ticketing information through
+  the Fandango APIs and the Tomatometer, critic reviews and ratings through the Rotten
+  Tomatoes APIs."
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1787"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fandango.yaml
+tags:
+- Tickets
+- Rewards
+- Profile
+- Presales
+- Movies
+- Movie Trailers
+- Have Swagger
+- Have API Paths
+- API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.fandango.com
+- type: x-about
+  url: https://www.fandango.com/about-us
+- type: x-developer
+  url: http://developer.fandango.com
+- type: x-developer
+  url: https://developer.fandango.com/page
+- type: x-developers
+  url: http://developer.fandango.com
+- type: x-documentation
+  url: https://developer.fandango.com/io-docs
+- type: x-login
+  url: https://www.fandango.com/account/signin?from=%2F
+- type: x-news
+  url: http://www.fandango.com/movie-news
+- type: x-privacy
+  url: https://www.fandango.com/policies/privacy-policy
+- type: x-privacy-policy
+  url: https://www.fandango.com/policies/privacy-policy
+- type: x-self-service-registration
+  url: https://developer.fandango.com/member/register
+- type: x-showcase
+  url: https://www.fandango.com/movies/awards/showcase/oscars
+- type: x-support
+  url: http://fandango.custhelp.com/app/chat/chat_launch
+- type: x-terms-of-service
+  url: https://developer.fandango.com/Fandango_Terms_of_Service
+- type: x-terms-of-service
+  url: https://www.fandango.com/policies/terms-and-policies
+- type: x-twitter
+  url: https://twitter.com/fandango
+- type: x-website
+  url: https://www.fandango.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

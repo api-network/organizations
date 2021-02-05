@@ -1,0 +1,23 @@
+---
+name: enterprisetimes.co.uk
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/enterprisetimes-co-uk.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.enterprisetimes.co.uk/2016/07/20/xero-grows-to-1-billion-revenue/
+- type: x-website
+  url: http://enterprisetimes.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

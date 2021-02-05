@@ -1,0 +1,26 @@
+---
+name: computerworld.com.au
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/computerworld-com-au.yaml
+tags:
+- Magazines
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.computerworld.com.au/article/84323/opennetwork_adding_tools_directory-enabled_app/
+- type: x-website
+  url: http://computerworld.com.au
+- type: x-website
+  url: https://www.computerworld.com.au
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

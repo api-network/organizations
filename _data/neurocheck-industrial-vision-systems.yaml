@@ -1,0 +1,43 @@
+---
+name: NeuroCheck, Industrial vision systems
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4999124"
+url: https://raw.githubusercontent.com/api-network/organizations/main/neurocheck-industrial-vision-systems.yaml
+tags:
+- Software
+- Decoding
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.neurocheck.com/page/2/?et_blog
+- type: x-careers
+  url: https://www.neurocheck.com/company/jobs/
+- type: x-contact
+  url: https://www.neurocheck.com/contact/contact-form/
+- type: x-contact
+  url: https://www.neurocheck.com/contact/
+- type: x-contact
+  url: https://www.neurocheck.com/contact/distributors/
+- type: x-news
+  url: https://www.neurocheck.com/company/news/
+- type: x-news
+  url: https://www.neurocheck.com/company/news/events/
+- type: x-press
+  url: https://www.neurocheck.com/impressum/
+- type: x-privacy
+  url: https://www.neurocheck.com/privacy-and-cookies-policy/
+- type: x-support
+  url: https://www.neurocheck.com/service/support-request/
+- type: x-website
+  url: https://www.neurocheck.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

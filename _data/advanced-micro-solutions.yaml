@@ -1,0 +1,47 @@
+---
+name: Advanced Micro Solutions
+description: 1099-Etc. business payroll software was developed with small and large
+  business owners or accountants in mind. Multiple payroll options and it's easy!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "785992"
+url: https://raw.githubusercontent.com/api-network/organizations/main/advanced-micro-solutions.yaml
+tags:
+- Informational Reporting
+apis: []
+x-common:
+- type: x-website
+  url: http://www.1099-etc.com
+- type: x-about
+  url: https://www.1099-etc.com/about/
+- type: x-about
+  url: https://www.1099-etc.com/about/testimonials/
+- type: x-blog
+  url: https://www.1099-etc.com/blog/
+- type: x-contact
+  url: https://www.1099-etc.com/contact-us/
+- type: x-contact
+  url: https://www.1099-etc.com/about/contact/
+- type: x-support
+  url: https://www.1099-etc.com/customer-support/
+- type: x-support
+  url: https://www.1099-etc.com/customer-support/sha/
+- type: x-support
+  url: https://www.1099-etc.com/customer-support/state-forms/
+- type: x-support
+  url: https://www.1099-etc.com/customer-support/importing/
+- type: x-support
+  url: http://www.livehelpnow.net/products/live-chat-system
+- type: x-twitter
+  url: http://www.twitter.com/1099etc
+- type: x-website
+  url: https://www.1099-etc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,23 @@
+---
+name: Cryptobells
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/api-butterfly.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "2"
+x-alexaRank: "7732017"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cryptobells.yaml
+tags:
+- Tech Blog
+- Profile
+apis: []
+x-common:
+- type: x-website
+  url: http://cryptobells.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

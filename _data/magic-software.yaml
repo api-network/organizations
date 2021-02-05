@@ -1,0 +1,56 @@
+---
+name: Magic Software
+description: Magic Software offers centralized integration platforms that allow you
+  to quickly connect your SaaS enterprise applications and automate business processes.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "484384"
+url: https://raw.githubusercontent.com/api-network/organizations/main/magic-software.yaml
+tags:
+- Magic
+- E-commerce
+apis: []
+x-common:
+- type: x-about
+  url: https://www.magicsoftware.com/about-us/
+- type: x-about
+  url: https://www.magicsoftware.com/about-us/leadership/
+- type: x-about
+  url: https://migration.magicsoftware.com/about-us/
+- type: x-blog
+  url: https://www.magicsoftware.com/magic-blog/
+- type: x-careers
+  url: https://www.magicsoftware.com/about-us/careers/
+- type: x-contact
+  url: https://www.magicsoftware.com/contact/message/
+- type: x-facebook
+  url: https://www.facebook.com/MagicSoftwareEnterprises/
+- type: x-investor
+  url: https://www.magicsoftware.com/investors/
+- type: x-partner
+  url: https://partner.magicsoftware.com/
+- type: x-platform
+  url: https://www.magicsoftware.com/integration-platform/
+- type: x-press
+  url: https://www.magicsoftware.com/press-releases/
+- type: x-privacy
+  url: https://www.magicsoftware.com/privacy-policy/
+- type: x-support
+  url: https://www.magicsoftware.com/magic-support-center/
+- type: x-terms-of-service
+  url: https://www.magicsoftware.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/@MagicSoftware
+- type: x-website
+  url: https://www.magicsoftware.com
+- type: x-youtube
+  url: https://www.youtube.com/MagicSoftware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

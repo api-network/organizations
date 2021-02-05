@@ -1,0 +1,55 @@
+---
+name: Tribotix
+description: Tribotix specialises in robots for research, industry and teaching. We
+  are the Australian & New Zealand distributors for Robotis, Thymio amongst others.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6997840"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tribotix.yaml
+tags:
+- Components
+apis: []
+x-common:
+- type: x-website
+  url: http://www.tribotix.com
+- type: x-about
+  url: https://tribotix.com/about-us/
+- type: x-about
+  url: https://tribotix.com/about-us/our-story/
+- type: x-about
+  url: https://tribotix.com/about-us/our-people/
+- type: x-about
+  url: https://tribotix.com/about-us/our-capabilities/
+- type: x-about
+  url: https://tribotix.com/about-us/our-generosity/
+- type: x-about
+  url: https://tribotix.com/about-us/join-us/
+- type: x-contact
+  url: https://tribotix.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/Tribotix/
+- type: x-instagram
+  url: https://www.instagram.com/tribotix/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/tribotix-pty-ltd/
+- type: x-news
+  url: https://tribotix.com/news-events/
+- type: x-open-source
+  url: https://tribotix.com/product-category/opensource/
+- type: x-privacy
+  url: https://tribotix.com/privacy-policy/
+- type: x-tutorials
+  url: https://tribotix.com/tutorials/
+- type: x-twitter
+  url: https://twitter.com/tribotix
+- type: x-website
+  url: https://www.tribotix.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

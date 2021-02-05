@@ -1,0 +1,42 @@
+---
+name: Jimpix
+description: Send cool, unusual, unique and memorable birthday ecards
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "90350"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jimpix.yaml
+tags:
+- Free
+apis: []
+x-common:
+- type: x-about
+  url: https://jimpix.co.uk/about.asp
+- type: x-contact
+  url: https://jimpix.co.uk/contact/
+- type: x-facebook
+  url: https://jimpix.co.uk/words/names-facebook.asp
+- type: x-feed
+  url: https://feeds.feedburner.com/jimpix-rss-feed
+- type: x-instagram
+  url: https://jimpix.co.uk/words/names-instagram.asp
+- type: x-privacy
+  url: https://jimpix.co.uk/privacy.asp
+- type: x-support
+  url: https://jimpix.co.uk/ecards/user-help.asp
+- type: x-twitter
+  url: https://jimpix.co.uk/words/names-twitter.asp
+- type: x-twitter
+  url: https://jimpix.co.uk/words/names-twitter.asp
+- type: x-website
+  url: https://www.jimpix.co.uk
+- type: x-youtube
+  url: https://jimpix.co.uk/words/names-youtube.asp
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

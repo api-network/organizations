@@ -1,0 +1,85 @@
+---
+name: z/VM
+description: IBM z/VM enterprise class virtualization technology enables more virtual
+  servers in a single footprint than any other platform.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "687"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zvm.yaml
+tags:
+- Z-VM
+apis: []
+x-common:
+- type: x-website
+  url: https://ibm.co/z15
+- type: x-blog
+  url: https://github.com/IBM/tweet-travel-blog-summary
+- type: x-blog
+  url: https://www.ibm.com/blogs/systems/topics/mainframes
+- type: x-case-studies
+  url: https://www.ibm.com/case-studies?lnk=fdi
+- type: x-contact
+  url: https://www.ibm.com/contact/us/en/?lnk=flg-cont-usen
+- type: x-developer
+  url: https://developer.ibm.com/answers/
+- type: x-developer
+  url: https://developer.ibm.com
+- type: x-events
+  url: https://www.vm.ibm.com/events/
+- type: x-events
+  url: https://www.ibm.com/events?lnk=fab
+- type: x-facebook
+  url: https://www.facebook.com/IBMDeveloper
+- type: x-facebook
+  url: https://www.facebook.com/IBMZ
+- type: x-investor
+  url: https://www.ibm.com/investor/?lnk=fab
+- type: x-linkedin
+  url: https://www.linkedin.com/company/ibm-systems
+- type: x-marketplace
+  url: https://www.ibm.com/marketplace/z15
+- type: x-marketplace
+  url: https://www.ibm.com/marketplace/z14
+- type: x-marketplace
+  url: https://www.ibm.com/marketplace/zvm
+- type: x-marketplace
+  url: https://www.ibm.com/marketplace/wave-for-zvm
+- type: x-marketplace
+  url: https://www.ibm.com/marketplace/tape-manager-for-zvm
+- type: x-news
+  url: https://www.vm.ibm.com/news/
+- type: x-news
+  url: https://www.vm.ibm.com/news/spotlight/
+- type: x-news
+  url: https://newsroom.ibm.com/?lnk=fab
+- type: x-privacy
+  url: https://www.ibm.com/privacy/us/en/?lnk=flg-priv-usen
+- type: x-security
+  url: https://www.vm.ibm.com/security/
+- type: x-showcase
+  url: https://www.linkedin.com/showcase/developerworks/
+- type: x-support
+  url: https://support.ibm.com?lnk=fcw
+- type: x-terms-of-service
+  url: https://www.ibm.com/us-en/legal?lnk=flg-tous-usen
+- type: x-twitter
+  url: https://twitter.com/IBMDeveloper
+- type: x-twitter
+  url: https://twitter.com/IBMZ
+- type: x-website
+  url: https://www.vm.ibm.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=dRzRD3GgDAA
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=zUoeGd8HKDg
+- type: x-youtube
+  url: https://www.youtube.com/user/ibmsystemz
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

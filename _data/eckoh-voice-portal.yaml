@@ -1,0 +1,28 @@
+---
+name: Eckoh Voice Portal
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1804985"
+url: https://raw.githubusercontent.com/api-network/organizations/main/eckoh-voice-portal.yaml
+tags:
+- Voice Portals
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/EckohPLC/
+- type: x-slideshare
+  url: https://www.slideshare.net/Eckoh_UK
+- type: x-twitter
+  url: https://twitter.com/Eckoh
+- type: x-website
+  url: https://www.eckoh.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

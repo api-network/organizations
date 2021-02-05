@@ -1,0 +1,37 @@
+---
+name: VTEX
+description: Take the first step towards localized global expansion with an eCommerce
+  solution that surges ahead of customer expectations.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28918-api-vtex-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "24152"
+url: https://raw.githubusercontent.com/api-network/organizations/main/vtex.yaml
+tags:
+- Postman Doc Search
+- New
+- Have API Paths
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/vtex
+- type: x-email
+  url: info@vtex.com
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/101975/pricing-vault/6YsWxKT#7390fb1a-ae79-1c39-fa4a-4a0fef41faa5
+- type: x-twitter
+  url: https://twitter.com/vtextruecloud
+- type: x-website
+  url: http://help.vtex.com
+- type: x-website
+  url: http://api.vtex.com
+- type: x-website
+  url: http://vtex.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

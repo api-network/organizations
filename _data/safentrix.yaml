@@ -1,0 +1,24 @@
+---
+name: Safentrix
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/safentrix.yaml
+tags:
+- Filtering
+apis: []
+x-common:
+- type: x-support
+  url: http://www.providesupport.com?messenger=safentrix
+- type: x-website
+  url: https://www.safentrix.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

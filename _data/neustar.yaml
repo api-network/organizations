@@ -1,0 +1,44 @@
+---
+name: Neustar
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "120714"
+url: https://raw.githubusercontent.com/api-network/organizations/main/neustar.yaml
+tags:
+- Telephony
+apis: []
+x-common:
+- type: x-website
+  url: https://www.home.neustar
+- type: x-linkedin
+  url: http://www.linkedin.com/company/neustar-inc
+- type: x-login
+  url: https://www.neustarlocaleze.biz/manage/login
+- type: x-login
+  url: https://dashboard.p1.neustar.biz/#/login
+- type: x-login
+  url: https://home.wpm.neustar.biz/#login
+- type: x-login
+  url: https://numbering.neustar.biz/login
+- type: x-login
+  url: https://registry.neustar.biz/user/login
+- type: x-platform
+  url: https://platformone.neustar.biz/#/home/landing
+- type: x-security
+  url: https://siteprotect.security.neustar
+- type: x-twitter
+  url: http://twitter.com/#!/Neustar
+- type: x-website
+  url: https://www.neustar.biz
+- type: x-youtube
+  url: https://www.youtube.com/user/NeustarInc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

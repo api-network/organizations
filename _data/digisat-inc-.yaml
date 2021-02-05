@@ -1,0 +1,49 @@
+---
+name: Digisat, Inc.
+description: VSAT Satellite Communications Systems Satcom Equipment Integration Engineering
+  Installation Solutions and Services for Mobile, SNG, Vehicle, Earth Station, Maritime
+  antennas and Teleports, Global Satellite Internet Bandwidth service for Vessels,
+  Remote Offices, Telemedicine, Government, Disaster, Oil & Gas, Mining and Emergency
+  Communication.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "315630"
+url: https://raw.githubusercontent.com/api-network/organizations/main/digisat-inc-.yaml
+tags:
+- Vsat
+- Terminals
+- Systems
+- Solutions
+- Services
+- Satellite Communications
+- Satellite
+- Satcom
+- Internet
+- Equipment
+apis: []
+x-common:
+- type: x-about
+  url: https://www.digisat.org/about-us
+- type: x-contact
+  url: https://www.digisat.org/contact
+- type: x-login
+  url: https://www.digisat.org/customer/account/login/
+- type: x-news
+  url: https://www.digisat.org/news
+- type: x-privacy
+  url: https://www.digisat.org/privacy-policy
+- type: x-twitter
+  url: https://twitter.com/digisatinc/
+- type: x-website
+  url: https://www.digisat.org
+- type: x-youtube
+  url: https://www.youtube.com/user/Digisatinc?feature=watch
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

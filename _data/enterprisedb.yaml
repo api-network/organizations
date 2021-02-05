@@ -1,0 +1,36 @@
+---
+name: EnterpriseDB
+description: EnterpriseDB Postgres is the most complete open source-based data platform.
+  Run enterprise Postgres at scale, break free from Oracle, or ease your cloud migration
+  with EDB.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "38839"
+url: https://raw.githubusercontent.com/api-network/organizations/main/enterprisedb.yaml
+tags:
+- PostGreSQL
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.enterprisedb.com/blog
+- type: x-documentation
+  url: https://www.enterprisedb.com/edb-docs
+- type: x-facebook
+  url: https://www.facebook.com/EnterpriseDB
+- type: x-linkedin
+  url: https://www.linkedin.com/company/enterprisedb
+- type: x-pricing
+  url: https://www.enterprisedb.com/pricing
+- type: x-twitter
+  url: https://twitter.com/EDBPostgres
+- type: x-website
+  url: https://www.enterprisedb.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

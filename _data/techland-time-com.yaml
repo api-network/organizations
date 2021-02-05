@@ -1,0 +1,23 @@
+---
+name: techland.time.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/techland-time-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://techland.time.com/2013/06/06/this-temporal-laser-cloak-can-hide-things-in-time/
+- type: x-website
+  url: http://techland.time.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

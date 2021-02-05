@@ -1,0 +1,22 @@
+---
+name: Cetus
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1640"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cetus.yaml
+tags:
+- Compiler Construction Kits
+apis: []
+x-common:
+- type: x-website
+  url: https://cetus.ecn.purdue.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

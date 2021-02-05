@@ -1,0 +1,72 @@
+---
+name: Red Box Recorders
+description: EXPERTS IN VOICE. Red Box is the world's leading dedicated voice specialist
+  and the only technology company capable of capturing all enterprise voice communications.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/red-box-recorders.yaml
+tags:
+- Voice Of The Customer
+- Voice Data
+- Voice Capture
+- Search Recording
+- Sales Ai
+- Recorders
+apis: []
+x-common:
+- type: x-website
+  url: http://www.redboxvoice.com
+- type: x-about
+  url: https://www.redboxvoice.com/about-us/
+- type: x-about
+  url: https://www.redboxvoice.com/about-us/#leadership
+- type: x-careers
+  url: https://www.redboxvoice.com/careers/
+- type: x-contact
+  url: https://www.redboxvoice.com/sectors/contact-centres
+- type: x-contact
+  url: https://www.redboxvoice.com/support/contact-support
+- type: x-events
+  url: https://www.redboxvoice.com/insights/events/
+- type: x-facebook
+  url: https://www.facebook.com/redboxvoice/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/red-box-voice/
+- type: x-news
+  url: https://www.redboxvoice.com/insights/news/
+- type: x-partner
+  url: https://www.redboxvoice.com/partners/
+- type: x-partner
+  url: https://www.redboxvoice.com/partners/listings/
+- type: x-partner
+  url: https://www.redboxvoice.com/partners/become-a-partner
+- type: x-partner
+  url: https://www.redboxvoice.com/partners/listings/tethr
+- type: x-platform
+  url: https://www.redboxvoice.com/products/platform
+- type: x-privacy
+  url: https://www.redboxvoice.com/privacy-policy
+- type: x-privacy
+  url: https://www.redboxvoice.com/privacy-policy#cookies
+- type: x-support
+  url: https://www.redboxvoice.com/support/
+- type: x-support
+  url: https://www.redboxvoice.com/support/resources
+- type: x-support
+  url: https://www.redboxvoice.com/support/faqs
+- type: x-terms-of-service
+  url: https://www.redboxvoice.com/terms-and-conditions
+- type: x-twitter
+  url: https://twitter.com/redboxrecorders
+- type: x-website
+  url: https://www.redboxrecorders.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

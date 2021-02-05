@@ -1,0 +1,50 @@
+---
+name: SaferBus
+description: Welcome to the Facebook page of the U.S. Department of Transportation.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/400px-US-DeptOfTransportation-Seal.svg.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "13478"
+url: https://raw.githubusercontent.com/api-network/organizations/main/saferbus.yaml
+tags:
+- Safety
+- Have API
+- Bus
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/u-s-department-of-transportation
+- type: x-developers
+  url: https://mobile.fmcsa.dot.gov/developer/apidoc.page?cid=29958
+- type: x-email
+  url: privacy@dot.gov
+- type: x-email
+  url: Denise.P.Wright@dot.gov
+- type: x-email
+  url: DOTCFO@dot.gov
+- type: x-email
+  url: Edward.c.ramos@dot.gov
+- type: x-facebook
+  url: https://www.facebook.com/FMCSA
+- type: x-facebook
+  url: https://www.facebook.com/FMCSA/
+- type: x-instagram
+  url: https://www.instagram.com/dot_fmcsa/
+- type: x-login
+  url: https://portal.fmcsa.dot.gov/login
+- type: x-twitter
+  url: https://twitter.com/USDOT
+- type: x-twitter
+  url: https://twitter.com/fmcsa
+- type: x-website
+  url: https://mobile.fmcsa.dot.gov
+- type: x-youtube
+  url: https://www.youtube.com/user/usdotgov
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

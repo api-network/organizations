@@ -1,0 +1,33 @@
+---
+name: Beautiful Open
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7984902"
+url: https://raw.githubusercontent.com/api-network/organizations/main/beautiful-open.yaml
+tags:
+- Websites
+- Have API
+apis: []
+x-common:
+- type: x-blog-rss
+  url: http://beautifulopen.com/feed.xml
+- type: x-github
+  url: https://lyft.github.io/confidant/
+- type: x-status
+  url: https://status.im/
+- type: x-twitter
+  url: https://twitter.com/Beautiful_Open
+- type: x-twitter
+  url: https://twitter.com/trek
+- type: x-website
+  url: http://beautifulopen.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

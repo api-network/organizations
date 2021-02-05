@@ -1,0 +1,49 @@
+---
+name: ColorLogic
+description: "ColorLogic ist ein globaler Entwickler von Farbmanagement-Technologien
+  und Softwarel\xF6sungen f\xFCr ICC-Profilierungen und automatisiertes Farbmanagement."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8577330"
+url: https://raw.githubusercontent.com/api-network/organizations/main/colorlogic.yaml
+tags:
+- Color Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.colorlogic.de
+- type: x-about
+  url: https://colorlogic.de/about-cl-de/
+- type: x-blog
+  url: https://colorlogic.de/page/2/?et_blog
+- type: x-facebook
+  url: https://www.facebook.com/ColorLogicGmbH/
+- type: x-instagram
+  url: https://www.instagram.com/colorlogicgmbh/
+- type: x-instagram
+  url: https://www.instagram.com/colorlogicgmbh
+- type: x-linkedin
+  url: https://www.linkedin.com/company/10242806/
+- type: x-press
+  url: https://colorlogic.de/impressum/
+- type: x-press
+  url: https://wordpress.org/plugins/gdpr-cookie-compliance
+- type: x-support
+  url: http://onlinehelp.colorlogic.de/de
+- type: x-twitter
+  url: https://twitter.com/ColorLogicGmbH
+- type: x-webinars
+  url: https://colorlogic.de/2019/12/02/kostenloses-webinar/
+- type: x-website
+  url: https://www.colorlogic.de
+- type: x-youtube
+  url: https://www.youtube.com/user/CrossXColorInc/videos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

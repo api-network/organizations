@@ -1,0 +1,68 @@
+---
+name: Adobe I/O
+description: Adobe I/O is the place for developers looking to integrate, extend, or
+  create apps. Explore Adobe product APIs, SDKs and documentation.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28403-www-adobe-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "700"
+x-alexaRank: "66644"
+url: https://raw.githubusercontent.com/api-network/organizations/main/adobe-io.yaml
+tags:
+- Profile
+- Postman
+- Open Source
+- JSON
+- Have Swagger
+- Have API Paths
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-authentication
+  url: https://www.adobe.io/authentication.html
+- type: x-blog
+  url: https://medium.com/adobetech
+- type: x-contact-form
+  url: https://www.adobe.io/contactus.html
+- type: x-developer
+  url: https://www.adobe.io/apis/documentcloud/sign.html
+- type: x-developers
+  url: https://www.adobe.io/apis.html
+- type: x-forum
+  url: https://www.adobe.com/go/esign-dev-forum
+- type: x-github
+  url: https://github.com/adobe/spectrum-css
+- type: x-github
+  url: https://github.com/adobe
+- type: x-platform
+  url: https://www.adobe.io/apis/experienceplatform/home.html
+- type: x-platform
+  url: https://adobexdplatform.com/
+- type: x-postman-collection
+  url: https://github.com/adobe/experience-platform-postman-samples
+- type: x-postman-collection
+  url: https://github.com/adobe/reactor-postman
+- type: x-privacy
+  url: https://www.adobe.com/privacy.html
+- type: x-privacy
+  url: https://www.adobe.com/privacy/cookies.html
+- type: x-terms-of-service
+  url: https://www.adobe.com/legal/terms.html
+- type: x-twitter
+  url: https://twitter.com/AdobeIO
+- type: x-twitter
+  url: https://twitter.com/adobedevs
+- type: x-webhooks
+  url: https://www.adobe.io/apis/cloudplatform/events/documentation.html#!adobeio/adobeio-documentation/master/events/intro/webhook_docs_intro.md
+- type: x-website
+  url: https://www.adobe.io
+- type: x-youtube
+  url: https://www.youtube.com/channel/UCDtYqOjS9Eq9gacLcbMwhhQ
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

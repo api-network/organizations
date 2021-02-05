@@ -1,0 +1,23 @@
+---
+name: VIA Service Alerts
+description: Transit authority located in San Antonio, TX, USA<br />
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/via-service-alerts.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://viaprimo.com/Opportunities/DevLicense.aspx
+- type: x-website
+  url: http://training3.dam.aprimo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,36 @@
+---
+name: Form2Content, a Joomla Extension
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1394525"
+url: https://raw.githubusercontent.com/api-network/organizations/main/form2content-a-joomla-extension.yaml
+tags:
+- Extensions And Templates
+apis: []
+x-common:
+- type: x-documentation
+  url: http://documentation.form2content.com/
+- type: x-facebook
+  url: https://www.facebook.com/form2content
+- type: x-forum
+  url: http://forum.form2content.com/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/patrickfaasse
+- type: x-open-source
+  url: https://www.opensourcedesign.nl/
+- type: x-terms-of-service
+  url: http://www.form2content.com/terms-conditions
+- type: x-twitter
+  url: https://twitter.com/form2content
+- type: x-website
+  url: https://www.form2content.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

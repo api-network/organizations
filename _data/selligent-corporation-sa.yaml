@@ -1,0 +1,40 @@
+---
+name: Selligent Corporation SA
+description: Selligent Marketing Cloud is a sophisticated B2C marketing platform that
+  empowers ambitious relationship marketers to maximize every moment they engage with
+  consumers.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "272938"
+url: https://raw.githubusercontent.com/api-network/organizations/main/selligent-corporation-sa.yaml
+tags:
+- Sales And Marketing Productivity
+apis: []
+x-common:
+- type: x-website
+  url: https://bit.ly/2m5AY7k
+- type: x-customers
+  url: https://www.selligent.com/customers/retail/zalando
+- type: x-customers
+  url: https://www.selligent.com/customers/retail/opel
+- type: x-customers
+  url: https://www.selligent.com/customers/media/prezi
+- type: x-facebook
+  url: https://www.facebook.com/Selligent/
+- type: x-instagram
+  url: https://www.instagram.com/selligent/
+- type: x-partner
+  url: https://partners.selligent.com
+- type: x-twitter
+  url: https://twitter.com/selligent
+- type: x-website
+  url: https://www.selligent.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

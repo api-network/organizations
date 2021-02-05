@@ -1,0 +1,23 @@
+---
+name: 3mgp.blogspot.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/3mgp-blogspot-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://3mgp.blogspot.com/2013/08/programmable-web-today.html
+- type: x-website
+  url: http://3mgp.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

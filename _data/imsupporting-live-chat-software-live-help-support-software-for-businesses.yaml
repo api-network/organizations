@@ -1,0 +1,54 @@
+---
+name: IMsupporting, Live chat software, Live help support software for businesses
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1977828"
+url: https://raw.githubusercontent.com/api-network/organizations/main/imsupporting-live-chat-software-live-help-support-software-for-businesses.yaml
+tags:
+- Chat Rooms
+apis: []
+x-common:
+- type: x-about
+  url: https://www.imsupporting.com/about/
+- type: x-about
+  url: http://www.aboutcookies.org/
+- type: x-contact
+  url: https://www.imsupporting.com/contact/
+- type: x-login
+  url: https://www.imsupporting.com/login/
+- type: x-news
+  url: https://www.imsupporting.com/latest-updates-news/
+- type: x-press
+  url: https://wordpress.org/plugins/imsupporting/
+- type: x-privacy
+  url: https://www.imsupporting.com/privacy_policy/
+- type: x-support
+  url: https://www.imsupporting.com/
+- type: x-support
+  url: https://www.imsupporting.com/live-chat-screenshots/
+- type: x-support
+  url: https://www.imsupporting.com/pricing/
+- type: x-support
+  url: https://www.imsupporting.com/cookie-policy/
+- type: x-support
+  url: https://www.imsupporting.com/reviews/
+- type: x-support
+  url: https://www.imsupporting.com/api/
+- type: x-support
+  url: https://www.imsupporting.com/live-chat-software-faq/
+- type: x-support
+  url: https://www.imsupporting.com/live-chat-software
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-website
+  url: https://www.imsupporting.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

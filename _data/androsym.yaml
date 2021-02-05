@@ -1,0 +1,44 @@
+---
+name: Androsym
+description: Android news and reviews
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9226015"
+url: https://raw.githubusercontent.com/api-network/organizations/main/androsym.yaml
+tags:
+- News And Media
+apis: []
+x-common:
+- type: x-website
+  url: http://androwin.com
+- type: x-about
+  url: http://androsym.com/about/
+- type: x-contact
+  url: http://androsym.com/contact/
+- type: x-facebook
+  url: https://facebook.com/TheAndrowin
+- type: x-feed
+  url: https://feeds.feedburner.com/Androsym
+- type: x-feed
+  url: http://androsym.com/feed/
+- type: x-news
+  url: http://androsym.com/category/news/
+- type: x-news
+  url: http://androsym.com/news/best-iphone-apps-right-now/
+- type: x-privacy
+  url: http://androsym.com/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/Androsym
+- type: x-twitter
+  url: https://www.twitter.com/androsym
+- type: x-website
+  url: https://androsym.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

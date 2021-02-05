@@ -1,0 +1,36 @@
+---
+name: Helion Technology
+description: FPGA (Xilinx, Altera, Microsemi) and ASIC Encryption IP cores from Helion
+  Technology
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/helion-technology.yaml
+tags:
+- Xilinx
+- Technology
+- Security
+- Microsemi
+- Ip
+- Helion
+- FPGA
+- Encryption
+- Core
+- ASICs And Chips
+- Asic
+- Altera
+- AES
+- Actel
+apis: []
+x-common:
+- type: x-website
+  url: https://www.heliontech.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

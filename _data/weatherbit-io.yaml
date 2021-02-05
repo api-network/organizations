@@ -1,0 +1,53 @@
+---
+name: Weatherbit.io
+description: Our Weather API is the most powerful Weather data API on the web. Sign
+  up for our free Weather API, and upgrade as your weather data needs grow!
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/weatherbit-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "811"
+x-alexaRank: "339939"
+url: https://raw.githubusercontent.com/api-network/organizations/main/weatherbit-io.yaml
+tags:
+- Weather
+- Have Swagger
+- Have OpenAPI
+- Have API Paths
+- Have API
+- General Data
+- Broadcasts
+apis: []
+x-common:
+- type: x-website
+  url: https://www.weatherbit.io
+- type: x-blog
+  url: https://www.weatherbit.io/blog
+- type: x-contact-form
+  url: https://www.weatherbit.io/contact
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/product/weather-it-
+- type: x-documentation
+  url: https://www.weatherbit.io/api
+- type: x-email
+  url: support@weatherbit.io
+- type: x-facebook
+  url: https://facebook.com/weatherbitio
+- type: x-github
+  url: https://github.com/weatherbit
+- type: x-pricing
+  url: https://www.weatherbit.io/pricing
+- type: x-twitter
+  url: https://twitter.com/weatherbitio
+- type: x-website
+  url: http://weatherbit.io
+- type: x-website
+  url: http://www.weatherbit.io
+- type: x-website
+  url: https://www.weatherbit.io/api
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,59 @@
+---
+name: Gadget Rumours Place
+description: Gadget Rumors is Addicted to Technology News, Gadgets, Rumors, News on
+  Mobiles, Computer and Software News, SEO Tips, Latest Game Reviews.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "206848"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gadget-rumours-place.yaml
+tags:
+- News And Media
+apis: []
+x-common:
+- type: x-website
+  url: https://www.gadget-rumours.com/
+- type: x-about
+  url: https://www.gadget-rumours.com/about-us/
+- type: x-blog
+  url: http://www.blogarama.com/technology-blogs/183944-blog/
+- type: x-contact
+  url: https://www.gadget-rumours.com/contact-me/
+- type: x-facebook
+  url: https://www.facebook.com/gadgetrumours
+- type: x-feed
+  url: https://www.gadget-rumours.com/rss-feeds/
+- type: x-feed
+  url: https://www.gadget-rumours.com/feed/
+- type: x-feed
+  url: https://www.gadget-rumours.com/comments/feed/
+- type: x-instagram
+  url: https://www.instagram.com/gadgetrumours/
+- type: x-login
+  url: https://www.gadget-rumours.com/login/
+- type: x-news
+  url: https://www.gadget-rumours.com/latest-news/apple-news/
+- type: x-news
+  url: https://www.gadget-rumours.com/latest-news/games/
+- type: x-news
+  url: https://www.gadget-rumours.com/smartphones-news/
+- type: x-news
+  url: https://www.gadget-rumours.com/latest-news/
+- type: x-news
+  url: https://thelatesttechnews.com
+- type: x-news
+  url: https://getnews360.com/category/technology/
+- type: x-privacy
+  url: https://www.gadget-rumours.com/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/GadgetRumors
+- type: x-website
+  url: https://www.gadget-rumours.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

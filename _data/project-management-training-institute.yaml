@@ -1,0 +1,32 @@
+---
+name: Project Management Training Institute
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "199442"
+url: https://raw.githubusercontent.com/api-network/organizations/main/project-management-training-institute.yaml
+tags:
+- PMI
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.4pmti.com/blog/
+- type: x-contact
+  url: https://www.4pmti.com/contact.aspx
+- type: x-facebook
+  url: https://www.facebook.com/PMTInstitute/
+- type: x-privacy
+  url: https://www.4pmti.com/privacypolicy.aspx
+- type: x-twitter
+  url: https://twitter.com/pmtinstitute?lang=en
+- type: x-website
+  url: https://www.4pmti.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,42 @@
+---
+name: BioCyc
+description: EcoCyc describes the genome, metabolic pathways, and regulatory network
+  of <i>Escherichia coli</i> and provides extensive bioinformatics tools.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1310-biocyc.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2794317"
+url: https://raw.githubusercontent.com/api-network/organizations/main/biocyc.yaml
+tags:
+- Have API
+- Germany
+- Data Provider
+- Biology
+- Bacteria
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.biocyc.org
+- type: x-blog
+  url: http://pathwaytools.blogspot.com
+- type: x-facebook
+  url: https://www.facebook.com/BioCyc
+- type: x-github
+  url: https://github.com/biocycle
+- type: x-twitter
+  url: https://twitter.com/BioCyc
+- type: x-webinars
+  url: http://biocyc.org/webinar.shtml
+- type: x-developers
+  url: http://ecocyc.org/web-services.shtml
+- type: x-website
+  url: https://ecocyc.org/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

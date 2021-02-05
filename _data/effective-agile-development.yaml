@@ -1,0 +1,30 @@
+---
+name: Effective AGILE Development
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9392642"
+url: https://raw.githubusercontent.com/api-network/organizations/main/effective-agile-development.yaml
+tags:
+- Agile
+apis: []
+x-common:
+- type: x-developer
+  url: http://effectiveagiledev.com
+- type: x-developer
+  url: http://dev.effectiveagiledev.com
+- type: x-facebook
+  url: https://www.facebook.com/EffectiveAgileDevelopment
+- type: x-twitter
+  url: https://twitter.com/EffectiveAgile
+- type: x-website
+  url: https://effectiveagiledev.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

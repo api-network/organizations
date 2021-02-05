@@ -1,0 +1,32 @@
+---
+name: OpenACS
+description: OpenACS is an open source toolkit for building scalable, community-oriented
+  web applications. OpenACS is the foundation for many products and websites, including
+  the .LRN (pronounced "dot learn") e-learning platform.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "931588"
+url: https://raw.githubusercontent.com/api-network/organizations/main/openacs.yaml
+tags:
+- Tools
+- Software And Services
+- Open Source
+apis: []
+x-common:
+- type: x-open-source
+  url: irc://irc.freenode.net/#openacs
+- type: x-open-source
+  url: http://cvs.openacs.org
+- type: x-open-source
+  url: https://www.aoemedia.com/opensource-cms.html
+- type: x-website
+  url: https://openacs.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

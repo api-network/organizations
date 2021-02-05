@@ -1,0 +1,24 @@
+---
+name: Poll Pro
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8059824"
+url: https://raw.githubusercontent.com/api-network/organizations/main/poll-pro.yaml
+tags:
+- Surveys
+apis: []
+x-common:
+- type: x-support
+  url: https://www.pollpro.com/support/
+- type: x-website
+  url: https://www.pollpro.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

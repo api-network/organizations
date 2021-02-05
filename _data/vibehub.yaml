@@ -1,0 +1,27 @@
+---
+name: VibeHub
+description: We are introducing crypto based Virtual / Augmented Reality marketplaces
+  & hubs, driven by the crypto currency VIBE
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26873-www-vibehub-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "324849"
+url: https://raw.githubusercontent.com/api-network/organizations/main/vibehub.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: https://vibehub.io
+- type: x-twitter
+  url: https://twitter.com/VibeHubVR
+- type: x-website
+  url: https://www.vibehub.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

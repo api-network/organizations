@@ -1,0 +1,44 @@
+---
+name: Easy Software
+description: "Enterprise Content Management \u27A4 Wir digitalisieren Gesch\xE4ftsprozesse
+  von Unternehmen \u2713 Prozesse optimieren \u2713 mobile L\xF6sungen \u2713 Informieren
+  Sie sich \u27A4"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1078430"
+url: https://raw.githubusercontent.com/api-network/organizations/main/easy-software.yaml
+tags:
+- Third-Party Tools
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/EasySoftwareDE/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/easy-software/
+- type: x-news
+  url: https://easy-software.com/de/newsroom/
+- type: x-news
+  url: https://easy-software.com/de/newsroom/events/
+- type: x-news
+  url: https://easy-software.com/de/newsroom/glossar/
+- type: x-partner
+  url: https://easy-software.com/de/partner/partner-finden/
+- type: x-partner
+  url: https://easy-software.com/de/partner/partner-werden/
+- type: x-support
+  url: https://easy-software.com/de/services/support/
+- type: x-twitter
+  url: https://twitter.com/easy_software
+- type: x-website
+  url: https://www.easy.de
+- type: x-youtube
+  url: https://www.youtube.com/c/EASYSOFTWAREAG
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

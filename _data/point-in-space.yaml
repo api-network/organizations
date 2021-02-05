@@ -1,0 +1,33 @@
+---
+name: Point in Space
+description: FileMaker hosting in the cloud with MySQL and PHP on OS X servers. Point
+  In Space has offered reliable Professional FileMaker Hosting for over 20 years!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2058740"
+url: https://raw.githubusercontent.com/api-network/organizations/main/point-in-space.yaml
+tags:
+- Hosting
+apis: []
+x-common:
+- type: x-about
+  url: https://www.pointinspace.com/about-us/
+- type: x-contact
+  url: https://www.pointinspace.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/PointInSpace
+- type: x-privacy
+  url: https://www.pointinspace.com/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/pointinspace
+- type: x-website
+  url: https://www.pointinspace.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,43 @@
+---
+name: The University of Iowa
+description: <p>There are a number of housing, and science APIs available at The University
+  of Iowa, but there is not central portal for access them. &nbsp;I could probably
+  find more looking through their search. Definitely a work in progress effort.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/university-of-iowa-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "9056"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-university-of-iowa.yaml
+tags:
+- University In Progress
+- Has API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.uiowa.edu
+- type: x-about
+  url: https://uiowa.edu/about
+- type: x-developers
+  url: http://housing.uiowa.edu/api
+- type: x-events
+  url: http://events.uiowa.edu/
+- type: x-facebook
+  url: https://www.facebook.com/universityofiowa
+- type: x-instagram
+  url: https://www.instagram.com/uiowa
+- type: x-support
+  url: https://uiowa.edu/homepage/safety-and-support
+- type: x-twitter
+  url: https://www.twitter.com/uiowa
+- type: x-website
+  url: http://www.uiowa.edu/
+- type: x-youtube
+  url: https://www.youtube.com/user/universityofiowa
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

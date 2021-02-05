@@ -1,0 +1,38 @@
+---
+name: OroLogic Inc.
+description: OroLogic Inc. offers software for timesheets management and time tracking,
+  service and work orders management as well as an orders and inventory management
+  software. FREE TRIAL. FREE SUPPORT.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "11263781"
+url: https://raw.githubusercontent.com/api-network/organizations/main/orologic-inc-.yaml
+tags:
+- Work Order Software
+- Timesheet Software
+- Time Tracking Software
+- Service Management Software
+- Punch Clock
+- Orologic
+- Orders Management
+- Inventory Management
+- Customer Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.orologic.com
+- type: x-facebook
+  url: http://www.facebook.com/orologic
+- type: x-twitter
+  url: http://twitter.com/orologic
+- type: x-website
+  url: https://www.orologic.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

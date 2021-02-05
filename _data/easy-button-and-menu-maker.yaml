@@ -1,0 +1,56 @@
+---
+name: Easy Button and Menu Maker
+description: With Easy Button & Menu Maker you can easily create sophisticated buttons
+  and professional dynamic menus for your website
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1943139"
+url: https://raw.githubusercontent.com/api-network/organizations/main/easy-button-and-menu-maker.yaml
+tags:
+- Web Menu Maker
+- Web Button Maker
+- Menu Maker
+- Menu Creator
+- Menu Builder
+- Javascript Menu
+- Graphics
+- Dhtml Menu Maker
+- Dhtml Menu Creator
+- Dhtml Menu Builder
+- Dhtml Menu
+- Button Maker
+apis: []
+x-common:
+- type: x-website
+  url: http://www.blumentals.net
+- type: x-about
+  url: https://www.blumentals.net/about.php
+- type: x-contact
+  url: https://www.blumentals.net/contact.php
+- type: x-customers
+  url: https://www.blumentals.net/customers.php
+- type: x-facebook
+  url: https://www.facebook.com/blumentals
+- type: x-news
+  url: https://www.blumentals.net/newsletter.php
+- type: x-partner
+  url: https://www.blumentals.net/partners.php
+- type: x-privacy
+  url: https://www.blumentals.net/privacy.php
+- type: x-support
+  url: http://help.blumentals.net/easymenumaker/eula.htm
+- type: x-terms-of-service
+  url: https://www.easymenumaker.com/terms.php
+- type: x-twitter
+  url: https://www.twitter.com/blumentals
+- type: x-website
+  url: https://www.easymenumaker.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

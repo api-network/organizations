@@ -1,0 +1,53 @@
+---
+name: Cars.com
+description: Research and compare cars, find local dealers/sellers, calculate loan
+  payments, find your car???s value, sell or trade your car, get a service estimate,
+  and much more on Cars.com.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28274-developer-cars-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1597"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cars-com.yaml
+tags:
+- Marketplaces
+- Have API
+- Automobiles
+- API Provider
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/cars-com
+- type: x-developers
+  url: https://developer.cars.com/
+- type: x-email
+  url: NationalSales@cars.com
+- type: x-email
+  url: PR@cars.com
+- type: x-email
+  url: feedback@cars.com
+- type: x-email
+  url: editor@cars.com
+- type: x-email
+  url: legal@cars.com
+- type: x-facebook
+  url: http://www.facebook.com/apigee
+- type: x-linkedin
+  url: http://www.linkedin.com/company/apigee
+- type: x-open-source
+  url: http://openid.net/
+- type: x-twitter
+  url: https://twitter.com/carsdotcom
+- type: x-twitter
+  url: https://twitter.com/apigee
+- type: x-website
+  url: https://developer.cars.com
+- type: x-website
+  url: http://developer.cars.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

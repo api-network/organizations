@@ -1,0 +1,63 @@
+---
+name: British Computer Society
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "130877"
+url: https://raw.githubusercontent.com/api-network/organizations/main/british-computer-society.yaml
+tags:
+- Professional
+- Organizations
+apis: []
+x-common:
+- type: x-website
+  url: http://bcs.org
+- type: x-about
+  url: https://www.bcs.org/more/about-us/
+- type: x-about
+  url: https://www.bcs.org/more/about-us/our-royal-charter/
+- type: x-about
+  url: https://www.bcs.org/more/about-us/history-of-bcs/
+- type: x-careers
+  url: https://www.bcs.org/more/about-us/careers-at-bcs/
+- type: x-contact
+  url: https://www.bcs.org/contact-us/
+- type: x-contact
+  url: https://www.bcs.org/contact-us/accessibility/
+- type: x-contact
+  url: https://www.bcs.org/contact-us/whistleblowing-policy/
+- type: x-events
+  url: https://www.bcs.org/events-home/
+- type: x-events
+  url: https://www.bcs.org/events/
+- type: x-events
+  url: https://www.bcs.org/events-home/bcs-insights/
+- type: x-events
+  url: https://www.bcs.org/events-home/lovelace-lecture/
+- type: x-events
+  url: https://www.bcs.org/events-home/turing-talk/
+- type: x-events
+  url: https://www.bcs.org/events-home/roger-needham-lecture/
+- type: x-facebook
+  url: https://www.facebook.com/IT.BCS
+- type: x-linkedin
+  url: https://www.linkedin.com/company/it-bcs
+- type: x-press
+  url: https://www.bcs.org/more/about-us/press-office/
+- type: x-self-service-registration
+  url: https://www.bcs.org/membership/get-registered/
+- type: x-twitter
+  url: https://twitter.com/bcs
+- type: x-website
+  url: https://www.bcs.org
+- type: x-youtube
+  url: https://www.youtube.com/user/bcs1957
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

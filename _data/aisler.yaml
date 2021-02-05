@@ -1,0 +1,37 @@
+---
+name: AISLER
+description: AISLER provides Powerful Prototyping for your electronics project.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29360-aisler-net.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "819564"
+url: https://raw.githubusercontent.com/api-network/organizations/main/aisler.yaml
+tags:
+- Prototyping
+- No API Definition
+- No API
+- Marketplaces
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.aisler.net
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/aisler
+- type: x-email
+  url: hello@aisler.net
+- type: x-github
+  url: https://github.com/AislerHQ
+- type: x-instagram
+  url: https://www.instagram.com/aislerhq/
+- type: x-twitter
+  url: https://twitter.com/AislerHQ
+- type: x-website
+  url: http://aisler.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

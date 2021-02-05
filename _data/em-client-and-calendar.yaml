@@ -1,0 +1,46 @@
+---
+name: eM Client and Calendar
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "81534"
+url: https://raw.githubusercontent.com/api-network/organizations/main/em-client-and-calendar.yaml
+tags:
+- Windows
+apis: []
+x-common:
+- type: x-website
+  url: http://www.emclient.com
+- type: x-blog
+  url: https://www.emclient.com/blog
+- type: x-case-studies
+  url: https://www.emclient.com/case-studies
+- type: x-contact
+  url: https://www.emclient.com/features-contacts
+- type: x-facebook
+  url: http://www.facebook.com/eMClient
+- type: x-forum
+  url: http://forum.emclient.com
+- type: x-press
+  url: https://www.emclient.com/press-coverage
+- type: x-support
+  url: https://www.emclient.com/support
+- type: x-support
+  url: https://support.emclient.com
+- type: x-tutorials
+  url: https://www.emclient.com/tutorials
+- type: x-twitter
+  url: http://twitter.com/#!/emclient
+- type: x-website
+  url: https://www.emclient.com
+- type: x-youtube
+  url: https://www.youtube.com/emclientworldwide
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

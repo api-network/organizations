@@ -1,0 +1,92 @@
+---
+name: Steve Hudgik's Internet Marketing Blog
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/steve-hudgiks-internet-marketing-blog.yaml
+tags:
+- Weblogs
+apis: []
+x-common:
+- type: x-blog
+  url: http://internetresults.blogspot.com/search/label/SEO
+- type: x-blog
+  url: http://internetresults.blogspot.com/search/label/Bing
+- type: x-blog
+  url: http://internetresults.blogspot.com/2005/01/
+- type: x-blog
+  url: http://internetresults.blogspot.com/2005/02/
+- type: x-blog
+  url: http://internetresults.blogspot.com/2005/03/
+- type: x-blog
+  url: http://internetresults.blogspot.com/2005/04/
+- type: x-blog
+  url: http://internetresults.blogspot.com/2005/05/
+- type: x-blog
+  url: http://internetresults.blogspot.com/2005/06/
+- type: x-blog
+  url: http://internetresults.blogspot.com/2005/08/
+- type: x-blog
+  url: http://internetresults.blogspot.com/2005/09/
+- type: x-blog
+  url: http://internetresults.blogspot.com/2005/10/
+- type: x-blog
+  url: http://internetresults.blogspot.com/2005/11/
+- type: x-blog
+  url: http://internetresults.blogspot.com/2005/12/
+- type: x-blog
+  url: http://internetresults.blogspot.com/2006/01/
+- type: x-blog
+  url: http://internetresults.blogspot.com/2006/02/
+- type: x-blog
+  url: http://internetresults.blogspot.com/2006/06/
+- type: x-blog
+  url: http://internetresults.blogspot.com/2006/07/
+- type: x-blog
+  url: http://internetresults.blogspot.com/2006/08/
+- type: x-blog
+  url: http://internetresults.blogspot.com/2006/09/
+- type: x-blog
+  url: http://internetresults.blogspot.com/2006/10/
+- type: x-blog
+  url: http://internetresults.blogspot.com/2006/12/
+- type: x-blog
+  url: http://internetresults.blogspot.com/2007/03/
+- type: x-blog
+  url: http://internetresults.blogspot.com/2007/06/
+- type: x-blog
+  url: http://internetresults.blogspot.com/2007/11/
+- type: x-blog
+  url: http://internetresults.blogspot.com/2008/02/
+- type: x-blog
+  url: http://internetresults.blogspot.com/2009/01/
+- type: x-blog
+  url: http://internetresults.blogspot.com/2009/02/
+- type: x-blog
+  url: http://internetresults.blogspot.com/2009/03/
+- type: x-blog
+  url: http://internetresults.blogspot.com/2009/05/
+- type: x-blog
+  url: http://internetresults.blogspot.com/2009/09/
+- type: x-blog
+  url: http://internetresults.blogspot.com/2009/11/
+- type: x-blog
+  url: http://internetresults.blogspot.com/2010/08/
+- type: x-blog
+  url: http://internetresults.blogspot.com/2010/09/
+- type: x-blog
+  url: http://internetresults.blogspot.com/2011/03/
+- type: x-blog
+  url: http://internetresults.blogspot.com/2011/12/
+- type: x-website
+  url: https://internetresults.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

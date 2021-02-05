@@ -1,0 +1,44 @@
+---
+name: Guiffy Software
+description: Guiffy is a diff merge tool and folder compare application and API.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1856749"
+url: https://raw.githubusercontent.com/api-network/organizations/main/guiffy-software.yaml
+tags:
+- Merge Tool
+- Java Merge
+- Java Diff
+- Folder Compare
+- File Comparison
+- File Compare
+- Directory Compare
+- Diff Tool
+- 3-way Merge
+apis: []
+x-common:
+- type: x-about
+  url: https://www.guiffy.com/about.html
+- type: x-contact
+  url: https://www.guiffy.com/contact/contact.html
+- type: x-privacy
+  url: https://www.guiffy.com/privacy.html
+- type: x-support
+  url: https://www.guiffy.com/support/bugreport.html
+- type: x-support
+  url: https://www.guiffy.com/hthelp.html
+- type: x-support
+  url: https://www.guiffy.com/support/support.html
+- type: x-terms-of-service
+  url: https://www.guiffy.com/legal.html
+- type: x-website
+  url: https://www.guiffy.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

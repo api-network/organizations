@@ -1,0 +1,86 @@
+---
+name: Adyen
+description: We provide a single payments platform globally to accept payments and
+  grow revenue online, on mobile, and at the point of sale.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/adyen-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "2680"
+url: https://raw.githubusercontent.com/api-network/organizations/main/adyen.yaml
+tags:
+- PSD2
+- Profile
+- Payments
+- Have Swagger
+- Have OpenAPI
+- Have API Paths
+- Have API
+- ECommerce
+- Compliance
+- Commerce
+- Businesses
+- API Provider
+apis: []
+x-common:
+- type: x-api-definitions
+  url: https://github.com/Adyen/adyen-openapi
+- type: x-website
+  url: http://www.adyen.com
+- type: x-blog
+  url: https://www.adyen.com/blog/category/tech
+- type: x-blog
+  url: https://www.adyen.com/blog
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/adyen
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/adyen
+- type: x-documentation
+  url: https://docs.adyen.com/checkout
+- type: x-documentation
+  url: https://docs.adyen.com/point-of-sale
+- type: x-documentation
+  url: https://docs.adyen.com/api-explorer
+- type: x-documentation
+  url: https://docs.adyen.com/plugins
+- type: x-documentation
+  url: https://docs.adyen.com/marketpay
+- type: x-documentation
+  url: https://docs.adyen.com/developers
+- type: x-documentation
+  url: https://docs.adyen.com/
+- type: x-email
+  url: complaints@adyen.com
+- type: x-email
+  url: press@adyen.com
+- type: x-email
+  url: germany@adyen.com
+- type: x-facebook
+  url: https://www.facebook.com/AdyenPayments/
+- type: x-github
+  url: https://github.com/adyenpayments
+- type: x-linkedin
+  url: https://www.linkedin.com/company/adyen
+- type: x-login
+  url: https://ca-live.adyen.com/ca/ca/login.shtml
+- type: x-pricing
+  url: https://www.adyen.com/pricing
+- type: x-support
+  url: https://support.adyen.com
+- type: x-support
+  url: https://support.adyen.com/hc/en-us
+- type: x-support
+  url: https://support.adyen.com/
+- type: x-terms-of-service
+  url: https://www.adyen.com/legal/terms-and-conditions
+- type: x-twitter
+  url: https://twitter.com/Adyen
+- type: x-website
+  url: http://www.adyen.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

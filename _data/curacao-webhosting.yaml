@@ -1,0 +1,41 @@
+---
+name: Curacao Webhosting
+description: We work with Caribbean based companies managing their business infrastructure
+  from E-Commerce Park, Curacao. Specialising in Corporate web hosting services.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1575073"
+url: https://raw.githubusercontent.com/api-network/organizations/main/curacao-webhosting.yaml
+tags:
+- Service Providers
+apis: []
+x-common:
+- type: x-website
+  url: https://www.curacaowebhosting.com/
+- type: x-about
+  url: https://www.curacaowebhosting.com/about-us/
+- type: x-blog
+  url: http://www.curacaowebhosting.com/blog/
+- type: x-contact
+  url: https://support.curacaowebhosting.com/contact.php
+- type: x-facebook
+  url: https://www.facebook.com/curacaowebhosting/
+- type: x-support
+  url: https://support.curacaowebhosting.com/cart.php
+- type: x-support
+  url: https://support.curacaowebhosting.com/clientarea.php
+- type: x-support
+  url: https://support.curacaowebhosting.com/
+- type: x-twitter
+  url: https://twitter.com/curacaohosting
+- type: x-website
+  url: https://www.curacaowebhosting.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

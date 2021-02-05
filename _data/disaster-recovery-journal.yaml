@@ -1,0 +1,56 @@
+---
+name: Disaster Recovery Journal
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "981197"
+url: https://raw.githubusercontent.com/api-network/organizations/main/disaster-recovery-journal.yaml
+tags:
+- Mainframe
+apis: []
+x-common:
+- type: x-website
+  url: http://www.drj.com
+- type: x-about
+  url: https://drj.com/about-us/
+- type: x-about
+  url: https://drj.com/about-us/media-kit/
+- type: x-code
+  url: https://www.drj.com/decoded/
+- type: x-contact
+  url: https://drj.com/about-us/contact-us/
+- type: x-events
+  url: https://drj.com/events/
+- type: x-events
+  url: https://drj.com/events/other-industry-events/
+- type: x-events
+  url: https://drj.com/events/events-schedule-and-archive/
+- type: x-news
+  url: https://drj.com/journal-page/industry-news/
+- type: x-plans
+  url: https://drj.com/resources/sample-plans/
+- type: x-privacy
+  url: https://www.drj.com/about-us/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.drj.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/drjournal
+- type: x-webinars
+  url: https://drj.com/webinars/
+- type: x-webinars
+  url: https://drj.com/webinars/up-coming/
+- type: x-webinars
+  url: https://drj.com/webinars/on-demand/
+- type: x-website
+  url: https://www.drj.com
+- type: x-white-papers
+  url: https://drj.com/resources/white-papers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

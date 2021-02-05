@@ -1,0 +1,38 @@
+---
+name: Karmak, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1180843"
+url: https://raw.githubusercontent.com/api-network/organizations/main/karmak-inc-.yaml
+tags:
+- Industry-Specific
+apis: []
+x-common:
+- type: x-website
+  url: http://www.karmak.com
+- type: x-about
+  url: https://karmak.com/about/
+- type: x-careers
+  url: https://karmak.com/careers/
+- type: x-contact
+  url: https://karmak.com/contact-2/
+- type: x-documentation
+  url: https://karmak.com/karmak-and-docstar/
+- type: x-facebook
+  url: https://www.facebook.com/KarmakTech/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/karmak/
+- type: x-twitter
+  url: https://twitter.com/karmaktech
+- type: x-website
+  url: https://www.karmak.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

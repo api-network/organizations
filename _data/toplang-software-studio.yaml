@@ -1,0 +1,46 @@
+---
+name: Toplang Software Studio
+description: Password protects programs from accessing internet - Internet Lock, computer
+  security and access control - Desktop Lock, Folder Lock folder protection - File
+  Lock, Add password protection to programs - Password Door
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1958114"
+url: https://raw.githubusercontent.com/api-network/organizations/main/toplang-software-studio.yaml
+tags:
+- Utilities
+- Security
+- Protection
+- Protect Computer
+- Protect
+- Programs
+- PC
+- Password Protection
+- Password Protect Programs
+- Password Protect Internet
+- Password Protect
+- Mouse
+- Lock Desktop
+- Lock Computer
+- Keyboard
+- Internet Lock
+- Desktop Lock
+- Control
+- Computer Lock
+- Computer
+- Access
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.toplang.com
+- type: x-website
+  url: https://www.toplang.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

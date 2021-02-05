@@ -1,0 +1,27 @@
+---
+name: Dierickx Leys Private Bank
+description: ""
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28056-www-dierickxleys-be.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "14036323"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dierickx-leys-private-bank.yaml
+tags:
+- Financial
+- EU Bank
+apis: []
+x-common:
+- type: x-email
+  url: Antwerpen@dierickxleys.be
+- type: x-email
+  url: info@dierickxleys.be
+- type: x-website
+  url: http://www.dierickxleys.be
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

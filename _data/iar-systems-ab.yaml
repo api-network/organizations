@@ -1,0 +1,30 @@
+---
+name: IAR Systems AB
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "399388"
+url: https://raw.githubusercontent.com/api-network/organizations/main/iar-systems-ab.yaml
+tags:
+- Embedded Systems
+apis: []
+x-common:
+- type: x-website
+  url: http://www.iar.com
+- type: x-facebook
+  url: https://www.facebook.com/iarsystems
+- type: x-linkedin
+  url: https://www.linkedin.com/company/iar-systems
+- type: x-twitter
+  url: https://twitter.com/iarsystems
+- type: x-website
+  url: https://www.iar.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

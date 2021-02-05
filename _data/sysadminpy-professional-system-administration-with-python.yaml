@@ -1,0 +1,22 @@
+---
+name: 'SysAdminPy: Professional System Administration with Python'
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sysadminpy-professional-system-administration-with-python.yaml
+tags:
+- Books
+apis: []
+x-common:
+- type: x-website
+  url: https://sysadminpy.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,31 @@
+---
+name: Thomas International
+description: Discover how our psychometric and aptitude assessments help develop people,
+  teams and cultures, allowing you to effectively recruit and retain top talent.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "401604"
+url: https://raw.githubusercontent.com/api-network/organizations/main/thomas-international.yaml
+tags:
+- Testing And Evaluation
+apis: []
+x-common:
+- type: x-website
+  url: http://www.thomas.co
+- type: x-facebook
+  url: https://www.facebook.com/ThomasInternational.UK/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/thomas-international/
+- type: x-twitter
+  url: https://twitter.com/thomasint_uk
+- type: x-website
+  url: https://www.thomasinternational.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

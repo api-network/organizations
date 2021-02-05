@@ -1,0 +1,38 @@
+---
+name: Dovico
+description: "Dovico is the best employee time tracking software designed for simple
+  timesheet management. Easily track employee\u2019s time and expenses for improved
+  productivity."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "329700"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dovico.yaml
+tags:
+- Time Tracking
+apis: []
+x-common:
+- type: x-developer
+  url: http://dev.dovico.com
+- type: x-facebook
+  url: https://www.facebook.com/DovicoSoftware/
+- type: x-instagram
+  url: https://www.instagram.com/dovicosoftware/?hl=en
+- type: x-linkedin
+  url: https://www.linkedin.com/company/dovico
+- type: x-login
+  url: https://login.dovico.com/index.aspx
+- type: x-signup
+  url: https://signup.dovico.com/Signup.aspx
+- type: x-twitter
+  url: https://twitter.com/dovico?lang=en
+- type: x-website
+  url: https://www.dovico.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

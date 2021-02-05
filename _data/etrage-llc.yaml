@@ -1,0 +1,36 @@
+---
+name: Etrage LLC
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/etrage-llc.yaml
+tags:
+- PTC Pro Engineer
+apis: []
+x-common:
+- type: x-about
+  url: https://www.etrage.com/company/about-us/
+- type: x-contact
+  url: https://www.etrage.com/company/contact/
+- type: x-news
+  url: https://www.etrage.com/company/news-events/
+- type: x-partner
+  url: https://www.etrage.com/partners/
+- type: x-press
+  url: http://test.etrage.com/wordpress/company/about-us/
+- type: x-press
+  url: http://test.etrage.com/wordpress/categories/ptc/
+- type: x-press
+  url: http://test.etrage.com/wordpress/categories/ifs/
+- type: x-website
+  url: https://www.etrage.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

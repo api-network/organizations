@@ -1,0 +1,24 @@
+---
+name: Discriminator CNC editor.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/discriminator-cnc-editor-.yaml
+tags:
+- NC Verification Editors Calculators
+apis: []
+x-common:
+- type: x-website
+  url: https://www.cncedit.com
+- type: x-youtube
+  url: https://www.youtube.com/user/MacGenJason
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

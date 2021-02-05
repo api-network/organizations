@@ -1,0 +1,52 @@
+---
+name: Small, portable and efficient FTP server.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/small-portable-and-efficient-ftp-server-.yaml
+tags:
+- Unix, Linux, BSD
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.dindinx.net/
+- type: x-blog
+  url: http://blog.cryptographyengineering.com/
+- type: x-documentation
+  url: http://llvm.org/docs/LibFuzzer.html
+- type: x-documentation
+  url: http://llvm.org/docs/LibFuzzer.html#output
+- type: x-github
+  url: https://github.com/chifflier
+- type: x-github
+  url: https://github.com/rust-fuzz/cargo-fuzz
+- type: x-github
+  url: https://github.com/rusticata/der-parser
+- type: x-github
+  url: https://simonkagstrom.github.io/kcov/
+- type: x-github
+  url: https://github.com/SimonKagstrom/kcov/issues/212
+- type: x-github
+  url: https://github.com/rust-fuzz/honggfuzz-rs
+- type: x-github
+  url: https://github.com/chifflier/nfqueue-bindings/
+- type: x-github
+  url: https://github.com/chifflier/nflog-bindings/
+- type: x-github
+  url: https://github.com/chifflier/ocaml-llvm-tutorial
+- type: x-login
+  url: https://qa.debian.org/developer.php?login=pollux
+- type: x-twitter
+  url: http://twitter.com/pollux7
+- type: x-website
+  url: https://www.wzdftpd.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

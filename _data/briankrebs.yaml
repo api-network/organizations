@@ -1,0 +1,84 @@
+---
+name: briankrebs
+description: <p><span>Brian Krebs worked as a reporter for The Washington Post from
+  1995 to 2009, authoring more than 1,300 blog posts for the Security Fix blog, as
+  well as&nbsp;</span><a href="http://www.krebsonsecurity.com/2009/12/story-driven-resume-my-best-work-2005-2009-3/"
+  target="_blank">hundreds of stories</a><span>&nbsp;for washingtonpost.com and The
+  Washington Post newspaper, including eight front-page stories in the dead-tree edition
+  and a Post Magazine cover piece on botnet operators.&nbsp;</span></p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/KrebsOnSecurity-Logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "45408"
+url: https://raw.githubusercontent.com/api-network/organizations/main/briankrebs.yaml
+tags:
+- Tech Blog
+- Security Blog
+- News And Media
+- Have API
+apis: []
+x-common:
+- type: x-blog
+  url: https://duo.com/blog/gmail-oauth-phishing-goes-viral
+- type: x-press
+  url: http://wordpress.org/
+- type: x-security
+  url: https://krebsonsecurity.com/feed/
+- type: x-security
+  url: https://krebsonsecurity.com
+- type: x-security
+  url: https://krebsonsecurity.com/about/
+- type: x-security
+  url: https://krebsonsecurity.com/cpm/
+- type: x-security
+  url: https://krebsonsecurity.com/category/patches/
+- type: x-security
+  url: https://krebsonsecurity.com/category/latest-warnings/
+- type: x-security
+  url: https://krebsonsecurity.com/category/web-fraud-2-0/
+- type: x-security
+  url: https://krebsonsecurity.com/?s=typosquatting&x=0&y=0
+- type: x-security
+  url: https://krebsonsecurity.com/category/sim-swapping/
+- type: x-security
+  url: https://krebsonsecurity.com/category/comingstorm/
+- type: x-security
+  url: https://krebsonsecurity.com/category/sunshine/
+- type: x-security
+  url: https://krebsonsecurity.com/category/ransomware/
+- type: x-security
+  url: https://krebsonsecurity.com/category/other/
+- type: x-security
+  url: https://krebsonsecurity.com/subscribe/
+- type: x-security
+  url: https://krebsonsecurity.com/category/data-breaches/
+- type: x-security
+  url: https://krebsonsecurity.com/?s=sodinokibi&x=0&y=0
+- type: x-security
+  url: https://krebsonsecurity.com/page/2/
+- type: x-security
+  url: https://krebsonsecurity.com/all-about-skimmers/
+- type: x-security
+  url: http://krebsonsecurity.com/tools-for-a-safer-pc/
+- type: x-security
+  url: https://krebsonsecurity.com/category/pharma-wars/
+- type: x-security
+  url: https://krebsonsecurity.com/category/tax-refund-fraud/
+- type: x-blog-rss
+  url: http://krebsonsecurity.com/feed/
+- type: x-twitter
+  url: http://www.twitter.com/briankrebs
+- type: x-twitter
+  url: https://twitter.com/briankrebs
+- type: x-website
+  url: http://krebsonsecurity.com
+- type: x-website
+  url: https://krebsonsecurity.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

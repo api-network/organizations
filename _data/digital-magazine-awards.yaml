@@ -1,0 +1,37 @@
+---
+name: Digital Magazine Awards
+description: The Digital Magazine Awards are the most coveted awards in the international
+  magazine industry. DMA 2016 is now open for entry.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5236904"
+url: https://raw.githubusercontent.com/api-network/organizations/main/digital-magazine-awards.yaml
+tags:
+- Tablet
+- Site Awards
+- Publishing
+- Magazines
+- Magazine
+- IPad
+- International
+- Digital
+- Awards
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/digitalmagazineawards/
+- type: x-linkedin
+  url: https://www.linkedin.com/grp/home?gid=4488572
+- type: x-twitter
+  url: https://twitter.com/DigitalMagAward/
+- type: x-website
+  url: https://digitalmagazineawards.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

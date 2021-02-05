@@ -1,0 +1,36 @@
+---
+name: Gandhigram Rural Institute - Dindigul
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "169846"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gandhigram-rural-institute--dindigul.yaml
+tags:
+- India
+apis: []
+x-common:
+- type: x-about
+  url: http://ruraluniv.ac.in/includes/aboutgri/map/map.html
+- type: x-login
+  url: http://ruraluniv.ac.in/grihostel/login
+- type: x-news
+  url: http://ruraluniv.ac.in/includes/enews/startpage
+- type: x-news
+  url: http://ruraluniv.ac.in/includes/enews/2k19
+- type: x-news
+  url: http://ruraluniv.ac.in/includes/enews/2k18
+- type: x-news
+  url: http://ruraluniv.ac.in/includes/enews/2017
+- type: x-news
+  url: http://ruraluniv.ac.in/includes/enews/2016
+- type: x-website
+  url: https://www.ruraluniv.ac.in
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

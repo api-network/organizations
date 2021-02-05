@@ -1,0 +1,26 @@
+---
+name: Mumble
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "600402"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mumble.yaml
+tags:
+- Voice
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.mumble.info
+- type: x-forum
+  url: https://forums.mumble.info
+- type: x-website
+  url: https://www.mumble.info
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

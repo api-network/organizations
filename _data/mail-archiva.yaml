@@ -1,0 +1,40 @@
+---
+name: Mail Archiva
+description: MailArchiva is an email archiving, email compliance, and ediscovery enterprise
+  software server
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4710193"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mail-archiva.yaml
+tags:
+- Utilities
+- Office 365
+- Mail Archive
+- Exchange
+- Email Archiving Software
+- Email Archiving
+- EDiscovery
+- Compliance
+apis: []
+x-common:
+- type: x-blog
+  url: http://www.stimulussoft.com/blog
+- type: x-forum
+  url: http://groups.google.com/d/forum/mailarchiva?hl=en
+- type: x-support
+  url: http://help.mailarchiva.com
+- type: x-support
+  url: https://mailarchiva.com/help
+- type: x-support
+  url: http://help.mailarchiva.com/#what's-new
+- type: x-website
+  url: https://www.mailarchiva.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

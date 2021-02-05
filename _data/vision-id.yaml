@@ -1,0 +1,56 @@
+---
+name: Vision ID
+description: VisionID specialise in Barcode, RFID, Wireless Networks, ATEX and Mobile
+  Computing. We enable clients to automate processes and capture information in real-time
+  to deliver enterprise Intelligence.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3619419"
+url: https://raw.githubusercontent.com/api-network/organizations/main/vision-id.yaml
+tags:
+- Labels And Equipment
+apis: []
+x-common:
+- type: x-about
+  url: https://visionid.ie/about-us
+- type: x-about
+  url: https://visionid.ie/about-us#team
+- type: x-about
+  url: https://visionid.ie/about-us/reseller-program
+- type: x-careers
+  url: https://visionid.ie/about-us/careers
+- type: x-case-studies
+  url: https://visionid.ie/resource-center/case-studies
+- type: x-contact
+  url: https://visionid.ie/contact-us
+- type: x-facebook
+  url: https://www.facebook.com/visionid.ie
+- type: x-linkedin
+  url: http://www.linkedin.com/company/visionid
+- type: x-news
+  url: https://visionid.ie/about-us/newsletter
+- type: x-press
+  url: https://visionid.ie/press-news/news
+- type: x-press
+  url: https://visionid.ie/press-news/events
+- type: x-press
+  url: https://visionid.ie/press-news/blog
+- type: x-press
+  url: https://visionid.ie/press-news
+- type: x-privacy
+  url: https://visionid.ie/privacy-policy
+- type: x-terms-of-service
+  url: https://visionid.ie/terms-conditions
+- type: x-twitter
+  url: https://twitter.com/VisionID
+- type: x-website
+  url: https://www.visionid.ie
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

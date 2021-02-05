@@ -1,0 +1,22 @@
+---
+name: Planet Smilies
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/planet-smilies.yaml
+tags:
+- Emojis
+apis: []
+x-common:
+- type: x-website
+  url: https://www.planetsmilies.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

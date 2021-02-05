@@ -1,0 +1,27 @@
+---
+name: Globalcoin
+description: Globalcoin - Your Money Anywhere    40 second Blocks and limited to 70,000,000
+  coins to be minted.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27472-www-globalcoin-info.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "4223987"
+url: https://raw.githubusercontent.com/api-network/organizations/main/globalcoin.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://globalcoin.info
+- type: x-twitter
+  url: https://twitter.com/Globalcoin
+- type: x-website
+  url: http://www.globalcoin.info
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

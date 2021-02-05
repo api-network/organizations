@@ -1,0 +1,25 @@
+---
+name: Mu
+description: <p>Amazon ECS (Elastic Container Service) provides an excellent platform
+  for deploying microservices as containers. However, there is a significant learning
+  curve for developers to get their microservices deployed.</p>
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/api-butterfly.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "6578649"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mu.yaml
+tags:
+- Orchestration
+- Microservices
+apis: []
+x-common:
+- type: x-website
+  url: http://getmu.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

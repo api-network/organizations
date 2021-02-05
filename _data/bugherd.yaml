@@ -1,0 +1,52 @@
+---
+name: BugHerd
+description: BugHerd is the easiest way to collect, organise and act on client feedback.
+  It's just like using a sticky-note on a webpage to collect visual feedback. Try
+  BugHerd free for 14 days.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/718_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "61392"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bugherd.yaml
+tags:
+- Tracking
+- Programming
+- Have API
+- Coding
+- Code
+- Bug Tracking
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: https://bugherd.com
+- type: x-base
+  url: https://www.bugherd.com/api_v2/
+- type: x-blog
+  url: http://blog.bugherd.com
+- type: x-blog-rss
+  url: http://blog.bugherd.com/feed/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/bugherd
+- type: x-developers
+  url: http://www.bugherd.com/api
+- type: x-email
+  url: support@bugherd.com
+- type: x-github
+  url: https://github.com/BugHerd
+- type: x-linkedin
+  url: https://www.linkedin.com/company/1766453/
+- type: x-support
+  url: https://support.bugherd.com/
+- type: x-twitter
+  url: https://twitter.com/BugHerd
+- type: x-website
+  url: http://www.bugherd.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

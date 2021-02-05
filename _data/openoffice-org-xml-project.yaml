@@ -1,0 +1,48 @@
+---
+name: 'OpenOffice.org: XML Project'
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9091"
+url: https://raw.githubusercontent.com/api-network/organizations/main/openoffice-org-xml-project.yaml
+tags:
+- OpenOffice XML
+apis: []
+x-common:
+- type: x-blog
+  url: https://blogs.apache.org/ooo/
+- type: x-open-source
+  url: https://openoffice.apache.org/get-involved.html
+- type: x-open-source
+  url: http://download.openoffice.org/
+- type: x-open-source
+  url: http://projects.openoffice.org/accepted.html
+- type: x-open-source
+  url: http://www.openoffice.org
+- type: x-open-source
+  url: http://wiki.services.openoffice.org/wiki/Xml
+- type: x-open-source
+  url: http://opendocument.xml.org
+- type: x-open-source
+  url: http://www.oasis-open.org
+- type: x-open-source
+  url: http://framework.openoffice.org/
+- type: x-open-source
+  url: http://graphics.openoffice.org/
+- type: x-open-source
+  url: http://sc.openoffice.org
+- type: x-open-source
+  url: http://sw.openoffice.org/
+- type: x-open-source
+  url: http://dba.openoffice.org/
+- type: x-website
+  url: https://xml.openoffice.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

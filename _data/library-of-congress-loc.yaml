@@ -1,0 +1,140 @@
+---
+name: Library of Congress (LOC)
+description: <p>The Library of Congress is the largest library in the world, with
+  millions of books, recordings, photographs, newspapers, maps and manuscripts in
+  its collections. The Library is the main research arm of the U.S. Congress and the
+  home of the U.S. Copyright Office.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/library-congress-logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/library-of-congress-loc.yaml
+tags:
+- Washington DC
+- Washington
+- Visually Impaired
+- Veterans
+- Theaters
+- Teaching
+- Teach
+- Symposium
+- Symposia
+- Scholarship
+- Scholars
+- Resolutions
+- Recordings
+- Public Policy
+- Programs
+- Prints
+- Primary Sources
+- Preservation
+- Posters
+- Podcasts
+- Physically_handicapped
+- Phtographs
+- Photos
+- Photos
+- Performing Arts
+- People With Disabilities
+- Oral History
+- Newspapers
+- Ndiipp
+- Museums
+- Multilingual
+- Military History
+- Manuscripts
+- Library Of Congress
+- Libraries
+- Libraries
+- Librarian Of Congress
+- Lessons
+- Legislative Process
+- Legislative Branch
+- Legislation
+- Lectures
+- Learning
+- Laws
+- Law Library
+- Kluge Prize
+- K 12
+- International Collections
+- History
+- Historical Photos
+- Historic Places
+- Have API Paths
+- Handicapped
+- Geography
+- Folklife
+- Film
+- Federal Government
+- Exhibits
+- Culture
+- Archives
+apis: []
+x-common:
+- type: x-website
+  url: http://www.loc.gov/teachers
+- type: x-website
+  url: http://www.libraryofcongress.gov
+- type: x-data
+  url: https://id.loc.gov/
+- type: x-developers
+  url: https://libraryofcongress.github.io/data-exploration/index.html
+- type: x-facebook
+  url: https://www.facebook.com/vetshistoryproject
+- type: x-facebook
+  url: https://www.facebook.com/libraryofcongressinternationalcollections
+- type: x-facebook
+  url: http://facebook.com/LibraryofCongress
+- type: x-facebook
+  url: http://facebook.com/AmericanFolklifeCenter
+- type: x-facebook
+  url: https://www.facebook.com/thatallmayread
+- type: x-facebook
+  url: http://facebook.com/libraryofcongressperformingarts
+- type: x-facebook
+  url: http://facebook.com/lawlibraryofcongress
+- type: x-flickr
+  url: http://flickr.com/photos/library_of_congress
+- type: x-github
+  url: https://github.com/LibraryOfCongress
+- type: x-github
+  url: http://github.com/LibraryOfCongress
+- type: x-instagram
+  url: https://www.instagram.com/LibraryCongress
+- type: x-linkedin
+  url: http://linkedin.com/company/library-of-congress
+- type: x-linkedin
+  url: http://linkedin.com/company/congressional-research-service
+- type: x-pinterest
+  url: http://pinterest.com/LibraryCongress/
+- type: x-twitter
+  url: https://twitter.com/libnofcongress
+- type: x-twitter
+  url: https://twitter.com/events_loc
+- type: x-twitter
+  url: http://twitter.com/congressdotgov
+- type: x-twitter
+  url: http://twitter.com/TeachingLC
+- type: x-twitter
+  url: http://twitter.com/ndiipp
+- type: x-twitter
+  url: http://twitter.com/THOMASdotgov
+- type: x-twitter
+  url: http://twitter.com/LOCMaps
+- type: x-twitter
+  url: http://twitter.com/CopyrightOffice
+- type: x-twitter
+  url: http://twitter.com/lawlibcongress
+- type: x-twitter
+  url: http://twitter.com/librarycongress
+- type: x-youtube
+  url: http://youtube.com/libraryofcongress
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

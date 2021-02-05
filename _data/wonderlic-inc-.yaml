@@ -1,0 +1,51 @@
+---
+name: Wonderlic, Inc.
+description: Wonderlic provides proven, fair, objective, and job-tailored pre-employment
+  assessments. Thousands of businesses use Wonderlic every day to hire with data.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "66154"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wonderlic-inc-.yaml
+tags:
+- Testing And Evaluation
+apis: []
+x-common:
+- type: x-website
+  url: http://www.wonderlic.com
+- type: x-about
+  url: https://wonderlic.com/about/
+- type: x-about
+  url: https://wonderlic.com/about/history/
+- type: x-blog
+  url: https://wonderlic.com/blog/
+- type: x-careers
+  url: https://wonderlic.com/about/careers-culture/
+- type: x-contact
+  url: https://wonderlic.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/wonderlic
+- type: x-linkedin
+  url: https://www.linkedin.com/company/wonderlic/
+- type: x-partner
+  url: https://wonderlic.com/partners/
+- type: x-terms-of-service
+  url: https://wonderlic.com/legal-matters/
+- type: x-twitter
+  url: https://twitter.com/wonderlic
+- type: x-website
+  url: https://www.wonderlic.com
+- type: x-youtube
+  url: https://www.youtube.com/embed/loP8_XtdEJw
+- type: x-youtube
+  url: https://www.youtube.com/embed/lgRdAtpSHKA
+- type: x-youtube
+  url: https://www.youtube.com/wonderlicinc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

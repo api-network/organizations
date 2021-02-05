@@ -1,0 +1,37 @@
+---
+name: OpenDataPhilly
+description: <p>OpenDataPhilly is a portal that provides access to over 175 data sets,
+  applications, and APIs related to the Philadelphia region. Built by Azavea, a Philadelphia-based
+  Geographic Information Systems (GIS) software firm, it is now operated by the Philadelphia
+  Public Interest Information Network, a Philadelphia-based non-profit organization.
+  OpenDataPhilly is based on the idea that providing free and easy access to data
+  information encourages better and more transparent government and a more engaged
+  and knowledgeable citizenry.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/open-data-philly-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "937066"
+url: https://raw.githubusercontent.com/api-network/organizations/main/opendataphilly.yaml
+tags:
+- Philadelphia
+- Pennsylvania
+- Have API
+- City Government
+apis: []
+x-common:
+- type: x-website
+  url: http://opendataphilly.org
+- type: x-blog-rss
+  url: http://www.opendataphilly.org/feeds/
+- type: x-twitter
+  url: https://twitter.com/opendataphilly
+- type: x-website
+  url: http://www.opendataphilly.org/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

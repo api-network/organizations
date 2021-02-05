@@ -1,0 +1,62 @@
+---
+name: Minisoft
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1409375"
+url: https://raw.githubusercontent.com/api-network/organizations/main/minisoft.yaml
+tags:
+- HP 3000
+apis: []
+x-common:
+- type: x-website
+  url: http://www.minisoft.com
+- type: x-blog
+  url: https://www.minisoft.com/blog/
+- type: x-careers
+  url: https://www.minisoft.com/careers/
+- type: x-code
+  url: https://www.minisoft.com/eformz-barcodes/
+- type: x-code
+  url: http://www.encoder.com/
+- type: x-contact
+  url: https://www.minisoft.com/contact/
+- type: x-events
+  url: https://www.minisoft.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/Minisoft-1641288546121170/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/minisoft
+- type: x-marketplace
+  url: https://www.minisoft.com/online-seller-marketplaces/
+- type: x-news
+  url: https://www.minisoft.com/product-news/
+- type: x-news
+  url: https://www.minisoft.com/newsletters/
+- type: x-partner
+  url: https://www.minisoft.com/partners/
+- type: x-platform
+  url: https://www.minisoft.com/shipping-execution-platform/
+- type: x-press
+  url: https://www.minisoft.com/press/
+- type: x-press
+  url: https://www.minisoft.com/press-releases/
+- type: x-press
+  url: http://www.wordpress.org
+- type: x-support
+  url: https://minisoft.com/support
+- type: x-support
+  url: http://support.minisoft.com
+- type: x-twitter
+  url: https://twitter.com/Minisoft_Inc
+- type: x-website
+  url: https://www.minisoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

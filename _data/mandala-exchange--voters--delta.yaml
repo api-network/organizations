@@ -1,0 +1,25 @@
+---
+name: Mandala Exchange | Voters | Delta
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: ""
+url: https://raw.githubusercontent.com/api-network/organizations/main/mandala-exchange--voters--delta.yaml
+tags:
+- Postman Doc Search
+- New
+apis: []
+x-common:
+- type: x-postman-documentation
+  url: https://documenter.getpostman.com/view/6273708/S1TN7gtn
+- type: x-website
+  url: http://ask.delta.app
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

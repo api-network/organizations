@@ -1,0 +1,30 @@
+---
+name: Android Gadgematic
+description: Android Gadgematic is a blog that publish the Google Android OS Platform
+  and it based devices Apps, News, Rooting Guides, Custom ROMs, Guide.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "826465"
+url: https://raw.githubusercontent.com/api-network/organizations/main/android-gadgematic.yaml
+tags: []
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.androidgadgematic.com/contact-us
+- type: x-contact
+  url: https://www.androidgadgematic.com/contact-us/
+- type: x-privacy
+  url: https://www.androidgadgematic.com/privacy-policy
+- type: x-privacy
+  url: https://www.androidgadgematic.com/privacy-policy/
+- type: x-website
+  url: https://www.androidgadgematic.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

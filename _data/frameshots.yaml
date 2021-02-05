@@ -1,0 +1,25 @@
+---
+name: FrameShots
+description: Video image capture with Frameshots. FrameShots lets you quickly and
+  easily capture still images from any video file. It comes with a free command-line
+  utility for automated frame capture and batch mode GUI. Also includes DVD support.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "809638"
+url: https://raw.githubusercontent.com/api-network/organizations/main/frameshots.yaml
+tags:
+- Video Image Capture
+- Multimedia
+apis: []
+x-common:
+- type: x-website
+  url: https://www.frame-shots.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

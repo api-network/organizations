@@ -1,0 +1,38 @@
+---
+name: StesCodes Social Login
+description: Social inviter enables your user to import contacts, import friends,
+  send message to friends, fetches user profile and post content to social networks
+  in clicks.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1169-stescodes-social-login.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/stescodes-social-login.yaml
+tags:
+- Social Profiles
+- Login
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://stescodes.com/sociallogin.aspx
+- type: x-website
+  url: https://socialinviter.com
+- type: x-developer
+  url: http://dev.stescodes.com
+- type: x-email
+  url: support@socialinviter.com
+- type: x-facebook
+  url: https://www.facebook.com/tellafriendscripts
+- type: x-support
+  url: http://ftphelp.secureserver.net/ftphelp.htm
+- type: x-twitter
+  url: https://twitter.com/socialinviter
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

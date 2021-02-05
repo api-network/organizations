@@ -1,0 +1,29 @@
+---
+name: airfax.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/airfax-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-blog
+  url: http://airfax.com/blog/
+- type: x-blog
+  url: http://airfax.com/blog/
+- type: x-blog-rss
+  url: http://airfax.com/blog/index.php/feed/rss/
+- type: x-curated-source
+  url: http://airfax.com/blog/index.php/2015/05/25/etihad-airways-chooses-sita-for-comprehensive-bag-tracking/
+- type: x-website
+  url: http://airfax.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

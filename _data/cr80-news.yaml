@@ -1,0 +1,66 @@
+---
+name: CR80 News
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2170196"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cr80-news.yaml
+tags:
+- News And Media
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.cr80news.com/technologies/contactless/
+- type: x-contact
+  url: https://www.cr80news.com/contact-us/
+- type: x-news
+  url: https://www.cr80news.com
+- type: x-news
+  url: https://www.cr80news.com/functions/card-issuance/
+- type: x-news
+  url: https://www.cr80news.com/functions/security/
+- type: x-news
+  url: https://www.cr80news.com/functions/financial/
+- type: x-news
+  url: https://www.cr80news.com/functions/dining/
+- type: x-news
+  url: https://www.cr80news.com/functions/privilege-control/
+- type: x-news
+  url: https://www.cr80news.com/technologies/mag-stripe/
+- type: x-news
+  url: https://www.cr80news.com/technologies/mobile/
+- type: x-news
+  url: https://www.cr80news.com/technologies/biometrics/
+- type: x-news
+  url: https://www.cr80news.com/page/2/
+- type: x-news
+  url: https://www.cr80news.com/
+- type: x-news
+  url: https://www.cr80news.com/page/3/
+- type: x-news
+  url: https://www.cr80news.com/page/4/
+- type: x-news
+  url: https://www.cr80news.com/page/5/
+- type: x-news
+  url: https://www.cr80news.com/about/
+- type: x-news
+  url: https://www.cr80news.com/privacy-policy/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-press
+  url: https://codex.wordpress.org/
+- type: x-press
+  url: https://wordpress.org/support/
+- type: x-twitter
+  url: https://twitter.com/CR80News
+- type: x-website
+  url: https://www.cr80news.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

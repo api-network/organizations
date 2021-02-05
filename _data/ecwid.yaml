@@ -1,0 +1,132 @@
+---
+name: Ecwid
+description: "Ecwid is a leading choice for small business merchants to easily set
+  up a store and start selling fast. No need to abandon your existing site \u2014
+  Ecwid can be added virtually anywhere you have an online presence. You have the
+  freedom to operate multiple online stores including on your website, social media
+  channels, and mobile devices."
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28865-www-ecwid-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4151"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ecwid.yaml
+tags:
+- Webhooks
+- Shopping Carts
+- RESTful API
+- Promotion
+- Online Business
+- Marketing
+- Have API Paths
+- Commerce
+- API
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.ecwid.com/blog
+- type: x-blog-rss
+  url: https://www.ecwid.com/feed
+- type: x-github
+  url: https://github.com/ecwid
+- type: x-website
+  url: http://www.ecwid.com/
+- type: x-about
+  url: https://www.ecwid.com/about
+- type: x-authentication
+  url: https://api-docs.ecwid.com/docs/authentication-basics
+- type: x-blog
+  url: https://www.ecwid.com/blog/ecwid-updates
+- type: x-contact
+  url: https://developers.ecwid.com/contact
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/ecwid
+- type: x-developer
+  url: https://developers.ecwid.com/
+- type: x-developer
+  url: https://developers.ecwid.com
+- type: x-developer
+  url: https://developers.ecwid.com/publishing-your-app
+- type: x-developer
+  url: https://developers.ecwid.com/make-money
+- type: x-developers
+  url: https://developers.ecwid.com/
+- type: x-documentation
+  url: https://api-docs.ecwid.com/reference/overview
+- type: x-documentation
+  url: https://api-docs.ecwid.com/
+- type: x-email
+  url: bizdev@ecwid.com
+- type: x-email
+  url: PR@ecwid.com
+- type: x-email
+  url: join@ecwid.com
+- type: x-email
+  url: copyright@ecwid.com
+- type: x-email
+  url: privacy@ecwid.com
+- type: x-email
+  url: legal@ecwid.com
+- type: x-email
+  url: info@ecwid.com
+- type: x-email
+  url: billing@ecwid.com
+- type: x-email
+  url: support@ecwid.com
+- type: x-facebook
+  url: https://www.facebook.com/ecwid
+- type: x-getting-started
+  url: https://my.ecwid.com/cp/#register
+- type: x-instagram
+  url: https://www.instagram.com/ecwid/
+- type: x-login
+  url: https://my.ecwid.com/cp/
+- type: x-partner
+  url: https://www.ecwid.com/partners
+- type: x-partners
+  url: https://www.ecwid.com/partners
+- type: x-press
+  url: https://www.ecwid.com/wordpress
+- type: x-press
+  url: https://www.ecwid.com/press
+- type: x-pricing
+  url: https://www.ecwid.com/pricing
+- type: x-privacy
+  url: https://www.ecwid.com/privacy-policy
+- type: x-privacy
+  url: https://www.ecwid.com/eu-privacy-policy
+- type: x-privacy-policy
+  url: https://www.ecwid.com/privacy-policy
+- type: x-self-service-registration
+  url: https://my.ecwid.com/cp/#register
+- type: x-self-service-registration
+  url: https://developers.ecwid.com/register
+- type: x-showcase
+  url: https://www.ecwid.com/showcase
+- type: x-status
+  url: https://status.ecwid.com/
+- type: x-support
+  url: https://support.ecwid.com
+- type: x-support
+  url: https://support.ecwid.com/hc/en-us
+- type: x-support
+  url: https://support.ecwid.com/hc/en-us/requests/new
+- type: x-support
+  url: https://support.ecwid.com/
+- type: x-terms-of-service
+  url: https://developers.ecwid.com/terms
+- type: x-terms-of-service
+  url: https://www.ecwid.com/terms-of-service
+- type: x-twitter
+  url: https://twitter.com/ecwid
+- type: x-website
+  url: https://www.ecwid.com
+- type: x-youtube
+  url: https://www.youtube.com/user/EcwidTeam
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

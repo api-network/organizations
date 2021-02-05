@@ -1,0 +1,42 @@
+---
+name: TaxCalc
+description: Tax and salary calculator for the 2019-2020 financial year. Also calculates
+  your low income tax offset, HELP, SAPTO, and medicare levy.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "615365"
+url: https://raw.githubusercontent.com/api-network/organizations/main/taxcalc.yaml
+tags:
+- United Kingdom
+- Tax
+- Sapto
+- Salary
+- Pay
+- Medicare
+- Lito
+- Income
+- Help
+- Hecs
+- Calculator
+- Australian
+- Australia
+- "2020"
+- "2019"
+- "2018"
+- "2017"
+- "2016"
+apis: []
+x-common:
+- type: x-website
+  url: https://www.taxcalc.com.au
+- type: x-website
+  url: https://www.taxcalc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

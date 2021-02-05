@@ -1,0 +1,33 @@
+---
+name: SwissSign
+description: "Dank den elektronischen Zertifikaten von SwissSign k\xF6nnen Daten verschl\xFCsselt
+  und damit vor ungewolltem Zugriff gesch\xFCtzt ausgetauscht werden."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1047717"
+url: https://raw.githubusercontent.com/api-network/organizations/main/swisssign.yaml
+tags:
+- Tools And Services
+- Swisssign
+- SSL
+apis: []
+x-common:
+- type: x-website
+  url: http://www.swisssign-group.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/swisssign/
+- type: x-twitter
+  url: https://twitter.com/swisssign
+- type: x-website
+  url: https://swisssign.com
+- type: x-youtube
+  url: https://www.youtube.com/user/swisssign
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

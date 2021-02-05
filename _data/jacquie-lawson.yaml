@@ -1,0 +1,29 @@
+---
+name: Jacquie Lawson
+description: Charming animated greeting cards for birthdays and special occasions,
+  featuring English landscapes, playful animals, and much more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "12647"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jacquie-lawson.yaml
+tags:
+- Occasions
+apis: []
+x-common:
+- type: x-about
+  url: https://www.jacquielawson.com/aboutus
+- type: x-login
+  url: https://www.jacquielawson.com/signin
+- type: x-news
+  url: https://www.jacquielawson.com/news
+- type: x-website
+  url: https://www.jacquielawson.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,52 @@
+---
+name: TradeIt
+description: The API infrastructure that links retail investors and app developers
+  with any online financial broker.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28295-www-trade-it.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "605923"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tradeit.yaml
+tags:
+- Trading
+- Stocks
+- Market Data
+- Investors
+- Have API
+- Financial
+apis: []
+x-common:
+- type: x-website
+  url: https://blog.trade.it/
+- type: x-blog
+  url: https://blog.trade.it/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/trading-ticket-llc
+- type: x-documentation
+  url: https://www.trade.it/documentation
+- type: x-email
+  url: support@trade.it
+- type: x-getting-started
+  url: https://www.trade.it/quickstart#get-started#tradeit-products
+- type: x-github
+  url: https://github.com/tradeit
+- type: x-github
+  url: https://github.com/tradingticket
+- type: x-linkedin
+  url: https://www.linkedin.com/company/trading-ticket-inc-/
+- type: x-support
+  url: https://support.trade.it/hc/en-us
+- type: x-support
+  url: https://support.trade.it/hc/
+- type: x-twitter
+  url: https://twitter.com/TradeIt
+- type: x-website
+  url: https://www.trade.it
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

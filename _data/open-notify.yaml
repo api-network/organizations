@@ -1,0 +1,29 @@
+---
+name: Open Notify
+description: A small project started to track when the ISS is overhead.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28265-open-notify-org.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1130115"
+url: https://raw.githubusercontent.com/api-network/organizations/main/open-notify.yaml
+tags:
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-email
+  url: nathan@open-notify.org
+- type: x-open-source
+  url: https://github.com/open-notify
+- type: x-twitter
+  url: https://twitter.com/OpenNotify
+- type: x-website
+  url: http://open-notify.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

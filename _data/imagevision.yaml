@@ -1,0 +1,47 @@
+---
+name: ImageVision
+description: "Don't forget to press \"Like\" if you want to tag or comment any photos.
+  Dran denken: Du mu\xDFt den \"gef\xE4llt mir\"-Knopf klicken, wenn Du Fotos markieren,
+  oder kommentieren m\xF6chtest."
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/2013_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4279125"
+url: https://raw.githubusercontent.com/api-network/organizations/main/imagevision.yaml
+tags:
+- JavaScript
+- JavaScript
+- Have API
+- Detection
+- Detection
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ImageVision.com
+- type: x-about
+  url: http://imagevision.com/#about
+- type: x-blog
+  url: http://www.imagevisionlabs.com/blog/
+- type: x-contact
+  url: http://imagevision.com/#contact
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/imagevision
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/imagevision
+- type: x-email
+  url: info@ImageVision.com
+- type: x-pricing
+  url: https://market.mashape.com/imagevision/face-detection-and-facial-features/pricing
+- type: x-twitter
+  url: https://twitter.com/imagevisionlabs
+- type: x-website
+  url: http://imagevision.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

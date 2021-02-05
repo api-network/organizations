@@ -1,0 +1,48 @@
+---
+name: SubRosaSoft.com Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2897960"
+url: https://raw.githubusercontent.com/api-network/organizations/main/subrosasoft-com-inc-.yaml
+tags:
+- Security
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.subrosasoft.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/SubRosaSoft/
+- type: x-privacy
+  url: https://www.subrosasoft.com/privacy-notice/
+- type: x-support
+  url: https://www.subrosasoft.com/support/
+- type: x-support
+  url: https://www.subrosasoft.com/support/manuals/
+- type: x-support
+  url: https://www.subrosasoft.com/support/manuals/copycatx/
+- type: x-support
+  url: https://www.subrosasoft.com/support/manuals/diskcopy/
+- type: x-support
+  url: https://www.subrosasoft.com/support/manuals/macentry/
+- type: x-support
+  url: https://www.subrosasoft.com/support/manuals/macimager/
+- type: x-support
+  url: https://www.subrosasoft.com/support/manuals/textcrypt/
+- type: x-terms-of-service
+  url: https://www.subrosasoft.com/legal/
+- type: x-terms-of-service
+  url: https://www.subrosasoft.com/legal/eula/
+- type: x-twitter
+  url: https://twitter.com/SubRosaSoft/
+- type: x-website
+  url: https://www.subrosasoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

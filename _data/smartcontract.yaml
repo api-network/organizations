@@ -1,0 +1,35 @@
+---
+name: SmartContract
+description: Smart Contracts are self-executing contractual states, stored on the
+  blockchain, which nobody controls and therefore everyone can trust.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26707-smartcontract-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "90207"
+url: https://raw.githubusercontent.com/api-network/organizations/main/smartcontract.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://SmartContract.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/smartcontract
+- type: x-email
+  url: custom@smartcontract.com
+- type: x-email
+  url: support@smartcontract.com
+- type: x-email
+  url: careers@smartcontract.com
+- type: x-twitter
+  url: https://twitter.com/Smart_Contract
+- type: x-website
+  url: https://smartcontract.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

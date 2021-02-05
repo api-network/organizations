@@ -1,0 +1,46 @@
+---
+name: Qmailrocks updated
+description: A qmail installation guide for Debian. Qmailrocks is a publicly available
+  installation guide to have a fully functionnal mail toaster based on Dan Bernstein's
+  qmail MTA.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10490065"
+url: https://raw.githubusercontent.com/api-network/organizations/main/qmailrocks-updated.yaml
+tags:
+- Vqadmin
+- Vpopmail
+- Ubuntu
+- Tutorial
+- Setup
+- Roundcubemail
+- Qmailrocks
+- Qmailadmin
+- Qmail Installation
+- Qmail
+- Mail Toaster
+- Jessie
+- Installation
+- How To
+- Hotwo
+- Help
+- Guide
+- Email
+- Debian
+- Dan
+- Customization
+- Configuration
+- Bernstein
+apis: []
+x-common:
+- type: x-website
+  url: https://qmailrocks.thibs.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

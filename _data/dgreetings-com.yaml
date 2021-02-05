@@ -1,0 +1,51 @@
+---
+name: Dgreetings.com
+description: Wishes and Messages bring warmth to relationships. At Dgreetings.com
+  we have been bringing choicest wishes, messages and cards since 1999. The site has
+  soulful messages and wonderful cards for holidays, birthdays, love, anniversary,
+  wedding, get well soon, everyday events Etc.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "31700"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dgreetings-com.yaml
+tags:
+- Love & Romance Cards
+- Greeting Cards
+- Free ECards
+- E-greetings
+- Birthday Messages
+- Birthday Greeting Cards
+- Birthday Cards
+- Anniversary Messages
+- Anniversary Cards
+apis: []
+x-common:
+- type: x-about
+  url: https://www.dgreetings.com/aboutus.html
+- type: x-blog
+  url: https://www.dgreetings.com/blog/
+- type: x-facebook
+  url: https://www.facebook.com/Dgreetings-166704803370672/
+- type: x-feed
+  url: https://www.dgreetings.com/feedback.html
+- type: x-linkedin
+  url: https://www.linkedin.com/company/dgreetings/
+- type: x-support
+  url: https://www.dgreetings.com/support_cards/sympathy/
+- type: x-support
+  url: https://www.dgreetings.com/support_cards/motivational/
+- type: x-support
+  url: https://www.dgreetings.com/support_cards/good_luck/
+- type: x-twitter
+  url: https://twitter.com/dgreetings
+- type: x-website
+  url: https://www.dgreetings.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

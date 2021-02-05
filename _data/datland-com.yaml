@@ -1,0 +1,38 @@
+---
+name: Datland.com
+description: 'DatLand Technologies sell and repair all of the top brands of tape back-up
+  drives including: Quantum, HP, Compaq, Exabyte, Sony, Archive, Conner, Seagate,
+  WangDat, WangTek, and many more.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3432010"
+url: https://raw.githubusercontent.com/api-network/organizations/main/datland-com.yaml
+tags:
+- Tape Media
+- Tape Library
+- Tape Drives
+- Tape Drive
+- Tape Backup
+- Sdlt
+- Lto
+- HP
+- Data Tape
+apis: []
+x-common:
+- type: x-blog
+  url: http://www.datland.com/blog/
+- type: x-login
+  url: https://www.datland.com/login.php
+- type: x-status
+  url: https://www.datland.com/orderstatus.php
+- type: x-website
+  url: https://www.datland.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

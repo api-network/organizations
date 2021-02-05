@@ -1,0 +1,36 @@
+---
+name: Altia - User Interface Design and GUI Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "867548"
+url: https://raw.githubusercontent.com/api-network/organizations/main/altia--user-interface-design-and-gui-software.yaml
+tags:
+- Software
+apis: []
+x-common:
+- type: x-website
+  url: http://www.altia.com/
+- type: x-careers
+  url: https://www.altia.com/careers/
+- type: x-contact
+  url: https://www.altia.com/contact/
+- type: x-news
+  url: https://www.altia.com/news/
+- type: x-privacy
+  url: https://www.altia.com/privacy/
+- type: x-support
+  url: https://www.altia.com/help/
+- type: x-twitter
+  url: http://twitter.com/AltiaHMI
+- type: x-website
+  url: https://www.altia.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,24 @@
+---
+name: Metagenerator
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "75269"
+url: https://raw.githubusercontent.com/api-network/organizations/main/metagenerator.yaml
+tags:
+- Internet
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.renaud.chez.com
+- type: x-website
+  url: https://renaud.chez.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

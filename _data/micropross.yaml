@@ -1,0 +1,29 @@
+---
+name: Micropross
+description: Test of contact & contactless smart cards, readers and NFC devices. Conformance
+  testing following EMVCo, NFC Forum, ISO, ETSI, Wireless Power Charging (Qi)
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/micropross.yaml
+tags:
+- Readers
+apis: []
+x-common:
+- type: x-website
+  url: https://micropross.ni.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/micropross
+- type: x-twitter
+  url: https://twitter.com/micropross
+- type: x-website
+  url: https://www.micropross.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

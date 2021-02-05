@@ -1,0 +1,83 @@
+---
+name: TCAM Products
+description: TCAM Technology Pte Ltd is Singapore technology company provides M2M
+  and IoT products and systems. We have TMAS smart modem in GSM, GPRS, HSPA, SMS controller,
+  GSM/GPRS data logger and TMAS cloud for M2M application.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tcam-products.yaml
+tags:
+- Wireless Telemetry
+- Wireless Modem
+- Wireless Alarm
+- Tmn51
+- Tmn5000
+- Tmn50
+- Tmn1000
+- Tmn-52
+- Tmn-51
+- Tmn-5000
+- Tmn-50
+- Tmn-1000
+- Tmas
+- T61-ehs5
+- T61-bgs2
+- T61
+- Sms Monitoring
+- Sms Control
+- Smart Modem
+- Shipyard
+- SCADA
+- PLC
+- M2M
+- Ip Modem
+- Iotasia
+- IoT
+- Gsm Telemetry
+- Gsm Remote Monitoring
+- Gsm Modem
+- Gsm Gprs
+- Gsm Controller
+- Gsm Control
+- Gsm Alarm
+- Gprs Modem
+- Gprs Gsm
+- GPRS
+- Gateway
+- Ems
+- Elderly
+- Data Logger
+- CMS
+- Central Monitoring Station
+- Automation
+- Automatic Meter Reader
+- Amr
+- Alarm
+apis: []
+x-common:
+- type: x-about
+  url: https://tcam.com.sg/about/
+- type: x-case-studies
+  url: https://tcam.com.sg/case-studies/
+- type: x-case-studies
+  url: https://tcam.com.sg/case-studies/m2m-control/
+- type: x-contact
+  url: https://tcam.com.sg/contact/
+- type: x-facebook
+  url: https://www.facebook.com/TcamTechnology
+- type: x-partner
+  url: https://tcam.com.sg/partners/
+- type: x-support
+  url: https://tcam.com.sg/support/
+- type: x-website
+  url: https://www.tcam.com.sg
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

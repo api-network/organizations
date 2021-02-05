@@ -1,0 +1,31 @@
+---
+name: Citysearch
+description: The Citysearch&reg; Guide to San Jose. San Jose restaurants, bars, night
+  clubs, hotels, shops, spas, events, attractions, yellow page listings and more.
+  Find reviews, recommendations, directions and information on all the latest venues
+  and businesses i...
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26581-citysearch.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "75655"
+url: https://raw.githubusercontent.com/api-network/organizations/main/citysearch.yaml
+tags:
+- Marketplaces
+apis: []
+x-common:
+- type: x-website
+  url: http://www.citysearch.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/citysearch
+- type: x-twitter
+  url: https://twitter.com/Citysearch
+- type: x-website
+  url: http://citysearch.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

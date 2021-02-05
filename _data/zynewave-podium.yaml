@@ -1,0 +1,52 @@
+---
+name: Zynewave Podium
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2869867"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zynewave-podium.yaml
+tags:
+- Sequencers
+apis: []
+x-common:
+- type: x-contact
+  url: https://zynewave.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/Zynewave
+- type: x-feed
+  url: https://zynewave.com/feed
+- type: x-forum
+  url: https://zynewave.com/forum-index/
+- type: x-forum
+  url: https://zynewave.com/forum/podium-vip-lounge/
+- type: x-forum
+  url: https://zynewave.com/forum/podium-future/
+- type: x-forum
+  url: https://zynewave.com/forum/podium-support/
+- type: x-forum
+  url: https://zynewave.com/forum/podium-free-support/
+- type: x-forum
+  url: https://zynewave.com/forum/nucleum-support/
+- type: x-forum
+  url: https://zynewave.com/forum/general-chat/
+- type: x-login
+  url: https://zynewave.com/login/
+- type: x-news
+  url: https://zynewave.com/latest-news/
+- type: x-privacy
+  url: https://zynewave.com/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/Zynewave
+- type: x-website
+  url: https://www.zynewave.com
+- type: x-youtube
+  url: https://www.youtube.com/user/ZynewaveDotCom
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

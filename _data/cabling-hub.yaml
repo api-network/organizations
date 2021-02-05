@@ -1,0 +1,32 @@
+---
+name: Cabling Hub
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cabling-hub.yaml
+tags:
+- Installation
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cablinghub.com/
+- type: x-about
+  url: http://www.cablinghub.com/about_us.shtml
+- type: x-blog
+  url: http://www.cablinghub.com/blog/
+- type: x-contact
+  url: http://www.cablinghub.com/contact.shtml
+- type: x-twitter
+  url: https://twitter.com/CablingHub
+- type: x-website
+  url: https://www.cablinghub.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

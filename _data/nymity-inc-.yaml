@@ -1,0 +1,68 @@
+---
+name: Nymity Inc.
+description: "Choose Nymity\u2019s Privacy Platform for the GDPR, CCPA, LGPD and the
+  World\u2019s Privacy Requirements"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "820921"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nymity-inc-.yaml
+tags:
+- Privacy Compliance Software
+- Privacy Compliance
+- Data Privacy
+- Consultants
+apis: []
+x-common:
+- type: x-about
+  url: https://www.nymity.com/about/
+- type: x-about
+  url: https://www.nymity.com/about/why-nymity/
+- type: x-about
+  url: https://www.nymity.com/about/leadership-team/
+- type: x-about
+  url: https://www.nymity.com/about/customer-success/
+- type: x-careers
+  url: https://www.nymity.com/about/careers/
+- type: x-contact
+  url: https://www.nymity.com/contact/
+- type: x-customers
+  url: https://www.nymity.com/about/customers/
+- type: x-events
+  url: https://www.nymity.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/nymity
+- type: x-forum
+  url: https://www.dataprotectionworldforum.com/
+- type: x-gdpr
+  url: https://www.nymity.com/gdpr/
+- type: x-gdpr
+  url: https://www.nymity.com/resources/gdpr/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/nymity-inc
+- type: x-news
+  url: https://www.nymity.com/about/latest-news/
+- type: x-partner
+  url: https://www.nymity.com/about/partner-program/
+- type: x-privacy
+  url: https://www.nymity.com/privacy-blog/
+- type: x-self-service-registration
+  url: https://www.nymity.com/accountability-register/
+- type: x-support
+  url: https://www.nymity.com/certification-support/
+- type: x-terms-of-service
+  url: https://www.nymity.com/legal-summaries/
+- type: x-twitter
+  url: https://twitter.com/nymity
+- type: x-website
+  url: https://www.nymity.com
+- type: x-youtube
+  url: https://www.youtube.com/nymity
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

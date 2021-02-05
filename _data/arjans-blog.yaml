@@ -1,0 +1,160 @@
+---
+name: Arjan's blog
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/arjans-blog.yaml
+tags:
+- Directories
+apis: []
+x-common:
+- type: x-blog
+  url: https://cooltools.blogspot.com/
+- type: x-blog
+  url: http://www.blogs.com/
+- type: x-blog
+  url: https://www.blogger.com/profile/00843372842219526216
+- type: x-blog
+  url: http://cooltools.blogspot.com/atom.xml
+- type: x-blog
+  url: https://cooltools.blogspot.com/2010/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2010/08/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2010/07/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2010/06/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2010/04/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2010/03/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2010/02/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2010/01/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2009/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2009/12/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2009/11/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2009/08/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2009/07/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2009/06/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2009/05/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2009/04/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2009/03/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2009/02/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2009/01/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2008/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2008/12/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2008/11/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2008/10/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2008/09/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2008/08/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2008/07/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2008/05/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2008/04/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2008/03/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2008/02/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2008/01/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2007/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2007/12/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2007/11/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2007/10/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2007/09/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2007/08/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2007/07/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2007/06/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2007/05/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2007/04/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2007/03/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2007/01/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2006/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2006/12/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2006/11/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2006/10/
+- type: x-blog
+  url: https://cooltools.blogspot.com/2006/08/
+- type: x-blog
+  url: https://cooltools.blogspot.com/search/label/Minerals
+- type: x-blog
+  url: https://cooltools.blogspot.com/search/label/Tools
+- type: x-blog
+  url: http://www.blogs.com/topten/
+- type: x-blog
+  url: http://cooltools.blogspot.com
+- type: x-feed
+  url: https://cooltools.blogspot.com/feeds/posts/default
+- type: x-feed
+  url: https://cooltools.blogspot.com/feeds/comments/default
+- type: x-forum
+  url: http://www.webdeveloper.com/forum/
+- type: x-forum
+  url: http://www.webdevforums.com/
+- type: x-forum
+  url: http://forums.devshed.com/
+- type: x-forum
+  url: http://www.sitepoint.com/forums/
+- type: x-press
+  url: http://lefsetz.com/wordpress/
+- type: x-press
+  url: http://newwpthemes.com/wordpress-theme/animestar/
+- type: x-press
+  url: http://newwpthemes.com/wordpress-theme/summy/
+- type: x-press
+  url: http://newwpthemes.com/wordpress-theme/perfecta/
+- type: x-press
+  url: http://newwpthemes.com/wordpress-theme/lorem/
+- type: x-support
+  url: http://www.techsupportalert.com/
+- type: x-tutorials
+  url: http://forums.developertutorials.com/
+- type: x-website
+  url: https://cooltools.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

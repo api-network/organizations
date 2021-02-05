@@ -1,0 +1,52 @@
+---
+name: ContactPC
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/contactpc.yaml
+tags:
+- Used
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.contactpc.com/managed-services/
+- type: x-contact
+  url: https://www.contactpc.com/network-security/
+- type: x-contact
+  url: https://www.contactpc.com/remote-it-services/
+- type: x-contact
+  url: https://www.contactpc.com/emergency-tech-support/
+- type: x-contact
+  url: https://www.contactpc.com/computer-repair/
+- type: x-contact
+  url: https://www.contactpc.com/on-site-computer-repair/
+- type: x-contact
+  url: https://www.contactpc.com/about-us/
+- type: x-contact
+  url: https://www.contactpc.com/testimonials/
+- type: x-contact
+  url: https://www.contactpc.com/category/blog/
+- type: x-contact
+  url: https://www.contactpc.com/contact-us/
+- type: x-contact
+  url: https://www.contactpc.com/
+- type: x-contact
+  url: https://www.facebook.com/contactpcdenver/
+- type: x-contact
+  url: https://www.yelp.com/biz/contactpc-englewood
+- type: x-linkedin
+  url: https://www.linkedin.com/company/4537253/
+- type: x-twitter
+  url: https://twitter.com/ComputerOracle
+- type: x-website
+  url: https://www.contactpc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

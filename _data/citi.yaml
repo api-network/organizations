@@ -1,0 +1,45 @@
+---
+name: Citi
+description: <p>Citi Open Banking is a set of APIs that allow you to connect to core
+  Citi financial functionality. Whether you are an established retailer looking to
+  kick-start a new credit card or a financial technology start up that needs account
+  data, our APIs seek to enable your product and its features.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/citi-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/citi.yaml
+tags:
+- US Bank
+apis: []
+x-common:
+- type: x-contact-form
+  url: https://sandbox.developerhub.citi.com/contact-api-partnership-sales
+- type: x-developers
+  url: https://sandbox.developerhub.citi.com/
+- type: x-documentation
+  url: https://sandbox.developerhub.citi.com/api-catalog-list
+- type: x-faq
+  url: https://sandbox.developerhub.citi.com/faq
+- type: x-getting-started
+  url: https://sandbox.developerhub.citi.com/get-started
+- type: x-github
+  url: http://www.github.com/citi
+- type: x-privacy-policy
+  url: https://sandbox.developerhub.citi.com/privacy-policy
+- type: x-registration
+  url: https://sandbox.developerhub.citi.com/request_access
+- type: x-support
+  url: https://sandbox.developerhub.citi.com/contact-us
+- type: x-terms-of-service
+  url: https://sandbox.developerhub.citi.com/legal
+- type: x-website
+  url: https://citi.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

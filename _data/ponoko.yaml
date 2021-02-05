@@ -1,0 +1,83 @@
+---
+name: Ponoko
+description: "Laser cutting & engraving for makers & businesses \u2705 Your product
+  designs custom made by our designers & robots, fast. Make your first product FREE"
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/serviceproviders/ponoko-logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "117851"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ponoko.yaml
+tags:
+- Sharing
+- Marketplaces
+- Manufacturing
+- Have API
+- 3D Printing
+- 3D Printing
+- 3D Printing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ponoko.com
+- type: x-base
+  url: http://www.ponoko.com/services/api/v2/
+- type: x-blog
+  url: http://www.ponoko.com/blog/2014/03/25/awesome-laser-cut-robots-that-fit-in-your-pocket/
+- type: x-blog
+  url: http://www.ponoko.com/blog/2013/02/07/with-a-need-for-speed-chicago-burlesque-dancer-makes-her-own-feather-fan/
+- type: x-blog
+  url: http://www.ponoko.com/blog/2013/10/08/think-youre-too-busy-to-start-your-own-product-line-robomustache-proves-its-possible/
+- type: x-blog
+  url: http://www.ponoko.com/blog/2013/03/28/cases-and-enclosures-for-the-raspberry-pi-computer/
+- type: x-blog
+  url: http://www.ponoko.com/blog/2012/02/22/247-design-with-colin-francis/
+- type: x-blog
+  url: http://www.ponoko.com/blog/2012/05/10/minimising-timeframe-from-idea-to-product/
+- type: x-blog
+  url: http://www.ponoko.com/blog/2011/11/16/the-incredible-folding-ukulele-from-maker-of-anything-brian-chan/
+- type: x-blog
+  url: http://www.ponoko.com/blog/2013/02/19/which-comes-first-the-product-or-the-business-for-iluxo-designer-mariko-its-business-from-the-start/
+- type: x-blog
+  url: http://www.ponoko.com/blog/2013/06/11/dapper-diy-%E2%80%94-make-your-own-bow-ties/
+- type: x-blog
+  url: http://www.ponoko.com/blog/
+- type: x-blog
+  url: http://blog.ponoko.com/
+- type: x-blog
+  url: http://www.ponoko.com/blog/2014/02/27/ponoko-customer-turns-product-into-100299-in-just-20-days/
+- type: x-blog
+  url: http://www.ponoko.com/blog/2012/02/13/decoylab-clocks-by-maiko-kuzinishi/
+- type: x-blog
+  url: http://www.ponoko.com/blog/2014/05/06/making-cannons-with-lasers/
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/Ponoko
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/ponoko
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/ponoko
+- type: x-developers
+  url: http://www.ponoko.com/app-gateway/api-documentation
+- type: x-email
+  url: service@ponoko.com
+- type: x-facebook
+  url: https://www.facebook.com/pages/Ponoko/34020780272
+- type: x-github
+  url: https://github.com/Ponoko
+- type: x-linkedin
+  url: https://www.linkedin.com/company/ponoko
+- type: x-login
+  url: https://www.ponoko.com/login?quote
+- type: x-twitter
+  url: https://twitter.com/ponoko
+- type: x-website
+  url: https://www.ponoko.com/
+- type: x-youtube
+  url: http://www.youtube.com/user/Ponoko
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

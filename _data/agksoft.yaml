@@ -1,0 +1,68 @@
+---
+name: AGKsoft
+description: Gas Station Software, Back Office Software, Home Office Software, Point
+  Of Sale Software, POS System, C-Store Software, Convenience Store Software, Liquore
+  Store Software, Point Of Sale Software, Service Station Software, Station Software,
+  Station Accounting Software, Gilbarco G-Site Back Office Software, Gilbarco GSite
+  Back Office Software, Gilbarco Passport Back Office Software, Ruby VeriFone Back
+  Office Software, Ruby Commander Back Office Software, Ruby2 Back Office Software,
+  ComData Back Office Software, Wayne Nucleus Back Office Software, COMDATA SmartDesk
+  Back Office Software, Accounting Software for Gas Stations, Lottery, Scratch Tickets,
+  Garage Expense, Parts, Assets, Work Order, Distributors, Electronic, Checking, Cash
+  Accounts, Customer Accounts, Invoices Weekly Payroll, Inventory, POS, Convenience
+  Store Software, C-Store Software, Liquore Store Software, Cash Register Software
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2162978"
+url: https://raw.githubusercontent.com/api-network/organizations/main/agksoft.yaml
+tags:
+- Work Order
+- Wayne Nucleus Back Office Software
+- Station Software
+- Station Accounting Software
+- Service Station Software
+- Scratch Tickets
+- Ruby2 Back Office Software
+- Ruby VeriFone Back Office Software
+- Ruby Commander Back Office Software
+- Pos System
+- POS
+- Point Of Sale Software
+- Parts
+- Lottery
+- Liquore Store Software
+- Invoices Weekly Payroll
+- Inventory
+- Home Office Software
+- Gilbarco Passport Back Office Software
+- Gilbarco GSite Back Office Software
+- Gilbarco G-Site Back Office Software
+- Gas Station Software
+- Garage Expense
+- Electronic
+- Distributors
+- Customer Accounts
+- Convenience Store Software
+- COMDATA SmartDesk Back Office Software
+- ComData Back Office Software
+- Checking
+- Cash Register Software
+- Cash Accounts
+- C-Store Software
+- Back Office Software
+- Automotive Management
+- Assets
+- Accounting Software For Gas Stations
+apis: []
+x-common:
+- type: x-website
+  url: https://www.agksoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

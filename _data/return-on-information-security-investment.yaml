@@ -1,0 +1,22 @@
+---
+name: Return on Information Security Investment
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8789419"
+url: https://raw.githubusercontent.com/api-network/organizations/main/return-on-information-security-investment.yaml
+tags:
+- Policy
+apis: []
+x-common:
+- type: x-website
+  url: https://www.adrianmizzi.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

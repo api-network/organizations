@@ -1,0 +1,48 @@
+---
+name: intoPIX
+description: intoPIX creates and licenses innovative image processing, video compression
+  and security technologies to enable AV applications to manage, transport and process
+  HD, 4K, and 8K resolutions at the speed of light with the best quality. Our Silicon-proven
+  IP-cores are available for FPGA & ASIC and our Fast SDKs run on GPU and CPU.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1561967"
+url: https://raw.githubusercontent.com/api-network/organizations/main/intopix.yaml
+tags:
+- Video
+- TICO
+- RTL
+- JPEG XS
+- JPEG 2000
+- IP-core
+- Ip
+- IntoPIX
+- Image Processing
+- Image Compression
+- FPGA
+- Cryptography
+- Compression
+- Codec
+- ASICs And Chips
+- Asic
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/Intopix/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/intopix-s.a./
+- type: x-twitter
+  url: https://twitter.com/intopix
+- type: x-twitter
+  url: https://twitter.com/intoPIX?ref_src=twsrc%5Etfw
+- type: x-website
+  url: https://www.intopix.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

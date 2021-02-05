@@ -1,0 +1,74 @@
+---
+name: Brigham Young University
+description: 'Official page for Brigham Young University.   Undergraduate applications:
+  https://www.lds.org/church-education/college-application?lang=eng  Graduate program
+  info: http://graduatestudies.byu.edu'
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/byu-logo.logo
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "7218"
+url: https://raw.githubusercontent.com/api-network/organizations/main/brigham-young-university.yaml
+tags:
+- University Portal
+- University Leader
+- Profile
+- Have Swagger
+- Have API Paths
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://byu.edu/
+- type: x-about
+  url: https://www.byu.edu/about
+- type: x-blog
+  url: https://developer.byu.edu/blog
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/brigham-young-university
+- type: x-developer
+  url: http://developer.byu.edu
+- type: x-developer
+  url: http://dev.byu.edu/
+- type: x-developer
+  url: https://developer.byu.edu
+- type: x-developers
+  url: https://developer.byu.edu
+- type: x-documentation
+  url: https://developer.byu.edu/docs
+- type: x-events
+  url: http://moa.byu.edu/events/yoga-at-the-moa-3/
+- type: x-facebook
+  url: https://www.facebook.com/BYU/
+- type: x-instagram
+  url: https://www.instagram.com/brighamyounguniversity/
+- type: x-news
+  url: http://news.byu.edu/
+- type: x-news
+  url: https://news.byu.edu/
+- type: x-news
+  url: https://news.byu.edu/intellect
+- type: x-news
+  url: https://news.byu.edu/user/todd-hollingshead
+- type: x-news
+  url: https://news.byu.edu/faith
+- type: x-news
+  url: https://news.byu.edu/user/kaylee-esplin
+- type: x-news
+  url: https://news.byu.edu/announcements
+- type: x-support
+  url: https://help.byu.edu/
+- type: x-twitter
+  url: https://twitter.com/BYU
+- type: x-website
+  url: https://byu.edu
+- type: x-youtube
+  url: https://www.youtube.com/user/BYUNews
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,44 @@
+---
+name: Ovolab
+description: Ovolab develops high-quality custom iPhone, iPad, iOS, Android and Mac
+  apps with the highest attention to detail.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ovolab.yaml
+tags:
+- Watch
+- Smartphone
+- OS X
+- Mac OS
+- Mac Apps Development
+- Mac
+- IPhone
+- IPad
+- Ios Apps Development
+- IOS
+- Apple Watch
+- Apple
+- App
+- Android Apps Development
+apis: []
+x-common:
+- type: x-careers
+  url: https://www.ovolab.com/jobs/
+- type: x-contact
+  url: https://www.ovolab.com/contacts/
+- type: x-press
+  url: https://www.ovolab.com/press-release/
+- type: x-terms-of-service
+  url: https://www.ovolab.com/legal/
+- type: x-website
+  url: https://www.ovolab.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

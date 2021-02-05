@@ -1,0 +1,33 @@
+---
+name: Outlook Import Wizard - convert e-mail files of different formats (eml, msg,
+  emlx, mbox) to Microsoft Outlook PST format. Import emails into Outlook.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "873274"
+url: https://raw.githubusercontent.com/api-network/organizations/main/outlook-import-wizard--convert-email-files-of-different-formats-eml-msg-emlx-mbox-to-microsoft-outlook-pst-format--import-emails-into-outlook-.yaml
+tags:
+- Microsoft Outlook
+apis: []
+x-common:
+- type: x-website
+  url: http://www.outlookimport.com
+- type: x-contact
+  url: https://www.outlookimport.com/contacts/
+- type: x-facebook
+  url: https://www.facebook.com/outlookimport/
+- type: x-twitter
+  url: https://twitter.com/outlookimport
+- type: x-website
+  url: https://www.outlookimport.com
+- type: x-youtube
+  url: https://www.youtube.com/user/outlookimport/videos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

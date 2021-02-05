@@ -1,0 +1,57 @@
+---
+name: Datree
+description: <p>Datree scans, catalogs and recommends code components in the context
+  of your stack. Locate and sync your dev stack across your entire team with a single
+  click, and get valuable insights that allow you to choose the right code components
+  for your projects. Gain instant access to your company&rsquo;s entire development
+  stack through GitHub or any other version control repository. We map your code components,
+  development tools and internal know-how within your organization, giving you visibility
+  into your tech stack. Connect directly into your Terminal, IDE, or as a Slack bot
+  (coming soon) ensuring developers never have to leave the dev environment to benefit
+  from our recommendation engine.&nbsp;</p>
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28708-www-datree-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "430654"
+url: https://raw.githubusercontent.com/api-network/organizations/main/datree.yaml
+tags:
+- Have API
+- Code
+apis: []
+x-common:
+- type: x-website
+  url: https://datree.io/
+- type: x-blog
+  url: https://www.datree.io/category/blog
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/datree-io
+- type: x-documentation
+  url: https://docs.datree.io/docs
+- type: x-email
+  url: info@datree.io
+- type: x-facebook
+  url: https://www.facebook.com/datreeio
+- type: x-github
+  url: https://github.com/datreeio
+- type: x-linkedin
+  url: https://www.linkedin.com/company/datreeio/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/datreeio
+- type: x-marketplace
+  url: https://github.com/marketplace/datree
+- type: x-tutorials
+  url: https://www.datree.io/category/tutorials
+- type: x-twitter
+  url: https://twitter.com/datreeio
+- type: x-webinars
+  url: https://www.datree.io/category/webinars
+- type: x-website
+  url: https://www.datree.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

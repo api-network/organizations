@@ -1,0 +1,36 @@
+---
+name: Pulse
+description: Pulse Supply is a leader in the networking and telecommunications industry
+  and the largest distributor of Data Communications and WAN hardware. Call us today!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pulse.yaml
+tags:
+- WAN
+- VOIP
+- Starting
+- Protocol Analyzers
+- Products
+- Page
+- Main
+- LAN
+- Home
+- Hardware
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/Pulse-Supply-453882871343249
+- type: x-twitter
+  url: https://twitter.com/Pulse_Supply
+- type: x-website
+  url: https://www.pulsewan.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

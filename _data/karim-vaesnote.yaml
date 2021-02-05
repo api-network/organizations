@@ -1,0 +1,36 @@
+---
+name: Karim VaesNote
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/karim-vaesnote.yaml
+tags:
+- Weblogs
+apis: []
+x-common:
+- type: x-website
+  url: https://about.kvaes.be
+- type: x-facebook
+  url: https://facebook.com/karim.vaes
+- type: x-github
+  url: https://github.com/kvaes/
+- type: x-linkedin
+  url: https://be.linkedin.com/in/karimvaes
+- type: x-press
+  url: https://kvaes.wordpress.com/
+- type: x-slideshare
+  url: https://www.slideshare.net/kvaes
+- type: x-twitter
+  url: https://twitter.com/kvaes
+- type: x-website
+  url: https://kvaes.be
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

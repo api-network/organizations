@@ -1,0 +1,38 @@
+---
+name: Android Creator
+description: 'Android Creator: Create your real android app for business, entertaiment,...'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/android-creator.yaml
+tags:
+- Real Android App
+- Developer Resources
+- Create Android Application
+- Create Android App
+- Android App Maker
+- Android App Creator
+- Android App Builder
+apis: []
+x-common:
+- type: x-website
+  url: https://www.appcreator24.com
+- type: x-about
+  url: http://www.appcreator24.com/about_us.html
+- type: x-terms-of-service
+  url: http://www.appcreator24.com/terms.html
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-twitter
+  url: https://twitter.com/AppCreator24
+- type: x-website
+  url: https://www.androidcreator.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

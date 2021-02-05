@@ -1,0 +1,44 @@
+---
+name: Clover
+description: We design and build low-cost, beautiful Android-based point-of-sale devices,
+  a suite of point-of-sale applications for restaurants and retailers, SDKs for device
+  integrations, and robust cloud services with REST APIs.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28757-www-clover-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "711"
+x-alexaRank: "12402"
+url: https://raw.githubusercontent.com/api-network/organizations/main/clover.yaml
+tags:
+- Relative Data
+- Profile
+- POS
+- Point Of Sale
+- Have Swagger
+- Have API Paths
+- Have API
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/clover
+- type: x-developers
+  url: https://www.clover.com/developers
+- type: x-documentation
+  url: https://docs.clover.com/
+- type: x-github
+  url: https://github.com/clover
+- type: x-twitter
+  url: https://twitter.com/CloverPOS
+- type: x-webhooks
+  url: https://docs.clover.com/build/webhooks/
+- type: x-website
+  url: https://docs.clover.com
+- type: x-website
+  url: https://www.clover.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

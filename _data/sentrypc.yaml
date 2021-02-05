@@ -1,0 +1,29 @@
+---
+name: SentryPC
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1382698"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sentrypc.yaml
+tags:
+- Parental Control
+- Child Safety
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.sentrypc.com/
+- type: x-facebook
+  url: https://www.facebook.com/SentryPC
+- type: x-twitter
+  url: https://twitter.com/SentryPC
+- type: x-website
+  url: https://www.sentrypc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

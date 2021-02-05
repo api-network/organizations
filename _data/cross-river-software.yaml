@@ -1,0 +1,32 @@
+---
+name: Cross River Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "481652"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cross-river-software.yaml
+tags:
+- Business Applications
+apis: []
+x-common:
+- type: x-website
+  url: http://crossriverbank.com/
+- type: x-facebook
+  url: https://www.facebook.com/crossriversocial/
+- type: x-instagram
+  url: https://www.instagram.com/crossriver_/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/cross-river-bank
+- type: x-twitter
+  url: https://twitter.com/crossriverbank
+- type: x-website
+  url: https://www.crossriver.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

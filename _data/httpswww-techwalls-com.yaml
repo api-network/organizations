@@ -1,0 +1,29 @@
+---
+name: https://www.techwalls.com
+description: TechWalls is the technology blog sharing prominent news in the industry.
+  Our content is updated with breaking news, gadget, smartphone reviews and guides.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28386-www-techwalls-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "6"
+x-alexaRank: "77467"
+url: https://raw.githubusercontent.com/api-network/organizations/main/httpswww-techwalls-com.yaml
+tags:
+- Profile
+apis: []
+x-common:
+- type: x-website
+  url: https://www.techwalls.com/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/techwalls/timeline
+- type: x-twitter
+  url: https://twitter.com/techwalls
+- type: x-website
+  url: https://www.techwalls.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

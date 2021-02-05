@@ -1,0 +1,32 @@
+---
+name: Crete, University of, at Heraklion
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "36394"
+url: https://raw.githubusercontent.com/api-network/organizations/main/crete-university-of-at-heraklion.yaml
+tags:
+- Greece
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/CSDadmin
+- type: x-linkedin
+  url: https://www.linkedin.com/school/uoc-csd/
+- type: x-news
+  url: https://www.csd.uoc.gr/CSD/index.jsp?content=news
+- type: x-twitter
+  url: https://twitter.com/UOC_CSD_Student
+- type: x-twitter
+  url: https://twitter.com/UOC_CSD_News
+- type: x-website
+  url: https://www.csd.uoc.gr
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

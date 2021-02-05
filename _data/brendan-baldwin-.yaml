@@ -1,0 +1,25 @@
+---
+name: "Brendan Baldwin \U0001F344\U0001F9E0\U0001F3B8\U0001F4BB"
+description: Software scribe, ein geisteskranker musiker, entheogenthusiast, tweeter,
+  anti-ism-ist.  ^(;,;)^
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29380-usergenic-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "5"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/brendan-baldwin-.yaml
+tags:
+- Individual
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/usergenic
+- type: x-website
+  url: http://usergenic.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

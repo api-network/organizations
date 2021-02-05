@@ -1,0 +1,31 @@
+---
+name: RenWeb
+description: We have created an unparalleled school information management system
+  where every integrated piece works together to create seamless experience.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5703"
+url: https://raw.githubusercontent.com/api-network/organizations/main/renweb.yaml
+tags:
+- Administration And School Management
+apis: []
+x-common:
+- type: x-login
+  url: https://logins2.renweb.com/Logins/RWU-Login.aspx
+- type: x-privacy
+  url: https://factsmgt.com/privacy-policy/
+- type: x-support
+  url: https://factsmgt.com/support/
+- type: x-terms-of-service
+  url: https://factsmgt.com/terms-of-use/
+- type: x-website
+  url: https://www.renweb.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

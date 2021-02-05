@@ -1,0 +1,30 @@
+---
+name: Kowala
+description: A new day is dawning. kUSD is the world's first autonomously stabilized
+  cryptocurrency. The fastest, most efficient blockchain ever. Made for humans and
+  ready for business.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27737-ur-technology.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1819088"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kowala.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: https://kowala.tech/
+- type: x-email
+  url: kowalasezc@kowala.tech
+- type: x-twitter
+  url: https://twitter.com/KowalaTech
+- type: x-website
+  url: https://ur.technology
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

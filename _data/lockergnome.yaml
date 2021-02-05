@@ -1,0 +1,36 @@
+---
+name: Lockergnome
+description: 'LockerGnome: Sharing Stories about Technology, Science, Geek, and Internet
+  Culture Since 1996 - information and insight you can''t find anywhere else!'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "69019"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lockergnome.yaml
+tags: []
+apis: []
+x-common:
+- type: x-about
+  url: https://lockergnome.com/category/lets-talk-about/
+- type: x-contact
+  url: https://lockergnome.com/contact/
+- type: x-news
+  url: https://lockergnome.com/category/news/
+- type: x-press
+  url: http://wordpress.org/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-privacy
+  url: https://lockergnome.com/privacy/
+- type: x-support
+  url: https://lockergnome.com/category/general-helpfulness/
+- type: x-website
+  url: https://www.lockergnome.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

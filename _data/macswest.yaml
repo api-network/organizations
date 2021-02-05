@@ -1,0 +1,40 @@
+---
+name: MacsWest
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/macswest.yaml
+tags:
+- Arizona
+apis: []
+x-common:
+- type: x-website
+  url: https://www.instagram.com/panzer/
+- type: x-facebook
+  url: https://www.facebook.com/Macworld/
+- type: x-news
+  url: https://www.computerswest.org/newsletter.pdf
+- type: x-news
+  url: https://apnews.com/98a66a02aa984fc5aa0995005c72b86e
+- type: x-signup
+  url: https://computerswest.org/site2018/trsignup.php
+- type: x-support
+  url: https://support.apple.com/en-us/HT204152
+- type: x-twitter
+  url: https://twitter.com/panzer
+- type: x-twitter
+  url: https://twitter.com/macworld
+- type: x-website
+  url: https://www.macswest.org
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=wOtTfwHFvYE
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,46 @@
+---
+name: Citius Software Corporation
+description: KBMax 3D CPQ solutions is the next generation to configure, visualize,
+  price, quote with interactive 3D visualization and engineering automation. Learn
+  more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "771019"
+url: https://raw.githubusercontent.com/api-network/organizations/main/citius-software-corporation.yaml
+tags:
+- Automation
+apis: []
+x-common:
+- type: x-website
+  url: http://www.kbmax.com
+- type: x-about
+  url: https://kbmax.com/about-kbmax
+- type: x-blog
+  url: https://kbmax.com/blog
+- type: x-careers
+  url: https://kbmax.com/careers
+- type: x-contact
+  url: https://kbmax.com/contact-us
+- type: x-facebook
+  url: https://www.facebook.com/kbmax3dcpq
+- type: x-linkedin
+  url: https://www.linkedin.com/company/kbmax
+- type: x-partner
+  url: https://kbmax.com/partners
+- type: x-press
+  url: https://kbmax.com/cpq-press
+- type: x-pricing
+  url: https://kbmax.com/pricing
+- type: x-twitter
+  url: https://twitter.com/KBMax3DCPQ
+- type: x-website
+  url: https://www.kbmax.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

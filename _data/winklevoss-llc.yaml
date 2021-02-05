@@ -1,0 +1,45 @@
+---
+name: Winklevoss, LLC
+description: Software for Pensions, Foundations, & Endowments. Used by hundreds of
+  professional firms wordwide
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2534130"
+url: https://raw.githubusercontent.com/api-network/organizations/main/winklevoss-llc.yaml
+tags:
+- Compensation And Benefits
+apis: []
+x-common:
+- type: x-about
+  url: https://www.winklevoss.com/company/about-us/
+- type: x-careers
+  url: https://www.winklevoss.com/company/careers/
+- type: x-contact
+  url: https://www.winklevoss.com/company/contact-us/
+- type: x-events
+  url: https://www.winklevoss.com/events/
+- type: x-events
+  url: http://www.winklevoss.com/events/
+- type: x-login
+  url: https://www.winklevoss.com/login
+- type: x-privacy
+  url: https://www.winklevoss.com/privacynotice
+- type: x-support
+  url: https://www.winklevoss.com/support/technical-support/
+- type: x-support
+  url: https://www.winklevoss.com/support/send-files/
+- type: x-support
+  url: https://www.winklevoss.com/support/back-office/
+- type: x-terms-of-service
+  url: https://www.winklevoss.com/terms/
+- type: x-website
+  url: https://www.winklevoss.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

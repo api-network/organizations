@@ -1,0 +1,33 @@
+---
+name: Benefit Express
+description: benefitexpress offers cloud-based benefits administration technology
+  and human resources services with dedicated client support for companies of any
+  size. Learn how we partner with employers, brokers and carriers to streamline the
+  benefits experience. Schedule a customized demo today!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1128348"
+url: https://raw.githubusercontent.com/api-network/organizations/main/benefit-express.yaml
+tags:
+- Compensation And Benefits
+apis: []
+x-common:
+- type: x-press
+  url: https://benefitexpress.applicantpro.com/jobs/
+- type: x-press
+  url: https://www.linkedin.com/company/benefitexpress
+- type: x-press
+  url: https://www.facebook.com/BenefitExpress
+- type: x-press
+  url: https://www.instagram.com/benefitexpress
+- type: x-website
+  url: https://www.benefitexpress.info
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

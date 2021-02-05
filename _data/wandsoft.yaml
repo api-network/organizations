@@ -1,0 +1,61 @@
+---
+name: Wandsoft
+description: Established in 2001, Wandsoft is an integrated system aimed at simplifying
+  business tasks,  so you can spend your time managing your organisation looking efficiently
+  after your clients
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wandsoft.yaml
+tags:
+- Web
+- Text Messages
+- Sales Order Processing
+- SaaS
+- Ireland
+- Holland
+- France
+- Ecommerce Shopping Cart
+- Customer Relation Management
+- CRM
+- Content Management
+- CMS
+- Claude Saulnier
+- Benelux
+- Belgium
+- Asp
+apis: []
+x-common:
+- type: x-about
+  url: https://www.wandsoft.com/about/
+- type: x-blog
+  url: https://www.wandsoft.com/blog/
+- type: x-contact
+  url: https://www.wandsoft.com/contact/
+- type: x-gdpr
+  url: https://www.gdpr-wisdom.eu/
+- type: x-gdpr
+  url: https://www.wandsoft.com/gdpr_workshops/
+- type: x-news
+  url: https://www.wandsoft.com/news/
+- type: x-partner
+  url: https://www.wandsoft.com/partner_with_wandsoft/
+- type: x-pricing
+  url: https://www.wandsoft.com/pricing/
+- type: x-support
+  url: https://www.wandsoft.com/help_me_choose/
+- type: x-terms-of-service
+  url: https://www.wandsoft.com/legal/
+- type: x-twitter
+  url: http://www.twitter.com/wandsoft
+- type: x-website
+  url: https://www.wandsoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

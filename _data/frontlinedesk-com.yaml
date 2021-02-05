@@ -1,0 +1,23 @@
+---
+name: frontlinedesk.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/frontlinedesk-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://frontlinedesk.com/2016/05/28/google-beats-oracle-in-java-copyright-case.html
+- type: x-website
+  url: http://frontlinedesk.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

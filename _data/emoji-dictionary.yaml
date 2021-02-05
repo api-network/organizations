@@ -1,0 +1,48 @@
+---
+name: Emoji Dictionary
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/emoji-dictionary.yaml
+tags:
+- Emojis
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.russwurm.at/blog
+- type: x-code
+  url: https://www.russwurm.at/seocode/
+- type: x-code
+  url: https://www.russwurm.at/seocode
+- type: x-code
+  url: https://www.russwurm.at/qrcode
+- type: x-developer
+  url: http://developer.emoji-dictionary.com
+- type: x-facebook
+  url: https://www.facebook.com/roland.russwurm
+- type: x-instagram
+  url: https://www.instagram.com/_.russi
+- type: x-linkedin
+  url: https://www.linkedin.com/in/russwurm
+- type: x-login
+  url: https://www.russwurm.at/login/?language=en&goto=/
+- type: x-privacy
+  url: https://www.russwurm.at/privacy
+- type: x-terms-of-service
+  url: https://www.russwurm.at/legalinfo
+- type: x-terms-of-service
+  url: https://www.russwurm.at/termsofuse
+- type: x-twitter
+  url: https://twitter.com/rlndrsswm
+- type: x-website
+  url: https://www.emoji-dictionary.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,60 @@
+---
+name: BibSonomy
+description: The blue social bookmark and publication sharing system.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "17754"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bibsonomy.yaml
+tags:
+- Publication Management
+- Knowledge Management
+- Folksonomy
+- Collaborative Tagging
+- Bookmarks
+- Bookmark Managers
+- BibTeX
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.bibsonomy.org/2019/12/release-392.html
+- type: x-blog
+  url: https://blog.bibsonomy.org/2019/07/release-390.html
+- type: x-blog
+  url: http://blog.bibsonomy.org
+- type: x-blog
+  url: http://blog.bibsonomy.org/
+- type: x-contact
+  url: https://www.kde.cs.uni-kassel.de/contact.html
+- type: x-contact
+  url: http://www.kde.cs.uni-kassel.de/contact.html
+- type: x-developer
+  url: http://dev.bibsonomy.org
+- type: x-developer
+  url: http://dev.bibsonomy.org/maven2/
+- type: x-github
+  url: https://github.com/rjoberon/bibsonomy-ruby
+- type: x-press
+  url: https://wordpress.org/plugins/bibsonomy-csl/
+- type: x-support
+  url: http://www.bibsonomy.org/help_en/Team
+- type: x-support
+  url: http://www.bibsonomy.org/help_en/Privacy
+- type: x-support
+  url: http://www.bibsonomy.org/help_en/Contact
+- type: x-support
+  url: http://www.bibsonomy.org/help_en/Main
+- type: x-twitter
+  url: https://twitter.com/BibSonomyCrew
+- type: x-twitter
+  url: https://twitter.com/search?q=%23bibsonomy
+- type: x-website
+  url: https://www.bibsonomy.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

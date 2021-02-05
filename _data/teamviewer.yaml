@@ -1,0 +1,65 @@
+---
+name: TeamViewer
+description: Connect to remote computers, provide remote support, and collaborate
+  online with TeamViewer, the world leader in remote desktop access and support.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1943_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "787"
+url: https://raw.githubusercontent.com/api-network/organizations/main/teamviewer.yaml
+tags:
+- Teams
+- Remote Access
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.teamviewer.com
+- type: x-careers
+  url: https://jobs.teamviewer.com/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/teamviewer
+- type: x-facebook
+  url: https://www.facebook.com/teamviewer/
+- type: x-gdpr
+  url: https://www.teamviewer.com/en/gdpr/
+- type: x-instagram
+  url: https://www.instagram.com/teamviewer_official/
+- type: x-integrations
+  url: https://www.teamviewer.com/en/integrations/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/teamviewer/
+- type: x-login
+  url: https://login.teamviewer.com/LogOn
+- type: x-login
+  url: https://login.teamviewer.com/
+- type: x-partner
+  url: https://channelpartner.teamviewer.com/directory/
+- type: x-partner
+  url: https://channelpartner.teamviewer.com/
+- type: x-press
+  url: https://www.teamviewer.com/en/company/press/
+- type: x-privacy
+  url: https://www.teamviewer.com/en/privacy-policy/
+- type: x-status
+  url: https://status.teamviewer.com/
+- type: x-support
+  url: https://www.teamviewer.com/en/support/#submitTicket
+- type: x-support
+  url: https://www.teamviewer.com/en/support/
+- type: x-twitter
+  url: https://twitter.com/TeamViewer
+- type: x-website
+  url: https://www.teamviewer.com
+- type: x-website
+  url: http://www.teamviewer.com/en/index.aspx
+- type: x-youtube
+  url: https://www.youtube.com/user/TeamViewer
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

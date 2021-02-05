@@ -1,0 +1,49 @@
+---
+name: Palo Alto Networks
+description: Palo Alto Networks enables your team to prevent successful cyberattacks
+  with an automated approach that delivers consistent security across cloud, network
+  and mobile.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "14940"
+url: https://raw.githubusercontent.com/api-network/organizations/main/palo-alto-networks.yaml
+tags:
+- Cloud Security
+- Application Layer Gateways
+apis: []
+x-common:
+- type: x-website
+  url: http://www.paloaltonetworks.com
+- type: x-careers
+  url: https://jobs.paloaltonetworks.com/
+- type: x-documentation
+  url: https://docs.paloaltonetworks.com/search
+- type: x-documentation
+  url: https://docs.paloaltonetworks.com/
+- type: x-events
+  url: https://events.paloaltonetworks.com
+- type: x-facebook
+  url: https://www.facebook.com/PaloAltoNetworks/
+- type: x-investor
+  url: https://investors.paloaltonetworks.com/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/palo-alto-networks
+- type: x-security
+  url: https://www.paloaltonetworks.com/security-disclosure
+- type: x-support
+  url: https://support.paloaltonetworks.com/support
+- type: x-twitter
+  url: https://twitter.com/PaloAltoNtwks
+- type: x-website
+  url: https://www.paloaltonetworks.com
+- type: x-youtube
+  url: https://www.youtube.com/user/paloaltonetworks
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

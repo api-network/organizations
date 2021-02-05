@@ -1,0 +1,37 @@
+---
+name: Elevate DDS
+description: "Dental websites, internet marketing and dental website design by Elevate
+  DDS. Bring in new patients using a trusted business partner. \u260E 888-300-8994"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/elevate-dds.yaml
+tags:
+- Health And Medical
+apis: []
+x-common:
+- type: x-about
+  url: https://www.elevatedds.com/about-us/
+- type: x-blog
+  url: https://www.elevatedds.com/our-blog/
+- type: x-contact
+  url: https://www.elevatedds.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/elevatedds
+- type: x-support
+  url: https://www.elevatedds.com/support/
+- type: x-twitter
+  url: https://twitter.com/elevatedds
+- type: x-website
+  url: https://www.elevatedds.com
+- type: x-youtube
+  url: https://www.youtube.com/user/eledental/featured
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

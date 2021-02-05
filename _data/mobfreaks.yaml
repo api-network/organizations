@@ -1,0 +1,46 @@
+---
+name: Mobfreaks
+description: Free downloads for your mobile phone. Hundreds of high quality free wallpapers
+  and ringtones for all mobile phones
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mobfreaks.yaml
+tags:
+- Wallpapers
+- Sony Ericsson
+- Siemens
+- Samsung
+- Ring Tones
+- Realtone
+- Polyphonic Ringtone
+- Phone Backgrounds
+- Nokia Wallpapers
+- Nokia
+- Mp3 Ringtone
+- Mobile Backgrounds
+- Logos
+- Lg
+- Free Ringtones
+- Free Mobile Wallpapers
+- Free Cell Phone Wallpapers
+- Free Backgrounds
+- Free
+- Downloads
+- Colour Background
+- Cellular Add-ons
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.mobfreaks.com/blog/
+- type: x-website
+  url: https://www.mobfreaks.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

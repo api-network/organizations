@@ -1,0 +1,36 @@
+---
+name: Bullseye Engagement
+description: Bullseye Engagement offers web based performance management, talent management,
+  compensation management and succession planning software solutions that enable organizations
+  to track employee performance and boost productivity.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3198700"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bullseye-engagement.yaml
+tags:
+- Testing And Evaluation
+- Talent Development Software
+- Performance Management Software
+apis: []
+x-common:
+- type: x-website
+  url: http://www.bullseyeengagement.com
+- type: x-facebook
+  url: https://www.facebook.com/bullseyeengagement
+- type: x-linkedin
+  url: https://www.linkedin.com/company/627936/
+- type: x-twitter
+  url: https://twitter.com/bullseyepm
+- type: x-website
+  url: https://www.bullseyeengagement.com
+- type: x-youtube
+  url: https://www.youtube.com/user/BULLSEYEPERFORMANCE
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,53 @@
+---
+name: IZArc
+description: Compress, extract, convert, and repair ZIP, 7-ZIP, RAR, CAB, IMG, ISO,
+  JAR, NRG, TAR and many other archive formats for free.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "613348"
+url: https://raw.githubusercontent.com/api-network/organizations/main/izarc.yaml
+tags:
+- Zip Utility
+- Zip Repair
+- Zip Opener
+- Zip It
+- Zip Files
+- Zip File
+- Split Zip File
+- Rar File
+- Portable Zip
+- Open Zip Files
+- Open Rar Files
+- Merge Zip Files
+- How To Zip
+- How To Unzip
+- Free Zip Portable
+- Free Zip
+- Free Unzip
+- Free Unrar
+- Extract Rar
+- Extract Nrg
+- Extract Iso
+- Encrypt
+- Data Compression
+- Convert Archive
+- Compress
+- Command Line Zip Utility
+- 7z File
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-twitter
+  url: https://twitter.com/IZArcApp
+- type: x-website
+  url: https://www.izarc.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

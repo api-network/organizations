@@ -1,0 +1,53 @@
+---
+name: BigBlueButton
+description: BigBlueButton is an open source web conferencing system for online learning.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28989-docs-bigbluebutton-org.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "114657"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bigbluebutton.yaml
+tags:
+- Web Conferencing
+- Has API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.bigbluebutton.org
+- type: x-facebook
+  url: https://www.facebook.com/bigbluebutton
+- type: x-github
+  url: https://github.com/bigbluebutton/bigbluebutton
+- type: x-github
+  url: https://github.com/bigbluebutton/greenlight
+- type: x-github
+  url: https://github.com/bigbluebutton/bbb-install
+- type: x-open-source
+  url: https://bigbluebutton.org/open-source-license/
+- type: x-open-source
+  url: http://bigbluebutton.org/open-source-license/
+- type: x-support
+  url: https://bigbluebutton.org/support/
+- type: x-support
+  url: https://bigbluebutton.org/support/community/
+- type: x-support
+  url: https://bigbluebutton.org/commercial-support/
+- type: x-twitter
+  url: https://twitter.com/bigbluebutton
+- type: x-webhooks
+  url: http://docs.bigbluebutton.org/dev/webhooks.html
+- type: x-website
+  url: http://docs.bigbluebutton.org
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=uYYnryIM0Uw
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=Q2tG2SS4gXA
+- type: x-youtube
+  url: https://www.youtube.com/user/bigbluebuttonshare
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

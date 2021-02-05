@@ -1,0 +1,29 @@
+---
+name: Intecca
+description: Intecca is a group of professionals who find, analyze, compare and recommend
+  the best deals on technology products. We stick with Technology!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/intecca.yaml
+tags:
+- Tools
+apis: []
+x-common:
+- type: x-about
+  url: https://www.intecca.com/about/
+- type: x-contact
+  url: https://www.intecca.com/contact/
+- type: x-privacy
+  url: https://www.intecca.com/privacy-policy/
+- type: x-website
+  url: https://www.intecca.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

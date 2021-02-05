@@ -1,0 +1,24 @@
+---
+name: Logitech Support
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4050"
+url: https://raw.githubusercontent.com/api-network/organizations/main/logitech-support.yaml
+tags:
+- Companies
+apis: []
+x-common:
+- type: x-support
+  url: https://support.logi.com/hc/en-001
+- type: x-website
+  url: https://support.logitech.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

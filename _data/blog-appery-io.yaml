@@ -1,0 +1,23 @@
+---
+name: blog.appery.io
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blog-appery-io.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: https://blog.appery.io/2015/10/quickly-visualize-enterprise-data-with-the-new-chart-plugin/
+- type: x-website
+  url: http://blog.appery.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

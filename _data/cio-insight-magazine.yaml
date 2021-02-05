@@ -1,0 +1,35 @@
+---
+name: CIO Insight Magazine
+description: Original research, best practices, the latest news and trends, statistics
+  and useful information and analysis for technology executives.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "609627"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cio-insight-magazine.yaml
+tags:
+- Opinions On Storage
+- Magazines
+- Enterprise Technology News
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cioinsight.com
+- type: x-about
+  url: https://www.quinstreetb2btech.com/about_us/
+- type: x-about
+  url: https://www.quinstreetb2btech.com/about-us/
+- type: x-facebook
+  url: https://www.facebook.com/pages/CIO-Insight/47271953366
+- type: x-twitter
+  url: https://twitter.com/#!/cioinsight
+- type: x-website
+  url: https://www.cioinsight.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

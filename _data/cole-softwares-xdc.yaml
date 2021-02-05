@@ -1,0 +1,41 @@
+---
+name: Cole Software's XDC
+description: z/XDC is a powerful tool for developing and debugging programs written
+  in Assembler, C, C++ and Metal C in the z/OS ecosystem.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cole-softwares-xdc.yaml
+tags:
+- "370"
+apis: []
+x-common:
+- type: x-code
+  url: https://colesoft.com/activation-code/
+- type: x-contact
+  url: https://colesoft.com/contact-us/
+- type: x-documentation
+  url: https://colesoft.com/zxdc-documentation/
+- type: x-facebook
+  url: https://www.facebook.com/colesoftware
+- type: x-news
+  url: https://colesoft.com/news/
+- type: x-support
+  url: https://colesoft.com/product-support/
+- type: x-support
+  url: https://colesoft.com/statement-of-support/
+- type: x-terms-of-service
+  url: http://www.colesoft.com/legal/
+- type: x-website
+  url: https://www.colesoft.com
+- type: x-youtube
+  url: https://www.youtube.com/user/ColeSoftware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

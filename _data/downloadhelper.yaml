@@ -1,0 +1,43 @@
+---
+name: DownloadHelper
+description: 'DownloadHelper: the easy way to Web videos. Download tons of videos
+  from most of YouTube like sites.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "12244"
+url: https://raw.githubusercontent.com/api-network/organizations/main/downloadhelper.yaml
+tags:
+- Streaming Video Recording Software
+- Streaming Video Recorders
+- Streaming Video Encoders
+- Streaming Video
+- Mobile Streaming Video
+- Educational Streaming Video
+- Downloads
+apis: []
+x-common:
+- type: x-support
+  url: https://www.downloadhelper.net/
+- type: x-support
+  url: https://www.downloadhelper.net/install
+- type: x-support
+  url: https://www.downloadhelper.net/asites
+- type: x-support
+  url: https://www.downloadhelper.net/faq
+- type: x-support
+  url: https://www.downloadhelper.net/donate
+- type: x-support
+  url: https://www.downloadhelper.net/convert
+- type: x-support
+  url: https://plus.google.com/+downloadhelper/posts
+- type: x-website
+  url: https://www.downloadhelper.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

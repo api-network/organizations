@@ -1,0 +1,22 @@
+---
+name: ArsDigita University
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1184308"
+url: https://raw.githubusercontent.com/api-network/organizations/main/arsdigita-university.yaml
+tags:
+- Courses
+apis: []
+x-common:
+- type: x-website
+  url: https://aduni.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

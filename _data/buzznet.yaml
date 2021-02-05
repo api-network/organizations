@@ -1,0 +1,37 @@
+---
+name: Buzznet
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "20502"
+url: https://raw.githubusercontent.com/api-network/organizations/main/buzznet.yaml
+tags:
+- Social Networking
+- Online Communities
+apis: []
+x-common:
+- type: x-website
+  url: http://www.buzznet.com
+- type: x-contact
+  url: https://www.buzznet.com/contact-us/
+- type: x-facebook
+  url: http://www.facebook.com/Buzznet
+- type: x-instagram
+  url: http://www.instagram.com/buzznet
+- type: x-privacy
+  url: https://www.buzznet.com/privacy/
+- type: x-terms-of-service
+  url: https://www.buzznet.com/terms/
+- type: x-twitter
+  url: http://www.twitter.com/BUZZNET
+- type: x-website
+  url: https://www.buzznet.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

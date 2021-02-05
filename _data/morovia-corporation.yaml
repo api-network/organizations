@@ -1,0 +1,60 @@
+---
+name: Morovia Corporation
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "318240"
+url: https://raw.githubusercontent.com/api-network/organizations/main/morovia-corporation.yaml
+tags:
+- Barcode
+apis: []
+x-common:
+- type: x-about
+  url: http://www.morovia.com/company/about.html
+- type: x-code
+  url: http://www.morovia.com/fonts/code128/
+- type: x-code
+  url: http://www.morovia.com/fonts/code39/
+- type: x-code
+  url: http://www.morovia.com/fonts/code39-extended/
+- type: x-code
+  url: http://www.morovia.com/fonts/code93/
+- type: x-code
+  url: http://www.morovia.com/fonts/qrcode/
+- type: x-code
+  url: http://www.morovia.com/fonts/pcl-barcodes-more/
+- type: x-code
+  url: http://www.morovia.com/fonts/code39-pcl-scalable/
+- type: x-code
+  url: http://www.morovia.com/component/barcode-activex/
+- type: x-code
+  url: http://www.morovia.com/component/barcode-lite/
+- type: x-code
+  url: http://www.morovia.com/component/barcode-dll/
+- type: x-code
+  url: http://www.morovia.com/label/barcode-creator/
+- type: x-code
+  url: http://www.morovia.com/free-online-barcode-generator/
+- type: x-forum
+  url: http://www.morovia.com/forums/
+- type: x-privacy
+  url: http://www.morovia.com/help/privacy.html
+- type: x-security
+  url: http://www.morovia.com/fonts/security/
+- type: x-support
+  url: http://www.morovia.com/support
+- type: x-support
+  url: http://www.morovia.com/help/order.html
+- type: x-support
+  url: http://www.morovia.com/help/term-of-use.html
+- type: x-website
+  url: https://morovia.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

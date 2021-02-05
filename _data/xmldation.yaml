@@ -1,0 +1,58 @@
+---
+name: XMLdation
+description: XMLdation is a global service provider of XML management, end-to-end
+  testing and simulation services for payment-related XML messages.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28697-www-xmldation-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1537412"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xmldation.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://xmldation.com
+- type: x-careers
+  url: https://www.xmldation.com/en/company/careers/
+- type: x-contact
+  url: https://www.xmldation.com/en/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/xmldation
+- type: x-email
+  url: antero.maenpaa@xmldation.com
+- type: x-email
+  url: antti.punkari@xmldation.com
+- type: x-email
+  url: david.garry@xmldation.com
+- type: x-email
+  url: didier.robert@xmldation.com
+- type: x-email
+  url: jaakko.kantonen@xmldation.com
+- type: x-email
+  url: jani.sundstrom@xmldation.com
+- type: x-email
+  url: jarkko.leppalahti@xmldation.com
+- type: x-email
+  url: jonna.ikonen@xmldation.com
+- type: x-email
+  url: juha.hakomaki@xmldation.com
+- type: x-email
+  url: juha.keski-nisula@xmldation.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/xmldation-ltd
+- type: x-twitter
+  url: https://twitter.com/XMLdation
+- type: x-website
+  url: https://www.xmldation.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=zTaaaaBRc0I
+- type: x-youtube
+  url: https://youtube.com/xmldation
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

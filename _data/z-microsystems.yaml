@@ -1,0 +1,66 @@
+---
+name: Z Microsystems
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6395428"
+url: https://raw.githubusercontent.com/api-network/organizations/main/z-microsystems.yaml
+tags:
+- Rugged Hardware
+apis: []
+x-common:
+- type: x-website
+  url: http://www.zmicro.com/
+- type: x-about
+  url: https://zmicro.com/about/
+- type: x-about
+  url: https://zmicro.com/about/history/
+- type: x-about
+  url: https://zmicro.com/about/the-zmicro-advantage/
+- type: x-about
+  url: https://zmicro.com/about/management-team/
+- type: x-about
+  url: https://zmicro.com/about/engineering-excellence/
+- type: x-about
+  url: https://zmicro.com/about/manufacturing-process/
+- type: x-about
+  url: https://zmicro.com/about/quality-standards/
+- type: x-about
+  url: http://zmicro.com/about/quality-standards/
+- type: x-contact
+  url: https://zmicro.com/contact/
+- type: x-contact
+  url: https://zmicro.com/contact/contact-us/
+- type: x-contact
+  url: https://zmicro.com/contact/rma-request/
+- type: x-contact
+  url: https://zmicro.com/contact/careers/
+- type: x-contact
+  url: http://zmicro.com/contact/contact-us/
+- type: x-contact
+  url: http://zmicro.com/contact/
+- type: x-events
+  url: https://www.ndia.org/events/2020/3/9/post-2020
+- type: x-facebook
+  url: https://www.facebook.com/zmicrosystems/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/z-microsystems
+- type: x-news
+  url: https://zmicro.com/about/news-events/
+- type: x-privacy
+  url: http://zmicro.com/privacy-policy/
+- type: x-twitter
+  url: http://www.twitter.com/zmicrosystems
+- type: x-website
+  url: https://www.zmicro.com
+- type: x-youtube
+  url: https://www.youtube.com/user/ZMicrosystems
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

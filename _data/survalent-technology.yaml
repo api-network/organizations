@@ -1,0 +1,72 @@
+---
+name: Survalent Technology
+description: Over 600 utilities in 30 countries rely on the SurvalentONE platform
+  and StationCentral to effectively operate, monitor, analyze, restore and optimize
+  operations. By supporting critical utility operations with a fully integrated solution,
+  our customers have significantly improved operational efficiencies, customer satisfaction,
+  and network reliability.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1743841"
+url: https://raw.githubusercontent.com/api-network/organizations/main/survalent-technology.yaml
+tags:
+- Automation
+apis: []
+x-common:
+- type: x-website
+  url: http://www.survalent.com
+- type: x-blog
+  url: https://www.survalent.com/blog/
+- type: x-blog
+  url: https://www.survalent.com/sv-article-blog-page-test/
+- type: x-careers
+  url: https://www.survalent.com/careers/
+- type: x-case-studies
+  url: https://www.survalent.com/case-studies/
+- type: x-contact
+  url: https://www.survalent.com/contact-us/
+- type: x-events
+  url: https://www.survalent.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/survalent/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/1207411/
+- type: x-partner
+  url: https://www.survalent.com/partner-program-benefits/
+- type: x-partner
+  url: https://www.survalent.com/partners/
+- type: x-partner
+  url: https://www.survalent.com/partner-program-tracks/
+- type: x-partner
+  url: https://mysurvalent.force.com/partners/s/
+- type: x-platform
+  url: https://www.survalent.com/adms-platform-overview/
+- type: x-press
+  url: https://www.survalent.com/press-releases-news/
+- type: x-press
+  url: https://wordpress.org/plugins/gdpr-cookie-compliance
+- type: x-privacy
+  url: https://www.survalent.com/privacy-policy/
+- type: x-support
+  url: https://www.survalent.com/support/
+- type: x-support
+  url: https://www.survalent.com/support-maintenance-plan/
+- type: x-support
+  url: https://mysurvalent.force.com/support/
+- type: x-twitter
+  url: https://twitter.com/survalent
+- type: x-webinars
+  url: https://www.survalent.com/webinars/
+- type: x-website
+  url: https://survalent.com
+- type: x-youtube
+  url: https://www.youtube.com/user/SurvalentTechnology
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

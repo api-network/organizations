@@ -1,0 +1,57 @@
+---
+name: University of Auckland
+description: We pride ourselves on our strong teaching abilities and diverse research
+  interests. We are committed to producing first-class graduates at all levels.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "14090"
+url: https://raw.githubusercontent.com/api-network/organizations/main/university-of-auckland.yaml
+tags:
+- New Zealand
+apis: []
+x-common:
+- type: x-about
+  url: https://www.auckland.ac.nz/en/about-us.html
+- type: x-about
+  url: https://www.auckland.ac.nz/en/about/perspectives.html
+- type: x-about
+  url: https://www.sciencestaff.auckland.ac.nz/en/about.html
+- type: x-about
+  url: https://www.auckland.ac.nz/en/about/research.html
+- type: x-contact
+  url: https://www.auckland.ac.nz/en/news/media-contacts.html
+- type: x-contact
+  url: https://www.auckland.ac.nz/en/giving/contact-us.html
+- type: x-facebook
+  url: https://www.facebook.com/science.uoa/
+- type: x-facebook
+  url: http://www.facebook.com/UniofAkl
+- type: x-instagram
+  url: http://instagram.com/universityofauckland
+- type: x-news
+  url: https://www.auckland.ac.nz/en/news.html
+- type: x-news
+  url: https://www.auckland.ac.nz/en/news/notices.html
+- type: x-news
+  url: http://www.science.auckland.ac.nz/en/about/news.html
+- type: x-privacy
+  url: https://www.auckland.ac.nz/en/privacy.html
+- type: x-support
+  url: https://uoa.custhelp.com/
+- type: x-twitter
+  url: https://twitter.com/ScienceUoA?lang=en
+- type: x-twitter
+  url: http://twitter.com/AucklandUni
+- type: x-website
+  url: https://www.cs.auckland.ac.nz
+- type: x-youtube
+  url: http://www.youtube.com/user/UNIofAUCKLAND
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

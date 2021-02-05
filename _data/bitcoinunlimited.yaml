@@ -1,0 +1,26 @@
+---
+name: BitcoinUnlimited
+description: The Peer-to-Peer Electronic Cash System for Planet Earth.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27641-www-bitcoinunlimited-info.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "320158"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bitcoinunlimited.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/bitcoin-unlimited
+- type: x-twitter
+  url: https://twitter.com/BitcoinUnlimit
+- type: x-website
+  url: https://www.bitcoinunlimited.info
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

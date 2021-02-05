@@ -1,0 +1,37 @@
+---
+name: Type A Design
+description: Graphic design shop in DFW Dallas/Fort Worth specializing in logos, websites,
+  photo retouching, color correction & more design services for print & web.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/type-a-design.yaml
+tags:
+- Individual Designers
+apis: []
+x-common:
+- type: x-website
+  url: http://typeadesign.com
+- type: x-contact
+  url: https://typeadesign.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/typeadesign/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/type-a-design/
+- type: x-logos
+  url: https://typeadesign.com/project/lizard-lounge-logos/
+- type: x-logos
+  url: https://typeadesign.com/project/ndcdc-logos/
+- type: x-twitter
+  url: https://twitter.com/typeadesign
+- type: x-website
+  url: https://www.typeadesign.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

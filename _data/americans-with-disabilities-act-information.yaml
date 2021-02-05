@@ -1,0 +1,28 @@
+---
+name: Americans With Disabilities Act Information
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "109202"
+url: https://raw.githubusercontent.com/api-network/organizations/main/americans-with-disabilities-act-information.yaml
+tags:
+- Accessibility
+apis: []
+x-common:
+- type: x-about
+  url: https://www.justice.gov/crt/about/drs/
+- type: x-privacy
+  url: https://www.justice.gov/doj/privacy-policy
+- type: x-terms-of-service
+  url: https://www.justice.gov/legalpolicies
+- type: x-website
+  url: https://www.ada.gov
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

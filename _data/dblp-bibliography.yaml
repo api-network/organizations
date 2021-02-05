@@ -1,0 +1,67 @@
+---
+name: DBLP Bibliography
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "50582"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dblp-bibliography.yaml
+tags:
+- Publications
+- Database Theory
+apis: []
+x-common:
+- type: x-about
+  url: https://dblp.uni-trier.de/db/about/
+- type: x-about
+  url: https://dblp.uni-trier.de/db/about/team.html
+- type: x-about
+  url: https://dblp.uni-trier.de/db/about/copyright.html
+- type: x-about
+  url: https://dblp.uni-trier.de/db/about/imprint.html
+- type: x-blog
+  url: https://blog.dblp.org
+- type: x-facebook
+  url: https://facebook.com/dblp.org
+- type: x-feed
+  url: https://blog.dblp.org/feed/
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/4948668/profile
+- type: x-news
+  url: https://dblp.uni-trier.de/news/conf-update
+- type: x-news
+  url: https://dblp.uni-trier.de/news/conf-update.rss
+- type: x-news
+  url: https://dblp.uni-trier.de/news/jour-update
+- type: x-news
+  url: https://dblp.uni-trier.de/news/jour-update.rss
+- type: x-news
+  url: https://dblp.uni-trier.de/news/
+- type: x-open-source
+  url: https://opencitations.net
+- type: x-open-source
+  url: https://opencitations.net/about
+- type: x-open-source
+  url: https://opendefinition.org/
+- type: x-privacy
+  url: https://dblp.uni-trier.de/db/about/privacy.html
+- type: x-privacy
+  url: https://www.crossref.org/privacy/
+- type: x-terms-of-service
+  url: http://unpaywall.org/legal/privacy
+- type: x-terms-of-service
+  url: https://archive.org/about/terms.php
+- type: x-twitter
+  url: https://twitter.com/dblp_org
+- type: x-twitter
+  url: https://twitter.com
+- type: x-website
+  url: https://dblp.uni-trier.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

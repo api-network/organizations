@@ -1,0 +1,31 @@
+---
+name: Free Programming Resources
+description: Aplikasi, Direktori programer & Tutorial Webmaster, Artikel, Forum, Faqs,
+  Kompiler, Juru Bahasa, Buku gratis, dan lainnya
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3840766"
+url: https://raw.githubusercontent.com/api-network/organizations/main/free-programming-resources.yaml
+tags:
+- Directories
+apis: []
+x-common:
+- type: x-facebook
+  url: https://facebook.com/
+- type: x-instagram
+  url: https://instagram.com/
+- type: x-twitter
+  url: https://twitter.com/
+- type: x-website
+  url: https://www.freeprogrammingresources.com
+- type: x-youtube
+  url: https://youtube.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

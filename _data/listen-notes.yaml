@@ -1,0 +1,32 @@
+---
+name: Listen Notes
+description: The podcast search engine that actually works. Discover best podcasts.Search
+  show notes and audio transcripts of 534,903 podcasts and 33,490,2...
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28948-www-listennotes-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "99745"
+url: https://raw.githubusercontent.com/api-network/organizations/main/listen-notes.yaml
+tags:
+- Podcasts
+- Have API Paths
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-developers
+  url: https://www.listennotes.com/developers/
+- type: x-twitter
+  url: https://twitter.com/ListenNotes
+- type: x-website
+  url: https://www.listennotes.com
+- type: x-website
+  url: http://www.listennotes.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

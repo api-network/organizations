@@ -1,0 +1,40 @@
+---
+name: ScottTech Integrated Solutions
+description: ScottTech Integrated Solutions is a leader in system integrations and
+  automation. We offer multiple storage options including vertical storage systems
+  and carousel storage systems for your warehouses.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6436600"
+url: https://raw.githubusercontent.com/api-network/organizations/main/scotttech-integrated-solutions.yaml
+tags:
+- Automation
+apis: []
+x-common:
+- type: x-website
+  url: http://www.scotttech.co
+- type: x-about
+  url: https://www.scotttech.co/about-us/
+- type: x-contact
+  url: https://www.scotttech.co/contact-us/
+- type: x-contact
+  url: http://www.scotttech.co/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/ScottTechllc/
+- type: x-news
+  url: https://www.scotttech.co/news/
+- type: x-support
+  url: https://www.scotttech.co/services/support/
+- type: x-twitter
+  url: https://twitter.com/scotttechllc
+- type: x-website
+  url: https://www.scotttech.co
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

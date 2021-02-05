@@ -1,0 +1,40 @@
+---
+name: Smart Card Alliance
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/smart-card-alliance.yaml
+tags:
+- Associations
+apis: []
+x-common:
+- type: x-website
+  url: http://www.securetechalliance.org
+- type: x-contact
+  url: https://www.securetechalliance.org/contact-us/
+- type: x-events
+  url: https://www.securetechalliance.org/activities-events/
+- type: x-forum
+  url: http://www.uspaymentsforum.org/
+- type: x-news
+  url: https://www.securetechalliance.org/newsletters/
+- type: x-news
+  url: https://www.securetechalliance.org/news-events/
+- type: x-security
+  url: http://iotsecurityconnection.com/
+- type: x-twitter
+  url: https://twitter.com/SecureTechOrg?ref_src=twsrc%5Etfw
+- type: x-twitter
+  url: https://twitter.com/SecureTechOrg
+- type: x-website
+  url: https://www.smartcardalliance.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

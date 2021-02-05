@@ -1,0 +1,54 @@
+---
+name: Contactually
+description: Contactually is an intelligent CRM for real estate professionals.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1613-contactually.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "71377"
+url: https://raw.githubusercontent.com/api-network/organizations/main/contactually.yaml
+tags:
+- Have API
+- CRM
+- CRM
+- Contacts
+- API Provider
+apis: []
+x-common:
+- type: x-base
+  url: https://www.contactually.com/api
+- type: x-blog
+  url: http://blog.contactually.com/
+- type: x-blog-rss
+  url: http://blog.contactually.com/feed/
+- type: x-contact
+  url: http://contactually.com/compass
+- type: x-contact
+  url: https://support.contactually.com/hc/en-us
+- type: x-contact
+  url: https://developers.contactually.com/
+- type: x-contact
+  url: https://status.contactually.com/
+- type: x-contact
+  url: https://www.instagram.com/contactually/
+- type: x-contact
+  url: https://labs.contactually.com/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/contactually
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/contactually
+- type: x-developers
+  url: http://developers.contactually.com/
+- type: x-facebook
+  url: https://www.facebook.com/Contactually/
+- type: x-twitter
+  url: https://twitter.com/contactually
+- type: x-website
+  url: http://contactually.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

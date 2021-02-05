@@ -1,0 +1,32 @@
+---
+name: TheHive
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/thehive.yaml
+tags:
+- Security
+apis: []
+x-common:
+- type: x-website
+  url: https://thehive-project.org
+- type: x-blog
+  url: https://blog.thehive-project.org/
+- type: x-blog-rss
+  url: https://blog.thehive-project.org/feed/
+- type: x-documentation
+  url: https://github.com/CERT-BDF/TheHive/wiki
+- type: x-github
+  url: https://github.com/CERT-BDF
+- type: x-twitter
+  url: https://twitter.com/TheHive_Project
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

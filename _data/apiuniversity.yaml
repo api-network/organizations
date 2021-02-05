@@ -1,0 +1,76 @@
+---
+name: API-University
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1723389"
+url: https://raw.githubusercontent.com/api-network/organizations/main/apiuniversity.yaml
+tags:
+- Profile
+- API Tools
+- API Education
+apis: []
+x-common:
+- type: x-about
+  url: https://api-university.com/start/about/
+- type: x-blog
+  url: http://api-university.com/category/blog/
+- type: x-blog
+  url: https://api-university.com/category/blog/
+- type: x-blog
+  url: https://api-university.com/category/blog/api-usage/
+- type: x-blog
+  url: https://api-university.com/category/blog/api-design/
+- type: x-blog
+  url: https://api-university.com/category/blog/api-business/
+- type: x-blog
+  url: https://api-university.com/blog
+- type: x-blog
+  url: https://api-university.com/category/blog/api-strategy/
+- type: x-blog
+  url: https://api-university.com/blog/grpc/
+- type: x-blog
+  url: https://api-university.com/blog/the-api-mandate/
+- type: x-blog-rss
+  url: http://api-university.com/feed/
+- type: x-careers
+  url: https://jobs.api-university.com
+- type: x-careers
+  url: https://jobs.api-university.com?keyword=REST
+- type: x-careers
+  url: https://jobs.api-university.com?keyword=GraphQL
+- type: x-careers
+  url: https://jobs.api-university.com?keyword=Security
+- type: x-careers
+  url: https://jobs.api-university.com?keyword=OAuth
+- type: x-developer
+  url: https://api-university.com/tag/api/
+- type: x-developer
+  url: https://api-university.com/tag/api/page/2/
+- type: x-events
+  url: https://api-university.com/tag/events/
+- type: x-news
+  url: https://api-university.com/newsletter/
+- type: x-open-source
+  url: https://api-university.com/books/openid-connect/
+- type: x-open-source
+  url: https://api-university.com/courses/openid-connect/
+- type: x-open-source
+  url: https://api-university.com/tag/openid-connect/
+- type: x-press
+  url: https://wordpress.org
+- type: x-security
+  url: https://api-university.com/category/blog/api-security/
+- type: x-security
+  url: https://api-university.com/tag/security/
+- type: x-website
+  url: http://api-university.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

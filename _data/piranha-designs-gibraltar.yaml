@@ -1,0 +1,43 @@
+---
+name: Piranha Designs Gibraltar
+description: Website design, graphic design, mobile applications, online marketing
+  services by Piranha Designs. Offices in Gibraltar, Edinburgh and London.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10229535"
+url: https://raw.githubusercontent.com/api-network/organizations/main/piranha-designs-gibraltar.yaml
+tags:
+- Multilingual
+apis: []
+x-common:
+- type: x-website
+  url: http://www.piranhadesigns.com
+- type: x-about
+  url: http://www.piranhadesigns.com/about/why-piranha
+- type: x-contact
+  url: https://www.piranhadesigns.com/contact/gibraltar
+- type: x-contact
+  url: https://www.piranhadesigns.com/contact/london
+- type: x-contact
+  url: https://www.piranhadesigns.com/contact/edinburgh
+- type: x-facebook
+  url: https://www.facebook.com/piranhadesigns.co
+- type: x-linkedin
+  url: https://www.linkedin.com/company/piranha-designs
+- type: x-privacy
+  url: https://www.piranhadesigns.com/privacy
+- type: x-terms-of-service
+  url: https://www.piranhadesigns.com/terms-conditions
+- type: x-twitter
+  url: https://twitter.com/piranhadesigns
+- type: x-website
+  url: https://www.piranhadesigns.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

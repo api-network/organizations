@@ -1,0 +1,30 @@
+---
+name: Code Karate
+description: Drupal Video Training and Guides by Code Karate
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1060644"
+url: https://raw.githubusercontent.com/api-network/organizations/main/code-karate.yaml
+tags:
+- Drupal
+apis: []
+x-common:
+- type: x-code
+  url: http://codekarate.com
+- type: x-code
+  url: https://www.youtube.com/user/codekarate
+- type: x-code
+  url: https://www.facebook.com/codekarate
+- type: x-twitter
+  url: https://twitter.com/smthomas3
+- type: x-website
+  url: https://codekarate.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

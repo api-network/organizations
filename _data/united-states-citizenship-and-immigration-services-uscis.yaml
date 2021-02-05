@@ -1,0 +1,42 @@
+---
+name: United States Citizenship and Immigration Services (USCIS)
+description: <p><span>U.S. Citizenship and Immigration Services is an agency of the
+  United States Department of Homeland Security that administers the country's naturalization
+  and immigration system.</span></p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/united-states-citizenship-and-immigration-services-uscis.yaml
+tags:
+- Federal Government
+apis: []
+x-common:
+- type: x-website
+  url: http://www.uscis.gov/portal/site/uscis
+- type: x-website
+  url: http://www.uscis.gov
+- type: x-data
+  url: https://www.uscis.gov/tools/reports-and-studies/immigration-and-citizenship-data
+- type: x-facebook
+  url: https://www.facebook.com/uscis.es
+- type: x-facebook
+  url: https://www.facebook.com/uscis
+- type: x-instagram
+  url: https://www.instagram.com/uscis_es
+- type: x-instagram
+  url: https://www.instagram.com/uscis
+- type: x-twitter
+  url: https://twitter.com/uscis_es
+- type: x-twitter
+  url: https://twitter.com/uscis
+- type: x-youtube
+  url: https://www.youtube.com/uscis
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

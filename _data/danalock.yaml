@@ -1,0 +1,65 @@
+---
+name: DanaLock
+description: Welcome to the DanaLock Facebook.  Use your smartphone to lock and unlock
+  your door!  DanaLock is the most beautiful and most inexpensive smart lock available
+  today.  DanaLock is ready to ship, get yours now, please visit our homepage @ danalock.com.  ...
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/18707-danalock.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "660168"
+url: https://raw.githubusercontent.com/api-network/organizations/main/danalock.yaml
+tags:
+- Locks
+- Internet Of Things
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.danalock.com
+- type: x-blog
+  url: https://danalock.com/danablog/
+- type: x-contact
+  url: https://danalock.com/contact-us/
+- type: x-contact
+  url: https://danalock.com/contact-us
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/danalock
+- type: x-email
+  url: info@danalock.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/danalock-aps/
+- type: x-partner
+  url: https://danalock.com/partner-area/
+- type: x-press
+  url: https://danalock.com/press-room/
+- type: x-support
+  url: https://danalock.com/support/
+- type: x-support
+  url: https://danalock.com/support/mounting-guides/
+- type: x-support
+  url: https://danalock.com/support/danalock-manuals/
+- type: x-terms-of-service
+  url: https://danalock.com/legal/certificates/
+- type: x-terms-of-service
+  url: https://danalock.com/legal/sales-and-delivery-terms/
+- type: x-terms-of-service
+  url: https://danalock.com/legal/limited-product-warranty/
+- type: x-terms-of-service
+  url: https://danalock.com/legal/cookie-declaration/
+- type: x-terms-of-service
+  url: https://danalock.com/legal/
+- type: x-twitter
+  url: https://twitter.com/Danalockdk
+- type: x-website
+  url: http://www.danalock.com/
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=4yYPk1uaPzg
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

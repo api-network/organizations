@@ -1,0 +1,22 @@
+---
+name: Antidote Solutions
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/antidote-solutions.yaml
+tags:
+- Consultants And Developers
+apis: []
+x-common:
+- type: x-website
+  url: https://www.antidotesolutions.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

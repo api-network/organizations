@@ -1,0 +1,78 @@
+---
+name: AV Science Forum
+description: Home Theater Discussions And Reviews
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "17875"
+url: https://raw.githubusercontent.com/api-network/organizations/main/av-science-forum.yaml
+tags:
+- Set-Top Boxes
+apis: []
+x-common:
+- type: x-forum
+  url: https://www.avsforum.com/category/product-reviews/
+- type: x-forum
+  url: https://www.avsforum.com/category/blu-ray-reviews/
+- type: x-forum
+  url: https://www.avsforum.com/addams-family-blu-ray-review/
+- type: x-forum
+  url: https://www.avsforum.com/category/top-10/
+- type: x-forum
+  url: https://www.avsforum.com/best-subwoofers/
+- type: x-forum
+  url: https://www.avsforum.com/best-g-sync-monitors-gaming/
+- type: x-forum
+  url: https://www.avsforum.com/best-speakers/
+- type: x-forum
+  url: https://www.avsforum.com/category/features/
+- type: x-forum
+  url: https://www.avsforum.com/tag/asktheeditors/
+- type: x-forum
+  url: https://www.avsforum.com/top-blu-rays-2019/
+- type: x-forum
+  url: https://www.avsforum.com/wild-decade-av-home-theater/
+- type: x-forum
+  url: https://www.avsforum.com/category/how-to/
+- type: x-forum
+  url: https://www.avsforum.com/how-to-build-outdoor-theater/
+- type: x-forum
+  url: https://www.avsforum.com/dolby-vision-hdr-home/
+- type: x-forum
+  url: https://www.avsforum.com/12-tips-to-tune-up-your-tv/
+- type: x-forum
+  url: https://www.avsforum.com/category/av-events/
+- type: x-forum
+  url: https://www.avsforum.com/hisense-tvs-ces-2020/
+- type: x-forum
+  url: https://www.avsforum.com/konka-tvs-ces-2020/
+- type: x-forum
+  url: https://www.avsforum.com/skyworth-tvs-ces-2020/
+- type: x-forum
+  url: https://www.avsforum.com/lg-tvs/
+- type: x-forum
+  url: https://www.avsforum.com/klh-model-5-speaker-unveiled/
+- type: x-forum
+  url: https://www.avsforum.com/about/
+- type: x-forum
+  url: https://www.avsforum.com/imax-product-guide/
+- type: x-forum
+  url: https://www.avsforum.com/advertise/
+- type: x-forum
+  url: https://www.avsforum.com/forum/sendmessage.php
+- type: x-news
+  url: https://www.facebook.com/AVSforum.news
+- type: x-news
+  url: https://www.avsforum.com/category/news/
+- type: x-website
+  url: https://www.avsforum.com
+- type: x-white-papers
+  url: https://www.avsforum.com/tag/whitepaper/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

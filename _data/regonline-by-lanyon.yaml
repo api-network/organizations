@@ -1,0 +1,38 @@
+---
+name: RegOnline by Lanyon
+description: RegOnline offers quick, easy, and affordable event registration & event
+  management software. Build, promote, and measure your events, simply and securely.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/active-regonline.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "230798"
+url: https://raw.githubusercontent.com/api-network/organizations/main/regonline-by-lanyon.yaml
+tags:
+- Tracking
+- Registrations
+- Promotions
+- JavaScript
+- Have API
+- Event Management
+apis: []
+x-common:
+- type: x-base
+  url: https://www.regonline.com/api/
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/RegonlineDeveloperResources
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/regonline
+- type: x-developers
+  url: http://developer.regonline.com
+- type: x-twitter
+  url: https://twitter.com/RegOnline
+- type: x-website
+  url: http://regonline.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

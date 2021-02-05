@@ -1,0 +1,28 @@
+---
+name: NewFound Technologies
+description: "We are a technology company that brings robust, cost effective solutions
+  to our customers. Interactive Voice Response software development is our core competency.
+  We are a leader in the industry and have a rich history in IVR application development.
+  Headquartered in Columbus, Ohio \x96 the birthplace of IVR, our development staff
+  has been trained by the best - Bell Laboratories. At NewFound Technologies, we work
+  with the latest development tools and platforms. We also recognize that there are
+  many legacy systems and solutions out there \x96 all of which we can support"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/newfound-technologies.yaml
+tags:
+- Voice Response Systems
+apis: []
+x-common:
+- type: x-website
+  url: https://www.nfti.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

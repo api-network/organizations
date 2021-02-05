@@ -1,0 +1,93 @@
+---
+name: Ecommerce News Europe
+description: Ecommerce News is a daily blog featuring news about the ecommerce industry
+  in Europe. We write about cross-border, payments, omnichannel and much more!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "114384"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ecommerce-news-europe.yaml
+tags:
+- Shopping Carts
+apis: []
+x-common:
+- type: x-contact
+  url: https://ecommercenews.eu/contact/
+- type: x-marketplace
+  url: https://ecommercenews.eu/category/marketplaces/
+- type: x-news
+  url: https://ecommercenews.eu/privacy-cookies/
+- type: x-news
+  url: https://ecommercenews.eu
+- type: x-news
+  url: https://www.ecommercenews.nl
+- type: x-news
+  url: https://www.ecommercenews.be
+- type: x-news
+  url: https://ecommercenews.eu/news/
+- type: x-news
+  url: https://ecommercenews.eu/events/
+- type: x-news
+  url: https://ecommercenews.eu/companies/
+- type: x-news
+  url: https://ecommercenews.eu/ecommerce-in-europe/
+- type: x-news
+  url: https://ecommercenews.eu/topics/
+- type: x-news
+  url: https://ecommercenews.eu/mobile-commerce-europe/
+- type: x-news
+  url: https://ecommercenews.eu/online-returns-in-europe/
+- type: x-news
+  url: https://ecommercenews.eu/omnichannel-retail-europe/
+- type: x-news
+  url: https://ecommercenews.eu/amazon-in-europe/
+- type: x-news
+  url: https://ecommercenews.eu/top-10-online-stores-germany/
+- type: x-news
+  url: https://ecommercenews.eu/top-10-online-stores-belgium/
+- type: x-news
+  url: https://ecommercenews.eu/about/advertising/
+- type: x-news
+  url: https://ecommercenews.eu/category/logistics/
+- type: x-news
+  url: https://ecommercenews.eu/tag/norway/
+- type: x-news
+  url: https://ecommercenews.eu/category/cross-border/
+- type: x-news
+  url: https://ecommercenews.eu/tag/austria/
+- type: x-news
+  url: https://ecommercenews.eu/tag/belgium/
+- type: x-news
+  url: https://ecommercenews.eu/tag/the-netherlands/
+- type: x-news
+  url: https://ecommercenews.eu/tag/spain/
+- type: x-news
+  url: https://ecommercenews.eu/category/online-store/
+- type: x-news
+  url: https://ecommercenews.eu/category/acquisition/
+- type: x-news
+  url: https://ecommercenews.eu/category/cross-channel/
+- type: x-news
+  url: https://ecommercenews.eu/category/offline-store/
+- type: x-news
+  url: https://ecommercenews.eu/tag/ireland/
+- type: x-news
+  url: https://ecommercenews.eu/add-company/
+- type: x-news
+  url: https://ecommercenews.eu/events/webwinkel-vakdagen/
+- type: x-news
+  url: https://ecommercenews.eu/events/etailing-summit/
+- type: x-news
+  url: https://ecommercenews.eu/events/digital-food-beverage/
+- type: x-news
+  url: https://ecommercenews.eu/
+- type: x-website
+  url: https://ecommercenews.eu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

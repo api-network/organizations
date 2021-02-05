@@ -1,0 +1,35 @@
+---
+name: Headway Themes
+description: Create your site using Headway, the original drag and drop website builder
+  for WordPress. Whether you are a beginner or developer, Headway is for you!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "79874"
+url: https://raw.githubusercontent.com/api-network/organizations/main/headway-themes.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-blog
+  url: http://headwaythemes.com/blog/
+- type: x-contact
+  url: http://headwaythemes.com/contact-us/
+- type: x-customers
+  url: http://headwaythemes.com/customers/
+- type: x-press
+  url: http://wordpress.org
+- type: x-pricing
+  url: http://headwaythemes.com/pricing/
+- type: x-terms-of-service
+  url: http://headwaythemes.com/legal/terms-service/
+- type: x-website
+  url: https://headwaythemes.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

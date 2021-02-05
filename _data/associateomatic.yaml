@@ -1,0 +1,86 @@
+---
+name: Associate-O-Matic
+description: Build a custom Amazon Associates store with thousands of items in minutes
+  with our storefront script. Free and paid versions. Affiliates earn up to 15%. Simple
+  script setup. SEO friendly. Supports US, UK, IN, CA, DE, FR, JP, IT, CN and ES.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1034426"
+url: https://raw.githubusercontent.com/api-network/organizations/main/associateomatic.yaml
+tags:
+- Themes
+- Templates
+- Store Creator
+- Store Builder
+- PHP
+- Ecs
+- E-commerce
+- AWS
+- Astore
+- Associates Program
+- AssociateOMatic
+- Associate-O-Matic
+- Associate Stores
+- Associate Shops
+- Associate O Matic
+- AOM
+- Amazon.it
+- Amazon.in
+- Amazon.fr
+- Amazon.es
+- Amazon.de
+- Amazon.com
+- Amazon.co.uk
+- Amazon.co.jp
+- Amazon.cn
+- Amazon.ca
+- Amazon Storefront
+- Amazon Store Front
+- Amazon Store
+- Amazon Shop
+- Amazon Script
+- Amazon Associates
+- Amazon Affiliates
+- Amazon
+- Affiliate Stores
+- Affiliate Shops
+- A.O.M.
+- A-O-M
+- A O M
+apis: []
+x-common:
+- type: x-website
+  url: https://www.freshstoreinstant.com
+- type: x-blog
+  url: https://www.associate-o-matic.com/blog.php
+- type: x-customers
+  url: https://www.associate-o-matic.com/customers.php
+- type: x-facebook
+  url: https://facebook.com/freshstoreinstant/
+- type: x-forum
+  url: https://www.associate-o-matic.com/forum/index.php
+- type: x-login
+  url: https://www.associate-o-matic.com/users/login.php
+- type: x-news
+  url: https://www.associate-o-matic.com/newsletter.php
+- type: x-partner
+  url: https://partnernet.amazon.de/
+- type: x-pricing
+  url: https://www.associate-o-matic.com/pricing.php
+- type: x-self-service-registration
+  url: https://www.associate-o-matic.com/users/register.php
+- type: x-support
+  url: https://www.associate-o-matic.com/support.php
+- type: x-twitter
+  url: https://twitter.com/FreshInstant
+- type: x-website
+  url: https://www.associate-o-matic.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

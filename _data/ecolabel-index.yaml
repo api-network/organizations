@@ -1,0 +1,45 @@
+---
+name: Ecolabel Index
+description: Ecolabel Index is the independent global directory of ecolabels and environmental
+  certification schemes.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/eco-label-index.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "752691"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ecolabel-index.yaml
+tags:
+- Target
+- Have API
+- Green Labels
+- Ecolabelling
+- Ecolabel
+- Eco Label
+- Commerce
+- Commerce
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://ecolabelindex.com
+- type: x-base
+  url: http://www.ecolabelindex.com/services/rest/
+- type: x-blog-rss
+  url: http://feeds.ecolabelindex.com/ecolabelindex
+- type: x-developers
+  url: http://www.ecolabelindex.com/developers/api/
+- type: x-email
+  url: support@ecolabelindex.com
+- type: x-twitter
+  url: https://twitter.com/ecolabels
+- type: x-twitter
+  url: https://twitter.com/#!/ecolabels
+- type: x-website
+  url: http://www.ecolabelindex.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

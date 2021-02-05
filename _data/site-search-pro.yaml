@@ -1,0 +1,25 @@
+---
+name: Site Search Pro
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3143217"
+url: https://raw.githubusercontent.com/api-network/organizations/main/site-search-pro.yaml
+tags:
+- Site Search
+- Link Management
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.site-search-pro.com
+- type: x-website
+  url: https://www.site-search-pro.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

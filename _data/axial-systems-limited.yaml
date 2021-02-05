@@ -1,0 +1,93 @@
+---
+name: Axial Systems Limited
+description: Axial Systems,leading solutions provider and specialist Integrator of
+  Network, Security and Services. Meeting and exceeding our customers business challenges
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/axial-systems-limited.yaml
+tags:
+- Network Performance
+apis: []
+x-common:
+- type: x-website
+  url: http://www.axial.co.uk
+- type: x-about
+  url: https://www.axial.co.uk/about-us/
+- type: x-about
+  url: https://www.axial.co.uk/about-us/the-team/
+- type: x-gdpr
+  url: https://www.axial.co.uk/gdpr/
+- type: x-gdpr
+  url: https://www.axial.co.uk/gdpr/quiz/
+- type: x-gdpr
+  url: https://www.axial.co.uk/gdpr/resources/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/axial-systems
+- type: x-news
+  url: https://www.axial.co.uk/newsroom/
+- type: x-news
+  url: https://www.axial.co.uk/newsroom/gdpr-just-got-real/
+- type: x-partner
+  url: https://www.axial.co.uk/partners/
+- type: x-partner
+  url: https://www.axial.co.uk/partners/algosec/
+- type: x-partner
+  url: https://www.axial.co.uk/partners/arista/
+- type: x-partner
+  url: https://www.axial.co.uk/partners/aruba/
+- type: x-partner
+  url: https://www.axial.co.uk/partners/apcon/
+- type: x-partner
+  url: https://www.axial.co.uk/partners/aqua-security/
+- type: x-partner
+  url: https://www.axial.co.uk/partners/boldon-james/
+- type: x-partner
+  url: https://www.axial.co.uk/partners/cpacket/
+- type: x-partner
+  url: https://www.axial.co.uk/partners/endace/
+- type: x-partner
+  url: https://www.axial.co.uk/partners/gigamon/
+- type: x-partner
+  url: https://www.axial.co.uk/partners/guardicore/
+- type: x-partner
+  url: https://www.axial.co.uk/partners/ixia/
+- type: x-partner
+  url: https://www.axial.co.uk/partners/juniper/
+- type: x-partner
+  url: https://www.axial.co.uk/partners/mcafee/
+- type: x-partner
+  url: https://www.axial.co.uk/partners/netscout/
+- type: x-partner
+  url: https://www.axial.co.uk/partners/riverbed/
+- type: x-partner
+  url: https://www.axial.co.uk/partners/swivelsecure/
+- type: x-partner
+  url: https://www.axial.co.uk/partners/symantec/
+- type: x-partner
+  url: https://www.axial.co.uk/partners/talari-networks/
+- type: x-privacy
+  url: http://axial.kev/privacy/
+- type: x-security
+  url: https://www.axial.co.uk/what-wedo/security/
+- type: x-security
+  url: https://axiallive.wpengine.com/what-wedo/security/
+- type: x-security
+  url: https://www.axial.co.uk/what-we-do/network-security/
+- type: x-support
+  url: https://techsupport.axial.co.uk/support/
+- type: x-twitter
+  url: https://twitter.com/AxialSystems
+- type: x-website
+  url: https://www.axial.co.uk
+- type: x-youtube
+  url: https://www.youtube.com/c/AxialUk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

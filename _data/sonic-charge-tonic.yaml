@@ -1,0 +1,32 @@
+---
+name: "Sonic Charge \xB5Tonic"
+description: Sonic Charge
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "321071"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sonic-charge-tonic.yaml
+tags:
+- Synthesizers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.soniccharge.com
+- type: x-facebook
+  url: https://www.facebook.com/SonicCharge
+- type: x-login
+  url: https://soniccharge.com/login?cont=%2F
+- type: x-twitter
+  url: https://twitter.com/soniccharge
+- type: x-website
+  url: https://www.soniccharge.com
+- type: x-youtube
+  url: https://www.youtube.com/user/malstrom72/videos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

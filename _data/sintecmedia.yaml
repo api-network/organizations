@@ -1,0 +1,52 @@
+---
+name: SintecMedia
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sintecmedia.yaml
+tags:
+- Broadcast
+apis: []
+x-common:
+- type: x-website
+  url: http://www.operative.com
+- type: x-about
+  url: https://www.operative.com/about-us/
+- type: x-blog
+  url: https://www.operative.com/blog/category/blog/
+- type: x-contact
+  url: https://www.operative.com/contact/
+- type: x-events
+  url: https://www.operative.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/operative
+- type: x-linkedin
+  url: https://www.linkedin.com/company/operative/
+- type: x-open-source
+  url: https://nasso.operativeone.com/openam/XUI/#login/
+- type: x-press
+  url: https://www.operative.com/blog/category/press/
+- type: x-privacy
+  url: https://www.operative.com/privacypolicy/
+- type: x-security
+  url: https://www.operative.com/securitypolicy/
+- type: x-support
+  url: http://o1support.operative.com/
+- type: x-twitter
+  url: https://twitter.com/Operative_Media
+- type: x-webinars
+  url: https://www.operative.com/feature-cat/webinars/
+- type: x-website
+  url: https://www.sintecmedia.com
+- type: x-youtube
+  url: https://www.youtube.com/user/OperativeInc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

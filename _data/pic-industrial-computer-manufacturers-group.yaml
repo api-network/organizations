@@ -1,0 +1,94 @@
+---
+name: PIC Industrial Computer Manufacturers Group
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1836761"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pic-industrial-computer-manufacturers-group.yaml
+tags:
+- PCI
+apis: []
+x-common:
+- type: x-website
+  url: http://picmg.org
+- type: x-about
+  url: https://www.picmg.org/about-picmg/
+- type: x-about
+  url: https://www.picmg.org/about-picmg/markets/
+- type: x-about
+  url: https://www.picmg.org/about-picmg/governance/
+- type: x-blog
+  url: https://www.picmg.org/blog/
+- type: x-careers
+  url: https://www.picmg.org/resources/careers/
+- type: x-contact
+  url: https://www.picmg.org/about-picmg/contact/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/picmg
+- type: x-news
+  url: https://www.picmg.org/newsletter-archive/
+- type: x-open-source
+  url: https://www.picmg.org/values-of-open-standards/
+- type: x-open-source
+  url: https://www.picmg.org/openstandards/
+- type: x-open-source
+  url: https://www.picmg.org/openstandards/advancedtca/
+- type: x-open-source
+  url: https://www.picmg.org/openstandards/compactpci/
+- type: x-open-source
+  url: https://www.picmg.org/openstandards/microtca/
+- type: x-open-source
+  url: https://www.picmg.org/openstandards/compactpci-serial/
+- type: x-open-source
+  url: https://www.picmg.org/openstandards/pci-isa/
+- type: x-open-source
+  url: https://www.picmg.org/openstandards/development/
+- type: x-open-source
+  url: https://www.picmg.org/values-of-open-standards
+- type: x-open-source
+  url: http://picmg.opensystemsmedia.com/
+- type: x-platform
+  url: https://www.picmg.org/member/ge-intelligent-platforms/
+- type: x-press
+  url: https://www.picmg.org/openstandards/com-express/
+- type: x-press
+  url: https://www.picmg.org/openstandards/shb-express/
+- type: x-privacy
+  url: https://www.picmg.org/privacy-and-policy/
+- type: x-showcase
+  url: https://www.picmg.org/product-showcase/
+- type: x-showcase
+  url: https://www.picmg.org/product-showcase/?term=11834
+- type: x-showcase
+  url: https://www.picmg.org/product-showcase/?term=11793
+- type: x-showcase
+  url: https://www.picmg.org/product-showcase/?term=11795
+- type: x-showcase
+  url: https://www.picmg.org/product-showcase/?term=11738
+- type: x-showcase
+  url: https://www.picmg.org/product-showcase/?term=11783
+- type: x-showcase
+  url: https://www.picmg.org/product-showcase/?term=17262
+- type: x-showcase
+  url: https://www.picmg.org/product-showcase/?term=11852
+- type: x-showcase
+  url: https://www.picmg.org/product-showcase/?term=11816
+- type: x-showcase
+  url: https://www.picmg.org/product-showcase/?term=17265
+- type: x-showcase
+  url: https://www.picmg.org/product-showcase/?term=11735
+- type: x-showcase
+  url: https://www.picmg.org/product-showcase/?term=11906
+- type: x-twitter
+  url: https://twitter.com/picmg_org
+- type: x-website
+  url: https://www.picmg.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

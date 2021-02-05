@@ -1,0 +1,32 @@
+---
+name: Mobile Robot Programming Toolkit project
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2201214"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mobile-robot-programming-toolkit-project.yaml
+tags:
+- Software
+apis: []
+x-common:
+- type: x-forum
+  url: https://www.mrpt.org/forum/
+- type: x-github
+  url: https://github.com/MRPT/mrpt
+- type: x-github
+  url: https://github.com/MRPT/mrpt/issues
+- type: x-press
+  url: http://wordpress.org/
+- type: x-support
+  url: http://others-help.mrpt.org/
+- type: x-website
+  url: https://www.mrpt.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

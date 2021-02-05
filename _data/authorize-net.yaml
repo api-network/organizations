@@ -1,0 +1,137 @@
+---
+name: Authorize.Net
+description: Home Page
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/376-authorize-net.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "9117"
+url: https://raw.githubusercontent.com/api-network/organizations/main/authorize-net.yaml
+tags:
+- Subscriptions
+- Shopping
+- Recurring Payments
+- Recurring Billing
+- Profile
+- Point Of Sale
+- Payments
+- Payments
+- Payments
+- Payment
+- Have OpenAPI
+- Have API Paths
+- Have API
+- Financial
+- Communications
+- Change Log Example
+- Business
+- API Provider
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/AuthorizeNet
+- type: x-website
+  url: http://www.authorize.net/
+- type: x-about
+  url: https://community.developer.authorize.net/t5/The-Authorize-Net-Developer-Blog/Webcast-recording-Learn-about-Authorize-Net-API-Integration-with/ba-p/64540
+- type: x-about
+  url: https://www.authorize.net/about-us/
+- type: x-blog
+  url: https://www.authorize.net/blog/
+- type: x-blog
+  url: https://www.authorize.net/resources/blog/
+- type: x-blog
+  url: https://www.authorize.net/resources/blog/understanding-pci-compliance/
+- type: x-blog
+  url: http://www.bbb.org/utah/business-reviews/credit-card-processing-service/authorize-net-a-cybersource-solution-in-american-fork-ut-2009493/#bbblogo
+- type: x-change-logs
+  url: https://developer.authorize.net/api/changes/
+- type: x-code
+  url: https://github.com/AuthorizeNet/sdk-ruby/issues/167
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/authorize-net
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/authorize-net
+- type: x-developer
+  url: https://developer.authorize.net/
+- type: x-developer
+  url: https://developer.authorize.net/api/
+- type: x-developer
+  url: https://developer.authorize.net/api/reference/
+- type: x-developer
+  url: https://developer.authorize.net/api/changes/
+- type: x-developer
+  url: https://developer.authorize.net/api/system_changes/
+- type: x-developer
+  url: https://developer.authorize.net/api/upgrade_guide/
+- type: x-developer
+  url: https://developer.authorize.net/hello_world/
+- type: x-developer
+  url: https://developer.authorize.net/sitemap/
+- type: x-developer
+  url: http://community.developer.authorize.net/t5/News-and-Announcements/bd-p/News_Annoucements
+- type: x-developer
+  url: http://community.developer.authorize.net/t5/Integration-and-Testing/bd-p/Integration01
+- type: x-developer
+  url: http://community.developer.authorize.net/t5/The-Authorize-Net-Developer-Blog/bg-p/DeveloperBlog
+- type: x-developer
+  url: https://community.developer.authorize.net/t5/The-Authorize-Net-Developer-Blog/Remove-checkout-friction-and-boost-conversion-with-Visa-Checkout/ba-p/64904
+- type: x-developer
+  url: https://community.developer.authorize.net/t5/The-Authorize-Net-Developer-Blog/Accept-Suite-UI-enhancements/ba-p/64756
+- type: x-developer
+  url: https://community.developer.authorize.net/t5/The-Authorize-Net-Developer-Blog/Join-our-OAuth-2-0-Developer-Webinar-on-September-19/ba-p/64440
+- type: x-developer
+  url: https://community.developer.authorize.net/t5/The-Authorize-Net-Developer-Blog/Authorize-Net-Wins-2018-TSG-API-Integration-Award/ba-p/64268
+- type: x-developer
+  url: https://community.developer.authorize.net/t5/Integration-and-Testing/Trying-and-failing-to-get-Perl-DBD-mysql-bindings-to-build-on/m-p/70356#M43191
+- type: x-developer
+  url: https://community.developer.authorize.net/t5/Integration-and-Testing/Returning-multiple-values-from-stored-procedure/m-p/70354#M43189
+- type: x-developers
+  url: https://www.authorize.net/developers/
+- type: x-github
+  url: https://github.com/search?utf8=%E2%9C%93&q=org%3AAuthorizeNet+sample&type=Repositories&ref=searchresults
+- type: x-login
+  url: https://account.authorize.net/interfaces/reseller/frontend/login.aspx
+- type: x-partner
+  url: https://www.authorize.net/partners/affiliate
+- type: x-partner
+  url: https://www.authorize.net/partners
+- type: x-partners
+  url: https://www.authorize.net/resources/find-a-partner/?category=category-one&showDescription=false
+- type: x-pricing
+  url: https://www.authorize.net/sign-up/pricing/
+- type: x-privacy
+  url: https://www.authorize.net/company/privacy/
+- type: x-selfservice-registration
+  url: https://www.authorize.net/sign-up/
+- type: x-status
+  url: https://status.authorize.net
+- type: x-support
+  url: https://developer.authorize.net/support/
+- type: x-support
+  url: https://developer.authorize.net/support/faqs/
+- type: x-support
+  url: https://www.authorize.net/support/
+- type: x-support
+  url: https://support.authorize.net/s/
+- type: x-support
+  url: https://community.developer.authorize.net/t5/Integration-and-Testing/Processor-support-for-EMV-devices/m-p/70355#M43190
+- type: x-terms-of-service
+  url: https://usa.visa.com/legal/privacy-policy.html
+- type: x-terms-of-service
+  url: https://www.authorize.net/company/terms/
+- type: x-twitter
+  url: https://twitter.com/AuthorizeNet
+- type: x-twitter
+  url: https://twitter.com/authorizenetdev
+- type: x-webhooks
+  url: https://developer.authorize.net/api/reference/features/webhooks.html
+- type: x-website
+  url: http://developer.authorize.net/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

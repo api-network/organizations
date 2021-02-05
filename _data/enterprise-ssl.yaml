@@ -1,0 +1,48 @@
+---
+name: Enterprise SSL
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5878388"
+url: https://raw.githubusercontent.com/api-network/organizations/main/enterprise-ssl.yaml
+tags:
+- Third Party Certificate Authorities
+apis: []
+x-common:
+- type: x-website
+  url: https://sectigo.com
+- type: x-about
+  url: https://www.enterprisessl.com/about-enterprisessl
+- type: x-blog
+  url: https://sectigo.com/blog
+- type: x-contact
+  url: https://www.enterprisessl.com/contact-us
+- type: x-customers
+  url: https://www.enterprisessl.com/returning-customers
+- type: x-linkedin
+  url: https://www.linkedin.com/company/sectigo/
+- type: x-privacy
+  url: https://sectigo.com/privacy-policy
+- type: x-privacy
+  url: https://sectigo.com/ccpa-privacy-notice
+- type: x-support
+  url: https://www.enterprisessl.com/ssl-certificate-support
+- type: x-terms-of-service
+  url: https://sectigo.com/terms-of-use
+- type: x-terms-of-service
+  url: https://sectigo.com/legal/cookie-policy
+- type: x-terms-of-service
+  url: https://sectigo.com/legal
+- type: x-twitter
+  url: https://twitter.com/sectigohq
+- type: x-website
+  url: https://www.enterprisessl.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

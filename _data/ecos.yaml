@@ -1,0 +1,22 @@
+---
+name: eCos
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "146963"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ecos.yaml
+tags:
+- ECos
+apis: []
+x-common:
+- type: x-website
+  url: https://ecos.sourceware.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

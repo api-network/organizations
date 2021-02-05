@@ -1,0 +1,32 @@
+---
+name: Easily Simple Calendar
+description: Powerful yet easy to use PHP Events Calendar Script. Trust by tens of
+  thousands for over 10 years.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10182454"
+url: https://raw.githubusercontent.com/api-network/organizations/main/easily-simple-calendar.yaml
+tags:
+- Events Calendar PHP
+- Calendars
+apis: []
+x-common:
+- type: x-website
+  url: http://www.easyphpcalendar.com/
+- type: x-facebook
+  url: https://www.facebook.com/myepcal
+- type: x-support
+  url: https://www.easyphpcalendar.com/support/clientarea.php
+- type: x-twitter
+  url: http://twitter.com/easyphpcalendar
+- type: x-website
+  url: https://www.easilysimplecalendar.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,27 @@
+---
+name: Bank Gutmann
+description: Willkommen auf dem offiziellen Twitter Account der Bank Gutmann.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27960-www-gutmann-at.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "5268770"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bank-gutmann.yaml
+tags:
+- Financial
+- EU Bank
+apis: []
+x-common:
+- type: x-email
+  url: mail@gutmann.at
+- type: x-twitter
+  url: https://twitter.com/bankgutmann
+- type: x-website
+  url: https://www.gutmann.at
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,43 @@
+---
+name: BlueStacks 2
+description: Join 370+ million users on the largest, FREE Android Gaming Platform
+  on PC and Mac. Play Brawl Stars, Free Fire, Arena of Valor + more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2147"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bluestacks-2.yaml
+tags:
+- Android
+apis: []
+x-common:
+- type: x-website
+  url: https://www.bluestacks.com/
+- type: x-about
+  url: https://www.bluestacks.com/about-us.html
+- type: x-blog
+  url: https://www.bluestacks.com/blog.html
+- type: x-contact
+  url: https://www.bluestacks.com/about-us/contact-us.html
+- type: x-facebook
+  url: https://www.facebook.com/BlueStacksInc
+- type: x-press
+  url: https://www.bluestacks.com/about-us/press-kit.html
+- type: x-support
+  url: https://support.bluestacks.com/
+- type: x-support
+  url: https://support.bluestacks.com/hc/en-us
+- type: x-terms-of-service
+  url: https://www.bluestacks.com/terms-and-privacy.html
+- type: x-twitter
+  url: https://twitter.com/bluestacksinc
+- type: x-website
+  url: https://www.bluestacks.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

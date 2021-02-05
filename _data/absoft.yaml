@@ -1,0 +1,50 @@
+---
+name: Absoft
+description: We are a leading SAP company, specialising in SAP Software & SAP consulting.
+  Discover our full range of services on our website at Absoft today.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3192533"
+url: https://raw.githubusercontent.com/api-network/organizations/main/absoft.yaml
+tags:
+- Sap Uk
+- Sap Specialist
+- Sap Partner
+- Sap Consultancy
+- Compilers
+- Companies
+apis: []
+x-common:
+- type: x-forum
+  url: http://forums.absoft.com/
+- type: x-privacy
+  url: https://www.absoft.com/privacy-policy/
+- type: x-support
+  url: https://www.absoft.com/help/
+- type: x-support
+  url: https://www.absoft.com/help/service-packs/
+- type: x-support
+  url: https://www.absoft.com/help/fortran-how-to-videos/
+- type: x-support
+  url: https://www.absoft.com/help/technical-faq/
+- type: x-support
+  url: https://www.absoft.com/help/technical-support/
+- type: x-support
+  url: https://www.absoft.com/help/sales-assistance/
+- type: x-support
+  url: http://www.absoft.com/help/sales-assistance/
+- type: x-support
+  url: http://www.absoft.com/help/fortran-how-to-videos/
+- type: x-terms-of-service
+  url: https://www.absoft.com/terms-and-conditions/
+- type: x-website
+  url: https://www.absoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

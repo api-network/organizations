@@ -1,0 +1,64 @@
+---
+name: The Linux Portal
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8833608"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-linux-portal.yaml
+tags:
+- News And Media
+apis: []
+x-common:
+- type: x-blog
+  url: https://linux.co.uk/category/blogs/
+- type: x-blog
+  url: http://www.sterling-adventures.co.uk/blog/
+- type: x-documentation
+  url: https://linux.co.uk/documentation/
+- type: x-documentation
+  url: https://linux.co.uk/documentation/general-information/
+- type: x-documentation
+  url: https://linux.co.uk/documentation/man-pages/
+- type: x-documentation
+  url: https://linux.co.uk/documentation/man-pages/games-6/
+- type: x-documentation
+  url: https://linux.co.uk/documentation/user-guides/
+- type: x-documentation
+  url: https://linux.co.uk/documentation/user-guides/_bash/
+- type: x-documentation
+  url: https://linux.co.uk/documentation/user-guides/_faq/
+- type: x-documentation
+  url: https://linux.co.uk/documentation/faqs/
+- type: x-feed
+  url: https://linux.co.uk/feed/
+- type: x-feed
+  url: https://linux.co.uk/comments/feed/
+- type: x-forum
+  url: http://linuxforums.org.uk
+- type: x-forum
+  url: http://linuxforums.org.uk/jobs-offered/
+- type: x-forum
+  url: http://linuxforums.org.uk/
+- type: x-forum
+  url: http://forum.linux.co.uk
+- type: x-login
+  url: https://linux.co.uk/wp-login.php
+- type: x-news
+  url: https://linux.co.uk/category/news/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-self-service-registration
+  url: http://theregister.co.uk
+- type: x-tutorials
+  url: https://linux.co.uk/documentation/tutorials/
+- type: x-website
+  url: https://linux.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

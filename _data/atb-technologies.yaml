@@ -1,0 +1,37 @@
+---
+name: ATB Technologies
+description: Turn your IT into an advantage. We help businesses to thrive with people-first
+  IT services.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4003130"
+url: https://raw.githubusercontent.com/api-network/organizations/main/atb-technologies.yaml
+tags:
+- Missouri
+apis: []
+x-common:
+- type: x-website
+  url: http://www.atb-tech.com
+- type: x-about
+  url: https://atb-tech.com/about/
+- type: x-blog
+  url: https://atb-tech.com/blog/
+- type: x-contact
+  url: https://atb-tech.com/contact-us/
+- type: x-privacy
+  url: https://atb-tech.com/privacy-policy/
+- type: x-security
+  url: https://atb-tech.com/cybersecurity-services/
+- type: x-twitter
+  url: https://twitter.com/atbtech
+- type: x-website
+  url: https://atb-tech.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

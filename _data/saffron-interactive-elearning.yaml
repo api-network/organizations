@@ -1,0 +1,43 @@
+---
+name: Saffron Interactive e-Learning
+description: Boosting business performance and changing behaviour with engaging bespoke
+  elearning, open-source LMS, strategic consultancy and workflow performance tools.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3457137"
+url: https://raw.githubusercontent.com/api-network/organizations/main/saffron-interactive-elearning.yaml
+tags:
+- Delivery And Management Systems
+apis: []
+x-common:
+- type: x-website
+  url: https://saffroninteractive.com
+- type: x-about
+  url: https://saffroninteractive.com/about/
+- type: x-case-studies
+  url: https://saffroninteractive.com/casestudies/
+- type: x-facebook
+  url: https://www.facebook.com/SaffronInteractive/
+- type: x-feed
+  url: https://saffroninteractive.com/feed/
+- type: x-instagram
+  url: https://www.instagram.com/saffroninteractive/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/saffron-interactive/
+- type: x-privacy
+  url: https://saffroninteractive.com/privacy/
+- type: x-twitter
+  url: https://twitter.com/saffronint
+- type: x-website
+  url: https://www.saffroninteractive.com
+- type: x-youtube
+  url: https://www.youtube.com/user/SaffronInteractive
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,32 @@
+---
+name: FreeIT
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/freeit.yaml
+tags:
+- Service Providers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.freeit.lv
+- type: x-contact
+  url: https://www.freeit.lv/en/contact-us/
+- type: x-contact
+  url: https://freeit.lv/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/freeit.lv/
+- type: x-twitter
+  url: https://twitter.com/FreeIT_Ltd
+- type: x-website
+  url: https://www.freeit.lv
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,74 @@
+---
+name: Fineos Corp.
+description: FINEOS provides a complete AdminSuite software solution for the life,
+  accident & health insurance industry. Contact us for more information.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1350608"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fineos-corp-.yaml
+tags:
+- Insurance
+- Industry Specific
+apis: []
+x-common:
+- type: x-website
+  url: http://www.FINEOS.com
+- type: x-about
+  url: https://www.fineos.com/company/about-us/
+- type: x-careers
+  url: https://www.fineos.com/company/careers/
+- type: x-contact
+  url: https://www.fineos.com/contact/
+- type: x-customers
+  url: https://www.fineos.com/company/customers/
+- type: x-facebook
+  url: https://www.facebook.com/FINEOS
+- type: x-investor
+  url: https://www.fineos.com/investors/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/fineos
+- type: x-open-source
+  url: https://www.fineos.com/company/careers/open-positions/
+- type: x-partner
+  url: https://www.fineos.com/company/partners-associations/
+- type: x-platform
+  url: https://www.fineos.com/platform/
+- type: x-platform
+  url: https://www.fineos.com/platform/adminsuite/
+- type: x-platform
+  url: https://www.fineos.com/platform/adminsuite/absence/
+- type: x-platform
+  url: https://www.fineos.com/platform/adminsuite/billing/
+- type: x-platform
+  url: https://www.fineos.com/platform/adminsuite/claims/
+- type: x-platform
+  url: https://www.fineos.com/platform/adminsuite/payments/
+- type: x-platform
+  url: https://www.fineos.com/platform/adminsuite/policy/
+- type: x-platform
+  url: https://www.fineos.com/platform/adminsuite/provider/
+- type: x-platform
+  url: https://www.fineos.com/platform/engage/
+- type: x-platform
+  url: https://www.fineos.com/platform/insight/
+- type: x-platform
+  url: https://www.fineos.com/platform/capabilities/
+- type: x-privacy
+  url: https://www.fineos.com/privacy-policy/
+- type: x-support
+  url: https://www.fineos.com/services/customer-support/
+- type: x-twitter
+  url: https://twitter.com/fineos
+- type: x-website
+  url: https://www.fineos.com
+- type: x-youtube
+  url: https://www.youtube.com/user/fineosglobal
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

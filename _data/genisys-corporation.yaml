@@ -1,0 +1,32 @@
+---
+name: Genisys Corporation
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2465510"
+url: https://raw.githubusercontent.com/api-network/organizations/main/genisys-corporation.yaml
+tags:
+- Used
+apis: []
+x-common:
+- type: x-website
+  url: http://www.genisyscorp.com
+- type: x-instagram
+  url: https://www.instagram.com/genisyscorp/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/genisys-corporation
+- type: x-twitter
+  url: https://twitter.com/GenisysCorp
+- type: x-website
+  url: https://www.genisyscorp.com
+- type: x-youtube
+  url: https://www.youtube.com/c/Genisyscorp
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

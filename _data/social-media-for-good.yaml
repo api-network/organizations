@@ -1,0 +1,28 @@
+---
+name: Social Media for Good
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4490777"
+url: https://raw.githubusercontent.com/api-network/organizations/main/social-media-for-good.yaml
+tags:
+- Social Networking
+apis: []
+x-common:
+- type: x-about
+  url: https://sm4good.com/about-me/
+- type: x-about
+  url: http://sm4good.com/about-me/datenschutzerklrung/
+- type: x-press
+  url: http://sm4good.com/about-me/impressum/
+- type: x-website
+  url: https://sm4good.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

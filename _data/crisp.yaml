@@ -1,0 +1,36 @@
+---
+name: Crisp
+description: In a world where social media can be weaponized, Crisp brings AI and
+  HI together for extended intelligence that delivers brand-specific, rapid responses
+  to crises.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "297636"
+url: https://raw.githubusercontent.com/api-network/organizations/main/crisp.yaml
+tags:
+- Community Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.crispthinking.com
+- type: x-blog
+  url: https://blog.crispthinking.com/
+- type: x-facebook
+  url: https://www.facebook.com/crispthinking
+- type: x-instagram
+  url: https://www.instagram.com/crispsocial/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/crisp-thinking
+- type: x-twitter
+  url: https://twitter.com/crispthinking
+- type: x-website
+  url: https://www.crispthinking.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

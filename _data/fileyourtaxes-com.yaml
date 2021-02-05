@@ -1,0 +1,28 @@
+---
+name: FileYourTaxes.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "346754"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fileyourtaxes-com.yaml
+tags:
+- Individual Tax
+apis: []
+x-common:
+- type: x-facebook
+  url: http://www.facebook.com/FileYourTaxes.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/fileyourtaxes.com
+- type: x-twitter
+  url: http://twitter.com/FileYourTaxes
+- type: x-website
+  url: https://www.fileyourtaxes.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

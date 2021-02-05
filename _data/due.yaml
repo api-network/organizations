@@ -1,0 +1,47 @@
+---
+name: Due
+description: Due makes it easy for businesses to get paid online. Easy credit card
+  payment processing for small business to large enterprise.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "52736"
+url: https://raw.githubusercontent.com/api-network/organizations/main/due.yaml
+tags:
+- Billing
+apis: []
+x-common:
+- type: x-blog
+  url: https://due.com/blog/
+- type: x-facebook
+  url: https://www.facebook.com/Due/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/due/
+- type: x-login
+  url: https://app.due.com/login
+- type: x-login
+  url: https://app.due.com/login/
+- type: x-press
+  url: https://due.com/blog/press/
+- type: x-self-service-registration
+  url: https://app.due.com/register
+- type: x-self-service-registration
+  url: https://app.due.com/register/
+- type: x-support
+  url: https://support.due.com
+- type: x-support
+  url: https://support.due.com/
+- type: x-support
+  url: https://support.due.com/hc/en-us
+- type: x-twitter
+  url: https://twitter.com/intent/follow?screen_name=due
+- type: x-website
+  url: https://due.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

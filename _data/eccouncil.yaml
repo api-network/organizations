@@ -1,0 +1,72 @@
+---
+name: EC-Council
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "43368"
+url: https://raw.githubusercontent.com/api-network/organizations/main/eccouncil.yaml
+tags:
+- Certification
+apis: []
+x-common:
+- type: x-website
+  url: http://iclass.eccouncil.org
+- type: x-about
+  url: https://www.eccouncil.org/about/
+- type: x-about
+  url: https://www.eccgs.com/about-egs/
+- type: x-blog
+  url: https://blog.eccouncil.org/speed-reading/
+- type: x-blog
+  url: https://blog.eccouncil.org/ec-council-dossier/
+- type: x-blog
+  url: https://blog.eccouncil.org/
+- type: x-blog
+  url: https://blog.eccouncil.org/cyber-research/
+- type: x-code
+  url: https://www.eccouncil.org/code-of-ethics/
+- type: x-contact
+  url: https://www.eccouncil.org/about/contact/
+- type: x-events
+  url: https://ciso.eccouncil.org/ciso-events/
+- type: x-events
+  url: https://www.eccouncil.org/ece-endorsed-events/
+- type: x-facebook
+  url: https://www.facebook.com/ECCouncil
+- type: x-feed
+  url: https://blog.eccouncil.org/members-feedback/
+- type: x-forum
+  url: https://ciso.eccouncil.org/global-ciso-forum-podcast/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/ec-council
+- type: x-news
+  url: https://www.eccouncil.org/about/ec-council-news/
+- type: x-news
+  url: https://blog.eccouncil.org/ec-council-news/
+- type: x-partner
+  url: https://www.eccouncil.org/partner-with-us/
+- type: x-privacy
+  url: https://www.eccouncil.org/privacy-statement/
+- type: x-security
+  url: https://www.eccouncil.org/government-cybersecurity/
+- type: x-terms-of-service
+  url: https://www.eccouncil.org/terms-of-use/
+- type: x-twitter
+  url: https://www.twitter.com/ECCOUNCIL
+- type: x-twitter
+  url: https://twitter.com/ECCOUNCIL
+- type: x-website
+  url: https://www.eccouncil.org
+- type: x-white-papers
+  url: https://www.eccouncil.org/resources/whitepapers/
+- type: x-youtube
+  url: https://www.youtube.com/user/eccouncilusa
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

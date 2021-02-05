@@ -1,0 +1,76 @@
+---
+name: Kantox
+description: '<p>Kantox is a multinational fintech company offering FX management
+  solutions. We work hard every day to solve one of the major problems faced by international
+  companies: currency management. We believe that the financial industry, known for
+  its opacity and lack of innovation, needs a radical change. We believe it is time
+  to redefine the industry, adopting more transparent, efficient and fairer models.
+  In the end, it is all about the value we bring to clients. Our expertise, products
+  and solutions allow our customers to manage their currency exposure, build hedging
+  strategies, automate FX transactions and process international payments in a smart
+  way.</p>'
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/KantoxRetina.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "318551"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kantox.yaml
+tags:
+- Have API
+- Fintech
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.kantox.com
+- type: x-about
+  url: https://www.kantox.com/en/about/
+- type: x-about
+  url: https://www.kantox.com/en/about/company-team/
+- type: x-about
+  url: https://www.kantox.com/en/about/testimonials/
+- type: x-about
+  url: https://plus.google.com/113211137076208089558/about
+- type: x-blog
+  url: http://www.kantox.com/en/insights/news/
+- type: x-blog-rss
+  url: http://www.kantox.com/en/feed/
+- type: x-careers
+  url: https://www.kantox.com/en/about/careers/
+- type: x-contact
+  url: https://www.kantox.com/en/about/contact-us/
+- type: x-developers
+  url: https://www.kantox.com/en/products/advanced-solutions/api/
+- type: x-events
+  url: https://www.kantox.com/en/about/events/
+- type: x-facebook
+  url: https://www.facebook.com/kantox/
+- type: x-github
+  url: https://github.com/kantox
+- type: x-investor
+  url: https://www.kantox.com/en/about/investors/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/kantox
+- type: x-news
+  url: https://www.kantox.com/en/insights/news/
+- type: x-partner
+  url: https://www.kantox.com/en/partners/
+- type: x-partner
+  url: https://www.kantox.com/en/partners-2/
+- type: x-press
+  url: https://www.kantox.com/en/about/press/
+- type: x-privacy
+  url: https://www.kantox.com/en/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/kantox
+- type: x-website
+  url: http://www.kantox.com/
+- type: x-youtube
+  url: https://www.youtube.com/user/kantoxfx
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

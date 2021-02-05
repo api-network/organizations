@@ -1,0 +1,86 @@
+---
+name: Grit and Oyster Limited
+description: WordPress development & more
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/grit-and-oyster-limited.yaml
+tags:
+- Non-Profit
+apis: []
+x-common:
+- type: x-website
+  url: http://grit-oyster.co.uk/
+- type: x-about
+  url: https://grit-oyster.co.uk/about/
+- type: x-about
+  url: http://grit-oyster.co.uk/about/
+- type: x-blog
+  url: https://grit-oyster.co.uk/blog/type/link/
+- type: x-blog
+  url: https://grit-oyster.co.uk/blog/category/inspiration/
+- type: x-blog
+  url: https://grit-oyster.co.uk/blog/tag/typography/
+- type: x-blog
+  url: https://grit-oyster.co.uk/blog/2016/01/1049/
+- type: x-blog
+  url: https://grit-oyster.co.uk/blog/type/status/
+- type: x-blog
+  url: https://grit-oyster.co.uk/blog/author/andystrange/
+- type: x-blog
+  url: https://grit-oyster.co.uk/blog/type/standard/
+- type: x-blog
+  url: https://grit-oyster.co.uk/blog/category/public-policy/
+- type: x-blog
+  url: https://grit-oyster.co.uk/blog/tag/local-government/
+- type: x-blog
+  url: https://grit-oyster.co.uk/blog/tag/data-models/
+- type: x-blog
+  url: https://grit-oyster.co.uk/blog/2016/01/1049/#respond
+- type: x-blog
+  url: https://grit-oyster.co.uk/blog/category/technology/
+- type: x-blog
+  url: https://grit-oyster.co.uk/blog/tag/social-media/
+- type: x-blog
+  url: https://grit-oyster.co.uk/blog/tag/tools/
+- type: x-contact
+  url: https://grit-oyster.co.uk/contact/
+- type: x-contact
+  url: http://grit-oyster.co.uk/contact/
+- type: x-developer
+  url: http://dev.grit-oyster.co.uk
+- type: x-documentation
+  url: http://schema.org/docs/full.html
+- type: x-facebook
+  url: https://www.facebook.com/gritandoyster/
+- type: x-feed
+  url: http://grit-oyster.co.uk/feed/
+- type: x-news
+  url: https://grit-oyster.co.uk/blog/category/news/
+- type: x-open-source
+  url: https://grit-oyster.co.uk/blog/tag/open-standards/
+- type: x-open-source
+  url: https://grit-oyster.co.uk/blog/category/open-data/
+- type: x-open-source
+  url: https://grit-oyster.co.uk/blog/tag/open-data/
+- type: x-open-source
+  url: https://open-stand.org/about-us/principles/
+- type: x-press
+  url: https://grit-oyster.co.uk/blog/category/wordpress/
+- type: x-press
+  url: http://wordpress.org/
+- type: x-terms-of-service
+  url: https://designschool.canva.com/blog/typography-terms/
+- type: x-twitter
+  url: https://twitter.com/gritandoyster
+- type: x-website
+  url: https://www.grit-oyster.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

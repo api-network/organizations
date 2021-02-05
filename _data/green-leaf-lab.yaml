@@ -1,0 +1,46 @@
+---
+name: Green Leaf Lab
+description: Green Leaf Lab has focused on legitimizing and furthering the medical
+  and recreational cannabis industry through the standardization and implementation
+  of robust quality control systems, including the use of state of the art instrumentation
+  and qualified personnel.
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1462043"
+url: https://raw.githubusercontent.com/api-network/organizations/main/green-leaf-lab.yaml
+tags:
+- Profile
+- Hemp
+- CBD
+- Cannabis
+apis: []
+x-common:
+- type: x-website
+  url: http://www.greenleaflab.org
+- type: x-about
+  url: https://greenleaflab.org/
+- type: x-about
+  url: https://greenleaflab.org/about/
+- type: x-contact
+  url: https://greenleaflab.org/about/contact/
+- type: x-facebook
+  url: https://www.facebook.com/GreenLeafLab/
+- type: x-instagram
+  url: https://www.instagram.com/greenleaflab/
+- type: x-news
+  url: https://greenleaflab.org/about/news/
+- type: x-support
+  url: https://hempsupporter.com/
+- type: x-twitter
+  url: https://twitter.com/greenleaflab
+- type: x-website
+  url: http://greenleaflab.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

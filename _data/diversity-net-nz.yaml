@@ -1,0 +1,23 @@
+---
+name: diversity.net.nz
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/diversity-net-nz.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.diversity.net.nz/idg-contributor-network-anypresence-moves-beyond-mbaas-and-embraces-api-management/2015/08/18/
+- type: x-website
+  url: http://diversity.net.nz
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,51 @@
+---
+name: IT360 Inc. - Your IT Department
+description: Whether your business has 2 or 2000 computers, IT360 has the technology
+  and security solutions that will work best for your business.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "806888"
+url: https://raw.githubusercontent.com/api-network/organizations/main/it360-inc---your-it-department.yaml
+tags:
+- Illinois
+apis: []
+x-common:
+- type: x-website
+  url: http://www.it360.biz
+- type: x-about
+  url: https://www.it360.biz/aboutus/
+- type: x-about
+  url: https://www.it360.biz/aboutus/testimonials/
+- type: x-about
+  url: https://www.it360.biz/aboutus/community/
+- type: x-about
+  url: https://www.it360.biz/aboutus/360advisor/
+- type: x-about
+  url: http://www.it360.biz/aboutus
+- type: x-careers
+  url: https://www.it360.biz/careers/
+- type: x-contact
+  url: https://www.it360.biz/contact/
+- type: x-contact
+  url: https://www.it360.biz/contact
+- type: x-facebook
+  url: http://www.facebook.com/it360inc
+- type: x-feed
+  url: http://www.youtube.com/user/it360inc/feed
+- type: x-linkedin
+  url: http://www.linkedin.com/company/it360
+- type: x-privacy
+  url: https://www.it360.biz/privacy
+- type: x-twitter
+  url: http://www.twitter.com/IT360Inc
+- type: x-website
+  url: https://www.it360.biz
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

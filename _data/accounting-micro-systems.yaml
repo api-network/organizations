@@ -1,0 +1,35 @@
+---
+name: Accounting Micro Systems
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/accounting-micro-systems.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.accountingmicro.com
+- type: x-blog
+  url: https://www.accountingmicro.com/blog
+- type: x-contact
+  url: https://www.accountingmicro.com/contact-us
+- type: x-facebook
+  url: https://www.facebook.com/AccountingMicroSystems/
+- type: x-privacy
+  url: https://www.accountingmicro.com/privacy-policy
+- type: x-support
+  url: https://www.accountingmicro.com/technical-support
+- type: x-twitter
+  url: http://twitter.com/accountingmicro
+- type: x-website
+  url: https://www.accountingmicro.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

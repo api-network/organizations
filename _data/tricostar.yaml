@@ -1,0 +1,38 @@
+---
+name: Tricostar
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tricostar.yaml
+tags:
+- Groupware
+apis: []
+x-common:
+- type: x-website
+  url: http://www.tricostar.com
+- type: x-about
+  url: https://tricostar.com/about/
+- type: x-contact
+  url: https://tricostar.com/contact/
+- type: x-news
+  url: https://tricostar.com/news-feed/
+- type: x-privacy
+  url: https://tricostar.com/privacy-policy/
+- type: x-support
+  url: https://tricostar.com/isupport-it-helpdesk/
+- type: x-terms-of-service
+  url: https://tricostar.com/legal-consortium-software/
+- type: x-twitter
+  url: https://twitter.com/Tricostar
+- type: x-website
+  url: https://www.tricostar.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

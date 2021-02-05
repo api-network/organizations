@@ -1,0 +1,30 @@
+---
+name: Extreme Internet Software
+description: 'Extreme Thumbnail Generator - html photo gallery software. Extreme Picture
+  Finder: web image downloader plus Internet picture finder - download images, music,
+  video from websites. Endless Slideshow Screensaver - photo slideshow screensaver
+  with 200+ transition effects.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1051911"
+url: https://raw.githubusercontent.com/api-network/organizations/main/extreme-internet-software.yaml
+tags:
+- Web Gallery Software
+- Url Generator
+- Slideshow Screensaver
+- Search Tools
+- Picture Finder
+- Image Downloader
+apis: []
+x-common:
+- type: x-website
+  url: https://www.exisoftware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

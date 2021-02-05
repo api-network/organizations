@@ -1,0 +1,43 @@
+---
+name: PerimeterX
+description: Protect your website against web scraping, scalping, account takeover,
+  ad fraud, click fraud, carding and other bot attacks. Try now.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29505-perimeterx-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "99711"
+url: https://raw.githubusercontent.com/api-network/organizations/main/perimeterx.yaml
+tags:
+- Security
+apis: []
+x-common:
+- type: x-website
+  url: http://www.perimeterx.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/perimeterx-inc-
+- type: x-email
+  url: info@perimeterx.com
+- type: x-email
+  url: pr@perimeterx.com
+- type: x-email
+  url: support@perimeterx.com
+- type: x-email
+  url: privacy@perimeterx.com
+- type: x-facebook
+  url: https://www.facebook.com/PerimeterX
+- type: x-linkedin
+  url: https://www.linkedin.com/company/perimeterx
+- type: x-twitter
+  url: https://twitter.com/perimeterx
+- type: x-website
+  url: http://perimeterx.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=sNRJvr2dJiI&t=4s
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

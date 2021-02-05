@@ -1,0 +1,62 @@
+---
+name: U.S. Government Publishing Office
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/u-s--government-publishing-office.yaml
+tags:
+- U.s. Passport
+- Secure Credentials
+- Secure
+- Passports
+- Official
+- Legislative Branch
+- Gpo
+- GovInfo
+- Government Publications
+- Government Jobs
+- Government Information
+- Government Documents
+- Federal Register
+- Federal Digital System
+- Fdsys
+- Ebooks
+- Digitization
+- Digital
+- Creative Services
+- Congressional Record
+- Applications
+apis: []
+x-common:
+- type: x-website
+  url: http://www.gpo.gov
+- type: x-facebook
+  url: https://www.facebook.com/USGPO
+- type: x-facebook
+  url: http://facebook.com/USGPO
+- type: x-instagram
+  url: https://www.instagram.com/usgpo
+- type: x-linkedin
+  url: https://www.linkedin.com/company/u.s.-government-printing-office
+- type: x-pinterest
+  url: https://www.pinterest.com/usgpo/
+- type: x-pinterest
+  url: http://pinterest.com/usgpo/
+- type: x-twitter
+  url: https://twitter.com/USGPO
+- type: x-twitter
+  url: http://twitter.com/USGPO
+- type: x-youtube
+  url: https://www.youtube.com/user/gpoprinter
+- type: x-youtube
+  url: http://youtube.com/gpoprinter
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

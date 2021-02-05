@@ -1,0 +1,38 @@
+---
+name: Softcat plc (UK)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "945395"
+url: https://raw.githubusercontent.com/api-network/organizations/main/softcat-plc-uk.yaml
+tags:
+- Products And Tools
+apis: []
+x-common:
+- type: x-website
+  url: http://www.softcat.com
+- type: x-careers
+  url: https://jobs.softcat.com/
+- type: x-facebook
+  url: https://www.facebook.com/softcatuk/
+- type: x-instagram
+  url: https://www.instagram.com/softcat/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/softcat
+- type: x-support
+  url: https://supportcat.cloudsoftcat.com
+- type: x-twitter
+  url: https://twitter.com/Softcat
+- type: x-website
+  url: https://www.softcat.com
+- type: x-youtube
+  url: https://www.youtube.com/user/SoftcatProductions
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

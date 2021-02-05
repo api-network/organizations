@@ -1,0 +1,23 @@
+---
+name: the-parallax.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: ""
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/theparallax-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: https://www.the-parallax.com/2016/08/09/hackers-federal-funding-regulation-software-security/
+- type: x-website
+  url: http://the-parallax.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

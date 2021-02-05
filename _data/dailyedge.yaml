@@ -1,0 +1,28 @@
+---
+name: DailyEdge
+description: The latest irish and international entertainment news from The Daily
+  Edge
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26584-dailyedge.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "46909"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dailyedge.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.dailyedge.ie
+- type: x-email
+  url: kelly@dailyedge.ie
+- type: x-twitter
+  url: https://twitter.com/dailyedge
+- type: x-website
+  url: http://dailyedge.ie
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

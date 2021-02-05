@@ -1,0 +1,28 @@
+---
+name: Luxon Software Data Converters
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "853536"
+url: https://raw.githubusercontent.com/api-network/organizations/main/luxon-software-data-converters.yaml
+tags:
+- Conversion
+apis: []
+x-common:
+- type: x-code
+  url: http://xmltocsv.codeplex.com/
+- type: x-code
+  url: http://kbcsv.codeplex.com/
+- type: x-code
+  url: http://closedxml.codeplex.com/
+- type: x-website
+  url: https://www.luxonsoftware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

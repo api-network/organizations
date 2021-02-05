@@ -1,0 +1,50 @@
+---
+name: OpenStreetMap
+description: OpenStreetMap is the free wiki world map.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/2017_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "10"
+x-alexaRank: "6275"
+url: https://raw.githubusercontent.com/api-network/organizations/main/openstreetmap.yaml
+tags:
+- Tags
+- Meta
+- Maps
+- Maps
+- Have API Paths
+- Have API
+- Geo
+apis: []
+x-common:
+- type: x-base
+  url: http://api.openstreetmap.org/
+- type: x-blog
+  url: http://blog.osmfoundation.org/
+- type: x-blog-rss
+  url: https://blog.openstreetmap.org/feed/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/openstreetmap-3
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/openstreetmap
+- type: x-developer
+  url: http://dev.openstreetmap.org
+- type: x-developers
+  url: http://wiki.openstreetmap.org/wiki/API
+- type: x-open-source
+  url: https://hardware.openstreetmap.org/thanks/
+- type: x-open-source
+  url: https://www.openstreetmap.org/
+- type: x-open-source
+  url: https://apis.dev.openstreetmap.org/
+- type: x-twitter
+  url: https://twitter.com/openstreetmap
+- type: x-website
+  url: http://www.openstreetmap.org/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

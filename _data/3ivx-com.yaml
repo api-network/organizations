@@ -1,0 +1,59 @@
+---
+name: 3ivx.com
+description: 3ivx develops audio/video codecs, and streaming/transcoding components
+  for H.264, MPEG-4, HE-AAC and HLS on Windows, Mac OS X, iOS, Android and Unix/Linux.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1583487"
+url: https://raw.githubusercontent.com/api-network/organizations/main/3ivx-com.yaml
+tags:
+- Windows Phone 8
+- Windows 8
+- Video Compression
+- Video
+- Technology
+- Streaming
+- Quicktime
+- Multi-Channel
+- Mpeg4
+- MPEG-4
+- MP4
+- Media Foundation
+- Mac OS
+- HTTP Live Streaming
+- HLS
+- HE-AAC
+- H.264
+- Filter Suite
+- Divx
+- DirectShow
+- Development
+- Compression
+- Codec
+- Audio
+- AAC
+- 3vix
+- 3ivx
+apis: []
+x-common:
+- type: x-contact
+  url: http://www.3ivx.com/contact/
+- type: x-forum
+  url: http://forums.3ivx.com
+- type: x-news
+  url: http://news.xbox.com/2014/09/ent-team-stream-xbox-one
+- type: x-news
+  url: http://news.xbox.com/2014/04/ent-wwe-xbox-one
+- type: x-news
+  url: http://news.xbox.com/2013/12/ent-verizon-fios-xbox-one
+- type: x-website
+  url: https://www.3ivx.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

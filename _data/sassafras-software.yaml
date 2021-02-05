@@ -1,0 +1,41 @@
+---
+name: Sassafras Software
+description: Software Asset Management (SAM), usage tracking, software license compliance.
+  Audit software and manage licensing. Cross-platform, VM, thin-client support.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2515133"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sassafras-software.yaml
+tags:
+- License Management
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.sassafras.com/category/tech-blog/
+- type: x-case-studies
+  url: https://www.sassafras.com/case-studies/
+- type: x-contact
+  url: https://www.sassafras.com/contact/
+- type: x-developer
+  url: http://developer.sassafras.com
+- type: x-documentation
+  url: https://www.sassafras.com/documentation/
+- type: x-news
+  url: https://www.sassafras.com/category/news/
+- type: x-news
+  url: https://www.sassafras.com/news/
+- type: x-partner
+  url: https://www.sassafras.com/partners/
+- type: x-webinars
+  url: https://www.sassafras.com/webinar-7-6-new/
+- type: x-website
+  url: https://www.sassafras.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

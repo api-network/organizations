@@ -1,0 +1,118 @@
+---
+name: Twitter
+description: From breaking news and entertainment to sports and politics, get the
+  full story with all the live commentary.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/266_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "36"
+url: https://raw.githubusercontent.com/api-network/organizations/main/twitter.yaml
+tags:
+- Relative Data
+- My API Stack
+- Imports
+- Historical Data API
+- Have Swagger
+- Have OpenAPI
+- Have API Paths
+- Have API
+- General Data
+- API LIfeycle
+apis: []
+x-common:
+- type: x--net-library
+  url: https://tweetinvi.codeplex.com/
+- type: x-advertising-development-kit
+  url: https://docs.fabric.io/unity/mopub/overview.html
+- type: x-android-sdk
+  url: https://docs.fabric.io/android/fabric/overview.html
+- type: x-apple-sdk
+  url: https://docs.fabric.io/apple/fabric/overview.html
+- type: x-beta
+  url: https://docs.fabric.io/unity/beta/overview.html
+- type: x-coldfusion-library
+  url: http://monkehtweet.riaforge.org/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/twitter
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/twitter
+- type: x-forums
+  url: https://twittercommunity.com/
+- type: x-forums
+  url: https://twittercommunity.com/c/fabric
+- type: x-github
+  url: https://github.com/twitter/twurl
+- type: x-github
+  url: https://github.com/twitter
+- type: x-go-library
+  url: https://github.com/kurrik/twittergo
+- type: x-investor
+  url: https://investor.twitterinc.com/
+- type: x-java-library
+  url: https://www.github.com/twitter/hbc
+- type: x-node-js-library
+  url: https://github.com/BoyCook/TwitterJSClient
+- type: x-php-library
+  url: https://github.com/abraham/twitteroauth
+- type: x-privacy
+  url: https://policies.google.com/privacy?hl=en
+- type: x-privacy
+  url: https://www.demandbase.com/privacy-policy/
+- type: x-python-library
+  url: https://github.com/bear/python-twitter
+- type: x-ruby-library
+  url: https://github.com/sferik/twitter
+- type: x-statistics
+  url: https://docs.fabric.io/unity/answers/overview.html
+- type: x-twitter
+  url: https://twitter.com/Twitter
+- type: x-twitter
+  url: https://twitter.com/twitterapi/
+- type: x-twitter
+  url: https://twitter.com/twittereng/
+- type: x-twitter
+  url: https://developer.twitter.com/en/community.html
+- type: x-twitter
+  url: http://twitter.com/twitterdev
+- type: x-twitter
+  url: https://business.twitter.com/
+- type: x-twitter
+  url: https://business.twitter.com/en/advertising.html
+- type: x-twitter
+  url: https://business.twitter.com/en/targeting.html
+- type: x-twitter
+  url: https://business.twitter.com/en/analytics.html
+- type: x-twitter
+  url: https://ads.twitter.com?ref=en-btc-gobal-footer
+- type: x-twitter
+  url: https://dev.twitter.com/
+- type: x-twitter
+  url: https://dev.twitter.com/community
+- type: x-twitter
+  url: https://marketing.twitter.com/
+- type: x-twitter
+  url: https://marketing.twitter.com/na/en/insights.html
+- type: x-twitter
+  url: https://marketing.twitter.com/na/en/solutions.html
+- type: x-twitter
+  url: https://marketing.twitter.com/na/en/collections.html
+- type: x-twitter
+  url: https://twitter.com/tos
+- type: x-twitter
+  url: http://m.twitter.com
+- type: x-twitter
+  url: http://status.twitter.com
+- type: x-twitter
+  url: https://marketing.twitter.com
+- type: x-twitter
+  url: https://business.twitter.com
+- type: x-twitter
+  url: https://dev.twitter.com/web/embedded-tweets
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

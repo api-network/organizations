@@ -1,0 +1,76 @@
+---
+name: Elsevier ScienceDirect
+description: Elsevier is a global information analytics business that helps institutions
+  and professionals progress science, advance healthcare and improve performance.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/2011_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "555"
+url: https://raw.githubusercontent.com/api-network/organizations/main/elsevier-sciencedirect.yaml
+tags:
+- Journal
+- Journal
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-about
+  url: https://www.elsevier.com/about
+- type: x-about
+  url: https://www.elsevier.com/about/this-is-elsevier
+- type: x-careers
+  url: https://www.elsevier.com/about/careers
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/elsevier
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/elsevier
+- type: x-developer
+  url: http://dev.elsevier.com
+- type: x-email
+  url: y.schemm@elsevier.com
+- type: x-email
+  url: newsroom@elsevier.com
+- type: x-email
+  url: T.Reller@elsevier.com
+- type: x-email
+  url: h.boersma@elsevier.com
+- type: x-email
+  url: c.capot@elsevier.com
+- type: x-email
+  url: s.boucherie@elsevier.com
+- type: x-email
+  url: d.tucker@elsevier.com
+- type: x-email
+  url: j.chan@elsevier.com
+- type: x-email
+  url: permissionshelpdesk@elsevier.com
+- type: x-email
+  url: DMCA@elsevier.com
+- type: x-facebook
+  url: https://www.facebook.com/ElsevierConnect
+- type: x-github
+  url: https://github.com/ElsevierDev/elsapy
+- type: x-linkedin
+  url: https://www.linkedin.com/company/elsevier
+- type: x-platform
+  url: https://www.elsevier.com/research-platforms
+- type: x-privacy
+  url: http://www.elsevier.com/locate/privacypolicy
+- type: x-support
+  url: https://www.elsevier.com/support
+- type: x-twitter
+  url: https://twitter.com/ElsevierConnect
+- type: x-twitter
+  url: https://twitter.com/ElsevierConnec
+- type: x-website
+  url: http://www.elsevier.com/
+- type: x-youtube
+  url: https://www.youtube.com/c/elsevier/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

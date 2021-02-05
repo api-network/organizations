@@ -1,0 +1,24 @@
+---
+name: 'CDH Productions: GraFX Saver Pro'
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cdh-productions-grafx-saver-pro.yaml
+tags:
+- Screen Savers
+apis: []
+x-common:
+- type: x-support
+  url: http://www.cdhnow.com/gs-help
+- type: x-website
+  url: https://www.grafxsaver.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,30 @@
+---
+name: Teepin
+description: ""
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/logo_teepin.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/teepin.yaml
+tags:
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.teepin.com
+- type: x-base
+  url: https://www.teepin.com/api/
+- type: x-developers
+  url: https://www.teepin.com/api
+- type: x-twitter
+  url: https://twitter.com/Teepin
+- type: x-website
+  url: https://www.teepin.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

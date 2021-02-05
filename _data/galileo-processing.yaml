@@ -1,0 +1,60 @@
+---
+name: Galileo Processing
+description: Do you need to develop a financial program? Galileo connects people and
+  payments through our intuitive financial services platform.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28207-www-galileoprocessing-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/galileo-processing.yaml
+tags:
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.galileoprocessing.com
+- type: x-contact
+  url: https://www.galileo-ft.com/contact-us/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/galileo-processing-inc
+- type: x-documentation
+  url: https://docs.galileo-ft.com/
+- type: x-email
+  url: info@galileoprocessing.com
+- type: x-email
+  url: media@galileoprocessing.com
+- type: x-instagram
+  url: https://www.instagram.com/explore/tags/galileolife/
+- type: x-login
+  url: https://dashboard.galileo-ft.com/auth/login
+- type: x-login
+  url: https://sandbox.gpsrv.com/auth/login
+- type: x-platform
+  url: https://www.galileo-ft.com/platform/
+- type: x-platform
+  url: https://www.galileo-ft.com/platform/standard-services/
+- type: x-platform
+  url: https://www.galileo-ft.com/platform/premium-services/
+- type: x-platform
+  url: https://www.galileo-ft.com/platform/galileo-open-apis/
+- type: x-platform
+  url: https://www.galileo-ft.com/platform/galileo-sandbox/
+- type: x-pricing
+  url: https://www.galileo-ft.com/pricing/
+- type: x-privacy
+  url: https://www.galileo-ft.com/privacy-disclosure/
+- type: x-twitter
+  url: https://twitter.com/galileo_tweets
+- type: x-twitter
+  url: https://twitter.com/TweetGalileo
+- type: x-website
+  url: https://www.galileoprocessing.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

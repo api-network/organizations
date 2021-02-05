@@ -1,0 +1,30 @@
+---
+name: MyWish
+description: ""
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27064-mywish-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "528656"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mywish.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://mywish.io
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/mywish
+- type: x-email
+  url: support@mywish.io
+- type: x-twitter
+  url: https://twitter.com/mywishplatform
+- type: x-website
+  url: https://mywish.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

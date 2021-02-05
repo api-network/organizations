@@ -1,0 +1,44 @@
+---
+name: Texas Instruments
+description: 'See why Texas Instruments (TI) is the #1 recommended brand of graphing
+  calculator in the U.S. Download free math, science and STEM lessons. Update your
+  calculator to the latest OS. Access guidebooks for TI calculators. Learn to use
+  your TI calculator for math, science, coding or on tests like the ACT, SAT and AP
+  exams.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5606"
+url: https://raw.githubusercontent.com/api-network/organizations/main/texas-instruments.yaml
+tags:
+- Ti-84
+- Ti-83
+- TI Graphing Calculators
+- Ti 84
+- Ti
+- Texas Instruments
+- Scientific Calculator
+- Nspire
+- Graphing Calculator
+- Calculators
+- Calculator
+apis: []
+x-common:
+- type: x-facebook
+  url: http://www.facebook.com/TICalculators
+- type: x-instagram
+  url: http://instagram.com/ticalculators
+- type: x-twitter
+  url: http://twitter.com/TICalculators
+- type: x-website
+  url: https://education.ti.com
+- type: x-youtube
+  url: https://www.youtube.com/user/TexasInstrumentsCalc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

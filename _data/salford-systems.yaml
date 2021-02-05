@@ -1,0 +1,52 @@
+---
+name: Salford Systems
+description: Salford Systems specializes in state-of-the-art machine learning technology
+  designed to assist data scientists in all aspects of predictive model development.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1323201"
+url: https://raw.githubusercontent.com/api-network/organizations/main/salford-systems.yaml
+tags:
+- TreeNet
+- Tool Vendors
+- SPM 8
+- SPM
+- Salford Predictive Modeler
+- Salford Integrated Suite Of Data Mining Software
+- RandomForests
+- Data Mining
+- Clickstream
+- Cart
+apis: []
+x-common:
+- type: x-website
+  url: http://www.salford-systems.com
+- type: x-developer
+  url: http://dev.salford-systems.com
+- type: x-facebook
+  url: https://www.facebook.com/Salford.us
+- type: x-forum
+  url: http://www.bluehostforum.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/salford-systems
+- type: x-login
+  url: http://www.bluehost.com/cgi-bin/cplogin
+- type: x-pricing
+  url: https://www.minitab.com/en-us/products/spm/pricing/
+- type: x-support
+  url: http://helpdesk.bluehost.com
+- type: x-twitter
+  url: https://twitter.com/salfordsystems
+- type: x-webinars
+  url: http://info.minitab.com/spm-webinar
+- type: x-website
+  url: https://www.salford-systems.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

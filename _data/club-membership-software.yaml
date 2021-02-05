@@ -1,0 +1,23 @@
+---
+name: Club Membership Software
+description: Program to provide club secretaries with a simple method of tracking
+  their members. Store member details. Print lists, labels, and send emails to members.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/club-membership-software.yaml
+tags:
+- Small Business
+apis: []
+x-common:
+- type: x-website
+  url: https://www.club-membership-software.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

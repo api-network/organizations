@@ -1,0 +1,24 @@
+---
+name: Calculators, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2786538"
+url: https://raw.githubusercontent.com/api-network/organizations/main/calculators-inc-.yaml
+tags:
+- Vendors
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.calculatorsinc.com
+- type: x-website
+  url: https://www.calculatorsinc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

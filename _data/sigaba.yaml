@@ -1,0 +1,75 @@
+---
+name: Sigaba
+description: Find out how Proofpoint helps protect people, data and brands against
+  the latest cyber attacks. Offering cyber security and compliance solutions for email,
+  web, cloud, and social media.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sigaba.yaml
+tags:
+- Security-as-a-service
+- Secure Communications
+- SaaS
+- Email Security
+- Data Protection
+- Cryptography
+apis: []
+x-common:
+- type: x-website
+  url: https://www.proofpoint.com
+- type: x-about
+  url: https://www.proofpoint.com/us/company/about
+- type: x-blog
+  url: https://www.proofpoint.com/us/blog
+- type: x-careers
+  url: https://www.proofpoint.com/us/company/careers
+- type: x-contact
+  url: https://www.proofpoint.com/us/contact
+- type: x-contact
+  url: https://www.proofpoint.com/us/contact/office-locations
+- type: x-events
+  url: https://www.proofpoint.com/us/company/events
+- type: x-facebook
+  url: http://www.facebook.com/proofpoint
+- type: x-investor
+  url: https://investors.proofpoint.com
+- type: x-investor
+  url: http://investors.proofpoint.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/proofpoint
+- type: x-login
+  url: https://suite.nexgate.com/users/sign_in
+- type: x-login
+  url: https://emaildefense.proofpoint.com/login.php
+- type: x-login
+  url: https://us1.proofpointessentials.com/app/login.php
+- type: x-news
+  url: https://www.proofpoint.com/us/news
+- type: x-partner
+  url: https://partners.proofpoint.com/#locatorContainer
+- type: x-partner
+  url: https://partners.proofpoint.com/?eid=register
+- type: x-partner
+  url: https://partners.proofpoint.com
+- type: x-platform
+  url: https://www.proofpoint.com/us/technology-platform
+- type: x-support
+  url: https://www.proofpoint.com/us/support-services
+- type: x-twitter
+  url: http://www.twitter.com/proofpoint
+- type: x-webinars
+  url: https://www.proofpoint.com/us/resources/webinar
+- type: x-website
+  url: https://www.sigaba.com
+- type: x-white-papers
+  url: https://www.proofpoint.com/us/resources/white-paper
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

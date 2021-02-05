@@ -1,0 +1,32 @@
+---
+name: Microsoft Excel front-end for databases
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7044356"
+url: https://raw.githubusercontent.com/api-network/organizations/main/microsoft-excel-frontend-for-databases.yaml
+tags:
+- Add-Ins
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.savetodb.com/contacts.htm
+- type: x-developer
+  url: https://www.savetodb.com/10-steps-for-developers.htm
+- type: x-privacy
+  url: https://www.savetodb.com/privacy-policy.htm
+- type: x-support
+  url: https://www.savetodb.com/help/planning-application.htm
+- type: x-support
+  url: https://www.savetodb.com/help/savetodb-framework.htm
+- type: x-website
+  url: https://www.savetodb.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

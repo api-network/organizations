@@ -1,0 +1,41 @@
+---
+name: FTP Today
+description: Your business needs secure and compliance-compatible file hosting. Try
+  us for free for 30 days and discover what peace of mind looks like.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "428496"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ftp-today.yaml
+tags:
+- Service Providers
+apis: []
+x-common:
+- type: x-about
+  url: https://www.ftptoday.com/about-us-secure-file-transfer
+- type: x-blog
+  url: https://www.ftptoday.com/blog
+- type: x-blog
+  url: https://blog.ftptoday.com/
+- type: x-contact
+  url: https://www.ftptoday.com/contact-ftp-today-sales
+- type: x-linkedin
+  url: https://www.linkedin.com/company/ftp-today
+- type: x-pricing
+  url: https://www.ftptoday.com/ftp-site-pricing
+- type: x-privacy
+  url: https://www.ftptoday.com/privacy-policy
+- type: x-support
+  url: https://support.ftptoday.com/hc/en-us
+- type: x-twitter
+  url: https://twitter.com/ftptoday
+- type: x-website
+  url: https://www.ftptoday.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

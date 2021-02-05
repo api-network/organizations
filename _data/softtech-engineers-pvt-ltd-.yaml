@@ -1,0 +1,38 @@
+---
+name: SoftTech Engineers Pvt.Ltd.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "375511"
+url: https://raw.githubusercontent.com/api-network/organizations/main/softtech-engineers-pvt-ltd-.yaml
+tags:
+- AEC Design
+apis: []
+x-common:
+- type: x-website
+  url: https://softtech-engr.com/
+- type: x-facebook
+  url: https://www.facebook.com/SoftTechEngineersLtd
+- type: x-linkedin
+  url: https://www.linkedin.com/company/softtechengineersltd
+- type: x-privacy
+  url: https://softtech-engr.com/privacy/
+- type: x-slideshare
+  url: http://www.slideshare.net/SoftTechWeb2
+- type: x-terms-of-service
+  url: https://softtech-engr.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/SofttechEngg
+- type: x-website
+  url: https://www.softtech-engr.com
+- type: x-youtube
+  url: https://www.youtube.com/user/Tubesofttech
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

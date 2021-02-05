@@ -1,0 +1,32 @@
+---
+name: MuslimSalat.com
+description: Prayer Times for around the world
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1875_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1066203"
+url: https://raw.githubusercontent.com/api-network/organizations/main/muslimsalat-com.yaml
+tags:
+- Religion
+- Prayer
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://MuslimSalat.com
+- type: x-contact
+  url: https://blog.globalquran.com/contact-us/
+- type: x-contact
+  url: http://blog.globalquran.com/contact-us/
+- type: x-twitter
+  url: https://twitter.com/MuslimSalat
+- type: x-website
+  url: http://muslimsalat.com/api/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

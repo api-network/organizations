@@ -1,0 +1,39 @@
+---
+name: Android Flagship
+description: Browse a list of the best all-time articles and videos about Android-gs
+  from all over the web. We help you with quick and easy solutions for Android.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "629722"
+url: https://raw.githubusercontent.com/api-network/organizations/main/android-flagship.yaml
+tags:
+- News And Media
+apis: []
+x-common:
+- type: x-website
+  url: http://androidflagship.com
+- type: x-about
+  url: https://androidflagship.com/about-us/
+- type: x-contact
+  url: https://androidflagship.com/contact/
+- type: x-contact
+  url: https://androidflagship.com/contact
+- type: x-facebook
+  url: https://www.facebook.com/AndroidFlagship/
+- type: x-news
+  url: https://androidflagship.com/news/
+- type: x-privacy
+  url: https://androidflagship.com/privacy-policy
+- type: x-twitter
+  url: https://twitter.com/AndroidFlagship
+- type: x-website
+  url: https://androidflagship.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

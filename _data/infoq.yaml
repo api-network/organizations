@@ -1,0 +1,40 @@
+---
+name: InfoQ
+description: ""
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/pull_image_10-12-2019-02-55-pm.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "21048"
+url: https://raw.githubusercontent.com/api-network/organizations/main/infoq.yaml
+tags:
+- Tech News
+- Tech Blog
+- Profile
+apis: []
+x-common:
+- type: x-website
+  url: http://www.infoq.com
+- type: x-blog-rss
+  url: http://www.infoq.com/feed?token=t3F3IktlumjCPpG3uQW4sWIdJ4cIuKBd
+- type: x-facebook
+  url: https://www.facebook.com/InfoQ-75911537320
+- type: x-linkedin
+  url: http://www.linkedin.com/company/infoq
+- type: x-privacy
+  url: https://www.infoq.com/privacy-notice
+- type: x-twitter
+  url: http://twitter.com/infoq
+- type: x-twitter
+  url: https://twitter.com/infoq
+- type: x-website
+  url: http://www.infoq.com/
+- type: x-youtube
+  url: https://www.youtube.com/user/MarakanaTechTV
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

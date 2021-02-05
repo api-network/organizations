@@ -1,0 +1,54 @@
+---
+name: Site Brokers
+description: Site-Brokers.com can help you in buying,  selling or trading existing
+  web sites. You can list your website for sale for free in our database or you can
+  search the list of available sites for sale.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/site-brokers.yaml
+tags:
+- Websites For Sale
+- Websites
+- Website
+- Web Sites
+- Web Site
+- Web Property
+- Web Properties
+- Web Broker
+- Virtual Estates
+- Trade
+- Selling Websites
+- Selling
+- Sell Websites
+- Sell
+- Sale
+- Purchase
+- Invest
+- Internet Business
+- General Brokers
+- For Sale
+- Domains
+- Domain
+- Cyber Estate
+- Cyber Business
+- Cyber Broker
+- Buying Websites
+- Buying
+- Buy
+- Brokerage
+- Broker
+- Acquire
+apis: []
+x-common:
+- type: x-website
+  url: https://www.site-brokers.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

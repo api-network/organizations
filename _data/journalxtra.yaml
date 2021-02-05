@@ -1,0 +1,33 @@
+---
+name: JournalXtra
+description: Linux, WordPress, Genesis and other techie things.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "297681"
+url: https://raw.githubusercontent.com/api-network/organizations/main/journalxtra.yaml
+tags: []
+apis: []
+x-common:
+- type: x-about
+  url: https://journalxtra.com/about-journalxtra/
+- type: x-contact
+  url: https://journalxtra.com/contact/
+- type: x-press
+  url: https://journalxtra.com/wordpress/
+- type: x-press
+  url: https://journalxtra.com/wordpress/plugins/
+- type: x-press
+  url: https://journalxtra.com/wordpress/snippets/
+- type: x-privacy
+  url: https://journalxtra.com/privacy/
+- type: x-website
+  url: https://journalxtra.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

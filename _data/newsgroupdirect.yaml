@@ -1,0 +1,54 @@
+---
+name: NewsgroupDirect
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "396388"
+url: https://raw.githubusercontent.com/api-network/organizations/main/newsgroupdirect.yaml
+tags:
+- Feed Services
+apis: []
+x-common:
+- type: x-contact
+  url: https://newsgroupdirect.com/#contact
+- type: x-news
+  url: https://newsgroupdirect.com/
+- type: x-news
+  url: https://newsgroupdirect.com/#pricing
+- type: x-news
+  url: https://newsgroupdirect.com/usenet-deals
+- type: x-news
+  url: https://newsgroupdirect.com/about
+- type: x-news
+  url: https://newsgroupdirect.com/faq
+- type: x-news
+  url: https://newsgroupdirect.com/server-addresses
+- type: x-news
+  url: http://newsgroupdirect.zendesk.com/home
+- type: x-news
+  url: https://newsgroupdirect.com/login-form
+- type: x-news
+  url: https://newsdemon.com
+- type: x-news
+  url: http://www.facebook.com/newsgroupfans
+- type: x-news
+  url: https://newsgroupdirect.refersion.com/
+- type: x-news
+  url: https://newsgroupdirect.com/blog
+- type: x-news
+  url: https://newsgroupdirect.com/terms-of-service
+- type: x-news
+  url: https://newsgroupdirect.com/privacy-policy
+- type: x-news
+  url: https://newsgroupdirect.com/dmca
+- type: x-website
+  url: https://www.newsgroupdirect.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

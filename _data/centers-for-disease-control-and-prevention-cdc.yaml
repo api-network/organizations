@@ -1,0 +1,95 @@
+---
+name: Centers for Disease Control and Prevention (CDC)
+description: <p><span>The Centers for Disease Control and Prevention is a national
+  public health institute in the United States. It is a United States federal agency,
+  under the Department of Health and Human Services, and is headquartered in Atlanta,
+  Georgia.</span></p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/centers-for-disease-control-and-prevention-cdc.yaml
+tags:
+- Work Organization
+- Violence Prevention
+- Tuberculosis
+- Stress
+- Stopbullying
+- South Africa
+- Recalls
+- Public Health
+- Polio
+- Overseas
+- Organizations
+- Niosh
+- Namibia
+- Nairobi
+- Medicine
+- Malaria
+- Kenya
+- Hiv
+- Global Health
+- Globa Health
+- Foodborne Illness
+- Food Safety
+- Federal Government
+- Cyberbullying
+- Cdc_tb
+- Cdctb
+- Cdc
+- Careers
+- Bullying
+- AIDS
+- Africassss
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cdc.gov/
+- type: x-data
+  url: https://www.cdc.gov/datastatistics/index.html
+- type: x-facebook
+  url: https://www.facebook.com/CDCTB/
+- type: x-facebook
+  url: https://www.facebook.com/StopBullying.Gov
+- type: x-github
+  url: http://github.com/informaticslab
+- type: x-twitter
+  url: http://www.twitter.com/foodsafetygov
+- type: x-twitter
+  url: http://twitter.com/cdc_tb
+- type: x-twitter
+  url: https://twitter.com/stopbullyinggov
+- type: x-twitter
+  url: http://twitter.com/NIOSH_WSD
+- type: x-twitter
+  url: http://twitter.com/cdcglobaljobs
+- type: x-twitter
+  url: http://twitter.com/cdckenya
+- type: x-twitter
+  url: http://twitter.com/cdcsouthafrica
+- type: x-twitter
+  url: http://twitter.com/cdcnamibia
+- type: x-twitter
+  url: http://twitter.com/cdcglobal
+- type: x-twitter
+  url: http://twitter.com/drgrantcdc
+- type: x-twitter
+  url: http://twitter.com/vissercdc
+- type: x-twitter
+  url: http://twitter.com/drboylecdc
+- type: x-twitter
+  url: http://twitter.com/drpeacockcdc
+- type: x-twitter
+  url: http://twitter.com/drgrossecdc
+- type: x-twitter
+  url: http://twitter.com/CDC_Cancer
+- type: x-twitter
+  url: http://twitter.com/CDCgov
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

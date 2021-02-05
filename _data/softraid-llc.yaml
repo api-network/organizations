@@ -1,0 +1,37 @@
+---
+name: Softraid LLC
+description: SoftRAID's software RAID system for Mac protects your files from sudden
+  disk failure, constantly monitors and tests disks for reliability, and to ensure
+  they aren't failing or about to fail. Now with SoftRAID Easy Setup.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "823954"
+url: https://raw.githubusercontent.com/api-network/organizations/main/softraid-llc.yaml
+tags:
+- TRIM
+- Smart
+- S.M.A.R.T
+- Raid
+- OWC ThunderBay
+- Mac OS
+- Disk Failure
+- Disk Drive
+- Data Storage
+- Data Safety
+apis: []
+x-common:
+- type: x-developer
+  url: http://dev.softraid.com
+- type: x-forum
+  url: http://softraid.com/forum/
+- type: x-website
+  url: https://www.softraid.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,26 @@
+---
+name: World Construction Set
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/world-construction-set.yaml
+tags:
+- Terrain
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/3dnaturedotcom/
+- type: x-twitter
+  url: https://twitter.com/3dnaturedotcom
+- type: x-website
+  url: https://www.3dnature.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

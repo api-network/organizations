@@ -1,0 +1,46 @@
+---
+name: Tavve
+description: ZoneRanger reduces firewall rule complexity & administrative costs while
+  increasing network security. Network firewall security. Cyber Security. DMZ. Learn
+  more
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4003516"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tavve.yaml
+tags:
+- Zone Ranger
+- Remote Network
+- Proxy
+- Network Security
+- Network Management
+- Application Layer Proxy Firewall
+- Application Layer
+apis: []
+x-common:
+- type: x-about
+  url: https://www.tavve.com/about/
+- type: x-about
+  url: https://www.tavve.com/about/subpage/
+- type: x-blog
+  url: https://www.tavve.com/category/blog/
+- type: x-careers
+  url: https://www.tavve.com/about/careers/
+- type: x-contact
+  url: https://www.tavve.com/contact-2/
+- type: x-partner
+  url: https://www.tavve.com/partners/
+- type: x-security
+  url: https://www.tavve.com/cybersecurity-events/
+- type: x-support
+  url: https://www.tavve.com/support/troubleshooting/
+- type: x-website
+  url: https://www.tavve.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

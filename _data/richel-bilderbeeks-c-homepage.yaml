@@ -1,0 +1,36 @@
+---
+name: Richel Bilderbeek's C++ Homepage
+description: Homepage of Richel Bilderbeek about C++
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4403593"
+url: https://raw.githubusercontent.com/api-network/organizations/main/richel-bilderbeeks-c-homepage.yaml
+tags:
+- Personal Pages
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/richelbilderbeek/performances
+- type: x-github
+  url: http://richelbilderbeek.github.io
+- type: x-github
+  url: https://github.com/richelbilderbeek/BoostGraphTutorial
+- type: x-github
+  url: https://github.com/richelbilderbeek/ApproxyClock
+- type: x-github
+  url: https://github.com/richelbilderbeek/K3Reviews
+- type: x-github
+  url: https://github.com/richelbilderbeek/EasyCoffee
+- type: x-github
+  url: https://github.com/richelbilderbeek/music
+- type: x-website
+  url: https://www.richelbilderbeek.nl
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,46 @@
+---
+name: Dreambook
+description: Award Winning Web Hosting? Yes, but more importantly, we make sure our
+  customer's websites load fast, stay secure & are up 100% of the time. We guarantee
+  it.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dreambook.yaml
+tags:
+- Guestbooks
+apis: []
+x-common:
+- type: x-website
+  url: https://www.dhurl.org/2ux
+- type: x-facebook
+  url: https://www.facebook.com/DreamHost/
+- type: x-instagram
+  url: https://www.instagram.com/dreamhost
+- type: x-linkedin
+  url: https://www.linkedin.com/company/dreamhost
+- type: x-login
+  url: https://iad2.dreamcompute.com/auth/login/?next=/
+- type: x-open-source
+  url: http://wiki.openstack.org/Horizon
+- type: x-status
+  url: https://www.dreamhoststatus.com/
+- type: x-support
+  url: https://help.dreamhost.com/hc/en-us/
+- type: x-support
+  url: https://help.dreamhost.com/hc/en-us
+- type: x-twitter
+  url: https://twitter.com/dreamhost
+- type: x-website
+  url: https://www.dreambook.com
+- type: x-youtube
+  url: https://www.youtube.com/user/dreamhostusa
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

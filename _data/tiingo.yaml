@@ -1,0 +1,50 @@
+---
+name: Tiingo
+description: Tiingo is a financial web app dedicated to making high-end financial
+  tools accessible to both the everyday and professional investor.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28087-api-tiingo-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "485774"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tiingo.yaml
+tags:
+- Market Data
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.tiingo.com
+- type: x-blog
+  url: https://blog.tiingo.com/
+- type: x-blog-rss
+  url: https://blog.tiingo.com/feed/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/tiingo
+- type: x-developers
+  url: https://api.tiingo.com
+- type: x-developers
+  url: https://api.tiingo.com/
+- type: x-documentation
+  url: https://api.tiingo.com/docs/general/overview
+- type: x-documentation
+  url: https://api.tiingo.com/
+- type: x-pricing
+  url: https://api.tiingo.com/pricing
+- type: x-privacy-policy
+  url: https://api.tiingo.com/privacy/
+- type: x-registration
+  url: https://api.tiingo.com/docs/general/overview
+- type: x-terms-of-service
+  url: https://api.tiingo.com/tos/
+- type: x-twitter
+  url: https://twitter.com/RishiPSingh
+- type: x-website
+  url: https://tiingo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

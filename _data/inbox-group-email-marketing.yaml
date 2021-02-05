@@ -1,0 +1,53 @@
+---
+name: Inbox Group Email Marketing
+description: Inbox Group is a full service email marketing agency. We offer email
+  template design and coding, strategy, managed service and data segmentation.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1337835"
+url: https://raw.githubusercontent.com/api-network/organizations/main/inbox-group-email-marketing.yaml
+tags:
+- Online Tools
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.inboxgroup.com/blog/
+- type: x-code
+  url: https://www.inboxgroup.com/email-template-design-code/
+- type: x-contact
+  url: https://www.inboxgroup.com/contact-us/
+- type: x-partner
+  url: https://www.inboxgroup.com/partners/
+- type: x-privacy
+  url: https://www.inboxgroup.com/privacy-policy/
+- type: x-privacy
+  url: https://www.inboxgroup.com/home/cookies-privacy-policy
+- type: x-support
+  url: https://www.inboxgroup.com/support/
+- type: x-twitter
+  url: https://twitter.com/inboxgroup
+- type: x-twitter
+  url: http://twitter.com/search?q=%23EmailGeeks
+- type: x-twitter
+  url: https://twitter.com/i/web/status/1195001179673169920
+- type: x-twitter
+  url: http://twitter.com/search?q=%23EmailMarketing
+- type: x-twitter
+  url: https://twitter.com/i/web/status/1192934881480888325
+- type: x-twitter
+  url: https://twitter.com/i/web/status/1188897709534654465
+- type: x-twitter
+  url: http://twitter.com/inboxgroup
+- type: x-twitter
+  url: https://twitter.com/inboxgroup?lang=en
+- type: x-website
+  url: https://www.inboxgroup.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

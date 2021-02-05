@@ -1,0 +1,34 @@
+---
+name: Scribe 2000
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/scribe-2000.yaml
+tags:
+- Not For Profit
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.scribeaccounts.com/blog/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/jane-dafforn-36a178138/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/scribe-accounts
+- type: x-privacy
+  url: https://www.scribeaccounts.com/privacy/
+- type: x-support
+  url: https://www.scribeaccounts.com/help
+- type: x-support
+  url: https://calendly.com/scribe-support/
+- type: x-website
+  url: https://www.scribe2000.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

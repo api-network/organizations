@@ -1,0 +1,66 @@
+---
+name: JabRef
+description: Graphical Java application for managing bibtex (.bib) databases
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "513142"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jabref.yaml
+tags:
+- JabRef
+- Editor
+- BibTeX
+- Bibliography
+- Biblatex
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.jabref.org/
+- type: x-github
+  url: https://github.com/JabRef/jabref
+- type: x-github
+  url: https://github.com/JabRef/jabref/issues/2594
+- type: x-github
+  url: https://github.com/JabRef/jabref/issues
+- type: x-github
+  url: https://github.com/JabRef/jabref/wiki/Donations
+- type: x-github
+  url: https://github.com/minad/bibsync
+- type: x-github
+  url: https://github.com/JabRef/EndNode-JabRef-filters
+- type: x-github
+  url: https://github.com/JabRef/JabFox/
+- type: x-github
+  url: https://github.com/JabRef/jabref/issues/152
+- type: x-github
+  url: https://github.com/t413/SinglePaged
+- type: x-github
+  url: https://github.com/JabRef/www.jabref.org/
+- type: x-open-source
+  url: https://www.openoffice.org/
+- type: x-press
+  url: http://www.impressum-generator.de/
+- type: x-support
+  url: https://help.jabref.org
+- type: x-support
+  url: https://help.jabref.org/en/#faq
+- type: x-support
+  url: https://help.jabref.org/en/OpenOfficeIntegration
+- type: x-support
+  url: https://help.jabref.org/en/CustomExports
+- type: x-support
+  url: https://help.jabref.org/en/JournalAbbreviations
+- type: x-support
+  url: http://help.jabref.org/en/FAQcontributing
+- type: x-terms-of-service
+  url: https://www.google.com/analytics/terms/de.html
+- type: x-website
+  url: https://www.jabref.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

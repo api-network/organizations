@@ -1,0 +1,43 @@
+---
+name: Newgen
+description: Newgen Software is a vendor/provider of BPM, ECM, CCM, DMS, Workflow
+  and Process Automation software. with footprint in over 60 countries.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "181644"
+url: https://raw.githubusercontent.com/api-network/organizations/main/newgen.yaml
+tags:
+- Products
+apis: []
+x-common:
+- type: x-website
+  url: https://newgensoft.com
+- type: x-careers
+  url: http://careers.newgensoft.com/
+- type: x-facebook
+  url: http://www.facebook.com/newgen.software
+- type: x-feed
+  url: https://newgensoft.com/feed/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/newgen
+- type: x-privacy
+  url: https://newgensoft.com/privacy-policy/
+- type: x-slideshare
+  url: http://www.slideshare.net/newgensoft
+- type: x-terms-of-service
+  url: https://newgensoft.com/terms-of-use/
+- type: x-twitter
+  url: http://www.twitter.com/newgensoftware
+- type: x-website
+  url: https://www.newgensoft.com
+- type: x-youtube
+  url: https://www.youtube.com/user/NewgenSoftwareInc
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

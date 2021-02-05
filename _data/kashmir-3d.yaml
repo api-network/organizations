@@ -1,0 +1,75 @@
+---
+name: Kashmir 3D
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2289332"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kashmir-3d.yaml
+tags:
+- "\u65C5"
+- "\u6570\u5024\u5730\u56F3"
+- "\u5E38\u6642\u63A5\u7D9A"
+- "\u5C71\u5CB3\u5C55\u671B"
+- "\u5C71"
+- "\u5C55\u671B"
+- "\u5730\u5F62\u56F3"
+- "\u5730\u5F62"
+- "\u5730\u56F3\u30D6\u30E9\u30A6\u30B6"
+- "\u5730\u56F3\u30BD\u30D5\u30C8"
+- "\u5730\u56F3"
+- "\u56FD\u571F\u5730\u7406\u9662"
+- Windows
+- Usgs
+- KMZ
+- ISDN
+- GPS
+- Google Eath
+- Garmin
+- "\u8D64\u8272\u7ACB\u4F53"
+- "\u98A8\u666F"
+- "\u96FB\u5B50\u5730\u56F3"
+- "\u822A\u7A7A\u5199\u771F"
+- DEM
+- "\u7ACB\u4F53\u5730\u56F3"
+- "\u7A7A\u4E2D\u5199\u771F"
+- "\u767E\u540D\u5C71"
+- "\u767B\u5C71\u5730\u56F3"
+- "\u767B\u5C71"
+- CATV
+- Casio
+- "\u30E1\u30FC\u30EB\u30DE\u30AC\u30B8\u30F3"
+- "\u30D5\u30EA\u30FC\u30BD\u30D5\u30C8"
+- "\u30D5\u30EA\u30FC\u30A6\u30A7\u30A2"
+- "\u30D1\u30CE\u30E9\u30DE"
+- "\u30D1\u30CE\u30DE\u30AC"
+- "\u30C0\u30A4\u30E4\u30E2\u30F3\u30C9\u5BCC\u58EB"
+- "\u30C0\u30A4\u30A2\u30E2\u30F3\u30C9\u5BCC\u58EB"
+- "\u30B9\u30A4\u30B9"
+- "\u30AB\u30B7\u30DF\u30FC\u30EB\uFF13\uFF24"
+- "\u30AB\u30B7\u30DF\u30FC\u30EB"
+- "\u30AA\u30F3\u30E9\u30A4\u30F3\u5730\u56F3"
+- "\u30AA\u30F3\u30E9\u30A4\u30F3\u30B5\u30FC\u30D3\u30B9"
+- "\u30A4\u30F3\u30BF\u30FC\u30CD\u30C3\u30C8\u5730\u56F3"
+- Asp
+- Animation
+- Adsl
+- 3DCG
+apis: []
+x-common:
+- type: x-about
+  url: http://allabout.co.jp/super/travel/touring.htm
+- type: x-facebook
+  url: https://www.facebook.com/superdem.kashmir3d/
+- type: x-self-service-registration
+  url: https://meizan-navi.com/account/register-info
+- type: x-website
+  url: https://www.kashmir3d.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

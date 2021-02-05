@@ -1,0 +1,43 @@
+---
+name: AndroLib
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "72613"
+url: https://raw.githubusercontent.com/api-network/organizations/main/androlib.yaml
+tags:
+- Paid
+- Nexus
+- Motorola
+- Markets
+- Htc
+- Gphone
+- Google Phone
+- Games
+- Free
+- Droid
+- Apps
+- Applications
+- Apk
+- Android
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.androlib.com
+- type: x-feed
+  url: http://feeds2.feedburner.com/AndrolibUS
+- type: x-feed
+  url: http://feeds2.feedburner.com/AndrolibUSGames
+- type: x-feed
+  url: http://feeds2.feedburner.com/AndrolibUSApps
+- type: x-website
+  url: https://www.androlib.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

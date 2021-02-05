@@ -1,0 +1,46 @@
+---
+name: Texas A&M University
+description: <p>Texas A&amp;M University only has a set of geocoding, address, and
+  mapping APIs, but they are a real nice set of services. It puts Texas A&amp;M on
+  my map, and I'm sure I will find more.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/texas-am-university.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "4097"
+url: https://raw.githubusercontent.com/api-network/organizations/main/texas-am-university.yaml
+tags:
+- University Specialized
+- University In Progress
+- No API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.fearlessfront.com
+- type: x-developers
+  url: https://geoservices.tamu.edu/Services/Geocode/WebService/
+- type: x-facebook
+  url: https://www.facebook.com/tamu
+- type: x-instagram
+  url: https://www.instagram.com/tamu/
+- type: x-linkedin
+  url: https://www.linkedin.com/edu/school?id=19491
+- type: x-open-source
+  url: http://openrecords.tamu.edu/
+- type: x-support
+  url: http://globalsupport.tamu.edu/
+- type: x-support
+  url: http://www.supportaggieland.com/
+- type: x-twitter
+  url: https://twitter.com/tamu
+- type: x-website
+  url: https://www.tamu.edu/
+- type: x-youtube
+  url: https://www.youtube.com/tamu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

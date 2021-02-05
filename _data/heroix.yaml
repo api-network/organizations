@@ -1,0 +1,64 @@
+---
+name: Heroix
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "446150"
+url: https://raw.githubusercontent.com/api-network/organizations/main/heroix.yaml
+tags:
+- System Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.heroix.com
+- type: x-about
+  url: https://www.heroix.com/about-us/our-story/
+- type: x-about
+  url: https://www.heroix.com/about-us/testimonials/
+- type: x-about
+  url: https://www.heroix.com/about-us/faqs/
+- type: x-blog
+  url: https://blog.heroix.com/blog
+- type: x-blog
+  url: http://www.heroix.com/blog
+- type: x-blog
+  url: https://blog.heroix.com/blog/topic/product-features
+- type: x-blog
+  url: https://blog.heroix.com/blog/topic/it-monitoring
+- type: x-blog
+  url: https://blog.heroix.com/blog/topic/database
+- type: x-blog
+  url: https://blog.heroix.com/blog/topic/virtualization
+- type: x-blog
+  url: https://blog.heroix.com/blog/topic/cloud-computing
+- type: x-blog
+  url: https://www.heroix.com/blog/introducing-longitude-v12/
+- type: x-blog
+  url: https://www.heroix.com/blog/virtualization-licensing/
+- type: x-contact
+  url: https://www.heroix.com/about-us/contact/
+- type: x-facebook
+  url: https://www.facebook.com/HeroixLongitude/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/36082/
+- type: x-privacy
+  url: https://www.heroix.com/privacy-policy/
+- type: x-security
+  url: https://blog.heroix.com/blog/topic/security
+- type: x-support
+  url: https://www.heroix.com/resources/help-support/
+- type: x-twitter
+  url: https://twitter.com/it_heroix
+- type: x-website
+  url: https://www.heroix.com
+- type: x-youtube
+  url: https://www.youtube.com/user/TheHeroixLongitude
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

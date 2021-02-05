@@ -1,0 +1,23 @@
+---
+name: University of Zurich - AI Lab
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "18216"
+url: https://raw.githubusercontent.com/api-network/organizations/main/university-of-zurich--ai-lab.yaml
+tags:
+- Research
+- Academic Departments
+apis: []
+x-common:
+- type: x-website
+  url: https://ailab.ifi.uzh.ch
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

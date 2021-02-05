@@ -1,0 +1,58 @@
+---
+name: API Healthcare
+description: API Healthcare | Workforce Solutions for the Continuum of Care in Heath
+  Systems and Staffing Agencies
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29364-apihealthcare-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "264494"
+url: https://raw.githubusercontent.com/api-network/organizations/main/api-healthcare.yaml
+tags:
+- No API
+- Healthcare
+apis: []
+x-common:
+- type: x-website
+  url: http://www.symplr.com
+- type: x-about
+  url: https://www.symplr.com/about-us/who-we-are
+- type: x-about
+  url: https://www.symplr.com/about-us/management-team
+- type: x-about
+  url: https://www.symplr.com/about-us/board-of-directors
+- type: x-about
+  url: https://www.symplr.com/about-us/testimonials
+- type: x-blog
+  url: https://www.symplr.com/blog
+- type: x-contact
+  url: https://www.symplr.com/about-us/contact-us
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/api-healthcare
+- type: x-events
+  url: https://www.symplr.com/symplr-events
+- type: x-facebook
+  url: https://www.facebook.com/symplr/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/symplr
+- type: x-login
+  url: https://login.apihealthcare.com/login.aspx
+- type: x-partner
+  url: https://www.symplr.com/community/partners
+- type: x-press
+  url: https://www.symplr.com/community/press
+- type: x-privacy
+  url: https://www.symplr.com/privacy-policy
+- type: x-twitter
+  url: https://twitter.com/symplr
+- type: x-twitter
+  url: https://twitter.com/APIHealthcare
+- type: x-website
+  url: http://apihealthcare.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

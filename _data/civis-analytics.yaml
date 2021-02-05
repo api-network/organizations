@@ -1,0 +1,58 @@
+---
+name: Civis Analytics
+description: Chicago & DC
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/civis-analytics.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "503335"
+url: https://raw.githubusercontent.com/api-network/organizations/main/civis-analytics.yaml
+tags:
+- Have API
+- API Provider
+- Analysis
+apis: []
+x-common:
+- type: x-website
+  url: http://civisanalytics.com
+- type: x-about
+  url: https://www.civisanalytics.com/about/
+- type: x-blog
+  url: https://www.civisanalytics.com/blog/
+- type: x-blog
+  url: https://civisanalytics.com/blog/
+- type: x-careers
+  url: https://civisanalytics.com/careers/
+- type: x-careers
+  url: https://www.civisanalytics.com/careers/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/civis-analytics
+- type: x-developers
+  url: https://civis-python.readthedocs.io/en/v1.9.0/
+- type: x-facebook
+  url: https://www.facebook.com/CivisAnalytics
+- type: x-github
+  url: https://github.com/civisanalytics
+- type: x-linkedin
+  url: https://linkedin.com/company/civis-analytics
+- type: x-news
+  url: https://www.civisanalytics.com/news-insights/
+- type: x-platform
+  url: https://www.civisanalytics.com/civis-platform/
+- type: x-privacy
+  url: https://www.civisanalytics.com/privacy_policy/
+- type: x-security
+  url: https://www.civisanalytics.com/security-center/
+- type: x-terms-of-service
+  url: https://www.civisanalytics.com/terms-conditions/
+- type: x-twitter
+  url: https://twitter.com/CivisAnalytics
+- type: x-website
+  url: http://civisanalytics.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

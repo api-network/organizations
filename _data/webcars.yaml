@@ -1,0 +1,35 @@
+---
+name: WebCars
+description: Articles for the car enthusiast. Topics include the Corvette, Jaguar
+  E Type, Pontiac GTO, Ferrari GTO, Lamborghini Miura, Ferrari F50, Vespa 600, Humor,
+  Automotive Math, Auto Detailing and Trivia
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6129262"
+url: https://raw.githubusercontent.com/api-network/organizations/main/webcars.yaml
+tags:
+- XKE
+- Vespa 600 And Automotive Math
+- Pontiac GTO
+- Lamborghini Miura
+- Jaguar XKE
+- Jaguar E-Type
+- Free
+- Ferrari GTO
+- Corvette
+- Auto Humor Trivia
+- Auto Detailing
+- Austin Healey 3000
+apis: []
+x-common:
+- type: x-website
+  url: https://web-cars.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

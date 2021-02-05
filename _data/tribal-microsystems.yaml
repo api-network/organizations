@@ -1,0 +1,30 @@
+---
+name: Tribal Microsystems
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7196246"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tribal-microsystems.yaml
+tags:
+- Embedded
+apis: []
+x-common:
+- type: x-about
+  url: https://www.tribalmicro.com/about-us/
+- type: x-contact
+  url: https://www.tribalmicro.com/contact-us/
+- type: x-privacy
+  url: https://www.tribalmicro.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.tribalmicro.com/terms-and-conditions/
+- type: x-website
+  url: https://www.tribalmicro.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

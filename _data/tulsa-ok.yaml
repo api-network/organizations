@@ -1,0 +1,38 @@
+---
+name: Tulsa, OK
+description: The City of Tulsa has historically taken strides to provide open-record
+  information to the citizens of Tulsa. Over the last several years, the City's website
+  has received the highest A+ rating from the Sunshine Review organization for government
+  transparency. In May 2013, the Tulsa City Council and Mayor of Tulsa adopted the
+  Open and Accessible Data Resolution, with direction to provide more data online
+  and work toward a higher level of transpare
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "430227"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tulsa-ok.yaml
+tags:
+- No API
+- City Government
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cityoftulsa.org
+- type: x-facebook
+  url: https://www.facebook.com/cityoftulsa
+- type: x-instagram
+  url: https://www.instagram.com/cityoftulsa/
+- type: x-twitter
+  url: https://twitter.com/cityoftulsagov
+- type: x-website
+  url: https://www.cityoftulsa.org/our-city/open-tulsa/about-open-tulsa.aspx
+- type: x-youtube
+  url: https://www.youtube.com/user/CityofTulsa
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

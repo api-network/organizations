@@ -1,0 +1,55 @@
+---
+name: Phoenix Manufacturing Systems
+description: "Phoenix Manufacturing Systems is your best source for inexpensive factory
+  automation \u2013 we design, build, implement, and service affordable custom automation
+  machinery for the manufacturing sector as well as provide automation components,
+  manufacturing equipment, engineering services and lean consulting services."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/phoenix-manufacturing-systems.yaml
+tags:
+- System Integrator
+- Machine Safeguarding
+- Industrial Automation
+- Factory Automation
+- Automation Solutions
+- Automation Products
+- Automation Companies
+- Automation
+- Assembly Automation
+apis: []
+x-common:
+- type: x-about
+  url: https://phoenix-mfgsys.com/about-us
+- type: x-blog
+  url: https://phoenix-mfgsys.com/blog
+- type: x-blog
+  url: https://phoenix-mfgsys.com/blog/happy-4th-of-july
+- type: x-contact
+  url: https://phoenix-mfgsys.com/contact-us
+- type: x-facebook
+  url: https://www.facebook.com/phoenixmfgsys/
+- type: x-instagram
+  url: https://www.instagram.com/phoenixmfgsys/
+- type: x-news
+  url: https://phoenix-mfgsys.com/blog/newsletter-august-2018
+- type: x-news
+  url: https://phoenix-mfgsys.com/blog/newsletter-july-2018
+- type: x-news
+  url: https://phoenix-mfgsys.com/blog/newsletter-june-2018
+- type: x-terms-of-service
+  url: https://phoenix-mfgsys.com/terms-of-use
+- type: x-twitter
+  url: https://twitter.com/PhoenixMfgSys
+- type: x-website
+  url: https://phoenix-mfgsys.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,35 @@
+---
+name: Macro Scheduler
+description: The most powerful macro recorder in the world - full featured macro software
+  for Windows GUI automation.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "590587"
+url: https://raw.githubusercontent.com/api-network/organizations/main/macro-scheduler.yaml
+tags:
+- Automation
+apis: []
+x-common:
+- type: x-website
+  url: http://www.mjtnet.com/
+- type: x-case-studies
+  url: https://help.mjtnet.com/category/245-case-studies
+- type: x-facebook
+  url: https://www.facebook.com/MacroScheduler
+- type: x-support
+  url: http://help.mjtnet.com/
+- type: x-tutorials
+  url: https://help.mjtnet.com/category/8-video-tutorials
+- type: x-twitter
+  url: https://twitter.com/mjtnet
+- type: x-website
+  url: https://www.mjtnet.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

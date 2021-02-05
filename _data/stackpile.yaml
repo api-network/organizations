@@ -1,0 +1,57 @@
+---
+name: StackPile
+description: <p>A better way to install 3rd party apps. StackPile allows you to install
+  and use 3rd party tools and apps on your website in seconds without expensive code
+  changes.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/stackpile-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "8329840"
+url: https://raw.githubusercontent.com/api-network/organizations/main/stackpile.yaml
+tags:
+- IPaaS
+- Integrations
+- Has API
+- Embeddable
+apis: []
+x-common:
+- type: x-website
+  url: https://stackpile.io
+- type: x-facebook
+  url: https://facebook.com/stackpile
+- type: x-integrations
+  url: https://stackpile.io/integrations/directory
+- type: x-integrations
+  url: https://stackpile.io/integrations/amplitude/install
+- type: x-integrations
+  url: https://stackpile.io/integrations/drift/install
+- type: x-integrations
+  url: https://stackpile.io/integrations/hotjar/install
+- type: x-integrations
+  url: https://stackpile.io/integrations/intercom/install
+- type: x-integrations
+  url: https://stackpile.io/integrations/mixpanel/install
+- type: x-integrations
+  url: https://stackpile.io/integrations/sentry/install
+- type: x-login
+  url: https://stackpile.io/login
+- type: x-pricing
+  url: https://stackpile.io/pricing
+- type: x-privacy
+  url: https://stackpile.io/privacy
+- type: x-signup
+  url: https://stackpile.io/signup
+- type: x-terms-of-service
+  url: https://stackpile.io/terms
+- type: x-twitter
+  url: https://twitter.com/stackpile
+- type: x-website
+  url: https://stackpile.io/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

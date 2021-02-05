@@ -1,0 +1,53 @@
+---
+name: NeedTagger
+description: NeedTagger helps you find customers, generate leads & attract followers
+  on Twitter. Great for content marketing and customer support, too.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3227183"
+url: https://raw.githubusercontent.com/api-network/organizations/main/needtagger.yaml
+tags:
+- Trending And Popularity
+apis: []
+x-common:
+- type: x-website
+  url: http://www.needtagger.com/api
+- type: x-about
+  url: https://www.needtagger.com/about-2/
+- type: x-about
+  url: http://www.needtagger.com/about/
+- type: x-blog
+  url: https://www.needtagger.com/blog/
+- type: x-contact
+  url: https://www.needtagger.com/contact-2/
+- type: x-contact
+  url: https://www.olark.com/site/2689-894-10-1257/contact
+- type: x-contact
+  url: http://www.needtagger.com/contact-2/
+- type: x-developer
+  url: https://www.needtagger.com/api/
+- type: x-facebook
+  url: http://www.facebook.com/NeedTagger
+- type: x-feed
+  url: http://www.needtagger.com/blog/?feed=rss2
+- type: x-linkedin
+  url: http://www.linkedin.com/company/needtagger-inc-
+- type: x-privacy
+  url: http://www.needtagger.com/privacy-policy/
+- type: x-twitter
+  url: http://twitter.com/needtagger
+- type: x-twitter
+  url: https://twitter.com/NeedTagger
+- type: x-twitter
+  url: https://twitter.com/search?q=%23socialselling&src=hash
+- type: x-website
+  url: https://www.needtagger.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

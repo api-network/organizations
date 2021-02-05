@@ -1,0 +1,28 @@
+---
+name: PC/104 Supplier Link Page
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pc104-supplier-link-page.yaml
+tags:
+- Buses
+apis: []
+x-common:
+- type: x-code
+  url: http://www.amp-usa.com/products/h264-mpeg4-codecs.php
+- type: x-contact
+  url: https://pc104.com/contact/
+- type: x-website
+  url: https://www.pc104.com
+- type: x-white-papers
+  url: https://pc104.com/white-papers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

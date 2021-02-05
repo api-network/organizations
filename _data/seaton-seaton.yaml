@@ -1,0 +1,30 @@
+---
+name: Seaton & Seaton
+description: Tricks and tips guide
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/seaton-seaton.yaml
+tags:
+- Individual Tax
+apis: []
+x-common:
+- type: x-feed
+  url: https://seaton-seaton.com/feed/
+- type: x-feed
+  url: https://seaton-seaton.com/comments/feed/
+- type: x-login
+  url: https://seaton-seaton.com/wp-login.php
+- type: x-press
+  url: https://wordpress.org/
+- type: x-website
+  url: https://seaton-seaton.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

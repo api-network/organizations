@@ -1,0 +1,51 @@
+---
+name: PhotoshopCafe
+description: Free resource to learn photoshop, lightroom and photography. Adobe Photoshop
+  Tutorials and how to use Lightroom, presets and reviews.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "54157"
+url: https://raw.githubusercontent.com/api-network/organizations/main/photoshopcafe.yaml
+tags:
+- Photoshop
+apis: []
+x-common:
+- type: x-website
+  url: http://about.me/colin_smith
+- type: x-about
+  url: https://photoshopcafe.com/about.htm
+- type: x-facebook
+  url: https://www.facebook.com/photoshopCAFE
+- type: x-instagram
+  url: https://www.instagram.com/photoshopcafe
+- type: x-privacy
+  url: https://photoshopcafe.com/privacy.htm
+- type: x-support
+  url: https://photoshopcafe.com/video/support.htm
+- type: x-tutorials
+  url: https://photoshopcafe.com/tutorials.htm
+- type: x-tutorials
+  url: https://photoshopcafe.com/free-tutorials/
+- type: x-tutorials
+  url: https://photoshopcafe.com/tutorials/text-behind-photo
+- type: x-tutorials
+  url: https://photoshopcafe.com/tutorials/layers/intro.htm
+- type: x-tutorials
+  url: https://photoshopcafe.com/tutorials/photoshopBasics
+- type: x-tutorials
+  url: https://photoshopcafe.com/category//tutorials-blog/
+- type: x-twitter
+  url: https://twitter.com/photoshopCAFE
+- type: x-website
+  url: https://www.photoshopcafe.com
+- type: x-youtube
+  url: https://www.youtube.com/photoshopcafe
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,68 @@
+---
+name: Daily Blog Tips
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "66267"
+url: https://raw.githubusercontent.com/api-network/organizations/main/daily-blog-tips.yaml
+tags:
+- Resources
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.dailyblogtips.com/
+- type: x-blog
+  url: https://www.dailyblogtips.com/advertise/
+- type: x-blog
+  url: https://www.dailyblogtips.com/best-alexa-skills/
+- type: x-blog
+  url: https://www.dailyblogtips.com/adpushup-review/
+- type: x-blog
+  url: https://www.dailyblogtips.com/page/2/
+- type: x-blog
+  url: https://www.dailyblogtips.com/category/design/
+- type: x-blog
+  url: https://www.dailyblogtips.com/category/blog-projects/
+- type: x-blog
+  url: https://www.dailyblogtips.com/category/domain-names/
+- type: x-blog
+  url: https://www.dailyblogtips.com/category/general/
+- type: x-blog
+  url: https://www.dailyblogtips.com/category/link-tips/
+- type: x-blog
+  url: https://www.dailyblogtips.com/category/monetize/
+- type: x-blog
+  url: https://www.dailyblogtips.com/category/promotion/
+- type: x-blog
+  url: https://www.dailyblogtips.com/category/seo/
+- type: x-blog
+  url: https://www.dailyblogtips.com/category/social-media/
+- type: x-blog
+  url: https://www.dailyblogtips.com/category/software/
+- type: x-blog
+  url: https://www.dailyblogtips.com/category/video-posts/
+- type: x-blog
+  url: https://www.dailyblogtips.com/category/web-tools/
+- type: x-blog
+  url: https://www.dailyblogtips.com/archives/
+- type: x-blog
+  url: https://www.dailyblogtips.com/resources/
+- type: x-contact
+  url: https://www.dailyblogtips.com/contact/
+- type: x-logos
+  url: https://www.dailyblogtips.com/category/blogosphere/
+- type: x-press
+  url: https://www.dailyblogtips.com/category/wordpress/
+- type: x-privacy
+  url: https://www.dailyblogtips.com/privacy-policy/
+- type: x-website
+  url: https://www.dailyblogtips.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

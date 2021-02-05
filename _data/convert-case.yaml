@@ -1,0 +1,27 @@
+---
+name: Convert Case
+description: 'Easily convert text between different letter cases: lower case, UPPER
+  CASE, Sentence case, Capitalized Case, aLtErNaTiNg cAsE and more online.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "26873"
+url: https://raw.githubusercontent.com/api-network/organizations/main/convert-case.yaml
+tags:
+- Software
+apis: []
+x-common:
+- type: x-code
+  url: https://convertcase.net/morse-code-translator/
+- type: x-code
+  url: https://travelandcode.com/
+- type: x-website
+  url: https://www.convertcase.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

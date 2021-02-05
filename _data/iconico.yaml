@@ -1,0 +1,22 @@
+---
+name: Iconico
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "306162"
+url: https://raw.githubusercontent.com/api-network/organizations/main/iconico.yaml
+tags:
+- Business Drawing
+apis: []
+x-common:
+- type: x-website
+  url: https://iconico.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

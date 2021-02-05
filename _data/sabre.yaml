@@ -1,0 +1,45 @@
+---
+name: Sabre
+description: Sabre is a global technology company. Our innovative technology is used
+  by more than a billion people around the world to plan, book and get to their destination
+  at a time and price that???s right for them.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/9543-sabre-travel-network.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "24451"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sabre.yaml
+tags:
+- Marketplaces
+- Have API
+apis: []
+x-common:
+- type: x-blog
+  url: http://www.sabretravelnetwork.com/blog/
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/sabretravelnetwork/ZpsO/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/sabre-holdings
+- type: x-facebook
+  url: https://www.facebook.com/SabreCorporation
+- type: x-linkedin
+  url: https://www.linkedin.com/company/sabre-corporation/
+- type: x-privacy
+  url: https://www.sabre.com/about/privacy/
+- type: x-twitter
+  url: https://twitter.com/Sabre_Corp
+- type: x-twitter
+  url: https://twitter.com/sabretn
+- type: x-website
+  url: https://developer.sabre.com/
+- type: x-website
+  url: https://developer.sabre.com
+- type: x-youtube
+  url: https://www.youtube.com/user/SabreNewsTV
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,29 @@
+---
+name: Restpoint
+description: <p>I work with API's daily and needed a way to build and share API prototypes
+  fast to get feedback before coding. So I built one, and ported it to the cloud for
+  anyone to use.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/restpoint-io-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/restpoint.yaml
+tags:
+- Virtualizations
+- Mocking
+apis: []
+x-common:
+- type: x-email
+  url: restpointinfo@gmail.com
+- type: x-website
+  url: http://restpoint.io
+- type: x-website
+  url: https://restpoint.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

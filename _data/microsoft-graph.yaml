@@ -1,0 +1,102 @@
+---
+name: Microsoft Graph
+description: '<p>Microsoft Graph exposes multiple APIs from Office 365 and other Microsoft
+  cloud services through a single endpoint. Microsoft Graph simplifies queries that
+  would otherwise be more complex. You can use Microsoft Graph to: Access data from
+  multiple Microsoft cloud services, including Azure Active Directory, Exchange Online
+  as part of Office 365, SharePoint, OneDrive, OneNote, and Planner.</p>'
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "10"
+x-alexaRank: "33"
+url: https://raw.githubusercontent.com/api-network/organizations/main/microsoft-graph.yaml
+tags:
+- Tasks
+- Relative Data
+- Notes
+- Microsoft
+- Have API
+- Files
+- Emails
+- Contacts
+- API Provider
+apis: []
+x-common:
+- type: x-webhooks
+  url: https://developer.microsoft.com/en-us/graph/docs/api-reference/v1.0/resources/webhooks
+- type: x-website
+  url: microsoftgraph.com
+- type: x-about
+  url: https://www.microsoft.com/en-us/about
+- type: x-blog
+  url: https://developer.microsoft.com/en-us/graph/blogs/
+- type: x-careers
+  url: https://careers.microsoft.com/
+- type: x-change-logs
+  url: https://developer.microsoft.com/en-us/graph/docs/overview/changelog
+- type: x-contact
+  url: https://support.microsoft.com/en-us/contactus
+- type: x-developer
+  url: https://developer.microsoft.com/en-us/graph
+- type: x-developer
+  url: https://developer.microsoft.com/en-us/graph/examples
+- type: x-developer
+  url: https://developer.microsoft.com/en-us/graph/gallery
+- type: x-developer
+  url: https://developer.microsoft.com/en-us/office/profile
+- type: x-developer
+  url: https://developer.microsoft.com/en-us/windows
+- type: x-developer
+  url: https://developer.microsoft.com/en-us/office
+- type: x-developer
+  url: https://developer.microsoft.com/locale
+- type: x-documentation
+  url: https://docs.microsoft.com/en-us/graph/
+- type: x-documentation
+  url: https://docs.microsoft.com/en-us/
+- type: x-documentation
+  url: https://developer.microsoft.com/en-us/graph/docs
+- type: x-events
+  url: https://developer.microsoft.com/en-us/graph/events
+- type: x-events
+  url: https://events.microsoft.com/
+- type: x-explorer
+  url: https://developer.microsoft.com/en-us/graph/graph-explorer
+- type: x-getting-started
+  url: https://developer.microsoft.com/en-us/graph/docs/get-started/rest
+- type: x-github
+  url: https://github.com/microsoftgraph
+- type: x-investor
+  url: https://www.microsoft.com/investor/default.aspx
+- type: x-marketplace
+  url: https://azuremarketplace.microsoft.com/marketplace/
+- type: x-news
+  url: https://news.microsoft.com/
+- type: x-partner
+  url: https://developer.microsoft.com/en-us/graph/partners
+- type: x-partner
+  url: https://partner.microsoft.com/
+- type: x-partner
+  url: https://partnercenter.microsoft.com/partner/home
+- type: x-privacy
+  url: https://privacy.microsoft.com/en-us
+- type: x-sdk
+  url: https://developer.microsoft.com/en-us/graph/code-samples-and-sdks
+- type: x-security
+  url: https://www.microsoft.com/security/
+- type: x-security
+  url: https://www.microsoft.com/en-us/security/default.aspx
+- type: x-self-service-registration
+  url: https://developer.microsoft.com/en-us/store/register
+- type: x-support
+  url: https://developer.microsoft.com/en-us/graph/support
+- type: x-website
+  url: https://developer.microsoft.com/en-us/graph/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,30 @@
+---
+name: OzCAD - CAD Software for Australia
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ozcad--cad-software-for-australia.yaml
+tags:
+- VectorWorks
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/ozcad
+- type: x-instagram
+  url: https://www.instagram.com/vectorworks_au/
+- type: x-login
+  url: http://serviceselect.vectorworks.net/login_form
+- type: x-website
+  url: https://www.ozcad.com.au
+- type: x-youtube
+  url: https://www.youtube.com/user/OzCADVideos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,26 @@
+---
+name: PayCon
+description: https://t.co/tlzskRk4dB
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27377-paycon-pw.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/paycon.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: https://paycon.pw/
+- type: x-twitter
+  url: https://twitter.com/PayConX13
+- type: x-website
+  url: https://paycon.pw
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

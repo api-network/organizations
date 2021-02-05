@@ -1,0 +1,57 @@
+---
+name: Brittenford Systems, Inc.
+description: Wipfli LLP / Brittenford Systems is a nationally recognized consulting
+  firm that empowers organizations to leverage financial management applications.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1755111"
+url: https://raw.githubusercontent.com/api-network/organizations/main/brittenford-systems-inc-.yaml
+tags:
+- Vendors
+apis: []
+x-common:
+- type: x-website
+  url: http://www.brittenford.com
+- type: x-about
+  url: https://www.brittenford.com/about/values/
+- type: x-about
+  url: http://www.brittenford.com/about/
+- type: x-blog
+  url: https://www.brittenford.com/blog/
+- type: x-careers
+  url: https://www.brittenford.com/resources/careers/
+- type: x-careers
+  url: http://www.brittenford.com/resources/careers/
+- type: x-case-studies
+  url: https://www.brittenford.com/resources/case-studies/
+- type: x-contact
+  url: https://www.brittenford.com/contact/
+- type: x-events
+  url: https://www.brittenford.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/Brittenford
+- type: x-feed
+  url: http://www.brittenford.com/feed/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/brittenford-systems
+- type: x-news
+  url: https://www.brittenford.com/resources/news/
+- type: x-partner
+  url: http://www.brittenford.com/partner-with-us/
+- type: x-twitter
+  url: http://www.twitter.com/brittenford
+- type: x-website
+  url: https://www.brittenford.com
+- type: x-white-papers
+  url: https://www.brittenford.com/resources/whitepapers/
+- type: x-youtube
+  url: http://www.youtube.com/brittenfordsystems
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

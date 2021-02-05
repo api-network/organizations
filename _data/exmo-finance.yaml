@@ -1,0 +1,27 @@
+---
+name: Exmo Finance
+description: "We are glad to present you the updated version of already the popular
+  site for exchange crypto currencies.  -\tWe have changed the construction of the
+  site,we have stopped using the architecture Single Page Application.  -\tWe have
+  improved the algorithm..."
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/api-butterfly.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "15684"
+url: https://raw.githubusercontent.com/api-network/organizations/main/exmo-finance.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/exmo-2
+- type: x-website
+  url: https://exmo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

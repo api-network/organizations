@@ -1,0 +1,30 @@
+---
+name: Climate Change Costs
+description: <p>Are the benefits of using carbon greater than the cost of climate
+  change? To answer this question, an independent organization called DARA created
+  a report in September, 2012 studying the economic costs of climate change. Much
+  has been said about the moral, political, and social costs of Climate Change, but
+  with Climate Change caused disease, droughts, storms, habitat changes and more there's
+  a clear economic $$ cost as well.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/textLogoClimateChange.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/climate-change-costs.yaml
+tags:
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-documentation
+  url: http://www.climatechangecosts.com/docs/
+- type: x-website
+  url: http://www.climatechangecosts.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

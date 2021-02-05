@@ -1,0 +1,38 @@
+---
+name: RegexOne
+description: RegexOne provides a set of interactive lessons and exercises to help
+  you learn regular expressions
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "122925"
+url: https://raw.githubusercontent.com/api-network/organizations/main/regexone.yaml
+tags:
+- Tutorial
+- REgular Expressions
+- Regexp
+- Regexone
+- RegEx
+- Learn
+- JavaScript
+- Interactive
+apis: []
+x-common:
+- type: x-website
+  url: http://regexone.com
+- type: x-developer
+  url: http://developer.regexone.com
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-twitter
+  url: http://twitter.com/regexone
+- type: x-website
+  url: https://regexone.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,80 @@
+---
+name: Awesome Library
+description: Awesome Library organizes 37,000 carefully reviewed resources, including
+  the top 5 percent for K-12 teachers, students, parents, and librarians.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1077319"
+url: https://raw.githubusercontent.com/api-network/organizations/main/awesome-library.yaml
+tags:
+- World
+- Worksheets
+- War
+- Terrorism
+- Teens
+- Talking
+- Sustainable Development
+- Students
+- Special Education
+- Spanish
+- Social Studies
+- Science
+- Russian
+- Politics
+- Plans
+- Peace
+- PE
+- Obesity
+- News
+- Multicultural
+- Middle East
+- Math
+- Library
+- Librarians
+- Lessons
+- Languages
+- K-12
+- Iraq
+- Holidays
+- Heroes
+- Health
+- Family Friendly
+- Environment
+- English
+- Ecology
+- Directory
+- Current Events
+- Conflict
+- College
+- Climate Change
+- Chinese
+- Child
+- Bullying
+- Biology
+- Biochar
+- Awsome
+- Arts
+- American Flag
+apis: []
+x-common:
+- type: x-about
+  url: http://www.awesomelibrary.org/about.html
+- type: x-code
+  url: https://promocode.com.ph/
+- type: x-news
+  url: http://www.awesomelibrary.org/news.html
+- type: x-privacy
+  url: http://www.awesomelibrary.org/privacy.html
+- type: x-support
+  url: http://www.awesomelibrary.org/help.html
+- type: x-website
+  url: https://www.awesomelibrary.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

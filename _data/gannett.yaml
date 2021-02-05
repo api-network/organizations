@@ -1,0 +1,62 @@
+---
+name: Gannett
+description: Gannett Company, Inc. is a publicly traded American media holding company
+  headquartered in Tysons Corner, Virginia, near McLean in Greater Washington DC.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29315-gannett-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "57513"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gannett.yaml
+tags:
+- Publishing
+- Profile
+- No API
+- Agency
+apis: []
+x-common:
+- type: x-website
+  url: http://www.gannett.com
+- type: x-careers
+  url: https://www.gannett.com/careers/
+- type: x-contact
+  url: https://www.gannett.com/contact
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/gannett
+- type: x-developer
+  url: http://developer.gannett.com
+- type: x-email
+  url: gsupply@gannett.com
+- type: x-email
+  url: contentfeedback@gannett.com
+- type: x-email
+  url: pr@gannett.com
+- type: x-email
+  url: mfaris@gannett.com
+- type: x-facebook
+  url: https://www.facebook.com/GannettCompany
+- type: x-investor
+  url: http://investors.gannett.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/gannett
+- type: x-news
+  url: https://www.gannett.com/tag/in-the-news
+- type: x-partner
+  url: https://www.gannett.com/partner/
+- type: x-privacy
+  url: https://www.gannett.com/privacy-statement/
+- type: x-terms-of-service
+  url: https://www.gannett.com/terms-of-use
+- type: x-twitter
+  url: https://twitter.com/Gannett
+- type: x-twitter
+  url: https://www.twitter.com/gannett
+- type: x-website
+  url: http://gannett.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

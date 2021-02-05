@@ -1,0 +1,23 @@
+---
+name: Robot Gear Australia
+description: Robot Gear Australia is your robotics shop for hobby, educational and
+  fun robots, kits and parts!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "765084"
+url: https://raw.githubusercontent.com/api-network/organizations/main/robot-gear-australia.yaml
+tags:
+- Components
+apis: []
+x-common:
+- type: x-website
+  url: https://www.robotgear.com.au
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

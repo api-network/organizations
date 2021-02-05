@@ -1,0 +1,40 @@
+---
+name: Vertical Enterprise Equipment
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5451892"
+url: https://raw.githubusercontent.com/api-network/organizations/main/vertical-enterprise-equipment.yaml
+tags:
+- Used
+- Have OpenAPI
+- Have API Paths
+apis: []
+x-common:
+- type: x-about
+  url: https://vertical-enterprise.com/about-us/
+- type: x-about
+  url: http://aboutus
+- type: x-blog
+  url: https://blog.vertical-enterprise.com
+- type: x-contact
+  url: https://vertical-enterprise.com/contact-us/
+- type: x-developer
+  url: http://developer.vertical-enterprise.com
+- type: x-facebook
+  url: https://www.facebook.com/VerticalEnterprise/
+- type: x-privacy
+  url: https://vertical-enterprise.com/privacy-statement/
+- type: x-twitter
+  url: https://twitter.com/VerticalEnt
+- type: x-website
+  url: https://www.vertical-enterprise.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

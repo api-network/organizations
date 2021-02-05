@@ -1,0 +1,38 @@
+---
+name: Rosetta Stone
+description: Rosetta Stone is the best way to learn a foreign language. The award-winning
+  language solution combines proven learning methods with the world's best speech
+  recognition technology.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6683"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rosetta-stone.yaml
+tags:
+- Languages
+apis: []
+x-common:
+- type: x-website
+  url: http://bit.ly/rstwbio
+- type: x-developer
+  url: http://developer.rosettastone.com
+- type: x-facebook
+  url: https://www.facebook.com/RosettaStone
+- type: x-instagram
+  url: https://www.instagram.com/rosettastone
+- type: x-privacy
+  url: https://www.rosettastone.com/privacy
+- type: x-twitter
+  url: https://twitter.com/rosettastone
+- type: x-website
+  url: https://www.rosettastone.com
+- type: x-youtube
+  url: https://www.youtube.com/user/rosettastone
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

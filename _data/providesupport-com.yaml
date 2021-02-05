@@ -1,0 +1,49 @@
+---
+name: ProvideSupport.com
+description: Get rid of emails. Live chat widget on the website is what your visitors
+  want. Join Provide Support for free and notice your sales grow! 24/7 support available.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "25081"
+url: https://raw.githubusercontent.com/api-network/organizations/main/providesupport-com.yaml
+tags:
+- Live Support
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/providesupport
+- type: x-instagram
+  url: https://www.instagram.com/providesupport.life/
+- type: x-support
+  url: https://www.providesupport.fr/
+- type: x-support
+  url: https://www.providesupport.de/
+- type: x-support
+  url: https://www.providesupport.es/
+- type: x-support
+  url: https://www.providesupport.com.pt/
+- type: x-support
+  url: https://www.providesupport.ru/
+- type: x-support
+  url: https://www.providesupport.cn/
+- type: x-support
+  url: https://www.providesupport.jp/
+- type: x-support
+  url: https://www.providesupport.com/blog/
+- type: x-support
+  url: https://www.linkedin.com/company/provide-support-llc
+- type: x-support
+  url: https://www.pinterest.com/providesupport
+- type: x-website
+  url: https://www.providesupport.com
+- type: x-youtube
+  url: https://www.youtube.com/providesupport
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

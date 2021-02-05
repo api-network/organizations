@@ -1,0 +1,41 @@
+---
+name: iFunia
+description: iFunia provides you the best free YouTube downloader for Mac, Video Converter
+  for Mac and Media Player for Mac.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2484103"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ifunia.yaml
+tags:
+- Software
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ifunia.com
+- type: x-blog
+  url: https://www.ifunia.com/blog/
+- type: x-blog
+  url: https://www.ifunia.com/blog/dailymotion-to-mp3/
+- type: x-blog
+  url: https://www.ifunia.com/blog/convert-wmv-to-mp4-mac/
+- type: x-blog
+  url: https://www.ifunia.com/blog/export-imovie-to-mp4/
+- type: x-facebook
+  url: https://www.facebook.com/iFunia
+- type: x-privacy
+  url: https://www.ifunia.com/other/privacy.html
+- type: x-support
+  url: https://www.ifunia.com/other/support.html
+- type: x-twitter
+  url: https://www.twitter.com/iFunia
+- type: x-website
+  url: https://www.ifunia.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,38 @@
+---
+name: Northern Softworks
+description: Alaska Made Utilities & Antivirus for Mac OS X
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2465951"
+url: https://raw.githubusercontent.com/api-network/organizations/main/northern-softworks.yaml
+tags:
+- Utility
+- Utilities
+- Repair
+- Os X Antivirus
+- Maintenance
+- Macintosh
+- Mac Os X Antivirus
+- Mac Antivirus
+- Clamxav
+- Clamav
+- Antivirus
+apis: []
+x-common:
+- type: x-website
+  url: http://www.northernsoftworks.com
+- type: x-twitter
+  url: http://www.twitter.com/NorthernSW
+- type: x-twitter
+  url: https://twitter.com/NorthernSW
+- type: x-website
+  url: https://www.northernsoftworks.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

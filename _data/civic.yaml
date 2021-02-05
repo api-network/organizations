@@ -1,0 +1,27 @@
+---
+name: Civic
+description: Civic's identity verification and protection tools give both businesses
+  and individuals the power to control and protect their identities through the blockchain.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26675-www-civic-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "108619"
+url: https://raw.githubusercontent.com/api-network/organizations/main/civic.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/civic
+- type: x-twitter
+  url: https://twitter.com/civickey
+- type: x-website
+  url: https://www.civic.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,42 @@
+---
+name: Elavon
+description: "The Converge\xAE API enables you to integrate your application or website
+  to Converge's payment gateway which uses Elavon to process payments. Converge is
+  Elavon's omni-commerce payment platform that enables you to accept payments in any
+  environment with or without a physical payment terminal. Using the Converge API
+  allows small to mid-sized businesses to manage their payments all in one place.
+  Whether you need to take payments online or in-app, accept cards physically in-stores
+  or need a way to enter in payments from mail or telephone orders \u2013 you can
+  do it all and manage it in just one place with Converge."
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "125304"
+url: https://raw.githubusercontent.com/api-network/organizations/main/elavon.yaml
+tags:
+- Profile
+- Payments
+- No API Definition
+- Has API
+apis: []
+x-common:
+- type: x-website
+  url: http://newsroom.elavon.com
+- type: x-developers
+  url: https://developer.elavon.com/
+- type: x-documentation
+  url: https://developer.elavon.com/
+- type: x-news
+  url: https://developer.elavon.com/#/api/eb6e9106-0172-4305-bc5a-b3ebe832f823.rcosoomi/documents/?converge-integration-guide/book/api_introduction/intro.html
+- type: x-twitter
+  url: https://twitter.com/elavon
+- type: x-website
+  url: http://developer.elavon.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

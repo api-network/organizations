@@ -1,0 +1,33 @@
+---
+name: WP MACH
+description: Make your WordPress website faster with WP MACH. Affordable, Fast, and
+  Reliable Managed WordPress hosting. 1-Click WordPress Install Hosting Setup!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3276799"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wp-mach.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-contact
+  url: https://wpmach.com/contact-us/
+- type: x-contact
+  url: https://wpmach.com/contact-us
+- type: x-press
+  url: https://wpmach.com/fast-wordpress-hosting/
+- type: x-press
+  url: https://wpmach.com/wordpress-domains/
+- type: x-press
+  url: https://wpmach.com/managed-wordpress-faqs/
+- type: x-website
+  url: https://wpmach.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

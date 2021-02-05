@@ -1,0 +1,23 @@
+---
+name: XMLmind
+description: The aim of XMLmind Software is to promote XML technology and make practical
+  applications of this technology easier, through high-quality yet affordable products.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2194052"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xmlmind.yaml
+tags:
+- Tools
+apis: []
+x-common:
+- type: x-website
+  url: https://www.xmlmind.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

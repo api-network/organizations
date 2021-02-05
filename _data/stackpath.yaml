@@ -1,0 +1,41 @@
+---
+name: StackPath
+description: <p>StackPath is the intelligent web services platform for security, speed
+  and scale. It is the first platform to unify enterprise security solutions by leveraging
+  collaborative intelligence that makes each service smarter and more secure with
+  every threat detected, in addition to vastly improving the customer experience.
+  More than 30,000 customers, ranging from Fortune 100 companies to early stage startups
+  already use StackPath technology. Headquartered in Dallas, Texas, StackPath has
+  offices across the U.S. and internationally.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Stackpath.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "15835"
+url: https://raw.githubusercontent.com/api-network/organizations/main/stackpath.yaml
+tags:
+- Security
+- Have Swagger
+- Have API Paths
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.stackpath.com
+- type: x-blog
+  url: https://blog.stackpath.com/dns-discovery-edge-compute/
+- type: x-developer
+  url: http://developer.stackpath.com
+- type: x-platform
+  url: https://www.stackpath.com/platform/network/
+- type: x-twitter
+  url: https://twitter.com/stackpath
+- type: x-website
+  url: https://www.stackpath.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

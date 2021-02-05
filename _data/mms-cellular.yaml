@@ -1,0 +1,49 @@
+---
+name: MMS Cellular
+description: Maplewave's mission is to power telcos through innovation. Learn how
+  we use one platform and all channels to maximize performance for businesses today.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6693160"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mms-cellular.yaml
+tags:
+- Point Of Sale
+apis: []
+x-common:
+- type: x-about
+  url: https://www.maplewave.com/about-us/
+- type: x-blog
+  url: https://www.maplewave.com/blog/
+- type: x-careers
+  url: https://www.maplewave.com/careers/
+- type: x-case-studies
+  url: https://www.maplewave.com/case-studies/
+- type: x-contact
+  url: https://www.maplewave.com/contact-us/
+- type: x-customers
+  url: https://www.maplewave.com/customers/
+- type: x-facebook
+  url: https://www.facebook.com/maplewave/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/maplewave
+- type: x-news
+  url: https://www.maplewave.com/news/
+- type: x-partner
+  url: https://www.maplewave.com/partners/
+- type: x-platform
+  url: https://www.maplewave.com/retail-platform/
+- type: x-privacy
+  url: https://www.maplewave.com/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/MaplewaveHQ
+- type: x-website
+  url: https://www.mmspos.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

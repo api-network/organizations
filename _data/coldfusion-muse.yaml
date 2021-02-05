@@ -1,0 +1,54 @@
+---
+name: ColdFusion Muse
+description: Musings and Other Things from CF Guru Mark Kruger
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7256587"
+url: https://raw.githubusercontent.com/api-network/organizations/main/coldfusion-muse.yaml
+tags:
+- Weblogs
+- Web Development
+- Programming
+- MS SQL
+- Java
+- IT Security
+- Flash
+- Development
+- ColdFusion
+- CFMX
+- Application Development
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cfwebtools.com
+- type: x-blog
+  url: http://www.coldfusionbloggers.org
+- type: x-blog
+  url: http://www.carehart.org/blog/
+- type: x-blog
+  url: https://www.forta.com/blog
+- type: x-blog
+  url: http://www.talkingtree.com/blog/
+- type: x-feed
+  url: https://feeds.feedburner.com/ColdfusionMuse
+- type: x-open-source
+  url: https://openjdk.java.net
+- type: x-press
+  url: https://christierney.wordpress.com/
+- type: x-press
+  url: https://kellymatthews.wordpress.com/
+- type: x-twitter
+  url: https://twitter.com/cfwebtools?ref_src=twsrc%5Etfw
+- type: x-twitter
+  url: https://twitter.com/cfwebtools
+- type: x-website
+  url: https://www.coldfusionmuse.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

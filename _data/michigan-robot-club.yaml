@@ -1,0 +1,24 @@
+---
+name: Michigan Robot Club
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/michigan-robot-club.yaml
+tags:
+- Organizations
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/groups/114657889768/
+- type: x-website
+  url: https://www.mirobotclub.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

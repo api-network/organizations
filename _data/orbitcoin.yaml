@@ -1,0 +1,25 @@
+---
+name: Orbitcoin
+description: A Crypto currency to help with the funding of open source science, Orbitcoin.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27203-orbitcoin-org.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "2071919"
+url: https://raw.githubusercontent.com/api-network/organizations/main/orbitcoin.yaml
+tags:
+- Marketplaces
+- Blockchain
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/Orbitcoin
+- type: x-website
+  url: http://orbitcoin.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,35 @@
+---
+name: Jungo
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2330894"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jungo.yaml
+tags:
+- Embedded Systems
+- Drivers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.jungo.com
+- type: x-about
+  url: https://plus.google.com/+JungoConnectivity/about
+- type: x-facebook
+  url: https://www.facebook.com/JungoConnectivity?fref=ts
+- type: x-privacy
+  url: https://www.jungo.com/privacy.txt
+- type: x-twitter
+  url: https://twitter.com/JungoConnect
+- type: x-website
+  url: https://www.jungo.com
+- type: x-youtube
+  url: https://www.youtube.com/user/JungoConnectivity
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,35 @@
+---
+name: Agency for Healthcare Research and Quality (AHRQ)
+description: <p><span>The Agency for Healthcare Research and Quality is one of twelve
+  agencies within the United States Department of Health and Human Services. The agency
+  is headquartered in North Bethesda, Maryland, a suburb of Washington, D.C.</span></p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/agency-for-healthcare-research-and-quality-ahrq.yaml
+tags:
+- Toma Las Riendas
+- Take The Reins
+- Pcor
+- Health Care
+- Federal Government
+- Cer
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ahrq.gov/
+- type: x-data
+  url: https://www.ahrq.gov/data/index.html
+- type: x-facebook
+  url: http://facebook.com/AHRQehc.espanol
+- type: x-facebook
+  url: http://facebook.com/yourtreatmentoptions
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

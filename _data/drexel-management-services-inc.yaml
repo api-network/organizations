@@ -1,0 +1,40 @@
+---
+name: Drexel Management Services Inc
+description: Point-of-Sale touch screen software for restaurants
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/drexel-management-services-inc.yaml
+tags:
+- Products And Services
+apis: []
+x-common:
+- type: x-about
+  url: https://drexelmgt.com/about/
+- type: x-about
+  url: https://drexelmgt.com/about/mission-statement/
+- type: x-about
+  url: https://drexelmgt.com/about/directions/
+- type: x-contact
+  url: https://drexelmgt.com/contact-us/
+- type: x-login
+  url: https://drexelmgt.com/wp-login.php
+- type: x-news
+  url: https://drexelmgt.com/category/news/
+- type: x-press
+  url: http://www.studiopress.com/
+- type: x-press
+  url: http://wordpress.org/
+- type: x-support
+  url: https://drexelmgt.com/testimonials/supporttestimonial/
+- type: x-website
+  url: https://www.drexelmgt.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

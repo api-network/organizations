@@ -1,0 +1,23 @@
+---
+name: "Incidents API \u2013 OmniCenter 11 Knowledge Base"
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2564674"
+url: https://raw.githubusercontent.com/api-network/organizations/main/incidents-api--omnicenter-11-knowledge-base.yaml
+tags: []
+apis: []
+x-common:
+- type: x-contact
+  url: https://kb.netreo.com/oc12/contact-us/
+- type: x-website
+  url: http://kb.netreo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

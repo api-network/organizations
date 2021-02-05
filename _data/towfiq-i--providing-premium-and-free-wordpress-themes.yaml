@@ -1,0 +1,40 @@
+---
+name: Towfiq I.- Providing Premium and Free Wordpress Themes
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1349159"
+url: https://raw.githubusercontent.com/api-network/organizations/main/towfiq-i--providing-premium-and-free-wordpress-themes.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-website
+  url: http://www.towfiqi.com/
+- type: x-contact
+  url: https://www.towfiqi.com/contact
+- type: x-feed
+  url: https://feeds.feedburner.com/TowfiqI
+- type: x-forum
+  url: https://www.towfiqi.com/forums
+- type: x-press
+  url: https://www.towfiqi.com/category/wordpress-templates
+- type: x-press
+  url: http://www.towfiqi.com/category/wordpress-templates
+- type: x-press
+  url: https://www.towfiqi.com/wordpress-tutorials/
+- type: x-twitter
+  url: https://www.twitter.com/towfiqi
+- type: x-twitter
+  url: http://twitter.com/share
+- type: x-website
+  url: https://www.towfiqi.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

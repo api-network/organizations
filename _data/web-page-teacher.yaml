@@ -1,0 +1,29 @@
+---
+name: Web Page Teacher
+description: Discover how to make a web page with Web Page Teacher. Try first 10 lessons
+  FREE!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/web-page-teacher.yaml
+tags:
+- HOW TO MAKE A WEB PAGE
+- CREATE A WEB PAGE
+- Beginners
+apis: []
+x-common:
+- type: x-about
+  url: http://www.webpage-teacher.com/about.htm
+- type: x-privacy
+  url: http://www.webpage-teacher.com/privacy.htm
+- type: x-website
+  url: https://www.webpage-teacher.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

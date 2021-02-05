@@ -1,0 +1,54 @@
+---
+name: Artificial Industry
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/artificial-industry.yaml
+tags:
+- Companies
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.quandago.com/blog/
+- type: x-contact
+  url: https://www.quandago.com/contact/
+- type: x-contact
+  url: https://www.quandago.com/contact/demo
+- type: x-contact
+  url: https://www.quandago.com/contact/demo/
+- type: x-customers
+  url: https://www.quandago.com/customers/
+- type: x-facebook
+  url: https://www.facebook.com/QuandaGo-1096649260522766/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/quandago
+- type: x-login
+  url: https://status.quandago.com/access/login
+- type: x-partner
+  url: https://www.quandago.com/company/partners/
+- type: x-platform
+  url: https://www.quandago.com/platform/
+- type: x-platform
+  url: https://www.quandago.com/platform/interactions/
+- type: x-platform
+  url: https://www.quandago.com/platform/knowledge/
+- type: x-platform
+  url: https://www.quandago.com/platform/processes/
+- type: x-platform
+  url: https://www.instagram.com/quandagoplatform/
+- type: x-privacy
+  url: https://www.quandago.com/privacy-policy/
+- type: x-support
+  url: http://support.vanadaloha.com/
+- type: x-website
+  url: https://www.artificialindustry.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

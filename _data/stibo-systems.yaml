@@ -1,0 +1,58 @@
+---
+name: Stibo Systems
+description: |-
+  Master Data Management Built for the Most Important Business in the World. Yours.
+  Master data is a universal challenge that affects every company differently. Make sure you're ready with a solution that puts Your business first.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "549114"
+url: https://raw.githubusercontent.com/api-network/organizations/main/stibo-systems.yaml
+tags:
+- Product
+apis: []
+x-common:
+- type: x-website
+  url: http://www.stibosystems.com
+- type: x-blog
+  url: https://blog.stibosystems.com/
+- type: x-blog
+  url: https://blog.stibosystems.com
+- type: x-contact
+  url: https://www.stibosystems.com/contact-us
+- type: x-customers
+  url: https://www.stibosystems.com/company/our-customers
+- type: x-facebook
+  url: https://www.facebook.com/StiboSystems/
+- type: x-instagram
+  url: https://www.instagram.com/stibosystems.global/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/stibosystems/
+- type: x-news
+  url: https://www.stibosystems.com/newsroom
+- type: x-partner
+  url: https://www.stibosystems.com/partners
+- type: x-partner
+  url: https://www.stibosystems.com/partners/find-a-partner
+- type: x-partner
+  url: https://www.stibosystems.com/partners/partner-portal
+- type: x-partner
+  url: https://www.stibosystems.com/partners/become-a-partner
+- type: x-privacy
+  url: https://www.stibosystems.com/privacy-policy
+- type: x-terms-of-service
+  url: https://www.stibosystems.com/terms-of-use
+- type: x-twitter
+  url: https://twitter.com/StiboSystems
+- type: x-website
+  url: https://www.stibosystems.com
+- type: x-youtube
+  url: https://www.youtube.com/user/StiboSystemsUS
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

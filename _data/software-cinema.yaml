@@ -1,0 +1,39 @@
+---
+name: Software Cinema
+description: Photography, Adobe Photoshop, Lightroom, Painter, Elements and photographic
+  lighting tutorials and training programs for photographers and designers.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/software-cinema.yaml
+tags:
+- Tutorials
+- Tutorial
+- Tips
+- Photos
+- Photography
+- Photographic
+- Photographers
+- Photographer
+- Photo
+- Painter
+- Lights
+- Lightroom
+- Lighting
+- Light
+- Finelight
+- Dean Collins
+- Adobe Photoshop
+apis: []
+x-common:
+- type: x-website
+  url: https://www.software-cinema.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

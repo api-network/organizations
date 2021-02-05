@@ -1,0 +1,57 @@
+---
+name: The Original Software Group Ltd.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3098736"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-original-software-group-ltd-.yaml
+tags:
+- Products And Tools
+- OS-400
+apis: []
+x-common:
+- type: x-about
+  url: https://www.origsoft.com/about-why-original-software/
+- type: x-about
+  url: https://www.origsoft.com/about-philosophy/
+- type: x-about
+  url: https://www.origsoft.com/about-career-opportunities/
+- type: x-about
+  url: http://www.origsoft.com/about-why-original-software/
+- type: x-blog
+  url: https://www.origsoft.com/software-testing-blogs/
+- type: x-contact
+  url: https://www.origsoft.com/about-contact-us/
+- type: x-contact
+  url: http://www.origsoft.com/about-contact-us/
+- type: x-contact
+  url: http://www.origsoft.com/about-contact-us-trial/
+- type: x-customers
+  url: https://customers.origsoft.com
+- type: x-customers
+  url: https://www.origsoft.com/what_customers_say/
+- type: x-customers
+  url: http://www.origsoft.com/what_customers_say/
+- type: x-events
+  url: https://www.origsoft.com/events/
+- type: x-news
+  url: https://www.origsoft.com/latest-news/
+- type: x-partner
+  url: https://www.origsoft.com/partners/
+- type: x-partner
+  url: https://www.origsoft.com/partners-and-affiliations/
+- type: x-partner
+  url: http://www.origsoft.com/partners/
+- type: x-privacy
+  url: https://www.origsoft.com/privacy-policy/
+- type: x-website
+  url: https://www.origsoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

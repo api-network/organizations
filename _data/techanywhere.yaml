@@ -1,0 +1,52 @@
+---
+name: TechAnywhere
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7853851"
+url: https://raw.githubusercontent.com/api-network/organizations/main/techanywhere.yaml
+tags:
+- North America
+apis: []
+x-common:
+- type: x-about
+  url: https://techanywhere.com/about-us/
+- type: x-about
+  url: https://techanywhere.com/about-us/locations/
+- type: x-blog
+  url: https://techanywhere.com/blog/
+- type: x-blog
+  url: https://www.techanywhere.com/blog/
+- type: x-blog
+  url: https://www.techanywhere.com/blog
+- type: x-events
+  url: https://techanywhere.com/tag/events/
+- type: x-feed
+  url: https://techanywhere.com/feed/
+- type: x-feed
+  url: https://techanywhere.com/comments/feed/
+- type: x-login
+  url: https://techanywhere.com/wp-login.php
+- type: x-news
+  url: https://techanywhere.com/category/related-news/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-security
+  url: https://techanywhere.com/testimonials/city-security/
+- type: x-security
+  url: https://techanywhere.com/category/security/
+- type: x-security
+  url: https://techanywhere.com/tag/security/
+- type: x-support
+  url: https://techanywhere.com/remote-support/
+- type: x-website
+  url: https://techanywhere.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

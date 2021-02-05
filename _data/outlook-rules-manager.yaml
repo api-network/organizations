@@ -1,0 +1,35 @@
+---
+name: Outlook Rules Manager
+description: Rules Manager takes care of organising your email so that you don't have
+  to.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/outlook-rules-manager.yaml
+tags:
+- Sort
+- Rules Manager
+- Rules
+- Rule
+- Outlook
+- Organise
+- Microsoft Outlook
+- Manage
+- Inbox
+- Filter
+- Email
+- Autoreply
+- Automate
+apis: []
+x-common:
+- type: x-website
+  url: https://www.outlookrulesmanager.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

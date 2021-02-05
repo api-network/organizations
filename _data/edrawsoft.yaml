@@ -1,0 +1,40 @@
+---
+name: EdrawSoft
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "16764"
+url: https://raw.githubusercontent.com/api-network/organizations/main/edrawsoft.yaml
+tags:
+- Business Drawing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.edrawsoft.com
+- type: x-about
+  url: https://www.edrawsoft.com/about-us.html
+- type: x-facebook
+  url: https://www.facebook.com/edrawsoft
+- type: x-instagram
+  url: https://www.instagram.com/edrawsoft/
+- type: x-privacy
+  url: https://www.edrawsoft.com/privacy-policy.html
+- type: x-support
+  url: https://www.edrawsoft.com/support.html
+- type: x-terms-of-service
+  url: https://www.edrawsoft.com/terms-conditions.html
+- type: x-twitter
+  url: https://twitter.com/edrawsoft
+- type: x-website
+  url: https://www.edrawsoft.com
+- type: x-youtube
+  url: https://www.youtube.com/user/cutedraw/videos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

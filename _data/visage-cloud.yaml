@@ -1,0 +1,29 @@
+---
+name: Visage Cloud
+description: <p>We employ a wide range of state-of-the-art techniques ranging from
+  deep learning and neural networks to conventional machine learning algorithms and
+  big data management to ensure a smooth experience for your face recognition and
+  classification needs</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/25683970.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "3"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/visage-cloud.yaml
+tags:
+- Relative Data
+- Have Swagger
+- Have API Paths
+- Have API
+- API Not Found
+apis: []
+x-common:
+- type: x-website
+  url: http://visagecloud.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

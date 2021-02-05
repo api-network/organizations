@@ -1,0 +1,73 @@
+---
+name: Kirby
+description: Kirby is the content management system that adapts to your projects like
+  no other.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "130173"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kirby.yaml
+tags:
+- Flat File
+apis: []
+x-common:
+- type: x-contact
+  url: https://getkirby.com/contact
+- type: x-documentation
+  url: https://getkirby.com/docs/guide
+- type: x-documentation
+  url: https://getkirby.com/docs/cookbook
+- type: x-documentation
+  url: https://getkirby.com/docs/reference
+- type: x-documentation
+  url: https://getkirby.com/docs/glossary
+- type: x-documentation
+  url: https://getkirby.com/docs/archive
+- type: x-documentation
+  url: https://getkirby.com/docs
+- type: x-forum
+  url: https://getkirby.com/community/forum
+- type: x-github
+  url: https://github.com/sylvainjule/kirby-matomo
+- type: x-github
+  url: https://github.com/getkirby
+- type: x-instagram
+  url: https://instagram.com/getkirby
+- type: x-news
+  url: https://getkirby.com/news
+- type: x-news
+  url: https://getkirby.com/news/newsletter
+- type: x-news
+  url: https://getkirby.com/news/releases
+- type: x-news
+  url: https://getkirby.com/news/twitter
+- type: x-news
+  url: https://getkirby.com/news/instagram
+- type: x-press
+  url: https://getkirby.com/press
+- type: x-privacy
+  url: https://getkirby.com/privacy
+- type: x-twitter
+  url: https://twitter.com/dezinezync
+- type: x-twitter
+  url: https://twitter.com/bvdputte
+- type: x-twitter
+  url: https://twitter.com/getkirby
+- type: x-twitter
+  url: https://twitter.com/splorp
+- type: x-twitter
+  url: https://twitter.com/jng5
+- type: x-twitter
+  url: https://twitter.com/bastianallgeier
+- type: x-twitter
+  url: https://twitter.com/bowstreet
+- type: x-website
+  url: https://getkirby.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

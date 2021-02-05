@@ -1,0 +1,50 @@
+---
+name: StationPlaylist.com
+description: AM/FM radio & internet broadcasting software. Music scheduler & radio
+  automation.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1116858"
+url: https://raw.githubusercontent.com/api-network/organizations/main/stationplaylist-com.yaml
+tags:
+- Zararadio
+- Webcasting Software
+- Streaming Software
+- Stream Hosting
+- Stream Encoding
+- Stream Encoder
+- Station Playlist
+- Software
+- Sam Broadcaster
+- Radio Playout
+- Radio Broadcasting
+- Radio Automation
+- Podcasting
+- Podcast Software
+- Playout Automation
+- Playback Automation
+- Online Radio
+- On Air Software
+- Music Scheduling
+- Music Scheduler
+- Internet Streaming
+- Internet Broadcasting
+- Dj Software
+- Automated Broadcasting
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.radiomagonline.com/blogentry/1300
+- type: x-news
+  url: http://www.air-news.net/
+- type: x-website
+  url: https://www.stationplaylist.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

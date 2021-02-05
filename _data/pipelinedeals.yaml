@@ -1,0 +1,59 @@
+---
+name: PipelineDeals
+description: Sales CRM (Customer Relationship Management) Software by PipelineDeals
+  Allows You to Easily Organize, Track, and Manage Your Sales Management Leads and
+  Contracts. Free 14 Day Trial.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/PipelineDeals.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "67641"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pipelinedeals.yaml
+tags:
+- Rentable
+- Have API
+- CRM
+- CRM
+apis: []
+x-common:
+- type: x-website
+  url: http://www.pipelinedeals.com
+- type: x-base
+  url: https://api.pipelinedeals.com/api/
+- type: x-blog
+  url: https://blog.pipelinedeals.com/
+- type: x-blog
+  url: http://blog.pipelinedeals.com/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/pipelinedeals-com
+- type: x-developers
+  url: https://www.pipelinedeals.com/developers
+- type: x-facebook
+  url: https://www.facebook.com/pipelinedeals
+- type: x-github
+  url: https://github.com/PipelineDeals
+- type: x-instagram
+  url: https://www.instagram.com/pipelinedeals
+- type: x-linkedin
+  url: https://www.linkedin.com/company/1073626
+- type: x-login
+  url: https://app.pipelinedeals.com/login
+- type: x-partner
+  url: https://aws.amazon.com/partners/
+- type: x-privacy
+  url: https://www.pipelinedeals.com/privacy
+- type: x-support
+  url: https://help.pipelinedeals.com
+- type: x-twitter
+  url: https://twitter.com/pipelinedeals
+- type: x-website
+  url: https://www.pipelinedeals.com
+- type: x-website
+  url: https://www.pipelinedeals.com/pricing
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

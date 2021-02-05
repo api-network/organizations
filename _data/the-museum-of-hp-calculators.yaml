@@ -1,0 +1,38 @@
+---
+name: The Museum of HP Calculators
+description: "The Museum of HP Calculators displays \nand describes older Hewlett-Packard
+  calculators. \nThere are also sections on calculating machines and slide rules as
+  well\nas sections for buying and selling HP calculators, an HP timeline, \ncollecting
+  information and a software library."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "104502"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-museum-of-hp-calculators.yaml
+tags:
+- Slide Rules
+- HP Museum
+- HP Calculator
+- HP
+- Hewlett-Packard
+- Hewlett Packard
+- |-
+  Calculator
+  HP Calculator Museum
+- Calculating Machines
+apis: []
+x-common:
+- type: x-forum
+  url: https://www.hpmuseum.org/forum/
+- type: x-forum
+  url: https://www.hpmuseum.org/forum/forum-6.html
+- type: x-website
+  url: https://www.hpmuseum.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

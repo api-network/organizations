@@ -1,0 +1,65 @@
+---
+name: SoftBase Systems
+description: SoftBase is a leading provider of z/OS Db2 application coding, testing
+  and deployment tools. SoftBase provides solutions for Db2 test data masking, Db2
+  test data subsets, Db2 editing, simplifying Db2 testing environments, building Db2
+  SQL queries, accessing the Db2 catalog with features to debug SQLCODE 911 and SQLCODE
+  805, Db2 checkpoint restart, Db2 performance, Db2 Call Attach, Db2 Deadlock, and
+  date / time simulation testing.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6076566"
+url: https://raw.githubusercontent.com/api-network/organizations/main/softbase-systems.yaml
+tags:
+- Z/OS
+- Tools For Z/OS Db2
+- Sqlcode -911
+- Sqlcode -904
+- Sql Code -911
+- Sql Code -904
+- Software
+- Rrsaf Db2
+- Db2 Vendor Software
+- Db2 Tool
+- DB2 Testing
+- Db2 Test Data Management
+- Db2 Software
+- Db2 Restart
+- Db2 Query Tools
+- Db2 Programmer Tools
+- Db2 Programmer Software
+- Db2 Performance Tuning
+- Db2 Performance
+- Db2 Monitor
+- Db2 For Z/os
+- Db2 Development
+- Db2 Developer Tools
+- Db2 Developer Software
+- Db2 Checkpoint
+- Db2 Catalog
+- Db2 Applications
+- Db2 Application Tuning
+- Db2 Application Developer Tools
+- Db2 Application Developer Software
+- DB2
+- "-911"
+- "-904"
+apis: []
+x-common:
+- type: x-website
+  url: http://www.softbase.com
+- type: x-code
+  url: https://www.softbase.com/testbase_sqlcode_805_tool.php
+- type: x-twitter
+  url: https://twitter.com/softbase
+- type: x-website
+  url: https://www.softbase.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

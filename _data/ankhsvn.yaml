@@ -1,0 +1,58 @@
+---
+name: AnkhSVN
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "121205"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ankhsvn.yaml
+tags:
+- Subversion
+apis: []
+x-common:
+- type: x-website
+  url: https://www.collab.net
+- type: x-blog
+  url: http://blogs.collab.net/
+- type: x-blog
+  url: https://blog.versionone.com/
+- type: x-blog
+  url: http://blogs.collab.net
+- type: x-contact
+  url: http://info.versionone.com/contact-us.html
+- type: x-documentation
+  url: http://docs.collab.net/
+- type: x-facebook
+  url: https://www.facebook.com/CollabNetVersionOne
+- type: x-integrations
+  url: https://www.collab.net/solutions/integrations
+- type: x-linkedin
+  url: https://www.linkedin.com/company/collabnetversionone
+- type: x-open-source
+  url: https://www.open.collab.net/servlets/Join
+- type: x-open-source
+  url: https://ctf.open.collab.net/sf/projects/desktop/
+- type: x-open-source
+  url: https://sharpsvn.open.collab.net/
+- type: x-partner
+  url: https://www.collab.net/partners
+- type: x-partner
+  url: http://info.versionone.com/become-a-partner.html
+- type: x-partner
+  url: https://www.versionone.com/partners/refer-a-client/
+- type: x-status
+  url: https://versionone.statusdashboard.com/
+- type: x-support
+  url: https://www.collab.net/support
+- type: x-twitter
+  url: http://www.twitter.com/collabnetv1
+- type: x-website
+  url: https://ankhsvn.open.collab.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

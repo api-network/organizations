@@ -1,0 +1,51 @@
+---
+name: ehMac.ca
+description: ehMac.ca Canada's Apple Mac iPod and iPhone Community
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2598958"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ehmac-ca.yaml
+tags:
+- Store
+- Sell
+- Review
+- Reseller
+- Photos
+- Mac
+- ITunes
+- IPod
+- IPhone
+- Forum
+- Classified
+- Canadian
+- Canada
+- Buy
+- Apple Tv
+- Apple
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ehmac.ca/
+- type: x-forum
+  url: https://www.ehmac.ca/forum.php
+- type: x-self-service-registration
+  url: https://www.ehmac.ca/register.php
+- type: x-support
+  url: https://www.ehmac.ca/eh-helping-hand/
+- type: x-support
+  url: https://www.ehmac.ca/ehmac-help-desk/
+- type: x-twitter
+  url: http://www.twitter.com/ehMac
+- type: x-website
+  url: https://www.ehmac.ca
+- type: x-youtube
+  url: http://www.youtube.com/ehmac
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

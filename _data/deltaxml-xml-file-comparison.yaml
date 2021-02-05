@@ -1,0 +1,65 @@
+---
+name: 'DeltaXML: XML file comparison'
+description: Compare, identify, represent, merge and output changes in your content
+  with our XML differencing and comparison tool to support management of change
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2224995"
+url: https://raw.githubusercontent.com/api-network/organizations/main/deltaxml-xml-file-comparison.yaml
+tags:
+- Tools
+apis: []
+x-common:
+- type: x-website
+  url: http://www.deltaxml.com
+- type: x-blog
+  url: https://www.deltaxml.com/blog/
+- type: x-careers
+  url: https://www.deltaxml.com/careers/
+- type: x-code
+  url: https://www.deltaxml.com/products/code/
+- type: x-contact
+  url: https://www.deltaxml.com/contact/
+- type: x-customers
+  url: https://www.deltaxml.com/customers/
+- type: x-documentation
+  url: https://docs.deltaxml.com/support/latest/documentation
+- type: x-documentation
+  url: https://docs.deltaxml.com/xml-compare/latest
+- type: x-documentation
+  url: https://docs.deltaxml.com/xdc/latest
+- type: x-documentation
+  url: https://docs.deltaxml.com/dita-compare/latest
+- type: x-documentation
+  url: https://docs.deltaxml.com/docbook-compare/latest
+- type: x-documentation
+  url: https://docs.deltaxml.com/json-compare/latest
+- type: x-documentation
+  url: https://docs.deltaxml.com/xml-merge/latest
+- type: x-documentation
+  url: https://docs.deltaxml.com/dita-merge/latest
+- type: x-documentation
+  url: https://docs.deltaxml.com/support/latest
+- type: x-events
+  url: https://www.deltaxml.com/events/
+- type: x-forum
+  url: https://www.deltaxml.com/support-forums/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/deltaxml-ltd
+- type: x-partner
+  url: https://www.deltaxml.com/partners/
+- type: x-press
+  url: https://www.deltaxml.com/blog/category/press-release/
+- type: x-twitter
+  url: http://twitter.com/deltaxml
+- type: x-website
+  url: https://www.deltaxml.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,31 @@
+---
+name: Paprika
+description: Job Costing and Accounting software for marketing and creative agencies.
+  Paprika.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6631959"
+url: https://raw.githubusercontent.com/api-network/organizations/main/paprika.yaml
+tags:
+- Project Management
+apis: []
+x-common:
+- type: x-linkedin
+  url: http://www.linkedin.com/company/paprika-software
+- type: x-twitter
+  url: http://www.twitter.com/PaprikaSoftware
+- type: x-twitter
+  url: https://twitter.com/PaprikaSoftware
+- type: x-twitter
+  url: https://twitter.com/intent/tweet?via=PaprikaSoftware
+- type: x-website
+  url: https://www.paprika-software.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

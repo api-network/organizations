@@ -1,0 +1,30 @@
+---
+name: Waves Platform
+description: Blockchain platform with emphasis on custom token creation, transfer
+  and decentralized trading, with deep fiat integration and focus on community-backed
+  projects
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26467-marketdata-wavesplatform-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "56380"
+url: https://raw.githubusercontent.com/api-network/organizations/main/waves-platform.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/waves-platform
+- type: x-twitter
+  url: https://twitter.com/wavesplatform
+- type: x-website
+  url: http://marketdata.wavesplatform.com
+- type: x-website
+  url: https://wavesplatform.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

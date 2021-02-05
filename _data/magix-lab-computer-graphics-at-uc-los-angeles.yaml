@@ -1,0 +1,22 @@
+---
+name: 'MAGIX Lab: Computer Graphics at UC Los Angeles'
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2767"
+url: https://raw.githubusercontent.com/api-network/organizations/main/magix-lab-computer-graphics-at-uc-los-angeles.yaml
+tags:
+- Computer Graphics
+apis: []
+x-common:
+- type: x-website
+  url: https://www.magix.ucla.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

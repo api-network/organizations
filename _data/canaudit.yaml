@@ -1,0 +1,58 @@
+---
+name: Canaudit
+description: Canaudit | Information security and IT audit consultants offering network
+  penetration testing, vulnerability assessments, and IT security training seminars.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6963520"
+url: https://raw.githubusercontent.com/api-network/organizations/main/canaudit.yaml
+tags:
+- Web Application Security
+- Vulnerability Assessment
+- United States
+- SOX
+- Sarbanes-Oxley
+- Risk Assessment
+- Regulatory Compliance Reviews
+- PCI
+- Network Security Assessment
+- Network Penetration Testing
+- IT Security
+- IT Consulting
+- IT Audit
+- Information Technology Consulting
+- Information Security
+- HITECH
+- HIPAA
+- Glba
+- FFEIC
+- FERPA
+apis: []
+x-common:
+- type: x-website
+  url: http://www.canaudit.com
+- type: x-about
+  url: https://www.canaudit.com/about-canaudit/
+- type: x-contact
+  url: https://www.canaudit.com/about-canaudit/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/Canaudit
+- type: x-privacy
+  url: https://www.canaudit.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.canaudit.com/industries/legal/
+- type: x-terms-of-service
+  url: https://www.canaudit.com/terms-of-service/
+- type: x-twitter
+  url: https://twitter.com/Canaudit
+- type: x-website
+  url: https://www.canaudit.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,22 @@
+---
+name: Mpg123
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9342395"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mpg123.yaml
+tags:
+- Players
+apis: []
+x-common:
+- type: x-website
+  url: https://www.mpg123.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

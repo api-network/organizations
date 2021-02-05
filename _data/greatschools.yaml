@@ -1,0 +1,46 @@
+---
+name: GreatSchools
+description: View parent ratings, reviews and test scores and choose the right preschool,
+  elementary, middle or high school for public or private education.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/great-schools-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "13219"
+url: https://raw.githubusercontent.com/api-network/organizations/main/greatschools.yaml
+tags:
+- Schools
+- Marketplaces
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: https://www.greatschools.org
+- type: x-blog-rss
+  url: http://feeds2.feedburner.com/GreatschoolsBlog
+- type: x-curated-source
+  url: http://blogs.greatschools.org/greatschoolsblog/2013/05/who-gets-the-best-teachers.html
+- type: x-website
+  url: http://blogs.greatschools.org
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/greatschools-org
+- type: x-facebook
+  url: https://www.facebook.com/greatschools
+- type: x-instagram
+  url: https://www.instagram.com/greatschools/
+- type: x-twitter
+  url: https://www.twitter.com/greatschools
+- type: x-twitter
+  url: https://twitter.com/greatschools
+- type: x-website
+  url: http://www.greatschools.org
+- type: x-youtube
+  url: https://www.youtube.com/greatschools
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

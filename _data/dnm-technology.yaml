@@ -1,0 +1,31 @@
+---
+name: DNM Technology
+description: "DNM is an international consultancy service company enabling business
+  transformation, providing solutions in the areas of Analytics, Cloud, Managed Services.\_"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dnm-technology.yaml
+tags:
+- Sybase
+apis: []
+x-common:
+- type: x-website
+  url: http://www.dnmgroup.com
+- type: x-contact
+  url: https://www.dnmgroup.com/contact/
+- type: x-privacy
+  url: https://www.dnmgroup.com/our-privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/DNMtech
+- type: x-website
+  url: https://www.dnm.ie
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

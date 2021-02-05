@@ -1,0 +1,35 @@
+---
+name: Claromentis Ltd
+description: Go beyond the intranet to the Claromentis digital workplace. Improve
+  communication, workflows and productivity. Try it free today!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "881579"
+url: https://raw.githubusercontent.com/api-network/organizations/main/claromentis-ltd.yaml
+tags:
+- Content Management
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.claromentis.com
+- type: x-facebook
+  url: https://www.facebook.com/Claromentis
+- type: x-linkedin
+  url: https://www.linkedin.com/company/claromentis-ltd
+- type: x-news
+  url: https://claromentis.newswire.com/browse/news
+- type: x-pricing
+  url: https://www.claromentis.com/product-pricing/
+- type: x-twitter
+  url: https://twitter.com/claromentis
+- type: x-website
+  url: https://www.claromentis.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

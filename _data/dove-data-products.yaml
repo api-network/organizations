@@ -1,0 +1,39 @@
+---
+name: Dove Data Products
+description: Dove Print Solutions has been helping companies keep up with the growing
+  demands of an always-on world with innovative printing solutions since 1991.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dove-data-products.yaml
+tags:
+- Supplies
+apis: []
+x-common:
+- type: x-about
+  url: https://www.doveprintsolutions.com/about/
+- type: x-about
+  url: https://www.doveprintsolutions.com/about/about-us/
+- type: x-about
+  url: https://www.doveprintsolutions.com/about/history/
+- type: x-about
+  url: https://www.doveprintsolutions.com/about/testimonials/
+- type: x-contact
+  url: https://www.doveprintsolutions.com/contact/
+- type: x-partner
+  url: https://www.doveprintsolutions.com/about/partners/
+- type: x-support
+  url: https://support.doveprintsolutions.com/portal/home
+- type: x-terms-of-service
+  url: https://www.doveprintsolutions.com/industries/legal/
+- type: x-website
+  url: https://www.dovedata.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,23 @@
+---
+name: out-law.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/outlaw-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.out-law.com/en/articles/2016/may/UK-banks-to-be-urged-to-implement-retail-competition-improvements-promptly/
+- type: x-website
+  url: http://out-law.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

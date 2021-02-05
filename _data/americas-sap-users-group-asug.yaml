@@ -1,0 +1,48 @@
+---
+name: Americas' SAP Users' Group (ASUG)
+description: "Our members make up the world\u2019s largest network of SAP customers,
+  partners, and professionals. Together, we drive organizations, teams, and careers
+  forward by expanding what\u2019s possible with SAP solutions."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "342768"
+url: https://raw.githubusercontent.com/api-network/organizations/main/americas-sap-users-group-asug.yaml
+tags:
+- User Groups
+apis: []
+x-common:
+- type: x-website
+  url: http://www.asug.com
+- type: x-about
+  url: https://www.asug.com/about
+- type: x-events
+  url: https://www.asug.com/events
+- type: x-login
+  url: https://www.asug.com/login
+- type: x-login
+  url: https://www.asug.com/login/reset
+- type: x-news
+  url: https://www.asug.com/insights/news
+- type: x-partner
+  url: https://www.asug.com/partners
+- type: x-privacy
+  url: https://www.asug.com/privacy-statement
+- type: x-terms-of-service
+  url: https://www.asug.com/terms-of-use
+- type: x-terms-of-service
+  url: https://www.asug.com/membership-terms
+- type: x-twitter
+  url: http://twitter.com/asug365
+- type: x-website
+  url: https://www.asug.com
+- type: x-youtube
+  url: http://www.youtube.com/user/ASUGtv
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

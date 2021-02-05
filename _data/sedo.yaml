@@ -1,0 +1,53 @@
+---
+name: Sedo
+description: "Buy, sell, or park domains on the world's leading domain marketplace!
+  Simple \u2713 Secure \u2713 Free of charge \u2713 Learn more now!"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8033"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sedo.yaml
+tags:
+- Website
+- Transfer Domain
+- Sell Website
+- Sell Domain
+- Register Domain
+- Premium Domains
+- New Domain Name
+- Marketplace
+- General Brokers
+- Domains For Sale
+- Domain Parking
+- Domain Name
+- Domain Escrow
+- Domain Brokerage
+- Domain Auction
+- Domain Appraisal
+- Domain
+- Buy Website
+- Buy Domain
+apis: []
+x-common:
+- type: x-website
+  url: http://www.sedo.com
+- type: x-facebook
+  url: https://www.facebook.com/sedo
+- type: x-instagram
+  url: https://www.instagram.com/sedodomains/
+- type: x-support
+  url: https://www.paypal.com/us/selfhelp/home
+- type: x-twitter
+  url: https://twitter.com/sedo
+- type: x-website
+  url: https://www.sedo.com
+- type: x-youtube
+  url: https://www.youtube.com/user/SedoLLC
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

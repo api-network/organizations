@@ -1,0 +1,50 @@
+---
+name: Bright Bright Great
+description: Web Design, Development, Brand Strategy
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/3765-bright-bright-great.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1063395"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bright-bright-great.yaml
+tags:
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://brightbrightgreat.com
+- type: x-twitter
+  url: https://twitter.com/bbg
+- type: x-careers
+  url: https://brightbrightgreat.com/tag/careers/
+- type: x-contact
+  url: https://brightbrightgreat.com/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/bright-bright-great
+- type: x-developer
+  url: http://developer.brightbrightgreat.com
+- type: x-email
+  url: sayhello@brightbrightgreat.com
+- type: x-facebook
+  url: https://www.facebook.com/brightbrightgreat
+- type: x-instagram
+  url: http://instagram.com/brightbrightgreat
+- type: x-instagram
+  url: https://instagram.com/mlmtr_/
+- type: x-news
+  url: https://brightbrightgreat.com/news/
+- type: x-twitter
+  url: http://www.twitter.com/bbg
+- type: x-twitter
+  url: http://twitter.com/bbg/statuses/1181970027391508480
+- type: x-twitter
+  url: https://www.twitter.com/bbg
+- type: x-website
+  url: http://brightbrightgreat.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

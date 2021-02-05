@@ -1,0 +1,32 @@
+---
+name: Moovly
+description: 'Moovly is a company that provides a cloud-based platform that enables
+  users to create and generate multimedia content: animated videos, video presentations,
+  animated info graphics and any other video content that includes a mix of animation
+  and motion ...'
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28964-developer-moovly-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "51998"
+url: https://raw.githubusercontent.com/api-network/organizations/main/moovly.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: https://bit.ly/38sQ7Cr
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/moovly
+- type: x-email
+  url: info@moovly.com
+- type: x-twitter
+  url: https://twitter.com/moovly
+- type: x-website
+  url: https://developer.moovly.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

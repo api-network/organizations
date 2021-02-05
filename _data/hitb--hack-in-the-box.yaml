@@ -1,0 +1,72 @@
+---
+name: HITB - Hack in the Box
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "447964"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hitb--hack-in-the-box.yaml
+tags:
+- Conventions
+apis: []
+x-common:
+- type: x-website
+  url: https://haxx.in/
+- type: x-facebook
+  url: https://www.facebook.com/hackinthebox
+- type: x-news
+  url: http://news.hackinthebox.org
+- type: x-twitter
+  url: https://twitter.com/aphesz
+- type: x-twitter
+  url: https://twitter.com/kagesenshi
+- type: x-twitter
+  url: https://twitter.com/xrufiox
+- type: x-twitter
+  url: https://twitter.com/guantl
+- type: x-twitter
+  url: https://twitter.com/hackersatokura
+- type: x-twitter
+  url: https://twitter.com/eninef
+- type: x-twitter
+  url: https://twitter.com/fish_
+- type: x-twitter
+  url: https://twitter.com/prabur
+- type: x-twitter
+  url: https://twitter.com/0x404
+- type: x-twitter
+  url: https://twitter.com/bl4sty
+- type: x-twitter
+  url: https://twitter.com/zarya_
+- type: x-twitter
+  url: https://twitter.com/junkyarduser
+- type: x-twitter
+  url: https://twitter.com/mavjs
+- type: x-twitter
+  url: https://twitter.com/skier_t
+- type: x-twitter
+  url: https://twitter.com/hitbnoc
+- type: x-twitter
+  url: https://twitter.com/mrngm
+- type: x-twitter
+  url: https://twitter.com/itq
+- type: x-twitter
+  url: https://twitter.com/youriz
+- type: x-twitter
+  url: https://twitter.com/mamdhoohr
+- type: x-twitter
+  url: https://twitter.com/biatch0
+- type: x-twitter
+  url: https://twitter.com/L33tdawg
+- type: x-twitter
+  url: http://twitter.com/hitbsecconf
+- type: x-website
+  url: https://conference.hitb.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

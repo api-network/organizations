@@ -1,0 +1,68 @@
+---
+name: CareerBuilder
+description: "Our mission is empowering employment. We are striving to organize all
+  the world\u2019s human capital data and make it meaningful for society. It is the
+  core of our business and the guiding principle of our people, making CareerBuilder
+  a truly unique place to work. A place where you can say that at the end of the day,
+  you make a difference. Each day we help job seekers and companies connect, giving
+  people a chance to find their calling and many employers a chance to find and hire
+  top talent to help grow their business."
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3023"
+url: https://raw.githubusercontent.com/api-network/organizations/main/careerbuilder.yaml
+tags:
+- Talent Discovery
+- Talent
+- Resumes
+- Profile
+- Job Seekers
+- Job Postings
+- Human Capital Management
+- Have Swagger
+- Have API Paths
+- Employment Screening
+- Employment
+- Careers
+- Applicant Tracking
+apis: []
+x-common:
+- type: x-website
+  url: https://cb.com/Advice
+- type: x-curated-source
+  url: http://www.careerbuilder.com/jobs/expiredjob.aspx
+- type: x-website
+  url: http://careerbuilder.com
+- type: x-careers
+  url: https://hiring.careerbuilder.com/post-jobs
+- type: x-careers
+  url: https://www.careerbuildercareers.com/
+- type: x-developer
+  url: https://developer.careerbuilder.com
+- type: x-developer
+  url: http://developer.careerbuilder.com
+- type: x-facebook
+  url: https://www.facebook.com/careerbuilder
+- type: x-linkedin
+  url: https://www.linkedin.com/company/careerbuildercom
+- type: x-partner
+  url: http://developer-legacy.cbmtn.io/partner_messages/new
+- type: x-security
+  url: https://www.careerbuilder.com/security-and-fraud
+- type: x-support
+  url: https://www.careerbuilder.com/user/help
+- type: x-terms-of-service
+  url: https://www.careerbuilder.com/terms
+- type: x-twitter
+  url: https://twitter.com/careerbuilder
+- type: x-youtube
+  url: https://www.youtube.com/user/CareerBuilder
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

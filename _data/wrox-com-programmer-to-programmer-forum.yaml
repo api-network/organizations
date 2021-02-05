@@ -1,0 +1,54 @@
+---
+name: Wrox.com Programmer to Programmer Forum
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "124533"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wrox-com-programmer-to-programmer-forum.yaml
+tags:
+- Chats And Forums
+apis: []
+x-common:
+- type: x-code
+  url: http://www.wrox.com/go/downloadcode
+- type: x-code
+  url: https://p2p.wrox.com/xcode-193/
+- type: x-code
+  url: https://p2p.wrox.com/book-professional-xcode-3-549/
+- type: x-code
+  url: https://p2p.wrox.com/html-code-clinic-90/
+- type: x-feed
+  url: https://p2p.wrox.com/wrox-announcements-feedback-5/
+- type: x-feed
+  url: https://p2p.wrox.com/wrox-book-feedback-55/
+- type: x-forum
+  url: https://p2p.wrox.com/forumdisplay.php?do=markread
+- type: x-forum
+  url: https://p2p.wrox.com/forum-wrox-com-feedback-56/
+- type: x-login
+  url: https://p2p.wrox.com/login.php?do=lostpw
+- type: x-open-source
+  url: https://p2p.wrox.com/java-open-source-458/
+- type: x-open-source
+  url: https://p2p.wrox.com/open-source-17/
+- type: x-press
+  url: http://p2p.wrox.com/book-professional-wordpress-567/
+- type: x-press
+  url: https://p2p.wrox.com/book-professional-wordpress-567/
+- type: x-self-service-registration
+  url: https://p2p.wrox.com/register.php
+- type: x-support
+  url: https://p2p.wrox.com/ruby/69542-help-arrays.html
+- type: x-support
+  url: https://p2p.wrox.com/need-help-your-homework-248/
+- type: x-website
+  url: https://p2p.wrox.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

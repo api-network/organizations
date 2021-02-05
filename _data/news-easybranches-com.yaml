@@ -1,0 +1,23 @@
+---
+name: news.easybranches.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/news-easybranches-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://news.easybranches.com/instagram-bolsters-ad-offerings/
+- type: x-website
+  url: http://news.easybranches.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

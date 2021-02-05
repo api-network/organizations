@@ -1,0 +1,31 @@
+---
+name: CallOnClick
+description: Click to call, click 2 talk, website callback | CallOnClick.com
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4334297"
+url: https://raw.githubusercontent.com/api-network/organizations/main/callonclick.yaml
+tags:
+- Website Callback
+- Website Call Back
+- Software
+- Push To Talk Button For Websites
+- Click To Talk
+- Click To Dial
+- Click To Call Service
+- Click To Call
+- Click 2 Call
+- Call On Click
+apis: []
+x-common:
+- type: x-website
+  url: https://www.callonclick.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

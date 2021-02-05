@@ -1,0 +1,36 @@
+---
+name: InstantPay
+description: Founded in 2013, InstantPay is focused on bridging the gap which traditional
+  banks have not been able to since the inception of banking in India. Over the years
+  our innovative solutions have empowered the Indian consumer to adapt to the new-age
+  banking services.
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "70025"
+url: https://raw.githubusercontent.com/api-network/organizations/main/instantpay.yaml
+tags:
+- Profile
+- Payments
+- Have OpenAPI
+- Has API
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.instantpay.in
+- type: x-facebook
+  url: https://www.facebook.com/instantpayin
+- type: x-linkedin
+  url: https://www.linkedin.com/company/instantpay
+- type: x-twitter
+  url: https://twitter.com/instantPayIN
+- type: x-website
+  url: http://www.instantpay.in
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,48 @@
+---
+name: Phoronix
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "49274"
+url: https://raw.githubusercontent.com/api-network/organizations/main/phoronix.yaml
+tags:
+- X.Org Drivers
+- Ubuntu Hardware
+- Phoronix Test Suite
+- Phoronix
+- Open Source AMD
+- News And Media
+- Linux How To
+- Linux Hardware Reviews
+- Linux Hardware Benchmarks
+- Linux Hardware
+- Linux Benchmarking
+- GNU/Linux Benchmarks
+- Desktop Linux
+apis: []
+x-common:
+- type: x-website
+  url: http://www.phoronix.com/
+- type: x-contact
+  url: https://www.phoronix-media.com/?k=contact
+- type: x-facebook
+  url: https://www.facebook.com/Phoronix
+- type: x-facebook
+  url: https://facebook.com/Phoronix
+- type: x-forum
+  url: https://www.phoronix.com/forums/
+- type: x-open-source
+  url: https://openbenchmarking.org/
+- type: x-twitter
+  url: https://twitter.com/Phoronix
+- type: x-website
+  url: https://www.phoronix.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

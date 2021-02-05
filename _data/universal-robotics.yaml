@@ -1,0 +1,36 @@
+---
+name: Universal Robotics
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/universal-robotics.yaml
+tags:
+- Companies
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.universallogic.com/blog/
+- type: x-contact
+  url: https://www.universallogic.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/universalrobotics/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/16203930/
+- type: x-press
+  url: https://www.universallogic.com/press/
+- type: x-twitter
+  url: https://twitter.com/uroboticsinc/
+- type: x-website
+  url: https://www.universalrobotics.com
+- type: x-youtube
+  url: https://www.youtube.com/user/UniversalRobotics/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

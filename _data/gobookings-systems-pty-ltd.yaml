@@ -1,0 +1,27 @@
+---
+name: GObookings Systems Pty Ltd
+description: We tailor flexible and secure scheduling solutions that your customers
+  will love. We ensure your customer connections are profitable experiences. GoBookings
+  works with all scheduling workflows. Our team work with you to configure a scheduling
+  solution that is tailored to your specific requirements.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "377612"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gobookings-systems-pty-ltd.yaml
+tags:
+- Appointment Scheduling
+apis: []
+x-common:
+- type: x-login
+  url: https://www.gobookings.com/gb_login.htm
+- type: x-website
+  url: https://www.gobookings.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

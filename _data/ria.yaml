@@ -1,0 +1,50 @@
+---
+name: RIA
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3992"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ria.yaml
+tags:
+- United States
+apis: []
+x-common:
+- type: x-about
+  url: https://tax.thomsonreuters.com/en/about-us
+- type: x-blog
+  url: https://tax.thomsonreuters.com/blog/
+- type: x-careers
+  url: https://www.thomsonreuters.com/en/careers.html
+- type: x-contact
+  url: https://tax.thomsonreuters.com/en/contact
+- type: x-events
+  url: https://tax.thomsonreuters.com/site/resources/events/
+- type: x-news
+  url: https://tax.thomsonreuters.com/news
+- type: x-support
+  url: https://tax.thomsonreuters.com/en/aumentum/support
+- type: x-support
+  url: https://tax.thomsonreuters.com/en/checkpoint/support
+- type: x-support
+  url: https://tax.thomsonreuters.com/en/onesource/support
+- type: x-support
+  url: https://tax.thomsonreuters.com/us/en/onvio/support
+- type: x-support
+  url: https://tax.thomsonreuters.co.uk/support/digita-onvio/
+- type: x-terms-of-service
+  url: https://legal.thomsonreuters.com
+- type: x-terms-of-service
+  url: https://www.thomsonreuters.com/en/terms-of-use.html
+- type: x-website
+  url: https://ria.thomsonreuters.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=cryaZinIlYA
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

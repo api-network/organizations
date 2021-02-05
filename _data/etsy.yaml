@@ -1,0 +1,132 @@
+---
+name: Etsy
+description: "Find the perfect handmade gift, vintage & on-trend clothes, unique jewelry,
+  and more\u2026 lots more."
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/192-etsy.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "134"
+url: https://raw.githubusercontent.com/api-network/organizations/main/etsy.yaml
+tags:
+- Woodworking
+- Weddings
+- Vintage
+- Toys
+- Supplies
+- Relative Data
+- Quilts
+- Plants And Edibles
+- Pets
+- Patterns
+- Paper Goods
+- Needlecraft
+- Marketplaces
+- Knitting
+- Jewelry
+- Housewares
+- Holidays
+- Have API Paths
+- Have API
+- Glass
+- General Data
+- Geekery
+- Furniture
+- Dolls And Miniatures
+- Crochet
+- Children
+- API Provider
+- API LIfeycle
+apis: []
+x-common:
+- type: x-api-json--authoritative
+  url: http://apis.io/apisdef/etsy.json
+- type: x-website
+  url: http://www.etsy.com
+- type: x-about
+  url: https://www.etsy.com/about?ref=ftr
+- type: x-application-gallery
+  url: https://www.etsy.com/apps/
+- type: x-base
+  url: https://openapi.etsy.com/
+- type: x-blog
+  url: https://blog.etsy.com/en?ref=hpsh
+- type: x-blog
+  url: https://blog.etsy.com/en?ref=hpsm
+- type: x-blog
+  url: https://blog.etsy.com/en/featured-shop-kit-atlas/?ref=hp
+- type: x-blog
+  url: https://blog.etsy.com/en/5-star-buys-watch-box/?ref=hp
+- type: x-blog
+  url: https://blog.etsy.com/en/real-weddings-a-low-key-party-rich-with-romance/?ref=hp
+- type: x-blog
+  url: http://www.etsy.com/blog/en/
+- type: x-blog-rss
+  url: https://blog.etsy.com/en/feed/
+- type: x-careers
+  url: https://www.etsy.com/careers?ref=ftr
+- type: x-code
+  url: http://codeascraft.etsy.com
+- type: x-code
+  url: http://feeds.feedburner.com/codeascraft
+- type: x-copyright
+  url: https://www.etsy.com/help/article/482/?ref=ftr
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/etsy
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/etsy
+- type: x-developer
+  url: http://developer.etsy.com
+- type: x-developers
+  url: https://www.etsy.com/developers/
+- type: x-email
+  url: enaffiliates@etsy.com
+- type: x-email
+  url: selleraffiliate@etsy.com
+- type: x-email
+  url: developer@etsy.com
+- type: x-email
+  url: legal@etsy.com
+- type: x-email
+  url: dpo@etsy.com
+- type: x-email
+  url: dispute-resolution@etsy.com
+- type: x-forum
+  url: https://community.etsy.com/t5/Etsy-Forums/ct-p/forums
+- type: x-forums
+  url: https://www.etsy.com/developers/discussion
+- type: x-github
+  url: https://github.com/etsy
+- type: x-investor
+  url: https://investors.etsy.com
+- type: x-press
+  url: https://www.etsy.com/press?ref=ftr
+- type: x-privacy
+  url: https://www.etsy.com/help/article/480/?ref=ftr
+- type: x-support
+  url: https://www.etsy.com/help/article/372
+- type: x-support
+  url: https://www.etsy.com/help?ref=ftr
+- type: x-support
+  url: https://www.etsy.com/help/article/493
+- type: x-terms-of-service
+  url: https://www.etsy.com/legal/cookies/
+- type: x-terms-of-service
+  url: https://www.etsy.com/legal
+- type: x-terms-of-service
+  url: https://www.etsy.com/legal?ref=ftr
+- type: x-terms-of-service
+  url: https://www.etsy.com/help/article/479/?ref=ftr
+- type: x-transparency-report
+  url: http://blog.etsy.com/news/files/2015/07/Etsy_TransparencyReport_2014.pdf
+- type: x-twitter
+  url: https://twitter.com/Etsy
+- type: x-website
+  url: http://etsy.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

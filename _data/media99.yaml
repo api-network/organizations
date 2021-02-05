@@ -1,0 +1,44 @@
+---
+name: Media99
+description: All-inclusive florist eCommerce website design, hosting, and point of
+  sale integration. Sell your own flowers, florist email marketing and more. Responsive
+  design florist websites. Serving florist since 1998.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3862069"
+url: https://raw.githubusercontent.com/api-network/organizations/main/media99.yaml
+tags:
+- E-commerce
+apis: []
+x-common:
+- type: x-website
+  url: http://www.media99.com
+- type: x-about
+  url: https://www.media99.com/about.htm
+- type: x-contact
+  url: https://www.media99.com/contact.htm
+- type: x-facebook
+  url: https://www.facebook.com/Media99LLC
+- type: x-news
+  url: https://www.media99.com/newsletter-signup.htm
+- type: x-privacy
+  url: https://www.media99.com/privacy.htm
+- type: x-support
+  url: https://www.media99.com/floristhelpdesk.htm
+- type: x-support
+  url: http://support.media99.com/
+- type: x-terms-of-service
+  url: https://www.media99.com/termsofuse.htm
+- type: x-twitter
+  url: https://twitter.com/Media99LLC
+- type: x-website
+  url: https://www.media99.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

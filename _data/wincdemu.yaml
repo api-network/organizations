@@ -1,0 +1,52 @@
+---
+name: WinCDEmu
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "112587"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wincdemu.yaml
+tags:
+- Emulation
+apis: []
+x-common:
+- type: x-about
+  url: https://sysprogs.com/about
+- type: x-blog
+  url: https://sysprogs.com/blog
+- type: x-contact
+  url: https://sysprogs.com/contact
+- type: x-forum
+  url: https://sysprogs.com/w/forum
+- type: x-forum
+  url: https://sysprogs.com/w/forums/forum/wincdemu/
+- type: x-privacy
+  url: https://sysprogs.com/privacy
+- type: x-support
+  url: https://sysprogs.com/support
+- type: x-tutorials
+  url: https://sysprogs.com/tutorials/
+- type: x-tutorials
+  url: https://visualgdb.com/tutorials/
+- type: x-tutorials
+  url: https://sysprogs.com/VisualKernel/tutorials/
+- type: x-tutorials
+  url: https://sysprogs.com/analyzer2go/tutorials/
+- type: x-tutorials
+  url: http://wincdemu.sysprogs.org/tutorials/
+- type: x-tutorials
+  url: http://wincdemu.sysprogs.org/tutorials/install/
+- type: x-tutorials
+  url: http://wincdemu.sysprogs.org/tutorials/mount/
+- type: x-tutorials
+  url: http://wincdemu.sysprogs.org/tutorials/create/
+- type: x-website
+  url: https://wincdemu.sysprogs.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,29 @@
+---
+name: Repete Corporation
+description: Repete designs and supports feed mill automation software and plant-wide
+  automated control system solutions for companies in the Americas, Europe and Asia.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4455689"
+url: https://raw.githubusercontent.com/api-network/organizations/main/repete-corporation.yaml
+tags:
+- Automation
+apis: []
+x-common:
+- type: x-careers
+  url: https://www.repete.com/careers/
+- type: x-contact
+  url: https://www.repete.com/contact/
+- type: x-news
+  url: https://www.repete.com/news/
+- type: x-website
+  url: https://www.repete.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

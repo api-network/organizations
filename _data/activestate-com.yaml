@@ -1,0 +1,27 @@
+---
+name: activestate.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: ""
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/activestate-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-blog
+  url: http://activestate.com/blog
+- type: x-press
+  url: http://activestate.com/press
+- type: x-curated-source
+  url: http://www.activestate.com/blog/2016/08/onboarding-new-developers-enforcing-standards-through-tutorials
+- type: x-website
+  url: http://activestate.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,45 @@
+---
+name: Safari
+description: "Gain technology and business knowledge and hone your skills with learning
+  resources created and curated by O'Reilly's experts: live online training, video,
+  books, conferences, our platform has content from 200+ of the world\u2019s best
+  publishers."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "55521"
+url: https://raw.githubusercontent.com/api-network/organizations/main/safari.yaml
+tags:
+- Commercial Services
+apis: []
+x-common:
+- type: x-website
+  url: http://oreilly.com/
+- type: x-about
+  url: https://www.oreilly.com/about/approach.html
+- type: x-facebook
+  url: https://www.facebook.com/OReilly/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/oreilly-media
+- type: x-login
+  url: https://www.oreilly.com/sign-in.html
+- type: x-news
+  url: https://www.oreilly.com/emails/newsletters/
+- type: x-pricing
+  url: https://www.oreilly.com/online-learning/pricing.html
+- type: x-self-service-registration
+  url: https://learning.oreilly.com/register/
+- type: x-twitter
+  url: https://twitter.com/oreillymedia
+- type: x-website
+  url: https://safaribooksonline.com
+- type: x-youtube
+  url: https://www.youtube.com/user/OreillyMedia
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

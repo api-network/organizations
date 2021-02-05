@@ -1,0 +1,29 @@
+---
+name: ASPIsFun
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1747177"
+url: https://raw.githubusercontent.com/api-network/organizations/main/aspisfun.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.lisashea.com/
+- type: x-developer
+  url: http://developer.aspisfun.com
+- type: x-facebook
+  url: https://www.facebook.com/LisaSheaAuthor
+- type: x-twitter
+  url: https://twitter.com/lisasheaauthor
+- type: x-website
+  url: https://www.aspisfun.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

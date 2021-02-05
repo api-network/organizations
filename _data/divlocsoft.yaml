@@ -1,0 +1,41 @@
+---
+name: DivlocSoft
+description: This is an advanced tool to perform the search and replace operations
+  across multiple text files. It supports the regular expressions syntax. The batch
+  replace operation allows to execute a lot of various replacements with one click.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8167452"
+url: https://raw.githubusercontent.com/api-network/organizations/main/divlocsoft.yaml
+tags:
+- Windows XP
+- Windows Vista
+- Windows 8
+- Windows 7
+- Windows 2000
+- Utility
+- Tool
+- Text
+- Search And Replace
+- Search
+- Replace
+- Regular
+- Find
+- Files
+- File
+- Expressions
+- Expression
+- Batch
+apis: []
+x-common:
+- type: x-website
+  url: https://www.divlocsoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

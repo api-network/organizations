@@ -1,0 +1,50 @@
+---
+name: University of Maryland
+description: <p>The University of Maryland is interesting because it has another,
+  almost central API developer portal that is adjacent to regular IT operations. The
+  simply call it UMD.io, and provide basic course, bus, mapping APIs. They also have
+  a really interesting music composition API that needs more investigation.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/university-of-maryland.gif
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "6397"
+url: https://raw.githubusercontent.com/api-network/organizations/main/university-of-maryland.yaml
+tags:
+- University Portal
+- University In Progress
+- University Group
+- Has API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.president.umd.edu
+- type: x-careers
+  url: http://www.ejobs.umd.edu
+- type: x-contact
+  url: https://www.umd.edu/contact-us
+- type: x-developers
+  url: http://www.umd.edu
+- type: x-facebook
+  url: https://www.facebook.com/UnivofMaryland
+- type: x-instagram
+  url: https://www.instagram.com/univofmaryland/
+- type: x-news
+  url: https://www.umdrightnow.umd.edu/resources-news-media
+- type: x-news
+  url: https://www.umdrightnow.umd.edu/latest-news
+- type: x-twitter
+  url: https://twitter.com/UofMaryland
+- type: x-twitter
+  url: https://twitter.com/presidentloh
+- type: x-website
+  url: http://www.umd.edu/
+- type: x-youtube
+  url: https://www.youtube.com/user/UMD2101
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

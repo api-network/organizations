@@ -1,0 +1,30 @@
+---
+name: RMPrepUSB
+description: Format USB drives, USB tutorials, antivirus, multiboot, UEFI, grub4dos,
+  recovery, repair, iso boot,nsw-sb7k417i1sj7gaigyfg7ue8f9ctbjcrg8gsmki6u1lhvc2ykbe2b27xchnr3d5uhmle97gs47y2wmefktq2h0r3-0gns83gfvbx40bkuayvhnd39smt1tsyar2zdq90m
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "273347"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rmprepusb.yaml
+tags:
+- System
+- Boot Managers
+apis: []
+x-common:
+- type: x-blog
+  url: https://rmprepusb.blogspot.co.uk/
+- type: x-blog
+  url: https://rmprepusb.blogspot.com/
+- type: x-website
+  url: https://www.rmprepusb.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=KD9ugWNLCTw
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

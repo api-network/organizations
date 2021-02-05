@@ -1,0 +1,67 @@
+---
+name: Tennessee Valley Authority (TVA)
+description: <p>The Tennessee Valley Authority (TVA) is a federally owned corporation
+  in the United States created by congressional charter on May 18, 1933, to provide
+  navigation, flood control, electricity generation, fertilizer manufacturing, and
+  economic development to the Tennessee Valley, a region particularly affected by
+  the Great Depression. Senator George W. Norris (R-Nebraska) was a strong sponsor
+  of this project. TVA was envisioned not only as a provider, but also as a regional
+  economic development agency that would use federal experts and rural electrification
+  to help modernize the rural region's economy and society.</p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tennessee-valley-authority-tva.yaml
+tags:
+- Wind
+- Tennessee River
+- Solar Energy
+- Renewable Energy
+- Nuclear
+- Natural Gas
+- Hydropower
+- Federal Government
+- Environmental Management
+- Energy
+- Energy
+- Economic Development
+- Dams
+- Coal
+- Boone Dam
+apis: []
+x-common:
+- type: x-website
+  url: http://www.tva.gov
+- type: x-data
+  url: https://www.eia.gov/opendata/qb.php?category=2122620
+- type: x-facebook
+  url: https://www.facebook.com/TVAGreenPowerSwitch
+- type: x-facebook
+  url: http://facebook.com/TVA
+- type: x-flickr
+  url: http://flickr.com/photos/tennesseevalleyauthority
+- type: x-instagram
+  url: http://instagram.com/tva
+- type: x-linkedin
+  url: http://www.linkedin.com/company/TVA
+- type: x-twitter
+  url: http://twitter.com/tvagps
+- type: x-twitter
+  url: http://twitter.com/TVAjobs
+- type: x-twitter
+  url: http://twitter.com/TVAed
+- type: x-twitter
+  url: http://twitter.com/BooneRepair
+- type: x-twitter
+  url: http://twitter.com/TVAnews
+- type: x-youtube
+  url: http://youtube.com/TVANewsVideo
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

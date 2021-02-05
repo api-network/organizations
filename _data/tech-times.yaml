@@ -1,0 +1,35 @@
+---
+name: Tech Times
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "31735"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tech-times.yaml
+tags:
+- Tech News
+- No API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.techtimes.com
+- type: x-blog-rss
+  url: http://www.techtimes.com/rss/
+- type: x-facebook
+  url: https://www.facebook.com/TechTimesNews
+- type: x-news
+  url: https://plus.google.com/+Techtimesnews
+- type: x-terms-of-service
+  url: http://www.techtimes.com/termsofservice
+- type: x-twitter
+  url: https://twitter.com/TechTimes_News
+- type: x-website
+  url: http://www.techtimes.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

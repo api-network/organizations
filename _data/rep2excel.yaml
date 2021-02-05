@@ -1,0 +1,22 @@
+---
+name: Rep2excel
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7744971"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rep2excel.yaml
+tags:
+- Tools
+apis: []
+x-common:
+- type: x-website
+  url: https://www.lv2000.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

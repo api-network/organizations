@@ -1,0 +1,76 @@
+---
+name: CircleID
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "275254"
+url: https://raw.githubusercontent.com/api-network/organizations/main/circleid.yaml
+tags:
+- News And Media
+apis: []
+x-common:
+- type: x-website
+  url: http://www.circleid.com
+- type: x-about
+  url: http://www.circleid.com/about/
+- type: x-blog
+  url: http://www.circleid.com/blogs/
+- type: x-blog
+  url: http://www.circleid.com/blogs/recently_discussed/
+- type: x-blog
+  url: http://www.circleid.com/blogs/most_discussed/
+- type: x-blog
+  url: http://www.circleid.com/blogs/most_viewed/
+- type: x-blog
+  url: http://www.circleid.com/blogs/P15/
+- type: x-code
+  url: http://www.circleid.com/about/codes/
+- type: x-contact
+  url: http://www.circleid.com/about/contact/
+- type: x-contact
+  url: http://www.circleid.com/about/contact/newstips
+- type: x-facebook
+  url: http://www.facebook.com/circleid
+- type: x-facebook
+  url: https://www.facebook.com/circleid/
+- type: x-feed
+  url: http://feeds.circleid.com/cid_master/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/circleid
+- type: x-linkedin
+  url: https://www.linkedin.com/company/circleid
+- type: x-login
+  url: http://www.circleid.com/account/login/
+- type: x-news
+  url: http://www.circleid.com/news/
+- type: x-news
+  url: http://www.circleid.com/news/recently_discussed/
+- type: x-news
+  url: http://www.circleid.com/news/most_discussed/
+- type: x-news
+  url: http://www.circleid.com/news/most_viewed/
+- type: x-news
+  url: http://www.circleid.com/news/most_viewed
+- type: x-privacy
+  url: http://www.circleid.com/topics/privacy
+- type: x-privacy
+  url: http://www.circleid.com/about/privacy/
+- type: x-security
+  url: http://www.circleid.com/topics/cybersecurity
+- type: x-self-service-registration
+  url: http://www.circleid.com/account/register/
+- type: x-terms-of-service
+  url: http://www.circleid.com/about/terms/
+- type: x-twitter
+  url: https://twitter.com/circleid
+- type: x-website
+  url: https://www.circleid.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

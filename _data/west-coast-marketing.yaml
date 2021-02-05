@@ -1,0 +1,48 @@
+---
+name: West Coast Marketing
+description: Pay your property tax bills online with a credit card, debit card or
+  other convenient payment options.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1861024"
+url: https://raw.githubusercontent.com/api-network/organizations/main/west-coast-marketing.yaml
+tags:
+- Visa
+- Tax Service Providers
+- Tax
+- Supplemental Tax Bill
+- Secured Tax Bill
+- Secure
+- Property Taxes
+- Property Tax
+- Paying Taxes
+- Pay
+- Parcels
+- Multiple Bills
+- Megabyte Systems
+- MasterCard
+- Extension
+- Electronic Payment
+- Discover
+- Delinquent Tax Bill
+- Crest Software Corporation
+- Credit Card
+- County Tax
+- County
+- Balance Due
+- American Express
+apis: []
+x-common:
+- type: x-contact
+  url: https://countytaxretriever.com/contact
+- type: x-website
+  url: https://countytaxretriever.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,61 @@
+---
+name: PixelPlanet
+description: PixelPlanet offers apps and software for Windows & Apple macOS. Edit,
+  convert and create PDF files and documents with "Grabber", "Editor" and "Printer".
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "503030"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pixelplanet.yaml
+tags:
+- Software
+apis: []
+x-common:
+- type: x-website
+  url: http://pixelplanet.com/de/kontakt.html
+- type: x-contact
+  url: https://www.pixelplanet.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/PixelPlanet
+- type: x-instagram
+  url: https://www.instagram.com/pixelplanet.software/
+- type: x-linkedin
+  url: https://linkedin.com/company/pixelplanet-software
+- type: x-news
+  url: https://www.pixelplanet.com/newsletter/
+- type: x-privacy
+  url: https://www.pixelplanet.com/shop/privacy-notice/
+- type: x-support
+  url: https://www.pixelplanet.com/pdfeditor/support/
+- type: x-support
+  url: https://www.pixelplanet.com/pdfgrabber/support/
+- type: x-support
+  url: https://www.pixelplanet.com/pdfgrabber-mac/support/
+- type: x-support
+  url: https://www.pixelplanet.com/pdfprinter/support/
+- type: x-support
+  url: https://www.pixelplanet.com/support-area/
+- type: x-support
+  url: https://www.pixelplanet.com/pdfeditor/support/faqs/
+- type: x-support
+  url: https://www.pixelplanet.com/pdfeditor/support/updates/
+- type: x-support
+  url: https://www.pixelplanet.com/pdfgrabber/support/faqs/
+- type: x-support
+  url: https://www.pixelplanet.com/pdfprinter/support/faqs/
+- type: x-support
+  url: https://www.pixelplanet.com/support-area/hotline/
+- type: x-support
+  url: https://www.pixelplanet.com/support-area/registration/
+- type: x-twitter
+  url: https://twitter.com/PixelPlanet
+- type: x-website
+  url: https://www.pixelplanet.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

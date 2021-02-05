@@ -1,0 +1,48 @@
+---
+name: Institution of Analysts and Programmers
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "11212916"
+url: https://raw.githubusercontent.com/api-network/organizations/main/institution-of-analysts-and-programmers.yaml
+tags:
+- Professional
+apis: []
+x-common:
+- type: x-about
+  url: https://www.iap.org.uk/main/about/
+- type: x-careers
+  url: http://jobs.iap.org.uk/
+- type: x-contact
+  url: http://www.iap.org.uk/main/contact/
+- type: x-contact
+  url: https://www.iap.org.uk/main/contact/
+- type: x-feed
+  url: http://www.iap.org.uk/main/feed/
+- type: x-feed
+  url: http://www.iap.org.uk/main/comments/feed/
+- type: x-linkedin
+  url: http://www.linkedin.com/groups?gid=52705
+- type: x-login
+  url: https://www.iap.org.uk/main/obtain-a-login-name/
+- type: x-open-source
+  url: https://www.iap.org.uk/main/xmas-opening-2019/
+- type: x-privacy
+  url: https://www.iap.org.uk/main/privacy-policy/
+- type: x-security
+  url: https://www.iap.org.uk/main/uk-cyber-security-council/
+- type: x-self-service-registration
+  url: https://www.iap.org.uk/main/consultants-register/
+- type: x-terms-of-service
+  url: https://www.iap.org.uk/main/legal/
+- type: x-website
+  url: https://www.iap.org.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

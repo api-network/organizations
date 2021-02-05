@@ -1,0 +1,46 @@
+---
+name: Abacus Web Services
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/abacus-web-services.yaml
+tags:
+- Companies And Consultants
+apis: []
+x-common:
+- type: x-website
+  url: http://www.abacuswebservices.com
+- type: x-about
+  url: https://abacuswebservices.com/about/
+- type: x-blog
+  url: https://abacuswebservices.com/blog/
+- type: x-blog
+  url: https://abacuswebservices.com/page/2/?et_blog
+- type: x-contact
+  url: https://abacuswebservices.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/abacusws
+- type: x-feed
+  url: https://abacuswebservices.com/feed/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/davidaws
+- type: x-press
+  url: https://abacuswebservices.com/wordpress-maintenance/
+- type: x-press
+  url: https://abacuswebservices.com/services/wordpress/
+- type: x-support
+  url: https://abacuswebservices.com/support/
+- type: x-twitter
+  url: https://twitter.com/abacusws
+- type: x-website
+  url: https://www.abacuswebservices.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

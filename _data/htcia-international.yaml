@@ -1,0 +1,42 @@
+---
+name: HTCIA International
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2805602"
+url: https://raw.githubusercontent.com/api-network/organizations/main/htcia-international.yaml
+tags:
+- Associations
+apis: []
+x-common:
+- type: x-about
+  url: https://htcia.org/about/
+- type: x-about
+  url: https://htcia.memberclicks.net/about-htcia-membership
+- type: x-careers
+  url: https://htcia.org/careers/
+- type: x-contact
+  url: https://htcia.org/contact/
+- type: x-facebook
+  url: https://www.facebook.com/htcia
+- type: x-login
+  url: https://htcia.memberclicks.net/login
+- type: x-login
+  url: https://htcia.org/https-htcia-memberclicks-net-login/
+- type: x-support
+  url: https://htcia.org/star-supporters/
+- type: x-twitter
+  url: https://twitter.com/HTCIA
+- type: x-twitter
+  url: https://twitter.com/HTCIA?ref_src=twsrc%5Etfw
+- type: x-website
+  url: https://www.htcia.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

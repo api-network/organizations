@@ -1,0 +1,37 @@
+---
+name: Knowledge Computers
+description: High quality used cisco, reliable network equipment and refurbished server
+  supplier, over 36 years experience, save up to 95% off list.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4121155"
+url: https://raw.githubusercontent.com/api-network/organizations/main/knowledge-computers.yaml
+tags:
+- Distributors
+apis: []
+x-common:
+- type: x-website
+  url: http://www.knowledgecomputers.net
+- type: x-about
+  url: https://www.knowledgecomputers.net/about-us/
+- type: x-contact
+  url: https://www.knowledgecomputers.net/contact/
+- type: x-facebook
+  url: https://www.facebook.com/knowledgecomputers
+- type: x-privacy
+  url: https://www.knowledgecomputers.net/privacy/
+- type: x-security
+  url: https://www.knowledgecomputers.net/security/
+- type: x-twitter
+  url: https://twitter.com/greencisco
+- type: x-website
+  url: https://www.knowledgecomputers.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

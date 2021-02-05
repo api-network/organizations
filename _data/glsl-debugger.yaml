@@ -1,0 +1,26 @@
+---
+name: GLSL Debugger
+description: 'GLSL-Debugger : A GLSL source level debugger.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/glsl-debugger.yaml
+tags:
+- Tools
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/GLSL-Debugger/GLSL-Debugger
+- type: x-github
+  url: https://github.com/SirAnthony/mhook
+- type: x-website
+  url: https://glsl-debugger.github.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

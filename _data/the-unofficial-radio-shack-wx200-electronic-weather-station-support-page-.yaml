@@ -1,0 +1,26 @@
+---
+name: The Unofficial Radio Shack WX-200 Electronic Weather Station Support Page.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-unofficial-radio-shack-wx200-electronic-weather-station-support-page-.yaml
+tags:
+- Weather
+apis: []
+x-common:
+- type: x-support
+  url: http://support.tandy.com/support_meters/36757.htm
+- type: x-support
+  url: http://www.accuweather.com/rs/help
+- type: x-website
+  url: https://wx200.planetfall.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

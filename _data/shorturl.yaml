@@ -1,0 +1,31 @@
+---
+name: ShortURL
+description: Free URL redirection service (also known as URL forwarding). Register
+  a free subdomain name and redirect it to your existing URL! No ads, loaded with
+  url redirect features.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26568-shorturl.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "400745"
+url: https://raw.githubusercontent.com/api-network/organizations/main/shorturl.yaml
+tags:
+- URL Shorteners
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://www.shorturl.com
+- type: x-email
+  url: myname@shortURL.com
+- type: x-twitter
+  url: https://twitter.com/shorturl
+- type: x-website
+  url: http://shorturl.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

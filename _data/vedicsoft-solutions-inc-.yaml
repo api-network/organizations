@@ -1,0 +1,49 @@
+---
+name: Vedicsoft Solutions Inc.
+description: Savantis Solutions is a leading consulting company in India & US. We
+  provide various enterprise solutions like SAP, Analytics & Mobility.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/vedicsoft-solutions-inc-.yaml
+tags:
+- Consultants
+apis: []
+x-common:
+- type: x-about
+  url: https://www.savantis.com/about-us/
+- type: x-about
+  url: https://www.savantis.com/about-us/#about-us
+- type: x-about
+  url: https://www.savantis.com/about-us/#our-leader
+- type: x-about
+  url: https://www.savantis.com/about-us/#our-partners
+- type: x-about
+  url: https://www.savantis.com/about-us/#our-work
+- type: x-blog
+  url: https://www.savantis.com/blog/
+- type: x-case-studies
+  url: https://www.savantis.com/case-studies/
+- type: x-contact
+  url: https://www.savantis.com/contact-us/
+- type: x-events
+  url: https://www.savantis.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/SavantisSolutionsLLC/
+- type: x-privacy
+  url: https://www.savantis.com/privacy-policy/
+- type: x-support
+  url: https://www.savantis.com/managed-services-and-support/
+- type: x-twitter
+  url: https://twitter.com/savantisllc?lang=en
+- type: x-website
+  url: https://www.vedicsoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

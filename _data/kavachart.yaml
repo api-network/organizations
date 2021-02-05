@@ -1,0 +1,41 @@
+---
+name: KavaChart
+description: For eCommerce businesses that want to find and grow their audience, convert
+  more customers and optimise marketing spend.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "33313"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kavachart.yaml
+tags:
+- Charts
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.ve.com/blog
+- type: x-case-studies
+  url: https://www.ve.com/resources/case-studies
+- type: x-case-studies
+  url: https://www.ve.com/resources/case-studies/vodafone
+- type: x-case-studies
+  url: https://www.ve.com/resources/case-studies/
+- type: x-case-studies
+  url: https://www.ve.com/resources/case-studies/claires
+- type: x-case-studies
+  url: https://www.ve.com/resources/case-studies/virgin-media
+- type: x-case-studies
+  url: https://www.ve.com/resources/case-studies/hp
+- type: x-linkedin
+  url: https://www.linkedin.com/company/veglobal/
+- type: x-twitter
+  url: https://twitter.com/Ve_HeadQuarters
+- type: x-website
+  url: https://www.ve.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

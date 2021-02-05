@@ -1,0 +1,63 @@
+---
+name: Ink Pal
+description: Up to 70% off cheap discount printer ink and toner cartridges for Hp,
+  Canon, Epson, Brother & more! Free shipping over $50!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "575859"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ink-pal.yaml
+tags:
+- Www.inkpal.com
+- Where To Buy Printer Ink
+- Printer Toners
+- Printer Ink
+- Micr Ink
+- Laser Ink
+- Inkpal.com
+- Inkpal
+- Inkjet
+- Ink Online
+- Ink And Toner
+- Info For Your Printer
+- Discount Ink
+- Copier Ink
+- Cheap Printer Ink
+- Buy Printer Ink Online
+- Buy Ink Online
+apis: []
+x-common:
+- type: x-website
+  url: http://www.inkpal.com
+- type: x-about
+  url: http://www.inkpal.com/about-inkpal.html
+- type: x-login
+  url: http://www.inkpal.com/customer/account/login
+- type: x-news
+  url: http://www.inkpal.com/ink-news/cat/recycling/
+- type: x-news
+  url: http://www.inkpal.com/ink-news/cat/3d-printing/
+- type: x-news
+  url: http://www.inkpal.com/ink-news/cat/ink-how-to/
+- type: x-news
+  url: http://www.inkpal.com/ink-news/cat/comparison/
+- type: x-news
+  url: http://www.inkpal.com/ink-news/cat/ink-information/
+- type: x-privacy
+  url: http://www.inkpal.com/privacy-policy.html
+- type: x-terms-of-service
+  url: http://www.inkpal.com/terms-and-conditions.html
+- type: x-twitter
+  url: http://www.twitter.com/inkpalcom
+- type: x-website
+  url: https://www.inkpal.com
+- type: x-youtube
+  url: http://www.youtube.com/user/Inkpal
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,35 @@
+---
+name: UCalc
+description: 'The uCalc family of products includes: various calculators, a math parser,
+  programming language builder, a search/replace tool, and more to come.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8112990"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ucalc.yaml
+tags:
+- UCalc
+- Mathematics
+- Home Page
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ucalc.com
+- type: x-facebook
+  url: https://www.facebook.com/uCalcSoftware
+- type: x-github
+  url: https://github.com/uCalc
+- type: x-linkedin
+  url: https://www.linkedin.com/company/ucalc-software
+- type: x-twitter
+  url: https://twitter.com/uCalc
+- type: x-website
+  url: https://www.ucalc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

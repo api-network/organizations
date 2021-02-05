@@ -1,0 +1,43 @@
+---
+name: Caron Business Solutions
+description: "Sage & Salesforce accounting software solutions for Canada, U.S. & Latin
+  America. We are experts in accounting, ERP, CRM & Human Resources. Let\u2019s talk."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3324502"
+url: https://raw.githubusercontent.com/api-network/organizations/main/caron-business-solutions.yaml
+tags:
+- ACCPAC
+apis: []
+x-common:
+- type: x-about
+  url: https://www.caronbusiness.com/about-us/
+- type: x-contact
+  url: https://www.caronbusiness.com/contact-us/
+- type: x-news
+  url: https://www.caronbusiness.com/news/
+- type: x-press
+  url: http://www.wordpress.org
+- type: x-privacy
+  url: https://www.caronbusiness.com/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/caronbusiness
+- type: x-twitter
+  url: https://twitter.com/search?q=AMERoundup
+- type: x-twitter
+  url: https://twitter.com/search?q=SagePeople
+- type: x-twitter
+  url: https://twitter.com/search?q=HCM
+- type: x-twitter
+  url: https://twitter.com/search?q=HRSoftware
+- type: x-website
+  url: https://www.caronbusiness.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

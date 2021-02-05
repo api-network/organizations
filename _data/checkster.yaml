@@ -1,0 +1,49 @@
+---
+name: Checkster
+description: Chosen by many Fortune 500 companies. Checkster gives human resources,
+  recruiters and hiring managers certainty in new hire activities.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "234838"
+url: https://raw.githubusercontent.com/api-network/organizations/main/checkster.yaml
+tags:
+- Testing And Evaluation
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.checkster.com/blog
+- type: x-contact
+  url: https://www.checkster.com/contact-sales
+- type: x-contact
+  url: https://www.checkster.com/contact-us
+- type: x-customers
+  url: https://www.checkster.com/customers
+- type: x-facebook
+  url: http://www.facebook.com/pages/Checkster/110287782768
+- type: x-instagram
+  url: https://www.instagram.com/checkstercheckup/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/checkster/
+- type: x-login
+  url: https://app.checkster.com/com/login.php
+- type: x-press
+  url: https://www.checkster.com/resources/press-releases
+- type: x-privacy
+  url: https://www.checkster.com/privacy
+- type: x-self-service-registration
+  url: https://www.checkster.com/register
+- type: x-terms-of-service
+  url: https://www.checkster.com/terms-and-conditions-english
+- type: x-twitter
+  url: https://twitter.com/checkster
+- type: x-website
+  url: https://www.checkster.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,48 @@
+---
+name: Angel Hugs
+description: Angel Hugs Postcards, Beautiful free multi-send mobile friendly video
+  ecards for all occasions and holidays. Greetings, inspiration, music, poetry, art,
+  send later, multi send, more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/angel-hugs.yaml
+tags:
+- Videos
+- Sympathy
+- Roses
+- Quotes
+- Postcards
+- Poems
+- Pets
+- Nature
+- Love
+- Hello
+- Greetings Pages
+- Friendship
+- Free Internet Video Ecards
+- Ecards
+- Donna Rexrode Jones
+- Birthday
+- Anniverary
+- Angels
+- Angel Hugs
+apis: []
+x-common:
+- type: x-facebook
+  url: http://www.facebook.com/donnarexrode
+- type: x-news
+  url: http://www.angelhugs.com/newsletter.html
+- type: x-open-source
+  url: http://www.angelhugs.com/openyourheart.html
+- type: x-website
+  url: https://www.donnarexrode.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

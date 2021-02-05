@@ -1,0 +1,23 @@
+---
+name: itbusinessnet.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/itbusinessnet-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.itbusinessnet.com/article/Drone-Maker-3D-Robotics-Debuts-Open-Source-Development-Platform-To-Advance-Public-App-Innovation-3817638
+- type: x-website
+  url: http://itbusinessnet.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

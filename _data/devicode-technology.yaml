@@ -1,0 +1,24 @@
+---
+name: Devicode Technology
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "11069738"
+url: https://raw.githubusercontent.com/api-network/organizations/main/devicode-technology.yaml
+tags:
+- Consultants
+apis: []
+x-common:
+- type: x-code
+  url: http://www.enuffgames.devicode.com/jigtopia/
+- type: x-website
+  url: https://devicode.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,38 @@
+---
+name: Cambia Research
+description: Custom Software Development in Kansas City with the Microsoft Stack
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "271062"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cambia-research.yaml
+tags:
+- Steve Lautenschlager
+- Resources
+- Programmers
+- Microsoft Stack
+- JavaScript
+- Dotenet
+- Developers
+- Data Integrity And Cleansing Tools
+- CSharp
+- Cambiaresearch.com
+- Cambia Research
+- C#
+- .NET
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/cambiaresearch
+- type: x-feed
+  url: https://feeds.feedburner.com/cambiaresearch
+- type: x-website
+  url: https://www.cambiaresearch.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

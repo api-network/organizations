@@ -1,0 +1,28 @@
+---
+name: BitRock InstallBuilder
+description: BitRock is the developer of Bitnami, the open source web app store, Bitnami
+  Cloud Hosting, a platform for deploying and managing apps in the cloud, and InstallBuilder,
+  a leading cross-platform installation tool.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2038002"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bitrock-installbuilder.yaml
+tags:
+- Installers
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.bitrock.com
+- type: x-customers
+  url: http://installbuilder.bitrock.com/customers.html
+- type: x-website
+  url: https://bitrock.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

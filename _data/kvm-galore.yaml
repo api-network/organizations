@@ -1,0 +1,48 @@
+---
+name: KVM Galore
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2068670"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kvm-galore.yaml
+tags:
+- Switching Devices
+apis: []
+x-common:
+- type: x-website
+  url: http://www.kvmgalore.com
+- type: x-blog
+  url: http://kb.kvmgalore.com/blog/
+- type: x-contact
+  url: https://www.kvmgalore.com/shopping/contact_form.php
+- type: x-facebook
+  url: http://www.facebook.com/kvmgalore
+- type: x-facebook
+  url: https://www.facebook.com/kvmgalore
+- type: x-forum
+  url: http://hc.kvmgalore.com/forums/feedback/
+- type: x-forum
+  url: http://hc.kvmgalore.com/forums/ask/
+- type: x-forum
+  url: http://hc.kvmgalore.com/forums/suggest/
+- type: x-login
+  url: https://www.kvmgalore.com/shopping/login.php
+- type: x-privacy
+  url: https://www.kvmgalore.com/shopping/privacy.php
+- type: x-status
+  url: https://www.kvmgalore.com/shopping/faq.php#status
+- type: x-twitter
+  url: http://twitter.com/kvmgalore
+- type: x-twitter
+  url: https://twitter.com/kvmgalore
+- type: x-website
+  url: https://www.kvmgalore.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

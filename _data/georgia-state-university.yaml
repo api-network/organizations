@@ -1,0 +1,76 @@
+---
+name: Georgia State University
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5994"
+url: https://raw.githubusercontent.com/api-network/organizations/main/georgia-state-university.yaml
+tags:
+- Georgia
+apis: []
+x-common:
+- type: x-about
+  url: https://www.cs.gsu.edu/about/
+- type: x-about
+  url: http://cs.gsu.edu/about/
+- type: x-about
+  url: https://www.gsu.edu/about/
+- type: x-careers
+  url: https://www.cs.gsu.edu/resources/jobs/
+- type: x-code
+  url: https://codeofconduct.gsu.edu/
+- type: x-contact
+  url: https://www.gsu.edu/contact-georgia-state/
+- type: x-contact
+  url: https://www.cs.gsu.edu/contacts/
+- type: x-contact
+  url: https://www.cs.gsu.edu/contacts/administration/
+- type: x-contact
+  url: https://www.cs.gsu.edu/contacts/map-directions/
+- type: x-contact
+  url: https://www.cs.gsu.edu/contacts/visitors/
+- type: x-facebook
+  url: https://www.facebook.com/GeorgiaStateUniversity
+- type: x-facebook
+  url: https://www.facebook.com/sharer/sharer.php?u=
+- type: x-github
+  url: https://girls-plusplus.github.io/girls-plusplus.io/
+- type: x-instagram
+  url: https://instagram.com/georgiastateuniversity
+- type: x-login
+  url: https://www.getrave.com/login/gsu
+- type: x-news
+  url: https://www.cs.gsu.edu/connections/news/
+- type: x-news
+  url: https://www.cs.gsu.edu/newsletter/
+- type: x-news
+  url: http://cs.gsu.edu/connections/news/
+- type: x-news
+  url: https://news.gsu.edu
+- type: x-open-source
+  url: https://hr.gsu.edu/open-enrollment
+- type: x-privacy
+  url: https://www.gsu.edu/privacy-notices/
+- type: x-security
+  url: https://www.cs.gsu.edu/research/areas/cybersecurity/
+- type: x-support
+  url: https://technology.gsu.edu/help-center/
+- type: x-terms-of-service
+  url: https://universityattorney.gsu.edu/legal-services/
+- type: x-terms-of-service
+  url: https://www.gsu.edu/legal-statement
+- type: x-twitter
+  url: https://twitter.com/georgiastateu
+- type: x-twitter
+  url: https://twitter.com/?status=
+- type: x-website
+  url: https://www.cs.gsu.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

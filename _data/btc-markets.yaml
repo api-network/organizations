@@ -1,0 +1,26 @@
+---
+name: BTC Markets
+description: Bitcoin and Ethereum exchange. Sell and buy Bitcoin (BTC) and Ethereum
+  (ETH). Trade Bitcoins, Litecoin and Ethereum today.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26559-www-btcmarkets-net.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "22670"
+url: https://raw.githubusercontent.com/api-network/organizations/main/btc-markets.yaml
+tags:
+- Marketplaces
+- Blockchain
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/BTCMarkets
+- type: x-website
+  url: https://www.btcmarkets.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

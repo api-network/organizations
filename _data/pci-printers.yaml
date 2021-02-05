@@ -1,0 +1,31 @@
+---
+name: PCI Printers
+description: Computer printer specialists. Expert help. Quick quotes for IT professionals
+  and purchasing/procurement departments
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pci-printers.yaml
+tags:
+- Printers
+apis: []
+x-common:
+- type: x-code
+  url: https://pciprinters.com/barcode-label-printers/
+- type: x-contact
+  url: https://pciprinters.com/contact-us/
+- type: x-news
+  url: https://pciprinters.com/category/pci-news/
+- type: x-support
+  url: https://pciprinters.com/expert-printer-help/
+- type: x-website
+  url: https://www.pciprinters.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

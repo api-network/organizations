@@ -1,0 +1,58 @@
+---
+name: Experiences with Debian
+description: Blogger is a free blog publishing tool from Google for easily sharing
+  your thoughts with the world. Blogger makes it simple to post text, photos and video
+  onto your personal or team blog.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/experiences-with-debian.yaml
+tags:
+- Weblog
+- Personal Blog
+- New Blog
+- Free Blog
+- Debian
+- Create Blog
+- Blogspot.com
+- Blogspot
+- Blogger.com
+- Blogger
+- Blog
+apis: []
+x-common:
+- type: x-about
+  url: https://www.google.com/intl/en/about/products?tab=jh
+- type: x-blog
+  url: https://www.blogger.com/go/discuss
+- type: x-blog
+  url: https://www.blogger.com/go/buzz
+- type: x-blog
+  url: https://www.blogger.com/go/bloggerpluspage
+- type: x-blog
+  url: https://www.blogger.com/go/devapi
+- type: x-blog
+  url: https://www.blogger.com/go/contentpolicy
+- type: x-forum
+  url: https://www.blogger.com/go/devforum
+- type: x-privacy
+  url: https://www.blogger.com/go/privacy
+- type: x-support
+  url: https://support.google.com/blogger/answer/87065
+- type: x-support
+  url: https://www.blogger.com/go/helpcenter
+- type: x-terms-of-service
+  url: https://www.blogger.com/go/terms
+- type: x-tutorials
+  url: https://www.blogger.com/go/tutorials
+- type: x-website
+  url: https://experienceswithdebian.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

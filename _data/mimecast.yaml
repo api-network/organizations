@@ -1,0 +1,49 @@
+---
+name: Mimecast
+description: <p>Mimecast is an international company specializing in cloud-based email
+  management for Microsoft Exchange and Microsoft Office 365, including security,
+  archiving, and continuity services to protect business mail.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28201-www-mimecast-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6622"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mimecast.yaml
+tags:
+- Security
+- Have API
+- Emails
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: https://mim.ec/2R9JNXU
+- type: x-blog
+  url: https://www.mimecast.com/blog/
+- type: x-blog
+  url: https://info.mimecast.com/blog-subscribe.html
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/mimecast
+- type: x-developers
+  url: https://www.mimecast.com/developer/
+- type: x-email
+  url: privacy@mimecast.com
+- type: x-email
+  url: info@mimecast.com
+- type: x-email
+  url: info-na@mimecast.com
+- type: x-email
+  url: support@mimecast.com
+- type: x-investor
+  url: http://investors.mimecast.com/
+- type: x-twitter
+  url: https://twitter.com/Mimecast
+- type: x-website
+  url: https://www.mimecast.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

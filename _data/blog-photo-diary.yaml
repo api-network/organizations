@@ -1,0 +1,49 @@
+---
+name: Blog Photo Diary
+description: Teazel - purveyors of fine mobile software
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6730962"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blog-photo-diary.yaml
+tags:
+- Times Sudoku
+- Sun Crossword
+- Sudoku
+- Mobile Sudoku
+- Mobile Java
+- Mobile Crossword
+- Mobile Blogging
+- Midlet
+- Java
+- J2me
+- Fartomatic
+- Fart-o-matic
+- Faceparty
+- Cyptic
+- Crosswords
+- Crossword
+- Colouring
+- Coloring
+- Codewords
+- Codeword
+apis: []
+x-common:
+- type: x-website
+  url: http://www.teazel.com
+- type: x-developer
+  url: http://developer.teazel.com
+- type: x-facebook
+  url: https://www.facebook.com/teazelcoloring
+- type: x-twitter
+  url: https://twitter.com/teazelmobile
+- type: x-website
+  url: https://www.teazel.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

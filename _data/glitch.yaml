@@ -1,0 +1,30 @@
+---
+name: Glitch
+description: <p>Glitch is the friendly community where you'll build the app of your
+  dreams. With working example apps to remix, a code editor to modify them, instant
+  hosting and deployment - anybody can build a web app on Glitch, for free. You might
+  know us for making Trello, FogBugz, and co-creating Stack Overflow. We're a friendly,
+  self-funded company that's been helping people make stuff for over 16 years.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/2bdfb3f8-05ef-4035-a06e-2043962a3a13%2Flogo-day.svg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/glitch.yaml
+tags:
+- Evangelism
+apis: []
+x-common:
+- type: x-blog
+  url: https://medium.com/glitch
+- type: x-blog-rss
+  url: https://medium.com/feed/glitch
+- type: x-website
+  url: https://glitch.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

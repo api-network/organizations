@@ -1,0 +1,28 @@
+---
+name: GOSS
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2598170"
+url: https://raw.githubusercontent.com/api-network/organizations/main/goss.yaml
+tags:
+- Content Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.gossinteractive.com
+- type: x-twitter
+  url: https://twitter.com/gossinteractive
+- type: x-twitter
+  url: http://twitter.com/gossinteractive
+- type: x-website
+  url: https://www.gossinteractive.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

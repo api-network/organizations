@@ -1,0 +1,29 @@
+---
+name: PSRTEK
+description: Technology recruitment and IT staffing brand with a global footprint
+  and an admired client base.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29140-www-psrtek-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3691910"
+url: https://raw.githubusercontent.com/api-network/organizations/main/psrtek.yaml
+tags:
+- ISP
+apis: []
+x-common:
+- type: x-website
+  url: http://www.psrtek.com/index.html
+- type: x-email
+  url: hr@PSRTEK.com
+- type: x-twitter
+  url: https://twitter.com/psrtek
+- type: x-website
+  url: http://www.psrtek.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

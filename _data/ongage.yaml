@@ -1,0 +1,39 @@
+---
+name: Ongage
+description: The most advanced front end solution for email marketing. Increase deliverability,
+  boost your SMTP, and much more. Visit us to learn more and a free trial.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1231_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "144349"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ongage.yaml
+tags:
+- Have API
+- Email Marketing
+- Campaigns
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ongage.com/resources/api/
+- type: x-website
+  url: http://www.ongage.com
+- type: x-blog
+  url: http://www.ongage.com/company/blog/
+- type: x-blog-rss
+  url: http://www.ongage.com/company/blog/rss
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/ongage
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/ongage
+- type: x-email
+  url: info@ongage.com
+- type: x-twitter
+  url: https://twitter.com/#!/OngageConnect
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

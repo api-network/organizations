@@ -1,0 +1,65 @@
+---
+name: Marshall Kirkpatrick
+description: Training and consulting in the use of new web tools for non-profits and
+  small businesses.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/marshall-kirkpatrick.yaml
+tags:
+- Freelance
+apis: []
+x-common:
+- type: x-blog
+  url: http://marshallk.blogspot.com/
+- type: x-blog
+  url: http://del.icio.us/tag/blogoposium1?setcount=100
+- type: x-blog
+  url: http://www.elearnspace.org/blog/
+- type: x-blog
+  url: http://marshallk.blogspot.com
+- type: x-blog
+  url: http://www.technosight.com/blog
+- type: x-blog
+  url: http://www.technosight.com/blog/blogoposium-one/
+- type: x-blog
+  url: http://www.technorati.com/tags/blogoposium1
+- type: x-blog
+  url: http://fastlane.gmblogs.com/
+- type: x-blog
+  url: http://blogdigger.com/
+- type: x-blog
+  url: http://www.technorati.com/tags/blog
+- type: x-blog
+  url: http://www.wordofblog.net/
+- type: x-blog
+  url: http://www.wordofblog.net/browse.php?by=tag
+- type: x-blog
+  url: http://marshallk.blogspot.com/2005/03/my-services.html
+- type: x-blog
+  url: http://committeetoprotectbloggers.civiblog.org
+- type: x-blog
+  url: http://aaenvironment.blogspot.com
+- type: x-blog
+  url: http://www.blogdigger.com/
+- type: x-blog
+  url: http://www.bloglet.com/
+- type: x-blog
+  url: http://blogger-templates.blogspot.com
+- type: x-feed
+  url: http://feedburner.com/
+- type: x-feed
+  url: http://www.technorati.com/tags/feedburner
+- type: x-feed
+  url: http://feeds.feedburner.com/NptechMetaFeed
+- type: x-website
+  url: https://marshallk.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

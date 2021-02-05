@@ -1,0 +1,57 @@
+---
+name: Hall of Fame
+description: |-
+  Hall of Fame is the collection of photos, graphics, stories,
+  articles of the C64 scene, its groups and famous personalities. It is the
+  hypertext interface of a CD archive including thousands of demos, diskmags
+  and other scene related material in a structured hierarchy.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hall-of-fame.yaml
+tags:
+- TRSI
+- T64
+- Stories
+- Scoopex
+- Scene
+- Photos
+- Parties
+- Members
+- Megademos
+- Megademo
+- Jean
+- Jan Csernoch
+- Interviews
+- Groups
+- Gallery
+- FBI Crew
+- FBI
+- Diskmags
+- Diskmag
+- Demoscene
+- Demos
+- Demo
+- D64
+- "Csernoch J\xE1nos"
+- Commodore 64
+- Commodore
+- Chromance
+- C64
+- Articles
+- Absolute
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.travelatinamerica.com/
+- type: x-website
+  url: https://www.c64-hof.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

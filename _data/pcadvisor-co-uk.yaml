@@ -1,0 +1,26 @@
+---
+name: pcadvisor.co.uk
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pcadvisor-co-uk.yaml
+tags:
+- Magazines
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.pcadvisor.co.uk/news/software/apigee-adds-some-swagger-to-api-design-3612750/
+- type: x-website
+  url: http://pcadvisor.co.uk
+- type: x-website
+  url: https://www.pcadvisor.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

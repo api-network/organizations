@@ -1,0 +1,25 @@
+---
+name: City of Milton-Freewater
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/city-of-miltonfreewater.yaml
+tags: []
+apis: []
+x-common:
+- type: x-gtfs-feed
+  url: http://oregon-gtfs.com/gtfs_data/milton-freewater-or-us/milton-freewater-or-us.zip
+- type: x-licensing
+  url: ""
+- type: x-website
+  url: http://www.mfcity.com/public_transportation
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

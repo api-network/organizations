@@ -1,0 +1,56 @@
+---
+name: Wind River Systems, Inc.
+description: Wind River is a world leader in embedded software for intelligent connected
+  systems. The company has been pioneering computing inside embedded devices since
+  1981 and its technology is found in more than 1 billion products.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "231510"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wind-river-systems-inc-.yaml
+tags:
+- Realtime
+apis: []
+x-common:
+- type: x-website
+  url: http://www.windriver.com
+- type: x-blog
+  url: http://blogs.windriver.com/
+- type: x-documentation
+  url: http://docs.windriver.com
+- type: x-events
+  url: https://www.windriver.com/events/the-new-space-race/
+- type: x-facebook
+  url: http://www.facebook.com/WindRiverSystems?sk=wall
+- type: x-linkedin
+  url: http://www.linkedin.com/company/wind-river
+- type: x-marketplace
+  url: https://marketplace.windriver.com/index.php?bsp
+- type: x-marketplace
+  url: http://marketplace.windriver.com
+- type: x-press
+  url: https://www.windriver.com/news/press/pr.html?ID=22617
+- type: x-support
+  url: https://support2.windriver.com/index.php?page=cve
+- type: x-support
+  url: https://support2.windriver.com
+- type: x-support
+  url: https://support2.windriver.com/index.php?page=license
+- type: x-support
+  url: https://windriver.force.com/support
+- type: x-support
+  url: https://support2.windriver.com/
+- type: x-twitter
+  url: http://twitter.com/WindRiver
+- type: x-website
+  url: https://www.windriver.com
+- type: x-youtube
+  url: http://www.youtube.com/user/windriverchannel
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

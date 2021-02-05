@@ -1,0 +1,42 @@
+---
+name: Smarthome.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "70236"
+url: https://raw.githubusercontent.com/api-network/organizations/main/smarthome-com.yaml
+tags:
+- Vendors
+apis: []
+x-common:
+- type: x-about
+  url: https://www.smarthome.com/about-smarthome
+- type: x-blog
+  url: http://blog.smarthome.com/
+- type: x-contact
+  url: https://www.smarthome.com/contacts/
+- type: x-login
+  url: https://www.smarthome.com/customer/account/login/
+- type: x-news
+  url: https://www.smarthome.com/email-newsletter
+- type: x-press
+  url: https://www.smarthome.com/press-releases
+- type: x-security
+  url: https://www.smarthome.com/security.html
+- type: x-security
+  url: https://www.smarthome.com/security/sensors.html
+- type: x-security
+  url: https://www.smarthome.com/security-and-privacy
+- type: x-terms-of-service
+  url: https://www.smarthome.com/legal
+- type: x-website
+  url: https://www.smarthome.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

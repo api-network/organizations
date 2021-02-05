@@ -1,0 +1,30 @@
+---
+name: E-Maculation
+description: 'E-Maculation:  All About Macintosh Emulation  (Site updated October
+  22, 2018)  Welcome  E-Maculation is dedicated to emulation of the classic Macintosh
+  computer in Mac OS X, Windows and Linux.  This is possible through the use of emulators
+  such as SheepShaver, Basilisk II, Mini vMac, Qemu and'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "866416"
+url: https://raw.githubusercontent.com/api-network/organizations/main/emaculation.yaml
+tags:
+- Mac_emulation
+- Macintosh
+apis: []
+x-common:
+- type: x-forum
+  url: http://www.emaculation.com/forum/
+- type: x-forum
+  url: http://www.emaculation.com/forum/ucp.php?mode=register
+- type: x-website
+  url: https://www.emaculation.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

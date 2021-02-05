@@ -1,0 +1,40 @@
+---
+name: Linotype
+description: "Linotype | Fonts for Desktop, Web, Print & Apps\r\nTry, purchase and
+  download high-quality fonts for Desktop, Web, Print & Apps. Helvetica, Frutiger,
+  Avenir, DIN Next and other classic and new fonts."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "44440"
+url: https://raw.githubusercontent.com/api-network/organizations/main/linotype.yaml
+tags:
+- Typefaces
+- Linotype
+- Helvetica
+- Frutiger
+- Foundries
+- Fonts
+- Download Fonts
+apis: []
+x-common:
+- type: x-website
+  url: http://www.linotype.com
+- type: x-facebook
+  url: http://www.facebook.com/linotype
+- type: x-privacy
+  url: https://policies.google.com/privacy
+- type: x-terms-of-service
+  url: https://policies.google.com/terms
+- type: x-twitter
+  url: http://twitter.com/linotype_com
+- type: x-website
+  url: https://www.linotype.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

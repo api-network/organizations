@@ -1,0 +1,45 @@
+---
+name: Voxco
+description: Create survey programs that get results. Reach respondents anywhere with
+  our competitively priced and easy to use multi-channel survey software platform.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "72922"
+url: https://raw.githubusercontent.com/api-network/organizations/main/voxco.yaml
+tags:
+- Surveys
+apis: []
+x-common:
+- type: x-website
+  url: http://www.voxco.com
+- type: x-about
+  url: https://www.voxco.com/our-company/about-us/
+- type: x-blog
+  url: https://www.voxco.com/our-company/blog/
+- type: x-careers
+  url: https://www.voxco.com/our-company/careers-at-voxco/
+- type: x-contact
+  url: https://www.voxco.com/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/VoxcoSurveySoftware/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/voxco/
+- type: x-privacy
+  url: https://www.voxco.com/privacy-policy/
+- type: x-privacy
+  url: https://www.voxco.com/privacy-policy#cookiePolicy
+- type: x-support
+  url: https://www.voxco.com/help-center/
+- type: x-twitter
+  url: https://twitter.com/Voxco
+- type: x-website
+  url: https://www.voxco.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

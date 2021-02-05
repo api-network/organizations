@@ -1,0 +1,45 @@
+---
+name: headTrix, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8382373"
+url: https://raw.githubusercontent.com/api-network/organizations/main/headtrix-inc-.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.headTrixTraining.com/
+- type: x-about
+  url: https://www.headtrixtraining.com/about.htm
+- type: x-about
+  url: http://www.headtrixtraining.com/about.htm
+- type: x-contact
+  url: https://www.headtrixtraining.com/contact.php
+- type: x-contact
+  url: http://www.headtrixtraining.com/contact.php
+- type: x-facebook
+  url: https://www.facebook.com/headTrixTraining
+- type: x-self-service-registration
+  url: https://www.headtrixtraining.com/register.php
+- type: x-self-service-registration
+  url: http://www.headtrixtraining.com/register.php
+- type: x-support
+  url: http://www.adobe.com/support/certification/aci.html
+- type: x-terms-of-service
+  url: http://www.headtrixtraining.com/hTterms.htm
+- type: x-twitter
+  url: https://twitter.com/headtrix
+- type: x-website
+  url: https://www.headtrixtraining.com
+- type: x-youtube
+  url: http://www.youtube.com/headtrix
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

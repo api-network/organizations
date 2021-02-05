@@ -1,0 +1,31 @@
+---
+name: F&S Elektronik Systeme GmbH
+description: 'System on Module (SOM), Computer on Module (COM) , OEM and ODM Services:
+  turn-key, systems integration, hardware/software design, mechanical, SMT and more'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2279704"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fs-elektronik-systeme-gmbh.yaml
+tags:
+- Industrial
+apis: []
+x-common:
+- type: x-website
+  url: http://www.fsembedded.com
+- type: x-facebook
+  url: https://www.facebook.com/fselektroniksysteme
+- type: x-forum
+  url: https://forum.fs-net.de
+- type: x-twitter
+  url: https://twitter.com/fselektronik
+- type: x-website
+  url: https://www.fs-net.de
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

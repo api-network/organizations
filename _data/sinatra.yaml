@@ -1,0 +1,22 @@
+---
+name: Sinatra
+description: <p>Sinatra is a DSL for quickly creating web applications in Ruby with
+  minimal effort.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/sinatra-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: ""
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sinatra.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.sinatrarb.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,58 @@
+---
+name: 2D Technology Group, Inc.
+description: "Barcode decoding, barcode security, Data Matrix Authentication, Encryption,
+  Validation - brand protection software interfaced to Windows, Linux, Android. Decoding
+  SDK \u2013 Data Matrix, QR Code, PDF417, Aztec Code, GS1 Databar, Linear barcodes
+  - ported to Honeywell, HandHeld mobile computers, scanners"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6399947"
+url: https://raw.githubusercontent.com/api-network/organizations/main/2d-technology-group-inc-.yaml
+tags:
+- Rugged Mobile Computer
+- Embedded Barcode Decoder
+- DPM Scanner
+- DPM Reader
+- Dot Peen Barcode Decoder
+- Decoding
+- Decode QR Code
+- Decode PDF417
+- Decode Data Matrix
+- Decode Barcode
+- Decode Aztec Code
+- Brand Protection
+- Barcode Security
+- Barcode Decoding SDK
+- Android Mobile Decoding
+- Android Barcode Decoder
+apis: []
+x-common:
+- type: x-website
+  url: http://www.2DTG.com
+- type: x-code
+  url: https://2dtg.com/products/qr-code-decoding-library
+- type: x-code
+  url: https://2dtg.com/products/1d-barcode-decoding-library
+- type: x-code
+  url: https://2dtg.com/products/mobile-barcode-decoding
+- type: x-code
+  url: http://www.2dtg.com/decode
+- type: x-contact
+  url: http://2dtg.com/content/contact-us
+- type: x-facebook
+  url: https://www.facebook.com/#!/2DTGi
+- type: x-support
+  url: http://www.2dtg.com/support/download_demo
+- type: x-twitter
+  url: https://twitter.com/2DTGinc
+- type: x-website
+  url: https://www.2dtg.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

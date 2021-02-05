@@ -1,0 +1,55 @@
+---
+name: e-Pint.com
+description: "\u041F\u0440\u0438\u043E\u0431\u0440\u0435\u0441\u0442\u0438 \u043D\u0435\u0434\u043E\u0440\u043E\u0433\u043E
+  \u2B50 \u0414\u0435\u0442\u0441\u043A\u0438\u0435 \u043A\u043E\u043B\u044F\u0441\u043A\u0438
+  \u2B50 \u0432 \u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442-\u043C\u0430\u0433\u0430\u0437\u0438\u043D\u0435
+  \u0410\u043B\u0438\u0441\u0430 \u2705 \u0446\u0435\u043D\u0430 \u043E\u0442 250
+  \u0433\u0440\u043D. \u2705 \u041D\u0430 \u0432\u044B\u0431\u043E\u0440 \u0431\u043E\u043B\u0435\u0435
+  921 \u043D\u0430\u0438\u043C\u0435\u043D\u043E\u0432\u0430\u043D\u0438\u0439 \u2708
+  \u0414\u043E\u0441\u0442\u0430\u0432\u043A\u0430 \u043F\u043E \u0423\u043A\u0440\u0430\u0438\u043D\u0435
+  \u260E  +38(096)059-51-45 (\u041F\u043D-\u0421\u0431 \u0441 09:30 \u0434\u043E 19:00)"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/epint-com.yaml
+tags:
+- Special Interest
+apis: []
+x-common:
+- type: x-blog
+  url: https://alisa-ua.com/blog
+- type: x-contact
+  url: https://alisa-ua.com/contacts
+- type: x-instagram
+  url: https://www.instagram.com/alisa.uacom/?hl=ru
+- type: x-login
+  url: https://alisa-ua.com/auth/social/login/google
+- type: x-login
+  url: https://alisa-ua.com/auth/social/login/facebook
+- type: x-website
+  url: https://www.e-pint.com
+- type: x-youtube
+  url: https://www.youtube.com/embed?v=E-hhnQ4BFDQ
+- type: x-youtube
+  url: https://www.youtube.com/embed?v=TRRIpC-j3f4
+- type: x-youtube
+  url: https://www.youtube.com/embed?v=vmoMKmkhNnU
+- type: x-youtube
+  url: https://www.youtube.com/embed?v=r5wqMR7cKTw
+- type: x-youtube
+  url: https://www.youtube.com/embed?v=eJasUq13gRw
+- type: x-youtube
+  url: https://www.youtube.com/embed?v=nraK1bySXOk
+- type: x-youtube
+  url: https://www.youtube.com/embed?v=F7mYVsKFkKk
+- type: x-youtube
+  url: https://www.youtube.com/embed?v=xMeev184_Is
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,28 @@
+---
+name: SharpReader
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1898441"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sharpreader.yaml
+tags:
+- Windows
+apis: []
+x-common:
+- type: x-blog
+  url: http://www.hutteman.com/weblog/
+- type: x-feed
+  url: http://www.feedster.com
+- type: x-login
+  url: http://w.extreme-dm.com/?login=shrprdr
+- type: x-website
+  url: https://www.sharpreader.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

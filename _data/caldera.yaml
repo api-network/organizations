@@ -1,0 +1,56 @@
+---
+name: Caldera
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "837380"
+url: https://raw.githubusercontent.com/api-network/organizations/main/caldera.yaml
+tags:
+- Color Management
+apis: []
+x-common:
+- type: x-website
+  url: https://www.caldera.com/
+- type: x-about
+  url: https://www.caldera.com/about/caldera/
+- type: x-careers
+  url: https://www.caldera.com/about/careers/
+- type: x-contact
+  url: https://www.caldera.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/CalderaRIP/
+- type: x-instagram
+  url: https://www.instagram.com/caldera_rip/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/caldera/
+- type: x-news
+  url: https://www.caldera.com/about/news-events/
+- type: x-privacy
+  url: http://www.caldera.com/privacy-policy/
+- type: x-support
+  url: https://www.caldera.com/support/support-hotline/
+- type: x-support
+  url: https://www.caldera.com/support/calderacare/
+- type: x-support
+  url: https://www.caldera.com/supported-peripherals/
+- type: x-support
+  url: https://www.caldera.com/support/os-compatibilities/
+- type: x-support
+  url: https://www.caldera.com/support/minimal-requirements/
+- type: x-twitter
+  url: https://twitter.com/CalderaRIP
+- type: x-website
+  url: https://www.caldera.com
+- type: x-youtube
+  url: https://www.youtube.com/user/CalderaRIP
+- type: x-youtube
+  url: https://www.youtube.com/CalderaRIP
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,40 @@
+---
+name: GG-One Software
+description: 'Insurance Certificate Tracking: GG-One Software is the industry leader
+  for Insurance Certificate Tracking Software to help manage your insurance non-compliance
+  risks.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ggone-software.yaml
+tags:
+- Track Certificates Of Insurance
+- Insurance Certificate Tracking
+- Document Tracking
+- Contract Tracking
+- COI Tracking
+- Certificate Of Insurance Tracking
+- Certificate Issuance
+apis: []
+x-common:
+- type: x-about
+  url: https://www.ggonesoftware.com/about-gg-one
+- type: x-contact
+  url: https://www.ggonesoftware.com/contact-gg-one-software
+- type: x-news
+  url: https://www.ggonesoftware.com/gg-one-news
+- type: x-privacy
+  url: https://www.ggonesoftware.com/privacy-policy
+- type: x-terms-of-service
+  url: https://www.ggonesoftware.com/terms-and-conditions
+- type: x-website
+  url: https://ggonesoftware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,81 @@
+---
+name: www.sitoo.com
+description: Sitoo is the cloud-based mPOS platform for global retailers with a seamless
+  omnichannel experience, built for the new ways of shopping.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1548270"
+url: https://raw.githubusercontent.com/api-network/organizations/main/www-sitoo-com.yaml
+tags:
+- WYSIWYG Editors
+apis: []
+x-common:
+- type: x-website
+  url: http://www.sitoo.com
+- type: x-about
+  url: https://www.sitoo.com/about-sitoo/
+- type: x-about
+  url: https://developer.sitoo.com/about-sitoo
+- type: x-about
+  url: https://www.sitoo.com/about-sitoo
+- type: x-blog
+  url: https://www.sitoo.com/blog-posts/
+- type: x-careers
+  url: https://careers.sitoo.com/
+- type: x-contact
+  url: https://www.sitoo.com/contact/
+- type: x-contact
+  url: https://developer.sitoo.com/contact-sitoo
+- type: x-customers
+  url: https://www.sitoo.com/customers/
+- type: x-customers
+  url: https://developer.sitoo.com/customers
+- type: x-developer
+  url: https://developer.sitoo.com/api/v2/
+- type: x-developer
+  url: https://developer.sitoo.com/
+- type: x-developer
+  url: https://developer.sitoo.com/retail-pos
+- type: x-developer
+  url: http://developer.sitoo.com
+- type: x-documentation
+  url: https://www.sitoo.com/docs/api/v2/
+- type: x-events
+  url: https://www.sitoo.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/sitooab/
+- type: x-instagram
+  url: https://www.instagram.com/sitoo
+- type: x-linkedin
+  url: https://www.linkedin.com/company/sitoo-ab
+- type: x-partner
+  url: https://www.sitoo.com/partners/
+- type: x-partner
+  url: https://developer.sitoo.com/partners
+- type: x-press
+  url: https://www.sitoo.com/press/
+- type: x-press
+  url: https://www.sitoo.se/press
+- type: x-privacy
+  url: https://www.sitoo.com/privacy-policy/
+- type: x-support
+  url: https://support.sitoo.se/hc/en-us/requests/new
+- type: x-support
+  url: https://support.sitoo.se/hc/en-us
+- type: x-support
+  url: https://support.sitoo.se/hc/sv
+- type: x-terms-of-service
+  url: https://www.sitoo.com/terms-conditions/
+- type: x-twitter
+  url: https://twitter.com/sitoo
+- type: x-website
+  url: https://www.sitoo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

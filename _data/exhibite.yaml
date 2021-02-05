@@ -1,0 +1,32 @@
+---
+name: exhibit-E
+description: Websites for the Art World. exhibit-E provides automated website solutions
+  for art galleries, artists, interior designers and architects.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "386450"
+url: https://raw.githubusercontent.com/api-network/organizations/main/exhibite.yaml
+tags:
+- Website Design For Galleries
+- Gallery Web Design
+- Artists And Galleries
+- Art Gallery Websites
+apis: []
+x-common:
+- type: x-facebook
+  url: http://www.facebook.com/pages/exhibit-E/71197581581
+- type: x-instagram
+  url: http://instagram.com/exhibite
+- type: x-twitter
+  url: http://twitter.com/exhibite
+- type: x-website
+  url: https://exhibit-e.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

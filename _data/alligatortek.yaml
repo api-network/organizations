@@ -1,0 +1,53 @@
+---
+name: Alligatortek
+description: Meet alligatortek, a custom enterprise software development company that
+  creates game-changing applications for business growth.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "919836"
+url: https://raw.githubusercontent.com/api-network/organizations/main/alligatortek.yaml
+tags:
+- Illinois
+apis: []
+x-common:
+- type: x-about
+  url: https://alligatortek.com/about-us/
+- type: x-about
+  url: https://alligatortek.com/about-us/our-proven-process/
+- type: x-about
+  url: https://alligatortek.com/about-us/industries/
+- type: x-about
+  url: https://alligatortek.com/about-us/technologies/
+- type: x-blog
+  url: https://alligatortek.com/blog/
+- type: x-careers
+  url: https://alligatortek.com/careers/
+- type: x-contact
+  url: https://alligatortek.com/contact-us/
+- type: x-developer
+  url: http://developer.alligatortek.com
+- type: x-facebook
+  url: https://www.facebook.com/alligatortek
+- type: x-feed
+  url: https://alligatortek.com/work/feeding-america/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/alligatortek
+- type: x-privacy
+  url: https://alligatortek.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://alligatortek.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/alligatortek
+- type: x-website
+  url: https://www.alligatortek.com
+- type: x-youtube
+  url: https://www.youtube.com/user/alligatortek
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

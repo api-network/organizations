@@ -1,0 +1,37 @@
+---
+name: Core Security SDI Corporation
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "762254"
+url: https://raw.githubusercontent.com/api-network/organizations/main/core-security-sdi-corporation.yaml
+tags:
+- United States
+- Password Tools
+apis: []
+x-common:
+- type: x-careers
+  url: https://www.helpsystems.com/about/careers
+- type: x-security
+  url: https://www.coresecurity.com/cyber-threat
+- type: x-security
+  url: https://www.coresecurity.com/identity-governance
+- type: x-security
+  url: https://www.coresecurity.com/products
+- type: x-security
+  url: https://www.coresecurity.com/penetration-testing
+- type: x-security
+  url: https://www.facebook.com/coresecurity/
+- type: x-twitter
+  url: https://twitter.com/CoreSecurity
+- type: x-website
+  url: https://www.coresecurity.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

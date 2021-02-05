@@ -1,0 +1,31 @@
+---
+name: BellTower Technologies
+description: BellTower Technologies is the leading provider of emergency notification
+  services and mass notification systems. A trusted food recall, business continuity,
+  disaster recovery, and emergency management partner. We Protect Your Customer, Your
+  Brand, and ...
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/api-butterfly.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9509483"
+url: https://raw.githubusercontent.com/api-network/organizations/main/belltower-technologies.yaml
+tags:
+- Notifications
+- No API
+- Networking
+apis: []
+x-common:
+- type: x-email
+  url: PrivacyOfficer@belltowertech.com
+- type: x-status
+  url: https://status.squarespace.com
+- type: x-website
+  url: http://belltowertech.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

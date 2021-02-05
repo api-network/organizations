@@ -1,0 +1,31 @@
+---
+name: SolarCoin
+description: 'SolarCoin #renewable #energy #currency. The first digital currency that
+  rewards solar electricity generators.'
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26912-solarcoin-org.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "371383"
+url: https://raw.githubusercontent.com/api-network/organizations/main/solarcoin.yaml
+tags:
+- Marketplaces
+- Energy
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: https://solarcoin.org/import-and-claim/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/solarcoin
+- type: x-twitter
+  url: https://twitter.com/SolarCoin_SLR
+- type: x-website
+  url: http://solarcoin.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

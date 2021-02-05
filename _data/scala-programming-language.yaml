@@ -1,0 +1,67 @@
+---
+name: Scala Programming Language
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "50412"
+url: https://raw.githubusercontent.com/api-network/organizations/main/scala-programming-language.yaml
+tags:
+- Multiparadigm
+- Functional
+apis: []
+x-common:
+- type: x-developer
+  url: https://scala-lang.org/files/archive/api/
+- type: x-developer
+  url: https://www.scala-lang.org/api/current/index.html
+- type: x-documentation
+  url: https://docs.scala-lang.org
+- type: x-documentation
+  url: https://docs.scala-lang.org/getting-started.html
+- type: x-documentation
+  url: https://docs.scala-lang.org/
+- type: x-documentation
+  url: https://scala-native.readthedocs.io/
+- type: x-documentation
+  url: https://scalameta.org/metals/docs/editors/vscode.html
+- type: x-documentation
+  url: https://scalameta.org/metals/docs/editors/emacs.html
+- type: x-documentation
+  url: https://scalameta.org/metals/docs/editors/vim.html
+- type: x-documentation
+  url: https://scalameta.org/metals/docs/editors/sublime.html
+- type: x-documentation
+  url: https://scalameta.org/metals/docs/editors/atom.html
+- type: x-documentation
+  url: https://dotty.epfl.ch/docs/usage/ide-support.html
+- type: x-documentation
+  url: https://dotty.epfl.ch/docs/usage/getting-started.html
+- type: x-documentation
+  url: https://docs.scala-lang.org/overviews
+- type: x-events
+  url: https://github.com/scala/scala-lang/tree/master/events
+- type: x-github
+  url: https://github.com/scala/scala/pull/8534
+- type: x-github
+  url: https://github.com/scala/bug/issues/11804
+- type: x-github
+  url: https://github.com/lightbend/migration-manager
+- type: x-github
+  url: https://github.com/lampepfl/dotty
+- type: x-github
+  url: https://github.com/scala/scala
+- type: x-twitter
+  url: https://twitter.com/scala_lang
+- type: x-twitter
+  url: http://www.twitter.com
+- type: x-website
+  url: https://www.scala-lang.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,45 @@
+---
+name: Hotspot Express
+description: WiFi HotSpot Software, Hotel Internet Billing, Prepaid and Postpaid billing,
+  Complete Billing Software for ISP, WiFi Hotspots, broadband ISPs, Hotel WiFi and
+  Wired internet
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1059155"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hotspot-express.yaml
+tags:
+- WLAN Software
+- WLAN Management Solutions
+- Wireless Service Provider
+- Wireless ISP Solutions
+- Wireless Isp
+- Wifi Roaming Hotel
+- WiFi Local Area Network Services
+- Wi-fi Software
+- Wi-Fi Management Services
+- Prepaid Card
+- PMS Integration
+- ISP
+- Internet Wifi Solutions
+- Internet Billing
+- In-Room Internet Access
+- Hotspot Gateway
+- Hotspot Billing
+- Hotspot Authentication Management Software
+- Hotel Hotspot Internet Billing
+- Captive Portal
+- Billing
+- Bandwidth On Demand
+apis: []
+x-common:
+- type: x-website
+  url: https://hotspotexpress.in
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

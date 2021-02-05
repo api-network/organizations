@@ -1,0 +1,29 @@
+---
+name: EZPZ Software
+description: EZPZ Software is a UK company specialising in accounts software for home
+  and business use, landlord software and property management software.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ezpz-software.yaml
+tags:
+- Property Management Software
+- Personal Finance
+- Landlord Software
+- Industry Specific
+- Home Accounts
+- Bookkeeping Software
+- Accounting Software
+apis: []
+x-common:
+- type: x-website
+  url: https://www.ezpzsoftware.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

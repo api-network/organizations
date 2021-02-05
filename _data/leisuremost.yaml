@@ -1,0 +1,39 @@
+---
+name: LeisureMost
+description: LeisureMost is a leading supplier of Leisure Management Software including
+  Membership Management, Access Control, Point of Sale, electronic Bookings, Online
+  Bookings, and Course Administration. Our Leisure Software is specifically designed
+  for Leisure centres, Private Health Clubs, Sports Clubs and Gyms
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/leisuremost.yaml
+tags:
+- Sports Club
+- Software For
+- Point Of Sale
+- Membership Software
+- Leisure Software
+- Leisure Management
+- Leisure Centre
+- Health Club
+- Gym Software
+- Courses Software
+- Club Software
+- Bookings
+- Access Control
+apis: []
+x-common:
+- type: x-linkedin
+  url: http://uk.linkedin.com/company/leisuremost/
+- type: x-website
+  url: https://www.leisuremost.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

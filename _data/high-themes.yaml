@@ -1,0 +1,57 @@
+---
+name: High Themes
+description: It's more than 7 years that HighThemes offers beautiful easy to use WordPress
+  Themes & Plugins with professional support.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "581073"
+url: https://raw.githubusercontent.com/api-network/organizations/main/high-themes.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-website
+  url: http://highthemes.com
+- type: x-about
+  url: https://highthemes.com/about/
+- type: x-blog
+  url: https://highthemes.com/blog/
+- type: x-blog
+  url: https://highthemes.com/themes/dot-blog-pro/
+- type: x-blog
+  url: https://demo.highthemes.com/?theme=dot-blog-pro
+- type: x-contact
+  url: https://highthemes.com/contact/
+- type: x-documentation
+  url: https://highthemes.com/documentations/
+- type: x-facebook
+  url: https://www.facebook.com/Highthemes-146590709350734/
+- type: x-press
+  url: https://highthemes.com/best-wordpress-books-2017/
+- type: x-press
+  url: https://highthemes.com/wordpress-themes/
+- type: x-press
+  url: https://highthemes.com/wordpress-plugins/
+- type: x-press
+  url: https://highthemes.com/wordpress-installation-service/
+- type: x-press
+  url: https://highthemes.com/wordpress-themes
+- type: x-privacy
+  url: https://highthemes.com/privacy-policy/
+- type: x-support
+  url: https://highthemes.com/support-envato/
+- type: x-terms-of-service
+  url: https://highthemes.com/terms/
+- type: x-twitter
+  url: http://twitter.com/theHighThemes
+- type: x-website
+  url: https://highthemes.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,47 @@
+---
+name: CompTIA
+description: Start or grow your career in IT with an IT certification from CompTIA.
+  Find everything you need to get certified - from exploring certifications to training
+  to taking your exam.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "27610"
+url: https://raw.githubusercontent.com/api-network/organizations/main/comptia.yaml
+tags:
+- IT Training
+- IT Certifications
+- CompTIA IT Certifications
+- CompTIA
+apis: []
+x-common:
+- type: x-website
+  url: http://CompTIA.org
+- type: x-blog
+  url: https://www.comptia.org/blog/why-use-distribution
+- type: x-blog
+  url: https://www.comptia.org/blog/florida-s-time-to-shine
+- type: x-facebook
+  url: https://www.facebook.com/comptia
+- type: x-instagram
+  url: https://www.instagram.com/comptiaphotos/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/comptia
+- type: x-login
+  url: https://www.certmetrics.com/comptia/login.aspx
+- type: x-partner
+  url: https://partners.comptia.org/
+- type: x-twitter
+  url: https://www.twitter.com/comptia
+- type: x-website
+  url: https://www.comptia.org
+- type: x-youtube
+  url: https://www.youtube.com/comptia
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

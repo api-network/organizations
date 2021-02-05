@@ -1,0 +1,41 @@
+---
+name: Verdigris
+description: Verdigris is a connected artificial intelligence and IoT platform. It
+  makes buildings smarter, helping them reduce energy consumption and costs. By combining
+  patented sensors, software and AI, Verdigris "learns" the energy patterns of a building
+  and pr...
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28978-verdigris-co.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1081877"
+url: https://raw.githubusercontent.com/api-network/organizations/main/verdigris.yaml
+tags:
+- Energy
+apis: []
+x-common:
+- type: x-website
+  url: http://verdigris.co
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/verdigris-technologies
+- type: x-email
+  url: sales@verdigris.co
+- type: x-email
+  url: press@verdigris.co
+- type: x-support
+  url: http://support.verdigris.co
+- type: x-support
+  url: http://support.verdigris.co/what-is-verdigris
+- type: x-support
+  url: http://support.verdigris.co/why-verdigris
+- type: x-twitter
+  url: https://twitter.com/VerdigrisTech
+- type: x-website
+  url: https://verdigris.co
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

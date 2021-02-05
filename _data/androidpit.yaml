@@ -1,0 +1,42 @@
+---
+name: AndroidPIT
+description: 'Everything in tech: smartphones, wearables, VR, mobility and smart home
+  devices. We bring you news, reviews, device comparisons and tips & tricks for your
+  device.'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "16704"
+url: https://raw.githubusercontent.com/api-network/organizations/main/androidpit.yaml
+tags:
+- Tricks
+- Tips
+- Reviews
+- News And Media
+- News
+- How-Tos
+- Hardware Comparisons
+- Apps
+- Android
+apis: []
+x-common:
+- type: x-website
+  url: http://www.androidpit.com
+- type: x-careers
+  url: https://fonpit.com/all-jobs/
+- type: x-facebook
+  url: https://www.facebook.com/weareandroidpit
+- type: x-instagram
+  url: https://www.instagram.com/androidpit
+- type: x-twitter
+  url: https://twitter.com/AndroidPITcom
+- type: x-website
+  url: https://www.androidpit.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,73 @@
+---
+name: TrustCommerce
+description: TrustCommerce is the leading provider of secure, PCI compliant payment
+  processing solutions. All-in-one, omnichannel solutions for businesses of all sizes.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/506_logo..png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "190882"
+url: https://raw.githubusercontent.com/api-network/organizations/main/trustcommerce.yaml
+tags:
+- Shopping
+- Payment Solutions
+- Payment Processing Solutions
+- Payment Processing
+- Online Payment Processing
+- Have API
+- Certified Payment Processing
+apis: []
+x-common:
+- type: x-website
+  url: http://www.trustcommerce.com/
+- type: x-website
+  url: http://www.spherecommerce.com
+- type: x-about
+  url: https://www.trustcommerce.com/about/
+- type: x-about
+  url: https://www.trustcommerce.com/about/resources/
+- type: x-about
+  url: https://www.trustcommerce.com/about/clients/
+- type: x-about
+  url: https://www.trustcommerce.com/about/our-partners/
+- type: x-about
+  url: https://www.trustcommerce.com/about/video-library/
+- type: x-blog
+  url: https://www.trustcommerce.com/blog/
+- type: x-careers
+  url: https://www.trustcommerce.com/about/careers/
+- type: x-contact
+  url: https://www.trustcommerce.com/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/trustcommerce
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/trustcommerce
+- type: x-email
+  url: HR@TrustCommerce.com
+- type: x-feed
+  url: https://www.trustcommerce.com/feed/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/trustcommerce
+- type: x-partner
+  url: https://www.trustcommerce.com/about/partners/
+- type: x-press
+  url: https://www.trustcommerce.com/about/news-and-press/
+- type: x-privacy
+  url: https://www.trustcommerce.com/privacy-policy/
+- type: x-support
+  url: https://www.trustcommerce.com/support/
+- type: x-terms-of-service
+  url: https://www.trustcommerce.com/terms-and-conditions/
+- type: x-twitter
+  url: https://twitter.com/trustcommerce
+- type: x-white-papers
+  url: http://info.trustcommerce.com/vp2pe-whitepaper
+- type: x-youtube
+  url: https://www.youtube.com/user/trustcommerce
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

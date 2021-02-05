@@ -1,0 +1,30 @@
+---
+name: Fetch Technologies
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1200444"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fetch-technologies.yaml
+tags:
+- Middleware
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/Fetch.Delivery.Local
+- type: x-instagram
+  url: https://www.instagram.com/fetch.delivery/
+- type: x-support
+  url: https://fetch.com/how-can-we-help-you/
+- type: x-terms-of-service
+  url: http://fetch.com/terms/
+- type: x-website
+  url: https://www.fetch.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

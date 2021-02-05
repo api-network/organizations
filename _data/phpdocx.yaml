@@ -1,0 +1,36 @@
+---
+name: PHPDocX
+description: Easily generate DOCX and PDF documents with PHP, from scratch or using
+  templates, HTML or databases.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "360321"
+url: https://raw.githubusercontent.com/api-network/organizations/main/phpdocx.yaml
+tags:
+- Word
+- Server
+- PHP
+- PDF
+- Office Open XML
+- HTML
+- Generate
+- Docx
+- Database
+- Convert
+apis: []
+x-common:
+- type: x-website
+  url: http://www.phpdocx.com/
+- type: x-twitter
+  url: https://twitter.com/phpdocx
+- type: x-website
+  url: https://www.phpdocx.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

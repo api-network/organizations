@@ -1,0 +1,45 @@
+---
+name: Deskmetrics
+description: Deskmetrics Analytics allows software companies and developers to understand
+  how their application is being used.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1004_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/deskmetrics.yaml
+tags:
+- Website Analytics
+- Twitter
+- Software
+- Have API
+- Applications
+- API Provider
+- Analysis
+apis: []
+x-common:
+- type: x-website
+  url: http://www.deskmetrics.com
+- type: x-blog
+  url: http://blog.deskmetrics.com
+- type: x-blog-rss
+  url: http://blog.deskmetrics.com/rss
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/deskmetrics
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/deskmetrics
+- type: x-email
+  url: support@deskmetrics.com
+- type: x-github
+  url: https://github.com/deskmetrics
+- type: x-twitter
+  url: https://twitter.com/deskmetrics
+- type: x-website
+  url: https://deskmetrics.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

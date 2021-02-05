@@ -1,0 +1,94 @@
+---
+name: Altmetric
+description: <p>Altmetric tracks mentions of scholarly works on social media sites,
+  scholarly bookmarking services and in science news outlets. It handles all of the
+  heavy lifting involved in extracting, disambiguating and collating this information
+  so that you can focus on your core product. &nbsp;The Altmetric API gives you programmatic
+  access the data about articles &amp; datasets collected by Altmetric.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/api_header_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "47331"
+url: https://raw.githubusercontent.com/api-network/organizations/main/altmetric.yaml
+tags:
+- No API Definition
+- Have API
+- Articles
+- API United Kingdom
+- API Provider
+- Analysis
+- Academic
+apis: []
+x-common:
+- type: x-website
+  url: http://www.altmetric.com
+- type: x-about
+  url: https://www.altmetric.com/about-us/people/
+- type: x-about
+  url: https://www.altmetric.com/about-altmetrics/what-are-altmetrics/
+- type: x-about
+  url: https://www.altmetric.com/about-altmetrics/tips-tricks/
+- type: x-about
+  url: https://www.altmetric.com/about-altmetrics/standards-in-altmetrics/
+- type: x-about
+  url: https://www.altmetric.com/about-our-data/our-sources/
+- type: x-about
+  url: https://www.altmetric.com/about-our-data/how-it-works/
+- type: x-about
+  url: https://www.altmetric.com/about-our-data/altmetric-details-page/
+- type: x-about
+  url: https://www.altmetric.com/about-our-data/the-donut-and-score/
+- type: x-about
+  url: https://www.altmetric.com/about-our-data/data-timeline/
+- type: x-about
+  url: https://www.altmetric.com/about-our-data/altmetric-top-100/
+- type: x-blog
+  url: http://www.altmetric.com/blog
+- type: x-blog-rss
+  url: http://altmetric.com/blog/feed/
+- type: x-careers
+  url: https://www.altmetric.com/jobs/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/altmetric
+- type: x-developer
+  url: http://developer.altmetric.com
+- type: x-facebook
+  url: https://www.facebook.com/Altmetric
+- type: x-github
+  url: https://github.com/altmetric
+- type: x-instagram
+  url: https://www.instagram.com/altmetric/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/altmetric
+- type: x-logos
+  url: https://www.altmetric.com/about-us/logos/
+- type: x-news
+  url: https://www.altmetric.com/news/
+- type: x-privacy
+  url: https://www.altmetric.com/privacy-policy/
+- type: x-security
+  url: https://www.altmetric.com/security/
+- type: x-status
+  url: http://status.altmetric.com/
+- type: x-support
+  url: https://help.altmetric.com
+- type: x-support
+  url: https://www.altmetric.com/support/ref-2021-working-group/
+- type: x-terms-of-service
+  url: https://www.altmetric.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/altmetric
+- type: x-twitter
+  url: https://www.twitter.com/altmetric
+- type: x-developers
+  url: http://api.altmetric.com/
+- type: x-youtube
+  url: https://www.youtube.com/user/Altmetric
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

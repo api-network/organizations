@@ -1,0 +1,49 @@
+---
+name: 18004memory.com
+description: Computer memory upgrades for IBM, DELL, Apple and more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1649048"
+url: https://raw.githubusercontent.com/api-network/organizations/main/18004memory-com.yaml
+tags:
+- Server Memory
+- RDRAM
+- Rambus
+- RAM
+- Printer Memory
+- Powerbook Memory
+- Notebook Memory
+- Netbook Memory
+- Memory
+- Laptop Memory
+- Ibm Memory
+- Dell Memory
+- Ddr Ram
+- Ddr Memory
+- DDR
+- Computer Memory Upgrade
+- Computer Memory
+- Apple Memory
+apis: []
+x-common:
+- type: x-website
+  url: http://www.18004memory.com
+- type: x-blog
+  url: http://blog.18004memory.com/
+- type: x-contact
+  url: https://www.olark.com/site/7405-763-10-5501/contact
+- type: x-facebook
+  url: http://www.facebook.com/18004memory
+- type: x-twitter
+  url: http://twitter.com/18004memory
+- type: x-website
+  url: https://www.18004memory.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

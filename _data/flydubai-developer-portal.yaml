@@ -1,0 +1,30 @@
+---
+name: flydubai developer portal
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/flydubai-developer-portal.yaml
+tags:
+- Airlines
+apis: []
+x-common:
+- type: x-authentication
+  url: https://developer.flydubai.com/api-reference/ota-integration-flow/authentication/
+- type: x-contact-form
+  url: https://developer.flydubai.com/contact-us/
+- type: x-developers
+  url: https://developer.flydubai.com/
+- type: x-selfservice-registration
+  url: https://developer.flydubai.com/register-now/
+- type: x-service-level-agreements
+  url: https://developer.flydubai.com/register-now/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

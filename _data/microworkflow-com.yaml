@@ -1,0 +1,40 @@
+---
+name: Micro-Workflow.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/microworkflow-com.yaml
+tags:
+- Consulting
+apis: []
+x-common:
+- type: x-about
+  url: https://micro-workflow.com/about/
+- type: x-blog
+  url: http://blogs.msdn.com/b/dragoman/
+- type: x-documentation
+  url: https://doc.akka.io/docs/akka/current/testing.html
+- type: x-feed
+  url: https://micro-workflow.com/feed/
+- type: x-feed
+  url: https://micro-workflow.com/comments/feed/
+- type: x-github
+  url: https://github.com/sryza/spark-timeseries
+- type: x-github
+  url: https://github.com/polymorphic/spark-timeseries
+- type: x-login
+  url: https://micro-workflow.com/wp-login.php
+- type: x-press
+  url: https://wordpress.org/
+- type: x-website
+  url: https://micro-workflow.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

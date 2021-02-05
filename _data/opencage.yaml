@@ -1,0 +1,56 @@
+---
+name: OpenCage
+description: An easy-to-use forward and reverse geocoding API. Worldwide coverage.
+  Affordable, predictable pricing. Open data.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/OpenCage-Geocoder.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "503698"
+url: https://raw.githubusercontent.com/api-network/organizations/main/opencage.yaml
+tags:
+- Maps
+- Locations
+- Have Swagger
+- Have API Paths
+- Have API
+- Geo
+- Geo
+- General Data
+apis: []
+x-common:
+- type: x-base
+  url: http://api.opencagedata.com/
+- type: x-blog
+  url: http://blog.opencagedata.com/
+- type: x-blog-rss
+  url: http://blog.opencagedata.com/rss
+- type: x-github
+  url: https://github.com/opencagedata
+- type: x-github
+  url: https://mtmail.github.io/osm-node-density/#2/50.0/8.0
+- type: x-open-source
+  url: https://status.opencagedata.com
+- type: x-open-source
+  url: https://openstreetmap.org/copyright
+- type: x-open-source
+  url: https://www.openstreetmap.org/user/tyr_asd/diary/22363
+- type: x-open-source
+  url: https://blog.opencagedata.com
+- type: x-open-source
+  url: https://github.com/opencagedata
+- type: x-pricing
+  url: https://geocoder.opencagedata.com/pricing
+- type: x-twitter
+  url: https://twitter.com/opencagedata
+- type: x-website
+  url: http://opencagedata.com
+- type: x-website
+  url: http://www.opencagedata.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

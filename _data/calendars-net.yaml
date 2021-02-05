@@ -1,0 +1,80 @@
+---
+name: Calendars Net
+description: Display and edit your own calendar of events. Let others post and view
+  events or not. Link your calendar to your web site. View and print out calendars
+  by the day, week, month, or year.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5747888"
+url: https://raw.githubusercontent.com/api-network/organizations/main/calendars-net.yaml
+tags:
+- Yearly
+- Year
+- Web
+- Update
+- Timeshare
+- Time
+- Synchonize
+- Sync
+- Spanish
+- Scheduling
+- Schedules
+- Schedule
+- Recurring
+- Recur
+- Publish
+- Planner
+- Pim
+- Personal
+- Palm
+- Pacific
+- Outlook
+- Organizer
+- Organized
+- Online
+- Norwegian
+- Nest
+- Monthly
+- Month
+- Merge
+- Languages
+- Italian
+- Interactive
+- HTML
+- Hosts
+- Hosting
+- Host
+- Holiday
+- Groups
+- Group
+- German
+- French
+- Freeware
+- Free
+- Events
+- Event
+- Europe
+- Dutch
+- Day
+- Dates
+- Danish
+- Daily
+- Current
+- Create
+- Calendars
+- Calendar
+- Best
+- Asia
+apis: []
+x-common:
+- type: x-website
+  url: https://www.calendars.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

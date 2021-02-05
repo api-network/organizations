@@ -1,0 +1,40 @@
+---
+name: Indian Domain Forum
+description: domain, domains, domaining, india, indian
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "549870"
+url: https://raw.githubusercontent.com/api-network/organizations/main/indian-domain-forum.yaml
+tags:
+- Resources
+apis: []
+x-common:
+- type: x-website
+  url: http://www.inforum.in
+- type: x-facebook
+  url: https://www.facebook.com/INForumin-480301898844300/
+- type: x-forum
+  url: https://www.inforum.in
+- type: x-forum
+  url: https://www.inforum.in/
+- type: x-forum
+  url: https://www.inforum.in/members/
+- type: x-forum
+  url: https://www.inforum.in/account/upgrades
+- type: x-forum
+  url: https://inforum.in/blog/
+- type: x-forum
+  url: https://www.inforum.in/help/terms
+- type: x-twitter
+  url: https://twitter.com/indian_domains
+- type: x-website
+  url: https://www.inforum.in
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

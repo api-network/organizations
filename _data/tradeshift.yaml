@@ -1,0 +1,57 @@
+---
+name: Tradeshift
+description: "Tradeshift is a cloud based digital b2b network and platform for spend
+  management that transforms the way companies buy, pay, and work with suppliers.\_
+  We build technologies that connect companies of all sizes giving them cheaper working
+  capital, increased efficiency, and access to digital global trade."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "102951"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tradeshift.yaml
+tags:
+- Billing
+apis: []
+x-common:
+- type: x-website
+  url: http://tradeshift.com
+- type: x-about
+  url: https://tradeshift.com/about/
+- type: x-blog
+  url: https://hub.tradeshift.com/tradeshift-blog
+- type: x-careers
+  url: https://tradeshift.com/jobs/
+- type: x-contact
+  url: https://tradeshift.com/contact/
+- type: x-developer
+  url: https://developers.tradeshift.com/
+- type: x-facebook
+  url: https://facebook.com/Tradeshift
+- type: x-gdpr
+  url: https://tradeshift.com/gdpr/
+- type: x-linkedin
+  url: http://linkedin.com/company/tradeshift
+- type: x-news
+  url: https://hub.tradeshift.com/tech-trends-and-news
+- type: x-privacy
+  url: https://tradeshift.com/privacy-policy/
+- type: x-support
+  url: https://support.tradeshift.com/home
+- type: x-terms-of-service
+  url: https://tradeshift.com/terms-of-service/
+- type: x-terms-of-service
+  url: https://tradeshift.com/terms-of-use/
+- type: x-twitter
+  url: http://twitter.com/Tradeshift
+- type: x-webinars
+  url: https://tradeshift.com/events-and-webinars/
+- type: x-website
+  url: https://tradeshift.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

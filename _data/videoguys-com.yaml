@@ -1,0 +1,68 @@
+---
+name: Videoguys.com
+description: "Videoguys.com is family owned and operated and has proudly served videographers
+  and producers for the past 30 years. For three generations, we\u2019ve been shooting
+  footage of our growing families and have spent countless hours editing. We actually
+  install and use the equipment we sell and we love to share our experience and expertise
+  with you"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "450231"
+url: https://raw.githubusercontent.com/api-network/organizations/main/videoguys-com.yaml
+tags:
+- Hardware And Equipment
+apis: []
+x-common:
+- type: x-website
+  url: http://www.videoguys.com/
+- type: x-blog
+  url: https://dev.videoguys.com/blog/
+- type: x-blog
+  url: https://dev.videoguys.com/blog/category/guides/
+- type: x-blog
+  url: https://videoguys.com/blog/
+- type: x-blog
+  url: https://videoguys.com/blog/category/guides/
+- type: x-developer
+  url: https://dev.videoguys.com/
+- type: x-developer
+  url: https://dev.videoguys.com/customer/account/
+- type: x-developer
+  url: https://dev.videoguys.com/quote/
+- type: x-developer
+  url: https://dev.videoguys.com/onestepcheckout/
+- type: x-developer
+  url: https://dev.videoguys.com/shop.html
+- type: x-developer
+  url: https://dev.videoguys.com/shop/allbrands.html
+- type: x-developer
+  url: https://dev.videoguys.com/shop/specials.html
+- type: x-developer
+  url: https://dev.videoguys.com/customer-service
+- type: x-developer
+  url: http://dev.videoguys.com
+- type: x-facebook
+  url: https://www.facebook.com/videoguys
+- type: x-facebook
+  url: https://www.facebook.com/videoguys?ref=s
+- type: x-facebook
+  url: https://www.facebook.com/videoguys/app_272394866107013
+- type: x-forum
+  url: https://forums.creativecow.net/videoguys
+- type: x-privacy
+  url: https://www.videoguys.com/privacy
+- type: x-twitter
+  url: https://twitter.com/videoguys
+- type: x-website
+  url: https://www.videoguys.com
+- type: x-youtube
+  url: https://www.youtube.com/user/VideoguysChannel/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

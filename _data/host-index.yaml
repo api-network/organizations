@@ -1,0 +1,68 @@
+---
+name: Host Index
+description: Web Host Directory and web hosting resources for businesses seeking a
+  web host provider. Find hosts, research hosts, and decide upon your web host from
+  among the Internet's largest directory of web hosting companies. Review the Top
+  10 Web Hosting Companies.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1532464"
+url: https://raw.githubusercontent.com/api-network/organizations/main/host-index.yaml
+tags:
+- Web Hosts
+- Web Hosting Reviews
+- Web Hosting Providers
+- Web Hosting Directory
+- Web Hosting Companies
+- Web Hosting
+- Web Host
+- Hosting Review
+- Hosting
+- Email Hosting
+- Ecommerce Hosting
+- Directories
+- Dedicated Servers
+- Dedicated Hosting
+- Cloud Web Hosting
+- Cloud Hosting
+- Cheap Web Hosting
+- Business Hosting
+- Blog Hosting
+- Best Web Hosts
+- Best Web Hosting
+- Best Dedicated Servers
+apis: []
+x-common:
+- type: x-pricing
+  url: http://www.hostindex.com/articles/hostingpricing.shtm
+- type: x-self-service-registration
+  url: http://www.hostindex.com/register/
+- type: x-showcase
+  url: http://www.hostindex.com/showcases/nt/showcase.shtm
+- type: x-showcase
+  url: http://www.hostindex.com/showcases/unix/showcase.shtm
+- type: x-showcase
+  url: http://www.hostindex.com/showcases/vps/showcase.shtm
+- type: x-showcase
+  url: http://www.hostindex.com/hostingshowcases.shtm
+- type: x-showcase
+  url: http://www.hostindex.com/showcases/unix/showcase.php
+- type: x-showcase
+  url: http://www.hostindex.com/showcases/nt/showcase.php
+- type: x-showcase
+  url: http://www.hostindex.com/showcases/aspnet/showcase.php
+- type: x-showcase
+  url: http://www.hostindex.com/showcases/vps/showcase.php
+- type: x-showcase
+  url: http://www.hostindex.com/showcases/adult/showcase.php
+- type: x-website
+  url: https://www.hostindex.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

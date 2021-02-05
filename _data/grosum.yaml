@@ -1,0 +1,53 @@
+---
+name: GroSum
+description: GroSum is all-around employee performance and compensation management
+  software for organizations of all sizes. Start Your FREE Trial with GroSum.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "918648"
+url: https://raw.githubusercontent.com/api-network/organizations/main/grosum.yaml
+tags:
+- Testing And Evaluation
+apis: []
+x-common:
+- type: x-website
+  url: http://www.grosum.com
+- type: x-about
+  url: https://www.grosum.com/about
+- type: x-blog
+  url: https://www.grosum.com/blog
+- type: x-contact
+  url: https://www.grosum.com/contact-us
+- type: x-developer
+  url: http://developer.grosum.com
+- type: x-facebook
+  url: https://www.facebook.com/grosum.10/
+- type: x-feed
+  url: https://www.grosum.com/feedback-checkins/
+- type: x-feed
+  url: https://www.grosum.com/360-degree-feedback-tool/
+- type: x-feed
+  url: https://www.grosum.com/360feedback/
+- type: x-instagram
+  url: https://www.instagram.com/grosum_pms/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/grosum/
+- type: x-pricing
+  url: https://www.grosum.com/pricing/
+- type: x-privacy
+  url: https://www.grosum.com/privacy
+- type: x-terms-of-service
+  url: https://www.grosum.com/terms-conditions
+- type: x-twitter
+  url: https://twitter.com/GroSums
+- type: x-website
+  url: https://www.grosum.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

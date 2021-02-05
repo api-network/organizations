@@ -1,0 +1,37 @@
+---
+name: Surviving w/ android
+description: Tutorials about IoT, Arduino, ESP8266, Raspberry Pi, Machine Learning
+  and more with full source code. This blog is mantained by Francesco Azzola
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "360140"
+url: https://raw.githubusercontent.com/api-network/organizations/main/surviving-w-android.yaml
+tags:
+- Developer Resources
+apis: []
+x-common:
+- type: x-about
+  url: https://www.survivingwithandroid.com/about-me/
+- type: x-contact
+  url: https://www.survivingwithandroid.com/contact-me/
+- type: x-facebook
+  url: https://www.facebook.com/survivingwithan/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/francescoazzola/
+- type: x-privacy
+  url: https://www.survivingwithandroid.com/privacy/
+- type: x-privacy
+  url: https://www.survivingwithandroid.com/privacy
+- type: x-twitter
+  url: https://twitter.com/survivingwithan
+- type: x-website
+  url: https://www.survivingwithandroid.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

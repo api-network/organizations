@@ -1,0 +1,53 @@
+---
+name: Lansweeper
+description: IT Asset Discovery Software That Finds & Manages All Assets Across Your
+  Enterprise. Track Hardware, Software, and Users. Agentless Network Discovery.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "104697"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lansweeper.yaml
+tags:
+- System
+apis: []
+x-common:
+- type: x-about
+  url: https://www.lansweeper.com/about/
+- type: x-blog
+  url: https://www.lansweeper.com/blog/
+- type: x-careers
+  url: https://www.lansweeper.com/careers/
+- type: x-case-studies
+  url: https://www.lansweeper.com/use-cases/
+- type: x-contact
+  url: https://www.lansweeper.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/lansweeper.network.inventory/
+- type: x-forum
+  url: https://www.lansweeper.com/forum/
+- type: x-integrations
+  url: https://www.lansweeper.com/integrations/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/lansweeper-bvba/
+- type: x-partner
+  url: https://www.lansweeper.com/partners/
+- type: x-pricing
+  url: https://www.lansweeper.com/pricing/
+- type: x-privacy
+  url: https://www.lansweeper.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.lansweeper.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/Lansweeper/
+- type: x-webinars
+  url: https://www.lansweeper.com/resources/webinars/
+- type: x-website
+  url: https://www.lansweeper.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

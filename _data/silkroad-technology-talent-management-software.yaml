@@ -1,0 +1,38 @@
+---
+name: SilkRoad technology Talent Management Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "13827"
+url: https://raw.githubusercontent.com/api-network/organizations/main/silkroad-technology-talent-management-software.yaml
+tags:
+- Recruitment Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.silkroad.com
+- type: x-facebook
+  url: https://www.facebook.com/silkroadtechnology/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/silkroad/
+- type: x-login
+  url: https://silkroad.force.com/engagementcenter/s/login
+- type: x-partner
+  url: https://silkroadtechnology.com/partners/hireright/
+- type: x-partner
+  url: https://silkroadtechnology.com/partners/microsoft/
+- type: x-partner
+  url: https://silkroadtechnology.com/partners/syntrio/
+- type: x-twitter
+  url: https://twitter.com/silkroadtweets
+- type: x-website
+  url: https://www.silkroad.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,77 @@
+---
+name: AMT
+description: AMT provides projected capacitive (PCI or PCAP) touch screen, resistive
+  touch screen, and touch control board for the industrial, medical, and commercial
+  fields.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2369697"
+url: https://raw.githubusercontent.com/api-network/organizations/main/amt.yaml
+tags:
+- Touch Screen Control Board
+- Touch Screen
+- Touch Panel
+- Touch Controller
+- Resistive Touch Screen
+- Projected Capacitive Touch Screen
+- PCT Touch
+- PCAP Touch
+apis: []
+x-common:
+- type: x-about
+  url: https://www.amtouch.com.tw/about-amt/
+- type: x-about
+  url: https://www.amtouch.com.tw/about-amt/company-profile/
+- type: x-about
+  url: https://www.amtouch.com.tw/about-amt/milestones/
+- type: x-about
+  url: https://www.amtouch.com.tw/about-amt/media-center/
+- type: x-careers
+  url: https://www.amtouch.com.tw/careers/
+- type: x-contact
+  url: https://www.amtouch.com.tw/contact-us/
+- type: x-contact
+  url: https://www.amtouch.com.tw/contact-us/headquarters/
+- type: x-contact
+  url: https://www.amtouch.com.tw/contact-us/distributor/
+- type: x-contact
+  url: https://www.amtouch.com.tw/contact-us/facebook/
+- type: x-contact
+  url: https://www.amtouch.com.tw/contact-us/linkedin/
+- type: x-feed
+  url: https://www.amtouch.com.tw/?feed=rss2
+- type: x-partner
+  url: https://www.amtouch.com.tw/members/partner/
+- type: x-privacy
+  url: https://www.amtouch.com.tw/privacy-policy/
+- type: x-support
+  url: https://www.amtouch.com.tw/support/
+- type: x-support
+  url: https://www.amtouch.com.tw/support/integration/
+- type: x-support
+  url: https://www.amtouch.com.tw/support/faqs/
+- type: x-support
+  url: https://www.amtouch.com.tw/support/troubleshooting/
+- type: x-website
+  url: https://www.amtouch.com.tw
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=mfuj4gH6Ewc
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=Ld69sYM4Ygo
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=wkAI2M7G-o8
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=e9XjdbhkRR0
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=HAufCM7vDfU
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=opuMqONswxQ
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

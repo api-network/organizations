@@ -1,0 +1,61 @@
+---
+name: Plaid
+description: Develop the future of fintech with Plaid, the technology layer for financial
+  services. Plaid enables applications to connect with users??? bank accounts.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/2112_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "43379"
+url: https://raw.githubusercontent.com/api-network/organizations/main/plaid.yaml
+tags:
+- Have API
+- Financial
+- Financial
+- Banking
+- Banking
+apis: []
+x-common:
+- type: x-website
+  url: http://plaid.com
+- type: x-blog
+  url: https://blog.plaid.com/plaid-and-visa/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/plaid
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/plaid
+- type: x-email
+  url: legalnotices@plaid.com
+- type: x-email
+  url: privacy@plaid.com
+- type: x-email
+  url: security@plaid.com
+- type: x-email
+  url: mstinson@plaid.com
+- type: x-email
+  url: press@plaid.com
+- type: x-instagram
+  url: https://www.instagram.com/plaid/
+- type: x-login
+  url: https://dashboard.plaid.com/signin
+- type: x-privacy
+  url: https://plaid.com/overview-privacy/
+- type: x-signup
+  url: https://dashboard.plaid.com/signup
+- type: x-support
+  url: https://support.plaid.com
+- type: x-twitter
+  url: https://twitter.com/Plaid
+- type: x-twitter
+  url: https://twitter.com/PlaidHQ
+- type: x-website
+  url: https://plaid.com
+- type: x-website
+  url: https://plaid.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

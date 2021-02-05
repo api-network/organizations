@@ -1,0 +1,35 @@
+---
+name: Lynx Broadband
+description: Lynx Broadband, Television on Cat 5/6 Cable, Television and Internet
+  TV on a Single Cat 5/6 Cable, Cat 5e cables or Cat 6 cable, RF Balun Technology,
+  4K and HDTV on Cat 6 Cable
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lynx-broadband.yaml
+tags:
+- Television And Internet TV
+- Manufacturers
+- Lynx Broadband
+- Cat 5e Cables
+- Cat 5/6 Cable
+- 4K HDTV
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/LynxBroadband/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/lynx-broadband
+- type: x-twitter
+  url: https://twitter.com/LynxBroadband
+- type: x-website
+  url: https://www.lynxbroadband.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

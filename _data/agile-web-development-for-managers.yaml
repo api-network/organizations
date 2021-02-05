@@ -1,0 +1,56 @@
+---
+name: Agile Web Development for Managers
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/agile-web-development-for-managers.yaml
+tags:
+- Agile
+apis: []
+x-common:
+- type: x-blog
+  url: http://www.targetprocess.com/blog
+- type: x-blog
+  url: http://firefalcon.blogspot.com/search/label/agile
+- type: x-blog
+  url: http://firefalcon.blogspot.com/search/label/blog
+- type: x-blog
+  url: http://firefalcon.blogspot.com/search/label/move
+- type: x-blog
+  url: http://firefalcon.blogspot.com/2004/12/blog-moved.html
+- type: x-blog
+  url: http://www.estherderby.com/weblog/blogger.html
+- type: x-blog
+  url: http://coachspot.blogspot.com/
+- type: x-blog
+  url: https://www.blogger.com/profile/07679773973314266590
+- type: x-blog
+  url: http://firefalcon.blogspot.com/2004/05/tangram.html
+- type: x-blog
+  url: http://firefalcon.blogspot.com/2004/03/
+- type: x-blog
+  url: http://firefalcon.blogspot.com/2004/04/
+- type: x-blog
+  url: http://firefalcon.blogspot.com/2004/05/
+- type: x-blog
+  url: http://firefalcon.blogspot.com/2004/06/
+- type: x-blog
+  url: http://firefalcon.blogspot.com/2004/07/
+- type: x-blog
+  url: http://firefalcon.blogspot.com/2004/09/
+- type: x-blog
+  url: http://firefalcon.blogspot.com/2004/12/
+- type: x-login
+  url: http://www.onestat.com/aspx/login.aspx?sid=194559
+- type: x-website
+  url: https://firefalcon.blogspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

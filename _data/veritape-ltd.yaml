@@ -1,0 +1,31 @@
+---
+name: Veritape Ltd
+description: Eckoh is an award-winning provider of secure payment solutions for contact
+  centres. Multi-channel, integration and PCI DSS payment solutions.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/veritape-ltd.yaml
+tags:
+- Recorders
+apis: []
+x-common:
+- type: x-website
+  url: http://www.eckoh.com/
+- type: x-facebook
+  url: https://www.facebook.com/EckohPLC/
+- type: x-slideshare
+  url: https://www.slideshare.net/Eckoh_UK
+- type: x-twitter
+  url: https://twitter.com/Eckoh
+- type: x-website
+  url: https://www.veritape.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

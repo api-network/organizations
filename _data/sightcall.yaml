@@ -1,0 +1,64 @@
+---
+name: SightCall
+description: SightCall remote support software enables live video streaming and remote
+  access on mobile devices and desktops for customer service and tech support teams.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/sightcall-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "461912"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sightcall.yaml
+tags:
+- Networks
+- Have API
+apis: []
+x-common:
+- type: x-about
+  url: https://sightcall.com/about/
+- type: x-blog
+  url: https://sightcall.com/blog/
+- type: x-blog
+  url: http://www.sightcall.com/blog/
+- type: x-blog-rss
+  url: http://sightcall.com/feed/
+- type: x-contact
+  url: https://sightcall.com/contact-us/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/weemo
+- type: x-developers
+  url: http://www.sightcall.com/developers/
+- type: x-email
+  url: sales-americas@sightcall.com
+- type: x-email
+  url: sales-emea@sightcall.com
+- type: x-email
+  url: sales-apac@sightcall.com
+- type: x-facebook
+  url: https://www.facebook.com/sightcall
+- type: x-linkedin
+  url: https://www.linkedin.com/company/sightcall
+- type: x-news
+  url: https://sightcall.com/news/
+- type: x-partner
+  url: https://sightcall.com/partners/
+- type: x-support
+  url: https://sightcall.com/visual-support/
+- type: x-twitter
+  url: https://twitter.com/sightcall
+- type: x-website
+  url: http://www.sightcall.com/
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=d6klh2AAp30
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=nIoqQbnv88Q
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=UXFU6OCjZQU
+- type: x-youtube
+  url: https://www.youtube.com/c/sightcall
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

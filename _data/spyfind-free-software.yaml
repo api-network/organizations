@@ -1,0 +1,44 @@
+---
+name: SpyFind Free Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3552707"
+url: https://raw.githubusercontent.com/api-network/organizations/main/spyfind-free-software.yaml
+tags:
+- Directories
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.ezthemes.com/clickfunnels-blog/
+- type: x-developer
+  url: http://developer.spyfind.ezthemes.com
+- type: x-feed
+  url: https://www.ezthemes.com/feed/
+- type: x-feed
+  url: https://www.ezthemes.com/comments/feed/
+- type: x-login
+  url: https://www.ezthemes.com/clickfunnels-login/
+- type: x-login
+  url: https://www.ezthemes.com/wp-login.php
+- type: x-marketplace
+  url: https://www.ezthemes.com/best-solo-ads-marketplace/
+- type: x-press
+  url: https://www.ezthemes.com/clickfunnels-vs-wordpress/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-pricing
+  url: https://www.ezthemes.com/clickfunnels-pricing/
+- type: x-webinars
+  url: https://www.ezthemes.com/clickfunnels-webinar/
+- type: x-website
+  url: https://spyfind.ezthemes.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

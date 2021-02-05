@@ -1,0 +1,52 @@
+---
+name: TSYS
+description: TSYS offers multiple secure payments solutions for its partners' cloud-based
+  Point of Sale systems and E-Commerce sites. While TSYS' products are designed to
+  keep cardholder data out of our partners' (and your merchants') environments, it's
+  important to note that certain technical and operational requirements may still
+  apply, and that attacks against your POS or E-Commerce site that may compromise
+  cardholder data are still possible. Below are some best practices that many of our
+  partners employ and can help protect your sites - and mitigate the damages
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4094078"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tsys.yaml
+tags:
+- Profile
+- Point Of Sale
+- PCI SSC
+- PCI DSS
+- PCI
+- No API Definition
+- ISV
+- Has API
+- E-commerce
+apis: []
+x-common:
+- type: x-blog
+  url: https://docs.tsysmerchant.com/blog
+- type: x-code
+  url: https://docs.tsysmerchant.com/code-samples
+- type: x-contact-form
+  url: https://docs.tsysmerchant.com/contact
+- type: x-faq
+  url: https://docs.tsysmerchant.com/knowledge-base/faqs
+- type: x-github
+  url: https://github.com/tsys
+- type: x-linkedin
+  url: https://www.linkedin.com/company/tsys
+- type: x-security
+  url: https://docs.tsysmerchant.com/technology#security
+- type: x-terms-of-service
+  url: https://docs.tsysmerchant.com/api-terms-of-service
+- type: x-website
+  url: http://docs.tsysmerchant.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

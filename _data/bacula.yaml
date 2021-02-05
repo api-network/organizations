@@ -1,0 +1,62 @@
+---
+name: Bacula
+description: Are you looking for a free backup software for Linux, Windows, VMware
+  or Mac? Take a look at Bacula - Advanced free enterprise-ready open source backup
+  software
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "544582"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bacula.yaml
+tags:
+- Backup
+apis: []
+x-common:
+- type: x-website
+  url: http://www.baculasystems.com
+- type: x-blog
+  url: https://www.bacula.org/blog/
+- type: x-blog
+  url: https://www.bacula.org/category/kerns-blog/
+- type: x-blog
+  url: https://www.baculasystems.com/blog
+- type: x-documentation
+  url: https://www.bacula.org/documentation/
+- type: x-documentation
+  url: https://www.bacula.org/documentation/documentation/
+- type: x-documentation
+  url: https://www.bacula.org/documentation/screenshots/
+- type: x-documentation
+  url: https://www.bacula.org/documentation/git-statistics/
+- type: x-events
+  url: https://www.bacula.org/category/events/
+- type: x-facebook
+  url: https://www.facebook.com/baculasystems
+- type: x-linkedin
+  url: https://www.linkedin.com/company/bacula-systems
+- type: x-status
+  url: https://www.bacula.org/category/status-reports/
+- type: x-support
+  url: https://www.bacula.org/support/
+- type: x-support
+  url: https://www.bacula.org/support/email-lists/
+- type: x-support
+  url: https://www.bacula.org/support/bug-reporting/
+- type: x-support
+  url: https://www.bacula.org/support/professional-support/
+- type: x-support
+  url: https://www.bacula.org/support/feature-requests/
+- type: x-twitter
+  url: https://twitter.com/baculasystems
+- type: x-website
+  url: https://www.bacula.org
+- type: x-white-papers
+  url: https://www.bacula.org/white-papers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

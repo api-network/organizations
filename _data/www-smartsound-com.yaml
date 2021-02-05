@@ -1,0 +1,48 @@
+---
+name: www.smartsound.com
+description: Royalty free music, Stock music for video, YouTube, movie trailer, video
+  games. Instantly customize to any length. Royalty Free Music that fits!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "301021"
+url: https://raw.githubusercontent.com/api-network/organizations/main/www-smartsound-com.yaml
+tags:
+- Royalty Free Stock Music
+- Royalty Free Music Software
+- Royalty Free Music Library
+- Royalty Free Music Downloads
+- Royalty Free Music
+- Composition
+apis: []
+x-common:
+- type: x-website
+  url: http://www.smartsound.com
+- type: x-blog
+  url: http://www.smartsound.com/blog/holiday/
+- type: x-blog
+  url: http://www.smartsound.com/blog/
+- type: x-facebook
+  url: https://www.facebook.com/SmartSoundMusic
+- type: x-feed
+  url: http://www.smartsound.com/blog/feed.rss
+- type: x-feed
+  url: http://www.smartsound.com/blog/feed.rss.xml
+- type: x-privacy
+  url: https://policies.google.com/privacy
+- type: x-terms-of-service
+  url: https://policies.google.com/terms
+- type: x-twitter
+  url: https://www.twitter.com/SmartSound
+- type: x-website
+  url: https://www.smartsound.com
+- type: x-youtube
+  url: http://www.youtube.com/smartsoundmusic
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

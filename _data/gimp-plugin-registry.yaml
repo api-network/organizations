@@ -1,0 +1,30 @@
+---
+name: GIMP Plug-In Registry
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7686"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gimp-plugin-registry.yaml
+tags:
+- Plugins
+apis: []
+x-common:
+- type: x-website
+  url: http://www.gimp.org
+- type: x-facebook
+  url: https://www.facebook.com/gimpofficial/
+- type: x-github
+  url: https://github.com/pixlsus/registry.gimp.org_static
+- type: x-twitter
+  url: https://twitter.com/gimp_official
+- type: x-website
+  url: https://registry.gimp.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

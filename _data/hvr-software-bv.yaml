@@ -1,0 +1,115 @@
+---
+name: HVR Software bv
+description: Your data. Where you need it. HVR is the leading independent real-time
+  data replication solution that offers efficient data integration for cloud and more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "866056"
+url: https://raw.githubusercontent.com/api-network/organizations/main/hvr-software-bv.yaml
+tags:
+- Replication
+apis: []
+x-common:
+- type: x-website
+  url: http://www.hvr-software.com/
+- type: x-about
+  url: https://www.hvr-software.com/about-us/
+- type: x-about
+  url: https://www.hvr-software.com/about-us/leadership/
+- type: x-about
+  url: https://www.hvr-software.com/about-us/locations/
+- type: x-blog
+  url: http://www.hvr-software.com/blog
+- type: x-careers
+  url: https://www.hvr-software.com/about-us/careers/
+- type: x-case-studies
+  url: https://www.hvr-software.com/resource/use-cases/
+- type: x-customers
+  url: https://www.hvr-software.com/customers/
+- type: x-customers
+  url: https://www.hvr-software.com/customers
+- type: x-facebook
+  url: https://www.facebook.com/HVRSoftwareUSA/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/hvr-software/
+- type: x-login
+  url: https://www.hvr-software.com/login
+- type: x-partner
+  url: https://www.hvr-software.com/partners/
+- type: x-platform
+  url: https://www.hvr-software.com/product/platform-support/
+- type: x-platform
+  url: https://www.hvr-software.com/platforms/amazon-rds/
+- type: x-platform
+  url: https://www.hvr-software.com/platforms/postgresql/
+- type: x-platform
+  url: https://www.hvr-software.com/platforms/amazon-s3/
+- type: x-platform
+  url: https://www.hvr-software.com/platforms/mysql/
+- type: x-platform
+  url: https://www.hvr-software.com/platforms/snowflake/
+- type: x-platform
+  url: https://www.hvr-software.com/platforms/snowflake-aws/
+- type: x-platform
+  url: https://www.hvr-software.com/platforms/teradata/
+- type: x-platform
+  url: https://www.hvr-software.com/platforms/sap-hana/
+- type: x-platform
+  url: https://www.hvr-software.com/platforms/sap-ecc/
+- type: x-platform
+  url: https://www.hvr-software.com/platforms/apache-kafka/
+- type: x-platform
+  url: https://www.hvr-software.com/platforms/apache-hive/
+- type: x-platform
+  url: https://www.hvr-software.com/platforms/hbase/
+- type: x-platform
+  url: https://www.hvr-software.com/platforms/oracle/
+- type: x-platform
+  url: https://www.hvr-software.com/platforms/salesforce/
+- type: x-platform
+  url: https://www.hvr-software.com/platforms/mapr/
+- type: x-platform
+  url: https://www.hvr-software.com/platforms/hdfs/
+- type: x-platform
+  url: https://www.hvr-software.com/platforms/ibm-db2-luw/
+- type: x-platform
+  url: https://www.hvr-software.com/platforms/ibm-db2-z-os/
+- type: x-platform
+  url: https://www.hvr-software.com/platforms/mariadb/
+- type: x-platform
+  url: https://www.hvr-software.com/platforms/mongodb/
+- type: x-platform
+  url: https://www.hvr-software.com/platforms/ingres/
+- type: x-platform
+  url: https://www.hvr-software.com/platforms/sharepoint/
+- type: x-platform
+  url: https://www.hvr-software.com/platforms/greenplum/
+- type: x-platform
+  url: https://www.hvr-software.com/platforms/actian-vector/
+- type: x-platform
+  url: https://www.hvr-software.com/platforms/agent-plugin/
+- type: x-press
+  url: https://www.hvr-software.com/news-press/
+- type: x-privacy
+  url: https://www.hvr-software.com/privacy/
+- type: x-self-service-registration
+  url: https://www.hvr-software.com/register
+- type: x-support
+  url: https://www.hvr-software.com/product/support-services/
+- type: x-support
+  url: https://support.apple.com/downloads/#safari
+- type: x-twitter
+  url: https://twitter.com/hvr_software
+- type: x-webinars
+  url: https://www.hvr-software.com/weekly-webinar-demo/
+- type: x-website
+  url: https://www.hvr-software.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

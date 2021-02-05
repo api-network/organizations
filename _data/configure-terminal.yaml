@@ -1,0 +1,40 @@
+---
+name: Configure Terminal
+description: "ConfigureTerminal | CCNA | CCNA Training | VPN | CCIE | CCNP \u2013
+  Provides a variety of training materials CCNA exam preparation, Network Automation,
+  Python, Linux, SDN, GNS3, Packet Tracer and much more.."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1162251"
+url: https://raw.githubusercontent.com/api-network/organizations/main/configure-terminal.yaml
+tags:
+- Cisco
+apis: []
+x-common:
+- type: x-website
+  url: https://www.davidbombal.com
+- type: x-about
+  url: https://configureterminal.com/about/
+- type: x-contact
+  url: https://configureterminal.com/contact/
+- type: x-developer
+  url: http://dev.configureterminal.com
+- type: x-facebook
+  url: https://www.facebook.com/configureterminal
+- type: x-linkedin
+  url: https://www.linkedin.com/in/davidbombal
+- type: x-twitter
+  url: https://twitter.com/davidbombal
+- type: x-website
+  url: https://www.configureterminal.com
+- type: x-youtube
+  url: https://www.youtube.com/user/ConfigTerm/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

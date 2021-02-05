@@ -1,0 +1,48 @@
+---
+name: Warp2Search.net
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1112987"
+url: https://raw.githubusercontent.com/api-network/organizations/main/warp2search-net.yaml
+tags:
+- Reviews
+apis: []
+x-common:
+- type: x-code
+  url: https://www.warp2search.net/story/xcode-1131-released/
+- type: x-code
+  url: https://www.warp2search.net/story/vidcoder-515/
+- type: x-login
+  url: https://www.warp2search.net/login/register/
+- type: x-news
+  url: https://www.warp2search.net/news/
+- type: x-news
+  url: https://www.warp2search.net/news/category/microsoft/
+- type: x-news
+  url: https://www.warp2search.net/news/category/software/
+- type: x-news
+  url: https://www.warp2search.net/news/category/security/
+- type: x-news
+  url: https://www.warp2search.net/news/category/news/
+- type: x-news
+  url: https://www.warp2search.net/news/category/reviews/
+- type: x-news
+  url: https://www.warp2search.net/news/category/apple/
+- type: x-news
+  url: https://www.warp2search.net/news/category/linux/
+- type: x-news
+  url: https://www.warp2search.net/news/category/mobile/
+- type: x-privacy
+  url: https://www.warp2search.net/imprint/privacy/
+- type: x-website
+  url: https://www.warp2search.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

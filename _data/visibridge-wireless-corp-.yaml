@@ -1,0 +1,22 @@
+---
+name: Visibridge Wireless Corp.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/visibridge-wireless-corp-.yaml
+tags:
+- Platforms
+apis: []
+x-common:
+- type: x-website
+  url: https://www.visibridge.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

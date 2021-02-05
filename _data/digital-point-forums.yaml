@@ -1,0 +1,47 @@
+---
+name: Digital Point Forums
+description: World's largest marketing/webmaster community.  Includes large collection
+  of tools.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "28711"
+url: https://raw.githubusercontent.com/api-network/organizations/main/digital-point-forums.yaml
+tags:
+- Chats And Forums
+apis: []
+x-common:
+- type: x-website
+  url: https://www.digitalpoint.com/
+- type: x-forum
+  url: https://forums.digitalpoint.com/
+- type: x-login
+  url: https://www.digitalpoint.com/login/
+- type: x-marketplace
+  url: https://marketplace.digitalpoint.com/articles
+- type: x-marketplace
+  url: https://marketplace.digitalpoint.com/sites
+- type: x-marketplace
+  url: https://marketplace.digitalpoint.com/domains
+- type: x-marketplace
+  url: https://marketplace.digitalpoint.com/ebooks.4/category
+- type: x-marketplace
+  url: https://marketplace.digitalpoint.com/
+- type: x-self-service-registration
+  url: https://www.digitalpoint.com/register/facebook?reg=1
+- type: x-support
+  url: https://www.digitalpoint.com/help/
+- type: x-terms-of-service
+  url: https://www.digitalpoint.com/help/terms
+- type: x-twitter
+  url: https://twitter.com/digitalpoint
+- type: x-website
+  url: https://forums.digitalpoint.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

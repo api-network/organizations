@@ -1,0 +1,25 @@
+---
+name: Sage Stage
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sage-stage.yaml
+tags: []
+apis: []
+x-common:
+- type: x-gtfs-feed
+  url: http://sagestage.com/wp-content/uploads/2016/02/GTFS-2016-Zip.zip
+- type: x-licensing
+  url: http://sagestage.com/gtfs-data/
+- type: x-website
+  url: http://www.sagestage.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

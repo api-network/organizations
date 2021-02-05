@@ -1,0 +1,50 @@
+---
+name: CakePHP Bakery
+description: Latest news and articles about CakePHP
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "18488"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cakephp-bakery.yaml
+tags:
+- CakePHP
+apis: []
+x-common:
+- type: x-developer
+  url: https://api.cakephp.org
+- type: x-facebook
+  url: http://www.facebook.com/groups/cake.community
+- type: x-github
+  url: https://github.com/cakephp/cakephp/issues
+- type: x-github
+  url: https://github.com/FriendsOfCake/awesome-cakephp
+- type: x-github
+  url: https://github.com/cakephp/cakephp/releases
+- type: x-github
+  url: https://github.com/cakephp
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/4623165/profile
+- type: x-news
+  url: https://cakephp.org/newsletter/signup
+- type: x-open-source
+  url: https://www.openhub.net/p/cakephp
+- type: x-privacy
+  url: https://cakephp.org/privacy
+- type: x-showcase
+  url: https://cakephp.org/showcase
+- type: x-twitter
+  url: http://twitter.com/cakephp
+- type: x-twitter
+  url: https://twitter.com/CakePHP
+- type: x-website
+  url: https://bakery.cakephp.org
+- type: x-youtube
+  url: http://www.youtube.com/user/CakePHP
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

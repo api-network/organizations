@@ -1,0 +1,46 @@
+---
+name: Flexicell
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5682911"
+url: https://raw.githubusercontent.com/api-network/organizations/main/flexicell.yaml
+tags:
+- Industrial
+apis: []
+x-common:
+- type: x-about
+  url: https://www.flexicell.com/about-us/
+- type: x-about
+  url: https://www.flexicell.com/about-us/flexicell/
+- type: x-about
+  url: https://www.flexicell.com/about-us/employment/
+- type: x-about
+  url: https://www.flexicell.com//about-us/flexicell/
+- type: x-about
+  url: https://www.flexicell.com//about-us/employment/
+- type: x-contact
+  url: https://www.flexicell.com/contact/
+- type: x-login
+  url: https://www.flexicell.com/resources/webcam-login/
+- type: x-press
+  url: https://www.flexicell.com/resources/press-releases/
+- type: x-privacy
+  url: https://www.flexicell.com/privacy-policy/
+- type: x-support
+  url: https://www.flexicell.com/service-support/
+- type: x-support
+  url: https://www.flexicell.com/service-support/parts/
+- type: x-support
+  url: https://www.flexicell.com/service-support/training/
+- type: x-website
+  url: https://www.flexicell.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

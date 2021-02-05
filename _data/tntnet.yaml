@@ -1,0 +1,22 @@
+---
+name: Tntnet
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8486471"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tntnet.yaml
+tags:
+- Network
+apis: []
+x-common:
+- type: x-website
+  url: https://www.tntnet.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

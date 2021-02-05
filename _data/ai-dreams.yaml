@@ -1,0 +1,71 @@
+---
+name: Ai Dreams
+description: Ai Dreams
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1772029"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ai-dreams.yaml
+tags:
+- Programming And More.
+- Movies
+- Forum
+- Chatterbots
+- Chatbots
+- Books
+- All Things Artificial Intelligence
+- AI
+apis: []
+x-common:
+- type: x-forum
+  url: https://aidreams.co.uk/forum/index.php?action=login
+- type: x-forum
+  url: https://aidreams.co.uk/forum/index.php?action=register
+- type: x-forum
+  url: https://aidreams.co.uk/forum/index.php?action=search
+- type: x-forum
+  url: https://aidreams.co.uk/forum/index.php
+- type: x-forum
+  url: https://aidreams.co.uk/forum/index.php?action=forum
+- type: x-forum
+  url: https://aidreams.co.uk/forum/index.php?action=help
+- type: x-forum
+  url: https://aidreams.co.uk/forum/index.php?topic=14524
+- type: x-forum
+  url: https://aidreams.co.uk/forum/index.php?topic=14526
+- type: x-forum
+  url: https://aidreams.co.uk/forum/index.php?topic=14531
+- type: x-forum
+  url: https://aidreams.co.uk/forum/index.php?topic=14530
+- type: x-forum
+  url: https://aidreams.co.uk/forum/index.php?topic=14529
+- type: x-forum
+  url: https://aidreams.co.uk/forum/index.php?topic=14528
+- type: x-forum
+  url: https://aidreams.co.uk/forum/index.php?topic=14527
+- type: x-forum
+  url: https://aidreams.co.uk/forum/index.php?topic=14523
+- type: x-forum
+  url: https://aidreams.co.uk/forum/index.php?topic=14525
+- type: x-forum
+  url: https://aidreams.co.uk/forum/index.php?topic=14522
+- type: x-news
+  url: http://news.mit.edu/rss/topic/robotics
+- type: x-news
+  url: http://news.mit.edu/
+- type: x-website
+  url: https://www.aidreams.co.uk
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=iAY2LxaFtaM
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=MyxWDHy4ppY
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=N7lXymxsdhw
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

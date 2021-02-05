@@ -1,0 +1,49 @@
+---
+name: Sign-Up.to
+description: Email marketing software and services. Marketing automation, SMS, social
+  media and more. Award-winning support and services.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1202601"
+url: https://raw.githubusercontent.com/api-network/organizations/main/signup-to.yaml
+tags:
+- Online Tools
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.signupto.com/contact/
+- type: x-developer
+  url: https://dev.sign-up.to
+- type: x-facebook
+  url: https://facebook.com/signupto/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/379718
+- type: x-news
+  url: https://www.signupto.com/news/
+- type: x-partner
+  url: https://www.signupto.com/partners/
+- type: x-platform
+  url: https://www.signupto.com/platform/overview/
+- type: x-signup
+  url: https://www.signupto.com
+- type: x-signup
+  url: https://www.signupto.com/services/overview/
+- type: x-signup
+  url: https://www.signupto.com/resources/overview/
+- type: x-signup
+  url: https://www.signupto.com/services/support-training/
+- type: x-signup
+  url: https://www.signupto.com/trial/
+- type: x-terms-of-service
+  url: https://www.signupto.com/legal/
+- type: x-website
+  url: https://www.signupto.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

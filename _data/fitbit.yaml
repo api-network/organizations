@@ -1,0 +1,71 @@
+---
+name: Fitbit
+description: You'll fit in here. Using JavaScript, CSS, and SVG, developers now have
+  a fast, easy way to build apps and clock faces for Fitbit OS.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/200-fitbit.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "911"
+x-alexaRank: "2884"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fitbit.yaml
+tags:
+- Wearables
+- Relative Data
+- Have Swagger
+- Have API Paths
+- Have API
+- Fitness
+- Excercise
+- Devices
+- API Provider
+apis: []
+x-common:
+- type: x-api-json--authoritative
+  url: https://www.fitbit.com/apis.json
+- type: x-website
+  url: http://www.fitbit.com
+- type: x-apigee-console
+  url: https://wiki.fitbit.com/display/API/API+Explorer
+- type: x-blog
+  url: http://blog.fitbit.com
+- type: x-blog-rss
+  url: http://blog.fitbit.com/feed/
+- type: x-code
+  url: https://community.fitbit.com/t5/SDK-Development/bd-p/sdk
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/fitbit
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/fitbit
+- type: x-email
+  url: privacy@fitbit.com
+- type: x-github
+  url: https://github.com/fitbit
+- type: x-github
+  url: https://github.com/fitbit/
+- type: x-rate-limits
+  url: https://wiki.fitbit.com/display/API/Rate+Limit
+- type: x-terms-of-service
+  url: https://www.fitbit.com/terms
+- type: x-terms-of-service
+  url: https://www.fitbit.com/legal/privacy
+- type: x-terms-of-service
+  url: https://www.fitbit.com/legal/returns-and-warranty
+- type: x-twitter
+  url: https://twitter.com/fitbit
+- type: x-twitter
+  url: https://twitter.com/fitbitdev
+- type: x-twitter
+  url: https://twitter.com/fitbitdev/
+- type: x-website
+  url: http://fitbit.com
+- type: x-website
+  url: http://dev.fitbit.com
+- type: x-youtube
+  url: https://www.youtube.com/fitbitdev
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

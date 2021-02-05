@@ -1,0 +1,26 @@
+---
+name: Employment and Training Administration (ETA)
+description: <p><span>The Employment and Training Administration is part of the U.S.
+  Department of Labor. Its mission is to provide training, employment, labor market
+  information, and income maintenance services.</span></p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/employment-and-training-administration-eta.yaml
+tags:
+- Federal Government
+apis: []
+x-common:
+- type: x-website
+  url: http://www.doleta.gov/
+- type: x-data
+  url: https://oui.doleta.gov/unemploy/data_summary/DataSum.asp
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

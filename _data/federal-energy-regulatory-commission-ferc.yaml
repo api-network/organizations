@@ -1,0 +1,54 @@
+---
+name: Federal Energy Regulatory Commission (FERC)
+description: <p><span>The Federal Energy Regulatory Commission is the United States
+  federal agency that regulates the transmission and wholesale sale of electricity
+  and natural gas in interstate commerce and regulates the transportation of oil by
+  pipeline in interstate commerce.</span></p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/federal-energy-regulatory-commission-ferc.yaml
+tags:
+- Federal Government
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ferc.gov
+- type: x-data
+  url: https://www.ferc.gov/industries-data/resources/data-sources
+- type: x-facebook
+  url: https://www.facebook.com/CareersatFERC.gov?ref=hl
+- type: x-facebook
+  url: https://www.facebook.com/FERC.gov/
+- type: x-facebook
+  url: http://facebook.com/ferc.gov
+- type: x-flickr
+  url: https://www.flickr.com/photos/ferc-gov/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/ferc-career
+- type: x-linkedin
+  url: https://www.linkedin.com/company/federal-energy-regulatory-commission
+- type: x-twitter
+  url: https://twitter.com/WorkatFERC
+- type: x-twitter
+  url: https://twitter.com/TonyClarkFERC
+- type: x-twitter
+  url: https://twitter.com/CLaFleurFERC
+- type: x-twitter
+  url: https://twitter.com/NormanBayFERC
+- type: x-twitter
+  url: https://twitter.com/CHonorableFERC
+- type: x-twitter
+  url: http://twitter.com/ferc
+- type: x-youtube
+  url: https://www.youtube.com/c/FercGov-energy
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

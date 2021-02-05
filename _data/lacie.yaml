@@ -1,0 +1,38 @@
+---
+name: LaCie
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "95980"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lacie.yaml
+tags:
+- Storage
+apis: []
+x-common:
+- type: x-website
+  url: http://www.lacie.com
+- type: x-blog
+  url: http://blog.lacie.com
+- type: x-facebook
+  url: http://www.facebook.com/lacieworldwide
+- type: x-instagram
+  url: https://instagram.com/lacie_tech
+- type: x-instagram
+  url: https://instagram.com/lacie_tech/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/lacie
+- type: x-twitter
+  url: http://www.twitter.com/lacietech
+- type: x-website
+  url: https://www.lacie.com
+- type: x-youtube
+  url: http://www.youtube.com/lacietv
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

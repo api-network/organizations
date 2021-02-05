@@ -1,0 +1,60 @@
+---
+name: TalentSoft
+description: "Talentsoft puts employees\u2019 professional growth at the heart of
+  your company\u2019s HR processes with flexible cloud-based talent-management and
+  digital learning software."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "616381"
+url: https://raw.githubusercontent.com/api-network/organizations/main/talentsoft.yaml
+tags:
+- Third Party Solutions
+apis: []
+x-common:
+- type: x-website
+  url: https://www.talentsoft.com/
+- type: x-about
+  url: https://www.talentsoft.com/company/about-us/
+- type: x-careers
+  url: https://www.talentsoft.careers/en/
+- type: x-contact
+  url: https://www.talentsoft.com/company/contact-us/
+- type: x-customers
+  url: https://www.talentsoft.com/our-customers/
+- type: x-customers
+  url: https://www.talentsoft.com/our-customers/celio/
+- type: x-customers
+  url: https://www.talentsoft.com/our-customers/lacoste/
+- type: x-events
+  url: https://www.talentsoft.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/TalentsoftGroup/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/talentsoft
+- type: x-news
+  url: https://www.talentsoft.com/newsroom/
+- type: x-news
+  url: https://www.talentsoft.com/news/company/__trashed/
+- type: x-news
+  url: https://www.talentsoft.com/news/
+- type: x-press
+  url: https://www.talentsoft.com/news-press/
+- type: x-privacy
+  url: https://www.talentsoft.com/privacy-policy
+- type: x-support
+  url: http://help.talentsoft.com
+- type: x-terms-of-service
+  url: https://www.talentsoft.com/legal-en/
+- type: x-twitter
+  url: https://twitter.com/talentsoftgroup
+- type: x-website
+  url: https://www.talentsoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,27 @@
+---
+name: Fargocoin
+description: Fargocoin provides for everyone without huge hashing power get opportunity
+  to earn coins. Fargocoin is natural evolution of blockchain technology it use Proof-of-stake
+  is a method by which a cryptocurrency blockchain network aims to achieve it.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27619-fargocoin-org.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "416881"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fargocoin.yaml
+tags:
+- Networks
+- Blockchain
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/fargocoin
+- type: x-website
+  url: https://fargocoin.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

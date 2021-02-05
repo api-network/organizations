@@ -1,0 +1,22 @@
+---
+name: Chart Your Course International
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1137564"
+url: https://raw.githubusercontent.com/api-network/organizations/main/chart-your-course-international.yaml
+tags:
+- Testing And Evaluation
+apis: []
+x-common:
+- type: x-website
+  url: https://www.chartcourse.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

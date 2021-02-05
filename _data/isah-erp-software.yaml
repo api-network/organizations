@@ -1,0 +1,42 @@
+---
+name: Isah ERP Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3346050"
+url: https://raw.githubusercontent.com/api-network/organizations/main/isah-erp-software.yaml
+tags:
+- ERP
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.isah.com/
+- type: x-blog
+  url: https://blog.isah.com/tips
+- type: x-blog
+  url: https://blog.isah.com/kenniscentrum
+- type: x-blog
+  url: https://blog.isah.com/mens
+- type: x-blog
+  url: https://blog.isah.com/demo
+- type: x-contact
+  url: https://isah.com/contact/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/isah/
+- type: x-partner
+  url: https://isah.com/over-isah/partners/
+- type: x-privacy
+  url: https://isah.com/privacy-policy/
+- type: x-support
+  url: https://isah.com/services/product-support/
+- type: x-website
+  url: https://www.isah.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

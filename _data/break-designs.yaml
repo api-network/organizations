@@ -1,0 +1,40 @@
+---
+name: Break Designs
+description: Add ons for e-commerce solutions. Joomla! and Magento Extensions
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "591073"
+url: https://raw.githubusercontent.com/api-network/organizations/main/break-designs.yaml
+tags:
+- Virtuemart Search
+- Virtuemart
+- Transifex
+- Search
+- Product Search
+- Product Filters
+- Product Builder
+- Moving Text
+- Magento
+- Joomla
+- Filtering Filters
+- Faceted Navigation
+- Extensions And Templates
+- Custom Fields
+- Bundles
+apis: []
+x-common:
+- type: x-privacy
+  url: https://breakdesigns.net/privacy-policy
+- type: x-twitter
+  url: https://twitter.com/breakDesigns
+- type: x-website
+  url: https://breakdesigns.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

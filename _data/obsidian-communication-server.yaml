@@ -1,0 +1,30 @@
+---
+name: Obsidian Communication Server
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10842183"
+url: https://raw.githubusercontent.com/api-network/organizations/main/obsidian-communication-server.yaml
+tags:
+- Servers
+apis: []
+x-common:
+- type: x-website
+  url: http://www.obsidian.co.za
+- type: x-facebook
+  url: https://www.facebook.com/obsidianza/
+- type: x-instagram
+  url: https://www.instagram.com/obsidianza/
+- type: x-twitter
+  url: https://twitter.com/obsidianza
+- type: x-website
+  url: https://www.obsidian.co.za
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

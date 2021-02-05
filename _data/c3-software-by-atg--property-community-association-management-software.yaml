@@ -1,0 +1,38 @@
+---
+name: C3 Software by ATG - Property, Community, Association Management Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5191355"
+url: https://raw.githubusercontent.com/api-network/organizations/main/c3-software-by-atg--property-community-association-management-software.yaml
+tags:
+- Property Management
+apis: []
+x-common:
+- type: x-about
+  url: https://atgonline.com/about/
+- type: x-careers
+  url: https://atgonline.com/careers/
+- type: x-contact
+  url: https://atgonline.com/contact-us-today/
+- type: x-news
+  url: https://atgonline.com/news-and-events/
+- type: x-partner
+  url: https://atgonline.com/partners/
+- type: x-privacy
+  url: https://atgonline.com/privacy-policy/
+- type: x-support
+  url: https://atgonline.com/support/
+- type: x-terms-of-service
+  url: https://atgonline.com/terms-of-use/
+- type: x-website
+  url: https://www.atgonline.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

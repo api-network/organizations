@@ -1,0 +1,36 @@
+---
+name: ChoiceTrade
+description: Get the best online stock trading platform at ChoiceTrade. Offering cheapest
+  flat fee prices for option trading brokers. For more Visit our website!
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28336-www-choicetrade-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "288577"
+url: https://raw.githubusercontent.com/api-network/organizations/main/choicetrade.yaml
+tags:
+- Have API
+- Financial
+- API Service Provider
+- API Provider
+apis: []
+x-common:
+- type: x-about
+  url: https://www.linkedin.com/company/choice-trade/about/
+- type: x-documentation
+  url: https://www.theocc.com/components/docs/riskstoc.pdf
+- type: x-email
+  url: service@choicetrade.com
+- type: x-twitter
+  url: https://twitter.com/ChoiceTrade
+- type: x-twitter
+  url: https://twitter.com/Choicetrade/
+- type: x-website
+  url: http://www.choicetrade.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

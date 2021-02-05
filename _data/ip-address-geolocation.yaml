@@ -1,0 +1,22 @@
+---
+name: IP Address Geolocation
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1870739"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ip-address-geolocation.yaml
+tags:
+- Personalization
+apis: []
+x-common:
+- type: x-website
+  url: https://www.ip2country.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

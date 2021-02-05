@@ -1,0 +1,46 @@
+---
+name: SecuGen Corporation (USA)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "341113"
+url: https://raw.githubusercontent.com/api-network/organizations/main/secugen-corporation-usa.yaml
+tags:
+- Companies
+apis: []
+x-common:
+- type: x-website
+  url: http://www.secugen.com
+- type: x-about
+  url: https://secugen.com/about/
+- type: x-code
+  url: https://secugen.com/products/sdk/
+- type: x-code
+  url: https://secugen.com/products/sdk-plugin-for-citrix/
+- type: x-contact
+  url: https://secugen.com/contact/
+- type: x-login
+  url: https://secugen.com/support/how-to-login-to-windows/
+- type: x-login
+  url: http://secugen.com/support/how-to-login-to-windows/
+- type: x-press
+  url: https://secugen.com/press-releases/
+- type: x-support
+  url: https://secugen.com/support/
+- type: x-support
+  url: http://secugen.com/support/
+- type: x-support
+  url: http://secugen.com/support/frequently-asked-questions/
+- type: x-twitter
+  url: https://twitter.com/SecuGenCorp
+- type: x-website
+  url: https://www.secugen.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

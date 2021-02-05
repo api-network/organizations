@@ -1,0 +1,38 @@
+---
+name: HTML Basix
+description: Beginner's tutorial that teaches how to code html using notepad. Html
+  and javascript code generators including popup window generator, colored scrollbar
+  generator, mouseover links and images generator, disable hotlinking code generator,
+  marquee code generator, frames generator, table generator, email form generator,
+  mouse trails generator and many more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "605947"
+url: https://raw.githubusercontent.com/api-network/organizations/main/html-basix.yaml
+tags:
+- Rotating Banner Code
+- Learn Html
+- Javascript Banner Rotator
+- Javascript Banner Rotater
+- Javascript Banner Code
+- Html Tutorial
+- How To Build Websites
+- Beginners Html Tutorial
+- Beginners
+apis: []
+x-common:
+- type: x-code
+  url: http://www.codeflex.com.au
+- type: x-feed
+  url: http://feeds.feedburner.com/htmlbasix
+- type: x-website
+  url: https://www.htmlbasix.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

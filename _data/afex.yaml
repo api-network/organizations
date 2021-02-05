@@ -1,0 +1,57 @@
+---
+name: AFEX
+description: "AFEX is a trusted global payment and risk management solutions specialist
+  with a heritage that dates back to 1979. We offer a comprehensive range of global
+  payment and foreign exchange services, including Foreign Currency Drafts, Wire Transfers,
+  risk management tools and designated Account Executives. We can handle every aspect
+  of a client\u2019s foreign payment needs, from risk consultation to transaction
+  execution."
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "131959"
+url: https://raw.githubusercontent.com/api-network/organizations/main/afex.yaml
+tags:
+- Wire Transfers
+- Risk Management
+- Profile
+- Postman API Network
+- Payments
+- Online Payment
+- Have Swagger
+- Have API Paths
+- Currency
+apis: []
+x-common:
+- type: x-about
+  url: https://www.afex.com/unitedstates/about_us.php
+- type: x-careers
+  url: https://afexcareers.silkroad.com/
+- type: x-contact-form
+  url: https://www.afex.com/unitedstates/contact.php
+- type: x-developers
+  url: https://doc.api.afex.com/?version=latest
+- type: x-facebook
+  url: http://www.facebook.com/AFEX1979
+- type: x-linkedin
+  url: https://www.linkedin.com/company/associated-foreign-exchange
+- type: x-privacy-policy
+  url: https://www.afex.com/unitedstates/privacy_policy.php
+- type: x-twitter
+  url: https://twitter.com/_AFEX
+- type: x-twitter
+  url: http://twitter.com/_AFEX
+- type: x-website
+  url: http://www.afex.com
+- type: x-youtube
+  url: https://www.youtube.com/user/afexglobal
+- type: x-youtube
+  url: http://www.youtube.com/afexglobal
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

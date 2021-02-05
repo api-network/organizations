@@ -1,0 +1,29 @@
+---
+name: Mystic Coders
+description: Our team is a dedicated group of technologists and business-minded folks
+  who have a passion for solving business needs with tech-based solutions.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7175594"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mystic-coders.yaml
+tags:
+- Commercial Services
+apis: []
+x-common:
+- type: x-code
+  url: https://www.facebook.com/mysticcoders
+- type: x-code
+  url: https://www.linkedin.com/company/mystic-coders-llc
+- type: x-github
+  url: https://github.com/kinabalu
+- type: x-website
+  url: https://www.mysticcoders.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

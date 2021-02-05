@@ -1,0 +1,47 @@
+---
+name: LimeRoad.com
+description: Online shopping like never before! Get the latest trends ruling the charts
+  in India. With the most fashionable range of apparels, accessories, and more, Limeroad
+  will be your favourite of all online shopping sites.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29492-limeroad-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "6"
+x-alexaRank: "15242"
+url: https://raw.githubusercontent.com/api-network/organizations/main/limeroad-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.limeroad.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/limeroad
+- type: x-email
+  url: scrapbooks@limeroad.com
+- type: x-email
+  url: vendor@limeroad.com
+- type: x-email
+  url: business@limeroad.com
+- type: x-email
+  url: seller@limeroad.com
+- type: x-email
+  url: hr@limeroad.com
+- type: x-email
+  url: pr@limeroad.com
+- type: x-email
+  url: sales@limeroad.com
+- type: x-email
+  url: support@limeroad.com
+- type: x-email
+  url: lrlegal@limeroad.com
+- type: x-twitter
+  url: https://twitter.com/limeroadcom
+- type: x-website
+  url: http://limeroad.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

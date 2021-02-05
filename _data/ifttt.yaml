@@ -1,0 +1,29 @@
+---
+name: IFTTT
+description: If This Then That, also known as IFTTT, is a free web-based service to
+  create chains of simple conditional statements, called applets. An applet is triggered
+  by changes that occur within other web services such as Gmail, Facebook, Telegram,
+  Instagram, or Pinterest.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ifttt.yaml
+tags:
+- Profile
+- Integrations
+- Integration Landscape
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://blog.ifttt.com/post/138098979043/bmw-is-now-on-ifttt#_=_
+- type: x-website
+  url: http://blog.ifttt.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

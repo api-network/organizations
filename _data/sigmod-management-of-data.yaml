@@ -1,0 +1,30 @@
+---
+name: 'SIGMOD: Management of Data'
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2773564"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sigmod-management-of-data.yaml
+tags:
+- Database Theory
+apis: []
+x-common:
+- type: x-about
+  url: https://sigmod.org/about-sigmod/
+- type: x-facebook
+  url: https://www.facebook.com/sigmod
+- type: x-open-source
+  url: https://sigmod.org/pods-home/opentocs/
+- type: x-tutorials
+  url: https://sigmod.org/pods-home/pods-tutorials/
+- type: x-website
+  url: https://www.sigmod.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

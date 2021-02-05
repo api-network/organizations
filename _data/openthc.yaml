@@ -1,0 +1,59 @@
+---
+name: OpenTHC
+description: OpenTHC is a suite of time-saving tools that can be used by all parts
+  of the cannabis community. Growers, processors, labs, retailers, regulators and
+  software developers can benefit from open-source and licensed offerings from OpenTHC.
+image: https://openthc.com/img/logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/openthc.yaml
+tags:
+- Regulatory
+- Regulators
+- Profile
+- Labs
+- Have API Paths
+- Have API
+- Compliance
+- Cannabis
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-website
+  url: https://openthc.com/
+- type: x-blog
+  url: https://openthc.com/blog/
+- type: x-developers
+  url: https://openthc.com/api/
+- type: x-github
+  url: https://github.com/openthc
+- type: x-open-source
+  url: https://app.openthc.com/auth/open
+- type: x-open-source
+  url: https://directory.openthc.com
+- type: x-open-source
+  url: https://sdb.openthc.org
+- type: x-open-source
+  url: https://wiki.openthc.org
+- type: x-open-source
+  url: https://github.com/openthc
+- type: x-open-source
+  url: https://instagram.com/openthc
+- type: x-open-source
+  url: https://www.linkedin.com/company/openthc/
+- type: x-selfservice-registration
+  url: https://openthc.com/auth/open
+- type: x-twitter
+  url: https://twitter.com/openthc
+- type: x-website
+  url: http://openthc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

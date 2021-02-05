@@ -1,0 +1,37 @@
+---
+name: WhereScape Software, Ltd.
+description: "Organizations worldwide rely on WhereScape's data infrastructure automation
+  solutions to deliver business value from their decision support infrastructure.
+  WhereScape's data warehousing automation software speeds up data infrastructure
+  time to value to give business leaders the data they need\u2014now."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1402069"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wherescape-software-ltd-.yaml
+tags:
+- Data Warehouse Automation
+apis: []
+x-common:
+- type: x-website
+  url: http://www.wherescape.com
+- type: x-customers
+  url: https://www.wherescape.com/customers/helsana/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/wherescape/
+- type: x-self-service-registration
+  url: https://www1.wherescape.com/register/
+- type: x-terms-of-service
+  url: https://www.wherescape.com/terms-conditions/
+- type: x-twitter
+  url: https://twitter.com/wherescape
+- type: x-website
+  url: https://www.wherescape.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

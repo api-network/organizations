@@ -1,0 +1,42 @@
+---
+name: Cooper Interaction Design
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "396650"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cooper-interaction-design.yaml
+tags:
+- Companies And Consultants
+apis: []
+x-common:
+- type: x-website
+  url: https://www.cooper.com/
+- type: x-contact
+  url: https://www.cooper.com/contact
+- type: x-contact
+  url: https://www.cooper.com/contact/
+- type: x-contact
+  url: https://www.cooper.com/contact/#form
+- type: x-facebook
+  url: https://www.facebook.com/pages/Cooper/436493933848
+- type: x-instagram
+  url: https://www.instagram.com/designit/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/cooper
+- type: x-privacy
+  url: https://www.cooper.com/privacy/
+- type: x-twitter
+  url: https://twitter.com/cooper
+- type: x-website
+  url: https://www.cooper.com
+- type: x-youtube
+  url: https://www.youtube.com/user/DesignitTLV
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

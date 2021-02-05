@@ -1,0 +1,57 @@
+---
+name: 5app
+description: <p>5app is a mobile application software toolkit vendor which provides
+  an environment for the rapid application development of robust, real-time, enterprise-scale
+  mobile business applications with built-in workflow, geolocation reporting and full
+  data reliability.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/5app-logo.jpeg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/5app.yaml
+tags:
+- Profile
+- Postman Collections
+- No API Definition
+- Have API Paths
+- Have API
+- BaaS
+- API Not Found
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-about
+  url: https://www.5app.com/about-5app/
+- type: x-blog
+  url: http://5app.com/blog.html
+- type: x-careers
+  url: https://www.5app.com/jobs-at-5app/
+- type: x-contact
+  url: https://www.5app.com/contact-5app/
+- type: x-contact-form
+  url: https://www.5app.com/contact-5app/
+- type: x-documentation
+  url: https://docs.5app.com/guides/api
+- type: x-github
+  url: https://github.com/5app
+- type: x-linkedin
+  url: https://www.linkedin.com/company/2602978/
+- type: x-news
+  url: https://www.5app.com/digital_hub_blog_news/
+- type: x-privacy
+  url: http://5app.com5app-privacy-policy/
+- type: x-privacy
+  url: https://www.5app.com/home-digital-engagement-hub/5app-privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/5app
+- type: x-website
+  url: http://5app.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

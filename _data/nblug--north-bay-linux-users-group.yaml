@@ -1,0 +1,28 @@
+---
+name: NBLUG - North Bay Linux Users Group
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/nblug--north-bay-linux-users-group.yaml
+tags:
+- California
+apis: []
+x-common:
+- type: x-about
+  url: https://nblug.org/about/
+- type: x-feed
+  url: https://nblug.org/feeds/all.ics
+- type: x-open-source
+  url: http://opensource.org/
+- type: x-website
+  url: https://nblug.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

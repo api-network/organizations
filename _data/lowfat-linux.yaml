@@ -1,0 +1,30 @@
+---
+name: Lowfat Linux
+description: Linux Classes and Training.  Free Linux Lessons.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2975601"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lowfat-linux.yaml
+tags:
+- Unix
+- Linux Training
+- Linux Lessons
+- Linux Help
+- Linux Course
+- Linux
+- Classes
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-website
+  url: https://lowfatlinux.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

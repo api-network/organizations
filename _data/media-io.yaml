@@ -1,0 +1,64 @@
+---
+name: media.io
+description: "Online UniConverter (Media.io) \u2014 Free online tools with free video
+  converter & audio converter convert files online free, it can compress video/audio/image
+  files to save space, and edit videos easily."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10043"
+url: https://raw.githubusercontent.com/api-network/organizations/main/media-io.yaml
+tags:
+- Video Editor
+- Video Converter
+- Utilities
+- Image Converter
+- Free Video Converter
+- Free Video Compressor
+- Free Online File Conversion
+- Free Online Converter
+- Free File Conversion
+- Free Audio Converter
+- File Converter
+- Audio Converter
+- Audio Compressor
+apis: []
+x-common:
+- type: x-website
+  url: http://www.wondershare.com
+- type: x-blog
+  url: https://blog.media.io/
+- type: x-developer
+  url: https://www.media.io/developapi.html
+- type: x-facebook
+  url: https://www.facebook.com/wssharevideoconverter/
+- type: x-press
+  url: https://www.media.io/video-compressor.html
+- type: x-press
+  url: https://www.media.io/audio-compressor.html
+- type: x-press
+  url: https://www.media.io/image-compressor.html
+- type: x-press
+  url: https://www.media.io/mp3-compressor.html
+- type: x-press
+  url: https://www.media.io/compress-mp4.html
+- type: x-pricing
+  url: https://www.media.io/pricing.html
+- type: x-privacy
+  url: https://www.wondershare.com/privacy.html
+- type: x-support
+  url: http://support.wondershare.com/?fromid=72
+- type: x-twitter
+  url: https://twitter.com/wondershare
+- type: x-website
+  url: https://media.io
+- type: x-youtube
+  url: https://www.youtube.com/user/Wondershare
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

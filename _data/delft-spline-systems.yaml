@@ -1,0 +1,30 @@
+---
+name: Delft Spline Systems
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9254282"
+url: https://raw.githubusercontent.com/api-network/organizations/main/delft-spline-systems.yaml
+tags:
+- Computer Aided Manufacturing
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/DeskProto
+- type: x-instagram
+  url: https://www.instagram.com/Deskproto
+- type: x-website
+  url: https://www.spline.nl
+- type: x-youtube
+  url: https://www.youtube.com/user/LexLennings/videos
+- type: x-youtube
+  url: https://www.youtube.com/DeskProto/videos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

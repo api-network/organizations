@@ -1,0 +1,44 @@
+---
+name: Southern Illinois University at Edwardsville (SIUE)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "57111"
+url: https://raw.githubusercontent.com/api-network/organizations/main/southern-illinois-university-at-edwardsville-siue.yaml
+tags:
+- Illinois
+apis: []
+x-common:
+- type: x-about
+  url: http://www.siue.edu/about/
+- type: x-about
+  url: http://www.siue.edu/engineering/about/index.shtml
+- type: x-contact
+  url: http://www.siue.edu/contact/
+- type: x-facebook
+  url: https://www.facebook.com/siuedwardsville
+- type: x-instagram
+  url: http://instagram.com/siuedwardsville
+- type: x-news
+  url: http://www.siue.edu/news/
+- type: x-news
+  url: http://www.siue.edu/engineering/about/news/index.shtml
+- type: x-privacy
+  url: http://www.siue.edu/web-privacy-notice/
+- type: x-terms-of-service
+  url: http://www.siue.edu/misc/legal/
+- type: x-twitter
+  url: https://twitter.com/siue
+- type: x-website
+  url: https://www.cs.siue.edu
+- type: x-youtube
+  url: https://www.youtube.com/user/flashwebcenter
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

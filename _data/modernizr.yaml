@@ -1,0 +1,44 @@
+---
+name: Modernizr
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "125634"
+url: https://raw.githubusercontent.com/api-network/organizations/main/modernizr.yaml
+tags:
+- Scripts
+apis: []
+x-common:
+- type: x-website
+  url: http://doctyper.com
+- type: x-github
+  url: https://github.com/modernizr/modernizr/issues
+- type: x-github
+  url: https://github.com/modernizr/modernizr
+- type: x-twitter
+  url: https://twitter.com/modernizr
+- type: x-twitter
+  url: https://twitter.com/KuraFire
+- type: x-twitter
+  url: https://twitter.com/paul_irish
+- type: x-twitter
+  url: https://twitter.com/SlexAxton
+- type: x-twitter
+  url: https://twitter.com/ryanseddon
+- type: x-twitter
+  url: https://twitter.com/patrickkettner
+- type: x-twitter
+  url: https://twitter.com/stucoxmedia
+- type: x-twitter
+  url: https://twitter.com/doctyper
+- type: x-website
+  url: https://modernizr.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

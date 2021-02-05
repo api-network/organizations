@@ -1,0 +1,42 @@
+---
+name: M*Modal
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "950584"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mmodal.yaml
+tags:
+- Medical Transcription
+apis: []
+x-common:
+- type: x-careers
+  url: https://mmodal.com/careers/
+- type: x-contact
+  url: https://mmodal.com/contact/
+- type: x-events
+  url: https://mmodal.com/events/
+- type: x-gdpr
+  url: https://mmodal.com/gdpr/
+- type: x-login
+  url: https://mmodal.com/customer-login/
+- type: x-news
+  url: https://mmodal.com/news/
+- type: x-partner
+  url: https://mmodal.com/partnerships/
+- type: x-security
+  url: https://mmodal.com/privacy-security/
+- type: x-showcase
+  url: https://www.linkedin.com/showcase/3m-health-care/
+- type: x-terms-of-service
+  url: https://mmodal.com/terms-of-use/
+- type: x-website
+  url: https://mmodal.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

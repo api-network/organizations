@@ -1,0 +1,82 @@
+---
+name: San Diego .Net Developers Group
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/san-diego--net-developers-group.yaml
+tags:
+- User Groups
+apis: []
+x-common:
+- type: x-code
+  url: http://socalcodecamp.com/
+- type: x-developer
+  url: http://developer.sddotnetdg.wordpress.com
+- type: x-facebook
+  url: https://www.facebook.com/groups/38504411222/
+- type: x-press
+  url: https://sddotnetdg.wordpress.com/
+- type: x-press
+  url: https://sddotnetdg.wordpress.com/meeting-schedule/
+- type: x-press
+  url: https://sddotnetdg.wordpress.com/speakers/
+- type: x-press
+  url: https://sddotnetdg.wordpress.com/discounts/
+- type: x-press
+  url: https://sddotnetdg.wordpress.com/store/
+- type: x-press
+  url: https://sddotnetdg.wordpress.com/sponsors/
+- type: x-press
+  url: https://sddotnetdg.wordpress.com/about/
+- type: x-press
+  url: https://sddotnetdg.wordpress.com/feed/
+- type: x-press
+  url: https://sddotnetdg.wordpress.com/comments/feed/
+- type: x-press
+  url: https://sddotnetdg.wordpress.com/category/local-event/
+- type: x-press
+  url: https://sddotnetdg.wordpress.com/category/job-opening/
+- type: x-press
+  url: https://sddotnetdg.wordpress.com/category/history/
+- type: x-press
+  url: https://sddotnetdg.wordpress.com/category/news/
+- type: x-press
+  url: https://sddotnetdg.wordpress.com/author/davidmccarter/
+- type: x-press
+  url: https://sddotnetdg.wordpress.com/tag/jobs/
+- type: x-press
+  url: http://www.devexpress.com/
+- type: x-press
+  url: https://sddotnetdg.wordpress.com/tag/anniversary/
+- type: x-press
+  url: https://sddotnetdg.wordpress.com/author/dotnetpark/
+- type: x-press
+  url: https://sddotnetdg.wordpress.com/tag/monthly-meeting/
+- type: x-press
+  url: https://sddotnetdg.wordpress.com/tag/event/
+- type: x-press
+  url: https://sddotnetdg.wordpress.com/tag/contest/
+- type: x-press
+  url: https://sddotnetdg.wordpress.com/page/2/
+- type: x-press
+  url: https://wordpress.com/start?ref=wplogin
+- type: x-press
+  url: https://sddotnetdg.wordpress.com/wp-login.php
+- type: x-press
+  url: https://wordpress.com/
+- type: x-press
+  url: https://wordpress.com/?ref=footer_website
+- type: x-press
+  url: https://wordpress.com/?ref=footer_blog
+- type: x-website
+  url: https://sddotnetdg.wordpress.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

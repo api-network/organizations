@@ -1,0 +1,38 @@
+---
+name: 3DLogix
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/3dlogix.yaml
+tags:
+- PTC Pro Engineer
+apis: []
+x-common:
+- type: x-about
+  url: https://3dlogix.com/about-us/
+- type: x-blog
+  url: https://3dlogix.com/blog/
+- type: x-contact
+  url: https://3dlogix.com/contact-us/
+- type: x-login
+  url: http://3dlogix.com/membership-login/password-reset/
+- type: x-news
+  url: https://3dlogix.com/category/latest-news/
+- type: x-news
+  url: https://3dlogix.com/tag/news/
+- type: x-tutorials
+  url: https://3dlogix.com/tutorials/
+- type: x-tutorials
+  url: https://3dlogix.com/category/tutorials/
+- type: x-website
+  url: https://www.3dlogix.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

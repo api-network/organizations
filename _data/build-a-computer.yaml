@@ -1,0 +1,28 @@
+---
+name: BUILD A COMPUTER
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/build-a-computer.yaml
+tags:
+- Build Your Own PC
+apis: []
+x-common:
+- type: x-about
+  url: https://www.buildacomputer101.com/about-us.html
+- type: x-contact
+  url: https://www.buildacomputer101.com/contact-us.html
+- type: x-privacy
+  url: https://www.buildacomputer101.com/privacy-policy.html
+- type: x-website
+  url: https://www.buildacomputer101.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

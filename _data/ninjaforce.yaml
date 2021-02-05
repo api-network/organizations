@@ -1,0 +1,32 @@
+---
+name: Ninjaforce
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ninjaforce.yaml
+tags:
+- Apple II
+apis: []
+x-common:
+- type: x-website
+  url: https://www.ninjaforce.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=glWIf0gfWSE
+- type: x-youtube
+  url: http://www.youtube.com/watch?v=dyRR0ckb7sE
+- type: x-youtube
+  url: http://www.youtube.com/watch?v=E3uHip1Qr-4
+- type: x-youtube
+  url: http://www.youtube.com/watch?v=k82K_hmUHkA
+- type: x-youtube
+  url: http://www.youtube.com/user/BrianPicchi
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

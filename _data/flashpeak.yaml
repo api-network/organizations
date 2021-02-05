@@ -1,0 +1,28 @@
+---
+name: FlashPeak
+description: Best Internet Browser Software and other Internet utilities for FREE
+  download
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6785801"
+url: https://raw.githubusercontent.com/api-network/organizations/main/flashpeak.yaml
+tags:
+- Web Browser
+- Shareware
+- Internet Browser Software
+- Internet Browser
+- Free Internet Browser
+- Browser Download
+apis: []
+x-common:
+- type: x-website
+  url: https://www.flashpeak.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

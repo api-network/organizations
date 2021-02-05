@@ -1,0 +1,23 @@
+---
+name: Graphic Converter Software
+description: Graphic Converter for Mac and Windows, can converts image formats BMP,
+  JPG, GIF, ICO, PNG, TIF, TIFF, JPEG, WMF, EMF, PSP, PSD, PCM, SVG, RAW and more.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8895830"
+url: https://raw.githubusercontent.com/api-network/organizations/main/graphic-converter-software.yaml
+tags:
+- Converters
+apis: []
+x-common:
+- type: x-website
+  url: https://www.graphic-converter.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

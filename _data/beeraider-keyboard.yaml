@@ -1,0 +1,36 @@
+---
+name: BeeRaider Keyboard
+description: 'Our wireless ergonomic keyboards are designed to allow for faster typing,
+  They help to increase your productivity. They''re compact and can be operated by
+  1 or 2 hands. Applications include: general use, coding, one hand use and gaming.
+  May also prevent Repetitive Strain Injury (RSI). Big $$$ savings - check it out
+  now!'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10596022"
+url: https://raw.githubusercontent.com/api-network/organizations/main/beeraider-keyboard.yaml
+tags:
+- Keyboards
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.beeraider.com/contact/
+- type: x-news
+  url: https://www.beeraider.com/news/
+- type: x-privacy
+  url: http://www.beeraider.com/privacy-statement
+- type: x-support
+  url: https://www.beeraider.com/beeraider-support/
+- type: x-terms-of-service
+  url: http://www.beeraider.com/terms-conditions
+- type: x-website
+  url: https://www.beeraider.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

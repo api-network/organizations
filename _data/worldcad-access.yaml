@@ -1,0 +1,104 @@
+---
+name: WorldCAD Access
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "10366597"
+url: https://raw.githubusercontent.com/api-network/organizations/main/worldcad-access.yaml
+tags:
+- CAD Systems
+apis: []
+x-common:
+- type: x-website
+  url: http://www.kinresearch.nl
+- type: x-about
+  url: https://www.worldcadaccess.com/about.html
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/canon-s1is/
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/firefox-os/
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/free_cad_software/
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/internet/
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/jay-vleeschhouwer/
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/lg-x110/
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/linux-mac-cad/
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/media_andor_spin/
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/mobile-cad/
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/owen-wengerd/
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/palm/
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/patents/
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/reviews_of_books/
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/roopinder-tara/
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/software-reviews/
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/the_courts/
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/tips/
+- type: x-blog
+  url: https://worldcadaccess.typepad.com/blog/
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/
+- type: x-blog
+  url: https://worldcadaccess.typepad.com/blog/atom.xml
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/android-ios/
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/behind-the-story/
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/cloud/
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/google/
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/hardware/
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/cad_financials/
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/impractical/
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/mp3-players/
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/travelogues/
+- type: x-blog
+  url: https://worldcadaccess.typepad.com/blog/page/2/
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/atom.xml
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/archives.html
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/asus-eee/
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/book-reviews/
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/bricscad-tv/
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/cad_blogs/
+- type: x-blog
+  url: https://www.worldcadaccess.com/blog/cam/
+- type: x-twitter
+  url: https://twitter.com/PTuertscher
+- type: x-website
+  url: https://worldcadaccess.typepad.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=VBk8c1oHUcA
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

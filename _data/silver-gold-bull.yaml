@@ -1,0 +1,67 @@
+---
+name: Silver Gold Bull
+description: <p>Silver Gold Bull US is The United States' leading provider of premium
+  bullion investment services, specializing in high value gold, silver and precious
+  metal products.</p>
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "197100"
+url: https://raw.githubusercontent.com/api-network/organizations/main/silver-gold-bull.yaml
+tags:
+- Profile
+- Precious Metals
+- Have API Paths
+- Gold Bullion Bars
+- Coin Silver
+- Buy Coins
+- Bullion Silver Bars
+- Bullion Coins
+apis: []
+x-common:
+- type: x-about-us
+  url: https://silvergoldbull.com/about-us
+- type: x-blog
+  url: https://silvergoldbull.com/blog
+- type: x-bounty-bounty
+  url: https://silvergoldbull.com/bug-bounty
+- type: x-developer
+  url: https://silvergoldbull.com/api
+- type: x-about
+  url: https://silvergoldbull.com/about-us
+- type: x-contact
+  url: https://silvergoldbull.com/contacts
+- type: x-developer
+  url: https://silvergoldbull.com/api/
+- type: x-facebook
+  url: https://www.facebook.com/silvergoldbull
+- type: x-github
+  url: https://github.com/dboys/p6-WWW-SilverGoldBull
+- type: x-github
+  url: https://github.com/dboys/go-silvergoldbull-api
+- type: x-github
+  url: https://github.com/dboys/php-SilverGoldBull-API
+- type: x-linkedin
+  url: http://www.linkedin.com/company/silver-gold-bull-inc-
+- type: x-privacy
+  url: https://silvergoldbull.com/privacy
+- type: x-terms-of-service
+  url: https://silvergoldbull.com/terms-of-purchase
+- type: x-terms-of-service
+  url: https://silvergoldbull.com/terms-of-sale
+- type: x-twitter
+  url: https://twitter.com/silvergoldbull?lang=en
+- type: x-twitter
+  url: http://twitter.com/silvergoldbull
+- type: x-website
+  url: http://silvergoldbull.com
+- type: x-youtube
+  url: http://www.youtube.com/user/silvergoldbull
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

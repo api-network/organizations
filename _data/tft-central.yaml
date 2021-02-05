@@ -1,0 +1,57 @@
+---
+name: TFT Central
+description: TFT Central is your source for all the latest monitor news, reviews,
+  articles and information
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "115355"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tft-central.yaml
+tags:
+- Viewsonic
+- TFT
+- Samsung
+- Monitor Specs
+- Monitor Reviews
+- Monitor News
+- Monitor Guides
+- Monitor Advice
+- Monitor
+- Lg
+- LCD
+- Displays
+- Dell
+- Benq
+- Acer
+apis: []
+x-common:
+- type: x-website
+  url: http://www.tftcentral.co.uk
+- type: x-contact
+  url: http://www.tftcentral.co.uk/contact.htm
+- type: x-feed
+  url: http://www.tftcentral.co.uk/blog/feed/
+- type: x-feed
+  url: http://www.tftcentral.co.uk/rss/main_feed.xml
+- type: x-forum
+  url: http://www.tftcentral.co.uk/forum
+- type: x-news
+  url: https://www.tftcentral.co.uk/blog/news-archive/
+- type: x-news
+  url: http://www.tftcentral.co.uk/news.htm
+- type: x-privacy
+  url: http://www.tftcentral.co.uk/privacy.htm
+- type: x-twitter
+  url: http://twitter.com/#!/TFTCentral
+- type: x-twitter
+  url: https://twitter.com/TFTCentral
+- type: x-website
+  url: https://www.tftcentral.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

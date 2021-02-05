@@ -1,0 +1,44 @@
+---
+name: Regus USA
+description: Regus offer serviced office space, virtual offices, co-working spaces,
+  and meeting rooms in centers across the world. Get A Quote.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1271_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "20515"
+url: https://raw.githubusercontent.com/api-network/organizations/main/regus-usa.yaml
+tags:
+- Rooms
+- Office
+- Meetings
+- Meetings
+- Have API
+- Financial
+- Bookings
+- Bookings
+apis: []
+x-common:
+- type: x-website
+  url: http://developer.regus.com
+- type: x-blog
+  url: http://blog.regus.com/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/regus
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/regus
+- type: x-email
+  url: webmaster@regus.com
+- type: x-email
+  url: atwebmaster@regus.com
+- type: x-github
+  url: https://github.com/reguscloud
+- type: x-twitter
+  url: https://twitter.com/RegusUSA
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

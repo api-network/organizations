@@ -1,0 +1,35 @@
+---
+name: Picitup
+description: Picitup is a leading developer and provider of image recognition services,
+  and the first company to deliver a Software-as-a-Service (SaaS) color search.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1112_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8939795"
+url: https://raw.githubusercontent.com/api-network/organizations/main/picitup.yaml
+tags:
+- Photos
+- Photos
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.picitup.com
+- type: x-website
+  url: http://www2.picitup.com/picliq
+- type: x-blog-rss
+  url: http://www2.picitup.com/blog?format=feed&type=rss
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/picitup
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/picitup
+- type: x-twitter
+  url: https://twitter.com/#!/PicitupCorp
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

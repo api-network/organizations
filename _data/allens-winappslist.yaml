@@ -1,0 +1,39 @@
+---
+name: Allen's WinAppsList
+description: Download apps for Windows 85, 98, Me, 2000, XP, Vista, Windows 7, Windows
+  8, and Windows 10.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5439769"
+url: https://raw.githubusercontent.com/api-network/organizations/main/allens-winappslist.yaml
+tags:
+- Windows Xp Apps
+- Windows Vista Apps
+- Windows Store
+- Windows Software
+- Windows Me Apps
+- Windows List
+- Windows Apps
+- Windows Applicatins
+- Windows 98 Apps
+- Windows 95 Apps
+- Windows 8 Apps
+- Windows 8
+- Windows 7 Apps
+- Windows 10
+- Win List
+- Microsoft Windows
+- Directories
+apis: []
+x-common:
+- type: x-website
+  url: https://www.winappslist.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

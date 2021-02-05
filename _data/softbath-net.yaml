@@ -1,0 +1,26 @@
+---
+name: softbath.net
+description: "\u6B22\u8FCE\u70B9\u51FB\u4F53\u9A8C\u4E91\u9876\u5A31\u4E50www.bufuzao.com\uFF0C\u5927\u5BB6\u53EA\u8981\u6210\u4E3A\u4E91\u9876\u5A31\u4E50\u6E38\u620F\u4E00\u5458\u5C31\u53EF\u4EE5\u4EAB\u53D7\u5230\u5B8C\u7F8E\u7684\u670D\u52A1,\u4E91\u9876\u5A31\u4E50\u4F60\u53EF\u4EE5\u6311\u6218\u5355\u4EBA\u52A8\u4F5C\u526F\u672C\uFF0C\u81EA\u7531\u51FB\u6740\u72C2\u626B\u7FA4\u9B54,\u516C\u53F8\u4E3B\u8981\u4F9D\u9760\u5728\u7EBF\u5E7F\u544A\u3001\u6E38\u620F\u3001\u4E92\u8054\u7F51\u548C\u589E\u503C\u4E1A\u52A1\u521B\u6536\u3002"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/softbath-net.yaml
+tags:
+- "\u4E91\u9876\u5A31\u4E50\u6E38\u620F"
+- "\u4E91\u9876\u5A31\u4E50"
+- Developers
+apis: []
+x-common:
+- type: x-feed
+  url: https://www.softbath.net/feed
+- type: x-website
+  url: https://www.softbath.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,32 @@
+---
+name: Faithlife
+description: We use technology to equip the Church to grow in the light of the Bible.
+  Home of @logos, @lexhampress, @proclaimonline & more.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1868-faithlife.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "22989"
+url: https://raw.githubusercontent.com/api-network/organizations/main/faithlife.yaml
+tags:
+- Religion
+- Have API
+- Churches
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://faithlife.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/faithlife
+- type: x-twitter
+  url: https://twitter.com/Faithlife
+- type: x-website
+  url: https://developer.faithlife.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

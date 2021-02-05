@@ -1,0 +1,51 @@
+---
+name: ExamXML
+description: 'A7Soft offers XML tools: ExamXML is a visual XML comparison tool, JExamXML
+  is a java based XML diff tool, csv2xml and xml2csv are converting tools'
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2923926"
+url: https://raw.githubusercontent.com/api-network/organizations/main/examxml.yaml
+tags:
+- Xml2csv
+- XML
+- Visual
+- Tools
+- Tool
+- Normalization
+- Merge
+- Mdcxml
+- JExamXML
+- Java
+- File
+- ExamXML
+- Edit
+- Differences
+- Diff
+- Csv2xml
+- CSV
+- Convert
+- Conversion
+- Comparison
+- Compare
+- Changes
+- A7Soft
+apis: []
+x-common:
+- type: x-website
+  url: http://www.a7soft.com
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-twitter
+  url: https://twitter.com/A7Soft
+- type: x-website
+  url: https://www.a7soft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

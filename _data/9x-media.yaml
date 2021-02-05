@@ -1,0 +1,34 @@
+---
+name: 9X Media
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8903479"
+url: https://raw.githubusercontent.com/api-network/organizations/main/9x-media.yaml
+tags:
+- Multi-monitor
+apis: []
+x-common:
+- type: x-about
+  url: http://www.bluehost.com/cgi/info/about_us
+- type: x-contact
+  url: http://www.bluehost.com/cgi/info/contact_us
+- type: x-developer
+  url: http://developer.9xmedia.com
+- type: x-partner
+  url: http://www.bluehost.com/cgi-bin/partner
+- type: x-support
+  url: http://www.bluehost.com/cgi/help
+- type: x-terms-of-service
+  url: http://www.bluehost.com/cgi/terms
+- type: x-website
+  url: https://www.9xmedia.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

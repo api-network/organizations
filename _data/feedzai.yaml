@@ -1,0 +1,85 @@
+---
+name: Feedzai
+description: Feedzai is a data science company that detects fraud in omnichannel commerce.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28753-feedzai-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "104688"
+url: https://raw.githubusercontent.com/api-network/organizations/main/feedzai.yaml
+tags:
+- Have API
+- Fraud
+- Commerce
+- Artificial Intelligence
+apis: []
+x-common:
+- type: x-website
+  url: http://www.feedzai.com
+- type: x-blog
+  url: https://feedzai.com/blog/
+- type: x-code
+  url: https://feedzai.com/feedzai-code-book/
+- type: x-contact
+  url: https://feedzai.com/about-us/contact-us/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/feedzai
+- type: x-developers
+  url: https://feedzai.com/developers/api/
+- type: x-feed
+  url: https://feedzai.com/about-us/privacy/
+- type: x-feed
+  url: https://feedzai.com/
+- type: x-feed
+  url: https://feedzai.com/account-opening/
+- type: x-feed
+  url: https://feedzai.com/transaction-fraud/
+- type: x-feed
+  url: https://feedzai.com/anti-money-laundering/
+- type: x-feed
+  url: https://feedzai.com/resource-library/
+- type: x-feed
+  url: https://feedzai.com/blog/
+- type: x-feed
+  url: https://feedzai.com/about-us/
+- type: x-feed
+  url: https://feedzai.com/events/
+- type: x-feed
+  url: https://feedzai.com/frontiers/
+- type: x-feed
+  url: https://feedzai.com/about-us/careers/
+- type: x-feed
+  url: https://feedzai.com/feedzai-academy/
+- type: x-feed
+  url: https://feedzai.com/resources/wp/open-ml-demo/
+- type: x-feed
+  url: https://feedzai.com/resource-library/?orderby=Ebook
+- type: x-feed
+  url: https://feedzai.com/resource-library/?orderby=Webinar
+- type: x-feed
+  url: https://feedzai.com/resource-library/?orderby=Report
+- type: x-feed
+  url: https://feedzai.com/eu-co-funded-projects/
+- type: x-feed
+  url: https://www.linkedin.com/company/feedzai
+- type: x-feed
+  url: https://www.facebook.com/feedzai
+- type: x-github
+  url: https://github.com/feedzai
+- type: x-partner
+  url: https://feedzai.com/partners/
+- type: x-platform
+  url: https://feedzai.com/feedzai-platform/
+- type: x-press
+  url: https://feedzai.com/press/
+- type: x-twitter
+  url: https://twitter.com/feedzai
+- type: x-website
+  url: https://feedzai.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

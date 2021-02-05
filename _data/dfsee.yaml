@@ -1,0 +1,71 @@
+---
+name: DFSee
+description: "Homepage of the famous multiplatform disk tool DFSee,\r\nfor disk related
+  problems, fdisk, ptedit, backup, recovery, partition table repair,\r\nundelete,
+  resize, move, imaging, cloning and forensic analysis"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2347044"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dfsee.yaml
+tags:
+- Windows
+- Undelete
+- Table
+- Sort
+- Software
+- Resize
+- Repair
+- Reiser
+- Recover
+- Ptedit
+- Partition
+- Os2
+- NTFS
+- Move
+- Mbr
+- Macos
+- Lvm
+- Lost
+- Linux
+- Jfs
+- Jan Van Wijk
+- Image
+- Hpfs
+- Hfs
+- GPT
+- Forensic
+- Findpart
+- Filerecovery
+- Fdisk
+- Fat32
+- Fat
+- Ext4
+- Ext3
+- Ext2
+- Expand
+- Exfat
+- Ecs
+- DOS
+- Diskedit
+- Dfsee
+- Clone
+- Browse
+- Bootable
+- Badsector
+- Backup
+- ArcaOS
+- Apfs
+- Analysis
+apis: []
+x-common:
+- type: x-website
+  url: https://www.dfsee.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

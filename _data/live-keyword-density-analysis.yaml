@@ -1,0 +1,22 @@
+---
+name: Live Keyword Density Analysis
+description: A totally free tool to help you analyse your keyword density on the fly.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "330743"
+url: https://raw.githubusercontent.com/api-network/organizations/main/live-keyword-density-analysis.yaml
+tags:
+- Keywords
+apis: []
+x-common:
+- type: x-website
+  url: https://www.live-keyword-analysis.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

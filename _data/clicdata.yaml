@@ -1,0 +1,83 @@
+---
+name: ClicData
+description: All in one cloud platform including a Business dashboards creator, extensive
+  data manipulation tools & automatic data refresh & publication.Try it for free!
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28722-www-clicdata-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "252799"
+url: https://raw.githubusercontent.com/api-network/organizations/main/clicdata.yaml
+tags:
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.clicdata.com
+- type: x-blog
+  url: https://www.clicdata.com/blog/
+- type: x-connectors
+  url: https://www.clicdata.com/product/data/connectors/
+- type: x-connectors
+  url: https://www.clicdata.com/connectors/
+- type: x-contact
+  url: https://www.clicdata.com/company/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/clicdata
+- type: x-documentation
+  url: https://app.clicdata.com/help/apidocumentation/api-getting-started
+- type: x-email
+  url: sales@clicdata.com
+- type: x-email
+  url: support@clicdata.com
+- type: x-email
+  url: contact@clicdata.com
+- type: x-facebook
+  url: https://www.facebook.com/ClicDataBI
+- type: x-faq
+  url: https://app.clicdata.com/help/faq
+- type: x-getting-started
+  url: https://app.clicdata.com/help
+- type: x-linkedin
+  url: https://www.linkedin.com/company/clicdata/
+- type: x-login
+  url: https://app.clicdata.com/login
+- type: x-partner
+  url: https://www.clicdata.com/partners/affiliates/
+- type: x-partner
+  url: https://www.clicdata.com/partners/
+- type: x-pricing
+  url: https://www.clicdata.com/pricing/
+- type: x-privacy
+  url: https://www.clicdata.com/company/privacy-policy/
+- type: x-security
+  url: https://www.clicdata.com/company/security/
+- type: x-signup
+  url: https://app.clicdata.com/signup
+- type: x-status
+  url: https://www.clicdata.com/bi/status/
+- type: x-support
+  url: https://www.clicdata.com/support/
+- type: x-support
+  url: https://www.clicdata.com/support/self-service/
+- type: x-support
+  url: https://www.clicdata.com/support/self-service/api/
+- type: x-support
+  url: https://www.clicdata.com/support/full-service/
+- type: x-terms-of-service
+  url: https://www.clicdata.com/company/terms-of-service/
+- type: x-twitter
+  url: https://twitter.com/ClicData
+- type: x-webinars
+  url: https://www.clicdata.com/support/self-service/webinar/
+- type: x-website
+  url: https://www.clicdata.com
+- type: x-youtube
+  url: https://www.youtube.com/user/ClicData
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

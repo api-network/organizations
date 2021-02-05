@@ -1,0 +1,28 @@
+---
+name: Crypto++ SDK
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/crypto-sdk.yaml
+tags:
+- Software Protection
+apis: []
+x-common:
+- type: x-contact
+  url: http://www.sampson-multimedia.com/contactus.html
+- type: x-privacy
+  url: http://www.sampson-multimedia.com/privacy.html
+- type: x-support
+  url: http://www.sampson-multimedia.com/support/
+- type: x-website
+  url: https://www.sampson-multimedia.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

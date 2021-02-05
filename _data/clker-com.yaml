@@ -1,0 +1,41 @@
+---
+name: Clker.com
+description: Clker.com provides hundreds of thousands of free clip art & vector images
+  that you can download or embed anywhere at no cost. The best in free images.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "47912"
+url: https://raw.githubusercontent.com/api-network/organizations/main/clker-com.yaml
+tags:
+- Vector Clip Art
+- SVG
+- Stock Photos
+- Royalty Free Images
+- Royalty Free Graphic
+- Royalty Free Clip Art
+- Public Domain
+- PNG
+- OpenOffice.org
+- OpenOffice
+- Odg
+- Creative Commons
+- Clker
+- Clipart
+- Clip
+- Cartoon
+- Art
+apis: []
+x-common:
+- type: x-facebook
+  url: http://www.facebook.com/sharer.php?u=http://clker.com/
+- type: x-website
+  url: https://www.clker.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,57 @@
+---
+name: Crypto Compare
+description: We bring you all the latest streaming pricing data in the world of cryptocurrencies.
+  Whether you are just interested in the bitcoin price or you want to see the latest
+  ether volume, we have all the data available at your fingertips. Join the discussion...
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26468-www-cryptocompare-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "15674"
+url: https://raw.githubusercontent.com/api-network/organizations/main/crypto-compare.yaml
+tags:
+- Have API Paths
+- Have API
+- Blockchain
+- API Provider
+apis: []
+x-common:
+- type: x-github-topic
+  url: https://github.com/topics/cryptocompare
+- type: x-about
+  url: https://www.cryptocompare.com/about-us/#/meet-the-team
+- type: x-blog
+  url: https://blog.cryptocompare.com/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/crypto-coin-comparison-ltd
+- type: x-developer
+  url: https://min-api.cryptocompare.com/
+- type: x-developer
+  url: https://min-api.cryptocompare.com
+- type: x-developers
+  url: https://www.cryptocompare.com/api/
+- type: x-email
+  url: chayter@cryptocompare.com
+- type: x-email
+  url: vcealicu@cryptocompare.com
+- type: x-email
+  url: info@CryptoCompare.com
+- type: x-facebook
+  url: https://www.facebook.com/cryptocompare
+- type: x-status
+  url: https://status.cryptocompare.com/
+- type: x-twitter
+  url: https://twitter.com/CryptoCompare
+- type: x-webhooks
+  url: https://www.cryptocompare.com/api/#-api-web-socket-
+- type: x-website
+  url: https://www.cryptocompare.com
+- type: x-websockets
+  url: https://www.cryptocompare.com/api/#-api-web-socket-
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

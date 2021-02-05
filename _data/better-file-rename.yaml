@@ -1,0 +1,25 @@
+---
+name: Better File Rename
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "552137"
+url: https://raw.githubusercontent.com/api-network/organizations/main/better-file-rename.yaml
+tags:
+- Shareware
+- File Management
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.publicspace.net
+- type: x-website
+  url: https://www.publicspace.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

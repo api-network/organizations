@@ -1,0 +1,48 @@
+---
+name: Landport, Inc.
+description: Decrease system deficiencies and improve effective workflow with Landport's
+  easy-to-use work order management software. FREE demos available for the leading
+  Facility Management software today in the U.S., Canada, and Mexico. | 800-715-1446
+  | Landport Systems X1 Maintenance Management Software
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3285494"
+url: https://raw.githubusercontent.com/api-network/organizations/main/landport-inc-.yaml
+tags:
+- Work Order Management Softwore
+- Property Management Software
+- Property Management
+- Maintenance Management Software
+- Facility Management Software
+- CMMS Software
+apis: []
+x-common:
+- type: x-website
+  url: http://www.landport.net
+- type: x-about
+  url: https://www.landport.net/about-landport/
+- type: x-contact
+  url: https://www.landport.net/contact-us/
+- type: x-facebook
+  url: https://www.facebook.com/Landport.net
+- type: x-linkedin
+  url: https://www.linkedin.com/company/landport.net/
+- type: x-news
+  url: https://www.landport.net/landport-news/
+- type: x-privacy
+  url: https://www.landport.net/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/LandportSystems
+- type: x-website
+  url: https://www.landport.net
+- type: x-youtube
+  url: https://www.youtube.com/user/LandportSystems
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

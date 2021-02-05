@@ -1,0 +1,50 @@
+---
+name: EhrScape
+description: <p>Health app development shouldn't be harder than other verticals. EhrScape
+  is all about making awesome healthcare apps easy to build and integrate into your
+  environment. Healthcare computing that just works. EhrScape handles all the hard
+  bits, including detailed clinical models, semantic interoperability, vendor independent
+  data storage, health data query and more. Our mission is to empower you to build
+  amazing healthcare apps and services. Welcome aboard. We're just getting started
+  and we've got very big plans!</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/EHRScape-Logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1938229"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ehrscape.yaml
+tags:
+- Target
+- Relative Data
+- Healthcare
+- Healthcare
+- Have API Paths
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-contact-form
+  url: https://www.ehrscape.com/contact.html
+- type: x-developer
+  url: http://dev.ehrscape.com
+- type: x-faq
+  url: https://www.ehrscape.com/index.html
+- type: x-github
+  url: https://github.com/ehrscape
+- type: x-privacy
+  url: https://www.ehrscape.com/privacy.html
+- type: x-terms-of-service
+  url: https://www.ehrscape.com/terms.html
+- type: x-twitter
+  url: https://twitter.com/ehrscape
+- type: x-website
+  url: https://www.ehrscape.com
+- type: x-website
+  url: http://ehrscape.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

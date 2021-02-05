@@ -1,0 +1,25 @@
+---
+name: ICANN
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "14495"
+url: https://raw.githubusercontent.com/api-network/organizations/main/icann.yaml
+tags:
+- Standards
+- Internet Backbone
+- ICANN
+- Domain Names
+apis: []
+x-common:
+- type: x-website
+  url: https://www.icann.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

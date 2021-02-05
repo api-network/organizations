@@ -1,0 +1,36 @@
+---
+name: Vox Scripta
+description: Click or call Vox Scripta for the latest dictate software & voice recorder
+  from Dragon! Dragon NaturallySpeaking Voice Recognition Software anywhere in the
+  US!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "11245221"
+url: https://raw.githubusercontent.com/api-network/organizations/main/vox-scripta.yaml
+tags:
+- Resellers
+apis: []
+x-common:
+- type: x-contact
+  url: https://voxscripta.com/contact/
+- type: x-support
+  url: https://voxscripta.com/support/
+- type: x-support
+  url: https://voxscripta.com/dragon-help/
+- type: x-terms-of-service
+  url: https://voxscripta.com/dragon-legal-individual-15/
+- type: x-terms-of-service
+  url: https://voxscripta.com/legal-group/
+- type: x-terms-of-service
+  url: https://voxscripta.com/legal-3/
+- type: x-website
+  url: https://www.voxscripta.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

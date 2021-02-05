@@ -1,0 +1,45 @@
+---
+name: Home Network Architecture
+description: Connected Home is comprehensive sources of information on all home networking
+  topics. It provides easy how to a guide about Setting Home Network. Guide includes
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/home-network-architecture.yaml
+tags:
+- Wireless Router
+- Wireless Bridge
+- Wireless Access Point
+- Video And Pictures
+- Sharing Audio
+- Power Line Ethernet
+- Personal Webserver.
+- Media Streaming
+- IPhone
+- HTPC
+- Home Networking
+- Home Ethernet
+- Guide To Networking
+- Gigabit Ethernet
+- Dish DVR
+apis: []
+x-common:
+- type: x-feed
+  url: https://www.connectedhome.infopint.com/feed/
+- type: x-forum
+  url: http://home-networking-forum.infopint.com
+- type: x-login
+  url: https://www.connectedhome.infopint.com/wp-login.php
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-website
+  url: https://connectedhome.infopint.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

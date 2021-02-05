@@ -1,0 +1,54 @@
+---
+name: Brewery DB
+description: An open library of breweries and beers.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/bdbtext.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "911384"
+url: https://raw.githubusercontent.com/api-network/organizations/main/brewery-db.yaml
+tags:
+- Publishing
+- Profile
+- Pint
+- Micro Brewery
+- Library
+- Have Swagger
+- Have API Paths
+- Have API
+- Drinking
+- Drink
+- Craft Beer
+- Brewery
+- Breweries
+- Beer
+- Bars
+- API Provider
+- Alcohol
+apis: []
+x-common:
+- type: x-website
+  url: http://SteadyServ.com
+- type: x-base
+  url: http://www.brewerydb.com/api
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/brewerydb
+- type: x-developers
+  url: http://www.brewerydb.com/developers
+- type: x-developers
+  url: https://www.brewerydb.com/developers
+- type: x-facebook
+  url: http://facebook.com/steadyserv
+- type: x-twitter
+  url: https://twitter.com/brewerydb
+- type: x-twitter
+  url: http://twitter.com/steadyserv
+- type: x-website
+  url: http://www.brewerydb.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

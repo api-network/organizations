@@ -1,0 +1,50 @@
+---
+name: About Real Intent
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "227618"
+url: https://raw.githubusercontent.com/api-network/organizations/main/about-real-intent.yaml
+tags:
+- ASIC PLD FPGA Digital Logic Design
+apis: []
+x-common:
+- type: x-website
+  url: http://www.realintent.com
+- type: x-careers
+  url: https://www.realintent.com/careers/
+- type: x-case-studies
+  url: https://www.realintent.com/case-studies-testimonials/
+- type: x-contact
+  url: https://www.realintent.com/contact/
+- type: x-customers
+  url: https://www.realintent.com/customers/
+- type: x-events
+  url: https://www.realintent.com/events/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/real-intent/
+- type: x-news
+  url: https://www.realintent.com/in-the-news/
+- type: x-partner
+  url: https://www.realintent.com/partners/
+- type: x-press
+  url: https://www.realintent.com/press-releases/
+- type: x-support
+  url: https://www.realintent.com/support/
+- type: x-twitter
+  url: https://twitter.com/RealIntent
+- type: x-webinars
+  url: https://www.realintent.com/webinars/
+- type: x-website
+  url: https://www.realintent.com
+- type: x-youtube
+  url: https://www.youtube.com/user/RealIntentVideo
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

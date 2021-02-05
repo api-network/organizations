@@ -1,0 +1,71 @@
+---
+name: TechGear
+description: Your Online Community Website. Discuss the latest Technology News. Get
+  support and files related to your favorite IRC networks including ircWx. All for
+  FREE!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/techgear.yaml
+tags:
+- Tg007
+- Techgear007
+- Techgear
+- Spcn
+- Sparkpea
+- Scripts
+- Ozzy10
+- Networks
+- MSN
+- Mirc Scripts
+- Mirc Help
+- MIRC
+- Koach
+- Ircwx
+- IRCd
+- IRC
+- Free Downloads
+- Err0r
+- Chat Clone
+- Chat
+- Buzzen
+- Bots
+apis: []
+x-common:
+- type: x-website
+  url: http://www.tg007.net
+- type: x-about
+  url: https://www.tg007.net/about
+- type: x-contact
+  url: https://www.tg007.net/contact
+- type: x-developer
+  url: http://developer.tg007.net
+- type: x-facebook
+  url: https://www.facebook.com/TG007net
+- type: x-facebook
+  url: https://www.facebook.com/TG007net/
+- type: x-forum
+  url: https://www.tg007.net/forum/
+- type: x-forum
+  url: https://www.tg007.net/forum/index.php?/login/
+- type: x-forum
+  url: https://www.tg007.net/forum/index.php?/register/
+- type: x-news
+  url: https://www.tg007.net/news/page-1
+- type: x-partner
+  url: https://www.tg007.net/partners
+- type: x-privacy
+  url: https://www.tg007.net/privacy
+- type: x-twitter
+  url: https://twitter.com/tg007net
+- type: x-website
+  url: https://www.tg007.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

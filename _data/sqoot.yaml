@@ -1,0 +1,42 @@
+---
+name: Sqoot
+description: We power local deals in the things you use (web, mobile, desktop, etc).
+  We help developers make money & advertisers gain distribution.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/942_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sqoot.yaml
+tags:
+- Shopping
+- Local
+- Have API
+- Deals
+- Coupons
+- Aggregator
+apis: []
+x-common:
+- type: x-website
+  url: http://www.sqoot.com
+- type: x-blog
+  url: http://blog.sqoot.com
+- type: x-blog-rss
+  url: http://blog.sqoot.com/feed/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/sqoot
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/sqoot
+- type: x-github
+  url: https://github.com/sqoot
+- type: x-twitter
+  url: https://twitter.com/sqoot
+- type: x-website
+  url: https://www.sqoot.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

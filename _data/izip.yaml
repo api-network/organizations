@@ -1,0 +1,44 @@
+---
+name: IZip
+description: iZip is a free powerful archiving utility designed specifically for Mac.
+  Easily manage ZIP and RAR files directly from the OS X Finder. Open and securely
+  share ZIP, encrypted ZIP and RAR plus other compressed file formats.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "335682"
+url: https://raw.githubusercontent.com/api-network/organizations/main/izip.yaml
+tags:
+- Zip
+- UnZIP
+- Unrar
+- System
+- Shrink
+- Share
+- Rar
+- Password
+- Open
+- Mac
+- Expand
+- Encrypt
+- Decompress
+- Data Compression
+- Create
+- Compression
+- Archiver
+apis: []
+x-common:
+- type: x-code
+  url: http://www.codeius.com/
+- type: x-code
+  url: https://iboostup.com/app/com.codeius.izip
+- type: x-website
+  url: https://www.izip.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

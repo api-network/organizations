@@ -1,0 +1,48 @@
+---
+name: MIK AG
+description: "Seit 30 Jahre im BI Business und mit mehr als 20.000 User in allen Branchen
+  plus einer Einzigartigen 64-BIT OLAP Datenbank macht uns zu einem f\xFChrenden Anbieter
+  f\xFCr BI Systeme in Deutschland, \xD6sterreich und der Schweiz."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mik-ag.yaml
+tags:
+- OLAP
+apis: []
+x-common:
+- type: x-website
+  url: http://www.mik.de
+- type: x-careers
+  url: https://careers.unit4.com/
+- type: x-events
+  url: http://www.mik.de/events/
+- type: x-facebook
+  url: https://de-de.facebook.com/prevero/
+- type: x-linkedin
+  url: https://www.linkedin.com/in/prevero-de/?ppe=1
+- type: x-press
+  url: https://www.mik.de/impressum/
+- type: x-press
+  url: http://www.mik.de/impressum/
+- type: x-support
+  url: http://www.mik-support.de/
+- type: x-support
+  url: https://www.mik.de/support/
+- type: x-twitter
+  url: https://twitter.com/MIK_GmbH
+- type: x-twitter
+  url: https://twitter.com/mikgmbh
+- type: x-website
+  url: https://www.mik.de
+- type: x-youtube
+  url: https://www.youtube.com/user/prevero
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

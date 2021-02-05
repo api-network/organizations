@@ -1,0 +1,65 @@
+---
+name: Ruby Conferences
+description: A curated calendar of Ruby conferences worldwide, including speaking
+  opportunities and registration info.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2531635"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ruby-conferences.yaml
+tags:
+- Conferences
+apis: []
+x-common:
+- type: x-website
+  url: https://spbrubyconf.ru
+- type: x-facebook
+  url: https://www.facebook.com/rubywineruby/
+- type: x-twitter
+  url: https://twitter.com/bhmonrails
+- type: x-twitter
+  url: https://twitter.com/rubyfuza
+- type: x-twitter
+  url: https://twitter.com/parisrb
+- type: x-twitter
+  url: https://twitter.com/rubyconf_au
+- type: x-twitter
+  url: https://twitter.com/rubydayit
+- type: x-twitter
+  url: https://twitter.com/rubymeditation
+- type: x-twitter
+  url: https://twitter.com/rubykaigi
+- type: x-twitter
+  url: https://twitter.com/RubyConfBY
+- type: x-twitter
+  url: https://twitter.com/rubyconfindia
+- type: x-twitter
+  url: https://twitter.com/railsconf
+- type: x-twitter
+  url: https://twitter.com/balkanruby
+- type: x-twitter
+  url: https://twitter.com/saintpruby
+- type: x-twitter
+  url: https://twitter.com/brightonruby
+- type: x-twitter
+  url: https://twitter.com/euruko
+- type: x-twitter
+  url: https://twitter.com/railscamp_usa
+- type: x-twitter
+  url: https://twitter.com/rubyc_eu
+- type: x-twitter
+  url: https://twitter.com/rubyconfth
+- type: x-twitter
+  url: https://twitter.com/rubyconf
+- type: x-twitter
+  url: https://twitter.com/rubyconferences
+- type: x-website
+  url: https://rubyconferences.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

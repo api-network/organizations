@@ -1,0 +1,62 @@
+---
+name: Alliance Technology Partners
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1805032"
+url: https://raw.githubusercontent.com/api-network/organizations/main/alliance-technology-partners.yaml
+tags:
+- Used
+apis: []
+x-common:
+- type: x-about
+  url: http://www.alliancetechpartners.com/about-hp-renew
+- type: x-about
+  url: http://www.alliancetechpartners.com/about-us/
+- type: x-blog
+  url: http://www.alliancetechpartners.com/category/blog/
+- type: x-careers
+  url: https://www.alliancetechpartners.com/careers/
+- type: x-contact
+  url: https://www.alliancetechpartners.com/contact-us/
+- type: x-contact
+  url: http://www.alliancetechpartners.com/contact-us
+- type: x-contact
+  url: https://www.alliancetechpartners.com/contact-us
+- type: x-facebook
+  url: https://www.facebook.com/alliancetechpartners
+- type: x-privacy
+  url: https://www.alliancetechpartners.com/privacy-policy
+- type: x-security
+  url: https://www.alliancetechpartners.com/cybersecurity
+- type: x-security
+  url: https://www.alliancetechpartners.com/cybersecurity/
+- type: x-security
+  url: http://www.alliancetechpartners.com/cybersecurity/
+- type: x-security
+  url: https://www.alliancewebsecurity.com/
+- type: x-support
+  url: http://www.alliancetechpartners.com/get-support/
+- type: x-support
+  url: https://www.alliancetechpartners.com/get-support/
+- type: x-terms-of-service
+  url: http://www.alliancetechpartners.com/legal-it-services/
+- type: x-twitter
+  url: https://twitter.com/allianceit
+- type: x-twitter
+  url: http://twitter.com/search?q=%23nonprofit
+- type: x-twitter
+  url: http://twitter.com/search?q=%23dataprotection
+- type: x-twitter
+  url: http://twitter.com/search?q=%23manageditservices
+- type: x-website
+  url: https://www.alliancetechpartners.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

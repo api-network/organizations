@@ -1,0 +1,36 @@
+---
+name: Archive Type
+description: Archive Type specializes in old typefaces found in old prints, books
+  and samples.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4831197"
+url: https://raw.githubusercontent.com/api-network/organizations/main/archive-type.yaml
+tags:
+- Vintage Fonts
+- Retro Fonts
+- Old Fonts
+- Old Font
+- Old English Font
+- Foundries
+apis: []
+x-common:
+- type: x-facebook
+  url: http://www.facebook.com/wix
+- type: x-instagram
+  url: http://instagram.com/wix
+- type: x-terms-of-service
+  url: https://www.archivetype.com/terms-conditions
+- type: x-twitter
+  url: http://www.twitter.com/wix
+- type: x-website
+  url: https://www.archivetype.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

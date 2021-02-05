@@ -1,0 +1,41 @@
+---
+name: Motherboard
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "185"
+url: https://raw.githubusercontent.com/api-network/organizations/main/motherboard.yaml
+tags:
+- Profile
+- Blogs
+apis: []
+x-common:
+- type: x-website
+  url: http://www.vice.com/en_us/section/tech
+- type: x-blog-rss
+  url: https://motherboard.vice.com/rss?trk_source=motherboard
+- type: x-careers
+  url: https://company.vice.com/careers/
+- type: x-facebook
+  url: https://www.facebook.com/vice
+- type: x-facebook
+  url: https://www.facebook.com/motherboardtv
+- type: x-instagram
+  url: https://www.instagram.com/motherboardvice
+- type: x-news
+  url: https://news.vice.com/en_us
+- type: x-twitter
+  url: https://twitter.com/vice
+- type: x-twitter
+  url: https://twitter.com/motherboard
+- type: x-website
+  url: https://motherboard.vice.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

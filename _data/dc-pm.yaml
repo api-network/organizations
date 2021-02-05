@@ -1,0 +1,40 @@
+---
+name: DC.pm
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "400592"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dc-pm.yaml
+tags:
+- United States
+apis: []
+x-common:
+- type: x-careers
+  url: http://jobs.perl.org/
+- type: x-github
+  url: https://gist.github.com/awwaiid/8f6e8b96c579b2c0f9cc
+- type: x-github
+  url: https://github.com/plicease/dc.pm-async
+- type: x-github
+  url: https://github.com/jeturcotte/this-old-ruin
+- type: x-github
+  url: https://github.com/awwaiid/p6-Inline-Ruby
+- type: x-github
+  url: https://github.com/plicease/FFI-Platypus
+- type: x-github
+  url: https://github.com/nvie/gitflow
+- type: x-open-source
+  url: http://www.opensource.com/
+- type: x-security
+  url: http://opensecuritytraining.info/WebIdentity.html
+- type: x-website
+  url: https://dc.pm.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

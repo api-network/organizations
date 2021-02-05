@@ -1,0 +1,26 @@
+---
+name: Picture Ripper
+description: Home
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2385166"
+url: https://raw.githubusercontent.com/api-network/organizations/main/picture-ripper.yaml
+tags:
+- Picture Download Manager
+- Movie Downloader
+- Media Gallery Crawler
+- Image Downloader
+- Download Managers
+apis: []
+x-common:
+- type: x-website
+  url: https://pictureripper.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

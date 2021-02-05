@@ -1,0 +1,78 @@
+---
+name: Transifex
+description: Transifex is a proprietary, web-based translation platform; that is to
+  say, it is a globalization management system.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/transifex-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "38739"
+url: https://raw.githubusercontent.com/api-network/organizations/main/transifex.yaml
+tags:
+- Translations
+- Target
+- Project Hosting
+- Have API
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.transifex.com/blog
+- type: x-blog
+  url: https://www.transifex.com/blog/
+- type: x-blog-rss
+  url: https://www.transifex.com/feed/
+- type: x-case-studies
+  url: https://www.transifex.com/customers/casestudies/
+- type: x-contact
+  url: https://www.transifex.com/contact
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/transifex
+- type: x-developers
+  url: http://docs.transifex.com/developer/api/
+- type: x-documentation
+  url: http://docs.transifex.com/
+- type: x-documentation
+  url: http://docs.transifex.com
+- type: x-documentation
+  url: http://docs.transifex.com/api/
+- type: x-documentation
+  url: http://docs.transifex.com/client/
+- type: x-email
+  url: privacy@transifex.com
+- type: x-facebook
+  url: https://www.facebook.com/transifex
+- type: x-github
+  url: https://github.com/transifex
+- type: x-linkedin
+  url: https://www.linkedin.com/company/transifex
+- type: x-login
+  url: http://transifex.com/signin
+- type: x-pricing
+  url: https://www.transifex.com/pricing/
+- type: x-privacy
+  url: https://www.transifex.com/legal/privacy/
+- type: x-signup
+  url: http://transifex.com/signup
+- type: x-signup
+  url: https://www.transifex.com/signup/
+- type: x-status
+  url: http://status.transifex.com/
+- type: x-terms-of-service
+  url: https://www.transifex.com/legal/terms/
+- type: x-twitter
+  url: https://twitter.com/transifex
+- type: x-webhooks
+  url: https://docs.transifex.com/integrations/webhooks
+- type: x-website
+  url: https://www.transifex.com/
+- type: x-website
+  url: https://www.transifex.com
+- type: x-website
+  url: https://docs.transifex.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

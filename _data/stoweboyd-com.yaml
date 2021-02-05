@@ -1,0 +1,23 @@
+---
+name: stoweboyd.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/stoweboyd-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://www.stoweboyd.com/post/23726184976/big-data-and-data-inequality-research-is-just-the
+- type: x-website
+  url: http://stoweboyd.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

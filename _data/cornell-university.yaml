@@ -1,0 +1,127 @@
+---
+name: Cornell University
+description: <p>Cornell University has a pretty interesting eBird API. I do not see
+  much else of APIs out of the institution, but will be keeping an eye out.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/cornell-university-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "2285"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cornell-university.yaml
+tags:
+- University Science
+- Have Swagger
+- Have API Paths
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.human.cornell.edu
+- type: x-careers
+  url: https://hr.cornell.edu/jobs
+- type: x-developers
+  url: https://confluence.cornell.edu/display/CLOISAPI/Home
+- type: x-events
+  url: http://events.cornell.edu/event/instruction_begins
+- type: x-events
+  url: http://events.cornell.edu/
+- type: x-events
+  url: http://events.cornell.edu
+- type: x-facebook
+  url: https://www.facebook.com/Cornell
+- type: x-feed
+  url: https://feederwatch.org/learn/common-feeder-birds/
+- type: x-instagram
+  url: https://www.instagram.com/p/B6Bml4RJ3Qc/
+- type: x-instagram
+  url: http://instagram.com/cornelluniversity
+- type: x-curated-source
+  url: https://www.law.cornell.edu/cfr/text/45/164.502
+- type: x-website
+  url: http://law.cornell.edu
+- type: x-news
+  url: http://newstudentprograms.cornell.edu/Tatkon/
+- type: x-news
+  url: http://news.cornell.edu
+- type: x-news
+  url: http://news.cornell.edu/
+- type: x-news
+  url: http://news.cornell.edu/media-relations/work-with-us
+- type: x-news
+  url: https://www.ilr.cornell.edu/news/batt-uncovers-culprit
+- type: x-support
+  url: https://gradschool.cornell.edu/financial-support/
+- type: x-twitter
+  url: http://www.twitter.com/Cornell
+- type: x-twitter
+  url: http://www.twitter.com/CornellRsrch
+- type: x-twitter
+  url: http://www.twitter.com/AtkinsonCenter
+- type: x-twitter
+  url: http://www.twitter.com/JohnTobinBridge
+- type: x-twitter
+  url: http://www.twitter.com/CornellAlumni
+- type: x-twitter
+  url: http://www.twitter.com/CornellBirds
+- type: x-twitter
+  url: http://www.twitter.com/CornellCHE
+- type: x-twitter
+  url: http://www.twitter.com/RDunifon
+- type: x-twitter
+  url: http://www.twitter.com/CornellEng
+- type: x-twitter
+  url: http://www.twitter.com/CornellGrad
+- type: x-twitter
+  url: http://www.twitter.com/CornellLaw
+- type: x-twitter
+  url: http://www.twitter.com/CornellinDC
+- type: x-twitter
+  url: http://www.twitter.com/HouseSmallBiz
+- type: x-twitter
+  url: http://www.twitter.com/CornellMBA
+- type: x-twitter
+  url: http://www.twitter.com/andreakippolito
+- type: x-twitter
+  url: http://www.twitter.com/search?q=%23Accounting&src=hash
+- type: x-twitter
+  url: http://www.twitter.com/CornellSHA
+- type: x-twitter
+  url: http://www.twitter.com/p_davacey
+- type: x-twitter
+  url: http://www.twitter.com/SpencerRubin
+- type: x-twitter
+  url: http://www.twitter.com/meltshop
+- type: x-twitter
+  url: http://www.twitter.com/CornellUAO
+- type: x-twitter
+  url: http://www.twitter.com/CornellGlobal
+- type: x-twitter
+  url: http://www.twitter.com/WeillCornell
+- type: x-twitter
+  url: http://www.twitter.com/cornell_tech
+- type: x-twitter
+  url: http://www.twitter.com/GMorrisett
+- type: x-twitter
+  url: http://www.twitter.com/search?q=%23WiTNY&src=hash
+- type: x-twitter
+  url: http://www.twitter.com/cornellaap
+- type: x-twitter
+  url: http://www.twitter.com/cornellilr
+- type: x-twitter
+  url: http://www.twitter.com/LHadlock
+- type: x-twitter
+  url: http://www.twitter.com/cornellvet
+- type: x-twitter
+  url: https://twitter.com/Cornell
+- type: x-website
+  url: http://www.cornell.edu/
+- type: x-youtube
+  url: http://www.youtube.com/cornelluniversity/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

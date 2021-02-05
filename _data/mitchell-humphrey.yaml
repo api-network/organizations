@@ -1,0 +1,48 @@
+---
+name: Mitchell Humphrey
+description: Mitchell Humphrey & Co. is a customized software provider specialized
+  in governments and other organizations. Streamline operations & support growth today.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mitchell-humphrey.yaml
+tags:
+- Fixed Assets
+- Business Applications
+apis: []
+x-common:
+- type: x-about
+  url: https://www.mitchellhumphrey.com/about-us/
+- type: x-careers
+  url: https://www.mitchellhumphrey.com/careers/
+- type: x-case-studies
+  url: https://www.mitchellhumphrey.com/case-studies/
+- type: x-case-studies
+  url: http://www.mitchellhumphrey.com/case-studies
+- type: x-contact
+  url: https://www.mitchellhumphrey.com/contact-us/
+- type: x-news
+  url: https://www.mitchellhumphrey.com/news/
+- type: x-privacy
+  url: https://www.mitchellhumphrey.com/privacy-policy-2/
+- type: x-support
+  url: https://www.mitchellhumphrey.com/support/
+- type: x-support
+  url: https://www.mitchellhumphrey.com/support/training/
+- type: x-support
+  url: http://www.mitchellhumphrey.com/support/
+- type: x-support
+  url: http://www.mitchellhumphrey.com/support/training/
+- type: x-terms-of-service
+  url: https://www.mitchellhumphrey.com/legal-notices/
+- type: x-website
+  url: https://www.mitchellhumphrey.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

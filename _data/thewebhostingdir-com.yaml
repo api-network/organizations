@@ -1,0 +1,59 @@
+---
+name: TheWebHostingDir.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "214436"
+url: https://raw.githubusercontent.com/api-network/organizations/main/thewebhostingdir-com.yaml
+tags:
+- Twhdir.com
+- Twhdir
+- Thewebhostingdir.com
+- Directories
+apis: []
+x-common:
+- type: x-website
+  url: https://www.thewebhostingdir.com/
+- type: x-about
+  url: https://www.thewebhostingdir.com/aboutUs
+- type: x-blog
+  url: https://www.thewebhostingdir.com/blog
+- type: x-facebook
+  url: https://www.facebook.com/thewebhostingdir/
+- type: x-forum
+  url: https://forums.thewebhostingdir.com/
+- type: x-login
+  url: https://www.thewebhostingdir.com/loginWithFacebook
+- type: x-login
+  url: https://www.thewebhostingdir.com/loginWithGoogle
+- type: x-login
+  url: https://www.thewebhostingdir.com/loginWithLinkedin
+- type: x-login
+  url: https://www.thewebhostingdir.com/login/identify
+- type: x-plans
+  url: https://www.thewebhostingdir.com/vps-hosting-plans
+- type: x-plans
+  url: https://www.thewebhostingdir.com/q/vps-hosting-plans
+- type: x-press
+  url: https://www.thewebhostingdir.com/wordpress-hosting
+- type: x-press
+  url: https://www.thewebhostingdir.com/q/wordpress-hosting
+- type: x-press
+  url: https://www.monkeyhost.co.uk/#wordpress
+- type: x-terms-of-service
+  url: https://www.thewebhostingdir.com/terms
+- type: x-twitter
+  url: https://twitter.com/twhdir
+- type: x-website
+  url: https://www.thewebhostingdir.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=vZaDy-icJ2o
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

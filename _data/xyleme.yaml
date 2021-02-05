@@ -1,0 +1,47 @@
+---
+name: Xyleme
+description: Optimize your employee learning and development strategies with Xyleme
+  - the learning content management system made for modern corporate learners.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "850853"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xyleme.yaml
+tags:
+- XML
+apis: []
+x-common:
+- type: x-website
+  url: http://www.xyleme.com
+- type: x-about
+  url: https://www.xyleme.com/about/
+- type: x-about
+  url: https://www.xyleme.com/about#management
+- type: x-blog
+  url: https://www.xyleme.com/blog/
+- type: x-careers
+  url: https://www.xyleme.com/careers/
+- type: x-contact
+  url: https://www.xyleme.com/contact-us/
+- type: x-events
+  url: https://www.xyleme.com/events/
+- type: x-facebook
+  url: http://www.facebook.com/pages/Xyleme/113225491850
+- type: x-linkedin
+  url: http://www.linkedin.com/company/xyleme-inc-
+- type: x-press
+  url: https://www.xyleme.com/press/
+- type: x-pricing
+  url: https://www.xyleme.com/pricing/
+- type: x-twitter
+  url: http://twitter.com/XylemeLearning
+- type: x-website
+  url: https://www.xyleme.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

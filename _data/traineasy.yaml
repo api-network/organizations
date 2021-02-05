@@ -1,0 +1,53 @@
+---
+name: Traineasy
+description: e-learning learning management system LMS for online learning including
+  training compliance, appraisals, custom content, bespoke courses, authoring tools,
+  lectora, articulate storyline, NHS
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "550753"
+url: https://raw.githubusercontent.com/api-network/organizations/main/traineasy.yaml
+tags:
+- Training Compliance
+- Scorm
+- Revalidation
+- Online Learning
+- Nhs
+- LMS
+- Lectora
+- Learning Management System
+- E-Learning
+- Delivery And Management Systems
+- Custom Content
+- Bespoke Courses
+- Articulate Storyline
+- Appraisals
+apis: []
+x-common:
+- type: x-about
+  url: https://traineasy.com/about/
+- type: x-about
+  url: https://traineasy.com/about/quality-awards/
+- type: x-about
+  url: https://traineasy.com/about/recruitment/
+- type: x-about
+  url: https://traineasy.com/about/envirometnal/
+- type: x-contact
+  url: https://traineasy.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/Traineasy/
+- type: x-privacy
+  url: http://www.traineasy.com/privacy-policy-2/
+- type: x-twitter
+  url: https://twitter.com/Traineasy
+- type: x-website
+  url: https://www.traineasy.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

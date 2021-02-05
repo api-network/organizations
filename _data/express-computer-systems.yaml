@@ -1,0 +1,28 @@
+---
+name: Express Computer Systems
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2207137"
+url: https://raw.githubusercontent.com/api-network/organizations/main/express-computer-systems.yaml
+tags:
+- Used
+apis: []
+x-common:
+- type: x-press
+  url: https://www.expresscomputersystems.com/325-c-325.html
+- type: x-press
+  url: http://linkedin.com/company/express-computer-systems
+- type: x-twitter
+  url: http://twitter.com/ECS_Storage
+- type: x-website
+  url: https://www.expresscomputersystems.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,63 @@
+---
+name: X-Cart
+description: Ecommerce website software without monthly fees. Sell more online with
+  our scalable, PHP shopping cart platform. Download for free, customize & launch!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "44591"
+url: https://raw.githubusercontent.com/api-network/organizations/main/xcart.yaml
+tags:
+- Shopping Carts
+apis: []
+x-common:
+- type: x-about
+  url: https://www.x-cart.com/about.html
+- type: x-blog
+  url: https://www.x-cart.com/blog
+- type: x-blog
+  url: https://www.x-cart.com/blog/start-online-store/
+- type: x-contact
+  url: https://www.x-cart.com/contact-us.html
+- type: x-contact
+  url: https://www.x-cart.com/contact-us.html#verify
+- type: x-facebook
+  url: https://www.facebook.com/xcart
+- type: x-forum
+  url: https://forum.x-cart.com
+- type: x-instagram
+  url: https://www.instagram.com/xcart/
+- type: x-login
+  url: https://www.x-cart.com/create-online-store.html#login
+- type: x-login
+  url: https://bt.x-cart.com/login_page.php
+- type: x-partner
+  url: https://www.x-cart.com/partner.html
+- type: x-partner
+  url: https://www.x-cart.com/partners
+- type: x-platform
+  url: https://www.x-cart.com/ecommerce-platform.html
+- type: x-platform
+  url: https://www.x-cart.com/compare-xcart-platforms.html
+- type: x-press
+  url: https://www.x-cart.com/wordpress-ecommerce.html
+- type: x-pricing
+  url: https://www.x-cart.com/software-pricing.html
+- type: x-support
+  url: https://www.x-cart.com/ecommerce-support.html
+- type: x-support
+  url: https://www.x-cart.com/help.html
+- type: x-terms-of-service
+  url: https://www.x-cart.com/terms-of-service.html
+- type: x-twitter
+  url: https://www.twitter.com/x_cart
+- type: x-website
+  url: https://www.x-cart.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

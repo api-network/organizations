@@ -1,0 +1,25 @@
+---
+name: LaserSave, Inc.
+description: LaserSave, Inc. is a national supplier of top quality computer supplies.
+  We offer new and compatible supplies for laser printers, fax machines, copiers,
+  inkjets and ribbon machines. Our Service Division offers technical support, certified
+  service and maintenance for your office machines.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6188104"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lasersave-inc-.yaml
+tags:
+- Laser Toner
+apis: []
+x-common:
+- type: x-website
+  url: https://www.lasersaveinc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

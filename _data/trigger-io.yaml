@@ -1,0 +1,56 @@
+---
+name: Trigger.io
+description: 'It''s the simplest way for web developers to create amazing mobile apps
+  using the best of HTML5 and native. Check out what our customers have built:  https://trigger.io/examples'
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1673_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2076236"
+url: https://raw.githubusercontent.com/api-network/organizations/main/trigger-io.yaml
+tags:
+- Telecommunications
+- Profile
+- Have API
+- Android
+apis: []
+x-common:
+- type: x-website
+  url: https://trigger.io
+- type: x-blog
+  url: http://trigger.io/cross-platform-application-development-blog/
+- type: x-blog-rss
+  url: http://trigger.io/cross-platform-application-development-blog/feed/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/trigger-io
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/trigger-io
+- type: x-developer
+  url: http://developer.trigger.io
+- type: x-documentation
+  url: http://docs.trigger.io
+- type: x-documentation
+  url: http://current-docs.trigger.io/tools/hooks.html
+- type: x-email
+  url: support@trigger.io
+- type: x-email
+  url: privacy@trigger.io
+- type: x-email
+  url: corporate@trigger.io
+- type: x-email
+  url: joe-bloggs@trigger.io
+- type: x-twitter
+  url: https://twitter.com/zvikico
+- type: x-twitter
+  url: http://twitter.com/triggercorp
+- type: x-twitter
+  url: https://twitter.com/triggercorp
+- type: x-website
+  url: https://trigger.io/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

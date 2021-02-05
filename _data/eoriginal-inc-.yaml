@@ -1,0 +1,57 @@
+---
+name: eOriginal, Inc.
+description: eOriginal powers the digital management of financial assets, managing
+  authenticity of original documents, the signatories and the integrity of the content.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "652628"
+url: https://raw.githubusercontent.com/api-network/organizations/main/eoriginal-inc-.yaml
+tags:
+- Tools And Services
+apis: []
+x-common:
+- type: x-about
+  url: https://www.eoriginal.com/about-us/
+- type: x-careers
+  url: https://www.eoriginal.com/about-us/careers/
+- type: x-case-studies
+  url: https://www.eoriginal.com/learn/case-studies/
+- type: x-events
+  url: https://www.eoriginal.com/events/
+- type: x-facebook
+  url: http://www.facebook.com/pages/eOriginal/58932553996/
+- type: x-investor
+  url: https://www.eoriginal.com/industries/investors/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/57606
+- type: x-marketplace
+  url: https://www.eoriginal.com/marketplace-lending/
+- type: x-news
+  url: https://www.eoriginal.com/connect/news-center/
+- type: x-news
+  url: https://www.eoriginal.com/connect/newsletters/
+- type: x-privacy
+  url: https://www.eoriginal.com/privacy-policy/
+- type: x-security
+  url: https://www.eoriginal.com/security-alarm/
+- type: x-terms-of-service
+  url: https://www.eoriginal.com/terms-conditions/
+- type: x-twitter
+  url: https://twitter.com/eOriginal/
+- type: x-webinars
+  url: https://www.eoriginal.com/learn/webinars/
+- type: x-website
+  url: https://www.eoriginal.com
+- type: x-white-papers
+  url: https://www.eoriginal.com/learn/white-papers/
+- type: x-youtube
+  url: http://www.youtube.com/eoriginalcentral
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,57 @@
+---
+name: Computeruser.com - online security, network security, forums, small businesses
+  technology, software reviews
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2226071"
+url: https://raw.githubusercontent.com/api-network/organizations/main/computeruser-com--online-security-network-security-forums-small-businesses-technology-software-reviews.yaml
+tags:
+- Magazines
+apis: []
+x-common:
+- type: x-website
+  url: http://www.computeruser.com
+- type: x-about
+  url: https://www.computeruser.com/about-us/
+- type: x-blog
+  url: https://www.computeruser.com/category/blogs-2/
+- type: x-careers
+  url: https://www.computeruser.com/careers/
+- type: x-code
+  url: https://www.plusvouchercode.co.uk/
+- type: x-contact
+  url: https://www.computeruser.com/contact-us/
+- type: x-events
+  url: https://www.computeruser.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/ComputerUser
+- type: x-feed
+  url: https://www.computeruser.com/feed
+- type: x-login
+  url: https://www.computeruser.com/login/
+- type: x-press
+  url: https://www.computeruser.com/pressreleases/index.html
+- type: x-press
+  url: https://www.computeruser.com/submit-pressrelease/
+- type: x-privacy
+  url: https://www.computeruser.com/privacy/
+- type: x-terms-of-service
+  url: https://www.computeruser.com/legal/
+- type: x-tutorials
+  url: https://www.computeruser.com/category/s3-tutorials/
+- type: x-twitter
+  url: https://twitter.com/computeruser
+- type: x-website
+  url: https://computeruser.com
+- type: x-white-papers
+  url: https://www.computeruser.com/whitepapers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

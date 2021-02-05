@@ -1,0 +1,39 @@
+---
+name: SafeDK
+description: SafeDK lets mobile app publishers build much better and safer apps through
+  analyzing, monitoring and optimizing 3rd party SDKs in their app. SafeDK provides
+  the first and only end-to-end SDKs management platform, which includes the following
+  solutions:...
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/safedk-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "625632"
+url: https://raw.githubusercontent.com/api-network/organizations/main/safedk.yaml
+tags:
+- TempSave
+- Networks
+- Have API
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.safedk.com/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/safedk
+- type: x-facebook
+  url: https://www.facebook.com/applovin/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/4863891?trk=tyah&
+- type: x-twitter
+  url: https://twitter.com/applovin/
+- type: x-twitter
+  url: https://twitter.com/GetSafeDK
+- type: x-website
+  url: http://www.safedk.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,84 @@
+---
+name: Customer.io
+description: With Customer.io, send targeted emails, push notifications, and SMS to
+  lower churn, create stronger relationships, and drive subscriptions.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28981-customer-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "22081"
+url: https://raw.githubusercontent.com/api-network/organizations/main/customer-io.yaml
+tags:
+- Profile
+- Messages
+- Has API
+- Emails
+- Campaigns
+- Broadcast
+apis: []
+x-common:
+- type: x-website
+  url: http://customer.io
+- type: x-about
+  url: https://customer.io/about/
+- type: x-authentication
+  url: https://customer.io/docs/api/
+- type: x-blog
+  url: https://customer.io/blog/
+- type: x-careers
+  url: https://customer.io/careers/
+- type: x-contact
+  url: https://customer.io/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/customer-io
+- type: x-customers
+  url: https://customer.io/customers/
+- type: x-documentation
+  url: https://customer.io/docs/
+- type: x-documentation
+  url: https://customer.io/docs/api/
+- type: x-email
+  url: badactor@customer.io
+- type: x-email
+  url: blacklists@customer.io
+- type: x-email
+  url: privacy@customer.io
+- type: x-email
+  url: win@customer.io
+- type: x-email
+  url: legal@customer.io
+- type: x-email
+  url: press@customer.io
+- type: x-facebook
+  url: https://www.facebook.com/customer.io/
+- type: x-getting-started
+  url: https://customer.io/docs/getting-started-overview
+- type: x-getting-started
+  url: https://customer.io/docs/api/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/customer-io/
+- type: x-login
+  url: https://fly.customer.io/users/login/
+- type: x-login
+  url: https://fly.customer.io/login
+- type: x-partner
+  url: https://customer.io/partners/
+- type: x-pricing
+  url: https://customer.io/pricing/
+- type: x-signup
+  url: https://fly.customer.io/signup
+- type: x-status
+  url: https://status.customerio.com/
+- type: x-support
+  url: https://fly.customer.io/?support=true
+- type: x-twitter
+  url: https://twitter.com/CustomerIO
+- type: x-website
+  url: https://customer.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

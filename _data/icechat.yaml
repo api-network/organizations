@@ -1,0 +1,33 @@
+---
+name: IceChat
+description: IceChat is a fully featured, simple to use IRC Client allowing you to
+  chat online with your friends and for meeting new people as well.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8711696"
+url: https://raw.githubusercontent.com/api-network/organizations/main/icechat.yaml
+tags:
+- MIRC
+- Irc Client
+- IRC
+- Icechat
+- Chat
+apis: []
+x-common:
+- type: x-facebook
+  url: https://facebook.com/Icechat
+- type: x-forum
+  url: http://www.icechat.net/forums/index.php?topic=1104.0
+- type: x-github
+  url: https://github.com/icechat/IceChat
+- type: x-website
+  url: https://www.icechat.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

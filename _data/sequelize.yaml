@@ -1,0 +1,21 @@
+---
+name: Sequelize
+description: <p><span>Sequelize is a promise-based ORM for Node.js and io.js. It supports
+  the dialects PostgreSQL, MySQL,&nbsp;</span><span>MariaDB, SQLite and MSSQL and
+  features solid transaction support, relations, read replication and&nbsp;</span><span>more.</span></p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/sequelize-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: ""
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sequelize.yaml
+tags: []
+apis: []
+x-common: []
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

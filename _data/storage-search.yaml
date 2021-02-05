@@ -1,0 +1,70 @@
+---
+name: Storage Search
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4208522"
+url: https://raw.githubusercontent.com/api-network/organizations/main/storage-search.yaml
+tags:
+- Technical Information
+apis: []
+x-common:
+- type: x-linkedin
+  url: http://uk.linkedin.com/pub/zsolt-kerekes/5/624/32b
+- type: x-news
+  url: http://www.storagesearch.com/news2017-dec1.html
+- type: x-news
+  url: http://www.storagesearch.com/storagenewsarchive.html
+- type: x-news
+  url: http://www.storagesearch.com/news2011-dec.html
+- type: x-news
+  url: http://www.storagesearch.com/news2012-dec1.html
+- type: x-news
+  url: http://www.storagesearch.com/news2013-dec.html
+- type: x-news
+  url: http://www.storagesearch.com/news2014-dec1.html
+- type: x-news
+  url: http://www.storagesearch.com/news2015-dec1.html
+- type: x-news
+  url: http://www.storagesearch.com/news2018-jan1.html
+- type: x-news
+  url: http://www.STORAGEsearch.com/news2018-feb1.html
+- type: x-news
+  url: http://www.storagesearch.com/news2018-march1.html
+- type: x-news
+  url: http://www.storagesearch.com/news2018-april1.html
+- type: x-news
+  url: http://www.storagesearch.com/news2018-may1.html
+- type: x-news
+  url: http://www.storagesearch.com/news2018-june1.html
+- type: x-news
+  url: http://www.storagesearch.com/news2018-july1.html
+- type: x-news
+  url: http://www.storagesearch.com/news2018-aug1.html
+- type: x-news
+  url: http://www.storagesearch.com/news2018-sep1.html
+- type: x-news
+  url: http://www.storagesearch.com/news2018-oct1.html
+- type: x-news
+  url: http://www.STORAGEsearch.com/news2018-nov1.html
+- type: x-news
+  url: http://www.STORAGEsearch.com/news2018-dec1.html
+- type: x-news
+  url: http://www.storagesearch.com/news2007-sep4.html
+- type: x-news
+  url: http://www.storagesearch.com/news2017-nov1.html
+- type: x-pricing
+  url: http://www.storagesearch.com/ssd-pricing.html
+- type: x-security
+  url: http://www.storagesearch.com/security.html
+- type: x-website
+  url: https://www.storagesearch.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

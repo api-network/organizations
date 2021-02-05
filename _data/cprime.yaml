@@ -1,0 +1,55 @@
+---
+name: cPrime
+description: Our solutions bridge the gap between process and technology, and focus
+  on the teams who carry them out. Our Agile training and coaching address the fragmented
+  way Agile and DevOps initiatives are implemented. Focusing on unifying teams and
+  processes, we deliver an integrated approach that supports the software goals of
+  any organization. We call this Software Services Lifecycle Management (SSLM).
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29283-cprime-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "210911"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cprime.yaml
+tags:
+- Profile
+- Has API
+- Devops
+- Agile
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cprime.com/
+- type: x-about
+  url: https://www.cprime.com/about/
+- type: x-authentication
+  url: https://www.cprime.com/about/
+- type: x-blog
+  url: https://www.cprime.com/resources/blog/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/cprime
+- type: x-events
+  url: https://www.cprime.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/cprimeinc
+- type: x-getting-started
+  url: http://www2.cprime.com/l/19052/2017-10-13/bmqvhz
+- type: x-linkedin
+  url: https://www.linkedin.com/company/cprime-inc
+- type: x-twitter
+  url: https://twitter.com/cPrimeInc
+- type: x-webinars
+  url: https://www.cprime.com/resource/webinars/
+- type: x-website
+  url: http://cprime.com
+- type: x-white-papers
+  url: https://www.cprime.com/resource/white-papers/
+- type: x-youtube
+  url: http://www.youtube.com/cprimeprojectmgmt
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

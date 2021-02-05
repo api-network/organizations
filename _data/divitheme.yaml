@@ -1,0 +1,39 @@
+---
+name: divitheme
+description: Divi Theme News, Tips, Tricks & Help. Useful Tutorials and Blog about
+  Divi Theme and Elegant Themes, Updated Regularly. Written by a Divi Enthusiast.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "202606"
+url: https://raw.githubusercontent.com/api-network/organizations/main/divitheme.yaml
+tags:
+- News And Media
+apis: []
+x-common:
+- type: x-website
+  url: https://divitheme.net/
+- type: x-about
+  url: https://divitheme.net/about/
+- type: x-blog
+  url: https://divitheme.net/blog/
+- type: x-blog
+  url: https://fb.me/divithemeblog
+- type: x-contact
+  url: https://divitheme.net/contact/
+- type: x-feed
+  url: https://divitheme.net/feed/
+- type: x-support
+  url: https://divitheme.net/helpful-tools-web-designers/
+- type: x-twitter
+  url: https://twitter.com/DiviBlog
+- type: x-website
+  url: https://divitheme.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

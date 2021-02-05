@@ -1,0 +1,33 @@
+---
+name: AccuTech Systems Corporation
+description: To provide innovative wealth management solutions through market-leading
+  software and exceptional service.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1252919"
+url: https://raw.githubusercontent.com/api-network/organizations/main/accutech-systems-corporation.yaml
+tags:
+- Financial
+apis: []
+x-common:
+- type: x-website
+  url: http://www.trustASC.com
+- type: x-developer
+  url: http://developer.trustasc.com
+- type: x-facebook
+  url: http://www.facebook.com/trustASC
+- type: x-linkedin
+  url: http://www.linkedin.com/company/98132?trk=tyah
+- type: x-twitter
+  url: https://twitter.com/TrustASC
+- type: x-website
+  url: https://www.trustasc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

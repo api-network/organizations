@@ -1,0 +1,79 @@
+---
+name: Avaza
+description: <p>Avaza is a beautiful online software suite with modules for Project
+  Management, Timesheets, Expenses &amp; Invoicing. Access from anywhere, with any
+  device. Avaza is the leading all-in-one software for running client focused businesses.
+  Avaza allows businesses of all sizes to more easily and effectively manage team
+  projects, time tracking, expense reporting, quoting &amp; invoicing. It can be accessed
+  simply via a web browser from anywhere in the world on any device.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28373-avaza.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "711"
+x-alexaRank: "56776"
+url: https://raw.githubusercontent.com/api-network/organizations/main/avaza.yaml
+tags:
+- Projects
+- Profile
+- Invoices
+- Have Swagger
+- Have API Paths
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: https://www.avaza.com
+- type: x-blog
+  url: https://www.avaza.com/blog/
+- type: x-contact
+  url: https://www.avaza.com/contact
+- type: x-contact-form
+  url: https://www.avaza.com/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/avaza-software
+- type: x-developer
+  url: https://api.avaza.com
+- type: x-documentation
+  url: https://api.avaza.com/swagger/ui/index
+- type: x-email
+  url: support@avaza.com
+- type: x-facebook
+  url: https://www.facebook.com/AvazaHQ
+- type: x-github
+  url: https://github.com/avaza
+- type: x-linkedin
+  url: https://www.linkedin.com/company/avaza
+- type: x-login
+  url: https://any.avaza.com/account/login
+- type: x-pricing
+  url: https://www.avaza.com/pricing
+- type: x-pricing
+  url: https://www.avaza.com/pricing/
+- type: x-privacy
+  url: https://www.avaza.com/privacy-policy/
+- type: x-security
+  url: https://www.avaza.com/security
+- type: x-signup
+  url: https://signup.avaza.com
+- type: x-signup
+  url: https://signup.avaza.com/
+- type: x-support
+  url: https://support.avaza.com/
+- type: x-support
+  url: http://support.avaza.com
+- type: x-terms-of-service
+  url: https://www.avaza.com/terms-conditions-use/
+- type: x-twitter
+  url: https://www.twitter.com/AvazaHQ
+- type: x-twitter
+  url: https://twitter.com/AvazaHQ
+- type: x-website
+  url: http://avaza.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

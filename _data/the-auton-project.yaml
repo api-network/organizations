@@ -1,0 +1,24 @@
+---
+name: The Auton Project
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2248592"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-auton-project.yaml
+tags:
+- Research Groups
+apis: []
+x-common:
+- type: x-linkedin
+  url: https://www.linkedin.com/company/cmu-auton-lab
+- type: x-website
+  url: https://www.autonlab.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,53 @@
+---
+name: Federal Reserve Bank of St. Louis
+description: '<p>The Federal Reserve Bank of St. Louis is one of 12 regional Reserve
+  Banks that, along with the Board of Governors in Washington, D.C., make up the United
+  States'' central bank. Missouri is the only state to have two Federal Reserve Banks
+  (Kansas City also has a bank). Located in downtown St. Louis, the St. Louis Fed
+  is the headquarters of the Eighth Federal Reserve District, which includes the state
+  of Arkansas and portions of Illinois, Indiana, Kentucky, Mississippi, the eastern
+  half of Missouri and West Tennessee. It has branches in Little Rock, Louisville
+  and Memphis. The recently renovated building, at 411 Locust Street, was designed
+  by St. Louis firm Mauran, Russell &amp; Crowell in 1924. The Eighth District serves
+  as a center for local, national and global economic research, and provides the following
+  services: supervisory and regulatory services to state-member banks and bank holding
+  companies; cash and coin-handling for the District and beyond; economic education;
+  and community development resources.</p>'
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Federal_Reserve_Bank_of_St._Louis_building.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "17418"
+url: https://raw.githubusercontent.com/api-network/organizations/main/federal-reserve-bank-of-st--louis.yaml
+tags:
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-about
+  url: https://research.stlouisfed.org/about.html
+- type: x-blog
+  url: http://fredblog.stlouisfed.org/
+- type: x-developers
+  url: http://api.stlouisfed.org/
+- type: x-facebook
+  url: https://www.facebook.com/stlfed
+- type: x-instagram
+  url: https://www.instagram.com/stlouisfed/
+- type: x-news
+  url: https://www.stlouisfed.org/central-banker-newsletter
+- type: x-twitter
+  url: https://twitter.com/stlouisfed
+- type: x-website
+  url: http://stlouisfed.org
+- type: x-wikipedia
+  url: http://en.wikipedia.org/wiki/Federal_Reserve_Bank_of_St._Louis
+- type: x-youtube
+  url: http://www.youtube.com/user/StLouisFed
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

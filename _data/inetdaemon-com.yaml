@@ -1,0 +1,65 @@
+---
+name: InetDaemon.Com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "385207"
+url: https://raw.githubusercontent.com/api-network/organizations/main/inetdaemon-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-about
+  url: https://www.inetdaemon.com/about/
+- type: x-blog
+  url: http://blog.caida.org/
+- type: x-blog
+  url: http://dhs-daily-report.blogspot.com/
+- type: x-blog
+  url: http://www.securelist.com/en/weblog
+- type: x-blog
+  url: http://www.cerias.purdue.edu/site/blog/author/spaf
+- type: x-documentation
+  url: http://docs.oracle.com/cd/B10501_01/index.htm
+- type: x-facebook
+  url: http://facebook.com/profile.php?id=1205026865
+- type: x-feed
+  url: https://www.inetdaemon.com/feed/
+- type: x-feed
+  url: https://www.inetdaemon.com/comments/feed/
+- type: x-login
+  url: https://www.inetdaemon.com/convergence/wp-login.php
+- type: x-news
+  url: http://store.steampowered.com/news/12151/
+- type: x-press
+  url: https://www.inetdaemon.com/category/wordpress/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-security
+  url: http://www.cisecurity.org/
+- type: x-security
+  url: http://www.krebsonsecurity.com
+- type: x-security
+  url: http://labs.m86security.com/
+- type: x-self-service-registration
+  url: http://www.theregister.co.uk
+- type: x-tutorials
+  url: https://www.inetdaemon.com/all-tutorials/
+- type: x-tutorials
+  url: http://www.inetdaemon.com/tutorials/internet
+- type: x-tutorials
+  url: http://www.inetdaemon.com/tutorials/telecom/
+- type: x-tutorials
+  url: http://www.inetdaemon.com/tutorials
+- type: x-tutorials
+  url: http://www.inetdaemon.com/tutorials/www
+- type: x-website
+  url: https://www.inetdaemon.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

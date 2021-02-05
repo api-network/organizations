@@ -1,0 +1,77 @@
+---
+name: Azuqua
+description: Azuqua helps people integrate their applications and automate their business
+  critical processes without code or specialized skills.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28322-bizible.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "109519"
+url: https://raw.githubusercontent.com/api-network/organizations/main/azuqua.yaml
+tags:
+- IPaaS
+- Integrations
+- Have API
+- Automation
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.azuqua.com
+- type: x-blog
+  url: https://www.bizible.com/blog
+- type: x-blog
+  url: https://theblog.adobe.com/
+- type: x-careers
+  url: https://www.bizible.com/jobs
+- type: x-careers
+  url: https://www.adobe.com/careers.html
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/bizible
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/azuqua
+- type: x-developer
+  url: http://dev.bizible.com
+- type: x-email
+  url: support@bizible.com
+- type: x-email
+  url: 20security@bizible.com
+- type: x-email
+  url: security@bizible.com
+- type: x-email
+  url: sales@azuqua.com
+- type: x-email
+  url: support@azuqua.com
+- type: x-email
+  url: privacy@azuqua.com
+- type: x-email
+  url: security@azuqua.com
+- type: x-facebook
+  url: https://www.facebook.com/bizible
+- type: x-gdpr
+  url: https://www.bizible.com/gdpr
+- type: x-linkedin
+  url: https://www.linkedin.com/company/bizible
+- type: x-pricing
+  url: https://info.bizible.com/pricing
+- type: x-support
+  url: http://support.bizible.com/
+- type: x-support
+  url: http://support.bizible.com
+- type: x-terms-of-service
+  url: https://documents.marketo.com/legal/privacy/
+- type: x-twitter
+  url: https://twitter.com/bizible
+- type: x-twitter
+  url: https://twitter.com/azuqua
+- type: x-website
+  url: http://bizible.com
+- type: x-website
+  url: http://azuqua.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

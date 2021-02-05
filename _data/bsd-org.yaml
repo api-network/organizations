@@ -1,0 +1,125 @@
+---
+name: BSD.org
+description: the main bsd.org web page
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3179096"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bsd-org.yaml
+tags:
+- Xen
+- X86-64
+- X68k
+- Walnut
+- Vax
+- Unix
+- Ultrix
+- Ultrasparc
+- Tutorials
+- Svr4
+- Support
+- Sunos
+- Sun3x
+- Sun3
+- Sun2
+- Sparc64
+- SPARC
+- Solaris
+- Software
+- Shark
+- Sh5
+- Sh3
+- Sgimips
+- SCO
+- Sbmips
+- Sandpoint
+- Release
+- Prep
+- PowerPC
+- Ports
+- Pmppc
+- Pmax
+- Pica
+- PDP-11
+- PDP
+- Pc532
+- Osf/1
+- Opteron
+- OpenDarwin
+- OpenBSD
+- Open Source
+- Ofppc
+- Next68k
+- Newsmips
+- News68k
+- News
+- Netwinder
+- Netra
+- NetBSD
+- Mvmeppc
+- Mvme68k
+- Mmeye
+- Mipsco
+- MIPS
+- Macppc
+- Mac68k
+- M68k
+- Luna68k
+- Linux
+- Iyonix
+- IPv6
+- IBCS2
+- I386
+- Hppa
+- Hpcsh
+- Hpcmips
+- Hpcarm
+- Hp700
+- Hp300
+- HP-UX
+- Homepage
+- Handbook
+- FreeBSD
+- FAQ
+- Evbsh5
+- Evbsh3
+- Evbppc
+- Evbmips
+- Evbarm
+- Embedded
+- Darwin
+- CVSup
+- CVS
+- Commercial Vendors
+- Cobalt
+- Cesfic
+- Cats
+- Bugs
+- BSD
+- Bebox
+- Atari
+- Arm32
+- Arm26
+- ARC
+- Application
+- Amigappc
+- Amiga
+- Amd64
+- Alpha
+- Algorithmics
+apis: []
+x-common:
+- type: x-open-source
+  url: http://www.openbsd.org
+- type: x-open-source
+  url: http://www.opendarwin.org
+- type: x-website
+  url: https://www.bsd.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,60 @@
+---
+name: ED
+description: Programmers editor, ED for Windows, ED4W, IDE, text editor, C++, Progress,
+  Java, Matlab, Fortran, PL/SQL, VHDL
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ed.yaml
+tags:
+- Visual C++
+- VHDL
+- Verilog
+- Text Editor
+- SQL
+- Software Development
+- Soft As It Gets
+- Slickedit
+- Progress
+- Programming Tools
+- Programming
+- Programmers Editor
+- Programmer's Editor
+- Programmer
+- PL/SQL
+- PHP
+- Perl
+- Multi-edit
+- Matlab
+- Java
+- IDE
+- Fortran
+- Forth
+- Editors
+- Editor
+- Ed4w
+- Ed For Windows
+- Development Tools
+- Delphi
+- Compiler
+- Column Selection
+- Codewright
+- Cobol
+- Clipper
+- C++
+- C
+- Brief
+- Assembler
+apis: []
+x-common:
+- type: x-website
+  url: https://www.getsoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

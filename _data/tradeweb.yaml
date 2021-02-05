@@ -1,0 +1,45 @@
+---
+name: Tradeweb
+description: Tradeweb is a leading global provider of online markets for fixed income
+  & derivatives and ETFs. Follow for news about Tradeweb, our markets & the industry
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28309-www-tradeweb-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "571952"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tradeweb.yaml
+tags:
+- Marketplaces
+- Has API
+- Financial
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/tradeweb
+- type: x-email
+  url: help@tradeweb.com
+- type: x-email
+  url: dealersupport@tradeweb.com
+- type: x-email
+  url: contactus@tradeweb.com
+- type: x-email
+  url: regulatoryaffairs@tradeweb.com
+- type: x-email
+  url: europe.clientservices@tradeweb.com
+- type: x-email
+  url: contact.asia@tradeweb.com
+- type: x-email
+  url: prospectsales@tradeweb.com
+- type: x-email
+  url: TWDClientSupport@tradeweb.com
+- type: x-twitter
+  url: https://twitter.com/Tradeweb
+- type: x-website
+  url: http://www.tradeweb.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

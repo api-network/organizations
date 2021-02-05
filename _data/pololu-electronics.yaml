@@ -1,0 +1,39 @@
+---
+name: Pololu Electronics
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "58496"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pololu-electronics.yaml
+tags:
+- Tamiya Parts
+- Servo Controller
+- Robotics
+- Robot Tires
+- Robot Sensors
+- Robot Parts
+- Robot Kits
+- Robot Gearboxes
+- Robot Electronics
+- Robot Chassis
+- Pololu
+- Motor Controller
+- Kits
+- Ir Beacon
+- Elenco Kits
+- Ball Casters
+apis: []
+x-common:
+- type: x-forum
+  url: https://forum.pololu.com/
+- type: x-website
+  url: https://www.pololu.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

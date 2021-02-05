@@ -1,0 +1,56 @@
+---
+name: PressHarbor
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pressharbor.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-press
+  url: https://manage.pressharbor.com/cart.php?a=view
+- type: x-press
+  url: https://www.pressharbor.com/
+- type: x-press
+  url: https://www.pressharbor.com/about/
+- type: x-press
+  url: http://www.pressharbor.com/category/news/
+- type: x-press
+  url: http://www.pressharbor.com/category/tutorials/
+- type: x-press
+  url: http://www.pressharbor.com/category/faq/
+- type: x-press
+  url: https://www.pressharbor.com/plans/
+- type: x-press
+  url: https://www.pressharbor.com/features/
+- type: x-press
+  url: https://www.pressharbor.com/testimonials/
+- type: x-press
+  url: https://www.pressharbor.com/terms-of-service/
+- type: x-press
+  url: https://www.pressharbor.com/privacy-policy/
+- type: x-press
+  url: https://www.pressharbor.com/acceptable-use-policy/
+- type: x-press
+  url: https://www.pressharbor.com/dmca/
+- type: x-press
+  url: https://www.pressharbor.com/category/news/
+- type: x-press
+  url: https://www.pressharbor.com/category/tutorials/
+- type: x-press
+  url: https://www.pressharbor.com/category/faq/
+- type: x-press
+  url: https://www.pressharbor.com/domain-registration/
+- type: x-website
+  url: https://www.pressharbor.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

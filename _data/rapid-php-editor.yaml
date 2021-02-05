@@ -1,0 +1,51 @@
+---
+name: Rapid PHP Editor
+description: Rapid PHP editor is the world's fastest and lightest PHP IDE for Windows
+  with code intelligence and tools for PHP, HTML, CSS, and JavaScript, including PHP
+  debugger, FTP/SFTP client, UTF-8 support and more. A PHP code editor designed to
+  make you more productive.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "346000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rapid-php-editor.yaml
+tags:
+- Rapid Php Editor
+- Rapid Php
+- Php Ide
+- Php Html Editor
+- Php Editor
+- Html Php Editor
+- Development Tools
+apis: []
+x-common:
+- type: x-about
+  url: https://www.blumentals.net/about.php
+- type: x-contact
+  url: https://www.blumentals.net/contact.php
+- type: x-customers
+  url: https://www.blumentals.net/customers.php
+- type: x-facebook
+  url: https://www.facebook.com/blumentals
+- type: x-news
+  url: https://www.blumentals.net/newsletter.php
+- type: x-partner
+  url: https://www.blumentals.net/partners.php
+- type: x-privacy
+  url: https://www.blumentals.net/privacy.php
+- type: x-support
+  url: http://help.blumentals.net/rapidphp/eula.htm
+- type: x-terms-of-service
+  url: https://www.rapidphpeditor.com/terms.php
+- type: x-twitter
+  url: https://www.twitter.com/blumentals
+- type: x-website
+  url: https://www.rapidphpeditor.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

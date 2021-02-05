@@ -1,0 +1,23 @@
+---
+name: alicegillet.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/alicegillet-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: https://alicegillet.com/2014/01/28/my-conversation-with-kin-lane-on-how-to-start-building-my-story-api/
+- type: x-website
+  url: http://alicegillet.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

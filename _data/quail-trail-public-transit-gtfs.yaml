@@ -1,0 +1,29 @@
+---
+name: Quail Trail Public Transit GTFS
+description: Transit authority located in Klamath Falls, OR, USA<br />
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/quail-trail-public-transit-gtfs.yaml
+tags: []
+apis: []
+x-common:
+- type: x-gtfs-feed
+  url: http://oregon-gtfs.com/gtfs_data/klamathtribes-or-us/klamathtribes-or-us.zip
+- type: x-gtfs-feed
+  url: http://oregon-gtfs.com/gtfs_data/basin-or-us/basin-or-us.zip
+- type: x-licensing
+  url: ""
+- type: x-website
+  url: http://oregon-gtfs.com/gtfs_data/klamathtribes-or-us/klamathtribes-or-us.zip
+- type: x-website
+  url: http://klamathtribes.org/administration/bus-schedules/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

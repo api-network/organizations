@@ -1,0 +1,34 @@
+---
+name: Voice RSS
+description: Voice RSS provides free text-to-speech (TTS) online service and free
+  TTS API with very fast and simple integration.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1737_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "709490"
+url: https://raw.githubusercontent.com/api-network/organizations/main/voice-rss.yaml
+tags:
+- Texts
+- Texts
+- Southkorea
+- Southkorea
+- Networks
+- Have API
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/voice-rss
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/voice-rss
+- type: x-twitter
+  url: https://twitter.com/VoiceRSS
+- type: x-website
+  url: http://www.voicerss.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

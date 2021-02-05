@@ -1,0 +1,22 @@
+---
+name: ASCIO
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9011"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ascio.yaml
+tags:
+- United States
+apis: []
+x-common:
+- type: x-website
+  url: https://b98.58e.myftpupload.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

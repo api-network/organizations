@@ -1,0 +1,36 @@
+---
+name: Softec Ltd
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/softec-ltd.yaml
+tags:
+- Products And Services
+apis: []
+x-common:
+- type: x-about
+  url: https://softec.co/about-softec-ltd/
+- type: x-contact
+  url: https://softec.co/contact-softec-ltd/
+- type: x-contact
+  url: http://softec.co/contact-softec-ltd
+- type: x-feed
+  url: http://professionalbuildersmerchant.co.uk/feed/
+- type: x-news
+  url: http://www.ttjonline.com/feeds/news-feed.xml
+- type: x-privacy
+  url: https://softec.co/privacy-policy/
+- type: x-terms-of-service
+  url: https://softec.co/terms-conditions/
+- type: x-website
+  url: https://www.softec.co
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

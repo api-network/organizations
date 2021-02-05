@@ -1,0 +1,76 @@
+---
+name: OpenAir
+description: NetSuite OpenAir provides project management software for services companies
+  to help deliver projects on time and within budget, manage project profitability
+  and forecasts and increase client involvement and satisfaction.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "41152"
+url: https://raw.githubusercontent.com/api-network/organizations/main/openair.yaml
+tags:
+- Timesheets
+- Timesheet
+- Time Tracking
+- Time Sheets
+- Time Sheet
+- SRP
+- SPO
+- Service Resource Planning
+- Service Process Optimization
+- Revenue Recognition
+- Resource Management
+- PSO
+- PSA
+- Project Management
+- Project Accounting
+- Professional Services Automation
+- Practice Management
+- Knowledge Management
+- Invoicing Software
+- Invoice
+- Expense Tracking
+- Esa
+- Application Service Providers
+apis: []
+x-common:
+- type: x-website
+  url: http://netsuite.com
+- type: x-about
+  url: http://www.netsuite.com/portal/aboutus.shtml
+- type: x-blog
+  url: http://www.netsuiteblogs.com/
+- type: x-contact
+  url: http://www.netsuite.com/portal/company/contactus.shtml
+- type: x-events
+  url: http://www.netsuite.com/portal/company/events.shtml
+- type: x-facebook
+  url: http://www.facebook.com/NetSuite
+- type: x-instagram
+  url: https://instagram.com/netsuite_inc/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/6137?trk=tyah
+- type: x-partner
+  url: http://www.netsuite.com/portal/partners.shtml
+- type: x-support
+  url: http://www.netsuite.com/portal/services/support.shtml
+- type: x-terms-of-service
+  url: https://www.oracle.com/legal/copyright.html
+- type: x-terms-of-service
+  url: https://www.oracle.com/legal/privacy/index.html
+- type: x-twitter
+  url: http://www.twitter.com/NetSuite
+- type: x-webinars
+  url: http://www.netsuite.com/portal/resource/webinars.shtml
+- type: x-website
+  url: https://www.openair.com
+- type: x-youtube
+  url: http://www.youtube.com/user/netsuite
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,40 @@
+---
+name: imec
+description: Imec is the world-leading R&D and innovation hub in nanoelectronics and
+  digital technologies.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28277-www-imec-int-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "303747"
+url: https://raw.githubusercontent.com/api-network/organizations/main/imec.yaml
+tags:
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://www.imec-int.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/imec
+- type: x-facebook
+  url: http://www.facebook.com/pages/IMEC/48799938690
+- type: x-instagram
+  url: https://www.instagram.com/imec_int/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/imec?trk=company_logo
+- type: x-privacy
+  url: https://www.imec-int.com/en/privacy-statement
+- type: x-twitter
+  url: https://twitter.com/imec_int
+- type: x-website
+  url: https://www.imec-int.com
+- type: x-youtube
+  url: http://www.youtube.com/imecnanotube
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

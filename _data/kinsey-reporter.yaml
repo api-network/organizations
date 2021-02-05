@@ -1,0 +1,31 @@
+---
+name: Kinsey Reporter
+description: A global mobile survey platform to share, explore, and visualize anonymous
+  data about sex.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1437-kinsey-reporter.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kinsey-reporter.yaml
+tags:
+- Surveys
+- Sex
+- Have API
+- Crowdsourcing
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://kinseyreporter.org/data
+- type: x-website
+  url: http://kinseyreporter.org/
+- type: x-twitter
+  url: https://twitter.com/KinseyReporter
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,94 @@
+---
+name: RunRev Ltd
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2277010"
+url: https://raw.githubusercontent.com/api-network/organizations/main/runrev-ltd.yaml
+tags:
+- Transcript
+apis: []
+x-common:
+- type: x-code
+  url: https://livecode.com
+- type: x-code
+  url: https://livecode.com/core-benefits-of-livecode/
+- type: x-code
+  url: https://livecode.com/studies
+- type: x-code
+  url: https://livecode.com/product-store/
+- type: x-code
+  url: https://livecode.com/blog/
+- type: x-code
+  url: https://livecode.com/login/
+- type: x-code
+  url: https://filemaker.livecode.com/native
+- type: x-code
+  url: https://livecode.com/studies/
+- type: x-code
+  url: https://livecode.com/develop-education/
+- type: x-code
+  url: https://livecode.com/develop-your-startup/
+- type: x-code
+  url: https://livecode.com/california19
+- type: x-code
+  url: http://livecode.org
+- type: x-code
+  url: https://filemaker.livecode.com
+- type: x-code
+  url: https://livecode.com/resources/api/
+- type: x-code
+  url: http://lessons.livecode.com
+- type: x-code
+  url: http://stackoverflow.com/questions/tagged/livecode
+- type: x-code
+  url: https://livecode.com/resources/roadmap/
+- type: x-code
+  url: https://livecode.com/resources/release-process/
+- type: x-code
+  url: https://livecode.com/resources/user-groups/
+- type: x-code
+  url: https://livecode.com/resources/support/
+- type: x-code
+  url: https://livecode.com/directory/
+- type: x-code
+  url: https://livecode.com/services/
+- type: x-code
+  url: https://livecode.com/about/team/
+- type: x-code
+  url: https://livecode.com/about/
+- type: x-code
+  url: https://livecode.com/about/awards/
+- type: x-code
+  url: https://livecode.com/livecode-9-5-released/
+- type: x-code
+  url: https://livecode.com/livecode-9-5-goes-into-testing/
+- type: x-code
+  url: https://livecode.com/introducing-livecloud/
+- type: x-code
+  url: https://livecode.com/visitors-in-livecode/
+- type: x-code
+  url: https://livecode.com/wordlib-update-released/
+- type: x-code
+  url: https://github.com/runrev/livecode
+- type: x-contact
+  url: https://livecode.com/about/contact/
+- type: x-documentation
+  url: https://livecode.com/docs/9-0-0/introduction/welcome/
+- type: x-forum
+  url: http://forums.livecode.com
+- type: x-press
+  url: https://livecode.com/about/press/
+- type: x-website
+  url: https://runrev.com
+- type: x-youtube
+  url: https://www.youtube.com/user/RunRevLtd
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

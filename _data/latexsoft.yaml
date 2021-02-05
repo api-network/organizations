@@ -1,0 +1,22 @@
+---
+name: LaTeXsoft
+description: "\u5BCC\u88D5\u5C64\u5411\u3051\u6295\u8CC7\u60C5\u5831\u767A\u4FE1\u30B5\u30A4\u30C8"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/latexsoft.yaml
+tags:
+- Editors And IDEs
+apis: []
+x-common:
+- type: x-website
+  url: https://www.latexsoft.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

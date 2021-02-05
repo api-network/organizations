@@ -1,0 +1,27 @@
+---
+name: Minco Manufacturing
+description: Manufacturing in Mexico has become the best option for companies that
+  are seeking to cut costs and stay competitive.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5702505"
+url: https://raw.githubusercontent.com/api-network/organizations/main/minco-manufacturing.yaml
+tags:
+- Repairs
+apis: []
+x-common:
+- type: x-about
+  url: https://www.mincomfg.com/about-us/
+- type: x-contact
+  url: https://www.mincomfg.com/contact-us/
+- type: x-website
+  url: https://www.mincomfg.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

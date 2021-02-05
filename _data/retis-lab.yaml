@@ -1,0 +1,50 @@
+---
+name: ReTiS Lab
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "623580"
+url: https://raw.githubusercontent.com/api-network/organizations/main/retis-lab.yaml
+tags:
+- Research
+apis: []
+x-common:
+- type: x-website
+  url: http://retis.santannapisa.it/
+- type: x-about
+  url: https://retis.santannapisa.it/about-us/
+- type: x-events
+  url: https://retis.santannapisa.it/tag/events/
+- type: x-facebook
+  url: https://www.facebook.com/realtimesystemslab
+- type: x-facebook
+  url: https://www.facebook.com/scuolasuperioresantanna
+- type: x-feed
+  url: https://retis.santannapisa.it/feed/
+- type: x-feed
+  url: https://retis.santannapisa.it/comments/feed/
+- type: x-login
+  url: https://retis.santannapisa.it/wp-login.php
+- type: x-news
+  url: https://retis.santannapisa.it/category/news/
+- type: x-open-source
+  url: https://retis.santannapisa.it/open-positions/
+- type: x-open-source
+  url: http://retis.santannapisa.it/open-positions/
+- type: x-press
+  url: https://wordpress.org/
+- type: x-privacy
+  url: https://retis.santannapisa.it/privacy-info/
+- type: x-twitter
+  url: http://twitter.com/_ReTiSLab
+- type: x-website
+  url: https://retis.sssup.it
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,40 @@
+---
+name: WorkMob
+description: Building a startup takes more than funding. Nurture success by joining
+  the startup accelerator, startup funding and mentorship network at Techstars.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/workmob.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/workmob.yaml
+tags:
+- Freelancing
+- API Talent
+apis: []
+x-common:
+- type: x-website
+  url: http://theworkmob.com
+- type: x-blog
+  url: http://blog.theworkmob.com/
+- type: x-blog-rss
+  url: http://blog.theworkmob.com/rss/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/workmob
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/techstars
+- type: x-email
+  url: press@techstars.com
+- type: x-twitter
+  url: https://twitter.com/techstars
+- type: x-twitter
+  url: https://twitter.com/TheWorkMob
+- type: x-website
+  url: https://theworkmob.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

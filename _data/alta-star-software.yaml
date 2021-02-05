@@ -1,0 +1,23 @@
+---
+name: Alta Star Software
+description: "Florida Real Estate Contracts. Officially licensed FR/BAR (FAR/BAR)
+  and Florida REALTORS\xAE forms online. Automated and easy-to-use. Electronic signatures."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1391591"
+url: https://raw.githubusercontent.com/api-network/organizations/main/alta-star-software.yaml
+tags:
+- Forms And Closings
+apis: []
+x-common:
+- type: x-website
+  url: https://www.altastar.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

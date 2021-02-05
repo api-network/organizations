@@ -1,0 +1,46 @@
+---
+name: ICF
+description: We make big things possible for our clients. We provide data, insights,
+  and deep implementation expertise they need to deliver results that matter.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28501-www-icf-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "73162"
+url: https://raw.githubusercontent.com/api-network/organizations/main/icf.yaml
+tags:
+- ISP
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.icf.com
+- type: x-careers
+  url: https://www.icf.com/careers/the-icf-experience
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/icf-international
+- type: x-email
+  url: ICFCareerCenter@icf.com
+- type: x-email
+  url: dataprotection@icf.com
+- type: x-email
+  url: info@icf.com
+- type: x-facebook
+  url: https://www.facebook.com/ThisIsICF/
+- type: x-instagram
+  url: https://www.instagram.com/thisisicf/
+- type: x-investor
+  url: http://investor.icf.com/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/icf-international
+- type: x-twitter
+  url: https://twitter.com/ICF
+- type: x-website
+  url: https://www.icf.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

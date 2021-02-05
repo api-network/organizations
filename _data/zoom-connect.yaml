@@ -1,0 +1,35 @@
+---
+name: Zoom Connect
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "346925"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zoom-connect.yaml
+tags:
+- Have Swagger
+- Have API Paths
+apis: []
+x-common:
+- type: x-website
+  url: http://www.zoomconnect.com
+- type: x-facebook
+  url: https://www.facebook.com/ZoomConnect
+- type: x-login
+  url: https://www.zoomconnect.com/app/login
+- type: x-signup
+  url: https://www.zoomconnect.com/app/account/signup
+- type: x-twitter
+  url: https://twitter.com/zoomconnectsa
+- type: x-website
+  url: http://zoomconnect.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=0oRwqd53us4
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

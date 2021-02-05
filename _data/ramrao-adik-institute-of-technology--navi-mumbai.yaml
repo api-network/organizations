@@ -1,0 +1,30 @@
+---
+name: Ramrao Adik Institute of Technology - Navi Mumbai
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1457331"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ramrao-adik-institute-of-technology--navi-mumbai.yaml
+tags:
+- India
+apis: []
+x-common:
+- type: x-about
+  url: https://www.rait.ac.in/about-rait/
+- type: x-about
+  url: https://www.rait.ac.in/about-training-and-placement/
+- type: x-contact
+  url: https://www.rait.ac.in/contact-us/
+- type: x-events
+  url: https://www.rait.ac.in/events-rait/
+- type: x-website
+  url: https://www.rait.ac.in
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

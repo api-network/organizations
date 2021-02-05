@@ -1,0 +1,78 @@
+---
+name: OpenBSD Journal
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2053488"
+url: https://raw.githubusercontent.com/api-network/organizations/main/openbsd-journal.yaml
+tags:
+- OpenBSD
+apis: []
+x-common:
+- type: x-website
+  url: http://www.openbsd.org/errata.html
+- type: x-blog
+  url: http://bsdly.blogspot.com/
+- type: x-forum
+  url: http://daemonforums.org/
+- type: x-login
+  url: https://undeadly.org/cgi?action=login
+- type: x-open-source
+  url: https://man.openbsd.org/httpd.8
+- type: x-open-source
+  url: https://www.openbsdfoundation.org/donations.html
+- type: x-open-source
+  url: https://www.openbsd.org/
+- type: x-open-source
+  url: http://www.openbgpd.org/
+- type: x-open-source
+  url: https://marc.info/?l=openbsd-cvs&m=157580332113635&w=2
+- type: x-open-source
+  url: https://man.openbsd.org/netstat
+- type: x-open-source
+  url: https://marc.info/?l=openbsd-cvs&m=157500930922882&w=2
+- type: x-open-source
+  url: https://man.openbsd.org/msyscall
+- type: x-open-source
+  url: https://marc.info/?l=openbsd-cvs&m=157481666721000&w=2
+- type: x-open-source
+  url: https://www.openbsd.org/donations.html
+- type: x-open-source
+  url: https://www.openbsd.org/errata66.html#p017_inteldrmctx
+- type: x-open-source
+  url: https://www.openbsd.org/errata66.html#p016_ripd
+- type: x-open-source
+  url: https://www.openbsd.org/errata66.html#p015_ftp
+- type: x-open-source
+  url: https://www.openbsd.org/errata66.html#p014_eret
+- type: x-open-source
+  url: https://www.openbsd.org/errata66.html#p013_ldso
+- type: x-open-source
+  url: https://www.openbsd.org/errata66.html#p012_suauth
+- type: x-open-source
+  url: https://www.openbsd.org
+- type: x-open-source
+  url: https://www.openbsdfoundation.org
+- type: x-open-source
+  url: https://openports.pl/
+- type: x-open-source
+  url: https://lobste.rs/t/openbsd
+- type: x-open-source
+  url: https://bsd.network/tags/openbsd
+- type: x-open-source
+  url: http://www.opensource.org/licenses/bsd-license.php
+- type: x-self-service-registration
+  url: https://undeadly.org/cgi?action=register
+- type: x-twitter
+  url: https://twitter.com/OpenBSD_stable
+- type: x-website
+  url: https://undeadly.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,77 @@
+---
+name: '#FareShare'
+description: Join FREE E-Mail Gazette Recipe Exchange Group, Enjoy Food Chats, Friendly
+  On-Line Discussions using IRC OR JAVACHAT, Get recipes from the site.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7170866"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fareshare.yaml
+tags:
+- Vegetable
+- Turkey
+- Subscribe
+- Steak
+- StarChat
+- Site
+- Sharing
+- Share
+- Recipe
+- Poultry
+- Pirch
+- Pie
+- MIRC
+- Metrics Conversions
+- Metric
+- Members
+- Member
+- Meat
+- List
+- Links
+- Link
+- Join
+- Java Chats
+- Ircle
+- IRC
+- Help
+- Guestbook
+- Gazette
+- Fruit
+- Free Recipes
+- Free
+- Food
+- Fare
+- Email
+- Eat
+- Dessert
+- Cooks
+- Cooking
+- Cook
+- Conversion
+- Chicken
+- Chefs
+- Chat
+- Cake
+- Bread Machine
+- Bread
+- Benefits
+- Beef
+- Bake
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.fareshare.net
+- type: x-facebook
+  url: http://www.facebook.com/business/dashboard/
+- type: x-login
+  url: http://v.extreme-dm.com/?login=fareshar
+- type: x-website
+  url: https://www.fareshare.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

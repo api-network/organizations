@@ -1,0 +1,22 @@
+---
+name: Employee Selection and Development Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5509084"
+url: https://raw.githubusercontent.com/api-network/organizations/main/employee-selection-and-development-inc-.yaml
+tags:
+- Testing And Evaluation
+apis: []
+x-common:
+- type: x-website
+  url: https://www.employeeselect.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

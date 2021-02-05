@@ -1,0 +1,30 @@
+---
+name: OurayCM
+description: Wissler-Jensen is a small software development firm located in Salt Lake
+  City, Utah. We provide broad and deep technical expertise, fine craftsmanship, and
+  excellent support.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ouraycm.yaml
+tags:
+- Tools
+apis: []
+x-common:
+- type: x-privacy
+  url: https://wissler-jensen.com/privacy
+- type: x-terms-of-service
+  url: https://wissler-jensen.com/terms
+- type: x-twitter
+  url: https://twitter.com/wisslerjensen
+- type: x-website
+  url: https://www.ouraysoftware.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,35 @@
+---
+name: Louisville, KY
+description: Louisville Metro Government is committed to increasing the openness and
+  transparency of city government. This new and improved site is helping with our
+  goal by providing anytime access and views into the very latest city data in an
+  easy to use format
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/200px-Louisville_Kentucky_seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "246862"
+url: https://raw.githubusercontent.com/api-network/organizations/main/louisville-ky.yaml
+tags:
+- Profile
+- Have API
+- Data Provider
+- City Government
+- API Provider
+apis: []
+x-common:
+- type: x-developer
+  url: http://dev.portal.louisvilleky.gov
+- type: x-documentation
+  url: http://httpd.apache.org/docs/2.4/mod/mod_userdir.html
+- type: x-website
+  url: http://louisvilleky.gov
+- type: x-website
+  url: http://portal.louisvilleky.gov/service/data
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

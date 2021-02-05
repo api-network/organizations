@@ -1,0 +1,33 @@
+---
+name: Postcode API
+description: 'Nederlandse adresgegevens uit de BAG postcode-database. Ontwikkeld voor
+  en door developers, met als doel: 100% juiste adresinformatie in jouw app, webshop,
+  website en database.'
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/zip-api-logo-2.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7879615"
+url: https://raw.githubusercontent.com/api-network/organizations/main/postcode-api.yaml
+tags:
+- Zip Codes
+- Postal Code
+- Netherlands
+- Has API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.postcodeapi.nu
+- type: x-code
+  url: http://status.postcodeapi.nu
+- type: x-twitter
+  url: https://twitter.com/postcodeapi
+- type: x-website
+  url: http://www.postcodeapi.nu/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

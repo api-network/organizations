@@ -1,0 +1,121 @@
+---
+name: SparkPost
+description: Deliver your app and website emails on time and to the inbox. Trusted
+  to send 25% of the world's non-spam email. Email delivery for companies big and
+  small.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/sparkpost-logo-standard.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "29459"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sparkpost.yaml
+tags:
+- Have API Paths
+- Emails
+apis: []
+x-common:
+- type: x-about
+  url: https://www.sparkpost.com/about/
+- type: x-about
+  url: https://www.sparkpost.com/about-us/
+- type: x-blog
+  url: https://www.sparkpost.com/blog/?_ga=2.193809710.2006670344.1534051360-859907643.1534051360
+- type: x-blog
+  url: https://www.sparkpost.com/blog/
+- type: x-blog
+  url: https://www.sparkpost.com/blog/author/vsong/
+- type: x-blog
+  url: https://www.sparkpost.com/blog/author/dave-gray/
+- type: x-blog
+  url: https://www.sparkpost.com/blog/author/jgoldstein/
+- type: x-blog-rss
+  url: https://www.sparkpost.com/feed/
+- type: x-careers
+  url: https://www.sparkpost.com/careers/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/message-systems
+- type: x-developer
+  url: https://developers.sparkpost.com
+- type: x-developer
+  url: http://developer.sparkpost.com
+- type: x-developers
+  url: https://developers.sparkpost.com/
+- type: x-documentation
+  url: https://www.sparkpost.com/docs/
+- type: x-documentation
+  url: https://www.sparkpost.com/docs/?_ga=2.193809710.2006670344.1534051360-859907643.1534051360
+- type: x-documentation
+  url: https://sparkpost.com/docs
+- type: x-events
+  url: https://www.sparkpost.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/sparkpost/
+- type: x-getting-started
+  url: https://www.sparkpost.com/docs/getting-started/
+- type: x-github
+  url: https://github.com/SparkPost
+- type: x-github
+  url: https://github.com/SparkPost/node-sparkpost
+- type: x-github
+  url: https://github.com/SparkPost/php-sparkpost
+- type: x-github
+  url: https://github.com/SparkPost/python-sparkpost
+- type: x-github
+  url: https://github.com/SparkPost/java-sparkpost
+- type: x-github
+  url: https://github.com/SparkPost/elixir-sparkpost
+- type: x-github
+  url: https://github.com/SparkPost/gosparkpost
+- type: x-github
+  url: https://github.com/darrencauthon/csharp-sparkpost
+- type: x-instagram
+  url: https://www.instagram.com/sparkpostlife/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/sparkpost
+- type: x-linkedin
+  url: https://www.linkedin.com/company/sparkpost/
+- type: x-news
+  url: https://www.sparkpost.com/news/
+- type: x-partner
+  url: https://www.sparkpost.com/partners/
+- type: x-platform
+  url: https://www.sparkpost.com/platform/
+- type: x-platform
+  url: https://www.sparkpost.com/platform/signals/
+- type: x-press
+  url: https://www.sparkpost.com/press-releases/
+- type: x-pricing
+  url: https://www.sparkpost.com/pricing/
+- type: x-privacy
+  url: https://www.sparkpost.com/policies/privacy/
+- type: x-security
+  url: https://www.sparkpost.com/security-and-privacy/
+- type: x-security
+  url: https://www.sparkpost.com/policies/security/
+- type: x-slideshare
+  url: https://www.slideshare.net/SparkPost
+- type: x-curated-source
+  url: https://www.sparkpost.com/blog/webhooks-beyond-the-basics/#.VyI916MrKCQ
+- type: x-website
+  url: http://sparkpost.com
+- type: x-status
+  url: https://status.sparkpost.com
+- type: x-support
+  url: https://www.sparkpost.com/support/
+- type: x-twitter
+  url: https://twitter.com/SparkPost
+- type: x-twitter
+  url: https://twitter.com/SparkPost
+- type: x-webhooks
+  url: https://developers.sparkpost.com/api/webhooks/
+- type: x-website
+  url: https://developers.sparkpost.com
+- type: x-white-papers
+  url: https://www.sparkpost.com/whitepapers-guides/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

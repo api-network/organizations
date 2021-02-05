@@ -1,0 +1,25 @@
+---
+name: All Avatars
+description: Create a cartoon-like profile picture based on yourself (or whoever you
+  want to be) with our 100% free avatar creator. No sign-up required.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/all-avatars.yaml
+tags:
+- Avatars And Gestures
+apis: []
+x-common:
+- type: x-twitter
+  url: https://twitter.com/share
+- type: x-website
+  url: https://allavatars.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

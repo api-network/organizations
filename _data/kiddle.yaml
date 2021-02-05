@@ -1,0 +1,27 @@
+---
+name: Kiddle
+description: Kiddle is a visual search engine for kids, offering safe kids web, image,
+  and video search. Results are vetted by editors.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "19517"
+url: https://raw.githubusercontent.com/api-network/organizations/main/kiddle.yaml
+tags:
+- Search Engine
+- Search
+- Safe
+- Kids
+- Family Friendly
+apis: []
+x-common:
+- type: x-website
+  url: https://www.kiddle.co
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

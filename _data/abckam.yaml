@@ -1,0 +1,23 @@
+---
+name: abcKam
+description: Secure streaming web video for Childcare, Kennels, Preschool, Daycares.
+  Increase enrollment and earnings.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3095420"
+url: https://raw.githubusercontent.com/api-network/organizations/main/abckam.yaml
+tags:
+- Daycare
+apis: []
+x-common:
+- type: x-website
+  url: https://www.abckam.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

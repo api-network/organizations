@@ -1,0 +1,76 @@
+---
+name: Stackify
+description: Stackify's tools combine monitoring, errors, logs, and metrics in one
+  tool. Find bugs and identify ways to improve your app at every step of the development
+  process. Download Prefix for free and start a free trial of Retrace in order to
+  diagnose applic...
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/484661-stackify-logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "13586"
+url: https://raw.githubusercontent.com/api-network/organizations/main/stackify.yaml
+tags:
+- Have API
+- Analysis
+apis: []
+x-common:
+- type: x-website
+  url: http://Stackify.com
+- type: x-about
+  url: https://stackify.com/about
+- type: x-about
+  url: https://stackify.com/about/
+- type: x-blog
+  url: https://stackify.com/blog/
+- type: x-blog
+  url: http://stackify.com/blog/
+- type: x-blog-rss
+  url: http://stackify.com/feed/
+- type: x-careers
+  url: https://stackify.com/careers/
+- type: x-code
+  url: https://stackify.com/retrace-code-profiling/
+- type: x-contact
+  url: https://stackify.com/contact-us/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/stackify
+- type: x-documentation
+  url: https://docs.stackify.com/
+- type: x-documentation
+  url: https://docs.stackify.com
+- type: x-documentation
+  url: https://docs.stackify.com/v1/docs
+- type: x-facebook
+  url: https://www.facebook.com/Stackify/
+- type: x-gdpr
+  url: https://stackify.com/gdpr/
+- type: x-github
+  url: https://github.com/stackify
+- type: x-linkedin
+  url: https://www.linkedin.com/company/stackify
+- type: x-press
+  url: https://stackify.com/news-press/
+- type: x-pricing
+  url: https://stackify.com/pricing/
+- type: x-privacy
+  url: https://stackify.com/privacy-policy/
+- type: x-security
+  url: https://stackify.com/stackify-security-information/
+- type: x-twitter
+  url: https://twitter.com/Stackify
+- type: x-support
+  url: https://stackify.com/support/
+- type: x-terms-of-service
+  url: https://stackify.com/terms-conditions/
+- type: x-website
+  url: http://stackify.com/
+- type: x-youtube
+  url: https://www.youtube.com/stackify
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

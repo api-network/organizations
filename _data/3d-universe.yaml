@@ -1,0 +1,37 @@
+---
+name: 3D Universe
+description: 3D Universe creates animated full-rigged 3d models for various animation
+  applications and media.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/3d-universe.yaml
+tags:
+- Poser
+apis: []
+x-common:
+- type: x-website
+  url: http://www.3duniverse.co.za
+- type: x-about
+  url: https://www.3duniverse.co.za/about-us
+- type: x-facebook
+  url: https://www.facebook.com/3DUniverse/
+- type: x-news
+  url: https://www.3duniverse.co.za/news
+- type: x-terms-of-service
+  url: https://www.3duniverse.co.za/website-terms-of-use
+- type: x-twitter
+  url: http://twitter.com/3DUniverse
+- type: x-website
+  url: https://www.3duniverse.co.za
+- type: x-youtube
+  url: http://www.youtube.com/user/3DUniverseStudios
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,36 @@
+---
+name: ThingsBoard
+description: ThingsBoard is an open-source IoT platform for device management, data
+  collection, processing and visualization for your IoT projects
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29477-thingsboard-io.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "180654"
+url: https://raw.githubusercontent.com/api-network/organizations/main/thingsboard.yaml
+tags: []
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.thingsboard.io/
+- type: x-blog
+  url: https://blog.thingsboard.io/
+- type: x-facebook
+  url: https://www.facebook.com/thingsboard
+- type: x-forum
+  url: https://groups.google.com/forum/#!forum/thingsboard
+- type: x-github
+  url: https://github.com/thingsboard/thingsboard
+- type: x-twitter
+  url: https://twitter.com/thingsboard
+- type: x-website
+  url: http://thingsboard.io
+- type: x-youtube
+  url: https://www.youtube.com/thingsboard
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

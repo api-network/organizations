@@ -1,0 +1,46 @@
+---
+name: Doro Safety
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/doro-safety.yaml
+tags:
+- Tracking, Prevention And Recovery
+apis: []
+x-common:
+- type: x-contact
+  url: https://dorosecurity.com/contact/
+- type: x-security
+  url: https://dorosecurity.com/
+- type: x-security
+  url: https://dorosecurity.com/about-us/
+- type: x-security
+  url: https://dorosecurity.com/products/
+- type: x-security
+  url: https://dorosecurity.com/products/evac-chairs/
+- type: x-security
+  url: https://dorosecurity.com/products/retail-security/
+- type: x-security
+  url: https://dorosecurity.com/products/safety-mirrors/
+- type: x-security
+  url: https://dorosecurity.com/products/vanguard/
+- type: x-security
+  url: https://dorosecurity.com/products/vanguard/alarm-only/
+- type: x-security
+  url: https://dorosecurity.com/products/vanguard/mechanical/
+- type: x-security
+  url: https://dorosecurity.com/gallery-2/
+- type: x-security
+  url: https://dorosecurity.com/products/training-docs/
+- type: x-website
+  url: https://www.dorosecurity.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

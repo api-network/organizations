@@ -1,0 +1,48 @@
+---
+name: CWaddons Lodestar Software
+description: Add on tools and utilities for Clarion
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cwaddons-lodestar-software.yaml
+tags:
+- Windows
+- TopSpeed
+- Third-Party Templates And Utilities
+- Templates
+- Software
+- SoftVelocity
+- Soft Velocity
+- RPM
+- Reports
+- RAD
+- PNet
+- OOP
+- Ncr
+- Lsi
+- LodestarSoftware
+- Lodestar Software
+- Lodestar
+- Legacy
+- FaxSimile
+- Fax
+- CW
+- Computer Language
+- Clarion Addons
+- Clarion Add-Ons
+- Clarion
+- AFE
+- Abc
+apis: []
+x-common:
+- type: x-website
+  url: https://www.cwaddons.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

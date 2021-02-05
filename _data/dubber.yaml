@@ -1,0 +1,57 @@
+---
+name: Dubber
+description: Dubber is the world's leading provider of cloud based call recording
+  and voice AI. Built to scale to fit any size business, our solution allows businesses
+  to access previously untapped voice data.
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dubber.yaml
+tags:
+- White Papers
+- Voice AI
+- Sandbox
+- Restful
+- Profile
+- End Points
+- Call Recoding
+- API
+apis: []
+x-common:
+- type: x-website
+  url: https://goo.gl/8adGvW
+- type: x-blog
+  url: https://www.dubber.net/blog/
+- type: x-pricing
+  url: https://www.dubber.net/pricing/
+- type: x-contact-form
+  url: https://www.dubber.net/contact-us/
+- type: x-developers
+  url: https://developer.dubber.net/
+- type: x-documentation
+  url: https://developer.dubber.net/io-docs
+- type: x-faq
+  url: https://www.dubber.net/frequently-asked-questions/
+- type: x-github
+  url: https://github.com/DubberSoftware
+- type: x-partners
+  url: https://www.dubber.net/service-providers/technology-partners/
+- type: x-security
+  url: https://www.dubber.net/feature/security-feature/
+- type: x-support
+  url: https://support.dubber.net/hc/en-us
+- type: x-twitter
+  url: https://twitter.com/dubberapp
+- type: x-website
+  url: http://www.dubber.net
+- type: x-white-papers
+  url: https://www.dubber.net/white-papers/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

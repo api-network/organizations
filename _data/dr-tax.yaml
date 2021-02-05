@@ -1,0 +1,46 @@
+---
+name: Dr Tax
+description: The DT Professional Suite is a suite of software for Accounting Firms
+  and CPAs, innovative productivity and client service tools designed specifically
+  for Canadian  tax and accounting professionals.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "514055"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dr-tax.yaml
+tags:
+- Canada
+apis: []
+x-common:
+- type: x-website
+  url: http://thomsonreuters.ca/tax
+- type: x-blog
+  url: https://blogs.thomsonreuters.com/answerson/
+- type: x-careers
+  url: https://www.thomsonreuters.com/en/careers.html
+- type: x-login
+  url: https://support.drtax.ca/myaccount/login.aspx
+- type: x-press
+  url: https://www.thomsonreuters.ca/en/contract-express.html
+- type: x-showcase
+  url: https://www.linkedin.com/showcase/trcanadatax/
+- type: x-support
+  url: https://support.drtax.ca/dtmax/eng/kb/dtmax/
+- type: x-support
+  url: https://support.drtax.ca/dtmax/eng/kb/dtformax/
+- type: x-terms-of-service
+  url: https://www.thomsonreuters.ca/en/legal.html
+- type: x-twitter
+  url: https://twitter.com/TRCanadaLegal
+- type: x-twitter
+  url: https://twitter.com/TRCanadaTax
+- type: x-website
+  url: https://www.drtax.ca
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

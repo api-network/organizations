@@ -1,0 +1,41 @@
+---
+name: 6fusion.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5972151"
+url: https://raw.githubusercontent.com/api-network/organizations/main/6fusion-com.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.6fusion.com
+- type: x-curated-source
+  url: http://6fusion.com
+- type: x-website
+  url: http://6fusion.com
+- type: x-about
+  url: https://6fusion.com/about-6fusion/
+- type: x-facebook
+  url: https://www.facebook.com/6fusion/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/6fusion-usa
+- type: x-marketplace
+  url: https://6fusion.com/global-marketplace/
+- type: x-open-source
+  url: https://6fusion.com/plugins/openshift/
+- type: x-partner
+  url: https://6fusion.com/partners/
+- type: x-terms-of-service
+  url: https://6fusion.com/legal-overview/
+- type: x-twitter
+  url: https://twitter.com/6fusion
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

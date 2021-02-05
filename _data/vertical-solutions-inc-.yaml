@@ -1,0 +1,46 @@
+---
+name: Vertical Solutions Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6039677"
+url: https://raw.githubusercontent.com/api-network/organizations/main/vertical-solutions-inc-.yaml
+tags:
+- Help Desk
+apis: []
+x-common:
+- type: x-website
+  url: http://www.VertSol.com/
+- type: x-about
+  url: https://www.vertsol.com/about-us/
+- type: x-about
+  url: https://www.vertsol.com/about-us/location/
+- type: x-blog
+  url: https://www.vertsol.com/blog/
+- type: x-contact
+  url: https://www.vertsol.com/crm-for-contact-centers/
+- type: x-developer
+  url: http://developer.vertsol.com
+- type: x-facebook
+  url: https://www.facebook.com/VerticalSolutions/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/53623
+- type: x-news
+  url: https://www.vertsol.com/news-events/
+- type: x-partner
+  url: https://www.vertsol.com/partners/
+- type: x-twitter
+  url: https://twitter.com/Vertsol
+- type: x-twitter
+  url: https://twitter.com/@vertsol
+- type: x-website
+  url: https://www.vertsol.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

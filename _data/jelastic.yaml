@@ -1,0 +1,87 @@
+---
+name: Jelastic
+description: DevOps Platform-as-a-Service (PaaS) for running microservice and legacy
+  applications in public, private and multi-cloud using Java, PHP, Node.js, Ruby,
+  Python, Go, Docker & Kubernetes. Automated scaling and clustering, zero code change
+  deploy, intuitive UI and flexible pricing.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "153633"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jelastic.yaml
+tags:
+- Platform As A Service Providers
+apis: []
+x-common:
+- type: x-website
+  url: http://jelastic.com
+- type: x-blog
+  url: https://jelastic.com/blog/ruby-paas-hosting/
+- type: x-blog
+  url: https://jelastic.com/blog/subscribe/
+- type: x-blog
+  url: https://jelastic.com/blog
+- type: x-blog
+  url: https://jelastic.com/blog/achievements-review-2019/
+- type: x-documentation
+  url: https://docs.jelastic.com/vps
+- type: x-documentation
+  url: https://docs.jelastic.com/automatic-vertical-scaling
+- type: x-documentation
+  url: https://docs.jelastic.com/dashboard-guide
+- type: x-documentation
+  url: https://docs.cloudscripting.com
+- type: x-documentation
+  url: https://docs.jelastic.com/billing-system
+- type: x-documentation
+  url: https://docs.jelastic.com/
+- type: x-documentation
+  url: https://ops-docs.jelastic.com/
+- type: x-documentation
+  url: https://docs.jelastic.com/deployment-guide
+- type: x-documentation
+  url: https://docs.jelastic.com/session-replication
+- type: x-documentation
+  url: https://docs.jelastic.com/auto-clustering
+- type: x-documentation
+  url: https://docs.cloudscripting.com/
+- type: x-documentation
+  url: https://docs.jelastic.com/api-overview
+- type: x-documentation
+  url: https://ops-docs.jelastic.com/jca-introduction
+- type: x-facebook
+  url: https://www.facebook.com/Jelastic
+- type: x-feed
+  url: https://jelastic.com/blog/feed
+- type: x-github
+  url: https://github.com/jelastic-jps
+- type: x-linkedin
+  url: https://www.linkedin.com/company/jelastic/
+- type: x-marketplace
+  url: https://docs.jelastic.com/marketplace
+- type: x-marketplace
+  url: https://marketplace.whmcs.com/product/3282
+- type: x-press
+  url: https://jelastic.com/wordpress-hosting-enterprise/
+- type: x-press
+  url: https://jelastic.com/blog/wordpress-multisite-network/
+- type: x-terms-of-service
+  url: https://jelastic.com/terms/
+- type: x-twitter
+  url: https://twitter.com/Jelastic
+- type: x-website
+  url: https://jelastic.com
+- type: x-youtube
+  url: https://www.youtube.com/user/JelasticCloud
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=d8TYOx2NjvQ
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=NiYuUi9PbAk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

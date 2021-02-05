@@ -1,0 +1,40 @@
+---
+name: CoCUT
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1462125"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cocut.yaml
+tags:
+- Werbetechnik
+- Summa
+- Signmaking
+- Siebdruck
+- Screen Printing
+- Roland
+- RCS
+- Plotter
+- Mutoh
+- Mimaki
+- Graphtec
+- Eurovector
+- Eurosystems
+- Cutter
+- CorelDraw
+- Cocut Professional
+- Cocut Plus
+- Cocut
+- Beschriftung
+apis: []
+x-common:
+- type: x-website
+  url: https://www.cocut.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

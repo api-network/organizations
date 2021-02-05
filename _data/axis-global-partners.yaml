@@ -1,0 +1,90 @@
+---
+name: Axis Global Partners
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/axis-global-partners.yaml
+tags:
+- ACCPAC
+apis: []
+x-common:
+- type: x-website
+  url: http://www.baass.com
+- type: x-about
+  url: http://www.axisgp.com/about/
+- type: x-about
+  url: http://www.axisgp.com/about/awards/
+- type: x-about
+  url: http://www.axisgp.com/about/industries-served/
+- type: x-about
+  url: http://www.axisgp.com/about/our-core-values/
+- type: x-about
+  url: http://www.axisgp.com/about/our-management-team/
+- type: x-about
+  url: http://www.axisgp.com/about/our-successes/
+- type: x-about
+  url: http://www.axisgp.com/about/referral-rewards/
+- type: x-blog
+  url: http://www.axisgp.com/blog/category/bi/
+- type: x-blog
+  url: http://www.axisgp.com/blog/category/crm/
+- type: x-blog
+  url: http://www.axisgp.com/blog/category/erp/
+- type: x-blog
+  url: http://www.axisgp.com/blog/category/wms/
+- type: x-blog
+  url: http://www.axisgp.com/blog/category/hr/
+- type: x-contact
+  url: http://www.axisgp.com/contact-us/
+- type: x-contact
+  url: http://www.axisgp.com/contact-us/careers/
+- type: x-contact
+  url: http://www.axisgp.com/contact-us/chicago-office/
+- type: x-contact
+  url: http://www.axisgp.com/contact-us/legal-disclaimer/
+- type: x-contact
+  url: http://www.axisgp.com/contact-us/miami-office/
+- type: x-contact
+  url: http://www.axisgp.com/contact-us/privacy-policy/
+- type: x-contact
+  url: http://www.axisgp.com/contact-us/sign-up/
+- type: x-contact
+  url: http://www.axisgp.com/contact-us/toronto-office/
+- type: x-contact
+  url: http://www.axisgp.com/contact-us/unsubscribe/
+- type: x-news
+  url: http://www.axisgp.com/news/
+- type: x-news
+  url: http://www.axisgp.com/news/newsroom/
+- type: x-news
+  url: http://www.axisgp.com/news/newsletter/
+- type: x-news
+  url: http://www.axisgp.com/news/blog/
+- type: x-news
+  url: http://www.axisgp.com/blog/category/news/
+- type: x-self-service-registration
+  url: http://www.axisgp.com/register/
+- type: x-support
+  url: http://www.axisgp.com/services/ongoing-support/
+- type: x-support
+  url: http://www.axisgp.com/support/
+- type: x-twitter
+  url: http://www.twitter.com/mbuigas
+- type: x-webinars
+  url: http://www.axisgp.com/webinars/
+- type: x-website
+  url: https://www.axisgp.com
+- type: x-white-papers
+  url: http://www.axisgp.com/education/white-papers/
+- type: x-youtube
+  url: http://www.youtube.com/axisgpvideos
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

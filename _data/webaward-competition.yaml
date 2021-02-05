@@ -1,0 +1,38 @@
+---
+name: WebAward Competition
+description: WebAward competition is the standards-defining award program from the
+  Web Marketing Association that sets industry benchmarks based on the seven criteria
+  of a successful Web site.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "286050"
+url: https://raw.githubusercontent.com/api-network/organizations/main/webaward-competition.yaml
+tags:
+- Website Awards
+- Webby
+- Top Websites
+- Site Awards
+- Recognition Programs
+- Best Website
+- Advertising Agency Awards
+apis: []
+x-common:
+- type: x-blog
+  url: http://www.webaward.org/theblog
+- type: x-contact
+  url: http://www.icontact.com/
+- type: x-developer
+  url: http://developer.webaward.org
+- type: x-facebook
+  url: http://www.facebook.com/webmarketingassoc
+- type: x-website
+  url: https://www.webaward.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

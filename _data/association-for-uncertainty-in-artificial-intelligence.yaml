@@ -1,0 +1,23 @@
+---
+name: Association for Uncertainty in Artificial Intelligence
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "913759"
+url: https://raw.githubusercontent.com/api-network/organizations/main/association-for-uncertainty-in-artificial-intelligence.yaml
+tags:
+- Conferences And Events
+- Belief Networks
+apis: []
+x-common:
+- type: x-website
+  url: https://www.auai.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

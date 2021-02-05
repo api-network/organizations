@@ -1,0 +1,22 @@
+---
+name: Academy of Podcasters
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2973293"
+url: https://raw.githubusercontent.com/api-network/organizations/main/academy-of-podcasters.yaml
+tags:
+- Directories
+apis: []
+x-common:
+- type: x-website
+  url: https://academyofpodcasters.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

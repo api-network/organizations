@@ -1,0 +1,21 @@
+---
+name: Geva Perry's Blog
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: ""
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/geva-perrys-blog.yaml
+tags: []
+apis: []
+x-common:
+- type: x-blog-rss
+  url: http://feeds.postrank.com/f2c38344e7a29a7d11ccce0880672283?level=great
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

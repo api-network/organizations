@@ -1,0 +1,31 @@
+---
+name: Zilog Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2427804"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zilog-inc-.yaml
+tags:
+- Z80
+- Embedded
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/ZilogEmbeddedSystems
+- type: x-linkedin
+  url: https://www.linkedin.com/company/7243
+- type: x-twitter
+  url: https://twitter.com/CaptainZilog01
+- type: x-website
+  url: https://www.zilog.com
+- type: x-youtube
+  url: https://www.youtube.com/user/ZilogTV
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

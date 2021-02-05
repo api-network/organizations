@@ -1,0 +1,26 @@
+---
+name: WebStrata
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/webstrata.yaml
+tags:
+- Developers And Designers
+apis: []
+x-common:
+- type: x-events
+  url: https://www.dmsstaffedevents.com/
+- type: x-facebook
+  url: https://www.facebook.com/webstrata
+- type: x-website
+  url: https://www.webstrata.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

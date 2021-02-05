@@ -1,0 +1,79 @@
+---
+name: Capitalware
+description: Home for Capitalware's IBM MQ products on AIX, HP-UX, IBM i (OS/400),
+  Linux, Solaris, Windows, z/OS (OS/390), etc.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/capitalware.yaml
+tags:
+- WebSphere MQ
+- Programming
+- MQSeries
+- MQ Tracking
+- MQ Series
+- MQ Security
+- MQ Message Replication
+- MQ Message Duplication
+- MQ Auditing
+- Mq
+- Middleware
+- Message Queuing
+- Message Oriented Middleware
+- Message Editing
+- Java
+- IBM MQ
+- C
+apis: []
+x-common:
+- type: x-website
+  url: https://www.capitalware.com
+- type: x-blog
+  url: https://www.capitalware.com/rl_blog/
+- type: x-blog
+  url: https://www.capitalware.com/rl_blog/?p=5739
+- type: x-blog
+  url: https://www.capitalware.com/rl_blog/?p=5691
+- type: x-blog
+  url: https://www.capitalware.com/rl_blog/?p=5689
+- type: x-blog
+  url: https://www.capitalware.com/rl_blog/?p=5520
+- type: x-blog
+  url: https://www.capitalware.com/rl_blog/?p=5526
+- type: x-blog
+  url: https://www.capitalware.com/rl_blog/?p=5522
+- type: x-blog
+  url: https://www.capitalware.com/rl_blog/?p=5530
+- type: x-blog
+  url: https://www.capitalware.com/rl_blog/?p=5528
+- type: x-blog
+  url: https://www.capitalware.com/rl_blog/?p=5536
+- type: x-blog
+  url: https://www.capitalware.com/rl_blog/?p=5534
+- type: x-blog
+  url: https://www.capitalware.com/rl_blog/?p=5532
+- type: x-blog
+  url: https://www.capitalware.com/rl_blog/?p=5538
+- type: x-blog
+  url: https://www.capitalware.com/rl_blog/?p=5540
+- type: x-blog
+  url: https://www.capitalware.com/rl_blog/?p=5544
+- type: x-blog
+  url: https://www.capitalware.com/rl_blog/?p=5542
+- type: x-blog
+  url: https://www.capitalware.com/rl_blog/?p=5412
+- type: x-blog
+  url: http://www.capitalware.com/rl_blog/?p=409
+- type: x-twitter
+  url: https://twitter.com/Capitalware
+- type: x-website
+  url: https://www.capitalware.biz
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

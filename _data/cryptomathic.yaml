@@ -1,0 +1,59 @@
+---
+name: Cryptomathic
+description: World-class secure server solutions for authentication and e-signatures,
+  key and cryptography management systems as well as EMV issuing and authorization.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "247426"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cryptomathic.yaml
+tags:
+- Cryptography
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cryptomathic.com
+- type: x-about
+  url: https://www.cryptomathic.com/company/about-us
+- type: x-careers
+  url: https://www.cryptomathic.com/company/jobs
+- type: x-contact
+  url: https://www.cryptomathic.com/contact/contact-us
+- type: x-customers
+  url: https://www.cryptomathic.com/customers/case-studies
+- type: x-customers
+  url: https://www.cryptomathic.com/customers/customers
+- type: x-customers
+  url: https://www.cryptomathic.com/customers/references
+- type: x-investor
+  url: https://www.cryptomathic.com/company/investors
+- type: x-linkedin
+  url: https://www.linkedin.com/company/cryptomathic
+- type: x-news
+  url: https://www.cryptomathic.com/news-events/news
+- type: x-news
+  url: https://www.cryptomathic.com/news-events/events
+- type: x-news
+  url: https://www.cryptomathic.com/news-events/blog
+- type: x-partner
+  url: https://www.cryptomathic.com/partners/partner-program
+- type: x-privacy
+  url: https://www.cryptomathic.com/creditsandprivacy
+- type: x-support
+  url: https://www.cryptomathic.com/services/support
+- type: x-twitter
+  url: https://twitter.com/CRYPTOMAThIC
+- type: x-website
+  url: https://www.cryptomathic.com
+- type: x-white-papers
+  url: https://www.cryptomathic.com/resources/white-papers
+- type: x-white-papers
+  url: https://www.cryptomathic.com/#white-papers
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

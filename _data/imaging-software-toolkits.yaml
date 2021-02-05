@@ -1,0 +1,82 @@
+---
+name: Imaging Software Toolkits
+description: Accusoft is a software development company specializing in content processing,
+  conversion, and automation. We enable users to solve content challenges.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "175399"
+url: https://raw.githubusercontent.com/api-network/organizations/main/imaging-software-toolkits.yaml
+tags:
+- Visual
+- Companies
+apis: []
+x-common:
+- type: x-website
+  url: http://www.accusoft.com
+- type: x-about
+  url: https://www.accusoft.com/company/about/
+- type: x-about
+  url: https://www.accusoft.com/company/about/history/
+- type: x-about
+  url: https://www.accusoft.com/company/about/innovation/
+- type: x-code
+  url: https://www.accusoft.com/products/sdks/
+- type: x-code
+  url: https://www.accusoft.com/products/sdks/smartzone/
+- type: x-contact
+  url: https://www.accusoft.com/contact-us/
+- type: x-customers
+  url: https://www.accusoft.com/company/customers/
+- type: x-developer
+  url: https://www.accusoft.com/products/apis/
+- type: x-facebook
+  url: https://www.facebook.com/accusoft/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/accusoft/
+- type: x-news
+  url: https://www.accusoft.com/company/news-events/
+- type: x-news
+  url: https://www.accusoft.com/company/news-events/events/
+- type: x-press
+  url: https://www.accusoft.com/products/sdks/imagxpress/
+- type: x-press
+  url: https://www.accusoft.com/products/sdks/micr-xpress/
+- type: x-press
+  url: https://www.accusoft.com/products/sdks/ocr-xpress/
+- type: x-press
+  url: https://www.accusoft.com/products/sdks/pdf-xpress/
+- type: x-press
+  url: https://www.accusoft.com/products/sdks/scanfix-xpress/
+- type: x-support
+  url: https://www.accusoft.com/support/
+- type: x-support
+  url: https://www.accusoft.com/support/support-plans/
+- type: x-support
+  url: https://www.accusoft.com/support/support-by-product/
+- type: x-support
+  url: https://www.accusoft.com/support/enablement-services/
+- type: x-terms-of-service
+  url: https://www.accusoft.com/company/legal/
+- type: x-terms-of-service
+  url: https://www.accusoft.com/company/legal/privacy/
+- type: x-terms-of-service
+  url: https://www.accusoft.com/company/legal/credit-policy/
+- type: x-terms-of-service
+  url: https://www.accusoft.com/company/legal/licensing/
+- type: x-terms-of-service
+  url: https://www.accusoft.com/industries/legal/
+- type: x-twitter
+  url: https://twitter.com/accusoft
+- type: x-website
+  url: https://www.accusoft.com
+- type: x-youtube
+  url: https://www.youtube.com/user/AccusoftCorporation
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

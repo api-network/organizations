@@ -1,0 +1,24 @@
+---
+name: Snitz Forum
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "982010"
+url: https://raw.githubusercontent.com/api-network/organizations/main/snitz-forum.yaml
+tags:
+- Message Boards
+apis: []
+x-common:
+- type: x-forum
+  url: http://forum.snitz.com/
+- type: x-website
+  url: https://forum.snitz.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

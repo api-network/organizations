@@ -1,0 +1,39 @@
+---
+name: Berkeley Open Infrastructure for Network Computing (BOINC)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1704"
+url: https://raw.githubusercontent.com/api-network/organizations/main/berkeley-open-infrastructure-for-network-computing-boinc.yaml
+tags:
+- Platforms
+- Distributed Computing
+apis: []
+x-common:
+- type: x-forum
+  url: https://boinc.berkeley.edu/forum_thread.php?id=13385
+- type: x-forum
+  url: https://boinc.berkeley.edu/forum_thread.php?id=13352
+- type: x-forum
+  url: https://boinc.berkeley.edu/forum_thread.php?id=13283
+- type: x-forum
+  url: https://boinc.berkeley.edu/forum_thread.php?id=13282
+- type: x-forum
+  url: https://boinc.berkeley.edu/forum_thread.php?id=13108
+- type: x-github
+  url: https://github.com/BOINC/boinc
+- type: x-github
+  url: https://github.com/AustinConlon/BOINC-iOS-watchOS
+- type: x-news
+  url: https://boinc.berkeley.edu/old_news.php
+- type: x-website
+  url: https://boinc.berkeley.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

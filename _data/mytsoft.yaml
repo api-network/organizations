@@ -1,0 +1,32 @@
+---
+name: My-T-Soft
+description: My-T-Soft Build-A-Board keyboard software with on-screen keyboard designer
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mytsoft.yaml
+tags:
+- Virtual Keyboard
+- Touchscreen Software
+- Touch Screen Keyboard Software
+- On-screen Keyboard
+- Keyboard On Screen
+- Build-a-board
+- Automation
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.build-a-board.com
+- type: x-login
+  url: https://www.build-a-board.com/accounts/?view=login
+- type: x-website
+  url: https://www.build-a-board.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

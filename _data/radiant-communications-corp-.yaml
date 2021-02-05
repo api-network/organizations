@@ -1,0 +1,44 @@
+---
+name: Radiant Communications Corp.
+description: Radiant Communications is a leading provider of managed networks, cloud
+  hosting, and voice services for medium-sized businesses in Canada.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "456061"
+url: https://raw.githubusercontent.com/api-network/organizations/main/radiant-communications-corp-.yaml
+tags:
+- VOIP
+- Voice
+- SIP Trunk
+- Secure
+- Radiant
+- Private
+- Phone
+- PCIDSS
+- PCI
+- PBX
+- Network
+- Managed
+- Hosting
+- HIPAA
+- DSL
+- Customer
+- CSAE3416
+- Canada
+- Business
+- Analytics
+- AICPA
+- Affordable
+apis: []
+x-common:
+- type: x-website
+  url: https://www.radiant.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

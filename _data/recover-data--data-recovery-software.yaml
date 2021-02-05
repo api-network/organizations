@@ -1,0 +1,40 @@
+---
+name: Recover Data - Data Recovery Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6591320"
+url: https://raw.githubusercontent.com/api-network/organizations/main/recover-data--data-recovery-software.yaml
+tags:
+- Error Checking And Repair
+apis: []
+x-common:
+- type: x-website
+  url: http://www.recoverdatatools.com
+- type: x-about
+  url: https://www.recoverdatatools.com/about.html
+- type: x-blog
+  url: https://recoverdata-tool.blogspot.in/
+- type: x-facebook
+  url: https://www.facebook.com/Recoverdatatool
+- type: x-news
+  url: https://www.recoverdatatools.com/news.html
+- type: x-privacy
+  url: https://www.recoverdatatools.com/privacy-policy.html
+- type: x-support
+  url: https://www.recoverdatatools.com/support.html
+- type: x-support
+  url: https://www.providesupport.com?messenger=recoverdata
+- type: x-twitter
+  url: https://twitter.com/Recover_data
+- type: x-website
+  url: https://www.recoverdatatools.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

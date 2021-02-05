@@ -1,0 +1,22 @@
+---
+name: My WordPress
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6163339"
+url: https://raw.githubusercontent.com/api-network/organizations/main/my-wordpress.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-website
+  url: https://mywordpress.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,54 @@
+---
+name: LumenVox
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "539298"
+url: https://raw.githubusercontent.com/api-network/organizations/main/lumenvox.yaml
+tags:
+- Telephony
+apis: []
+x-common:
+- type: x-about
+  url: https://www.lumenvox.com/about-lumenvox/
+- type: x-blog
+  url: https://www.lumenvox.com/blog-v1/
+- type: x-blog
+  url: https://www.lumenvox.com/blog/
+- type: x-careers
+  url: https://www.lumenvox.com/careers/
+- type: x-case-studies
+  url: https://www.lumenvox.com/case-studies/
+- type: x-contact
+  url: https://www.lumenvox.com/contact-center/
+- type: x-contact
+  url: https://www.lumenvox.com/contact-us/
+- type: x-customers
+  url: https://www.lumenvox.com/customers/
+- type: x-events
+  url: https://www.lumenvox.com/events/
+- type: x-facebook
+  url: https://www.facebook.com/LumenVox/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/lumenvox
+- type: x-privacy
+  url: https://www.lumenvox.com/privacy/
+- type: x-support
+  url: https://www.lumenvox.com/support/
+- type: x-support
+  url: https://www.lumenvox.com/technical-support/
+- type: x-terms-of-service
+  url: https://www.lumenvox.com/legal/
+- type: x-twitter
+  url: https://twitter.com/lumenvox
+- type: x-website
+  url: https://www.lumenvox.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

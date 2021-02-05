@@ -1,0 +1,26 @@
+---
+name: YaTeX - Yet Another TeX mode for Emacs
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/yatex--yet-another-tex-mode-for-emacs.yaml
+tags:
+- TeX
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/cask/cask
+- type: x-github
+  url: https://github.com/dimitri/el-get
+- type: x-website
+  url: https://www.yatex.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

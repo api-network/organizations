@@ -1,0 +1,63 @@
+---
+name: Red Canary
+description: Every organization needs detection and response capabilities to defend
+  against today???s threats. Learn how Red Canary can help your company stay protected.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/red-canary-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/red-canary.yaml
+tags:
+- Security
+- Security
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: https://www.redcanary.com
+- type: x-blog
+  url: https://redcanary.com/blog/
+- type: x-blog
+  url: https://www.redcanary.co/blog/
+- type: x-blog-rss
+  url: http://www.redcanary.co/feed
+- type: x-careers
+  url: https://redcanary.com/careers/
+- type: x-case-studies
+  url: https://redcanary.com/resources/?type=case-studies
+- type: x-case-studies
+  url: https://redcanary.com/resources/case-studies/mac-os/
+- type: x-contact
+  url: https://redcanary.com/contact-us-old/
+- type: x-contact
+  url: https://redcanary.com/contact-us/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/red-canary
+- type: x-email
+  url: info@redcanary.com
+- type: x-email
+  url: sales@redcanary.com
+- type: x-email
+  url: research@redcanary.com
+- type: x-github
+  url: https://github.com/redcanaryco/cb-response-surveyor
+- type: x-linkedin
+  url: https://www.linkedin.com/company/redcanary/
+- type: x-news
+  url: https://redcanary.com/news-events/
+- type: x-security
+  url: https://redcanary.com/topic/security-operations/
+- type: x-twitter
+  url: https://twitter.com/redcanaryco
+- type: x-webinars
+  url: https://redcanary.com/resources/?type=webinars
+- type: x-website
+  url: https://www.redcanary.co/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

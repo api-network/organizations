@@ -1,0 +1,49 @@
+---
+name: Local Motors
+description: Local Motors is a ground mobility company focused on shaping the future
+  for the better. Founded in 2007 with a belief in open collaboration and co-creation,
+  Local Motors began low volume vehicle manufacturing of open-source designs using
+  multiple micro...
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/local-motors.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "750295"
+url: https://raw.githubusercontent.com/api-network/organizations/main/local-motors.yaml
+tags:
+- Manufacturing
+- Internet Of Things
+- Have API
+- Automobiles
+- API Provider
+apis: []
+x-common:
+- type: x-blog
+  url: https://localmotors.com/blog/
+- type: x-blog-rss
+  url: https://localmotors.com/blog/rss/
+- type: x-careers
+  url: https://localmotors.com/careers/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/local-motors
+- type: x-email
+  url: ollidemo@localmotors.com
+- type: x-github
+  url: https://github.com/localmotors
+- type: x-news
+  url: https://localmotors.com/news/
+- type: x-press
+  url: https://localmotors.com/press/
+- type: x-privacy
+  url: https://localmotors.com/privacy-policy/
+- type: x-twitter
+  url: https://twitter.com/localmotors
+- type: x-website
+  url: https://localmotors.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

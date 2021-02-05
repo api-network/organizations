@@ -1,0 +1,46 @@
+---
+name: University of Texas at Dallas
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9942"
+url: https://raw.githubusercontent.com/api-network/organizations/main/university-of-texas-at-dallas.yaml
+tags:
+- Texas
+apis: []
+x-common:
+- type: x-about
+  url: https://cs.utdallas.edu/about/
+- type: x-about
+  url: https://cs.utdallas.edu/about/history/
+- type: x-about
+  url: https://cs.utdallas.edu/about/computing-facilities/
+- type: x-about
+  url: https://cs.utdallas.edu/about/accreditation/
+- type: x-about
+  url: https://cs.utdallas.edu/about/mission/
+- type: x-blog
+  url: https://cs.utdallas.edu/front-page/cs-blog/
+- type: x-careers
+  url: https://jobs.utdallas.edu/postings/13359
+- type: x-contact
+  url: https://cs.utdallas.edu/contact
+- type: x-events
+  url: https://cs.utdallas.edu/events/
+- type: x-facebook
+  url: https://www.facebook.com/UTDCSDept
+- type: x-news
+  url: https://cs.utdallas.edu/news/
+- type: x-twitter
+  url: https://twitter.com/csDeptHead
+- type: x-website
+  url: https://cs.utdallas.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

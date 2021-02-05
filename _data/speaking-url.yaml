@@ -1,0 +1,28 @@
+---
+name: Speaking URL
+description: <p>API to convert arbitrary, multi-lingual text into a human and seo-friendly-url.
+  Clean URLs, URL slugs, user-friendly URLs and SEO-friendly URLs all pretty much
+  refer to the same thing. The term "Speaking URL" originates from the Typo3 CMS system
+  around 2004, although the idea of URLs being as human readable as possible stems
+  from 1998 and 1999.</p>
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "2"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/speaking-url.yaml
+tags:
+- Profile
+- Have API
+- Copy
+apis: []
+x-common:
+- type: x-website
+  url: http://speakingurl.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

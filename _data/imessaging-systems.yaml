@@ -1,0 +1,30 @@
+---
+name: iMessaging Systems
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/imessaging-systems.yaml
+tags:
+- Voice Response Systems
+apis: []
+x-common:
+- type: x-about
+  url: https://www.imessagingsystems.com/about
+- type: x-case-studies
+  url: https://www.imessagingsystems.com/case-studies
+- type: x-contact
+  url: https://www.imessagingsystems.com/contact
+- type: x-support
+  url: https://www.imessagingsystems.com/support
+- type: x-website
+  url: https://www.imessagingsystems.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

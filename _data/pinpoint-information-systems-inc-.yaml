@@ -1,0 +1,36 @@
+---
+name: PINpoint Information Systems Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4787143"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pinpoint-information-systems-inc-.yaml
+tags:
+- Automation
+apis: []
+x-common:
+- type: x-about
+  url: https://pinpointinfo.com/about-pinpoint/
+- type: x-about
+  url: https://pinpointinfo.com/about-pinpoint/our-partners/
+- type: x-contact
+  url: http://pinpointinfo.com/contact/
+- type: x-contact
+  url: https://pinpointinfo.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/pinpointinformationsystems/
+- type: x-news
+  url: https://pinpointinfo.com/about-pinpoint/news/
+- type: x-twitter
+  url: https://twitter.com/P1NP01NT1NF0
+- type: x-website
+  url: https://pinpointinfo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

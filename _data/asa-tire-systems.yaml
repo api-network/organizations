@@ -1,0 +1,45 @@
+---
+name: ASA Tire Systems
+description: ASA offers tire shop management, POS software; accounting; ecommerce;
+  and websites solutions for retail, commercial, wholesale dealers and retreaders
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/asa-tire-systems.yaml
+tags:
+- Automotive Management
+apis: []
+x-common:
+- type: x-about
+  url: https://www.asaauto.com/about-asa/
+- type: x-careers
+  url: https://www.asaauto.com/careers/
+- type: x-contact
+  url: https://www.asaauto.com/contacts/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/asa-tire-systems
+- type: x-login
+  url: https://asatire.force.com/login
+- type: x-news
+  url: https://www.asaauto.com/news-events/
+- type: x-news
+  url: https://news.asaauto.com/blog
+- type: x-privacy
+  url: https://www.asaauto.com/privacy-policy/
+- type: x-support
+  url: https://www.asaauto.com/product-support/
+- type: x-terms-of-service
+  url: https://www.asaauto.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/asa_automotive
+- type: x-website
+  url: https://www.asatire.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

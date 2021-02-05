@@ -1,0 +1,38 @@
+---
+name: ScrapeLogo
+description: <p>ScrapeLogo has been discovered and developed by Maintop Businesses,
+  originally only for internal purposes. It was coded as an independent service for
+  several Maintop&rsquo;s B2B projects. When requests from other companies multiplied,
+  a private beta version was launched too. We are now looking for the first beta testers,
+  who would like to show company logos on their websites and help us improve the quality
+  and precision of our algorithm.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/scrape-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2542280"
+url: https://raw.githubusercontent.com/api-network/organizations/main/scrapelogo.yaml
+tags:
+- Scraping Tools
+- Scraping
+- Logos
+- Have API
+apis: []
+x-common:
+- type: x-about
+  url: http://scrapelogo.com/about/
+- type: x-base
+  url: http://data.scrapelogo.com/
+- type: x-developers
+  url: http://scrapelogo.com/dead-simple-api/
+- type: x-press
+  url: http://www.wordpress.org
+- type: x-website
+  url: http://scrapelogo.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,52 @@
+---
+name: novomind
+description: "Intelligente Softwarel\xF6sungen f\xFCr E-Commerce und Customer Service:
+  Call Center Software, Online Shop Software, PIM-System u. Marktplatz Software der
+  novomind AG."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "545722"
+url: https://raw.githubusercontent.com/api-network/organizations/main/novomind.yaml
+tags:
+- "Softwarel\xF6sung"
+- Software
+- Shopsystem
+- PIM-System
+- Online Shop Software
+- Novomind AG
+- Novomind
+- Marktplatzintegration
+- Marktplatz Software
+- E-Shops
+- E-commerce
+- Customer Service
+- Contact Center
+- Commercial Applications
+- Commerce Und Customer Service Software
+- Commerce
+- Call Center Software
+apis: []
+x-common:
+- type: x-website
+  url: http://www.novomind.com
+- type: x-facebook
+  url: https://www.facebook.com/novomindAG
+- type: x-instagram
+  url: https://www.instagram.com/novomind_ag/
+- type: x-linkedin
+  url: https://de.linkedin.com/company/novomind-ag
+- type: x-twitter
+  url: https://twitter.com/novomind?ref_src=twsrc%5Etfw
+- type: x-twitter
+  url: https://twitter.com/novomind
+- type: x-website
+  url: https://www.novomind.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

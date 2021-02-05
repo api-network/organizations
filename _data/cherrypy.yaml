@@ -1,0 +1,32 @@
+---
+name: CherryPy
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "958743"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cherrypy.yaml
+tags:
+- Web Frameworks
+apis: []
+x-common:
+- type: x-documentation
+  url: https://docs.cherrypy.org/en/latest/
+- type: x-documentation
+  url: https://docs.cherrypy.org/en/latest/basics.html#config
+- type: x-github
+  url: https://github.com/cherrypy/cherrypy
+- type: x-github
+  url: https://github.com/rnmp
+- type: x-github
+  url: https://cherrypy.github.io
+- type: x-website
+  url: https://www.cherrypy.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

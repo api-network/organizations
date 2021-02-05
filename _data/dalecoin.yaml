@@ -1,0 +1,29 @@
+---
+name: DALECOIN
+description: DaleCoin is an ERC20 token based on the Ethereum blockchain which shall
+  serve as a payment token for goods and services
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27281-dalecoin-org.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1361755"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dalecoin.yaml
+tags:
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://www.dalecoin.org
+- type: x-email
+  url: support@dalecoin.org
+- type: x-twitter
+  url: https://twitter.com/DalecoinN
+- type: x-website
+  url: http://dalecoin.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,29 @@
+---
+name: Genesis Mining
+description: Bitcoin is the currency of the future & Genesis Mining is the largest
+  cloud mining company on the market. Mine bitcoin through the cloud, get started
+  today!
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/26532-genesis-mining.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "3669"
+url: https://raw.githubusercontent.com/api-network/organizations/main/genesis-mining.yaml
+tags:
+- Marketplaces
+- Blockchain
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/genesis-mining
+- type: x-twitter
+  url: https://twitter.com/GenesisMining
+- type: x-website
+  url: http://genesis-mining.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

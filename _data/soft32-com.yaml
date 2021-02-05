@@ -1,0 +1,67 @@
+---
+name: Soft32.com
+description: Soft32, a pioneer of downloads and reviews website, delivers up-to-date
+  software, free downloads and reviews for Windows, Mac, iPhone, iPad and Android.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "15265"
+url: https://raw.githubusercontent.com/api-network/organizations/main/soft32-com.yaml
+tags:
+- Directories
+apis: []
+x-common:
+- type: x-website
+  url: http://www.soft32.com/
+- type: x-blog
+  url: https://www.soft32.com/blog/?rel=menu
+- type: x-blog
+  url: https://www.soft32.com/blog/?rel=footer
+- type: x-careers
+  url: https://jobs.soft32.com
+- type: x-code
+  url: https://klite-codec-pack-update.soft32.com
+- type: x-code
+  url: https://1by1-codec-pack.soft32.com
+- type: x-contact
+  url: https://www.soft32.com/contact-us/?rel=footer
+- type: x-developer
+  url: http://developer.soft32.com
+- type: x-documentation
+  url: https://godocs-for-google-docs.soft32.com
+- type: x-facebook
+  url: https://www.facebook.com/soft32com
+- type: x-press
+  url: https://visual-basic-express.soft32.com
+- type: x-press
+  url: https://microsoft-visual-cpp-express.soft32.com
+- type: x-press
+  url: https://outlook-express.soft32.com/mac
+- type: x-security
+  url: https://www.soft32.com/windows/security-antivirus/
+- type: x-terms-of-service
+  url: https://www.soft32.com/legal/
+- type: x-terms-of-service
+  url: https://www.soft32.com/legal/privacy/
+- type: x-terms-of-service
+  url: https://www.soft32.com/legal/terms/
+- type: x-terms-of-service
+  url: https://www.soft32.com/legal/copyright/
+- type: x-terms-of-service
+  url: https://www.soft32.com/legal/eula/
+- type: x-terms-of-service
+  url: https://www.soft32.com/legal/dmca/
+- type: x-terms-of-service
+  url: https://www.soft32.com/legal/uninstall/
+- type: x-twitter
+  url: https://www.twitter.com/Soft32
+- type: x-website
+  url: https://www.soft32.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

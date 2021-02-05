@@ -1,0 +1,24 @@
+---
+name: Optenet PC Parental Controls
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/optenet-pc-parental-controls.yaml
+tags:
+- Child Safety
+apis: []
+x-common:
+- type: x-developer
+  url: http://developer.optenetpc.com
+- type: x-website
+  url: https://www.optenetpc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

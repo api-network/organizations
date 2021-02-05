@@ -1,0 +1,45 @@
+---
+name: Regex101
+description: Online regex tester, debugger with highlighting for PHP, PCRE, Python,
+  Golang and JavaScript.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "13857"
+url: https://raw.githubusercontent.com/api-network/organizations/main/regex101.yaml
+tags:
+- Tools
+- Tester
+- REgular Expressions
+- Regular Expression
+- RegEx
+- Python
+- PHP
+- PCRE
+- Match
+- JavaScript
+- Helper
+- GoLang
+- Explainer
+- Editor
+- Debugger
+apis: []
+x-common:
+- type: x-website
+  url: https://regex101.com/
+- type: x-github
+  url: https://github.com/firasdib/Regex101/issues
+- type: x-github
+  url: https://github.com/firasdib/Regex101/wiki
+- type: x-twitter
+  url: https://twitter.com/regex101
+- type: x-website
+  url: https://regex101.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,51 @@
+---
+name: Continental Imaging Products
+description: CIP Office Technology provides industry leading office technology services
+  including MFP copiers, document management, maintenance, and software.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8644571"
+url: https://raw.githubusercontent.com/api-network/organizations/main/continental-imaging-products.yaml
+tags:
+- Printers
+apis: []
+x-common:
+- type: x-website
+  url: http://bit.ly/39RKizU
+- type: x-careers
+  url: https://gocip.com/careers/
+- type: x-contact
+  url: https://gocip.com/contact-us/
+- type: x-contact
+  url: https://www.olark.com/site/6338-548-10-8046/contact
+- type: x-facebook
+  url: https://www.facebook.com/cipfb
+- type: x-feed
+  url: http://aurion.temp.domains/~gocip/?feed=rss2
+- type: x-instagram
+  url: https://instagram.com/gocip
+- type: x-news
+  url: https://gocip.com/news/
+- type: x-news
+  url: https://gocip.com/category/industry-news/
+- type: x-news
+  url: https://gocip.com/category/product-news/
+- type: x-security
+  url: https://gocip.com/sharp-security/
+- type: x-twitter
+  url: http://twitter.com/gocip
+- type: x-twitter
+  url: https://twitter.com/@gocip
+- type: x-website
+  url: https://www.gocip.com
+- type: x-youtube
+  url: https://www.youtube.com/user/CIPDocumentSolutions
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

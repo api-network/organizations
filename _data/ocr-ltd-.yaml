@@ -1,0 +1,55 @@
+---
+name: OCR Ltd.
+description: World-class technolgy solutions for large-scale deployments delivered
+  on-time and on-budget.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1554055"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ocr-ltd-.yaml
+tags:
+- Barcode
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ocr.ca
+- type: x-code
+  url: https://www.ocr.ca/solutions/barcode-label-printing/
+- type: x-code
+  url: https://www.ocr.ca/solutions/barcode-verification/
+- type: x-code
+  url: https://www.barcodesinc.ca/
+- type: x-code
+  url: https://www.barcodesinc.ca/scanning.c
+- type: x-code
+  url: https://www.barcodesinc.ca/mobile-computing.c
+- type: x-code
+  url: https://www.barcodesinc.ca/printing.c
+- type: x-code
+  url: https://www.barcodesinc.ca/rfid.c
+- type: x-code
+  url: https://www.barcodesinc.ca/pos.c
+- type: x-contact
+  url: https://www.ocr.ca/contact/
+- type: x-facebook
+  url: https://www.facebook.com/ocrcanada
+- type: x-linkedin
+  url: https://www.linkedin.com/company/ocr-canada
+- type: x-security
+  url: https://www.ocr.ca/solutions/access-control-security/
+- type: x-support
+  url: https://support.ocr.ca/stock/Default.aspx/Login
+- type: x-support
+  url: https://www.ocr.ca/support/
+- type: x-twitter
+  url: https://www.twitter.com/ocrcanada
+- type: x-website
+  url: https://www.ocr.ca
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

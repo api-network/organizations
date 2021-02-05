@@ -1,0 +1,36 @@
+---
+name: BinckBank
+description: BinckBank is an independent online bank for investors active in the Netherlands,
+  Belgium, France, Italy and Spain.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28067-www-binck-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6114521"
+url: https://raw.githubusercontent.com/api-network/organizations/main/binckbank.yaml
+tags:
+- Profile
+- Have Swagger
+- Have API Paths
+- EU Bank
+- Banks
+- Banking
+apis: []
+x-common:
+- type: x-website
+  url: http://www.binck.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/binckbank
+- type: x-email
+  url: ir@binck.com
+- type: x-twitter
+  url: https://twitter.com/BinckBank
+- type: x-website
+  url: https://www.binck.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

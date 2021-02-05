@@ -1,0 +1,50 @@
+---
+name: Illumio
+description: Illumio is an American business data center and cloud computing security
+  company.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29351-illumio-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "272870"
+url: https://raw.githubusercontent.com/api-network/organizations/main/illumio.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://www.illumio.com
+- type: x-blog
+  url: https://www.illumio.com/blog?hsLang=en#gsc.tab=0
+- type: x-contact
+  url: https://www.illumio.com/contact-us?hsLang=en
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/illumio
+- type: x-customers
+  url: https://www.illumio.com/customers?hsLang=en
+- type: x-email
+  url: support@illumio.com
+- type: x-email
+  url: legal@illumio.com
+- type: x-email
+  url: patents@illumio.com
+- type: x-email
+  url: contracts@illumio.com
+- type: x-email
+  url: trademarks@illumio.com
+- type: x-email
+  url: privacy@illumio.com
+- type: x-facebook
+  url: https://www.facebook.com/illumio
+- type: x-linkedin
+  url: https://www.linkedin.com/company/illumio
+- type: x-twitter
+  url: https://twitter.com/illumio
+- type: x-website
+  url: http://illumio.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

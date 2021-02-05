@@ -1,0 +1,67 @@
+---
+name: Printfection
+description: Use the Printfection API to integrate with your code. Connect to Zapier
+  or visit our GitHub repo to write your own integration.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/462_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "122139"
+url: https://raw.githubusercontent.com/api-network/organizations/main/printfection.yaml
+tags:
+- Shopping
+- Merchandise
+- Has API
+apis: []
+x-common:
+- type: x-website
+  url: http://developers.printfection.com
+- type: x-website
+  url: http://www.printfection.com
+- type: x-blog
+  url: http://blog.printfection.com
+- type: x-blog
+  url: https://www.printfection.com/blog/
+- type: x-blog-rss
+  url: http://feeds.feedburner.com/PrintfectionBlog
+- type: x-contact
+  url: https://www.printfection.com/contact/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/printfection
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/printfection
+- type: x-email
+  url: work@printfection.com
+- type: x-email
+  url: support@printfection.com
+- type: x-github
+  url: http://printfection.github.io/API-Documentation/
+- type: x-github
+  url: https://github.com/Printfection/
+- type: x-github
+  url: https://github.com/Printfection
+- type: x-instagram
+  url: https://www.instagram.com/printfection/
+- type: x-integrations
+  url: https://www.printfection.com/features/integrations/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/printfection
+- type: x-login
+  url: https://app.printfection.com/account/secure_login.php
+- type: x-pricing
+  url: https://www.printfection.com/pricing/
+- type: x-support
+  url: https://help.printfection.com/hc/
+- type: x-terms-of-service
+  url: https://legal.printfection.com/#privacy-policy
+- type: x-terms-of-service
+  url: https://legal.printfection.com/#terms-of-use
+- type: x-twitter
+  url: https://twitter.com/printfection
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

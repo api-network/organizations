@@ -1,0 +1,89 @@
+---
+name: Paessler AG
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "20386"
+url: https://raw.githubusercontent.com/api-network/organizations/main/paessler-ag.yaml
+tags:
+- Network Management
+- Monitoring
+apis: []
+x-common:
+- type: x-about
+  url: https://www.paessler.com/company/about-us
+- type: x-blog
+  url: https://blog.paessler.com
+- type: x-case-studies
+  url: https://www.paessler.com/learn/casestudies
+- type: x-code
+  url: https://www.paessler.com/tools/bitdecoder
+- type: x-contact
+  url: https://www.paessler.com/support/contact
+- type: x-contact
+  url: https://www.paessler.com/company/contact
+- type: x-contact
+  url: https://www.paessler.com/company/contact/
+- type: x-contact
+  url: https://www.paessler.com/company/contact#imprint
+- type: x-developer
+  url: http://developer.paessler.com
+- type: x-events
+  url: https://www.paessler.com/company/events
+- type: x-facebook
+  url: http://www.facebook.com/PRTG.Network.Monitor
+- type: x-instagram
+  url: https://www.instagram.com/paesslerag/
+- type: x-linkedin
+  url: http://www.linkedin.com/company/409588
+- type: x-login
+  url: https://shop.paessler.com/accounts/login/
+- type: x-partner
+  url: https://www.paessler.com/app/partners/#/
+- type: x-partner
+  url: https://www.paessler.com/app/partners/#/?region=japan
+- type: x-partner
+  url: https://www.paessler.com/app/partners/
+- type: x-partner
+  url: https://www.paessler.com/partners/technologypartners
+- type: x-partner
+  url: https://www.paessler.com/partners/uptimealliance
+- type: x-partner
+  url: https://www.paessler.com/partners/partner-portal
+- type: x-partner
+  url: https://www.paessler.com/partners
+- type: x-press
+  url: https://www.paessler.com/press
+- type: x-pricing
+  url: https://www.paessler.com/pricing
+- type: x-privacy
+  url: https://www.paessler.com/company/privacypolicy
+- type: x-support
+  url: https://www.paessler.com/support/getting-started
+- type: x-support
+  url: https://www.paessler.com/support/how-to
+- type: x-support
+  url: https://www.paessler.com/support/trainings
+- type: x-support
+  url: https://www.paessler.com/support/faqs
+- type: x-support
+  url: https://www.paessler.com/support
+- type: x-terms-of-service
+  url: https://www.paessler.com/company/terms
+- type: x-twitter
+  url: https://twitter.com/paesslerag
+- type: x-webinars
+  url: https://www.paessler.com/learn/webinars
+- type: x-website
+  url: https://www.paessler.com
+- type: x-youtube
+  url: https://www.youtube.com/user/PaesslerAG
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,33 @@
+---
+name: Plexus Systems
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "121978"
+url: https://raw.githubusercontent.com/api-network/organizations/main/plexus-systems.yaml
+tags:
+- Manufacturing
+- Discrete
+apis: []
+x-common:
+- type: x-website
+  url: http://www.plex.com
+- type: x-developer
+  url: http://dev.plex.com
+- type: x-facebook
+  url: https://www.facebook.com/PlexSystems
+- type: x-twitter
+  url: https://twitter.com/PlexSystems
+- type: x-website
+  url: https://www.plex.com
+- type: x-youtube
+  url: https://www.youtube.com/user/PlexSystems/featured
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,42 @@
+---
+name: Wistia
+description: We're your friendly neighborhood video platform. Create, host, share,
+  and measure beautiful videos like the human you are.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28827-wistia-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6587"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wistia.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: https://wistia.com/about/brand-affinity-marketing
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/wistia
+- type: x-email
+  url: privacy@wistia.com
+- type: x-email
+  url: ben@wistia.com
+- type: x-facebook
+  url: https://www.facebook.com/wistia
+- type: x-instagram
+  url: https://www.instagram.com/wistia
+- type: x-linkedin
+  url: https://www.linkedin.com/company/wistia
+- type: x-twitter
+  url: https://twitter.com/wistia
+- type: x-twitter
+  url: https://www.twitter.com/wistia
+- type: x-webhooks
+  url: https://wistia.com/support/developers/webhooks
+- type: x-website
+  url: https://wistia.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

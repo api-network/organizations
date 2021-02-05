@@ -1,0 +1,24 @@
+---
+name: Pressure Profile Systems, Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "880200"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pressure-profile-systems-inc-.yaml
+tags:
+- Components
+apis: []
+x-common:
+- type: x-status
+  url: https://status.squarespace.com
+- type: x-website
+  url: https://www.pressureprofile.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,38 @@
+---
+name: Linux at NC State
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5541"
+url: https://raw.githubusercontent.com/api-network/organizations/main/linux-at-nc-state.yaml
+tags:
+- North Carolina
+apis: []
+x-common:
+- type: x-blog
+  url: https://www.linux.ncsu.edu/blog/
+- type: x-feed
+  url: https://www.linux.ncsu.edu/feed/
+- type: x-feed
+  url: https://www.linux.ncsu.edu/comments/feed/
+- type: x-github
+  url: https://pages.github.ncsu.edu/ncstate-linux/
+- type: x-login
+  url: https://www.linux.ncsu.edu/wp-login.php
+- type: x-press
+  url: https://wordpress.org/
+- type: x-privacy
+  url: http://www.ncsu.edu/privacy/
+- type: x-support
+  url: http://help.ncsu.edu
+- type: x-website
+  url: https://www.linux.ncsu.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

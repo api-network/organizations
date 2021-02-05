@@ -1,0 +1,64 @@
+---
+name: FirmaSite
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2594831"
+url: https://raw.githubusercontent.com/api-network/organizations/main/firmasite.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-website
+  url: http://unsalkorkmaz.com
+- type: x-blog
+  url: https://theme.firmasite.com/blog/
+- type: x-contact
+  url: https://theme.firmasite.com/contact-us/
+- type: x-documentation
+  url: https://theme.firmasite.com/docs/structure/
+- type: x-documentation
+  url: https://theme.firmasite.com/docs/license/
+- type: x-press
+  url: http://wordpress.org/themes/firmasite
+- type: x-press
+  url: http://codex.wordpress.org/Create_A_Network
+- type: x-press
+  url: http://buddypress.org/
+- type: x-press
+  url: http://bbpress.org/
+- type: x-press
+  url: http://wordpress.org/themes/firmasite/
+- type: x-press
+  url: http://en.support.wordpress.com/customizer/
+- type: x-press
+  url: http://theme.firmasite.com/members/newellpress/
+- type: x-press
+  url: http://bbpress.org
+- type: x-press
+  url: http://codex.wordpress.org/Post_Formats
+- type: x-press
+  url: http://codex.wordpress.org/Embeds
+- type: x-showcase
+  url: https://theme.firmasite.com/category/showcase/
+- type: x-showcase
+  url: http://theme.firmasite.com/category/showcase/
+- type: x-support
+  url: https://theme.firmasite.com/professional-support/
+- type: x-support
+  url: https://theme.firmasite.com/support/view/popular/
+- type: x-support
+  url: https://theme.firmasite.com/support/view/no-replies/
+- type: x-twitter
+  url: https://twitter.com/unsalkorkmaz
+- type: x-website
+  url: https://theme.firmasite.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

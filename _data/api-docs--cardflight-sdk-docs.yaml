@@ -1,0 +1,26 @@
+---
+name: API Docs - CardFlight SDK Docs
+description: CardFlight makes it easy for small business owners to accept payments,
+  streamline operations, and more
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/eb7E1y2__400x400.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/api-docs--cardflight-sdk-docs.yaml
+tags: []
+apis: []
+x-common:
+- type: x-about
+  url: https://cardflight.com/about/
+- type: x-documentation
+  url: http://docs.cardflight.com/api_documentation/
+- type: x-website
+  url: https://cardflight.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

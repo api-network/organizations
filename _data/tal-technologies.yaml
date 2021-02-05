@@ -1,0 +1,36 @@
+---
+name: TAL Technologies
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/tal-technologies.yaml
+tags:
+- Communications
+apis: []
+x-common:
+- type: x-website
+  url: http://www.taltech.com
+- type: x-blog
+  url: http://www.taltech.com/blog
+- type: x-code
+  url: http://www.taltech.com/barcodesoftware
+- type: x-contact
+  url: http://www.taltech.com/company/contact
+- type: x-login
+  url: https://www.taltech.com/customer/login
+- type: x-support
+  url: http://www.taltech.com/support
+- type: x-twitter
+  url: https://twitter.com/taltechnologies
+- type: x-website
+  url: https://www.taltech.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

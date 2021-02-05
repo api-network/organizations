@@ -1,0 +1,47 @@
+---
+name: MaxMind
+description: MaxMind is a leading provider of IP intelligence and online fraud prevention
+  tools. Learn about GeoIP databases and services and minFraud services.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "18253"
+url: https://raw.githubusercontent.com/api-network/organizations/main/maxmind.yaml
+tags:
+- Personalization
+apis: []
+x-common:
+- type: x-website
+  url: http://www.maxmind.com
+- type: x-blog
+  url: https://blog.maxmind.com/
+- type: x-developer
+  url: https://dev.maxmind.com/geoip/geoip2/geolite2
+- type: x-developer
+  url: https://dev.maxmind.com
+- type: x-developer
+  url: https://dev.maxmind.com/minfraud/
+- type: x-developer
+  url: https://dev.maxmind.com/geoip/
+- type: x-developer
+  url: https://dev.maxmind.com/faq/
+- type: x-developer
+  url: http://dev.maxmind.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/maxmind
+- type: x-status
+  url: https://status.maxmind.com/
+- type: x-support
+  url: https://support.maxmind.com/
+- type: x-twitter
+  url: https://twitter.com/maxmind
+- type: x-website
+  url: https://www.maxmind.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

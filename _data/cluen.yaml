@@ -1,0 +1,43 @@
+---
+name: Cluen
+description: |-
+  Cluen has decades of recruitment database development and implementation experience spanning six continents. Cluen's solution, Encore, is used by executive search consultants, legal recruiters, in-house talent acquisition teams, government entities, universities, and venture capital/private equity firms all over the world.
+
+  Our technology helps organizations nurture important relationships, track historical data, and win new business. Encore is GDPR compliant, aggregates competitive insights, and works with any email program you choose.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1431641"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cluen.yaml
+tags:
+- Recruitment Management
+apis: []
+x-common:
+- type: x-about
+  url: https://www.cluen.com/about-us
+- type: x-contact
+  url: https://www.cluen.com/contact-us
+- type: x-gdpr
+  url: https://www.cluen.com/gdpr
+- type: x-linkedin
+  url: https://www.linkedin.com/company/the-cluen-corporation
+- type: x-news
+  url: https://www.cluen.com/news
+- type: x-news
+  url: https://www.cluen.com/news/candidate-database-is-dead
+- type: x-support
+  url: https://www.cluen.com/support
+- type: x-terms-of-service
+  url: https://www.cluen.com/legal-recruiters
+- type: x-twitter
+  url: https://twitter.com/cluenencore?lang=en
+- type: x-website
+  url: https://www.cluen.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

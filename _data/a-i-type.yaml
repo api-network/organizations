@@ -1,0 +1,22 @@
+---
+name: A.I.type
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2247556"
+url: https://raw.githubusercontent.com/api-network/organizations/main/a-i-type.yaml
+tags:
+- Keyboards
+apis: []
+x-common:
+- type: x-website
+  url: https://www.aitype.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

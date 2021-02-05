@@ -1,0 +1,70 @@
+---
+name: DMC Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "460527"
+url: https://raw.githubusercontent.com/api-network/organizations/main/dmc-inc-.yaml
+tags:
+- Automation
+apis: []
+x-common:
+- type: x-about
+  url: https://www.dmcinfo.com/about
+- type: x-about
+  url: https://www.dmcinfo.com/about/employee-bios
+- type: x-about
+  url: https://www.dmcinfo.com/about/core-values
+- type: x-about
+  url: https://www.dmcinfo.com/about/industries-served
+- type: x-about
+  url: https://www.dmcinfo.com/about/testimonials
+- type: x-about
+  url: https://www.dmcinfo.com/about/customer-service
+- type: x-about
+  url: https://www.dmcinfo.com/about/our-clients
+- type: x-about
+  url: https://www.dmcinfo.com/about/faq
+- type: x-blog
+  url: https://www.dmcinfo.com/latest-thinking/blog
+- type: x-careers
+  url: https://www.dmcinfo.com/careers
+- type: x-careers
+  url: https://www.dmcinfo.com/careers/benefits
+- type: x-careers
+  url: https://www.dmcinfo.com/careers/diversity-inclusion
+- type: x-case-studies
+  url: https://www.dmcinfo.com/latest-thinking/case-studies
+- type: x-contact
+  url: https://www.dmcinfo.com/contact
+- type: x-facebook
+  url: https://www.facebook.com/pages/DMC-Inc/107982009242929
+- type: x-instagram
+  url: https://www.instagram.com/dmcengineering
+- type: x-linkedin
+  url: https://www.linkedin.com/company/dmc-engineering
+- type: x-news
+  url: https://www.dmcinfo.com/latest-thinking/newsletter
+- type: x-open-source
+  url: https://www.dmcinfo.com/careers/open-positions
+- type: x-partner
+  url: https://www.dmcinfo.com/about/partners
+- type: x-press
+  url: https://www.dmcinfo.com/latest-thinking/press-room
+- type: x-twitter
+  url: https://twitter.com/DMC_Inc
+- type: x-website
+  url: https://www.dmcinfo.com
+- type: x-white-papers
+  url: https://www.dmcinfo.com/latest-thinking/white-papers
+- type: x-youtube
+  url: https://www.youtube.com/DMCEngineering
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

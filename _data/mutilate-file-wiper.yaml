@@ -1,0 +1,37 @@
+---
+name: Mutilate File Wiper
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mutilate-file-wiper.yaml
+tags:
+- Washer
+- Unerase
+- Undelete
+- Swap File
+- Shredders
+- Shred
+- Secure Deletion
+- Scrubbers
+- Scrubber
+- Scrub
+- Purge
+- Forensic Swacontent=
+- Erase
+- Deletion
+- Delete
+- Clean
+apis: []
+x-common:
+- type: x-website
+  url: https://mutilatefilewiper.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

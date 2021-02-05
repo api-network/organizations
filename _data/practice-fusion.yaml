@@ -1,0 +1,55 @@
+---
+name: Practice Fusion
+description: 'Find out all you need to know about EHRs from the #1 cloud-based electronic
+  health record platform for doctors and patients. Get the latest news, tips and updates
+  on EHR, QPP, CMS and Healthcare research and data. Our experts will guide help guide
+  you ...'
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/practice-fusion-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "22021"
+url: https://raw.githubusercontent.com/api-network/organizations/main/practice-fusion.yaml
+tags:
+- Healthcare
+- Healthcare
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.practicefusion.com
+- type: x-base
+  url: https://pfws.practicefusion.com/PFAPI/
+- type: x-blog
+  url: http://www.practicefusion.com/blog/
+- type: x-blog-rss
+  url: http://www.practicefusion.com/blog/feed/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/practice-fusion
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/practice-fusion
+- type: x-developers
+  url: https://developer.practicefusion.com/
+- type: x-facebook
+  url: http://www.facebook.com/practicefusion
+- type: x-github
+  url: https://github.com/practicefusion
+- type: x-linkedin
+  url: https://www.linkedin.com/company/practice-fusion/
+- type: x-signup
+  url: https://signup.practicefusion.com
+- type: x-support
+  url: https://help.practicefusion.com/s/
+- type: x-twitter
+  url: https://twitter.com/practicefusion
+- type: x-twitter
+  url: http://www.twitter.com/practicefusion
+- type: x-website
+  url: http://www.practicefusion.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,49 @@
+---
+name: CMS4i
+description: Designer and Developer of Web Sites and Web Applications for Manufacturing,
+  Sales Agencies, Distributors, Consultants, Healthcare and Law
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cms4i.yaml
+tags:
+- Web Sites
+- Web Design
+- Rep Web Site
+- Manufacturing
+- Legal
+- Internet
+- Industry
+- Industrial Web Sites
+- Industrial Distributor
+- Impact
+- Hosting
+- Healthcare
+- Distributor
+- Cymcms
+- Content Management
+- CMS
+- Application Development
+apis: []
+x-common:
+- type: x-website
+  url: http://www.cms4i.com
+- type: x-blog
+  url: http://blog.cms4i.com
+- type: x-facebook
+  url: https://www.facebook.com/pages/CMS4i/503033676373858
+- type: x-linkedin
+  url: https://www.linkedin.com/company/cms4i
+- type: x-twitter
+  url: https://twitter.com/#!/cms4i
+- type: x-website
+  url: https://www.cms4i.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

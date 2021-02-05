@@ -1,0 +1,53 @@
+---
+name: PSSC Labs
+description: Focus on your work and PSSC Labs will take care of the rest, from your
+  HPC and Big Data needs to OnPrem solutions, without sacrificing speed or scalability.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2309849"
+url: https://raw.githubusercontent.com/api-network/organizations/main/pssc-labs.yaml
+tags:
+- Vendors
+apis: []
+x-common:
+- type: x-website
+  url: http://www.pssclabs.com
+- type: x-blog
+  url: https://pssclabs.com/blog/
+- type: x-contact
+  url: https://pssclabs.com/contact
+- type: x-contact
+  url: https://pssclabs.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/pssclabs
+- type: x-partner
+  url: https://pssclabs.com/company/partnershop/
+- type: x-privacy
+  url: https://pssclabs.com/privacy-policy/
+- type: x-security
+  url: https://pssclabs.com/solutions/cybersecurity/
+- type: x-support
+  url: https://pssclabs.com/support/
+- type: x-support
+  url: https://pssclabs.com/support/#support-ticket
+- type: x-support
+  url: https://pssclabs.com/support/warranty-programs/
+- type: x-support
+  url: https://pssclabs.com/tech-support-tips/
+- type: x-terms-of-service
+  url: https://pssclabs.com/company/terms-and-conditions/
+- type: x-twitter
+  url: https://twitter.com/PSSCLabs
+- type: x-website
+  url: https://www.pssclabs.com
+- type: x-youtube
+  url: https://www.youtube.com/pssclabs
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

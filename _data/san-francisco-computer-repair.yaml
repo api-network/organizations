@@ -1,0 +1,26 @@
+---
+name: San Francisco Computer Repair
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/san-francisco-computer-repair.yaml
+tags:
+- California
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.computer-repair.com/contact/
+- type: x-contact
+  url: https://www.computer-repair.com/index.php/contact/
+- type: x-website
+  url: https://www.computer-repair.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

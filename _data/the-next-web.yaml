@@ -1,0 +1,102 @@
+---
+name: The Next Web
+description: Original and proudly opinionated perspectives on remarkable stories for
+  Generation T
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/131-the-nextweb.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5879"
+url: https://raw.githubusercontent.com/api-network/organizations/main/the-next-web.yaml
+tags:
+- Tech Blog
+- Publishing
+- News And Media
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: https://www.thenextweb.com
+- type: x-blog-rss
+  url: http://thenextweb.com/feed/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/the-next-web
+- type: x-email
+  url: derk@thenextweb.com
+- type: x-email
+  url: boris@thenextweb.com
+- type: x-email
+  url: info@thenextweb.com
+- type: x-email
+  url: partnerships@thenextweb.com
+- type: x-email
+  url: editors@thenextweb.com
+- type: x-email
+  url: conference@thenextweb.com
+- type: x-email
+  url: pr@thenextweb.com
+- type: x-email
+  url: offers@thenextweb.com
+- type: x-email
+  url: contributors@thenextweb.com
+- type: x-email
+  url: iva@thenextweb.com
+- type: x-email
+  url: privacy@thenextweb.com
+- type: x-email
+  url: abhimanyu@thenextweb.com
+- type: x-facebook
+  url: https://www.facebook.com/thenextweb
+- type: x-feed
+  url: http://feeds2.feedburner.com/thenextweb
+- type: x-feed
+  url: https://deals.thenextweb.com/sales/the-complete-2020-cisco-ccna-certification-prep-course/?utm_source=thenextweb.com&utm_medium=dealfeed&utm_campaign=/sales/the-complete-2020-cisco-ccna-certification-prep-course
+- type: x-feed
+  url: https://deals.thenextweb.com/sales/learn-how-to-draw-freebie-bundle/?utm_source=thenextweb.com&utm_medium=dealfeed&utm_campaign=/sales/learn-how-to-draw-freebie-bundle
+- type: x-feed
+  url: https://deals.thenextweb.com/sales/rezi-resume-software-for-serious-job-seekers-lifetime-subscription/?utm_source=thenextweb.com&utm_medium=dealfeed&utm_campaign=/sales/rezi-resume-software-for-serious-job-seekers-lifetime-subscription
+- type: x-feed
+  url: https://deals.thenextweb.com/sales/the-ultimate-facebook-marketing-certification-bundle/?utm_source=thenextweb.com&utm_medium=dealfeed&utm_campaign=/sales/the-ultimate-facebook-marketing-certification-bundle
+- type: x-feed
+  url: https://deals.thenextweb.com/sales/12min-premium-lifetime-subscription/?utm_source=thenextweb.com&utm_medium=dealfeed&utm_campaign=/sales/12min-premium-lifetime-subscription
+- type: x-feed
+  url: https://deals.thenextweb.com/sales/the-complete-python-certification-bootcamp-bundle/?utm_source=thenextweb.com&utm_medium=dealfeed&utm_campaign=/sales/the-complete-python-certification-bootcamp-bundle
+- type: x-feed
+  url: https://deals.thenextweb.com/sales/2k-visitors-day-for-90-days/?utm_source=thenextweb.com&utm_medium=dealfeed&utm_campaign=/sales/2k-visitors-day-for-90-days
+- type: x-feed
+  url: https://deals.thenextweb.com/sales/babbel-lifetime-subscription-all-languages/?utm_source=thenextweb.com&utm_medium=dealfeed&utm_campaign=/sales/babbel-lifetime-subscription-all-languages
+- type: x-feed
+  url: https://thenextweb.com/feed/
+- type: x-instagram
+  url: https://instagram.com/thenextweb
+- type: x-instagram
+  url: https://www.instagram.com/thenextweb
+- type: x-linkedin
+  url: https://www.linkedin.com/company/the-next-web
+- type: x-platform
+  url: https://thenextweb.com/gaming/2019/10/16/giphy-arcade-platform-microgames/
+- type: x-platform
+  url: https://thenextweb.com/apps/2019/03/19/google-announces-stadia-its-cross-platform-game-streaming-service/
+- type: x-security
+  url: https://thenextweb.com/google/2020/01/15/google-update-turns-your-iphone-into-a-physical-account-security-key/
+- type: x-security
+  url: https://thenextweb.com/podium/2020/01/14/how-to-implement-a-threat-model-to-beef-up-your-organizations-security/
+- type: x-support
+  url: https://thenextweb.com/eu/2019/10/16/alexis-ohanian-and-serj-tankian-team-up-to-help-build-a-social-network-for-armenia/
+- type: x-twitter
+  url: https://twitter.com/TheNextWeb
+- type: x-website
+  url: https://thenextweb.com
+- type: x-website
+  url: http://thenextweb.com/
+- type: x-website
+  url: http://thenextweb.com
+- type: x-youtube
+  url: https://www.youtube.com/user/thenextweb
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

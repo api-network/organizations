@@ -1,0 +1,52 @@
+---
+name: Strategic Maintenance Planning Limited
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7131234"
+url: https://raw.githubusercontent.com/api-network/organizations/main/strategic-maintenance-planning-limited.yaml
+tags:
+- Asset Management
+apis: []
+x-common:
+- type: x-about
+  url: https://www.smpltd.co.uk/about-us/
+- type: x-about
+  url: https://www.smpltd.co.uk/about-us/meet-the-team/
+- type: x-about
+  url: https://www.smpltd.co.uk/about-us/clients/
+- type: x-about
+  url: https://www.smpltd.co.uk/about-us/references/
+- type: x-case-studies
+  url: https://www.smpltd.co.uk/resources/case-studies/
+- type: x-contact
+  url: https://www.smpltd.co.uk/contact-us/
+- type: x-gdpr
+  url: https://www.smpltd.co.uk/resources/gdpr-policy/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/2008142
+- type: x-news
+  url: https://www.smpltd.co.uk/news/
+- type: x-privacy
+  url: https://www.smpltd.co.uk/website-privacy-policy/
+- type: x-support
+  url: https://www.smpltd.co.uk/support/
+- type: x-support
+  url: https://www.smpltd.co.uk/support/training/
+- type: x-support
+  url: https://www.smpltd.co.uk/support/cmms-health-check/
+- type: x-terms-of-service
+  url: https://www.smpltd.co.uk/terms-and-conditions/
+- type: x-twitter
+  url: https://twitter.com/HolisTechCMMS?ref_src=twsrc%5Etfw
+- type: x-website
+  url: https://www.smpltd.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

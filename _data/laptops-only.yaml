@@ -1,0 +1,36 @@
+---
+name: Laptops Only
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/laptops-only.yaml
+tags:
+- Repair
+apis: []
+x-common:
+- type: x-about
+  url: https://www.mylaptopsonly.com/about-us/
+- type: x-contact
+  url: https://www.mylaptopsonly.com/contact-us/
+- type: x-feed
+  url: https://www.mylaptopsonly.com/feed/
+- type: x-feed
+  url: https://www.mylaptopsonly.com/comments/feed/
+- type: x-login
+  url: https://www.mylaptopsonly.com/wp-login.php
+- type: x-press
+  url: https://wordpress.org/
+- type: x-support
+  url: https://www.mylaptopsonly.com/category/laptop-help/
+- type: x-website
+  url: https://www.mylaptopsonly.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

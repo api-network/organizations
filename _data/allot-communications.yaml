@@ -1,0 +1,157 @@
+---
+name: Allot Communications
+description: Allot is a leading, global provider of leading innovative network intelligence
+  and security solutions for Communications Service Providers and Enterprises worldwide.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "452888"
+url: https://raw.githubusercontent.com/api-network/organizations/main/allot-communications.yaml
+tags:
+- Network Management
+apis: []
+x-common:
+- type: x-website
+  url: http://www.allot.com
+- type: x-about
+  url: https://www.allot.com/corporate/about/profile/
+- type: x-about
+  url: https://www.allot.com/corporate/about/management/
+- type: x-about
+  url: https://www.allot.com/corporate/about/board/
+- type: x-about
+  url: http://dev.allot.com/corporate/about/
+- type: x-about
+  url: http://dev.allot.com/corporate/about/profile/
+- type: x-about
+  url: http://dev.allot.com/corporate/about/management/
+- type: x-about
+  url: http://dev.allot.com/corporate/about/board/
+- type: x-about
+  url: https://www.allot.com/corporate/about/
+- type: x-blog
+  url: https://www.allot.com/blog/
+- type: x-blog
+  url: http://blog.allot.com/
+- type: x-careers
+  url: https://www.allot.com/careers/
+- type: x-case-studies
+  url: https://www.allot.com/resources/use-cases/
+- type: x-contact
+  url: https://www.allot.com/contact-us/
+- type: x-contact
+  url: http://dev.allot.com/contact-us/
+- type: x-contact
+  url: https://dev.allot.com/contact-us/
+- type: x-contact
+  url: https://www.allot.com/contact-us
+- type: x-customers
+  url: https://customers.allot.com/
+- type: x-developer
+  url: http://dev.allot.com
+- type: x-developer
+  url: https://dev.allot.com
+- type: x-developer
+  url: http://dev.allot.com/corporate/media-center/
+- type: x-developer
+  url: http://dev.allot.com/service-providers/
+- type: x-developer
+  url: http://dev.allot.com/enterprise/
+- type: x-developer
+  url: http://dev.allot.com/products-service-providers/
+- type: x-developer
+  url: http://dev.allot.com/products-enterprise/
+- type: x-developer
+  url: http://dev.allot.com/professional-services/
+- type: x-developer
+  url: http://dev.allot.com/resources/solution-brief/
+- type: x-developer
+  url: http://dev.allot.com/resources/success-stories/
+- type: x-developer
+  url: http://dev.allot.com/resources/datasheets/
+- type: x-developer
+  url: http://dev.allot.com/resources/videos/
+- type: x-developer
+  url: http://dev.allot.com/resources/thought-leadership/
+- type: x-developer
+  url: https://dev.allot.com/service-providers/
+- type: x-developer
+  url: https://dev.allot.com/enterprise/
+- type: x-facebook
+  url: https://www.facebook.com/Allot.Communications/
+- type: x-investor
+  url: https://investors.allot.com/
+- type: x-investor
+  url: http://dev.allot.com/corporate/investor-relations/
+- type: x-investor
+  url: http://dev.allot.com/corporate/investor-relations/faq/
+- type: x-investor
+  url: http://investors.allot.com/index.cfm
+- type: x-investor
+  url: http://investors.allot.com/releases.cfm
+- type: x-investor
+  url: http://investors.allot.com/stockquote.cfm
+- type: x-investor
+  url: http://investors.allot.com/results.cfm
+- type: x-investor
+  url: http://investors.allot.com/sec.cfm
+- type: x-linkedin
+  url: https://www.linkedin.com/company/11913/
+- type: x-news
+  url: https://www.allot.com/corporate/media-center/news/
+- type: x-news
+  url: http://dev.allot.com/corporate/media-center/news/
+- type: x-partner
+  url: https://www.allot.com/partners/
+- type: x-partner
+  url: https://www.allot.com/partners/solution-partners/
+- type: x-partner
+  url: https://www.allot.com/partners/technology-partners/
+- type: x-partner
+  url: https://partners.allot.com/
+- type: x-partner
+  url: http://dev.allot.com/partners/
+- type: x-press
+  url: http://www.wonderplugin.com/wordpress-lightbox/
+- type: x-privacy
+  url: https://www.allot.com/privacy-policy/
+- type: x-security
+  url: https://www.allot.com/service-providers/iot-security/
+- type: x-security
+  url: https://www.allot.com/enterprise/web-security/
+- type: x-security
+  url: https://www.allot.com/technology/5g-network-security/
+- type: x-support
+  url: https://www.allot.com/support-services/support-center/
+- type: x-support
+  url: https://www.allot.com/support-services/renew-expand/
+- type: x-support
+  url: https://www.allot.com/support-services/support-plans/
+- type: x-support
+  url: https://www.allot.com/supported-protocols/
+- type: x-support
+  url: http://dev.allot.com/support-services/support-center/
+- type: x-terms-of-service
+  url: https://www.allot.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/allot_ltd
+- type: x-webinars
+  url: https://www.allot.com/corporate/events-webinars/
+- type: x-webinars
+  url: http://dev.allot.com/corporate/events-webinars/
+- type: x-website
+  url: https://www.allot.com
+- type: x-white-papers
+  url: https://www.allot.com/resources/whitepapers/
+- type: x-white-papers
+  url: http://dev.allot.com/resources/whitepapers/
+- type: x-youtube
+  url: https://www.youtube.com/edit?o=U&video_id=AHgY70DG87o
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

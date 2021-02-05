@@ -1,0 +1,88 @@
+---
+name: University of Kent at Canterbury
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "43882"
+url: https://raw.githubusercontent.com/api-network/organizations/main/university-of-kent-at-canterbury.yaml
+tags:
+- United Kingdom
+apis: []
+x-common:
+- type: x-about
+  url: http://www.kent.ac.uk/about/
+- type: x-about
+  url: http://www.kent.ac.uk/about/report/index.html
+- type: x-about
+  url: http://www.kent.ac.uk/about/officers.html
+- type: x-about
+  url: http://www.kent.ac.uk/about/keyfacts2019.html
+- type: x-about
+  url: http://www.kent.ac.uk/about/impact/
+- type: x-about
+  url: http://www.kent.ac.uk/about/community/
+- type: x-about
+  url: http://www.kent.ac.uk/about/termdates.html
+- type: x-about
+  url: http://www.kent.ac.uk/about/validated-partners/
+- type: x-about
+  url: http://www.kent.ac.uk/about/plan/int/
+- type: x-careers
+  url: https://jobs.kent.ac.uk
+- type: x-contact
+  url: http://www.kent.ac.uk/contact/
+- type: x-contact
+  url: http://www.kent.ac.uk/ces/contact/index.html
+- type: x-events
+  url: http://www.kent.ac.uk/alumni/events/index.html
+- type: x-facebook
+  url: https://www.facebook.com/UniversityofKent
+- type: x-instagram
+  url: http://www.instagram.com/unikentlive
+- type: x-news
+  url: http://www.kent.ac.uk/news/tags/research
+- type: x-news
+  url: http://www.kent.ac.uk/news/
+- type: x-news
+  url: http://www.kent.ac.uk/news/tags/comment/
+- type: x-news
+  url: http://www.kent.ac.uk/student/news/
+- type: x-news
+  url: http://www.kent.ac.uk/alumni/news/index.html
+- type: x-open-source
+  url: http://www.kent.ac.uk/courses/visit/openday/index.html
+- type: x-partner
+  url: http://www.kent.ac.uk/global/partnerships/
+- type: x-twitter
+  url: http://www.twitter.com/TheEasternARC
+- type: x-twitter
+  url: http://www.twitter.com/LynnDicks
+- type: x-twitter
+  url: http://www.twitter.com/KentLibScience
+- type: x-twitter
+  url: http://www.twitter.com/UniKentSPS
+- type: x-twitter
+  url: http://www.twitter.com/biokent
+- type: x-twitter
+  url: http://www.twitter.com/UniKentComp
+- type: x-twitter
+  url: http://www.twitter.com/UniKentSMSAS
+- type: x-twitter
+  url: http://www.twitter.com/edakent
+- type: x-twitter
+  url: http://twitter.com/unikentcomp
+- type: x-twitter
+  url: https://twitter.com/unikent
+- type: x-website
+  url: https://www.cs.kent.ac.uk
+- type: x-youtube
+  url: https://www.youtube.com/user/UniversityofKent
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

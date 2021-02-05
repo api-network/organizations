@@ -1,0 +1,23 @@
+---
+name: Digitzs
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "20000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/digitzs.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://digitzs.com
+- type: x-twitter
+  url: https://twitter.com/Digitzs
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

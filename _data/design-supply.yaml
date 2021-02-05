@@ -1,0 +1,52 @@
+---
+name: Design Supply
+description: Design Supply Est.1992. The UK's leading supplier of large format printers,
+  wide scanners and plotters, media and large format paper.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/design-supply.yaml
+tags:
+- Wide Format Printer
+- Signage Printers
+- Printers
+- Plan Chest
+- Latex Printers
+- Large Plan Chest
+- Large Format Scanners
+- Large Format Printers
+- Large Format Filing Cabinets
+- Large Format CAD Printers
+- HP Designjet
+- Epson SureColor
+- Design Supply
+- Canon IPF ImagePROGRAF
+- CAD Printers
+- A1 Scanners
+apis: []
+x-common:
+- type: x-website
+  url: http://www.designsupply.co.uk
+- type: x-about
+  url: https://www.designsupply.co.uk/about-us/
+- type: x-contact
+  url: https://www.designsupply.co.uk/contact/
+- type: x-facebook
+  url: https://www.facebook.com/DesignSupply/
+- type: x-press
+  url: https://en-gb.wordpress.org/
+- type: x-twitter
+  url: https://twitter.com/DesignSupplyUK
+- type: x-website
+  url: https://www.designsupply.com
+- type: x-youtube
+  url: https://www.youtube.com/user/DesignSupply
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

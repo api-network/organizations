@@ -1,0 +1,36 @@
+---
+name: InnovMetric Software Inc.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "456109"
+url: https://raw.githubusercontent.com/api-network/organizations/main/innovmetric-software-inc-.yaml
+tags:
+- Companies
+apis: []
+x-common:
+- type: x-website
+  url: http://www.innovmetric.com
+- type: x-careers
+  url: https://careers-innovmetric.icims.com/
+- type: x-facebook
+  url: https://www.facebook.com/InnovMetric
+- type: x-privacy
+  url: https://www.innovmetric.com/en/privacy-policy
+- type: x-twitter
+  url: https://twitter.com/polyworks
+- type: x-website
+  url: https://www.innovmetric.com
+- type: x-youtube
+  url: http://www.youtube.com/user/InnovMetricSoftware
+- type: x-youtube
+  url: https://www.youtube.com/user/InnovMetricSoftware
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,27 @@
+---
+name: SwatchSpot
+description: SwatchSpot creates random color swatches to inspire you. Grab the color
+  codes or download your palette.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/swatchspot.yaml
+tags:
+- Swatch
+- Random
+- Generator
+- Colors
+- Color
+apis: []
+x-common:
+- type: x-website
+  url: https://swatchspot.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

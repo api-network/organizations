@@ -1,0 +1,22 @@
+---
+name: Jordan Russell's Software Page
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "166229"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jordan-russells-software-page.yaml
+tags:
+- MS Office
+apis: []
+x-common:
+- type: x-website
+  url: https://www.jrsoftware.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

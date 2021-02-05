@@ -1,0 +1,75 @@
+---
+name: Rebilly
+description: ""
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/rebilly.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "711"
+x-alexaRank: "334482"
+url: https://raw.githubusercontent.com/api-network/organizations/main/rebilly.yaml
+tags:
+- Relative Data
+- Have API Paths
+- Have API
+- Billing
+apis: []
+x-common:
+- type: x-website
+  url: https://www.rebilly.com
+- type: x-about
+  url: https://www.rebilly.com/about/
+- type: x-blog
+  url: https://www.rebilly.com/blog/
+- type: x-careers
+  url: https://www.rebilly.com/careers/
+- type: x-contact
+  url: https://www.rebilly.com/contact/
+- type: x-documentation
+  url: https://rebilly.github.io/RebillyAPI/#
+- type: x-facebook
+  url: https://www.facebook.com/rebillyinc/
+- type: x-gdpr
+  url: https://www.rebilly.com/gdpr-faq/
+- type: x-github
+  url: https://github.com/Rebilly
+- type: x-github
+  url: https://rebilly.github.io/RebillyAPI/
+- type: x-license-agreement
+  url: https://www.rebilly.com/api-license/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/3701549/
+- type: x-login
+  url: https://app.rebilly.com/login
+- type: x-press
+  url: https://www.rebilly.com/wordpress-plugin/
+- type: x-pricing
+  url: https://www.rebilly.com/pricing/
+- type: x-privacy
+  url: https://www.rebilly.com/privacy-notice/
+- type: x-privacy
+  url: https://www.rebilly.com/privacy-policy/
+- type: x-privacy-policy
+  url: https://www.rebilly.com/privacy-policy/
+- type: x-signup
+  url: https://app.rebilly.com/signup
+- type: x-status
+  url: https://status.rebilly.com/
+- type: x-support
+  url: https://help.rebilly.com/faqs
+- type: x-support
+  url: https://www.rebilly.com/support/
+- type: x-support
+  url: https://help.rebilly.com/
+- type: x-terms-of-service
+  url: https://www.rebilly.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/RebillyInc
+- type: x-website
+  url: http://rebilly.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

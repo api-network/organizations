@@ -1,0 +1,40 @@
+---
+name: Linuxfest Northwest
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3035012"
+url: https://raw.githubusercontent.com/api-network/organizations/main/linuxfest-northwest.yaml
+tags:
+- United States
+apis: []
+x-common:
+- type: x-website
+  url: http://linuxfestnorthwest.org
+- type: x-blog
+  url: http://blog.linuxfestnorthwest.org
+- type: x-facebook
+  url: https://www.facebook.com/linuxfestnorthwest/
+- type: x-instagram
+  url: https://www.instagram.com/linuxfest_northwest/
+- type: x-open-source
+  url: https://www.opensuse.org/
+- type: x-open-source
+  url: http://opensource.org/licenses/MIT
+- type: x-open-source
+  url: https://github.com/openSUSE/osem
+- type: x-twitter
+  url: https://twitter.com/lfnw
+- type: x-website
+  url: https://www.linuxfestnorthwest.org
+- type: x-youtube
+  url: https://youtube.com/linuxfestnorthwest
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

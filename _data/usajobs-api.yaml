@@ -1,0 +1,39 @@
+---
+name: USAJobs API
+description: <p>Federal, state, and local government agencies are hiring and have
+  thousands of job openings across the country, posted on USAJobs.gov and local government
+  jobs sites. This Jobs API allows you to tap into a list of current jobs openings
+  with the government. Jobs are searchable by keyword, location, agency, schedule,
+  or any combination of these.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/usajobs.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "9"
+x-alexaRank: "1977004"
+url: https://raw.githubusercontent.com/api-network/organizations/main/usajobs-api.yaml
+tags:
+- Have API Paths
+- Have API
+- General Data
+- Federal Government   GSA
+apis: []
+x-common:
+- type: x-about
+  url: https://www.digitalgov.gov/about/policies/
+- type: x-careers
+  url: https://developer.usajobs.gov
+- type: x-website
+  url: https://search.digitalgov.gov/developer/jobs.html
+- type: x-signup
+  url: http://search.usa.gov/signup
+- type: x-status
+  url: https://search.gov/status.html
+- type: x-terms-of-service
+  url: https://www.usa.gov/About/developer-resources/terms-of-service.shtml
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

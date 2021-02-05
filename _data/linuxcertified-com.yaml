@@ -1,0 +1,39 @@
+---
+name: LinuxCertified.com
+description: Linux Laptops, Ubuntu laptops, Linux Training, Linux Services and Certification
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1518039"
+url: https://raw.githubusercontent.com/api-network/organizations/main/linuxcertified-com.yaml
+tags:
+- Ubuntu Linux Notebook
+- Ubuntu Laptop Computers
+- Redhat Laptops
+- Linux Training
+- Linux Laptops
+- Linux Certification
+- Linux
+- Fedora Laptops
+apis: []
+x-common:
+- type: x-website
+  url: http://linuxcertified.com
+- type: x-developer
+  url: http://developer.linuxcertified.com
+- type: x-linkedin
+  url: https://www.linkedin.com/company/linux-certified-inc
+- type: x-twitter
+  url: http://twitter.com/Linuxcertified
+- type: x-twitter
+  url: https://twitter.com/Linuxcertified
+- type: x-website
+  url: https://www.linuxcertified.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

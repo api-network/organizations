@@ -1,0 +1,41 @@
+---
+name: Clevertech
+description: "Building transformational digital solutions for the world\u2019s most
+  innovative organizations. Fast."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "178361"
+url: https://raw.githubusercontent.com/api-network/organizations/main/clevertech.yaml
+tags:
+- Strategy
+- Profile
+- No API
+- Development
+- Blockchain
+apis: []
+x-common:
+- type: x-website
+  url: http://www.clevertech.biz/careers
+- type: x-blog-rss
+  url: http://clevertech.biz/devblog/feed/
+- type: x-facebook
+  url: https://www.facebook.com/Clevertech
+- type: x-instagram
+  url: https://www.instagram.com/clevertech.biz/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/clevertech/
+- type: x-twitter
+  url: https://twitter.com/clevertech
+- type: x-website
+  url: http://clevertech.biz
+- type: x-youtube
+  url: https://www.youtube.com/c/clevertechlife
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

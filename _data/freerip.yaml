@@ -1,0 +1,39 @@
+---
+name: FreeRIP
+description: Converter mp3 and audio converter, convert mp3 to wav, cd to mp3, flac
+  to mp3, CD burner with FreeRIP MP3 Converter
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "200763"
+url: https://raw.githubusercontent.com/api-network/organizations/main/freerip.yaml
+tags:
+- WMA To MP3
+- Music And Audio
+- Mp3 Converter
+- Mp3 Convert
+- Flac To Mp3
+- Converter To Mp3
+- Converter Mp3
+- Convert To Mp3
+- Convert Mp3 To Wav
+- Cd To Mp3 Converter
+- Cd To Mp3
+- Cd Burner
+- Audio Converter
+apis: []
+x-common:
+- type: x-logos
+  url: http://www.italogos.nl/italiano.php
+- type: x-privacy
+  url: http://www.freerip.com/privacy.php
+- type: x-website
+  url: https://www.freerip.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

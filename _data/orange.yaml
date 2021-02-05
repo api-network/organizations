@@ -1,0 +1,41 @@
+---
+name: Orange
+description: Orange Partner independent and professional developers to IT services
+  firms.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/368_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/orange.yaml
+tags:
+- Telecommunications
+- Identities
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: https://www.orange.com/en/Press-Room
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/orange-partner
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/orange
+- type: x-developers
+  url: https://www.orangepartner.com/integrate
+- type: x-github
+  url: https://github.com/orange
+- type: x-twitter
+  url: https://twitter.com/OrangePartner
+- type: x-twitter
+  url: https://twitter.com/orangeapi
+- type: x-twitter
+  url: https://twitter.com/OrangeGroupPR
+- type: x-website
+  url: http://www.orangepartner.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,34 @@
+---
+name: sonicAPI
+description: <p>Add high quality music processing to your app with the sonicAPI.com
+  web service. sonicAPI.com offers professional grade audio technology that can easily
+  be integrated into your web or phone app with just a few lines of code.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/sonicapi-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7062570"
+url: https://raw.githubusercontent.com/api-network/organizations/main/sonicapi.yaml
+tags:
+- Music
+- Have API
+- Effects
+apis: []
+x-common:
+- type: x-website
+  url: http://www.sonicAPI.com
+- type: x-documentation
+  url: http://www.sonicapi.com/docs
+- type: x-pricing
+  url: http://www.sonicapi.com/pricing
+- type: x-terms-of-service
+  url: http://www.sonicapi.com/terms-of-service
+- type: x-twitter
+  url: https://twitter.com/sonic_API
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

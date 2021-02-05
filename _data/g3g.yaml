@@ -1,0 +1,39 @@
+---
+name: G3G
+description: G3G, a SAP partner, delivers a variety of SAP applications & services
+  to allow organisations to work more efficiently & use business insight more effectively.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5334036"
+url: https://raw.githubusercontent.com/api-network/organizations/main/g3g.yaml
+tags:
+- Consultants
+apis: []
+x-common:
+- type: x-about
+  url: https://www.g3g.com/about/
+- type: x-careers
+  url: https://www.g3g.com/careers/
+- type: x-careers
+  url: https://www.g3g.com/careers/solution-architect/
+- type: x-careers
+  url: https://www.g3g.com/careers/sap-bi-bw-consultant/
+- type: x-careers
+  url: https://www.g3g.com/careers/sap-technical-consultant/
+- type: x-contact
+  url: https://www.g3g.com/contact/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/g3g/
+- type: x-news
+  url: https://www.g3g.com/category/news/
+- type: x-website
+  url: https://www.g3g.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

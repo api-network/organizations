@@ -1,0 +1,46 @@
+---
+name: Copenhagen, University of (DIKU)
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "637871"
+url: https://raw.githubusercontent.com/api-network/organizations/main/copenhagen-university-of-diku.yaml
+tags:
+- Denmark
+apis: []
+x-common:
+- type: x-website
+  url: http://ku.dk
+- type: x-events
+  url: https://ai.ku.dk/events/ai-seminar-matthias-gall/
+- type: x-events
+  url: https://ai.ku.dk/events/algorithmic-fairness/
+- type: x-facebook
+  url: https://www.facebook.com/DatalogiKU/
+- type: x-facebook
+  url: https://www.facebook.com/universitet
+- type: x-instagram
+  url: https://www.instagram.com/datalogi_ku/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/22257/admin/
+- type: x-open-source
+  url: https://www.instagram.com/university_of_copenhagen/
+- type: x-press
+  url: https://nyheder.ku.dk/presseservice/
+- type: x-support
+  url: https://it.ku.dk/kontakt/support_KU/
+- type: x-twitter
+  url: https://twitter.com/DIKU_Institut
+- type: x-twitter
+  url: https://twitter.com/koebenhavns_uni
+- type: x-website
+  url: https://www.diku.dk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

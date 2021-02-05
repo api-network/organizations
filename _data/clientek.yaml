@@ -1,0 +1,26 @@
+---
+name: Clientek
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/clientek.yaml
+tags:
+- Consultants
+apis: []
+x-common:
+- type: x-facebook
+  url: https://www.facebook.com/ClientekInc/
+- type: x-linkedin
+  url: https://www.linkedin.com/company-beta/48474/
+- type: x-website
+  url: https://www.clientek.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

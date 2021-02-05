@@ -1,0 +1,42 @@
+---
+name: Mageewp Themes
+description: MageeWP is the creator of Onetone and offers multipurpose and free WordPress
+  themes to over 50,000 sites, including WordPress blogs, photography websites, WooCommerce
+  stores, etc.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "139603"
+url: https://raw.githubusercontent.com/api-network/organizations/main/mageewp-themes.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-website
+  url: https://www.mageewp.com/
+- type: x-about
+  url: https://mageewp.com/about-us.html
+- type: x-blog
+  url: https://mageewp.com/blog/
+- type: x-facebook
+  url: https://www.facebook.com/MageewpSupport
+- type: x-login
+  url: https://mageewp.com/login
+- type: x-press
+  url: https://mageewp.com/wordpress-themes/
+- type: x-privacy
+  url: https://mageewp.com/privacy.html
+- type: x-terms-of-service
+  url: https://mageewp.com/terms-conditions.html
+- type: x-twitter
+  url: https://twitter.com/MageewpSupport
+- type: x-website
+  url: https://www.mageewp.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

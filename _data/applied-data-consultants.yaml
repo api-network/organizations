@@ -1,0 +1,32 @@
+---
+name: Applied Data Consultants
+description: One of the largest GIS firms in the Midwest, Applied Data Consultants
+  has over 40 GIS professionals with offices in Eau Claire, Wisconsin; Denver, Colorado;
+  San Francisco, California and Omaha, Nebraska
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29433-adc4gis-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "6"
+x-alexaRank: "1836087"
+url: https://raw.githubusercontent.com/api-network/organizations/main/applied-data-consultants.yaml
+tags:
+- Agency
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/applied-data-consultants
+- type: x-email
+  url: jen.devries@adc4gis.com
+- type: x-email
+  url: ron.bruder@adc4gis.com
+- type: x-twitter
+  url: https://twitter.com/ADC4GIS
+- type: x-website
+  url: http://adc4gis.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

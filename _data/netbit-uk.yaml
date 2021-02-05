@@ -1,0 +1,49 @@
+---
+name: Netbit UK
+description: Netbit provide a range of products including structured cabling and cabinet
+  enclosures for the IT trade these are availabe for next day delivery throughout
+  the UK.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/netbit-uk.yaml
+tags:
+- Wall Cabinet
+- Structured Cabling
+- PDU
+- PC Component
+- Patch Panel
+- Low Profile
+- KVM
+- HDD Enclosure
+- Floor Cabinet
+- Fibre Optics
+- Distributors
+- Cabinets Enclosures
+- 9u
+- 6u
+- 47u
+- 42u
+- 36u
+- 27u
+- 22u
+- 18u
+- 15u
+- 12u
+apis: []
+x-common:
+- type: x-website
+  url: http://www.netbit.biz
+- type: x-twitter
+  url: http://twitter.com/netbituk
+- type: x-website
+  url: https://www.netbit.biz
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

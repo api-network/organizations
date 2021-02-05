@@ -1,0 +1,45 @@
+---
+name: AKA Computer Consulting, Inc.
+description: Take your business to the next level with AKA Computer Consulting, authorized
+  business partner for AccountMate Software. Get Accountmate support with free consultation.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/aka-computer-consulting-inc-.yaml
+tags:
+- New York
+apis: []
+x-common:
+- type: x-about
+  url: https://www.akaconsulting.com/about-us/blog/
+- type: x-about
+  url: https://www.akaconsulting.com/about-us/
+- type: x-about
+  url: https://www.akaconsulting.com/about-us/testimonials/
+- type: x-about
+  url: https://www.akaconsulting.com/about-us/our-team/
+- type: x-case-studies
+  url: https://www.akaconsulting.com/about-us/case-studies/
+- type: x-contact
+  url: https://www.akaconsulting.com/about-us/contact/
+- type: x-press
+  url: https://www.akaconsulting.com/news-press-release/
+- type: x-support
+  url: http://support.akaconsulting.com:4961/
+- type: x-support
+  url: http://help.akaconsulting.com
+- type: x-support
+  url: https://www.akaconsulting.com/support/
+- type: x-support
+  url: https://www.akaconsulting.com/~akaconsu/support/#faq
+- type: x-website
+  url: https://www.akaconsulting.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,27 @@
+---
+name: grsecurity
+description: grsecurity is an extensive security enhancement to the Linux kernel that
+  defends against a wide range of security threats through intelligent access control,
+  memory corruption-based exploit prevention, and a host of other system hardening
+  that generally require no configuration.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5678527"
+url: https://raw.githubusercontent.com/api-network/organizations/main/grsecurity.yaml
+tags:
+- Kernel
+apis: []
+x-common:
+- type: x-security
+  url: https://pax.grsecurity.net
+- type: x-website
+  url: https://www.grsecurity.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

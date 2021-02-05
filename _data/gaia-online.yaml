@@ -1,0 +1,49 @@
+---
+name: Gaia Online
+description: Gaia Online is an online hangout, incorporating social networking, forums,
+  gaming and a virtual world.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "17052"
+url: https://raw.githubusercontent.com/api-network/organizations/main/gaia-online.yaml
+tags:
+- Social Networking
+apis: []
+x-common:
+- type: x-about
+  url: https://www.gaiaonline.com/info/aboutus/
+- type: x-contact
+  url: https://corp.gaiaonline.com/contact/
+- type: x-forum
+  url: https://www.gaiaonline.com/forum/
+- type: x-marketplace
+  url: https://www.gaiaonline.com/marketplace/
+- type: x-partner
+  url: http://www.gaiaonline.com/partnergame/conflictnations
+- type: x-self-service-registration
+  url: https://www.gaiaonline.com/register/?v=c&_gaia_t_=4950
+- type: x-support
+  url: https://gaiaonlinehelp.zendesk.com
+- type: x-support
+  url: https://gaiaonlinehelp.zendesk.com/
+- type: x-terms-of-service
+  url: https://www.gaiaonline.com/info/legal/tos
+- type: x-terms-of-service
+  url: https://www.gaiaonline.com/info/legal/privacy
+- type: x-terms-of-service
+  url: https://www.gaiaonline.com/info/legal/rules
+- type: x-terms-of-service
+  url: https://www.gaiaonline.com/info/legal/safety
+- type: x-terms-of-service
+  url: https://www.gaiaonline.com/info/legal/parent
+- type: x-website
+  url: https://www.gaiaonline.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

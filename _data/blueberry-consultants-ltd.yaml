@@ -1,0 +1,52 @@
+---
+name: Blueberry Consultants Ltd
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "567981"
+url: https://raw.githubusercontent.com/api-network/organizations/main/blueberry-consultants-ltd.yaml
+tags:
+- Software Development
+apis: []
+x-common:
+- type: x-website
+  url: http://www.bbconsult.co.uk
+- type: x-about
+  url: https://www.bbconsult.co.uk/aboutus/whoweare
+- type: x-about
+  url: https://www.bbconsult.co.uk/aboutus/technicalexpertise
+- type: x-about
+  url: https://www.bbconsult.co.uk/aboutus/businessexpertise
+- type: x-blog
+  url: https://www.bbconsult.co.uk/resources/blog
+- type: x-blog
+  url: https://www.bbconsult.co.uk/blog/progressive-web-apps
+- type: x-case-studies
+  url: https://www.bbconsult.co.uk/casestudies
+- type: x-case-studies
+  url: https://www.bbconsult.co.uk/casestudies/videos
+- type: x-facebook
+  url: http://www.facebook.com/BlueberryConsultants
+- type: x-login
+  url: https://www.bbconsult.co.uk/resources/clientlogin
+- type: x-news
+  url: https://www.bbconsult.co.uk/aboutus/news
+- type: x-security
+  url: https://www.bbconsult.co.uk/expertise/security
+- type: x-terms-of-service
+  url: https://www.bbconsult.co.uk/resources/glossaryofterms
+- type: x-twitter
+  url: http://www.twitter.com/BBConsultant
+- type: x-website
+  url: https://www.bbconsult.co.uk
+- type: x-youtube
+  url: https://www.youtube.com/c/BlueberryConsultants
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

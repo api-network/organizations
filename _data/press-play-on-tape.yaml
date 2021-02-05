@@ -1,0 +1,48 @@
+---
+name: Press Play on Tape
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6945809"
+url: https://raw.githubusercontent.com/api-network/organizations/main/press-play-on-tape.yaml
+tags:
+- Remix And Retro
+- PRESS PLAY ON TAPE
+- Ppot
+- News
+- Music
+apis: []
+x-common:
+- type: x-contact
+  url: http://pressplayontape.com/contact/
+- type: x-facebook
+  url: http://facebook.com/ppotband
+- type: x-press
+  url: http://pressplayontape.com/
+- type: x-press
+  url: http://pressplayontape.com/music/
+- type: x-press
+  url: http://pressplayontape.com/downloads/
+- type: x-press
+  url: http://pressplayontape.com/concerts/
+- type: x-press
+  url: http://pressplayontape.com/links/
+- type: x-press
+  url: http://pressplayontape.com/about/
+- type: x-press
+  url: http://youtube.com/c/pressplayontape
+- type: x-press
+  url: http://pressplayontape.com/cds
+- type: x-press
+  url: http://pressplayontape.com/buy
+- type: x-website
+  url: https://www.pressplayontape.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

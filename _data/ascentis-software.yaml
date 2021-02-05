@@ -1,0 +1,60 @@
+---
+name: Ascentis Software
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "44423"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ascentis-software.yaml
+tags:
+- Human Resources
+apis: []
+x-common:
+- type: x-website
+  url: http://www.ascentis.com
+- type: x-about
+  url: https://www.ascentis.com/about/
+- type: x-about
+  url: https://www.ascentis.com/about/media/
+- type: x-about
+  url: https://www.ascentis.com/about/team/
+- type: x-blog
+  url: https://www.ascentis.com/blog/
+- type: x-careers
+  url: https://www.ascentis.com/about/careers/
+- type: x-contact
+  url: https://www.ascentis.com/about/contact/
+- type: x-events
+  url: https://www.ascentis.com/resources/events/
+- type: x-facebook
+  url: https://www.facebook.com/AscentisCorporation
+- type: x-linkedin
+  url: https://www.linkedin.com/company/ascentis/
+- type: x-login
+  url: https://www.ascentis.com/client-login/
+- type: x-partner
+  url: https://www.ascentis.com/partner-program/
+- type: x-privacy
+  url: https://www.ascentis.com/privacy-policy/
+- type: x-support
+  url: https://www.ascentis.com/services-support/
+- type: x-support
+  url: https://www.ascentis.com/services-support/integration/
+- type: x-support
+  url: https://www.ascentis.com/services-support/support/
+- type: x-twitter
+  url: https://twitter.com/ascentiscorp
+- type: x-webinars
+  url: https://www.ascentis.com/educational-webinar-program/
+- type: x-website
+  url: https://www.ascentis.com
+- type: x-youtube
+  url: https://www.youtube.com/user/AscentisCorp
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

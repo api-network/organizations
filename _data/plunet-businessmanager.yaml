@@ -1,0 +1,43 @@
+---
+name: Plunet BusinessManager
+description: As the leading translation management system for LSPs and corporates,
+  Plunet provides excellent automation, flexibility and efficiency to its customers.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "648958"
+url: https://raw.githubusercontent.com/api-network/organizations/main/plunet-businessmanager.yaml
+tags:
+- Industry Specific
+apis: []
+x-common:
+- type: x-website
+  url: http://www.plunet.com
+- type: x-careers
+  url: https://www.plunet.com/en/jobs/
+- type: x-contact
+  url: https://www.plunet.com/en/contact/
+- type: x-facebook
+  url: https://www.facebook.com/Plunet
+- type: x-news
+  url: https://www.plunet.com/en/translation-management-news/
+- type: x-open-source
+  url: https://www.plunet.com/en/open-vacancies/
+- type: x-pricing
+  url: https://www.plunet.com/en/pricing/
+- type: x-privacy
+  url: https://www.plunet.com/en/privacy-statement/
+- type: x-terms-of-service
+  url: https://www.plunet.com/en/legal-notice/
+- type: x-twitter
+  url: https://twitter.com/Plunet_News
+- type: x-website
+  url: https://www.plunet.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

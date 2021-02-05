@@ -1,0 +1,61 @@
+---
+name: Active Collab
+description: ActiveCollab is the project management software that gives you complete
+  control over your work - all tasks, communication, team members and files.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/activeCollab.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "17987"
+url: https://raw.githubusercontent.com/api-network/organizations/main/active-collab.yaml
+tags:
+- Web Based
+- Projects
+- Projects
+- No API Definition
+- Invoices
+- Have API
+- API Provider
+apis: []
+x-common:
+- type: x-careers
+  url: https://activecollab.com/careers
+- type: x-contact
+  url: https://activecollab.com/about-contact
+- type: x-email
+  url: support@activecollab.com
+- type: x-email
+  url: contact@activecollab.com
+- type: x-facebook
+  url: https://www.facebook.com/activecollab
+- type: x-gdpr
+  url: https://activecollab.com/gdpr
+- type: x-github
+  url: https://github.com/activecollab
+- type: x-linkedin
+  url: https://www.linkedin.com/company/activecollab
+- type: x-pricing
+  url: https://activecollab.com/pricing
+- type: x-privacy
+  url: https://activecollab.com/privacy-policy
+- type: x-road-map
+  url: https://activecollab.com/roadmap
+- type: x-security
+  url: https://activecollab.com/security
+- type: x-terms-of-service
+  url: https://activecollab.com/terms
+- type: x-twitter
+  url: https://twitter.com/activecollab
+- type: x-website
+  url: https://activecollab.com
+- type: x-website
+  url: http://www.activecollab.com
+- type: x-youtube
+  url: https://www.youtube.com/user/activeCollab
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

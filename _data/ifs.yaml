@@ -1,0 +1,37 @@
+---
+name: IFS
+description: "Recognized as a leading enterprise software solution provider,\_IFS\_develops
+  and delivers ERP, EAM, FSM and ESM to businesses worldwide. From cloud technology
+  to easy-to-use interfaces, our solutions are for customers who maintain assets,
+  manage service operations, or manufacture and distribute goods."
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "138140"
+url: https://raw.githubusercontent.com/api-network/organizations/main/ifs.yaml
+tags:
+- Industrial And Financial Systems-IFS
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.ifs.com
+- type: x-blog
+  url: https://blog.ifs.com/
+- type: x-facebook
+  url: https://www.facebook.com/IFSworld
+- type: x-instagram
+  url: https://www.instagram.com/ifs_world/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/ifs
+- type: x-twitter
+  url: https://twitter.com/IFS
+- type: x-website
+  url: https://www.ifsworld.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

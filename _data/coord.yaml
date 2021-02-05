@@ -1,0 +1,65 @@
+---
+name: Coord
+description: <p>Coord is a mobility company that creates seamless mobility and self-driving
+  experiences today through deep integrations. The company offers bike-share API,
+  Curbs API, Tolls API, Routing API and etc.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28894-coord-co.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "711"
+x-alexaRank: "474849"
+url: https://raw.githubusercontent.com/api-network/organizations/main/coord.yaml
+tags:
+- Tolls
+- Routes
+- Relative Data
+- Parking
+- Have API Paths
+- Have API
+- General Data
+- Bikes
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-blog
+  url: https://medium.com/coord
+- type: x-blog-rss
+  url: https://medium.com/feed/coord
+- type: x-website
+  url: https://www.coord.com/
+- type: x-about
+  url: https://www.coord.com/about
+- type: x-blog
+  url: https://www.coord.com/blog
+- type: x-blog
+  url: https://www.coord.com/blog/coord_v_arcgis?hsLang=en
+- type: x-careers
+  url: https://www.coord.com/about#careers
+- type: x-case-studies
+  url: https://www.coord.com/case-studies
+- type: x-developer
+  url: https://developers.coord.co/
+- type: x-developers
+  url: https://coord.co/docs/
+- type: x-events
+  url: https://www.coord.com/media-events?hsLang=en
+- type: x-events
+  url: https://www.coord.com/media-events
+- type: x-linkedin
+  url: https://www.linkedin.com/company/coord
+- type: x-open-source
+  url: https://www.coord.com/open-curb-data
+- type: x-pricing
+  url: https://coord.co/#pricing
+- type: x-twitter
+  url: https://twitter.com/coordcity
+- type: x-website
+  url: https://coord.co
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

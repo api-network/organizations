@@ -1,0 +1,62 @@
+---
+name: Jolla
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "191624"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jolla.yaml
+tags:
+- Sailfish OS
+apis: []
+x-common:
+- type: x-website
+  url: http://jolla.com
+- type: x-about
+  url: https://jolla.com/about
+- type: x-about
+  url: https://jolla.com/about/
+- type: x-blog
+  url: https://blog.jolla.com/watch/
+- type: x-blog
+  url: https://blog.jolla.com/category/software-updates/
+- type: x-blog
+  url: https://blog.jolla.com
+- type: x-careers
+  url: http://jolla.com/careers
+- type: x-careers
+  url: https://jolla.com/careers/
+- type: x-facebook
+  url: http://www.facebook.com/jollaofficial
+- type: x-linkedin
+  url: http://www.linkedin.com/company/jolla
+- type: x-partner
+  url: https://sailfishos.org/partners
+- type: x-press
+  url: https://jolla.com/press
+- type: x-press
+  url: https://jolla.com/press/
+- type: x-support
+  url: https://jolla.com/support/
+- type: x-terms-of-service
+  url: https://jolla.com/legal/
+- type: x-twitter
+  url: http://twitter.com/jollahq
+- type: x-website
+  url: https://jolla.com
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=lfAixpkzcBQ
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=jBQdfcLhts8
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=m4AFwVLd1r4
+- type: x-youtube
+  url: https://www.youtube.com/user/jollaofficial
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

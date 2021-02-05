@@ -1,0 +1,32 @@
+---
+name: Systech
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "8180577"
+url: https://raw.githubusercontent.com/api-network/organizations/main/systech.yaml
+tags:
+- Peripherals
+apis: []
+x-common:
+- type: x-website
+  url: https://www.systech.com.sg
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=xvDDc_rTmj8&t=40s
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=Td_6Kt-tzcM
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=MDBrOg9iGoM&t=35s
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=P9miW1vtcjM
+- type: x-youtube
+  url: https://www.youtube.com/watch?v=FrmaGT_qzXo
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

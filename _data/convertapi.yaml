@@ -1,0 +1,75 @@
+---
+name: ConvertAPI
+description: Create PDF easily with our developers API/SDK for Ruby Java .NET C# PHP
+  Shell Delphi.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/357_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "295685"
+url: https://raw.githubusercontent.com/api-network/organizations/main/convertapi.yaml
+tags:
+- Relative Data
+- Images
+- Have API Paths
+- Have API
+- Files
+- Documents
+- Document Conversion
+- Conversion
+- API Provider
+apis: []
+x-common:
+- type: x-apis-json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
+- type: x-documentation
+  url: http://www.convertapi.com/api/web-pdf-api
+- type: x-base
+  url: http://do.convertapi.com/
+- type: x-email
+  url: support@convertapi.com
+- type: x-email
+  url: support@convertapi.com
+- type: x-email
+  url: support@baltsoft.com
+- type: x-github
+  url: https://github.com/ConvertAPI/convertapi-dotnet
+- type: x-github
+  url: https://github.com/ConvertAPI/convertapi-java
+- type: x-github
+  url: https://github.com/ConvertAPI/convertapi-python
+- type: x-github
+  url: https://github.com/ConvertAPI/convertapi-ruby
+- type: x-github
+  url: https://github.com/ConvertAPI/convertapi-php
+- type: x-github
+  url: https://github.com/ConvertAPI/convertapi-go
+- type: x-github
+  url: https://github.com/ConvertAPI/convertapi-node
+- type: x-github
+  url: https://github.com/ConvertAPI/convertapi-cli
+- type: x-github
+  url: https://github.com/convertapi
+- type: x-pricing
+  url: http://www.convertapi.com/prices
+- type: x-registration
+  url: http://www.convertapi.com/a/si
+- type: x-stack-overflow
+  url: http://stackoverflow.com/questions/tagged/convertapi
+- type: x-status
+  url: https://status.convertapi.com
+- type: x-terms-of-service
+  url: http://www.convertapi.com/terms
+- type: x-twitter
+  url: https://twitter.com/ConvertAPI_
+- type: x-website
+  url: http://www.convertapi.com/
+- type: x-website
+  url: http://convertapi.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

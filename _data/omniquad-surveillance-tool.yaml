@@ -1,0 +1,22 @@
+---
+name: Omniquad Surveillance Tool
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3714809"
+url: https://raw.githubusercontent.com/api-network/organizations/main/omniquad-surveillance-tool.yaml
+tags:
+- Security
+apis: []
+x-common:
+- type: x-website
+  url: https://www.omniquad.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

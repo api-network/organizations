@@ -1,0 +1,29 @@
+---
+name: Electron
+description: <p>The Electron framework lets you write cross-platform desktop applications
+  using JavaScript, HTML and CSS. It is based on io.js and Chromium and is used in
+  the Atom editor.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/electron-logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: ""
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/electron.yaml
+tags: []
+apis: []
+x-common:
+- type: x-website
+  url: http://electronjs.org
+- type: x-twitter
+  url: https://twitter.com/electronjs
+- type: x-github
+  url: https://github.com/atom/electron
+- type: x-website
+  url: http://electron.atom.io/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

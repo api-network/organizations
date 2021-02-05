@@ -1,0 +1,44 @@
+---
+name: Global Point Technologies
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1329229"
+url: https://raw.githubusercontent.com/api-network/organizations/main/global-point-technologies.yaml
+tags:
+- Expenses
+apis: []
+x-common:
+- type: x-website
+  url: http://www.expensepoint.com
+- type: x-about
+  url: https://www.expensepoint.com/about-us/
+- type: x-blog
+  url: https://www.expensepoint.com/blog/
+- type: x-contact
+  url: https://www.expensepoint.com/contact/
+- type: x-facebook
+  url: https://www.facebook.com/ExpensePoint
+- type: x-gdpr
+  url: https://www.expensepoint.com/gdpr/
+- type: x-linkedin
+  url: https://www.linkedin.com/groups/ExpensePoint-3940173
+- type: x-pricing
+  url: https://www.expensepoint.com/pricing/
+- type: x-support
+  url: https://www.expensepoint.com/good-support-aug-19-2019/
+- type: x-terms-of-service
+  url: https://www.expensepoint.com/terms-of-use/
+- type: x-twitter
+  url: https://twitter.com/expensepoint
+- type: x-website
+  url: https://www.expensepoint.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

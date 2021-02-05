@@ -1,0 +1,113 @@
+---
+name: Organic Themes
+description: Beautiful and responsive WordPress themes with unique, minimal designs,
+  and an easy setup process within the customizer.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "149417"
+url: https://raw.githubusercontent.com/api-network/organizations/main/organic-themes.yaml
+tags:
+- WordPress
+apis: []
+x-common:
+- type: x-about
+  url: https://dev.organicthemes.com/about/
+- type: x-about
+  url: https://organicthemes.com/about/
+- type: x-blog
+  url: https://organicthemes.com/blog/
+- type: x-blog
+  url: https://dev.organicthemes.com/blog/
+- type: x-careers
+  url: https://dev.organicthemes.com/careers/
+- type: x-careers
+  url: https://organicthemes.com/careers/
+- type: x-contact
+  url: https://dev.organicthemes.com/contact/
+- type: x-contact
+  url: https://organicthemes.com/contact/
+- type: x-developer
+  url: https://dev.organicthemes.com/one-change/
+- type: x-developer
+  url: https://dev.organicthemes.com/theme-setup/
+- type: x-developer
+  url: https://dev.organicthemes.com/customization/
+- type: x-developer
+  url: https://dev.organicthemes.com/account/
+- type: x-developer
+  url: https://dev.organicthemes.com/demo/?demo=block-theme
+- type: x-developer
+  url: https://dev.organicthemes.com/theme/block-theme/
+- type: x-developer
+  url: https://dev.organicthemes.com/demo/?demo=profile-theme
+- type: x-developer
+  url: https://dev.organicthemes.com/theme/profile-theme/
+- type: x-developer
+  url: https://dev.organicthemes.com/demo/?demo=min-theme
+- type: x-developer
+  url: https://dev.organicthemes.com/theme/min-theme/
+- type: x-developer
+  url: https://dev.organicthemes.com/faq/
+- type: x-developer
+  url: http://dev.organicthemes.com
+- type: x-developer
+  url: https://dev.organicthemes.com/
+- type: x-developer
+  url: https://dev.organicthemes.com/themes/
+- type: x-developer
+  url: https://dev.organicthemes.com/builder/
+- type: x-developer
+  url: https://dev.organicthemes.com/site-shield/
+- type: x-documentation
+  url: https://dev.organicthemes.com/documentation/
+- type: x-documentation
+  url: https://organicthemes.com/documentation/
+- type: x-facebook
+  url: https://www.facebook.com/OrganicThemes/
+- type: x-feed
+  url: https://dev.organicthemes.com/feed/
+- type: x-feed
+  url: https://organicthemes.com/feed/
+- type: x-forum
+  url: https://organicthemes.com/forums/forum/theme-support/
+- type: x-pricing
+  url: https://organicthemes.com/pricing/
+- type: x-pricing
+  url: https://dev.organicthemes.com/pricing/
+- type: x-privacy
+  url: https://dev.organicthemes.com/privacy-policy/
+- type: x-privacy
+  url: https://organicthemes.com/privacy-policy/
+- type: x-showcase
+  url: https://dev.organicthemes.com/showcase/
+- type: x-showcase
+  url: https://organicthemes.com/showcase/
+- type: x-support
+  url: https://dev.organicthemes.com/support/
+- type: x-support
+  url: https://dev.organicthemes.com/priority-support/
+- type: x-support
+  url: https://organicthemes.com/priority-support/
+- type: x-support
+  url: https://organicthemes.com/support/
+- type: x-terms-of-service
+  url: https://dev.organicthemes.com/terms-and-conditions/
+- type: x-terms-of-service
+  url: https://organicthemes.com/terms-and-conditions/
+- type: x-tutorials
+  url: https://dev.organicthemes.com/tutorials/
+- type: x-tutorials
+  url: https://organicthemes.com/tutorials/
+- type: x-twitter
+  url: https://twitter.com/organicthemes/
+- type: x-website
+  url: https://organicthemes.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

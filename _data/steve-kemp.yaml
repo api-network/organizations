@@ -1,0 +1,38 @@
+---
+name: Steve Kemp
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/steve-kemp.yaml
+tags:
+- People
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.steve.fi
+- type: x-blog
+  url: https://blog.steve.fi/
+- type: x-blog
+  url: https://blog.steve.fi/a_slack_hack.html
+- type: x-github
+  url: https://github.com/skx/github2mr/
+- type: x-github
+  url: https://github.com/
+- type: x-github
+  url: https://github.com/skx/ephemeris
+- type: x-github
+  url: https://github.com/skx/chronicle2/
+- type: x-github
+  url: https://github.com/skx/evalfilter
+- type: x-website
+  url: https://www.steve.org.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,85 @@
+---
+name: Aprimo Marketing
+description: Aprimo's leading Digital Asset Management Software & MRM System allow
+  you to optimize your marketing processes, brand assets, and digital content resources.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "166298"
+url: https://raw.githubusercontent.com/api-network/organizations/main/aprimo-marketing.yaml
+tags:
+- Market Analysis
+apis: []
+x-common:
+- type: x-website
+  url: http://Aprimo.com
+- type: x-about
+  url: https://www.aprimo.com/about/
+- type: x-blog
+  url: https://www.aprimo.com/blog
+- type: x-blog
+  url: https://www.aprimo.com/blog/
+- type: x-careers
+  url: https://www.aprimo.com/careers/
+- type: x-contact
+  url: https://www.aprimo.com/contact-us/
+- type: x-customers
+  url: https://aprimo.service-now.com/aprimocustomersupport
+- type: x-developer
+  url: https://developers.aprimo.com/
+- type: x-developer
+  url: https://developers.aprimo.com/faqs/
+- type: x-developer
+  url: https://developers.aprimo.com/marketing-operations/
+- type: x-developer
+  url: https://developers.aprimo.com/distributed-marketing/
+- type: x-events
+  url: https://www.aprimo.com/events/
+- type: x-events
+  url: https://events.aprimo.com/sync-2020
+- type: x-facebook
+  url: https://www.facebook.com/AprimoMarketing/
+- type: x-instagram
+  url: https://www.instagram.com/aprimomktg/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/aprimomarketing/
+- type: x-news
+  url: https://resources.aprimo.com/aprimo-in-the-news
+- type: x-news
+  url: https://www.aprimo.com/newsroom/
+- type: x-platform
+  url: https://www.aprimo.com/platform/
+- type: x-platform
+  url: https://www.aprimo.com/platform/plan-spend/
+- type: x-platform
+  url: https://www.aprimo.com/platform/campaign/
+- type: x-platform
+  url: https://www.aprimo.com/platform/distributed-marketing/
+- type: x-platform
+  url: https://www.aprimo.com/platform/technology/
+- type: x-platform
+  url: https://www.aprimo.com/platform/connect/
+- type: x-platform
+  url: https://www.aprimo.com/platform/insights/
+- type: x-pricing
+  url: https://www.aprimo.com/request-pricing/
+- type: x-privacy
+  url: https://www.aprimo.com/aprimo-privacy-notice/
+- type: x-twitter
+  url: https://twitter.com/Aprimo
+- type: x-webinars
+  url: https://resources.aprimo.com/webinars
+- type: x-webinars
+  url: https://www.aprimo.com/breakthrough-webinar-series/
+- type: x-website
+  url: https://www.aprimo.com
+- type: x-youtube
+  url: https://www.youtube.com/c/aprimomktg/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

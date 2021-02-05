@@ -1,0 +1,36 @@
+---
+name: MagicProgrammers
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/magicprogrammers.yaml
+tags:
+- Unipaas
+- Magic Xpa
+- Magic Unipaas
+- Magic Software Enterprises
+- Magic Software
+- Magic Programmers
+- Magic Programmer
+- Magic Edeveloper
+- Magic
+- Ibolt
+- Edeveloper
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.magicprogrammers.com/contact.html
+- type: x-privacy
+  url: https://www.magicprogrammers.com/privacy-policy.html
+- type: x-website
+  url: https://www.magicprogrammers.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

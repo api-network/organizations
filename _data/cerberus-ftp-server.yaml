@@ -1,0 +1,58 @@
+---
+name: Cerberus FTP Server
+description: Cerberus FTP Server is a secure Windows file server with FTP, FTPS, SFTP,
+  HTTPS, FIPS 140-2 encryption, and Active Directory and LDAP authentication.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "213579"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cerberus-ftp-server.yaml
+tags:
+- Windows
+- Internet
+apis: []
+x-common:
+- type: x-careers
+  url: https://www.cerberusftp.com/careers/
+- type: x-contact
+  url: https://www.cerberusftp.com/contact/
+- type: x-contact
+  url: https://www.cerberusftp.com/contact/request-a-quote/
+- type: x-contact
+  url: https://www.cerberusftp.com/contact/testimonial/
+- type: x-contact
+  url: https://www.cerberusftp.com/contact/about/
+- type: x-contact
+  url: https://www.cerberusftp.com/contact/mailing-lists/
+- type: x-contact
+  url: https://www.cerberusftp.com/contact/resellers/
+- type: x-facebook
+  url: https://www.facebook.com/CerberusFTPServer
+- type: x-forum
+  url: https://www.cerberusftp.com/public-forums-disclaimer/
+- type: x-news
+  url: https://www.cerberusftp.com/support/ftp-news/
+- type: x-privacy
+  url: https://www.cerberusftp.com/privacypolicy/
+- type: x-support
+  url: https://www.cerberusftp.com/support/
+- type: x-support
+  url: https://www.cerberusftp.com/support/help/video-help/
+- type: x-support
+  url: https://support.cerberusftp.com/hc/en-us/
+- type: x-support
+  url: https://support.cerberusftp.com/hc/en-us/requests/new
+- type: x-support
+  url: http://bit.ly/cftpsupportcommunity
+- type: x-twitter
+  url: https://www.twitter.com/cerberusftp
+- type: x-website
+  url: https://www.cerberusftp.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

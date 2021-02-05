@@ -1,0 +1,57 @@
+---
+name: VMWare
+description: <p>At VMware, we believe that software has the power to unlock new opportunities
+  for people and our planet. We look beyond the barriers of compromise to engineer
+  new ways to make technologies work together seamlessly. Our software forms a digital
+  foundation that powers the apps, services and experiences that are transforming
+  the world.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/VMware_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "2186"
+url: https://raw.githubusercontent.com/api-network/organizations/main/vmware.yaml
+tags:
+- VMWare
+- Relative Data
+- Networks
+- Have Swagger
+- Have OpenAPI
+- Have API Paths
+- Have API
+- Compute
+apis: []
+x-common:
+- type: x-blog
+  url: https://blogs.vmware.com/
+- type: x-blog-rss
+  url: http://blogs.vmware.com/all-vmware-blogs/wprss
+- type: x-github
+  url: https://github.com/VMware
+- type: x-twitter
+  url: https://twitter.com/VMware
+- type: x-website
+  url: http://vmware.com
+- type: x-curated-source
+  url: https://blogs.vmware.com/vcloud/2015/12/vmware-vcloud-air-network-compliance-spotlight-hipaa.html
+- type: x-website
+  url: https://www.vmware.com
+- type: x-branding
+  url: https://www.vmware.com/brand/our-brand.html
+- type: x-careers
+  url: https://careers.vmware.com
+- type: x-facebook
+  url: https://www.facebook.com/vmware
+- type: x-linkedin
+  url: https://www.linkedin.com/company/vmware
+- type: x-login
+  url: https://my.vmware.com/web/vmware/login
+- type: x-youtube
+  url: https://www.youtube.com/user/vmwaretv
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

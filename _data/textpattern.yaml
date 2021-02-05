@@ -1,0 +1,88 @@
+---
+name: Textpattern
+description: Textpattern CMS is a free, PHP open source CMS (content management system)
+  with a browser-based interface in over 50 languages.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "347489"
+url: https://raw.githubusercontent.com/api-network/organizations/main/textpattern.yaml
+tags:
+- Wordpress Alternatives
+- Web Site Development
+- Web Site Design
+- Web Development
+- Web Design
+- PHP
+- Open Source
+- Lightweight
+- Free
+- FOSS
+- Fast
+- Content Management Systems
+- Content Management
+- CMS
+- Blogs
+- Blogging
+apis: []
+x-common:
+- type: x-website
+  url: https://textpattern.com/
+- type: x-about
+  url: https://textpattern.com/about/
+- type: x-about
+  url: https://textpattern.com/about/301/languages
+- type: x-about
+  url: https://textpattern.com/about/302/patrons
+- type: x-blog
+  url: https://textpattern.com/weblog/
+- type: x-blog
+  url: https://textpattern.com/weblog
+- type: x-contact
+  url: https://textpattern.com/contact
+- type: x-documentation
+  url: https://docs.textpattern.com/
+- type: x-documentation
+  url: https://docs.textpattern.com/brand/
+- type: x-forum
+  url: https://forum.textpattern.com/
+- type: x-forum
+  url: https://forum.textpattern.com/viewtopic.php?id=50565
+- type: x-forum
+  url: https://forum.textpattern.com/viewtopic.php?id=50564
+- type: x-forum
+  url: https://forum.textpattern.com/viewtopic.php?id=50563
+- type: x-forum
+  url: https://forum.textpattern.com/viewtopic.php?id=50562
+- type: x-forum
+  url: https://forum.textpattern.com/viewtopic.php?id=50561
+- type: x-github
+  url: https://github.com/textpattern/textpattern/
+- type: x-github
+  url: https://github.com/textpattern/textpattern/stargazers
+- type: x-github
+  url: https://github.com/rwetzlmayr/wet_textfilter_markdown
+- type: x-github
+  url: https://github.com/textpattern/textpattern
+- type: x-github
+  url: https://github.com/textpattern
+- type: x-github
+  url: https://github.com/textile
+- type: x-github
+  url: https://github.com/drmonkeyninja/awesome-textpattern
+- type: x-privacy
+  url: https://textpattern.com/privacy
+- type: x-showcase
+  url: https://textpattern.com/showcase/
+- type: x-twitter
+  url: https://twitter.com/textpattern
+- type: x-website
+  url: https://textpattern.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

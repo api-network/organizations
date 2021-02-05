@@ -1,0 +1,46 @@
+---
+name: Facecrooks
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1301409"
+url: https://raw.githubusercontent.com/api-network/organizations/main/facecrooks.yaml
+tags:
+- Facebook
+apis: []
+x-common:
+- type: x-website
+  url: http://facecrooks.com
+- type: x-about
+  url: https://facecrooks.com/about.html
+- type: x-blog
+  url: https://facecrooks.com/tag/facebook-blog
+- type: x-blog
+  url: https://facecrooks.com/tag/social-media-blog
+- type: x-contact
+  url: https://facecrooks.com/contact.html
+- type: x-facebook
+  url: http://facebook.com/facecrooks
+- type: x-feed
+  url: http://feeds.feedburner.com/Facecrooks
+- type: x-news
+  url: https://facecrooks.com/tag/facebook-news
+- type: x-privacy
+  url: https://facecrooks.com/tag/facebook-privacy
+- type: x-privacy
+  url: https://facecrooks.com/tag/privacy-2
+- type: x-terms-of-service
+  url: https://facecrooks.com/legal/privacy-policy.html/
+- type: x-twitter
+  url: http://www.twitter.com/facecrooks
+- type: x-website
+  url: https://facecrooks.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,80 @@
+---
+name: Podio
+description: "Streamline and sync your team\u2019s projects and workflow with Podio.
+  Experience why PC Mag named Podio Best Online Collaboration Software in 2016. Start
+  for free!"
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4766"
+url: https://raw.githubusercontent.com/api-network/organizations/main/podio.yaml
+tags:
+- Hosted
+apis: []
+x-common:
+- type: x-about
+  url: https://company.podio.com/about
+- type: x-blog
+  url: https://www.sharefile.com/blog/category/podio
+- type: x-careers
+  url: https://company.podio.com/jobs
+- type: x-careers
+  url: https://jobs.citrix.com
+- type: x-case-studies
+  url: https://podio.com/site/use-cases/social-intranet
+- type: x-case-studies
+  url: https://podio.com/site/use-cases/crm
+- type: x-case-studies
+  url: https://podio.com/site/use-cases/project-management
+- type: x-contact
+  url: https://company.podio.com/contact
+- type: x-customers
+  url: https://company.podio.com/customers
+- type: x-developer
+  url: https://developers.podio.com/
+- type: x-developer
+  url: https://developers.podio.com/doc
+- type: x-developer
+  url: https://developers.podio.com/examples
+- type: x-developer
+  url: https://developers.podio.com/clients
+- type: x-developer
+  url: https://developers.podio.com
+- type: x-github
+  url: https://github.com/podio-community/podio-php
+- type: x-github
+  url: http://podio.github.io/podio-android/
+- type: x-github
+  url: http://podio.github.io/podio-objc/
+- type: x-login
+  url: https://podio.com/login?force_locale=en_US
+- type: x-news
+  url: https://company.podio.com/inthenews
+- type: x-partner
+  url: https://company.podio.com/partners
+- type: x-press
+  url: https://company.podio.com/impressum
+- type: x-pricing
+  url: https://company.podio.com/pricing
+- type: x-security
+  url: https://company.podio.com/security
+- type: x-signup
+  url: https://podio.com/signup?force_locale=en_US
+- type: x-status
+  url: http://status.podio.com
+- type: x-support
+  url: https://help.podio.com/
+- type: x-terms-of-service
+  url: https://company.podio.com/terms
+- type: x-twitter
+  url: https://twitter.com/podio
+- type: x-website
+  url: https://www.podio.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

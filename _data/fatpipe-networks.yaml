@@ -1,0 +1,80 @@
+---
+name: FatPipe Networks
+description: FatPipe's SD-WAN (Software-Defined WAN) products provide solutions for
+  an easy migration to Hybrid WAN. FatPipe SD-WAN to improve application performance
+  and reliability, WAN Optimiztion, WAN Load Balnacing, Hybrid Network, Dual WAN Load
+  Balancing
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1218982"
+url: https://raw.githubusercontent.com/api-network/organizations/main/fatpipe-networks.yaml
+tags:
+- Wan Security
+- Wan Redundancy
+- Wan Path Selection
+- Wan Optimization Appliances
+- Wan Optimization
+- Wan Load Balancing
+- Wan Acceleration
+- VPNs
+- VPN Security
+- Software-defined Wan
+- Software Defined Wan
+- Software Defined Networking
+- SD-WAN
+- Multiple Lines
+- Multiple ISPs
+- Load Balancing
+- Load Balancer
+- Hybrid Network
+- Fast Internet Access
+- Dynamic Load Balancing
+- Dynamic Failover
+- Dual Wan Load Balancing
+- Data Compression
+- Application Acceleration
+apis: []
+x-common:
+- type: x-website
+  url: http://www.fatpipeinc.com
+- type: x-blog
+  url: https://blog.fatpipeinc.com/
+- type: x-careers
+  url: https://www.fatpipeinc.com/company/careers.php
+- type: x-case-studies
+  url: https://www.fatpipeinc.com/case-studies/index.php
+- type: x-contact
+  url: https://www.fatpipeinc.com/company/contact-us.php
+- type: x-facebook
+  url: https://www.facebook.com/fatpipenetworks
+- type: x-linkedin
+  url: https://www.linkedin.com/company/fatpipe-networks
+- type: x-partner
+  url: https://www.fatpipeinc.com/partners/index.php
+- type: x-press
+  url: https://www.fatpipeinc.com/company/press-articles.php
+- type: x-press
+  url: https://www.fatpipeinc.com/company/press-releases.php
+- type: x-privacy
+  url: https://www.fatpipeinc.com/privacy.php
+- type: x-security
+  url: https://www.fatpipeinc.com/technology/vpn-security.php
+- type: x-security
+  url: https://www.fatpipeinc.com/technology/wan-security.php
+- type: x-terms-of-service
+  url: https://www.fatpipeinc.com/terms.php
+- type: x-twitter
+  url: https://www.twitter.com/fatpipe_inc
+- type: x-website
+  url: https://www.fatpipeinc.com
+- type: x-white-papers
+  url: https://www.fatpipeinc.com/whitepapers/index.php
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

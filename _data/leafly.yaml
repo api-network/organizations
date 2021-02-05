@@ -1,0 +1,88 @@
+---
+name: Leafly
+description: <p>Leafly is the world&rsquo;s largest cannabis information resource,                  empowering
+  people in legal cannabis markets to                  learn about the right products
+  for their lifestyle and wellness needs,                  find those products safely
+  and efficiently, and buy them from licensed                  and regulated dispensaries.
+  Leafly was founded in 2010 as a destination to learn                 about the thousands
+  of cannabis strains available to medical marijuana                 patients. Since
+  then, the award-winning company has developed into an                 all-encompassing
+  destination for medical marijuana patients, adult                 recreational consumers,
+  advanced cannabis enthusiasts, and curious                 newcomers to cannabis,
+  educating all types of consumers on which                 products are right for
+  them and connecting them to the dispensaries                 that carry exactly
+  what they&rsquo;re looking for.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/833-leafly.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7226"
+url: https://raw.githubusercontent.com/api-network/organizations/main/leafly.yaml
+tags:
+- Medical Marijuana
+- Marijuana
+- Have API
+- Drugs
+- Cannabis
+- API Provider
+apis: []
+x-common:
+- type: x-about
+  url: https://www.leafly.com/info/about
+- type: x-blog-rss
+  url: http://blog.leaf.ly/rss
+- type: x-careers
+  url: https://www.leafly.com/info/jobs
+- type: x-contact
+  url: https://www.leafly.com/info/contact
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/leaf-ly
+- type: x-email
+  url: support@Leafly.com
+- type: x-email
+  url: legal@leafly.com
+- type: x-email
+  url: legalip@leafly.com
+- type: x-facebook
+  url: http://www.facebook.com/leaflydotcom
+- type: x-instagram
+  url: https://www.instagram.com/leafly
+- type: x-login
+  url: https://sso.leafly.com/sign-in
+- type: x-news
+  url: https://www.leafly.com/news/cannabis-101
+- type: x-news
+  url: https://www.leafly.com/news
+- type: x-news
+  url: https://www.leafly.com/news/
+- type: x-news
+  url: https://www.leafly.com/news/medicalcannabis
+- type: x-news
+  url: https://leafly.com/news/medicalcannabis
+- type: x-privacy
+  url: https://www.leafly.com/info/privacy-policy
+- type: x-support
+  url: https://help.leafly.com/
+- type: x-support
+  url: https://help.leafly.com
+- type: x-terms-of-service
+  url: https://www.leafly.com/info/terms-of-use
+- type: x-terms-of-service
+  url: https://www.leafly.com/info/commercial-terms-of-use
+- type: x-twitter
+  url: http://twitter.com/leafly
+- type: x-twitter
+  url: https://twitter.com/#!/leaf_ly
+- type: x-twitter
+  url: https://twitter.com/Leafly
+- type: x-website
+  url: http://www.leafly.com
+- type: x-website
+  url: http://www.leafly.com/api/documentation
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

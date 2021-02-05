@@ -1,0 +1,22 @@
+---
+name: csv2xml
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "431"
+url: https://raw.githubusercontent.com/api-network/organizations/main/csv2xml.yaml
+tags:
+- Tools
+apis: []
+x-common:
+- type: x-website
+  url: https://csv2xml.sourceforge.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

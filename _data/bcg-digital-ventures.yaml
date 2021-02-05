@@ -1,0 +1,60 @@
+---
+name: BCG Digital Ventures
+description: BCG Digital Ventures is a corporate investment and incubation firm. We
+  invent, build and invest in startups with the world's most influential companies.
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29402-bcgdv-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "225523"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bcg-digital-ventures.yaml
+tags:
+- No API
+- Investment
+apis: []
+x-common:
+- type: x-website
+  url: https://bcgdv.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/bcg-digital-ventures
+- type: x-email
+  url: DVInfoMB@bcgdv.com
+- type: x-email
+  url: DVInfoBER@bcgdv.com
+- type: x-email
+  url: DVInfoSYD@bcgdv.com
+- type: x-email
+  url: DVInfoNYC@bcgdv.com
+- type: x-email
+  url: DVInfoLON@bcgdv.com
+- type: x-email
+  url: DVInfoSHI@bcgdv.com
+- type: x-email
+  url: DVInfoTOK@bcgdv.com
+- type: x-email
+  url: DVInfoSEA@bcgdv.com
+- type: x-email
+  url: DVInfoSV@bcgdv.com
+- type: x-email
+  url: DVInfoMEX@bcgdv.com
+- type: x-facebook
+  url: https://www.facebook.com/BCGDV/
+- type: x-instagram
+  url: https://www.instagram.com/bcgdv/
+- type: x-linkedin
+  url: https://www.linkedin.com/company/3590362/
+- type: x-privacy
+  url: https://www.bcg.com/about/privacy-policy.aspx
+- type: x-terms-of-service
+  url: https://www.bcg.com/about/terms-of-use.aspx
+- type: x-twitter
+  url: https://twitter.com/BCGDV
+- type: x-website
+  url: http://bcgdv.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

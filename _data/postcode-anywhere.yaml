@@ -1,0 +1,53 @@
+---
+name: Postcode Anywhere
+description: <p>Postcode Anywhere is a UK-based company best known for its market-leading
+  &lsquo;what&rsquo;s your postcode&rsquo; technology, used to quickly complete your
+  address when buying online. &nbsp;It was established by Guy Mucklow and Jamie Turner
+  in 2001. By seeing the internet value as a much more efficient information delivery
+  medium than traditional methods - which typically involved burning data onto CDs
+  and shipping out to the customer - Postcode Anywhere has turned the market upside
+  down.</p>
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/370_logo.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3230771"
+url: https://raw.githubusercontent.com/api-network/organizations/main/postcode-anywhere.yaml
+tags:
+- Shopping
+- Routes
+- Routes
+- Postal
+- Local
+- International
+- Have API
+- Geo
+- Geo
+- Financial
+- Display
+- Demographics
+- Customer Engagement
+- Credit
+- API United Kingdom
+- Addresses
+apis: []
+x-common:
+- type: x-website
+  url: http://www.postcodeanywhere.com
+- type: x-blog
+  url: http://blog.postcodeanywhere.co.uk/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/postcode-anywhere
+- type: x-developers
+  url: http://www.postcodeanywhere.co.uk/support/webservices/
+- type: x-twitter
+  url: https://twitter.com/pca_plus
+- type: x-website
+  url: http://www.postcodeanywhere.co.uk/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

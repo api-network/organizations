@@ -1,0 +1,30 @@
+---
+name: CDT Ltd.
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1322867"
+url: https://raw.githubusercontent.com/api-network/organizations/main/cdt-ltd-.yaml
+tags:
+- Manufacturers
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.cdtltd.co.uk/contacts/
+- type: x-partner
+  url: https://www.cdtltd.co.uk/partnering-with-us/
+- type: x-privacy
+  url: https://www.cdtltd.co.uk/privacy-policies/
+- type: x-terms-of-service
+  url: https://www.cdtltd.co.uk/terms/
+- type: x-website
+  url: https://www.cdtltd.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

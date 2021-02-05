@@ -1,0 +1,86 @@
+---
+name: ControlDraw
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/controldraw.yaml
+tags:
+- Validation
+- Unit Procedure
+- Unit
+- Transition
+- State Based Control
+- State
+- SP88
+- SCADA Graphics
+- SCADA
+- Sama
+- S95
+- S88.01
+- S88 Recipe
+- S88 Modules
+- S88 Modularization
+- S88 Design Tool
+- S88 Database
+- S88 Batch Design
+- S88 Batch
+- S88
+- RSBatch
+- Recipe Unit Procedure
+- Recipe
+- Process Functional Spec
+- Process Flow Sheet
+- Process Flow Diagram
+- Process Control Functional Specification
+- Process Control
+- Process Cell
+- Process
+- Procedural Model
+- PLC
+- Physical Model
+- Phase
+- PFC
+- P&amp;ID
+- Master Recipe
+- Logic Diagram
+- ISA106
+- ISA 5.6
+- Instrument Engineering
+- IEC61499
+- IEC61131-3 Design Tool
+- IEC61131-3
+- IEC61131
+- Iec 61512
+- Hierarchical Diagrams
+- General Recipe
+- GAMP
+- Free S88
+- Equipment Module
+- Diagrams
+- DeltaV Batch
+- DCS Graphics
+- DCS
+- Control System Documentation
+- Control Software
+- Control Loop Diagram
+- Consultant
+- Consultancy
+- Batch Control
+- Batch
+- Basic Control
+- Automation
+- 21CFR11
+apis: []
+x-common:
+- type: x-website
+  url: https://www.controldraw.co.uk
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

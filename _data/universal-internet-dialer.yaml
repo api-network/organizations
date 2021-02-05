@@ -1,0 +1,56 @@
+---
+name: Universal Internet Dialer
+description: 5 great telephony applications for Windows. TAPI compliant programs work
+  with all kind of modems and telephony cards.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "7939774"
+url: https://raw.githubusercontent.com/api-network/organizations/main/universal-internet-dialer.yaml
+tags:
+- VOIP
+- Telemarketing
+- Tapi
+- Speed Dial
+- Speakerphone
+- Sound Dialing
+- Sound
+- Skype
+- Security
+- Redial
+- Pim
+- Phone Card
+- Phone Book
+- Phone
+- Monitor
+- Modem Dialer
+- Modem
+- Internet
+- Excel Dialer
+- DUN
+- DTMF
+- Dialup
+- Dialer
+- Dial
+- Dead Man
+- Calling Card
+- Caller ID
+- Call Center
+- Call
+- Autodialers
+- Auto Dial
+- Audio
+- Assisted Telephony
+- Alarm
+apis: []
+x-common:
+- type: x-website
+  url: https://www.phonedialerpro.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,69 @@
+---
+name: Huffington Post Tech
+description: Tech news and opinion
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/132-huffington-post-tech.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "10927"
+url: https://raw.githubusercontent.com/api-network/organizations/main/huffington-post-tech.yaml
+tags:
+- Tech Blog
+- Have API
+apis: []
+x-common:
+- type: x-website
+  url: http://www.huffingtonpost.com/tech/
+- type: x-website
+  url: https://www.huffpost.com
+- type: x-about
+  url: https://www.huffpost.com/entry/ten-facts-about-electric-cars-youve-been-getting-wrong_n_5dd2ca72e4b0d2e79f912b8f
+- type: x-about
+  url: https://www.huffpost.com/static/about-us
+- type: x-blog
+  url: http://www.huffingtonpost.com/tech/
+- type: x-blog-rss
+  url: http://www.huffingtonpost.com/feeds/verticals/technology/index.xml
+- type: x-contact
+  url: https://www.huffpost.com/static/contact-us
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/huffpost-tech
+- type: x-email
+  url: corrections@huffingtonpost.com
+- type: x-email
+  url: contact-media@huffingtonpost.com
+- type: x-facebook
+  url: https://www.facebook.com/HuffPost
+- type: x-instagram
+  url: https://www.instagram.com/HuffPost
+- type: x-login
+  url: https://oidc.huffpost.com/login?dest=https%3A%2F%2Fwww.huffpost.com%2Fimpact%2Ftechnology
+- type: x-open-source
+  url: https://www.oath.com/careers/job-openings?q=&jobDepartment=&jobBrand=huff+post&jobCity=
+- type: x-press
+  url: https://www.huffpost.com/topic/press-room
+- type: x-privacy
+  url: http://privacy.aol.co.uk/
+- type: x-privacy
+  url: https://policies.oath.com/us/en/oath/privacy/adinfo/index.html
+- type: x-privacy
+  url: https://policies.oath.com/us/en/oath/privacy/index.html
+- type: x-privacy
+  url: https://guce.huffpost.com/privacy-dashboard?locale=en-US
+- type: x-support
+  url: https://www.huffpost.com/entry/facebook-exec-company-helped-elect-trump-do-it-again_n_5e154bdcc5b6c7b859d28648
+- type: x-terms-of-service
+  url: https://www.huffingtonpost.co.uk/p/contributor-terms-of-use-and-agreement
+- type: x-terms-of-service
+  url: https://policies.oath.com/us/en/oath/terms/otos/index.html
+- type: x-twitter
+  url: https://twitter.com/HuffPost
+- type: x-twitter
+  url: https://www.twitter.com/HuffPost
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

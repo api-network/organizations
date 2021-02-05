@@ -1,0 +1,84 @@
+---
+name: Wunder Counter
+description: |-
+  Track Twitter and Facebook links, blog and Myspace visitors, site traffic.  Tag IPs, get instant traffic notifications via RSS and Twitter. Web stats,
+      invisible counters and IP trackers. Track and tag IP numbers, track
+      referring URLs, search engine keywords and other helpful info.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "3685508"
+url: https://raw.githubusercontent.com/api-network/organizations/main/wunder-counter.yaml
+tags:
+- Wundercounter.com
+- Wundercounter
+- Wunder Solutions
+- Wunder Counter
+- Wunder
+- Web Trackers
+- Web Tracker
+- Web Stats
+- Web Statistics
+- Web Counters
+- Web Counter
+- Web Analytics
+- URL Shortener
+- Twitter DM
+- Twitter
+- Tracker
+- Tagging
+- RSS
+- Referring Urls
+- Page Stats
+- Page Counter
+- OS Tracker
+- Olaf Alders
+- Odometer
+- Myspace Tracker
+- Myspace IP Tracker
+- Myspace Counter
+- MySpace
+- Link Tracker
+- Keywords
+- Javascript Tracker
+- IP Tracer
+- IP Tag
+- |-
+  IP
+      Number
+- Invisible Counter
+- Instant Notification
+- Hits
+- Hit Tracker
+- Hit Counter
+- |-
+  Hit
+      Counters
+- Graphical Counter
+- Facebook
+- |-
+  Download
+      Tracker
+- Counters And Trackers
+- Counter
+- Conters
+- Click-thru Tracker
+- Click Tracker
+apis: []
+x-common:
+- type: x-website
+  url: http://www.olafalders.com
+- type: x-blog
+  url: http://blog.wundercounter.com
+- type: x-twitter
+  url: http://twitter.com/olafalders
+- type: x-website
+  url: https://www.wundercounter.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

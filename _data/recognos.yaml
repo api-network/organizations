@@ -1,0 +1,40 @@
+---
+name: Recognos
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "5260538"
+url: https://raw.githubusercontent.com/api-network/organizations/main/recognos.yaml
+tags:
+- Software Development
+apis: []
+x-common:
+- type: x-careers
+  url: https://www.recognos.com/category/careers/
+- type: x-careers
+  url: http://www.recognos.com/category/careers
+- type: x-case-studies
+  url: https://www.recognos.com/case-studies/
+- type: x-case-studies
+  url: http://www.recognos.com/case-studies/media-sentry
+- type: x-case-studies
+  url: https://www.recognos.com/case-studies/media-sentry
+- type: x-contact
+  url: https://www.recognos.com/contact/
+- type: x-news
+  url: http://www.recognos.com/category/news/
+- type: x-privacy
+  url: https://www.recognos.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://www.recognos.com/general-terms-conditions/
+- type: x-website
+  url: https://www.recognos.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

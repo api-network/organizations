@@ -1,0 +1,23 @@
+---
+name: theonion.github.io
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: "1000000"
+url: https://raw.githubusercontent.com/api-network/organizations/main/theonion-github-io.yaml
+tags: []
+apis: []
+x-common:
+- type: x-curated-source
+  url: http://theonion.github.io/blog/2013/05/08/how-the-syrian-electronic-army-hacked-the-onion/
+- type: x-website
+  url: http://theonion.github.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

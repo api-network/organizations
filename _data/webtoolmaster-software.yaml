@@ -1,0 +1,41 @@
+---
+name: WebtoolMaster Software
+description: WTM Copy Protection - Protect your CD, DVD, EBook, PDF, SWF and photos
+  against illegal copy. Test it for free!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "2457112"
+url: https://raw.githubusercontent.com/api-network/organizations/main/webtoolmaster-software.yaml
+tags:
+- Wtm
+- Web
+- USB
+- Security
+- Protect
+- Programmer
+- Privacy
+- Photo
+- Phone
+- Mail
+- Illegal
+- Extractor
+- DVD
+- Developer
+- Crawler
+- Copy
+- CD
+- Anti
+- Addresses
+apis: []
+x-common:
+- type: x-website
+  url: https://www.webtoolmaster.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

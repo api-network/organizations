@@ -1,0 +1,44 @@
+---
+name: Washington State University - Pullman
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "9835"
+url: https://raw.githubusercontent.com/api-network/organizations/main/washington-state-university--pullman.yaml
+tags:
+- Washington
+apis: []
+x-common:
+- type: x-website
+  url: http://www.vcea.wsu.edu/
+- type: x-about
+  url: https://school.eecs.wsu.edu/about/directors-message/
+- type: x-contact
+  url: https://school.eecs.wsu.edu/contact/
+- type: x-events
+  url: https://events.wsu.edu/event/che-598-seminar-10/
+- type: x-facebook
+  url: https://www.facebook.com/groups/wsu.cpts.guild/events/
+- type: x-facebook
+  url: https://www.facebook.com/cougsinspace/
+- type: x-news
+  url: https://news.wsu.edu/2019/01/14/smart-home-robot/
+- type: x-news
+  url: https://school.eecs.wsu.edu/news/
+- type: x-support
+  url: https://support.vcea.wsu.edu
+- type: x-support
+  url: http://support.vcea.wsu.edu/
+- type: x-twitter
+  url: https://twitter.com/WSUVoiland
+- type: x-website
+  url: https://school.eecs.wsu.edu
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

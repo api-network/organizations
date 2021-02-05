@@ -1,0 +1,50 @@
+---
+name: BigRigTravels.com
+description: ""
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "1100835"
+url: https://raw.githubusercontent.com/api-network/organizations/main/bigrigtravels-com.yaml
+tags:
+- Outdoors
+apis: []
+x-common:
+- type: x-about
+  url: https://bigrigtravels.com/about-bigrigtravels/
+- type: x-blog
+  url: https://bigrigtravels.com/blogs/
+- type: x-feed
+  url: https://bigrigtravels.com/instagram-feed/
+- type: x-instagram
+  url: https://www.instagram.com/p/B7dzsS7pWTE/
+- type: x-instagram
+  url: https://www.instagram.com/p/B6979j1pYb3/
+- type: x-instagram
+  url: https://www.instagram.com/p/B6gz50tp5Tx/
+- type: x-instagram
+  url: https://www.instagram.com/p/B6UAV8JJSnV/
+- type: x-instagram
+  url: https://www.instagram.com/p/B6N2GEFpc-h/
+- type: x-instagram
+  url: https://www.instagram.com/p/B6N1yqnJLoK/
+- type: x-instagram
+  url: https://www.instagram.com/bigrigtravels
+- type: x-privacy
+  url: https://bigrigtravels.com/privacy-policy/
+- type: x-terms-of-service
+  url: https://bigrigtravels.com/terms-of-use/
+- type: x-website
+  url: https://www.bigrigtravels.com
+- type: x-youtube
+  url: https://www.youtube.com/user/BigRigTravels
+- type: x-youtube
+  url: https://www.youtube.com/watch?v='+NRA1.items[i].id+'
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

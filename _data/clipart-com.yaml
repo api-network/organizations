@@ -1,0 +1,37 @@
+---
+name: Clipart.com
+description: 13 million royalty-free clipart images, vectors, stock photos, illustrations
+  and fonts to download. Inspire your creativity. New clipart images added weekly!
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "49236"
+url: https://raw.githubusercontent.com/api-network/organizations/main/clipart-com.yaml
+tags:
+- Retailers
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.vitalimagery.com/
+- type: x-blog
+  url: https://blog.vitalimagery.com/
+- type: x-facebook
+  url: https://www.facebook.com/clipartcom/
+- type: x-instagram
+  url: https://instagram.com/vitalimageryltd/
+- type: x-login
+  url: https://www.clipart.com/en/sign_in/index
+- type: x-signup
+  url: https://www.clipart.com/en/signup/index?REF=TOP
+- type: x-twitter
+  url: https://twitter.com/vitalimageryltd/
+- type: x-website
+  url: https://www.clipart.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

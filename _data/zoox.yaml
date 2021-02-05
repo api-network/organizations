@@ -1,0 +1,27 @@
+---
+name: Zoox
+description: Creating autonomous mobility from the ground up!
+image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/29709-zoox-com.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "381836"
+url: https://raw.githubusercontent.com/api-network/organizations/main/zoox.yaml
+tags: []
+apis: []
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/zoox
+- type: x-email
+  url: wild@zoox.com
+- type: x-twitter
+  url: https://twitter.com/zoox
+- type: x-website
+  url: http://zoox.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

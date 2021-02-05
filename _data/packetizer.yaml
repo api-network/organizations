@@ -1,0 +1,28 @@
+---
+name: Packetizer
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "6359610"
+url: https://raw.githubusercontent.com/api-network/organizations/main/packetizer.yaml
+tags:
+- Telephony
+apis: []
+x-common:
+- type: x-contact
+  url: https://www.packetizer.com/contact.html
+- type: x-forum
+  url: https://forums.packetizer.com
+- type: x-website
+  url: https://www.packetizer.com
+- type: x-website
+  url: http://www.packetizer.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

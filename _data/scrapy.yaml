@@ -1,0 +1,47 @@
+---
+name: Scrapy
+description: The most popular open source web scraping framework in Python.
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Scrapy_logo.jpg
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "8"
+x-alexaRank: "44704"
+url: https://raw.githubusercontent.com/api-network/organizations/main/scrapy.yaml
+tags:
+- Scraping Tools
+- Scraping
+- Have API
+- Harvest
+apis: []
+x-common:
+- type: x-website
+  url: http://scrapy.org
+- type: x-code
+  url: https://codecov.io/github/scrapy/scrapy?branch=master
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/product/scrapy-cloud
+- type: x-documentation
+  url: http://docs.scrapy.org/en/latest/faq.html
+- type: x-documentation
+  url: http://docs.scrapy.org/en/latest/intro/overview.html
+- type: x-github
+  url: https://github.com/scrapy
+- type: x-github
+  url: https://github.com/scrapy/scrapy
+- type: x-github
+  url: https://github.com/scrapy/scrapyd
+- type: x-github
+  url: https://github.com/scrapy/scrapy/graphs/contributors
+- type: x-news
+  url: https://docs.scrapy.org/en/latest/news.html
+- type: x-twitter
+  url: https://twitter.com/ScrapyProject
+- type: x-website
+  url: http://scrapy.org/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

@@ -1,0 +1,41 @@
+---
+name: jsDerlivr
+description: A free, fast, and reliable Open Source CDN for npm and GitHub with the
+  largest network and best performance among all CDNs. Serving more than 40 billion
+  requests per month.
+image: ""
+created: "2021-02-04"
+modified: "2021-02-04"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "33925"
+url: https://raw.githubusercontent.com/api-network/organizations/main/jsderlivr.yaml
+tags:
+- Tools
+- Oss
+- Open Source
+- Npm
+- Jsdelivr
+- Js
+- JavaScript
+- GitHub
+- Free
+- CDN
+apis: []
+x-common:
+- type: x-website
+  url: http://www.jsdelivr.com
+- type: x-github
+  url: https://github.com/jsdelivr/jsdelivr
+- type: x-github
+  url: https://github.com/jsdelivr/data.jsdelivr.com
+- type: x-twitter
+  url: https://twitter.com/jsDelivr
+- type: x-website
+  url: https://www.jsdelivr.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---
